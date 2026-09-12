@@ -90,12 +90,12 @@ def generate():
     outputs = {}
     cards = '\n'.join(program_card(p, um[p['university_id']], cm[um[p['university_id']]['country_id']]) for p in programs)
     home = front('大学与专业查询', True)
-    home += '<div class="catalog-home">\n<p class="catalog-eyebrow">面向中国大陆学生的海外本科目录</p>\n\n# 查大学，找专业\n\n按国家进入大学，再查看具体专业；也可以直接搜索学校或专业名称。\n\n'
+    home += '<div class="catalog-home">\n<p class="catalog-eyebrow">面向中国大陆学生的海外本科目录</p>\n\n# 查大学，找专业\n\n点击国家卡片，筛选下方专业；再次点击取消选择。也可以直接搜索学校或专业名称。\n\n'
     home += '<div class="country-grid">\n'
     for c in countries:
         us = [u for u in universities if u['country_id'] == c['id']]
         ps = [p for p in programs if p['university_id'] in {u['id'] for u in us}]
-        home += f'<a class="country-card country-{c["id"]}" href="{BASE}{route(c["id"])}"><span class="country-en">{esc(c["name_en"])}</span><strong>{esc(c["name"])}</strong><span>{len(us)} 所大学 · {len(ps)} 个专业 <b aria-hidden="true">↗</b></span></a>\n'
+        home += f'<a class="country-card country-{c["id"]}" data-country-filter="{c["id"]}" href="{BASE}{route(c["id"])}"><span class="country-en">{esc(c["name_en"])}</span><strong>{esc(c["name"])}</strong><span>{len(us)} 所大学 · {len(ps)} 个专业 <b aria-hidden="true">↗</b></span></a>\n'
     home += '</div>\n\n<div id="program-finder" data-catalog-url="assets/data/catalog-index.json">\n<div class="finder-heading"><h2>直接找专业</h2><span>首批 {}</span></div>\n'.format(' · '.join([f'{len(countries)} 个国家',f'{len(universities)} 所大学',f'{len(programs)} 个专业']))
     home += '''<form class="catalog-filters" role="search" aria-label="筛选大学与专业">
 <label class="catalog-query">搜索学校或专业<input id="catalog-query" name="q" type="search" placeholder="例如：计算机、NUS、曼彻斯特" autocomplete="off"></label>

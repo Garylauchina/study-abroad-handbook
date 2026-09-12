@@ -12,12 +12,12 @@ hide:
 
 # 查大学，找专业
 
-按国家进入大学，再查看具体专业；也可以直接搜索学校或专业名称。
+点击国家卡片，筛选下方专业；再次点击取消选择。也可以直接搜索学校或专业名称。
 
 <div class="country-grid">
-<a class="country-card country-uk" href="/study-abroad-handbook/catalog/uk/"><span class="country-en">United Kingdom</span><strong>英国</strong><span>2 所大学 · 4 个专业 <b aria-hidden="true">↗</b></span></a>
-<a class="country-card country-australia" href="/study-abroad-handbook/catalog/australia/"><span class="country-en">Australia</span><strong>澳大利亚</strong><span>2 所大学 · 4 个专业 <b aria-hidden="true">↗</b></span></a>
-<a class="country-card country-singapore" href="/study-abroad-handbook/catalog/singapore/"><span class="country-en">Singapore</span><strong>新加坡</strong><span>2 所大学 · 4 个专业 <b aria-hidden="true">↗</b></span></a>
+<a class="country-card country-uk" data-country-filter="uk" href="/study-abroad-handbook/catalog/uk/"><span class="country-en">United Kingdom</span><strong>英国</strong><span>2 所大学 · 4 个专业 <b aria-hidden="true">↗</b></span></a>
+<a class="country-card country-australia" data-country-filter="australia" href="/study-abroad-handbook/catalog/australia/"><span class="country-en">Australia</span><strong>澳大利亚</strong><span>2 所大学 · 4 个专业 <b aria-hidden="true">↗</b></span></a>
+<a class="country-card country-singapore" data-country-filter="singapore" href="/study-abroad-handbook/catalog/singapore/"><span class="country-en">Singapore</span><strong>新加坡</strong><span>2 所大学 · 4 个专业 <b aria-hidden="true">↗</b></span></a>
 </div>
 
 <div id="program-finder" data-catalog-url="assets/data/catalog-index.json">

@@ -28,6 +28,8 @@ async function initialize() {
   const fields = Object.fromEntries(['q','country','university','subject'].map(key => [key, form.elements.namedItem(key)]));
   const status = document.getElementById('catalog-status');
   const cards = [...finder.querySelectorAll('[data-program-id]')];
+  const countryLinks = [...document.querySelectorAll('[data-country-filter]')];
+  const countryButtons = [];
   const options = [...fields.university.options].map(option => option.cloneNode(true));
   const syncUniversity = () => {
     const selected = fields.university.value;
@@ -38,9 +40,15 @@ async function initialize() {
     const response = await fetch(new URL(finder.dataset.catalogUrl, document.baseURI));
     if (!response.ok) throw new Error(`Catalog HTTP ${response.status}`);
     const programs = await response.json();
+    if (!Array.isArray(programs)) throw new Error('Catalog data must be a program list');
     function update(changeUrl=true) {
       const filters = Object.fromEntries(Object.entries(fields).map(([key,field])=>[key,field.value]));
       const matches = new Set(filterPrograms(programs,filters).map(p=>p.id));
+      for (const button of countryButtons) {
+        const selected = button.dataset.countryFilter === filters.country;
+        button.setAttribute('aria-pressed', String(selected));
+        button.querySelector('b').textContent = selected ? '✓ 已选' : '筛选';
+      }
       cards.forEach(card => {card.hidden = !matches.has(card.dataset.programId);});
       document.getElementById('catalog-empty').hidden = matches.size !== 0;
       status.textContent = `找到 ${matches.size} 个专业，共收录 ${programs.length} 个。入学年度与费用币种见各项目。`;
@@ -62,6 +70,24 @@ async function initialize() {
       syncUniversity();
       update();
     });
+    // Keep the server-rendered links usable until filtering is ready.
+    for (const link of countryLinks) {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = link.className;
+      button.dataset.countryFilter = link.dataset.countryFilter;
+      button.setAttribute('aria-label', `${link.querySelector('strong').textContent}专业`);
+      button.setAttribute('aria-controls', 'catalog-results');
+      button.append(...link.childNodes);
+      button.addEventListener('click', () => {
+        fields.country.value = fields.country.value === button.dataset.countryFilter ? '' : button.dataset.countryFilter;
+        fields.university.value = '';
+        syncUniversity();
+        update();
+      });
+      link.replaceWith(button);
+      countryButtons.push(button);
+    }
     window.addEventListener('popstate',restore);
     restore();
   } catch (error) {
