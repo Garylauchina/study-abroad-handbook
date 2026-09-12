@@ -23,112 +23,110 @@ hide:
 
 ## 专业与申请资料
 
-101 个专业条目 · 0 个含详细资料 · 11 个补有专业资料 · 90 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+99 个专业条目 · 0 个含详细资料 · 99 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=korea-university#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-chinese-department-of-sinographic-literatures-3619608576/">Chinese Department of Sinographic Literatures</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-architecture-c3b74fd016/">Department of Architecture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-artificial-intelligence-decb2b9aa4/">Department of Artificial Intelligence</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-artificial-intelligence-cyber-security-4a35e725b1/">Department of Artificial Intelligence Cyber Security</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-business-administration-00d8ab8703/">Department of Business Administration</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-chemical-and-biological-engineering-f777dac798/">Department of Chemical and Biological Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-chemistry-a417e24734/">Department of Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-chinese-language-and-literature-498cbca265/">Department of Chinese Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-civil-environmental-and-architectural-engineering-d0718944ed/">Department of Civil,Environmental and Architectural Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-communications-engineering-697d80ec06/">Department of Communications Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-computer-science-and-engineering-aa475fd375/">Department of Computer Science and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-cyber-defense-f2325a3f59/">Department of Cyber Defense</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-data-science-626075b0de/">Department of Data Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-earth-and-environmental-sciences-ed1e50bdbd/">Department of Earth and Environmental Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-economics-8682cfc9f6/">Department of Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-education-169c0f8b38/">Department of Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-english-language-education-0fa68b44ee/">Department of English Language Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-english-language-and-literature-d2b861183c/">Department of English Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-food-and-resource-economics-879a733868/">Department of Food and Resource Economics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-french-language-and-literature-63597d5163/">Department of French Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-geography-education-6572ca5ace/">Department of Geography Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-german-language-and-literature-0f08300c00/">Department of German Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-history-4a1799b011/">Department of History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-history-education-8e02beacb7/">Department of History Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-home-economics-education-2601150f0c/">Department of Home Economics Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-integrative-energy-engineering-0adb321c11/">Department of Integrative Energy Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-japanese-language-and-literature-69b5cc45f0/">Department of Japanese Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-korean-history-e22bcf5ce3/">Department of Korean History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-korean-language-education-e313006654/">Department of Korean Language Education</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-korean-language-and-literature-3836e7e8fa/">Department of Korean Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-linguistics-680da23b82/">Department of Linguistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-materials-science-and-engineering-002d0a1c08/">Department of Materials Science and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-mathematics-452ae8088a/">Department of Mathematics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-mathematics-education-8f0905bf64/">Department of Mathematics Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-mechanical-engineering-6fc8df0f47/">Department of Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-medical-science-925cd9f897/">Department of Medical Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-nursing-5e7629740d/">Department of Nursing</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-philosophy-cc60c23a5d/">Department of Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-physical-education-52555a370a/">Department of Physical Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-physics-b35c78117b/">Department of Physics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-political-science-and-international-relations-7623adb112/">Department of Political Science and International Relations</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-public-administration-2c6767f6c9/">Department of Public Administration</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-russian-language-and-literature-d2b6d04071/">Department of Russian Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-semiconductor-engineering-0b6a112623/">Department of Semiconductor Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-sociology-eecb3b4ca5/">Department of Sociology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-spanish-language-and-literature-d4acb447c1/">Department of Spanish Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-statistics-02db6dfa63/">Department of Statistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-advanced-convergence-pharmaceutical-sciences-731a45eb85/">Dept. of Advanced Convergence Pharmaceutical Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-advanced-materials-chemistry-3eeb9e18f0/">Dept. of Advanced Materials Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-biotechnology-bioinformatics-2e51e4641c/">Dept. of Biotechnology &amp; Bioinformatics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-computer-software-e8a399ac05/">Dept. of Computer Software</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-digital-healthcare-engineering-32209b2ce9/">Dept. of Digital Healthcare Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-electro-mechanical-systems-engineering-b06a814ab3/">Dept. of Electro-Mechanical Systems Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-electronics-and-information-engineering-9ec4cc2b48/">Dept. of Electronics and Information Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-environmental-systems-engineering-2f33140a32/">Dept. of Environmental Systems Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-food-and-biotechnology-c99724d997/">Dept. of Food and Biotechnology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-future-mobility-f6752fab6c/">Dept. of Future Mobility</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-intelligence-semiconductor-engineering-c3f790e1be/">Dept. of Intelligence Semiconductor Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-pharmacy-605ee5dc94/">Dept. of Pharmacy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-standards-and-intelligence-080c3378b2/">Dept. of Standards and Intelligence</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-applied-mathematical-sciences-f99aa6eb33/">Division of Applied Mathematical Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-big-data-science-59c4e29175/">Division of Big Data Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-biotechnology-017a1de902/">Division of Biotechnology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-convergence-business-digital-business-3b728e533b/">Division of Convergence Business (Digital Business)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-convergence-business-global-business-acf71c23db/">Division of Convergence Business (Global Business)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-cultural-heritage-convergence-890324615a/">Division of Cultural Heritage Convergence</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-culture-creativity-creative-writing-and-media-studies-91bff0aa2f/">Division of Culture Creativity (Creative Writing and Media Studies)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-culture-creativity-culture-contents-0fb29ef6ea/">Division of Culture Creativity (Culture Contents)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-economics-and-statistics-a84de781b4/">Division of Economics and Statistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-environmental-science-and-ecological-engineering-192fbfb70f/">Division of Environmental Science and Ecological Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-food-bioscience-and-technology-900aed1b8c/">Division of Food Bioscience and Technology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-entertainment-b4d319e63f/">Division of Global Entertainment</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-korean-studies-5ee967d238/">Division of Global Korean Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-studies-chinese-studies-1b4484b251/">Division of Global Studies(Chinese Studies)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-studies-english-studies-89ae2579ba/">Division of Global Studies(English Studies)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-studies-german-studies-course-shut-down-928a9887a4/">Division of Global Studies(German Studies, course shut down)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-studies-korean-studies-50ae4e3c55/">Division of Global Studies(Korean Studies)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-interdisciplinary-engineering-studies-d6dd1aee2b/">Division of Interdisciplinary Engineering Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-international-studies-97cbfec7ff/">Division of International Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-life-sciences-7228791600/">Division of Life Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-media-communication-806f2c8d3d/">Division of Media &amp; Communication</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-public-administration-26532c685a/">Division of Public Administration</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-public-sociology-and-korean-unification-diplomacy-kor-307e08ceea/">Division of Public Sociology and Korean Unification/Diplomacy (Korean Unification, Diplomacy and Security)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-public-sociology-and-korean-unification-diplomacy-pub-4826cc6a33/">Division of Public Sociology and Korean Unification/Diplomacy (Public Sociology)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-semiconductor-physics-47e9d5d789/">Division of Semiconductor Physics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-smart-cities-70fb306238/">Division of Smart Cities</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-smart-security-6b9cd73dc7/">Division of Smart Security</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-global-open-major-division-adcc77bde9/">Global Open Major Division</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-art-design-3a34d88623/">School of Art &amp; Design</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-biomedical-engineering-318829f57b/">School of Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-biosystem-and-biomedical-science-986dcc3412/">School of Biosystem and Biomedical Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-electrical-engineering-3b71dbfe21/">School of Electrical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-global-sport-studies-sports-business-5957218bb3/">School of Global Sport Studies (Sports Business)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-global-sport-studies-sports-science-d9b1b1765e/">School of Global Sport Studies (Sports Science)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-health-policy-and-management-07e605a7b2/">School of Health Policy and Management</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-health-and-environmental-science-a504e8d722/">School of Health and Environmental Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-industrial-and-management-engineering-99949a9a44/">School of Industrial and Management Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-interdisciplinary-studies-e8966f6d47/">School of Interdisciplinary Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-psychology-cb5f364523/">School of Psychology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-smart-mobility-a9efc38214/">School of Smart Mobility</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-university-college-619182bab2/">University College</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-chinese-department-of-sinographic-literatures-3619608576/">汉文学（古典汉文）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-architecture-c3b74fd016/">建筑学（五年制）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-artificial-intelligence-decb2b9aa4/">人工智能</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-artificial-intelligence-cyber-security-4a35e725b1/">人工智能与网络安全（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-business-administration-00d8ab8703/">工商管理</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-chemical-and-biological-engineering-f777dac798/">化学与生物工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-chemistry-a417e24734/">化学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-chinese-language-and-literature-498cbca265/">汉语与中国文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-civil-environmental-and-architectural-engineering-d0718944ed/">土木、环境与建筑工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-communications-engineering-697d80ec06/">通信工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-computer-science-and-engineering-aa475fd375/">计算机科学与工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-cyber-defense-f2325a3f59/">网络防御</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-data-science-626075b0de/">数据科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-earth-and-environmental-sciences-ed1e50bdbd/">地球与环境科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-economics-8682cfc9f6/">经济学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-education-169c0f8b38/">教育学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-english-language-education-0fa68b44ee/">英语教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-english-language-and-literature-d2b861183c/">英语与英国文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-food-and-resource-economics-879a733868/">食品与资源经济</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-french-language-and-literature-63597d5163/">法语与法国文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-geography-education-6572ca5ace/">地理教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-german-language-and-literature-0f08300c00/">德语与德国文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-history-4a1799b011/">历史学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-history-education-8e02beacb7/">历史教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-home-economics-education-2601150f0c/">家政教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-integrative-energy-engineering-0adb321c11/">融合能源工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-japanese-language-and-literature-69b5cc45f0/">日语与日本文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-korean-history-e22bcf5ce3/">韩国史</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-korean-language-education-e313006654/">韩国语教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-korean-language-and-literature-3836e7e8fa/">韩国语与韩国文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-linguistics-680da23b82/">语言学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-materials-science-and-engineering-002d0a1c08/">材料科学与工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-mathematics-452ae8088a/">数学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-mathematics-education-8f0905bf64/">数学教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-mechanical-engineering-6fc8df0f47/">机械工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-medical-science-925cd9f897/">医学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-nursing-5e7629740d/">护理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-philosophy-cc60c23a5d/">哲学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-physical-education-52555a370a/">体育教育</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-physics-b35c78117b/">物理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-political-science-and-international-relations-7623adb112/">政治学与国际关系</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-public-administration-2c6767f6c9/">公共行政</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-russian-language-and-literature-d2b6d04071/">俄语与俄罗斯文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-semiconductor-engineering-0b6a112623/">半导体工程（合同制）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-sociology-eecb3b4ca5/">社会学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-spanish-language-and-literature-d4acb447c1/">西班牙语与文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-department-of-statistics-02db6dfa63/">统计学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-advanced-convergence-pharmaceutical-sciences-731a45eb85/">尖端融合新药科学（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-advanced-materials-chemistry-3eeb9e18f0/">先进材料化学（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-biotechnology-bioinformatics-2e51e4641c/">生物技术与生物信息（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-computer-software-e8a399ac05/">计算机软件（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-digital-healthcare-engineering-32209b2ce9/">数字健康工程（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-electro-mechanical-systems-engineering-b06a814ab3/">电子与机械系统工程（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-electronics-and-information-engineering-9ec4cc2b48/">电子与信息工程（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-environmental-systems-engineering-2f33140a32/">环境系统工程（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-food-and-biotechnology-c99724d997/">食品生物技术（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-future-mobility-f6752fab6c/">未来移动出行（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-intelligence-semiconductor-engineering-c3f790e1be/">智能半导体工程（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-pharmacy-605ee5dc94/">药学（六年制，世宗）</a><small>药学士（약학사，六年制） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-dept-of-standards-and-intelligence-080c3378b2/">标准与知识（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-applied-mathematical-sciences-f99aa6eb33/">数据与计算科学（应用数理科学部，世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-big-data-science-59c4e29175/">大数据科学（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-biotechnology-017a1de902/">生物技术</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-convergence-business-digital-business-3b728e533b/">数字经营（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-convergence-business-global-business-acf71c23db/">全球经营（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-cultural-heritage-convergence-890324615a/">文化遗产融合（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-culture-creativity-creative-writing-and-media-studies-91bff0aa2f/">创意写作与媒体（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-culture-creativity-culture-contents-0fb29ef6ea/">文化内容（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-economics-and-statistics-a84de781b4/">经济政策（经济与统计学部，世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-environmental-science-and-ecological-engineering-192fbfb70f/">环境科学与生态工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-food-bioscience-and-technology-900aed1b8c/">食品生物科学与技术</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-entertainment-b4d319e63f/">全球娱乐</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-korean-studies-5ee967d238/">全球韩国研究（文学学士）</a><small>Bachelor of Arts in Global Korean Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-studies-chinese-studies-1b4484b251/">中国研究（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-studies-english-studies-89ae2579ba/">英美研究（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-global-studies-korean-studies-50ae4e3c55/">韩国研究（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-international-studies-97cbfec7ff/">国际学（英语课程）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-life-sciences-7228791600/">生命科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-media-communication-806f2c8d3d/">媒体与传播</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-public-administration-26532c685a/">公共行政（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-public-sociology-and-korean-unification-diplomacy-kor-307e08ceea/">韩国统一、外交与安全（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-public-sociology-and-korean-unification-diplomacy-pub-4826cc6a33/">公共社会学（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-semiconductor-physics-47e9d5d789/">半导体物理（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-smart-cities-70fb306238/">智慧城市（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-division-of-smart-security-6b9cd73dc7/">智能安全</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-global-open-major-division-adcc77bde9/">GLOBAL开放学部（首年探索入口）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-art-design-3a34d88623/">艺术与设计</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-biomedical-engineering-318829f57b/">生物医学工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-biosystem-and-biomedical-science-986dcc3412/">生物系统与生物医学科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-electrical-engineering-3b71dbfe21/">电气与电子工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-global-sport-studies-sports-business-5957218bb3/">体育产业（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-global-sport-studies-sports-science-d9b1b1765e/">体育科学（世宗）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-health-policy-and-management-07e605a7b2/">卫生政策与管理</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-health-and-environmental-science-a504e8d722/">健康与环境科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-industrial-and-management-engineering-99949a9a44/">工业与管理工程</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-interdisciplinary-studies-e8966f6d47/">自由专业学部</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-psychology-cb5f364523/">心理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-school-of-smart-mobility-a9efc38214/">智能移动出行（本硕衔接合同制）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/south-korea/korea-university/korea-university-university-college-619182bab2/">大学学院（首年探索入口）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -136,51 +134,68 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>中国申请者身份：</strong>申请人及双亲须均为非韩国籍；转换国籍者须在高中阶段前取得外国籍。2027春须于2027年2月前完成正规12年学校教育；GED、家庭／网络教育及语学院不替代正式高中资格。高考、IB、A-Level不自动构成录取保证，本轮未取得中国统一分数线。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-e443484d864582">官方依据</a></p>
+<p class="catalog-fact"><strong>仅首尔2027春季外国人本科入口：</strong>以下首尔规则适用于该届简章列出的本科招生单位；不覆盖世宗、交换生或研究生，也不能给未列在该届外国人目录的合同制／特殊项目证明资格。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a></p>
 
-<p class="catalog-fact"><strong>语言材料：</strong>可按简章提交TOPIK／被认可韩国语学院材料、TOEFL iBT／IELTS Academic，或全中等教育韩语／英语授课证明；International Studies必须有英语材料。2027起不再提供KU线上韩语水平测试作为申请替代。不得将普通语言材料要求误写为所有专业统一TOPIK5。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-e443484d864582">官方依据</a></p>
+<p class="catalog-fact"><strong>大陆普高学历与国籍：</strong>申请者及父母均须为非韩国国籍，并完成相当于韩国小学至高中12年正规教育、于2027年2月前高中毕业。三人任一持韩国双重国籍不符合；原韩国籍、收养、父母再婚等另有文件和取得国籍时间规则。GED、自学／家庭教育及非正规网络学校不能直接等同该学历条件。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a></p>
 
-<p class="catalog-fact"><strong>入学后韩语与选课：</strong>通常韩语5级可免强化课程限制；4级须一学期韩语训练且专业课每学期最多6学分，3级及以下须两学期训练、期间不修专业课。部分英语能力突出且英语课程适配者可按学院审核豁免，不能全校自动豁免。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-e443484d864582">官方依据</a></p>
+<p class="catalog-fact"><strong>中国学历材料与高考边界：</strong>需逐学期高中成绩单并说明成绩满分。中国普通高中学历及会考材料按简章提供学信网英文验证；尚未毕业者按预毕业与后补验证规则办理。高考英文验证报告列为有成绩时可选择提交，本轮未取得一条可套用所有专业的高考分数线。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a></p>
+
+<p class="catalog-fact"><strong>语言证明与2027变更：</strong>须按简章提交认可韩语或英语能力证明，或以高中10–12年级全部课程的韩语／英语授课证明申请相应认定。包括TOPIK／TOPIK iBT、指定机构正规韩语课程、TOEFL iBT或IELTS Academic等；不接收TOEFL MyBest或IELTS Indicator。2027起取消校方在线韩语测试，不能沿用旧替代方案。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a></p>
+
+<p class="catalog-fact"><strong>韩语程度影响入学后选课：</strong>首尔TOPIK5级及以上通常免集中韩语且不限专业选课；4级通常须1学期集中韩语，每学期专业课最多6学分；3级及以下通常须2学期集中韩语且该阶段不得修专业课。英语能力及院系有特定免除情形，不能据有英语成绩就保证全部专业免韩语。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a></p>
+
+<p class="catalog-fact"><strong>评审与先修边界：</strong>一般按材料综合评审学业、专业适合度、语言及校内外活动。系页所列大学微积分、编程、专业前序课和毕业GPA属于在校要求，不能直接转换成大陆高考选科或录取最低分；师范、国际学及艺术等另见专业条款。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>2027春已结束／秋季日期未完整：</strong>首尔2027春在线申请2026-08-03 10:00至08-31 17:00，原件09-07 17:00截止；当前已结束。2027秋页面仅列2027年3月申请、6月结果，具体日期TBA；不能将春季截止复制给秋季或世宗。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-3bc2a750dff830">官方依据</a></p>
+<p class="catalog-fact"><strong>2027春季已结束的申请窗口：</strong>首尔网上报名及上传为2026年8月3日10:00至8月31日17:00；原件须9月7日17:00前送达，均为韩国时间。截至本轮2026年9月13日，该窗口已结束。结果预定11月27日17:00公布，注册预定2027年1月另行通知。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a></p>
+
+<p class="catalog-fact"><strong>渠道及2027秋季缺口：</strong>通过高丽大学国际处指定申请入口办理，上传全套PDF并按要求寄原件。当前日程页将2027秋季申请预列于2027年3月，具体起止仍为TBA；不能把已结束的2027春季截止复制为秋季日期。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a> · <a href="#source-u-KU-Seoul-Calendar">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>2026学年首尔学费概算：</strong>官网按每学期列：人文社科约KRW5,800,000、自然科学约6,700,000、工程约7,700,000、艺术约7,800,000；开放专业和University College约7,700,000。是学院类别概算且可调整，未当作各专业2027精确报价。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-bba9c659132670">官方依据</a></p>
+<p class="catalog-fact"><strong>首尔2026学费参考：</strong>国际处2026学年表按每学期列近似学费：人文社会580万韩元、自然科学670万、工程770万、艺术780万；自由专业、GLOBAL开放学部及大学学院列770万。属于大类参考且可能调整，本轮未取得2027正式金额；医疗护理等具体归类不能仅凭名称推断。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-Tuition-2026">官方依据</a></p>
 
-<p class="catalog-fact"><strong>新生奖学金条件：</strong>无需单独申请、按入学评价竞争选拔：Global Leader A新生4学期全额，续领上一学期至少12学分且GPA≥3.5；B为4学期50%，至少12学分且GPA≥3.0。Anam Global可达8学期全额，仍须至少12学分及GPA≥3.5；自动进入评审不等于人人获奖。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-6b0adc3b1c6c18">官方依据</a></p>
+<p class="catalog-fact"><strong>申请费与奖学金：</strong>首尔一般报名费15万韩元，艺术与设计20万；类型I和II同时报考须分别缴费。Global Leader A新生最多4学期全额、B最多4学期半额，自动综合考虑但不保证入选；续奖均需前学期至少12学分，A的GPA至少3.5，B至少3.0。Anam Global最多8学期全额，续奖12学分及GPA3.5。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a> · <a href="#source-u-KU-Seoul-Scholarships">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>毕业生数据范围：</strong>本批以可核实的专业课程、培养规则及官方职业方向补充说明。本轮未取得可同时明确毕业届次、样本分母和国际生范围的全校本科就业数据，未用宣传文字、知名校友或大学排名代替就业率。</p>
+<p class="fact-sources"><a href="#source-u-KU-Seoul-2027">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-ASREN-e443484d864582"><div><a href="https://oia.korea.ac.kr/_attach/file/2026/08/lpZzpFXiuEfpfIZPBrYB.pdf">高丽大学首尔2027春国际新生简章 ↗</a><p>身份、语言及课程注册限制</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-3bc2a750dff830"><div><a href="https://oia.korea.ac.kr/oia2026/Admission-Guide.do">高丽大学首尔国际本科申请日程 ↗</a><p>2027春秋申请日期</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-bba9c659132670"><div><a href="https://oia.korea.ac.kr/oia2026/Tuition.do">高丽大学首尔国际本科学费 ↗</a><p>2026学年每学期学院概算</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-6b0adc3b1c6c18"><div><a href="https://oia.korea.ac.kr/oia2026/KU-Scholarships.do">高丽大学国际本科奖学金 ↗</a><p>Global Leader及Anam资助期限、学分和GPA条件</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-KU-Seoul-2027"><div><a href="https://oia.korea.ac.kr/_attach/file/2026/08/QsXEFRBiBtaNKfvtmLqe.pdf">高丽大学首尔2027春季外国人本科新生招生简章 ↗</a><p>首尔2027招生专业、资格、材料、申请日期、语言分级、作品集、开放专业和师范学院限制。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KU-Seoul-Calendar"><div><a href="https://oia.korea.ac.kr/oia2026/Admission-Guide.do">Seoul Admission Guide and application calendar ↗</a><p>2027秋季申请仅预列2027年3月且具体日期待定。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KU-Seoul-Scholarships"><div><a href="https://oia.korea.ac.kr/oia2026/KU-Scholarships.do">Seoul international undergraduate scholarships ↗</a><p>自动评审奖学金、覆盖学期、续奖学分与GPA条件；不保证获奖。</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-KU-Seoul-Tuition-2026"><div><a href="https://oia.korea.ac.kr/oia2026/Tuition.do">Seoul undergraduate tuition: academic year 2026 ↗</a><p>2026年每学期大类近似学费；不是2027报价，也不是世宗报价。</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 101 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 99 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
+<p><strong>统计范围：</strong>首尔与世宗本科、宽口径一年级招生入口及学部内主修；停招入口已排除</p>
 
-<p><strong>对账方法：</strong>[{&quot;tables&quot;: 19, &quot;rows&quot;: 70}, {&quot;source&quot;: &quot;https://sejong.korea.ac.kr/eng/10288/subview.do&quot;, &quot;records&quot;: 2}, {&quot;source&quot;: &quot;https://sejong.korea.ac.kr/eng/10289/subview.do&quot;, &quot;records&quot;: 7}, {&quot;source&quot;: &quot;https://sejong.korea.ac.kr/eng/10290/subview.do&quot;, &quot;records&quot;: 5}, {&quot;source&quot;: &quot;https://sejong.korea.ac.kr/eng/10291/subview.do&quot;, &quot;records&quot;: 5}, {&quot;source&quot;: &quot;https://sejong.korea.ac.kr/eng/10292/subview.do&quot;, &quot;records&quot;: 1}, {&quot;source&quot;: &quot;https://sejong.korea.ac.kr/eng/10287/subview.do&quot;, &quot;records&quot;: 14}]</p>
+<p><strong>对账方法：</strong>原101项与官方2027两校区本科简章逐一对账，保留99旧ID，2停招项保留更正页；91项原记录有实际课程或培养结构。</p>
 
 <p><strong>排除项：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
 **尚未解决的目录缺口：**
 
-- Both Seoul and all six Sejong undergraduate faculty/division pages read. Contract programme nationality/employment restrictions are not yet checked.
-- Sejong German Studies explicitly marked course shut down; retained as discontinued, not current.
-- Advanced Convergence Pharmaceutical Sciences has no programme link and its undergraduate level is unresolved; not counted as a confirmed bachelor route.
-- One empty right-hand table cell in International Studies was excluded; three explicitly named divisions remain.
+- 99项不等于99个独立高中申请学位；学部内主修与开放首年入口已区分，全部内部方向及正式授位名称仍未闭合。
+- 首尔2027外国人本科表未列半导体工程、通信工程、网络防御、智能移动4项；其普通大陆新生入口未核实，不继承普通国际规则。
+- 部分专业培养表未取得；2027收费未逐项公布或核实，首尔2026大类近似收费不能套给世宗。
+- 毕业生多为官方职业方向；缺少同届样本、调查年与国际生范围的就业及薪资统计。
 
 - [官方目录来源](https://sejong.korea.ac.kr/eng/10292/subview.do)
 - [官方目录来源](https://www.korea.ac.kr/en/1037/subview.do)
@@ -189,5 +204,109 @@ hide:
 - [官方目录来源](https://sejong.korea.ac.kr/eng/10289/subview.do)
 - [官方目录来源](https://sejong.korea.ac.kr/eng/10291/subview.do)
 - [官方目录来源](https://sejong.korea.ac.kr/eng/10288/subview.do)
+- [官方目录来源](https://oia.korea.ac.kr/_attach/file/2026/08/QsXEFRBiBtaNKfvtmLqe.pdf)
+- [官方目录来源](https://oia.korea.ac.kr/oia2026/Tuition.do)
+- [官方目录来源](https://biz.korea.ac.kr/eng/undergraduate/curriculum.html)
+- [官方目录来源](https://lib001.korea.edu/lib001_en/about/course.do)
+- [官方目录来源](https://lib001.korea.edu/lib001_en/about/greeting.do)
+- [官方目录来源](https://lib003.korea.edu/lib003_en/undergraduate/course.do)
+- [官方目录来源](https://lib003.korea.edu/lib003_en/about/career.do)
+- [官方目录来源](https://koreahistory.korea.edu/koreahistory_en/about/overview01.do)
+- [官方目录来源](https://koreahistory.korea.edu/koreahistory_en/about/career.do)
+- [官方目录来源](https://kuhistory.korea.edu/kuhistory_en/Courses/Courses1.do)
+- [官方目录来源](https://socio.korea.edu/socio_en/undergraduate/curriculum3.do)
+- [官方目录来源](https://socio.korea.edu/socio_en/about/overview01.do)
+- [官方目录来源](https://sinolit.korea.edu/clschn_en/intro/objectives.do)
+- [官方目录来源](https://english.korea.edu/english_en/about/greeting.do)
+- [官方目录来源](https://kugermanistik.korea.edu/kugermanistik_en/undergraduate/courses.do)
+- [官方目录来源](https://kuchinese.korea.edu/kuchinese_en/undergraduate/course.do)
+- [官方目录来源](https://kuruss.korea.edu/kuruss_en/about/purpose.do)
+- [官方目录来源](https://kujap.korea.edu/kujap_en/undergraduate/Courses.do)
+- [官方目录来源](https://spanish.korea.edu/spa_eng/under/courses.do)
+- [官方目录来源](https://kling.korea.edu/kling_en/curriculum/curriculum.do)
+- [官方目录来源](https://ls.korea.edu/ls_en/undergraduate/description.do)
+- [官方目录来源](https://bio.korea.edu/bio_en/curriculum/curriculum.do)
+- [官方目录来源](https://bio.korea.edu/bio_en/about/overview.do)
+- [官方目录来源](https://foodscience.korea.edu/foodscience_en/about/overview.do)
+- [官方目录来源](https://frecon.korea.edu/frecon_en/info/faculty/graduate.do)
+- [官方目录来源](https://politics.korea.edu/kupolitics_eng/under/courses.do)
+- [官方目录来源](https://econ2.korea.ac.kr/econ/intro/intro.do)
+- [官方目录来源](https://stat.korea.edu/stat_en/about/greeting.do)
+- [官方目录来源](https://kupa.korea.edu/kupaeng/info/faculty/f_schedule.do)
+- [官方目录来源](https://math.korea.edu/math_en/undergraduate/course.do)
+- [官方目录来源](https://physics.korea.edu/phys_en/under/course.do)
+- [官方目录来源](https://chem.korea.ac.kr/chemistry/academics/tracks-majors.do)
+- [官方目录来源](https://chem.korea.ac.kr/chemistry/academics/class.do)
+- [官方目录来源](https://ees.korea.edu/ees_en/undergraduate/u_courses.do)
+- [官方目录来源](https://ace.korea.ac.kr:59034/eng/eng1_2.php)
+- [官方目录来源](https://archi.korea.ac.kr/undergraduate/undergraduate.html)
+- [官方目录来源](https://me.korea.ac.kr/eng/about/major.html)
+- [官方目录来源](https://ee.korea.ac.kr/eng/academics/curriculum.html)
+- [官方目录来源](https://ie.korea.edu/ie_en/about/overview.do)
+- [官方目录来源](https://se.korea.ac.kr/eng/sub01/sub01_3.html)
+- [官方目录来源](https://ienergy.korea.ac.kr/iee/about/FacultyGuidance.do)
+- [官方目录来源](https://edu.korea.edu/edu/matriculate/curriculum.do)
+- [官方目录来源](https://phyedu.korea.ac.kr/phyedu/about/about_purpose.do)
+- [官方目录来源](https://phyedu.korea.ac.kr/phyedu/about/major.do)
+- [官方目录来源](https://homedu.korea.edu/homedu_en/about/greeting.do)
+- [官方目录来源](https://mathedu.korea.edu/mathedu_en/affairs/Courses.do)
+- [官方目录来源](https://koredu.korea.edu/koredu_eng/Undergraduate/courses.do)
+- [官方目录来源](https://eled.korea.edu/eled_en/info/curriculum.do)
+- [官方目录来源](https://geoedu.korea.edu/geoedu_en/about/career.do)
+- [官方目录来源](https://geoedu.korea.edu/geoedu_en/undergraduate/goal_forEdu.do)
+- [官方目录来源](https://hisedu.korea.edu/hisedu_en/undergraduate/course.do)
+- [官方目录来源](https://nursingeng.korea.ac.kr/nursing_en/programs/professorUndergradate-Course.do)
+- [官方目录来源](https://cs.korea.edu/en_cs/under/computer_intro.do)
+- [官方目录来源](https://datascience.korea.edu/en_ds/under/ds_intro.do)
+- [官方目录来源](https://en-ai.korea.edu/en_ai/under/ai_intro.do)
+- [官方目录来源](https://and.korea.edu/kuand_en/about/overview.do)
+- [官方目录来源](https://int.korea.edu/kuis/under/intro.do)
+- [官方目录来源](https://int.korea.edu/kuis/under/intro_dgks.do)
+- [官方目录来源](https://int.korea.edu/kuis/under/intro_gomd.do)
+- [官方目录来源](https://mediacom.korea.ac.kr/undergraduate/subject.html)
+- [官方目录来源](https://mediacom.korea.ac.kr/undergraduate/entertainment.html)
+- [官方目录来源](https://bmeng.korea.ac.kr/undergraduate/course.html)
+- [官方目录来源](https://bsm.korea.ac.kr/undergraduate/course.html)
+- [官方目录来源](https://hes.korea.ac.kr/undergraduate/course.html)
+- [官方目录来源](https://hpm.korea.ac.kr/undergraduate/course.html)
+- [官方目录来源](https://sis.korea.edu/sis_eng/about/overview.do)
+- [官方目录来源](https://psy.korea.edu/UnderGraduate/Curriculum)
+- [官方目录来源](https://mobility.korea.ac.kr/overview/overview.php)
+- [官方目录来源](https://oku.korea.ac.kr/ajaxfile/FR_SVC/FileDown.do?GBN=X01&BOARD_SEQ=8&SITE_NO=3&BBS_SEQ=1976&FILE_SEQ=22)
+- [官方目录来源](https://sejong.korea.ac.kr/pharm/3666/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/pharm/3724/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/koreanstudies/3881/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/gchina/3987/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/ell/4066/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/german/8085/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/ba/4131/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/digb/4219/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/sti/4300/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/spa/4467/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/spa/4470/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/pubs/4552/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/kuds/4636/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/economics/4708/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/bigdatascience/4785/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/sfa/4943/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/cuhc/5023/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/cwms/5116/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/eng/10292/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/imath/2553/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/secu/5373/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/dsphy/2632/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/amchem/7717/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/software/7666/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/kueie/2895/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/biotechnology/2993/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/kfbt/3081/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/emse/3227/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/env/3331/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/ids/3422/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/am/3482/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/AISEMI/3589/subview.do)
+- [官方目录来源](https://sejong.korea.ac.kr/sites/dhe/index.do)
+- [官方目录来源](https://oia.korea.ac.kr/oia2026/Admission-Guide.do)
+- [官方目录来源](https://oia.korea.ac.kr/oia2026/KU-Scholarships.do)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

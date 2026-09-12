@@ -23,79 +23,119 @@ hide:
 
 ## 专业与申请资料
 
-68 个专业条目 · 0 个含详细资料 · 1 个补有专业资料 · 67 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+108 个专业条目 · 0 个含详细资料 · 108 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=osaka#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-faculty-of-medicine-65a489eb9c/">(Faculty of) Medicine</a><small>Bachelor&#x27;s degree in Medicine | Nursing | Health Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-aesthetics-and-science-of-literary-arts-3bf68df9e2/">Aesthetics and Science of Literary Arts</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-arabic-beabd58ab5/">Arabic</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-archaeology-7e32b7fb4d/">Archaeology</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-art-history-b00b90d27e/">Art History</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-asian-history-88cfccdbdc/">Asian History</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-burmese-03064bed88/">Burmese</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-chinese-a33abb4371/">Chinese</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-chinese-literature-9b01fc986c/">Chinese Literature</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-chinese-philosophy-4b92da9f5f/">Chinese Philosophy</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-comparative-literature-1f58068e6b/">Comparative Literature</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-danish-9b5efd997a/">Danish</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-dentistry-c6208ffe22/">Dentistry</a><small>Bachelor&#x27;s degree in Dental Surgery · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-biological-sciences-7a5dcd30c4/">Department of Biological Sciences</a><small>Bachelor&#x27;s degree in Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-chemical-science-and-engineering-3a3067bdcf/">Department of Chemical Science and Engineering</a><small>Bachelor&#x27;s degree in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-chemistry-94eef108ea/">Department of Chemistry</a><small>Bachelor&#x27;s degree in Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-electronic-and-materials-physics-135c4a6a6c/">Department of Electronic and Materials Physics</a><small>Bachelor&#x27;s degree in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-information-and-computer-sciences-b7c744d42f/">Department of Information and Computer Sciences</a><small>Bachelor&#x27;s degree in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-mathematics-1d44344157/">Department of Mathematics</a><small>Bachelor&#x27;s degree in Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-physics-664dd56a72/">Department of Physics</a><small>Bachelor&#x27;s degree in Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-systems-science-97b7ec655b/">Department of Systems Science</a><small>Bachelor&#x27;s degree in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-applied-science-0623d79d3e/">Division of Applied Science</a><small>Bachelor&#x27;s degree in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-electronic-and-information-engineering-4ff89351e5/">Division of Electronic and Information Engineering</a><small>Bachelor&#x27;s degree in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-global-architecture-d87323aea4/">Division of Global Architecture</a><small>Bachelor&#x27;s degree in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-mechanical-materials-and-manufacturing-science-ff2cc9395b/">Division of Mechanical, Materials and Manufacturing Science</a><small>Bachelor&#x27;s degree in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-sustainable-energy-and-environmental-engineering-16b42df12b/">Division of Sustainable Energy and Environmental Engineering</a><small>Bachelor&#x27;s degree in Engineering · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-economics-a2ac2d62ae/">Economics</a><small>Bachelor&#x27;s degree in Economics · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-education-4070c29161/">Education</a><small>Bachelor&#x27;s degree in Human Sciences · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-english-887bd60ff1/">English</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-english-and-american-literature-and-english-linguistics-65982dc2b8/">English and American Literature and English Linguistics</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-ethics-6d0eb95d2b/">Ethics</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-european-and-american-history-6f6992a9e5/">European and American History</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-filipino-a63d06bfbd/">Filipino</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-french-d76c84213f/">French</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-french-literature-3c3651217c/">French Literature</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-german-af90ae327a/">German</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-german-literature-a0a53b3df8/">German Literature</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-hindi-b5e4f8286f/">Hindi</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-human-geography-db1437946e/">Human Geography</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-human-sciences-all-english-undergraduate-programme-f65412d0ed/">Human Sciences All-English Undergraduate Programme</a><small>Bachelor&#x27;s degree in Human Sciences · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-hungarian-885ab8b6f2/">Hungarian</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-indian-philosophy-295edcda9b/">Indian Philosophy</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-indonesian-e23b03a5fb/">Indonesian</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-italian-2e87a1f680/">Italian</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-97d6f80d3e/">Japanese</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-history-95835f9134/">Japanese History</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-linguistics-a3649df57f/">Japanese Linguistics</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-literature-and-japanese-historical-linguistics-02a30d5621/">Japanese Literature and Japanese Historical Linguistics</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-studies-2c3476d21c/">Japanese Studies</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-korean-69cea66caa/">Korean</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-kyosei-studies-f26d1d866e/">Kyosei Studies</a><small>Bachelor&#x27;s degree in Human Sciences · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-law-ea17c6a340/">Law</a><small>Bachelor&#x27;s degree in Laws · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-mongolian-7daa473592/">Mongolian</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-musicology-and-theatre-studies-9e62c02a80/">Musicology and Theatre Studies</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-persian-59d6564468/">Persian</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-pharmaceutical-sciences-f1aff54688/">Pharmaceutical Sciences</a><small>Bachelor&#x27;s degree in Pharmacy · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-philosophy-thought-and-culture-91a8aa966f/">Philosophy, Thought and Culture</a><small>Bachelor&#x27;s degree in Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-portuguese-44695f0d58/">Portuguese</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-psychological-and-behavioral-sciences-29f3aaa967/">Psychological and Behavioral Sciences</a><small>Bachelor&#x27;s degree in Human Sciences · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-russian-709068e8e3/">Russian</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-sociology-philosophy-and-anthropology-054e1b8143/">Sociology, Philosophy and Anthropology</a><small>Bachelor&#x27;s degree in Human Sciences · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-spanish-e8971a32b8/">Spanish</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-swahili-f604600cf7/">Swahili</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-swedish-4caef3f4d9/">Swedish</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-thai-0d99ed5db2/">Thai</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-turkish-e30514f6c0/">Turkish</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-urdu-2b7ffa0911/">Urdu</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-vietnamese-4490a2e8da/">Vietnamese</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-advanced-pharmaceutical-research-26cffb378d/">药学：先进研究课程</a><small>Bachelor&#x27;s degree in Pharmacy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-aesthetics-and-science-of-literary-arts-3bf68df9e2/">美学与文艺学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-applied-chemistry-74eb88db04/">应用化学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-applied-physics-6e3d024d0d/">应用物理学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-arabic-beabd58ab5/">阿拉伯语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-archaeology-7e32b7fb4d/">考古学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-architectural-engineering-0b4feb095e/">建筑工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-art-history-b00b90d27e/">艺术史</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-asian-history-88cfccdbdc/">亚洲史</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-biological-sciences-course-c1a158a9e7/">生物科学（生物科学课程）</a><small>Bachelor&#x27;s degree in Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-biophysical-engineering-76a8ba48f5/">生物工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-biotechnology-c90ac2da5b/">生物技术</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-burmese-03064bed88/">缅甸语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-chemical-engineering-61d791f54a/">化学工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-chinese-a33abb4371/">汉语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-chinese-literature-9b01fc986c/">中国文学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-chinese-philosophy-4b92da9f5f/">中国哲学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-civil-engineering-d37cf0e2bb/">社会基础工程（土木）</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-communication-engineering-2594cd549d/">通信工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-comparative-literature-1f58068e6b/">比较文学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-computer-science-119457f348/">计算机科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-danish-9b5efd997a/">丹麦语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-dentistry-c6208ffe22/">牙医学（六年制）</a><small>Bachelor&#x27;s degree in Dental Surgery · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-biological-sciences-7a5dcd30c4/">生物科学</a><small>Bachelor&#x27;s degree in Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-chemical-science-and-engineering-3a3067bdcf/">化学应用科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-chemistry-94eef108ea/">化学</a><small>Bachelor&#x27;s degree in Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-electronic-and-materials-physics-135c4a6a6c/">电子物理科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-information-and-computer-sciences-b7c744d42f/">信息科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-mathematics-1d44344157/">数学</a><small>Bachelor&#x27;s degree in Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-physics-664dd56a72/">物理学</a><small>Bachelor&#x27;s degree in Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-department-of-systems-science-97b7ec655b/">系统科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-diversity-inclusion-3344cde81e/">人间科学英语本科：多样性与包容</a><small>Bachelor&#x27;s degree in Human Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-applied-science-0623d79d3e/">应用自然科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-electronic-and-information-engineering-4ff89351e5/">电子信息工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-global-architecture-d87323aea4/">地球综合工程（船舶海洋、土木与建筑）</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-mechanical-materials-and-manufacturing-science-ff2cc9395b/">应用理工学（机械、材料与制造）</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-division-of-sustainable-energy-and-environmental-engineering-16b42df12b/">环境与能源工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-economics-a2ac2d62ae/">经济学与经营学</a><small>Bachelor&#x27;s degree in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-education-4070c29161/">教育学</a><small>Bachelor&#x27;s degree in Human Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-electrical-engineering-f42772d48b/">电气工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-electronics-4d31a8dc41/">电子科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-engineering-physics-4ea93d1405/">物理工学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-english-887bd60ff1/">英语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-english-and-american-literature-and-english-linguistics-65982dc2b8/">英美文学与英语语言学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-environmental-engineering-8d914eef9d/">环境工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-ethics-6d0eb95d2b/">伦理学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-european-and-american-history-6f6992a9e5/">欧美史</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-filipino-a63d06bfbd/">菲律宾语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-french-d76c84213f/">法语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-french-literature-3c3651217c/">法国文学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-german-af90ae327a/">德语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-german-literature-a0a53b3df8/">德国文学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-hindi-b5e4f8286f/">印地语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-human-geography-db1437946e/">人文地理</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-human-sciences-all-english-undergraduate-programme-f65412d0ed/">人间科学（英语本科）</a><small>Bachelor&#x27;s degree in Human Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-hungarian-885ab8b6f2/">匈牙利语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-indian-philosophy-295edcda9b/">印度哲学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-indonesian-e23b03a5fb/">印度尼西亚语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-information-systems-engineering-2acad55343/">信息系统工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-intelligent-systems-science-27f1eeddac/">智能系统学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-international-public-policy-9ca1d0469f/">国际公共政策</a><small>Bachelor&#x27;s degree in Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-italian-2e87a1f680/">意大利语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japan-studies-603fc1036c/">人间科学英语本科：日本研究</a><small>Bachelor&#x27;s degree in Human Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-97d6f80d3e/">日语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-history-95835f9134/">日本史</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-linguistics-a3649df57f/">日语语言学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-literature-and-japanese-historical-linguistics-02a30d5621/">日本文学与日语史</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-japanese-studies-2c3476d21c/">日本研究</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-korean-69cea66caa/">朝鲜语（韩语）</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-kyosei-studies-f26d1d866e/">共生研究</a><small>Bachelor&#x27;s degree in Human Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-laboratory-technology-eee07282a1/">检验技术科学</a><small>Bachelor&#x27;s degree in Health Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-law-ea17c6a340/">法学</a><small>Bachelor&#x27;s degree in Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-public-policy-legal-profession-721f727f76/">国际公共政策学科：法曹课程</a><small>Bachelor&#x27;s degree in Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-law-legal-profession-a9663fc5f5/">法学科：法曹课程</a><small>Bachelor&#x27;s degree in Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-life-science-course-f6404de416/">生物科学（生命理学课程）</a><small>Bachelor&#x27;s degree in Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-manufacturing-science-60c44236ef/">制造科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-materials-physics-dbd2ba6dc6/">物质物理科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-materials-science-bf55b57dbb/">材料科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-mathematical-science-19af84252e/">数理科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-mechanical-engineering-be911c2056/">机械工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-mechanical-science-9b37f5396a/">机械科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-faculty-of-medicine-65a489eb9c/">医学（六年制）</a><small>Bachelor&#x27;s degree in Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-mongolian-7daa473592/">蒙古语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-musicology-and-theatre-studies-9e62c02a80/">音乐学与戏剧学</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-naval-architecture-ocean-engineering-5dd077500f/">船舶与海洋工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-nuclear-science-energy-engineering-6e3a725dcc/">能源与量子工程</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-nursing-936546005a/">护理学</a><small>Bachelor&#x27;s degree in Nursing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-osaka-pharmd-5d44e230cc/">药学：大阪大学 Pharm.D 课程</a><small>Bachelor&#x27;s degree in Pharmacy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-persian-59d6564468/">波斯语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-pharmaceutical-research-8c33eefab2/">药学研究课程</a><small>Bachelor&#x27;s degree in Pharmacy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-pharmaceutical-sciences-f1aff54688/">药学（六年制）</a><small>Bachelor&#x27;s degree in Pharmacy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-philosophy-thought-and-culture-91a8aa966f/">哲学、思想与文化</a><small>Bachelor&#x27;s degree in Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-political-global-studies-53c63afb69/">人间科学英语本科：政治与全球研究</a><small>Bachelor&#x27;s degree in Human Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-portuguese-44695f0d58/">葡萄牙语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-psychological-and-behavioral-sciences-29f3aaa967/">心理与行为科学</a><small>Bachelor&#x27;s degree in Human Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-quantum-information-electronics-5d5097b80f/">量子信息电子</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-radiological-technology-e3dace9fc3/">放射线技术科学</a><small>Bachelor&#x27;s degree in Health Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-russian-709068e8e3/">俄语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-sociology-philosophy-and-anthropology-054e1b8143/">社会学、哲学与人类学</a><small>Bachelor&#x27;s degree in Human Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-software-science-96a1f05aea/">软件科学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-spanish-e8971a32b8/">西班牙语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-swahili-f604600cf7/">斯瓦希里语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-swedish-4caef3f4d9/">瑞典语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-synthetic-chemistry-ef69109ed7/">合成化学</a><small>Bachelor&#x27;s degree in Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-thai-0d99ed5db2/">泰语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-turkish-e30514f6c0/">土耳其语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-urdu-2b7ffa0911/">乌尔都语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/japan/osaka/osaka-vietnamese-4490a2e8da/">越南语</a><small>Bachelor&#x27;s degree in Arts in Language and Culture · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -103,42 +143,48 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>普通国际本科范围：</strong>大阪大学单设私费外国人本科选拔；须依学院核日本留学试验与校内测试。2027详细简章页面预告2026年9月下旬发布，本轮尚未取得各学院2027中国学历与EJU分科完整表，故不填统一高考门槛。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-05b043aab17410">官方依据</a></p>
+<p class="catalog-fact"><strong>2027普通私费：国籍与中国高中资格：</strong>须无日本国籍且不是日本永住者，并在2027-03-31前完成海外12年学校教育或满足简章列明的同等资格。中国普高申请者应按实际学制及毕业日期核对；IB、A-level等另有资格类别。高考不自动替代该路线的EJU与学部考试。</p>
+<p class="fact-sources"><a href="#source-u-OSAKA-9b588d99caa496">官方依据</a></p>
+
+<p class="catalog-fact"><strong>普通路线：EJU与语言证据：</strong>EJU科目、考试年份、出题语言和最低分按学部不同，见专业条款；EJU理科用英语作答也不代表本科英语授课。需TOEFL的学部只接受有效Test Date Scores，须2025-01-04或以后考试；按要求同时提交ETS送分（DI8404）及Test Taker Score Report，Home Edition可接受，ITP及MyBest不接受。</p>
+<p class="fact-sources"><a href="#source-u-OSAKA-9b588d99caa496">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>2027普通路径日期缺口：</strong>官网已发布2027选拔概要，但普通私费外国人详细申请材料和日期预告9月下旬公布；本轮未取得可据此执行的完整2027提交期，不沿用英语Human Sciences日程。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-05b043aab17410">官方依据</a></p>
+<p class="catalog-fact"><strong>2027普通私费选拔时间：</strong>申请期间为2027-01-04至01-08，现尚未开放；学部考试主要在2月，医学科提前，具体见本专业条款。2027-03-09公布最终结果。官方入口计划2026年9月下旬提供详细募集要项，本轮尚未取得最终表格、材料清单、递交方式及日内截止时间，应在正式要项发布后复核。</p>
+<p class="fact-sources"><a href="#source-u-OSAKA-9b588d99caa496">官方依据</a> · <a href="#source-u-OSAKA-f77dbdae6aed73">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>现行本科费用：</strong>本科年学费JPY535,800，分两次各267,900；入学金282,000、考试费17,000另计。页面为现行标准，非研究生法科大学院价，2027有调整以正式账单为准。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-beb65bcd304e94">官方依据</a></p>
+<p class="catalog-fact"><strong>本科现行收费与年度：</strong>官方现行2026费用页面列本科年学费535,800日元（每半学年267,900）、入学金282,000、一般本科入学考试费17,000。不是2027锁定报价，不含住宿生活等；研究生法科大学院804,000日元不能套用于法学本科。</p>
+<p class="fact-sources"><a href="#source-u-OSAKA-f7b49aa307ddc3">官方依据</a></p>
 
-<p class="catalog-fact"><strong>资助缺口：</strong>本轮未取得可对普通中国本科新生明确承诺金额及续领标准的奖学金条款；须另查对应本科路径。收费页给出的学费不应自动扣除未获批资助。</p>
-<p class="fact-sources"><a href="#source-u-ASREN-beb65bcd304e94">官方依据</a></p>
+<p class="catalog-fact"><strong>国际生学费减免入口：</strong>国际学生可按大阪大学自身制度申请入学金／学费全部或部分减免、延期或分期，须接受经济情况等审查并受预算限制。需完成适用的入学系统登记、减免系统申请及材料递交；2027新生具体窗口本轮未取得，不能把现有2026截止日当2027日期，也不预先从学费中扣除奖助。</p>
+<p class="fact-sources"><a href="#source-u-OSAKA-4c3a8d0a8bb35d">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-ASREN-05b043aab17410"><div><a href="https://www.osaka-u.ac.jp/ja/admissions/faculty/expense">大阪大学2027私费外国人特选 ↗</a><p>普通本科2027详细简章发布进度</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-beb65bcd304e94"><div><a href="https://www.osaka-u.ac.jp/en/campus/tuition/tuition.html">大阪大学本科现行学费 ↗</a><p>本科年费与入学金</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-OSAKA-9b588d99caa496"><div><a href="https://www.osaka-u.ac.jp/ja/admissions/faculty/general/files/R9_senbatsuyoukou.pdf/@@download/file">大阪大学官方课程／招生资料 ↗</a><p>2027普通私费：国籍与中国高中资格；普通路线：EJU与语言证据；2027普通私费选拔时间</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-OSAKA-f77dbdae6aed73"><div><a href="https://www.osaka-u.ac.jp/ja/admissions/faculty/expense">私費外国人留学生特別入試 － 大阪大学 ↗</a><p>2027普通私费选拔时间</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-OSAKA-f7b49aa307ddc3"><div><a href="https://www.osaka-u.ac.jp/en/campus/tuition/tuition.html">Tuition Fees / Matriculation Fee － The University of Osaka ↗</a><p>本科现行收费与年度</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-OSAKA-4c3a8d0a8bb35d"><div><a href="https://www.osaka-u.ac.jp/en/campus/tuition/remission/system">[Intended for Graduate Students and International Students] The University of Osaka Enrollment/Tuition Fee Exemption Program － The University of Osaka ↗</a><p>国际生学费减免入口</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 68 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 108 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
+<p><strong>统计范围：</strong>本科招生学科、学科内课程及明确命名的在读方向；层级分别注明</p>
 
-<p><strong>对账方法：</strong>[{&quot;school&quot;: &quot;School of Letters&quot;, &quot;source&quot;: &quot;https://www.let.osaka-u.ac.jp/en&quot;, &quot;raw_positions&quot;: 20, &quot;raw_page_available&quot;: true}, {&quot;school&quot;: &quot;School of Human Sciences&quot;, &quot;source&quot;: &quot;https://www.hus.osaka-u.ac.jp/en/&quot;, &quot;raw_positions&quot;: 9, &quot;raw_page_available&quot;: true}, {&quot;school&quot;: &quot;School of Foreign Studies&quot;, &quot;source&quot;: &quot;https://www.sfs.osaka-u.ac.jp/en/&quot;, &quot;raw_positions&quot;: 25, &quot;raw_page_available&quot;: true}, {&quot;school&quot;: &quot;School of Law&quot;, &quot;source&quot;: &quot;http://www.law.osaka-u.ac.jp/en/&quot;, &quot;raw_positions&quot;: 1, &quot;raw_page_available&quot;: true}, {&quot;school&quot;: &quot;School of Economics&quot;, &quot;source&quot;: &quot;https://www.econ.osaka-u.ac.jp/en/&quot;, &quot;raw_positions&quot;: 1, &quot;raw_page_available&quot;: false}, {&quot;school&quot;: &quot;School of Science&quot;, &quot;source&quot;: &quot;https://www.sci.osaka-u.ac.jp/en/&quot;, &quot;raw_positions&quot;: 4, &quot;raw_page_available&quot;: true}, {&quot;school&quot;: &quot;Faculty of Medicine&quot;, &quot;source&quot;: &quot;https://www.med.osaka-u.ac.jp/eng/&quot;, &quot;raw_positions&quot;: 1, &quot;raw_page_available&quot;: false}, {&quot;school&quot;: &quot;School of Dentistry&quot;, &quot;source&quot;: &quot;https://global.dent.osaka-u.ac.jp/&quot;, &quot;raw_positions&quot;: 1, &quot;raw_page_available&quot;: true}, {&quot;school&quot;: &quot;School of Pharmaceutical Sciences&quot;, &quot;source&quot;: &quot;https://www.phs.osaka-u.ac.jp/en/&quot;, &quot;raw_positions&quot;: 1, &quot;raw_page_available&quot;: true}, {&quot;school&quot;: &quot;School of Engineering&quot;, &quot;source&quot;: &quot;https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/&quot;, &quot;raw_positions&quot;: 5, &quot;raw_page_available&quot;: true}, {&quot;school&quot;: &quot;School of Engineering Science&quot;, &quot;source&quot;: &quot;https://www.es.osaka-u.ac.jp/en/&quot;, &quot;raw_positions&quot;: 8, &quot;raw_page_available&quot;: true}]</p>
+<p><strong>对账方法：</strong>68项逐项复核并保留原ID；新增4项独立专业、2项学科内课程与34项在读方向，共108条，不代表108个独立高中招生学位。</p>
 
 <p><strong>排除项：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
 **尚未解决的目录缺口：**
 
-- All 11 undergraduate schools anchored to official university directory and bachelor-award table. Medicine and Economics department pages could not be retrieved; kept explicit faculty/award groups.
-- Foreign Studies all 25 majors, Letters 20 majors, Science four departments, Engineering five divisions, Engineering Science four departments and Human Sciences four broad divisions plus English route collected.
-- Law, Medicine, Dentistry, Pharmacy and broad engineering divisions need further programme/track expansion. Research laboratories were not presented as independent bachelor degrees.
+- 人间科学具体研究领域尚未逐项判定本科分流身份；化学三个英语名称与2026正式课程表的对应仍待核。
+- 各条已补实质课程及路线，但2027完整募集材料、课程细目及逐项费用仍有未公布或未核字段。
+- 普通私费、IUPS及HUS英语本科的语言和申请年度分别处理；部分内部方向不直接向高中招生。
+- 多数专业缺少附毕业届次、样本分母与国际学生范围的就业及薪资调查。
 
 - [官方目录来源](https://www.hus.osaka-u.ac.jp/en/)
 - [官方目录来源](https://www.sfs.osaka-u.ac.jp/en/)
@@ -147,5 +193,88 @@ hide:
 - [官方目录来源](https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/)
 - [官方目录来源](https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree)
 - [官方目录来源](https://www.let.osaka-u.ac.jp/en)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/philosophy-and-history-of-philosophy)
+- [官方目录来源](https://www.sci.osaka-u.ac.jp/ja/wp-content/uploads/2020/08/R8_ri_gakuseibinran_all2.pdf)
+- [官方目录来源](https://www.osaka-u.ac.jp/ja/access/top)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum)
+- [官方目录来源](https://www.osaka-u.ac.jp/ja/admissions/faculty/general/files/R9_senbatsuyoukou.pdf/@@download/file)
+- [官方目录来源](https://www.osaka-u.ac.jp/en/campus/tuition/tuition.html)
+- [官方目录来源](https://www.osaka-u.ac.jp/en/campus/tuition/remission/system)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/ethics)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/chinese-philosophy)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/indian-philosophy)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-history)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/asian-history)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/european-and-american-history)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/archaeology)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-studies)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/human-geography)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-linguistics)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-literature-and-history-of-japanese-language)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/comparative-literature)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/chinese-literature)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/english-and-american-literature-and-english-linguistics)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/german-literature)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/french-literature)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/aesthetics-and-science-of-literary-arts)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/musicology-and-theatre-studie)
+- [官方目录来源](https://www.let.osaka-u.ac.jp/en/undergraduate/program/art-history)
+- [官方目录来源](https://www.hus.osaka-u.ac.jp/en/undergraduate/beh/)
+- [官方目录来源](https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf)
+- [官方目录来源](https://www.hus.osaka-u.ac.jp/en/undergraduate/soc/)
+- [官方目录来源](https://www.hus.osaka-u.ac.jp/en/undergraduate/edu/)
+- [官方目录来源](https://www.hus.osaka-u.ac.jp/en/undergraduate/sym/)
+- [官方目录来源](https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/06/20260626Revised_HUS-IUDP-Admission-schedule-change-notice.pdf)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/chinese/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/korean/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/mongolian/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/indonesian/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/filipino/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/thai/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/vietnamese/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/burmese/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/hindi/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/urdu/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/arabic/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/persian/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/turkish/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/swahili/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/russian/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/hungarian/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/german/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/swedish/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/danish/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/english/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/french/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/italy/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/spanish/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/portugal/)
+- [官方目录来源](https://www.sfs.osaka-u.ac.jp/major/japanese/)
+- [官方目录来源](https://www.law.osaka-u.ac.jp/undergraduate/curriculum/each.html)
+- [官方目录来源](https://www.law.osaka-u.ac.jp/undergraduate/about/after.html)
+- [官方目录来源](https://www.econ.osaka-u.ac.jp/undergraduate/u-curriculum/)
+- [官方目录来源](http://www.math.sci.osaka-u.ac.jp/eng/undergraduate.html)
+- [官方目录来源](https://www.sci.osaka-u.ac.jp/en/iups/pdf/Application-Guidelines-for-the-Special%20Entrance-Examination-for-the-IUPS_April-2027-Enrollment.pdf)
+- [官方目录来源](https://www.bio.sci.osaka-u.ac.jp/en/faculties/)
+- [官方目录来源](https://www.med.osaka-u.ac.jp/wp-content/uploads/2026/09/2026OUfacmed_catalog.pdf)
+- [官方目录来源](https://www.dent.osaka-u.ac.jp/wp-content/uploads/2025/06/SchoolofDentistry_handbook_2026-2027.pdf)
+- [官方目录来源](https://www.phs.osaka-u.ac.jp/school/)
+- [官方目录来源](https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-electronics-and-materials-physics/index.html)
+- [官方目录来源](https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-chemical-science-and-engineering/index.html)
+- [官方目录来源](https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html)
+- [官方目录来源](https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html)
+- [官方目录来源](https://sahswww.med.osaka-u.ac.jp/jpn/admissions/doc/2026pamphlet.pdf)
+- [官方目录来源](https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php)
+- [官方目录来源](https://m3s.eng.osaka-u.ac.jp/course/education.html)
+- [官方目录来源](http://school.eei.eng.osaka-u.ac.jp/course/course11)
+- [官方目录来源](http://school.eei.eng.osaka-u.ac.jp/course/course12)
+- [官方目录来源](http://school.eei.eng.osaka-u.ac.jp/course/course13)
+- [官方目录来源](http://school.eei.eng.osaka-u.ac.jp/course/course14)
+- [官方目录来源](https://see.eng.osaka-u.ac.jp/en/education/)
+- [官方目录来源](https://www-naoe.eng.osaka-u.ac.jp/education/index.html)
+- [官方目录来源](https://www-civil.eng.osaka-u.ac.jp/Apli/whats/curriculum/)
+- [官方目录来源](https://www-arch.eng.osaka-u.ac.jp/education/index1.html)
+- [官方目录来源](https://www.law.osaka-u.ac.jp/undergraduate/legal_profession.html)
+- [官方目录来源](https://www.osaka-u.ac.jp/ja/admissions/faculty/expense)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

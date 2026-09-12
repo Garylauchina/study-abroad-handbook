@@ -1,67 +1,559 @@
 {
   "university_id": "osaka",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
     "status": "partial",
-    "count": 68,
-    "scope": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
-    "method": "[{\"school\": \"School of Letters\", \"source\": \"https://www.let.osaka-u.ac.jp/en\", \"raw_positions\": 20, \"raw_page_available\": true}, {\"school\": \"School of Human Sciences\", \"source\": \"https://www.hus.osaka-u.ac.jp/en/\", \"raw_positions\": 9, \"raw_page_available\": true}, {\"school\": \"School of Foreign Studies\", \"source\": \"https://www.sfs.osaka-u.ac.jp/en/\", \"raw_positions\": 25, \"raw_page_available\": true}, {\"school\": \"School of Law\", \"source\": \"http://www.law.osaka-u.ac.jp/en/\", \"raw_positions\": 1, \"raw_page_available\": true}, {\"school\": \"School of Economics\", \"source\": \"https://www.econ.osaka-u.ac.jp/en/\", \"raw_positions\": 1, \"raw_page_available\": false}, {\"school\": \"School of Science\", \"source\": \"https://www.sci.osaka-u.ac.jp/en/\", \"raw_positions\": 4, \"raw_page_available\": true}, {\"school\": \"Faculty of Medicine\", \"source\": \"https://www.med.osaka-u.ac.jp/eng/\", \"raw_positions\": 1, \"raw_page_available\": false}, {\"school\": \"School of Dentistry\", \"source\": \"https://global.dent.osaka-u.ac.jp/\", \"raw_positions\": 1, \"raw_page_available\": true}, {\"school\": \"School of Pharmaceutical Sciences\", \"source\": \"https://www.phs.osaka-u.ac.jp/en/\", \"raw_positions\": 1, \"raw_page_available\": true}, {\"school\": \"School of Engineering\", \"source\": \"https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/\", \"raw_positions\": 5, \"raw_page_available\": true}, {\"school\": \"School of Engineering Science\", \"source\": \"https://www.es.osaka-u.ac.jp/en/\", \"raw_positions\": 8, \"raw_page_available\": true}]",
+    "count": 108,
+    "scope": "本科招生学科、学科内课程及明确命名的在读方向；层级分别注明",
+    "method": "68项逐项复核并保留原ID；新增4项独立专业、2项学科内课程与34项在读方向，共108条，不代表108个独立高中招生学位。",
     "exclusions": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
     "sources": [
       {
         "url": "https://www.hus.osaka-u.ac.jp/en/",
         "sha256": "1165297c43c76856173d337fcae26c55d859a56672b9ab5037cfa1f065445f77",
-        "bytes": 35299,
         "raw_file": "scratch/full-catalog/asia/osaka/raw/school-2.html",
-        "meta_file": "scratch/full-catalog/asia/osaka/raw/school-2.meta.json"
+        "locator": "Human Sciences:Human Sciences All-English Undergraduate Programme"
       },
       {
         "url": "https://www.sfs.osaka-u.ac.jp/en/",
         "sha256": "172f1cd1175aee950682c89eed863bfd1a7f31581e803bc7db23972ef11f0fb3",
-        "bytes": 34678,
         "raw_file": "scratch/full-catalog/asia/osaka/raw/school-3.html",
-        "meta_file": "scratch/full-catalog/asia/osaka/raw/school-3.meta.json"
+        "locator": "Foreign Studies:Japanese"
       },
       {
         "url": "https://www.sci.osaka-u.ac.jp/en/",
         "sha256": "da1a20892e6bea0ec90b410dc380589a40178b223c14ab723e321e7f9b7e9c21",
-        "bytes": 65516,
         "raw_file": "scratch/full-catalog/asia/osaka/raw/school-6.html",
-        "meta_file": "scratch/full-catalog/asia/osaka/raw/school-6.meta.json"
+        "locator": "Science:Department of Biological Sciences"
       },
       {
         "url": "https://www.es.osaka-u.ac.jp/en/",
         "sha256": "35f9da3d589137673a00afffb6023d03f3091c54cb231f00eecc01b098af18aa",
-        "bytes": 19740,
         "raw_file": "scratch/full-catalog/asia/osaka/raw/school-11.html",
-        "meta_file": "scratch/full-catalog/asia/osaka/raw/school-11.meta.json"
+        "locator": "Engineering Science:Department of Information and Computer Sciences"
       },
       {
         "url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/",
         "sha256": "77cf845d8eb6cd0f69a7699a89fd3faabafa8a9aed65819e18bed35c55d130d1",
-        "bytes": 47264,
         "raw_file": "scratch/full-catalog/asia/osaka/raw/engineering-divisions.html",
-        "meta_file": "scratch/full-catalog/asia/osaka/raw/engineering-divisions.meta.json"
+        "locator": "对应本科专业介绍及课程分节"
       },
       {
         "url": "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree",
         "sha256": "597649c743924cc0f5b46dd33edecc06babac1aca55aa9f0d9ed7a2687e3d7fa",
-        "bytes": 157922,
         "raw_file": "scratch/full-catalog/asia/osaka/raw/degrees.html",
-        "meta_file": "scratch/full-catalog/asia/osaka/raw/degrees.meta.json"
+        "locator": "学部学则第8条印刷第98页；学位表对应学部"
       },
       {
         "url": "https://www.let.osaka-u.ac.jp/en",
         "sha256": "bcf8446acd5bc8019971b29513fab08c004cf188ac6b6bda20a2cafed896ed02",
-        "bytes": 40762,
         "raw_file": "scratch/full-catalog/asia/osaka/raw/school-1.html",
-        "meta_file": "scratch/full-catalog/asia/osaka/raw/school-1.meta.json"
+        "locator": "Letters:Art History"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/philosophy-and-history-of-philosophy",
+        "sha256": "57ddb89389b8869b8cd9dd6f79211d485d8d96a580321baccd3f98b7d32f1b93",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-0df51ddf89d1a7ea4aa1.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sci.osaka-u.ac.jp/ja/wp-content/uploads/2020/08/R8_ri_gakuseibinran_all2.pdf",
+        "sha256": "1e67c4c2eeee051632d2292d2849fa49a65f0cba7e4a5c5c5e8f999be8adcb5e",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/science-handbook2026.pdf",
+        "locator": "学部学则第8条印刷第98页；学位表对应学部"
+      },
+      {
+        "url": "https://www.osaka-u.ac.jp/ja/access/top",
+        "sha256": "22c52164e04f1e5e60065a017bee7b3c3f6ce3dd27c946fc02f1e44490b73ed8",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/campuses.html",
+        "locator": "对应学部所在地"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+        "sha256": "268df78605463d9c85218b2fef7647ef2150fb117c9a8468dc3cbf0c37f5e786",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/letters-allocation.html",
+        "locator": "自分の進む専修の決定；卒業までに必要な単位"
+      },
+      {
+        "url": "https://www.osaka-u.ac.jp/ja/admissions/faculty/general/files/R9_senbatsuyoukou.pdf/@@download/file",
+        "sha256": "25c9c3b345763b3aff3eb1cb2f4a24dcdf63b37bb086a64a2738d6b5c65051bc",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/selection2027.pdf",
+        "locator": "印刷第38页／PDF第41页，出願資格；印刷第39—41页／PDF第42—44页；印刷第43—44页／PDF第46—47页；网页募集要項案内"
+      },
+      {
+        "url": "https://www.osaka-u.ac.jp/en/campus/tuition/tuition.html",
+        "sha256": "f4e07551b040aa0a4017591ebb1338bbb7c61d40401b69c252ad903bb7f7c6d2",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/tuition.html",
+        "locator": "Undergraduate student 行；AY2026付款登记说明"
+      },
+      {
+        "url": "https://www.osaka-u.ac.jp/en/campus/tuition/remission/system",
+        "sha256": "837ad4812d2efcb3a0ec8694cbc385d7448246fc515cd2ea9170570b7597a379",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/remission-system.html",
+        "locator": "Before you Apply；Overview；How to Apply"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/ethics",
+        "sha256": "4f8a4e89d4fdbb91b1e4b1b7a18101ad9266ee1c0c43420b49d2dca59f57f76d",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-364468fa5a7b79a860ea.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/chinese-philosophy",
+        "sha256": "0216714a6d7110b4b0cb3ac117ed7ebdd09f540f8bc74c19eb25c007fe456afb",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-8b9ee5b3707b6669c89c.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/indian-philosophy",
+        "sha256": "6429ba487c4251736a95385632a51cf6f954d9456ecaf977c5e2fd7a4ef4cce3",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-f1492abef0d5d4fa15c6.html",
+        "locator": "对应本科专业介绍及课程分节；对应语言／修读或学习准备分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-history",
+        "sha256": "8f2e977056b7484f303d7065b9d2e4c0abc6c864057ea504648ce95a2135e30a",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-109d14855dc2b92b1b2b.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/asian-history",
+        "sha256": "b58d10c477ded201117c05a5ede43c2c278ebc08a41c3faa33752afe69ac3f71",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-16eae09b066083f2327e.html",
+        "locator": "对应本科专业介绍及课程分节；对应语言／修读或学习准备分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/european-and-american-history",
+        "sha256": "36767e3ad37d9bdf1f14f748c2c2b54e11ff38b5d68a82a11a8b13ae87d0b639",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-61e1dc377a5d2d9b2779.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/archaeology",
+        "sha256": "716b2eba68c89fa01b1796b520cb2ad6f48b3bf2693548e4eac3ba0fd50853e4",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-7bbbf3f48e27f46fe3a0.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-studies",
+        "sha256": "38f58e48a22098bb2ec77f41929e848f6c0836910ff350d63acb411d7130157c",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-dac2ada290fa3d15b666.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/human-geography",
+        "sha256": "3196513621680a3f8a7f829b8aa929ccb601193d0782e100bc2d86d2c8a48b79",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-551f0f38bdf76ab30626.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-linguistics",
+        "sha256": "04b0cca0dee9a85e18a0173a56bbbe97364a5fb48827821d2a21c3da0cc9d1f0",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-ac9d73a763dbd603470b.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-literature-and-history-of-japanese-language",
+        "sha256": "f6c9f03808bca5dd7268ebf157a80d80eb3913b858fb5af6d635f285a357bb9b",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-e4ee8fa26c9c41e0cbee.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/comparative-literature",
+        "sha256": "6766b368173147e0c2a3e321261dbd6139334f91b5da8919a01e5836dd602896",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-aabe38f368bc87103a40.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/chinese-literature",
+        "sha256": "bb7bd9a0f040911e8eefdf4ecbfb6fe22c75c7cbefa55b08782a091d57a24f7d",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-5d167b84071d1247d66e.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/english-and-american-literature-and-english-linguistics",
+        "sha256": "6a3090d98a7f84f1ff29c6cf1b0a9d4844caaa39b8e4466e22bf1cecd1a99934",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-53c94007afcad724968f.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/german-literature",
+        "sha256": "a76f6390d57eeb3d7f0aa4430b51750b1c0fae0e9570d3e0faf5551ddf951610",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-3fbad1fae903736d0d3a.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/french-literature",
+        "sha256": "536e7e248f3daadc014ebe5bf358b7d8665261eddae86baaae7144ccb19d69e4",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-38d96e38e1102946bd88.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/aesthetics-and-science-of-literary-arts",
+        "sha256": "a5010fc809636739ff2e965057da61bdd6409557b1a40d584a3de6c4fb4c25fc",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-fca97857c8ed6b726317.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/musicology-and-theatre-studie",
+        "sha256": "724fc0f6816170d3d92975e18330efb3795647975660692d8d7b4a5a32111cf9",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-2dc8de3067387d0527fe.html",
+        "locator": "对应本科专业介绍及课程分节；对应语言／修读或学习准备分节"
+      },
+      {
+        "url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/art-history",
+        "sha256": "24b383d8c844afaca8f7e64231b3fd900d39fc638f881680288e4ea8d8b32fc6",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-b5904a56d6ba0f88afbd.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.hus.osaka-u.ac.jp/en/undergraduate/beh/",
+        "sha256": "c43a25ea83bb44c59396c77d98ebb1443af2faddfac7018a2e70b0eb1ffb939e",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-bf4e7cdbd54d898d72b7.html",
+        "locator": "对应本科专业介绍及课程分节；Undergraduate Subjects；印刷第37页招生学科表"
+      },
+      {
+        "url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf",
+        "sha256": "ec31f076fcd2a3949ce14b487dc2b97c9a1ab7ccaadd82fca239e6e878b22016",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/human-guide2027.pdf",
+        "locator": "PDF pages3–7,11,16"
+      },
+      {
+        "url": "https://www.hus.osaka-u.ac.jp/en/undergraduate/soc/",
+        "sha256": "2da4b5a9d2c65fac07b104f5dab12cc604a102ffe8cc914db585344466d5f5d9",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-7ce4ed6d4fccfc01c7a1.html",
+        "locator": "对应本科专业介绍及课程分节；Undergraduate Subjects；印刷第37页招生学科表"
+      },
+      {
+        "url": "https://www.hus.osaka-u.ac.jp/en/undergraduate/edu/",
+        "sha256": "9dea98cd1dce37f7ed253725e2897788041804490f2bdfbbb2775e93ac684a5a",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-757939f089ce87b6dc9f.html",
+        "locator": "对应本科专业介绍及课程分节；Undergraduate Subjects；印刷第37页招生学科表"
+      },
+      {
+        "url": "https://www.hus.osaka-u.ac.jp/en/undergraduate/sym/",
+        "sha256": "15560428749864a42ba7a47138a877a13d1db67e6ee5c42a30bf6bd0827ca1d1",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-c348ded9eacaf0d889ad.html",
+        "locator": "对应本科专业介绍及课程分节；Undergraduate Subjects；印刷第37页招生学科表"
+      },
+      {
+        "url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/06/20260626Revised_HUS-IUDP-Admission-schedule-change-notice.pdf",
+        "sha256": "31fdfe17575313b8832b8bcd83515d4bb5720ca5dac7fc2340f1d8082ab407ec",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/human-datechange.pdf",
+        "locator": "page1"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/chinese/",
+        "sha256": "df3412b2fc94ff493eb6cc308f795630031cd15e645c3354aa0237f7114458f5",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-f288a7a8b7e20a8c46e2.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/korean/",
+        "sha256": "a52c01c9babb5d69f2c0fcfcb762e86dc5350f92afdbc463e65f82f094899c12",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-3dc91f642a9fef2601c0.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/mongolian/",
+        "sha256": "fae6e26a53bb4ca7b9786607716a1f63c0b0fd0bdd70703150f8f4cf928fb9e8",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-9e9a94450712b7c75912.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/indonesian/",
+        "sha256": "cabbce1f6e20e1be1436897c60c1599bb640be69fc9d4747571e77d3ffcd57c7",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-c9ba31e268d381e9611f.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/filipino/",
+        "sha256": "ed662ac362b42d1978308a618eb00ca5934e05e5deacd1e1eabf27af8c42e827",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-548b1fc8f826140f3554.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/thai/",
+        "sha256": "3e7380176c7f4aa3afddca13bbdb1d7e9afc9ca49bc2ec4728efc51afc5f2923",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-288b04875fdc2807fa04.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/vietnamese/",
+        "sha256": "a75a79a2c46dd2dadc58ef25971d80218c59a6cfc8f933a103a5f7e6ef065707",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-6792806aad698f901b74.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/burmese/",
+        "sha256": "9024f90dfad2d58b352105b1d5f028b05af6c040805e9aa205e484f2d8c0f5a3",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-7152bb47c737db464f89.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/hindi/",
+        "sha256": "b50cafc12f721834aeaa0424bd2563cda69dd3ac8bd7f11c1dcf2a3cd240bf77",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-7f43ffc601178730350c.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/urdu/",
+        "sha256": "149d5e30390b94da506a7fede56d5eae1967f62ddd0128fc4379da627c6ca21d",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-f59de26e8594181e3acb.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/arabic/",
+        "sha256": "02e4a926b65397b7ba39a9bfce7935bfb930ab806d0302fd61d29420183fd0ae",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-98910963a076cf42fe81.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/persian/",
+        "sha256": "c0b18412a814f1914dbff9a6f8d2e23d9824bc481df7c603c831154972f9f01b",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-5231ebfb4e0f2a180e59.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/turkish/",
+        "sha256": "1dc916948d024b79b227544de855d52a2181dbe6bdcb0be031499713d2f55515",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-57bf7c3d732f96bff97e.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/swahili/",
+        "sha256": "75cc205f1e66a60429668fc374a96ea4360e4abb0532b3b8d3687972d8687471",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-28d714d9b475a29bb9bd.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/russian/",
+        "sha256": "42c61681eda466877a963564d5a1659694a369835811bc27251b130dcf29ed97",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-dd961165b33c64ad3ae7.html",
+        "locator": "对应本科专业介绍及课程分节；对应语言／修读或学习准备分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/hungarian/",
+        "sha256": "dee3689b6462b70f1a0e8ee9a2678c5ed57674c3a65c67ff536049ce55058e12",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-d75da172af29b9541184.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/german/",
+        "sha256": "6065e265be2d1e4a363d1ad26da2728c73282f5ccd77f512ed13ffa464221265",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-80871f940fc16a4e88db.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/swedish/",
+        "sha256": "753e19c00d930c915a5d69fd302e89ca8daf4f71c69ca33c15d6f18ba05998fd",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-2e26511ec30af6609330.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/danish/",
+        "sha256": "fcb23f8c1c03ba81e54bfcf5290710601972d60ef14f278a8a4cd18c018b299e",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-cb6a5379eabeddb93733.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/english/",
+        "sha256": "802b5f8adfbbfab628ddb7e5f8fd21a836584c3e35cbaf485e0f7493564d1706",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-9c509119a845668f62aa.html",
+        "locator": "对应本科专业介绍及课程分节；对应语言／修读或学习准备分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/french/",
+        "sha256": "b5f27854b497c37b4e9eb1a3038ccaa0816e8a34fc2f40140cefafb1d4ec3209",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-996a1efe5d5bcd7d0baf.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/italy/",
+        "sha256": "c087d271854b311a6efef1e391dcd8821844b74c592cf329daf08ce7058f5f02",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-dff10d5716e8f795b7b1.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/spanish/",
+        "sha256": "0c5155b364672854d16a0953113dc311069177a57e0341366f087242579b8995",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-33b0832ef19011339635.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/portugal/",
+        "sha256": "634487f041385dfe04d85d38e3e9f7f75e6950306a3437000c02cce8fdc9ac32",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-abf7be20b7fbab85f277.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sfs.osaka-u.ac.jp/major/japanese/",
+        "sha256": "e1339d743e8f7bd44b5d698ba249a18d627c99de9e44fa714336d420ddfd2640",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-a1b081edf29e065ad7f2.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.law.osaka-u.ac.jp/undergraduate/curriculum/each.html",
+        "sha256": "02eb74d327ad944b52cc32f9ecaadbebfd30129dcb3b6571d820cf3c336e682a",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/law-curriculum.html",
+        "locator": "对应本科课程／方向名称分节"
+      },
+      {
+        "url": "https://www.law.osaka-u.ac.jp/undergraduate/about/after.html",
+        "sha256": "20e5f10c97532f2f6bae4b5f1de99cce779a5c382a6ce8222dc323504a596980",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/law-after.html",
+        "locator": "2025年度の就職・進学；国际公共政策学科总计77及11"
+      },
+      {
+        "url": "https://www.econ.osaka-u.ac.jp/undergraduate/u-curriculum/",
+        "sha256": "26e9e4a276ce9477d6b995de33925b5f2ce27ddd0c38640ba45ccb1992cd2493",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/economics-curriculum.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "http://www.math.sci.osaka-u.ac.jp/eng/undergraduate.html",
+        "sha256": "88620383e5e9fc31486ef9f1f9e99cbc2bca17041f2fd58e2321a649dad22842",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/science-52-department-1.html",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.sci.osaka-u.ac.jp/en/iups/pdf/Application-Guidelines-for-the-Special%20Entrance-Examination-for-the-IUPS_April-2027-Enrollment.pdf",
+        "sha256": "0b155f14cd47befd6a25bb44391c3146702969de0fc30d75fd4147281b78af6b",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/iups-guide2027.pdf",
+        "locator": "印刷第1—3、19页／PDF第2—4、20页；印刷第2—3、13页／PDF第3—4、14页；印刷第8—10页／PDF第9—11页，按数学生物／物理化学两组；印刷第12—14、17—18页／PDF第13—15、18—19页；印刷第4—5、15页／PDF第5—6、16页；印刷第15、19页／PDF第16、20页；印刷第20—21页／PDF第21—22页；IUPS印刷第19页；校区地图箕面与丰中条目"
+      },
+      {
+        "url": "https://www.bio.sci.osaka-u.ac.jp/en/faculties/",
+        "sha256": "f1ae6bdf09295621e7edca1e59b6c666e0a5cba7d18520f87bccc5c2e5056980",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/science-55-department-3.html",
+        "locator": "对应本科课程／方向名称分节；生命理学课程说明"
+      },
+      {
+        "url": "https://www.med.osaka-u.ac.jp/wp-content/uploads/2026/09/2026OUfacmed_catalog.pdf",
+        "sha256": "863fa3ffff5791f5938af23a14ffeb650085e30b7ebc36a9c9d74d443c154121",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/med-catalog2026.pdf",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.dent.osaka-u.ac.jp/wp-content/uploads/2025/06/SchoolofDentistry_handbook_2026-2027.pdf",
+        "sha256": "ef665248ac5adecc18439686f31a352965b70b98a6c23e0ca51efb4da2270f2e",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/dentistry-brochure.pdf",
+        "locator": "对应本科专业介绍及课程分节"
+      },
+      {
+        "url": "https://www.phs.osaka-u.ac.jp/school/",
+        "sha256": "bf60e246bec5b784c733e438b74d2f4124824979122d68c43f44ed924069a62a",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/pharmacy-school.html",
+        "locator": "对应本科课程／方向名称分节；药学部3课程及分流说明；先進研究コース、阪大Pharm.Dコース、薬学研究コース说明；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-electronics-and-materials-physics/index.html",
+        "sha256": "47eda28475a7137fa630ba4e403259233921bd82fca510642a7253216590b3f6",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-b430fe782be2e30ba0f2.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-chemical-science-and-engineering/index.html",
+        "sha256": "c44e76a72fcff2d1cee8ad8ab356af43124e74404d3a62391d87d4014207b5f2",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-9719b42055382e63ea4c.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+        "sha256": "05fcec722f5802be3f226be0737bf1ab89375491f0dbc776c0ca59d2b4759354",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-36646d0af48599c88ae0.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+        "sha256": "fc7c9ebea1830744aba93deca72930525c4d0ced628a6c3dded217a72075a1b6",
+        "raw_file": "scratch/full-catalog/asia-rest-enrichment/osaka/raw/detail-6dc3786ed9aa8f7a58b3.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://sahswww.med.osaka-u.ac.jp/jpn/admissions/doc/2026pamphlet.pdf",
+        "sha256": "79ba174a4770c5887e06904b53fc9a7e3cb2ecd118e899365403040787582eee",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/health-pamphlet2026.pdf",
+        "locator": "对应本科课程／方向名称分节；印刷第4页／PDF第5页，左侧本科与右侧硕士图"
+      },
+      {
+        "url": "https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php",
+        "sha256": "a44866293ef88a4a63512e9c9a9ae497754670394f48c3c0fafd86577aadb2f8",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-applied-curriculum.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://m3s.eng.osaka-u.ac.jp/course/education.html",
+        "sha256": "9fe2b96dddaf4a0f4a5d91e8eb9bf08bc4e58135cc8318f87f1ee057a2ce1e3e",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-m3s-3.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "http://school.eei.eng.osaka-u.ac.jp/course/course11",
+        "sha256": "c89fd2ec1f2288fb8bde7ee9e45746129b7df3a17ba30fc8184a4342e4c1d4fe",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-electrical.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "http://school.eei.eng.osaka-u.ac.jp/course/course12",
+        "sha256": "54465085a5dab482b08d22e6f435ba8439503719c32503ec7aedd23784b3c189",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-quantum.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "http://school.eei.eng.osaka-u.ac.jp/course/course13",
+        "sha256": "3a32ef85b9654f98937a7c35d31fe9ceb38acb7d4f73c7a4a77fcd835989b002",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-communication.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "http://school.eei.eng.osaka-u.ac.jp/course/course14",
+        "sha256": "48a7bcb715ce4fcc3062f05dd3130940c30e5ca38bbd03b5b0d59d67c98b5ee7",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-info.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://see.eng.osaka-u.ac.jp/en/education/",
+        "sha256": "d3465c936ec50a15945362d5ff130139bd6b5b07fd7f01d0643dcf673c881253",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-env-6.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://www-naoe.eng.osaka-u.ac.jp/education/index.html",
+        "sha256": "e600ca75521c48eec5959ed9a6302d4444d82bdff9af59c2b723cf2787ed7952",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-naval-education.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://www-civil.eng.osaka-u.ac.jp/Apli/whats/curriculum/",
+        "sha256": "65d445a00dfe324918227044232b34336b7b2eea6bb8ae1805518a0299cd91e4",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-civil-education.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://www-arch.eng.osaka-u.ac.jp/education/index1.html",
+        "sha256": "5ee5ed627d466fa1d8721a4791c8cf8d6caec22e61ca521d8d9e5e0e35121443",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/eng-architecture-education.html",
+        "locator": "对应本科课程／方向名称分节；对应本科方向及培养说明"
+      },
+      {
+        "url": "https://www.law.osaka-u.ac.jp/undergraduate/legal_profession.html",
+        "sha256": "4c7d9d5b67dc2f0a1d8229c5e498363d0aa46b3b0482ffea5500d3a55caaff0c",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/law-professional.html",
+        "locator": "对应本科课程／方向名称分节；法曹コース概要、必修科目、Q&A 1—2、5；Q&A登録時期；课程概述与Q&A"
+      },
+      {
+        "url": "https://www.osaka-u.ac.jp/ja/admissions/faculty/expense",
+        "sha256": "ade92c9c56f53c01298ec567350a655f1d27a0a5bb1bad7401cb8f3998a99573",
+        "raw_file": "scratch/full-catalog/osaka-enrichment/raw/ordinary2027.html",
+        "locator": "印刷第43—44页／PDF第46—47页；网页募集要項案内"
       }
     ],
     "gaps": [
-      "All 11 undergraduate schools anchored to official university directory and bachelor-award table. Medicine and Economics department pages could not be retrieved; kept explicit faculty/award groups.",
-      "Foreign Studies all 25 majors, Letters 20 majors, Science four departments, Engineering five divisions, Engineering Science four departments and Human Sciences four broad divisions plus English route collected.",
-      "Law, Medicine, Dentistry, Pharmacy and broad engineering divisions need further programme/track expansion. Research laboratories were not presented as independent bachelor degrees."
+      "人间科学具体研究领域尚未逐项判定本科分流身份；化学三个英语名称与2026正式课程表的对应仍待核。",
+      "各条已补实质课程及路线，但2027完整募集材料、课程细目及逐项费用仍有未公布或未核字段。",
+      "普通私费、IUPS及HUS英语本科的语言和申请年度分别处理；部分内部方向不直接向高中招生。",
+      "多数专业缺少附毕业届次、样本分母与国际学生范围的就业及薪资调查。"
     ]
   },
   "programs": [
@@ -69,518 +561,670 @@
       "name_en": "Philosophy, Thought and Culture",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/philosophy-and-history-of-philosophy",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Philosophy, Thought and Culture",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-philosophy-thought-and-culture-91a8aa966f"
+      "id": "osaka-philosophy-thought-and-culture-91a8aa966f",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "哲学、思想与文化",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Ethics",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/ethics",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Ethics",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-ethics-6d0eb95d2b"
+      "id": "osaka-ethics-6d0eb95d2b",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "伦理学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Chinese Philosophy",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/chinese-philosophy",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Chinese Philosophy",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-chinese-philosophy-4b92da9f5f"
+      "id": "osaka-chinese-philosophy-4b92da9f5f",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "中国哲学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Indian Philosophy",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/indian-philosophy",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Indian Philosophy",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-indian-philosophy-295edcda9b"
+      "id": "osaka-indian-philosophy-295edcda9b",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "印度哲学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Japanese History",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-history",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Japanese History",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-japanese-history-95835f9134"
+      "id": "osaka-japanese-history-95835f9134",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "日本史",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Asian History",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/asian-history",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Asian History",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-asian-history-88cfccdbdc"
+      "id": "osaka-asian-history-88cfccdbdc",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "亚洲史",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "European and American History",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/european-and-american-history",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:European and American History",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-european-and-american-history-6f6992a9e5"
+      "id": "osaka-european-and-american-history-6f6992a9e5",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "欧美史",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Archaeology",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/archaeology",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Archaeology",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-archaeology-7e32b7fb4d"
+      "id": "osaka-archaeology-7e32b7fb4d",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "考古学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Japanese Studies",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-studies",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Japanese Studies",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-japanese-studies-2c3476d21c"
+      "id": "osaka-japanese-studies-2c3476d21c",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "日本研究",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Human Geography",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/human-geography",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Human Geography",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-human-geography-db1437946e"
+      "id": "osaka-human-geography-db1437946e",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "人文地理",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Japanese Linguistics",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-linguistics",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Japanese Linguistics",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-japanese-linguistics-a3649df57f"
+      "id": "osaka-japanese-linguistics-a3649df57f",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "日语语言学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Japanese Literature and Japanese Historical Linguistics",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/japanese-literature-and-history-of-japanese-language",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Japanese Literature and Japanese Historical Linguistics",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-japanese-literature-and-japanese-historical-linguistics-02a30d5621"
+      "id": "osaka-japanese-literature-and-japanese-historical-linguistics-02a30d5621",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "日本文学与日语史",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Comparative Literature",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/comparative-literature",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Comparative Literature",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-comparative-literature-1f58068e6b"
+      "id": "osaka-comparative-literature-1f58068e6b",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "比较文学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Chinese Literature",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/chinese-literature",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Chinese Literature",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-chinese-literature-9b01fc986c"
+      "id": "osaka-chinese-literature-9b01fc986c",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "中国文学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "English and American Literature and English Linguistics",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/english-and-american-literature-and-english-linguistics",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:English and American Literature and English Linguistics",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-english-and-american-literature-and-english-linguistics-65982dc2b8"
+      "id": "osaka-english-and-american-literature-and-english-linguistics-65982dc2b8",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "英美文学与英语语言学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "German Literature",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/german-literature",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:German Literature",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-german-literature-a0a53b3df8"
+      "id": "osaka-german-literature-a0a53b3df8",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "德国文学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "French Literature",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/french-literature",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:French Literature",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-french-literature-3c3651217c"
+      "id": "osaka-french-literature-3c3651217c",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "法国文学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Aesthetics and Science of Literary Arts",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/aesthetics-and-science-of-literary-arts",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Aesthetics and Science of Literary Arts",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-aesthetics-and-science-of-literary-arts-3bf68df9e2"
+      "id": "osaka-aesthetics-and-science-of-literary-arts-3bf68df9e2",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "美学与文艺学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Musicology and Theatre Studies",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/musicology-and-theatre-studie",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Musicology and Theatre Studies",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-musicology-and-theatre-studies-9e62c02a80"
+      "id": "osaka-musicology-and-theatre-studies-9e62c02a80",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "音乐学与戏剧学",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Art History",
       "degree_label": "Bachelor's degree in Arts",
       "official_url": "https://www.let.osaka-u.ac.jp/en/undergraduate/program/art-history",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.let.osaka-u.ac.jp/en",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Letters:Art History",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "先申请文学部人文学科；一年级后分专修，须EJU、TOEFL及校内考试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Letters",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_specialization",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-art-history-b00b90d27e"
+      "id": "osaka-art-history-b00b90d27e",
+      "parent_degree_label": "Bachelor's degree in Arts",
+      "parent_program_url": "https://www.let.osaka-u.ac.jp/ja/academics/undergraduate/curriculum",
+      "name": "艺术史",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Psychological and Behavioral Sciences",
       "degree_label": "Bachelor's degree in Human Sciences",
       "official_url": "https://www.hus.osaka-u.ac.jp/en/undergraduate/beh/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "日语；个别课程语种另核",
       "discovery_source_url": "https://www.hus.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Human Sciences:Psychological and Behavioral Sciences",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请人间科学科；分科属于学位内选择。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Human Sciences",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_division",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-psychological-and-behavioral-sciences-29f3aaa967"
+      "id": "osaka-psychological-and-behavioral-sciences-29f3aaa967",
+      "parent_degree_label": "Bachelor's degree in Human Sciences",
+      "name": "心理与行为科学"
     },
     {
       "name_en": "Sociology, Philosophy and Anthropology",
       "degree_label": "Bachelor's degree in Human Sciences",
       "official_url": "https://www.hus.osaka-u.ac.jp/en/undergraduate/soc/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "日语；个别课程语种另核",
       "discovery_source_url": "https://www.hus.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Human Sciences:Sociology, Philosophy and Anthropology",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请人间科学科；分科属于学位内选择。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Human Sciences",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_division",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-sociology-philosophy-and-anthropology-054e1b8143"
+      "id": "osaka-sociology-philosophy-and-anthropology-054e1b8143",
+      "parent_degree_label": "Bachelor's degree in Human Sciences",
+      "name": "社会学、哲学与人类学"
     },
     {
       "name_en": "Education",
       "degree_label": "Bachelor's degree in Human Sciences",
       "official_url": "https://www.hus.osaka-u.ac.jp/en/undergraduate/edu/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "日语；个别课程语种另核",
       "discovery_source_url": "https://www.hus.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Human Sciences:Education",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请人间科学科；分科属于学位内选择。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Human Sciences",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_division",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-education-4070c29161"
+      "id": "osaka-education-4070c29161",
+      "parent_degree_label": "Bachelor's degree in Human Sciences",
+      "name": "教育学"
     },
     {
       "name_en": "Kyosei Studies",
       "degree_label": "Bachelor's degree in Human Sciences",
       "official_url": "https://www.hus.osaka-u.ac.jp/en/undergraduate/sym/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "日语；个别课程语种另核",
       "discovery_source_url": "https://www.hus.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Human Sciences:Kyosei Studies",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请人间科学科；分科属于学位内选择。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Human Sciences",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "in_degree_division",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-kyosei-studies-f26d1d866e"
+      "id": "osaka-kyosei-studies-f26d1d866e",
+      "parent_degree_label": "Bachelor's degree in Human Sciences",
+      "name": "共生研究",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
     },
     {
       "name_en": "Human Sciences All-English Undergraduate Programme",
       "degree_label": "Bachelor's degree in Human Sciences",
-      "official_url": "https://www.hus.osaka-u.ac.jp/en/undergraduate/276.html",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": "English",
+      "official_url": "https://iudp.hus.osaka-u.ac.jp/program/",
+      "intake": "2027年10月",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "英语；同时学习日语",
       "discovery_source_url": "https://www.hus.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Human Sciences:Human Sciences All-English Undergraduate Programme",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027英语HUS独立申请；高考可作为学术考试材料，2026年12月开放。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Human Sciences",
@@ -588,545 +1232,671 @@
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-human-sciences-all-english-undergraduate-programme-f65412d0ed"
+      "id": "osaka-human-sciences-all-english-undergraduate-programme-f65412d0ed",
+      "name": "人间科学（英语本科）"
     },
     {
       "name_en": "Chinese",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/chinese/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Chinese",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-chinese-a33abb4371"
+      "id": "osaka-chinese-a33abb4371",
+      "name": "汉语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Korean",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/korean/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Korean",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-korean-69cea66caa"
+      "id": "osaka-korean-69cea66caa",
+      "name": "朝鲜语（韩语）",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Mongolian",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/mongolian/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Mongolian",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-mongolian-7daa473592"
+      "id": "osaka-mongolian-7daa473592",
+      "name": "蒙古语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Indonesian",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/indonesian/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Indonesian",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-indonesian-e23b03a5fb"
+      "id": "osaka-indonesian-e23b03a5fb",
+      "name": "印度尼西亚语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Filipino",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/filipino/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Filipino",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-filipino-a63d06bfbd"
+      "id": "osaka-filipino-a63d06bfbd",
+      "name": "菲律宾语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Thai",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/thai/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Thai",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-thai-0d99ed5db2"
+      "id": "osaka-thai-0d99ed5db2",
+      "name": "泰语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Vietnamese",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/vietnamese/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Vietnamese",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-vietnamese-4490a2e8da"
+      "id": "osaka-vietnamese-4490a2e8da",
+      "name": "越南语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Burmese",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/burmese/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Burmese",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-burmese-03064bed88"
+      "id": "osaka-burmese-03064bed88",
+      "name": "缅甸语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Hindi",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/hindi/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Hindi",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-hindi-b5e4f8286f"
+      "id": "osaka-hindi-b5e4f8286f",
+      "name": "印地语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Urdu",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/urdu/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Urdu",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-urdu-2b7ffa0911"
+      "id": "osaka-urdu-2b7ffa0911",
+      "name": "乌尔都语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Arabic",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/arabic/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Arabic",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-arabic-beabd58ab5"
+      "id": "osaka-arabic-beabd58ab5",
+      "name": "阿拉伯语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Persian",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/persian/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Persian",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-persian-59d6564468"
+      "id": "osaka-persian-59d6564468",
+      "name": "波斯语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Turkish",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/turkish/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Turkish",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-turkish-e30514f6c0"
+      "id": "osaka-turkish-e30514f6c0",
+      "name": "土耳其语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Swahili",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/swahili/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Swahili",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-swahili-f604600cf7"
+      "id": "osaka-swahili-f604600cf7",
+      "name": "斯瓦希里语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Russian",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/russian/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Russian",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-russian-709068e8e3"
+      "id": "osaka-russian-709068e8e3",
+      "name": "俄语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Hungarian",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/hungarian/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Hungarian",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-hungarian-885ab8b6f2"
+      "id": "osaka-hungarian-885ab8b6f2",
+      "name": "匈牙利语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "German",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/german/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:German",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-german-af90ae327a"
+      "id": "osaka-german-af90ae327a",
+      "name": "德语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Swedish",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/swedish/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Swedish",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-swedish-4caef3f4d9"
+      "id": "osaka-swedish-4caef3f4d9",
+      "name": "瑞典语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Danish",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/danish/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Danish",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-danish-9b5efd997a"
+      "id": "osaka-danish-9b5efd997a",
+      "name": "丹麦语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "English",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/english/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:English",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-english-887bd60ff1"
+      "id": "osaka-english-887bd60ff1",
+      "name": "英语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "French",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/french/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:French",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-french-d76c84213f"
+      "id": "osaka-french-d76c84213f",
+      "name": "法语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Italian",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/italy/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Italian",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-italian-2e87a1f680"
+      "id": "osaka-italian-2e87a1f680",
+      "name": "意大利语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Spanish",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/spanish/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Spanish",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-spanish-e8971a32b8"
+      "id": "osaka-spanish-e8971a32b8",
+      "name": "西班牙语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Portuguese",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/portugal/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Portuguese",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-portuguese-44695f0d58"
+      "id": "osaka-portuguese-44695f0d58",
+      "name": "葡萄牙语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Japanese",
       "degree_label": "Bachelor's degree in Arts in Language and Culture",
       "official_url": "https://www.sfs.osaka-u.ac.jp/major/japanese/",
-      "intake": null,
-      "duration": null,
-      "campus": "Minoh Campus",
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "箕面校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sfs.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Foreign Studies:Japanese",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "普通私费申请时选择本语言；EJU日语至少360，另有校内英日语与口试。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Foreign Studies",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_major",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-japanese-97d6f80d3e"
+      "id": "osaka-japanese-97d6f80d3e",
+      "name": "日语",
+      "subject": "人文",
+      "subjects": [
+        "人文"
+      ]
     },
     {
       "name_en": "Law",
       "degree_label": "Bachelor's degree in Laws",
       "official_url": "http://www.law.osaka-u.ac.jp/en/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Law:Law",
-      "entry_route": "Faculty/award group; exact departments or professional tracks not yet fully expanded",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Law",
@@ -1134,41 +1904,43 @@
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-law-ea17c6a340"
+      "id": "osaka-law-ea17c6a340",
+      "name": "法学"
     },
     {
-      "name_en": "Economics",
+      "name_en": "Economics and Management",
       "degree_label": "Bachelor's degree in Economics",
       "official_url": "https://www.econ.osaka-u.ac.jp/en/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Economics:Economics",
-      "entry_route": "Faculty/award group; exact departments or professional tracks not yet fully expanded",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Economics",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-economics-a2ac2d62ae"
+      "id": "osaka-economics-a2ac2d62ae",
+      "name": "经济学与经营学"
     },
     {
       "name_en": "Department of Mathematics",
       "degree_label": "Bachelor's degree in Science",
       "official_url": "https://www.sci.osaka-u.ac.jp/en/faculty/mathematics/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027（IUPS申请已结束）",
+      "duration": "4年本科＋此前半年预备教育",
+      "campus": "丰中本科；箕面预备日语",
+      "language": "前期英语，逐步增加日语",
       "discovery_source_url": "https://www.sci.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Science:Department of Mathematics",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "IUPS：2027本科申请已于2026年1月结束；须较早完成高中及日语条件。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Science",
@@ -1176,20 +1948,21 @@
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-department-of-mathematics-1d44344157"
+      "id": "osaka-department-of-mathematics-1d44344157",
+      "name": "数学"
     },
     {
       "name_en": "Department of Physics",
       "degree_label": "Bachelor's degree in Science",
       "official_url": "https://www.sci.osaka-u.ac.jp/en/faculty/physics/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027（IUPS申请已结束）",
+      "duration": "4年本科＋此前半年预备教育",
+      "campus": "丰中本科；箕面预备日语",
+      "language": "前期英语，逐步增加日语",
       "discovery_source_url": "https://www.sci.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Science:Department of Physics",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "IUPS：2027本科申请已于2026年1月结束；须较早完成高中及日语条件。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Science",
@@ -1197,20 +1970,21 @@
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-department-of-physics-664dd56a72"
+      "id": "osaka-department-of-physics-664dd56a72",
+      "name": "物理学"
     },
     {
       "name_en": "Department of Chemistry",
       "degree_label": "Bachelor's degree in Science",
       "official_url": "https://www.sci.osaka-u.ac.jp/en/faculty/chemistry/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027（IUPS申请已结束）",
+      "duration": "4年本科＋此前半年预备教育",
+      "campus": "丰中本科；箕面预备日语",
+      "language": "前期英语，逐步增加日语",
       "discovery_source_url": "https://www.sci.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Science:Department of Chemistry",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "IUPS：2027本科申请已于2026年1月结束；须较早完成高中及日语条件。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Science",
@@ -1218,62 +1992,65 @@
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-department-of-chemistry-94eef108ea"
+      "id": "osaka-department-of-chemistry-94eef108ea",
+      "name": "化学"
     },
     {
       "name_en": "Department of Biological Sciences",
       "degree_label": "Bachelor's degree in Science",
       "official_url": "https://www.sci.osaka-u.ac.jp/en/faculty/biology/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.sci.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Science:Department of Biological Sciences",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "父学科：生物科学课程走IUPS；生命理学课程走普通私费选拔，不能混用。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Science",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-department-of-biological-sciences-7a5dcd30c4"
+      "id": "osaka-department-of-biological-sciences-7a5dcd30c4",
+      "name": "生物科学"
     },
     {
-      "name_en": "(Faculty of) Medicine",
-      "degree_label": "Bachelor's degree in Medicine | Nursing | Health Science",
-      "official_url": "https://www.med.osaka-u.ac.jp/eng/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "name_en": "Medicine",
+      "degree_label": "Bachelor's degree in Medicine",
+      "official_url": "https://www.med.osaka-u.ac.jp/wp-content/uploads/2026/09/2026OUfacmed_catalog.pdf",
+      "intake": "2027",
+      "duration": "6 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "(Faculty of) Medicine:(Faculty of) Medicine",
-      "entry_route": "Faculty/award group; exact departments or professional tracks not yet fully expanded",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "(Faculty of) Medicine",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "degree",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-faculty-of-medicine-65a489eb9c"
+      "id": "osaka-faculty-of-medicine-65a489eb9c",
+      "name": "医学（六年制）"
     },
     {
       "name_en": "Dentistry",
       "degree_label": "Bachelor's degree in Dental Surgery",
       "official_url": "https://global.dent.osaka-u.ac.jp/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "6 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Dentistry:Dentistry",
-      "entry_route": "Faculty/award group; exact departments or professional tracks not yet fully expanded",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Dentistry",
@@ -1281,217 +2058,1240 @@
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-dentistry-c6208ffe22"
+      "id": "osaka-dentistry-c6208ffe22",
+      "name": "牙医学（六年制）"
     },
     {
       "name_en": "Pharmaceutical Sciences",
       "degree_label": "Bachelor's degree in Pharmacy",
       "official_url": "https://www.phs.osaka-u.ac.jp/en/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "6 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Pharmaceutical Sciences:Pharmaceutical Sciences",
-      "entry_route": "Faculty/award group; exact departments or professional tracks not yet fully expanded",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Pharmaceutical Sciences",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "degree",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-pharmaceutical-sciences-f1aff54688"
+      "id": "osaka-pharmaceutical-sciences-f1aff54688",
+      "name": "药学（六年制）",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
     },
     {
       "name_en": "Division of Applied Science",
       "degree_label": "Bachelor's degree in Engineering",
       "official_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c01",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Engineering:Division of Applied Science",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Engineering",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-division-of-applied-science-0623d79d3e"
+      "id": "osaka-division-of-applied-science-0623d79d3e",
+      "name": "应用自然科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Division of Mechanical, Materials and Manufacturing Science",
       "degree_label": "Bachelor's degree in Engineering",
       "official_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c02",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Engineering:Division of Mechanical, Materials and Manufacturing Science",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Engineering",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-division-of-mechanical-materials-and-manufacturing-science-ff2cc9395b"
+      "id": "osaka-division-of-mechanical-materials-and-manufacturing-science-ff2cc9395b",
+      "name": "应用理工学（机械、材料与制造）",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Division of Electronic and Information Engineering",
       "degree_label": "Bachelor's degree in Engineering",
       "official_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c03",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Engineering:Division of Electronic and Information Engineering",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Engineering",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-division-of-electronic-and-information-engineering-4ff89351e5"
+      "id": "osaka-division-of-electronic-and-information-engineering-4ff89351e5",
+      "name": "电子信息工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Division of Sustainable Energy and Environmental Engineering",
       "degree_label": "Bachelor's degree in Engineering",
       "official_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c04",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Engineering:Division of Sustainable Energy and Environmental Engineering",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Engineering",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-division-of-sustainable-energy-and-environmental-engineering-16b42df12b"
+      "id": "osaka-division-of-sustainable-energy-and-environmental-engineering-16b42df12b",
+      "name": "环境与能源工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Division of Global Architecture",
       "degree_label": "Bachelor's degree in Engineering",
       "official_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c05",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Engineering:Division of Global Architecture",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Engineering",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-division-of-global-architecture-d87323aea4"
+      "id": "osaka-division-of-global-architecture-d87323aea4",
+      "name": "地球综合工程（船舶海洋、土木与建筑）",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Department of Electronic and Materials Physics",
       "degree_label": "Bachelor's degree in Engineering",
       "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-electronics-and-materials-physics/index.html",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Engineering Science:Department of Electronic and Materials Physics",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Engineering Science",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-department-of-electronic-and-materials-physics-135c4a6a6c"
+      "id": "osaka-department-of-electronic-and-materials-physics-135c4a6a6c",
+      "name": "电子物理科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Department of Chemical Science and Engineering",
       "degree_label": "Bachelor's degree in Engineering",
       "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-chemical-science-and-engineering/index.html",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Engineering Science:Department of Chemical Science and Engineering",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Engineering Science",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-department-of-chemical-science-and-engineering-3a3067bdcf"
+      "id": "osaka-department-of-chemical-science-and-engineering-3a3067bdcf",
+      "name": "化学应用科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Department of Systems Science",
       "degree_label": "Bachelor's degree in Engineering",
       "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Engineering Science:Department of Systems Science",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Engineering Science",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-department-of-systems-science-97b7ec655b"
+      "id": "osaka-department-of-systems-science-97b7ec655b",
+      "name": "系统科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
     },
     {
       "name_en": "Department of Information and Computer Sciences",
       "degree_label": "Bachelor's degree in Engineering",
       "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
       "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/",
       "source_period": "current official directory, checked 2026-09-12",
       "raw_key": "Engineering Science:Department of Information and Computer Sciences",
-      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "entry_route": "2027普通私费外国人选拔；须指定EJU及本学部学校考试，详见专业要求。",
       "requires_prior_degree": null,
       "status": "listed_current",
       "faculty": "Engineering Science",
-      "record_type": "undergraduate_major_or_department",
+      "record_type": "undergraduate_department",
       "additional_source_urls": [
         "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree"
       ],
-      "id": "osaka-department-of-information-and-computer-sciences-b7c744d42f"
+      "id": "osaka-department-of-information-and-computer-sciences-b7c744d42f",
+      "name": "信息科学",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-international-public-policy-9ca1d0469f",
+      "name_en": "International Public Policy",
+      "degree_label": "Bachelor's degree in Laws",
+      "official_url": "https://www.law.osaka-u.ac.jp/undergraduate/curriculum/each.html",
+      "raw_key": "verified-addition:international-public-policy",
+      "discovery_source_url": "https://www.law.osaka-u.ac.jp/undergraduate/curriculum/each.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "2027普通私费直接申请国际公共政策学科；法学部EJU、TOEFL与学校考试规则。",
+      "requires_prior_degree": false,
+      "record_type": "degree",
+      "status": "listed_current",
+      "name": "国际公共政策"
+    },
+    {
+      "id": "osaka-nursing-936546005a",
+      "name_en": "Nursing",
+      "degree_label": "Bachelor's degree in Nursing",
+      "official_url": "https://sahswww.med.osaka-u.ac.jp/jpn/admissions/doc/2026pamphlet.pdf",
+      "raw_key": "verified-addition:nursing",
+      "discovery_source_url": "https://sahswww.med.osaka-u.ac.jp/jpn/admissions/doc/2026pamphlet.pdf",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "2027普通私费直接选择保健学科本专攻；EJU两门理科，学校考试另按专攻。",
+      "requires_prior_degree": false,
+      "record_type": "degree",
+      "status": "listed_current",
+      "name": "护理学",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
+    },
+    {
+      "id": "osaka-radiological-technology-e3dace9fc3",
+      "name_en": "Radiological Technology",
+      "degree_label": "Bachelor's degree in Health Science",
+      "official_url": "https://sahswww.med.osaka-u.ac.jp/jpn/admissions/doc/2026pamphlet.pdf",
+      "raw_key": "verified-addition:radiological-technology",
+      "discovery_source_url": "https://sahswww.med.osaka-u.ac.jp/jpn/admissions/doc/2026pamphlet.pdf",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "2027普通私费直接选择保健学科本专攻；EJU两门理科，学校考试另按专攻。",
+      "requires_prior_degree": false,
+      "record_type": "degree",
+      "status": "listed_current",
+      "name": "放射线技术科学",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
+    },
+    {
+      "id": "osaka-laboratory-technology-eee07282a1",
+      "name_en": "Laboratory Technology",
+      "degree_label": "Bachelor's degree in Health Science",
+      "official_url": "https://sahswww.med.osaka-u.ac.jp/jpn/admissions/doc/2026pamphlet.pdf",
+      "raw_key": "verified-addition:laboratory-technology",
+      "discovery_source_url": "https://sahswww.med.osaka-u.ac.jp/jpn/admissions/doc/2026pamphlet.pdf",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "2027普通私费直接选择保健学科本专攻；EJU两门理科，学校考试另按专攻。",
+      "requires_prior_degree": false,
+      "record_type": "degree",
+      "status": "listed_current",
+      "name": "检验技术科学",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
+    },
+    {
+      "id": "osaka-biological-sciences-course-c1a158a9e7",
+      "name_en": "Biological Sciences Course",
+      "degree_label": "Bachelor's degree in Science",
+      "official_url": "https://www.bio.sci.osaka-u.ac.jp/en/faculties/",
+      "raw_key": "verified-addition:biological-sciences-course",
+      "discovery_source_url": "https://www.bio.sci.osaka-u.ac.jp/en/faculties/",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027（IUPS申请已结束）",
+      "duration": "4年本科＋此前半年预备教育",
+      "campus": "丰中本科；箕面预备日语",
+      "language": "前期英语，逐步增加日语",
+      "entry_route": "IUPS：2027本科申请已于2026年1月结束；须较早完成高中及日语条件。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_course",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-biological-sciences-7a5dcd30c4",
+      "parent_program_url": "https://www.sci.osaka-u.ac.jp/en/faculty/biology/",
+      "parent_degree_label": "Bachelor's degree in Science",
+      "name": "生物科学（生物科学课程）"
+    },
+    {
+      "id": "osaka-life-science-course-f6404de416",
+      "name_en": "Life Science Course",
+      "degree_label": "Bachelor's degree in Science",
+      "official_url": "https://www.bio.sci.osaka-u.ac.jp/en/faculties/",
+      "raw_key": "verified-addition:life-science-course",
+      "discovery_source_url": "https://www.bio.sci.osaka-u.ac.jp/en/faculties/",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "生命理学：2027普通私费入口；EJU数学2＋物理＋化学，须TOEFL和校内考试。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_course",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-biological-sciences-7a5dcd30c4",
+      "parent_program_url": "https://www.sci.osaka-u.ac.jp/en/faculty/biology/",
+      "parent_degree_label": "Bachelor's degree in Science",
+      "name": "生物科学（生命理学课程）",
+      "subject": "自然科学",
+      "subjects": [
+        "自然科学"
+      ]
+    },
+    {
+      "id": "osaka-applied-chemistry-74eb88db04",
+      "name_en": "Applied Chemistry",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php",
+      "raw_key": "verified-addition:applied-chemistry",
+      "discovery_source_url": "https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入应用自然科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-applied-science-0623d79d3e",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c01",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "应用化学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-biotechnology-c90ac2da5b",
+      "name_en": "Biotechnology",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php",
+      "raw_key": "verified-addition:biotechnology",
+      "discovery_source_url": "https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入应用自然科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-applied-science-0623d79d3e",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c01",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "生物技术",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-engineering-physics-4ea93d1405",
+      "name_en": "Engineering Physics",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php",
+      "raw_key": "verified-addition:engineering-physics",
+      "discovery_source_url": "https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入应用自然科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-applied-science-0623d79d3e",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c01",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "物理工学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-applied-physics-6e3d024d0d",
+      "name_en": "Applied Physics",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php",
+      "raw_key": "verified-addition:applied-physics",
+      "discovery_source_url": "https://applsci.eng.osaka-u.ac.jp/guide/curriculum.php",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入应用自然科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-applied-science-0623d79d3e",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c01",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "应用物理学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-mechanical-engineering-be911c2056",
+      "name_en": "Mechanical Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://m3s.eng.osaka-u.ac.jp/course/education.html",
+      "raw_key": "verified-addition:mechanical-engineering",
+      "discovery_source_url": "https://m3s.eng.osaka-u.ac.jp/course/education.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入应用理工学（机械、材料与制造）所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-mechanical-materials-and-manufacturing-science-ff2cc9395b",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c02",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "机械工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-materials-science-bf55b57dbb",
+      "name_en": "Materials Science",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://m3s.eng.osaka-u.ac.jp/course/education.html",
+      "raw_key": "verified-addition:materials-science",
+      "discovery_source_url": "https://m3s.eng.osaka-u.ac.jp/course/education.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入应用理工学（机械、材料与制造）所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-mechanical-materials-and-manufacturing-science-ff2cc9395b",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c02",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "材料科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-manufacturing-science-60c44236ef",
+      "name_en": "Manufacturing Science",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://m3s.eng.osaka-u.ac.jp/course/education.html",
+      "raw_key": "verified-addition:manufacturing-science",
+      "discovery_source_url": "https://m3s.eng.osaka-u.ac.jp/course/education.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入应用理工学（机械、材料与制造）所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-mechanical-materials-and-manufacturing-science-ff2cc9395b",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c02",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "制造科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-electrical-engineering-f42772d48b",
+      "name_en": "Electrical Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "http://school.eei.eng.osaka-u.ac.jp/course/course11",
+      "raw_key": "verified-addition:electrical-engineering",
+      "discovery_source_url": "http://school.eei.eng.osaka-u.ac.jp/course/course11",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入电子信息工程所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-electronic-and-information-engineering-4ff89351e5",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c03",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "电气工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-quantum-information-electronics-5d5097b80f",
+      "name_en": "Quantum Information Electronics",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "http://school.eei.eng.osaka-u.ac.jp/course/course12",
+      "raw_key": "verified-addition:quantum-information-electronics",
+      "discovery_source_url": "http://school.eei.eng.osaka-u.ac.jp/course/course12",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入电子信息工程所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-electronic-and-information-engineering-4ff89351e5",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c03",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "量子信息电子",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-communication-engineering-2594cd549d",
+      "name_en": "Communication Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "http://school.eei.eng.osaka-u.ac.jp/course/course13",
+      "raw_key": "verified-addition:communication-engineering",
+      "discovery_source_url": "http://school.eei.eng.osaka-u.ac.jp/course/course13",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入电子信息工程所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-electronic-and-information-engineering-4ff89351e5",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c03",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "通信工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-information-systems-engineering-2acad55343",
+      "name_en": "Information Systems Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "http://school.eei.eng.osaka-u.ac.jp/course/course14",
+      "raw_key": "verified-addition:information-systems-engineering",
+      "discovery_source_url": "http://school.eei.eng.osaka-u.ac.jp/course/course14",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入电子信息工程所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-electronic-and-information-engineering-4ff89351e5",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c03",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "信息系统工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-environmental-engineering-8d914eef9d",
+      "name_en": "Environmental Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://see.eng.osaka-u.ac.jp/en/education/",
+      "raw_key": "verified-addition:environmental-engineering",
+      "discovery_source_url": "https://see.eng.osaka-u.ac.jp/en/education/",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入环境与能源工程所属学士；3年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-sustainable-energy-and-environmental-engineering-16b42df12b",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c04",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "环境工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-nuclear-science-energy-engineering-6e3a725dcc",
+      "name_en": "Nuclear Science and Energy Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://see.eng.osaka-u.ac.jp/en/education/",
+      "raw_key": "verified-addition:nuclear-science-energy-engineering",
+      "discovery_source_url": "https://see.eng.osaka-u.ac.jp/en/education/",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入环境与能源工程所属学士；3年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-sustainable-energy-and-environmental-engineering-16b42df12b",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c04",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "能源与量子工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-naval-architecture-ocean-engineering-5dd077500f",
+      "name_en": "Naval Architecture and Ocean Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www-naoe.eng.osaka-u.ac.jp/education/index.html",
+      "raw_key": "verified-addition:naval-architecture-ocean-engineering",
+      "discovery_source_url": "https://www-naoe.eng.osaka-u.ac.jp/education/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入地球综合工程（船舶海洋、土木与建筑）所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-global-architecture-d87323aea4",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c05",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "船舶与海洋工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-civil-engineering-d37cf0e2bb",
+      "name_en": "Civil Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www-civil.eng.osaka-u.ac.jp/Apli/whats/curriculum/",
+      "raw_key": "verified-addition:civil-engineering",
+      "discovery_source_url": "https://www-civil.eng.osaka-u.ac.jp/Apli/whats/curriculum/",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入地球综合工程（船舶海洋、土木与建筑）所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-global-architecture-d87323aea4",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c05",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "社会基础工程（土木）",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-architectural-engineering-0b4feb095e",
+      "name_en": "Architectural Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www-arch.eng.osaka-u.ac.jp/education/index1.html",
+      "raw_key": "verified-addition:architectural-engineering",
+      "discovery_source_url": "https://www-arch.eng.osaka-u.ac.jp/education/index1.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入地球综合工程（船舶海洋、土木与建筑）所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-division-of-global-architecture-d87323aea4",
+      "parent_program_url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/#c05",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "建筑工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-electronics-4d31a8dc41",
+      "name_en": "Electronics",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-electronics-and-materials-physics/index.html",
+      "raw_key": "verified-addition:electronics",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-electronics-and-materials-physics/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入电子物理科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-electronic-and-materials-physics-135c4a6a6c",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-electronics-and-materials-physics/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "电子科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-materials-physics-dbd2ba6dc6",
+      "name_en": "Materials Physics",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-electronics-and-materials-physics/index.html",
+      "raw_key": "verified-addition:materials-physics",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-electronics-and-materials-physics/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入电子物理科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-electronic-and-materials-physics-135c4a6a6c",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-electronics-and-materials-physics/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "物质物理科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-synthetic-chemistry-ef69109ed7",
+      "name_en": "Synthetic Chemistry",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-chemical-science-and-engineering/index.html",
+      "raw_key": "verified-addition:synthetic-chemistry",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-chemical-science-and-engineering/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入化学应用科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-chemical-science-and-engineering-3a3067bdcf",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-chemical-science-and-engineering/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "合成化学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-chemical-engineering-61d791f54a",
+      "name_en": "Chemical Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-chemical-science-and-engineering/index.html",
+      "raw_key": "verified-addition:chemical-engineering",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-chemical-science-and-engineering/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入化学应用科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-chemical-science-and-engineering-3a3067bdcf",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-chemical-science-and-engineering/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "化学工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-mechanical-science-9b37f5396a",
+      "name_en": "Mechanical Science",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+      "raw_key": "verified-addition:mechanical-science",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入系统科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-systems-science-97b7ec655b",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "机械科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-intelligent-systems-science-27f1eeddac",
+      "name_en": "Intelligent Systems Science",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+      "raw_key": "verified-addition:intelligent-systems-science",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入系统科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-systems-science-97b7ec655b",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "智能系统学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-biophysical-engineering-76a8ba48f5",
+      "name_en": "Biophysical Engineering",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+      "raw_key": "verified-addition:biophysical-engineering",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入系统科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-systems-science-97b7ec655b",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-systems-science/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "生物工程",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-computer-science-119457f348",
+      "name_en": "Computer Science",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+      "raw_key": "verified-addition:computer-science",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入信息科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-information-and-computer-sciences-b7c744d42f",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "计算机科学",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-software-science-96a1f05aea",
+      "name_en": "Software Science",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+      "raw_key": "verified-addition:software-science",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入信息科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-information-and-computer-sciences-b7c744d42f",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "软件科学",
+      "subject": "计算机",
+      "subjects": [
+        "计算机",
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-mathematical-science-19af84252e",
+      "name_en": "Mathematical Science",
+      "degree_label": "Bachelor's degree in Engineering",
+      "official_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+      "raw_key": "verified-addition:mathematical-science",
+      "discovery_source_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入信息科学所属学士；2年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-department-of-information-and-computer-sciences-b7c744d42f",
+      "parent_program_url": "https://www.es.osaka-u.ac.jp/en/faculty-research/school-of-engineering-science/department-of-information-and-computer-sciences/index.html",
+      "parent_degree_label": "Bachelor's degree in Engineering",
+      "name": "数理科学",
+      "subject": "工程",
+      "subjects": [
+        "工程"
+      ]
+    },
+    {
+      "id": "osaka-advanced-pharmaceutical-research-26cffb378d",
+      "name_en": "Advanced Research Course",
+      "degree_label": "Bachelor's degree in Pharmacy",
+      "official_url": "https://www.phs.osaka-u.ac.jp/school/",
+      "raw_key": "verified-addition:advanced-pharmaceutical-research",
+      "discovery_source_url": "https://www.phs.osaka-u.ac.jp/school/",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "6 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入药学（六年制）所属学士；3年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-pharmaceutical-sciences-f1aff54688",
+      "parent_program_url": "https://www.phs.osaka-u.ac.jp/en/",
+      "parent_degree_label": "Bachelor's degree in Pharmacy",
+      "name": "药学：先进研究课程",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
+    },
+    {
+      "id": "osaka-osaka-pharmd-5d44e230cc",
+      "name_en": "Osaka Pharm.D Course",
+      "degree_label": "Bachelor's degree in Pharmacy",
+      "official_url": "https://www.phs.osaka-u.ac.jp/school/",
+      "raw_key": "verified-addition:osaka-pharmd",
+      "discovery_source_url": "https://www.phs.osaka-u.ac.jp/school/",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "6 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入药学（六年制）所属学士；3年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-pharmaceutical-sciences-f1aff54688",
+      "parent_program_url": "https://www.phs.osaka-u.ac.jp/en/",
+      "parent_degree_label": "Bachelor's degree in Pharmacy",
+      "name": "药学：大阪大学 Pharm.D 课程",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
+    },
+    {
+      "id": "osaka-pharmaceutical-research-8c33eefab2",
+      "name_en": "Pharmaceutical Research Course",
+      "degree_label": "Bachelor's degree in Pharmacy",
+      "official_url": "https://www.phs.osaka-u.ac.jp/school/",
+      "raw_key": "verified-addition:pharmaceutical-research",
+      "discovery_source_url": "https://www.phs.osaka-u.ac.jp/school/",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "6 年",
+      "campus": "吹田校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "先进入药学（六年制）所属学士；3年级起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-pharmaceutical-sciences-f1aff54688",
+      "parent_program_url": "https://www.phs.osaka-u.ac.jp/en/",
+      "parent_degree_label": "Bachelor's degree in Pharmacy",
+      "name": "药学研究课程",
+      "subject": "医学与健康",
+      "subjects": [
+        "医学与健康"
+      ]
+    },
+    {
+      "id": "osaka-diversity-inclusion-3344cde81e",
+      "name_en": "Diversity and Inclusion Studies",
+      "degree_label": "Bachelor's degree in Human Sciences",
+      "official_url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf",
+      "raw_key": "verified-addition:diversity-inclusion",
+      "discovery_source_url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027年10月",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "英语；同时学习日语",
+      "entry_route": "先进入人间科学（英语本科）所属学士；第四学期起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-human-sciences-all-english-undergraduate-programme-f65412d0ed",
+      "parent_program_url": "https://iudp.hus.osaka-u.ac.jp/program/",
+      "parent_degree_label": "Bachelor's degree in Human Sciences",
+      "name": "人间科学英语本科：多样性与包容",
+      "subject": "社会科学",
+      "subjects": [
+        "社会科学"
+      ]
+    },
+    {
+      "id": "osaka-japan-studies-603fc1036c",
+      "name_en": "Japan Studies",
+      "degree_label": "Bachelor's degree in Human Sciences",
+      "official_url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf",
+      "raw_key": "verified-addition:japan-studies",
+      "discovery_source_url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027年10月",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "英语；同时学习日语",
+      "entry_route": "先进入人间科学（英语本科）所属学士；第四学期起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-human-sciences-all-english-undergraduate-programme-f65412d0ed",
+      "parent_program_url": "https://iudp.hus.osaka-u.ac.jp/program/",
+      "parent_degree_label": "Bachelor's degree in Human Sciences",
+      "name": "人间科学英语本科：日本研究",
+      "subject": "人文",
+      "subjects": [
+        "人文",
+        "社会科学"
+      ]
+    },
+    {
+      "id": "osaka-political-global-studies-53c63afb69",
+      "name_en": "Political and Global Studies",
+      "degree_label": "Bachelor's degree in Human Sciences",
+      "official_url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf",
+      "raw_key": "verified-addition:political-global-studies",
+      "discovery_source_url": "https://iudp.hus.osaka-u.ac.jp/wp-content/uploads/2026/07/2027-HUS-Application-Guidelines.pdf",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027年10月",
+      "duration": "4 年",
+      "campus": "吹田校区",
+      "language": "英语；同时学习日语",
+      "entry_route": "先进入人间科学（英语本科）所属学士；第四学期起的学位内方向，非独立高中申请。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-human-sciences-all-english-undergraduate-programme-f65412d0ed",
+      "parent_program_url": "https://iudp.hus.osaka-u.ac.jp/program/",
+      "parent_degree_label": "Bachelor's degree in Human Sciences",
+      "name": "人间科学英语本科：政治与全球研究"
+    },
+    {
+      "id": "osaka-law-legal-profession-a9663fc5f5",
+      "name_en": "Legal Profession Course — Law",
+      "degree_label": "Bachelor's degree in Laws",
+      "official_url": "https://www.law.osaka-u.ac.jp/undergraduate/legal_profession.html",
+      "raw_key": "verified-addition:law-legal-profession",
+      "discovery_source_url": "https://www.law.osaka-u.ac.jp/undergraduate/legal_profession.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "本科标准4年；符合条件可3年早期毕业",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "法学部在读后按成绩选拔；非高中直申JD，不保证法科大学院录取。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-law-ea17c6a340",
+      "parent_program_url": "http://www.law.osaka-u.ac.jp/en/",
+      "parent_degree_label": "Bachelor's degree in Laws",
+      "name": "法学科：法曹课程"
+    },
+    {
+      "id": "osaka-public-policy-legal-profession-721f727f76",
+      "name_en": "Legal Profession Course — International Public Policy",
+      "degree_label": "Bachelor's degree in Laws",
+      "official_url": "https://www.law.osaka-u.ac.jp/undergraduate/legal_profession.html",
+      "raw_key": "verified-addition:public-policy-legal-profession",
+      "discovery_source_url": "https://www.law.osaka-u.ac.jp/undergraduate/legal_profession.html",
+      "source_period": "official curriculum and 2027 admission sources checked 2026-09-13",
+      "intake": "2027",
+      "duration": "本科标准4年；符合条件可3年早期毕业",
+      "campus": "丰中校区",
+      "language": "有日语准入要求；逐科授课语种待核",
+      "entry_route": "法学部在读后按成绩选拔；非高中直申JD，不保证法科大学院录取。",
+      "requires_prior_degree": false,
+      "record_type": "in_degree_track",
+      "status": "listed_current",
+      "parent_program_id": "osaka-international-public-policy-9ca1d0469f",
+      "parent_program_url": "https://www.law.osaka-u.ac.jp/undergraduate/curriculum/each.html",
+      "parent_degree_label": "Bachelor's degree in Laws",
+      "name": "国际公共政策学科：法曹课程"
     }
   ]
 }

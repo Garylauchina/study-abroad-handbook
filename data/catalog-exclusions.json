@@ -1478,5 +1478,44 @@
         "sha256": "5714bd0524872f5161af48da969d044e7ff9fe82a83105f20e8644154572d8fb"
       }
     ]
+  },
+  {
+    "id": "korea-university-division-of-global-studies-german-studies-course-shut-down-928a9887a4",
+    "university_id": "korea-university",
+    "name_en": "Division of Global Studies(German Studies, course shut down)",
+    "checked_at": "2026-09-13",
+    "reason": "世宗德国研究官网明确标注已关闭，2027本科表未列本项；保留原链接作历史更正。",
+    "sources": [
+      {
+        "id": "KU-4a723e2d92943b87f7",
+        "title": "학과소개",
+        "url": "https://sejong.korea.ac.kr/german/8085/subview.do",
+        "checked_at": "2026-09-13",
+        "sha256": "49121198017a0c451cd6d84eda066859d10cd6d11d0e4b4fb8cd64abac8ca63c"
+      },
+      {
+        "id": "KU-Sejong-Directory",
+        "title": "Sejong College of Global Business official directory",
+        "url": "https://sejong.korea.ac.kr/eng/10289/subview.do",
+        "checked_at": "2026-09-13",
+        "sha256": "d8cf82517f6f778dd639aa4a894fdf0cac6a367e540c292aaf3de74cc32d8864"
+      }
+    ]
+  },
+  {
+    "id": "korea-university-division-of-interdisciplinary-engineering-studies-d6dd1aee2b",
+    "university_id": "korea-university",
+    "name_en": "Division of Interdisciplinary Engineering Studies",
+    "checked_at": "2026-09-13",
+    "reason": "世宗跨学科工程官网明确2023为最后新生、2024起停止新招；原一年级探索后转专业的入口不再计入当前本科目录。",
+    "sources": [
+      {
+        "id": "KU-f24896a597ed5c487f",
+        "title": "자유공학부 소개",
+        "url": "https://sejong.korea.ac.kr/ids/3422/subview.do",
+        "checked_at": "2026-09-13",
+        "sha256": "7e46a453f28bd6fce09caa0e57ab45d3cafda8168a219a91713e17207a157bac"
+      }
+    ]
   }
 ]

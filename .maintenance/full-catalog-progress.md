@@ -92,7 +92,7 @@
 
 - 提交4af0df1680f3e4dd49bf43c1aa3e9b7849827c57已发布main；Actions34719502446 build/deploy均success。线上首页、catalog-index.json（16,112,253字节，SHA be85d982f0760e2c983c6c487a6b27416cdb54096fd2f8f4a363491347eca5f6）与UIUC CS页均HTTP200且逐字节相等；Chrome线上CS的372/229/62%及薪资N43和来源布局已目视。
 
-## 第八批本地验收完成，待发布
+## 第八批已发布并完成线上验收
 
 - Michigan145、Yonsei119研究已整体导入；全站16,578条：36详细、15,942部分专业事实、600学校共用资料。目录仍60完整、36部分，更正页77。未称全量详情完成。
 - Michigan保留140旧ID，新增BBS、牙科卫生学士补全、体育管理2方向、IONM旧届在读方向5项。266个URL+SHA来源及145记录身份、引用闭合通过；Plant Biology在当前LSA目录身份未闭合，仍仅学校资料。
@@ -124,3 +124,21 @@
 
 工作分支codex/full-undergraduate-catalog；首批线上基准4e239f089ad274f5aa1735926f665afed54f78ae。
 scratch忽略且不提交；data/.maintenance只保存可公开事实、来源链接和哈希。git status用--untracked-files=no或计数；提交使用quiet避免数万生成文件输出。发布后继续已授权全量任务。
+
+- 第八批提交 ed9198efad326adf297b5d37f4f5d56d6a775fe9；Actions 34722232182 build/deploy 均 success。线上首页、catalog-index.json、延世新四年医药及密歇根Dental Completion四页均HTTP200且逐字节等于本地；catalog SHA256 3bc20a5e687a15636954a029bfef8ab5c37bd49d964bd10a0d7545c10a1c78f5。Chrome线上16578、Michigan145卡片和延世新医药首屏已目视验证。证据scratch/full-catalog/release8-online-check.json及release8-browser/live-*.txt。
+
+## 第九批整合进行中，尚未发布
+
+- 高丽大学101源记录逐身份/schema/106原文SHA复核；2世宗停招项移更正页，99项导入，首尔与世宗2027语言/日期及2026费用区分。root实读世宗2027简章第3、5页、首尔费用表及药学六年220学分/药学士。
+- NUS root已完成33个联合/本硕记录草稿，全部旧身份/schema/SHA通过；已标出3个建筑旧/暂停路径、CMU暂停、BAIS2026正文版本冲突与境外分段收费，正在独立复核。agent95普通项目未冻结前不导入。
+- Osaka拟68旧+40新（4缺漏专业、2生物学科课程、34在读方向），agent最终复核中。NTU台湾950份2026/27官方必修及全年级资料已核SHA，agent逐项补源。
+
+- 三校最终已整合：高丽99、NUS128原始库存研究（网站含既有独立详细页共129）、大阪108。全站16,616条：36详细、16,205部分专业事实、375学校共用资料；目录60完整、36部分，更正页79。记录计数包含在读方向和联合组，不当独立学位数量。
+- NUS 95普通/特殊项目与33联合项目分别核查；134个URL+SHA来源逐一复核，旧ID保持。root重读Clinical完整FAQ，交叉复核后补大一前说明会/预登记、2026-07-12旧截止与2027缺口。2026/27非ASEAN国际生TG/非TG两价、医学2024届跟踪22%回应率及多联合分阶段费用均明确；BAIS课程矛盾、MUP与CMU暂停不冒充2027开放。
+- 大阪68旧ID与HUS原5条实质事实保留，新增40条分层记录，90个引用URL+SHA与91份证据清单通过；root目视PDF物理43/45页护理200/240无TOEFL、校内一科理科，药学360/320及新旧TOEFL分别核实。IUPS已结束的2027入学窗口不当未来申请；文学20个在读领域不当20独立高中学位。
+- 来源与生成一致性、8 Node/4研究/2资产版本、git diff --check、313项已跟踪改动隐私扫描通过；40新页将在最终扫描一并加入。strict构建及浏览器验收进行中，未发布。
+- 下一批独立研究：NTU台湾62+新增院/校学士与内部组别、SNU99+遗漏专业、Washington Seattle229。代理只写各自scratch，root复核后整合。
+
+- 最终修正三校学科筛选分类112项，药学/保健、外语与明确工程方向不再因英文简称漏分类。最终strict构建185.96秒通过；16,825HTML、933,037内部引用、18,790搜索条目、522.8MB及搜索行为检查通过。首轮站点校验与重建重叠导致search_index临时缺失，已在最终构建完成后完整重跑通过。
+- 来源与生成一致性、8 Node/4研究/2资产版本、353项（含40新增页）隐私扫描、git diff --check通过。Chrome实际点击日本→韩国保留药学查询并正确更新结果；大阪108与4药学分层、护理一科校内理科、新国大医学22%回应率/2024跟踪及390px临床心理首屏均目视通过。第九批待提交发布。
+- Root已准备Brown下一批：107条对应当前88个主目录页，无URL差集；尚未闭合内部方向和PLME等特殊路线。Architecture2025起关闭新生、Chemical Physics关闭新declare已定位，下一批须更正。scratch/full-catalog/brown-enrichment/ROOT-NOTES.md记录已读范围，未修改产品。

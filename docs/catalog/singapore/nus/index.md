@@ -23,140 +23,140 @@ hide:
 
 ## 专业与申请资料
 
-129 个专业条目 · 4 个含详细资料 · 57 个补有专业资料 · 68 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+129 个专业条目 · 4 个含详细资料 · 125 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=nus#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-anthropology-4e7879cc2e/">Anthropology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-audio-arts-and-sciences-27b9d33493/">Audio Arts and Sciences</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-f6a9ef659c/">Bachelor of Arts (Architecture)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-master-of-architecture-055c5f2250/">Bachelor of Arts (Architecture) &amp; Master of Architecture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-master-of-landscape-architecture-f8fc6e5b0a/">Bachelor of Arts (Architecture) &amp; Master of Landscape Architecture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-master-of-urban-planning-4fc4e1b925/">Bachelor of Arts (Architecture) &amp; Master of Urban Planning</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15/">Bachelor of Arts (Honours)/Bachelor of Social Sciences (Honours)/Bachelor of Arts (Honours) in PPE (Philosophy, Politics, and Economics) and Master in Public Policy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-industrial-design-db108c123c/">Bachelor of Arts (Industrial Design)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-anthropology-4e7879cc2e/">人类学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-audio-arts-and-sciences-27b9d33493/">音频艺术与科学</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-f6a9ef659c/">建筑学</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-master-of-architecture-055c5f2250/">建筑学衔接建筑学硕士（分届路径）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-master-of-landscape-architecture-f8fc6e5b0a/">建筑学与景观建筑硕士衔接（旧目录路径）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-architecture-master-of-urban-planning-4fc4e1b925/">建筑学与城市规划本硕衔接（暂停）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-honours-bachelor-of-social-sciences-honours-bach-0fe6e97c15/">文社科学士与公共政策本硕衔接</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-arts-industrial-design-db108c123c/">工业设计</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration/">工商管理（荣誉）</a><small>Bachelor of Business Administration (Honours) · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-with-honours-bachelor-of-busi-6971cbbef1/">Bachelor of Business Administration with Honours / Bachelor of Business Administration (Accountancy) with Honours &amp; Master of Science (Management)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-with-honours-bachelor-of-busi-9dbec513af/">Bachelor of Business Administration with Honours/Bachelor of Business Administration (Accountancy) with Honours &amp; Master in Public Policy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-015f56b0e5/">Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) &amp; Bachelor of Computing (Computer Science/Information Systems)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-57823ada28/">Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) &amp; Bachelor of Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-9bcb70b183/">Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) &amp; Bachelor of Laws</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-037523d138/">Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) &amp; Bachelor of Science (Business Analytics)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-31d9b2a43c/">Bachelor of Business Administration/Bachelor of Business Administration (Accountancy) &amp; Bachelor of Social Science in Communications and New Media</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-computer-science-bachelor-of-science-in-mat-e4e171cad9/">Bachelor of Computing (Computer Science) &amp; Bachelor of Science in Mathematics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-with-honours-bachelor-of-busi-6971cbbef1/">工商管理与管理学硕士衔接</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-with-honours-bachelor-of-busi-9dbec513af/">工商管理与公共政策本硕衔接</a><small>BBA/BBA(Acc) (Honours) + Master in Public Policy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-015f56b0e5/">工商管理与计算机科学／信息系统双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-57823ada28/">工程与工商管理双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-9bcb70b183/">工商管理与法律双荣誉学位</a><small>Bachelor of Business Administration (Honours) + Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-037523d138/">工商管理与商业分析双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-business-administration-bachelor-of-business-administ-31d9b2a43c/">工商管理与传播及新媒体双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-computer-science-bachelor-of-science-in-mat-e4e171cad9/">计算机科学与数学双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-computer-science/">计算机科学（荣誉）</a><small>Bachelor of Computing (Honours) in Computer Science · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-in-artificial-intelligence-76aed1f9ba/">Bachelor of Computing in Artificial Intelligence</a><small>Bachelor of Computing · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-in-business-artificial-intelligence-systems-74b354839a/">Bachelor of Computing in Business Artificial Intelligence Systems</a><small>Bachelor of Computing · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-in-information-security-d992a7f027/">Bachelor of Computing in Information Security</a><small>Bachelor of Computing · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-with-honours-master-of-science-management-2bb397ba44/">Bachelor of Computing with Honours &amp; Master of Science (Management)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-bachelor-of-arts-bachelor-of-engineering-22ebbd6802/">Bachelor of Engineering &amp; Bachelor of Arts/Bachelor of Engineering &amp; Bachelor of Landscape Architecture/Bachelor of Engineering &amp; Bachelor of Engineering/Bachelor of Arts &amp; Bachelor of Arts</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-bachelor-of-social-science-in-economics-c553436836/">Bachelor of Engineering &amp; Bachelor of Social Science in Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-biomedical-engineering-bc0fe9dd6c/">Bachelor of Engineering (Biomedical Engineering)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-chemical-engineering-f20e08ea13/">Bachelor of Engineering (Chemical Engineering)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-civil-engineering-e3184446d2/">Bachelor of Engineering (Civil Engineering)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-computer-engineering-8265fb5ce4/">Bachelor of Engineering (Computer Engineering)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-in-artificial-intelligence-76aed1f9ba/">人工智能</a><small>Bachelor of Computing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-in-business-artificial-intelligence-systems-74b354839a/">商业人工智能系统</a><small>Bachelor of Computing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-in-information-security-d992a7f027/">信息安全</a><small>Bachelor of Computing · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-computing-with-honours-master-of-science-management-2bb397ba44/">计算机学士与管理学硕士衔接</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-bachelor-of-arts-bachelor-of-engineering-22ebbd6802/">设计与工程学院内部双学位组合</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-bachelor-of-social-science-in-economics-c553436836/">工程与经济学双荣誉学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-biomedical-engineering-bc0fe9dd6c/">生物医学工程</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-chemical-engineering-f20e08ea13/">化学工程</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-civil-engineering-e3184446d2/">土木工程</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-computer-engineering-8265fb5ce4/">计算机工程</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-electrical-engineering/">电气工程（荣誉）</a><small>Bachelor of Engineering (Electrical Engineering) · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-engineering-science-e27ca1592b/">Bachelor of Engineering (Engineering Science)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-environmental-and-sustainability-engineer-606be3c10a/">Bachelor of Engineering (Environmental and Sustainability Engineering)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-industrial-and-systems-engineering-a1bfbfbfd4/">Bachelor of Engineering (Industrial and Systems Engineering)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-infrastructure-and-project-management-60925b1c5f/">Bachelor of Engineering (Infrastructure and Project Management)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-materials-science-and-engineering-4c00e71d76/">Bachelor of Engineering (Materials Science and Engineering)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-mechanical-engineering-449d489194/">Bachelor of Engineering (Mechanical Engineering)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-robotics-and-machine-intelligence-76e85be420/">Bachelor of Engineering (Robotics and Machine Intelligence)</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-any-discipline-except-engineering-science-445a84757a/">Bachelor of Engineering {any discipline except Engineering Science} and Master of Science (Management)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-information-technology-7d4bf00695/">Bachelor of Information Technology</a><small>Bachelor of Information Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-landscape-architecture-2aaaf413de/">Bachelor of Landscape Architecture</a><small>Bachelor of Landscape Architecture · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-law-master-in-public-policy-aa7191cf33/">Bachelor of Law &amp; Master in Public Policy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-project-and-facilities-management-bachelor-of-b8f03adb0b/">Bachelor of Science (Project and Facilities Management) / Bachelor of Science (Honours) / Bachelor of Engineering/ Bachelor of Computing (Computer Science or Information Systems)/ Bachelor of Arts (Architecture) / Bachelor of Arts (Industrial Design) and Master of Science (Project Management)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-real-estate-master-of-urban-planning-1f0393844f/">Bachelor of Science (Real Estate) &amp; Master of Urban Planning</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-in-business-analytics-b52dbb1f9a/">Bachelor of Science in Business Analytics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-in-life-sciences-from-nus-and-doctor-of-veter-d2507f345c/">Bachelor of Science in Life Sciences from NUS and Doctor of Veterinary Medicine, University of Melbourne</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-business-admi-8a4b0f13b8/">Bachelor of Social Science in Economics &amp; Bachelor of Business Administration/Bachelor of Business Administration (Accountancy)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-computing-inf-82ce38720f/">Bachelor of Social Science in Economics &amp; Bachelor of Computing (Information Systems)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-laws-8a489f4ba3/">Bachelor of Social Science in Economics &amp; Bachelor of Laws</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-science-busin-77d3383def/">Bachelor of Social Science in Economics &amp; Bachelor of Science (Business Analytics)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-engineering-science-e27ca1592b/">工程科学</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-environmental-and-sustainability-engineer-606be3c10a/">环境与可持续工程</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-industrial-and-systems-engineering-a1bfbfbfd4/">工业与系统工程</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-infrastructure-and-project-management-60925b1c5f/">基础设施与项目管理</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-materials-science-and-engineering-4c00e71d76/">材料科学与工程</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-mechanical-engineering-449d489194/">机械工程</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-robotics-and-machine-intelligence-76e85be420/">机器人与机器智能</a><small>Bachelor of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-engineering-any-discipline-except-engineering-science-445a84757a/">工程学士与管理学硕士衔接</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-information-technology-7d4bf00695/">信息技术（在职本科）</a><small>Bachelor of Information Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-landscape-architecture-2aaaf413de/">景观建筑学</a><small>Bachelor of Landscape Architecture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-law-master-in-public-policy-aa7191cf33/">法律与公共政策本硕衔接</a><small>LLB (Honours) + Master in Public Policy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-project-and-facilities-management-bachelor-of-b8f03adb0b/">多学科学士与项目管理硕士衔接（资格待核）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-real-estate-master-of-urban-planning-1f0393844f/">房地产与城市规划本硕衔接（暂停）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-in-business-analytics-b52dbb1f9a/">商业分析</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-science-in-life-sciences-from-nus-and-doctor-of-veter-d2507f345c/">生命科学与墨尔本兽医博士衔接</a><small>BSc (Honours) in Life Sciences + Doctor of Veterinary Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-business-admi-8a4b0f13b8/">经济学与工商管理双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-computing-inf-82ce38720f/">经济学与信息系统／商业人工智能系统双学位</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-laws-8a489f4ba3/">经济学与法律双荣誉学位</a><small>Bachelor of Social Sciences (Honours) in Economics + Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-science-in-economics-bachelor-of-science-busin-77d3383def/">经济学与商业分析双荣誉学位</a><small>Bachelor of Science (Honours) in Business Analytics + Bachelor of Social Sciences (Honours) in Economics · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-economics/">经济学（荣誉；CHS 共同入口）</a><small>Bachelor of Social Sciences (Honours) in Economics · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-sciences-honours-in-psychology-and-master-of-p-1aedd7d8d1/">Bachelor of Social Sciences (Honours) in Psychology and Master of Psychology (Clinical)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-sciences-honours-in-psychology-and-master-of-s-bee0e5d842/">Bachelor of Social Sciences (Honours) in Psychology and Master of Social Sciences in Psychology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-chemical-engineering-90dd1e28a3/">Bachelor of Technology (Chemical Engineering)</a><small>Bachelor of Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-civil-engineering-a78bfae1f1/">Bachelor of Technology (Civil Engineering)</a><small>Bachelor of Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-electronics-engineering-9212d61e71/">Bachelor of Technology (Electronics Engineering)</a><small>Bachelor of Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-industrial-management-engineering-b20bd9d5a4/">Bachelor of Technology (Industrial &amp; Management Engineering)</a><small>Bachelor of Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-mechanical-engineering-81456388c2/">Bachelor of Technology (Mechanical Engineering)</a><small>Bachelor of Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-supply-chain-management-b5c80bb35d/">Bachelor of Technology (Supply Chain Management)</a><small>Bachelor of Technology · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-with-honours-degree-from-nus-and-bachelor-of-arts-from-s-b6142c8c73/">Bachelor with Honours Degree from NUS and Bachelor of Arts from Sciences Po</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-with-honours-degree-from-nus-and-bachelor-of-arts-in-int-e4b3aa52f0/">Bachelor with Honours Degree from NUS and Bachelor of Arts in International Liberal Studies from Waseda University</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-s-and-master-of-science-management-concurrent-degrees-nu-b91c5b3ed1/">Bachelor&#x27;s and Master of Science (Management) Concurrent Degrees (NUS) and the CEMS Master in International Management (MIM)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-master-of-engineering-or-bachelor-master-of-science-or-b-92eacc2757/">Bachelor/Master of Engineering or Bachelor/Master of Science or Bachelor/Master of Computing from NUS and Diplôme d&#x27;Ingénieur from French Grande École (the equivalent of Masters in France)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bassoon-performance-09dd367e38/">Bassoon Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-accountancy-665812eeba/">Business Administration — Accountancy</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-applied-business-analytics-d1f1833ac5/">Business Administration — Applied Business Analytics</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-business-economics-e43ea1f4f3/">Business Administration — Business Economics</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-finance-f9eb425097/">Business Administration — Finance</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-innovation-and-entrepreneurship-03d19dff8a/">Business Administration — Innovation and Entrepreneurship</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-leadership-and-human-capital-management-7c162f0e4d/">Business Administration — Leadership and Human Capital Management</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-marketing-2f7bc870ee/">Business Administration — Marketing</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-operations-and-supply-chain-management-ed7cc77855/">Business Administration — Operations and Supply Chain Management</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-real-estate-b3d3a942b5/">Business Administration — Real Estate</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-cello-performance-dfae1a31ca/">Cello Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-chemistry-a1201027b2/">Chemistry</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-chinese-language-a1aa88b1b9/">Chinese Language</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-chinese-studies-71fbea862d/">Chinese Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-clarinet-performance-a216ff8103/">Clarinet Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-communications-and-new-media-8ea69c8a2e/">Communications and New Media</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-composition-8b3864e168/">Composition</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-concurrent-programme-in-bachelor-of-computing-information-systems-bb7adee441/">Concurrent Programme in Bachelor of Computing (Information Systems) and Master of Science (Engineering and Technology Innovation Management) of Carnegie Mellon University</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-data-science-and-applied-ai-9590d5383e/">Data Science and Applied AI</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-data-science-and-economics-cross-disciplinary-programme-d14856b0e6/">Data Science and Economics (cross-disciplinary programme)</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-dental-surgery-0e345d08cc/">Dental Surgery</a><small>Bachelor of Dental Surgery · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-double-bass-performance-6373d9b7ee/">Double Bass Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-english-language-and-linguistics-3d25158bde/">English Language and Linguistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-english-literature-6f06a575b9/">English Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-environmental-studies-bachelor-of-environmental-studies-hons-cros-d7fc5e4d87/">Environmental Studies (Bachelor of Environmental Studies (Hons)) (cross-disciplinary programme)</a><small>Bachelor of Environmental Studies (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-flute-performance-a2c73b1235/">Flute Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-food-science-and-technology-248f8b82ba/">Food Science and Technology</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-french-horn-performance-a2fde9168b/">French Horn Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-geography-fc2e2ac06d/">Geography</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-global-studies-587d201738/">Global Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-harp-performance-5bbb8cd62b/">Harp Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-history-f197df6a38/">History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-japanese-studies-88482577db/">Japanese Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-joint-bachelor-of-science-honours-in-life-sciences-nus-and-bachel-ac4bfeadbc/">Joint Bachelor of Science (Honours) in Life Sciences, NUS and Bachelor of Science (Honours) in Biological Sciences/Biomedical Sciences from University of Dundee</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-c0e924629d/">Law</a><small>LLB (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-life-sciences-cb4bbfcf6f/">Life Sciences</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-malay-studies-da84fa0d6f/">Malay Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-mathematics-97b0c6b5c3/">Mathematics</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-medicine-and-surgery-aa42a2602b/">Medicine and Surgery</a><small>Bachelor of Medicine and Bachelor of Surgery (MBBS) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-music-and-society-17a625851e/">Music and Society</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-music-collaboration-and-production-f4d1938b02/">Music, Collaboration and Production</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-nursing-54b24edf70/">Nursing</a><small>Bachelor of Science (Nursing) / Bachelor of Science (Nursing) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-nursing-practice-6cfe755bf5/">Nursing Practice</a><small>Bachelor of Science (Nursing Practice) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-nursing-career-conversion-programme-09e7ab3786/">Nursing — Career Conversion Programme</a><small>Bachelor of Science (Nursing) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-oboe-performance-d63c5c552c/">Oboe Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-percussion-performance-a73405827c/">Percussion Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-pharmaceutical-science-6948e1f3c6/">Pharmaceutical Science</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-pharmacy-efb03dea20/">Pharmacy</a><small>Bachelor of Pharmacy / Bachelor of Pharmacy (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-philosophy-a663d5c745/">Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-philosophy-political-science-and-economics-ppe-programme-731770b4fb/">Philosophy, Political Science, and Economics (PPE) Programme</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-physics-7449336bbc/">Physics</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-piano-performance-1ffff9c231/">Piano Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-political-science-019c118211/">Political Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-psychology-99d7295963/">Psychology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-quantitative-finance-0c9d92b031/">Quantitative Finance</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-social-work-13798d4982/">Social Work</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-sociology-4273b8357a/">Sociology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-south-asian-studies-8dca6ee48b/">South Asian Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-southeast-asian-studies-1e4da06efe/">Southeast Asian Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-statistics-44bb9682b8/">Statistics</a><small>Bachelor of Science (Honours) · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-theatre-and-performance-studies-dd6a85334c/">Theatre and Performance Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-trombone-performance-f4edb239dd/">Trombone Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-trumpet-performance-7a86bc7066/">Trumpet Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-tuba-performance-3a5fb95cd8/">Tuba Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-two-bachelor-of-engineering-programmes-32526ab39b/">Two Bachelor of Engineering programmes</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-viola-performance-9bd226ae96/">Viola Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-violin-performance-ebaaa08108/">Violin Performance</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-voice-b76ed55c93/">Voice</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-sciences-honours-in-psychology-and-master-of-p-1aedd7d8d1/">心理学荣誉学士与临床心理硕士</a><small>BSocSci (Honours) + Master of Psychology (Clinical) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-social-sciences-honours-in-psychology-and-master-of-s-bee0e5d842/">心理学荣誉学士与研究型硕士</a><small>BSocSci (Honours) + MSocSci (Psychology by Research) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-chemical-engineering-90dd1e28a3/">化学工程（兼读制技术学士）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-civil-engineering-a78bfae1f1/">土木工程（兼读制技术学士）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-electronics-engineering-9212d61e71/">电子工程（兼读制技术学士）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-industrial-management-engineering-b20bd9d5a4/">工业与管理工程（兼读制技术学士）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-mechanical-engineering-81456388c2/">机械工程（兼读制技术学士）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-of-technology-supply-chain-management-b5c80bb35d/">供应链管理（兼读制技术学士）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-with-honours-degree-from-nus-and-bachelor-of-arts-from-s-b6142c8c73/">新国大与巴黎政治学院双学位</a><small>Sciences Po Bachelor of Arts + NUS BA/BSocSci (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-with-honours-degree-from-nus-and-bachelor-of-arts-in-int-e4b3aa52f0/">新国大与早稻田双学位</a><small>NUS BA/BSocSci/BSc (Honours) + Waseda Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-s-and-master-of-science-management-concurrent-degrees-nu-b91c5b3ed1/">学士、管理学硕士与CEMS国际管理硕士</a><small>Bachelor degree + MSc (Management) + CEMS Master in International Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bachelor-master-of-engineering-or-bachelor-master-of-science-or-b-92eacc2757/">法国工程大学校联合本硕项目</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-bassoon-performance-09dd367e38/">巴松演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-accountancy-665812eeba/">会计学</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-applied-business-analytics-d1f1833ac5/">应用商业分析</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-business-economics-e43ea1f4f3/">商业经济学</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-finance-f9eb425097/">金融学</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-innovation-and-entrepreneurship-03d19dff8a/">创新与创业</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-leadership-and-human-capital-management-7c162f0e4d/">领导力与人力资本管理</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-marketing-2f7bc870ee/">市场营销</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-operations-and-supply-chain-management-ed7cc77855/">运营与供应链管理</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-business-administration-real-estate-b3d3a942b5/">房地产</a><small>Bachelor of Business Administration (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-cello-performance-dfae1a31ca/">大提琴演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-chemistry-a1201027b2/">化学</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-chinese-language-a1aa88b1b9/">中国语言与文化</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-chinese-studies-71fbea862d/">中国研究（双语）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-clarinet-performance-a216ff8103/">单簧管演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-communications-and-new-media-8ea69c8a2e/">传播与新媒体</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-composition-8b3864e168/">作曲</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-concurrent-programme-in-bachelor-of-computing-information-systems-bb7adee441/">信息系统与卡内基梅隆软件工程本硕衔接（暂停审查）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-data-science-and-applied-ai-9590d5383e/">数据科学与应用人工智能</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-data-science-and-economics-cross-disciplinary-programme-d14856b0e6/">数据科学与经济学</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-dental-surgery-0e345d08cc/">牙医学</a><small>Bachelor of Dental Surgery · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-double-bass-performance-6373d9b7ee/">低音提琴演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-english-language-and-linguistics-3d25158bde/">英语语言与语言学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-english-literature-6f06a575b9/">英语文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-environmental-studies-bachelor-of-environmental-studies-hons-cros-d7fc5e4d87/">环境研究</a><small>Bachelor of Environmental Studies (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-flute-performance-a2c73b1235/">长笛演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-food-science-and-technology-248f8b82ba/">食品科学与技术</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-french-horn-performance-a2fde9168b/">圆号演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-geography-fc2e2ac06d/">地理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-global-studies-587d201738/">全球研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-harp-performance-5bbb8cd62b/">竖琴演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-history-f197df6a38/">历史学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-japanese-studies-88482577db/">日本研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-joint-bachelor-of-science-honours-in-life-sciences-nus-and-bachel-ac4bfeadbc/">生命科学与邓迪联合学位</a><small>Jointly validated BSc (Honours) in Life Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-law-c0e924629d/">法学</a><small>LLB (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-life-sciences-cb4bbfcf6f/">生命科学</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-malay-studies-da84fa0d6f/">马来研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-mathematics-97b0c6b5c3/">数学</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-medicine-and-surgery-aa42a2602b/">医学与外科学</a><small>Bachelor of Medicine and Bachelor of Surgery (MBBS) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-music-and-society-17a625851e/">音乐与社会</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-music-collaboration-and-production-f4d1938b02/">音乐、协作与制作</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-nursing-54b24edf70/">护理学</a><small>Bachelor of Science (Nursing) / Bachelor of Science (Nursing) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-nursing-practice-6cfe755bf5/">护理实践（注册护士兼读制）</a><small>Bachelor of Science (Nursing Practice) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-nursing-career-conversion-programme-09e7ab3786/">护理学职业转换（已有非护理学位）</a><small>Bachelor of Science (Nursing) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-oboe-performance-d63c5c552c/">双簧管演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-percussion-performance-a73405827c/">打击乐</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-pharmaceutical-science-6948e1f3c6/">药物科学</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-pharmacy-efb03dea20/">药学</a><small>Bachelor of Pharmacy / Bachelor of Pharmacy (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-philosophy-a663d5c745/">哲学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-philosophy-political-science-and-economics-ppe-programme-731770b4fb/">哲学、政治与经济（PPE）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-physics-7449336bbc/">物理学</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-piano-performance-1ffff9c231/">钢琴演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-political-science-019c118211/">政治学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-psychology-99d7295963/">心理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-quantitative-finance-0c9d92b031/">数量金融</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-social-work-13798d4982/">社会工作</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-sociology-4273b8357a/">社会学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-south-asian-studies-8dca6ee48b/">南亚研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-southeast-asian-studies-1e4da06efe/">东南亚研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-statistics-44bb9682b8/">统计学</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-theatre-and-performance-studies-dd6a85334c/">戏剧与表演研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-trombone-performance-f4edb239dd/">长号演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-trumpet-performance-7a86bc7066/">小号演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-tuba-performance-3a5fb95cd8/">大号演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-two-bachelor-of-engineering-programmes-32526ab39b/">两个工程荣誉学位（CDE内部双学位子类）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-viola-performance-9bd226ae96/">中提琴演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-violin-performance-ebaaa08108/">小提琴演奏</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-voice-b76ed55c93/">声乐</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -186,32 +186,41 @@ hide:
 <p class="catalog-fact"><strong>国际本科奖学金：</strong>面向非新加坡籍、申请全日制本科新生，转学生不适用；通过录取申请择优，不保证获奖。获奖者须接受TG，覆盖补助后学费，年生活SGD5,800、住宿5,000及一次电脑1,750。普通续领须GPA≥3.5且品行良好；医牙法为同届前80%。NUS本科+墨尔本DVM本硕路径不在此奖项覆盖内。</p>
 <p class="fact-sources"><a href="#source-u-ASREN-411c00b1e61446">官方依据</a></p>
 
+### 毕业生情况
+
+<p class="catalog-fact"><strong>2025官方调查样本：</strong>NUS 2025 GES邀请7,567名应届及577名跟踪毕业生，回应率分别68.2%和29.3%。调查结果不分中国籍学生，按学位或合并学位组发布。已落实就业还包括已接受稍后上岗的工作及正筹备创业者，因此不同于当前就业。</p>
+<p class="fact-sources"><a href="#source-u-NUS26-efe847f8074c14">官方依据</a></p>
+
+<p class="catalog-fact"><strong>就业与薪资分母：</strong>就业比例以2025-11-01在劳动力中的受访毕业生为分母；月薪只含全职长期受雇者，非全体毕业生。报告未单列中国籍或大陆学生。全职长期指每周至少35小时且非临时岗位，也包括一年以上合同；总月薪含固定津贴等经常现金收入，不含奖金、雇主CPF和股票。</p>
+<p class="fact-sources"><a href="#source-u-NUS26-efe847f8074c14">官方依据</a></p>
+
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-ASREN-91c45582176a42"><div><a href="https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination">NUS高考申请资格（页面仍为2026） ↗</a><p>高考／在读申请材料及受限专业；不用其2026日期替代2027</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语教学、IELTS/TOEFL成绩有效期</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-0acd9e45ef5adf"><div><a href="https://www.nus.edu.sg/oam/admissions/important-dates">NUS AY2027/28申请日期 ↗</a><p>国际学历2027申请期、三日补成绩</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-52f7218d62748f"><div><a href="https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf">NUS2026/27新生年学费表 ↗</a><p>非ASEAN国际生TG及未TG的学院费用</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-a7c9f06a434aa5"><div><a href="https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees">NUS Tuition Grant和服务义务 ↗</a><p>国际生补助需申请签署及医牙特殊服务</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-ASREN-411c00b1e61446"><div><a href="https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship">NUS International Undergraduate Scholarship ↗</a><p>全日制国际新生资助、续领及排除</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-91c45582176a42"><div><a href="https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination">NUS高考申请资格（页面仍为2026） ↗</a><p>高考与高中在读</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-dd5861bce6faef"><div><a href="https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf">NUS英语要求（2026年9月版） ↗</a><p>英语要求及授课</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-0acd9e45ef5adf"><div><a href="https://www.nus.edu.sg/oam/admissions/important-dates">NUS AY2027/28申请日期 ↗</a><p>2027/28国际学历申请</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-52f7218d62748f"><div><a href="https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf">NUS2026/27新生年学费表 ↗</a><p>2026/27新生年费参考</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-a7c9f06a434aa5"><div><a href="https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees">NUS Tuition Grant和服务义务 ↗</a><p>Tuition Grant及医牙义务</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-411c00b1e61446"><div><a href="https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship">NUS International Undergraduate Scholarship ↗</a><p>国际本科奖学金</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-NUS26-efe847f8074c14"><div><a href="https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf">新加坡教育部NUS 2025毕业就业调查 ↗</a><p>2025官方调查样本；就业与薪资分母</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
 **官方目录仍在补齐**，共 128 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
+<p><strong>统计范围：</strong>现有本科主修、音乐方向、特殊护理及兼读项目、双学位和本硕衔接组；各条注明层级和入口</p>
 
-<p><strong>对账方法：</strong>[{&quot;school&quot;: &quot;faculty-of-arts-and-social-sciences&quot;, &quot;entries&quot;: 21}, {&quot;school&quot;: &quot;school-of-business&quot;, &quot;entries&quot;: 9}, {&quot;school&quot;: &quot;college-of-design-and-engineering&quot;, &quot;entries&quot;: 15}, {&quot;school&quot;: &quot;faculty-of-science&quot;, &quot;entries&quot;: 12}, {&quot;school&quot;: &quot;school-of-computing&quot;, &quot;entries&quot;: 5, &quot;Computer_Engineering&quot;: &quot;coalesced with CDE&quot;}, {&quot;school&quot;: &quot;school-of-continuing-lifelong-education&quot;, &quot;entries&quot;: 7}, {&quot;school&quot;: &quot;yong-loo-lin-school-of-medicine-including-nursing&quot;, &quot;entries&quot;: 4}, {&quot;school&quot;: &quot;yong-siew-toh-conservatory-of-music&quot;, &quot;entries&quot;: 20}, {&quot;programme_type&quot;: &quot;double-degree-programmes&quot;, &quot;bachelor_containing_links&quot;: 16}, {&quot;programme_type&quot;: &quot;joint-degree-programmes&quot;, &quot;bachelor_containing_links&quot;: 1}, {&quot;programme_type&quot;: &quot;concurrent-degree-programmes&quot;, &quot;bachelor_containing_links&quot;: 16}]</p>
+<p><strong>对账方法：</strong>95项普通及特殊本科由独立研究者核验，33联合项目另逐项核验并交叉审阅；保留全部128旧ID，更新中文课程、实际招生及分阶段收费和毕业调查口径。</p>
 
 <p><strong>排除项：</strong>All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.</p>
 
 **尚未解决的目录缺口：**
 
-- AY2026/27 Bulletin faculty degree and primary-major lists and all three combined-degree indexes read. Admissions-school primary-major count does not include every music/part-time/combined route in this collection.
-- Combined-degree index contains old award names and generic combinations; retained as listed_route_requires_verification, not claimed currently open or split into invented combinations.
-- Science bulletin has Data Science and Analytics vs Data Science and Applied AI naming conflict; detailed Major Requirements wording retained with alias/conflict flag.
-- FASS names in this bulletin differ from newer CHS programme-site naming (Chinese Language/Studies); further official per-major reconciliation needed.
-- No blanket inference that AY2026/27 means 2027 undergraduate intake.
+- Social Work+MPH、Law Exchange Plus的合作路线、工业工程衔接及AI+数学等候选仍需逐项入库；当前128项不等于全部路线已闭合。
+- 部分联合条目仍含旧会计或不同荣誉学位变体，未按所有当届组合拆分；邓迪三方向等仍有待逐项扩列。
+- 大多数2027/28新生收费和专业考试日期未取得；已核2026/27费表按非ASEAN国际生TG与非TG两价标年使用。
+- BAIS与旧IS课程表存在标题、学位及总学分矛盾；暂停及旧建筑衔接路径不能当2027开放招生。
+- GES调查仅用于对应学位与毕业届，未单列大陆学生；大多联合组合没有独立毕业就业率与薪资。
 
 - [官方目录来源](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/undergraduate-education/)
 - [官方目录来源](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/undergraduate-education/)
@@ -227,5 +236,129 @@ hide:
 - [官方目录来源](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/undergraduate-education/)
 - [官方目录来源](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-dentistry/undergraduate-education/)
 - [官方目录来源](https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-science/undergraduate-education/)
+- [官方目录来源](https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf)
+- [官方目录来源](https://fass.nus.edu.sg/socanth/overview-programmes-anthropology/)
+- [官方目录来源](https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf)
+- [官方目录来源](https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf)
+- [官方目录来源](https://fass.nus.edu.sg/chs/honours-programme/)
+- [官方目录来源](https://fass.nus.edu.sg/cs/discoverchs/)
+- [官方目录来源](https://fass.nus.edu.sg/chs/honours-programme/)
+- [官方目录来源](https://fass.nus.edu.sg/cnm/undergraduate-major/)
+- [官方目录来源](https://fass.nus.edu.sg/ecs/requirements-for-economics-major/)
+- [官方目录来源](https://fass.nus.edu.sg/ell/ug_el/)
+- [官方目录来源](https://fass.nus.edu.sg/elts/undergraduate-degrees-in-english-literature/)
+- [官方目录来源](https://fass.nus.edu.sg/geog/undergraduate/)
+- [官方目录来源](https://fass.nus.edu.sg/globalstudies/discoverglobalstudies/)
+- [官方目录来源](https://fass.nus.edu.sg/hist/history-requirements/)
+- [官方目录来源](https://fass.nus.edu.sg/jps/honours-programme/)
+- [官方目录来源](https://fass.nus.edu.sg/mls/honours-programme-and-single-major/)
+- [官方目录来源](https://fass.nus.edu.sg/ppe/)
+- [官方目录来源](https://chs.nus.edu.sg/programmes/ppe/)
+- [官方目录来源](https://fass.nus.edu.sg/philo/overview/academic-requirements/)
+- [官方目录来源](https://fass.nus.edu.sg/pol/graduation-requirements-cohort-2021-onwards/)
+- [官方目录来源](https://fass.nus.edu.sg/psy/honours-programme/)
+- [官方目录来源](https://fass.nus.edu.sg/swk/entry-graduation-requirement-undergraduate/)
+- [官方目录来源](https://fass.nus.edu.sg/socanth/overview-programmes-sociology/)
+- [官方目录来源](https://fass.nus.edu.sg/sas/honours-programme/)
+- [官方目录来源](https://fass.nus.edu.sg/sea/single-major/)
+- [官方目录来源](https://fass.nus.edu.sg/elts/undergraduate-degrees-in-theatre-and-performance-studies/)
+- [官方目录来源](https://www.nus.edu.sg/oam/docs/default-source/international-qualifications/cat-d-sdp.pdf)
+- [官方目录来源](https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/)
+- [官方目录来源](https://bba.nus.edu.sg/)
+- [官方目录来源](https://bba.nus.edu.sg/curriculum-ay2026-2027-onwards/)
+- [官方目录来源](https://cde.nus.edu.sg/arch/programmes/bachelor-of-arts-in-architecture/)
+- [官方目录来源](https://cde.nus.edu.sg/arch/programmes/master-of-architecture/)
+- [官方目录来源](https://cde.nus.edu.sg/did/undergraduate/)
+- [官方目录来源](https://cde.nus.edu.sg/bme/wp-content/uploads/sites/8/2026/05/BME-requirements-and-schedules-2025-2026-onward.pdf)
+- [官方目录来源](https://cde.nus.edu.sg/chbe/wp-content/uploads/sites/5/2026/07/Direct-Entry-Students_AY2026-2027-Cohort.pdf)
+- [官方目录来源](https://cde.nus.edu.sg/cee/undergraduate/beng-civil/build-your-own-degree-civil-engineering/)
+- [官方目录来源](https://ceg.nus.edu.sg/curriculum/)
+- [官方目录来源](https://ceg.nus.edu.sg/curriculum/requirements/)
+- [官方目录来源](https://cde.nus.edu.sg/ece/undergraduate/electrical-engineering/ee-curriculum-structure-ay2025-26/)
+- [官方目录来源](https://cde.nus.edu.sg/esp/undergraduate/b-eng-engineering-science/curriculum-structure/)
+- [官方目录来源](https://cde.nus.edu.sg/cee/undergraduate/beng-env/)
+- [官方目录来源](https://cde.nus.edu.sg/isem/wp-content/uploads/sites/12/2026/06/AY2025-26-ISE-Curriculum_Jun2026.pdf)
+- [官方目录来源](https://cde.nus.edu.sg/dbe/wp-content/uploads/sites/26/2026/07/ProgrammeStructure_AY2025_VJul2026.pdf)
+- [官方目录来源](https://cde.nus.edu.sg/dbe/ipm-curriculum-and-programme-structure-2-5/)
+- [官方目录来源](https://cde.nus.edu.sg/mse/wp-content/uploads/sites/4/2026/08/Matriculated_fm_AY2627.pdf)
+- [官方目录来源](https://cde.nus.edu.sg/me/undergraduate/beng-me/curriculum/)
+- [官方目录来源](https://cde.nus.edu.sg/me/undergraduate/beng-rmi/overview/)
+- [官方目录来源](https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/)
+- [官方目录来源](https://chemistry.nus.edu.sg/undergraduates-cohort-2021-and-after/)
+- [官方目录来源](https://www.stat.nus.edu.sg/education/undergraduate/prospective-student/major-in-data-science-applied-ai/)
+- [官方目录来源](https://www.fst.nus.edu.sg/education/undergraduate-programme/course-structure/primary-major-in-fst/)
+- [官方目录来源](https://www.dbs.nus.edu.sg/lifesciences/)
+- [官方目录来源](https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2026/06/MA_2122_15062026.pdf)
+- [官方目录来源](https://pharmacy.nus.edu.sg/study/undergraduate/bachelor-of-science-pharmaceutical-science/)
+- [官方目录来源](https://www.physics.nus.edu.sg/student/major-in-physics/)
+- [官方目录来源](https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2026/02/QF_2122_23022026.pdf)
+- [官方目录来源](https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2026/07/STHON-AY21-22-after_updated-July-2026.pdf)
+- [官方目录来源](https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2026/07/DSE_2627_06072026.pdf)
+- [官方目录来源](https://envstudies.nus.edu.sg/programme/programme-and-university-requirements/)
+- [官方目录来源](https://pharmacy.nus.edu.sg/study/undergraduate/bachelor-of-pharmacy/)
+- [官方目录来源](https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-chemical-engineering)
+- [官方目录来源](https://scale.nus.edu.sg/programmes/undergraduate-programmes/programme-fees)
+- [官方目录来源](https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-civil-engineering)
+- [官方目录来源](https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-electronics-engineering)
+- [官方目录来源](https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-industrial-management-engineering)
+- [官方目录来源](https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-mechanical-engineering)
+- [官方目录来源](https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-supply-chain-management)
+- [官方目录来源](https://scale.nus.edu.sg/programmes/undergraduate-programmes/bachelor-of-information-technology)
+- [官方目录来源](https://medicine.nus.edu.sg/prospective-students/nus-medicine-pre-requisites/)
+- [官方目录来源](https://medicine.nus.edu.sg/prospective-students/admissions-frequently-asked-questions/)
+- [官方目录来源](https://www.ucat.ac.uk/about-ucat/ucat-test-dates/)
+- [官方目录来源](https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/bachelor-of-science-nursing-bachelor-of-science-nursing-honours/admission-requirements/)
+- [官方目录来源](https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/career-conversion-programme-for-registered-nurses-degree/)
+- [官方目录来源](https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/bachelor-of-science-nursing-practice-part-time/admission-requirements/)
+- [官方目录来源](https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/bachelor-of-science-nursing-practice-part-time/how-to-apply/)
+- [官方目录来源](https://medicine.nus.edu.sg/nursing/education-admissions/undergraduate/bachelor-of-science-nursing-practice-part-time/tuition-fees-others/)
+- [官方目录来源](https://law1a.nus.edu.sg/admissions/4_yrs_llb_prog.html)
+- [官方目录来源](https://www.dentistry.nus.edu.sg/ug/prospective-students/)
+- [官方目录来源](https://www.ystmusic.nus.edu.sg/english-and-music-theory-req/)
+- [官方目录来源](https://www.ystmusic.nus.edu.sg/qualifications/)
+- [官方目录来源](https://www.ystmusic.nus.edu.sg/admissions-how-to-apply-audition-requirements-for-bmus-yap-mmus/)
+- [官方目录来源](https://www.ystmusic.nus.edu.sg/how-to-apply/)
+- [官方目录来源](https://www.ystmusic.nus.edu.sg/admissions-cost-of-attendance/)
+- [官方目录来源](https://nus.edu.sg/prog/bzabba/)
+- [官方目录来源](https://nus.edu.sg/prog/bizcnm/)
+- [官方目录来源](https://fass.nus.edu.sg/special-degree-programmes/)
+- [官方目录来源](https://nus.edu.sg/prog/bizsoc/)
+- [官方目录来源](https://cde.nus.edu.sg/undergraduate/programmes/double-degree-programme-in-engineering-business-administration/)
+- [官方目录来源](https://bba.nus.edu.sg/double-degree-programmes/)
+- [官方目录来源](https://cde.nus.edu.sg/undergraduate/programmes/cde-internal-ddp/)
+- [官方目录来源](https://law.nus.edu.sg/wp-content/uploads/2026/02/2026-NUS-Law-Undergraduate.pdf)
+- [官方目录来源](https://nus.edu.sg/prog/bbalaw/)
+- [官方目录来源](https://www.math.nus.edu.sg/ug/ddp/)
+- [官方目录来源](https://www.nus.edu.sg/prog/bizecon/index.html)
+- [官方目录来源](https://www.comp.nus.edu.sg/cug/per-cohort/ddp-ba-econs/ba-econs-26-27/)
+- [官方目录来源](https://www.comp.nus.edu.sg/cug/per-cohort/ddp-ba-econs/)
+- [官方目录来源](https://www.nus.edu.sg/prog/econlaw/overview.html)
+- [官方目录来源](https://law.nus.edu.sg/prospective-students/)
+- [官方目录来源](https://www.comp.nus.edu.sg/cug/per-cohort/bais/ddp-bais-econs-cohort-26-27/)
+- [官方目录来源](https://www.comp.nus.edu.sg/cug/per-cohort/ddp-is-econs/)
+- [官方目录来源](https://cde.nus.edu.sg/undergraduate/programmes/cde-chs-double-degree-programme/)
+- [官方目录来源](https://www.science.nus.edu.sg/undergraduates/study-abroad-programmes/outgoing/fddp/)
+- [官方目录来源](https://nuscollege.nus.edu.sg/academics/double-degrees-program/nus-sciences-po/)
+- [官方目录来源](https://nuscollege.nus.edu.sg/academics/double-degrees-program/nus-sciences-po/apply/)
+- [官方目录来源](https://nuscollege.nus.edu.sg/academics/double-degrees-program/nus-waseda/)
+- [官方目录来源](https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/03/lsm_jdpuod.pdf)
+- [官方目录来源](https://bba.nus.edu.sg/concurrent-degree-programme-with-master-of-public-policy/)
+- [官方目录来源](https://mim.nus.edu.sg/academics/concurrent-degree-programme/)
+- [官方目录来源](https://www.comp.nus.edu.sg/programmes/sp/cdp/bcomp-msc/)
+- [官方目录来源](https://www.nus.edu.sg/prog/mpplaw/admission.htm)
+- [官方目录来源](https://cde.nus.edu.sg/arch/programmes/master-of-urban-planning/concurrent-degree-programme-bsc-real-estate-mup/)
+- [官方目录来源](https://cde.nus.edu.sg/arch/programmes/master-of-landscape-architecture/)
+- [官方目录来源](https://cde.nus.edu.sg/dbe/graduate/msc-project-management/)
+- [官方目录来源](https://fass.nus.edu.sg/psy/concurrent-degree-programme/)
+- [官方目录来源](https://fass.nus.edu.sg/psy/cdp-cp/)
+- [官方目录来源](https://fass.nus.edu.sg/psy/cdp-cp/)
+- [官方目录来源](https://mim.nus.edu.sg/academics/concurrent-double-master-programme/)
+- [官方目录来源](https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2026/06/lsm_cdpunimelbdvm.pdf)
+- [官方目录来源](https://www.comp.nus.edu.sg/programmes/sp/cdp/carnegie-is/)
+- [官方目录来源](https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination)
+- [官方目录来源](https://www.nus.edu.sg/oam/admissions/important-dates)
+- [官方目录来源](https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf)
+- [官方目录来源](https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees)
+- [官方目录来源](https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

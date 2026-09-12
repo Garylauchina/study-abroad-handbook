@@ -2,124 +2,622 @@
   "university_id": "korea-university",
   "sources": [
     {
-      "url": "https://oia.korea.ac.kr/_attach/file/2026/08/lpZzpFXiuEfpfIZPBrYB.pdf",
-      "sha256": "0a2274fd829fccdf548df783be1df1d5e9a4c89b0018232d8c9c9bf36840b82a",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/spring2027-freshman-en.pdf",
-      "locator": "Eligibility/Language requirements"
+      "url": "https://oia.korea.ac.kr/_attach/file/2026/08/QsXEFRBiBtaNKfvtmLqe.pdf",
+      "sha256": "c7cec32db727c2acc5fd6d694c4c9b56ef6784d10fa81105ce417aa9e0751c05",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/spring2027-freshman-zh.pdf",
+      "locator": "中文正式简章印刷页1–8；招生类型II印刷页3已渲染目视。"
     },
     {
       "url": "https://oia.korea.ac.kr/oia2026/Admission-Guide.do",
       "sha256": "dcff633d673b85d2bf29ed69aacc9c7913181e64015ca932a34a5bd6e30325f5",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/admissions.html",
-      "locator": "Admission Schedule"
-    },
-    {
-      "url": "https://oia.korea.ac.kr/oia2026/Tuition.do",
-      "sha256": "de31b0d1cca052716a6ff763b9d04d3d7696e5c49e4d9a65e67ef72f33b51836",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/tuition.html",
-      "locator": "Tuition"
+      "locator": null
     },
     {
       "url": "https://oia.korea.ac.kr/oia2026/KU-Scholarships.do",
       "sha256": "5fea2b5652c75b9df350b943b730b18acbf5fbe16c145c76a196a9002655a133",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/scholarships.html",
-      "locator": "Newly Admitted Students"
+      "locator": null
+    },
+    {
+      "url": "https://oia.korea.ac.kr/oia2026/Tuition.do",
+      "sha256": "de31b0d1cca052716a6ff763b9d04d3d7696e5c49e4d9a65e67ef72f33b51836",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/tuition.html",
+      "locator": null
+    },
+    {
+      "url": "https://biz.korea.ac.kr/eng/undergraduate/curriculum.html",
+      "sha256": "41ad4148fa7d73246b5b90d1a4aad8807429492c02ee29ea25404923b6cb514f",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/cd00f6a59c5c69b175.html",
+      "locator": null
+    },
+    {
+      "url": "https://lib001.korea.edu/lib001_en/about/course.do",
+      "sha256": "db210bc033051befa208359bc0465250c1889e3195e1ae0f55f566b72d0622a6",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/3b3009996eeefac7b3.html",
+      "locator": null
+    },
+    {
+      "url": "https://lib001.korea.edu/lib001_en/about/greeting.do",
+      "sha256": "e2c76230413dae1719aa7b3ed7e08e7ab48b60f8e30706f9cb6f32dede7af786",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/4e9f3e4732834f4a31.html",
+      "locator": null
+    },
+    {
+      "url": "https://lib003.korea.edu/lib003_en/undergraduate/course.do",
+      "sha256": "997563ff338146ea0efa0a6e4137161e54214bf465392ef3a1b2c7e7dc3a3b4a",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/75ca00f3227ad1ebcc.html",
+      "locator": null
+    },
+    {
+      "url": "https://lib003.korea.edu/lib003_en/about/career.do",
+      "sha256": "f569f2b03241b1fa38a68df385d05949fe6f5bc6e707b463dd67899e026e1a3f",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/e7c6700e6117313d46.html",
+      "locator": null
+    },
+    {
+      "url": "https://koreahistory.korea.edu/koreahistory_en/about/overview01.do",
+      "sha256": "6caa89ef9b3b076088bd28a1ae7846762d3687cb23406d6b293f5fe82dadcb2a",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/0704fa9338ff30d2c9.html",
+      "locator": null
+    },
+    {
+      "url": "https://koreahistory.korea.edu/koreahistory_en/about/career.do",
+      "sha256": "76d55be5360a974479d00b39e6cbd6cbdb3e814bd1ff9a9f0c976bdf0f391968",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/4b6a34affb0cf4fbc3.html",
+      "locator": null
+    },
+    {
+      "url": "https://kuhistory.korea.edu/kuhistory_en/Courses/Courses1.do",
+      "sha256": "3004c7e2b0496b18c082f1713e12354b753de1c567742b76c49da78a9647d0ec",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-00e9e631a92e9c74e2.html",
+      "locator": null
+    },
+    {
+      "url": "https://socio.korea.edu/socio_en/undergraduate/curriculum3.do",
+      "sha256": "f47c5fba9a0b0c7c9b7f2f5ba04dc28428efc24058204d3296f1ee5b08a8f186",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/1222d987a201a7f520.html",
+      "locator": null
+    },
+    {
+      "url": "https://socio.korea.edu/socio_en/about/overview01.do",
+      "sha256": "014933d6d18836f7f03a836382717fbc52b03fddf2d1ca683d81ff2995508d66",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/16315ed59d5b3a130c.html",
+      "locator": null
+    },
+    {
+      "url": "https://sinolit.korea.edu/clschn_en/intro/objectives.do",
+      "sha256": "c338cf1d86fe5ed6d89a2ce87b98e4c51f2cafb8007a1211758d4d83a59892ef",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/8791ed2c6afacce16e.html",
+      "locator": null
+    },
+    {
+      "url": "https://english.korea.edu/english_en/about/greeting.do",
+      "sha256": "5deec3d75b9d1eb42db913b3e074d435031ee5eca92a164a2f91961f083f9df6",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/020d6a9511feae13c8.html",
+      "locator": null
+    },
+    {
+      "url": "https://kugermanistik.korea.edu/kugermanistik_en/undergraduate/courses.do",
+      "sha256": "141600a31eea648d59418172c49699ce8b778a3a35a20545af6a1a5972498ea4",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/e8701d7cf81503d57e.html",
+      "locator": null
+    },
+    {
+      "url": "https://kuchinese.korea.edu/kuchinese_en/undergraduate/course.do",
+      "sha256": "91f7b12d3ad88c9b38d37f020e15a170306baec28fb56f55c319a8c75b0d3a6d",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/5977591e123d3a15ee.html",
+      "locator": null
+    },
+    {
+      "url": "https://kuruss.korea.edu/kuruss_en/about/purpose.do",
+      "sha256": "c529eb6731f9c596a26831a6cf06222e7cb81fdfb91480b5d655bb85ed3f1700",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/866df1fb484b389f0b.html",
+      "locator": null
+    },
+    {
+      "url": "https://kujap.korea.edu/kujap_en/undergraduate/Courses.do",
+      "sha256": "87647c4fe904542014f3ddb93ae10c91489df2182597b1e5b1dcecf9cbb367e3",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/9caa8d08c31c0453d5.html",
+      "locator": null
+    },
+    {
+      "url": "https://spanish.korea.edu/spa_eng/under/courses.do",
+      "sha256": "b6190fa2e8f032c29972354f99f4afd59154d945d3a8dd8682ccbb14643ea821",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/4fd809853b86456fda.html",
+      "locator": null
+    },
+    {
+      "url": "https://kling.korea.edu/kling_en/curriculum/curriculum.do",
+      "sha256": "8db0b4f5d68f449e5aaee6395a950aff9b1041082670910db55c87fc78b2f884",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-45810d94ab890dc192.html",
+      "locator": null
+    },
+    {
+      "url": "https://ls.korea.edu/ls_en/undergraduate/description.do",
+      "sha256": "1b4ce6baf9f86faaf3033a80dbf95fc12d5f2fa75edd3a6db65eb47bf4a55e8f",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-4b961b44efcd86d13c.html",
+      "locator": null
+    },
+    {
+      "url": "https://bio.korea.edu/bio_en/curriculum/curriculum.do",
+      "sha256": "2a5a07c60d4fa3d28a4f6cb510d703b71cdf42d7e5444b5d3abb6db648e10a4c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-33378f08ee428090f3.html",
+      "locator": null
+    },
+    {
+      "url": "https://bio.korea.edu/bio_en/about/overview.do",
+      "sha256": "7bcf18bf07e22074cdab26b8ae74e14db930f28dd41646282c92bb512a7bd4fb",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/3f18024db87f62f56b.html",
+      "locator": null
+    },
+    {
+      "url": "https://foodscience.korea.edu/foodscience_en/about/overview.do",
+      "sha256": "31fe230a251c7fa5a1733e6735d4ff643d5d25fee85aef6d46f4609d4f87aa83",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/2a7d7322f3970f5157.html",
+      "locator": null
+    },
+    {
+      "url": "https://frecon.korea.edu/frecon_en/info/faculty/graduate.do",
+      "sha256": "8576ebecf920d4c6d58ab86c1a7fc1f7cb047dd4be16c35c178902613c3bfd7a",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/fd91139a174c458ebf.html",
+      "locator": null
+    },
+    {
+      "url": "https://politics.korea.edu/kupolitics_eng/under/courses.do",
+      "sha256": "260f3aa827302087641a7c02c65e0718cd57e420361ea158a86c4ee0a26ecc60",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/19b07079e5b0fcf5ae.html",
+      "locator": null
+    },
+    {
+      "url": "https://econ2.korea.ac.kr/econ/intro/intro.do",
+      "sha256": "be2eff1686e9206148f4459a5861aea0a45e97cf00b13d4581557e092c9f9d71",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/ad592e8d5cd4db126c.html",
+      "locator": null
+    },
+    {
+      "url": "https://stat.korea.edu/stat_en/about/greeting.do",
+      "sha256": "f85058b49659eecb5c492cb9fe3c6717bc49b78870197c650f0ef744289f8e9c",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/4ef149d91f59ef76ac.html",
+      "locator": null
+    },
+    {
+      "url": "https://kupa.korea.edu/kupaeng/info/faculty/f_schedule.do",
+      "sha256": "ae28b9010bdb1dd969a25387b2d870467fb2067ce2f2086e11cfc4c08bb42188",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/3858831a63139037b0.html",
+      "locator": null
+    },
+    {
+      "url": "https://math.korea.edu/math_en/undergraduate/course.do",
+      "sha256": "f6505c7409ba555a8c186a2c90a71c78bf5ded3801f86dd560c08eb110c18596",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/46aee58352cf2f8060.html",
+      "locator": null
+    },
+    {
+      "url": "https://physics.korea.edu/phys_en/under/course.do",
+      "sha256": "40aa1103430dd831b848ee488618f998aae9e7dfc264f62da82d55e2db95518c",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/7b6e02a8ef8313be39.html",
+      "locator": null
+    },
+    {
+      "url": "https://chem.korea.ac.kr/chemistry/academics/tracks-majors.do",
+      "sha256": "00084b595ea12530b071d4336c221e5eb4ce02b2353d3a99f23e1fd9f13ca105",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/40157c83e7d4b31a20.html",
+      "locator": null
+    },
+    {
+      "url": "https://chem.korea.ac.kr/chemistry/academics/class.do",
+      "sha256": "0666c22c4457fe44fe8e7b0d9ffa18422abfd970d4a60d9e32b9884945de88a1",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/51c4ffff4a10a30476.html",
+      "locator": null
+    },
+    {
+      "url": "https://ees.korea.edu/ees_en/undergraduate/u_courses.do",
+      "sha256": "20a2f9ec42428511c477d85201a3e87e83674bc7aa0af38f30f7825b361540b5",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/3a63ee78817948ca0d.html",
+      "locator": null
+    },
+    {
+      "url": "https://ace.korea.ac.kr:59034/eng/eng1_2.php",
+      "sha256": "bc98614c9cfcfad746393bc5425918c8b7dcf719633d31a2a283f2ce940e2453",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/ab76c7926e8ba8799a.html",
+      "locator": null
+    },
+    {
+      "url": "https://archi.korea.ac.kr/undergraduate/undergraduate.html",
+      "sha256": "268a769f23bbdea91647ebc7e8842f969d56cf4c9fefeee9bd8342c3d2c07d28",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/abaf1dcc9b4162d541.html",
+      "locator": null
+    },
+    {
+      "url": "https://me.korea.ac.kr/eng/about/major.html",
+      "sha256": "78ab542e700a134bbc12b72932e806b03c1a9a0edda0de74ab13acf1baf1a6cf",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/943f2aaefd45093486.html",
+      "locator": null
+    },
+    {
+      "url": "https://ee.korea.ac.kr/eng/academics/curriculum.html",
+      "sha256": "d6aaf5ec509bd9892af392d8c7436cec79fefe329d0936f89cbe7ac21c4878d5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-e9ad8fae42e938da6f.html",
+      "locator": null
+    },
+    {
+      "url": "https://ie.korea.edu/ie_en/about/overview.do",
+      "sha256": "2dcaa42e768b167828667ed1f17ee9cec3198d000e44154c1be7b644a5036648",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/aa82ff170c7153eef8.html",
+      "locator": null
+    },
+    {
+      "url": "https://se.korea.ac.kr/eng/sub01/sub01_3.html",
+      "sha256": "b1eed8eeb7fbe1820568ac49551ff71dcae97df95ad692e456ccaf5b09e4ebda",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/17f7f9bb18ea79748e.html",
+      "locator": null
     },
     {
       "url": "https://www.korea.ac.kr/en/1037/subview.do",
       "sha256": "2b4c1f7b1533e5763afefc6493225747a12f5f70f5386c12479c073d06020829",
       "raw_file": "scratch/full-catalog/asia/korea-university/raw/schools.html",
-      "locator": "University College"
+      "locator": null
     },
     {
-      "url": "https://socio.korea.edu/socio_en/undergraduate/curriculum.do",
-      "sha256": "640aa0d4537776f7e3054ad9cb3dec536a6700fdd1b734587cccd39148e65758",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-0405a8da755f4d0ebe.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://ienergy.korea.ac.kr/iee/about/FacultyGuidance.do",
+      "sha256": "9b9e9259b3df9b82008584e7e873c5b6f2998bd35b985e3d22686da46b4e3c05",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/04bd85395d9dbf5262.html",
+      "locator": null
     },
     {
-      "url": "https://sinolit.korea.edu/clschn_en/curriculum/under_intro.do",
-      "sha256": "cdcb460cdd90453c0868f8f3810eaf4bc0bf39869dfc14d5ab81299de2910694",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-2b510e386077d225a7.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://edu.korea.edu/edu/matriculate/curriculum.do",
+      "sha256": "3098e2672682c1a6a2fe651aaaba75269c00971568af92fad6d1903ae906a8cc",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/1799663e2aee900b14.html",
+      "locator": null
     },
     {
-      "url": "https://foodscience.korea.edu/foodscience_en/undergraduate/curriculum.do",
-      "sha256": "7737f45f3b8ccbbc14f2cc01ab7f96b4606b6acd4c6b4c94cd41a06859833fff",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-eb1dc142ee044fe01a.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://phyedu.korea.ac.kr/phyedu/about/about_purpose.do",
+      "sha256": "2567ecd31b1d03f9fa1576c47b0d6ce89a160d88822307718765f807fb779943",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/87f9f92b3f8e769441.html",
+      "locator": null
     },
     {
-      "url": "https://frecon.korea.edu/frecon_en/info/faculty/curriculum.do",
-      "sha256": "e7021b0bc41c80ccf34daf8b30d37b4f10a57eb34accf303ba33676f5515ddd5",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-17a8685af11f596706.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://phyedu.korea.ac.kr/phyedu/about/major.do",
+      "sha256": "05bb19debf23151b3d7d8055ab759eb0de244a4aa8cc534e95c97b339dcc1033",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/fb2091cce1aa1774f5.html",
+      "locator": null
     },
     {
-      "url": "https://math.korea.edu/math_en/undergraduate/curriculum.do",
-      "sha256": "f2f904ca7a50b8810ad56708af2b4d6d8449c50505268e6352d634ceedd13095",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-b4fba337fde8e67ca6.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://homedu.korea.edu/homedu_en/about/greeting.do",
+      "sha256": "1a8f2bb4ea78b9928975555c47f89c5c7c5532b8b4004e3bde629601a07ba805",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/7e8ecd7651582d12bc.html",
+      "locator": null
     },
     {
-      "url": "https://me.korea.ac.kr/eng/undergraduate/curriculum.html",
-      "sha256": "d182809c8bf3cac9238cc034a9a0366f1961beec1329741d1c1322104fbce074",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-dcb14c6f9472758e82.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://mathedu.korea.edu/mathedu_en/affairs/Courses.do",
+      "sha256": "f308295b32720b832235954950b4520c3ff9ce0e4ec4bb9c003a05fcd16bdc90",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/cecb6384ad5b77497d.html",
+      "locator": null
     },
     {
-      "url": "https://koredu.korea.edu/koredu_eng/Undergraduate/curriculum.do",
-      "sha256": "396b834f02748b6954caa3cd7d31bdba11761d683ce16f4f095fae7a21cf1c25",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-e0c4418f1b342de91b.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://koredu.korea.edu/koredu_eng/Undergraduate/courses.do",
+      "sha256": "837aea5c1904f7a5e5a40c4d511a92be42a4b73db6128711b344508d64f68f7b",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/b609889ebb7c1ca350.html",
+      "locator": null
+    },
+    {
+      "url": "https://eled.korea.edu/eled_en/info/curriculum.do",
+      "sha256": "006d7241751a6d0680ac33930a7a1c9f8408325c57e0631e0c0b22de8d8ba3cd",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-87a8325a962e8046a1.html",
+      "locator": null
+    },
+    {
+      "url": "https://geoedu.korea.edu/geoedu_en/about/career.do",
+      "sha256": "512126c54d7b18c108492de42e4c24fb3825bb427829feb369a6421cc33ced16",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/44a618d99f7d0308c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://geoedu.korea.edu/geoedu_en/undergraduate/goal_forEdu.do",
+      "sha256": "88a898981d38f027d2bd0b601f8a7b4978d689560a4e6ed7b114bdba408abcf1",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/83c43866661c9cfc2a.html",
+      "locator": null
+    },
+    {
+      "url": "https://hisedu.korea.edu/hisedu_en/undergraduate/course.do",
+      "sha256": "49c709a96a6dde51309e5734bb616bd616928c061e2c93cc1845793f540c87eb",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/29f293ace96d4389c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://nursingeng.korea.ac.kr/nursing_en/programs/professorUndergradate-Course.do",
+      "sha256": "24809c1dbe022f11ee42f823638083caf47418c99ed23547baccb55e3ff8096d",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/ff6168063b8c40e2bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://cs.korea.edu/en_cs/under/computer_intro.do",
+      "sha256": "ff04e3ccfe8c91d34a9489b776346f1cbb98da47f24e15a39055189c8ea35328",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/2a5deb9c060e86558c.html",
+      "locator": null
+    },
+    {
+      "url": "https://datascience.korea.edu/en_ds/under/ds_intro.do",
+      "sha256": "f570f83d1d066edc30340719f230214afbbb40c4a3010ffcbacc721d3d7bcec8",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/95cc8703907e132fb5.html",
+      "locator": null
+    },
+    {
+      "url": "https://en-ai.korea.edu/en_ai/under/ai_intro.do",
+      "sha256": "5134f12a35accbdf2392f83f030961c05c2373e999555f3db5d499ba9f859463",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/911aea017b80717e57.html",
+      "locator": null
+    },
+    {
+      "url": "https://and.korea.edu/kuand_en/about/overview.do",
+      "sha256": "6a1e2d15c894be375ceb8562d34de939a8c053c0f82a2ab20f51a608c28fc5fb",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/0aff289f10550ef923.html",
+      "locator": null
+    },
+    {
+      "url": "https://int.korea.edu/kuis/under/intro.do",
+      "sha256": "617459787b5faa119557544a88f186b0e37c7dcff213005280776268d06f6a80",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/9a54481dbc4c8c8836.html",
+      "locator": null
+    },
+    {
+      "url": "https://int.korea.edu/kuis/under/intro_dgks.do",
+      "sha256": "58da536982071858f9f07b17be9adfc48b8655f2d3b1542a7baad45c067dd0c6",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/c0c89a82d2ae6f05c2.html",
+      "locator": null
+    },
+    {
+      "url": "https://int.korea.edu/kuis/under/intro_gomd.do",
+      "sha256": "372c37da4d5633feffae565329f691bf3fa7fb0e85c7a8c4edf9faf00aec1c86",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/3ffbee4646e6f31739.html",
+      "locator": null
+    },
+    {
+      "url": "https://mediacom.korea.ac.kr/undergraduate/subject.html",
+      "sha256": "689205a36da884464844f0a1a0f0c37c3647b4d37a5bc643ddf10f37ac2b0bca",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/905146350729441d4a.html",
+      "locator": null
+    },
+    {
+      "url": "https://mediacom.korea.ac.kr/undergraduate/entertainment.html",
+      "sha256": "892f4f4ba42cf7c8ff23518e5bf5539b424f82ebae229da8482d00ce424db42a",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/2ad17df5241b1be081.html",
+      "locator": null
+    },
+    {
+      "url": "https://bmeng.korea.ac.kr/undergraduate/course.html",
+      "sha256": "686f86f2b81614dcbf05f190284c46d478cdfe02b2c018c6e4ea0281fa74c977",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/591983385c2f923a8a.html",
+      "locator": null
+    },
+    {
+      "url": "https://bsm.korea.ac.kr/undergraduate/course.html",
+      "sha256": "736a467358d7f53892f572dcc539312a92a54a88a34117ef347afb89d9601e61",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/5d0817fa706789df67.html",
+      "locator": null
+    },
+    {
+      "url": "https://hes.korea.ac.kr/undergraduate/course.html",
+      "sha256": "e5e0c46ba0b02f9e36b679f0a4bb4c6d589c749fdfcc4d6da12f38a1ded4469f",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/307160bda2da5d0d74.html",
+      "locator": null
+    },
+    {
+      "url": "https://hpm.korea.ac.kr/undergraduate/course.html",
+      "sha256": "93ff22c0a0a3063eb0e183c6561b36b0facc215e0129c91072012ab8a4d4041d",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/f611a3d9f5bb0a4cd5.html",
+      "locator": null
+    },
+    {
+      "url": "https://sis.korea.edu/sis_eng/about/overview.do",
+      "sha256": "9e4d6b45e45c58e7235be9a3d57faa674dc8c9f1d3e90f61d4014bc847fc8620",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/5ba6dcd11cd7c355a4.html",
+      "locator": null
     },
     {
       "url": "https://psy.korea.edu/UnderGraduate/Curriculum",
       "sha256": "4d09de0bc9e2d56b8212a230fe114c39ea3f738da39d414309ce048ad44b38f0",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-127cab964b5cde1195.html",
-      "locator": "undergraduate curriculum / course list"
+      "locator": null
     },
     {
-      "url": "https://mobility.korea.ac.kr/curriculum/undergraduate1.php",
-      "sha256": "b7fefd580af6e840022ab71dd7b87e82ed069e94ee1ef32bb85a967583dad159",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-e4c818ed604782025d.html",
-      "locator": "undergraduate curriculum / course list"
+      "url": "https://mobility.korea.ac.kr/overview/overview.php",
+      "sha256": "90f9304387bed99c820883923854ef0987d7400c0fbb1dd868309cb8cf673661",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-16903dc82e3979894a.html",
+      "locator": null
     },
     {
-      "url": "https://sejong.korea.ac.kr/eng/10288/subview.do",
-      "sha256": "1b8258a69fc62ca5042f4f47b90f7af6fa12981a144a5904c807c2e358eebb33",
-      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10288.html",
-      "locator": "sejong:Dept. of Advanced Convergence Pharmaceutical Sciences"
+      "url": "https://oku.korea.ac.kr/ajaxfile/FR_SVC/FileDown.do?GBN=X01&BOARD_SEQ=8&SITE_NO=3&BBS_SEQ=1976&FILE_SEQ=22",
+      "sha256": "ff24fed0ac72a7b899a3a23ff3ba393c8e7608bf86ba7ed886447f7554eac712",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/sejong-2027-zh.pdf",
+      "locator": "完整中文13页已读；第4–5页招生与语言表已渲染目视。"
     },
     {
-      "url": "https://sejong.korea.ac.kr/eng/10289/subview.do",
-      "sha256": "d8cf82517f6f778dd639aa4a894fdf0cac6a367e540c292aaf3de74cc32d8864",
-      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10289.html",
-      "locator": "sejong:Dept. of Standards and Intelligence"
+      "url": "https://sejong.korea.ac.kr/pharm/3666/subview.do",
+      "sha256": "64bd83aed3a4299f2c11098991e3a534ca8076ee2117fd5839e170c1a0a907e2",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/a79895b697c5139bfc.html",
+      "locator": null
     },
     {
-      "url": "https://sejong.korea.ac.kr/eng/10290/subview.do",
-      "sha256": "5c0392eb4762b27cdd77e6464d8d71e4fd66a5f63365d1da1c48cbdb63a32cab",
-      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10290.html",
-      "locator": "sejong:Division of Big Data Science"
+      "url": "https://sejong.korea.ac.kr/pharm/3724/subview.do",
+      "sha256": "7a829543047cc9ab54be43d233884a4e35d07631a387ef6aa1344882d31b32d8",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/curriculum-af3f94e60666468695.html",
+      "locator": null
     },
     {
-      "url": "https://sejong.korea.ac.kr/eng/10291/subview.do",
-      "sha256": "3306f718a7cb95bd206993e22ab893116ad31974ba442b17abb53de7b8a0aaf2",
-      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10291.html",
-      "locator": "sejong:Division of Culture Creativity (Culture Contents)"
+      "url": "https://sejong.korea.ac.kr/koreanstudies/3881/subview.do",
+      "sha256": "855ed4c6014b5a9fcdd0a406ceca118bb71acb801d4b50a7e70429a9a7437f49",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/329dff757033a07dec.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/gchina/3987/subview.do",
+      "sha256": "2be2b195651f14488a34521a90bf6f3a2121d2a1711498ff9fa1877a39af531d",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/a1e61ed07ff88adb6c.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/ell/4066/subview.do",
+      "sha256": "43b5f6646a061917e30b5d5788e2589ad7248f9c8ddf770ec1167dd8756391ac",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/8f77a0585ae75fe208.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/ba/4131/subview.do",
+      "sha256": "9f0555625f4f1aafd69893ee1ddfe73a2d38f5c5fa2e55bf904423231e0b64b5",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/b86d4160c2de2ababc.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/digb/4219/subview.do",
+      "sha256": "9e8e8358550bb3637a805acc09444cf24330cf2740ec07966d1ec9d633f6331d",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/bee9c21e7df2367d4a.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/sti/4300/subview.do",
+      "sha256": "0ee8fcae31b22a3e3ecb80cfc14516b65699c6295eedf2ad59701918d8a58f57",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/fdc6c4749b62e0d517.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/spa/4467/subview.do",
+      "sha256": "69e810e6b47e7d78ec26601f16a30f27e14a09c9be67012366633bd58d05124a",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/09bfdf5ed63b018e09.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/spa/4470/subview.do",
+      "sha256": "05bd9433d8e2092dd7d124b959aa88f151b8f060dea1e3698b11fb2f424ff7a8",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/0f4635331a38494355.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/pubs/4552/subview.do",
+      "sha256": "17ab61732019652240f375f3c2bacd732415b58503bc45202fc3c4b80fb559a4",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/063986bb328162e70f.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/kuds/4636/subview.do",
+      "sha256": "854ce206608c0fb36333a341a87181e78c0bc049f10dbc9b4deebbddb12c526c",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/35b79439cecd1a008a.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/economics/4708/subview.do",
+      "sha256": "6da5163490ebc0af734cad4e695bd3e47bb4095a0ada0426724d1bf2b3f6caa1",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/978f4901febcdb3af6.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/bigdatascience/4785/subview.do",
+      "sha256": "01a59a3955ce4fcc96d6b6e8aa46d555ea422c3001a939ae154341c6d2e13e11",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/fa43c5b403b3a15d89.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/sfa/4943/subview.do",
+      "sha256": "10018d034900ef892ca3aece7c7c14f54acde5be8adc8eb31d4b330815d901bf",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/c5438f169a2e9acfbf.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/cuhc/5023/subview.do",
+      "sha256": "9850f061675112eaef80df1bc36d219fcb7b67270e077f85f17707d4455ba387",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/a93468d55079f82f33.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/cwms/5116/subview.do",
+      "sha256": "59d4a84d3fbb84ee4505611dd3806525bb89aef1f1776fa7d539480454a0da79",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/fa07027fff75cdfd5b.html",
+      "locator": null
     },
     {
       "url": "https://sejong.korea.ac.kr/eng/10292/subview.do",
-      "sha256": "78c3988c47bf37b5a668b006578384aceeb763dbb8e494438c6dcbd5ffba7b5b",
-      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10292.html",
-      "locator": "sejong:Division of Smart Cities"
+      "sha256": "8a580abd8873c6a6a9a0d62727394789970a47d12ab84e8a20c901add7a75c52",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/254728d413f686c84f.html",
+      "locator": null
     },
     {
-      "url": "https://sejong.korea.ac.kr/eng/10287/subview.do",
-      "sha256": "6d4e0cae8374e5af6828a4aa751c28b85a0ef7aa6ffcda7440862f730eac4fef",
-      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong.html",
-      "locator": "sejong:Dept. of Digital Healthcare Engineering"
+      "url": "https://sejong.korea.ac.kr/imath/2553/subview.do",
+      "sha256": "3826cc05dc2085d30cb4c5a61be9632bad98762dc6eda4e943a825e690c41396",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/f1b52d90a99c1f6772.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/secu/5373/subview.do",
+      "sha256": "826b68be4087be327690992aeaea781237fb1a007508b0f342ca6e53127054da",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/f7bf17f63e05be9652.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/dsphy/2632/subview.do",
+      "sha256": "f4b9ed8770eab18fcb2bc241594d811207de74fca3653d2a4fcf9111826a663b",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/92c88477f2be6ba75b.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/amchem/7717/subview.do",
+      "sha256": "db7ae1f26189063188e43cc6ce74acc8353ad9909650293ac4d62b924c968803",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/79b06acbb63469900f.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/software/7666/subview.do",
+      "sha256": "56103a83917081813ac49beaebca440d442bb90e2dce1e98eea220c90c84630a",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/ddce1d2c3f18c40188.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/kueie/2895/subview.do",
+      "sha256": "0b85558aeddc5d026fb94a632d53e162988b4950ee049801c1939518f6f983d2",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/0d7fdddd33a3be41d8.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/biotechnology/2993/subview.do",
+      "sha256": "8e2e189ac4de3054387ea035cdb525bfde4d942d190626678f8f56e3d724e53c",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/fc26295246b00065ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/kfbt/3081/subview.do",
+      "sha256": "b898686094449c178fff7e8fc2987717b1e519ee6da9105b14e89530526c9c34",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/3190b9e47de2b58ff2.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/emse/3227/subview.do",
+      "sha256": "f1c61b351f5798927e0e5687d6be76221fb4313266cd73f75494456c5ab60165",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/72feff3162680969ee.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/env/3331/subview.do",
+      "sha256": "2020f964426dfbe0df8f6f8bfbab4d27511d985b29e67beb5a2bce4787455af1",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/80b1a8b17a4e413909.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/am/3482/subview.do",
+      "sha256": "714e2bc9540e2382d170f2bfb184896431164173b840bcf5970d69a54892d5cc",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/f938a79270bb4a95ae.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/AISEMI/3589/subview.do",
+      "sha256": "3c3d024de06eb7dd7b02ae280ecedafdde69abc08cce64588934f8bfd955eacc",
+      "raw_file": "scratch/full-catalog/korea-enrichment/raw/4d5d2fc9675f7a38da.html",
+      "locator": null
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/sites/dhe/index.do",
+      "sha256": "212c47c8e52e10237db0f67e0e90e703c4f98bdd3aa004fad23898276b8faf9e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/korea-university/raw/detail-2ec2df3f0de4becb7c6b.html",
+      "locator": null
     }
   ]
 }
