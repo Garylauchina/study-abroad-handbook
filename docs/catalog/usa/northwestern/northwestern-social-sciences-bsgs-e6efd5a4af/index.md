@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,37 @@ hide:
 
 <p><strong>申请路径：</strong>School of Professional Studies undergraduate pathway; school-specific admissions</p>
 
+<p class="catalog-fact"><strong>介绍中的学习主题：</strong>本项目官方介绍涉及社会科学、经济学、历史、人文学科。这是介绍中的主题摘要，不能代替必修课清单、完整培养方案或专业入学条件。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-bdaa87f0f7161670">官方依据</a></p>
+
+<p class="catalog-fact"><strong>具体学习单元示例：</strong>本科培养表列出的单元：Culture and Society（ANTHRO 211-CN）；Human Origins（ANTHRO 213-CN）。示例不代表全部必修或当年保证开课，需核对必修/选修与授课安排。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-bdaa87f0f7161670">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成标准学制、具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-bdaa87f0f7161670">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-bdaa87f0f7161670">官方依据</a></p>
+
+<p class="catalog-fact"><strong>独立入口核验缺口：</strong>本条属于SPS成人／职业学院或Qatar入口，不能沿用Northwestern美国常规本科的高中、考试和资助规则；该入口完整条件本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-bdaa87f0f7161670">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>独立入口核验缺口：</strong>本条SPS/Qatar的当年申请渠道和截止日期本轮未核实，不套美国普通本科的2027 ED/RD日历。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-bdaa87f0f7161670">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>独立入口核验缺口：</strong>本条SPS/Qatar最新学费与国际生奖助条件本轮未核实，不套美国常规本科年学费。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-bdaa87f0f7161670">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业毕业调查缺口：</strong>本轮未取得有明确毕业届次、回应样本和国际/中国学生口径的本专业就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-bdaa87f0f7161670">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +77,6 @@ hide:
 - [官方项目页面或项目所在目录](https://catalogs.northwestern.edu/sps/undergraduate/social-sciences/social-sciences-bsgs/)
 - [官方目录](https://catalogs.northwestern.edu/sps/programs-az/)
 
+<div class="catalog-source" id="source-p-northwestern-program-bdaa87f0f7161670"><div><a href="https://catalogs.northwestern.edu/sps/undergraduate/social-sciences/social-sciences-bsgs/">Social Sciences, BSGS 官方培养资料 ↗</a><p>本条培养表、具体学习单元及资料范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/northwestern/">← 返回西北大学（美国）</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

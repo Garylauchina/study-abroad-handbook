@@ -1,0 +1,599 @@
+{
+  "university_id": "heidelberg",
+  "sources": [
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/application-enrolment/study-requirements",
+      "sha256": "9113cff1d41af4f4ff12cbe481f95adb42a860993802d6db76618673e9018683",
+      "raw_file": "scratch/full-catalog/europe-enrichment/heidelberg/requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/advisory-services/learning-languages/language-requirements-for-international-students",
+      "sha256": "09c3efdb3fe8bc0227fca52952ad2749be496ee12942cb03b8eff3b570a1c9ac",
+      "raw_file": "scratch/full-catalog/europe-enrichment/heidelberg/language.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/application-enrolment/starting-the-first-academic-semester-of-your-degree-programme/internal-university-selection-procedure/internal-university-selection-procedure-0",
+      "sha256": "9d0ed35186a547ebb67d00019c50f2bafe7eb6274ed1e7b0b26b38b66a2ba8d0",
+      "raw_file": "scratch/full-catalog/europe-enrichment/heidelberg/internal.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/application-enrolment/enrolment/enrolment-in-the-1st-academic-semester-1",
+      "sha256": "ed3f70db9d1fcdb43b2e8a69fcc0871a729cffb094de6a0ef66e5818b1615e93",
+      "raw_file": "scratch/full-catalog/europe-enrichment/heidelberg/enrolment.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/management-of-studies/key-dates-deadlines/application-deadlines-for-the-1st-semester-of-undergraduate-degree-programmes",
+      "sha256": "17ea584143e6d17248144d1b7d05a6d890b2a4a5258bffe0d1543b57108f5323",
+      "raw_file": "scratch/full-catalog/europe-enrichment/heidelberg/dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/management-of-studies/semester-fees/tuition-fees-for-international-students",
+      "sha256": "8f7c8e93bace50c0d514fb02b8b889a992999c0c266f1a35b2eca32fbea7d876",
+      "raw_file": "scratch/full-catalog/europe-enrichment/heidelberg/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/management-of-studies/semester-fees",
+      "sha256": "2d16d368298e2b323be754b8c7fae3b7a0a056eb66c40bb6e6e9603ec7209fca",
+      "raw_file": "scratch/full-catalog/europe-enrichment/heidelberg/semester.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.aps.org.cn/wp-content/uploads/272_voraussetzungen_70_verfahren_gaokao_chn.pdf",
+      "sha256": "a437906df8c7001d62653e71493a196afd15100ffd8d3770d62a8bf0ea3d4e1e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tum/aps-gaokao-70.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.aps.org.cn/wp-content/uploads/271_voraussetzungen_60_verfahren_gaokao_chn.pdf",
+      "sha256": "47856d8da7a6d3de338e7f5d069cdcca40fe0014464a8d8f068870653f1a6cbc",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tum/aps-gaokao-60.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects",
+      "sha256": "3799966dc6aeab47be57ca8acbb1cc9265cfaf15b711fdea83c301c94fb05c2b",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-0-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/american-studies/american-studies-bachelor-100",
+      "sha256": "3799966dc6aeab47be57ca8acbb1cc9265cfaf15b711fdea83c301c94fb05c2b",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-0-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/ancient-history/ancient-history-bachelor-50",
+      "sha256": "36d1e4d21fa19b3da0c8c3b19463bbad7b83b8a834d53f9af8f05464fdbe18b4",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-1-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/anthropology/anthropology-bachelor-50",
+      "sha256": "8c245dcaa6232b8037a48ec7f672c2ce2b7b87b3d66b44937c0adac228f98f72",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-2-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/anthropology/anthropology-bachelor-75",
+      "sha256": "252077535dd00e9437f73b832ba1a32c6335b18c9f62bf6637a0499c6dc999d4",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-2-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/assyriology/assyriology-bachelor-50",
+      "sha256": "d245510716addbe2a5a981317f4df696cc3f00b870be2c51c21173bd5610aaa2",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-4-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/assyriology/assyriology-bachelor-75",
+      "sha256": "429901417fbb077b5e653a8655c6650bd8ec53da3ac724d5855c5ffd8b3120ca",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-4-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/biochemistry/biochemistry-bachelor-100",
+      "sha256": "03f0e3f931618bd4cee5a713c78e2578991ee367f450241ff334eecef5a64d6b",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-5-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/biology/biology-bachelor-50",
+      "sha256": "b444a85f9671b96481812d614afdac074c012ad6163ac227ff4f5a213ca42ba5",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-6-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/biosciences/biosciences-bachelor-100",
+      "sha256": "c79add3403c14170adcf5b23086211d6b16f83e3829bf101a116ccf19c3d80d0",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-8-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/byzantine-archaeology-and-art-history/byzantine-archaeology-and-art-history-bachelor-50",
+      "sha256": "2ae59e8edb6840a4301c4556d97f373d4a768576bf698ef588cbec92b436d896",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-9-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/chemistry/chemistry-bachelor-100",
+      "sha256": "f94c22d7a4c1de5b7411a0f4c7e0de49ca3a815de0ea8f807fd91ac9a31a5eff",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-10-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/chemistry/chemistry-bachelor-50",
+      "sha256": "de65fc264be8e4c997ed12c4357a020dc351a25b972d000195aeba3321cfef86",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-10-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/christianity-and-culture/christianity-and-culture-bachelor-50",
+      "sha256": "9745ec779aff7a03cbf02717a857d7cfdde80c9966a77595ce5a4294711dff8d",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-12-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/classical-archaeology/classical-archaeology-bachelor-50",
+      "sha256": "25b0ea52572d17f53764347a147dedc62d210f09cf4faf6e5e00b2791f23c2c6",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-14-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/classical-archaeology/classical-archaeology-bachelor-75",
+      "sha256": "c3982460ed90c1a0021051a8aaf9241f13258cedd625922ebfb009e64f63a317",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-14-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/comparative-german-studies/comparative-german-studies-bachelor-50",
+      "sha256": "cb62f96a600193336792842e4a1e9e875a3df9bdf9d6019913973b7d7332620a",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-17-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/comparative-german-studies/comparative-german-studies-bachelor-75",
+      "sha256": "511af3c77148310abb2dfdcb69690483c2f8b89b3f80d0b73ce7d3585e8fce98",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-17-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/computational-linguistics/computational-linguistics-bachelor-100",
+      "sha256": "9a50cb056cd91850438969046002446294a2e72aae63a015c0b5475688b8eb26",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-18-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/computational-linguistics/computational-linguistics-bachelor-50",
+      "sha256": "54948c63b7a81bd65d8cb27c9664e68dde5979699898435513b60752f5070af4",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-18-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/computational-linguistics/computational-linguistics-bachelor-75",
+      "sha256": "5f8dab62ba58f022c6000f84239439e27cc8c89609e66a66eb7e8419b6a92afa",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-18-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/computer-science/computer-science-bachelor-100",
+      "sha256": "b6d1f227ca876721db9933755a22719b124a439057dade60e9cba231ddd731ed",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-20-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/computer-science/computer-science-bachelor-50",
+      "sha256": "3a6391aca6382cad6e2c76ac8a6821d459aee95f84871bdb95729bc0edd55f24",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-20-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/dentistry/dentistry-state-examination",
+      "sha256": "bc0f2bf27766526b4c263d2de4c4b0db9589ee518a85ed7b57deb214b616db3b",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-24-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/earth-sciences/earth-sciences-bachelor-100",
+      "sha256": "44c29dd7d86b84016db28e10b99a1c8d9de2e4d104dad9ab6ea48f8422d2af16",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-25-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/east-asian-studies/east-asian-studies-bachelor-50",
+      "sha256": "7e4fa9670960522c0c7aabfc749d9a8c00497b9273dc6342d217aaee7189ae6e",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-27-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/east-asian-studies/east-asian-studies-bachelor-75",
+      "sha256": "0fa6be90640de7fe2dc60eb4e44875da8c3e39a6501e9bd812eb402119c46473",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-27-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/eastern-european-and-east-central-european-studies/east-european-and-east-central-european-studies-bachelor-100",
+      "sha256": "fab990407a489aff49c97b5510bf2bb0f76afe5daa4d13c03c8a1b7f316aed3c",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-28-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/eastern-european-and-east-central-european-studies/east-european-and-east-central-european-studies-bachelor-50",
+      "sha256": "e4f7a397c22873fbca8f8ffabe3d18a9aecde415300015dbb4f4c23b2b187bb1",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-28-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/eastern-european-and-east-central-european-studies/east-european-and-east-central-european-studies-bachelor-75",
+      "sha256": "8167b14ce87ad06f67f767b7fc8c3b1e258cda7bb7eacabb8a0ff192faeb25e2",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-28-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/economics/economics-bachelor-100",
+      "sha256": "db659dc0d600346bf89568b1b83439e4c31de77de3e8fbdda3c05ea9ba5d9119",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-29-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/economics/economics-bachelor-50",
+      "sha256": "664e57675219d1439faed04ae1648f12c64df92784f0099e60b9a3b9efecdd31",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-29-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/education-studies/education-studies-bachelor-75",
+      "sha256": "8311da939da5b5d69daaaa717e43abdba8bcf83339394182189847012b69647b",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-30-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/egyptology/egyptology-bachelor-50",
+      "sha256": "d4546c390b5a3b3c1780423e449cb33e395d5895d80969d3fd109dd67698cb55",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-32-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/english-studies/english-studies-bachelor-50",
+      "sha256": "ab843f163188e9e2448ec3743d4bea59325fc369ed57d10f259770c15b356e6d",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-33-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/english-studies/english-studies-bachelor-75",
+      "sha256": "089862aa149ca95f2f65137e572724a3e3d968bf7fd5f0ed4121186f7e616e2f",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-33-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/european-art-history/european-art-history-bachelor-50",
+      "sha256": "b3061c43c56df0e306ceee700a55a11521a705752ef15fe8786f01ed85ff402a",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-34-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/european-art-history/european-art-history-bachelor-75",
+      "sha256": "b702355d982555bc33510ef77086713fd51cb6e77287afa49e68f838564ad7b6",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-34-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/french-romance-studies/frenchromance-studies-bachelor-50",
+      "sha256": "28c360bce4e5642944e05d96d7acad6a421b59142519629653161e3006146339",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-35-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/geography/geography-bachelor-100",
+      "sha256": "cdf11a7e944d4be0cdf715a9df8bcc46fe20687e34c1e64b609e241abf4222e1",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-38-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/geography/geography-bachelor-50",
+      "sha256": "2f9d2ae315d9ab7ceec0168a748999ffdfcaa7186e9a0ed118c8a9c78a65bd19",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-38-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/german-studies/german-studies-bachelor-50",
+      "sha256": "04e62a94580cf108f1bb8e6debd7fa04cc652832e21f7c7a7f74ce469c37065e",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-40-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/gerontology-health-and-care/gerontology-health-and-care-bachelor-67",
+      "sha256": "e6829f45e5189b885d720e98908fdf68be0a606591a31395e267dc9638fc6808",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-42-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/greekclassical-philology/greek-classical-philology-bachelor-50",
+      "sha256": "76ee9213aa8449020b1f0bdabd84562b6683914d66d889ba711e40c76cf10709",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-45-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/history/history-bachelor-50",
+      "sha256": "07cc6f84880acde9976213cada733c13edb94a50b8efda97b5f899a6b0aaeda4",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-48-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/history/history-bachelor-75",
+      "sha256": "dc048cb74fef8a2751528827c16b7c38a45baec2530bc228fe093884d7800519",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-48-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/interprofessional-health-care/interprofessional-health-care-bachelor-100",
+      "sha256": "9a4e69e3cf6ccff68004ec6ab2019c95943f1a23a2f27659e3885152af3e963a",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-51-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/italian-romance-studies/italianromance-studies-bachelor-50",
+      "sha256": "0baec98abd9cfe4b483d82cdbf93bf509f36e4d68b5bedfbfc12104675388cef",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-54-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/jewish-studies/jewish-studies-bachelor-50",
+      "sha256": "a8731736027a46dc6067f81165cb477edf5d5863f4c7438eba2c630fa71d0e68",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-56-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/jewish-studies/jewish-studies-bachelor-75",
+      "sha256": "20dc59d42c561112bc38de103e1c9c6aecbc815058a71cf232ae4f63349f1361",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-56-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/latinclassical-philology/latin-classical-philology-bachelor-50",
+      "sha256": "e5e19fb95270ef398d4cc211597569e294f2a0bc462aeacd5898d7c5bb861925",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-57-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/law/law-staatsexamen",
+      "sha256": "db18079e28e3ab7f6bd5e93c61a98ec061017f67a8e54db068b554ce08f23f7e",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-58-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/mathematics/mathematics-bachelor-100",
+      "sha256": "259d1bcc06f25e2a910b1e00763fc168347fff3632892fa1546a6e5130b05943",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-61-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/mathematics/mathematics-bachelor-50",
+      "sha256": "d6e2d9d4e35adb8e35ea3bb334ce03a108cde2a9eaf5fe09bba00e26182ca1e3",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-61-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/medical-informatics/medical-informatics-bachelor-100",
+      "sha256": "6fba625def1a576f70daf4fce56311deddb56933c690800c82a3bf9480111f51",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-65-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/medicine-study-location-heidelberg/medicine-study-location-heidelberg-staatsexamen",
+      "sha256": "fd18deef829c312916a48bc4f8c51c1ae6051511321120eb38dedf08f7aa6a04",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-66-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/medicine-study-location-mannheim/medicine-study-location-mannheim-staatsexamen",
+      "sha256": "6bf08cd18200a01a1d905e6900492e3e72896e0c6f34966adb9c48ab5212f14c",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-67-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/middle-eastern-studies/middle-eastern-studies-bachelor-50",
+      "sha256": "67fbc58a73bfe41c0165a642e6d444c4cff57682c4acd1ad15d9dcf7354ad368",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-69-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/middle-eastern-studies/middle-eastern-studies-bachelor-75",
+      "sha256": "1fb56b61a3413fcef9076d12bb60dc495f8ad6360bdccadbc7af4fc1badfbc23",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-69-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/molecular-biotechnology/molecular-biotechnology-bachelor-100",
+      "sha256": "263a219cdfac8503693bc74e14f163ed3bbdfe8f59b2b6ee5e0e1bc01e4bec1d",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-71-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/musicology/musicology-bachelor-50",
+      "sha256": "21c5e84e0ce4c197ad7caf6d42b242d84293073f0c3e91d73ef621dda006000f",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-73-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/musicology/musicology-bachelor-75",
+      "sha256": "3b207c9c24b65fe667c255650729c12976d7efacf4633a07fc31bea642b6eea6",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-73-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/near-eastern-archaeology/near-eastern-archaeology-bachelor-50",
+      "sha256": "e2f7c41c46b494c819e6a9994fbb5be1040adb7675af60d79115be543adfd832",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-74-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/near-eastern-archaeology/near-eastern-archaeology-bachelor-75",
+      "sha256": "beba455a5d0a7f17118c9a3654912f441a1eab95560f7284369df24da4c89e7b",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-74-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/pharmacy/pharmacy-staatsexamen",
+      "sha256": "99e3d22b7185f8fe48288a82c621b8d0f04d1b4b0e655b82324485713a9188ee",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-76-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/philosophy/philosophy-bachelor-50",
+      "sha256": "b21a9866f13d9806f994d00ce89d67bed1151b330b78a9f5a7f03d02528c5213",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-77-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/philosophy/philosophy-bachelor-75",
+      "sha256": "fd4aff23f61d20323788944c92f30f313d2e04473e8d69d40b5602fc26f1cad2",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-77-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-100",
+      "sha256": "a511ebb82d72913b456af2e22cdba3578646932c50a74b98d8b9744c14a521cd",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-78-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-50",
+      "sha256": "189c1f89515fda45bb08c83405a536464140523f584710ab3fb69018a6620824",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-78-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/physiotherapiewissenschaft/physiotherapiewissenschaft",
+      "sha256": "57cee8b811a2deaf49a5e8af64d229cb6ae688db4b0161d04ee28c300b4656e7",
+      "raw_file": "scratch/full-catalog/europe-enrichment/heidelberg/physiotherapy-de.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/political-science/political-science-bachelor-50",
+      "sha256": "d99609df359e01dcf0a506dd0725c02fc26e614404c6ff041a3a7fbb53444391",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-80-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/political-science/political-science-bachelor-75",
+      "sha256": "6ba3d5a239cc3b840e34ddbc92e57a11d4ca205ee6fcee19a823e697923124d1",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-80-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/pre-and-protohistory/pre-and-protohistory-bachelor-50",
+      "sha256": "10fea63474924f546e227862960eaff4fc8dd060bf260e92f2f94bb10c8ac032",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-83-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/protestant-theology/protestant-theology-bachelor-50",
+      "sha256": "94352bac4d43b7077468b7130fe714cc399313f54f0bb3a927b236059e81da5e",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-84-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/protestant-theology/protestant-theology-magister-theologiae",
+      "sha256": "e8582dd3f95a262e6ee5c0371de4f988386bfab4b3502cc7e8b03337e211e012",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-84-7.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/psychology/psychology-bachelor-100",
+      "sha256": "4208ee856a4a936cb8b66caa80790241ba689c4a00e7bfc390c38985f6e3f7be",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-85-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/religious-studies/religious-studies-bachelor-50",
+      "sha256": "3de1e5cd7095fbdd94cc92668c13ce5a1aa97735f6be0d00423d34085108894b",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-87-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/religious-studies/religious-studies-bachelor-75",
+      "sha256": "70acb74aeaed38898d632029acd0c86276b708874a720fcfaccc5bf9335648e1",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-87-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/semitic-languages-and-cultures-studies/semitic-languages-and-cultures-studies-bachelor-50",
+      "sha256": "d9fb3ae06c6f0d6f97e66743e0a39d4e2c2cb0d1fb1f540b9b8134647857a1fb",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-89-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/slavic-studies/slavic-studies-bachelor-50",
+      "sha256": "0c529f9674df06675d6e96b153781aced4d305a21588c63714caa41ebe8b51ff",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-91-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/slavic-studies/slavic-studies-bachelor-75",
+      "sha256": "2dcb54923789ed8adfd11c945bd3187f3cda906c7c9a5443e9c29fbd24a7a208",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-91-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/sociology/sociology-bachelor-100",
+      "sha256": "c348f9d78647ccca9169d1f74ad41bf1a5313eb520603a2de19026da557d1559",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-92-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/south-asian-studies/south-asian-studies-bachelor-100",
+      "sha256": "56505ba6e467a6ebfdc61479f801fc33fc46fa57c32d30f63e76dc31a6d2b427",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-94-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/south-asian-studies/south-asian-studies-bachelor-50",
+      "sha256": "99a9b450ff1b55c483462d718e9aff552469979a14bf6a5af526d9a28949ca29",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-94-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/south-asian-studies/south-asian-studies-bachelor-75",
+      "sha256": "ba866d7fe004c849cc6e14aa590215b3d1da383a79ede24b7e128fec34d3c660",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-94-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/spanish-romance-studies/spanishromance-studies-bachelor-50",
+      "sha256": "ac5db2209487efcba67a3336cab0914056cec053c96b778e2cee37f7706bca5b",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-97-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/sport-science/sport-science-bachelor-50",
+      "sha256": "27ae313bbfd8515ee02b7d0eae39851588abb411bc44b6e3600c1405e4082cce",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-98-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/sport-science/sport-science-bachelor-75",
+      "sha256": "4d045b81412664bb871217ecc6edafebd29fa8618635b051a0f4f60d4f283f86",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-98-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/translation-studies-for-information-technologies/translation-and-communication-technologies-bachelor-100",
+      "sha256": "dcfb376322e527db978ea907cc4c8b78074d7b875c644c2b46ad5e3c94cbb0d5",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-101-0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/translation-studies/translation-studies-bachelor-100",
+      "sha256": "5a93abc71fb4c25bcb0399f4d03421be80f8ac3a47f807ed4b8ef6370ae6a780",
+      "raw_file": "scratch/full-catalog/europe/heidelberg/detail-100-0.html",
+      "locator": null
+    }
+  ]
+}

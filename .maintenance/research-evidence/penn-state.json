@@ -1,0 +1,1097 @@
+{
+  "university_id": "penn-state",
+  "sources": [
+    {
+      "url": "https://www.psu.edu/resources/international-students/admission-requirements",
+      "sha256": "c3231090ddaa3d3b51694a04505d82f9d97c5272ed7c2ccf7c5725f48ec1030b",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/penn-state/raw/requirements.html",
+      "locator": "Requirements for First-Year Applicants / English Language Proficiency"
+    },
+    {
+      "url": "https://www.psu.edu/resources/international-students/steps-to-apply",
+      "sha256": "faf03c66de0bda252aaa332c6e55423fc1733566c0866948967fd2bde384ef25",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/penn-state/raw/international.html",
+      "locator": "Steps to Apply"
+    },
+    {
+      "url": "https://www.psu.edu/resources/international-students/deadlines",
+      "sha256": "3c0800b335a3a5c8ca8eb198aff2a8f5e1b28fbf2f88747c3c86ffcc4022492d",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/penn-state/raw/deadlines.html",
+      "locator": "Dates & Deadlines / Final Application Deadline Information"
+    },
+    {
+      "url": "https://www.psu.edu/costs-aid/costs-of-attendance",
+      "sha256": "87402ba1b1c64aa087b1fd7411d2b328fb6d5bd4b7525b38f275ab7045f7a5f9",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/penn-state/raw/tuition.html",
+      "locator": "Cost of Attendance"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-studies-ba/",
+      "sha256": "c917e0977e4a4acd74a9c78dc43003aba4f80a7e7b861c851fb57feb7045f577",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/003b5e064ebbc16e551f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/accounting-bs/",
+      "sha256": "d33aa028f0cac4252303ed0e2cf6f00f63ab77f6d07bd0a9a0dc128891067291",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/d6582369d6efcf0135fe.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/acting-bfa/",
+      "sha256": "66013d5c04516bc597a42ab0506e181cd473cb49a5335d0110016ab38e0df5ef",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/660304b70953ba5f8d94.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/actuarial-science-bs/",
+      "sha256": "84e16e7a04997454a4122945ed0c47c129b59b489374f0a1d9cda0587d513b90",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f14edb41e18199675abd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/bellisario-communications/advertising-public-relations-ba/",
+      "sha256": "844e6d4652e43ea58d36d41f6014646efaf51514811fa6e8a2eb2ec99298f0f3",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c4661a4093ef44bccd4f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/aerospace-engineering-bs/",
+      "sha256": "83beca48a40f8ce044f5c267a020caa1bf7c08d7878b7bc07d8b84d2b1c6824a",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/23787c49236e048a3550.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-american-studies-ba/",
+      "sha256": "4f7aa904b6daafad1f2c18ce90a71a33151b20c9027f173320b80c51af766d87",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/67320d2726e4ca6f1677.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-african-american-studies-ba/",
+      "sha256": "108efbe73ef41b83c7b693ceea8e4733b3d05179916c2651c05b087140c27c44",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/cf688a3f9b0d370ec48d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-african-american-studies-bs/",
+      "sha256": "d2507b48b6bec83e1fa82550a5d6ef7f04f25015812ae7a93eca0abd27e424e9",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/b419c3d5a5ac76eede52.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/agribusiness-management-bs/",
+      "sha256": "68ffb324db627a5c8bf1f8d38115df7bdbe2ec1adf52c5fe570026fe5d89d0be",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c80999aebb59f4dbff7d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/agricultural-biorenewable-systems-management-bs/",
+      "sha256": "8b8f5b63c5e293c7c7269cb96d5a64ce63188cffb985492de5b2b7f92a59b05c",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/0af35435fb9a39e0ecb7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/agricultural-extension-education-bs/",
+      "sha256": "2a9516a299faab33f02205f52d00308f041a9b02ef480595384c4d1476e593bd",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/ea404766533cb7b28b4b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/agricultural-science-bs/",
+      "sha256": "0949d3be5fe6270545377b851db42f589497e3b216cb2ebdc7e8cb8959abf7ef",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f234b2f2e5200c6b9160.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/animal-science-bs/",
+      "sha256": "dbdff122d32d28948968de78b2a080347ead3956aa0d6f09890f63abfdcb0996",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/2689d45a0f267a226503.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/anthropological-science-bs/",
+      "sha256": "df8c2380743603ad44b54d55c3e7ae9cd56d5f4412eb6d87843513dee7c5a9a3",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/70077217bb3edff3cbfb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/anthropology-ba/",
+      "sha256": "2f0a59ef658d0d555d63d70ae83ac0265c6ceda0500371146469d95a3489abfd",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3a1169d0cb44cb2c3466.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/applied-linguistics-ba/",
+      "sha256": "a4bd99c29e49db99981dad9f1de0e42bd5315c7cf4dd2efbc40a44b337963a96",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/4e1bc9dd2f3e3aac3ff1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/architectural-engineering-bae/",
+      "sha256": "3f4d58ff047d3d2a2fa85a352ef937a255d78019f7f7065147d9a2b8afb71b2e",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/2a4863526ed2f8cafd95.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/architecture-barch/",
+      "sha256": "8a6ef906aa0327f34abf40a4bdaf8702464cda6919f6b7bd1c2db885657d21c0",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/768d4988ae5260e90771.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/architecture-bs/",
+      "sha256": "85aeb0240391b3d907a47b54e1c1e6f7e89ce238f7111db496430025c241d5a5",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c20e646112c26d3a5a96.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/art-ba/",
+      "sha256": "4ed5ac53aca0864fa06f356841c60049c30f0b76393bd621597314d71514ff47",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/fc3816ff91dd04ed0e96.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/art-bfa/",
+      "sha256": "acaea1efdb27b9faf4745b861f391df5c15501638f0f36d4a3b7c79b11988e0d",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/0be2d257867886320d44.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/art-education-bs/",
+      "sha256": "53a0ec981789a4a1c0ee68ddf789aeef9331b7d5f501d1e0e09d47765fd28e00",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/32687147e100bfc0dfb6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/art-history-ba/",
+      "sha256": "658df748996b703d54cf5c31d613b1cc1359a3c700620d143e1b7a0e5f2a737f",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f74d1267bfe6f5e43940.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/artificial-intelligence-engineering-bs/",
+      "sha256": "74d1ca81ad99664107ec31d788fbd4c19719ce195c2376fdaaec8cdcdc1cca5e",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/868f52a9917c3ceb0d92.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/artificial-intelligence-methods-applications-bs/",
+      "sha256": "4921c5de5eba22cc7773ee1c0584ac48d124e9cafdf6331e8bbf9793d612f559",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/93852efdba0c4a2256a7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/asian-studies-ba/",
+      "sha256": "6674e571f3945ffad063f2f68a2f010e3887abad78176871426156a9926c80a7",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/52d4b59dc0dd50c63087.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/astronomy-astrophysics-bs/",
+      "sha256": "0841aa9a23961bd219819f7f1f62425d68aa6eca38b4448834ddd95a116d87e8",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/8f8ed9531f6acdd2c17e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/biobehavioral-health-bs/",
+      "sha256": "3163c63c4fdbcab2ebb958cd4b78180246f52782f25ce2d93fd1b125241ad664",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/7e7606a538b1a4d717ee.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/biochemistry-molecular-biology-bs/",
+      "sha256": "c4069984ef88d38b16e3d8516cd436a309a1bdc516cf923fbfa6a8eaac9420ca",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3b92dca5426bc17164f3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/biological-engineering-bs/",
+      "sha256": "4eb02d30d813cd057a2237bd594249caf66bff40c538f511de66bc47cfb1cdff",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/27432d9e1c7be6eec017.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/biology-bs/",
+      "sha256": "3c81c9953c8bc8da7136cbf6b95954d7d15eac1b23d14333ce00d8622b3737db",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c289bc852bfca071e3dd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/biomedical-engineering-bs/",
+      "sha256": "8af50b4d2bd9422d7b97f17806338c7e43c0ff8b667676d0deff7549a7d2d9da",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/648e20b52f2613092d6d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/biotechnology-bs/",
+      "sha256": "c8d40e0396bdc8b7f0e9924e8b091044a6d4663c8e874f24b270d796628a16ee",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/b015ac208874f64c3553.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/business-analytics-information-systems-bs/",
+      "sha256": "ec5b29f7f4dc0848e43ca108656c741fa23311656ab52aae80eda5c0b2a827cc",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/b4c8cfef3ad54efd878e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/chemical-engineering-bs/",
+      "sha256": "30b369c5d163883c6664fab89434a0d876f5b1077d9a8fe50eb0615586b6c4b6",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/ef7c35a6d28527e6a6dd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/chemistry-bs/",
+      "sha256": "85dde252c5f8e067cd5949a4f2d95c527fcaec3d7e4d91b93d60e83862cb1e4e",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/bdab761759ef0cc4c5e3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/chinese-ba/",
+      "sha256": "4b9182fda35ebbb78062f37a40c464662b7a53e22e7718f81c81af1854c6148b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/83169e6289cf742b536f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/civil-engineering-bs/",
+      "sha256": "84ba83bef5bbaa87a3cc2d821aafe7a6fec5a3b9935fd2397657d5efcd16d429",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/94a8197c586e03a27ba4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/classics-ancient-mediterranean-studies-ba/",
+      "sha256": "30d38a6b1df988d6b67055093123b8d5ad95de34e07b771c9f5104cf7bd9e993",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f7d04beefdda109312ea.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/communication-arts-sciences-ba/",
+      "sha256": "c52a79694172dc6c07e8cf6cbfeca4fdb8b9bc68c143f54d48e24897b7e34eba",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3b96e900054e96c3c430.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/communication-arts-sciences-bs/",
+      "sha256": "4b37ace6ee1745d223a540355bdf36cdb36848096153714867959b318df581af",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/ef7e748cf0a64bfe07ff.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/communication-sciences-disorders-bs/",
+      "sha256": "402b0c9a8712451b4caff03bb26897f0489034a81080ef3b082ed92895f52978",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/84d73e133edc64cc3f9f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/community-environment-development-bs/",
+      "sha256": "c6569744d183b1d96e3017b413c5c486cca365ab33b5f05e890922fc2360ffcf",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/67ae5d6605633ec99092.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/comparative-literature-ba/",
+      "sha256": "3323bad1409d73e17ab36a8939fa4ad4b6e8cf3e929a06b3758fbf3cb7857e9e",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/fc8a1762167f90585e40.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-engineering-bs/",
+      "sha256": "bd5ad67cac0ee160f95cb2452439fbc3ba4f8ffc6f702a63a1355b5741f4098c",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/a7f5fd8be2bccd172ca4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/computer-science-bs/",
+      "sha256": "c17c8339cc83a1236f9091d067e8dc4499551ecb7785a242c589dfb11614379b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/58f37730bf5847bf218f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/corporate-innovation-entrepreneurship-bs/",
+      "sha256": "980b0e550cbaae224edc539cdedd0b2ca076e1445b95f2e5ced46c30bc8f2c92",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/fce71490eb99db99e8eb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/criminology-ba/",
+      "sha256": "aa7ce5276e2c5ee7d833a2befd9ecefb881eb522db733c88f951d658d5710fc8",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/eaaa9256d28f1d58ced3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/criminology-bs/",
+      "sha256": "73e67f9ecca41995b2981d8f65df8b38fef86306f107a05232108937e5795189",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/8eb99eab287b3721fbee.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/cybersecurity-analytics-operations-bs/",
+      "sha256": "1971c7e3697fb99ccbcf5afdf0140eb93cb63c6cad120d93f06677ff22c4a1e8",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f2010f9cb9d539b8cb77.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/data-sciences-bs/",
+      "sha256": "6fd74eadde4969263a88a34b66a6e79b19c9f9c26d2b18f6dfe29bd234179f66",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/8d91dabf265c66b81fc8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/data-sciences-bs/",
+      "sha256": "6031cc012c37fb5d5388f74cf3f40dba0d173128b42575d5c623718e7af0d0b9",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/1496d20d302fe4d29ed9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/data-sciences-bs/",
+      "sha256": "83c7179e5776ecb5166164a25ab7e469a9e757a2179c8afb22ef5ee3345e99df",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3f19681240dc24a428fc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/digital-arts-media-design-bdes/",
+      "sha256": "01a3f105f6a1c38e8b0e9c6df02bfc1bc07b6f250514df1ca2a289e6c5406a25",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/5d40865fbdd51a7ad232.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/earth-science-policy-bs/",
+      "sha256": "4d1b11f8dd3b72b4f4fb65d350f1501747b0a1ad72cfd19e276f7df0ca955cf8",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f5ac7f58c6b8ce663c02.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/economics-ba/",
+      "sha256": "0d24d87b9426405adc81eb4b109c31f147863159e42783fd444f37048a83e9da",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3d67a761620123fc7164.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/economics-bs/",
+      "sha256": "190bf79fe4fd4f07e117e7e716742c15fe0d0a28b0b6fa5bad99eef4fce2d656",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/2b8c64767b308f9065a7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/education/education-public-policy-bs/",
+      "sha256": "f976c17da40ab4333c942480d254b14aa7dc88fc8e9d771112e24c434a2dc0f3",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/4ab0ad60b7d26d618e65.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/electrical-engineering-bs/",
+      "sha256": "1661c2eaf39880791399106ad84c60482e2d218f80d10091db020b218fea66e1",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/7383c99db44e342c9eac.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/education/elementary-early-childhood-education-bs/",
+      "sha256": "25121c6fd9891106f86c27ef78b7a62d3ad5f146f03583a820a43839546117c2",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/6ae65a57b522e11df1c5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/education/elementary-kindergarten-education-bs/",
+      "sha256": "917c0a6fe3a3ba8754859fa2cb436211280c4231635e3ab887231f68798635de",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3bd38c07ff9265f8c464.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/energy-business-finance-bs/",
+      "sha256": "2f66b320131d7615908c13636e412c8524228d9ecbeba73b3b8cb867a34b2da2",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/1f017e594a2c2ca65de3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/energy-engineering-bs/",
+      "sha256": "1002dceddbadbd1ba3a2daecbeaa52b5372d2399f947ed8ec35018e525656a62",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/d02ae6e5fe0ffd16f165.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/engineering-science-bs/",
+      "sha256": "a90d489dec4e52fa3d5a16e4cff7b30b744a5880c6e72dd74bf18238101937b3",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/eb36bf3cedaea6245c28.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/english-ba/",
+      "sha256": "7a2fd8427fa4f4f22014bbad0dcc2e90cd2f81c9f5c8722efbc3db59fe653c26",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c85036b5faeb268fad3c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/enterprise-technology-integration-bs/",
+      "sha256": "72c9418f008240866f760152ed1c65455032c158c56064382108419abcc847c6",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/0485aecb368a3ae4e581.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/environmental-engineering-bs/",
+      "sha256": "966df35dc94f8de55d96f9ecca31d4fa06d77857f23a2e8fa81c95ac6fb464cb",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3c82b94135e0da67c84a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/environmental-resource-management-bs/",
+      "sha256": "51259adde699cdfafe536f3503c9310f19e3c08d6aee74739f398090ccd61647",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/bb839b00a99e242e87a5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/environmental-systems-engineering-bs/",
+      "sha256": "5693d589fe0af7c2025c3b2d8dfa1ece4429870676c8698ec989828893f1cd12",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/af2c9787fb7c6ef073d6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/bellisario-communications/film-production-ba/",
+      "sha256": "039e8b930b73073b21b3f5a2ba4fb5d420f90739138dbed270aa0988ffaffdf6",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/12819c9311cc3d530967.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/finance-bs/",
+      "sha256": "bd2749a15b58aba5d9ac2aa4b88f05322ccb705c2779cfd3c061d9a26d9bb868",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/2133c3db01fa70c26de5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/food-science-bs/",
+      "sha256": "94b248acc4118e440a5c477122002fddde278471859b9ff18f41fb3a6442a94b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/be764b8ce11067fca368.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/forensic-science-bs/",
+      "sha256": "d863418a011ecfd432c71e198c1af5bbd3d57369ef0f016d0d48442f375b927c",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/572516d41a72f1e232de.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/forest-ecosystems-bs/",
+      "sha256": "56f00a4fd80fbbee34c39d7a0f6022e0c2de6cff63d76931085b9f2572a82fbb",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/36f359d10961c193c491.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/french-francophone-studies-ba/",
+      "sha256": "0a421712de100ad91067d6ae9bf0be2d21d3eb1726cde8c69213e4a3247fa831",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/cc9455ad9d3eb536f281.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/french-francophone-studies-bs/",
+      "sha256": "9cf5a4beb100aea4d51966c85f9f729cefeaac98d7482ba7f6ec3a3acb4823f2",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/b628e38a74ece1bdbf6e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geobiology-bs/",
+      "sha256": "642acd4761f6d02664801e0cecf2086e43ab644d09afe79c47aa01294eba23d7",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/15184747b662941e6f07.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geography-ba/",
+      "sha256": "bb12423421f61bc0285810b01cbed4a4197b2c4496970173d704e95a20183c5d",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/dfd0395e05063856e5cd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geography-bs/",
+      "sha256": "7885155753d18ae0f0c6d6fdc4852925e60955ea30f2e624d01015f49fb17c5c",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/84c4c7e48e3a0d840453.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geosciences-ba/",
+      "sha256": "4b8c737ecdc2b1f095fc57653731b71d86e7d76b15b838c672caa58f85b984d3",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/1f945ce2ee1565d44748.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/geosciences-bs/",
+      "sha256": "342825ead32bf059aa2f59659f94997549f47ee2c65bd6f6656b499652a35acf",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/7c871e9b5dfa9c17db96.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/german-ba/",
+      "sha256": "c50ac44c5881ce30f279869bd7c548bae845c9521894de516dfed858e42e0f50",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/23891b61f121314e2761.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/german-bs/",
+      "sha256": "6d6578c523bc69a3bb2630f620a5d743e2f24567384d5c9b3c79cd5752cd308f",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/226bf0bfa3723b8f3443.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/global-international-studies-ba/",
+      "sha256": "064536af5fad9cfa06f5c8884f29098bcffc21e994ef19fc714d939c988fd46b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3963d1a4c2c4f2686d22.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/global-international-studies-bs/",
+      "sha256": "40a1e0d2e188f6b41cf4317f97cf85ba9adc640976ee9372e720fa60166ba419",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/5442e6d13724ac3df3f5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/graphic-design-bdes/",
+      "sha256": "e6e43b97609c44695281ee2c4fec7be546bab82b7c7b7fac4a511fa3d9afceb4",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/1949c62cbd112f7a58e0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/health-policy-administration-bs/",
+      "sha256": "ae7671cb88ef04ba14210c72cdd6851cc3e777592baf716b679b9b8e164bd2f5",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/eb62da41d5715a2c8536.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/history-ba/",
+      "sha256": "45078c92922f1b7f552df16b037437649a78e286119272610127e272a35e405b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3ee72b6bcc15ba98aeb6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/hospitality-management-bs/",
+      "sha256": "26a4608502f312f197bff63628b5d7a16634e952a4b184ca013ad56aa46750d2",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/d7b2e2211c0a3c328c38.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/human-development-family-studies-bs/",
+      "sha256": "ff3bff627361d46ca39865e618cbfbce953884da18cdbda0b8cad682b8070e70",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/809a124b316dae111e8f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/human-centered-design-development-bs/",
+      "sha256": "5825731ce4607180c3ffa8c1e8d829a530168ed811aed75e0760553116116d64",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/061d7ffb8f61a2234d4e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/immunology-infectious-disease-bs/",
+      "sha256": "6fb2e0f66437611f7b5b29716a9cc762af8b6535662bd916ed843b1e060a3a33",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/7594fef06cbc2897c390.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/industrial-engineering-bs/",
+      "sha256": "5a4cbe225780599218c0aae3ea721a4ba66fd52c9a8a624e7142852e6b5f6c0d",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f9eb9ac3e4e81db29cbd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/information-technology-ethics-compliance-bs/",
+      "sha256": "910f2435194a192ff9957b2af7f9056990df865030b97159c3cf0aaf1151949f",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/778fbb87506281a2c941.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/integrative-arts-ba/",
+      "sha256": "20cc4da91aae13a7ce7e019828ec0b0ecfc497cd0d6fe1049747be9a14c160c6",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c84ab996c048cf6eeb85.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/integrative-science-bs/",
+      "sha256": "08e45a891375a03d6ea7c89bd16af5057984530adfaa2c0607e6afff390c0ece",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/afdbf343054180434252.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/international-politics-ba/",
+      "sha256": "ff600592695a217e090c90e0c720fb16ae251ea452a3cba56a8220cc98c663f0",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c486b6c5c73f59394408.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/italian-ba/",
+      "sha256": "101c47a9bd21742c54aec8b66ba4375591eb17261611c736f1cdf3e00ee790c8",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/1892c6da3d4d13c2302c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/italian-bs/",
+      "sha256": "b61752043723aa174033da0e9480a445eff53ce5629551cdf393f34bd893a2e7",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/300a32d8cf4bae0f32e3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/japanese-ba/",
+      "sha256": "8b5221f38c133a2cb25088e9a86e20364ec938030b02e40b959c4cc0807fae46",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/a1b513ac37a649ee544c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/jewish-studies-ba/",
+      "sha256": "89878b2529cfc6736aea6f41dd0a5483617117ebab5f6ca1fd228e8f17e0fa82",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/d9d03106ffe6a14c2c96.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/bellisario-communications/journalism-ba/",
+      "sha256": "e8251e8854501bef0ec2064ebc2c6350f6eb71706f8d04f70df6e682fdcf8437",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/a446a03dbec0bdb7575f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/kinesiology-bs/",
+      "sha256": "47e1fe9f4071de2d640b923262d0f13d5f4482cef6cb7be3bf66884d79efe773",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c65adad3f9c366325c7b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/korean-ba/",
+      "sha256": "27fd608f5e23e7a0a2376a72738c1411f6f9b14b9975e3471fdb589abfb06270",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c1268437603cbd743774.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/labor-human-resources-ba/",
+      "sha256": "e5d21fd3312d321ff1a0f5f5fde2f17e6897a897817391cc9e0798d7a5aee0f6",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/5b86d91ed1708c1c9437.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/labor-human-resources-bs/",
+      "sha256": "140100050a64fd9ca5061922f0fb2d5f28c1e766f6530a30b50f0733913991b9",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/507a24f0b595113672a7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/landscape-architecture-bla/",
+      "sha256": "e66a3c05a7d2ab4f557b197a6ee178d2f5d4356b1e4f93e3b2627d56abf8082a",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/ab7be5946aeea426d413.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/landscape-contracting-bs/",
+      "sha256": "385c50e0c749f2b5ddccd466b8d1e48abd623784b2d0a41294ef6a1c28a37ada",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/e17ce60773ffe7288908.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/latin-american-studies-ba/",
+      "sha256": "1f38c1e213bbc2b2a19e90e9f95be1ba5b981b5825aa7891f6d564ecbbab6724",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/14fa984c7f6df9e4334e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/linguistics-ba/",
+      "sha256": "f874f9d7f05a89c2be51c9be67ec5082d64f76b0488efc211701673416618ec2",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/fca0daae53159f341ae9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/management-bs/",
+      "sha256": "30b9eef7cb55c07df4fad5bef43ef991c7c0b7594956d8aa7ec38cb0013786ae",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/4b96bf1c09fd157acf39.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/marketing-bs/",
+      "sha256": "970b8ec26a170c357c699cabc90a7826cd89cddfac48a72a40be2d68c0034b47",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/b1c186dab9ab1744a486.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/materials-science-engineering-bs/",
+      "sha256": "f4acbbc6086a07709dcb4f7052aa4dbee915274bb11f54a082e0dd89b4494a7f",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f04ab0ca54c417659e5d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/mathematics-ba/",
+      "sha256": "9a11065e6741bf22b61f413526ea94128c5024c8014a4512a0ab9812eacbf8d4",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3df8ce60daa0d06c3f6e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/mathematics-bs/",
+      "sha256": "bcc1f83213b4cb399397b621a653a7112594e7bb4363d8fdf9d4c2777d500992",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/d942f66480a23d3dec60.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/mechanical-engineering-bs/",
+      "sha256": "b992273bc56ef1ccb3c0a5594bda23dc4857d7bc8b04e34e5fa9826923aea3cd",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/37d396d5b5bac5886efe.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/bellisario-communications/media-studies-ba/",
+      "sha256": "fb63e09926f6e2684985ffdb5cb20faf7565948be475a1d0dd8cc51278f6f7c8",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/5d076911a86f4ba5e1d7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/medieval-studies-ba/",
+      "sha256": "8f103b79ef9a1f24fc4818c37b1b7ebcecc9da43e72d09450d72b4acbc2a014b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/c858557aaeb75f9159ae.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/meteorology-atmospheric-science-bs/",
+      "sha256": "88a7d360a7b0a961927c7ba4f029d1f0b15dcf16a8fa549132fb9914a6bf4f77",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/a9eff80c502fcc910fad.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/microbiology-bs/",
+      "sha256": "c4a127e9e668873934897130ac911716e1de40a0527974ecc5fa608ab638968b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/7c5937dd26caa4b78b73.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/middle-east-studies-ba/",
+      "sha256": "3f465ebcf34133978507568727dabe704f10038a2142c0537c518c7e435fd657",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/a02f929e3d8e7f3117a9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/education/middle-level-education-bs/",
+      "sha256": "8f3a225daa473b06192e2586a28d90838db508a820e7f11af3a83461fcd8da72",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/2393a3b7d56bbff5a8a2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/mining-engineering-bs/",
+      "sha256": "a6b27302e518b5e4b6ac7184063af85261253b8d8c821fb46b4fa0e8347e4856",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/e3175064efd41e863df5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/multidisciplinary-studies-ba/",
+      "sha256": "95eeb96cc74f5388149c7e99e3d15ce54f22ebd6d6260f848a5cb09236ee3c57",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/1ee24e0d8654a8121d64.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/music-ba/",
+      "sha256": "2c3e429a4e7869ecad73957026a165179c6f9f58e0def945156c3cf0bfd592f8",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/d0ec3bac8470f948ff03.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/music-bm/",
+      "sha256": "96fad1b777ca279fb309ff516a5cdfb5cb017a8e5f21034d73f43a77b72344bc",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/fa43d16ecfdaf5ee6844.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/music-education-bme/",
+      "sha256": "b4f7f94d97289ad511a938f7f557ca2be2d419559cf76e3d6130d89b0c56f32a",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/e4f3ea1f1ff8a6f47928.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/music-technology-bm/",
+      "sha256": "377595d608b1d808df10c896ab93bcf714ebf721548500fe42a90ed10dbe6212",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/6d0570a076ef66c4b1b4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/musical-arts-bma/",
+      "sha256": "39e1174637449dac88c29f2b68baf1b5217446068680ce62f5cd945665a5253e",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/5416e5fe3537e407fbaa.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/musical-theatre-bfa/",
+      "sha256": "04aef11aecc713ed8f0fd80607f2a9121cc343ff44c889d1165986446d6cbd9c",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/89c664f71733627fec62.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/neurobiology-bs/",
+      "sha256": "ef7dcac39c2a2877b66a8947df2ee7b438f14b29271f2ff685d421481390da87",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/7523fd4ab5ad8012640e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/engineering/nuclear-engineering-bs/",
+      "sha256": "93426ac5176b46beb4c45e58046847164c1404b99b41de095dea47a19237afdd",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/70ae27734e9d3157ee12.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/nursing/nursing-bsn/",
+      "sha256": "ceb0278e8c817f7b0eb5b12aaad8f34686aae749840c213303592192987eca6c",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/5f20c742c8efa66bfb82.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/nutritional-sciences-bs/",
+      "sha256": "e7fecc5508c96221d2ff989740656a7307206b387a8f432e81d81157ef47089a",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/25361d7b2eb3a6fa6533.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/organizational-leadership-ba/",
+      "sha256": "b703bee28a4a7b727ed7b9ee58cc414249c2206487fb3bbd441c05465554c3a6",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/5d471fcb7bd5e8ed30ab.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/organizational-leadership-bs/",
+      "sha256": "d5d55152b4414073118bb8d28b79f3424e10a9fd487a804f52cd93899fe5a0ef",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/4ce3772a0b3ee90eb962.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/petroleum-natural-gas-engineering-bs/",
+      "sha256": "403c54d5116191ed5f6989be87fd80cfcd95714f4b9ed3d851ed271bbce9221d",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/0bd66fe48d6a60cc8885.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/pharmacology-toxicology-bs/",
+      "sha256": "9bd3d3d2d0604d27b538c511842f58a464ecfaf94f1a90e5db1c1831218f2e2f",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/0a55e0621b388cebdc8d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/philosophy-ba/",
+      "sha256": "0df6067e9a5764bb63f61ecdabab852dea7726506dbf876988fb182a6055715b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/1ad3b708b0597367be5b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/philosophy-bs/",
+      "sha256": "6e095dc0dba08e6a62cfd2affb7b4b9a3b7a0c050c516573f160a68e801ad00d",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/fe50a47eb9e8b5bb3fdf.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/physics-bs/",
+      "sha256": "d7e24722858bf991b545c038b67fae1eb4d200443d1a45581b786eb179acf36b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/7a7c7a5f9f2e01094617.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/planetary-science-and-astronomy-bs/",
+      "sha256": "210bac5dc5698b7db16ebae880e0f03bd6f8526ff82ca54aa016482e70a8bcc5",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/5ee11c5bd37ab1b24ace.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/plant-sciences-bs/",
+      "sha256": "5a72950f9facd98a9feb40b91d4cd489e2755b24ea5775f264a12d8dd28f9b5b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f41dc9b52e5014ab4c24.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/political-science-ba/",
+      "sha256": "b9538a321728011278fc825eefc97dd814c9e7ac7e88edee217deea298764f72",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/05c731c5c9aa6945377b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/political-science-bs/",
+      "sha256": "b47799dbfc960688d1025eb7535bcd340fac01792e3b7f9770dee2a86aa11285",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/08b9450f215d27af7b89.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/premedical-medical-bs/",
+      "sha256": "8582e07d5afc3879b8a93dd3dbe07d4f8b296b5f8e1735edf82e8c4e19eebd81",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/d5b046ccc7f42108f15c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/premedicine-bs/",
+      "sha256": "44a8abcc59c2098bc7cf0c2d92f8c610f6f0479e887be2ca8f5e3831ef6a8bd0",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/83f5acd35525f4bc92ab.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/professional-photography-bdes/",
+      "sha256": "16ec4073d02417f201bc79724cea674ce0a54f087a3bef3b39e1190c23ede460",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/bbcebb7b56cf6f11fc87.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/psychology-ba/",
+      "sha256": "6bd2b29df425a14b00a8d9c969c73574bdfbeda7d04695f5b216ba80aae9a03f",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/85dfab7f0a818510ac13.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/psychology-bs/",
+      "sha256": "a24dbcdd2feaae0613f6ae87725c9974422dc3e15bd538d66be0f8bee1d9f2da",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/a013a9509385858e816b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/real-estate-bs/",
+      "sha256": "791388fb852f3a936bce5398e4c7fcdd4afd77c88cd346a381ff5d4343d76d55",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/b1cae5d9384078a0ba9b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/recreation-park-tourism-management-bs/",
+      "sha256": "25ae4b2d9a3a7c59cb752d83670946b00d4488412c9d2315d32c42561673c801",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/3fa0cbe8407086d7d708.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/education/rehabilitation-human-services-bs/",
+      "sha256": "f5109bf817f2c2ef12ce5d50d747705d902fc0251545320fe96f161d19ba020b",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/13861d93887a6a5dcfc6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/risk-management-bs/",
+      "sha256": "2f64c3bead38b85dd235fc11339e15e7d99f9d775b3b7dae8cff12e4b1dee1ec",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/0a80da49d1129a53f9a4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/russian-ba/",
+      "sha256": "75cf9e43634868c145390577c1f1258da41ba9fa283305aaf51b7f8a76046a7f",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/d065eac17087b2eee616.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/education/secondary-education-bs/",
+      "sha256": "0eadb220fafaed3a0309de289d15b36a136b9cf78ffb46eab8f6072dec673912",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/6848e0ee4fe6c7bd0d19.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/information-sciences-technology/security-risk-analysis-bs/",
+      "sha256": "d36d67cd2d75ff4aabc448946ee5446cabce11c12a86c6561d469526531f91ab",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/315ac62708ed1de2d8cd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/social-data-analytics-bs/",
+      "sha256": "9235e905d3fdfd3ec6376eaa946b3c75eee83f09dfaf9a648f59de157ee659b1",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/5d85081e2cfcaddb062e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/sociology-ba/",
+      "sha256": "75f577d2588807ae38a22d0822d7d04745d384bf03ab18ac6c40d2e8ce760620",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/175f6d57beb114676813.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/sociology-bs/",
+      "sha256": "13d7638f7558fbc0500d038dd2fd71c761fcbcacc3cf1f1efc72d2a40900950e",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/e2d4fdc4adc526619751.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/spanish-ba/",
+      "sha256": "4a62d15dc0926490668f74e5803bd3be7a8dcc243366f799f7349a4b09477b13",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/46d7d8b39afcb16f4dd9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/spanish-bs/",
+      "sha256": "2eaac14bb838b89310922028a6a0288a66d9188e3c3bc2683b93a309a97d8730",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/1a1519e5cd2830271cb7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/education/special-education-bs/",
+      "sha256": "e1536a73fc0b0102dbfdf4c4480816432a27e7f35105266dce2fb17f158df4c5",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/ad33de7c93c6f6c3a49a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/eberly-science/statistics-bs/",
+      "sha256": "339c7c7b1539c835ac6fb7f2a5e6fb3770793efcfca54f715f6d6bd531ecbe24",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/4e280d9ce13869b383c3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/smeal-business/supply-chain-information-systems-bs/",
+      "sha256": "9f44f5bed316883bdc1aa56250ceaae213444a56807ebf7584bab6988a78efe4",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/452ac79ee750b6318408.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/earth-mineral-sciences/sustainability-society-environmental-geography-ba/",
+      "sha256": "ef0dd331d8ff08d89aead2e3273d4975bbefd3a8d1dfce2561163d7387412f5e",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f439407c35a9f74487be.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/health-human-development/systems-neuroscience-bs/",
+      "sha256": "d5341b34b465218cdd7f68d0d5b75d5c0a72f31dad2d5d1d229aea3f45e85195",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/0afd4ca7bd651ae19f38.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/bellisario-communications/telecommunications-media-industries-ba/",
+      "sha256": "ad4115c169dcc2a7ed4692bf7609479c2782660742034c299b32bcf0fcaa42d0",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/d976b1881451bd4f601b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/theatre-ba/",
+      "sha256": "57a5278948e08da3764ef26fd5e367280c533ad572b887eef31d624b14c56057",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/25cd0090124ef43984c2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/theatre-bfa/",
+      "sha256": "c08fffa5cff933ee0c74b5788693ed7926be7f5052ec36cd52b99d0bb0fd0f3e",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/627a1a99c4eb32acf1d5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/turfgrass-science-bs/",
+      "sha256": "5bbb79653bf6e1924a6c12b659093c2825ca6bf7f843f75a3b7c1cfcd03831d6",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f562de6d4998285d90a3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/veterinary-biomedical-sciences-bs/",
+      "sha256": "4e14a9a9e0f12a22d0b3854000b61c227cddb630bada93c9c301399e755ee1c0",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/79d064bc0a72015a0fe4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/agricultural-sciences/wildlife-fisheries-science-bs/",
+      "sha256": "c570dcfd9d7ee10c3795b9fe796e5c05569be0551251561d6e3bdddb95e1de2c",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/2d830e271b8c878e4a0e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/womens-gender-sexuality-studies-ba/",
+      "sha256": "8d91e93f525316502540029da5189ec800861fd23950c7bc868f6710812b0663",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/944f02a11d90cdc1858a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/womens-gender-sexuality-studies-bs/",
+      "sha256": "dc862bf0dfbf9465acb4b939f0ab4168ff5ab3fe6a38c3402577f9eb2281d26f",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/f944486782223a2ba566.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/education/workforce-education-development-bs/",
+      "sha256": "9d8442ff1703150c97afb443e4f125d0eb1d0c2f9d246c192ef8e743e075d171",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/094ae8b08bb225b375d6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.psu.edu/undergraduate/colleges/education/world-languages-k-12-education-bs/",
+      "sha256": "600b22413be0fbfec23debfbb6da7829b3765d545a834850ffedaa3addde0a0a",
+      "raw_file": "scratch/full-catalog/us-details/penn-state/e311caa700224f96204e.html",
+      "locator": "main/content > program section headings"
+    }
+  ]
+}

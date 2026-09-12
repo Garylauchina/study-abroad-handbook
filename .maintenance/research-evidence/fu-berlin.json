@@ -1,0 +1,923 @@
+{
+  "university_id": "fu-berlin",
+  "sources": [
+    {
+      "url": "https://www.fu-berlin.de/en/studium/bewerbung/bachelor/ausl-hzb/index.html",
+      "sha256": "09eaf9bdc05fee907568485d6b6e837761d986962c786726281748dcd188e933",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/application.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/bewerbung/bewerbungsfristen/index.html",
+      "sha256": "5aa68af5d14f6a8e44e29593b0b268c3ec8b0c74991c7d4db3533bacdb1374e6",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/bewerbung/allgemein/deutschkenntnisse/index.html",
+      "sha256": "662382dc81f48fe733e3b0d12dc1176ac58dfe3ffac26ffb1c4a06d4b3ccf698",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/language.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studieren/studienorganisation/gebuehren/index.html",
+      "sha256": "f0a0f18565e4481acd8cc02a38cb712d71f5a4add18939d43423671f46da0dd0",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/bewerbung/hochschulstart-dt/index.html",
+      "sha256": "5728f98f5265126bad7d71e158d27a2b8d8b34c736b01f4fb2b55aed3f7c65ca",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/pharmacy-vet-application.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/index.html",
+      "sha256": "1c66869d045a4a2fd37b2d07403413307a2360edc84d8d4460d3dfeee1ebb604",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-index.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.aps.org.cn/wp-content/uploads/272_voraussetzungen_70_verfahren_gaokao_chn.pdf",
+      "sha256": "a437906df8c7001d62653e71493a196afd15100ffd8d3770d62a8bf0ea3d4e1e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tum/aps-gaokao-70.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.aps.org.cn/wp-content/uploads/271_voraussetzungen_60_verfahren_gaokao_chn.pdf",
+      "sha256": "47856d8da7a6d3de338e7f5d069cdcca40fe0014464a8d8f068870653f1a6cbc",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tum/aps-gaokao-60.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.charite.de/en/teaching_learning/degree_programs/bachelor_program_in_applied_midwifery_science/",
+      "sha256": "e6e86246f93eb341e8c29d233058bfae3971c871807d81c46f422be3a57901ca",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-4e749208fe0e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/nordamerikastudien_angewandt_kombi/index.html",
+      "sha256": "8167b918330a1e74f3332a0264c57048186d673a5f4f3da842ab01b267692ee9",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-356355f0a092.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/kunstgeschichte_afrika/index.html",
+      "sha256": "6a37ea85575e72d2fb5bf66fa3cb1ab38c4240726d1d1c92871c32943f11f401",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-f27090ebc31a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/kunstgesch_afrika_kombi/index.html",
+      "sha256": "dd1ac8ed1d768e2e0d3401c3b9b680e0680229dd09ef64bae2f307327c9bce13",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-b2590490cec8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/kunstgeschichte_ostasien/index.html",
+      "sha256": "701dbb7bf6f4118976dd2fca9fee4dccb02acdda3994aa54bde73427f132f24f",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-f59776c96cfc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/kunstgesch_ostasien_kombi/index.html",
+      "sha256": "aa82367572d1ce2693914cba156853a84692068f33932d4aed9553c17c86cb36",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-d2ae734bb1f1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/kunstgeschichte_europa_amerika/index.html",
+      "sha256": "4047792e0f381a2af57ed8166b919a51e8b35bebd7e82ce11b216cdc3241aa97",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-907998ee05c3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/kunstgesch_europa_amerika_kombi/index.html",
+      "sha256": "a9c66a5125d53d69002caa7cf0c86267f70e0c9284c6aa2c353796c1f99ecb40",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-12d61ef7c0f9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/biochemie_mono/index.html",
+      "sha256": "bd9fbec2858c7880a6a01d5960ecb8abb7cc595073338a92db259f61c38c2fa2",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-4143f5c77288.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/biochemie_mono/index.html",
+      "sha256": "5cdde20eef9ebbbbc4745f9118b85fdcb0c8157f18d1b7f27021246fe142aa13",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-63d3c2293116.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/bioinformatik_mono/index.html",
+      "sha256": "a21fa2728bffeeb953de3663eb9001707268f9d0a9d360db050ab1296298a99a",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-bbf6ea0edea3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/bioinformatik_mono/index.html",
+      "sha256": "94e1a4978fd9524b43f53225a1ba55523e6091e7ba488529bdf8a21ab3473dc0",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-91c39eeda1ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/biologie_kombi_lo/index.html",
+      "sha256": "6c74fbc477b511d9a1f6d0b0e24de0722cbac2e8c4b63832a60fbc33577ae4ee",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-44cff2591f25.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/biologie_kombi_lo/index.html",
+      "sha256": "fb46f549fd36b21567c6c346742cf9272260cc44f92efc3a4e5687f91af772c0",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-6a8c4bd3bb5b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/biologie_mono/index.html",
+      "sha256": "c34740f731fb8fd913a3ceeb34c7ed66e56602bd4115598a1e5bb794e7e7c2be",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-dcfe634ed72c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/biologie_mono/index.html",
+      "sha256": "199ad8a09ce4171759e169729aedb3e555190d599394925b80321855d08e7a6b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-38f4ad7a431d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/betriebswirtschaftslehre_mono/index.html",
+      "sha256": "6eed0e592c059cd1efdbabd0ec4fc11caa3b196c2e7391089a887345868d92c3",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-dca99fcf430c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/chemie_kombi_lo/index.html",
+      "sha256": "039db53b560b92beaff330b9cd6448c2b2b42857328db6490b711a1c50289eb9",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-6ad18a8ee27d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/chemie_kombi_lo/index.html",
+      "sha256": "4a8c791cebb42a60d605c170b5b1a63d8afa9f3d6a2da9473d0a44fd34cc1528",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-b85c5d2d49aa.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/chemie_mono/index.html",
+      "sha256": "2bcbd0396e4448d5f02d6759c0e9398f0c65b74bebd02807b2eb0b7d5f9928b9",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-682daeb278ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/chemie_mono/index.html",
+      "sha256": "8ec23a937ab6f70a1abd437d7b393bf5f5371dc0c661b169a2726bafe399a79c",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-00677408a00d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/chinesische_sprache_und_gesellschaft_kombi/index.html",
+      "sha256": "7a00d1e1f0e6ef3cd87bb8216ecce70103352b63a1a8854e13acb115468648bf",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-d3a0142281a6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/chinesische_sprache_und_gesellschaft_kombi/index.html",
+      "sha256": "cd48d9098684228a2893d1b120cee2fc9a90f6e4ba212aa02455559f97041f84",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-0a3052d93142.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/chinesische_sprache_und_gesellschaft_kombi_lo/index.html",
+      "sha256": "8e3d239f77a5fc02746fee6fe71478a46eaa0edd01c8b28376b17a7ad9255e6e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-1c2d5c994a65.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/chinastudien_ostasienwissenschaften_mono/index.html",
+      "sha256": "1aee7f3900f7355cd59feaf0fafa8f74da0b4851a64fd2e594234133a80ed579",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-ad17bccc7cd9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/chinastudien_ostasienwissenschaften/index.html",
+      "sha256": "f0641651b30538d1454bb947ca0d12d0e771dcc4fdb35c796ac74a91eab2a7b4",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-c3b7b46f53fd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/allgemeine_vergleichende_literaturwissenschaft_kombi/index.html",
+      "sha256": "700b0c5e12c14881e8451d355bfddd7d9b4df59169f44ecfd5a991225c322ae9",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-1ee2a76f0cea.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/allgemeine_vergleichende_literaturwissenschaft_kombi/index.html",
+      "sha256": "6ab2796f8c83829c1a477db8f55286d8fcaaaf4bb0d7881378ffaf7534fc4fd3",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-dec69392a736.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/informatik_kombi_lo/index.html",
+      "sha256": "c7b1c2d02d1e442cd78b8c7113cb5f81d7608c94f98022c112f6c1c70f5f6b0a",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-d21de93aba56.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/informatik_kombi_lo/index.html",
+      "sha256": "aef2cf8e829a7ed566a344b6cda65af28df5e38ab430d931caca688fa28af3b8",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-89236a57f346.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/informatik_mono/index.html",
+      "sha256": "80b55851b6067812e28845e2b9f0fc9e8993ce8d96dddba58f6e9e51075e3d50",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-d378a956f577.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/informatik_mono/index.html",
+      "sha256": "0c13593544b9f36d8cc064156bc1081a3635344e00ebcdd5ffeef7de2486136c",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-92a9d1854b2d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.charite.de/en/teaching_learning/degree_programs/dentistry/",
+      "sha256": "81c8b2544aa05b8930ff5f8eb2d366b23f0863afc515372c22140281e5a99835",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-241221f353a6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/medieninformatik/index.html",
+      "sha256": "c89ee3dded28d7989bde6856437838d32fb3a078d646feab348a094b2310f30b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-4944c6d130b8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/medieninformatik/index.html",
+      "sha256": "d09172f9401b9879b405719bec086311045c4452cc3fef8978610cee8742c069",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-96551f90709d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/volkswirtschaftslehre_mono/index.html",
+      "sha256": "eecbfd2d88aab228767d665f4daa716f7bc87466b998d056b72d0ff15f2299ec",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-2667c456cfe6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/bildungs_und_erziehungswissenschaft_mono/index.html",
+      "sha256": "4eef911fab6943fe35e43498ea2d30b05f74964ecc7dd91700e73f9bcbdef82b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-e1df02d28b9a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/bildungs_und_erziehungswissenschaft_mono/index.html",
+      "sha256": "2edac9908a6bfb97da1ef4f39617f8eb6f2e676bbfeb26b93c757708f7ec2837",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-3f4180868a41.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/grundschule_lehramt/index.html",
+      "sha256": "6cf2522407de04819da048281ccd653f23f7de6c13321536065cef2eb073f409",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-4a3af0469f03.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/englische_philologie_kombi/index.html",
+      "sha256": "8ea42456d0f9420f00b2ee352dacda2ea804dd7fc13cbb496abdf20a80cb9f1d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-809b4d8ed300.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/englische_philologie_kombi/index.html",
+      "sha256": "9314bc644f57eb5475890e1064ee519e2ebf1307c220c420e43db8e6a958dbae",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-feebb5e7bb9c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/englische_philologie_kombi_lo/index.html",
+      "sha256": "9c78d14569682896a4b8fd3d6bc9dca625bd3be77708f23b5b45d834d9714dee",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-244334fe94b9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/pferdewissenschaft/index.html",
+      "sha256": "43a28a10a7353cb3be5909c9ab182969189c4828f5db00893fa4908f41722891",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-89f358d0f883.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.vetmed.fu-berlin.de/studium/pferdewissenschaft/bewerbung/index.html",
+      "sha256": "b8484f291f0ad18a4e903870000b3d8910e08b910893cc93651223c362ee9691",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/equine-closed.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/filmwissenschaft_kombi/index.html",
+      "sha256": "b4823b8b9a1ff72bde0a9796723ca46a70466e9e588a01e82f38bcd94082a095",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-6fafcf7cf165.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/filmwissenschaft_kombi/index.html",
+      "sha256": "61c5fe2fa5238484b85fbaec9ca02f52b335b403ea44d23156171abaae6d7bd0",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-0b4a6e973495.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/franzoesische_philologie_mv_kombi/index.html",
+      "sha256": "6011896340ff510bac4b756c9acaa934d0a669737114497373957150da28c12e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-7cfbd8650269.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/franzoesische_philologie_kombi/index.html",
+      "sha256": "8690c726e211b8c3ee74b335ef0b76b54a570bb97c616c44938c6c6d3944c37f",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-562b46a1bfb2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/franzoesische_philologie_kombi_lo/index.html",
+      "sha256": "5ccb4d0cebb8c4cc22ddba79ca6facd9c5b82b4ba35417fe97df393a644c5c88",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-baf0ae613be3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/frankreichstudien_mono/index.html",
+      "sha256": "728fe4372808d23970fd7fb7bdcbde12eb258340081339cd9628b59c06c39115",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-a88c2af27b87.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/frankreichstudien_mono/index.html",
+      "sha256": "59a396e7241808d576e417b7df67cf97fd6e32f3bd2f0ab60894bb766b8d44e7",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-9d68a49a4bdc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/geographische_wissenschaften_mono/index.html",
+      "sha256": "3fc7f6ec1bbcf5eb340bb8a925c5e598c467ef75526e3c19eed7ee4f047734b6",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-34277132a7a6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/geologische_wissenschaften_mono/index.html",
+      "sha256": "7f12d6323093f8766b414cadf0baada262c857ef91034ecd6ad976e2a249aa83",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-6f02d0289fbc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geologische_wissenschaften_mono/index.html",
+      "sha256": "fe1d4cf20f13822b01bcdf6de910413996d204fc2d9fc860f6ebd3c3654dab4c",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-52f393344a0d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/dt_frz_literatur_u_kulturstudien/index.html",
+      "sha256": "f855476ef2faba3a5f694979a12dd5612c83d4ed41f5a82ea72ba422d5804d85",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-9fffa998ce8b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/deutsche_philologie_kombi/index.html",
+      "sha256": "1636e29b65e19ff28d98efcae6723a78f37f8a16b2c65fae7555123c60f64fe5",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-214e4633a023.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/deutsche_philologie_kombi/index.html",
+      "sha256": "abc05c5d4a4f5e0318cde7c87d73efad5e58f28ab2ed9c96fd7929c0f402bfb2",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-c63fd584ef87.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/deutsche_philologie_kombi_lo/index.html",
+      "sha256": "2586a4bcb06fdf0a439f243a7baa3d946be3a515ef9eb5b9b7abfe7f6e925d15",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-4aa149668294.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/griechische_philologie_kombi/index.html",
+      "sha256": "eb74618d69d54b07e0cae2651eabce3088ec9dc62d16743a53e38d4d73d2302f",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-20cafe038aa4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/griechische_philologie_kombi/index.html",
+      "sha256": "f5973edc27e92862996d55ce4093afa900d36608fe8a60a5996aa12b0c8259c9",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-7e1214af5af6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/griechische_philologie_kombi_lo/index.html",
+      "sha256": "9c56935ef95e1506ae08554c4c0aee0b18dec57b945256fa1159c4400c0bdd75",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-57aab05d913f.html",
+      "locator": null
+    },
+    {
+      "url": "https://bhs.charite.de/",
+      "sha256": "3b99b5505d16eef24f320d933eb681565553d0abf613bd631721bbd3fdb9560b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/health-current.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.charite.de/studium_lehre/bewerbung_zulassung/1_gesundheitswissenschaften/2_gesundheitswissenschaften",
+      "sha256": "18c022ba4a01974a09a0f0ea6464aa2e2f7ec8732e7724c1152b926aac22ac21",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/health-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/geschichte_kombi/index.html",
+      "sha256": "7fc348ca6130f1de7604ae59608c5868339aff4acea3374490c1fe8dc7bbda37",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-6e1d6beaddee.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geschichte_kombi/index.html",
+      "sha256": "e9b86741d3fb217caf3d64a24e84ad4e3c13133d82bf9bc6d10881e2fb484509",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-059e0f0df51a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/geschichte_kombi_lo/index.html",
+      "sha256": "11fe858239f7d19538b61ac1288fef593f91555bc67e89c8fa0afeb687391333",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-6c2a51378a13.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/geschkult_vo_arabistik_mono/index.html",
+      "sha256": "2f0743ca6966e72ffd0340b27f0cdc818d0701a6c3cefd844fcc95b3c57ac601",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-2d729b64dc39.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geschkult_vo_arabistik_mono/index.html",
+      "sha256": "ed126a75f7d89620d4ce0de2863f3e880e9bd42f7a6b64f78c8e395206e9b57e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-ae08a2fbf17f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/geschkult_vo_iranistik_mono/index.html",
+      "sha256": "aee6e6e1dfab2508dc2ca4040e5871f42c4977fd30b6b51d5d31fae3df44584a",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-65c8a262bcd8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geschkult_vo_iranistik_mono/index.html",
+      "sha256": "f75c4d3c61a5d8aa87b6760b2d2190f526cba8493b06b9a01c5e5b22e619d76f",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-f2d7f8c85c6c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/geschkult_vo_islamwissenschaft_mono/index.html",
+      "sha256": "cf4aa3f165d79d2b27e19d15a62d774fccc0e4f13b2483fa2c031e432afd182b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-0f9d45a2ccb9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geschkult_vo_islamwissenschaft_mono/index.html",
+      "sha256": "9d968ea24d0dffcadaa36972fdac612a097391bc35dae4df6c154cfed70e3f3b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-b2100420c7c1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/geschkult_vo_semitistik_mono/index.html",
+      "sha256": "e457f1c4067e569867cd6f1320676431241957e82a9b43a46b4500af01ec6499",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-f4d5f7e9f7e3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geschkult_vo_semitistik_mono/index.html",
+      "sha256": "417164a0e9efb7f069b984e869f217095a596863acddba3fd4fbe52207edabb8",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-23122cfdf60b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/geschkult_vo_turkologie_mono/index.html",
+      "sha256": "5b8d824f9e5859fe73e14a5b9e78356cb0d3d2b6d983573371f16f9e7f19f8cc",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-e728af8dcc2d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geschkult_vo_turkologie_mono/index.html",
+      "sha256": "d7068e6c3772fca30f0134be8a6f988baf00cff72c3af224fb49b52a1378e760",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-dfa6cd2c9a73.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/italienische_philologie_kombi/index.html",
+      "sha256": "840d8a42d8ca40a9a5c8492544404e0d3867d472395f6dbb7647d8d6b5b4091b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-eae994f3fa15.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/italienische_philologie_kombi/index.html",
+      "sha256": "35e41f5d69d27921d5ebfda0396f2666f8edbba85584405ed9b8b25661a6580d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-690d7e6579df.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/italienische_philologie_kombi_lo/index.html",
+      "sha256": "605426b9be356ea60a233be336fdce9cfc33e871971ff47e3d0037fcf81aed7e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-5e5b59abdadb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/italienstudien_mono/index.html",
+      "sha256": "add4a62e5f8662fcef93ddda70d332b721dffbf5ab237cf8ccc7549f186802a7",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-87aa05f4c82b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/italienstudien_mono/index.html",
+      "sha256": "44ec57f8ac6fb75f1285bb9864ec81b88b2f5349c246fdea05126e902c01e9c2",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-ccbb343a276c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/japanstudien_ostasienwissenschaften_mono/index.html",
+      "sha256": "df1a25252204381ceeff2b150078f9b5b2f87043c3a11c0c0848665a4d245d1d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-7aa68b34b32c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/japanstudien_ostasienwissenschaften_mono/index.html",
+      "sha256": "0e77318d6d28845ac004eec94d4c55c6daf534a230f44ea2fc72b77264e2dda9",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-fe7a5416f1f9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/judaistik_kombi/index.html",
+      "sha256": "24778ca0f0f99c1c0544614651ff37b2c9d2bacde9c9f7fe27e88cb206647d80",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-24a9847b29d5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/judaistik_kombi/index.html",
+      "sha256": "03ea3749f53368acb62296cc61fafa1b713c192cc90fc6fb54251980cccc4e6d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-66bc44481ac2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/koreastudien_ostasienwissenschaften_mono/index.html",
+      "sha256": "0f909c1ba8770eeca180439ceaa28c046a8cb28c955b1ff5b093f0080b089cfd",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-1d7a9ccd0229.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/koreastudien_ostasienwissenschaften_mono/index.html",
+      "sha256": "c8a343fede9c5a97e632c3dcc3eb2e96bfa311c50800f11c112ca2b83fa862f4",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-03cf54b8b424.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/Sprache-und-Gesellschaft/index.html",
+      "sha256": "49882f166aada53bed59905450c45d4d0c15f5121dd4c19d0f80bfe72f18374e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-6201456b3b6b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/sprache-und-gesellschaft/index.html",
+      "sha256": "f88314426a63d08ac68feae097444ee0652e0e15b27b2fd8244987b8b69d0a5e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-98adc32415e1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/sprache_literatur_tuerkei/index.html",
+      "sha256": "dba902c6988348d69f1523058e902e09475567bb3f355a5a8963e6eba909e67c",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-10620cda70e8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/tuerkisch_kombi/index.html",
+      "sha256": "1cd8011d63660b7cede4defbed06f786479d3ef38ca3eddce8a9f2a9fb784b41",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-6aa418bb1717.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/sprache_literatur_tuerkei_lo/index.html",
+      "sha256": "e82dc3a83c5501086232b0b69e2665c26f68f0e17b7905fafca981a743f2dd2c",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-ff330178c0f5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/niederlaendische_philologie_kombi/index.html",
+      "sha256": "065ac3fd5b17e3ff0ccc97eb01c277c2266e2ea11db361dddad4c70e221dc9e8",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-19b008c27f73.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/lateinische_philologie_kombi/index.html",
+      "sha256": "c94b715038e8706297053aa116bb81873cc1bb7a588f0a02d9da5cde110de5be",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-7acc9250e5fb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/lateinische_philologie_kombi/index.html",
+      "sha256": "dd6ac731cb25dbd689730f0ab7bdd3de1ba339dad8288f2ebf070d8284cc6c7e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-fce8b40555ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/lateinische_philologie_kombi_lo/index.html",
+      "sha256": "c38b76e7baa31482d4fd6d88473de0b1a19e1242bb8b3ce2bdf84b2b6107868f",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-47e4db826c66.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/rechtswissenschaft_erste_juristische_Pruefung/index.html",
+      "sha256": "d92dacad5659f04690440738e30573432124d93b14d408413dd7158d9ce0ebcb",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-ff5737f66eb8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/rechtswissenschaft/index.html",
+      "sha256": "3495099f1d376455f7eb6e698604f60d18509a3ae590e89858064fde57697a4b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-f777349e15a5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/mathematik_kombi_lo/index.html",
+      "sha256": "2fcf4d9aaf408e0c9b4ecff1ca57d7dc0a5e24ffdaa441182ec1cada21bd1399",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-046d56216c3a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/mathematik_kombi_lo/index.html",
+      "sha256": "6736c99cc80f5884a33a25351b92407972bd0a99729c8d16e6675c4aaa44b0bb",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-4b77c786a6c3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/mathematik_mono/index.html",
+      "sha256": "1314a834e8c9669b70337c35c8cb9ad323c33a10f7e359e5f146c7089d301ecd",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-57a595f7623f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/mathematik_mono/index.html",
+      "sha256": "938e8ca7c8d854a09c56118a8a5a8d98cc59673e7c94d3860ee4641ca310633b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-5e6181b9a713.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/publizistik_kommwiss_kombi/index.html",
+      "sha256": "9b2a54e1d760bbf70ef719426f82afd1aa44ab474ece4b1b46139b5765899c52",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-660fcdfe9f64.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/publizistik_kommwiss_kombi/index.html",
+      "sha256": "3b24bda29ee5e066a636c8b89dee5403f9b959851f5acd6f7e01b74f1ed9db9f",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-3aee9e1e82bb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.charite.de/en/teaching_learning/degree_programs/new_revised_medical_curriculum/",
+      "sha256": "96e04aaf3c79bdca1925398c329c6af84b71f03945e511b2fb309709d0807392",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-a22ae2dc0661.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/meteorologie_mono/index.html",
+      "sha256": "d994c12ba48541bfef7cf2d7b53be788dd2016ac69d002f122c1144e9c7a1acc",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-83d9f0c2d31f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/meteorologie_mono/index.html",
+      "sha256": "a57d36455fadb280cd8ac1ba7e509dd5bed9b330898f26c73ce0f3179a7fa9da",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-a5772eb45882.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/neograezistik_kombi/index.html",
+      "sha256": "010b648e7f3d2eb9bbdb8097b1f8998b7a0e2e15c5a238f35d670ce81effcbe3",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-36e238347e7b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/neograezistik_kombi/index.html",
+      "sha256": "e5471c92d46d989a77763d66dac6f1fffee3de641fdd21c1cbf424a7dc8aced0",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-f513b874291b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/nordamerikastudien_mono/index.html",
+      "sha256": "39ff01d05935ff5302a592f917e066fff679b934066fe9dc6adc58530cff1291",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-d490975f86b5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.charite.de/en/teaching_learning/degree_programs/bachelors_degree_in_nursing_care/",
+      "sha256": "150ba759f5d6a640c01352ca8626ca58479a43f594a2fcc945cb5b441ddc1917",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-37b103c9e8eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/pharmazie_stex/index.html",
+      "sha256": "5a23b58c7ed9a7849900edf92c3aeaa38e88b50438974de90ff7506ed559c15f",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-c8f04b34d666.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/pharmazie_stex/index.html",
+      "sha256": "8ec5013698ffe9bfd52849ecc702f817d66cddb53d0ea9409f5439d3edfa7eb4",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-ad5f70f8674e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/philosophie_kombi/index.html",
+      "sha256": "1ad03b34e3d5ab0cbf6dbc762ff2793c27052d31aee84252ce5e4d4a58f46f17",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-e7c0a8a628ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/philosophie_kombi/index.html",
+      "sha256": "cb846ee3f606271f3d6c4ce0d971ebc6c22b5b3b8bcbe668f5ab90789658b6b9",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-a63f484ce0ea.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/philosophie_kombi_lo/index.html",
+      "sha256": "b07325a9fcf3035049f39b2d07a955d67b0bd331c500f43ec060bf194aaaeed1",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-637fbb418eb8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/physik_kombi_lo/index.html",
+      "sha256": "8f9ecde19f6844c8168ea41db83b3c9cb67d5a5d87bae2a3ff75f26158e4d123",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-06df904efc95.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/physik_kombi_lo/index.html",
+      "sha256": "925fa182965d89b65e45479d21396ee3ebc6a8a0526c316db613b1189781e035",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-927f8490e4cd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/physik_mono/index.html",
+      "sha256": "edb067aef375c03384aaefa0df2a1dbc6b7f1f117c7652f8b41bcb229a2b92c4",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-f4b61111b226.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/physik_mono/index.html",
+      "sha256": "285f60f0257c72971dfd3acefad39c27fef24c25a08c2947ab152a7071f8a793",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-830e07d48d7f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/politik_kombi_lo/index.html",
+      "sha256": "d87050a38b307e3b6c8668296524da0bf5d4085722d1824a1edf22573ec7f984",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-6e551f78fd63.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/politik/index.html",
+      "sha256": "d3ee57294166e9e907e44c16150208b5d8b18cae649460e6f0827e74b942f7db",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-9ee04750cedc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/politik_mono/index.html",
+      "sha256": "dea61ee19e02983fcc9debc9fae24a3df241ddba0260a901b8b3e96167252d87",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-6d43d124c12d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/psychologie_mono/index.html",
+      "sha256": "a52cf79b8a57801f301471d33554d2e3c7536ee910de148dbf3ad8b1f3fc2852",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-4c28fa32223f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/psychologie_mono/index.html",
+      "sha256": "44981c4bc877ed253ba89b1b2f6f3e342e488a4691ec9104827e688bebb19de6",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-e32ad4805f9b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/sozial_kulturanthro_kombi/index.html",
+      "sha256": "7927568248b7f7242f9f451f33716cbb04d7426f75c19ba123244a34e8551417",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-8384cd9022a5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/sozial_kulturanthro_kombi/index.html",
+      "sha256": "df67ddcc8b59dac57ee4f1c01583119ffe3589bce1917faf7621bea64c9b82e6",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-2e6bd339bad0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/spanische_philologie_mit_lateinamerikanistik_kombi_lo/index.html",
+      "sha256": "79bda6252803cff3c072a077a0c9bb0a58fe8fb82ee4c2fdb2a45bc7bf74b772",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-a26d41546cb2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/spanische_philologie_mit_lateinamerikanistik_kombi/index.html",
+      "sha256": "fabef700df9fe377413bd09ce2201f1ddf9a35e031906580ce80847b33ce42f3",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-978c938a3af8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/spanische_philologie_mit_lateinamerikanistik_kombi/index.html",
+      "sha256": "9414bb57a301fc62572c9530c94d37e07803b4bbf48b0492a18b88490bc36d46",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-34803506b4a3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/sonderpaedagogik_kombi_lo/index.html",
+      "sha256": "8388d88d4afafe279f32e09f69db5309173eff60118db754a8868783e7c6ef10",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-5ab60a5411c3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_vorderasiatische_archaeologie_mono/index.html",
+      "sha256": "54180cb49e8d3f68b0005e67d6ad7abe810cebbf5810128c9cf324b71e234e7d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-77988b012490.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_vorderasiatische_archaeologie/index.html",
+      "sha256": "d7713f6b7c0fb8e180d26ee5f0d3fa447ac4977ae83853451f917f769c8a532d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-f681cf3e7fc5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_altorientalistik_mono/index.html",
+      "sha256": "d3f99c08f601925f24a5cc9674a8a64fbcd59a4b3d3263426b8ef40fd61b5286",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-0c1d416d4173.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_altorientalistik/index.html",
+      "sha256": "5a3f55c776355f3ac05df8d5d84f378558e96558b716e2bb156b690db06223dd",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-5ba1d674b532.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_klassische_archaeologie_mono/index.html",
+      "sha256": "ea31ca73cb017d419598f85baa2adb4a3f94d1f4fbc7ab099d20731dfeeed2e7",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-8edcd659a2e2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_klassische_archaeologie/index.html",
+      "sha256": "538de9d71fb1100bfa915a6f452fc994ff765803cefd0a162fe48f5644340713",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-b3e661c80393.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_aegyptologie_mono/index.html",
+      "sha256": "907427020a163e9f8f4ce81a5d2fd935485cc0c2f9cbd8540e74185b7a576745",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-964989a62c63.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_aegyptologie/index.html",
+      "sha256": "90c32aa2773d8e9639d7e09bcfb49ef49eae5ee00e3fc998a90c090a8333c510",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-74be5088fe4d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_praehistorische_archaeologie_mono/index.html",
+      "sha256": "3380e1078bd0c6e73fdd4f657953b141b35d1fb018f8954759669440e86c379d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-2d90036b3266.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/altertumswissenschaften_profil_praehistorische_archaeologie/index.html",
+      "sha256": "3241c254ea8caf8014dc53d189ceafb39e4c0c25867b5c8a1d200c6f9e9417b0",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-4cec3cf754f0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/theaterwissenschaft_kombi/index.html",
+      "sha256": "d9e8f7f8ac4857c715074e493feff389c0bca5c4661a092af2b895f79e94f884",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-8ef8094e8c15.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/theaterwissenschaft_kombi/index.html",
+      "sha256": "2d4435b7f357a2fe02730d8dcd6f31250f863fd625637fdc4d05304f09a26568",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-30cdacb2761a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/veterinaermedizin_stex/index.html",
+      "sha256": "1fe8dc0fc2a6dc41a2e66377c71a7efe51f70fb2876834f3c9c11a24a8818489",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/fu-berlin-detail-91e571401fe3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/veterinaermedizin_stex/index.html",
+      "sha256": "df1aa1b9395c37e6568810dad08024380301dd22fad9ce30833f8392fb285df8",
+      "raw_file": "scratch/full-catalog/europe-enrichment/fu-berlin/german-8b21ef26abdf.html",
+      "locator": null
+    }
+  ]
+}

@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Pharmacy - Graduate Entry to Pharmacy</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>5 Years Full-Time</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>5年全日制</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,13 +40,27 @@ hide:
 
 <p><strong>申请路径：</strong>Graduate-entry route; prior degree required; included as an explicitly listed undergraduate qualification route.</p>
 
+<p class="catalog-fact"><strong>专业身份与学制：</strong>学位：(NFQ Level 8)；学制：5年全日制。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-95">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程与培养路径：</strong>药学学位的毕业生入口，须有首个荣誉学士或认可的进一步学位及化学背景；进入五年药学培养的一年级，并非普通高中直入。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-95">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本专业英语等级：</strong>本页要求Band B；参照同校英语政策。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-95">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业独有入口或条件：</strong>进入五年药学一年级的毕业生路线：首个荣誉学士通常须至少二等荣誉，或可由硕士/博士补足相关学业资格；还需Leaving Certificate化学H4或大学化学。须同时按CAO与Trinity补充表申请，并经择优面试；2026二月一日截止已过，非EU可用性本轮未核实。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-95">官方依据</a></p>
+
+<p class="catalog-fact"><strong>临床健康要求：</strong>须通过校方健康筛查。另须Garda背景核查。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-95">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>申请入口边界：</strong>进入五年药学一年级的毕业生路线：首个荣誉学士通常须至少二等荣誉，或可由硕士/博士补足相关学业资格；还需Leaving Certificate化学H4或大学化学。须同时按CAO与Trinity补充表申请，并经择优面试；2026二月一日截止已过，非EU可用性本轮未核实。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-95">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -56,6 +70,13 @@ hide:
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：就业调查口径：</strong>爱尔兰HEA Graduate Outcomes调查在毕业九个月后进行，当前官方入口列2024届报告。全国、全校和具体专业统计不能混用；本轮尚未核实Trinity各本科学位可比的就业率和薪资，课程职业介绍不作调查结果。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-hea-outcomes">官方依据</a></p>
+
+</details>
+
 ## 官方来源与核验记录 {#sources}
 
 目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
@@ -63,5 +84,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.tcd.ie/courses/undergraduate/courses/pharmacy---graduate-entry-to-pharmacy/)
 - [官方目录](https://www.tcd.ie/courses/undergraduate/a-z-of-ug-courses/)
 
+<div class="catalog-source" id="source-p-trinity-dublin-program-95"><div><a href="https://www.tcd.ie/courses/undergraduate/courses/pharmacy---graduate-entry-to-pharmacy/">Pharmacy - Graduate Entry to Pharmacy ↗</a><p>学位结构、课程、先修与本页申请链接</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-hea-outcomes"><div><a href="https://hea.ie/statistics/graduate-outcomes-data-and-reports/">HEA Graduate Outcomes data and reports ↗</a><p>调查定义与统计边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/ireland/trinity-dublin/">← 返回都柏林圣三一大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Nursing Care (Bachelor)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>冬季学期</strong></div><div><span>学制</span><strong>7 学期</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>Charité – Universitätsmedizin Berlin · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,9 +40,16 @@ hide:
 
 <p><strong>申请路径：</strong>Joint medical institution of Freie Universität Berlin and Humboldt-Universität zu Berlin; admissions and award details are on Charité official site.</p>
 
+<p class="catalog-fact"><strong>学习内容与培养身份：</strong>七学期结合理论、技能实验室和临床实习，培养面向各年龄患者的通科护理能力，并取得BSc及护理职业资格。</p>
+<p class="fact-sources"><a href="#source-p-fu-berlin-d1a5e031ee78">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学习安排：</strong>学位：Bachelor of Science (BSc)；标准学制：7 学期；开始学期：冬季学期。</p>
+<p class="fact-sources"><a href="#source-p-fu-berlin-d1a5e031ee78">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>Charité独立程序：</strong>该项目由FU与Humboldt共同医学院Charité管理；不继承FU普通本科的申请门户、德语清单或学期收费。具体大陆资格及专业要求需在Charité核对。</p>
+<p class="fact-sources"><a href="#source-p-fu-berlin-d1a5e031ee78">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -56,6 +63,13 @@ hide:
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>职业方向不是就业统计：</strong>各课程说明研究、教学或职业准备方向；本轮未核实按本科专业、毕业届次及样本划分的就业率或薪资。组合科目和国家考试路径亦不与普通单学士直接等同。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-german-index">官方依据</a></p>
+
+</details>
+
 ## 官方来源与核验记录 {#sources}
 
 目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
@@ -63,5 +77,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.charite.de/en/teaching_learning/degree_programs/bachelors_degree_in_nursing_care/)
 - [官方目录](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/index.html)
 
+<div class="catalog-source" id="source-p-fu-berlin-d1a5e031ee78"><div><a href="https://www.charite.de/en/teaching_learning/degree_programs/bachelors_degree_in_nursing_care/">Nursing Care (Bachelor) ↗</a><p>英文目录的学位、时长、语言及入学类别</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-german-index"><div><a href="https://www.fu-berlin.de/studium/studienangebot/grundstaendige/index.html">FU Current German undergraduate catalogue ↗</a><p>组合与单科本科、教师及合作培养范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/">← 返回柏林自由大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

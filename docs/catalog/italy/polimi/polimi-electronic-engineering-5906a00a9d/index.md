@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Electronic Engineering</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27</strong></div><div><span>学制</span><strong>3 Years</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Milano Leonardo · <strong>授课语言：</strong>Italian</p>
+<p class="program-location"><strong>校区：</strong>Milano Leonardo · <strong>授课语言：</strong>意大利语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,62 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor programme</p>
 
+<p class="catalog-fact"><strong>专业身份与学习方式：</strong>Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。</p>
+<p class="fact-sources"><a href="#source-p-polimi-program-11">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程内容：</strong>结合电气、控制、计算机与信号系统进入模拟数字电子、微控制器、光电及电子器件；末学期可选行业实习。</p>
+<p class="fact-sources"><a href="#source-p-polimi-program-11">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：中国高中学历：</strong>通常须完成至少12年学校教育并持有可进入原教育体系大学的资格。校方中国附加规则要求高考，接受高考成绩不论分数；春考不被接受。该学历资格规则不能替代专业考试、排名与录取名额要求。</p>
+<p class="fact-sources"><a href="#source-u-polimi-qualification">官方依据</a> · <a href="#source-u-polimi-china-specific">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：补足与材料核验：</strong>教育年限不足可按校方规则以大学或至少一学年基础课程补足；用于补足入学资格的学习不能同时用于缩短本科学制。中国高中及高考材料须按校方列出的CHSI核验方式提交；IB和A-level按另一资格类别核查。</p>
+<p class="fact-sources"><a href="#source-u-polimi-qualification">官方依据</a> · <a href="#source-u-polimi-china-verification">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：授课语言：</strong>2026/27规则要求入学前证明所选课程授课语言：意大利语课程证明意大利语，英语课程证明英语。考试语言、额外英语/意大利语学习义务及认可证书须结合专业类别进一步核查。</p>
+<p class="fact-sources"><a href="#source-u-polimi-language">官方依据</a></p>
+
+</details>
+
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>本专业类别申请：</strong>2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-polimi-engineering">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：外国学历申请：</strong>非意大利学历申请者需在相应入学考试报名流程上传近三年成绩、毕业证或在读证明，并按外国学历程序完成核验。大陆居住、无相应意大利居留身份的非欧盟申请者还涉及保留名额及学生签证流程；不能套用意大利及同等类别名额。</p>
+<p class="fact-sources"><a href="#source-u-polimi-foreign">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026/27材料收尾日期：</strong>2026/27最终毕业证和高考等补充学业材料截止为2026年9月10日，已结束；学历可比性及真伪核验材料截止为2026年10月31日。后者是已进入本轮入学流程者的材料期限，并非新的本科申请窗口。2027/28整轮安排本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-polimi-documents">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：2026/27本科费用：</strong>标准每年46—74 ECTS学习计划的年度费用为EUR 157.04—3,943.04，随经济状况和学分调整；2026/27首期一般为EUR 880.04。海外收入或资产家庭须按程序办理Equalised ISEEU；不提交有效经济证明会按最高档计。该页非欧盟外国学历硕士强制最高档条款不能直接套到本科。2027/28金额本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-polimi-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：DSU资助：</strong>DSU依据经济与学业条件评定；新生须在截止前申请，即使尚未入学或尚未参加入学考试也不应等到录取后才申请。2026/27新生奖学金及优惠住宿申请均于2026年8月5日意大利时间中午12时截止，已结束；2027/28本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-polimi-dsu">官方依据</a> · <a href="#source-u-polimi-dsu-dates">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>课程职业方向（非就业调查）：</strong>课程列出半导体、集成电路、消费电子、仪器、光电及机器人岗位；页面比例缺少调查届次，本轮不转为统计结论。 本轮未核实本专业本科就业率、薪资及调查口径。</p>
+<p class="fact-sources"><a href="#source-p-polimi-program-11">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +102,16 @@ hide:
 - [官方项目页面或项目所在目录](https://www.polimi.it/en/education/laurea-programmes/programme-detail/electronic-engineering)
 - [官方目录](https://www.polimi.it/en/education/laurea-programmes)
 
+<div class="catalog-source" id="source-p-polimi-program-11"><div><a href="https://www.polimi.it/en/education/laurea-programmes/programme-detail/electronic-engineering">Electronic Engineering ↗</a><p>专业身份、结构与课程/职业方向</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-polimi-engineering"><div><a href="https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering">engineering admission 2026/27 ↗</a><p>专业类别申请与选拔</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-qualification"><div><a href="https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/requirements-to-participate-in-the-admission-test">Foreign qualifications: eligibility ↗</a><p>十二年教育与补足</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-china-specific"><div><a href="https://www.polimi.it/fileadmin/user_upload/futuri_studenti/International_students/Requisiti_specifici_ENG.pdf">Specific requirements for foreign qualifications ↗</a><p>中国高考与春考</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-china-verification"><div><a href="https://www.polimi.it/fileadmin/user_upload/futuri_studenti/International_students/Modalit%C3%A0_di_verifica_ENG.pdf">Verification of foreign qualifications ↗</a><p>中国学历核验</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-foreign"><div><a href="https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/students-with-a-foreign-degree">Students with a foreign qualification ↗</a><p>申请类别与上传流程</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-documents"><div><a href="https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/necessary-documents-for-enrolment">Necessary documents for enrolment ↗</a><p>2026/27材料日期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-language"><div><a href="https://www.polimi.it/en/students/language-requirements">Language requirements 2026/27 ↗</a><p>授课语言证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-fees"><div><a href="https://www.polimi.it/en/prospective-students/how-much-does-it-cost/laurea-laurea-magistrale-and-single-cycle-programmes">Tuition fees 2026/27 ↗</a><p>本科年度费用与海外收入证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-dsu"><div><a href="https://www.polimi.it/en/students/tuition-fees-scholarships-and-financial-aid/university-financial-aid-diritto-allo-studio-universitario-dsu">University financial aid DSU ↗</a><p>经济和学业条件</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-dsu-dates"><div><a href="https://www.polimi.it/fileadmin/user_upload/studenti/tasse-borse-agevolazioni-economiche/dsu/bando_2026-2027/Main_Deadlines_DSU_2026-2027.pdf">DSU Call 2026/27 deadlines ↗</a><p>奖学金与住宿申请截止</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/italy/polimi/">← 返回米兰理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

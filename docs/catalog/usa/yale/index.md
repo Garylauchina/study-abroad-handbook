@@ -23,92 +23,129 @@ hide:
 
 ## 专业与申请资料
 
-81 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+81 个专业条目 · 0 个含详细资料 · 81 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=yale#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-african-studies-b-a-acfc187e3c/">African Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-american-studies-b-a-e209b66173/">American Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-anthropology-b-a-1434153538/">Anthropology (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-applied-mathematics-b-a-or-b-s-698af7cdf6/">Applied Mathematics (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-applied-physics-b-s-b70cc0220d/">Applied Physics (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-archaeological-studies-b-a-7085fb6598/">Archaeological Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-architecture-b-a-d4169d9706/">Architecture (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-art-b-a-c8a0517ed4/">Art (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-astronomy-b-a-b9d79e91d9/">Astronomy (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-astrophysics-b-s-4eca02796e/">Astrophysics (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-biomedical-engineering-b-s-5a070a0457/">Biomedical Engineering (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-black-studies-b-a-412a26d54e/">Black Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-chemical-engineering-b-s-821fcab910/">Chemical Engineering (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-chemistry-b-a-or-b-s-67a4702f7e/">Chemistry (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-classical-civilization-b-a-4a6dfe7a1c/">Classical Civilization (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-classics-b-a-dbb01c76a6/">Classics (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-cognitive-science-b-a-or-b-s-dd5a65aba3/">Cognitive Science (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-comparative-literature-b-a-aa0008e2fc/">Comparative Literature (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computer-science-b-a-or-b-s-b85c72735f/">Computer Science (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computer-science-and-economics-b-s-b33df88899/">Computer Science and Economics (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computer-science-and-mathematics-b-s-ad32184391/">Computer Science and Mathematics (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computer-science-and-psychology-b-a-9ddd9061e0/">Computer Science and Psychology (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computing-and-linguistics-b-a-or-b-s-75df7e999b/">Computing and Linguistics (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computing-and-the-arts-b-a-217eb57358/">Computing and the Arts (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-earth-and-planetary-sciences-b-a-or-b-s-eec59b7128/">Earth and Planetary Sciences (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-east-asian-languages-and-literatures-b-a-7e451a13ae/">East Asian Languages and Literatures (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-east-asian-studies-b-a-c2f11881a1/">East Asian Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-ecology-and-evolutionary-biology-b-a-or-b-s-0350612968/">Ecology and Evolutionary Biology (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-economics-b-a-9ad0acea17/">Economics (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-economics-and-mathematics-b-a-4b4aa38b4b/">Economics and Mathematics (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-electrical-engineering-b-s-e64a6dfdc9/">Electrical Engineering (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-electrical-engineering-and-computer-science-b-s-b86c8c5c34/">Electrical Engineering and Computer Science (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-engineering-sciences-chemical-b-s-54c2c6b33b/">Engineering Sciences (Chemical) (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-engineering-sciences-electrical-b-a-or-b-s-f1b158ce5b/">Engineering Sciences (Electrical) (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-engineering-sciences-environmental-b-a-8ae65eefd4/">Engineering Sciences (Environmental) (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-engineering-sciences-mechanical-b-a-or-b-s-3a385e6c5b/">Engineering Sciences (Mechanical) (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-english-b-a-3fddef6781/">English (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-environmental-engineering-b-s-0dc09b930d/">Environmental Engineering (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-environmental-studies-b-a-or-b-s-b06b7a8c29/">Environmental Studies (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-ethics-politics-and-economics-b-a-85b501cc2c/">Ethics, Politics, and Economics (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-ethnicity-race-and-migration-b-a-04ee93da37/">Ethnicity, Race, and Migration (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-film-and-media-studies-b-a-1038474d5f/">Film and Media Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-french-b-a-49c005dfb5/">French (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-german-studies-b-a-1d8574c93d/">German Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-global-affairs-b-a-038db7f409/">Global Affairs (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-greek-ancient-and-modern-b-a-d52680fbbf/">Greek, Ancient and Modern (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-history-b-a-e40bcd1fba/">History (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-history-of-art-b-a-73edc43f79/">History of Art (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-history-of-science-medicine-and-public-health-b-a-51a957f999/">History of Science, Medicine, and Public Health (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-humanities-b-a-61fd324494/">Humanities (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-italian-studies-b-a-100f29e808/">Italian Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-jewish-studies-b-a-c4f8939f34/">Jewish Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-latin-american-studies-b-a-a0cecfac95/">Latin American Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-linguistics-b-a-4f89dc0638/">Linguistics (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-mathematics-b-a-or-b-s-1900f0ae2b/">Mathematics (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-mathematics-and-philosophy-b-a-826d9036d7/">Mathematics and Philosophy (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-mathematics-and-physics-b-s-d3b7dbe582/">Mathematics and Physics (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-mechanical-engineering-b-s-2c28cd95ea/">Mechanical Engineering (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-modern-middle-east-studies-b-a-582afe3946/">Modern Middle East Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-molecular-biophysics-and-biochemistry-b-a-or-b-s-26f6c41ecc/">Molecular Biophysics and Biochemistry (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-molecular-cellular-and-developmental-biology-b-a-or-b-s-9da185a4dc/">Molecular, Cellular, and Developmental Biology (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-music-b-a-726a86d684/">Music (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-near-eastern-languages-and-civilizations-b-a-aeedd284bf/">Near Eastern Languages and Civilizations (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-neuroscience-b-a-or-b-s-40445b32b5/">Neuroscience (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-philosophy-b-a-1fc96b87b5/">Philosophy (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-physics-b-s-3bef6a4ae0/">Physics (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-physics-and-geosciences-b-s-8f257a436b/">Physics and Geosciences (B.S.)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-physics-and-philosophy-b-a-or-b-s-de6e262108/">Physics and Philosophy (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-political-science-b-a-fed0c56842/">Political Science (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-portuguese-b-a-dd3749d6e1/">Portuguese (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-psychology-b-a-or-b-s-1fdb4ea848/">Psychology (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-religious-studies-b-a-4748483404/">Religious Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-russian-b-a-dcdcb054b5/">Russian (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-russian-east-european-and-eurasian-studies-b-a-7f3df2c0fa/">Russian, East European, and Eurasian Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-sociology-b-a-24979eb2e3/">Sociology (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-spanish-b-a-2c5be9bfa1/">Spanish (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-special-divisional-major-b-a-or-b-s-72049ecc35/">Special Divisional Major (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-statistics-and-data-science-b-a-or-b-s-c1d0976ef2/">Statistics and Data Science (B.A. or B.S.)</a><small>B.A. or B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-theater-dance-and-performance-studies-b-a-5b7d9eb703/">Theater, Dance, and Performance Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-urban-studies-b-a-8f3b33801e/">Urban Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-women-s-gender-and-sexuality-studies-b-a-78464d5885/">Women’s, Gender, and Sexuality Studies (B.A.)</a><small>B.A. · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-african-studies-b-a-acfc187e3c/">African Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-american-studies-b-a-e209b66173/">American Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-anthropology-b-a-1434153538/">Anthropology (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-applied-mathematics-b-a-or-b-s-698af7cdf6/">Applied Mathematics (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-applied-physics-b-s-b70cc0220d/">Applied Physics (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-archaeological-studies-b-a-7085fb6598/">Archaeological Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-architecture-b-a-d4169d9706/">Architecture (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-art-b-a-c8a0517ed4/">Art (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-astronomy-b-a-b9d79e91d9/">Astronomy (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-astrophysics-b-s-4eca02796e/">Astrophysics (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-biomedical-engineering-b-s-5a070a0457/">Biomedical Engineering (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-black-studies-b-a-412a26d54e/">Black Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-chemical-engineering-b-s-821fcab910/">Chemical Engineering (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-chemistry-b-a-or-b-s-67a4702f7e/">Chemistry (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-classical-civilization-b-a-4a6dfe7a1c/">Classical Civilization (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-classics-b-a-dbb01c76a6/">Classics (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-cognitive-science-b-a-or-b-s-dd5a65aba3/">Cognitive Science (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-comparative-literature-b-a-aa0008e2fc/">Comparative Literature (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computer-science-b-a-or-b-s-b85c72735f/">Computer Science (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computer-science-and-economics-b-s-b33df88899/">Computer Science and Economics (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computer-science-and-mathematics-b-s-ad32184391/">Computer Science and Mathematics (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computer-science-and-psychology-b-a-9ddd9061e0/">Computer Science and Psychology (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computing-and-linguistics-b-a-or-b-s-75df7e999b/">Computing and Linguistics (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-computing-and-the-arts-b-a-217eb57358/">Computing and the Arts (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-earth-and-planetary-sciences-b-a-or-b-s-eec59b7128/">Earth and Planetary Sciences (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-east-asian-languages-and-literatures-b-a-7e451a13ae/">East Asian Languages and Literatures (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-east-asian-studies-b-a-c2f11881a1/">East Asian Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-ecology-and-evolutionary-biology-b-a-or-b-s-0350612968/">Ecology and Evolutionary Biology (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-economics-b-a-9ad0acea17/">Economics (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-economics-and-mathematics-b-a-4b4aa38b4b/">Economics and Mathematics (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-electrical-engineering-b-s-e64a6dfdc9/">Electrical Engineering (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-electrical-engineering-and-computer-science-b-s-b86c8c5c34/">Electrical Engineering and Computer Science (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-engineering-sciences-chemical-b-s-54c2c6b33b/">Engineering Sciences (Chemical) (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-engineering-sciences-electrical-b-a-or-b-s-f1b158ce5b/">Engineering Sciences (Electrical) (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-engineering-sciences-environmental-b-a-8ae65eefd4/">Engineering Sciences (Environmental) (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-engineering-sciences-mechanical-b-a-or-b-s-3a385e6c5b/">Engineering Sciences (Mechanical) (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-english-b-a-3fddef6781/">English (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-environmental-engineering-b-s-0dc09b930d/">Environmental Engineering (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-environmental-studies-b-a-or-b-s-b06b7a8c29/">Environmental Studies (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-ethics-politics-and-economics-b-a-85b501cc2c/">Ethics, Politics, and Economics (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-ethnicity-race-and-migration-b-a-04ee93da37/">Ethnicity, Race, and Migration (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-film-and-media-studies-b-a-1038474d5f/">Film and Media Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-french-b-a-49c005dfb5/">French (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-german-studies-b-a-1d8574c93d/">German Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-global-affairs-b-a-038db7f409/">Global Affairs (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-greek-ancient-and-modern-b-a-d52680fbbf/">Greek, Ancient and Modern (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-history-b-a-e40bcd1fba/">History (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-history-of-art-b-a-73edc43f79/">History of Art (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-history-of-science-medicine-and-public-health-b-a-51a957f999/">History of Science, Medicine, and Public Health (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-humanities-b-a-61fd324494/">Humanities (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-italian-studies-b-a-100f29e808/">Italian Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-jewish-studies-b-a-c4f8939f34/">Jewish Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-latin-american-studies-b-a-a0cecfac95/">Latin American Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-linguistics-b-a-4f89dc0638/">Linguistics (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-mathematics-b-a-or-b-s-1900f0ae2b/">Mathematics (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-mathematics-and-philosophy-b-a-826d9036d7/">Mathematics and Philosophy (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-mathematics-and-physics-b-s-d3b7dbe582/">Mathematics and Physics (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-mechanical-engineering-b-s-2c28cd95ea/">Mechanical Engineering (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-modern-middle-east-studies-b-a-582afe3946/">Modern Middle East Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-molecular-biophysics-and-biochemistry-b-a-or-b-s-26f6c41ecc/">Molecular Biophysics and Biochemistry (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-molecular-cellular-and-developmental-biology-b-a-or-b-s-9da185a4dc/">Molecular, Cellular, and Developmental Biology (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-music-b-a-726a86d684/">Music (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-near-eastern-languages-and-civilizations-b-a-aeedd284bf/">Near Eastern Languages and Civilizations (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-neuroscience-b-a-or-b-s-40445b32b5/">Neuroscience (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-philosophy-b-a-1fc96b87b5/">Philosophy (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-physics-b-s-3bef6a4ae0/">Physics (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-physics-and-geosciences-b-s-8f257a436b/">Physics and Geosciences (B.S.)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-physics-and-philosophy-b-a-or-b-s-de6e262108/">Physics and Philosophy (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-political-science-b-a-fed0c56842/">Political Science (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-portuguese-b-a-dd3749d6e1/">Portuguese (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-psychology-b-a-or-b-s-1fdb4ea848/">Psychology (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-religious-studies-b-a-4748483404/">Religious Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-russian-b-a-dcdcb054b5/">Russian (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-russian-east-european-and-eurasian-studies-b-a-7f3df2c0fa/">Russian, East European, and Eurasian Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-sociology-b-a-24979eb2e3/">Sociology (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-spanish-b-a-2c5be9bfa1/">Spanish (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-special-divisional-major-b-a-or-b-s-72049ecc35/">Special Divisional Major (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-statistics-and-data-science-b-a-or-b-s-c1d0976ef2/">Statistics and Data Science (B.A. or B.S.)</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-theater-dance-and-performance-studies-b-a-5b7d9eb703/">Theater, Dance, and Performance Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-urban-studies-b-a-8f3b33801e/">Urban Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/yale/yale-women-s-gender-and-sexuality-studies-b-a-78464d5885/">Women’s, Gender, and Sexuality Studies (B.A.)</a><small>B.A. · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>国际高中资格与共同入口：</strong>Yale College用相同整体审查流程评估各国申请者；海外高中学生提交同样申请及要求材料，非英文成绩和推荐附认证英文翻译，不得自行翻译。本轮未取得中国高考统一录取分数线。</p>
+<p class="fact-sources"><a href="#source-u-yale-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>当前考试与英语：</strong>当前政策要求新生和转学生SAT或ACT；其他离校或英语考试不能替代。非英语母语、未在英语授课中学学习至少两年者须英语能力证明。官网描述有竞争力的水平为IELTS7以上、DET120以上、Cambridge185以上；这些是竞争力描述而非保证录取线。</p>
+<p class="fact-sources"><a href="#source-u-yale-international">官方依据</a> · <a href="#source-u-yale-testing">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>渠道与当前日期：</strong>可选Common App、Coalition on Scoir或QuestBridge，只提交一份申请；需推荐、学校报告及成绩、标准考试。当前SCEA截止11月1日、RD1月2日。本页未为所有日期逐项标年份，本轮不将静态月日冒充单独2027年份公告。</p>
+<p class="fact-sources"><a href="#source-u-yale-apply">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026–2027标准本科费用：</strong>年度标准学费US$72,500；另有学生活动费US$185、住宿US$12,080、餐饮US$9,520，书本用品估计US$1,000、个人US$2,700，交通按家庭地址变化。Eli Whitney学生按学期注册学分适用全费或半费，不自动套全时年费。</p>
+<p class="fact-sources"><a href="#source-u-yale-cost">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助：</strong>国际申请不因支付能力影响录取，并满足学校认定的全部需要；方案考虑居住国经济、住食及每年两次往返交通。国际生入学后不要求每年重新申请资助。</p>
+<p class="fact-sources"><a href="#source-u-yale-international">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>逐专业统计缺口：</strong>本轮未取得有毕业届次、回应样本及国际/中国生分组的全部主修就业率或薪酬资料。</p>
+<p class="fact-sources"><a href="#source-u-yale-apply">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-yale-international"><div><a href="https://admissions.yale.edu/international">yale 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-yale-testing"><div><a href="https://admissions.yale.edu/standardized-testing">yale 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-yale-apply"><div><a href="https://admissions.yale.edu/first-year-application-process">yale 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-yale-cost"><div><a href="https://finaid.yale.edu/coa">yale 官方本科资料：cost ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

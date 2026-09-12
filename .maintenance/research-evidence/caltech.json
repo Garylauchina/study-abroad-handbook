@@ -1,0 +1,179 @@
+{
+  "university_id": "caltech",
+  "sources": [
+    {
+      "url": "https://www.admissions.caltech.edu/apply/first-year-applicants/international-applicants",
+      "sha256": "3100fb82cca39443406bac112295845f8be9bf95a9f4b731ff1e6aeb0f704e62",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/caltech/international.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.admissions.caltech.edu/apply/first-year-applicants/application-requirements",
+      "sha256": "8db33361d06b42525484756f5a92bd81958abb4f314c64ed80ea87b71ebe1a33",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/caltech/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://bursar.caltech.edu/newstudents",
+      "sha256": "759d9b659b634caf68636791026a2ab24a1562a9cfd99822fe15a43178ca1b4c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/caltech/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/applied-and-computational-mathematics-acm/",
+      "sha256": "6bb0508f6af0f9c818aee609d5ef21a3c0f3befc32f121b3c6daf5bfe593abc4",
+      "raw_file": "scratch/full-catalog/us-details/caltech/0b9bc726540e60140ac9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/applied-physics-aph/",
+      "sha256": "a8a1683c06337176a44599602087bc21bda8bc32c61b25cd72b813b3fb316809",
+      "raw_file": "scratch/full-catalog/us-details/caltech/8ed1c03ab539667eaca6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/astrophysics-option-and-minor-ay/",
+      "sha256": "9b327c8336392cb10aa0e8102ab0be5756300b289e3bbeccde21c10eb0cd8b9e",
+      "raw_file": "scratch/full-catalog/us-details/caltech/c6e97c664ce0902d20af.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/bioengineering-option-be/",
+      "sha256": "b5c795444a65810d9f34e331ab7323ab53ba38132c34e72b54fdb951520b5788",
+      "raw_file": "scratch/full-catalog/us-details/caltech/933da28e02569609b526.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/biology-option-bi/",
+      "sha256": "8b3b8cf737a326d681bea6ed0a214bb8cc1e5d7d6a5919bb0fb793e0a5e98937",
+      "raw_file": "scratch/full-catalog/us-details/caltech/394e8ea3619f85436b2a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/business-economics-and-management-option-bem/",
+      "sha256": "01f6e3cb458e697e7251962bbadb30e53bd04e7bd1c95a6b93370503731eb5f5",
+      "raw_file": "scratch/full-catalog/us-details/caltech/5706ab2608feba668fe8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/chemical-engineering-option-che/",
+      "sha256": "223bdf838782468f82fc04c874639d9442cdd05bd7c9ee79a0581debba5c8c3f",
+      "raw_file": "scratch/full-catalog/us-details/caltech/7b242639be0171b5905e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/chemistry-option-and-minor-ch/",
+      "sha256": "b88859cf69aa7ed0e3feb3dfd2e58a5d7d8fc1837c502e6a4219ff2a581020ed",
+      "raw_file": "scratch/full-catalog/us-details/caltech/bf843323d6795c8a165b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/computation-and-neural-systems-option-cns/",
+      "sha256": "07b15e7350dd9f4ad24cf073bc133c94d937596bec74f79121d4d4759dd32372",
+      "raw_file": "scratch/full-catalog/us-details/caltech/da626ea1b3f38ae5945d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/computer-science-option-and-minor-cs/",
+      "sha256": "57d8e1d3c7eeb8a4632755b733cdcbd0f7afd523423ecfbc670c269078e598ec",
+      "raw_file": "scratch/full-catalog/us-details/caltech/b4262ed51569633b4ab4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/economics-option-ec/",
+      "sha256": "de4dffec850d29d670af5e3a364c7831cbf44db747fb7830c43376cfe8808055",
+      "raw_file": "scratch/full-catalog/us-details/caltech/2402684d25d9535487de.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/electrical-engineering-option-ee/",
+      "sha256": "30aa622b319b780bc89a43cce2a1539a09e71be223f1d841ce78ded38b73bf46",
+      "raw_file": "scratch/full-catalog/us-details/caltech/41468ac00683deec25ff.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/engineering-and-applied-science-option-eas/",
+      "sha256": "b1a904f4e393239d6a2f1b4fab4a46b4b621cf392680e8b7c5eff4060f1226ed",
+      "raw_file": "scratch/full-catalog/us-details/caltech/ee778605dc222cd4c576.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/english-option-and-minor-en/",
+      "sha256": "54ac5eb36a2a03ba9d113d16884861bda85b420bc4c880b27b42c7771b33cb65",
+      "raw_file": "scratch/full-catalog/us-details/caltech/6358e4b35bbd9bd39080.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/environmental-science-and-engineering-option-and-minor-ese/",
+      "sha256": "cc9853c55f0171670f2e4efcd67acc25943b695d0efabf7a5b77b68164a95b43",
+      "raw_file": "scratch/full-catalog/us-details/caltech/cb2d5864f41e692cab1e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/geological-and-planetary-sciences-gps-geology-geobiology-geochemistry-geophysics-planetary-science/",
+      "sha256": "8f8b543ab2227449419708fef8e5cdd56dc835b23668cb9eacd5b9308283106a",
+      "raw_file": "scratch/full-catalog/us-details/caltech/f4eece066e78caec95e2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/history-option-and-minor-h/",
+      "sha256": "6fe7eb7100a45737f3546b7ad88001238fe4b5bc74b5e80d2c6ce488fda63c2d",
+      "raw_file": "scratch/full-catalog/us-details/caltech/81574ab35d3c50131215.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/history-and-philosophy-of-science-option-and-minor-hps/",
+      "sha256": "8061a2fda157a0ac174e5e0650493d702bb382b9e5ed98a07bd3996ffa5913d1",
+      "raw_file": "scratch/full-catalog/us-details/caltech/f48520d05e9a144e17d8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/information-and-data-sciences-ids/",
+      "sha256": "36b63d29f88b16aadb0c127d99240803eb6f58b5a36465ee9cb0bc42284471f8",
+      "raw_file": "scratch/full-catalog/us-details/caltech/e7414a1d896e30a33bec.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/interdisciplinary-studies-program-isp/",
+      "sha256": "45ad1a44192eb767d3a148d3f47752f34e83169e7382305df6735d005f6bcf78",
+      "raw_file": "scratch/full-catalog/us-details/caltech/fb73d4546b2daac6dd2b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/materials-science-option-ms/",
+      "sha256": "c374651ad3299e78360b2e36f1a04529bd792018190f7d7fea6a71026fa754ba",
+      "raw_file": "scratch/full-catalog/us-details/caltech/424c36da994cafb85a74.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/mathematics-option-ma/",
+      "sha256": "3c3fdc5a89ca8366abf67ab5998aef15e79d4135c6fe079061b2f944a14f0ad1",
+      "raw_file": "scratch/full-catalog/us-details/caltech/d2348aa79eab7150294b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/mechanical-engineering-option-me/",
+      "sha256": "314be0904d11fb0db846d68ff7051dd7f5cda6556a51b6df4644289bf1127f5c",
+      "raw_file": "scratch/full-catalog/us-details/caltech/c453a8b8da1715b979b9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/philosophy-option-and-minor-pi/",
+      "sha256": "1f1db4eb5c14fa102cdcabc46146be567e9c498270553b0b82fce549475e2180",
+      "raw_file": "scratch/full-catalog/us-details/caltech/3a03a20707064d8fcd8d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/physics-option-ph/",
+      "sha256": "28612106b00711af0c068ced66f4ef0cbf172d2f76e2df5dc9d05b5e6c9da15d",
+      "raw_file": "scratch/full-catalog/us-details/caltech/af71c94e98987ee19a29.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/political-science-option-ps/",
+      "sha256": "43c772371db38492456c41270e5d789a5e58d9e284c7d1e215f3e91f3bbe6d59",
+      "raw_file": "scratch/full-catalog/us-details/caltech/7e4ece0db98217e6f01d.html",
+      "locator": null
+    }
+  ]
+}

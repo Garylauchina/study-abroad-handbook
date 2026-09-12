@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,48 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录收录 Computer Science + Crop Sciences（BS）。本轮尚未完成该独立项目课程、费用及毕业去向的逐项核对；学校通用规则另列。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-d03984f7efd8c0">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>数学修课年限：</strong>本项目落入官网明确列出的理工、商科或跨学科类别，须至少3.5年高中数学，包括三角学或更高内容；数学4年是建议。其余高中与英语要求见学校通用规则，不能等同高考录取线。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-8ea1f36d5901bb">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国成绩申报：</strong>中国国家课程按原成绩单申报9–11年级课程与成绩，分数制选择相应量表，不自行换算成美国字母分；12年级在读科目仍须申报。若修GCSE/A-level按对应国际考试栏填写。此为材料申报规则，本轮未取得高考统一最低分。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-dce39bdfced822">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语证明：</strong>除在认可英语国家完成10–12年级者外，须提交 TOEFL、IELTS、DET或可用于整体选拔的SAT/ACT，成绩在预定入学期前2年内。该要求不能另行豁免；本页未列新生统一最低英语分数，本轮不估计。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-3bd84b40a3fc74">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高中先修年限：</strong>英语4年；数学一般3年，特定理工、商科及跨学科专业至少3.5年且含三角学或更高；社会科学2年、实验科学2年、同一外语2年、其他认可学科学习2年。数学4年及多类学科4年为建议，不改写为统一硬性要求。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-8ea1f36d5901bb">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>现行新生申请日程：</strong>9月1日开放；EA 11月1日，材料11月7日；RD 1月5日，材料1月11日，均为美国中部时间23:59。所读表未逐项标入学年，暂保留现行日程；国际要求页另明确部分测试接受规则为2027秋。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d682fa754e0bb0">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 国际本科费用范围：</strong>全日制国际生学费及费用 USD42,248–53,078／学年；连同住房餐食、书本及其他估计总额62,146–72,976。范围随专业等而变，只作为全校费用区间，未冒充任一本专业的实际费率；本轮未核各项国际生奖学金资格。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-6e25ed510efafb">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +92,12 @@ hide:
 - [官方项目页面或项目所在目录](https://catalog.illinois.edu/undergraduate/aces/computer-science-crop-sciences-bs/)
 - [官方目录](https://catalog.illinois.edu/undergraduate/)
 
+<div class="catalog-source" id="source-p-USBENR-d03984f7efd8c0"><div><a href="https://catalog.illinois.edu/undergraduate/">Computer Science + Crop Sciences — 官方本科目录 ↗</a><p>专业名称与目录入口；本轮未取得独立课程完整详情</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-USBENR-8ea1f36d5901bb"><div><a href="https://admissions.illinois.edu/first-year-requirements/">UIUC 官方高中课程要求 ↗</a><p>本项目所属学院或列名专业的数学先修年限</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-dce39bdfced822"><div><a href="https://admissions.illinois.edu/china-application-help/">uiuc 官方 china ↗</a><p>本条中国成绩申报及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-3bd84b40a3fc74"><div><a href="https://admissions.illinois.edu/international-requirements/">uiuc 官方 requirements ↗</a><p>本条英语证明及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-8ea1f36d5901bb"><div><a href="https://admissions.illinois.edu/first-year-requirements/">uiuc 官方 firstyear ↗</a><p>本条高中先修年限及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-d682fa754e0bb0"><div><a href="https://admissions.illinois.edu/first-year-dates/">uiuc 官方 deadlines ↗</a><p>本条现行新生申请日程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-6e25ed510efafb"><div><a href="https://www.admissions.illinois.edu/tuition/">uiuc 官方 tuition ↗</a><p>本条2026/27 国际本科费用范围及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/uiuc/">← 返回伊利诺伊大学厄巴纳香槟分校</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

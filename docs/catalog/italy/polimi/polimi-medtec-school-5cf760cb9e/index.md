@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">MEDTEC School</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27</strong></div><div><span>学制</span><strong>6-year combined pathway; Polimi directory classifies the BSc component as3years</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27</strong></div><div><span>学制</span><strong>6 年联合培养路径</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Humanitas University; Politecnico di Milano, Leonardo campus · <strong>授课语言：</strong>English</p>
+<p class="program-location"><strong>校区：</strong>Humanitas University; Politecnico di Milano, Leonardo campus · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,9 +40,16 @@ hide:
 
 <p><strong>申请路径：</strong>Six-year single-cycle Medicine and Surgery degree organised by Humanitas University with Politecnico di Milano; the Polimi Biomedical Engineering bachelor is obtained immediately after the Humanitas medicine degree. Not a standalone three-year medical degree.</p>
 
+<p class="catalog-fact"><strong>专业身份与学习方式：</strong>Bachelor of Science in Biomedical Engineering (Politecnico di Milano), within MEDTEC joint pathway；6 年联合培养路径；英语；校区：Humanitas University; Politecnico di Milano, Leonardo campus。</p>
+<p class="fact-sources"><a href="#source-p-polimi-program-25">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程内容：</strong>Humanitas与米兰理工合作的六年MEDTEC医学路径，结合临床医学和生物医学工程；先取得Humanitas医学外科学位后才可取得米兰理工生物医学工程学士。</p>
+<p class="fact-sources"><a href="#source-p-polimi-program-25">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>联合路径特殊入口：</strong>MEDTEC由Humanitas与米兰理工共同提供，须按Humanitas医学路径核查申请、选拔与费用；米兰理工生物医学工程学士是六年医学工程培养中的后续资格，不能按普通三年工程入口理解。</p>
+<p class="fact-sources"><a href="#source-p-polimi-program-25">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -54,7 +61,8 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>课程职业方向（非就业调查）：</strong>课程列出医学、研究、生物医学器械及制药领域；具体医疗执业资格须按对应司法辖区另核。 本轮未核实本专业本科就业率、薪资及调查口径。</p>
+<p class="fact-sources"><a href="#source-p-polimi-program-25">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -63,5 +71,6 @@ hide:
 - [官方项目页面或项目所在目录](https://www.polimi.it/en/education/laurea-programmes/programme-detail/medtec-school)
 - [官方目录](https://www.polimi.it/en/education/laurea-programmes)
 
+<div class="catalog-source" id="source-p-polimi-program-25"><div><a href="https://www.polimi.it/en/education/laurea-programmes/programme-detail/medtec-school">MEDTEC School ↗</a><p>专业身份、结构与课程/职业方向</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/italy/polimi/">← 返回米兰理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

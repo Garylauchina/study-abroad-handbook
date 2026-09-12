@@ -23,40 +23,83 @@ hide:
 
 ## 专业与申请资料
 
-29 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+29 个专业条目 · 0 个含详细资料 · 29 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=polimi#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-aerospace-engineering-943a8c19ad/">Aerospace Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-architectural-design-3d61d2275f/">Architectural Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-automation-engineering-17d61aa98f/">Automation Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-biomedical-engineering-ea1ba61ac9/">Biomedical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-building-engineering-architecture-a31103e108/">Building Engineering/Architecture</a><small>Single-cycle Laurea Magistrale · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-building-and-construction-engineering-92fcffd142/">Building and Construction Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-chemical-engineering-f5229b2f7e/">Chemical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-civil-engineering-274e22aeac/">Civil Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-communication-design-561bad9111/">Communication Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-electrical-engineering-5d39c349c6/">Electrical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-electronic-engineering-5906a00a9d/">Electronic Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-energy-engineering-b14a0aa680/">Energy Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-engineering-science-dd4c8e316a/">Engineering Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-engineering-of-computing-systems-2c0313a5ab/">Engineering of Computing Systems</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-environmental-and-land-planning-engineering-9184d25791/">Environmental and Land Planning Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-fashion-design-b1920c94b2/">Fashion Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-industrial-engineering-81c25102d0/">Industrial Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-industrial-production-engineering-872cb700b2/">Industrial Production  Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-interaction-design-4ce08e22ab/">Interaction Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-interior-design-2a2a8726a0/">Interior Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-medtec-school-5cf760cb9e/">MEDTEC School</a><small>Bachelor of Science in Biomedical Engineering (Politecnico di Milano), within MEDTEC joint pathway · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-management-and-production-engineering-451cbd5d0e/">Management and Production Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-materials-and-nanotechnology-engineering-2b435b7ba6/">Materials and Nanotechnology  Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-mathematical-engineering-33d4d04d90/">Mathematical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-mechanical-engineering-ba1613a290/">Mechanical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-physics-engineering-e4c24ad80f/">Physics Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-process-engineering-daa05c72ee/">Process Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-product-design-841fca70bd/">Product Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-urban-planning-cities-environment-landscapes-c27b4d2ea9/">Urban Planning: Cities, Environment &amp; Landscapes</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-aerospace-engineering-943a8c19ad/">Aerospace Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-architectural-design-3d61d2275f/">Architectural Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-automation-engineering-17d61aa98f/">Automation Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-biomedical-engineering-ea1ba61ac9/">Biomedical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-building-engineering-architecture-a31103e108/">Building Engineering/Architecture</a><small>Single-cycle Laurea Magistrale · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-building-and-construction-engineering-92fcffd142/">Building and Construction Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-chemical-engineering-f5229b2f7e/">Chemical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-civil-engineering-274e22aeac/">Civil Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-communication-design-561bad9111/">Communication Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-electrical-engineering-5d39c349c6/">Electrical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-electronic-engineering-5906a00a9d/">Electronic Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-energy-engineering-b14a0aa680/">Energy Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-engineering-science-dd4c8e316a/">Engineering Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-engineering-of-computing-systems-2c0313a5ab/">Engineering of Computing Systems</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-environmental-and-land-planning-engineering-9184d25791/">Environmental and Land Planning Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-fashion-design-b1920c94b2/">Fashion Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-industrial-engineering-81c25102d0/">Industrial Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-industrial-production-engineering-872cb700b2/">Industrial Production  Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-interaction-design-4ce08e22ab/">Interaction Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-interior-design-2a2a8726a0/">Interior Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-medtec-school-5cf760cb9e/">MEDTEC School</a><small>Bachelor of Science in Biomedical Engineering (Politecnico di Milano), within MEDTEC joint pathway · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-management-and-production-engineering-451cbd5d0e/">Management and Production Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-materials-and-nanotechnology-engineering-2b435b7ba6/">Materials and Nanotechnology  Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-mathematical-engineering-33d4d04d90/">Mathematical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-mechanical-engineering-ba1613a290/">Mechanical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-physics-engineering-e4c24ad80f/">Physics Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-process-engineering-daa05c72ee/">Process Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-product-design-841fca70bd/">Product Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/italy/polimi/polimi-urban-planning-cities-environment-landscapes-c27b4d2ea9/">Urban Planning: Cities, Environment &amp; Landscapes</a><small>Bachelor of Science · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>同校共用：中国高中学历：</strong>通常须完成至少12年学校教育并持有可进入原教育体系大学的资格。校方中国附加规则要求高考，接受高考成绩不论分数；春考不被接受。该学历资格规则不能替代专业考试、排名与录取名额要求。</p>
+<p class="fact-sources"><a href="#source-u-polimi-qualification">官方依据</a> · <a href="#source-u-polimi-china-specific">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：补足与材料核验：</strong>教育年限不足可按校方规则以大学或至少一学年基础课程补足；用于补足入学资格的学习不能同时用于缩短本科学制。中国高中及高考材料须按校方列出的CHSI核验方式提交；IB和A-level按另一资格类别核查。</p>
+<p class="fact-sources"><a href="#source-u-polimi-qualification">官方依据</a> · <a href="#source-u-polimi-china-verification">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：授课语言：</strong>2026/27规则要求入学前证明所选课程授课语言：意大利语课程证明意大利语，英语课程证明英语。考试语言、额外英语/意大利语学习义务及认可证书须结合专业类别进一步核查。</p>
+<p class="fact-sources"><a href="#source-u-polimi-language">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>同校共用：外国学历申请：</strong>非意大利学历申请者需在相应入学考试报名流程上传近三年成绩、毕业证或在读证明，并按外国学历程序完成核验。大陆居住、无相应意大利居留身份的非欧盟申请者还涉及保留名额及学生签证流程；不能套用意大利及同等类别名额。</p>
+<p class="fact-sources"><a href="#source-u-polimi-foreign">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026/27材料收尾日期：</strong>2026/27最终毕业证和高考等补充学业材料截止为2026年9月10日，已结束；学历可比性及真伪核验材料截止为2026年10月31日。后者是已进入本轮入学流程者的材料期限，并非新的本科申请窗口。2027/28整轮安排本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-polimi-documents">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>同校共用：2026/27本科费用：</strong>标准每年46—74 ECTS学习计划的年度费用为EUR 157.04—3,943.04，随经济状况和学分调整；2026/27首期一般为EUR 880.04。海外收入或资产家庭须按程序办理Equalised ISEEU；不提交有效经济证明会按最高档计。该页非欧盟外国学历硕士强制最高档条款不能直接套到本科。2027/28金额本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-polimi-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：DSU资助：</strong>DSU依据经济与学业条件评定；新生须在截止前申请，即使尚未入学或尚未参加入学考试也不应等到录取后才申请。2026/27新生奖学金及优惠住宿申请均于2026年8月5日意大利时间中午12时截止，已结束；2027/28本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-polimi-dsu">官方依据</a> · <a href="#source-u-polimi-dsu-dates">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-polimi-qualification"><div><a href="https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/requirements-to-participate-in-the-admission-test">Foreign qualifications: eligibility ↗</a><p>十二年教育与补足</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-china-specific"><div><a href="https://www.polimi.it/fileadmin/user_upload/futuri_studenti/International_students/Requisiti_specifici_ENG.pdf">Specific requirements for foreign qualifications ↗</a><p>中国高考与春考</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-china-verification"><div><a href="https://www.polimi.it/fileadmin/user_upload/futuri_studenti/International_students/Modalit%C3%A0_di_verifica_ENG.pdf">Verification of foreign qualifications ↗</a><p>中国学历核验</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-foreign"><div><a href="https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/students-with-a-foreign-degree">Students with a foreign qualification ↗</a><p>申请类别与上传流程</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-documents"><div><a href="https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/necessary-documents-for-enrolment">Necessary documents for enrolment ↗</a><p>2026/27材料日期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-language"><div><a href="https://www.polimi.it/en/students/language-requirements">Language requirements 2026/27 ↗</a><p>授课语言证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-fees"><div><a href="https://www.polimi.it/en/prospective-students/how-much-does-it-cost/laurea-laurea-magistrale-and-single-cycle-programmes">Tuition fees 2026/27 ↗</a><p>本科年度费用与海外收入证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-dsu"><div><a href="https://www.polimi.it/en/students/tuition-fees-scholarships-and-financial-aid/university-financial-aid-diritto-allo-studio-universitario-dsu">University financial aid DSU ↗</a><p>经济和学业条件</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-polimi-dsu-dates"><div><a href="https://www.polimi.it/fileadmin/user_upload/studenti/tasse-borse-agevolazioni-economiche/dsu/bando_2026-2027/Main_Deadlines_DSU_2026-2027.pdf">DSU Call 2026/27 deadlines ↗</a><p>奖学金与住宿申请截止</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

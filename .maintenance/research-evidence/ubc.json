@@ -1,0 +1,47 @@
+{
+  "university_id": "ubc",
+  "sources": [
+    {
+      "url": "https://you.ubc.ca/applying-ubc/requirements/international-high-schools/",
+      "sha256": "0b6d582b49dd2d400ed1e842a92526c323f74d6505953670440d28633816f63f",
+      "raw_file": "scratch/full-catalog/root/ubc-china-vancouver-post.html",
+      "locator": "bachelor-of-science-in-natural-resources"
+    },
+    {
+      "url": "https://you.ubc.ca/applying-ubc/requirements/international-high-schools/",
+      "sha256": "842cc6742f3a4990281b58fea17a945f4c4fb729f9f9dfd52d27e20501bd82d2",
+      "raw_file": "scratch/full-catalog/root/ubc-china-okanagan-post.html",
+      "locator": "bachelor-of-science"
+    },
+    {
+      "url": "https://you.ubc.ca/applying-ubc/dates-deadlines/",
+      "sha256": "0c7a7b033c5f5e45c342f12ecb37f45b3ee6432be591286e312543dda945186e",
+      "raw_file": "scratch/full-catalog/root/ubc-dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://you.ubc.ca/applying-ubc/how-to-apply/application/",
+      "sha256": "0fbbfefa783088e54a45f0028349085bce175c4287bb9389c966559206ae36d6",
+      "raw_file": "scratch/full-catalog/root/ubc-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+      "sha256": "b9851a501fc48168b08b53baaffa6b6511d57e2bfabf98dd79781dfad58e389a",
+      "raw_file": "scratch/full-catalog/root/ubc-fees-vancouver.html",
+      "locator": null
+    },
+    {
+      "url": "https://vancouver.calendar.ubc.ca/fees/policies-fees",
+      "sha256": "7a34017aef7b4d2ff0c68e2caa1a330346b96e67c16df29b8c5fe7d631c04785",
+      "raw_file": "scratch/full-catalog/root/ubc-fee-policies.html",
+      "locator": null
+    },
+    {
+      "url": "https://you.ubc.ca/programs/",
+      "sha256": "948b180a8b6d899414df45932b166b4c5c9aaad447c2f57a632f25923bdc9b2d",
+      "raw_file": "scratch/full-catalog/root/ubc.html",
+      "locator": "programsListData.programs[id=1043]；official_url=https://you.ubc.ca/programs/zoology/"
+    }
+  ]
+}

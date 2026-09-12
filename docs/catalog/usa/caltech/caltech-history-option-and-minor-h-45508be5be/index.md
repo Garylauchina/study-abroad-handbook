@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">History Option and Minor (H)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 years (12 terms)</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 years (12 terms)</strong></div><div><span>国际生学费</span><strong>2026–2027标准本科年学费：US$68,574</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -36,21 +36,71 @@ hide:
 
 <p><strong>目录适用期：</strong>2025-2026</p>
 
+<p class="catalog-fact"><strong>学习内容：</strong>通过政治、文化、宗教、经济、科技史学习证据细读与历史论证，训练修正既有叙事、研究史料及清晰写作。</p>
+<p class="fact-sources"><a href="#source-p-caltech-program-history-option-and-minor-h">官方依据</a></p>
+
+<p class="catalog-fact"><strong>培养学分：</strong>本页说明总量为486 units；具体选修、共同课程和计分方式须按Option要求核对。</p>
+<p class="fact-sources"><a href="#source-p-caltech-program-history-option-and-minor-h">官方依据</a></p>
+
+<p class="catalog-fact"><strong>核验范围：</strong>本轮未逐项核定本专业校区、完整授课语言与所有特殊学习路径；学分不可自行换算为学年。</p>
+<p class="fact-sources"><a href="#source-p-caltech-program-history-option-and-minor-h">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>中学学术准备：</strong>共同准备要求四年数学（含一年微积分）、一年物理、一年化学、四年英语、两年历史/社会科学；一年生物为推荐。因中学未开课或无法解决课表冲突缺微积分/物理/化学时，学生与辅导员须记录原因，再按官方流程以知识证明替代。A-Level等末两年专科化课程的英语/社会科要求有早两年课程例外。</p>
+<p class="fact-sources"><a href="#source-p-caltech-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业内部要求：</strong>本科录取共同条件不替代本专业宣告、双主修、荣誉、科研计划或学习单元先修条件；本轮尚未逐条完成这些内部要求的中文复核。</p>
+<p class="fact-sources"><a href="#source-p-caltech-program-history-option-and-minor-h">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中学学术准备：</strong>共同准备要求四年数学（含一年微积分）、一年物理、一年化学、四年英语、两年历史/社会科学；一年生物为推荐。因中学未开课或无法解决课表冲突缺微积分/物理/化学时，学生与辅导员须记录原因，再按官方流程以知识证明替代。A-Level等末两年专科化课程的英语/社会科要求有早两年课程例外。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>考试与英语分数：</strong>须SAT或ACT，已考AP/IB亦须提交；考试不可及等实际困难有说明程序。国际申请者通常须英语考试，英语母语或中学主要英语授课可免，后者非母语仍强烈建议。IELTS总分及各项均7；旧TOEFL100及各25，2026-01-21起新量表总分和各项均5；DET总分及各项130。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027新生渠道和日期：</strong>Common App或QuestBridge，US$85或豁免；一位STEM及一位人文/社会科学教师推荐、学校报告、中学成绩和期中成绩。秋季新生REA截止2026-11-01，RD截止2027-01-04，接受录取截止2027-05-01。已注册大学者通常转学，少数学年历例外另核。</p>
+<p class="fact-sources"><a href="#source-p-caltech-international">官方依据</a> · <a href="#source-p-caltech-apply">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027新生渠道和日期：</strong>Common App或QuestBridge，US$85或豁免；一位STEM及一位人文/社会科学教师推荐、学校报告、中学成绩和期中成绩。秋季新生REA截止2026-11-01，RD截止2027-01-04，接受录取截止2027-05-01。已注册大学者通常转学，少数学年历例外另核。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a> · <a href="#source-u-caltech-apply">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>2026–2027本科收费：</strong>年度学费US$68,574；学校表列学费、学生费、住食、US$100可退押金及US$600一次迎新费合计US$93,925。该表未含医疗/牙科/视力保险；书本US$1,428及个人支出US$3,969另计，不可把US$93,925当个人全年总支出。</p>
+<p class="fact-sources"><a href="#source-p-caltech-fees">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–2027本科收费：</strong>年度学费US$68,574；学校表列学费、学生费、住食、US$100可退押金及US$600一次迎新费合计US$93,925。该表未含医疗/牙科/视力保险；书本US$1,428及个人支出US$3,969另计，不可把US$93,925当个人全年总支出。</p>
+<p class="fact-sources"><a href="#source-u-caltech-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助须入学申请时提出：</strong>国际生资助资金有限，需求会影响录取；获录取者满足学校认定需要。中国等国际生若本科期间需要资助，须在申请入学时申请，首年未申请或未获援助一般不能以后再申；页面只对加拿大/墨西哥公民保留例外，不能扩大到中国申请者。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业调查缺口：</strong>本轮未取得本专业明确届次、响应样本及中国/国际学生范围的就业率或薪酬；课程目标和少数校友故事不能代替毕业统计。</p>
+<p class="fact-sources"><a href="#source-p-caltech-program-history-option-and-minor-h">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>课程目标和毕业统计：</strong>本科Option的职业准备/升研目标见各培养方案；本轮未取得按Option和中国学生范围分解的就业率、薪酬调查。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -59,5 +109,12 @@ hide:
 - [官方项目页面或项目所在目录](https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/history-option-and-minor-h/)
 - [官方目录](https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/)
 
+<div class="catalog-source" id="source-p-caltech-program-history-option-and-minor-h"><div><a href="https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/history-option-and-minor-h/">History Option and Minor (H) 官方专业资料 ↗</a><p>本条学习内容、培养结构、内部要求及本轮核验边界</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-caltech-international"><div><a href="https://www.admissions.caltech.edu/apply/first-year-applicants/international-applicants">caltech 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-caltech-apply"><div><a href="https://www.admissions.caltech.edu/apply/first-year-applicants/application-requirements">caltech 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-caltech-fees"><div><a href="https://bursar.caltech.edu/newstudents">caltech 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-caltech-international"><div><a href="https://www.admissions.caltech.edu/apply/first-year-applicants/international-applicants">caltech 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-caltech-apply"><div><a href="https://www.admissions.caltech.edu/apply/first-year-applicants/application-requirements">caltech 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-caltech-fees"><div><a href="https://bursar.caltech.edu/newstudents">caltech 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/caltech/">← 返回加州理工学院</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

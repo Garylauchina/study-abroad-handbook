@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Data Science and Artificial  Intelligence</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4年</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,67 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录所列学位／路径：Bachelor of Computing in Data Science &amp; Artificial Intelligence。入学年份与是否接受特定身份须结合招生规则；目录列名本身不等于当前开放申请。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-f2ff9a766a6b2f">官方依据</a></p>
+
+<p class="catalog-fact"><strong>项目学制：</strong>官网项目结构栏列4年；减免、加速或海外阶段的个别选项须另核。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-f2ff9a766a6b2f">官方依据</a></p>
+
+<p class="catalog-fact"><strong>培养内容举例：</strong>课程／培养说明涉及机器学习、人工智能。这里只概述页面已明列的部分内容，不作为完整必修表。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-f2ff9a766a6b2f">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>普高／高考路径：</strong>普高课程体系应按高考类别申请，包括自行参加AP或SAT科目考试而未参加高考者。已获高考成绩须至少达到总分80%，并交学信网CSSD验证；高三可先用高一高二成绩申请。最低资格不等于录取线。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-66ff1dac2a1f77">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027起的面试变更：</strong>2027学年起，不再用高一高二成绩决定是否邀请面试；须在高考成绩发布后3天内交实际成绩，2027高考申请者面试安排在7月。高考不是以在校成绩代替后即可跳过。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-66ff1dac2a1f77">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语与专业资格：</strong>高考类别另须英语证明，例如IELTS总分6.0、写作及口语各6.0；或旧制TOEFL90、口语25，2026年起新制4.5、口语4.5；或SAT1250。部分竞争强、非理工或联合项目要求更高。4月1日以后才有最终成绩者，本轮不能获Medicine或REP考虑；REP另有国籍限制须看专业记录。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-66ff1dac2a1f77">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027/28申请开放：</strong>官方2027/28主指南列国际资格从2026年10月15日开放，总窗口至2027年3月19日但明确各资格截止不同。截至2026-09-12尚未到开放日；不能把3月19日直接当作高考类别截止。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-00e86da115b841">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考专属截止待更新：</strong>国际资格分表本轮仍列2026届高考窗口2025-10-15至2026-01-20且已关闭。2027高考类别最终截止尚未从该表取得；保留与2027主指南的年度差异。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-35596466a87994">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026年固定年费：</strong>普通全日制“其他国际生”获补贴档为SGD21,400/年；表内指定会计及商科等为21,800，医学91,250，REP32,000。各档含GST，按2026接受录取者固定；不能当2027报价或预设申请者获得补贴。非补贴普通课程分实验40,600/非实验36,350，商科指定档45,600。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-9c7a9568962a5c">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Tuition Grant附带义务：</strong>非新加坡公民含PR接受Tuition Grant须签协议，毕业后在新加坡实体工作3年；需在录取申请表表明选择、获批后完成注册及签署。补贴不是无条件奖学金；未完成手续须付非补贴费。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-6dc320d1ca7eb1">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Nanyang Global Scholarship：</strong>该奖面向各国籍的优秀全日制新生；覆盖补贴后学费，另有每年生活费SGD6,500、校内住宿最多2,000等。续奖须CGPA至少3.5/5及良好表现；MOE补贴的3年义务仍适用。Year12同等资格申请者先申请录取，奖学金与其资格类别同截止，并提交文书与教师评价。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-af4b41fc3e016c">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>官网职业方向：</strong>页面列举的可能领域包括金融、研究；属于职业方向，未取得该项目毕业人数、就业率或大陆生结果。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-f2ff9a766a6b2f">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +111,12 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence)
 - [官方目录](https://www.ntu.edu.sg/education/degree-programmes)
 
+<div class="catalog-source" id="source-p-ASREN-f2ff9a766a6b2f"><div><a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence">Data Science and Artificial  Intelligence — NTU官方项目资料 ↗</a><p>项目身份、学制、课程内容、科目条件及职业方向</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-66ff1dac2a1f77"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/prc-gaokao">NTU高考申请资格 ↗</a><p>普高／高考路径；2027起的面试变更；英语与专业资格</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-00e86da115b841"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide">NTU AY2027/28申请指南 ↗</a><p>2027/28申请开放</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-35596466a87994"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications">NTU国际资格申请表 ↗</a><p>高考专属截止待更新</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-9c7a9568962a5c"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026">NTU接受2026入学录取的收费表 ↗</a><p>2026年固定年费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-6dc320d1ca7eb1"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants">NTU Tuition Grant ↗</a><p>Tuition Grant附带义务</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-af4b41fc3e016c"><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship">NTU Nanyang Global Scholarship ↗</a><p>Nanyang Global Scholarship</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">← 返回南洋理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

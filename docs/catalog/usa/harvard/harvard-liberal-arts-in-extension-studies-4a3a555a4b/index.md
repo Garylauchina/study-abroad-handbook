@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Liberal Arts in Extension Studies</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>Spring 2027</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027 春季</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026–2027：US$2,260/课；指定入学课可减费</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>主要在线；8 学分须在校 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,28 @@ hide:
 
 <p><strong>申请路径：</strong>Harvard Extension School; performance-based admission after qualifying coursework</p>
 
+<p class="catalog-fact"><strong>成人与弹性学习：</strong>ALB in Extension Studies面向已高中毕业至少五年的在职成人，主要在线修读，须有8学分校内体验；可选人文、科学或社会科学集中领域。最多可转入64学分，并非Harvard College普通高中直申通道。</p>
+<p class="fact-sources"><a href="#source-p-harvard-program-extension-alb">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>资格与按表现录取：</strong>当前页面说明2021年5月或更早高中毕业者可开始，先完成指定课程按学习表现申请录取；本轮未独立核到大陆申请者英语分数和全部入学课程成绩条件。</p>
+<p class="fact-sources"><a href="#source-p-harvard-program-extension-alb">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027春季修课注册：</strong>下一期开学为2027春季，首门入学课程注册窗口2026-11-05至2027-01-19。这是修课注册期，不是Harvard College本科录取截止。</p>
+<p class="fact-sources"><a href="#source-p-harvard-program-extension-alb">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>2026–2027按课学费：</strong>US$2,260每课；指定三门推荐入学课程各US$1,130，校内实验课另有US$150实验费。官方平均总费用范围US$36,160–72,320随既有学分和路径不同；不套Harvard College统一年费。中国国际生可用的资助资格本轮未核定。</p>
+<p class="fact-sources"><a href="#source-p-harvard-program-extension-alb">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>职业举例与统计区别：</strong>官网给出管理咨询、数据科学、传播和多媒体等毕业生职位例子；未提供有届次、样本和国籍分母的就业率，不能当总体结果。</p>
+<p class="fact-sources"><a href="#source-p-harvard-program-extension-alb">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +68,6 @@ hide:
 - [官方项目页面或项目所在目录](https://extension.harvard.edu/academics/programs/bachelor-of-liberal-arts-degree-program/)
 - [官方目录](https://extension.harvard.edu/academics/programs/bachelor-of-liberal-arts-degree-program/)
 
+<div class="catalog-source" id="source-p-harvard-program-extension-alb"><div><a href="https://extension.harvard.edu/academics/programs/bachelor-of-liberal-arts-degree-program/">Liberal Arts in Extension Studies 官方专业资料 ↗</a><p>本条学习内容、培养结构、内部要求及本轮核验边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/harvard/">← 返回哈佛大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

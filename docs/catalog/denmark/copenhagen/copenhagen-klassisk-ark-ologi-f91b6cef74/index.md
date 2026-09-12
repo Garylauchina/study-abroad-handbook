@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Klassisk arkæologi</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>fire år</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Søndre Campus, Karen Blixens Plads 8, 2300 København S. · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Søndre Campus, Karen Blixens Plads 8, 2300 København S. · <strong>授课语言：</strong>丹麦语；部分课程可能使用英语或专业语言</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,77 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor programme</p>
 
+<p class="catalog-fact"><strong>学习内容：</strong>通过物质遗存研究古代希腊和意大利文化，时间延伸至罗马帝国末期。</p>
+<p class="fact-sources"><a href="#source-p-copenhagen-detail-972">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学位和地点：</strong>目录学位：Bachelor i klassisk arkæologi。原文明示学制4 年。地点Søndre Campus, Karen Blixens Plads 8, 2300 København S.。</p>
+<p class="fact-sources"><a href="#source-p-copenhagen-detail-972">官方依据</a></p>
+
+<p class="catalog-fact"><strong>语言安排：</strong>本科培养要求丹麦语；具体专业可能使用英语或所学外语的课程和读物。</p>
+<p class="fact-sources"><a href="#source-p-copenhagen-entry">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业先修层级：</strong>丹麦语A、英语B，另在历史B/思想史B/当代史B中任选一科；希腊语A和拉丁语A，或完成规定语言预备教学。 以上为丹麦课程层级；中国科目和补修方案须由学校正式认定。</p>
+<p class="fact-sources"><a href="#source-p-copenhagen-detail-972">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>大陆学历资格：</strong>中国条目为高中毕业证＋高考，再加一年高等教育，或补充至少一门丹麦A层级及一门B层级课程。仍须满足具体科目并由学校正式审查；A/B表示丹麦课程深度，不是中国分数或英国考试成绩。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-china">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请类别取决于学历体系：</strong>大陆普高学历通常不能换算为quota1成绩，须走quota2；IB、EB及欧洲等学历按各自类别处理。录取测试及面试不替代学术和语言资格。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-china">官方依据</a> · <a href="#source-u-copenhagen-quota2">官方依据</a></p>
+
+<p class="catalog-fact"><strong>丹麦语证明：</strong>所有本科均要求丹麦语，英语课程或读物不代表全英语本科。高中母语已学到最高层级者可通过Studieprøven补丹麦语证明，通常三项考试至少02；医学、牙医及口腔卫生要求每项至少7。也可按认可丹麦语A等路径审查。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-entry">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国材料：</strong>上传高中及已有高等教育毕业证和成绩、认可译本、语言及补课证明；非EU国籍按要求提供居留材料。学历资格与学费身份是两次不同判断。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-foreign">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026申请参考已结束：</strong>2026日历为2月1日Optagelse.dk开放、非丹麦学历3月15日中午12点截止，通常7月5日中午前补足资格材料，7月28日结果。这一常规轮已结束；2027完整日历本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-dates">官方依据</a> · <a href="#source-u-copenhagen-foreign">官方依据</a></p>
+
+<p class="catalog-fact"><strong>签字及quota2步骤：</strong>没有丹麦CPR/MitID者须打印签字页、签字扫描并在申请截止前电邮学校，否则申请不登记。quota2测试须另行报名，以丹麦语进行；高分者进入口试或笔试面试，未参加并通过测试者一般不予考虑。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-entry">官方依据</a> · <a href="#source-u-copenhagen-quota2">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027预评估入口：</strong>2026年9月2日至10月22日可申请非丹麦学历的预评估，面向2027拟申请者；这是资格咨询，不是正式录取申请或保证。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-dates">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际生学费和年度缺口：</strong>非EU/EEA国籍通常须缴本科费用，符合特定丹麦居留资格者可获豁免。学校让申请人向所属学院确认费率；本轮未取得适用于2026/27或2027/28各本科的准确金额，不套用硕士、交换或短期访学生价格。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-foreign">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科奖学金：</strong>本科招生页明确学校不向外国学生提供财政支持或奖学金，并指向丹麦主管机关查询外部机会；学校另页的硕士奖学金不代表本科可申请。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-entry">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>职业方向的口径：</strong>专业页常将本科和后续硕士后的职业方向放在同页；本轮未核实具体本科毕业届次、样本及薪资就业率，职业说明不能视为本科直接执业或就业保证。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-career-example">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +117,13 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ku.dk/studier/bachelor/klassisk-arkaeologi)
 - [官方目录](https://www.ku.dk/studier/bachelor)
 
+<div class="catalog-source" id="source-p-copenhagen-detail-972"><div><a href="https://www.ku.dk/studier/bachelor/klassisk-arkaeologi">Klassisk arkæologi ↗</a><p>课程内容、学位、教学安排及先修</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-copenhagen-entry"><div><a href="https://www.ku.dk/studies/bachelor/admission-requirements">UCPH Bachelor admission requirements ↗</a><p>丹麦语、材料与本科奖学金</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-china"><div><a href="https://www.ku.dk/studies/bachelor/admission-requirements/non-eu-eea-and-non-nordic-countries">UCPH Non-EU/EEA admissions ↗</a><p>中国学历、quota2及收费身份</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-entry"><div><a href="https://www.ku.dk/studies/bachelor/admission-requirements">UCPH Bachelor admission requirements ↗</a><p>丹麦语、材料与本科奖学金</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-foreign"><div><a href="https://www.ku.dk/studier/bachelor/ansoegning-og-optagelse/individuelle-forhold/ansoeg-med-en-ikke-dansk-eksamen">UCPH non-Danish examinations ↗</a><p>申请材料、收费及截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-quota2"><div><a href="https://www.ku.dk/studies/bachelor/quota-1-and-quota-2">UCPH quota1 and quota2 ↗</a><p>测试、面试及中国与IB路径区别</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-dates"><div><a href="https://www.ku.dk/studier/bachelor/frister-og-vigtige-datoer">UCPH deadlines2026 ↗</a><p>2026日期及2027预评估</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-career-example"><div><a href="https://www.ku.dk/studier/bachelor/medicin-koebenhavn">Medicin (København) ↗</a><p>本科及后续培养边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/">← 返回哥本哈根大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

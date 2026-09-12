@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Bachelor of Sports Management</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>3.5年</strong></div><div><span>国际生学费</span><strong>官网列MYR75,100（年度及计费周期待核）</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,70 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>UM当前目录列出的本科学位：Bachelor of Sports Management。授课条件与国际申请资格须结合下方本项目国际栏。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学制：</strong>官网列3.5年全日制；原文另列( 7 semester )，学期安排按学校课程表核。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>培养内容举例：</strong>分年课程表涉及金融、市场营销、心理学、社会学、历史、产业实习；列举部分培养内容，选修与必修、先修顺序仍以完整课程表为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>SHSC高中成绩基础：</strong>本项目国际SHSC栏列高中平均成绩至少65%；该栏另有指定科目要求，本轮不将平均分单独当完整录取条件。中国国家高中证书申请人另叠加校级高考80%及验证要求。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>IB总分基础：</strong>国际IB栏最低总分30分；同栏的HL/SL科目及分项等级还须满足，不能以总分替代这些条件。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>A-Level成绩条目：</strong>国际A-Level栏出现的最低成绩等级为B；具体所需科目和门数须按该栏逐项核对。另须确认资格开设地点符合UM针对中国境内课程的新规则。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国普高／高考：</strong>自2025-10-23起，中国籍持中国国家高中证书申请本科，须高考总分至少80%并交CSSD官方验证。该条件还须叠加各专业科目要求；持国际资格或在中国境外学校毕业者有高考豁免。不能把旧的520分说法作为现行门槛。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国境内开设课程的限制：</strong>自2025/26第2学期起，UM不接受在中国开设的OSSD、A-Level及Foundation或同等课程；列明保留中国SHSC/HSC/Grade12及UM Foundation例外。限制依据课程开设地点及类别，不能扩大为所有中国籍A-Level学生均不符合。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语要求的适用边界：</strong>多数项目以英语授课，马来语、语言与文学、艺术社科及伊斯兰研究部分项目例外。英语分数按项目国际生栏核；FAQ中的英语豁免仅限研究生，不能套给普通本科。接受IELTS单项重考；该FAQ列IELTS UKVI及TOEFL Home Edition/ITP不接受。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>项目入学季：</strong>课程页列第1学期10月入学，受当年项目是否开放限制。本页入学季不能当申请截止；2027具体申请日程本轮未核。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>3月入学选项：</strong>课程页还列第2学期3月入学，是否开放以当轮项目供应为准；本轮未核2027截止。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际生申请入口：</strong>国际生走学校International Channel，通过MAYA申请；UPU和SATU只适用马来西亚公民。一般10月是主入学季，3月仅部分项目开放；本轮未取得2027各专业最终截止日期，不把学期开始日当申请截止。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>课程页国际费用：</strong>国际栏列MYR75,100，不含6%SST。本轮未核到该金额对应的入学年及全年／全程计费周期，暂不换算成年学费；最终以录取与收费通知为准。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>申请费与学费缺口：</strong>国际常规全日制本科申请费MYR300/次。各专业页的国际费另列，但本轮未核齐对应入学年与全年／全程计费周期；奖学金资格尚待核实，预算不预先扣奖。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>职业方向：</strong>课程页列举新闻、咨询、市场营销等可能方向。这是职业展望；本轮未取得该专业毕业调查或就业率，执业资格也须另行满足。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eef40bb5eb6ad3">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +114,7 @@ hide:
 - [官方项目页面或项目所在目录](https://study.um.edu.my/bachelor-of-sports-management)
 - [官方目录](https://study.um.edu.my/faculty-of-sports-and-exercise-science)
 
+<div class="catalog-source" id="source-p-ASREN-eef40bb5eb6ad3"><div><a href="https://study.um.edu.my/bachelor-of-sports-management">Bachelor of Sports Management — UM官方课程页 ↗</a><p>项目身份、培养内容、国际生先修与英语、页面费用和开学季</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-b5c6b617e6ddf8"><div><a href="https://study.um.edu.my/faqs-amp-info">UM招生常见问题（含中国资格更新） ↗</a><p>中国证书/高考、教学语言、申请渠道与考试形式</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/">← 返回马来亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

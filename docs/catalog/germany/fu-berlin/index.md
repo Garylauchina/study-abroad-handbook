@@ -23,96 +23,146 @@ hide:
 
 ## 专业与申请资料
 
-85 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+85 个专业条目 · 0 个含详细资料 · 85 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=fu-berlin#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-applied-midwifery-science-dual-bachelor-dc02414988/">Applied Midwifery Science (Dual Bachelor)</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-applied-north-american-studies-76944231af/">Applied North American Studies</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-art-history-africa-f3d1a84ab4/">Art History — Africa</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-art-history-east-asia-30123cc642/">Art History — East Asia</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-art-history-europe-and-america-dc67d192a4/">Art History — Europe and America</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-biochemistry-3e3071d925/">Biochemistry</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-bioinformatics-6d658a263e/">Bioinformatics</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-biology-dc1abb1b30/">Biology</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-biology-d4168eb08c/">Biology</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-business-administration-a1f4795722/">Business Administration</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chemistry-a1e323e0c8/">Chemistry</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chemistry-1b9ae858e5/">Chemistry</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chinese-studies-east-asian-studies-f505f5216e/">Chinese Studies/East Asian Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chinese-language-and-society-48be35aed0/">Chinese language and society</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chinese-language-and-society-c263987676/">Chinese language and society</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-comparative-literature-afc8213611/">Comparative Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-computer-science-0200349a69/">Computer Science</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-computer-science-bbffc0e144/">Computer Science</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-dentistry-state-exam-67aa04165d/">Dentistry (state exam)</a><small>Staatsexamen · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-digital-media-and-technology-cac30b8db7/">Digital Media and Technology</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-economics-9bc5334e4d/">Economics</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-educational-science-82e2c5f0cb/">Educational Science</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-elementary-education-3bb0ee6a19/">Elementary Education</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-english-language-and-literature-ef04014d8c/">English Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-english-language-and-literature-6906a47000/">English Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-equine-sciences-0e6c97a297/">Equine Sciences</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-film-studies-db3456f38a/">Film Studies</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-french-language-and-literature-6a90ce2312/">French Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-french-language-and-literature-26b3ab6bd6/">French Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-french-studies-f517ce0830/">French Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-geographical-sciences-8a28f3fb28/">Geographical Sciences</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-geological-sciences-9d65e9d2f4/">Geological Sciences</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-german-language-and-literature-f9193a734f/">German Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-german-language-and-literature-4be4908373/">German Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-german-and-french-literature-and-cultural-studies-8d3ae3e472/">German and French Literature and Cultural Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-greek-language-and-literature-e72927c4d6/">Greek Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-greek-language-and-literature-a3c31b99dd/">Greek Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-health-sciences-bachelor-1130393d24/">Health Sciences (Bachelor)</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-de91622076/">History</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-f22ac57dc0/">History</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-arabic-stud-a73ee60b5e/">History and Cultures of the Middle East — Concentration: Arabic Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-iranian-stu-61760431f2/">History and Cultures of the Middle East — Concentration: Iranian Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-islamic-stu-e1012c320a/">History and Cultures of the Middle East — Concentration: Islamic Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-semitic-stu-f1271b8221/">History and Cultures of the Middle East — Concentration: Semitic Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-turkish-stu-0b4f802f2a/">History and Cultures of the Middle East — Concentration: Turkish Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-italian-language-and-literature-8d893f324b/">Italian Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-italian-language-and-literature-81d8106bcf/">Italian Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-italian-studies-c52acd2608/">Italian Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-japanese-studies-east-asian-studies-31cc655e2c/">Japanese Studies / East Asian Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-jewish-studies-cff6e7e425/">Jewish Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-korean-studies-east-asian-studies-f6d553569e/">Korean Studies / East Asian Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-language-society-167b32fa39/">Language &amp; Society</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-language-and-literature-of-turkey-f9b0d451f1/">Language and Literature of Turkey</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-language-and-literature-of-turkey-4d449b6fab/">Language and Literature of Turkey</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-language-literature-culture-dutch-563302d061/">Language – Literature – Culture: Dutch</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-latin-language-and-literature-bfb52f2511/">Latin Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-latin-language-and-literature-f962576cd3/">Latin Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-law-state-examination-5ad61e1590/">Law - State Examination</a><small>Erste juristische Prüfung · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-mathematics-82d95fc37c/">Mathematics</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-mathematics-c559568f1d/">Mathematics</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-media-and-communication-studies-08e7316dc8/">Media and Communication Studies</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-medicine-state-exam-new-revised-medical-curriculum-8c0537aaef/">Medicine (state exam - New Revised Medical Curriculum)</a><small>Staatsexamen · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-meteorology-a0665f33ea/">Meteorology</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-modern-greek-studies-1e11411e91/">Modern Greek Studies</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-north-american-studies-d339e542d0/">North American Studies</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-nursing-care-bachelor-aa99eb4c9a/">Nursing Care (Bachelor)</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-pharmacy-b3ef490e41/">Pharmacy</a><small>Staatsexamen · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-philosophy-5869282eb1/">Philosophy</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-philosophy-183f2df0fd/">Philosophy</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-physics-bc262e35f4/">Physics</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-physics-d17af6c838/">Physics</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-political-science-3da3775f8d/">Political Science</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-political-science-fdbc78ce66/">Political Science</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-psychology-8aa2a9e407/">Psychology</a><small>Bachelor of Science (B.Sc.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-social-and-cultural-anthropology-aabd452ce4/">Social and Cultural Anthropology</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-spanish-language-and-literature-44f60dfa2c/">Spanish Language and Literature</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-spanish-language-and-literature-with-latin-american-studies-dc4d1ce604/">Spanish Language and Literature with Latin American Studies</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-special-needs-education-939321743e/">Special Needs Education</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-ancient-near-easte-ad668fe435/">Studies in Ancient Civilisations — Concentration: Ancient Near Eastern Archaeology</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-ancient-near-easte-58f11bed89/">Studies in Ancient Civilisations — Concentration: Ancient Near Eastern Languages and History</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-classical-archaeol-e8cd5f4262/">Studies in Ancient Civilisations — Concentration: Classical Archaeology</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-egyptology-126d9dbd24/">Studies in Ancient Civilisations — Concentration: Egyptology</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-prehistoric-archae-7c3063145b/">Studies in Ancient Civilisations — Concentration: Prehistoric Archaeology</a><small>Bachelor of Arts (B.A.) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-theater-studies-4912ffdf57/">Theater Studies</a><small>Bachelor · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-veterinary-medicine-9612cd5372/">Veterinary Medicine</a><small>Staatsexamen · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-applied-midwifery-science-dual-bachelor-dc02414988/">Applied Midwifery Science (Dual Bachelor)</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-applied-north-american-studies-76944231af/">Applied North American Studies</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-art-history-africa-f3d1a84ab4/">Art History — Africa</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-art-history-east-asia-30123cc642/">Art History — East Asia</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-art-history-europe-and-america-dc67d192a4/">Art History — Europe and America</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-biochemistry-3e3071d925/">Biochemistry</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-bioinformatics-6d658a263e/">Bioinformatics</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-biology-dc1abb1b30/">Biology</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-biology-d4168eb08c/">Biology</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-business-administration-a1f4795722/">Business Administration</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chemistry-a1e323e0c8/">Chemistry</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chemistry-1b9ae858e5/">Chemistry</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chinese-studies-east-asian-studies-f505f5216e/">Chinese Studies/East Asian Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chinese-language-and-society-48be35aed0/">Chinese language and society</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-chinese-language-and-society-c263987676/">Chinese language and society</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-comparative-literature-afc8213611/">Comparative Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-computer-science-0200349a69/">Computer Science</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-computer-science-bbffc0e144/">Computer Science</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-dentistry-state-exam-67aa04165d/">Dentistry (state exam)</a><small>Staatsexamen · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-digital-media-and-technology-cac30b8db7/">Digital Media and Technology</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-economics-9bc5334e4d/">Economics</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-educational-science-82e2c5f0cb/">Educational Science</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-elementary-education-3bb0ee6a19/">Elementary Education</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-english-language-and-literature-ef04014d8c/">English Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-english-language-and-literature-6906a47000/">English Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-equine-sciences-0e6c97a297/">Equine Sciences</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-film-studies-db3456f38a/">Film Studies</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-french-language-and-literature-6a90ce2312/">French Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-french-language-and-literature-26b3ab6bd6/">French Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-french-studies-f517ce0830/">French Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-geographical-sciences-8a28f3fb28/">Geographical Sciences</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-geological-sciences-9d65e9d2f4/">Geological Sciences</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-german-language-and-literature-f9193a734f/">German Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-german-language-and-literature-4be4908373/">German Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-german-and-french-literature-and-cultural-studies-8d3ae3e472/">German and French Literature and Cultural Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-greek-language-and-literature-e72927c4d6/">Greek Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-greek-language-and-literature-a3c31b99dd/">Greek Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-health-sciences-bachelor-1130393d24/">Health Sciences (Bachelor)</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-de91622076/">History</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-f22ac57dc0/">History</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-arabic-stud-a73ee60b5e/">History and Cultures of the Middle East — Concentration: Arabic Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-iranian-stu-61760431f2/">History and Cultures of the Middle East — Concentration: Iranian Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-islamic-stu-e1012c320a/">History and Cultures of the Middle East — Concentration: Islamic Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-semitic-stu-f1271b8221/">History and Cultures of the Middle East — Concentration: Semitic Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-history-and-cultures-of-the-middle-east-concentration-turkish-stu-0b4f802f2a/">History and Cultures of the Middle East — Concentration: Turkish Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-italian-language-and-literature-8d893f324b/">Italian Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-italian-language-and-literature-81d8106bcf/">Italian Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-italian-studies-c52acd2608/">Italian Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-japanese-studies-east-asian-studies-31cc655e2c/">Japanese Studies / East Asian Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-jewish-studies-cff6e7e425/">Jewish Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-korean-studies-east-asian-studies-f6d553569e/">Korean Studies / East Asian Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-language-society-167b32fa39/">Language &amp; Society</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-language-and-literature-of-turkey-f9b0d451f1/">Language and Literature of Turkey</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-language-and-literature-of-turkey-4d449b6fab/">Language and Literature of Turkey</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-language-literature-culture-dutch-563302d061/">Language – Literature – Culture: Dutch</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-latin-language-and-literature-bfb52f2511/">Latin Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-latin-language-and-literature-f962576cd3/">Latin Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-law-state-examination-5ad61e1590/">Law - State Examination</a><small>Erste juristische Prüfung · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-mathematics-82d95fc37c/">Mathematics</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-mathematics-c559568f1d/">Mathematics</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-media-and-communication-studies-08e7316dc8/">Media and Communication Studies</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-medicine-state-exam-new-revised-medical-curriculum-8c0537aaef/">Medicine (state exam - New Revised Medical Curriculum)</a><small>Staatsexamen · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-meteorology-a0665f33ea/">Meteorology</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-modern-greek-studies-1e11411e91/">Modern Greek Studies</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-north-american-studies-d339e542d0/">North American Studies</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-nursing-care-bachelor-aa99eb4c9a/">Nursing Care (Bachelor)</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-pharmacy-b3ef490e41/">Pharmacy</a><small>Staatsexamen · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-philosophy-5869282eb1/">Philosophy</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-philosophy-183f2df0fd/">Philosophy</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-physics-bc262e35f4/">Physics</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-physics-d17af6c838/">Physics</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-political-science-3da3775f8d/">Political Science</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-political-science-fdbc78ce66/">Political Science</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-psychology-8aa2a9e407/">Psychology</a><small>Bachelor of Science (B.Sc.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-social-and-cultural-anthropology-aabd452ce4/">Social and Cultural Anthropology</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-spanish-language-and-literature-44f60dfa2c/">Spanish Language and Literature</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-spanish-language-and-literature-with-latin-american-studies-dc4d1ce604/">Spanish Language and Literature with Latin American Studies</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-special-needs-education-939321743e/">Special Needs Education</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-ancient-near-easte-ad668fe435/">Studies in Ancient Civilisations — Concentration: Ancient Near Eastern Archaeology</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-ancient-near-easte-58f11bed89/">Studies in Ancient Civilisations — Concentration: Ancient Near Eastern Languages and History</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-classical-archaeol-e8cd5f4262/">Studies in Ancient Civilisations — Concentration: Classical Archaeology</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-egyptology-126d9dbd24/">Studies in Ancient Civilisations — Concentration: Egyptology</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-studies-in-ancient-civilisations-concentration-prehistoric-archae-7c3063145b/">Studies in Ancient Civilisations — Concentration: Prehistoric Archaeology</a><small>Bachelor of Arts (B.A.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-theater-studies-4912ffdf57/">Theater Studies</a><small>Bachelor · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/fu-berlin-veterinary-medicine-9612cd5372/">Veterinary Medicine</a><small>Staatsexamen · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>中国资格与APS：</strong>境外学历先由uni-assist审核资格，来自中国的学历通常还须APS。2026年8月APS高考路径以12年教育、高中毕业及会考、指定高考科目为基础：总分70%可形成受学科限制的直接资格，60%主要通向相关预科和资格考试；医学药学兽医牙医及法律直接资格另要求80%及指定科目组合。大学录取仍独立判断。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-application">官方依据</a> · <a href="#source-u-fu-berlin-aps70">官方依据</a> · <a href="#source-u-fu-berlin-aps60">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请和注册德语不同：</strong>多数项目申请时至少提交规定的C1水平证明，注册时通常须DSH-2、TestDaF四项4或telc C1 Hochschule至少gut等。证书一般不超过三年；德语语言文学所有组件注册要求DSH-3或TestDaF四项5。个别纯英语项目按专业例外。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-language">官方依据</a></p>
+
+<p class="catalog-fact"><strong>预科语言与材料：</strong>确定必须读Studienkolleg者可按B2证明申请；资格未确定时学校建议先准备C1。学校和大学成绩证明须齐备，非英德文证书需认可的正式翻译。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-language">官方依据</a> · <a href="#source-u-fu-berlin-application">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>VPD后还须正式申请：</strong>先在uni-assist申请发给FU Berlin的VPD，再在FU申请门户上传完整材料并提交；VPD有效一年，官方提醒高峰处理可达八周。按时申请VPD不等于按时申请学位，期限以FU收到完整材料含VPD为准。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-application">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026/27已结束参考批次：</strong>2026年6月1日开放；限制名额的单科/法律或至少一组件有限额的组合本科7月15日截止；全部组件不限额的本科9月1日截止。该2026批次均已结束，本轮未取得2027/28本科申请窗口。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-dates">官方依据</a></p>
+
+<p class="catalog-fact"><strong>药学兽医非EU路径：</strong>非EU/EEA且无德国入学资格者，当前专门页要求通过FU申请门户并遵循境外资格VPD流程；2026参考截止7月15日。不能套用德国/EU考生的Hochschulstart旧生5月期限。中央日历还保留“via uni-assist”措辞，应按现行专门流程完成FU正式提交。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-pharmacy-vet-application">官方依据</a> · <a href="#source-u-fu-berlin-dates">官方依据</a> · <a href="#source-u-fu-berlin-application">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026/27中国新生费用：</strong>FU普通学位不收学费，继续教育项目除外；2026/27冬季新注册通常缴EUR376.80学期费用，含学生服务、管理、学生会及适用学生的交通票等。本科国际生不因此适用海德堡或TUM的第三国学费规则；Charité等合作项目另核账单。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助和未来费用缺口：</strong>本轮未核实可向所有中国本科新生提供的奖学金金额、条件或2027/28学期账单；不能把现行普通学费为零理解为生活成本或入学手续无需资金。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-fees">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>职业方向不是就业统计：</strong>各课程说明研究、教学或职业准备方向；本轮未核实按本科专业、毕业届次及样本划分的就业率或薪资。组合科目和国家考试路径亦不与普通单学士直接等同。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-german-index">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-fu-berlin-application"><div><a href="https://www.fu-berlin.de/en/studium/bewerbung/bachelor/ausl-hzb/index.html">FU Application with non-German entrance qualification ↗</a><p>VPD、APS、材料及FU正式门户</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-dates"><div><a href="https://www.fu-berlin.de/en/studium/bewerbung/bewerbungsfristen/index.html">FU Deadlines winter2026/27 ↗</a><p>2026本科期限</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-language"><div><a href="https://www.fu-berlin.de/en/studium/bewerbung/allgemein/deutschkenntnisse/index.html">FU German skills for application and enrolment ↗</a><p>德语水平、证书有效期与专业例外</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-fees"><div><a href="https://www.fu-berlin.de/studium/studieren/studienorganisation/gebuehren/index.html">FU Gebühren ↗</a><p>2026/27冬季费及学费规则</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-pharmacy-vet-application"><div><a href="https://www.fu-berlin.de/en/studium/bewerbung/hochschulstart-dt/index.html">FU Pharmacy and Veterinary Medicine applicants ↗</a><p>非EU申请门户与EU分开</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-german-index"><div><a href="https://www.fu-berlin.de/studium/studienangebot/grundstaendige/index.html">FU Current German undergraduate catalogue ↗</a><p>组合与单科本科、教师及合作培养范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-aps70"><div><a href="https://www.aps.org.cn/wp-content/uploads/272_voraussetzungen_70_verfahren_gaokao_chn.pdf">APS 高考成绩70%以上程序适用条件 ↗</a><p>2026年8月中国高考直接资格与学科限制</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-aps60"><div><a href="https://www.aps.org.cn/wp-content/uploads/271_voraussetzungen_60_verfahren_gaokao_chn.pdf">APS 高考成绩60%以上程序适用条件 ↗</a><p>2026年8月相关预科及资格考试路径</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

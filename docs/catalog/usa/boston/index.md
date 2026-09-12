@@ -23,205 +23,241 @@ hide:
 
 ## 专业与申请资料
 
-194 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+194 个专业条目 · 0 个含详细资料 · 160 个补有专业资料 · 34 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=boston#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-acting-0e404417af/">Acting</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-advertising-com-b390d5727a/">Advertising COM</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-african-american-black-diaspora-studies-cas-c3d21954cc/">African American &amp; Black Diaspora Studies CAS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-american-studies-cas-52370e5d01/">American Studies CAS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-ancient-greek-latin-72da36322e/">Ancient Greek &amp; Latin</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-ancient-greek-literary-translation-0cab92f883/">Ancient Greek/Literary Translation</a><small>BA-to-MFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-anthropology-religion-dbdef10667/">Anthropology &amp; Religion</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-anthropology-with-a-specialization-in-anthropology-health-medicin-9461a2d39b/">Anthropology with a Specialization in Anthropology, Health &amp; Medicine</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-anthropology-with-a-specialization-in-biological-anthropology-458201b1c2/">Anthropology with a Specialization in Biological Anthropology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-anthropology-with-a-specialization-in-sociocultural-anthropology-3dbae8291b/">Anthropology with a Specialization in Sociocultural Anthropology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-archaeological-environmental-sciences-20d69a86c8/">Archaeological &amp; Environmental Sciences</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-archaeological-environmental-sciences-archaeology-9eed9dd084/">Archaeological &amp; Environmental Sciences/Archaeology</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-archaeology-2ecf527c33/">Archaeology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-archaeology-e51be6711b/">Archaeology</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-architectural-studies-a122833651/">Architectural Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-f7ec17b602/">Art</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-architecture-history-of-c7a48cf10a/">Art &amp; Architecture, History of</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-education-6f71fdeaa7/">Art Education</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-education-484b806309/">Art Education</a><small>BFA/MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-history-8c0d09d40a/">Art History</a><small>BLS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-asian-studies-93038b2251/">Asian Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-astronomy-59a4d9f3ea/">Astronomy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-astronomy-physics-edc423fd6c/">Astronomy &amp; Physics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-astrophysics-space-physics-dae5a2c951/">Astrophysics &amp; Space Physics</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-behavior-health-bef875631a/">Behavior &amp; Health</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-bilingual-education-teaching-english-to-speakers-of-other-languag-e2b624b120/">Bilingual Education/Teaching English to Speakers of Other Languages</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biochemistry-molecular-biology-5ca85c4413/">Biochemistry &amp; Molecular Biology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biochemistry-molecular-biology-to-molecular-biology-cell-biology-685b7d626c/">Biochemistry &amp; Molecular Biology to Molecular Biology, Cell Biology &amp; Biochemistry</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biochemistry-molecular-biology-biotechnology-3eb49e19ae/">Biochemistry &amp; Molecular Biology/Biotechnology</a><small>BA/MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-cas-grs-863034bf3e/">Biology CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-cas-grs-4286d019b9/">Biology CAS/GRS</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-met-1a419c11b7/">Biology MET</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-with-a-specialization-in-behavioral-biology-a1118276f4/">Biology with a Specialization in Behavioral Biology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-with-a-specialization-in-biodiversity-conservation-global-3f513d9ec8/">Biology with a Specialization in Biodiversity, Conservation &amp; Global Change Biology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-with-a-specialization-in-cell-biology-molecular-biology-g-95cc32da7e/">Biology with a Specialization in Cell Biology, Molecular Biology &amp; Genetics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-with-a-specialization-in-neurobiology-91d935854a/">Biology with a Specialization in Neurobiology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biomedical-engineering-ee2a33dce3/">Biomedical Engineering</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-business-administration-2a60178ad2/">Business Administration</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-physics-2484781bea/">Chemistry &amp; Physics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-cas-grs-81b0c4af09/">Chemistry CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-cas-grs-eb2f044dd5/">Chemistry CAS/GRS</a><small>BA/MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-chemical-biology-7c6138f347/">Chemistry: Chemical Biology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-materials-and-nanoscience-61e1bb353a/">Chemistry: Materials and Nanoscience</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chinese-language-literature-06e94fc006/">Chinese Language &amp; Literature</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chinese-literary-translation-dc0a4e26ab/">Chinese/Literary Translation</a><small>BA-to-MFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-cinema-media-studies-ae8701f9d3/">Cinema &amp; Media Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classical-studies-24580e73a8/">Classical Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classical-studies-b71b8de435/">Classical Studies</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classics-archaeology-f52394fb67/">Classics &amp; Archaeology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classics-archaeology-d6c08e34ff/">Classics &amp; Archaeology</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classics-philosophy-7c3f034203/">Classics &amp; Philosophy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classics-religion-e97644ad60/">Classics &amp; Religion</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-comparative-literature-0cf8c0883d/">Comparative Literature</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-comparative-literature-literary-translation-f41e925013/">Comparative Literature/Literary Translation</a><small>BA/MFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-composition-music-theory-80a23e9914/">Composition &amp; Music Theory</a><small>BM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-engineering-ad39826c59/">Computer Engineering</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-science-economics-94bc96c231/">Computer Science &amp; Economics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-science-cas-grs-5f70595a46/">Computer Science CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-science-cas-grs-0fa660de06/">Computer Science CAS/GRS</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-science-met-d0c4a8e969/">Computer Science MET</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-costume-design-production-efecfa7f5b/">Costume Design &amp; Production</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-criminal-justice-0e756eec20/">Criminal Justice</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-data-science-2c48eeb36f/">Data Science</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-data-science-b0859ee453/">Data Science</a><small>BS-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-data-science-7bef077281/">Data Science</a><small>BS-to-MS (Bioinformatics) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-deaf-studies-639a0b116f/">Deaf Studies</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-early-childhood-education-9cbd3492b9/">Early Childhood Education</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-earth-environmental-sciences-91e60907cd/">Earth &amp; Environmental Sciences</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-mathematics-1fdaf89fa3/">Economics &amp; Mathematics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-mathematics-quantitative-economics-fb672f503e/">Economics &amp; Mathematics/Quantitative Economics</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-cas-grs-d0125864fe/">Economics CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-met-baabd3cbf6/">Economics MET</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-quantitative-59f7dbb840/">Economics, Quantitative</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-cd70d50afe/">Education &amp; Human Development</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-applied-human-development-3446b9dd43/">Education &amp; Human Development/Applied Human Development</a><small>BS-to-EdM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-educational-policy-studies-980f8c1af2/">Education &amp; Human Development/Educational Policy Studies</a><small>BS-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-tesol-applied-linguistics-4f7bd5a5a7/">Education &amp; Human Development/TESOL &amp; Applied Linguistics</a><small>BS-to-EdM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-tesol-multilingual-learner-education-0948d709b2/">Education &amp; Human Development/TESOL Multilingual Learner Education</a><small>BS-to-EdM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-electrical-engineering-e8e90e7aeb/">Electrical Engineering</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-elementary-education-a5b7e2ce46/">Elementary Education</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-energy-environmental-analysis-a53c608faf/">Energy &amp; Environmental Analysis</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-english-4d839cf6ae/">English</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-english-7804e7ca7e/">English</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-english-american-literature-4766458bad/">English &amp; American Literature</a><small>BLS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-english-education-2c2c535a91/">English Education</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-environmental-analysis-policy-7b3af7da3c/">Environmental Analysis &amp; Policy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-european-studies-2171319c2b/">European Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-film-television-b9e4a4a9e6/">Film &amp; Television</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-french-linguistics-f22e8d466a/">French &amp; Linguistics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-french-studies-69c86d1c9c/">French Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-french-studies-literary-translation-5966e96d1f/">French Studies/Literary Translation</a><small>BA-to-MFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-german-language-literature-7b1ca9a36d/">German Language &amp; Literature</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-german-literary-translation-3c1087d1bc/">German/Literary Translation</a><small>BA-to-MFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-graphic-design-62fff588ab/">Graphic Design</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-greek-ancient-c13e34c208/">Greek—Ancient</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-health-science-96549ab0f2/">Health Science</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-history-cas-grs-de31458365/">History CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-history-met-06c52b9596/">History MET</a><small>BLS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-history-of-art-architecture-793cb5cc38/">History of Art &amp; Architecture</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-holocaust-genocide-human-rights-studies-8a9f0f8755/">Holocaust, Genocide &amp; Human Rights Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-communication-1c1c092dd7/">Hospitality &amp; Communication</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-administration-1bf3320fdd/">Hospitality Administration</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-human-physiology-600fdd8dbf/">Human Physiology</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-human-physiology-661cba9452/">Human Physiology</a><small>BS-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-independent-major-694ff36848/">Independent Major</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-interdisciplinary-studies-b8688c0819/">Interdisciplinary Studies</a><small>BLS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-interdisciplinary-studies-5887d39e3c/">Interdisciplinary Studies</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-international-relations-e6efc2fcd6/">International Relations</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-international-relations-international-affairs-23bd8f069d/">International Relations/International Affairs</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-italian-linguistics-6817c477e0/">Italian &amp; Linguistics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-italian-studies-cfa182213a/">Italian Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-japanese-linguistics-9fd2f6b38b/">Japanese &amp; Linguistics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-japanese-language-literature-3b49dff4bc/">Japanese Language &amp; Literature</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-japanese-literary-translation-76b77adc8e/">Japanese/Literary Translation</a><small>BA-to-MFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-journalism-994631b5b0/">Journalism</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-korean-language-literature-ec9b7fd935/">Korean Language &amp; Literature</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-latin-american-studies-06f9fd545f/">Latin American Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-latin-literary-translation-9b441c2c15/">Latin/Literary Translation</a><small>BA-to-MFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-lighting-design-b5b9c74f87/">Lighting Design</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-african-languages-0ae2545b34/">Linguistics &amp; African Languages</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-computer-science-c58d1f2a21/">Linguistics &amp; Computer Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-philosophy-9db2085d61/">Linguistics &amp; Philosophy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-cas-grs-589173d129/">Linguistics CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-cas-grs-44daae05c2/">Linguistics CAS/GRS</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-and-speech-language-hearing-sciences-cas-grs-fee45aa087/">Linguistics and Speech, Language &amp; Hearing Sciences CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-and-speech-language-hearing-sciences-sar-912e95ba49/">Linguistics and Speech, Language &amp; Hearing Sciences SAR</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-management-studies-3afd917784/">Management Studies</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-marine-science-cabfd9b680/">Marine Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-marine-science-b0277f298f/">Marine Science</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-826b7cd797/">Mathematics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-e4f5cedb6e/">Mathematics</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-computer-science-b43a01d523/">Mathematics &amp; Computer Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-computer-science-b2095d7a16/">Mathematics &amp; Computer Science</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-mathematics-education-7307b6e3aa/">Mathematics &amp; Mathematics Education</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-philosophy-7a3561629a/">Mathematics &amp; Philosophy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-physics-d72f5331e3/">Mathematics &amp; Physics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-education-bc597cfd24/">Mathematics Education</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-met-92ca809b74/">Mathematics MET</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-biostatistics-2d226a7707/">Mathematics/Biostatistics</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mechanical-engineering-a26f87fd00/">Mechanical Engineering</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-media-science-794b7d9f59/">Media Science</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-middle-east-north-africa-studies-c0e3f3ba37/">Middle East &amp; North Africa Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-middle-eastern-and-south-asian-languages-literatures-f1744738f0/">Middle Eastern and South Asian Languages &amp; Literatures</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-modern-foreign-language-education-a7f7237e5a/">Modern Foreign Language Education</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-cfb6ad87e7/">Music</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-education-f41dd4029c/">Music Education</a><small>BM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-education-584e4eaaa8/">Music Education</a><small>BM-to-MM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-performance-614c39a926/">Music Performance</a><small>BM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-performance-2999a68e06/">Music Performance</a><small>BM-to-MM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-neuroscience-df0667162c/">Neuroscience</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-nutrition-adc6e532d5/">Nutrition</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-painting-f6842fe46e/">Painting</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-music-689d10f11c/">Performance, Music</a><small>BM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-music-113b5f2d7f/">Performance, Music</a><small>BM-to-MM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-neuroscience-97ad2a1412/">Philosophy &amp; Neuroscience</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-physics-c169e96160/">Philosophy &amp; Physics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-political-science-34156aa261/">Philosophy &amp; Political Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-psychology-f44ff1077e/">Philosophy &amp; Psychology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-religion-ed0e054b9f/">Philosophy &amp; Religion</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-cas-grs-bcb067cf6f/">Philosophy CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-met-6bde05d9ce/">Philosophy MET</a><small>BLS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-physical-therapy-0499bb8fae/">Physical Therapy</a><small>BS/DPT · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-physics-8167588a70/">Physics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-physics-9f78fdf2df/">Physics</a><small>BA-to-MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-physics-computer-science-f4b409d252/">Physics &amp; Computer Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-political-science-4954a15fff/">Political Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-printmaking-68b667f5cc/">Printmaking</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-psychology-cas-grs-4825de7c92/">Psychology CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-psychology-met-56cb1b9c52/">Psychology MET</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-public-health-cas-sph-d7906d4121/">Public Health CAS/SPH</a><small>BA-to-MPH · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-public-health-sar-sph-1f6d9e892d/">Public Health SAR/SPH</a><small>BS-to-MPH · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-public-relations-302a3a2370/">Public Relations</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-religion-cas-grs-53e8060290/">Religion CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-remote-sensing-geospatial-sciences-20834d6d93/">Remote Sensing &amp; Geospatial Sciences</a><small>BA-to-MS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-russian-language-literature-02e90b7d69/">Russian Language &amp; Literature</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-scene-design-05550b3d8a/">Scene Design</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-science-education-3e93647485/">Science Education</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-science-education-00713f1047/">Science Education</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-sculpture-3b3f93f9f3/">Sculpture</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-social-studies-education-aeab19b825/">Social Studies Education</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-sociology-cas-grs-d8a6f0e18e/">Sociology CAS/GRS</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-sound-design-e8333b36f9/">Sound Design</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-spanish-96868b13e7/">Spanish</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-spanish-linguistics-c8f0c07475/">Spanish &amp; Linguistics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-spanish-literary-translation-8d6192b3bc/">Spanish/Literary Translation</a><small>BA-to-MFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-special-education-5cc0bf0d54/">Special Education</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-speech-language-hearing-sciences-b64a6d8abb/">Speech, Language &amp; Hearing Sciences</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-stage-management-f834392d65/">Stage Management</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-statistics-computer-science-37463ffa10/">Statistics &amp; Computer Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-teaching-of-chemistry-57b4916645/">Teaching of Chemistry</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-technical-production-f8bbc279e5/">Technical Production</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-theatre-stage-management-d48c4d5036/">Theatre–Stage Management</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-theatre-technical-production-33f835b43c/">Theatre–Technical Production</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-urban-affairs-0e1fe23836/">Urban Affairs</a><small>BS · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-acting-0e404417af/">Acting</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-advertising-com-b390d5727a/">Advertising COM</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-african-american-black-diaspora-studies-cas-c3d21954cc/">African American &amp; Black Diaspora Studies CAS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-american-studies-cas-52370e5d01/">American Studies CAS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-ancient-greek-latin-72da36322e/">Ancient Greek &amp; Latin</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-ancient-greek-literary-translation-0cab92f883/">Ancient Greek/Literary Translation</a><small>BA-to-MFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-anthropology-religion-dbdef10667/">Anthropology &amp; Religion</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-anthropology-with-a-specialization-in-anthropology-health-medicin-9461a2d39b/">Anthropology with a Specialization in Anthropology, Health &amp; Medicine</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-anthropology-with-a-specialization-in-biological-anthropology-458201b1c2/">Anthropology with a Specialization in Biological Anthropology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-anthropology-with-a-specialization-in-sociocultural-anthropology-3dbae8291b/">Anthropology with a Specialization in Sociocultural Anthropology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-archaeological-environmental-sciences-20d69a86c8/">Archaeological &amp; Environmental Sciences</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-archaeological-environmental-sciences-archaeology-9eed9dd084/">Archaeological &amp; Environmental Sciences/Archaeology</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-archaeology-2ecf527c33/">Archaeology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-archaeology-e51be6711b/">Archaeology</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-architectural-studies-a122833651/">Architectural Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-f7ec17b602/">Art</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-architecture-history-of-c7a48cf10a/">Art &amp; Architecture, History of</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-education-6f71fdeaa7/">Art Education</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-education-484b806309/">Art Education</a><small>BFA/MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-art-history-8c0d09d40a/">Art History</a><small>BLS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-asian-studies-93038b2251/">Asian Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-astronomy-59a4d9f3ea/">Astronomy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-astronomy-physics-edc423fd6c/">Astronomy &amp; Physics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-astrophysics-space-physics-dae5a2c951/">Astrophysics &amp; Space Physics</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-behavior-health-bef875631a/">Behavior &amp; Health</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-bilingual-education-teaching-english-to-speakers-of-other-languag-e2b624b120/">Bilingual Education/Teaching English to Speakers of Other Languages</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biochemistry-molecular-biology-5ca85c4413/">Biochemistry &amp; Molecular Biology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biochemistry-molecular-biology-to-molecular-biology-cell-biology-685b7d626c/">Biochemistry &amp; Molecular Biology to Molecular Biology, Cell Biology &amp; Biochemistry</a><small>BA-to-MS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biochemistry-molecular-biology-biotechnology-3eb49e19ae/">Biochemistry &amp; Molecular Biology/Biotechnology</a><small>BA/MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-cas-grs-863034bf3e/">Biology CAS/GRS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-cas-grs-4286d019b9/">Biology CAS/GRS</a><small>BA-to-MS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-met-1a419c11b7/">Biology MET</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-with-a-specialization-in-behavioral-biology-a1118276f4/">Biology with a Specialization in Behavioral Biology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-with-a-specialization-in-biodiversity-conservation-global-3f513d9ec8/">Biology with a Specialization in Biodiversity, Conservation &amp; Global Change Biology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-with-a-specialization-in-cell-biology-molecular-biology-g-95cc32da7e/">Biology with a Specialization in Cell Biology, Molecular Biology &amp; Genetics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biology-with-a-specialization-in-neurobiology-91d935854a/">Biology with a Specialization in Neurobiology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-biomedical-engineering-ee2a33dce3/">Biomedical Engineering</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-business-administration-2a60178ad2/">Business Administration</a><small>BS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-physics-2484781bea/">Chemistry &amp; Physics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-cas-grs-81b0c4af09/">Chemistry CAS/GRS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-cas-grs-eb2f044dd5/">Chemistry CAS/GRS</a><small>BA/MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-chemical-biology-7c6138f347/">Chemistry: Chemical Biology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chemistry-materials-and-nanoscience-61e1bb353a/">Chemistry: Materials and Nanoscience</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chinese-language-literature-06e94fc006/">Chinese Language &amp; Literature</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-chinese-literary-translation-dc0a4e26ab/">Chinese/Literary Translation</a><small>BA-to-MFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-cinema-media-studies-ae8701f9d3/">Cinema &amp; Media Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classical-studies-24580e73a8/">Classical Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classical-studies-b71b8de435/">Classical Studies</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classics-archaeology-f52394fb67/">Classics &amp; Archaeology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classics-archaeology-d6c08e34ff/">Classics &amp; Archaeology</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classics-philosophy-7c3f034203/">Classics &amp; Philosophy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-classics-religion-e97644ad60/">Classics &amp; Religion</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-comparative-literature-0cf8c0883d/">Comparative Literature</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-comparative-literature-literary-translation-f41e925013/">Comparative Literature/Literary Translation</a><small>BA/MFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-composition-music-theory-80a23e9914/">Composition &amp; Music Theory</a><small>BM · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-engineering-ad39826c59/">Computer Engineering</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-science-economics-94bc96c231/">Computer Science &amp; Economics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-science-cas-grs-5f70595a46/">Computer Science CAS/GRS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-science-cas-grs-0fa660de06/">Computer Science CAS/GRS</a><small>BA-to-MS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-computer-science-met-d0c4a8e969/">Computer Science MET</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-costume-design-production-efecfa7f5b/">Costume Design &amp; Production</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-criminal-justice-0e756eec20/">Criminal Justice</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-data-science-2c48eeb36f/">Data Science</a><small>BS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-data-science-b0859ee453/">Data Science</a><small>BS-to-MS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-data-science-7bef077281/">Data Science</a><small>BS-to-MS (Bioinformatics) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-deaf-studies-639a0b116f/">Deaf Studies</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-early-childhood-education-9cbd3492b9/">Early Childhood Education</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-earth-environmental-sciences-91e60907cd/">Earth &amp; Environmental Sciences</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-mathematics-1fdaf89fa3/">Economics &amp; Mathematics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-mathematics-quantitative-economics-fb672f503e/">Economics &amp; Mathematics/Quantitative Economics</a><small>BA-to-MS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-cas-grs-d0125864fe/">Economics CAS/GRS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-met-baabd3cbf6/">Economics MET</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-economics-quantitative-59f7dbb840/">Economics, Quantitative</a><small>BA-to-MS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-cd70d50afe/">Education &amp; Human Development</a><small>BS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-applied-human-development-3446b9dd43/">Education &amp; Human Development/Applied Human Development</a><small>BS-to-EdM · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-educational-policy-studies-980f8c1af2/">Education &amp; Human Development/Educational Policy Studies</a><small>BS-to-MA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-tesol-applied-linguistics-4f7bd5a5a7/">Education &amp; Human Development/TESOL &amp; Applied Linguistics</a><small>BS-to-EdM · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-education-human-development-tesol-multilingual-learner-education-0948d709b2/">Education &amp; Human Development/TESOL Multilingual Learner Education</a><small>BS-to-EdM · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-electrical-engineering-e8e90e7aeb/">Electrical Engineering</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-elementary-education-a5b7e2ce46/">Elementary Education</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-energy-environmental-analysis-a53c608faf/">Energy &amp; Environmental Analysis</a><small>BA-to-MS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-english-4d839cf6ae/">English</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-english-7804e7ca7e/">English</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-english-american-literature-4766458bad/">English &amp; American Literature</a><small>BLS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-english-education-2c2c535a91/">English Education</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-environmental-analysis-policy-7b3af7da3c/">Environmental Analysis &amp; Policy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-european-studies-2171319c2b/">European Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-film-television-b9e4a4a9e6/">Film &amp; Television</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-french-linguistics-f22e8d466a/">French &amp; Linguistics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-french-studies-69c86d1c9c/">French Studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-french-studies-literary-translation-5966e96d1f/">French Studies/Literary Translation</a><small>BA-to-MFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-german-language-literature-7b1ca9a36d/">German Language &amp; Literature</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-german-literary-translation-3c1087d1bc/">German/Literary Translation</a><small>BA-to-MFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-graphic-design-62fff588ab/">Graphic Design</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-greek-ancient-c13e34c208/">Greek—Ancient</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-health-science-96549ab0f2/">Health Science</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-history-cas-grs-de31458365/">History CAS/GRS</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-history-met-06c52b9596/">History MET</a><small>BLS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-history-of-art-architecture-793cb5cc38/">History of Art &amp; Architecture</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-holocaust-genocide-human-rights-studies-8a9f0f8755/">Holocaust, Genocide &amp; Human Rights Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-communication-1c1c092dd7/">Hospitality &amp; Communication</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-hospitality-administration-1bf3320fdd/">Hospitality Administration</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-human-physiology-600fdd8dbf/">Human Physiology</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-human-physiology-661cba9452/">Human Physiology</a><small>BS-to-MS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-independent-major-694ff36848/">Independent Major</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-interdisciplinary-studies-b8688c0819/">Interdisciplinary Studies</a><small>BLS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-interdisciplinary-studies-5887d39e3c/">Interdisciplinary Studies</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-international-relations-e6efc2fcd6/">International Relations</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-international-relations-international-affairs-23bd8f069d/">International Relations/International Affairs</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-italian-linguistics-6817c477e0/">Italian &amp; Linguistics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-italian-studies-cfa182213a/">Italian Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-japanese-linguistics-9fd2f6b38b/">Japanese &amp; Linguistics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-japanese-language-literature-3b49dff4bc/">Japanese Language &amp; Literature</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-japanese-literary-translation-76b77adc8e/">Japanese/Literary Translation</a><small>BA-to-MFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-journalism-994631b5b0/">Journalism</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-korean-language-literature-ec9b7fd935/">Korean Language &amp; Literature</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-latin-american-studies-06f9fd545f/">Latin American Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-latin-literary-translation-9b441c2c15/">Latin/Literary Translation</a><small>BA-to-MFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-lighting-design-b5b9c74f87/">Lighting Design</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-african-languages-0ae2545b34/">Linguistics &amp; African Languages</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-computer-science-c58d1f2a21/">Linguistics &amp; Computer Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-philosophy-9db2085d61/">Linguistics &amp; Philosophy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-cas-grs-589173d129/">Linguistics CAS/GRS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-cas-grs-44daae05c2/">Linguistics CAS/GRS</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-and-speech-language-hearing-sciences-cas-grs-fee45aa087/">Linguistics and Speech, Language &amp; Hearing Sciences CAS/GRS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-linguistics-and-speech-language-hearing-sciences-sar-912e95ba49/">Linguistics and Speech, Language &amp; Hearing Sciences SAR</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-management-studies-3afd917784/">Management Studies</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-marine-science-cabfd9b680/">Marine Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-marine-science-b0277f298f/">Marine Science</a><small>BA-to-MS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-826b7cd797/">Mathematics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-e4f5cedb6e/">Mathematics</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-computer-science-b43a01d523/">Mathematics &amp; Computer Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-computer-science-b2095d7a16/">Mathematics &amp; Computer Science</a><small>BA-to-MS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-mathematics-education-7307b6e3aa/">Mathematics &amp; Mathematics Education</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-philosophy-7a3561629a/">Mathematics &amp; Philosophy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-physics-d72f5331e3/">Mathematics &amp; Physics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-education-bc597cfd24/">Mathematics Education</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-met-92ca809b74/">Mathematics MET</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mathematics-biostatistics-2d226a7707/">Mathematics/Biostatistics</a><small>BA-to-MS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-mechanical-engineering-a26f87fd00/">Mechanical Engineering</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-media-science-794b7d9f59/">Media Science</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-middle-east-north-africa-studies-c0e3f3ba37/">Middle East &amp; North Africa Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-middle-eastern-and-south-asian-languages-literatures-f1744738f0/">Middle Eastern and South Asian Languages &amp; Literatures</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-modern-foreign-language-education-a7f7237e5a/">Modern Foreign Language Education</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-cfb6ad87e7/">Music</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-education-f41dd4029c/">Music Education</a><small>BM · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-education-584e4eaaa8/">Music Education</a><small>BM-to-MM · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-performance-614c39a926/">Music Performance</a><small>BM · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-music-performance-2999a68e06/">Music Performance</a><small>BM-to-MM · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-neuroscience-df0667162c/">Neuroscience</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-nutrition-adc6e532d5/">Nutrition</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-painting-f6842fe46e/">Painting</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-music-689d10f11c/">Performance, Music</a><small>BM · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-performance-music-113b5f2d7f/">Performance, Music</a><small>BM-to-MM · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-neuroscience-97ad2a1412/">Philosophy &amp; Neuroscience</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-physics-c169e96160/">Philosophy &amp; Physics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-political-science-34156aa261/">Philosophy &amp; Political Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-psychology-f44ff1077e/">Philosophy &amp; Psychology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-religion-ed0e054b9f/">Philosophy &amp; Religion</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-cas-grs-bcb067cf6f/">Philosophy CAS/GRS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-philosophy-met-6bde05d9ce/">Philosophy MET</a><small>BLS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-physical-therapy-0499bb8fae/">Physical Therapy</a><small>BS/DPT · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-physics-8167588a70/">Physics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-physics-9f78fdf2df/">Physics</a><small>BA-to-MA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-physics-computer-science-f4b409d252/">Physics &amp; Computer Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-political-science-4954a15fff/">Political Science</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-printmaking-68b667f5cc/">Printmaking</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-psychology-cas-grs-4825de7c92/">Psychology CAS/GRS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-psychology-met-56cb1b9c52/">Psychology MET</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-public-health-cas-sph-d7906d4121/">Public Health CAS/SPH</a><small>BA-to-MPH · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-public-health-sar-sph-1f6d9e892d/">Public Health SAR/SPH</a><small>BS-to-MPH · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-public-relations-302a3a2370/">Public Relations</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-religion-cas-grs-53e8060290/">Religion CAS/GRS</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-remote-sensing-geospatial-sciences-20834d6d93/">Remote Sensing &amp; Geospatial Sciences</a><small>BA-to-MS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-russian-language-literature-02e90b7d69/">Russian Language &amp; Literature</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-scene-design-05550b3d8a/">Scene Design</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-science-education-3e93647485/">Science Education</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-science-education-00713f1047/">Science Education</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-sculpture-3b3f93f9f3/">Sculpture</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-social-studies-education-aeab19b825/">Social Studies Education</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-sociology-cas-grs-d8a6f0e18e/">Sociology CAS/GRS</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-sound-design-e8333b36f9/">Sound Design</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-spanish-96868b13e7/">Spanish</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-spanish-linguistics-c8f0c07475/">Spanish &amp; Linguistics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-spanish-literary-translation-8d6192b3bc/">Spanish/Literary Translation</a><small>BA-to-MFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-special-education-5cc0bf0d54/">Special Education</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-speech-language-hearing-sciences-b64a6d8abb/">Speech, Language &amp; Hearing Sciences</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-stage-management-f834392d65/">Stage Management</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-statistics-computer-science-37463ffa10/">Statistics &amp; Computer Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-teaching-of-chemistry-57b4916645/">Teaching of Chemistry</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-technical-production-f8bbc279e5/">Technical Production</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-theatre-stage-management-d48c4d5036/">Theatre–Stage Management</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-theatre-technical-production-33f835b43c/">Theatre–Technical Production</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/boston/boston-urban-affairs-0e1fe23836/">Urban Affairs</a><small>BS · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>国际本科新生材料：</strong>通过 Common Application，提交中学及高三成绩、学校与教师推荐、英语测试、财力证明和护照信息。A-level／IB等国际课程需学校提交预估考试结果；本轮未取得高考固定最低分。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-aa9a1743b3eeb9">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国普高资格：</strong>国家学历表将中国的 Senior High School Graduation Certificate（高中毕业证书）列为所需中学完成资格。该表不是高考分数线，也不能单独证明满足每个专业选拔要求。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c05f2b2e263df3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语与 SAT/ACT：</strong>SAT/ACT可选政策覆盖到2028秋／2029春入学。IELTS总分7即可满足其英语要求；TOEFL旧制90–100且单项20、新制5.0以上、DET125–135为官网竞争力描述，须与 IELTS 的要求措辞区分。仍会审小分一致性；不接受 IELTS One Skill Retake。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-aa9a1743b3eeb9">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>现行申请日程：</strong>页面现列 ED 11月2日、ED2与普通 RD 1月5日；ED有约束性。音乐／戏剧预筛和 merit scholarship 为12月1日。所读日期表未逐项标入学年，本轮保留为现行日程，未单独确认为2027专项公告。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-dc245c713336ae">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026/27 普通全日制本科预算：</strong>年学费 USD73,024，住房13,170、餐食7,570、费用1,570，账单估计95,334；加书本、个人及本地交通后98,419。保险可能另收。该表不应套用于 MET 继续教育、按学分付费或硕士衔接阶段，2027价格本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-86b24e10743abf">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生 merit 奖学金：</strong>国际新生可申请 Presidential Scholarship；自2026秋入学者起为每年半额学费，须12月1日前完成录取申请。属于竞争性奖项，不自动从预算扣除；普通 need-based助学覆盖承诺在学费页限定美国公民及永久居民。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-446495b1d41c1d">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-USBENR-aa9a1743b3eeb9"><div><a href="https://www.bu.edu/admissions/apply/international/">boston 官方 international ↗</a><p>本条国际本科新生材料及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-c05f2b2e263df3"><div><a href="https://www.bu.edu/admissions/apply/international/school-credentials/">boston 官方 china ↗</a><p>本条中国普高资格及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-dc245c713336ae"><div><a href="https://www.bu.edu/admissions/apply/deadlines/">boston 官方 deadlines ↗</a><p>本条现行申请日程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-86b24e10743abf"><div><a href="https://www.bu.edu/admissions/tuition-aid/tuition/">boston 官方 tuition ↗</a><p>本条2026/27 普通全日制本科预算及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-446495b1d41c1d"><div><a href="https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/first-year-merit/">boston 官方 merit ↗</a><p>本条国际生 merit 奖学金及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

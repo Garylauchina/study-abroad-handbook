@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Sociologi, Antagning till senare del, termin 5 - Kandidatprogram</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>Höst 2026</strong></div><div><span>学制</span><strong>3 år</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>秋季 2026</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>所列批次项目总费 SEK 375,000</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Lund · <strong>授课语言：</strong>Svenska</p>
+<p class="program-location"><strong>校区：</strong>Lund · <strong>授课语言：</strong>瑞典语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,21 +40,63 @@ hide:
 
 <p><strong>申请路径：</strong>Advanced-entry or complementary qualification route; prior relevant university study/qualification required as specified on programme page.</p>
 
+<p class="catalog-fact"><strong>学习内容与路径：</strong>社会学本科第五学期入口，深化理论、数据收集与分析方法，并将知识应用于当代社会问题。</p>
+<p class="fact-sources"><a href="#source-p-lund-detail-2d1438ab2d93">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学位和学习安排：</strong>目录学位/路径：Kandidatprogram；180 högskolepoäng；学制3 年；地点Lund，授课瑞典语。高年级入口所列学制为完整课程标示，不能当作个人剩余修读时间。</p>
+<p class="fact-sources"><a href="#source-p-lund-detail-2d1438ab2d93">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本专业资格：</strong>须有社会学基础与进阶60学分（含17.5学分方法），另有已完成其他科目60学分，并满足一般资格和社会研究条件。</p>
+<p class="fact-sources"><a href="#source-p-lund-detail-2d1438ab2d93">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>下一次开课缺口：</strong>当前课程页明确没有可申请的开课批次；顶部所列秋季 2026不能视为正在招生。下一轮开放和截止日期本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-lund-detail-2d1438ab2d93">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027秋国际首轮：</strong>在UniversityAdmissions.se申请并排序；2026年10月16日开放，2027年1月15日申请截止，2月1日材料和费用截止，本科4月8日结果。仅适用于该轮实际开放的课程，音乐与艺术日期不同。</p>
+<p class="fact-sources"><a href="#source-u-lund-kth-sweden-dates2027">官方依据</a> · <a href="#source-u-lund-lund-bachelors">官方依据</a></p>
+
+<p class="catalog-fact"><strong>大陆高三时间问题：</strong>国际首轮需在2月交最终高中材料，因此通常不能在高中毕业当年使用该轮入学。2027秋次轮3月15日至4月15日申请、6月21日通常材料截止；学校提醒需新办居留的非EU学生通常来不及完成付款、住房和居留准备。</p>
+<p class="fact-sources"><a href="#source-u-lund-kth-sweden-dates2027">官方依据</a> · <a href="#source-u-lund-lund-bachelors">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027春季瑞语批次：</strong>春季国际首轮已于2026年8月17日截止；瑞语次轮2026年9月15日开放、10月15日申请截止，12月1日通常材料截止、12月9日结果。官方提醒需要新办居留者次轮通常时间不足；并非所有课程都开春季。</p>
+<p class="fact-sources"><a href="#source-u-lund-lund-spring-dates">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>非EU项目收费：</strong>课程页标示秋季 2026：非EU/EEA/瑞士完整项目总学费SEK 375,000，首期付款SEK 62,500。这是页面项目范围，非年费；高年级转入实际剩余费用及2027秋新费另核。</p>
+<p class="fact-sources"><a href="#source-p-lund-detail-2d1438ab2d93">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>非EU收费及付款：</strong>大陆新生通常须缴学费和每申请轮一次的SEK900申请费，符合居留等法定例外者可申请豁免。项目页列完整项目费与首期付款，不能除以学制后当作已核实年费；第一学期学费到账后学校通知移民机关。</p>
+<p class="fact-sources"><a href="#source-u-lund-lund-fees">官方依据</a> · <a href="#source-u-lund-fee-example">官方依据</a></p>
+
+<p class="catalog-fact"><strong>校级奖学金的本科范围：</strong>Global Scholarship主要面向硕士，本科例外为Development Studies、Mathematics、Physics、Physical Geography四类课程。须为非EU/EEA/瑞士付费生、将隆德列首志愿并有优秀成绩；部分或全部学费资助不含生活费，音乐与艺术适用特殊安排，需另核当轮是否有名额。</p>
+<p class="fact-sources"><a href="#source-u-lund-lund-global-scholarship">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金申请步骤：</strong>先完整提交课程申请并支付申请费，再进入独立奖学金申请，提交最多600词动机说明。2026年2月16日期限已结束；2027准确奖学金日期本轮未取得，不将旧期限当作下一轮。</p>
+<p class="fact-sources"><a href="#source-u-lund-lund-global-scholarship">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>去向资料口径：</strong>专业页面介绍职业培养、执业和继续学习方向；本轮未核实各专业具体毕业届次和样本口径的就业率或薪资，不将前景介绍改写为就业保证。</p>
+<p class="fact-sources"><a href="#source-u-lund-lund-bachelors">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -63,5 +105,12 @@ hide:
 - [官方项目页面或项目所在目录](https://www.lu.se/studera/sociologi-antagning-till-senare-del-termin-5-kandidatprogram-SGSCO-SEDE)
 - [官方目录](https://www.lu.se/studera/kurser-program/%2A/educations/6/EducationsFilterByType-programme_EducationsFilterByLevel-basic/)
 
+<div class="catalog-source" id="source-p-lund-detail-2d1438ab2d93"><div><a href="https://www.lu.se/studera/sociologi-antagning-till-senare-del-termin-5-kandidatprogram-SGSCO-SEDE">Sociologi, Antagning till senare del, termin 5 - Kandidatprogram ↗</a><p>课程内容、安排、先修、招生状态及非EU学费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-lund-kth-sweden-dates2027"><div><a href="https://www.universityadmissions.se/en/key-dates-and-deadlines/autumn-semester-dates/">University Admissions Autumn2027 ↗</a><p>2027秋国际首轮及次轮</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-lund-lund-spring-dates"><div><a href="https://www.universityadmissions.se/en/key-dates-and-deadlines/spring-semester-dates/">University Admissions Spring2027 ↗</a><p>2027春季轮次</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-lund-lund-bachelors"><div><a href="https://www.lunduniversity.lu.se/node/5486">Lund Bachelor studies ↗</a><p>已毕业要求、国际筛选及音乐艺术例外</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-lund-lund-fees"><div><a href="https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/tuition-fees">Lund tuition fees ↗</a><p>收费身份及付款</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-lund-lund-global-scholarship"><div><a href="https://www.lunduniversity.lu.se/node/83">Lund Global Scholarship ↗</a><p>本科限定课程及申请条件</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-lund-fee-example"><div><a href="https://www.lu.se/studera/arbetsterapeutprogrammet-VGATP">Lund course fee and application fee rules ↗</a><p>SEK900每轮申请费</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/sweden/lund/">← 返回隆德大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

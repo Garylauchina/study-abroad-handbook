@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,9 +38,16 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-71fbc63d657f07">官方依据</a></p>
+
+<p class="catalog-fact"><strong>毕业要求：</strong>General Studies共同毕业要求至少360个units，另有高年级、辅修、Capstone及成绩条件；B.A./B.S.方案由委员会按课程计划批准。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-71fbc63d657f07">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>仅限在校生经批准转入：</strong>不能独立直接申请此学位。须先修完至少180个CMU units，其中75%在CMU取得，并满足大一写作/Core、拟修辅修进度等要求，由学院及General Studies委员会批准；普通高中生不能以此作为直入入口。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-71fbc63d657f07">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -61,5 +68,6 @@ hide:
 - [官方项目页面或项目所在目录](https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/general-studies-major/)
 - [官方目录](https://coursecatalog.web.cmu.edu/programs/)
 
+<div class="catalog-source" id="source-p-USBENR-71fbc63d657f07"><div><a href="https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/general-studies-major/">General Studies — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/cmu/">← 返回卡内基梅隆大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

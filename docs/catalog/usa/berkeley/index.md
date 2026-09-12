@@ -23,125 +23,170 @@ hide:
 
 ## 专业与申请资料
 
-114 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+114 个专业条目 · 0 个含详细资料 · 114 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=berkeley#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-aerospace-engineering-c9532e4d71/">Aerospace Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-aerospace-engineering-and-business-administration-8169c8f994/">Aerospace Engineering and Business Administration</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-african-american-studies-8cb0444401/">African American Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-american-studies-57527f6b72/">American Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-analytics-2e8f1cc6c3/">Analytics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-ancient-greek-and-roman-studies-ab4d5756b6/">Ancient Greek and Roman Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-anthropology-d7e99341e4/">Anthropology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-applied-mathematics-f9f998c4f9/">Applied Mathematics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-architecture-0270046310/">Architecture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-art-af3def8684/">Art</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-asian-american-and-asian-diaspora-studies-e63b06514e/">Asian American and Asian Diaspora Studies </a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-astrophysics-7ec4297cab/">Astrophysics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-bioengineering-7ba46970b7/">Bioengineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-bioengineering-and-business-administration-b50d2b29e5/">Bioengineering and Business Administration</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-bioengineering-materials-science-and-engineering-joint-major-fdff4e6540/">Bioengineering/Materials Science and Engineering Joint Major</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-business-administration-90c0d071c3/">Business Administration</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-celtic-studies-dab9d4d493/">Celtic Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemical-biology-3e64457c0b/">Chemical Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemical-engineering-ebb08df224/">Chemical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemical-engineering-materials-science-and-engineering-joint-majo-2be686de2b/">Chemical Engineering/ Materials Science and Engineering Joint Major</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemical-engineering-nuclear-engineering-joint-major-860424abe3/">Chemical Engineering/ Nuclear Engineering Joint Major</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemistry-d0307eed56/">Chemistry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemistry-18358a162e/">Chemistry</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chicanx-latinx-studies-ff5a597be2/">Chicanx Latinx Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chinese-language-and-culture-433de852ed/">Chinese Language and Culture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-civil-engineering-199b277a2e/">Civil Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-civil-engineering-and-business-administration-a7abd0eb95/">Civil Engineering and Business Administration</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-cognitive-science-2a24600942/">Cognitive Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-comparative-literature-8ceb3eaa9e/">Comparative Literature</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-computer-science-7612ef787c/">Computer Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-conservation-and-resource-studies-a91851e1a6/">Conservation and Resource Studies</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-dance-and-performance-studies-5e2c3ba400/">Dance and Performance Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-data-science-6a913f2e4e/">Data Science </a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-dutch-studies-9573cccf0d/">Dutch Studies </a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-earth-planetary-science-171661f3b7/">Earth &amp; Planetary Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-east-asian-humanities-704494f4f5/">East Asian Humanities</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-east-asian-religion-thought-and-culture-7e6fb271ca/">East Asian Religion, Thought, and Culture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-economics-ee8ac1537a/">Economics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-ecosystem-management-and-forestry-85f9ab8ee5/">Ecosystem Management and Forestry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-educational-sciences-ae44fda740/">Educational Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-engineering-and-computer-science-materials-science-and-c9e257f51d/">Electrical Engineering and Computer Science/Materials Science and Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-engineering-and-computer-science-nuclear-engineering-7a443dc719/">Electrical Engineering and Computer Science/Nuclear Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-engineering-and-computer-sciences-8181495570/">Electrical Engineering and Computer Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-engineering-and-computer-sciences-and-business-adminis-a3093c7cb0/">Electrical Engineering and Computer Sciences and Business Administration</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-and-computer-engineering-3804ca7ad2/">Electrical and Computer Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-energy-engineering-c4ca714b14/">Energy Engineering </a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-engineering-math-and-statistics-ecd025b7b4/">Engineering Math and Statistics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-engineering-physics-e42957dad1/">Engineering Physics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-english-40b1a7aeab/">English </a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-environmental-economics-and-policy-a068dc0238/">Environmental Economics and Policy </a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-environmental-engineering-7301becbc1/">Environmental Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-environmental-engineering-science-cfef350cb2/">Environmental Engineering Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-environmental-sciences-a6a9bc388e/">Environmental Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-ethnic-studies-e3eb733c2f/">Ethnic Studies </a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-film-and-media-51739088c8/">Film and Media</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-french-7209b05923/">French </a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-gender-and-women-s-studies-0bf55cba51/">Gender and Women&#x27;s Studies </a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-genetics-and-plant-biology-3785b0cbc3/">Genetics and Plant Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-geography-b04686b2f3/">Geography</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-german-4b43c07284/">German</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-global-studies-5e819d9be8/">Global Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-greek-0a800a6e01/">Greek</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-greek-and-latin-0ceb878a74/">Greek and Latin</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-history-6e83d9c918/">History</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-history-of-art-ae5ed6239c/">History of Art</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-industrial-engineering-and-operations-research-b1f14ef392/">Industrial Engineering and Operations Research</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-industrial-engineering-and-operations-research-and-business-78ac83bc4d/">Industrial Engineering and Operations Research and Business</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-integrative-biology-44f2d910d4/">Integrative Biology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-interdisciplinary-studies-f25a144aaa/">Interdisciplinary Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-italian-studies-6d85abe28f/">Italian Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-japanese-language-and-culture-cc923650e2/">Japanese Language and Culture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-korean-language-and-culture-809309adc0/">Korean Language and Culture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-landscape-architecture-d3e54b93ce/">Landscape Architecture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-latin-bf65078c97/">Latin</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-legal-studies-6474a6e102/">Legal Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-linguistics-8e6b578cc6/">Linguistics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-materials-science-and-engineering-f1f5f1f169/">Materials Science and Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-materials-science-and-engineering-and-business-administration-f3805bbd3d/">Materials Science and Engineering and Business Administration</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-materials-science-and-engineering-mechanical-engineering-c7d449b7a1/">Materials Science and Engineering/Mechanical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-materials-science-and-engineering-nuclear-engineering-dfbdebae06/">Materials Science and Engineering/Nuclear Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-mathematics-1cd2b80cf4/">Mathematics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-mechanical-engineering-83dbf59c69/">Mechanical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-mechanical-engineering-and-business-administration-9f3375b2d4/">Mechanical Engineering and Business Administration</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-mechanical-engineering-nuclear-engineering-2e7569cc36/">Mechanical Engineering/Nuclear Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-media-studies-85f14a1638/">Media Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-microbial-biology-805c10389f/">Microbial Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-middle-eastern-languages-and-cultures-677a71d1e7/">Middle Eastern Languages and Cultures</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-molecular-environmental-biology-574a7f273f/">Molecular Environmental Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-molecular-and-cell-biology-e08b556f43/">Molecular and Cell Biology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-music-7a95b3c139/">Music</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-native-american-studies-48f52b233c/">Native American Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-neuroscience-7ec48fd3e4/">Neuroscience</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-nuclear-engineering-fa645da4f5/">Nuclear Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-nutrition-and-metabolic-biology-4bcd9d631a/">Nutrition and Metabolic Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-philosophy-763a7197d4/">Philosophy</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-physics-1932efc541/">Physics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-political-economy-6bd9d98bd4/">Political Economy</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-political-science-d922675381/">Political Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-psychology-90c5b73b92/">Psychology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-public-health-9a3b470d5e/">Public Health</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-rhetoric-47bbae9254/">Rhetoric</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-scandinavian-207890cede/">Scandinavian</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-sciences-po-uc-berkeley-dual-degree-program-08e381192a/">Sciences Po/UC Berkeley (Dual Degree Program)</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-slavic-languages-and-literatures-d493c787e6/">Slavic Languages and Literatures</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-social-welfare-9ea771b397/">Social Welfare</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-society-and-environment-273eece98e/">Society and Environment</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-sociology-c85f74d423/">Sociology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-south-and-southeast-asian-studies-a66d7561e2/">South and Southeast Asian Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-spanish-and-portuguese-b8ff585965/">Spanish and Portuguese</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-statistics-26a15064cd/">Statistics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-sustainable-environmental-design-03a9bc8c71/">Sustainable Environmental Design</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-theater-performance-studies-adef9e5bf8/">Theater &amp; Performance Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-university-of-hong-kong-uc-berkeley-dual-degree-program-b2741788b6/">University of Hong Kong/UC Berkeley (Dual Degree Program)</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-urban-studies-bda70a0f25/">Urban Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-aerospace-engineering-c9532e4d71/">Aerospace Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-aerospace-engineering-and-business-administration-8169c8f994/">Aerospace Engineering and Business Administration</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-african-american-studies-8cb0444401/">African American Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-american-studies-57527f6b72/">American Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-analytics-2e8f1cc6c3/">Analytics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-ancient-greek-and-roman-studies-ab4d5756b6/">Ancient Greek and Roman Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-anthropology-d7e99341e4/">Anthropology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-applied-mathematics-f9f998c4f9/">Applied Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-architecture-0270046310/">Architecture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-art-af3def8684/">Art</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-asian-american-and-asian-diaspora-studies-e63b06514e/">Asian American and Asian Diaspora Studies </a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-astrophysics-7ec4297cab/">Astrophysics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-bioengineering-7ba46970b7/">Bioengineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-bioengineering-and-business-administration-b50d2b29e5/">Bioengineering and Business Administration</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-bioengineering-materials-science-and-engineering-joint-major-fdff4e6540/">Bioengineering/Materials Science and Engineering Joint Major</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-business-administration-90c0d071c3/">Business Administration</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-celtic-studies-dab9d4d493/">Celtic Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemical-biology-3e64457c0b/">Chemical Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemical-engineering-ebb08df224/">Chemical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemical-engineering-materials-science-and-engineering-joint-majo-2be686de2b/">Chemical Engineering/ Materials Science and Engineering Joint Major</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemical-engineering-nuclear-engineering-joint-major-860424abe3/">Chemical Engineering/ Nuclear Engineering Joint Major</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemistry-d0307eed56/">Chemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chemistry-18358a162e/">Chemistry</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chicanx-latinx-studies-ff5a597be2/">Chicanx Latinx Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-chinese-language-and-culture-433de852ed/">Chinese Language and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-civil-engineering-199b277a2e/">Civil Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-civil-engineering-and-business-administration-a7abd0eb95/">Civil Engineering and Business Administration</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-cognitive-science-2a24600942/">Cognitive Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-comparative-literature-8ceb3eaa9e/">Comparative Literature</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-computer-science-7612ef787c/">Computer Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-conservation-and-resource-studies-a91851e1a6/">Conservation and Resource Studies</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-dance-and-performance-studies-5e2c3ba400/">Dance and Performance Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-data-science-6a913f2e4e/">Data Science </a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-dutch-studies-9573cccf0d/">Dutch Studies </a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-earth-planetary-science-171661f3b7/">Earth &amp; Planetary Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-east-asian-humanities-704494f4f5/">East Asian Humanities</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-east-asian-religion-thought-and-culture-7e6fb271ca/">East Asian Religion, Thought, and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-economics-ee8ac1537a/">Economics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-ecosystem-management-and-forestry-85f9ab8ee5/">Ecosystem Management and Forestry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-educational-sciences-ae44fda740/">Educational Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-engineering-and-computer-science-materials-science-and-c9e257f51d/">Electrical Engineering and Computer Science/Materials Science and Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-engineering-and-computer-science-nuclear-engineering-7a443dc719/">Electrical Engineering and Computer Science/Nuclear Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-engineering-and-computer-sciences-8181495570/">Electrical Engineering and Computer Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-engineering-and-computer-sciences-and-business-adminis-a3093c7cb0/">Electrical Engineering and Computer Sciences and Business Administration</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-electrical-and-computer-engineering-3804ca7ad2/">Electrical and Computer Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-energy-engineering-c4ca714b14/">Energy Engineering </a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-engineering-math-and-statistics-ecd025b7b4/">Engineering Math and Statistics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-engineering-physics-e42957dad1/">Engineering Physics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-english-40b1a7aeab/">English </a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-environmental-economics-and-policy-a068dc0238/">Environmental Economics and Policy </a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-environmental-engineering-7301becbc1/">Environmental Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-environmental-engineering-science-cfef350cb2/">Environmental Engineering Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-environmental-sciences-a6a9bc388e/">Environmental Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-ethnic-studies-e3eb733c2f/">Ethnic Studies </a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-film-and-media-51739088c8/">Film and Media</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-french-7209b05923/">French </a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-gender-and-women-s-studies-0bf55cba51/">Gender and Women&#x27;s Studies </a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-genetics-and-plant-biology-3785b0cbc3/">Genetics and Plant Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-geography-b04686b2f3/">Geography</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-german-4b43c07284/">German</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-global-studies-5e819d9be8/">Global Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-greek-0a800a6e01/">Greek</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-greek-and-latin-0ceb878a74/">Greek and Latin</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-history-6e83d9c918/">History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-history-of-art-ae5ed6239c/">History of Art</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-industrial-engineering-and-operations-research-b1f14ef392/">Industrial Engineering and Operations Research</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-industrial-engineering-and-operations-research-and-business-78ac83bc4d/">Industrial Engineering and Operations Research and Business</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-integrative-biology-44f2d910d4/">Integrative Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-interdisciplinary-studies-f25a144aaa/">Interdisciplinary Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-italian-studies-6d85abe28f/">Italian Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-japanese-language-and-culture-cc923650e2/">Japanese Language and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-korean-language-and-culture-809309adc0/">Korean Language and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-landscape-architecture-d3e54b93ce/">Landscape Architecture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-latin-bf65078c97/">Latin</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-legal-studies-6474a6e102/">Legal Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-linguistics-8e6b578cc6/">Linguistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-materials-science-and-engineering-f1f5f1f169/">Materials Science and Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-materials-science-and-engineering-and-business-administration-f3805bbd3d/">Materials Science and Engineering and Business Administration</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-materials-science-and-engineering-mechanical-engineering-c7d449b7a1/">Materials Science and Engineering/Mechanical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-materials-science-and-engineering-nuclear-engineering-dfbdebae06/">Materials Science and Engineering/Nuclear Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-mathematics-1cd2b80cf4/">Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-mechanical-engineering-83dbf59c69/">Mechanical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-mechanical-engineering-and-business-administration-9f3375b2d4/">Mechanical Engineering and Business Administration</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-mechanical-engineering-nuclear-engineering-2e7569cc36/">Mechanical Engineering/Nuclear Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-media-studies-85f14a1638/">Media Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-microbial-biology-805c10389f/">Microbial Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-middle-eastern-languages-and-cultures-677a71d1e7/">Middle Eastern Languages and Cultures</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-molecular-environmental-biology-574a7f273f/">Molecular Environmental Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-molecular-and-cell-biology-e08b556f43/">Molecular and Cell Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-music-7a95b3c139/">Music</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-native-american-studies-48f52b233c/">Native American Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-neuroscience-7ec48fd3e4/">Neuroscience</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-nuclear-engineering-fa645da4f5/">Nuclear Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-nutrition-and-metabolic-biology-4bcd9d631a/">Nutrition and Metabolic Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-philosophy-763a7197d4/">Philosophy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-physics-1932efc541/">Physics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-political-economy-6bd9d98bd4/">Political Economy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-political-science-d922675381/">Political Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-psychology-90c5b73b92/">Psychology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-public-health-9a3b470d5e/">Public Health</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-rhetoric-47bbae9254/">Rhetoric</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-scandinavian-207890cede/">Scandinavian</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-sciences-po-uc-berkeley-dual-degree-program-08e381192a/">Sciences Po/UC Berkeley (Dual Degree Program)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-slavic-languages-and-literatures-d493c787e6/">Slavic Languages and Literatures</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-social-welfare-9ea771b397/">Social Welfare</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-society-and-environment-273eece98e/">Society and Environment</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-sociology-c85f74d423/">Sociology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-south-and-southeast-asian-studies-a66d7561e2/">South and Southeast Asian Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-spanish-and-portuguese-b8ff585965/">Spanish and Portuguese</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-statistics-26a15064cd/">Statistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-sustainable-environmental-design-03a9bc8c71/">Sustainable Environmental Design</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-theater-performance-studies-adef9e5bf8/">Theater &amp; Performance Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-university-of-hong-kong-uc-berkeley-dual-degree-program-b2741788b6/">University of Hong Kong/UC Berkeley (Dual Degree Program)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/berkeley-urban-studies-bda70a0f25/">Urban Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>中国高中资格与A–G基础：</strong>国际新生须中学毕业并具在所在国进入大学所需毕业/考试资格。按学校原成绩制填写，无需自行换算；中国高考单一录取分数线本轮未取得。UC最低要求15门A–G学年课程，11门在最后学年前完成，非居民GPA最低3.4且科目不低于C；满足基础资格不等于获Berkeley录取。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-requirements">官方依据</a> · <a href="#source-u-berkeley-uc-firstyear">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT用途：</strong>UC不在录取或奖学金评选中使用SAT/ACT；成绩仅可能用于满足某些最低资格或入学后分班，不应将其当作Berkeley申请竞争加分。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-uc-test-policy">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语门槛和豁免：</strong>英语考试页列TOEFL90/新量表4.5、IELTS6.5、DET115；也认可列明AP/IB英语成绩等途径。连续3年以上以英语为教学语言可满足要求，混合教学语言不满足该途径。须不迟于1月31日满足英语，考试有效期按入学时间两年要求核对。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-requirements">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>UC渠道及新周期：</strong>通过UC统一申请，每所校国际/非移民申请费US$95。Berkeley当前递交期10月1日至11月30日，无EA/ED；初申按成绩单准确自报、通常不先寄正式成绩。UC2026年政策说明明确2027秋季申请11月30日2026截止且不要求SAT/ACT。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-basic">官方依据</a> · <a href="#source-u-berkeley-dates">官方依据</a> · <a href="#source-u-berkeley-uc-review-2026">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026–2027新生非居民费用：</strong>新入学本科表中基础学费及费用US$18,214，非加州居民另收US$39,270附加学费；两项合计US$57,484（算术合计，未含住食、保险和个人费用）。国际签证学生不能按加州居民费率分类。学费按入学届次表区分，不能误用在读旧届次。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-fees">官方依据</a> · <a href="#source-u-berkeley-requirements">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助限制：</strong>一般国际生不符合联邦、州或校方need-based资助；美国公民、合资格非公民及AB540例外不能普遍套中国学生。可寻找外部或院系奖项，但须另核具体国际资格，不预先从预算扣除奖学金。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-aid">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>逐专业结果待核：</strong>本轮未取得114个目录项目按届次及国际/中国生样本分组的就业率或薪酬调查。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-international">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-berkeley-requirements"><div><a href="https://admissions.berkeley.edu/apply-to-berkeley/international-students/requirements-for-international-students/">berkeley 官方本科资料：requirements ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-uc-firstyear"><div><a href="https://admission.universityofcalifornia.edu/admission-requirements/freshman-requirements/">berkeley 官方本科资料：uc-firstyear ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-uc-test-policy"><div><a href="https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html">berkeley 官方本科资料：uc-test-policy ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-basic"><div><a href="https://admissions.berkeley.edu/basic-admission-requirements/">berkeley 官方本科资料：basic ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-dates"><div><a href="https://admissions.berkeley.edu/apply-to-berkeley/dates-deadlines/">berkeley 官方本科资料：dates ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-uc-review-2026"><div><a href="https://www.universityofcalifornia.edu/news/press-releases-and-statements/academic-senate-review-admissions">berkeley 官方本科资料：uc-review-2026 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-fees"><div><a href="https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/">berkeley 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-aid"><div><a href="https://financialaid.berkeley.edu/apply-now/international-students/">berkeley 官方本科资料：aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-international"><div><a href="https://admissions.berkeley.edu/apply-to-berkeley/international-students/">berkeley 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

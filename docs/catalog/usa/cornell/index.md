@@ -23,101 +23,139 @@ hide:
 
 ## 专业与申请资料
 
-90 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+90 个专业条目 · 0 个含详细资料 · 90 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=cornell#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-africana-studies-ba-6cb691eb31/">Africana Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-agricultural-sciences-bs-88edd32564/">Agricultural Sciences (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-american-studies-ba-f8b3bd340a/">American Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-animal-science-bs-d459af1b99/">Animal Science (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-anthropology-ba-f1162678d1/">Anthropology (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-applied-economics-and-management-bs-1e7ae3cbfe/">Applied Economics and Management (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-archaeology-ba-a22f6b113e/">Archaeology (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-architecture-bar-a1dea2503a/">Architecture (BAR)</a><small>BAR · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-asian-studies-ba-3177aad275/">Asian Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-astronomy-ba-ef118c9185/">Astronomy (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-atmospheric-sciences-bs-bd82d5ce11/">Atmospheric Sciences (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biological-engineering-bs-42b32263fd/">Biological Engineering (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biological-sciences-ba-755f2b35f7/">Biological Sciences (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biological-sciences-bs-02d0fe2f6e/">Biological Sciences (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biology-society-ba-bs-934dc0003f/">Biology &amp; Society (BA, BS)</a><small>BA, BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biomedical-engineering-bs-e696d04c84/">Biomedical Engineering (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-chemical-engineering-bs-2b50d4b099/">Chemical Engineering (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-chemistry-ba-173071a984/">Chemistry (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-china-and-asia-pacific-studies-ba-e9bdcd684b/">China and Asia-Pacific Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-civil-engineering-bs-ed791093df/">Civil Engineering (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-classics-ba-947214a9af/">Classics (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-cognitive-science-ba-931efc6d7f/">Cognitive Science (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-college-scholar-ba-db1da21e19/">College Scholar (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-communication-bs-672168f966/">Communication (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-comparative-literature-ba-fa4d6dd4fd/">Comparative Literature (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-computer-science-ba-75bcd4c09b/">Computer Science (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-computer-science-bs-75f8a3768b/">Computer Science (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-design-and-environmental-analysis-bs-a0a5c962d3/">Design and Environmental Analysis (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-earth-and-climate-sciences-ba-751d9d5c22/">Earth and Climate Sciences (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-earth-and-climate-sciences-ecsag-bs-71a0785266/">Earth and Climate Sciences (ECSAG-BS)</a><small>ECSAG-BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-earth-and-climate-sciences-ecsen-bs-b6cb7518ab/">Earth and Climate Sciences (ECSEN-BS)</a><small>ECSEN-BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-economics-ba-696e3b8660/">Economics (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-electrical-and-computer-engineering-bs-786541f909/">Electrical and Computer Engineering (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-engineering-physics-bs-f38101bdc0/">Engineering Physics (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-english-ba-2a9446505a/">English (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-entomology-bs-ef7983cacd/">Entomology (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-environment-sustainability-ba-57d1193c3a/">Environment &amp; Sustainability (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-environment-sustainability-bs-253f2d781f/">Environment &amp; Sustainability (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-environmental-engineering-bs-142974c8fc/">Environmental Engineering (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-fashion-design-and-management-bs-36c906d0fc/">Fashion Design and Management (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-feminist-gender-sexuality-studies-ba-f7efa8d827/">Feminist, Gender, &amp; Sexuality Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-fiber-science-bs-f1e96949f3/">Fiber Science (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-fine-arts-bfa-8951d47124/">Fine Arts (BFA)</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-food-science-bs-f96cd6e372/">Food Science (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-french-ba-a88532c1e4/">French (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-german-studies-ba-f4f4437dd0/">German Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-global-public-health-sciences-gphsag-bs-8287419a95/">Global &amp; Public Health Sciences (GPHSAG-BS)</a><small>GPHSAG-BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-global-public-health-sciences-gphshe-bs-9b8f621a5e/">Global &amp; Public Health Sciences (GPHSHE-BS)</a><small>GPHSHE-BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-global-development-bs-6f54c141ea/">Global Development (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-government-ba-9cf2d00c87/">Government (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-health-care-policy-bs-d80f45c9fe/">Health Care Policy (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-history-ba-54f159879b/">History (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-history-of-architecture-and-urban-development-bs-d119727671/">History of Architecture and Urban Development (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-history-of-art-ba-cc14174886/">History of Art (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-hotel-administration-bs-9bf7c379cf/">Hotel Administration (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-human-biology-health-and-society-bs-f906151aa5/">Human Biology, Health, and Society (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-human-development-bs-8820e821dd/">Human Development (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-independent-major-bs-88be130f60/">Independent Major (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-industrial-and-labor-relations-bs-230ef7111f/">Industrial and Labor Relations (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-information-science-ba-9a92a6f151/">Information Science (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-information-science-bs-ec163d91c0/">Information Science (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-information-science-systems-and-technology-bs-cb281b98b6/">Information Science, Systems, and Technology (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-interdisciplinary-studies-in-agriculture-life-sciences-bs-b886b20523/">Interdisciplinary Studies in Agriculture &amp; Life Sciences (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-italian-ba-4c8a48859a/">Italian (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-jewish-studies-ba-965dbcc5e3/">Jewish Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-landscape-architecture-bs-bf5deb8f62/">Landscape Architecture (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-latina-o-studies-ba-c69a9d2c24/">Latina/o Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-linguistics-ba-11878acc76/">Linguistics (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-materials-science-and-engineering-bs-b3d30bb197/">Materials Science and Engineering (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-mathematics-ba-90ff9cc859/">Mathematics (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-mechanical-engineering-bs-923eb3de9f/">Mechanical Engineering (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-music-ba-dc1d4f6ff1/">Music (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-near-eastern-studies-ba-b2b0884c62/">Near Eastern Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-nutritional-sciences-bs-74c2899e7d/">Nutritional Sciences (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-operations-research-and-engineering-bs-d1388afacb/">Operations Research and Engineering (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-performing-and-media-arts-ba-2bf811508e/">Performing and Media Arts (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-philosophy-ba-12d1dec2d8/">Philosophy (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-physics-ba-ab90a51771/">Physics (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-plant-sciences-bs-eb736a3528/">Plant Sciences (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-psychology-ba-7c8fff7290/">Psychology (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-public-policy-ba-5689a6f3ed/">Public Policy (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-public-policy-bs-42ed906e17/">Public Policy (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-religious-studies-ba-0cf7621797/">Religious Studies (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-science-technology-and-society-ba-347a03cc4d/">Science, Technology and Society (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-sociology-ba-6b02b2cd0e/">Sociology (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-spanish-ba-829d01d34d/">Spanish (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-statistical-science-ba-ef93436be6/">Statistical Science (BA)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-statistics-biometry-bs-df3f244cae/">Statistics &amp; Biometry (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-urban-and-regional-studies-bs-2024cf2020/">Urban and Regional Studies (BS)</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-viticulture-and-enology-bs-f26333cea5/">Viticulture and Enology (BS)</a><small>BS · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-africana-studies-ba-6cb691eb31/">Africana Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-agricultural-sciences-bs-88edd32564/">Agricultural Sciences (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-american-studies-ba-f8b3bd340a/">American Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-animal-science-bs-d459af1b99/">Animal Science (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-anthropology-ba-f1162678d1/">Anthropology (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-applied-economics-and-management-bs-1e7ae3cbfe/">Applied Economics and Management (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-archaeology-ba-a22f6b113e/">Archaeology (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-architecture-bar-a1dea2503a/">Architecture (BAR)</a><small>BAR · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-asian-studies-ba-3177aad275/">Asian Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-astronomy-ba-ef118c9185/">Astronomy (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-atmospheric-sciences-bs-bd82d5ce11/">Atmospheric Sciences (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biological-engineering-bs-42b32263fd/">Biological Engineering (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biological-sciences-ba-755f2b35f7/">Biological Sciences (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biological-sciences-bs-02d0fe2f6e/">Biological Sciences (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biology-society-ba-bs-934dc0003f/">Biology &amp; Society (BA, BS)</a><small>BA, BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-biomedical-engineering-bs-e696d04c84/">Biomedical Engineering (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-chemical-engineering-bs-2b50d4b099/">Chemical Engineering (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-chemistry-ba-173071a984/">Chemistry (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-china-and-asia-pacific-studies-ba-e9bdcd684b/">China and Asia-Pacific Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-civil-engineering-bs-ed791093df/">Civil Engineering (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-classics-ba-947214a9af/">Classics (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-cognitive-science-ba-931efc6d7f/">Cognitive Science (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-college-scholar-ba-db1da21e19/">College Scholar (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-communication-bs-672168f966/">Communication (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-comparative-literature-ba-fa4d6dd4fd/">Comparative Literature (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-computer-science-ba-75bcd4c09b/">Computer Science (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-computer-science-bs-75f8a3768b/">Computer Science (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-design-and-environmental-analysis-bs-a0a5c962d3/">Design and Environmental Analysis (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-earth-and-climate-sciences-ba-751d9d5c22/">Earth and Climate Sciences (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-earth-and-climate-sciences-ecsag-bs-71a0785266/">Earth and Climate Sciences (ECSAG-BS)</a><small>ECSAG-BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-earth-and-climate-sciences-ecsen-bs-b6cb7518ab/">Earth and Climate Sciences (ECSEN-BS)</a><small>ECSEN-BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-economics-ba-696e3b8660/">Economics (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-electrical-and-computer-engineering-bs-786541f909/">Electrical and Computer Engineering (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-engineering-physics-bs-f38101bdc0/">Engineering Physics (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-english-ba-2a9446505a/">English (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-entomology-bs-ef7983cacd/">Entomology (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-environment-sustainability-ba-57d1193c3a/">Environment &amp; Sustainability (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-environment-sustainability-bs-253f2d781f/">Environment &amp; Sustainability (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-environmental-engineering-bs-142974c8fc/">Environmental Engineering (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-fashion-design-and-management-bs-36c906d0fc/">Fashion Design and Management (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-feminist-gender-sexuality-studies-ba-f7efa8d827/">Feminist, Gender, &amp; Sexuality Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-fiber-science-bs-f1e96949f3/">Fiber Science (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-fine-arts-bfa-8951d47124/">Fine Arts (BFA)</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-food-science-bs-f96cd6e372/">Food Science (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-french-ba-a88532c1e4/">French (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-german-studies-ba-f4f4437dd0/">German Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-global-public-health-sciences-gphsag-bs-8287419a95/">Global &amp; Public Health Sciences (GPHSAG-BS)</a><small>GPHSAG-BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-global-public-health-sciences-gphshe-bs-9b8f621a5e/">Global &amp; Public Health Sciences (GPHSHE-BS)</a><small>GPHSHE-BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-global-development-bs-6f54c141ea/">Global Development (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-government-ba-9cf2d00c87/">Government (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-health-care-policy-bs-d80f45c9fe/">Health Care Policy (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-history-ba-54f159879b/">History (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-history-of-architecture-and-urban-development-bs-d119727671/">History of Architecture and Urban Development (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-history-of-art-ba-cc14174886/">History of Art (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-hotel-administration-bs-9bf7c379cf/">Hotel Administration (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-human-biology-health-and-society-bs-f906151aa5/">Human Biology, Health, and Society (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-human-development-bs-8820e821dd/">Human Development (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-independent-major-bs-88be130f60/">Independent Major (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-industrial-and-labor-relations-bs-230ef7111f/">Industrial and Labor Relations (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-information-science-ba-9a92a6f151/">Information Science (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-information-science-bs-ec163d91c0/">Information Science (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-information-science-systems-and-technology-bs-cb281b98b6/">Information Science, Systems, and Technology (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-interdisciplinary-studies-in-agriculture-life-sciences-bs-b886b20523/">Interdisciplinary Studies in Agriculture &amp; Life Sciences (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-italian-ba-4c8a48859a/">Italian (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-jewish-studies-ba-965dbcc5e3/">Jewish Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-landscape-architecture-bs-bf5deb8f62/">Landscape Architecture (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-latina-o-studies-ba-c69a9d2c24/">Latina/o Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-linguistics-ba-11878acc76/">Linguistics (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-materials-science-and-engineering-bs-b3d30bb197/">Materials Science and Engineering (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-mathematics-ba-90ff9cc859/">Mathematics (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-mechanical-engineering-bs-923eb3de9f/">Mechanical Engineering (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-music-ba-dc1d4f6ff1/">Music (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-near-eastern-studies-ba-b2b0884c62/">Near Eastern Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-nutritional-sciences-bs-74c2899e7d/">Nutritional Sciences (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-operations-research-and-engineering-bs-d1388afacb/">Operations Research and Engineering (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-performing-and-media-arts-ba-2bf811508e/">Performing and Media Arts (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-philosophy-ba-12d1dec2d8/">Philosophy (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-physics-ba-ab90a51771/">Physics (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-plant-sciences-bs-eb736a3528/">Plant Sciences (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-psychology-ba-7c8fff7290/">Psychology (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-public-policy-ba-5689a6f3ed/">Public Policy (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-public-policy-bs-42ed906e17/">Public Policy (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-religious-studies-ba-0cf7621797/">Religious Studies (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-science-technology-and-society-ba-347a03cc4d/">Science, Technology and Society (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-sociology-ba-6b02b2cd0e/">Sociology (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-spanish-ba-829d01d34d/">Spanish (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-statistical-science-ba-ef93436be6/">Statistical Science (BA)</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-statistics-biometry-bs-df3f244cae/">Statistics &amp; Biometry (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-urban-and-regional-studies-bs-2024cf2020/">Urban and Regional Studies (BS)</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cornell/cornell-viticulture-and-enology-bs-f26333cea5/">Viticulture and Enology (BS)</a><small>BS · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>申请学院和中学资格：</strong>本科新生直接申请一个学院/学校，再看其独特要求；Common App含高中完整已修成绩和在修课程、学校报告、辅导员及两位教师推荐。高中后已取得12或以上大学学分者不可直接沿用此新生定义；本轮未取得中国高考统一分数线。</p>
+<p class="fact-sources"><a href="#source-u-cornell-apply">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT与英语：</strong>新生要求SAT或ACT；转学生不要求也不预期提交。英语豁免可基于美国公民/永居、母语英语、或过去四年主要英语授课；否则交英语考试。官网列有竞争力的最低值：IELTS7.5、DET130、Cambridge191；旧TOEFL100，2026年1月起页面新量表最低5、推荐5.5。日期按Cornell本页写法，不自行改成其他学校的切换日。</p>
+<p class="fact-sources"><a href="#source-u-cornell-testing">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>当前申请日期及作品集：</strong>Common App，US$85或申请豁免。官网当前ED主申请/适用作品集11月1日，其余材料11月13日；RD主申请/作品集1月2日，其余材料1月19日。需按所选院校完成补充文书和艺术/设计材料；本页日期未逐项标年份，本轮不将其冒充已独立核定2027各专业窗口。</p>
+<p class="fact-sources"><a href="#source-u-cornell-apply">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026–2027非纽约居民本科费用：</strong>2026–2027非纽约州居民就读各本科学院年度学费US$73,946；纽约合同学院本州居民低费率不能用于一般中国申请者。典型预算US$99,734未计因地区而异交通，也未含SHP保险等非全体强制支出。</p>
+<p class="fact-sources"><a href="#source-u-cornell-cost-news">官方依据</a> · <a href="#source-u-cornell-cost">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国国际生资助和日期范围：</strong>国际本科need-aware，资助需求影响录取；满足获录取者认定需要的方案可能含助学金、勤工及合理贷款，不能称全额无偿奖学金。须与入学同时申请资助。资助页明确的Fall2026截止已过：ED2025-11-01、RD2026-01-02；本轮未取得2027具年份CSS Profile新公告，不能沿用旧年。</p>
+<p class="fact-sources"><a href="#source-u-cornell-aid">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>逐专业毕业调查待核：</strong>本轮未取得按专业、届次与国际/中国生样本定义的就业或收入数据；机构的总体资助比例不能代替课程就业率。</p>
+<p class="fact-sources"><a href="#source-u-cornell-apply">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-cornell-apply"><div><a href="https://admissions.cornell.edu/how-to-apply/first-year-applicants">cornell 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cornell-testing"><div><a href="https://admissions.cornell.edu/policies/standardized-testing-policy">cornell 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cornell-cost-news"><div><a href="https://news.cornell.edu/stories/2026/03/board-trustees-approves-2026-27-budget-parameters">cornell 官方本科资料：cost-news ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cornell-cost"><div><a href="https://finaid.cornell.edu/cost-to-attend">cornell 官方本科资料：cost ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cornell-aid"><div><a href="https://www.finaid.cornell.edu/first-year-and-transfer-students-international">cornell 官方本科资料：aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

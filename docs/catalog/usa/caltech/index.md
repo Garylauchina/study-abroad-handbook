@@ -23,37 +23,73 @@ hide:
 
 ## 专业与申请资料
 
-26 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+26 个专业条目 · 0 个含详细资料 · 26 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=caltech#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-applied-physics-option-aph-5c685140e3/">Applied Physics Option (APh)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-applied-and-computational-mathematics-option-acm-ef969f94ff/">Applied and Computational Mathematics Option (ACM)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-astrophysics-option-and-minor-ay-9e05156be3/">Astrophysics Option and Minor (Ay)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-bioengineering-option-be-6480dbecee/">Bioengineering Option (BE)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-biology-option-and-minor-bi-33458d39da/">Biology Option and Minor (Bi)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-business-economics-and-management-option-bem-246e064542/">Business, Economics, and Management Option (BEM)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-chemical-engineering-option-and-minor-che-2fcd672817/">Chemical Engineering Option and Minor (ChE)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-chemistry-option-and-minor-ch-2402e3ebce/">Chemistry Option and Minor (Ch)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-computation-and-neural-systems-option-cns-a323aacef6/">Computation and Neural Systems Option (CNS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-computer-science-option-and-minor-cs-a091865952/">Computer Science Option and Minor (CS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-economics-option-ec-d99879c109/">Economics Option (Ec)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-electrical-engineering-option-ee-1da4b0a9f2/">Electrical Engineering Option (EE)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-engineering-and-applied-science-option-eas-4a483e2c00/">Engineering and Applied Science Option (EAS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-english-option-and-minor-en-62eea7a560/">English Option and Minor (En)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-environmental-science-and-engineering-option-and-minor-ese-a72d6982ac/">Environmental Science and Engineering Option and Minor (ESE)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-geological-and-planetary-sciences-option-gps-geology-geobiology-g-5906cc668f/">Geological and Planetary Sciences Option (GPS) (Geology, Geobiology, Geochemistry, Geophysics, Planetary Science) and Minor</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-history-option-and-minor-h-45508be5be/">History Option and Minor (H)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-history-and-philosophy-of-science-option-and-minor-hps-08bb67f0ca/">History and Philosophy of Science Option And Minor (HPS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-information-and-data-sciences-option-and-minor-ids-1a07207a75/">Information and Data Sciences Option and Minor (IDS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-interdisciplinary-studies-program-option-isp-71abb41966/">Interdisciplinary Studies Program Option (ISP)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-materials-science-option-ms-f010f46ee3/">Materials Science Option (MS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-mathematics-option-and-minor-ma-d51c141cf4/">Mathematics Option and Minor (Ma)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-mechanical-engineering-option-me-39d351ba2d/">Mechanical Engineering Option (ME)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-philosophy-option-and-minor-pl-a0390cdaec/">Philosophy Option and Minor (Pl)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-physics-option-ph-07b34aeada/">Physics Option (Ph)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-political-science-option-ps-d198b16d46/">Political Science Option (PS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-applied-physics-option-aph-5c685140e3/">Applied Physics Option (APh)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-applied-and-computational-mathematics-option-acm-ef969f94ff/">Applied and Computational Mathematics Option (ACM)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-astrophysics-option-and-minor-ay-9e05156be3/">Astrophysics Option and Minor (Ay)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-bioengineering-option-be-6480dbecee/">Bioengineering Option (BE)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-biology-option-and-minor-bi-33458d39da/">Biology Option and Minor (Bi)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-business-economics-and-management-option-bem-246e064542/">Business, Economics, and Management Option (BEM)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-chemical-engineering-option-and-minor-che-2fcd672817/">Chemical Engineering Option and Minor (ChE)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-chemistry-option-and-minor-ch-2402e3ebce/">Chemistry Option and Minor (Ch)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-computation-and-neural-systems-option-cns-a323aacef6/">Computation and Neural Systems Option (CNS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-computer-science-option-and-minor-cs-a091865952/">Computer Science Option and Minor (CS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-economics-option-ec-d99879c109/">Economics Option (Ec)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-electrical-engineering-option-ee-1da4b0a9f2/">Electrical Engineering Option (EE)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-engineering-and-applied-science-option-eas-4a483e2c00/">Engineering and Applied Science Option (EAS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-english-option-and-minor-en-62eea7a560/">English Option and Minor (En)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-environmental-science-and-engineering-option-and-minor-ese-a72d6982ac/">Environmental Science and Engineering Option and Minor (ESE)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-geological-and-planetary-sciences-option-gps-geology-geobiology-g-5906cc668f/">Geological and Planetary Sciences Option (GPS) (Geology, Geobiology, Geochemistry, Geophysics, Planetary Science) and Minor</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-history-option-and-minor-h-45508be5be/">History Option and Minor (H)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-history-and-philosophy-of-science-option-and-minor-hps-08bb67f0ca/">History and Philosophy of Science Option And Minor (HPS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-information-and-data-sciences-option-and-minor-ids-1a07207a75/">Information and Data Sciences Option and Minor (IDS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-interdisciplinary-studies-program-option-isp-71abb41966/">Interdisciplinary Studies Program Option (ISP)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-materials-science-option-ms-f010f46ee3/">Materials Science Option (MS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-mathematics-option-and-minor-ma-d51c141cf4/">Mathematics Option and Minor (Ma)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-mechanical-engineering-option-me-39d351ba2d/">Mechanical Engineering Option (ME)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-philosophy-option-and-minor-pl-a0390cdaec/">Philosophy Option and Minor (Pl)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-physics-option-ph-07b34aeada/">Physics Option (Ph)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/caltech/caltech-political-science-option-ps-d198b16d46/">Political Science Option (PS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>中学学术准备：</strong>共同准备要求四年数学（含一年微积分）、一年物理、一年化学、四年英语、两年历史/社会科学；一年生物为推荐。因中学未开课或无法解决课表冲突缺微积分/物理/化学时，学生与辅导员须记录原因，再按官方流程以知识证明替代。A-Level等末两年专科化课程的英语/社会科要求有早两年课程例外。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>考试与英语分数：</strong>须SAT或ACT，已考AP/IB亦须提交；考试不可及等实际困难有说明程序。国际申请者通常须英语考试，英语母语或中学主要英语授课可免，后者非母语仍强烈建议。IELTS总分及各项均7；旧TOEFL100及各25，2026-01-21起新量表总分和各项均5；DET总分及各项130。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027新生渠道和日期：</strong>Common App或QuestBridge，US$85或豁免；一位STEM及一位人文/社会科学教师推荐、学校报告、中学成绩和期中成绩。秋季新生REA截止2026-11-01，RD截止2027-01-04，接受录取截止2027-05-01。已注册大学者通常转学，少数学年历例外另核。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a> · <a href="#source-u-caltech-apply">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026–2027本科收费：</strong>年度学费US$68,574；学校表列学费、学生费、住食、US$100可退押金及US$600一次迎新费合计US$93,925。该表未含医疗/牙科/视力保险；书本US$1,428及个人支出US$3,969另计，不可把US$93,925当个人全年总支出。</p>
+<p class="fact-sources"><a href="#source-u-caltech-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助须入学申请时提出：</strong>国际生资助资金有限，需求会影响录取；获录取者满足学校认定需要。中国等国际生若本科期间需要资助，须在申请入学时申请，首年未申请或未获援助一般不能以后再申；页面只对加拿大/墨西哥公民保留例外，不能扩大到中国申请者。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>课程目标和毕业统计：</strong>本科Option的职业准备/升研目标见各培养方案；本轮未取得按Option和中国学生范围分解的就业率、薪酬调查。</p>
+<p class="fact-sources"><a href="#source-u-caltech-international">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-caltech-international"><div><a href="https://www.admissions.caltech.edu/apply/first-year-applicants/international-applicants">caltech 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-caltech-apply"><div><a href="https://www.admissions.caltech.edu/apply/first-year-applicants/application-requirements">caltech 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-caltech-fees"><div><a href="https://bursar.caltech.edu/newstudents">caltech 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

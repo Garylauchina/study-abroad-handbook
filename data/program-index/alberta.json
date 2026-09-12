@@ -3,10 +3,10 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "partial",
-    "count": 351,
+    "count": 348,
     "scope": "官方本科项目搜索目录的主修、荣誉、Co-op、After Degree和专项方向；保留三校区身份。",
     "method": "15页完整对账：14×24+18=354，按项目URL去重；逐卡检查已停止招生文字，保留仅停止高中直申的转学/第二学位路径。",
-    "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
+    "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。 Indigenous Governance and Partnership：该项目授予原住民治理与合作证书，可与学位或社区学习搭配；证书本身不是本科学位或独立主修，因此移出本科专业清单。 排除Business Minor及其Honors版本，两者均仅是学位内辅修。",
     "sources": [
       {
         "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
@@ -610,21 +610,6 @@
       "academic_unit": "Arts",
       "program_type": "General / Major",
       "id": "alberta-drama-acting-2fc466efc8"
-    },
-    {
-      "name_en": "Indigenous Governance and Partnership",
-      "degree_label": "Certificate in Indigenous Governance and Partnership",
-      "official_url": "https://www.ualberta.ca/en/undergraduate-programs/certificate-in-indigenous-governance-and-partnership-indigenous-governance-and-partnership.html",
-      "discovery_source_url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": "North Campus (Edmonton)",
-      "language": null,
-      "raw_key": "https://www.ualberta.ca/en/undergraduate-programs/certificate-in-indigenous-governance-and-partnership-indigenous-governance-and-partnership.html",
-      "academic_unit": "Native Studies",
-      "program_type": "General / Major",
-      "id": "alberta-indigenous-governance-and-partnership-c2e8e09768"
     },
     {
       "name_en": "Pharmacy (entry-to-practice)",
@@ -4043,21 +4028,6 @@
       "id": "alberta-tudes-canadiennes-9a0070ebc5"
     },
     {
-      "name_en": "Business Minor",
-      "degree_label": "Bachelor of Science with Major",
-      "official_url": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-business-minor.html",
-      "discovery_source_url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": "North Campus (Edmonton)",
-      "language": null,
-      "raw_key": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-business-minor.html",
-      "academic_unit": "Science",
-      "program_type": "General / Major",
-      "id": "alberta-business-minor-06ba78b004"
-    },
-    {
       "name_en": "Career and Technology Studies: Natural Resources",
       "degree_label": "Bachelor of Education in Secondary Education - After Degree",
       "official_url": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-education-in-secondary-education-after-degree-career-and-technology-studies-natural-resources.html",
@@ -4625,21 +4595,6 @@
       "academic_unit": "Faculté Saint-Jean",
       "program_type": "General / Major",
       "id": "alberta-sciences-physiques-61d68a2f21"
-    },
-    {
-      "name_en": "Honors",
-      "degree_label": "Bachelor of Science - Business Minor",
-      "official_url": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-business-minor-honors.html",
-      "discovery_source_url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
-      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
-      "intake": null,
-      "duration": null,
-      "campus": "North Campus (Edmonton)",
-      "language": null,
-      "raw_key": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-business-minor-honors.html",
-      "academic_unit": "Science",
-      "program_type": "Honors",
-      "id": "alberta-honors-d785512f18"
     },
     {
       "name_en": "Dental Hygiene",

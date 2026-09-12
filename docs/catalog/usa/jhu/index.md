@@ -23,87 +23,127 @@ hide:
 
 ## 专业与申请资料
 
-76 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+76 个专业条目 · 0 个含详细资料 · 76 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=jhu#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-africana-studies-bachelor-of-arts-33b000c289/">Africana Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-anthropology-bachelor-of-arts-8c5dabb2eb/">Anthropology, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-applied-mathematics-and-statistics-bachelor-of-arts-e59858ed61/">Applied Mathematics and Statistics, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-applied-mathematics-and-statistics-bachelor-of-science-81851b5e8f/">Applied Mathematics and Statistics, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-archaeology-bachelor-of-arts-c26c20fc2e/">Archaeology, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-fine-arts-in-dance-414454878b/">Bachelor of Fine Arts in Dance</a><small>Bachelor of Fine Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-composition-16af93fb9b/">Bachelor of Music in Composition</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-hip-hop-e6d027e0a8/">Bachelor of Music in Hip Hop</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-jazz-performance-ca8fd9bcd7/">Bachelor of Music in Jazz Performance</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-music-education-988be9df24/">Bachelor of Music in Music Education</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-music-for-new-media-8b931cc047/">Bachelor of Music in Music for New Media</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-c5fc35168d/">Bachelor of Music in Performance</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-computer-music-5fa6cb2a80/">Bachelor of Music in Performance - Computer Music</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-guitar-973b685034/">Bachelor of Music in Performance - Guitar</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-harpsichord-6dc181699d/">Bachelor of Music in Performance - Harpsichord</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-historical-performance-ec080119c8/">Bachelor of Music in Performance - Historical Performance</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-orchestral-instruments-60a514ef9b/">Bachelor of Music in Performance - Orchestral Instruments</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-organ-eeb78f759c/">Bachelor of Music in Performance - Organ</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-piano-4e7aac9304/">Bachelor of Music in Performance - Piano</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-voice-e19d3aaed2/">Bachelor of Music in Performance - Voice</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-recording-arts-sciences-1d5a5a7900/">Bachelor of Music in Recording Arts &amp; Sciences</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-behavioral-biology-bachelor-of-arts-120c622014/">Behavioral Biology, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-biology-bachelor-of-arts-12167be3d6/">Biology, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-biomedical-engineering-bachelor-of-science-d829adceb7/">Biomedical Engineering, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-biophysics-bachelor-of-science-8c59bd477d/">Biophysics, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-chemical-and-biomolecular-engineering-bachelor-of-science-dad7067f2c/">Chemical and Biomolecular Engineering, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-chemistry-bachelor-of-science-2e20b87398/">Chemistry, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-civil-engineering-bachelor-of-science-e1dd83afec/">Civil Engineering, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-classics-bachelor-of-arts-64d1017e39/">Classics, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-cognitive-science-bachelor-of-arts-999aa4bfcd/">Cognitive Science, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-computer-engineering-bachelor-of-science-25813cc83b/">Computer Engineering, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-computer-science-bachelor-of-arts-831ba543b3/">Computer Science, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-computer-science-bachelor-of-science-41dccbe5ac/">Computer Science, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-critical-diaspora-studies-bachelor-of-arts-638857f92f/">Critical Diaspora Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-direct-matriculation-international-studies-b-a-m-a-program-with-t-8ac6ec0cc5/">Direct Matriculation: International Studies B.A./M.A. Program with the Paul H. Nitze School of Advanced International Studies (SAIS)</a><small>Bachelor undergraduate combined entry · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-earth-and-planetary-sciences-bachelor-of-arts-05ec9a8f37/">Earth and Planetary Sciences, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-east-asian-studies-bachelor-of-arts-1820b422a9/">East Asian Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-economics-bachelor-of-arts-fa74f48b35/">Economics, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-electrical-engineering-bachelor-of-science-28b5f0d9ca/">Electrical Engineering, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-engineering-mechanics-bachelor-of-science-12caff0081/">Engineering Mechanics, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-english-bachelor-of-arts-2d7076eb0f/">English, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-environmental-engineering-bachelor-of-science-9c1e4a4513/">Environmental Engineering, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-environmental-science-bachelor-of-science-78410d848e/">Environmental Science, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-environmental-studies-bachelor-of-arts-d4fbf07e9f/">Environmental Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-film-and-media-studies-bachelor-of-arts-3f648d602c/">Film and Media Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-french-bachelor-of-arts-232f7b9584/">French, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-general-engineering-bachelor-of-arts-0ca6dbe436/">General Engineering, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-german-bachelor-of-arts-5a86f3900a/">German, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-history-of-art-bachelor-of-arts-0bfe50a4fc/">History of Art, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-history-of-science-medicine-and-technology-bachelor-of-arts-276dff404f/">History of Science, Medicine, and Technology, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-history-bachelor-of-arts-5dad565136/">History, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-interdisciplinary-studies-bachelor-of-arts-9b69cd5ce8/">Interdisciplinary Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-international-studies-bachelor-of-arts-2b6b8594c4/">International Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-italian-bachelor-of-arts-8ba2f60162/">Italian, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-latin-american-caribbean-and-latinx-studies-bachelor-of-arts-67ffbd2d10/">Latin American, Caribbean, and Latinx Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-materials-science-and-engineering-bachelor-of-science-fcba7c881c/">Materials Science and Engineering, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-mathematics-bachelor-of-arts-d751d32481/">Mathematics, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-mechanical-engineering-bachelor-of-science-219f06c72a/">Mechanical Engineering, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-medicine-science-and-the-humanities-bachelor-of-arts-cb18782d99/">Medicine, Science, and the Humanities, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-molecular-and-cellular-biology-bachelor-of-science-5c53aab6cd/">Molecular and Cellular Biology, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-moral-and-political-economy-bachelor-of-arts-2677df795c/">Moral and Political Economy, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-natural-sciences-area-bachelor-of-arts-1cda172f9a/">Natural Sciences Area, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-near-eastern-studies-bachelor-of-arts-a85cdb553b/">Near Eastern Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-neuroscience-bachelor-of-science-39d44f7029/">Neuroscience, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-peabody-homewood-double-degree-program-596ea915ca/">Peabody-Homewood Double Degree Program</a><small>Bachelor undergraduate combined entry · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-philosophy-bachelor-of-arts-8fb11c4947/">Philosophy, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-physics-bachelor-of-arts-59bfe3bad1/">Physics, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-physics-bachelor-of-science-5a4f8e12cd/">Physics, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-political-science-bachelor-of-arts-6879d797c1/">Political Science, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-psychology-bachelor-of-arts-572c86b664/">Psychology, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-public-health-studies-bachelor-of-arts-ee02a93bd0/">Public Health Studies, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-romance-languages-bachelor-of-arts-02934b1bb8/">Romance Languages, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-sociology-bachelor-of-arts-6037fbc88b/">Sociology, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-spanish-bachelor-of-arts-9e632967e9/">Spanish, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-systems-engineering-bachelor-of-science-2d523cc971/">Systems Engineering, Bachelor of Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-writing-seminars-bachelor-of-arts-daee04bc3b/">Writing Seminars, Bachelor of Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-africana-studies-bachelor-of-arts-33b000c289/">Africana Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-anthropology-bachelor-of-arts-8c5dabb2eb/">Anthropology, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-applied-mathematics-and-statistics-bachelor-of-arts-e59858ed61/">Applied Mathematics and Statistics, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-applied-mathematics-and-statistics-bachelor-of-science-81851b5e8f/">Applied Mathematics and Statistics, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-archaeology-bachelor-of-arts-c26c20fc2e/">Archaeology, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-fine-arts-in-dance-414454878b/">Bachelor of Fine Arts in Dance</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-composition-16af93fb9b/">Bachelor of Music in Composition</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-hip-hop-e6d027e0a8/">Bachelor of Music in Hip Hop</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-jazz-performance-ca8fd9bcd7/">Bachelor of Music in Jazz Performance</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-music-education-988be9df24/">Bachelor of Music in Music Education</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-music-for-new-media-8b931cc047/">Bachelor of Music in Music for New Media</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-c5fc35168d/">Bachelor of Music in Performance</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-computer-music-5fa6cb2a80/">Bachelor of Music in Performance - Computer Music</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-guitar-973b685034/">Bachelor of Music in Performance - Guitar</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-harpsichord-6dc181699d/">Bachelor of Music in Performance - Harpsichord</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-historical-performance-ec080119c8/">Bachelor of Music in Performance - Historical Performance</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-orchestral-instruments-60a514ef9b/">Bachelor of Music in Performance - Orchestral Instruments</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-organ-eeb78f759c/">Bachelor of Music in Performance - Organ</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-piano-4e7aac9304/">Bachelor of Music in Performance - Piano</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-performance-voice-e19d3aaed2/">Bachelor of Music in Performance - Voice</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-bachelor-of-music-in-recording-arts-sciences-1d5a5a7900/">Bachelor of Music in Recording Arts &amp; Sciences</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-behavioral-biology-bachelor-of-arts-120c622014/">Behavioral Biology, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-biology-bachelor-of-arts-12167be3d6/">Biology, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-biomedical-engineering-bachelor-of-science-d829adceb7/">Biomedical Engineering, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-biophysics-bachelor-of-science-8c59bd477d/">Biophysics, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-chemical-and-biomolecular-engineering-bachelor-of-science-dad7067f2c/">Chemical and Biomolecular Engineering, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-chemistry-bachelor-of-science-2e20b87398/">Chemistry, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-civil-engineering-bachelor-of-science-e1dd83afec/">Civil Engineering, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-classics-bachelor-of-arts-64d1017e39/">Classics, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-cognitive-science-bachelor-of-arts-999aa4bfcd/">Cognitive Science, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-computer-engineering-bachelor-of-science-25813cc83b/">Computer Engineering, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-computer-science-bachelor-of-arts-831ba543b3/">Computer Science, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-computer-science-bachelor-of-science-41dccbe5ac/">Computer Science, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-critical-diaspora-studies-bachelor-of-arts-638857f92f/">Critical Diaspora Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-direct-matriculation-international-studies-b-a-m-a-program-with-t-8ac6ec0cc5/">Direct Matriculation: International Studies B.A./M.A. Program with the Paul H. Nitze School of Advanced International Studies (SAIS)</a><small>Bachelor undergraduate combined entry · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-earth-and-planetary-sciences-bachelor-of-arts-05ec9a8f37/">Earth and Planetary Sciences, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-east-asian-studies-bachelor-of-arts-1820b422a9/">East Asian Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-economics-bachelor-of-arts-fa74f48b35/">Economics, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-electrical-engineering-bachelor-of-science-28b5f0d9ca/">Electrical Engineering, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-engineering-mechanics-bachelor-of-science-12caff0081/">Engineering Mechanics, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-english-bachelor-of-arts-2d7076eb0f/">English, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-environmental-engineering-bachelor-of-science-9c1e4a4513/">Environmental Engineering, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-environmental-science-bachelor-of-science-78410d848e/">Environmental Science, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-environmental-studies-bachelor-of-arts-d4fbf07e9f/">Environmental Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-film-and-media-studies-bachelor-of-arts-3f648d602c/">Film and Media Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-french-bachelor-of-arts-232f7b9584/">French, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-general-engineering-bachelor-of-arts-0ca6dbe436/">General Engineering, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-german-bachelor-of-arts-5a86f3900a/">German, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-history-of-art-bachelor-of-arts-0bfe50a4fc/">History of Art, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-history-of-science-medicine-and-technology-bachelor-of-arts-276dff404f/">History of Science, Medicine, and Technology, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-history-bachelor-of-arts-5dad565136/">History, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-interdisciplinary-studies-bachelor-of-arts-9b69cd5ce8/">Interdisciplinary Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-international-studies-bachelor-of-arts-2b6b8594c4/">International Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-italian-bachelor-of-arts-8ba2f60162/">Italian, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-latin-american-caribbean-and-latinx-studies-bachelor-of-arts-67ffbd2d10/">Latin American, Caribbean, and Latinx Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-materials-science-and-engineering-bachelor-of-science-fcba7c881c/">Materials Science and Engineering, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-mathematics-bachelor-of-arts-d751d32481/">Mathematics, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-mechanical-engineering-bachelor-of-science-219f06c72a/">Mechanical Engineering, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-medicine-science-and-the-humanities-bachelor-of-arts-cb18782d99/">Medicine, Science, and the Humanities, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-molecular-and-cellular-biology-bachelor-of-science-5c53aab6cd/">Molecular and Cellular Biology, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-moral-and-political-economy-bachelor-of-arts-2677df795c/">Moral and Political Economy, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-natural-sciences-area-bachelor-of-arts-1cda172f9a/">Natural Sciences Area, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-near-eastern-studies-bachelor-of-arts-a85cdb553b/">Near Eastern Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-neuroscience-bachelor-of-science-39d44f7029/">Neuroscience, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-peabody-homewood-double-degree-program-596ea915ca/">Peabody-Homewood Double Degree Program</a><small>Bachelor undergraduate combined entry · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-philosophy-bachelor-of-arts-8fb11c4947/">Philosophy, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-physics-bachelor-of-arts-59bfe3bad1/">Physics, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-physics-bachelor-of-science-5a4f8e12cd/">Physics, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-political-science-bachelor-of-arts-6879d797c1/">Political Science, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-psychology-bachelor-of-arts-572c86b664/">Psychology, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-public-health-studies-bachelor-of-arts-ee02a93bd0/">Public Health Studies, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-romance-languages-bachelor-of-arts-02934b1bb8/">Romance Languages, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-sociology-bachelor-of-arts-6037fbc88b/">Sociology, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-spanish-bachelor-of-arts-9e632967e9/">Spanish, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-systems-engineering-bachelor-of-science-2d523cc971/">Systems Engineering, Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/jhu/jhu-writing-seminars-bachelor-of-arts-daee04bc3b/">Writing Seminars, Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>Homewood共同入口与Peabody分开：</strong>本节Homewood常规本科新生可为在读高中生，或高中毕业后大学学分不足12 semester credits者（高中期间所修不计）；已获学士学位不能沿用此本科入口。Peabody音乐/舞蹈须走独立试演申请，不可套普通本科截止。</p>
+<p class="fact-sources"><a href="#source-u-jhu-dates-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际材料与英语：</strong>国际生没有另一套主申请；非英文正式文件须验证英文翻译，无GPA或排名可留空。标准化入学考试为要求；母语非英语或过去三年非英语学校者推荐英语考试，不能把推荐写成统一IELTS硬门槛。</p>
+<p class="fact-sources"><a href="#source-u-jhu-international-dom">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027 Homewood新生窗口：</strong>Common App或Coalition on Scoir，申请费US$70或豁免。ED I截止2026-11-01，ED II和RD2027-01-02；资助分别2026-11-15、2027-01-15。须学校报告、两位教师评估、期中报告等；Peabody另行申请。</p>
+<p class="fact-sources"><a href="#source-u-jhu-dates-dom">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026–2027 Homewood标准费用：</strong>Krieger/Whiting全日制本科秋春标准年学费US$68,670，按两学期每期至少12学分计。住校新生预算US$94,858包含US$500一次入学费和各项生活估计；健康保险US$3,624在校目录另列，不能当预算已包含。个人机票不能直接按US$738地区平均值保证。</p>
+<p class="fact-sources"><a href="#source-u-jhu-cost-full">官方依据</a> · <a href="#source-u-jhu-catalog-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026–2027 Peabody本科费用：</strong>大学官方分院费表另列Peabody全时本科年学费US$68,670；其杂费、住宿、音乐个别课和非全时收费结构另列。不能仅因学费相同就套Homewood住宿、入学费或申请规则；本轮暂未采用Peabody页面之间不一致的保险/用品小计。</p>
+<p class="fact-sources"><a href="#source-u-jhu-catalog-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助须同期申请：</strong>国际生need-aware，资助需求影响录取；获录取且申请资助者满足学校认定全部需要。国际申请均须COF财政证明；需助学金者另交CSS Profile，若本科期间需要须在新生申请时提出，否则以后不能再申。国际转学生当前不获资助，少量merit奖自动考虑且不能保证。</p>
+<p class="fact-sources"><a href="#source-u-jhu-international-dom">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>专业调查缺口：</strong>本轮未取得按Homewood专业/Peabody表演方向、毕业届次及国际/中国生样本分解的就业率或薪酬；学校无债毕业比例不是就业调查。</p>
+<p class="fact-sources"><a href="#source-u-jhu-dates-dom">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-jhu-dates-dom"><div><a href="https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/">jhu 官方本科资料：dates-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-jhu-international-dom"><div><a href="https://apply.jhu.edu/international-applicants/">jhu 官方本科资料：international-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-jhu-cost-full"><div><a href="https://sfs.jhu.edu/cost-tuition/">jhu 官方本科资料：cost-full ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-jhu-catalog-fees"><div><a href="https://e-catalogue.jhu.edu/university-wide-policies-information/admission-aid/tuition-fees/">jhu 官方本科资料：catalog-fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

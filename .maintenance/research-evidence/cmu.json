@@ -1,0 +1,563 @@
+{
+  "university_id": "cmu",
+  "sources": [
+    {
+      "url": "https://www.cmu.edu/admission/admission/international-applicants",
+      "sha256": "a6761b7be21e453c0e7455b8a86f1f87ab7c55e11ca48743d54ac1a95704caea",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/international.html",
+      "locator": "Additional Information"
+    },
+    {
+      "url": "https://www.cmu.edu/admission/admission/undergraduate-admission-requirements",
+      "sha256": "ddabe5765cc6a4b009f33766396a5030b19522bc11880cb2223ca234895fef93",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/requirements.html",
+      "locator": "Additional Requirements"
+    },
+    {
+      "url": "https://www.cmu.edu/admission/admission/standardized-testing",
+      "sha256": "e1a89ebe9a4e10f255b4307511666346e8a8394ff850440da94d033afcd030b4",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/testing.html",
+      "locator": "Testing Policy"
+    },
+    {
+      "url": "https://www.cmu.edu/admission/admission/application-plans-deadlines",
+      "sha256": "9d01e6664644113a4aac18a3d3374bd0c47bd29804a553785a2951ea04e8d9b1",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/deadlines.html",
+      "locator": "Application Plans and Deadlines"
+    },
+    {
+      "url": "https://www.cmu.edu/oie/pre-arrival-and-settling-in/students/instructions/estimated-expenses.html",
+      "sha256": "da3cb26655773e4f9074b4c84a74c48009ca18c803b03d2195cdcac3589b3ba4",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/cmu/raw/tuition.html",
+      "locator": "Undergraduate Student Estimated Expenses 2026-2027 Pittsburgh"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/anthropology-ba/",
+      "sha256": "38450f9cb70a2f05054af6787e33841635086122ef62d2f26fd650595c99a77c",
+      "raw_file": "scratch/full-catalog/us-details/cmu/b3cb45c5f418a329677c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-ba/",
+      "sha256": "7cb14a7ca5196341ed47e0bace0a6f983f96436725aa9f01a17f067a65d6526f",
+      "raw_file": "scratch/full-catalog/us-details/cmu/b98457794e2835470ea2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-barch/",
+      "sha256": "9cb5580bd0cd23ea4a8b9436e15fee1ab763a56a0d23ac3cd21f67ebb9bff829",
+      "raw_file": "scratch/full-catalog/us-details/cmu/5ad255b774fd6dcf9471.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofart/art-bfa/",
+      "sha256": "dc50adf388524c4955584d9c6704175ca57907e40ca5ae18f5632c01eeb58a8e",
+      "raw_file": "scratch/full-catalog/us-details/cmu/997dc5222b406cb7779a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-additional-major/",
+      "sha256": "6382f5060dc0d44a64cfe0bbbe1959aad69b89621eaf012725560994a7b5ce28",
+      "raw_file": "scratch/full-catalog/us-details/cmu/13e096032a2f1b24b203.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-bs/",
+      "sha256": "7bcc8d55a05261cf23663874e28a26b26610683df2cd29fbf53067cc5ade4331",
+      "raw_file": "scratch/full-catalog/us-details/cmu/5c3e9b9e5d2246ac3863.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/behavioral-economics-bs/",
+      "sha256": "78452831cb6bca0b2e3d27c27026f6a6695b1b5f12059093f6ef19dc4894e6af",
+      "raw_file": "scratch/full-catalog/us-details/cmu/81b601ae147e52b89302.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-additional-major/",
+      "sha256": "e2412796f72fddd16b7cd45580e155236553f2b2d2c093d602e7df2b0c7ef7b2",
+      "raw_file": "scratch/full-catalog/us-details/cmu/18bae4ecd34808dce09e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-ba/",
+      "sha256": "60cb53755e1af0373eb843e06b5b4dd8c0080fc3b6c96482ff5a81815adcfe50",
+      "raw_file": "scratch/full-catalog/us-details/cmu/2b503017dd423aabc5f8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-bs/",
+      "sha256": "00458a5c4dde251f7aa3d4eae9be46484e608bf6fb80826f8780ffc649e94b62",
+      "raw_file": "scratch/full-catalog/us-details/cmu/596268174a802f3bbf20.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-psychology-bs/",
+      "sha256": "d1ddc7b94f01fdfc097ede1979ac6526032e12b55dae846f60629cf5bc2b7ebd",
+      "raw_file": "scratch/full-catalog/us-details/cmu/12fef620788ceb643cfc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-engineering-additional-major/",
+      "sha256": "02e414bdf994c15ffe449c76d6b8bd65352c4470ec409127b9908cfc91978acf",
+      "raw_file": "scratch/full-catalog/us-details/cmu/fb92bf021cd9ca66ac36.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-technology-additional-major/",
+      "sha256": "f0371c96c3409e76b374863d372681aa4048805a71cfac6d8d5cea6a12d2f3af",
+      "raw_file": "scratch/full-catalog/us-details/cmu/9d6843d197c3ae692013.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-additional-major/",
+      "sha256": "c30bd28a409745a3fdc575ee0a7f3c39a86e469359a1b778bcfccec54b8bb6b6",
+      "raw_file": "scratch/full-catalog/us-details/cmu/1207c3db164b493d6508.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-bs/",
+      "sha256": "596064515db3f47ec28373102bc4008d3cf2d8b312270354c0a9eaa2254d7c0f",
+      "raw_file": "scratch/full-catalog/us-details/cmu/36805a528574b4bf3a4a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofchemicalengineering/chemical-engineering-bs/",
+      "sha256": "5a207ab12360ea50f62a6f02335ab53343e3de305f43f460c4375661139ddb72",
+      "raw_file": "scratch/full-catalog/us-details/cmu/4e22fc38e10cb30e4857.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-ba/",
+      "sha256": "fd1406a6369659fbf7cadca5cfae788526f4bae5fc5150bdaf3e427cfff9d462",
+      "raw_file": "scratch/full-catalog/us-details/cmu/02e34e5c2c67cbba94ca.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-bs/",
+      "sha256": "05e8e0a615778cbfde01b8b6fd5c2f5d5aa762b7676a02cce986e045b51e9b60",
+      "raw_file": "scratch/full-catalog/us-details/cmu/823126bbb6845adf0e72.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-biological-chemistry-track-bs/",
+      "sha256": "8ac9aef2d28de10699d54417a52598e9215cc0b95485b8e75117dc680fb3b2e1",
+      "raw_file": "scratch/full-catalog/us-details/cmu/d19b0127c744ab3a8ca4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofcivilandenvironmentalengineering/civil-engineering-bs/",
+      "sha256": "7498a9fe5e01f7fb91cab09c47d8d5f6bf7b4c620534519bad986784951bf69a",
+      "raw_file": "scratch/full-catalog/us-details/cmu/492835ff28308be74945.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/cognitive-science-bs/",
+      "sha256": "1b4b9b8106beab2f7d456c6f199ded52837caba3d14ebd87033d4e1167799bc9",
+      "raw_file": "scratch/full-catalog/us-details/cmu/c08e0af36155afd72aa4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/composition-bfa/",
+      "sha256": "77029872e400da519189619c2007739947b588546e3b5225424f9be9c72bf1bd",
+      "raw_file": "scratch/full-catalog/us-details/cmu/662b956b6d12f3049b70.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-additional-major/",
+      "sha256": "61e5e9dd433decd21e6834b3868312c295edb8699e9f8ba8be12f72f3afe7bb2",
+      "raw_file": "scratch/full-catalog/us-details/cmu/e956927b497a3bb238ff.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-bs/",
+      "sha256": "c530cb383feff83361a3c2d08621ad0b2f3538da386c69730e640cf594049db3",
+      "raw_file": "scratch/full-catalog/us-details/cmu/ffcc437e0d25ad144c9a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/computational-finance/computational-finance-bs/",
+      "sha256": "d9ade280a2b73a0bd9bdc9c4a2609c98c2d3ada36c358da459903fb6f0e1d86f",
+      "raw_file": "scratch/full-catalog/us-details/cmu/06349ba627eea604c2ba.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-additional-major/",
+      "sha256": "268a25106df438d4b15904651b0462864fbca2607039a12026307434b880479f",
+      "raw_file": "scratch/full-catalog/us-details/cmu/881887aeeb2fd41a1cd2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-bs/",
+      "sha256": "86927fbb03c138cf6ee5068647d2218f05fa9a046b79101faa150d0e8720d3e7",
+      "raw_file": "scratch/full-catalog/us-details/cmu/3a1e3dff75f5c2fcf2b3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/computer-science-arts/",
+      "sha256": "83a010c5bf0ebf7af4c116706d0a413252db1c3b5271c2a3fca1dfed0e29bce0",
+      "raw_file": "scratch/full-catalog/us-details/cmu/d7f66e6f859577af1f5c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/creative-writing-ba/",
+      "sha256": "3c9b7ca654f168e94445a37ff67e1baed4cc7f6283247c96cb295ec365d180d7",
+      "raw_file": "scratch/full-catalog/us-details/cmu/89aaa667d60e0fa4df43.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/decision-science-bs/",
+      "sha256": "e353a749eb274535641b9864a73f05eb5a76284628f8dc25b8e11baa86654ed8",
+      "raw_file": "scratch/full-catalog/us-details/cmu/e5d2b37221fec48e082b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdesign/design-bdes/",
+      "sha256": "f05bfa77caa5a504b89956a3c009af8ee884ef8d5c437b1c541f3e6c777c63c7",
+      "raw_file": "scratch/full-catalog/us-details/cmu/7cbc96b733dbb3b8a623.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdrama/drama-bfa/",
+      "sha256": "ae4c0de516c93dc0e3916de27a301be1c78269e911793f08347af3392e9993c8",
+      "raw_file": "scratch/full-catalog/us-details/cmu/b5ee7971c003982281c0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-additional-major/",
+      "sha256": "d145c0e549dd9b6de16337ae12872af2203919ff00c8148fb5c3ff75d0b131dc",
+      "raw_file": "scratch/full-catalog/us-details/cmu/30ea11838825f685aec0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-ba/",
+      "sha256": "ed64eed55984d529cee876b48dee1dbc32edcceaf57c016d490775bf74537d1a",
+      "raw_file": "scratch/full-catalog/us-details/cmu/c215144849db57dde46e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-bs/",
+      "sha256": "1a2ced194ce9c049a542eed595bd89699167b0f34614ba09329ea3ed2160ff3f",
+      "raw_file": "scratch/full-catalog/us-details/cmu/46922ceb4126c1a36d68.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-mathematical-sciences-bs/",
+      "sha256": "652980f0894906a9496ad1124729a9d73d1613140935984f616fe3ee479c5bdc",
+      "raw_file": "scratch/full-catalog/us-details/cmu/f6b1115c6458416c8627.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/economics-politics-bs/",
+      "sha256": "d181b3141d6364ef9765e7a4317f6a52d51a5eeb4b34df598e85d4780318a28a",
+      "raw_file": "scratch/full-catalog/us-details/cmu/7dfafbfd09b382825dbb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/economics-statistics-bs/",
+      "sha256": "82850c782f562296fe2c4f2e48c271ca0914e9055ec5327cfa96fb68a11884b2",
+      "raw_file": "scratch/full-catalog/us-details/cmu/d1112da728ddb2425ca9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/electrical-computer-engineering-bs/",
+      "sha256": "a64695eb6fb00c1b8f495626f22070b0f61052a8256446fa5f36126e8b897162",
+      "raw_file": "scratch/full-catalog/us-details/cmu/083c3ec76b7007fd60a4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/electronic-music-bfa/",
+      "sha256": "e84a846e14d048864bb718eaa5c96ccd1f48a0ff67a8c8b44fd3e35d50b7d845",
+      "raw_file": "scratch/full-catalog/us-details/cmu/7fc9147733972f8c8c21.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-arts-additional-major/",
+      "sha256": "d27b5456bd93366115154bc84ac4a065d8fcfd296cee3e43288bc15c69e7eea2",
+      "raw_file": "scratch/full-catalog/us-details/cmu/bd37449b3236c1afd869.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofengineeringandpublicpolicy/engineering-public-policy-additional-major/",
+      "sha256": "e921996c66f3b76a7334b764be9358017b42f20f28d3975f6ca5ca43336405f4",
+      "raw_file": "scratch/full-catalog/us-details/cmu/1c83913fc1c0a6ccb3af.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/integratedinnovationinstitute/engineering-design-innovation-entrepreneurship-additional-major/",
+      "sha256": "c8863d9d5cdd8c8fff23f3d9e45055b62ae09225480f7855aab7853d79040936",
+      "raw_file": "scratch/full-catalog/us-details/cmu/a7e810f4124664eefb9b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/",
+      "sha256": "eb271f44040a1c44778a7f9c1288e778ba425508c5bdc36a3796692bc2fbc7ee",
+      "raw_file": "scratch/full-catalog/us-details/cmu/536dbf50d805764546f3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/environmental-sustainability-studies/environmental-sustainability-studies-additional-major/",
+      "sha256": "ae835d2bfa47a3a5cd078eb85309a1732a9a22d0bd6c0cef46afb84cf9a5ae2c",
+      "raw_file": "scratch/full-catalog/us-details/cmu/00a01c957507306df20f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofcivilandenvironmentalengineering/environmental-engineering-bs/",
+      "sha256": "8ba236bf1cf99b5f04a66f465d23b0c99e81190965c4239f4e5c6dd989620ac0",
+      "raw_file": "scratch/full-catalog/us-details/cmu/37a098d3d8168644202a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/ethics-history-public-policy-ba-bs/",
+      "sha256": "b6e95d0bf0cd2bef4e0e0ca1d37711138886e2aecbe31594d8ce16ee72577510",
+      "raw_file": "scratch/full-catalog/us-details/cmu/1ea7d7ef6ac9e6229e87.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/film-visual-media-ba/",
+      "sha256": "e2454a3351c15e9ca42ac0c4b08286198d2089c6a8775df46d7bda5c2fc99fe6",
+      "raw_file": "scratch/full-catalog/us-details/cmu/b2273a5f840b3bb5803e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/general-studies-major/",
+      "sha256": "7acc1fc5641f408906e4350e5b1d20ea13db0219fe6b527989c784734931cca6",
+      "raw_file": "scratch/full-catalog/us-details/cmu/24b621df21e97f0a3b8e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentoflanguagesculturesappliedlinguistics/global-cultures-emerging-technologies-ba/",
+      "sha256": "b33f8851ddb02e2793586ce6960d8ef0bbc3fa8417765bdf2d34373678cd8b70",
+      "raw_file": "scratch/full-catalog/us-details/cmu/3204439308e7f7426c77.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/health-humanities-additional-major/",
+      "sha256": "4079427dcca981861746e9e9c37da1f571393c2aaf7f91fb79d7aae73f9f22b9",
+      "raw_file": "scratch/full-catalog/us-details/cmu/1e7dff3ed63a9cf33491.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/history-ba/",
+      "sha256": "88c07a180a519864aa367af10c135b22695879bf6b0e2b5e1b4ee4a8152ae4e6",
+      "raw_file": "scratch/full-catalog/us-details/cmu/e99934d7861fd1010396.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-additional-major/",
+      "sha256": "f4bf98e9b92030b552f35067475799ab96d3e3b7275c7081dc2b7d8a940858ae",
+      "raw_file": "scratch/full-catalog/us-details/cmu/fc718a5292a07db54fa7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-bs/",
+      "sha256": "47b55a6fa59d493f455829e73eb19ba5a03548c818723f6d8d5fbc1ca90a8d37",
+      "raw_file": "scratch/full-catalog/us-details/cmu/9ea03706ff7ca445ce23.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/",
+      "sha256": "1e8c487802c8a41b301bedc0dc6ae616f0c29abcc9962006a82392e638fa91fc",
+      "raw_file": "scratch/full-catalog/us-details/cmu/93456b3f308031b69c11.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/informationsystems/information-systems-bs/",
+      "sha256": "d5a629621ef2c5ba3f5dea1b010251d43ebd125e090e7743af34a1753053e5cc",
+      "raw_file": "scratch/full-catalog/us-details/cmu/7a495c084561903bf159.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/international-relations-political-science-bs/",
+      "sha256": "f5910816331b4a69f1eb3eb9d0edab89e2d00a1d6c072459212c07b6163c24ae",
+      "raw_file": "scratch/full-catalog/us-details/cmu/b969547b44cdc2828912.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentoflanguagesculturesappliedlinguistics/languages-cultures-ba/",
+      "sha256": "43f278d430ba92c3feccb119bf0937e374753830c1a9d08d7f119c05bf598f06",
+      "raw_file": "scratch/full-catalog/us-details/cmu/5beb63f1b2ef054c833f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/linguistics-ba/",
+      "sha256": "00d56ab659b27a0b1656f6f01872101cef55f8201a914d49979e72e60e9c70bb",
+      "raw_file": "scratch/full-catalog/us-details/cmu/1ded6497d0204ca958f4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/literature-culture-ba/",
+      "sha256": "55e68812cde02f3026d4773529467a96ab0a1e2fe67175135e8961b84d0bb4fa",
+      "raw_file": "scratch/full-catalog/us-details/cmu/2fdffec91220ac13b550.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/logic-computation-bs/",
+      "sha256": "126c3ab282fd854b7a9adba9c98ada944c050f21fdcf36f200c8fe9ce8fd1fff",
+      "raw_file": "scratch/full-catalog/us-details/cmu/e2caa607492d5677ab42.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/materialsscienceandengineering/materials-science-engineering-bs/",
+      "sha256": "ce6dcd0363f3c1069b136454e15a8e92209795565087856a65b5aeb5c7e2882a",
+      "raw_file": "scratch/full-catalog/us-details/cmu/d563b238b723aee53f3f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-ba/",
+      "sha256": "3f74938ce21ba96f40aae51bbc8264042b9d74bcd2066b00991e1f62152b3f04",
+      "raw_file": "scratch/full-catalog/us-details/cmu/aba4d23315d6d6637f50.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-bs/",
+      "sha256": "fcc2af5c8a6c378d04bd1e65bb51ed083014ed167ecc3807c122fe8217644efd",
+      "raw_file": "scratch/full-catalog/us-details/cmu/23caee2aaeeebf11ff2e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-economics-bs/",
+      "sha256": "02ed36147e70a6bb3d6e869efec5f05c6002443fab605d96fcf10b9055c88fe6",
+      "raw_file": "scratch/full-catalog/us-details/cmu/3284906fe394057bf82f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofmechanicalengineering/mechanical-engineering-bs/",
+      "sha256": "71e8488fa0215caae60c10edc7832a78636084513c38f592cc641e5691bcdb61",
+      "raw_file": "scratch/full-catalog/us-details/cmu/8f494743bcfb5e02b4ba.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-technology-bs/",
+      "sha256": "067a3d539b3fac1e434a6264664f94fb0717c02f6d6b3bdd87cd154ad3b8eb48",
+      "raw_file": "scratch/full-catalog/us-details/cmu/02476b032018f3c7044f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-performance-bfa/",
+      "sha256": "4c1118b85f421a12a886155c1dea1fbe19c7d31979ea43c1b71459bea2ea0851",
+      "raw_file": "scratch/full-catalog/us-details/cmu/7540a95e21819f0b2401.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/neuroscience-bs/",
+      "sha256": "3bc8f3ca289e28e74abf5638b1ef35d602bd61b1c5b0984cc420e9fd54327735",
+      "raw_file": "scratch/full-catalog/us-details/cmu/26761a8ce5f2947a9469.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/philosophy-ba/",
+      "sha256": "4c8ce327b9e881a17da2fd657658817b6e48e222b167bea2b397b0546a4f2263",
+      "raw_file": "scratch/full-catalog/us-details/cmu/14f3bd46381bbb6f30f3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-additional-major/",
+      "sha256": "e07984f923ea4d5c9e27dbb8bb440cc2db402f80ceb17fcb22ba83eb33e5db30",
+      "raw_file": "scratch/full-catalog/us-details/cmu/9a6756ea3a773621412e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-ba/",
+      "sha256": "9f7b94543c082b8991910cae86b58de654909aeb45b7efb543cab826fe83ae5e",
+      "raw_file": "scratch/full-catalog/us-details/cmu/afe14b82452d2234f0da.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-bs/",
+      "sha256": "5f5c1c0f7ecb10e39e2d242d6cd045bb15b95acb82f11dcf72557a530dbd78ff",
+      "raw_file": "scratch/full-catalog/us-details/cmu/1cd1385fc01842c41c71.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/policy-management-bs/",
+      "sha256": "a2cc5a9d003b81aac4d3e768dfb202fa203eaa0db945641203b1b0d7fc83027d",
+      "raw_file": "scratch/full-catalog/us-details/cmu/8e18865103a7aba6a092.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/political-science-security-technology-bs/",
+      "sha256": "50b553380206c05f4f5b407e7c06a420c4b28a54d1bb07b7815a82fc85a12724",
+      "raw_file": "scratch/full-catalog/us-details/cmu/31735e8d2f05a011ae32.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/professional-writing-ba/",
+      "sha256": "22b136aae62ead170ecd399c77419e6c64a3bd0bd1c07004efd530c2bb22365e",
+      "raw_file": "scratch/full-catalog/us-details/cmu/bf64841c4cd3438b720a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-ba-bs/",
+      "sha256": "0d09619af5b885c45b237f5332545089a61e2e1e75f78ab296e7ddd6c5a45977",
+      "raw_file": "scratch/full-catalog/us-details/cmu/79d48b251219f6911523.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-biological-sciences-bs/",
+      "sha256": "1a822012aa48c334e27b1158b875d4452ef1329d3c2ccc1cf89be349c7db6e39",
+      "raw_file": "scratch/full-catalog/us-details/cmu/399c18d69227b9fc8b36.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-additional-major/",
+      "sha256": "600dba6957b7c90a05f4a2a3921959e216078ce29facde781f9508452529beab",
+      "raw_file": "scratch/full-catalog/us-details/cmu/0ff644427b69bb8ba0e2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-bs/",
+      "sha256": "c4b9a1c44468c82bf9554920b2215bcef596c04513318a545ab052485807adaf",
+      "raw_file": "scratch/full-catalog/us-details/cmu/436aad5c24411a0ab913.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/",
+      "sha256": "21d26e29fbd7e0872dd59d92876a04f9201f4638430c025e2b4e99c69a69c7c4",
+      "raw_file": "scratch/full-catalog/us-details/cmu/2d40738cf0af2f9cffaf.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/science-technology-society-bs/",
+      "sha256": "086811becbed66e3f7d49d517fae37974b2f01a1e13d24d00fa395209c83fb54",
+      "raw_file": "scratch/full-catalog/us-details/cmu/d99858a8811ea2dbd15e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofengineeringandpublicpolicy/science-technology-public-policy-additional-major/",
+      "sha256": "e4e0d7450115884f1710b3c1252a00f77929cb7eb64b56e42e35bef564f64e64",
+      "raw_file": "scratch/full-catalog/us-details/cmu/c21648a18ff7eac3ceb7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-bs/",
+      "sha256": "8b5639d5860dd8001dc6f1d0f8b8f2633c6e5bce3c407fb7738f0c750e3ad4da",
+      "raw_file": "scratch/full-catalog/us-details/cmu/cabbf78106b9e77d21d5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-mathematical-sciences-track-bs/",
+      "sha256": "990aa5af43154c2bd5628e05664adb07ff46306e622b0b94668cb8793d3caafb",
+      "raw_file": "scratch/full-catalog/us-details/cmu/945a634881db2aceec60.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-neuroscience-track-bs/",
+      "sha256": "0d0a1b19028f32c04fa26ac3730e0f3ecf8d40ba1ed98282e56d77480c59ad76",
+      "raw_file": "scratch/full-catalog/us-details/cmu/5f694c14255e4d35d304.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-machine-learning-bs/",
+      "sha256": "916f5efadc93093ad39ee27d321516c6cba8c63f11535c82d5e28aad5842af8c",
+      "raw_file": "scratch/full-catalog/us-details/cmu/03ea0c82af063c28f835.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/technical-writing-bs/",
+      "sha256": "b3ea1674ce86ec7c1997607e0a8b1a10247627d4ccc328c27caff2d90f790535",
+      "raw_file": "scratch/full-catalog/us-details/cmu/0418ac069a70beadccf1.html",
+      "locator": "main/content > program section headings"
+    }
+  ]
+}

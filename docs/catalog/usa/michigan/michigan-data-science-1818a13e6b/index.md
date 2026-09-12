@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,50 @@ hide:
 
 <p><strong>条目类型：</strong>major</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录收录 Data Science（BS）。本轮尚未完成该独立项目课程、费用及毕业去向的逐项核对；学校通用规则另列。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-fc23bbf18aa15f">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>大陆普高与考试材料：</strong>中国普高申请可在高三递交，由学校发送原文成绩及正式英文译本；入学前需经证明的高考、会考或学考记录及译文。不考高考者可用会考／学考；AP课程者可按规则提供4门不同学术AP考试且含1门社会科学，或提交3–4门完整A-level、IB文凭等国际高中资格。不是固定分数保证录取。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-bc79f334f7d83f">官方依据</a></p>
+
+<p class="catalog-fact"><strong>A-level／IB：</strong>英国体系一般需同一考期至少5门普通级考试达 credit 水平且英语达 credit／distinction；在修A-level由学校提交预估结果，IB未考试也须预估分。页面的部分等级用于入学后学分抵免，不能当成录取等级。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-bc79f334f7d83f">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027 标化与 CS 入口更新：</strong>2027申请周期继续SAT/ACT可选。新年度公告明确取消 LSA／工程学院计算机专业的 advance selection；旧的一般申请页仍残留预选说明，本轮以年度新公告为准。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-97f69377531d96">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语一般分数范围：</strong>学校给出 IELTS约7.0且单项6.5+；TOEFL旧制约100，听读23+、说写21+，新制5–6且各项5+。这是官网一般可接受范围；本轮未将约数写成精确录取线。学校不提供通过强化英语补足后才入学的有条件录取。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-0c1c917e51fc79">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–27 申请周期：</strong>通过 Common Application，申请费USD75；页面标明2026–27申请周期，一般ED／EA截止11月1日，秋季RD为2月1日，特定学校／专业可不同。须提交学校报告、高中成绩及1份教师评价，counselor推荐为鼓励项。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-19dd357d6e5073">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际生资助与费用缺口：</strong>临时签证国际本科生不具备普通 financial aid 资格，应准备全额费用；奖学金很少、通常无可用资助。本轮尚未取得按学院、年级和2026/27对应的实际国际学费，未用全校平均数冒充专业费用。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-19dd357d6e5073">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +94,10 @@ hide:
 - [官方项目页面或项目所在目录](https://lsa.umich.edu/lsa/academics/majors-minors.html#data_science-maj)
 - [官方目录](https://admissions.umich.edu/academics-majors/majors-degrees)
 
+<div class="catalog-source" id="source-p-USBENR-fc23bbf18aa15f"><div><a href="https://admissions.umich.edu/academics-majors/majors-degrees">Data Science — 官方本科目录 ↗</a><p>专业名称与目录入口；本轮未取得独立课程完整详情</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-bc79f334f7d83f"><div><a href="https://admissions.umich.edu/apply/international-applicants/requirements-deadlines/requirements-country">Michigan 官方 大陆普高与考试材料 ↗</a><p>本条大陆普高与考试材料及申请年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-97f69377531d96"><div><a href="https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes">Michigan 官方 2027 标化与 CS 入口更新 ↗</a><p>本条2027 标化与 CS 入口更新及申请年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-0c1c917e51fc79"><div><a href="https://admissions.umich.edu/apply/international-applicants/exams-visas">Michigan 官方 英语一般分数范围 ↗</a><p>本条英语一般分数范围及申请年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-19dd357d6e5073"><div><a href="https://admissions.umich.edu/apply/international-applicants/requirements-deadlines">Michigan 官方 2026–27 申请周期 ↗</a><p>本条2026–27 申请周期及申请年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/michigan/">← 返回密歇根大学安娜堡分校</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

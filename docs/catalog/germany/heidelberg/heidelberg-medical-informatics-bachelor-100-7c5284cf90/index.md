@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Medical Informatics — Bachelor 100%</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>6 semesters</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>仅冬季学期</strong></div><div><span>学制</span><strong>6 学期</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>German</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>德语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,13 +38,23 @@ hide:
 
 <p><strong>条目类型：</strong>first-degree programme</p>
 
+<p class="catalog-fact"><strong>学习内容：</strong>把信息处理系统、方法与工具应用于医疗健康，学习系统选择、开发及解决实际医疗信息问题。</p>
+<p class="fact-sources"><a href="#source-p-heidelberg-detail-65-0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学位与学习安排：</strong>Bachelor of Science；标准学制：6 学期；授课语言：德语；开始学期：仅冬季学期。</p>
+<p class="fact-sources"><a href="#source-p-heidelberg-detail-65-0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程占比身份：</strong>目录身份为Bachelor 100%；50%或75%是组合学位中的主科学习份额，需要按学校组合规则搭配其他科目，不应当作独立全量单专业学位。</p>
+<p class="fact-sources"><a href="#source-p-heidelberg-detail-65-0">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>合作校申请：</strong>本项目须向Heilbronn University申请，不能在海德堡申请门户选择；合作项目本轮未另核大陆入学及收费细则。</p>
+<p class="fact-sources"><a href="#source-p-heidelberg-internal">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
@@ -54,6 +64,13 @@ hide:
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>培养与调查的区别：</strong>课程介绍说明研究能力与职业准备；本轮未核实各专业带明确毕业届次和样本范围的就业率或薪资。医学、法律等国家考试路径也不能作为普通六学期学士比较。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-catalogue-scope">官方依据</a></p>
+
+</details>
+
 ## 官方来源与核验记录 {#sources}
 
 目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
@@ -61,5 +78,8 @@ hide:
 - [官方项目页面或项目所在目录](https://www.uni-heidelberg.de/en/study/all-subjects/medical-informatics/medical-informatics-bachelor-100)
 - [官方目录](https://www.uni-heidelberg.de/en/study/all-subjects)
 
+<div class="catalog-source" id="source-p-heidelberg-detail-65-0"><div><a href="https://www.uni-heidelberg.de/en/study/all-subjects/medical-informatics/medical-informatics-bachelor-100">Medical Informatics ↗</a><p>课程内容、结构、学制、语言和申请方式</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-heidelberg-internal"><div><a href="https://www.uni-heidelberg.de/en/study/application-enrolment/starting-the-first-academic-semester-of-your-degree-programme/internal-university-selection-procedure/internal-university-selection-procedure-0">Heidelberg Non-EU/EEA internal selection ↗</a><p>非EU申请方式、资格与专业例外</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-catalogue-scope"><div><a href="https://www.uni-heidelberg.de/en/study/all-subjects">Heidelberg undergraduate study finder ↗</a><p>课程内容、培养方向及职业范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/">← 返回海德堡大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

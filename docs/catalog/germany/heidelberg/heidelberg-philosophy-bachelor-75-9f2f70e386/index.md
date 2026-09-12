@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Philosophy — Bachelor 75%</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>6 semesters</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>仅冬季学期</strong></div><div><span>学制</span><strong>6 学期</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>usually German</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>usually 德语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,21 +40,74 @@ hide:
 
 <p><strong>申请路径：</strong>Published percentage/subject combination route; must combine with a compatible subject. No combinations invented.</p>
 
+<p class="catalog-fact"><strong>学习内容：</strong>结合哲学史和经典文本，研究知识、意识、心物关系及伦理、行动等理论与实践问题。</p>
+<p class="fact-sources"><a href="#source-p-heidelberg-detail-77-3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学位与学习安排：</strong>Bachelor of Arts；标准学制：6 学期；授课语言：usually 德语；开始学期：仅冬季学期。</p>
+<p class="fact-sources"><a href="#source-p-heidelberg-detail-77-3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程占比身份：</strong>目录身份为Bachelor 75%；50%或75%是组合学位中的主科学习份额，需要按学校组合规则搭配其他科目，不应当作独立全量单专业学位。</p>
+<p class="fact-sources"><a href="#source-p-heidelberg-detail-77-3">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>申请时语言证明：</strong>对非EU/EEA境外资格申请者，该课程列入须申请时证明DSH-2或同等的名单，不能等录取后才开始准备。</p>
+<p class="fact-sources"><a href="#source-p-heidelberg-language">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国学历按资格路径核查：</strong>学校按ZAB框架审核境外入学资格；只有部分相当者可申请Studienkolleg及Feststellungsprüfung。APS的2026年8月高考程序以12年学校教育、高中毕业与会考及高考科目为前提：总分70%路径可形成受专业限制的直接资格，60%路径主要面向相关预科及资格考试；最终录取仍由大学决定。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-requirements">官方依据</a> · <a href="#source-u-heidelberg-aps70">官方依据</a> · <a href="#source-u-heidelberg-aps60">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考专业限制：</strong>70%路径还须满足相应高考科目组合；医学、牙医、药学等及法律的直接资格要求80%并有指定科目组合。不能把单一总分门槛理解为可任意申请全部学科。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-aps70">官方依据</a></p>
+
+<p class="catalog-fact"><strong>德语通用要求与例外：</strong>通常要求DSH-2或认可同等（例如TestDaF四项均TDN4、telc C1 Hochschule），一般最迟注册时提交；部分项目须申请时提交，部分须DSH-3或更高分项。实际授课可含英语等，但不能因此省去学校要求的德语证明。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-language">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>申请及注册渠道：</strong>非EU/EEA境外学历申请者须先正式申请，录取后按录取信期限在heiCO注册；达到资格不代表有名额。医学信息学由Heilbronn管理申请及注册，体育、犹太研究等另有程序。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-internal">官方依据</a> · <a href="#source-u-heidelberg-enrolment">官方依据</a></p>
+
+<p class="catalog-fact"><strong>现行本科申请窗口：</strong>学校中央页现列：限制录取或入学考试项目冬季6月1日至7月15日、夏季12月1日至1月15日；无录取限制且无入学考试项目冬季6月1日至10月31日、夏季12月1日至4月30日。属于循环期限，非独立2027承诺；只适用于该项目实际开设的学期。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-dates">官方依据</a></p>
+
+<p class="catalog-fact"><strong>医学牙医药学非EU类别：</strong>非EU/EEA且持境外入学资格者，医学、牙医、药学现行冬季窗口为6月1日至7月15日，直接向海德堡申请，夏季不提供。不能使用德国/EU申请者的Hochschulstart旧生5月期限。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-dates">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国新生常见收费：</strong>现行规则向非EU/EEA且持境外入学资格的本科及国家考试学生收EUR 1,500/学期；当前另列学期杂费EUR 189.80。符合特定居留、学历或法定例外者可有豁免，不能因学校属公立就写免学费；本轮未取得独立2027费表。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-fees">官方依据</a> · <a href="#source-u-heidelberg-semester">官方依据</a></p>
+
+<p class="catalog-fact"><strong>新生学费豁免申请：</strong>校规允许在5%额度内豁免新入学国际生学费；一般申请截止冬季7月15日、夏季1月15日，需按表格及章程交证明，并非自动奖学金。页面的特定财务紧急救助不适用于首次第一学期新生。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-fees">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>培养与调查的区别：</strong>课程介绍说明研究能力与职业准备；本轮未核实各专业带明确毕业届次和样本范围的就业率或薪资。医学、法律等国家考试路径也不能作为普通六学期学士比较。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-catalogue-scope">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -63,5 +116,17 @@ hide:
 - [官方项目页面或项目所在目录](https://www.uni-heidelberg.de/en/study/all-subjects/philosophy/philosophy-bachelor-75)
 - [官方目录](https://www.uni-heidelberg.de/en/study/all-subjects)
 
+<div class="catalog-source" id="source-p-heidelberg-detail-77-3"><div><a href="https://www.uni-heidelberg.de/en/study/all-subjects/philosophy/philosophy-bachelor-75">Philosophy ↗</a><p>课程内容、结构、学制、语言和申请方式</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-heidelberg-language"><div><a href="https://www.uni-heidelberg.de/en/study/advisory-services/learning-languages/language-requirements-for-international-students">Heidelberg Language requirements for international students ↗</a><p>德语门槛、提交时间与特殊课程</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-requirements"><div><a href="https://www.uni-heidelberg.de/en/study/application-enrolment/study-requirements">Heidelberg Study requirements ↗</a><p>外国资格、ZAB评估与预科</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-language"><div><a href="https://www.uni-heidelberg.de/en/study/advisory-services/learning-languages/language-requirements-for-international-students">Heidelberg Language requirements for international students ↗</a><p>德语门槛、提交时间与特殊课程</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-internal"><div><a href="https://www.uni-heidelberg.de/en/study/application-enrolment/starting-the-first-academic-semester-of-your-degree-programme/internal-university-selection-procedure/internal-university-selection-procedure-0">Heidelberg Non-EU/EEA internal selection ↗</a><p>非EU申请方式、资格与专业例外</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-enrolment"><div><a href="https://www.uni-heidelberg.de/en/study/application-enrolment/enrolment/enrolment-in-the-1st-academic-semester-1">Heidelberg Enrolment non-EU applicants ↗</a><p>heiCO注册与截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-dates"><div><a href="https://www.uni-heidelberg.de/en/study/management-of-studies/key-dates-deadlines/application-deadlines-for-the-1st-semester-of-undergraduate-degree-programmes">Heidelberg Undergraduate application deadlines ↗</a><p>非EU与项目类别的现行申请窗口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-fees"><div><a href="https://www.uni-heidelberg.de/en/study/management-of-studies/semester-fees/tuition-fees-for-international-students">Heidelberg Tuition fees for international students ↗</a><p>非EU费率、豁免和减免范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-semester"><div><a href="https://www.uni-heidelberg.de/en/study/management-of-studies/semester-fees">Heidelberg Semester fees ↗</a><p>当前学期杂费金额</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-aps70"><div><a href="https://www.aps.org.cn/wp-content/uploads/272_voraussetzungen_70_verfahren_gaokao_chn.pdf">APS 高考成绩70%以上程序适用条件 ↗</a><p>中国高考直接资格与科目限制；2026年8月</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-aps60"><div><a href="https://www.aps.org.cn/wp-content/uploads/271_voraussetzungen_60_verfahren_gaokao_chn.pdf">APS 高考成绩60%以上程序适用条件 ↗</a><p>中国高考预科/资格考试路径；2026年8月</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-catalogue-scope"><div><a href="https://www.uni-heidelberg.de/en/study/all-subjects">Heidelberg undergraduate study finder ↗</a><p>课程内容、培养方向及职业范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/">← 返回海德堡大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

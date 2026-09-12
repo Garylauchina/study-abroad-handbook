@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,56 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-76c78b0c68201f">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程表举例：</strong>目录所列课程包括：Introduction to Philosophy；Introduction to Ethics；Introduction to Political Philosophy；Social Structure, Public Policy &amp; Ethics；Philosophy of Race and Gender；Environmental Ethics。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-76c78b0c68201f">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际学历：</strong>国际学生使用与美国本土申请人相同的申请程序；非英语成绩单须有正式译本并经学校人员确认。正在修读 IB 或 GCE A-level 的申请人提交预估考试成绩。本轮未取得可作为专业录取线的大陆高考／普高固定分数。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c32178daec96ec">官方依据</a></p>
+
+<p class="catalog-fact"><strong>工程与艺术入口：</strong>工程一般直接按院系／专业录取，选择 Engineering Undecided 者再在大一分流；转专业不保证。艺术学院的戏剧和音乐需预筛、试镜／试演或作品审查；建筑、美术、设计须提交规定作品集。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-fec99727d30f81">官方依据</a></p>
+
+<p class="catalog-fact"><strong>标化考试按学院区分：</strong>计算机学院要求 SAT 或 ACT。工程、Dietrich 文社科、Information Systems、Mellon 理科和 Tepper 商学院实行 test-flexible，仍须提交认可测试，可选 SAT/ACT、IB、AP、A-level 或法国会考等。艺术学院 test-optional，但作品／试演要求仍适用；不能将 flexible 理解为免考。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-264523f5048d9c">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语：</strong>母语非英语者须提交英语测试，成绩2年内。IELTS 总分至少7.5；TOEFL 2026-01-21前至少102，该日起至少5；DET 至少135。官网对小分另给优先考虑水平：IELTS7.5、旧TOEFL25／新5、DET四项135；这些小分措辞不同于总分硬门槛。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c32178daec96ec">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>现行申请日程：</strong>Early Decision 截止11月2日且具有约束性；普通 Regular Decision 截止1月4日。戏剧与音乐 RD 为12月1日，且戏剧、音乐及 BXA Design 不开放 ED。所读页面未逐项标入学年，暂按现行日程保留；艺术材料另有安排。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-1a9217deaf3fb4">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 匹兹堡本科预算：</strong>官方 I-20/DS-2019 预算表：学费 USD69,702、费用1,862、住房11,700、餐食7,950、保险3,265、书本用品2,400，合计96,879／学年。仅匹兹堡本科；保险栏脚注仍按2025/26估算，2027入学价格本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-684580ad7b78d5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助：</strong>大学明确不向这里定义的国际生（将在美国持临时签证学习者）提供 financial aid，家庭应准备全额就读费用；不把其他身份的资助政策套用于 F/J 国际生。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c32178daec96ec">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +100,11 @@ hide:
 - [官方项目页面或项目所在目录](https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/philosophy-ba/)
 - [官方目录](https://coursecatalog.web.cmu.edu/programs/)
 
+<div class="catalog-source" id="source-p-USBENR-76c78b0c68201f"><div><a href="https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/philosophy-ba/">Philosophy — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-c32178daec96ec"><div><a href="https://www.cmu.edu/admission/admission/international-applicants">cmu 官方 international ↗</a><p>本条国际学历及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-fec99727d30f81"><div><a href="https://www.cmu.edu/admission/admission/undergraduate-admission-requirements">cmu 官方 requirements ↗</a><p>本条工程与艺术入口及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-264523f5048d9c"><div><a href="https://www.cmu.edu/admission/admission/standardized-testing">cmu 官方 testing ↗</a><p>本条标化考试按学院区分及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-1a9217deaf3fb4"><div><a href="https://www.cmu.edu/admission/admission/application-plans-deadlines">cmu 官方 deadlines ↗</a><p>本条现行申请日程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-684580ad7b78d5"><div><a href="https://www.cmu.edu/oie/pre-arrival-and-settling-in/students/instructions/estimated-expenses.html">cmu 官方 tuition ↗</a><p>本条2026/27 匹兹堡本科预算及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/cmu/">← 返回卡内基梅隆大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

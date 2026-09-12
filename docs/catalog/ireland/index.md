@@ -14,7 +14,7 @@ hide:
 先选择大学，再进入专业查看入学条件、国际生学费和毕业生情况。当前收录 2 所 QS 2027 前 100 名大学；“=”表示并列。专业详情收录情况见学校卡片。
 
 <div class="university-grid">
-<article class="university-card" data-university-id="trinity-dublin"><span class="qs-rank">QS 2027 · <strong>75</strong></span><p class="catalog-eyebrow">爱尔兰 · Dublin</p><h2><a class="" href="/study-abroad-handbook/catalog/ireland/trinity-dublin/">都柏林圣三一大学</a></h2><p class="university-english">Trinity College Dublin, The University of Dublin</p><p class="university-coverage">118 个专业条目 · 0 个含详细资料</p><a class="program-open" href="/study-abroad-handbook/catalog/ireland/trinity-dublin/">查看学校与专业入口 →</a></article>
+<article class="university-card" data-university-id="trinity-dublin"><span class="qs-rank">QS 2027 · <strong>75</strong></span><p class="catalog-eyebrow">爱尔兰 · Dublin</p><h2><a class="" href="/study-abroad-handbook/catalog/ireland/trinity-dublin/">都柏林圣三一大学</a></h2><p class="university-english">Trinity College Dublin, The University of Dublin</p><p class="university-coverage">117 个专业条目 · 0 个含详细资料 · 117 个补有专业资料 · 0 个仅补学校共用资料</p><a class="program-open" href="/study-abroad-handbook/catalog/ireland/trinity-dublin/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="ucd"><span class="qs-rank">QS 2027 · <strong>=100</strong></span><p class="catalog-eyebrow">爱尔兰 · Dublin</p><h2><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/">都柏林大学</a></h2><p class="university-english">University College Dublin</p><p class="university-coverage">151 个专业条目 · 0 个含详细资料</p><a class="program-open" href="/study-abroad-handbook/catalog/ireland/ucd/">查看学校与专业入口 →</a></article></div>
 
 <a class="md-button" href="/study-abroad-handbook/?country=ireland#program-finder">筛选这里的大学与专业 →</a>

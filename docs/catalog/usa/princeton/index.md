@@ -23,47 +23,88 @@ hide:
 
 ## 专业与申请资料
 
-36 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+36 个专业条目 · 0 个含详细资料 · 36 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=princeton#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-african-american-studies-3056157e8b/">African American Studies</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-anthropology-590874e948/">Anthropology</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-architecture-949a58acc6/">Architecture</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-art-and-archaeology-70f0b92674/">Art and Archaeology</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-astrophysical-sciences-72a1638659/">Astrophysical Sciences</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-chemical-and-biological-engineering-b03f20fd7d/">Chemical and Biological Engineering</a><small>B.S.E. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-chemistry-f0f7c1f9c5/">Chemistry</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-civil-and-environmental-engineering-dc46cee993/">Civil and Environmental Engineering</a><small>B.S.E. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-classics-ceeda0ddd1/">Classics</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-comparative-literature-3a59c75f07/">Comparative Literature</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-computer-science-0eee0f310f/">Computer Science</a><small>A.B. / B.S.E. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-east-asian-studies-a303fa2829/">East Asian Studies</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-ecology-and-evolutionary-biology-8de75e6136/">Ecology and Evolutionary Biology</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-economics-30056a1329/">Economics</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-electrical-and-computer-engineering-3267021ef7/">Electrical and Computer Engineering</a><small>B.S.E. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-english-47ef366730/">English</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-french-and-italian-2a3a67ad9c/">French and Italian</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-geosciences-7ea9b08fe2/">Geosciences</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-german-fc5a11b384/">German</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-history-fcb4faa2c5/">History</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-mathematics-7629927e05/">Mathematics</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-mechanical-and-aerospace-engineering-25a597c431/">Mechanical and Aerospace Engineering</a><small>B.S.E. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-molecular-biology-bded366f0b/">Molecular Biology</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-music-7dd0aa083e/">Music</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-near-eastern-studies-c330c63b07/">Near Eastern Studies</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-neuroscience-b6ff2db385/">Neuroscience</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-operations-research-and-financial-engineering-8a2439c53a/">Operations Research and Financial Engineering</a><small>B.S.E. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-philosophy-cc5d9a9b09/">Philosophy</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-physics-9e20bdeb53/">Physics</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-politics-d04ebfcf06/">Politics</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-psychology-1691238c22/">Psychology</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-public-policy-princeton-school-of-public-and-international-affair-79b5774f24/">Public Policy (Princeton School of Public and International Affairs)</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-religion-f92b1fd4de/">Religion</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-slavic-languages-and-literatures-791d5b4eac/">Slavic Languages and Literatures</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-sociology-61e9a8d873/">Sociology</a><small>A.B. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-spanish-and-portuguese-bbd665ffe9/">Spanish and Portuguese</a><small>A.B. · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-african-american-studies-3056157e8b/">African American Studies</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-anthropology-590874e948/">Anthropology</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-architecture-949a58acc6/">Architecture</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-art-and-archaeology-70f0b92674/">Art and Archaeology</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-astrophysical-sciences-72a1638659/">Astrophysical Sciences</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-chemical-and-biological-engineering-b03f20fd7d/">Chemical and Biological Engineering</a><small>B.S.E. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-chemistry-f0f7c1f9c5/">Chemistry</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-civil-and-environmental-engineering-dc46cee993/">Civil and Environmental Engineering</a><small>B.S.E. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-classics-ceeda0ddd1/">Classics</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-comparative-literature-3a59c75f07/">Comparative Literature</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-computer-science-0eee0f310f/">Computer Science</a><small>A.B. / B.S.E. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-east-asian-studies-a303fa2829/">East Asian Studies</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-ecology-and-evolutionary-biology-8de75e6136/">Ecology and Evolutionary Biology</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-economics-30056a1329/">Economics</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-electrical-and-computer-engineering-3267021ef7/">Electrical and Computer Engineering</a><small>B.S.E. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-english-47ef366730/">English</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-french-and-italian-2a3a67ad9c/">French and Italian</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-geosciences-7ea9b08fe2/">Geosciences</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-german-fc5a11b384/">German</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-history-fcb4faa2c5/">History</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-mathematics-7629927e05/">Mathematics</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-mechanical-and-aerospace-engineering-25a597c431/">Mechanical and Aerospace Engineering</a><small>B.S.E. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-molecular-biology-bded366f0b/">Molecular Biology</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-music-7dd0aa083e/">Music</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-near-eastern-studies-c330c63b07/">Near Eastern Studies</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-neuroscience-b6ff2db385/">Neuroscience</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-operations-research-and-financial-engineering-8a2439c53a/">Operations Research and Financial Engineering</a><small>B.S.E. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-philosophy-cc5d9a9b09/">Philosophy</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-physics-9e20bdeb53/">Physics</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-politics-d04ebfcf06/">Politics</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-psychology-1691238c22/">Psychology</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-public-policy-princeton-school-of-public-and-international-affair-79b5774f24/">Public Policy (Princeton School of Public and International Affairs)</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-religion-f92b1fd4de/">Religion</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-slavic-languages-and-literatures-791d5b4eac/">Slavic Languages and Literatures</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-sociology-61e9a8d873/">Sociology</a><small>A.B. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/princeton/princeton-spanish-and-portuguese-bbd665ffe9/">Spanish and Portuguese</a><small>A.B. · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>中国中学材料与英文批改论文：</strong>按所读国家课程体系理解成绩，无需自行换算GPA；有毕业离校考试者由学校提交预估或已取得成绩。需提交教师批改过的英文论文，论文及教师评语必须原本以英文写成，不能用中文论文翻译件代替。</p>
+<p class="fact-sources"><a href="#source-u-princeton-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027和2028考试政策分开：</strong>2027秋季新生/转学生仍可选择不交SAT/ACT，不因不交受劣势；恢复要求SAT/ACT的是2028秋季入学，即2027–2028申请周期。不能把申请周期误写成入学年份。</p>
+<p class="fact-sources"><a href="#source-u-princeton-testing">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语能力：</strong>英语非母语且学校非英语授课者须TOEFL、IELTS Academic、DET或PTE Academic；母语英语或至少三年英语为主要教学语言的中学学习可免。本轮未取得统一IELTS硬最低值，不编造分数。</p>
+<p class="fact-sources"><a href="#source-u-princeton-checklist">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>共同申请与作品集日期：</strong>通过Common App及Princeton补充问题，交批改论文、学校报告、成绩、辅导员及两位不同学科教师推荐。当前SCEA主申请11月1日、RD1月1日，艺术补充材料分别11月6日/1月8日，不能混为同一天；本页月日未逐项标入学年，申请时再确认当年日历。</p>
+<p class="fact-sources"><a href="#source-u-princeton-dates">官方依据</a> · <a href="#source-u-princeton-checklist">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026–2027年度学费：</strong>标准学费US$68,140；校方基础全年预算US$94,624。交通按人估计另计，未有合资格家庭保险者须购买学生医保；不把基础预算当中国学生含全部机票和保险的固定总价。</p>
+<p class="fact-sources"><a href="#source-u-princeton-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生经济资助：</strong>国际生同样不因经济需要影响录取，并满足学校认定的全部需要；以无需偿还助学金提供，学校不设学术或体育merit奖。家庭承担额按学校对家庭资料的评估确定。</p>
+<p class="fact-sources"><a href="#source-u-princeton-international">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>专业调查范围：</strong>本轮未取得36个本科学习领域的同届国际/中国生就业率与薪酬分组调查，单门课或领域概览不能代替毕业结果。</p>
+<p class="fact-sources"><a href="#source-u-princeton-international">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-princeton-international"><div><a href="https://admission.princeton.edu/apply/international-students">princeton 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-princeton-testing"><div><a href="https://admission.princeton.edu/apply/standardized-testing">princeton 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-princeton-checklist"><div><a href="https://admission.princeton.edu/apply/application-checklist">princeton 官方本科资料：checklist ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-princeton-dates"><div><a href="https://admission.princeton.edu/apply/first-year-application-dates-deadlines">princeton 官方本科资料：dates ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-princeton-fees"><div><a href="https://admission.princeton.edu/cost-aid/fees-payment-options">princeton 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

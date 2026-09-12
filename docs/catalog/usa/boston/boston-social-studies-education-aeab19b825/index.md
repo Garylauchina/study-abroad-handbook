@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,53 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：BS；资料期为Current official directory, checked 2026-09-12。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-ae22098addd8c8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程表举例：</strong>官方要求段落列出：CAS EE 201 World Regional Geography (4 units)；CAS HI 151 Emergence of the United States to 1865 (4 units)；CAS HI 152 The United States Since 1865 (4 units)；CAS HI 175 or HI 101 World History I (4 units)；CAS HI 176 World History II (4 units)。这里只列部分课程名称／代码，可能包含选修及衔接硕士课程，须按本科与硕士阶段分开核对。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-ae22098addd8c8">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际本科新生材料：</strong>通过 Common Application，提交中学及高三成绩、学校与教师推荐、英语测试、财力证明和护照信息。A-level／IB等国际课程需学校提交预估考试结果；本轮未取得高考固定最低分。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-aa9a1743b3eeb9">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国普高资格：</strong>国家学历表将中国的 Senior High School Graduation Certificate（高中毕业证书）列为所需中学完成资格。该表不是高考分数线，也不能单独证明满足每个专业选拔要求。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c05f2b2e263df3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语与 SAT/ACT：</strong>SAT/ACT可选政策覆盖到2028秋／2029春入学。IELTS总分7即可满足其英语要求；TOEFL旧制90–100且单项20、新制5.0以上、DET125–135为官网竞争力描述，须与 IELTS 的要求措辞区分。仍会审小分一致性；不接受 IELTS One Skill Retake。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-aa9a1743b3eeb9">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>现行申请日程：</strong>页面现列 ED 11月2日、ED2与普通 RD 1月5日；ED有约束性。音乐／戏剧预筛和 merit scholarship 为12月1日。所读日期表未逐项标入学年，本轮保留为现行日程，未单独确认为2027专项公告。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-dc245c713336ae">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 普通全日制本科预算：</strong>年学费 USD73,024，住房13,170、餐食7,570、费用1,570，账单估计95,334；加书本、个人及本地交通后98,419。保险可能另收。该表不应套用于 MET 继续教育、按学分付费或硕士衔接阶段，2027价格本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-86b24e10743abf">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生 merit 奖学金：</strong>国际新生可申请 Presidential Scholarship；自2026秋入学者起为每年半额学费，须12月1日前完成录取申请。属于竞争性奖项，不自动从预算扣除；普通 need-based助学覆盖承诺在学费页限定美国公民及永久居民。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-446495b1d41c1d">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +97,11 @@ hide:
 - [官方项目页面或项目所在目录](https://www.bu.edu/academics/wheelock/programs/social-studies-education/bs/)
 - [官方目录](https://www.bu.edu/academics/degree-programs/)
 
+<div class="catalog-source" id="source-p-USBENR-ae22098addd8c8"><div><a href="https://www.bu.edu/academics/wheelock/programs/social-studies-education/bs/">Social Studies Education — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-aa9a1743b3eeb9"><div><a href="https://www.bu.edu/admissions/apply/international/">boston 官方 international ↗</a><p>本条国际本科新生材料及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-c05f2b2e263df3"><div><a href="https://www.bu.edu/admissions/apply/international/school-credentials/">boston 官方 china ↗</a><p>本条中国普高资格及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-dc245c713336ae"><div><a href="https://www.bu.edu/admissions/apply/deadlines/">boston 官方 deadlines ↗</a><p>本条现行申请日程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-86b24e10743abf"><div><a href="https://www.bu.edu/admissions/tuition-aid/tuition/">boston 官方 tuition ↗</a><p>本条2026/27 普通全日制本科预算及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-446495b1d41c1d"><div><a href="https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/first-year-merit/">boston 官方 merit ↗</a><p>本条国际生 merit 奖学金及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/boston/">← 返回波士顿大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

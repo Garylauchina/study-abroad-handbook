@@ -1,0 +1,743 @@
+{
+  "university_id": "berkeley",
+  "sources": [
+    {
+      "url": "https://admissions.berkeley.edu/apply-to-berkeley/international-students/requirements-for-international-students/",
+      "sha256": "d77e96e2ba4d8945a1bbbf0a74ccdb760015b2fa8f0f04b4c4a0189198d6f437",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/berkeley/requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.universityofcalifornia.edu/admission-requirements/freshman-requirements/",
+      "sha256": "23f0656b7aeeb6f2bc218016ae81eedcf0eb74a501da24badcda89a661f63354",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/berkeley/uc-firstyear.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html",
+      "sha256": "42ad142470a7c00c44bded60303f12fbe4b5a84052b1d108a0339fd8ef59d237",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/berkeley/uc-test-policy.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.berkeley.edu/basic-admission-requirements/",
+      "sha256": "786d13a07ab911ca42196fe8dec7002a6706377635d96adcfeaa37185cdc5b01",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/berkeley/basic.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.berkeley.edu/apply-to-berkeley/dates-deadlines/",
+      "sha256": "065b684bd5c91220a22400507d24d2363deb027eccda442adff484d8447d4e0a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/berkeley/dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universityofcalifornia.edu/news/press-releases-and-statements/academic-senate-review-admissions",
+      "sha256": "73ef5db2aa3ab99aed76eca77af97c53e74d735aff1fc49eca89dd515ed3c335",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/berkeley/uc-review-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/",
+      "sha256": "7dd173980eda301c10aec1282dfbd2ccf94db2e9c3a95a0e6014e68d04f37b7a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/berkeley/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://financialaid.berkeley.edu/apply-now/international-students/",
+      "sha256": "bf2b06ed2d48ba5d9b83be7ba3513fd27370a03aa92bc3402993a1e56cfacaba",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/berkeley/aid.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.berkeley.edu/apply-to-berkeley/international-students/",
+      "sha256": "8b6aa1f6f324185a1709cca97d8bf6bb9316d0015c44a62343bed443ad2e60bd",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/berkeley/international.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/z5SVnW3RWZv5syG4KuEY",
+      "sha256": "96638aa3d474fd58ef51e454ffdd618003b85d89b4ecca47edb5ab77be114d00",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/acdd4c6481e876365bcd.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/yKx5e1eCFAIJMGT5mAzC",
+      "sha256": "3705f59c88f32c5a270556e2da5c106d13c4d0e5a6afa04a5f12ea9630dac45d",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/147214e2d46ef7c71a28.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/tOjk97DmMV1K3NLmM6uC",
+      "sha256": "e9c518e07a7c04acab720b0710da17bc29f264956fbc6c432dd6b2132209d12d",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/4b283d7a14e5cfa73441.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/lGbzq1dRlrsI9hRKhf4v",
+      "sha256": "243763a971e259127cbdb234c1fc003747986ebc5d06f3f75be446b5441bdf14",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/fc87e9847c08936fb448.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/WcOMqISTJjhA3geDPyHD",
+      "sha256": "2774711e2a56dfe4b48b3ce25da1eaba8c4d7cc573a8cc42cf945cb785a91e99",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/ec58debb520f862a896f.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/W6MfSZuhUsGbItNWH6T8",
+      "sha256": "d385f578db9aa0822f9ba70d60a6ca11cb403ddc3a84bb9fdcacb99e283f8b79",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/cfb2dc73021ea9153e01.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/VzaVU2tVa3uyAmZWh9XJ",
+      "sha256": "372b94dbf623fabc9f20181673fd255841cc4fdfb335e373961e0a1984d82eda",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/97a7beae9c4dd9643a30.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/Tqx3rktbkoWOvjBatqi1",
+      "sha256": "93a6ee6b7024620b4df2693fc6407eab8c0ddfa5925d065a2adde1abed47bb75",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/efc2c6c60cf332de8a28.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/T47e1lSWqoKkDYD3zeRm",
+      "sha256": "adc114e908663b773e65be9e2738478caaac7942a6a4d44cb4b1b5c9d5637cde",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/f469498a116f9db20a68.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/R7GK397hLDIKdTjHeVoj",
+      "sha256": "f6ebfed1d74c91cd0202ca505beb01d7ae3441071e43ef4f4f394d769112dd77",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/0f9f24e593109b601ff8.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/JHbdnKFVpcEq13grTsic",
+      "sha256": "f5ec86c1dd1818f59a4e0461d62d4daebb3aaeeeacdf15d30a52d11c42616ad2",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/1dff7852e4b2aede3237.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/040KGU",
+      "sha256": "adb5223ed60f9460836e7ff689b7ba86b85a15f3d0fd7adbb7b6e2da79ca41fc",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/a528fe164ff7761509c2.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/04206U",
+      "sha256": "3aa10d569c9aa0d5b9c0b23639f182021f616bb9129f6e2101266557843c67a9",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/53f744828b8ad3050eca.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/04351U",
+      "sha256": "66e03a4eae6019b65e44da5083671ffa9a65529e20f3647aa3d0e1bd074d7fd0",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/819bd79a73ce48ff17ca.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/043A2U",
+      "sha256": "b3d24c24e4f73c92b504fa1d4f743fad53dcea3f0bb0968e2623322250e3c37d",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/87cf8a7fb8e95432fad6.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/045A7U",
+      "sha256": "9356a2934c71735ce9f7233fdf4e7340da4ff68f01f12058ef4b0f7055c0cd4a",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/29611c99e0cf70334202.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/04746U",
+      "sha256": "09fcdad527e19569514a0859d104f977e57ddb31e06e029c0ab74aa545bea279",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/c75ed3676b6c3d3d0f78.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/04779U",
+      "sha256": "bdbbded87aa8bdda0e487885464f0c3198e110c5111de888f7a807b1e171adc9",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/b50675481daa1a6e5d3e.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/04847U",
+      "sha256": "49ad8f72294f25a07429018c5a9de76bc66481a10f298f9fab8237299c8e236b",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/8abace201b44f8778c18.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/10153U",
+      "sha256": "c6113c4e14402c65f831774bcf46780278f800ac0aadcf9cbb5c7b029cc05ef0",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/1209ec74553c3a9c566a.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/101A1U",
+      "sha256": "434962086cfd1501a67cab7fb14e0a2423edd3acdccdb0a24fc962af9f565202",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/b172a6f3571006128c5f.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/10294U",
+      "sha256": "57b0b96880ee714ad972c142babfb129566d3d0a833572d907125ca0cc3e52df",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/4b3f37ae309e5c324b4d.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/102B4U",
+      "sha256": "b2b5b44ec8c8a4428ab762d1bd4c945d174ec9634ab0f79fb459a3e5d54bb29b",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/f57c3507925fee63760a.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/102B5U",
+      "sha256": "f67625d013a1aae0fcfadb60fdeb0a70967c74cafad3409fab24b9418ce4457f",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/d8579d90ce7e1ed57a36.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/160M0U",
+      "sha256": "bd9f5f95a768b56cf473acf85f79dad205e485b5e8cba9fee679ee2bd79ab56f",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/53ccb4773f36765a7964.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16279U",
+      "sha256": "50caec233e9cb71a88c324485fd16580ca6551ff3e94d7f9dbb06e6bc7c366ea",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/740573a3622e35d999df.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16288U",
+      "sha256": "79927ff78cd3249a6f7fd9fa3ccdb64b222e0deb621792f8a8193e77e418ae27",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/1e5f9ee7ab479a5859b6.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/162B3U",
+      "sha256": "ddd9566f192d7a9edef8371b8abc6b061cc0f6710ecce44c239e6923e5fc5b51",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/f99c8903b239456c3c1c.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/162B6U",
+      "sha256": "019a2d5a0335fc45e20818eb777cc253f0517c1726995e2ab9d31be3c154a1de",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/b03e326a0bf27a4852b2.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/162B7U",
+      "sha256": "6f82488920881e674c4254c0f250301861396d9dc14320498479a918d5b2edac",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/47f893068666468702bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/162B8U",
+      "sha256": "bf9eadee5157728942b4e1079248a63de919c6036dcc09172c95ef5a84dc99e1",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/b81f052f012aa05f9b92.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/162B9U",
+      "sha256": "496dd663458932b7ac11fe930d1b028a8293bd713eee62ffcde901ac0db734cf",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/a09bca8c5bf37fce64f1.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/162C0U",
+      "sha256": "cc9725a4a1f12b7d266a0b23596f637e65870da221de40254913395bb3212fbc",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/4dce66bde828e5f7f8a2.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/162C6U",
+      "sha256": "2024c37461c3d7fb7aca2cdfde204acf809919e6fb04a7fb16e035cd47719215",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/cba16e760cfd46002074.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16300U",
+      "sha256": "b2af79a1bafae2ee44652435445d9b02622c6e6412d8e497661967c84fd048d9",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/03083b19c6cec474ce6a.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16306U",
+      "sha256": "ff465d2fb082929ed03c522d99d467e5aa14bd59da64bd53a7aeb402f79e9c6b",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/5e5e8ecd401699fe8347.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16312U",
+      "sha256": "b3d8be523dd536be46feecc78d0f093c2ded214596ea349192092a848427e7a1",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/d6dcf5685dfe854c9c06.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16315U",
+      "sha256": "20543403dc0097a69a6712e781de2340170eae6acd838ddc8339b68ddb4a24ab",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/f2a0b8d1f56eb3a0dcd2.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16324U",
+      "sha256": "fdb8800f89e20471e32cc9a055fc1c2d0271ff885cdc990936ef941d57b9e519",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/6bb288493f24b760505b.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16328U",
+      "sha256": "f93a6fd15fe046d072a59443c4c285a7cab759d4ab1fee2a3cf098e380a2071b",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/acc0287c325660d0bc1d.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16330U",
+      "sha256": "10eba641b123a17aeff08a5773c75a0bba672b5f62b4e813c0b775a2fa7a4e5d",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/21e97995381157c9f796.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16333U",
+      "sha256": "35b047439756b71edee91c0e7546bb744b083830ec6793d30fe081f5ec9e94c1",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/5c84e7fbd76501e51164.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16342U",
+      "sha256": "b9981960cd9a79f9e5e7d61f0febc01358c22ccd33c2f1a34727e14b0d1b03cc",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/fa2fc7f22d42585cdaa1.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/16384U",
+      "sha256": "a06c74456d75c7134ad3c1f02a2d65a106ad28b6883150090497c211ebff1197",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/23087273ea96f34e9254.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/19084U",
+      "sha256": "bae0a469b6e93121b7d34bde2d7c89295451f3d2cc08ab59331a6bd3e3286241",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/bccd0cbe5554884e7026.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/192D9U",
+      "sha256": "3423b5fbab32592623f70e30828535419b64645f86137572af42dfdaae6b8197",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/51cd4bcf21f1a2a240de.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/19489U",
+      "sha256": "56e46353c6d09e444208b729bc7761e39605863e4e0cb418f7ab7fb85682f492",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/32a13de671a88350dff1.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/19912U",
+      "sha256": "b43029df0f3d87601b18ea80d6cc63f2b60b96c5d2ec1871c75bb87ebe16044f",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/f03dd88415d8d7b07d5c.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25014U",
+      "sha256": "8c98ded4de9b6c7799be340c377aa28ec3d02071cc26d548b616f8ea0f294c2c",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/c667c5ee8fbb8aa185a4.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25045U",
+      "sha256": "b2da117b45b8d546b0fabed58e0585cfd130501b6c4959af62365f5f05c4226a",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/71f1d8c058b7103ab381.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25063U",
+      "sha256": "743f8e922f9db9ebf9e226226584e1049301ac1ff5cf4ea272fc397c2dbff9b6",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/53214ed30f563fffaeab.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25072U",
+      "sha256": "d489724d8077d089eaf2fb0a7ca09c1e6661ad554b67319d1853f9bf4c68ebc1",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/cd2cd859dd8aacab8cf2.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25090U",
+      "sha256": "aed6e2c56d0d11dfc059fd4be7073278fe6f69b4d511b76f4c9cb483b47bf119",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/4a869dc207603f641df4.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/250M1U",
+      "sha256": "fa3adc647d5ba70234262ce6fa4c2dedc2bbfe19ee736b4acd2765f3238ccd3c",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/e84f647924acbd647051.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25101U",
+      "sha256": "5c18eba0ec3ed1315ab4b98b4456e6aaa7321286bd375953700906bed3702387",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/6c6dd681a91542c09122.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25147U",
+      "sha256": "96a614f66a8e594ae8d19a553900e0ad6f189953f9fe927a499ea03fecc6a157",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/461cd17d13c6d4f8e4b2.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25153U",
+      "sha256": "4c2755b7d9cca10a4d3ae6923fcda3d7e7ef48cf35b5d96e88fbb50204270b79",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/aad8125df85f32047d06.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25179U",
+      "sha256": "880e8fc9a5d1c2f9690d360f79e50f5744eed86c4af2296f1b9c5666502462ba",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/5f0e44bbe241bfa0e76c.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25192U",
+      "sha256": "06154ce0ff9778f7c5632a4caf1d83f2d47bbf637979183193461917ef82f7d6",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/33c9faa9c21b232e198e.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25236U",
+      "sha256": "9eb35574bea0d8b046b26af64aab3bfea514c3a6beb55998552b6adb1d112cf5",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/283600ae6e8506b6e714.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25246U",
+      "sha256": "82ce577a487976c4c1101aa9a91518be5c8bbaed67093fa9ea90198a9b0fd11c",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/6c24614c147e849a5326.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/252A1U",
+      "sha256": "0745bacf3217a1fe0b6036a51d4f7f5b4aa7f4cb1d91d80ec6817bb2c0e5c85f",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/e12ad25359cc9878946d.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/252A4U",
+      "sha256": "e388b12d410b80f84f1b494a50eee1ab8161998ef0aa7095f983a00cf50b16df",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/f245adff107eb90bc604.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/252A9U",
+      "sha256": "6e96fabca913a26d139a3fe614b52764ced2c661f7c69bc473a45ebfd7d54f6a",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/3d2261bae675ef18eb59.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/252B2U",
+      "sha256": "951e3404d33316baed1c345c513a8fc59f1b888003d5f29e5d59d91039de2f9a",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/096f1c8029373dddc5d3.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/252C2U",
+      "sha256": "37451f7aa4f4e49d6526dc439379a34725d09c848071214dd40536f5212f0874",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/05d9a648ef6ac5d9935e.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/252E1U",
+      "sha256": "0c71cb0a284223a586e5f7dbb44a201e447c4e32045a8a02e62c01deb4bd35e4",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/0c815ba0a7ad1d8bafc1.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/252G3U",
+      "sha256": "6732da416c37690fbf2458e455c4fa1396b9769f57c4f34ec1cf001eb12f05c5",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/93a7139283e3ae02b0cd.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/252G5U",
+      "sha256": "c5334c6ca40946ee1ac61a99fa50eccdf19d0392a32f73083d1bbf2aa224ad09",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/0584ffe0447f1f0e6677.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/252G8U",
+      "sha256": "c80c8297eba2a23b0242192f875a389517444797483e3233f0f8ae68036eef3f",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/80408e6bdf5b3c64c9a5.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25345U",
+      "sha256": "02ed57e6f875087984dc4939024aad866b8e7c0ba78b9cdf7b2172b38f7a8f5d",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/fbf891eba0250892a131.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25360U",
+      "sha256": "d2f12080857fbc4f6595f96879ee884fef2e242aeb914d903b9aa4c334d5d856",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/555f5e594136424af4a6.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25379U",
+      "sha256": "33a42af958a47a3d1b3b9aeec13bbde7575ca5232347656b643c82c6c2cef631",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/a5a3a692cd8b47ee5da6.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25387U",
+      "sha256": "1263665759b8bafa1bc2e83900740399706f137fe9156c082e5bb634181555dd",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/908e39fb788b89e20674.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25396U",
+      "sha256": "e6e3f61cb4d93f2698429195c3d94721e22e59c0f73ce6abd92cb6cc5ccb4e0f",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/eb77ff372ee0a4f987b5.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/253D2U",
+      "sha256": "33e656a7566234126dbe01b8ad68cc7b9f300ce014a87e935869bdf235fa7fd2",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/0b37ada97f890614a29c.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25408U",
+      "sha256": "c02031e3fb069a6f91eb865cdc6718e976888db5f853418707e663af4281b9f4",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/9756994cdce932da4296.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25414U",
+      "sha256": "caa646b07c1bef0026310bd789618d6fcac65737d8c1d27d83761003e2701bdd",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/c13797acfe5b403669a4.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25429U",
+      "sha256": "02f7a7c1a491b8e8075c97f86f019b6e8405c6ae15f23049b9267540f6d04e41",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/5b89b834034d69a96b03.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25430U",
+      "sha256": "e74be5c7a4687e441978a9d76f1a588cbb5cd60e55944f2226b94ffb50ca942f",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/4bf84e4d145d9ad7e3f5.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25469U",
+      "sha256": "9ffce13e3b942f6e96341a68a1c99eb04cf76639510f113563f5fe5f6468b340",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/00897c9f8291b5bd9030.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25470U",
+      "sha256": "fc4a1ccc1c81ab1e61029a20406f7be8be4b31d34e2f6c9fc80ff5fdf6d67d4c",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/9e3612dad07ae5f096eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25479U",
+      "sha256": "30ad07085a2d0db5c49032f4a7a69ac5d64c03a1f01d17c44b103597a5cd6d50",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/5151fd7a4eb859459b25.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25492U",
+      "sha256": "069f8b5aa82e7614fb9cf1737130946f27585c0b83517665b274749d99d325fa",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/44199bdf03780e448e79.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25495U",
+      "sha256": "08d8afd3f4c421ed4a3abeb90745180e87f7f8391e6aa98b18fbf94b60bbf1de",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/cc7d0a165cb7dfe3eb6a.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25497U",
+      "sha256": "ab29266873c508120bd0d38b8580df7a7ca9703f1e6423229bb9e2099201b727",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/a6ac49a7d98f16996127.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25510U",
+      "sha256": "13fa0e37b26cbedd006e967b95914f0ea81ef8958796ae3f29e581ed9eb7e544",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/197d5d5e21926af1dac1.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25540U",
+      "sha256": "7a9a9c8ececc4af868b458f3fb39d57e8e8986e9dbb786352590471352415f92",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/bd733722488a7b5bc890.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25579U",
+      "sha256": "814a513ca9b3c8320052e166d440ee5939e1dfeb5cd02799ed37fb5525943e28",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/d6c1db76f7468aee83ed.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25587U",
+      "sha256": "903ca1df19e989a1c3cfce28ae149104f1cca8ce0d6fa55137209905891c5f0b",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/01c741dc36b73fc92b41.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25594U",
+      "sha256": "ddb002f7da981a69a403d1477fa656260e0260e4a95f2fa27a5e708e3ba529d1",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/b7c8f7174e89c9226e85.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25625U",
+      "sha256": "4fc3f965a22a4f53f41a290e8dfd0f1a0f3325b043965a3771e76a6b1fa86099",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/5e7547ff4c7bfe16fac2.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25628U",
+      "sha256": "0cce17f3b1781036091dced1a958f763d326c3afb903d2e8315fb95b6a334349",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/af8995ddf2ffdfe2394d.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25651U",
+      "sha256": "a19c73dd50bff48486ee8284482b2c22870c534cccfc61f6135b595140c04424",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/79ced1a227f65bdfc438.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25666U",
+      "sha256": "485b20b8c71df5dc565627219e30e1f7851ed5947515d7edfa0565ff6525e031",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/b64b28d0b1ad054b5310.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25699U",
+      "sha256": "e82b29670a5ecaea393457098196fda0bb6b7c9b62806d2387d4343ec3962cce",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/0596735461d616e46806.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25780U",
+      "sha256": "6be847aa3c3045d3785567220634cee5f9e63c9e260f3c39c3b0bfd88d34632a",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/a6d2e4c5db0bad650448.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25789U",
+      "sha256": "4dbcd01c12d1bfa7dfc9b2cd696cca858473d94943325068ae0ff4b16fb6fcfb",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/0a436e57e39c472187e9.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25807U",
+      "sha256": "5d1220fc6f75648eedc70ead6c03fae97741dd72de418cb5c9ade33e4485e5a9",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/a2e834042fe5b2e38729.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25834U",
+      "sha256": "90486faf276dabeee98c74124b2322479da9bdddc78fdb29e5cda9ee7bc4217f",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/6705b21b46b0ea1174a7.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25849U",
+      "sha256": "f6ceb97c5d01155f27ddb260daa96684399ef54f6a082053bc9040e7fe8fe2dd",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/35833a121bc783c0bcb0.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25864U",
+      "sha256": "d2697603297737ef24e71f08a2aae2b46403bce05e526dfbda8d13b6f2ab723d",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/e8606bf3c513355002a6.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25867U",
+      "sha256": "6cd729866d4cdb4cd13582ac10e9c63e11ead84500ded8c9505e71e30c8408a2",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/9b205a1e179f7cd65aea.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25877U",
+      "sha256": "66e932721b8f6107322f4913ca9ebf0b00eca55f04148f37b973826237a8b084",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/34767d844f2625575c9e.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25881U",
+      "sha256": "36ec7d19240c0a2c1c2dfd311d64db301652ce6e4b9ab0886dca740d83f15b87",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/372b39e7517e35570e1b.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25974U",
+      "sha256": "f6b765ff34a8677b2de324a29877a0cb658a76926246d9864c1c2c71cf1110b4",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/0495176d040f5713d57b.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/25975U",
+      "sha256": "586e1f8b8a35645aa0b26da7b0dfaec266d0cf11ce3abdc2389e2fb366927235",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/91977d41fe7aace940f6.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/259A1U",
+      "sha256": "bdd2dc208389cc0e2dfef1c0bbeb607dfa2a5044b3f63a071da4d24f519a728c",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/9114c52a3a4ef6d6c898.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/259A2U",
+      "sha256": "885e1bf47270cff3f90dcf6da921803e4b4923c7720b596f7e2fc155e9761985",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/b178c2c6afb69eaedcb7.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/70141U",
+      "sha256": "fa93f86ac123860d94f3b36a6e2265d2257bc01acdb31f8c955d987bd0d6c6e7",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/d572cce8ecea8d5897e1.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/79249U",
+      "sha256": "cc6da36ac2b1bfebe6258a16ed2b401711a955f9d293e7744657f9403f820144",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/d2d7b36685f2cc18f540.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/A50AMU",
+      "sha256": "117a7100fdf7573f0be020522ee42f38629daa5a7c2ffab6ac48ad36cc53f159",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/65b863997f4ee21fe3dc.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/A5201U",
+      "sha256": "5516e47b4868d68abc070e4e7f2161ba8f7f89c18876f0e0f06732cab65c966e",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/96e4667edc5b8f517f51.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs/A5891U",
+      "sha256": "4bcd4878f162895b74ddfb7945ba86109642af3f68ff9a6c8f151b7713fc2030",
+      "raw_file": "scratch/full-catalog/us-details/berkeley/b64d61d5337d177e98c3.html",
+      "locator": null
+    }
+  ]
+}

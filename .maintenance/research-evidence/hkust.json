@@ -1,0 +1,599 @@
+{
+  "university_id": "hkust",
+  "sources": [
+    {
+      "url": "https://join.hkust.edu.hk/zh-hans/admissions/gaokao",
+      "sha256": "5548ae58833c724a8e87839dc8aff58e133b1f709aac6bb2cea51b43abb68241",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/gaokao.html",
+      "locator": null
+    },
+    {
+      "url": "https://publication.join.ust.hk/view/14363550/10-11/",
+      "sha256": "0f354522f80defaaaeaf88088ee93b26d41e1f00333316accc2970c4021eb558",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/prospectus-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://join.hkust.edu.hk/oas/elar.pdf",
+      "sha256": "d4f21f68298feba2244c122cc2c28ab47d8bc2fbb936fe7e276af668b39c796f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/english-pdf.html",
+      "locator": null
+    },
+    {
+      "url": "https://join.hkust.edu.hk/zh-hans/apply",
+      "sha256": "f35b632b60f58dbbf4dc8a63d1d5824a1245a9d927208db84de91e9818291c92",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/apply-cn.html",
+      "locator": null
+    },
+    {
+      "url": "https://join.hkust.edu.hk/admissions/international-qualifications",
+      "sha256": "c77cb9aabf248b9e02ff7da65f4adbab5035c9cf78c6761f5c75493afe21eb3c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/international.html",
+      "locator": null
+    },
+    {
+      "url": "https://join.hkust.edu.hk/admissions/international-qualifications/application-procedures",
+      "sha256": "1f4dede4b34f6ca562aefcced944fd54f6c219dfad6d40f73c601442aec3d6bd",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/procedure.html",
+      "locator": null
+    },
+    {
+      "url": "https://join.hkust.edu.hk/fees-and-scholarships",
+      "sha256": "019bafdfb3154d216b1958e3b27fb8d7e06753a29157ac539326f1e89bd366ff",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://join.hkust.edu.hk/zh-hans/fees-and-scholarships",
+      "sha256": "2f5cdd638734b2c74fb92902cbd02a9a8dee4ac631aa38e3d2a20f35e926ecd9",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/fees-cn.html",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/CHEM",
+      "sha256": "7ee076dc8d0dc0b4a9362ff83769f949a9bb8efcbd74ff6d31a3ed0ea084cee7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-8eac0583c3ed3e3e31de.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27chem.pdf",
+      "sha256": "ec7658fe4c7c32dbc83b9190b60b8eb6d1968f061e3df1c3e86869d45c062761",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-chem.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/BCB",
+      "sha256": "7caffa63067ce35855acd239d1c072e2fac76f9805656596f393ce0e77ec0ab8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-e5424afdc6b084340a9c.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27bcb.pdf",
+      "sha256": "94ebdf253bc47d0d3fe639c5d4565501cc2fe3b2ab490e60127ed67a492dc748",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-bcb.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/BIOT",
+      "sha256": "fe1a4066b83d747b9a8a81253f1a60fa2502d3a1191d8c0052906a884f8abd54",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-9442c6e5733c6ce62b3f.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27biot.pdf",
+      "sha256": "6dd1d722d9acd060b7b5c8dd85645c1c8befdecafba5cf4c67d6dfd717c093af",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-biot.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/BIBU",
+      "sha256": "2b7fce7f4b2e5fcd51f7f8cfac020255b56edf7cbc584f9ae122c15cbf4f40c2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-bc6adaebd3c7cb928c85.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27bibu.pdf",
+      "sha256": "b3536aa4516e2159dad81b84386efcd97a6e71531dedbab33f772b6b2fa550be",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-bibu.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/BMH",
+      "sha256": "6ce0e3ec6a0515a28aa0b91349c20eede7d744485e246240c221ef4ded1fb8ea",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-ac15f12b4ff6b368da5e.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27bmh.pdf",
+      "sha256": "0e094858962d8f42750c58ebedb175ea4bcb180b3fde8973d0b9836a90f0b2b0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-bmh.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/DASC",
+      "sha256": "848b5e5f357b9e6befa53ab333a6d48f568e56be0d5ad115d5486f5947c7014a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-5eb89da2505cf21621d1.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27dasc.pdf",
+      "sha256": "6745d14ec8edff2819f260ff66d5798611b599767030358e16b8b86380d26578",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-dasc.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/DSCT",
+      "sha256": "ae3a45462d6b8cc2ac3886f41396500add7112ec487f871b0d0a59f2bd9450ce",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-fc376dec3025cdbab61b.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27dsct.pdf",
+      "sha256": "367c91c74b1cc57d147e6d5526f56d126584a5beb553fb75a12efb8dae675eb7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-dsct.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/MATH",
+      "sha256": "acb31c2b44a327ca8594082a4590f075dbdc606b9389c8e7640bfd694af05363",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-b000247b231475d395a7.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27math.pdf",
+      "sha256": "f27ea487bdb85a93ca5cd854729d3595d34eb2573946b964cc2e01905e8e3058",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-math.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/MAEC",
+      "sha256": "6134b7788cd57376045535eec8ad2d9e6df012cd9f189a8c73054f7cdad3dff7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-49a44e7bf02554ba6307.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27maec.pdf",
+      "sha256": "39e965b97f3c66ab4d1160a671703ef8cc3f3a8821e10e3aea36135a5d0b005e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-maec.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/OST",
+      "sha256": "dd6dcd8ace71d3e6658efdbba29666676a327fa61a4ad5f5c5c3ce0841f64080",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-c8ff8212b66a7ab41b78.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27ost.pdf",
+      "sha256": "a7d7bb351f64c41714c7509040146578d8db757e8b61087e7bfd9285aad4dd93",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-ost.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/PHYS",
+      "sha256": "4a86f77e1ac08fcc3d294e90d1dded5950dd52f244e5c89ef8b0d9cb4c15d7b2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-a692c5f6e6cb09fae7cd.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27phys.pdf",
+      "sha256": "906ae3e0690ab0721b5fa800e26ba35d659875eb743058ff66231e53acdce10c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-phys.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/BIEN",
+      "sha256": "4ea9d5d54d7aeca2e0c7d017a2252c708663d0df8875d8dfdfa84a83d8f4c7ce",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-f45706e2787fe3af6144.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27bien.pdf",
+      "sha256": "3ff1529da2ebd4e9a75507dbd3452ce092605f76ce80e2058d1af39ff2d7b029",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-bien.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/CENG",
+      "sha256": "b9ca3cfe10b73e540e886e04056929334a009793db0e096ea0feca51e2aaad44",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-11e9ba26a5cd0a577ca0.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27ceng.pdf",
+      "sha256": "812a6a9356c902a26e4d1334e6381422992e2c82494a264677f541f4c8a5c20a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-ceng.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/EEEN",
+      "sha256": "8d06a8981fc253ba028271142cfb2a7dc4d11d7df4bf34a53c492f7f8444ccac",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-97b3fe32b02c86e43d85.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27eeen.pdf",
+      "sha256": "174e5591ff7fb201cb42337ff8ffb328f30ce6f143d7fff36d1169b1a955f3e0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-eeen.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/CIVL",
+      "sha256": "90bbc65b639b883b9e5afcee7e6ee4b717d95f319dd6dca60fd6763e65729cb5",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-906cf1a3cb0d1d54c1c9.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27civl.pdf",
+      "sha256": "6630da35e538827369cc709523c3b42757c52feb5964a14ae50a3904f64e16f0",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-civl.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/CIEV",
+      "sha256": "3ac8697f8d4815463b6586304e29352d994c59953cfa5522cf45187d41f019ac",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-c4ec1acd9d39ee45d4a1.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27ciev.pdf",
+      "sha256": "08e3743b43d6270d5bf366366258905d0cdc49fc1a0a15653568b31e8d757d0c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-ciev.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/CPEG",
+      "sha256": "2f4621000fb4f51c170eacb59ca672c291b694c337b14ce71e1ba73acc104223",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-682f3666272355b743c2.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27cpeg.pdf",
+      "sha256": "b38bbec473f9a0ec10b9670397667d3c5518f72d0b4e5560421a7aa4b09b38db",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-cpeg.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/AI",
+      "sha256": "e1a63d1d542d47bdc9dcb368cc9e987a4be3d4220d9d597c5e17a584979d152e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-79254dc3244a079611c1.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27ai.pdf",
+      "sha256": "b5a63418e534a03bf88d4d5733c2b30cca2acda79df6a7f240994be568e747b7",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-ai.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/COMP",
+      "sha256": "0aabb090235c5dedf04ef777da5f58d6fced21fe976ce0dfadd7c773c1323a1e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-f15cbff4235282e238cb.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27comp.pdf",
+      "sha256": "75b716c7765a03717cc5487ede7805ff9c73bdb5069b563a69ed4819eb66e023",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-comp.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/COSC",
+      "sha256": "9d6062b3bee3b7591bf3f86123d6711e56f5903c9eeb56d470c2a5940773bf36",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-501905d6d94af9a598c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27cosc.pdf",
+      "sha256": "90444ab9acd302e538593de9086d0270db0cca67705c7f7bc97c49311649472e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-cosc.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/ELEC",
+      "sha256": "db71f9c576ba7d40675287a1c24ff2af7b5165574ca82ff10663d46d52299e3b",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-b743a95e9a998807e4f4.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27elec.pdf",
+      "sha256": "5738a0fb13aa046585eda8449e3f41d579f81dfafa126e2f313b0089392083bc",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-elec.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/MEIC",
+      "sha256": "84d1b57381309d8b4194db2d69041d7e39d887917a8ef2f510f6def68122756c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-587c84916cef8448d76a.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27meic.pdf",
+      "sha256": "1984c5b6758601d82b6a79efcd38545e080a195997e47098731811f07dc3f845",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-meic.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/DA",
+      "sha256": "727c9b6e5aea5906fa048e2eff936b2cb59b4a9910e115b9cbf485013f9a5218",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-163f1ae7055ad5f59f3a.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27da.pdf",
+      "sha256": "c8bc55453723918bf133f6e0beb22509db897ac52568caf78c409ade9c322095",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-da.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/IEEM",
+      "sha256": "46a25f7e6ff921d84a11b704b4cf1b24334a44c0ab9c4720daeaca5c04d02533",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-bdc79c530170f37fe559.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27ieem.pdf",
+      "sha256": "31b02ff0ec951ad86400da5b98b1cd73fe96bdd1f7f1439e17e178db5cc4c72c",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-ieem.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/AE",
+      "sha256": "2ce1a5e9d40d9f0ac7fd397660d5c25a2e3d69b0f9f6aca38c3e41d6e46d1d3e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-4c3674ac603ad0f93f46.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27ae.pdf",
+      "sha256": "ae4ca644179645cdc73710fdffe736b0039ce5d4bfa54823a889edea4d03fc4e",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-ae.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/MECH",
+      "sha256": "34bcff8f7c1508db2bd3a1a825f960353a804e0cb0a1f57a28d0a3d314bab049",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-606f0c04eb377d067718.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27mech.pdf",
+      "sha256": "48b03e3dc2f9e9454b91d572af0e9ac3f7c4bdb8e918c6ebaa7f83a25471bb5a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-mech.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/EABU",
+      "sha256": "3379c8f89e29e8292f2b72f50a029017a3ef54a272357178a998b96ec0d375a8",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-26be6349bdda040f1790.html",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/GBM",
+      "sha256": "559ad05e735342d5f7899330eda8fab9b5d1148afdce82f65aa3ddcba09b4e1d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-6964ba8335ecc9feff98.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27gbm.pdf",
+      "sha256": "1de4b24e4d033f82ef0450f95d8a75e2e1a4daa4b6071f556101a74368685d58",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-gbm.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/GBUS",
+      "sha256": "97fa3d4eb01ab4599e595925bd10fba4d5a42cc70c47726422509a5c327857ef",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-07d358bd5ffcb9efbbf8.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27gbus.pdf",
+      "sha256": "bdd49a547b67bd354b0a488375caf35ce4c16eb784b00a818ddf8b37edc45f85",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-gbus.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/SGFN",
+      "sha256": "9c94ec8d80e1d5a5477afe7931e3ad40b54dcf6ce3e9ee5fbc00a5ee77564207",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-77d814d37fb1ba31c52a.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27sgfn.pdf",
+      "sha256": "54d79f37b58ae58852e9e5996237b35d18254bf8c2c02c8071443d68b99665d3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-sgfn.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/ACCT",
+      "sha256": "2255bc65d178bb1b7bcc53f2e2ee248434150d786291bed79e211745bff91ac1",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-6af246168553e19cb620.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27acct.pdf",
+      "sha256": "e26f03d0b8c7b7fb41beef15275768e4a59f75f234405df95ff7d367de38136d",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-acct.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/ECON",
+      "sha256": "09babaf7fc297a4c2192d7568b2097840a783eaeabe8709259dc142a9c010c09",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-81aee9f0ba34f431b4e8.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27econ.pdf",
+      "sha256": "660f23b7bf9845819dabd0bee3e1230c565206e03c243f76a91e5fe9d81de770",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-econ.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/ECOF",
+      "sha256": "3c40f294844d138b6c860b85e78781d6af9a0f381b272dc5592a13eff5524037",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-cac0705ffcc95da31525.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27ecof.pdf",
+      "sha256": "8dce5e14dac802cc727ea34e962ed4e4cb71628113360f2113bed2acdb8bdd47",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-ecof.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/FINA",
+      "sha256": "fca773fb756cb0b067cef86e1024bf5b46d9c6552374cb5c1598b333b96b0433",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-bbbfc1f7327daf101a70.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27fina.pdf",
+      "sha256": "a745d313bf7db1d9e0b5bd828c4fafb892fb01a22899c1ea38494d5103a777ca",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-fina.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/QFIN",
+      "sha256": "e72fa4c3a49ec8bc42794055e54707ef7933246eb51513baa3b9dc65164e3346",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-6d83e5527d4bb0503137.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27qfin.pdf",
+      "sha256": "eae1c3b685aa038ebc89b0c8bbb14c230aa89d9acc19edb442c4ee60595be886",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-qfin.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/IS",
+      "sha256": "8e6d70b6cf161bf75758597cff23f0b2feefbb9238ea302ce14d8c19ac6ca987",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-25b28b45159a232b68d2.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27is.pdf",
+      "sha256": "40af505fd145097301cde16c07f40779f4b55e1a3b58cd2dbf6cbce683e0b8c6",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-is.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/OM",
+      "sha256": "51a9866f1fa5fd4bab912fd63ff9d6ca71bc2cb2bc51481304aa5415f547b65a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-cbaa221748fd236fed84.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27om.pdf",
+      "sha256": "87e97c3a9164e7a271807573f646adca97e52c94adb7586060a1dd1e863b8686",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-om.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/RMBI",
+      "sha256": "1a665553540506b35564e979f179361493b2ea0435fbd2583f80528bef698a8f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-65050ed65a3c281ff42c.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27rmbi.pdf",
+      "sha256": "c5316b4d6c93ac3aedb13306db9a4fee3e70aff1f7816cf36eff439ce378ea7f",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-rmbi.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/MGMT",
+      "sha256": "61b34b3b2fad3a3696405d26da4ffc3fe502f56409dd0a13e2fb2cc2f13741cf",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-e7fcdfc0458a8a4c750d.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27mgmt.pdf",
+      "sha256": "70777d0bc850722ab3372b9f4a3945fb2c585c9e4f6783482af68ea3f443d812",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-mgmt.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/MARK",
+      "sha256": "f301848a835aeeab71e869a9a13586c7536125d809f39af8e7c78b9b29221487",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-a262ed19e4c68f188a71.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27mark.pdf",
+      "sha256": "6b4c5c46d7306e8974eb3cd9bc98b130a81b4bf2031033e02cd65b19c49f84fb",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-mark.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/WBB",
+      "sha256": "98d5fdfcc5f8cfb589af51f50578d87c1ee16b4ffc9dd01558ab736f9ab342f2",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-efd5c0afe31710fd5850.html",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/GCS",
+      "sha256": "be3af00f34dbeed9264201c74c7a6e0e07017f580eabfa9a21e29ba8c6801582",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-48bd0fd38e56a8a0987d.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27gcs.pdf",
+      "sha256": "4f1ed9dff2003840bb1b2f2daaa3a2c1c8ee8065b18d0fbe4895af26cb65bb97",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-gcs.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/QSA",
+      "sha256": "40de7bd555ec7006ab2304521c9e0c91a5a6459979877496c010133a1f8a9bfc",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-be9810876aa5a4ac196e.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27qsa.pdf",
+      "sha256": "cae3bfd94d05a71f22f80d9130f36efafb61e73d073ec850bea8f996d9da1972",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-qsa.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/IIM",
+      "sha256": "024fd7bb82bcb2fc255a08f2f2513656dd94a40039bed8b9ad63de32b345a263",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-b33985c081266e4c1631.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27iim.pdf",
+      "sha256": "f854c7bef2f74615903e2e7e39ae1481e1b89d95e9db36f3dfb6a7fb900fbb94",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-iim.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/EVMT",
+      "sha256": "4571fecd1ad314de4f30528573701a9874ec46751acd956b6458ec9261f19117",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-38079e3b2bc4f39d29ea.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27evmt.pdf",
+      "sha256": "ef332ec07a5a32747c531bd2afbd3695fd705e692545f188eb72088c7fa2d96a",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-evmt.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/IDT",
+      "sha256": "408b2e6a9f487bd2e200cf35e9281942f413450ba946f43deafac3adf0e44ebf",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-7d6f8a323999a8d8a0c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://ugadmin.hkust.edu.hk/prog_crs/ug/202627/pdf/26-27idt.pdf",
+      "sha256": "44d24e2e5f4cc6b9e7389ac80930358a583b4f68a9a51a821e00cc3cc82a4bf3",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/major-idt.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog/2026-27/T&M-DDP",
+      "sha256": "ab7bcdbfaa99ad183ef10eb3834f2286c9d6e60d042550574931eedab76b8467",
+      "raw_file": "scratch/full-catalog/asia-hongkong-enrichment/hkust/detail-35dae7c83f4aa0a612fc.html",
+      "locator": null
+    }
+  ]
+}

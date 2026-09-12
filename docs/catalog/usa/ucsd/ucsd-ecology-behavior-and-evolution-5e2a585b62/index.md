@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,47 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录收录 Ecology, Behavior and Evolution（BS）。本轮尚未完成该独立项目课程、费用及毕业去向的逐项核对；学校通用规则另列。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-2a21c4f6961fce">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际高中资格：</strong>须完成中学，取得在本国可升读大学且相当于美国高中毕业的资格；曾全日制在大学注册者应按转学申请。所有成绩按本国原评分填报，不自行换算。本轮未独立取得中国会考／高考所需材料细项。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-ef665961e11e5e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语最低标准：</strong>国际新生可用TOEFL新制4.5（官网标2026年1月起）、旧制83、IELTS Academic7或DET115；也有认可的AP／IB英语成绩方式。本轮不把转学英语作文课程豁免套用于高中申请人。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-ef665961e11e5e">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027 秋入学申请：</strong>UC San Diego只招秋季入学；2027申请于2026年8月1日开放，2026年10月1日至11月30日提交 UC Application。学校不把SAT/ACT作为录取因素；限额专业仍须按本专业规定核对。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-08681bf8521a30">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 首次入学费率：</strong>2026/27首次入学本科生每季度基础学费 USD4,734，学生服务费462，非居民补充学费13,090。秋冬春三季度这三项合计54,858（按官方各季表相加），另有校级、住宿学院、保险及首次入学费用；不是完整全年预算，也不是2027新生报价。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-e794dd83580be3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>额外费用与资助缺口：</strong>2026/27表另列国际生首次签证管理费USD200及新生入学服务费225；保险每季度1,065，可按规定申请豁免。住宿学院活动费不同。本轮未核面向大陆本科新生的奖学金具体资格，未自动扣除资助。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-e794dd83580be3">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +91,9 @@ hide:
 - [官方项目页面或项目所在目录](http://www-biology.ucsd.edu/)
 - [官方目录](https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html)
 
+<div class="catalog-source" id="source-p-USBENR-2a21c4f6961fce"><div><a href="https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html">Ecology, Behavior and Evolution — 官方本科目录 ↗</a><p>专业名称与目录入口；本轮未取得独立课程完整详情</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-ef665961e11e5e"><div><a href="https://admissions.ucsd.edu/international/">ucsd 官方 international ↗</a><p>本条国际高中资格及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-08681bf8521a30"><div><a href="https://admissions.ucsd.edu/faq/">ucsd 官方 faq ↗</a><p>本条2027 秋入学申请及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-e794dd83580be3"><div><a href="https://students.ucsd.edu/finances/fees/registration/2026-27/index.html">ucsd 官方 tuition ↗</a><p>本条2026/27 首次入学费率及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/ucsd/">← 返回加利福尼亚大学圣迭戈分校</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

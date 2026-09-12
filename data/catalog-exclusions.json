@@ -1,0 +1,82 @@
+[
+  {
+    "id": "alberta-indigenous-governance-and-partnership-c2e8e09768",
+    "university_id": "alberta",
+    "name_en": "Indigenous Governance and Partnership",
+    "reason": "该项目授予原住民治理与合作证书，可与学位或社区学习搭配；证书本身不是本科学位或独立主修，因此移出本科专业清单。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "official",
+        "title": "University of Alberta：证书项目说明",
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/certificate-in-indigenous-governance-and-partnership-indigenous-governance-and-partnership.html",
+        "checked_at": "2026-09-12",
+        "sha256": "eaeae91a34d1b8628fc8a200452de33514ec00e00dac2259012d2a8d63cb3d9e"
+      }
+    ]
+  },
+  {
+    "id": "lund-civilingenj-rsutbildning-i-riskhantering-f98387266b",
+    "university_id": "lund",
+    "name_en": "Civilingenjörsutbildning i riskhantering",
+    "reason": "官方培养计划第2节说明本项目不含基础阶段、从第4学年深化；第4.2节授予工程硕士。它是高年级工程完成段，不能作为独立学士或高中进入的本硕一体项目计入本清单。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "official",
+        "title": "LTH Risk Management study plan2025/26",
+        "url": "https://www.student.lth.se/sites/student.lth.se/files/2025-06/Utbildningsplan_Civilingenjoersutbildning_i_riskhantering_25-26.pdf",
+        "checked_at": "2026-09-12",
+        "sha256": "d058700caaed28fbfb196f14600dd4c3d3825c0f9a4b8580dfb9fd4ebfea0622"
+      }
+    ]
+  },
+  {
+    "id": "alberta-business-minor-06ba78b004",
+    "university_id": "alberta",
+    "name_en": "Business Minor",
+    "reason": "项目正文明确这是理学士主修或荣誉学位内的商科辅修，须在入学后申请；它不是独立主修，因此移出本科专业清单。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "official",
+        "title": "University of Alberta：商科辅修说明",
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-business-minor.html",
+        "checked_at": "2026-09-12",
+        "sha256": "cf87e1c89baed360c3814174acd85ab1276d4fe7c601b0e0d2b04ec91d0ff530"
+      }
+    ]
+  },
+  {
+    "id": "alberta-honors-d785512f18",
+    "university_id": "alberta",
+    "name_en": "Honors",
+    "reason": "项目正文明确这是理学士主修或荣誉学位内的商科辅修，须在入学后申请；它不是独立主修，因此移出本科专业清单。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "official",
+        "title": "University of Alberta：商科辅修说明",
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-business-minor-honors.html",
+        "checked_at": "2026-09-12",
+        "sha256": "c48a8f67fc20280eff7f01b60a11859bbe30ef38f95b0d08ba18eb4e62a68d85"
+      }
+    ]
+  },
+  {
+    "id": "trinity-dublin-science-569afc1c57",
+    "university_id": "trinity-dublin",
+    "name_en": "Science",
+    "reason": "这是TR060、TR061、TR062及TR063四个科学本科入口的总览，不能作为第五个独立学位重复收录；请在学校列表中选择相应的具体项目。",
+    "checked_at": "2026-09-12",
+    "sources": [
+      {
+        "id": "official",
+        "title": "Trinity本科科学入口总览",
+        "url": "https://www.tcd.ie/courses/undergraduate/courses/science/",
+        "checked_at": "2026-09-12",
+        "sha256": "c742a3d5519706e1d27936ae3553406f2839860d45c7f2b77919409adfe1c0ac"
+      }
+    ]
+  }
+]

@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Biology/Dentistry</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>7年（BA＋DDS）</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,9 +40,22 @@ hide:
 
 <p><strong>申请路径：</strong>Combined bachelor/graduate pathway; the graduate component is not an independent undergraduate award</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：BA/DDS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-85fd6b00f7facd">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程表举例：</strong>目录所列课程包括：Writing as Inquiry；Principles of Biology I；Principles of Biology II；Molecular and Cell Biology I；Molecular and Cell Biology II；Molecular and Cell Biology Laboratory。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-85fd6b00f7facd">官方依据</a></p>
+
+<p class="catalog-fact"><strong>七年本科／牙医学位衔接：</strong>本科与DDS合计7年；先3年CAS学习，第4年进入牙科学院并在满足条件后授予BA，DDS阶段共4年。不能把整个7年学费按普通本科档推算。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-85fd6b00f7facd">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>特殊路径边界：</strong>目录学位名称为本科衔接硕士或专业博士的联合路径；各学习阶段的准入与费用须分别核对。本轮未核完整升段条件，暂不将普通第一本科费用和日程直接覆盖整个联合路径。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-85fd6b00f7facd">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高中直入与继续升段：</strong>该项目可从本科新生直接录取；高中GPA3.5为官网典型值，不是保证录取线。在读总GPA及专业GPA须至少3.5，指定生物课程至少B；大三还须DAT及牙科学院正式申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-85fd6b00f7facd">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -63,5 +76,6 @@ hide:
 - [官方项目页面或项目所在目录](https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-dentistry-ba-dds/)
 - [官方目录](https://bulletins.nyu.edu/programs/)
 
+<div class="catalog-source" id="source-p-USBENR-85fd6b00f7facd"><div><a href="https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-dentistry-ba-dds/">Biology/Dentistry — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/nyu/">← 返回纽约大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

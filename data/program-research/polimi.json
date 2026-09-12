@@ -1,0 +1,2560 @@
+{
+  "university_id": "polimi",
+  "programs": [
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-1",
+      "name_en": "Aerospace Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/aerospace-engineering1",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Bovisa",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Bovisa。",
+            "source_ids": [
+              "polimi-program-1"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "从数理、化学、计算机和工业工程基础进入飞行动力学、流体、推进、结构、材料及试验分析，结合实验和选修理解航空航天系统。",
+            "source_ids": [
+              "polimi-program-1"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出航空航天制造、供应链、机队维修与机场运营，也可申请相关硕士。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-1"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-1",
+          "title": "Aerospace Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/aerospace-engineering1",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "747f2c14059f3930def3fa2bee50a67a4ce45d05272fcd6b6d426b4d65e19ec3",
+          "sha256": "747f2c14059f3930def3fa2bee50a67a4ce45d05272fcd6b6d426b4d65e19ec3"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-aerospace-engineering-943a8c19ad"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-2",
+      "name_en": "Architectural Design",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/architectural-design",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo Piacenza Mantova",
+        "intake": "2026/27",
+        "language": "意大利语或英语（按具体课程/校区）",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语或英语（按具体课程/校区）；校区：Milano Leonardo Piacenza Mantova。",
+            "source_ids": [
+              "polimi-program-2"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "以设计工作室结合建筑史、艺术、表达、社会学、城市规划、建筑技术、结构和保护，训练跨尺度建筑设计与评价。",
+            "source_ids": [
+              "polimi-program-2"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27参加ARCHED：英语场为2026年7月23日，意大利语场为7月24日；报名于7月16日结束。中国非欧盟境外申请者须特别核查意大利语资格及保留名额。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-architecture"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出建筑设计协作、测量、施工与维护；在意大利登记初级建筑师还须通过职业考试。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-2"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-2",
+          "title": "Architectural Design",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/architectural-design",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "dcee60ccdf61a6f1f0821d5fe7e64f75cc4d4caf64b280f02970ac74f35eaa94",
+          "sha256": "dcee60ccdf61a6f1f0821d5fe7e64f75cc4d4caf64b280f02970ac74f35eaa94"
+        },
+        {
+          "id": "polimi-architecture",
+          "title": "architecture admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/architecture",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "f081404a478a831a77de76755facbb55574f37a3229dbb240feb28e6372741a6",
+          "sha256": "f081404a478a831a77de76755facbb55574f37a3229dbb240feb28e6372741a6"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-architectural-design-3d61d2275f"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-3",
+      "name_en": "Automation Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/automation-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-3"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "先学习数学、物理和计算机，再深入动态系统、控制、电子、机械、机器人与过程自动化，以团队项目综合应用。",
+            "source_ids": [
+              "polimi-program-3"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出自动化、机器人、机电及高科技行业的技术、控制实施与系统监督岗位。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-3"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-3",
+          "title": "Automation Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/automation-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "e247beb2930653327436c2e60982f685a88638bf01c6dfca6cc04705f556946d",
+          "sha256": "e247beb2930653327436c2e60982f685a88638bf01c6dfca6cc04705f556946d"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-automation-engineering-17d61aa98f"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-4",
+      "name_en": "Biomedical Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/biomedical-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-4"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "将工程基础与医学、生物结合，第三年学习生物力学、材料、电磁和仪器技术，可选职业实习或面向继续升学的项目路线。",
+            "source_ids": [
+              "polimi-program-4"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出生物医学与制药产业、医疗器械、医院工程和技术服务；也可继续相关硕士。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-4"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-4",
+          "title": "Biomedical Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/biomedical-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "f02f8280a9aebe51f5f51077c2e6f2313ebb689aca013265dfa11f71e4fbf311",
+          "sha256": "f02f8280a9aebe51f5f51077c2e6f2313ebb689aca013265dfa11f71e4fbf311"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-biomedical-engineering-ea1ba61ac9"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-5",
+      "name_en": "Building and Construction Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/building-and-construction-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-5"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "学习建筑全生命周期的设计、材料、结构、施工安全和管理，强调BIM数字建模、系统整合及低能耗建筑。",
+            "source_ids": [
+              "polimi-program-5"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出建筑设计、施工管理、质量控制及公共机构岗位；初级工程师资格另须职业考试。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-5"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-5",
+          "title": "Building and Construction Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/building-and-construction-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "850a3689d7bc392a98ee65f9e95e51422869927015c0f7ab59f904d9d5d21cda",
+          "sha256": "850a3689d7bc392a98ee65f9e95e51422869927015c0f7ab59f904d9d5d21cda"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-building-and-construction-engineering-92fcffd142"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-6",
+      "name_en": "Building Engineering/Architecture",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/building-engineeringarchitecture",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Lecco",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "5 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Single-cycle Laurea Magistrale；5 年；意大利语；校区：Lecco。",
+            "source_ids": [
+              "polimi-program-6"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "五年单周期工程建筑培养结合科学、技术与设计，研究从城市景观到建筑构件的复杂问题、新建和修复工程。",
+            "source_ids": [
+              "polimi-program-6"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27参加ARCHED：英语场为2026年7月23日，意大利语场为7月24日；报名于7月16日结束。中国非欧盟境外申请者须特别核查意大利语资格及保留名额。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-architecture"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出建筑工程设计、咨询、施工维护、公共机构技术及独立执业方向。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-6"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-6",
+          "title": "Building Engineering/Architecture",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/building-engineeringarchitecture",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "4c2bd32f3d0fa5f477ada559263c7393b18a8b2175c6f45f15f4cb1255076ef1",
+          "sha256": "4c2bd32f3d0fa5f477ada559263c7393b18a8b2175c6f45f15f4cb1255076ef1"
+        },
+        {
+          "id": "polimi-architecture",
+          "title": "architecture admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/architecture",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "f081404a478a831a77de76755facbb55574f37a3229dbb240feb28e6372741a6",
+          "sha256": "f081404a478a831a77de76755facbb55574f37a3229dbb240feb28e6372741a6"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-building-engineering-architecture-a31103e108"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-7",
+      "name_en": "Chemical Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/chemical-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-7"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "融合化学、数学、热力学、传输、反应器、工厂和过程控制，学习物质能量变化建模及安全环境效率评价。",
+            "source_ids": [
+              "polimi-program-7"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出化工、能源、制药、食品及工程咨询中的工厂、过程与产品工作。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-7"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-7",
+          "title": "Chemical Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/chemical-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "08e7e985a61e1194fa3239fc9487e87b5ae42c4e33949c445b58218dde44e5da",
+          "sha256": "08e7e985a61e1194fa3239fc9487e87b5ae42c4e33949c445b58218dde44e5da"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-chemical-engineering-f5229b2f7e"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-8",
+      "name_en": "Civil Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/civil-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语或英语（按具体课程/校区）",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语或英语（按具体课程/校区）；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-8"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "从数理基础进入结构、岩土、流体、水利、交通基础设施、测量和监测，训练土木系统分析与设计。",
+            "source_ids": [
+              "polimi-program-8"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出结构、水利、交通、测量和公共部门工程；意大利独立执业须职业考试及登记。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-8"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-8",
+          "title": "Civil Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/civil-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "9fd59b4dba99ca6e91377b1b754d2acc0284a8510d1c4a168b7d6232a6eaa884",
+          "sha256": "9fd59b4dba99ca6e91377b1b754d2acc0284a8510d1c4a168b7d6232a6eaa884"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-civil-engineering-274e22aeac"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-9",
+      "name_en": "Communication Design",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/communication-design",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Bovisa",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Bovisa。",
+            "source_ids": [
+              "polimi-program-9"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "结合视觉表达、平面、字体、摄影和视听学习传播设计，进一步涉及网页、互动媒体及跨平台品牌系统。",
+            "source_ids": [
+              "polimi-program-9"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27设计类参加TOLD；英语Interaction Design按英语测试及语言要求办理，其他意大利语设计课程按对应意大利语规则。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-design"
+            ]
+          },
+          {
+            "label": "2026/27参考轮次",
+            "text": "设计类常规排名轮在2026年6—7月；补录志愿为9月1—3日、对应入学登记为9月7—9日，均已结束。后续剩余名额及2027安排本轮未取得。",
+            "source_ids": [
+              "polimi-design-dates"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出平面与视觉传播、品牌、出版、视听、网页和互动界面设计。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-9"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-9",
+          "title": "Communication Design",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/communication-design",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "6d34d5cc04413cac222175b03739cd26ac6c9001b67bbc8927d791ab7694bc3b",
+          "sha256": "6d34d5cc04413cac222175b03739cd26ac6c9001b67bbc8927d791ab7694bc3b"
+        },
+        {
+          "id": "polimi-design",
+          "title": "design admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1",
+          "sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1"
+        },
+        {
+          "id": "polimi-design-dates",
+          "title": "Design enrolment dates 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design/when-and-how-to-enrol",
+          "checked_at": "2026-09-12",
+          "supports": "设计排名及补录日期",
+          "raw_sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87",
+          "sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-communication-design-561bad9111"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-10",
+      "name_en": "Electrical Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/electrical-engineering-1",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-10"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "从基础科学和电路进入电磁、电力、热工机械、电子及控制，训练电气系统分析和工程应用。",
+            "source_ids": [
+              "polimi-program-10"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出电气设备系统的设计支持、技术文档、测试、生产与能源效率工作。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-10"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-10",
+          "title": "Electrical Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/electrical-engineering-1",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "f9982e1b461e9d36b20f928e74a14328e5fc54245ca522ad41ca38ed09d0418d",
+          "sha256": "f9982e1b461e9d36b20f928e74a14328e5fc54245ca522ad41ca38ed09d0418d"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-electrical-engineering-5d39c349c6"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-11",
+      "name_en": "Electronic Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/electronic-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-11"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "结合电气、控制、计算机与信号系统进入模拟数字电子、微控制器、光电及电子器件；末学期可选行业实习。",
+            "source_ids": [
+              "polimi-program-11"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出半导体、集成电路、消费电子、仪器、光电及机器人岗位；页面比例缺少调查届次，本轮不转为统计结论。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-11"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-11",
+          "title": "Electronic Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/electronic-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "a25d9b32403b9508b7586b96a65730787aec14942cf96fc254d3efd0c2f588a8",
+          "sha256": "a25d9b32403b9508b7586b96a65730787aec14942cf96fc254d3efd0c2f588a8"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-electronic-engineering-5906a00a9d"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-12",
+      "name_en": "Energy Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/energy-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Bovisa",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Bovisa。",
+            "source_ids": [
+              "polimi-program-12"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "先学数理和工业工程，再深入热力、传热、流体机械、电力、材料及能源系统，第三年区分升学准备与职业路线。",
+            "source_ids": [
+              "polimi-program-12"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "本科职业方向包括能源管理、暖通及能源设备系统的设计、运行和维护。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-12"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-12",
+          "title": "Energy Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/energy-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "6b309e1c9005259eae77b89528973cd386d3d08af191df9d2060a39a3671c365",
+          "sha256": "6b309e1c9005259eae77b89528973cd386d3d08af191df9d2060a39a3671c365"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-energy-engineering-b14a0aa680"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-13",
+      "name_en": "Engineering of Computing Systems",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-of-computing-systems",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo Cremona",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo Cremona。",
+            "source_ids": [
+              "polimi-program-13"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "以数学、物理和工程为基础，学习编程、操作系统、数据库、软件工程、网络、电子及自动化，逐步进入应用项目。",
+            "source_ids": [
+              "polimi-program-13"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出软件与硬件开发、企业信息系统及通信相关方向；可继续硕士。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-13"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-13",
+          "title": "Engineering of Computing Systems",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-of-computing-systems",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "90c2e52b5d1e55e45496a997caad78bdc552aabebed3e45a1557f011cec4b6f8",
+          "sha256": "90c2e52b5d1e55e45496a997caad78bdc552aabebed3e45a1557f011cec4b6f8"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-engineering-of-computing-systems-2c0313a5ab"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-14",
+      "name_en": "Engineering Science",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-science",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo Milano Bovisa",
+        "intake": "2026/27",
+        "language": "英语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；英语；校区：Milano Leonardo Milano Bovisa。",
+            "source_ids": [
+              "polimi-program-14"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "以数学、物理、化学材料和计算机组成共同科学工程核心，先建立跨学科基础，再逐步选择方向。",
+            "source_ids": [
+              "polimi-program-14"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程面向高科技与跨行业工程工作，也为申请工程硕士奠定基础。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-14"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-14",
+          "title": "Engineering Science",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-science",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "51c2da72e9e46ea710f92c92e497cd3795349e2a1cd148c827186af11ae494a8",
+          "sha256": "51c2da72e9e46ea710f92c92e497cd3795349e2a1cd148c827186af11ae494a8"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-engineering-science-dd4c8e316a"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-15",
+      "name_en": "Environmental and Land Planning Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/environmental-and-land-planning-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-15"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "结合环境系统分析、自然灾害预防、监测、土地规划和修复技术，利用实验、实地访问及实习学习资源保护。",
+            "source_ids": [
+              "polimi-program-15"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出环境咨询、资源规划、修复、处理设施及监测工作；所链接就业资料标为硕士，不能视为本科学位统计。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-15"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-15",
+          "title": "Environmental and Land Planning Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/environmental-and-land-planning-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "15ae5c118606a4a62d4e817a428d2cab114697b1488856a15f752e4e8e5017d6",
+          "sha256": "15ae5c118606a4a62d4e817a428d2cab114697b1488856a15f752e4e8e5017d6"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-environmental-and-land-planning-engineering-9184d25791"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-16",
+      "name_en": "Fashion Design",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/fashion-design",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Bovisa",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Bovisa。",
+            "source_ids": [
+              "polimi-program-16"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "研究时装工业、消费行为、材料工艺、品牌定位与销售传播，可围绕服装、针织和饰品等主题开展设计。",
+            "source_ids": [
+              "polimi-program-16"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27设计类参加TOLD；英语Interaction Design按英语测试及语言要求办理，其他意大利语设计课程按对应意大利语规则。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-design"
+            ]
+          },
+          {
+            "label": "2026/27参考轮次",
+            "text": "设计类常规排名轮在2026年6—7月；补录志愿为9月1—3日、对应入学登记为9月7—9日，均已结束。后续剩余名额及2027安排本轮未取得。",
+            "source_ids": [
+              "polimi-design-dates"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出服装、饰品、纺织、针织及家居织物相关设计岗位。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-16"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-16",
+          "title": "Fashion Design",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/fashion-design",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "6f404a615327d2d1be53d31b9c62ba754080b53ff728f3b2f3a4b9c5175c60e5",
+          "sha256": "6f404a615327d2d1be53d31b9c62ba754080b53ff728f3b2f3a4b9c5175c60e5"
+        },
+        {
+          "id": "polimi-design",
+          "title": "design admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1",
+          "sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1"
+        },
+        {
+          "id": "polimi-design-dates",
+          "title": "Design enrolment dates 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design/when-and-how-to-enrol",
+          "checked_at": "2026-09-12",
+          "supports": "设计排名及补录日期",
+          "raw_sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87",
+          "sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-fashion-design-b1920c94b2"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-17",
+      "name_en": "Industrial Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/industrial-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Piacenza",
+        "intake": "2026/27",
+        "language": "英语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；英语；校区：Piacenza。",
+            "source_ids": [
+              "polimi-program-17"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "三年英语工业工程培养结合基础科学、实验、产业案例与企业项目，学习制造、物流和工业转型的系统技术。",
+            "source_ids": [
+              "polimi-program-17"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "专业指定奖学金",
+            "text": "2026/27国际本科奖学金条目指定Cremona的Process Engineering及Piacenza的Industrial Engineering一年级新生；该轮官方已标申请结束。2027/28条件和名额本轮未取得。",
+            "source_ids": [
+              "polimi-specific-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出工业与创新企业工程工作，也可申请机械、能源、管理及自动化相关硕士。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-17"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-17",
+          "title": "Industrial Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/industrial-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "6e9539cd9f6b63b33ac8e8e2e447a5cad4b78f6e427a2d8f58f22156e4869ea7",
+          "sha256": "6e9539cd9f6b63b33ac8e8e2e447a5cad4b78f6e427a2d8f58f22156e4869ea7"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        },
+        {
+          "id": "polimi-specific-scholarship",
+          "title": "Cremona and Piacenza scholarships 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships/cremona-and-piacenza-scholarships",
+          "checked_at": "2026-09-12",
+          "supports": "国际本科指定专业资助",
+          "raw_sha256": "0f55bd14d3ae741f1f0ea7795aadcbda14c8ee219922c4e6a0568fd9614f9475",
+          "sha256": "0f55bd14d3ae741f1f0ea7795aadcbda14c8ee219922c4e6a0568fd9614f9475"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-industrial-engineering-81c25102d0"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-18",
+      "name_en": "Industrial Production  Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/industrial-production-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Lecco",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Lecco。",
+            "source_ids": [
+              "polimi-program-18"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "培养工业生产与新技术应用能力，涉及设备运行、生产计划监督以及质量和环境要求；继续相关硕士需另行审查课程背景。",
+            "source_ids": [
+              "polimi-program-18"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出生产、新技术、设备运行、计划监督、质量及环境标准工作。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-18"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-18",
+          "title": "Industrial Production  Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/industrial-production-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "71d02f49b194962416d5f6dc23257e7c94872d24f0bfea010741d3c54d786184",
+          "sha256": "71d02f49b194962416d5f6dc23257e7c94872d24f0bfea010741d3c54d786184"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-industrial-production-engineering-872cb700b2"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-19",
+      "name_en": "Interaction Design",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/interaction-design",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Lecco",
+        "intake": "2026/27",
+        "language": "英语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；英语；校区：Lecco。",
+            "source_ids": [
+              "polimi-program-19"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "从用户需求与行为出发，结合设计、人文和技术学习互动系统，训练编程、原型、测试、易用性及无障碍设计。",
+            "source_ids": [
+              "polimi-program-19"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27设计类参加TOLD；英语Interaction Design按英语测试及语言要求办理，其他意大利语设计课程按对应意大利语规则。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-design"
+            ]
+          },
+          {
+            "label": "2026/27参考轮次",
+            "text": "设计类常规排名轮在2026年6—7月；补录志愿为9月1—3日、对应入学登记为9月7—9日，均已结束。后续剩余名额及2027安排本轮未取得。",
+            "source_ids": [
+              "polimi-design-dates"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出交互、UX/UI、信息架构及互动产品系统设计岗位。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-19"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-19",
+          "title": "Interaction Design",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/interaction-design",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "3665cde317731402c63e9f1d7a1ba21d2fbac9cb1cc28f340a72d424ca694ba2",
+          "sha256": "3665cde317731402c63e9f1d7a1ba21d2fbac9cb1cc28f340a72d424ca694ba2"
+        },
+        {
+          "id": "polimi-design",
+          "title": "design admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1",
+          "sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1"
+        },
+        {
+          "id": "polimi-design-dates",
+          "title": "Design enrolment dates 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design/when-and-how-to-enrol",
+          "checked_at": "2026-09-12",
+          "supports": "设计排名及补录日期",
+          "raw_sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87",
+          "sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-interaction-design-4ce08e22ab"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-20",
+      "name_en": "Interior Design",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/interior-design",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Bovisa",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Bovisa。",
+            "source_ids": [
+              "polimi-program-20"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "设计公共与私人室内空间，综合家具、灯光、颜色、材料和环境舒适度，训练空间与使用者关系的整体判断。",
+            "source_ids": [
+              "polimi-program-20"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27设计类参加TOLD；英语Interaction Design按英语测试及语言要求办理，其他意大利语设计课程按对应意大利语规则。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-design"
+            ]
+          },
+          {
+            "label": "2026/27参考轮次",
+            "text": "设计类常规排名轮在2026年6—7月；补录志愿为9月1—3日、对应入学登记为9月7—9日，均已结束。后续剩余名额及2027安排本轮未取得。",
+            "source_ids": [
+              "polimi-design-dates"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出室内与展陈、零售视觉、空间改造及设计咨询方向。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-20"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-20",
+          "title": "Interior Design",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/interior-design",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "1e79431af7f6b5e48c016d1ae4b0f232242250dde3066d404236315c6e3831d2",
+          "sha256": "1e79431af7f6b5e48c016d1ae4b0f232242250dde3066d404236315c6e3831d2"
+        },
+        {
+          "id": "polimi-design",
+          "title": "design admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1",
+          "sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1"
+        },
+        {
+          "id": "polimi-design-dates",
+          "title": "Design enrolment dates 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design/when-and-how-to-enrol",
+          "checked_at": "2026-09-12",
+          "supports": "设计排名及补录日期",
+          "raw_sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87",
+          "sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-interior-design-2a2a8726a0"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-21",
+      "name_en": "Management and Production Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/management-and-production-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Cremona Milano Bovisa",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Cremona Milano Bovisa。",
+            "source_ids": [
+              "polimi-program-21"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "结合科学工程与企业组织、流程和决策，学习运用工程方法解决管理、生产和竞争问题。",
+            "source_ids": [
+              "polimi-program-21"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程说明可依各校要求申请第二周期学位，校内管理工程硕士仍需审查学业记录。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-21"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-21",
+          "title": "Management and Production Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/management-and-production-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "30c2d341c521259972b009a7cbd0fcafebf238535cdbe227f3da572095782136",
+          "sha256": "30c2d341c521259972b009a7cbd0fcafebf238535cdbe227f3da572095782136"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-management-and-production-engineering-451cbd5d0e"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-22",
+      "name_en": "Materials and Nanotechnology  Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/materials-and-nanotechnology-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-22"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "研究材料结构、性能、制备与选材的联系，覆盖宏观至纳米尺度，并关注生产和生命周期的环境影响。",
+            "source_ids": [
+              "polimi-program-22"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出材料生产、加工、回收与性能评估相关工业和研发方向。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-22"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-22",
+          "title": "Materials and Nanotechnology  Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/materials-and-nanotechnology-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "80c0757313c5f307cf2b4a49b405da85502dd5f362ecdf53db516f905ce44b70",
+          "sha256": "80c0757313c5f307cf2b4a49b405da85502dd5f362ecdf53db516f905ce44b70"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-materials-and-nanotechnology-engineering-2b435b7ba6"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-23",
+      "name_en": "Mathematical Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/mathematical-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-23"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "结合代数、几何、分析、概率统计和数值方法，训练数学建模、数据分析、优化及计算工程应用。",
+            "source_ids": [
+              "polimi-program-23"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出工业科技、咨询、银行保险、研究及数据分析方向；页面未给可核实调查口径。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-23"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-23",
+          "title": "Mathematical Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/mathematical-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "b0f532d36728fc6689dd3b26665425ec1cd8a07bfa384c3b4b8daf4f574310bb",
+          "sha256": "b0f532d36728fc6689dd3b26665425ec1cd8a07bfa384c3b4b8daf4f574310bb"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-mathematical-engineering-33d4d04d90"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-24",
+      "name_en": "Mechanical Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/mechanical-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Piacenza Milano Bovisa",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Piacenza Milano Bovisa。",
+            "source_ids": [
+              "polimi-program-24"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "结合力学、热流体、材料、制造、机器和能源系统，训练部件设计、性能分析、生产优化及数值方法。",
+            "source_ids": [
+              "polimi-program-24"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出机械制造、汽车、能源、机器人和复杂系统中的设计、生产优化及技术管理工作。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-24"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-24",
+          "title": "Mechanical Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/mechanical-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "9d94acdc104e08ec02a2c895aad962eeef1baa8471526c2e995845e9479066fd",
+          "sha256": "9d94acdc104e08ec02a2c895aad962eeef1baa8471526c2e995845e9479066fd"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-mechanical-engineering-ba1613a290"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-25",
+      "name_en": "MEDTEC School",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/medtec-school",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Humanitas University; Politecnico di Milano, Leonardo campus",
+        "intake": "2026/27",
+        "language": "英语",
+        "duration": "6 年联合培养路径"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science in Biomedical Engineering (Politecnico di Milano), within MEDTEC joint pathway；6 年联合培养路径；英语；校区：Humanitas University; Politecnico di Milano, Leonardo campus。",
+            "source_ids": [
+              "polimi-program-25"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "Humanitas与米兰理工合作的六年MEDTEC医学路径，结合临床医学和生物医学工程；先取得Humanitas医学外科学位后才可取得米兰理工生物医学工程学士。",
+            "source_ids": [
+              "polimi-program-25"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "联合路径特殊入口",
+            "text": "MEDTEC由Humanitas与米兰理工共同提供，须按Humanitas医学路径核查申请、选拔与费用；米兰理工生物医学工程学士是六年医学工程培养中的后续资格，不能按普通三年工程入口理解。",
+            "source_ids": [
+              "polimi-program-25"
+            ]
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出医学、研究、生物医学器械及制药领域；具体医疗执业资格须按对应司法辖区另核。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-25"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-25",
+          "title": "MEDTEC School",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/medtec-school",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "da5a41d490fdce0c62fab34f9ab05fab976249dd7bca64a36f069b9a18edf1c6",
+          "sha256": "da5a41d490fdce0c62fab34f9ab05fab976249dd7bca64a36f069b9a18edf1c6"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "inventory_id": "polimi-medtec-school-5cf760cb9e"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-26",
+      "name_en": "Physics Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/physics-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-26"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "三年180学分，结合数理与电子、机械、自动化和能源工程，逐步进入量子、材料、光子、微纳加工及实验分析。",
+            "source_ids": [
+              "polimi-program-26"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出技术企业、研究实验室与创新中心中的应用物理和工程工作。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-26"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-26",
+          "title": "Physics Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/physics-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "cb65ac6456374f72c4951e79bbd5ff6f3a37843f2aec38b8c9007c5c7c1be763",
+          "sha256": "cb65ac6456374f72c4951e79bbd5ff6f3a37843f2aec38b8c9007c5c7c1be763"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-physics-engineering-e4c24ad80f"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-27",
+      "name_en": "Process Engineering",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/process-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Cremona",
+        "intake": "2026/27",
+        "language": "英语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；英语；校区：Cremona。",
+            "source_ids": [
+              "polimi-program-27"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "在Cremona以英语学习过程建模、自动化、控制、机电和数字孪生，结合人工智能、实验及产业试点优化工业过程。",
+            "source_ids": [
+              "polimi-program-27"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27工程类按TOL或认可的TOLC-I、CEnT-S、SAT替代考试及换算规则参与选拔；须区分意大利语/英语课程及申请者名额类别。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-engineering"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "专业指定奖学金",
+            "text": "2026/27国际本科奖学金条目指定Cremona的Process Engineering及Piacenza的Industrial Engineering一年级新生；该轮官方已标申请结束。2027/28条件和名额本轮未取得。",
+            "source_ids": [
+              "polimi-specific-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出化工制药、能源环境、食品和材料工业的数字化过程工程方向。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-27"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-27",
+          "title": "Process Engineering",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/process-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "7b5a905f9c4ab2763e758fe5e008eab2a616368ddbe3fc22cae1991f3c283038",
+          "sha256": "7b5a905f9c4ab2763e758fe5e008eab2a616368ddbe3fc22cae1991f3c283038"
+        },
+        {
+          "id": "polimi-engineering",
+          "title": "engineering admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785",
+          "sha256": "4686d9d7f94e22a42892f8d44136fac0bef3cc6d96f7393ae191e167010a0785"
+        },
+        {
+          "id": "polimi-specific-scholarship",
+          "title": "Cremona and Piacenza scholarships 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships/cremona-and-piacenza-scholarships",
+          "checked_at": "2026-09-12",
+          "supports": "国际本科指定专业资助",
+          "raw_sha256": "0f55bd14d3ae741f1f0ea7795aadcbda14c8ee219922c4e6a0568fd9614f9475",
+          "sha256": "0f55bd14d3ae741f1f0ea7795aadcbda14c8ee219922c4e6a0568fd9614f9475"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-process-engineering-daa05c72ee"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-28",
+      "name_en": "Product Design",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/product-design",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Bovisa",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Bovisa。",
+            "source_ids": [
+              "polimi-program-28"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "学习工业产品设计方法、设计史、人文与表达工具，通过绘图、数字影像、模型及原型实现产品创作。",
+            "source_ids": [
+              "polimi-program-28"
+            ]
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27设计类参加TOLD；英语Interaction Design按英语测试及语言要求办理，其他意大利语设计课程按对应意大利语规则。2027/28安排本轮未取得。",
+            "source_ids": [
+              "polimi-design"
+            ]
+          },
+          {
+            "label": "2026/27参考轮次",
+            "text": "设计类常规排名轮在2026年6—7月；补录志愿为9月1—3日、对应入学登记为9月7—9日，均已结束。后续剩余名额及2027安排本轮未取得。",
+            "source_ids": [
+              "polimi-design-dates"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出工业产品开发、研发协作、生产、营销需求分析及设计岗位。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-28"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-28",
+          "title": "Product Design",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/product-design",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "44e98bfe4bc423c52804e541d32faeb4efccf8e39327ff5671a3e2a0bbc6cffb",
+          "sha256": "44e98bfe4bc423c52804e541d32faeb4efccf8e39327ff5671a3e2a0bbc6cffb"
+        },
+        {
+          "id": "polimi-design",
+          "title": "design admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1",
+          "sha256": "a266ee68ad7d79d5aba67a8751e297adfdc1b245b107768ff2d9e768cb781de1"
+        },
+        {
+          "id": "polimi-design-dates",
+          "title": "Design enrolment dates 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/design/when-and-how-to-enrol",
+          "checked_at": "2026-09-12",
+          "supports": "设计排名及补录日期",
+          "raw_sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87",
+          "sha256": "cef5a226ff5fe83856b8ba213017dc2db6ef369713d0e3808d012b889deada87"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-product-design-841fca70bd"
+    },
+    {
+      "university_id": "polimi",
+      "raw_key": "detail-29",
+      "name_en": "Urban Planning: Cities, Environment & Landscapes",
+      "official_url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/urban-planning-cities-environment-landscapes",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "polimi",
+      "display_fields": {
+        "campus": "Milano Leonardo",
+        "intake": "2026/27",
+        "language": "意大利语",
+        "duration": "3 年"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "专业身份与学习方式",
+            "text": "Bachelor of Science；3 年；意大利语；校区：Milano Leonardo。",
+            "source_ids": [
+              "polimi-program-29"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "结合人文与技术科学分析城市、环境和景观变化，学习规划项目及城市、土地和部门政策的设计管理。",
+            "source_ids": [
+              "polimi-program-29"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业独有选拔",
+            "text": "需动机信及短文各一页、各不超过3,000字符（含空格），并参加约15分钟远程面试；两份材料须在面试前一个工作日中午12时前上传。",
+            "source_ids": [
+              "polimi-urban-test"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "本专业类别申请",
+            "text": "2026/27城市规划采用单独的选拔面试；不能套用工程TOL或建筑ARCHED规则。",
+            "source_ids": [
+              "polimi-urban"
+            ]
+          },
+          {
+            "label": "2026/27城市规划窗口",
+            "text": "第一窗口为2026年4—7月；9月仅在剩余名额时开第二窗口，个人可报场次和准确日期须查Online Services考试日历。本轮未核实当前仍有名额。",
+            "source_ids": [
+              "polimi-urban-dates"
+            ]
+          }
+        ],
+        "fees": [],
+        "outcomes": [
+          {
+            "label": "课程职业方向（非就业调查）",
+            "text": "课程列出城市土地环境分析、规划文件和公共或企业空间发展策略工作。 本轮未核实本专业本科就业率、薪资及调查口径。",
+            "source_ids": [
+              "polimi-program-29"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "polimi-program-29",
+          "title": "Urban Planning: Cities, Environment & Landscapes",
+          "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/urban-planning-cities-environment-landscapes",
+          "checked_at": "2026-09-12",
+          "supports": "专业身份、结构与课程/职业方向",
+          "location": "Main: Level / Duration / Language / Campus; Topics and Subjects; After graduation",
+          "raw_sha256": "8625832dbd68f6f6f33ea9121a8aba215aee590ffe806f286c5b4e9c2266aaba",
+          "sha256": "8625832dbd68f6f6f33ea9121a8aba215aee590ffe806f286c5b4e9c2266aaba"
+        },
+        {
+          "id": "polimi-urban",
+          "title": "urban admission 2026/27",
+          "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/urban-planning",
+          "checked_at": "2026-09-12",
+          "supports": "专业类别申请与选拔",
+          "raw_sha256": "830b42ea6c89a60e5c0dc0b47cd47f807f32bb2d3f43c814bb90e8c7ed596c91",
+          "sha256": "830b42ea6c89a60e5c0dc0b47cd47f807f32bb2d3f43c814bb90e8c7ed596c91"
+        },
+        {
+          "id": "polimi-urban-test",
+          "title": "Urban Planning interview",
+          "url": "https://www.polimi.it/en/futuri-studenti/test-e-ammissione/laurea/urbanistica/what-the-exam-consists-of-and-how-to-prepare",
+          "checked_at": "2026-09-12",
+          "supports": "面试材料",
+          "raw_sha256": "d8750932f5ed506fcc0dd2048a53bb9dd1dfb023f8a707aa418978839c024e45",
+          "sha256": "d8750932f5ed506fcc0dd2048a53bb9dd1dfb023f8a707aa418978839c024e45"
+        },
+        {
+          "id": "polimi-urban-dates",
+          "title": "Urban Planning dates 2026/27",
+          "url": "https://www.polimi.it/en/futuri-studenti/test-e-ammissione/laurea/urbanistica/when-to-sign-up-for-the-exam",
+          "checked_at": "2026-09-12",
+          "supports": "面试窗口",
+          "raw_sha256": "968fdbefc418587c3b8925b7246fc7e110ce8e1adffab1c9926851701652467d",
+          "sha256": "968fdbefc418587c3b8925b7246fc7e110ce8e1adffab1c9926851701652467d"
+        }
+      ],
+      "gaps": [
+        "2027/28准确申请安排和学费本轮未取得",
+        "具有毕业届次与样本口径的本科就业率/薪资本轮未核实"
+      ],
+      "inventory_id": "polimi-urban-planning-cities-environment-landscapes-c27b4d2ea9"
+    }
+  ],
+  "profile": {
+    "university_id": "polimi",
+    "checked_at": "2026-09-12",
+    "scope": "米兰理工普通本科与五年工程建筑入口；MEDTEC联合医学路径另核",
+    "sections": {
+      "overview": [],
+      "admissions": [
+        {
+          "label": "同校共用：中国高中学历",
+          "text": "通常须完成至少12年学校教育并持有可进入原教育体系大学的资格。校方中国附加规则要求高考，接受高考成绩不论分数；春考不被接受。该学历资格规则不能替代专业考试、排名与录取名额要求。",
+          "source_ids": [
+            "polimi-qualification",
+            "polimi-china-specific"
+          ]
+        },
+        {
+          "label": "同校共用：补足与材料核验",
+          "text": "教育年限不足可按校方规则以大学或至少一学年基础课程补足；用于补足入学资格的学习不能同时用于缩短本科学制。中国高中及高考材料须按校方列出的CHSI核验方式提交；IB和A-level按另一资格类别核查。",
+          "source_ids": [
+            "polimi-qualification",
+            "polimi-china-verification"
+          ]
+        },
+        {
+          "label": "同校共用：授课语言",
+          "text": "2026/27规则要求入学前证明所选课程授课语言：意大利语课程证明意大利语，英语课程证明英语。考试语言、额外英语/意大利语学习义务及认可证书须结合专业类别进一步核查。",
+          "source_ids": [
+            "polimi-language"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "同校共用：外国学历申请",
+          "text": "非意大利学历申请者需在相应入学考试报名流程上传近三年成绩、毕业证或在读证明，并按外国学历程序完成核验。大陆居住、无相应意大利居留身份的非欧盟申请者还涉及保留名额及学生签证流程；不能套用意大利及同等类别名额。",
+          "source_ids": [
+            "polimi-foreign"
+          ]
+        },
+        {
+          "label": "2026/27材料收尾日期",
+          "text": "2026/27最终毕业证和高考等补充学业材料截止为2026年9月10日，已结束；学历可比性及真伪核验材料截止为2026年10月31日。后者是已进入本轮入学流程者的材料期限，并非新的本科申请窗口。2027/28整轮安排本轮未取得。",
+          "source_ids": [
+            "polimi-documents"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "同校共用：2026/27本科费用",
+          "text": "标准每年46—74 ECTS学习计划的年度费用为EUR 157.04—3,943.04，随经济状况和学分调整；2026/27首期一般为EUR 880.04。海外收入或资产家庭须按程序办理Equalised ISEEU；不提交有效经济证明会按最高档计。该页非欧盟外国学历硕士强制最高档条款不能直接套到本科。2027/28金额本轮未取得。",
+          "source_ids": [
+            "polimi-fees"
+          ]
+        },
+        {
+          "label": "同校共用：DSU资助",
+          "text": "DSU依据经济与学业条件评定；新生须在截止前申请，即使尚未入学或尚未参加入学考试也不应等到录取后才申请。2026/27新生奖学金及优惠住宿申请均于2026年8月5日意大利时间中午12时截止，已结束；2027/28本轮未取得。",
+          "source_ids": [
+            "polimi-dsu",
+            "polimi-dsu-dates"
+          ]
+        }
+      ],
+      "outcomes": []
+    },
+    "sources": [
+      {
+        "id": "polimi-qualification",
+        "title": "Foreign qualifications: eligibility",
+        "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/requirements-to-participate-in-the-admission-test",
+        "checked_at": "2026-09-12",
+        "supports": "十二年教育与补足",
+        "raw_sha256": "3b7a5987ea370ac760daed178aec8af40e8a49cb81a5912ece750e4f5105d71d",
+        "sha256": "3b7a5987ea370ac760daed178aec8af40e8a49cb81a5912ece750e4f5105d71d"
+      },
+      {
+        "id": "polimi-china-specific",
+        "title": "Specific requirements for foreign qualifications",
+        "url": "https://www.polimi.it/fileadmin/user_upload/futuri_studenti/International_students/Requisiti_specifici_ENG.pdf",
+        "checked_at": "2026-09-12",
+        "supports": "中国高考与春考",
+        "raw_sha256": "63d75c527e6d8eedc7f0fb080ded19e71e89e62bf2c7ea454efa073334ca7fdd",
+        "sha256": "63d75c527e6d8eedc7f0fb080ded19e71e89e62bf2c7ea454efa073334ca7fdd"
+      },
+      {
+        "id": "polimi-china-verification",
+        "title": "Verification of foreign qualifications",
+        "url": "https://www.polimi.it/fileadmin/user_upload/futuri_studenti/International_students/Modalit%C3%A0_di_verifica_ENG.pdf",
+        "checked_at": "2026-09-12",
+        "supports": "中国学历核验",
+        "raw_sha256": "b4b2e93d9c5b3c58e3b1d5a89b459c7c0407a1ca14be4d56fc59c7b3ba701824",
+        "sha256": "b4b2e93d9c5b3c58e3b1d5a89b459c7c0407a1ca14be4d56fc59c7b3ba701824"
+      },
+      {
+        "id": "polimi-foreign",
+        "title": "Students with a foreign qualification",
+        "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/students-with-a-foreign-degree",
+        "checked_at": "2026-09-12",
+        "supports": "申请类别与上传流程",
+        "raw_sha256": "b313e8e3e36f0986a8aab9b096a4699e97fa9e83af97866b1c6cb70f6944b707",
+        "sha256": "b313e8e3e36f0986a8aab9b096a4699e97fa9e83af97866b1c6cb70f6944b707"
+      },
+      {
+        "id": "polimi-documents",
+        "title": "Necessary documents for enrolment",
+        "url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-programmes/necessary-documents-for-enrolment",
+        "checked_at": "2026-09-12",
+        "supports": "2026/27材料日期",
+        "raw_sha256": "2d277aaa802d58453a7617a83a3d25d67ba84b81cc6b1775c2b155e9f7107368",
+        "sha256": "2d277aaa802d58453a7617a83a3d25d67ba84b81cc6b1775c2b155e9f7107368"
+      },
+      {
+        "id": "polimi-language",
+        "title": "Language requirements 2026/27",
+        "url": "https://www.polimi.it/en/students/language-requirements",
+        "checked_at": "2026-09-12",
+        "supports": "授课语言证明",
+        "raw_sha256": "c96430d11c055323f058f52801f3842e58a682b088c52c17d0f75315673e9b79",
+        "sha256": "c96430d11c055323f058f52801f3842e58a682b088c52c17d0f75315673e9b79"
+      },
+      {
+        "id": "polimi-fees",
+        "title": "Tuition fees 2026/27",
+        "url": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/laurea-laurea-magistrale-and-single-cycle-programmes",
+        "checked_at": "2026-09-12",
+        "supports": "本科年度费用与海外收入证明",
+        "raw_sha256": "2d83028d877ed0839225d57a720c60b3cac6d2a11bdb546a61e30d8473384ee3",
+        "sha256": "2d83028d877ed0839225d57a720c60b3cac6d2a11bdb546a61e30d8473384ee3"
+      },
+      {
+        "id": "polimi-dsu",
+        "title": "University financial aid DSU",
+        "url": "https://www.polimi.it/en/students/tuition-fees-scholarships-and-financial-aid/university-financial-aid-diritto-allo-studio-universitario-dsu",
+        "checked_at": "2026-09-12",
+        "supports": "经济和学业条件",
+        "raw_sha256": "1fc181124624d55dab07d975dff4d3ad6408e2847377abe7a7757cc90a4f3d84",
+        "sha256": "1fc181124624d55dab07d975dff4d3ad6408e2847377abe7a7757cc90a4f3d84"
+      },
+      {
+        "id": "polimi-dsu-dates",
+        "title": "DSU Call 2026/27 deadlines",
+        "url": "https://www.polimi.it/fileadmin/user_upload/studenti/tasse-borse-agevolazioni-economiche/dsu/bando_2026-2027/Main_Deadlines_DSU_2026-2027.pdf",
+        "checked_at": "2026-09-12",
+        "supports": "奖学金与住宿申请截止",
+        "raw_sha256": "354c546c3623380c04f53e8d23cccd9271a7925e1cdb70484f42ddad1c91e431",
+        "sha256": "354c546c3623380c04f53e8d23cccd9271a7925e1cdb70484f42ddad1c91e431"
+      }
+    ]
+  }
+}

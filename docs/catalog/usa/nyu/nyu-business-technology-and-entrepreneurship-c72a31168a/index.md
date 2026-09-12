@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,53 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-90cc46b7a29431">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程表举例：</strong>目录所列课程包括：Commerce and Culture；Calculus I (or a higher-level calculus course)；Business and Society；Organizational Comm &amp; Its Social Context；Law, Business &amp; Society；Professional Resp. &amp; Leadership。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-90cc46b7a29431">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>高中材料与专业审查边界：</strong>所读Tisch本科招生章要求中学成绩、正式考试证明及非英语材料的正式译文，艺术专业另有作品／试演审查。该章只适用于Tisch，本轮没有据此推断所有NYU专业的2027标化、英语分数或大陆高考门槛；这些共同资格仍待核。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-9c5429ed6fca99">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–27 申请入口：</strong>招生办公室2026-07-31发布的本周期指南确认，Common Application从8月1日起开放，可选择 ED I、ED II或RD，以及相应校区。补充写作问题为可选；专业所需材料仍须按申请表确认。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d6d7d040419625">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请截止尚待核：</strong>Tisch目录同页的一般RD段列1月5日，国际新生段仍列1月1日；招生主站本轮遇到安全验证，因此未把任一冲突日期作为2027统一截止。专业页面的作品／试演时间也须分开核。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-9c5429ed6fca99">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 纽约本科费用：</strong>官方按秋春两个全日制学期给预算：CAS、Gallatin、Liberal Studies、护理、SPS、社会工作、Steinhardt、Tandon 的学费与费用 USD68,576；Stern70,464，Tisch75,326。只作对应学院2026/27参考，不能用于所有专业／校区或2027入学。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-cec84f47834d26">官方依据</a></p>
+
+<p class="catalog-fact"><strong>住宿及保险范围：</strong>同页纽约独立居住者住宿餐饮估计USD26,438／秋春学年，书本用品1,492、交通2,438、个人费用2,054。保险未包含；实际学费须在官方工具按学院、专业、入学期和学分再核。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-cec84f47834d26">官方依据</a></p>
+
+<p class="catalog-fact"><strong>NYU Promise 条件：</strong>页载纽约校区首次、第一本科新生按学校核定满足全部经济需要，家庭收入低于USD100,000且资产属正常水平者无需支付学费；转学生不适用NYU Promise。本轮未核国际资助申请的全套材料及截止，不能仅凭收入自行视为获得资助。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-cec84f47834d26">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +97,9 @@ hide:
 - [官方项目页面或项目所在目录](https://bulletins.nyu.edu/undergraduate/business/programs/business-technology-entrepreneurship-bs/)
 - [官方目录](https://bulletins.nyu.edu/programs/)
 
+<div class="catalog-source" id="source-p-USBENR-90cc46b7a29431"><div><a href="https://bulletins.nyu.edu/undergraduate/business/programs/business-technology-entrepreneurship-bs/">Business, Technology and Entrepreneurship — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-d6d7d040419625"><div><a href="https://meet.nyu.edu/advice/application-tips/inside-the-2026-2027-common-application-for-nyu/">NYU 官方 2026–27 申请入口 ↗</a><p>本条2026–27 申请入口及校区/年度范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-9c5429ed6fca99"><div><a href="https://bulletins.nyu.edu/undergraduate/arts/admissions/">NYU 官方 高中材料与专业审查边界 ↗</a><p>本条高中材料与专业审查边界及校区/年度范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-cec84f47834d26"><div><a href="https://bulletins.nyu.edu/undergraduate/arts-science/cost-attendance/">NYU 官方 2026/27 纽约本科费用 ↗</a><p>本条2026/27 纽约本科费用及校区/年度范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/nyu/">← 返回纽约大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

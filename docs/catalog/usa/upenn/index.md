@@ -23,218 +23,259 @@ hide:
 
 ## 专业与申请资料
 
-207 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+207 个专业条目 · 0 个含详细资料 · 207 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=upenn#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-accounting-bs-7b8ba38468/">Accounting, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-africana-studies-ba-african-american-studies-9293ffb235/">Africana Studies, BA: African American Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-africana-studies-ba-african-diaspora-studies-c112826dc7/">Africana Studies, BA: African Diaspora Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-africana-studies-ba-african-studies-73c28a1604/">Africana Studies, BA: African Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-ancient-history-ba-a20ac075b4/">Ancient History, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-archaeology-efca17a329/">Anthropology, BA: Archaeology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-biological-anthropology-b41d85390c/">Anthropology, BA: Biological Anthropology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-cultural-and-linguistic-anthropology-1f6f072010/">Anthropology, BA: Cultural and Linguistic Anthropology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-environmental-anthropology-1f78242565/">Anthropology, BA: Environmental Anthropology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-general-anthropology-e26ba1d25d/">Anthropology, BA: General Anthropology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-medical-anthropology-global-health-eec8d65aa1/">Anthropology, BA: Medical Anthropology &amp; Global Health</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-architecture-ba-design-4c7aa77bd3/">Architecture, BA: Design</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-architecture-ba-intensive-design-97008c678f/">Architecture, BA: Intensive Design</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-artificial-intelligence-for-business-bs-a773470ce6/">Artificial Intelligence for Business, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-artificial-intelligence-bse-2fb3da9945/">Artificial Intelligence, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-behavioral-economics-bs-330de4623e/">Behavioral Economics, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-biochemistry-ba-1d8fcdcf02/">Biochemistry, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-bioengineering-bse-5c8ab8f078/">Bioengineering, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-biology-ba-b505823436/">Biology, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-biomedical-science-bas-dafb4a3354/">Biomedical Science, BAS</a><small>BAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-biophysics-ba-a9b716695c/">Biophysics, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-business-analytics-bs-b1e5739e34/">Business Analytics, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-business-economics-and-public-policy-bs-268dc38eaa/">Business Economics and Public Policy, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-chemical-and-biomolecular-engineering-bse-50455fc0d9/">Chemical and Biomolecular Engineering, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-chemistry-ba-fd593670b8/">Chemistry, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cinema-and-media-studies-ba-836d58459b/">Cinema and Media Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-classical-studies-ba-classical-civilizations-128e56efbc/">Classical Studies, BA: Classical Civilizations</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-classical-studies-ba-classical-languages-and-literature-cc7468088b/">Classical Studies, BA: Classical Languages and Literature</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-classical-studies-ba-mediterranean-archaeology-6826ae094d/">Classical Studies, BA: Mediterranean Archaeology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cognitive-science-ba-cognitive-neuroscience-cab21fff3c/">Cognitive Science, BA: Cognitive Neuroscience</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cognitive-science-ba-computation-and-cognition-6f244a61f9/">Cognitive Science, BA: Computation and Cognition</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cognitive-science-ba-individualized-0a9eb14626/">Cognitive Science, BA: Individualized</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cognitive-science-ba-language-mind-f4897bcf8f/">Cognitive Science, BA: Language &amp; Mind</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-communication-public-service-2b7e265529/">Communication, BA: Communication &amp; Public Service</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-communication-culture-journalism-studies-284e79d6a4/">Communication, BA: Communication, Culture &amp; Journalism Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-data-network-science-for-communication-208d15c63e/">Communication, BA: Data &amp; Network Science for Communication</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-general-communication-721e0dc567/">Communication, BA: General Communication</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-media-audiences-persuasion-b361bff4bb/">Communication, BA: Media, Audiences &amp; Persuasion</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-politics-policy-advocacy-cb151fda60/">Communication, BA: Politics, Policy &amp; Advocacy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-comparative-literature-ba-trans-national-literatures-c83993f09e/">Comparative Literature, BA: (Trans)national Literatures</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-comparative-literature-ba-globalization-29bb75b256/">Comparative Literature, BA: Globalization</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-comparative-literature-ba-theory-366f8ee489/">Comparative Literature, BA: Theory</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-computer-engineering-bse-61ed0712dd/">Computer Engineering, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-computer-science-bas-983fc248fa/">Computer Science, BAS</a><small>BAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-computer-science-bse-770cbfed94/">Computer Science, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-creative-studies-baas-470756a74c/">Creative Studies, BAAS</a><small>BAAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-criminology-ba-6eb389b44d/">Criminology, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-data-analytics-and-psychological-sciences-baas-cce1cf6f84/">Data Analytics and Psychological Sciences, BAAS</a><small>BAAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-data-analytics-and-social-sciences-baas-ab2198c160/">Data Analytics and Social Sciences, BAAS</a><small>BAAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-design-ba-57f61e473c/">Design, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-digital-media-design-bse-0e7cbd1d4d/">Digital Media Design, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-earth-and-environmental-science-ba-1aeb542923/">Earth and Environmental Science, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-east-asian-languages-and-civilizations-ba-dual-language-93e19b93d3/">East Asian Languages and Civilizations, BA: Dual Language</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-east-asian-languages-and-civilizations-ba-east-asian-area-studies-0520450c78/">East Asian Languages and Civilizations, BA: East Asian Area Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-east-asian-languages-and-civilizations-ba-general-east-asian-lang-d4e6b5fb70/">East Asian Languages and Civilizations, BA: General East Asian Languages and Civilizations</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-economics-ba-ce9aa351b2/">Economics, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-electrical-engineering-bse-c8c8725c0c/">Electrical Engineering, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-18th-19th-centuries-903b90d98d/">English, BA: 18th/19th Centuries</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-20th-21st-centuries-1344bbca62/">English, BA: 20th/21st Centuries</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-africana-literatures-culture-fca40b8b3f/">English, BA: Africana Literatures &amp; Culture</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-cinema-media-studies-5d5abf5705/">English, BA: Cinema &amp; Media Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-creative-writing-3084b2f2e5/">English, BA: Creative Writing</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-drama-cfdcff0bc1/">English, BA: Drama</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-gender-sexuality-92b3aae166/">English, BA: Gender/Sexuality</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-general-english-e8e5392e8c/">English, BA: General English</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-literary-theory-cultural-studies-59f861c2c7/">English, BA: Literary Theory &amp; Cultural Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-literature-journalism-and-print-culture-db3dfdf4ee/">English, BA: Literature, Journalism and Print Culture</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-medieval-renaissance-0b12cebf56/">English, BA: Medieval/Renaissance</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-poetry-and-poetics-70cb6ad3c8/">English, BA: Poetry and Poetics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-the-novel-b22b4a5fb8/">English, BA: The Novel</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-entrepreneurship-and-innovation-bs-6bd5e235a1/">Entrepreneurship and Innovation, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-environmental-history-and-regional-studi-ed7df3a1c1/">Environmental Studies, BA: Environmental History and Regional Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-environmental-policy-and-application-013de77d5c/">Environmental Studies, BA: Environmental Policy and Application</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-general-environmental-studies-453a1469f0/">Environmental Studies, BA: General Environmental Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-global-environmental-systems-85878d3a6b/">Environmental Studies, BA: Global Environmental Systems</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-sustainability-and-environmental-managem-06c0924262/">Environmental Studies, BA: Sustainability and Environmental Management</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-finance-bs-c01d95914e/">Finance, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-fine-arts-ba-b7a1d0446e/">Fine Arts, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-fine-arts-bfa-97d615899c/">Fine Arts, BFA</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-francophone-italian-and-germanic-studies-ba-dual-language-b689ac42b2/">Francophone, Italian and Germanic Studies, BA: Dual Language</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-francophone-italian-and-germanic-studies-ba-french-and-francophon-bc2815c594/">Francophone, Italian and Germanic Studies, BA: French and Francophone Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-francophone-italian-and-germanic-studies-ba-germanic-studies-8b0e37fa4f/">Francophone, Italian and Germanic Studies, BA: Germanic Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-francophone-italian-and-germanic-studies-ba-italian-studies-66d4748964/">Francophone, Italian and Germanic Studies, BA: Italian Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-feminist-studies-eceb74b92b/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: Feminist Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-general-695cfd3e22/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: General</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-global-gender-and-sexuality-s-2e07334b82/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: Global Gender and Sexuality Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-health-and-disability-studies-b01666563b/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: Health and Disability Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-lgbtq-studies-b62390f6b8/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: LGBTQ Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-self-designed-e99239a39e/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: Self Designed</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-care-management-and-policy-bs-088f12347f/">Health Care Management and Policy, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-bioethics-and-society-174e881ece/">Health and Societies, BA: Bioethics and Society</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-disease-and-culture-87a8e6dd6c/">Health and Societies, BA: Disease and Culture</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-global-health-17da5264b9/">Health and Societies, BA: Global Health</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-health-care-markets-finance-5c655ed517/">Health and Societies, BA: Health Care Markets &amp; Finance</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-health-policy-law-980421c8c4/">Health and Societies, BA: Health Policy &amp; Law</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-public-health-4c32d48ab8/">Health and Societies, BA: Public Health</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-race-gender-and-health-b25ce32fa7/">Health and Societies, BA: Race, Gender and Health</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-hispanic-studies-ba-8526a1694c/">Hispanic Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-of-art-ba-06268db496/">History of Art, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-american-history-1438432abb/">History, BA: American History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-diplomatic-history-e86c752e66/">History, BA: Diplomatic History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-economic-history-c9223aeb99/">History, BA: Economic History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-european-history-ce6514caa0/">History, BA: European History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-gender-history-c355f48201/">History, BA: Gender History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-general-history-a71d5b9f98/">History, BA: General History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-intellectual-history-ccb4adf034/">History, BA: Intellectual History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-jewish-history-fed48fde83/">History, BA: Jewish History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-political-history-7ba8ad0bf7/">History, BA: Political History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-world-history-cca3951347/">History, BA: World History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-huntsman-program-in-international-studies-and-business-37fb277fe2/">Huntsman Program in International Studies and Business</a><small>BA in International Studies/BS in Economics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-impact-value-and-sustainable-business-bs-8389983b92/">Impact, Value and Sustainable Business, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-individualized-major-ba-981168938b/">Individualized Major, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-individualized-studies-baas-ffde3e26ca/">Individualized Studies, BAAS</a><small>BAAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-individualized-bs-31227e603e/">Individualized, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-international-relations-ba-82505574d9/">International Relations, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-international-studies-ba-fb294b9c0e/">International Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-jerome-fisher-program-in-management-technology-1a877e6a86/">Jerome Fisher Program in Management &amp; Technology</a><small>BAS/BSE and BS in Economics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-jewish-studies-ba-c5536df2e6/">Jewish Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-latin-american-latinx-studies-ba-0ce6aa1139/">Latin American &amp; Latinx Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-law-and-society-ba-a712271706/">Law and Society, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-leadership-and-communication-baas-b0ddd10700/">Leadership and Communication, BAAS</a><small>BAAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-leading-across-differences-bs-a79bf48b27/">Leading Across Differences, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-legal-studies-business-ethics-bs-2c7e39ea3d/">Legal Studies &amp; Business Ethics, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-linguistics-ba-0f0782e47a/">Linguistics, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-literature-culture-and-tradition-baas-4cbf9fd4bf/">Literature, Culture and Tradition, BAAS</a><small>BAAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-logic-information-computation-ba-e8c8a83f09/">Logic, Information, &amp; Computation, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-management-bs-general-track-b9611a4fdc/">Management, BS: General Track</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-management-bs-multinational-management-track-3df8e16f82/">Management, BS: Multinational Management Track</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-management-bs-organizational-effectiveness-track-73096212b3/">Management, BS: Organizational Effectiveness Track</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-management-bs-strategic-management-track-74fb4b20af/">Management, BS: Strategic Management Track</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-marketing-communication-bs-39879b0e97/">Marketing &amp; Communication, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-marketing-operations-management-bs-a9efa5bea9/">Marketing &amp; Operations Management, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-marketing-bs-2b5ba67bd6/">Marketing, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-materials-science-and-engineering-bse-d101d4872b/">Materials Science and Engineering, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-mathematical-economics-ba-61f8ae3410/">Mathematical Economics, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-mathematics-ba-biological-mathematics-4f6ecb58e6/">Mathematics, BA: Biological Mathematics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-mathematics-ba-general-mathematics-f3b09f8391/">Mathematics, BA: General Mathematics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-mechanical-engineering-and-applied-mechanics-bse-25a1baad67/">Mechanical Engineering and Applied Mechanics, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-ancient-middle-east-e093048501/">Middle Eastern Languages &amp; Cultures, BA: Ancient Middle East</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-arabic-hebrew-studies-c119b377a1/">Middle Eastern Languages &amp; Cultures, BA: Arabic &amp; Hebrew Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-arabic-language-and-literatu-ac993424ec/">Middle Eastern Languages &amp; Cultures, BA: Arabic Language and Literature</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-cultures-and-societies-of-th-03a20875bb/">Middle Eastern Languages &amp; Cultures, BA: Cultures and Societies of the Middle East and North Africa</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-hebrew-and-judaic-studies-35189a4adb/">Middle Eastern Languages &amp; Cultures, BA: Hebrew and Judaic Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-persian-languages-literature-0c657a8aa4/">Middle Eastern Languages &amp; Cultures, BA: Persian Languages &amp; Literature</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-modern-middle-eastern-studies-ba-711eb14a1b/">Modern Middle Eastern Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-music-ba-e20778f519/">Music, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-neuroscience-ba-edc76785da/">Neuroscience, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-nursing-and-health-care-management-program-nhcm-043120a171/">Nursing and Health Care Management Program (NHCM)</a><small>Bachelor of Science in Economics/Bachelor of Science in Nursing (BSN) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-nursing-bsn-c292178843/">Nursing, BSN</a><small>BSN · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-nutrition-science-ba-723342fef3/">Nutrition Science, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-nutrition-science-bsn-1fbff87ca2/">Nutrition Science, BSN</a><small>BSN · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-operations-information-decisions-bs-decision-processes-track-d50efba0ca/">Operations, Information &amp; Decisions, BS: Decision Processes Track</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-operations-information-decisions-bs-general-track-b106c760b4/">Operations, Information &amp; Decisions, BS: General Track</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-operations-information-decisions-bs-information-systems-track-7ff7dcd55a/">Operations, Information &amp; Decisions, BS: Information Systems Track</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-operations-information-decisions-bs-operations-management-managem-f490919856/">Operations, Information &amp; Decisions, BS: Operations Management/Management Science Track</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-organizational-studies-baas-168426deb7/">Organizational Studies, BAAS</a><small>BAAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-ba-general-philosophy-71d9e97ed9/">Philosophy, BA: General Philosophy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-ba-humanistic-philosophy-83a5e15ffc/">Philosophy, BA: Humanistic Philosophy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-ba-moral-and-political-philosophy-aad31da46d/">Philosophy, BA: Moral and Political Philosophy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-ba-philosophy-of-science-94c01c7871/">Philosophy, BA: Philosophy of Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-politics-and-economics-ba-choice-behavior-b52e1453a1/">Philosophy, Politics and Economics, BA: Choice &amp; Behavior</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-politics-and-economics-ba-distributive-justice-9e7ee2810a/">Philosophy, Politics and Economics, BA: Distributive Justice</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-politics-and-economics-ba-globalization-def93500c4/">Philosophy, Politics and Economics, BA: Globalization</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-politics-and-economics-ba-public-policy-governance-9e7316047e/">Philosophy, Politics and Economics, BA: Public Policy &amp; Governance</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physical-and-life-sciences-baas-0c3f544198/">Physical and Life Sciences, BAAS</a><small>BAAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-astrophysics-74112372da/">Physics, BA: Astrophysics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-biological-science-52baf65348/">Physics, BA: Biological Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-business-technology-db65188620/">Physics, BA: Business &amp; Technology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-chemical-principles-9d2e2df3b3/">Physics, BA: Chemical Principles</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-computer-techniques-0d4b2be5ce/">Physics, BA: Computer Techniques</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-physical-theory-and-experimental-technique-ab251f4264/">Physics, BA: Physical Theory and Experimental Technique</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-american-politics-e776f0b78c/">Political Science, BA: American Politics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-comparative-politics-615324d008/">Political Science, BA: Comparative Politics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-general-political-science-6ba51e2bf0/">Political Science, BA: General Political Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-individualized-8fb4e4525f/">Political Science, BA: Individualized</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-international-relations-598732fcf3/">Political Science, BA: International Relations</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-political-economy-0f668bebf0/">Political Science, BA: Political Economy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-political-theory-0b0878e320/">Political Science, BA: Political Theory</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-psychology-ba-69aed747d6/">Psychology, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-real-estate-bs-4ef8223174/">Real Estate, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-religious-studies-ba-27b97299c3/">Religious Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-retailing-bs-e3288f93fd/">Retailing, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-roy-and-diana-vagelos-program-in-life-sciences-and-management-lsm-a38427e04e/">Roy and Diana Vagelos Program in Life Sciences and Management (LSM)</a><small>Bachelor of Arts (BA)/Bachelor of Science in Economics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-russian-and-east-european-studies-ba-2090fcc7b7/">Russian and East European Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-biotechnology-biomedicine-37c4b993ac/">Science, Technology and Society, BA: Biotechnology &amp; Biomedicine</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-energy-and-environment-71b703e73e/">Science, Technology and Society, BA: Energy and Environment</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-global-science-and-technology-76f72b48e8/">Science, Technology and Society, BA: Global Science and Technology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-information-and-organizations-6a492eda54/">Science, Technology and Society, BA: Information and Organizations</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-science-nature-culture-e6fcdd32fe/">Science, Technology and Society, BA: Science/Nature/Culture</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-applied-research-and-data-analysis-126f09c01e/">Sociology, BA: Applied Research and Data Analysis</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-cities-markets-and-the-global-economy-89c8c148f8/">Sociology, BA: Cities, Markets, and the Global Economy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-culture-and-diversity-4fff94f19d/">Sociology, BA: Culture and Diversity</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-education-and-society-defe4ba3b6/">Sociology, BA: Education and Society</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-family-gender-and-society-1fed9e4ca5/">Sociology, BA: Family, Gender and Society</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-medical-sociology-9ad9aaa0e6/">Sociology, BA: Medical Sociology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-structures-of-opportunity-and-inequality-c8be9073fe/">Sociology, BA: Structures of Opportunity and Inequality</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-south-asia-studies-ba-afea85c8b6/">South Asia Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-statistics-and-data-science-bs-5a0b66b911/">Statistics and Data Science, BS</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-theatre-arts-ba-3084dcac5d/">Theatre Arts, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-urban-studies-ba-9bc2058ec0/">Urban Studies, BA</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-vagelos-integrated-program-in-energy-research-viper-0a4109a069/">Vagelos Integrated Program in Energy Research (VIPER)</a><small>BA/BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-studies-ba-architecture-practice-and-technology-ce4185365b/">Visual Studies, BA: Architecture Practice and Technology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-studies-ba-art-and-culture-of-seeing-db07177a83/">Visual Studies, BA: Art and Culture of Seeing</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-studies-ba-art-practice-and-technology-b7b0730632/">Visual Studies, BA: Art, Practice and Technology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-studies-ba-philosophy-and-science-of-seeing-6e1bf06e13/">Visual Studies, BA: Philosophy and Science of Seeing</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-and-interactive-computing-bse-6f79fc7ea3/">Visual and Interactive Computing, BSE</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-writing-baas-96d3b38c2a/">Writing, BAAS</a><small>BAAS · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-accounting-bs-7b8ba38468/">Accounting, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-africana-studies-ba-african-american-studies-9293ffb235/">Africana Studies, BA: African American Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-africana-studies-ba-african-diaspora-studies-c112826dc7/">Africana Studies, BA: African Diaspora Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-africana-studies-ba-african-studies-73c28a1604/">Africana Studies, BA: African Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-ancient-history-ba-a20ac075b4/">Ancient History, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-archaeology-efca17a329/">Anthropology, BA: Archaeology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-biological-anthropology-b41d85390c/">Anthropology, BA: Biological Anthropology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-cultural-and-linguistic-anthropology-1f6f072010/">Anthropology, BA: Cultural and Linguistic Anthropology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-environmental-anthropology-1f78242565/">Anthropology, BA: Environmental Anthropology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-general-anthropology-e26ba1d25d/">Anthropology, BA: General Anthropology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-anthropology-ba-medical-anthropology-global-health-eec8d65aa1/">Anthropology, BA: Medical Anthropology &amp; Global Health</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-architecture-ba-design-4c7aa77bd3/">Architecture, BA: Design</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-architecture-ba-intensive-design-97008c678f/">Architecture, BA: Intensive Design</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-artificial-intelligence-for-business-bs-a773470ce6/">Artificial Intelligence for Business, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-artificial-intelligence-bse-2fb3da9945/">Artificial Intelligence, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-behavioral-economics-bs-330de4623e/">Behavioral Economics, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-biochemistry-ba-1d8fcdcf02/">Biochemistry, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-bioengineering-bse-5c8ab8f078/">Bioengineering, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-biology-ba-b505823436/">Biology, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-biomedical-science-bas-dafb4a3354/">Biomedical Science, BAS</a><small>BAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-biophysics-ba-a9b716695c/">Biophysics, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-business-analytics-bs-b1e5739e34/">Business Analytics, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-business-economics-and-public-policy-bs-268dc38eaa/">Business Economics and Public Policy, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-chemical-and-biomolecular-engineering-bse-50455fc0d9/">Chemical and Biomolecular Engineering, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-chemistry-ba-fd593670b8/">Chemistry, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cinema-and-media-studies-ba-836d58459b/">Cinema and Media Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-classical-studies-ba-classical-civilizations-128e56efbc/">Classical Studies, BA: Classical Civilizations</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-classical-studies-ba-classical-languages-and-literature-cc7468088b/">Classical Studies, BA: Classical Languages and Literature</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-classical-studies-ba-mediterranean-archaeology-6826ae094d/">Classical Studies, BA: Mediterranean Archaeology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cognitive-science-ba-cognitive-neuroscience-cab21fff3c/">Cognitive Science, BA: Cognitive Neuroscience</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cognitive-science-ba-computation-and-cognition-6f244a61f9/">Cognitive Science, BA: Computation and Cognition</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cognitive-science-ba-individualized-0a9eb14626/">Cognitive Science, BA: Individualized</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-cognitive-science-ba-language-mind-f4897bcf8f/">Cognitive Science, BA: Language &amp; Mind</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-communication-public-service-2b7e265529/">Communication, BA: Communication &amp; Public Service</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-communication-culture-journalism-studies-284e79d6a4/">Communication, BA: Communication, Culture &amp; Journalism Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-data-network-science-for-communication-208d15c63e/">Communication, BA: Data &amp; Network Science for Communication</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-general-communication-721e0dc567/">Communication, BA: General Communication</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-media-audiences-persuasion-b361bff4bb/">Communication, BA: Media, Audiences &amp; Persuasion</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-communication-ba-politics-policy-advocacy-cb151fda60/">Communication, BA: Politics, Policy &amp; Advocacy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-comparative-literature-ba-trans-national-literatures-c83993f09e/">Comparative Literature, BA: (Trans)national Literatures</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-comparative-literature-ba-globalization-29bb75b256/">Comparative Literature, BA: Globalization</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-comparative-literature-ba-theory-366f8ee489/">Comparative Literature, BA: Theory</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-computer-engineering-bse-61ed0712dd/">Computer Engineering, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-computer-science-bas-983fc248fa/">Computer Science, BAS</a><small>BAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-computer-science-bse-770cbfed94/">Computer Science, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-creative-studies-baas-470756a74c/">Creative Studies, BAAS</a><small>BAAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-criminology-ba-6eb389b44d/">Criminology, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-data-analytics-and-psychological-sciences-baas-cce1cf6f84/">Data Analytics and Psychological Sciences, BAAS</a><small>BAAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-data-analytics-and-social-sciences-baas-ab2198c160/">Data Analytics and Social Sciences, BAAS</a><small>BAAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-design-ba-57f61e473c/">Design, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-digital-media-design-bse-0e7cbd1d4d/">Digital Media Design, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-earth-and-environmental-science-ba-1aeb542923/">Earth and Environmental Science, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-east-asian-languages-and-civilizations-ba-dual-language-93e19b93d3/">East Asian Languages and Civilizations, BA: Dual Language</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-east-asian-languages-and-civilizations-ba-east-asian-area-studies-0520450c78/">East Asian Languages and Civilizations, BA: East Asian Area Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-east-asian-languages-and-civilizations-ba-general-east-asian-lang-d4e6b5fb70/">East Asian Languages and Civilizations, BA: General East Asian Languages and Civilizations</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-economics-ba-ce9aa351b2/">Economics, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-electrical-engineering-bse-c8c8725c0c/">Electrical Engineering, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-18th-19th-centuries-903b90d98d/">English, BA: 18th/19th Centuries</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-20th-21st-centuries-1344bbca62/">English, BA: 20th/21st Centuries</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-africana-literatures-culture-fca40b8b3f/">English, BA: Africana Literatures &amp; Culture</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-cinema-media-studies-5d5abf5705/">English, BA: Cinema &amp; Media Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-creative-writing-3084b2f2e5/">English, BA: Creative Writing</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-drama-cfdcff0bc1/">English, BA: Drama</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-gender-sexuality-92b3aae166/">English, BA: Gender/Sexuality</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-general-english-e8e5392e8c/">English, BA: General English</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-literary-theory-cultural-studies-59f861c2c7/">English, BA: Literary Theory &amp; Cultural Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-literature-journalism-and-print-culture-db3dfdf4ee/">English, BA: Literature, Journalism and Print Culture</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-medieval-renaissance-0b12cebf56/">English, BA: Medieval/Renaissance</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-poetry-and-poetics-70cb6ad3c8/">English, BA: Poetry and Poetics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-english-ba-the-novel-b22b4a5fb8/">English, BA: The Novel</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-entrepreneurship-and-innovation-bs-6bd5e235a1/">Entrepreneurship and Innovation, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-environmental-history-and-regional-studi-ed7df3a1c1/">Environmental Studies, BA: Environmental History and Regional Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-environmental-policy-and-application-013de77d5c/">Environmental Studies, BA: Environmental Policy and Application</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-general-environmental-studies-453a1469f0/">Environmental Studies, BA: General Environmental Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-global-environmental-systems-85878d3a6b/">Environmental Studies, BA: Global Environmental Systems</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-environmental-studies-ba-sustainability-and-environmental-managem-06c0924262/">Environmental Studies, BA: Sustainability and Environmental Management</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-finance-bs-c01d95914e/">Finance, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-fine-arts-ba-b7a1d0446e/">Fine Arts, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-fine-arts-bfa-97d615899c/">Fine Arts, BFA</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-francophone-italian-and-germanic-studies-ba-dual-language-b689ac42b2/">Francophone, Italian and Germanic Studies, BA: Dual Language</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-francophone-italian-and-germanic-studies-ba-french-and-francophon-bc2815c594/">Francophone, Italian and Germanic Studies, BA: French and Francophone Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-francophone-italian-and-germanic-studies-ba-germanic-studies-8b0e37fa4f/">Francophone, Italian and Germanic Studies, BA: Germanic Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-francophone-italian-and-germanic-studies-ba-italian-studies-66d4748964/">Francophone, Italian and Germanic Studies, BA: Italian Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-feminist-studies-eceb74b92b/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: Feminist Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-general-695cfd3e22/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: General</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-global-gender-and-sexuality-s-2e07334b82/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: Global Gender and Sexuality Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-health-and-disability-studies-b01666563b/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: Health and Disability Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-lgbtq-studies-b62390f6b8/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: LGBTQ Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-gender-sexuality-women-s-studies-ba-self-designed-e99239a39e/">Gender, Sexuality, &amp; Women&#x27;s Studies, BA: Self Designed</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-care-management-and-policy-bs-088f12347f/">Health Care Management and Policy, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-bioethics-and-society-174e881ece/">Health and Societies, BA: Bioethics and Society</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-disease-and-culture-87a8e6dd6c/">Health and Societies, BA: Disease and Culture</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-global-health-17da5264b9/">Health and Societies, BA: Global Health</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-health-care-markets-finance-5c655ed517/">Health and Societies, BA: Health Care Markets &amp; Finance</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-health-policy-law-980421c8c4/">Health and Societies, BA: Health Policy &amp; Law</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-public-health-4c32d48ab8/">Health and Societies, BA: Public Health</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-health-and-societies-ba-race-gender-and-health-b25ce32fa7/">Health and Societies, BA: Race, Gender and Health</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-hispanic-studies-ba-8526a1694c/">Hispanic Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-of-art-ba-06268db496/">History of Art, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-american-history-1438432abb/">History, BA: American History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-diplomatic-history-e86c752e66/">History, BA: Diplomatic History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-economic-history-c9223aeb99/">History, BA: Economic History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-european-history-ce6514caa0/">History, BA: European History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-gender-history-c355f48201/">History, BA: Gender History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-general-history-a71d5b9f98/">History, BA: General History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-intellectual-history-ccb4adf034/">History, BA: Intellectual History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-jewish-history-fed48fde83/">History, BA: Jewish History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-political-history-7ba8ad0bf7/">History, BA: Political History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-history-ba-world-history-cca3951347/">History, BA: World History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-huntsman-program-in-international-studies-and-business-37fb277fe2/">Huntsman Program in International Studies and Business</a><small>BA in International Studies/BS in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-impact-value-and-sustainable-business-bs-8389983b92/">Impact, Value and Sustainable Business, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-individualized-major-ba-981168938b/">Individualized Major, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-individualized-studies-baas-ffde3e26ca/">Individualized Studies, BAAS</a><small>BAAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-individualized-bs-31227e603e/">Individualized, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-international-relations-ba-82505574d9/">International Relations, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-international-studies-ba-fb294b9c0e/">International Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-jerome-fisher-program-in-management-technology-1a877e6a86/">Jerome Fisher Program in Management &amp; Technology</a><small>BAS/BSE and BS in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-jewish-studies-ba-c5536df2e6/">Jewish Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-latin-american-latinx-studies-ba-0ce6aa1139/">Latin American &amp; Latinx Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-law-and-society-ba-a712271706/">Law and Society, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-leadership-and-communication-baas-b0ddd10700/">Leadership and Communication, BAAS</a><small>BAAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-leading-across-differences-bs-a79bf48b27/">Leading Across Differences, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-legal-studies-business-ethics-bs-2c7e39ea3d/">Legal Studies &amp; Business Ethics, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-linguistics-ba-0f0782e47a/">Linguistics, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-literature-culture-and-tradition-baas-4cbf9fd4bf/">Literature, Culture and Tradition, BAAS</a><small>BAAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-logic-information-computation-ba-e8c8a83f09/">Logic, Information, &amp; Computation, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-management-bs-general-track-b9611a4fdc/">Management, BS: General Track</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-management-bs-multinational-management-track-3df8e16f82/">Management, BS: Multinational Management Track</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-management-bs-organizational-effectiveness-track-73096212b3/">Management, BS: Organizational Effectiveness Track</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-management-bs-strategic-management-track-74fb4b20af/">Management, BS: Strategic Management Track</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-marketing-communication-bs-39879b0e97/">Marketing &amp; Communication, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-marketing-operations-management-bs-a9efa5bea9/">Marketing &amp; Operations Management, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-marketing-bs-2b5ba67bd6/">Marketing, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-materials-science-and-engineering-bse-d101d4872b/">Materials Science and Engineering, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-mathematical-economics-ba-61f8ae3410/">Mathematical Economics, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-mathematics-ba-biological-mathematics-4f6ecb58e6/">Mathematics, BA: Biological Mathematics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-mathematics-ba-general-mathematics-f3b09f8391/">Mathematics, BA: General Mathematics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-mechanical-engineering-and-applied-mechanics-bse-25a1baad67/">Mechanical Engineering and Applied Mechanics, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-ancient-middle-east-e093048501/">Middle Eastern Languages &amp; Cultures, BA: Ancient Middle East</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-arabic-hebrew-studies-c119b377a1/">Middle Eastern Languages &amp; Cultures, BA: Arabic &amp; Hebrew Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-arabic-language-and-literatu-ac993424ec/">Middle Eastern Languages &amp; Cultures, BA: Arabic Language and Literature</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-cultures-and-societies-of-th-03a20875bb/">Middle Eastern Languages &amp; Cultures, BA: Cultures and Societies of the Middle East and North Africa</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-hebrew-and-judaic-studies-35189a4adb/">Middle Eastern Languages &amp; Cultures, BA: Hebrew and Judaic Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-middle-eastern-languages-cultures-ba-persian-languages-literature-0c657a8aa4/">Middle Eastern Languages &amp; Cultures, BA: Persian Languages &amp; Literature</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-modern-middle-eastern-studies-ba-711eb14a1b/">Modern Middle Eastern Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-music-ba-e20778f519/">Music, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-neuroscience-ba-edc76785da/">Neuroscience, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-nursing-and-health-care-management-program-nhcm-043120a171/">Nursing and Health Care Management Program (NHCM)</a><small>Bachelor of Science in Economics/Bachelor of Science in Nursing (BSN) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-nursing-bsn-c292178843/">Nursing, BSN</a><small>BSN · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-nutrition-science-ba-723342fef3/">Nutrition Science, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-nutrition-science-bsn-1fbff87ca2/">Nutrition Science, BSN</a><small>BSN · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-operations-information-decisions-bs-decision-processes-track-d50efba0ca/">Operations, Information &amp; Decisions, BS: Decision Processes Track</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-operations-information-decisions-bs-general-track-b106c760b4/">Operations, Information &amp; Decisions, BS: General Track</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-operations-information-decisions-bs-information-systems-track-7ff7dcd55a/">Operations, Information &amp; Decisions, BS: Information Systems Track</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-operations-information-decisions-bs-operations-management-managem-f490919856/">Operations, Information &amp; Decisions, BS: Operations Management/Management Science Track</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-organizational-studies-baas-168426deb7/">Organizational Studies, BAAS</a><small>BAAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-ba-general-philosophy-71d9e97ed9/">Philosophy, BA: General Philosophy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-ba-humanistic-philosophy-83a5e15ffc/">Philosophy, BA: Humanistic Philosophy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-ba-moral-and-political-philosophy-aad31da46d/">Philosophy, BA: Moral and Political Philosophy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-ba-philosophy-of-science-94c01c7871/">Philosophy, BA: Philosophy of Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-politics-and-economics-ba-choice-behavior-b52e1453a1/">Philosophy, Politics and Economics, BA: Choice &amp; Behavior</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-politics-and-economics-ba-distributive-justice-9e7ee2810a/">Philosophy, Politics and Economics, BA: Distributive Justice</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-politics-and-economics-ba-globalization-def93500c4/">Philosophy, Politics and Economics, BA: Globalization</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-philosophy-politics-and-economics-ba-public-policy-governance-9e7316047e/">Philosophy, Politics and Economics, BA: Public Policy &amp; Governance</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physical-and-life-sciences-baas-0c3f544198/">Physical and Life Sciences, BAAS</a><small>BAAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-astrophysics-74112372da/">Physics, BA: Astrophysics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-biological-science-52baf65348/">Physics, BA: Biological Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-business-technology-db65188620/">Physics, BA: Business &amp; Technology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-chemical-principles-9d2e2df3b3/">Physics, BA: Chemical Principles</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-computer-techniques-0d4b2be5ce/">Physics, BA: Computer Techniques</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-physics-ba-physical-theory-and-experimental-technique-ab251f4264/">Physics, BA: Physical Theory and Experimental Technique</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-american-politics-e776f0b78c/">Political Science, BA: American Politics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-comparative-politics-615324d008/">Political Science, BA: Comparative Politics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-general-political-science-6ba51e2bf0/">Political Science, BA: General Political Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-individualized-8fb4e4525f/">Political Science, BA: Individualized</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-international-relations-598732fcf3/">Political Science, BA: International Relations</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-political-economy-0f668bebf0/">Political Science, BA: Political Economy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-political-science-ba-political-theory-0b0878e320/">Political Science, BA: Political Theory</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-psychology-ba-69aed747d6/">Psychology, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-real-estate-bs-4ef8223174/">Real Estate, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-religious-studies-ba-27b97299c3/">Religious Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-retailing-bs-e3288f93fd/">Retailing, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-roy-and-diana-vagelos-program-in-life-sciences-and-management-lsm-a38427e04e/">Roy and Diana Vagelos Program in Life Sciences and Management (LSM)</a><small>Bachelor of Arts (BA)/Bachelor of Science in Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-russian-and-east-european-studies-ba-2090fcc7b7/">Russian and East European Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-biotechnology-biomedicine-37c4b993ac/">Science, Technology and Society, BA: Biotechnology &amp; Biomedicine</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-energy-and-environment-71b703e73e/">Science, Technology and Society, BA: Energy and Environment</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-global-science-and-technology-76f72b48e8/">Science, Technology and Society, BA: Global Science and Technology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-information-and-organizations-6a492eda54/">Science, Technology and Society, BA: Information and Organizations</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-science-technology-and-society-ba-science-nature-culture-e6fcdd32fe/">Science, Technology and Society, BA: Science/Nature/Culture</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-applied-research-and-data-analysis-126f09c01e/">Sociology, BA: Applied Research and Data Analysis</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-cities-markets-and-the-global-economy-89c8c148f8/">Sociology, BA: Cities, Markets, and the Global Economy</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-culture-and-diversity-4fff94f19d/">Sociology, BA: Culture and Diversity</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-education-and-society-defe4ba3b6/">Sociology, BA: Education and Society</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-family-gender-and-society-1fed9e4ca5/">Sociology, BA: Family, Gender and Society</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-medical-sociology-9ad9aaa0e6/">Sociology, BA: Medical Sociology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-sociology-ba-structures-of-opportunity-and-inequality-c8be9073fe/">Sociology, BA: Structures of Opportunity and Inequality</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-south-asia-studies-ba-afea85c8b6/">South Asia Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-statistics-and-data-science-bs-5a0b66b911/">Statistics and Data Science, BS</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-theatre-arts-ba-3084dcac5d/">Theatre Arts, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-urban-studies-ba-9bc2058ec0/">Urban Studies, BA</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-vagelos-integrated-program-in-energy-research-viper-0a4109a069/">Vagelos Integrated Program in Energy Research (VIPER)</a><small>BA/BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-studies-ba-architecture-practice-and-technology-ce4185365b/">Visual Studies, BA: Architecture Practice and Technology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-studies-ba-art-and-culture-of-seeing-db07177a83/">Visual Studies, BA: Art and Culture of Seeing</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-studies-ba-art-practice-and-technology-b7b0730632/">Visual Studies, BA: Art, Practice and Technology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-studies-ba-philosophy-and-science-of-seeing-6e1bf06e13/">Visual Studies, BA: Philosophy and Science of Seeing</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-visual-and-interactive-computing-bse-6f79fc7ea3/">Visual and Interactive Computing, BSE</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/upenn/upenn-writing-baas-96d3b38c2a/">Writing, BAAS</a><small>BAAS · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>选择本科院校与中国高中材料：</strong>本科新生申请Penn的一个本科院校，部分可另选协调双学位；不等于目录中每个专业或concentration分别招生。国际申请提交完整中学年级记录，三年制高中按实际学校结构提供；非英文材料须认证翻译，无需第三方重算GPA。A-Level/IB无统一显式最低分，按所申院校学术准备综合审查。</p>
+<p class="fact-sources"><a href="#source-u-upenn-apply">官方依据</a> · <a href="#source-u-upenn-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT及英语：</strong>2026–2027申请周期要求SAT/ACT，无统一最低分；未考且有实际困难可提交豁免说明，已考试者必须交。英语母语或入学前高中/大学合计至少三年以英语为主要教学语言可免英语考试，否则须官方送TOEFL/IELTS/DET，有效两年，不能自报代替官方成绩。</p>
+<p class="fact-sources"><a href="#source-u-upenn-testing">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语竞争力描述并非硬录取线：</strong>国际申请FAQ描述有竞争力者IELTS常为7以上且各项稳定；新TOEFL常为5以上，仍有效的旧TOEFL常为100以上。官网用的是竞争力描述，不等于保证录取或通用硬最低线；不接受IELTS Indicator、One Retake或TOEFL MyBest。</p>
+<p class="fact-sources"><a href="#source-u-upenn-international">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027秋季申请窗口：</strong>2027秋季新生申请已开放；Common App、Coalition App或QuestBridge。ED截止2026-11-01，具有入读承诺；RD截止2027-01-05。考试最后日期与主申请不同：ED SAT11月7日、ACT10月17日；RD SAT12月5日、ACT12月12日。</p>
+<p class="fact-sources"><a href="#source-u-upenn-apply">官方依据</a> · <a href="#source-u-upenn-testing">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026–2027传统本科收费：</strong>传统本科标准年度学费US$65,670，强制费用US$8,308。住校基础预算US$99,082；该预算未必含需另加的保险和回家交通，护理新生及Wharton高年级书本预算不同。LPS继续教育学生按LPS费率和注册学分另算，不能套此标准年费。</p>
+<p class="fact-sources"><a href="#source-u-upenn-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际经济资助影响录取：</strong>不属于美国/加拿大/墨西哥公民或永居的国际申请者，支付能力会影响录取；作为资助获得者获录取者满足学校认定的全部需要。须在申请时提出经济资助需求，具体认定和材料按国际资助页。</p>
+<p class="fact-sources"><a href="#source-u-upenn-aid">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>逐专业统计缺口：</strong>本轮未取得全部本科专业/重点方向的同届国际或中国学生就业调查；培养方案的职业方向不等于就业率。</p>
+<p class="fact-sources"><a href="#source-u-upenn-apply">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-upenn-apply"><div><a href="https://admissions.upenn.edu/how-to-apply/first-year-applicants">upenn 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-upenn-international"><div><a href="https://admissions.upenn.edu/how-to-apply/international-applicants">upenn 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-upenn-testing"><div><a href="https://admissions.upenn.edu/how-to-apply/preparing-your-application/testing">upenn 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-upenn-fees"><div><a href="https://srfs.upenn.edu/costs-budgeting/undergraduate-cost-attendance">upenn 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-upenn-aid"><div><a href="https://admissions.upenn.edu/affording-penn/international-aid">upenn 官方本科资料：aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

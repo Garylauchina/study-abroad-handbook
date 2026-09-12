@@ -23,172 +23,203 @@ hide:
 
 ## 专业与申请资料
 
-161 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+161 个专业条目 · 0 个含详细资料 · 0 个补有专业资料 · 161 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ut-austin#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-accounting-e97443d467/">Accounting</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-accounting-61892a65b7/">Accounting</a><small>BBA/MPA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-acting-f84f3af94c/">Acting</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-advertising-fc472b5331/">Advertising</a><small>BSAdv · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-aerospace-engineering-6e85f64705/">Aerospace engineering</a><small>BSAsE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-african-and-african-diaspora-studies-cd901440b8/">African and African diaspora studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-american-studies-b289ee669c/">American studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-anthropology-069a9edbf2/">Anthropology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-anthropology-daa4b021a3/">Anthropology</a><small>BA/MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-applied-movement-science-bce3cea905/">Applied movement science</a><small>BSKin&amp;Health · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architectural-engineering-438eb9a9b5/">Architectural engineering</a><small>BSArchE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architectural-studies-b9fc1a569a/">Architectural studies</a><small>BSAS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architecture-89655231a5/">Architecture</a><small>BArch · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architecture-architectural-engineering-90e06a26df/">Architecture/Architectural engineering</a><small>BArch/BSArchE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architecture-plan-ii-b6e561881e/">Architecture/Plan II</a><small>BArch/BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-art-education-635fe92833/">Art education</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-art-history-91cd689a2c/">Art history</a><small>BAArtHist · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-arts-and-entertainment-technologies-41a2686071/">Arts and entertainment technologies</a><small>BSAET · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-asian-cultures-and-languages-students-specialize-in-chinese-hindi-755ceede17/">Asian cultures and languages (Students specialize in Chinese, Hindi/Urdu, Japanese, Korean, Malayalam, Sanskrit, or Tamil.)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-asian-studies-08015dae6e/">Asian studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-astronomy-24d4d402a4/">Astronomy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-astronomy-d57a7a54a4/">Astronomy</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-astronomy-53ab456fa7/">Astronomy</a><small>BSAst · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-athletic-training-6d5b98e90d/">Athletic training</a><small>BSAthTrng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-behavioral-and-social-data-science-c4a4e11122/">Behavioral and social data science</a><small>BSBSDS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biochemistry-e82c12ae9f/">Biochemistry</a><small>BSBioch · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biochemistry-1077696846/">Biochemistry</a><small>BSBioch/MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biological-sciences-65633794fd/">Biological sciences</a><small>BSEnvirSci · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biology-57c05d12da/">Biology</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biology-4d628d735a/">Biology</a><small>BSBio · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biomedical-engineering-5bd39e39cd/">Biomedical Engineering</a><small>BSBiomedE/MSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biomedical-engineering-11ba765af0/">Biomedical engineering</a><small>BSBiomedE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-business-administration-c1a4d50ef4/">Business administration</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-business-analytics-e82ca381de/">Business analytics</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-business-computer-science-20373b2f1f/">Business/Computer science</a><small>BBA/BSCompSci · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-chemical-engineering-e8ce9bb4cc/">Chemical engineering</a><small>BSChE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-chemistry-636b015e46/">Chemistry</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-chemistry-f125a3d362/">Chemistry</a><small>BSCh · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-civics-honors-bb2ffdfd73/">Civics honors</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-civil-engineering-518f90d95b/">Civil engineering</a><small>BSCE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-classical-languages-students-specialize-in-classics-greek-or-lati-935cbef43f/">Classical languages (Students specialize in classics, Greek, or Latin)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-classical-studies-students-specialize-in-ancient-history-or-class-a17e810489/">Classical studies (Students specialize in ancient history or classical archaeology)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-climate-system-science-6a247d7d38/">Climate system science</a><small>BSGS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-communication-and-leadership-7e13ce1673/">Communication and leadership</a><small>BSComm&amp;Lead · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-communication-studies-7f940d90cf/">Communication studies</a><small>BSCommStds · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-composition-726510bfdf/">Composition</a><small>BMusic · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computational-engineering-computational-science-engineering-and-m-083f2f2b1e/">Computational Engineering/Computational Science, Engineering, and Mathematics</a><small>BSCompE/MSCSEM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computational-engineering-422c4f3770/">Computational engineering</a><small>BSCompE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-aca14f4e0c/">Computer Science</a><small>BSCompSci/MSCompSci · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-computational-science-engineering-and-mathematic-da25400fbe/">Computer Science/Computational Science, Engineering, and Mathematics</a><small>BSCompSci/MSCSEM · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-information-studies-e024286d56/">Computer Science/Information Studies</a><small>BSCompSci/MSIS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-5e167ba528/">Computer science</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-9444c377b5/">Computer science</a><small>BSCompSci · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-dance-6a0ef0c024/">Dance</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-design-31f5156a6f/">Design</a><small>BADesign · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-design-5ca327f94f/">Design</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-economics-4fffff1374/">Economics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-economics-1b84aa04ea/">Economics</a><small>BSEco · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-education-f01c1e12e3/">Education</a><small>BSEd · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-electrical-and-computer-engineering-a610e0ef8a/">Electrical and Computer Engineering</a><small>BSECE/MSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-electrical-and-computer-engineering-ab0b9eb776/">Electrical and computer engineering</a><small>BSECE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-electrical-and-computer-engineering-business-685a4bc27a/">Electrical and computer engineering/Business</a><small>BSECE/BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-english-c2cafb1069/">English</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-environmental-engineering-a42f582b7a/">Environmental engineering</a><small>BSEnvE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-ethnic-studies-students-majoring-in-ethnic-studies-concentrate-in-779cad2c9c/">Ethnic studies (Students majoring in ethnic studies concentrate in Asian American studies.)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-european-studies-d5164cd437/">European studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-exercise-science-180ee900db/">Exercise science</a><small>BSKin&amp;Health · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-finance-2a1f5cb94f/">Finance</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-french-studies-033a66a448/">French studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-general-geology-0d098065d5/">General geology</a><small>BSGS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geographical-sciences-87f3da3c39/">Geographical sciences</a><small>BSEnvirSci · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geography-5607712dc6/">Geography</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geophysics-51fd947a97/">Geophysics</a><small>BSGS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-5c0647c736/">Geosciences</a><small>BAGS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-287fb36785/">Geosciences</a><small>BSEnvirSci · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-81231b8df2/">Geosciences</a><small>BSGS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosystems-engineering-7b42ad4e74/">Geosystems engineering</a><small>BSGE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-german-251f64922a/">German</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-government-1f035f3a58/">Government</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-great-books-7735906fbb/">Great books</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-health-and-society-163460d19e/">Health and society</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-health-promotion-and-behavioral-science-1cb7a2e479/">Health promotion and behavioral science</a><small>BSKin&amp;Health · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-history-896e65e5cf/">History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-history-and-computer-science-445bf49f7e/">History and Computer Science</a><small>BSHisCS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-human-development-and-family-sciences-dceeb08600/">Human development and family sciences</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-human-development-and-family-sciences-302dadebd1/">Human development and family sciences</a><small>BSHDFS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-human-dimensions-of-organizations-d803e39657/">Human dimensions of organizations</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-human-ecology-7ca72b4667/">Human ecology</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-humanities-c77353b729/">Humanities</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-hydrology-and-water-resources-b061531aba/">Hydrology and water resources</a><small>BSGS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-informatics-a98871b21f/">Informatics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-informatics-0a1482f12a/">Informatics</a><small>BSI · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-informatics-information-studies-baaecafaa9/">Informatics/Information Studies</a><small>BA/MSIS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-informatics-information-studies-c3f8df79b8/">Informatics/Information Studies</a><small>BSI/MSIS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-interior-design-5fc54ba50f/">Interior design</a><small>BSID · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-international-business-5d69cbc5de/">International business</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-international-relations-and-global-studies-6e44efd5f6/">International relations and global studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-italian-studies-377fae742c/">Italian studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-jazz-emphasis-in-composition-or-performance-double-bass-drum-set-d180c53633/">Jazz (emphasis in composition or performance: double bass, drum set, guitar, piano, saxophone, trombone, and trumpet)</a><small>BMusic · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-jewish-studies-63a254beb6/">Jewish studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-journalism-10f8b8c00e/">Journalism</a><small>BJ · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-latin-american-studies-0b52e7e80c/">Latin American studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-linguistics-dfeb51d2d2/">Linguistics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-linguistics-and-computer-science-9e9573acc3/">Linguistics and Computer Science</a><small>BSLinCS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-management-97174e7de9/">Management</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-management-informations-systems-492bed272e/">Management informations systems</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-marketing-644a29159a/">Marketing</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mathematics-ab735fa36b/">Mathematics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mathematics-f05d9cd935/">Mathematics</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mathematics-312457cfa5/">Mathematics</a><small>BSMath · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mechanical-engineering-f663df2844/">Mechanical Engineering</a><small>BSME/MSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mechanical-engineering-6d75bc21b9/">Mechanical engineering</a><small>BSME · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-medical-laboratory-science-54a7abef1d/">Medical laboratory science</a><small>BSMedLabSci · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mexican-american-and-latina-o-studies-a735cf08a7/">Mexican American and Latina/o studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-middle-eastern-studies-247c756ed5/">Middle Eastern studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-music-7564ad8187/">Music</a><small>BAMusic · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-music-education-cc736e376f/">Music education</a><small>BMusic · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-music-performance-students-may-major-in-voice-piano-organ-harpsic-1dc11f729f/">Music performance (Students may major in voice, piano, organ, harpsichord, harp, or one of the orchestral instruments, including euphonium, guitar, and saxophone)</a><small>BMusic · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-neuroscience-af13ad9967/">Neuroscience</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-neuroscience-d756e9b0b1/">Neuroscience</a><small>BSNeurosci · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-neuroscience-and-computer-science-6e7ceb2ebe/">Neuroscience and Computer Science</a><small>BSNeuCS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-nursing-3814a43b48/">Nursing</a><small>BSN · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-nutrition-682112b7da/">Nutrition</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-nutrition-4d3cffd966/">Nutrition</a><small>BSNtr · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-nutrition-nutritional-sciences-147a60d3da/">Nutrition/Nutritional Sciences</a><small>BSNtr/MSNS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-petroleum-engineering-6dafb9f562/">Petroleum engineering</a><small>BSPE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-philosophy-f309c10bd0/">Philosophy</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-physical-culture-and-sports-studies-8a09fd43cd/">Physical culture and sports studies</a><small>BSKin&amp;Health · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-physics-8f6fa6c912/">Physics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-physics-98451f7751/">Physics</a><small>BSA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-physics-8e7d9e2f5e/">Physics</a><small>BSPhy · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-plan-ii-honors-program-bc9bafe0ef/">Plan II honors program</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-psychology-85d649e282/">Psychology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-psychology-7f157bc1e1/">Psychology</a><small>BSPsy · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-public-affairs-269dede6fe/">Public Affairs</a><small>BAPubAff · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-public-health-ut-austin-uthealth-houston-beba5b4dcb/">Public Health (UT Austin / UTHealth Houston)</a><small>BSPublichealth/MPH · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-public-health-496ce3fc58/">Public health</a><small>BSPublichealth · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-public-relations-b1e499dcf5/">Public relations</a><small>BSPR · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-race-indigeneity-and-migration-bd28768fe8/">Race, indigeneity, and migration</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-radio-television-film-101005b50a/">Radio-television-film</a><small>BSRTF · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-religious-studies-1d769aef70/">Religious studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-rhetoric-and-writing-879c6180d3/">Rhetoric and writing</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-russian-east-european-and-eurasian-studies-5fc571bc4c/">Russian, East European, and Eurasian studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-social-work-a9224164e3/">Social work</a><small>BSW · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-sociology-1ad0dc8087/">Sociology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-spanish-b749dc1322/">Spanish</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-speech-language-and-hearing-sciences-4ae09bf1d7/">Speech, language, and hearing sciences</a><small>BSSLH · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-sport-management-725d005231/">Sport management</a><small>BSKin&amp;Health · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-statistics-and-data-science-3bd0b67672/">Statistics and data science</a><small>BSSDS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-strategy-and-statecraft-offered-through-the-clements-center-for-n-59bf43c31a/">Strategy and Statecraft (offered through the Clements Center for National Security in partnership with the School of Civic Leadership)</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-studio-art-b68b2de162/">Studio art</a><small>BAStudioArt · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-studio-art-f304689762/">Studio art</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-supply-chain-management-a1bad1a6af/">Supply chain management</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-sustainability-studies-f2041cb03e/">Sustainability studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-textiles-and-apparel-773722bf8a/">Textiles and apparel</a><small>BSTA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-theatre-and-dance-b5547ed8a9/">Theatre and dance</a><small>BATD · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-theatre-education-e20ad437c3/">Theatre education</a><small>BFA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-urban-studies-006b713945/">Urban studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-women-s-and-gender-studies-e2c6c8150b/">Women&#x27;s and Gender Studies</a><small>BA/MA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-women-s-and-gender-studies-ea0c80590f/">Women&#x27;s and gender studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-youth-and-community-studies-b2468f8cb0/">Youth and community studies</a><small>BSEd · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-accounting-e97443d467/">Accounting</a><small>BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-accounting-61892a65b7/">Accounting</a><small>BBA/MPA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-acting-f84f3af94c/">Acting</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-advertising-fc472b5331/">Advertising</a><small>BSAdv · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-aerospace-engineering-6e85f64705/">Aerospace engineering</a><small>BSAsE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-african-and-african-diaspora-studies-cd901440b8/">African and African diaspora studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-american-studies-b289ee669c/">American studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-anthropology-069a9edbf2/">Anthropology</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-anthropology-daa4b021a3/">Anthropology</a><small>BA/MA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-applied-movement-science-bce3cea905/">Applied movement science</a><small>BSKin&amp;Health · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architectural-engineering-438eb9a9b5/">Architectural engineering</a><small>BSArchE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architectural-studies-b9fc1a569a/">Architectural studies</a><small>BSAS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architecture-89655231a5/">Architecture</a><small>BArch · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architecture-architectural-engineering-90e06a26df/">Architecture/Architectural engineering</a><small>BArch/BSArchE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-architecture-plan-ii-b6e561881e/">Architecture/Plan II</a><small>BArch/BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-art-education-635fe92833/">Art education</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-art-history-91cd689a2c/">Art history</a><small>BAArtHist · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-arts-and-entertainment-technologies-41a2686071/">Arts and entertainment technologies</a><small>BSAET · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-asian-cultures-and-languages-students-specialize-in-chinese-hindi-755ceede17/">Asian cultures and languages (Students specialize in Chinese, Hindi/Urdu, Japanese, Korean, Malayalam, Sanskrit, or Tamil.)</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-asian-studies-08015dae6e/">Asian studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-astronomy-24d4d402a4/">Astronomy</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-astronomy-d57a7a54a4/">Astronomy</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-astronomy-53ab456fa7/">Astronomy</a><small>BSAst · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-athletic-training-6d5b98e90d/">Athletic training</a><small>BSAthTrng · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-behavioral-and-social-data-science-c4a4e11122/">Behavioral and social data science</a><small>BSBSDS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biochemistry-e82c12ae9f/">Biochemistry</a><small>BSBioch · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biochemistry-1077696846/">Biochemistry</a><small>BSBioch/MA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biological-sciences-65633794fd/">Biological sciences</a><small>BSEnvirSci · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biology-57c05d12da/">Biology</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biology-4d628d735a/">Biology</a><small>BSBio · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biomedical-engineering-5bd39e39cd/">Biomedical Engineering</a><small>BSBiomedE/MSE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-biomedical-engineering-11ba765af0/">Biomedical engineering</a><small>BSBiomedE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-business-administration-c1a4d50ef4/">Business administration</a><small>BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-business-analytics-e82ca381de/">Business analytics</a><small>BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-business-computer-science-20373b2f1f/">Business/Computer science</a><small>BBA/BSCompSci · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-chemical-engineering-e8ce9bb4cc/">Chemical engineering</a><small>BSChE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-chemistry-636b015e46/">Chemistry</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-chemistry-f125a3d362/">Chemistry</a><small>BSCh · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-civics-honors-bb2ffdfd73/">Civics honors</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-civil-engineering-518f90d95b/">Civil engineering</a><small>BSCE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-classical-languages-students-specialize-in-classics-greek-or-lati-935cbef43f/">Classical languages (Students specialize in classics, Greek, or Latin)</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-classical-studies-students-specialize-in-ancient-history-or-class-a17e810489/">Classical studies (Students specialize in ancient history or classical archaeology)</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-climate-system-science-6a247d7d38/">Climate system science</a><small>BSGS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-communication-and-leadership-7e13ce1673/">Communication and leadership</a><small>BSComm&amp;Lead · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-communication-studies-7f940d90cf/">Communication studies</a><small>BSCommStds · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-composition-726510bfdf/">Composition</a><small>BMusic · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computational-engineering-computational-science-engineering-and-m-083f2f2b1e/">Computational Engineering/Computational Science, Engineering, and Mathematics</a><small>BSCompE/MSCSEM · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computational-engineering-422c4f3770/">Computational engineering</a><small>BSCompE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-aca14f4e0c/">Computer Science</a><small>BSCompSci/MSCompSci · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-computational-science-engineering-and-mathematic-da25400fbe/">Computer Science/Computational Science, Engineering, and Mathematics</a><small>BSCompSci/MSCSEM · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-information-studies-e024286d56/">Computer Science/Information Studies</a><small>BSCompSci/MSIS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-5e167ba528/">Computer science</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-computer-science-9444c377b5/">Computer science</a><small>BSCompSci · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-dance-6a0ef0c024/">Dance</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-design-31f5156a6f/">Design</a><small>BADesign · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-design-5ca327f94f/">Design</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-economics-4fffff1374/">Economics</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-economics-1b84aa04ea/">Economics</a><small>BSEco · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-education-f01c1e12e3/">Education</a><small>BSEd · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-electrical-and-computer-engineering-a610e0ef8a/">Electrical and Computer Engineering</a><small>BSECE/MSE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-electrical-and-computer-engineering-ab0b9eb776/">Electrical and computer engineering</a><small>BSECE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-electrical-and-computer-engineering-business-685a4bc27a/">Electrical and computer engineering/Business</a><small>BSECE/BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-english-c2cafb1069/">English</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-environmental-engineering-a42f582b7a/">Environmental engineering</a><small>BSEnvE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-ethnic-studies-students-majoring-in-ethnic-studies-concentrate-in-779cad2c9c/">Ethnic studies (Students majoring in ethnic studies concentrate in Asian American studies.)</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-european-studies-d5164cd437/">European studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-exercise-science-180ee900db/">Exercise science</a><small>BSKin&amp;Health · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-finance-2a1f5cb94f/">Finance</a><small>BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-french-studies-033a66a448/">French studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-general-geology-0d098065d5/">General geology</a><small>BSGS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geographical-sciences-87f3da3c39/">Geographical sciences</a><small>BSEnvirSci · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geography-5607712dc6/">Geography</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geophysics-51fd947a97/">Geophysics</a><small>BSGS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-5c0647c736/">Geosciences</a><small>BAGS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-287fb36785/">Geosciences</a><small>BSEnvirSci · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosciences-81231b8df2/">Geosciences</a><small>BSGS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-geosystems-engineering-7b42ad4e74/">Geosystems engineering</a><small>BSGE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-german-251f64922a/">German</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-government-1f035f3a58/">Government</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-great-books-7735906fbb/">Great books</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-health-and-society-163460d19e/">Health and society</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-health-promotion-and-behavioral-science-1cb7a2e479/">Health promotion and behavioral science</a><small>BSKin&amp;Health · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-history-896e65e5cf/">History</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-history-and-computer-science-445bf49f7e/">History and Computer Science</a><small>BSHisCS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-human-development-and-family-sciences-dceeb08600/">Human development and family sciences</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-human-development-and-family-sciences-302dadebd1/">Human development and family sciences</a><small>BSHDFS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-human-dimensions-of-organizations-d803e39657/">Human dimensions of organizations</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-human-ecology-7ca72b4667/">Human ecology</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-humanities-c77353b729/">Humanities</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-hydrology-and-water-resources-b061531aba/">Hydrology and water resources</a><small>BSGS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-informatics-a98871b21f/">Informatics</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-informatics-0a1482f12a/">Informatics</a><small>BSI · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-informatics-information-studies-baaecafaa9/">Informatics/Information Studies</a><small>BA/MSIS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-informatics-information-studies-c3f8df79b8/">Informatics/Information Studies</a><small>BSI/MSIS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-interior-design-5fc54ba50f/">Interior design</a><small>BSID · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-international-business-5d69cbc5de/">International business</a><small>BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-international-relations-and-global-studies-6e44efd5f6/">International relations and global studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-italian-studies-377fae742c/">Italian studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-jazz-emphasis-in-composition-or-performance-double-bass-drum-set-d180c53633/">Jazz (emphasis in composition or performance: double bass, drum set, guitar, piano, saxophone, trombone, and trumpet)</a><small>BMusic · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-jewish-studies-63a254beb6/">Jewish studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-journalism-10f8b8c00e/">Journalism</a><small>BJ · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-latin-american-studies-0b52e7e80c/">Latin American studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-linguistics-dfeb51d2d2/">Linguistics</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-linguistics-and-computer-science-9e9573acc3/">Linguistics and Computer Science</a><small>BSLinCS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-management-97174e7de9/">Management</a><small>BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-management-informations-systems-492bed272e/">Management informations systems</a><small>BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-marketing-644a29159a/">Marketing</a><small>BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mathematics-ab735fa36b/">Mathematics</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mathematics-f05d9cd935/">Mathematics</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mathematics-312457cfa5/">Mathematics</a><small>BSMath · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mechanical-engineering-f663df2844/">Mechanical Engineering</a><small>BSME/MSE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mechanical-engineering-6d75bc21b9/">Mechanical engineering</a><small>BSME · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-medical-laboratory-science-54a7abef1d/">Medical laboratory science</a><small>BSMedLabSci · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-mexican-american-and-latina-o-studies-a735cf08a7/">Mexican American and Latina/o studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-middle-eastern-studies-247c756ed5/">Middle Eastern studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-music-7564ad8187/">Music</a><small>BAMusic · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-music-education-cc736e376f/">Music education</a><small>BMusic · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-music-performance-students-may-major-in-voice-piano-organ-harpsic-1dc11f729f/">Music performance (Students may major in voice, piano, organ, harpsichord, harp, or one of the orchestral instruments, including euphonium, guitar, and saxophone)</a><small>BMusic · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-neuroscience-af13ad9967/">Neuroscience</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-neuroscience-d756e9b0b1/">Neuroscience</a><small>BSNeurosci · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-neuroscience-and-computer-science-6e7ceb2ebe/">Neuroscience and Computer Science</a><small>BSNeuCS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-nursing-3814a43b48/">Nursing</a><small>BSN · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-nutrition-682112b7da/">Nutrition</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-nutrition-4d3cffd966/">Nutrition</a><small>BSNtr · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-nutrition-nutritional-sciences-147a60d3da/">Nutrition/Nutritional Sciences</a><small>BSNtr/MSNS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-petroleum-engineering-6dafb9f562/">Petroleum engineering</a><small>BSPE · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-philosophy-f309c10bd0/">Philosophy</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-physical-culture-and-sports-studies-8a09fd43cd/">Physical culture and sports studies</a><small>BSKin&amp;Health · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-physics-8f6fa6c912/">Physics</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-physics-98451f7751/">Physics</a><small>BSA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-physics-8e7d9e2f5e/">Physics</a><small>BSPhy · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-plan-ii-honors-program-bc9bafe0ef/">Plan II honors program</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-psychology-85d649e282/">Psychology</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-psychology-7f157bc1e1/">Psychology</a><small>BSPsy · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-public-affairs-269dede6fe/">Public Affairs</a><small>BAPubAff · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-public-health-ut-austin-uthealth-houston-beba5b4dcb/">Public Health (UT Austin / UTHealth Houston)</a><small>BSPublichealth/MPH · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-public-health-496ce3fc58/">Public health</a><small>BSPublichealth · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-public-relations-b1e499dcf5/">Public relations</a><small>BSPR · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-race-indigeneity-and-migration-bd28768fe8/">Race, indigeneity, and migration</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-radio-television-film-101005b50a/">Radio-television-film</a><small>BSRTF · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-religious-studies-1d769aef70/">Religious studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-rhetoric-and-writing-879c6180d3/">Rhetoric and writing</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-russian-east-european-and-eurasian-studies-5fc571bc4c/">Russian, East European, and Eurasian studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-social-work-a9224164e3/">Social work</a><small>BSW · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-sociology-1ad0dc8087/">Sociology</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-spanish-b749dc1322/">Spanish</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-speech-language-and-hearing-sciences-4ae09bf1d7/">Speech, language, and hearing sciences</a><small>BSSLH · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-sport-management-725d005231/">Sport management</a><small>BSKin&amp;Health · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-statistics-and-data-science-3bd0b67672/">Statistics and data science</a><small>BSSDS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-strategy-and-statecraft-offered-through-the-clements-center-for-n-59bf43c31a/">Strategy and Statecraft (offered through the Clements Center for National Security in partnership with the School of Civic Leadership)</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-studio-art-b68b2de162/">Studio art</a><small>BAStudioArt · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-studio-art-f304689762/">Studio art</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-supply-chain-management-a1bad1a6af/">Supply chain management</a><small>BBA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-sustainability-studies-f2041cb03e/">Sustainability studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-textiles-and-apparel-773722bf8a/">Textiles and apparel</a><small>BSTA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-theatre-and-dance-b5547ed8a9/">Theatre and dance</a><small>BATD · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-theatre-education-e20ad437c3/">Theatre education</a><small>BFA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-urban-studies-006b713945/">Urban studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-women-s-and-gender-studies-e2c6c8150b/">Women&#x27;s and Gender Studies</a><small>BA/MA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-women-s-and-gender-studies-ea0c80590f/">Women&#x27;s and gender studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/ut-austin-youth-and-community-studies-b2468f8cb0/">Youth and community studies</a><small>BSEd · 仅补学校共用资料</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>国际新生身份与学历：</strong>适用于高中在读或毕业后未入读大学、非美国公民／永久居民且未毕业于得州高中的申请人；需相当于美国9–12年级的中学成绩，及高中期间大学学分的正式记录。本轮未取得大陆高考固定门槛。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-6e124ee712f593">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学术标化：</strong>须由考试机构发送至少一份官方SAT或ACT；该页脚注明确官方CLT也可满足该项。自报成绩不能代替截止前送达的官方成绩。专业还可能另要材料。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-6e124ee712f593">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语最低分：</strong>适用者须提供TOEFL79（旧120分制）或4（新6分制）、IELTS Academic6.5或DET115。英语豁免与受认可国家、至少3年当地高中学习有关，不能仅因在中国读英语课程就自行视为豁免。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-0c565ff0f5795c">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027 夏／秋入学日期：</strong>Common App 8月1日开放，EA 10月15日、补充材料10月22日；RD 12月1日、补充材料12月10日。页面明确相应录取通知为2027-01-15及2027-02-15。国际申请费 USD90。春季另有日程，本轮不混用。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-6e124ee712f593">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>学费须按学院核算：</strong>大学明确费用随居民身份和学院等而变，并链接 Cost of Attendance 与估算器。本轮未取得对应各本科专业、2026/27学年和国际身份的实际费率，也未核国际新生奖学金；暂不填统一金额。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d7e596bbc2e6aa">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-USBENR-6e124ee712f593"><div><a href="https://admissions.utexas.edu/apply/international-students/">ut-austin 官方 international ↗</a><p>本条国际新生身份与学历及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-0c565ff0f5795c"><div><a href="https://admissions.utexas.edu/info-for/international-students/">ut-austin 官方 info ↗</a><p>本条英语最低分及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-d7e596bbc2e6aa"><div><a href="https://admissions.utexas.edu/cost-aid/cost-tuition-rates/">ut-austin 官方 tuition ↗</a><p>本条学费须按学院核算及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

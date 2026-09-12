@@ -1,0 +1,575 @@
+{
+  "university_id": "cornell",
+  "sources": [
+    {
+      "url": "https://admissions.cornell.edu/how-to-apply/first-year-applicants",
+      "sha256": "b8c92d61ec88c50c76c709081a5b1821c487d76f05be0cead4ca6f0f350085ae",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.cornell.edu/policies/standardized-testing-policy",
+      "sha256": "05f071d006f0e5d7eff96e8cfc2200644e9346b02d55415644fd9bccfed166f4",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/testing.html",
+      "locator": null
+    },
+    {
+      "url": "https://news.cornell.edu/stories/2026/03/board-trustees-approves-2026-27-budget-parameters",
+      "sha256": "f0654e90103b6322e256c5b53966af5b5a392c7e69e900c07d80f56b1343ab7d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/cost-news.html",
+      "locator": null
+    },
+    {
+      "url": "https://finaid.cornell.edu/cost-to-attend",
+      "sha256": "4d22d1dd65ed83ab2fae49d9c9d17a0a1e58b0e04ef8ad8f4b231bef715679ca",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/cost.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.finaid.cornell.edu/first-year-and-transfer-students-international",
+      "sha256": "f1cd447c96f03dedbc3a0ceab471d24b34f351e0e16cf2290d85b6c4b77b3ff5",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/aid.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/africana-studies-ba/",
+      "sha256": "a16a92eafb1b1ee3a09a88273b848ee7688284f8d82160a8b1cd441bc56c2ec0",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-africana-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/agricultural-sciences-bs/",
+      "sha256": "941ef0d7c243493b205347a60dfee66683a22357cbb69d65dc1b303531d9e45b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-agricultural-sciences-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/american-studies-ba/",
+      "sha256": "2bfca1b9b8b020db08cef2cdb84c4ac3a95d70a99931f8860c7f71db8578c079",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-american-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/animal-science-bs/",
+      "sha256": "a63511fc5a9cd1821e733d89396094c673ca42319ac643676185909a1fa32dae",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-animal-science-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/anthropology-ba/",
+      "sha256": "50c7694a0345b7fbba5e50384ccfcfded4ecaaafe23bd1efe55b680c8ec6f08e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-anthropology-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/applied-economics-management-bs/",
+      "sha256": "366f11e8f7e713828a21f4e0383acfb03ba6a679426597771a933966afdf1e8c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-applied-economics-management-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/archaeology-ba/",
+      "sha256": "1cb5cd67b478bfa944ad89e3fc0beb8fcf2a04f0e0ae33b4a35ed97b6cb22295",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-archaeology-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/architecture-barch/",
+      "sha256": "6e59da732bffe86f97d53743fdd3f2ceff703b0f5c7b668cadd3d99fe4e600ba",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-architecture-barch.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/asian-studies-ba/",
+      "sha256": "47f67574a71f9fe85fac031c42def15e32ff9c42791a2e9f9eaef5fe217eb48a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-asian-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/astronomy-ba/",
+      "sha256": "84b432cca2f761d46561e066794917d83e6989db1b92ae7e565d48ceb01b9ef8",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-astronomy-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/atmospheric-science-bs/",
+      "sha256": "bc60b9dbe60ac9f8e591b8651494d8e43095794754d7b3dd405ce8aeb337ad32",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-atmospheric-science-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/biological-engineering-bs/",
+      "sha256": "cb614f114091f77c5ddb51b88fb002688fa796f25406f10c0fd82b3ed5aca3cf",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-biological-engineering-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/biological-sciences-ba/",
+      "sha256": "2e058f6063d2acbff3b2f48959dd7936d0734e42fef594c980552d29baae0902",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-biological-sciences-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/biological-sciences-bs/",
+      "sha256": "6fa9defb84e82ec2c4bc3413bfd11412659cf2f7e4481ed85b2ed139b5e2779d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-biological-sciences-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/biology-society-ba/",
+      "sha256": "8daaeed3cc5aa66606d8f74dbccbe94924da1025b8da9dce53f0782b53710a26",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-biology-society-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/biomedical-engineering-bs/",
+      "sha256": "5f57a4dbcf049cc4f82128dfe75f31338fe0f7d523062cf1752e82e71bcd8e66",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-biomedical-engineering-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/biometry-statistics-bs/",
+      "sha256": "88b73578c34f2daff9624a88602a630b339d488e126d617ce3f5ac2f7cbfc2ff",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-biometry-statistics-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/chemical-engineering-bs/",
+      "sha256": "9082f23964e31561a4e2abf5b9a16c4d4f3bf4818316284089e8dded9fc76d88",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-chemical-engineering-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/chemistry-ba/",
+      "sha256": "73fdc17024f41b6b8d6c8a3a456cd6284cc460a68190d34c9f04524f2c4983bc",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-chemistry-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/china-asia-pacific-studies-ba/",
+      "sha256": "86d7b533491f58d66c8c7bb590ffcaebf5cd815633b0c0cfb5430c2cd47c01df",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-china-asia-pacific-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/civil-engineering-bs/",
+      "sha256": "b074f40ca957e2a1106199783a81cfb9db2add8914afbf038a0805fcf9d7778d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-civil-engineering-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/classics-ba/",
+      "sha256": "048334e83d735b91e5ea377dd38a2d19e6f22a1cc2c63b3c3a1a2b5273fe84a8",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-classics-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/cognitive-science-ba/",
+      "sha256": "6ab4430cae77ee6d68c74d968c03682c5c134f16756fe7fd69ffd4ae8cffb585",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-cognitive-science-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/college-scholar-ba/",
+      "sha256": "e2d1ed8714994aed268b66e9634a55a2266cf8a549e822e1cbf7c56949c25dc9",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-college-scholar-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/communication-bs/",
+      "sha256": "634e0e03d88df946f57cae4edb055d7c95f448679b6f4ab7f36ae951b26c0b6f",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-communication-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/comparative-literature-ba/",
+      "sha256": "cb39b6f510e004d7aea3f3310966e5b6ff72facd4da41151054b319b484bf157",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-comparative-literature-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/computer-science-ba/",
+      "sha256": "a61e5a80184430aa3e03bd6619d2e1dadc8d992b4e56b4f4bd3a612e704e5ac1",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-computer-science-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/computer-science-bs/",
+      "sha256": "9bad7cd433f3e22adf1265cc6832a2bff213015aeb06a052a498333db7e6e5d0",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-computer-science-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/design-environmental-analysis-bs/",
+      "sha256": "98a959f2ba36f1372e6a03d1a4cf1cb6ca07c7ae19077ff4d9e7b2e1c10bc859",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-design-environmental-analysis-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/earth-climate-sciences-ba/",
+      "sha256": "4543b1677c1460f692d159a8ca02833d047f2fd61a876ecd35646e3f34ce5d93",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-earth-climate-sciences-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/earth-climate-sciences-ecsag-bs/",
+      "sha256": "f3804e6f7ff146023a979135e1699fe6f42bd59cbdf17cfa901af5993c8ea88e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-earth-climate-sciences-ecsag-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/earth-climate-sciences-ecsen-bs/",
+      "sha256": "2a02f0134fa649887c1d53863758669bc8949b91df0a7e7ae532fccf9be9b7e4",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-earth-climate-sciences-ecsen-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/economics-ba/",
+      "sha256": "2905406988f74d2377b75ea8cc51e9ffc9be9db62deca891c278a53da98e0cf9",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-economics-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/electrical-computer-engineering-bs/",
+      "sha256": "90b3d7d822de7b736b1098f923cb032b66c54d419b50e793a093dd6f32144a83",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-electrical-computer-engineering-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/engineering-physics-bs/",
+      "sha256": "8365d6c27a121f68459f3fe4493df0cdf3713e133e5a4c1a0dba895ae90aee3e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-engineering-physics-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/english-ba/",
+      "sha256": "95c1bf210bd824cb7e1bb02bd70f4e97c5641e20d0adcf4c1a1b10d790b8a530",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-english-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/entomology-bs/",
+      "sha256": "efa5af7644763ec251b342859188ea7adb49a401ea7e56fe5af71e707ca757fe",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-entomology-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/environment-sustainability-ba/",
+      "sha256": "5123f5aa5353360b498856c5c05a0ff0fad5cc5c0d9d3e44b6ef51c2f9cca1e1",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-environment-sustainability-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/environment-sustainability-bs/",
+      "sha256": "c07bcc17e2cc0acc62352e472df785be22da95c64509ccb7a1070a396bdd964d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-environment-sustainability-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/environmental-engineering-bs/",
+      "sha256": "c7fae752e216b34be96a37ee1d83b1f15cfd43e6b9bcd806b40c5f06a236be52",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-environmental-engineering-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/fashion-design-management-bs/",
+      "sha256": "9e04974075b1a274f05f3e870173160e5cdd017b047a6671dbd8e80657672325",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-fashion-design-management-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/fgss-ba/",
+      "sha256": "0a878ee31a79d98dda11deff0359971ed00165e7cdc3a2bd8c379d2aace283cf",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-fgss-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/fiber-science-bs/",
+      "sha256": "9c2840027acc761040afc219579d90722747e2f6b849bcdab65cf572c331082b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-fiber-science-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/art-bfa/",
+      "sha256": "9d19f6552780f20e3e498d4a46e2708e7c9ed80afe06795a46a78b00df723425",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-art-bfa.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/food-science-bs/",
+      "sha256": "3a0b7ba259ef104a9b219a902ab5c5051234ce722bbe3c1ce3f3aa36b3a3866b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-food-science-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/french-ba/",
+      "sha256": "aef4069576468d163f3da04cde630d127cde5232627b79dfaec517d644054932",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-french-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/german-studies-ba/",
+      "sha256": "8b8fc9d3c6d5a6891a609730459f60fe4ebc26fb41e4d7d1f2a939fe58ae4293",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-german-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/global-public-health-sciences-bs/",
+      "sha256": "24bc58357648b487e26172f6554b6762007604099706eb2fedc9732c4cae9e95",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-global-public-health-sciences-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/global-public-health-sciences-hum-ecol-bs/",
+      "sha256": "c337ef9ea5c7b2c08694f34d8a51cb4e1efbf1391e36114e9f6d8bff9e2132ce",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-global-public-health-sciences-hum-ecol-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/global-development-bs/",
+      "sha256": "e5334fef57f721ab59889b6752b17fe1a57cbb5d8a6975fd7a4cb77f467b371c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-global-development-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/government-ba/",
+      "sha256": "1d58ab474055ac16f171b979994d18460cde33ba145127bafb66a1fbdb495263",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-government-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/health-care-policy-major-bs/",
+      "sha256": "d60530ed62742380ae6593d97c2bcf3060c762f55eeada192ce2d872ad56673f",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-health-care-policy-major-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/history-ba/",
+      "sha256": "1f64ae9c492d1354c82c00b134896eae2050cc14e061b02b0ab35d698ba02e76",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-history-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/history-architecture-urban-development-bs-haud/",
+      "sha256": "594065975f4db60968d2f3b181d58a1e26e2e3d33bf7f60d430d26a1c0d0b05e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-history-architecture-urban-development-bs-haud.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/history-art-ba/",
+      "sha256": "6907e30c1ea3e5a0cdb20d1ce925372c36bec0c8684cf84f2cab78ed4ebd28a8",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-history-art-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/hotel-management-bs/",
+      "sha256": "92bdbf9333fbb1a0dbe7489c98a50bdd3dd4e3a63f5a1acf6fc5667835b60ca7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-hotel-management-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/human-biology-health-society-bs/",
+      "sha256": "265a877d14053ed401a12029a66812eabc192918bf61e9ebf4aceabfa080e847",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-human-biology-health-society-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/human-development-bs/",
+      "sha256": "27afafb44e6aa6c45ef01eede220992014c848da3de56a9dfa7b5976c8f60819",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-human-development-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/independent-major/",
+      "sha256": "a4395ed174c9d6adc5e29a870f55695db5cb28fa23da7b06a00d8d827f48233d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-independent-major.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/industrial-labor-relations-bs/",
+      "sha256": "c8a26429b72c855a4c6f3017515e97b2bee59af40aacf6f97fb6351b74b79c5f",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-industrial-labor-relations-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/information-science-ba/",
+      "sha256": "b4d6f3fabf359c4ae57de298a84f735ea4ad2acf34bc75163e746028a0ab92b5",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-information-science-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/information-science-bs/",
+      "sha256": "81c4c30cf76486a0304d268bd04b344aa7d471504901e1e6e88cedecb3d0f05f",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-information-science-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/information-science-systems-technology-bs/",
+      "sha256": "598039b4fc0ea2d0fb25e028217843e93d0b625efbc8177ed9d13a1129688039",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-information-science-systems-technology-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/interdisciplinary-studies-bs/",
+      "sha256": "726364ca5a001371f08a7d774191224889835da1169b232d08c8757f9fe8e149",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-interdisciplinary-studies-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/italian-ba/",
+      "sha256": "32724d9e7b3e99f3e0a79dce381dcbcf69a8e2376904b1923d0115f0844d1a68",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-italian-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/jewish-studies-ba/",
+      "sha256": "bcd9d42737ad9693b4c3d16ea694c880810ecfd0aedcc6c03862a8625982023e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-jewish-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/landscape-architecture-bs/",
+      "sha256": "0a107308fbaf526e079a536c07ade8c9aa7e2a8584e9537748fa91027241d264",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-landscape-architecture-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/latina-o-studies-ba/",
+      "sha256": "73e46a673b8c7cfc1a96ad814cdeeb37c1954b714f056d7831356d9954267c89",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-latina-o-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/linguistics-ba/",
+      "sha256": "55bb6865d8aba0e747cd221101da771b94df9e145e2b10ccc528980e4ff33022",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-linguistics-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/materials-science-engineering-bs/",
+      "sha256": "c86d3288de574f8bfecf7515e27d5e63229a53e4a1737f4af8fa19eae408ae29",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-materials-science-engineering-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/mathematics-ba/",
+      "sha256": "222c65ecdc989b2857a7d323dd77b72b4b57f3428c3ac3c2208bc330e20a8df2",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-mathematics-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/mechanical-engineering-bs/",
+      "sha256": "6951535ca2b717e0ee0c0b129c7357f950bd871f3349a9edf027d82b30c82be7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-mechanical-engineering-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/music-ba/",
+      "sha256": "9a6f89a4cf565ce176eadd2a5ed40a9513c5d407d44b03ff28c81024d4548883",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-music-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/near-eastern-studies-ba/",
+      "sha256": "282e441e8e76355c6c7523087af85899acc4364c8b8b92ed7c341deba523d08b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-near-eastern-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/nutritional-sciences-bs/",
+      "sha256": "7292aad89305b1b418a3c738d8a0840835f2a386d646f786fac64811f650b776",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-nutritional-sciences-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/operations-research-engineering-bs/",
+      "sha256": "d0ac0a7f807e97a7411c125a8570eb254dd8cfdbc1dcda654b7ad4096c4573e6",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-operations-research-engineering-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/performing-media-arts-ba/",
+      "sha256": "59a6524121de938bb2747519db0287adb71fe233a7f6112b118b6d0e175f89e5",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-performing-media-arts-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/philosophy-ba/",
+      "sha256": "b94903e3da0024c85690bc01739ec18dff2b0ea6b88bc479d31277f7627ff240",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-philosophy-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/physics-ba/",
+      "sha256": "3737028951b60e0be233ee45e23e60a4e9b96b8c9da442420bc38b3319e47959",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-physics-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/plant-sciences-bs/",
+      "sha256": "a06e44c2d668f32f795e35595b8cfb8f1d9a056d9d9b0aa4f1d4ad1c1feef8d8",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-plant-sciences-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/public-policy-ba/",
+      "sha256": "3664f52e11a51d80ac1b6616d1cf076267b2d368862d91835c4ef38a37774a74",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-public-policy-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/public-policy-bs/",
+      "sha256": "a47558f08c5555ef2328c2eeaff2a5db2a6c00aba1be76ea06e5516f060193a3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-public-policy-bs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/psychology-ba/",
+      "sha256": "dde79ce57636a29998c4cfb15366673a7ba57eab6cbd7d250ccdaed70c97464d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-psychology-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/religious-studies-ba/",
+      "sha256": "1bad4b630e11c8db825d2575bc51d865589b4589665c054fd9278ad50eb9d4e5",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-religious-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/science-technology-studies-ba/",
+      "sha256": "121565a84fd64b5cdc597596d5422ed110d86228ab6c7b6566d177e233a293d3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-science-technology-studies-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/sociology-ba/",
+      "sha256": "d5a93ee30ddff5ff3849c7da5e529ed32d60233565ea6e804e12caf126fca6a2",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-sociology-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/spanish-ba/",
+      "sha256": "a99db72f64ae7692f301abdd58374d015d1e9a4538120c0a6af63b6a56af3256",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-spanish-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/statistics-data-science-ba/",
+      "sha256": "d7ab4b4a9b1aaafc77048c223d9da5bdaaddba58dd020f7b3d5facc0732e3a9d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-statistics-data-science-ba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/urban-regional-studies-bs-urs/",
+      "sha256": "e53831c51f540b5b79563ba50f755fa6f78dd24054694b66a66c3419784f2e9b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-urban-regional-studies-bs-urs.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.cornell.edu/programs/viticulture-enology-bs/",
+      "sha256": "58db49d6a8eb05e1f16d83c09287dbcc87a851181903aae28b943f292ab0bd66",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/cornell/catalog-dom-viticulture-enology-bs.html",
+      "locator": null
+    }
+  ]
+}

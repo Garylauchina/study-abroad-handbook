@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -36,21 +36,80 @@ hide:
 
 <p><strong>目录适用期：</strong>current admissions list; no academic year stated</p>
 
+<p class="catalog-fact"><strong>介绍中的学习主题：</strong>本项目官方介绍涉及公共政策、微积分、统计、经济学。这是介绍中的主题摘要，不能代替必修课清单、完整培养方案或专业入学条件。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-program-7b1368738fbbcb0e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>培养表合计：</strong>本页本科主修相关培养表列出的合计包括200、1200（units）。表格可能对应不同结构或方向，不自动视为整个学位总量，不能跨表相加。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-program-7b1368738fbbcb0e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>具体学习单元示例：</strong>本科培养表列出的单元：Economics for Public Policy（PBPL 20000）；Politics and Policy（PBPL 22100）。示例不代表全部必修或当年保证开课，需核对必修/选修与授课安排。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-program-7b1368738fbbcb0e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成标准学制、具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-program-7b1368738fbbcb0e">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-program-7b1368738fbbcb0e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：中国高中材料与综合评估：</strong>国际新生与其他新生同样申请，按就读高中背景评估；需要完整中学成绩、学校报告和两位学科教师评估，非英文成绩附认证翻译及评分制。没有辅导员可由教师/学校管理者提交学校报告，本轮未取得高考统一录取线。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-requirements-dom">官方依据</a> · <a href="#source-p-uchicago-international-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：SAT/ACT可选及英语：</strong>SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-requirements-dom">官方依据</a> · <a href="#source-p-uchicago-international-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国高中材料与综合评估：</strong>国际新生与其他新生同样申请，按就读高中背景评估；需要完整中学成绩、学校报告和两位学科教师评估，非英文成绩附认证翻译及评分制。没有辅导员可由教师/学校管理者提交学校报告，本轮未取得高考统一录取线。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-requirements-dom">官方依据</a> · <a href="#source-u-uchicago-international-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT可选及英语：</strong>SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-requirements-dom">官方依据</a> · <a href="#source-u-uchicago-international-dom">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：2027新生申请日历：</strong>Common App或Coalition on Scoir。ED I与EA截止2026-11-02，ED II与RD截止2027-01-04；通常仅秋季入学。需两篇学校补充文书，非need-based资助申请者申请费US$90，申请此资助者免申请费。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-application-dom">官方依据</a> · <a href="#source-p-uchicago-requirements-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027新生申请日历：</strong>Common App或Coalition on Scoir。ED I与EA截止2026-11-02，ED II与RD截止2027-01-04；通常仅秋季入学。需两篇学校补充文书，非need-based资助申请者申请费US$90，申请此资助者免申请费。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-application-dom">官方依据</a> · <a href="#source-u-uchicago-requirements-dom">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：国际生资助申请方法：</strong>国际生如可能需要资助须申请入学时同时申请，学校满足获录取且申请者认定需要，方案不以贷款填补。国际生用UChicago账户中的Student Financial Aid Worksheet及收入资产证明，不交CSS Profile或FAFSA；国际转学生不获该经济资助。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-aid-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：Merit奖及学费缺口：</strong>本科新生自动考虑部分学费的merit奖，国际转学生不符合此奖；奖项有限不能作为确定资金来源。本轮尚未取得有充分原文佐证的2026–2027独立本科学费表，年度金额暂缺，不能套研究生费率。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-aid-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际生资助申请方法：</strong>国际生如可能需要资助须申请入学时同时申请，学校满足获录取且申请者认定需要，方案不以贷款填补。国际生用UChicago账户中的Student Financial Aid Worksheet及收入资产证明，不交CSS Profile或FAFSA；国际转学生不获该经济资助。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-aid-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Merit奖及学费缺口：</strong>本科新生自动考虑部分学费的merit奖，国际转学生不符合此奖；奖项有限不能作为确定资金来源。本轮尚未取得有充分原文佐证的2026–2027独立本科学费表，年度金额暂缺，不能套研究生费率。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-aid-dom">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业毕业调查缺口：</strong>本轮未取得有明确毕业届次、回应样本和国际/中国学生口径的本专业就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-p-uchicago-program-7b1368738fbbcb0e">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>逐专业结果缺口：</strong>本轮未取得各主修明确届次、响应样本和中国/国际生口径的毕业调查；当前专业目录仍有总数量对账缺口，不宣称已完成全主修全字段。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-application-dom">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -59,5 +118,14 @@ hide:
 - [官方项目页面或项目所在目录](http://collegecatalog.uchicago.edu/thecollege/publicpolicystudies/)
 - [官方目录](https://collegeadmissions.uchicago.edu/academics/areas-of-study/)
 
+<div class="catalog-source" id="source-p-uchicago-program-7b1368738fbbcb0e"><div><a href="http://collegecatalog.uchicago.edu/thecollege/publicpolicystudies/">Public Policy Studies 官方培养资料 ↗</a><p>本条培养表、具体学习单元及资料范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-uchicago-requirements-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/required-materials/">uchicago 官方本科资料：requirements-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-uchicago-international-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/international-applicants/">uchicago 官方本科资料：international-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-uchicago-application-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/">uchicago 官方本科资料：application-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-uchicago-aid-dom"><div><a href="https://collegeadmissions.uchicago.edu/financial-support/international-financial-aid/">uchicago 官方本科资料：aid-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uchicago-requirements-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/required-materials/">uchicago 官方本科资料：requirements-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uchicago-international-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/international-applicants/">uchicago 官方本科资料：international-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uchicago-application-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/">uchicago 官方本科资料：application-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uchicago-aid-dom"><div><a href="https://collegeadmissions.uchicago.edu/financial-support/international-financial-aid/">uchicago 官方本科资料：aid-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/uchicago/">← 返回芝加哥大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

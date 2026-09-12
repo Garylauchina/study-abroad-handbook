@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">University of Hong Kong/UC Berkeley (Dual Degree Program)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026–2027新入学非加州居民基础学费／费及附加学费算术合计 US$57,484/年；未含生活与保险。</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,83 @@ hide:
 
 <p><strong>申请路径：</strong>&quot;Major - Regular Acad/Prfnl</p>
 
+<p class="catalog-fact"><strong>授课形式：</strong>官方目录标为线下面授；本轮未进一步核实全部学习活动的具体校区和授课语言。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-program-ec58debb520f862a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成标准学制、具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-program-ec58debb520f862a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>培养结构核验缺口：</strong>本轮尚未完成本条全部主修学分、必修／选修及先修结构的核验；主题概述不等于完整培养方案已核实。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-program-ec58debb520f862a">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-program-ec58debb520f862a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：中国高中资格与A–G基础：</strong>国际新生须中学毕业并具在所在国进入大学所需毕业/考试资格。按学校原成绩制填写，无需自行换算；中国高考单一录取分数线本轮未取得。UC最低要求15门A–G学年课程，11门在最后学年前完成，非居民GPA最低3.4且科目不低于C；满足基础资格不等于获Berkeley录取。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-requirements">官方依据</a> · <a href="#source-p-berkeley-uc-firstyear">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：SAT/ACT用途：</strong>UC不在录取或奖学金评选中使用SAT/ACT；成绩仅可能用于满足某些最低资格或入学后分班，不应将其当作Berkeley申请竞争加分。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-uc-test-policy">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：英语门槛和豁免：</strong>英语考试页列TOEFL90/新量表4.5、IELTS6.5、DET115；也认可列明AP/IB英语成绩等途径。连续3年以上以英语为教学语言可满足要求，混合教学语言不满足该途径。须不迟于1月31日满足英语，考试有效期按入学时间两年要求核对。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-requirements">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国高中资格与A–G基础：</strong>国际新生须中学毕业并具在所在国进入大学所需毕业/考试资格。按学校原成绩制填写，无需自行换算；中国高考单一录取分数线本轮未取得。UC最低要求15门A–G学年课程，11门在最后学年前完成，非居民GPA最低3.4且科目不低于C；满足基础资格不等于获Berkeley录取。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-requirements">官方依据</a> · <a href="#source-u-berkeley-uc-firstyear">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT用途：</strong>UC不在录取或奖学金评选中使用SAT/ACT；成绩仅可能用于满足某些最低资格或入学后分班，不应将其当作Berkeley申请竞争加分。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-uc-test-policy">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语门槛和豁免：</strong>英语考试页列TOEFL90/新量表4.5、IELTS6.5、DET115；也认可列明AP/IB英语成绩等途径。连续3年以上以英语为教学语言可满足要求，混合教学语言不满足该途径。须不迟于1月31日满足英语，考试有效期按入学时间两年要求核对。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-requirements">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：UC渠道及新周期：</strong>通过UC统一申请，每所校国际/非移民申请费US$95。Berkeley当前递交期10月1日至11月30日，无EA/ED；初申按成绩单准确自报、通常不先寄正式成绩。UC2026年政策说明明确2027秋季申请11月30日2026截止且不要求SAT/ACT。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-basic">官方依据</a> · <a href="#source-p-berkeley-dates">官方依据</a> · <a href="#source-p-berkeley-uc-review-2026">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>UC渠道及新周期：</strong>通过UC统一申请，每所校国际/非移民申请费US$95。Berkeley当前递交期10月1日至11月30日，无EA/ED；初申按成绩单准确自报、通常不先寄正式成绩。UC2026年政策说明明确2027秋季申请11月30日2026截止且不要求SAT/ACT。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-basic">官方依据</a> · <a href="#source-u-berkeley-dates">官方依据</a> · <a href="#source-u-berkeley-uc-review-2026">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：2026–2027新生非居民费用：</strong>新入学本科表中基础学费及费用US$18,214，非加州居民另收US$39,270附加学费；两项合计US$57,484（算术合计，未含住食、保险和个人费用）。国际签证学生不能按加州居民费率分类。学费按入学届次表区分，不能误用在读旧届次。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-fees">官方依据</a> · <a href="#source-p-berkeley-requirements">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：国际生资助限制：</strong>一般国际生不符合联邦、州或校方need-based资助；美国公民、合资格非公民及AB540例外不能普遍套中国学生。可寻找外部或院系奖项，但须另核具体国际资格，不预先从预算扣除奖学金。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-aid">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–2027新生非居民费用：</strong>新入学本科表中基础学费及费用US$18,214，非加州居民另收US$39,270附加学费；两项合计US$57,484（算术合计，未含住食、保险和个人费用）。国际签证学生不能按加州居民费率分类。学费按入学届次表区分，不能误用在读旧届次。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-fees">官方依据</a> · <a href="#source-u-berkeley-requirements">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助限制：</strong>一般国际生不符合联邦、州或校方need-based资助；美国公民、合资格非公民及AB540例外不能普遍套中国学生。可寻找外部或院系奖项，但须另核具体国际资格，不预先从预算扣除奖学金。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-aid">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业毕业调查缺口：</strong>本轮未取得有明确毕业届次、回应样本和国际/中国学生口径的本专业就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-p-berkeley-program-ec58debb520f862a">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>逐专业结果待核：</strong>本轮未取得114个目录项目按届次及国际/中国生样本分组的就业率或薪酬调查。</p>
+<p class="fact-sources"><a href="#source-u-berkeley-international">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +123,23 @@ hide:
 - [官方项目页面或项目所在目录](https://undergraduate.catalog.berkeley.edu/programs/WcOMqISTJjhA3geDPyHD)
 - [官方目录](https://undergraduate.catalog.berkeley.edu/programs)
 
+<div class="catalog-source" id="source-p-berkeley-program-ec58debb520f862a"><div><a href="https://undergraduate.catalog.berkeley.edu/programs/WcOMqISTJjhA3geDPyHD">University of Hong Kong/UC Berkeley (Dual Degree Program) 官方培养资料 ↗</a><p>本条培养表、具体学习单元及资料范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-berkeley-requirements"><div><a href="https://admissions.berkeley.edu/apply-to-berkeley/international-students/requirements-for-international-students/">berkeley 官方本科资料：requirements ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-berkeley-uc-firstyear"><div><a href="https://admission.universityofcalifornia.edu/admission-requirements/freshman-requirements/">berkeley 官方本科资料：uc-firstyear ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-berkeley-uc-test-policy"><div><a href="https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html">berkeley 官方本科资料：uc-test-policy ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-berkeley-basic"><div><a href="https://admissions.berkeley.edu/basic-admission-requirements/">berkeley 官方本科资料：basic ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-berkeley-dates"><div><a href="https://admissions.berkeley.edu/apply-to-berkeley/dates-deadlines/">berkeley 官方本科资料：dates ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-berkeley-uc-review-2026"><div><a href="https://www.universityofcalifornia.edu/news/press-releases-and-statements/academic-senate-review-admissions">berkeley 官方本科资料：uc-review-2026 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-berkeley-fees"><div><a href="https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/">berkeley 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-berkeley-aid"><div><a href="https://financialaid.berkeley.edu/apply-now/international-students/">berkeley 官方本科资料：aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-requirements"><div><a href="https://admissions.berkeley.edu/apply-to-berkeley/international-students/requirements-for-international-students/">berkeley 官方本科资料：requirements ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-uc-firstyear"><div><a href="https://admission.universityofcalifornia.edu/admission-requirements/freshman-requirements/">berkeley 官方本科资料：uc-firstyear ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-uc-test-policy"><div><a href="https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/filling-out-the-application.html">berkeley 官方本科资料：uc-test-policy ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-basic"><div><a href="https://admissions.berkeley.edu/basic-admission-requirements/">berkeley 官方本科资料：basic ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-dates"><div><a href="https://admissions.berkeley.edu/apply-to-berkeley/dates-deadlines/">berkeley 官方本科资料：dates ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-uc-review-2026"><div><a href="https://www.universityofcalifornia.edu/news/press-releases-and-statements/academic-senate-review-admissions">berkeley 官方本科资料：uc-review-2026 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-fees"><div><a href="https://financialaid.berkeley.edu/how-aid-works/student-budgets-cost-of-attendance/">berkeley 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-aid"><div><a href="https://financialaid.berkeley.edu/apply-now/international-students/">berkeley 官方本科资料：aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-berkeley-international"><div><a href="https://admissions.berkeley.edu/apply-to-berkeley/international-students/">berkeley 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/berkeley/">← 返回加利福尼亚大学伯克利分校</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

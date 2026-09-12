@@ -1,0 +1,41 @@
+{
+  "university_id": "uiuc",
+  "sources": [
+    {
+      "url": "https://admissions.illinois.edu/china-application-help/",
+      "sha256": "1c9018fb2f2e4c72d5908e8da78217003aebe38e7ff8484ad28f51e174cec9d9",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/uiuc/raw/china.html",
+      "locator": "Education / Courses Section"
+    },
+    {
+      "url": "https://admissions.illinois.edu/international-requirements/",
+      "sha256": "6c7649a69c8e1e710651c2fb044ca087001a086f1dd3f22358778f95112dce37",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/uiuc/raw/requirements.html",
+      "locator": "English Proficiency > First-Year Applicants"
+    },
+    {
+      "url": "https://admissions.illinois.edu/first-year-requirements/",
+      "sha256": "93b61030a30b2d68feafbba46a078a87dc8c5eb85dcff7edad89f112cf209557",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/uiuc/raw/firstyear.html",
+      "locator": "Math > at least3.5years list"
+    },
+    {
+      "url": "https://admissions.illinois.edu/first-year-dates/",
+      "sha256": "8fbacb16bf2545c67162f1f7ddd45ca881d2293de338f0974e85a91a766a3f6f",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/uiuc/raw/deadlines.html",
+      "locator": "First-Year Timeline"
+    },
+    {
+      "url": "https://www.admissions.illinois.edu/tuition/",
+      "sha256": "32aba66a0d452b0eabfee6c1cbec3017f222155487bd099f528fedd0369f2e83",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/uiuc/raw/tuition.html",
+      "locator": "International Costs / estimates based on2026-2027"
+    },
+    {
+      "url": "https://catalog.illinois.edu/undergraduate/",
+      "sha256": "31c24524a21d5cfc555065c15cc0c0c46e60a7bd84a7637eb0ee61912f715608",
+      "raw_file": "scratch/full-catalog/us-b/uiuc/index.html",
+      "locator": "official undergraduate program listing"
+    }
+  ]
+}

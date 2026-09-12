@@ -1,0 +1,317 @@
+{
+  "university_id": "uchicago",
+  "sources": [
+    {
+      "url": "https://collegeadmissions.uchicago.edu/apply/application/required-materials/",
+      "sha256": "ca4face0cef9d5bf63dee73ce2831ae5f7e3e6bf31e0c82ca4e79cc1b4e85996",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/uchicago/requirements-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://collegeadmissions.uchicago.edu/apply/international-applicants/",
+      "sha256": "b4fd60a408e93ef2d11b5d3faa62a11c539d43abfd41d823188f25bfd91769de",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/uchicago/international-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://collegeadmissions.uchicago.edu/apply/application/",
+      "sha256": "c3aafa74a9e4993ed0cc2946ee0982260d99da5c580a365f6a2c79c2688efb0b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/uchicago/application-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://collegeadmissions.uchicago.edu/financial-support/international-financial-aid/",
+      "sha256": "ef8253fa032f61479192f5647d1158c2e04be4f4373c84ee530a6e4930b95c3e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/uchicago/aid-dom.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/climate/",
+      "sha256": "860a7ac3520e91861887e29e9a36b5e4e4f0429f432b7d277606cc57f9558f96",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/b1e29d5af44741f18e84.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/MediaArtsandDesign/",
+      "sha256": "b65c3d0b206211563bbe27bf37a646747ca0f6fe2bbd56bfff57191fdb5aea5e",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/7488f8dd94aafbb45a0c.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/computerscience/",
+      "sha256": "b011e268664d6ed6ac7315fecd8914603a1c7b129f94f60b987315b713666d12",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/31fbc024a364ed74b130.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/biologicalsciences/",
+      "sha256": "b919949889f9ff5114ec806625defe501821872f60c9df32e3152e569b05031e",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/a7cc008ffa078045c906.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/Inquiryresearchhumanities/",
+      "sha256": "07604a5343f337e63fdf916a07bff1db0e39be1cd44860fe197901d5398b3380",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/9405e2b926c324cb679e.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/publicpolicystudies/",
+      "sha256": "7420a2a671b7db7b9d1b5bb3547b6a8acaa578edb338cf4604f132cf995521f9",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/7b1368738fbbcb0e69f5.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
+      "sha256": "892e0f46fd4ce90a6a3d85cc2337e17d63ffeffcc3d5983e552ad29db6de1ab8",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/8f7db173a96739b68842.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/anthropology/",
+      "sha256": "cfb65d595c82b1ab962556514e0d35b2d3b102ece56ffdb0b00e7d8073d8c44f",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/e2db9de02be664c7fe52.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/environmentalscience/",
+      "sha256": "ad8f488683475681883d810e0dd9d962e43808245cbdc1925ccd3d94e7ee6b05",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/1b687bd883cfe49c35db.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/religiousstudies/",
+      "sha256": "cf9db89c083c67df1ef2f58562f0a31cccc97809544f8cbea64208a130777ab1",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/1a7df2faa77769359ab2.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/slaviclanguagesliteratures/",
+      "sha256": "cf5ca3d568e24e0ec9e30d2c831636d9b3955d4b706254ed8e6af4ee172d114b",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/2df17f2a8ac9d33f0a28.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/sociology/",
+      "sha256": "73d959c34ba3837624bff668aafba9cd719c776752ad9c60cf2ff96f4f413fa7",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/ddba4eef8e0f62007b44.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/southasianlanguagescivilizations/",
+      "sha256": "e6c088af9acf1e2782486aea822dd2630f67d49379c7adc380bd8bce9eca2d43",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/cd511f00a7e214e9979e.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/theaterperformancestudies/",
+      "sha256": "47c22533f6aac12f183d69497449c0694ab7e80d7ec75dbc4ef6498a280c59de",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/9174b6342f61fdbb3a60.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/statistics/",
+      "sha256": "647d113410f753c10d616a9c4f3cd666305071af17afc95461e9d36c789ad4e4",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/0a4fb271619e6a305270.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/visualarts/",
+      "sha256": "e6e26ce57bbae72a8b4f56189701c177415b0c34e66ed4d832e935e2fc74072e",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/12a992dca7455914ed7d.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/psychology/",
+      "sha256": "ddd1194bcfdabbb8d1a976397b930769cb05a7f774960cba435caf5998f38538",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/799e417bd17e2b503702.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/politicalscience/",
+      "sha256": "60378d9dea63d4d552196ffd1ac13c8baef36e99e3b8abfc611c35c983d3246e",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/972eaa2cd1d84c8d2dd8.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/physics/",
+      "sha256": "58d9d035882aee8fab9d921c5ef7aa5911a4920076607b7b581a0fd68cc48667",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/99e868f5f44f21155e1f.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
+      "sha256": "3794e30a0973ba54ee5515d2517b21f5ebe47099e6c45e5cb7319a26ebbc48f0",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/c5817ff6ca8cf15f20a3.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/neuroscience/",
+      "sha256": "0469fa7b872654021a6b2d7dfcfbf62ff618f4dabb88f6af07b1fd2e0948b89b",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/06c3a7f36b4a397baa0d.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/music/",
+      "sha256": "5f3882ee5d6db227f6bd5debc2d54200ada20d35502b39e875915db4824fa0d3",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/e2818986eef1627b7495.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/neareasternlanguagescivilizations/",
+      "sha256": "6b6d2b634394fb618253f1f0c12de1eeb6692d2aafe7c131e2d52f28001e6619",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/add75b2ea88693de907b.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/medievalstudies/",
+      "sha256": "1f4a89957cb6f5277911820a0cad45064d00fe8b1cea0068fb78e9f59fc8512b",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/01449e3ed80cec286267.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
+      "sha256": "d0c6893159a8b3a19a60a81f1fc294c52d65a1f5eeecf46cc93ae87f0efeb337",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/b2a5a98ef2d1eaf78140.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/linguistics/",
+      "sha256": "36badc09f1bd4ceca928871c1960b0e4e8b250b5f61131f4ff7f974f03035293",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/6a3e1815512caaa1ae4f.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/lawlettersandsociety/",
+      "sha256": "3a3a15b4d5ddd35bc29374c42c9f1ed1d6ecd21d521569cff719624a9340674f",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/d18a607c046c5530ed88.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/jewishstudies/",
+      "sha256": "27a71755fb708981bf7ff24d7ebe8177c93efe987ff37d68259547878e4596b9",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/9de0e8c56faef8876026.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/humanrights/",
+      "sha256": "53af44e69576e2cfb1c398031635a2e48260a7ed4e04b60c9da47fcb1c44f5a8",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/8230b7627d8714223a9b.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/scienceandmedicinehips/",
+      "sha256": "0a3fd2a4aff2e62336f7c4314fae638eaf599c20ec057e96b8df51f389bbbad5",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/2abaddb20d7f66c3e5d6.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/history/",
+      "sha256": "13ff408d1b8325625430d40cb3f3a322462dc49cc7ae93d2e0a5d215f0fed559",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/c2ea70c28d946ddb0dca.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/globalstudies/",
+      "sha256": "41b9ca3894eb0c151b04e106ddb2dcb560d4cf2dc8bffde1274b622f7a59c534",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/cf80567eb21d8fceb3db.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/germanicstudies/",
+      "sha256": "acab7ad3ad36d1e03a33141e78da343a64976720c96c840aef815b8373aec325",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/518e5491ff2b3bc03169.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/geophysicalsciences/",
+      "sha256": "8543271579309cbf076cc9ad8685642835462ee480c2684349e8a941ec0bd587",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/74e3ed5647d520d76e10.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/genderstudies/",
+      "sha256": "ceab8515a05704719c3765ff8777c6cdf2f4094058e89842e0072606521dcc16",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/50c290c4fa331fd4cab9.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/fundamentalsissuesandtexts/",
+      "sha256": "b7ed2f4f7ba5f41b1f3792503db5ceed06802dd387805d8eea19c33e3db6c573",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/6e1c3aeb74c74e5cb4c5.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/englishlanguageliterature/",
+      "sha256": "339d32fc6c2488b14476129a514e603fc46e297cda064479d586cc1cbc37536b",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/95ebb2dd206fd1824399.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/economics/",
+      "sha256": "b9c52f3976497c2a0df4974a28c65ca30e17bdabc4bd9722f3e076cf1a5b2294",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/45734310070a63854a7d.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/eastasianlanguagescivilizations/",
+      "sha256": "af54a915dbd5ca113f191e896801740077ca86c8dd51ce7901539a43c9a0c506",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/94deb24ebb1a8ab4b995.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/creativewriting/",
+      "sha256": "5013e21a35dbb193fd0b3e1dd656f22645332c8e781aa8ae96f4230da9511cca",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/5fd28637d22a007cf66f.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/caam/",
+      "sha256": "03a64a9f02d9877554dbdac480a5c78fb181eb89787c66e807a453dddb678c67",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/edc430fda2d841e22de3.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/comparativeliterature/",
+      "sha256": "d67182f5757175404ec609be227b5172d25cf90526c93584b9c7f3d7813d710a",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/4b3dd28ba83e79cb1663.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/comparativehumandevelopment/",
+      "sha256": "758871bb8e80880942d372b829ee4350a77744b64245d30537036781bd6adb31",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/7497dd4d77e8c6d05ee3.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/classicalstudies/",
+      "sha256": "a771f3410861263cd4b59cd8584b2e9f6c880481aa75930712eb9d0a797fbb4e",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/45b5386e9464be211a14.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/cinemamediastudies/",
+      "sha256": "251aee453ba0ee613dce1ece4599ffc779a293569604acf42493a73a9e053b87",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/bb393c2570fa458389aa.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/biologicalchemistry/",
+      "sha256": "450cc6e549431b847e6e2090070d9860a8ebfeaa2e7675d585fb3a2db0f6c7ed",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/f59e1754612cd632a409.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/astronomyastrophysics/",
+      "sha256": "22f551f10f8371801355a6a602e5ec95598dd902402be0cfe9d0b2a7f2c80047",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/50e442ef2f1cb3d0dc6d.html",
+      "locator": null
+    },
+    {
+      "url": "http://collegecatalog.uchicago.edu/thecollege/chemistry/",
+      "sha256": "15971fe6049dab473ed4b9d3c647d076fb5f3a0cc31e8af2bf4f7d52312db1a4",
+      "raw_file": "scratch/full-catalog/us-details/uchicago/907bb759e6f44b1212c2.html",
+      "locator": null
+    }
+  ]
+}

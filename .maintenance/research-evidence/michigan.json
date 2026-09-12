@@ -1,0 +1,47 @@
+{
+  "university_id": "michigan",
+  "sources": [
+    {
+      "url": "https://admissions.umich.edu/apply/international-applicants/requirements-deadlines/requirements-country",
+      "sha256": "f8041380fa4c8eb88019a093a38ca11d8c7196c6805576a4bda7ef8957e295ad",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/michigan/raw/official-admissions-web.json",
+      "locator": "China lines143–146"
+    },
+    {
+      "url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes",
+      "sha256": "35b5db093ef2453947979120bcc9c4be8819f33416ca43d0ac4db426210186be",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/michigan/raw/official-rules-web.json",
+      "locator": "New Academic Opportunities and Updates"
+    },
+    {
+      "url": "https://admissions.umich.edu/apply/international-applicants/exams-visas",
+      "sha256": "35b5db093ef2453947979120bcc9c4be8819f33416ca43d0ac4db426210186be",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/michigan/raw/official-rules-web.json",
+      "locator": "General English Proficiency Score Ranges lines69–85"
+    },
+    {
+      "url": "https://admissions.umich.edu/apply/international-applicants/requirements-deadlines",
+      "sha256": "f8041380fa4c8eb88019a093a38ca11d8c7196c6805576a4bda7ef8957e295ad",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/michigan/raw/official-admissions-web.json",
+      "locator": "How to Apply / Deadlines"
+    },
+    {
+      "url": "https://admissions.umich.edu/academics-majors/majors-degrees",
+      "sha256": "7c5349187a2c49dc21fc3d8111322369415894e99678c1b6ee4308cc97756337",
+      "raw_file": "scratch/full-catalog/us-b/michigan/index.html",
+      "locator": "official undergraduate program listing"
+    },
+    {
+      "url": "https://stamps.umich.edu/undergraduate-programs",
+      "sha256": "7c5349187a2c49dc21fc3d8111322369415894e99678c1b6ee4308cc97756337",
+      "raw_file": "scratch/full-catalog/us-b/michigan/index.html",
+      "locator": "official undergraduate program listing"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "sha256": "7c5349187a2c49dc21fc3d8111322369415894e99678c1b6ee4308cc97756337",
+      "raw_file": "scratch/full-catalog/us-b/michigan/index.html",
+      "locator": "official undergraduate program listing"
+    }
+  ]
+}

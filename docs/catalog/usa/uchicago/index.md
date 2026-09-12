@@ -23,71 +23,108 @@ hide:
 
 ## 专业与申请资料
 
-60 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+60 个专业条目 · 0 个含详细资料 · 52 个补有专业资料 · 8 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=uchicago#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-anthropology-b91c578278/">Anthropology</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-archaeology-be0f7eb725/">Archaeology</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-art-history-92f55363e2/">Art History</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-astrophysics-4a7647909e/">Astrophysics</a><small>BA / BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-biological-chemistry-7c0ce35ff1/">Biological Chemistry</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-biological-sciences-3b792822e6/">Biological Sciences</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-chemistry-bb928678d6/">Chemistry</a><small>BA / BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-cinema-and-media-studies-63db82700a/">Cinema and Media Studies</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-classical-studies-f80f13b384/">Classical Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-climate-and-sustainable-growth-dfbf94a912/">Climate and Sustainable Growth</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-cognitive-science-7f53e85f13/">Cognitive Science</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-comparative-human-development-c7ede91462/">Comparative Human Development</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-comparative-literature-b9ba8cfb7c/">Comparative Literature</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-computational-and-applied-mathematics-0ad0ebe151/">Computational and Applied Mathematics</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-computer-science-5333b23a69/">Computer Science</a><small>BA / BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-creative-writing-85fa590e84/">Creative Writing</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-data-science-2efd7408b2/">Data Science</a><small>BA / BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-east-asian-languages-and-civilizations-bbd3dcedd1/">East Asian Languages and Civilizations</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-economics-ba5ba808bf/">Economics</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-engineering-molecular-978b29b495/">Engineering, Molecular</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-english-language-and-literature-2ff7a4d170/">English Language and Literature</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-environment-geography-and-urbanization-fa0c88f2dd/">Environment, Geography, and Urbanization</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-environmental-science-7293d6d471/">Environmental Science</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-french-romance-languages-and-literatures-d07971280e/">French, Romance Languages and Literatures</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-fundamentals-issues-and-texts-5dbe7530bb/">Fundamentals: Issues and Texts</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-gender-and-sexuality-studies-fd71da787b/">Gender and Sexuality Studies</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-geophysical-sciences-666cda2728/">Geophysical Sciences</a><small>BA / BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-germanic-studies-785fa2dc9d/">Germanic Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-global-studies-323d39c19c/">Global Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-history-893baa8dca/">History</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-history-philosophy-and-social-studies-of-science-and-medicine-5f11b33167/">History, Philosophy, and Social Studies of Science and Medicine</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-human-rights-0106bfff55/">Human Rights</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-inquiry-and-research-in-the-humanities-1c4b3577e5/">Inquiry and Research in the Humanities</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-italian-romance-languages-and-literatures-bc079332d6/">Italian, Romance Languages and Literatures</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-jewish-studies-9427a73d40/">Jewish Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-latin-american-and-caribbean-studies-c6ad3becc2/">Latin American and Caribbean Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-latin-american-and-iberian-languages-romance-languages-and-litera-91376a4b57/">Latin American and Iberian Languages, Romance Languages and Literatures</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-law-letters-and-society-be85baa338/">Law, Letters, and Society</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-linguistics-6d6231bf2e/">Linguistics</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-mathematics-7c0aab6dc6/">Mathematics</a><small>BA / BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-media-arts-and-design-05d19f815a/">Media Arts and Design</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-medieval-studies-71f5671cae/">Medieval Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-middle-eastern-studies-8e3d991b7d/">Middle Eastern Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-music-45b7b649ff/">Music</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-neuroscience-abb0e753ed/">Neuroscience</a><small>BA / BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-philosophy-4b63fe40b6/">Philosophy</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-physics-7535106653/">Physics</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-political-science-426253f72a/">Political Science</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-psychology-69d053456c/">Psychology</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-public-policy-studies-86dd20560f/">Public Policy Studies</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-race-diaspora-and-indigeneity-rdi-42fe741a57/">Race, Diaspora and Indigeneity (RDI)</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-religious-studies-e0aea27238/">Religious Studies</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-romance-languages-and-literatures-3b2f48296f/">Romance Languages and Literatures</a><small>BA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-russian-and-east-european-studies-5ce511c0cf/">Russian and East European Studies</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-sociology-d8c71b6427/">Sociology</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-south-asian-languages-and-civilizations-42a7caf4c2/">South Asian Languages and Civilizations</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-spanish-romance-languages-and-literatures-27286bfacf/">Spanish, Romance Languages and Literatures</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-statistics-fecb92a3dd/">Statistics</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-theater-and-performance-studies-1817985387/">Theater and Performance Studies</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-visual-arts-de0eca35e6/">Visual Arts</a><small>Undergraduate major; exact award label not stated in index · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-anthropology-b91c578278/">Anthropology</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-archaeology-be0f7eb725/">Archaeology</a><small>Undergraduate major; exact award label not stated in index · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-art-history-92f55363e2/">Art History</a><small>Undergraduate major; exact award label not stated in index · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-astrophysics-4a7647909e/">Astrophysics</a><small>BA / BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-biological-chemistry-7c0ce35ff1/">Biological Chemistry</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-biological-sciences-3b792822e6/">Biological Sciences</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-chemistry-bb928678d6/">Chemistry</a><small>BA / BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-cinema-and-media-studies-63db82700a/">Cinema and Media Studies</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-classical-studies-f80f13b384/">Classical Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-climate-and-sustainable-growth-dfbf94a912/">Climate and Sustainable Growth</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-cognitive-science-7f53e85f13/">Cognitive Science</a><small>Undergraduate major; exact award label not stated in index · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-comparative-human-development-c7ede91462/">Comparative Human Development</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-comparative-literature-b9ba8cfb7c/">Comparative Literature</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-computational-and-applied-mathematics-0ad0ebe151/">Computational and Applied Mathematics</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-computer-science-5333b23a69/">Computer Science</a><small>BA / BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-creative-writing-85fa590e84/">Creative Writing</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-data-science-2efd7408b2/">Data Science</a><small>BA / BS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-east-asian-languages-and-civilizations-bbd3dcedd1/">East Asian Languages and Civilizations</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-economics-ba5ba808bf/">Economics</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-engineering-molecular-978b29b495/">Engineering, Molecular</a><small>BS · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-english-language-and-literature-2ff7a4d170/">English Language and Literature</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-environment-geography-and-urbanization-fa0c88f2dd/">Environment, Geography, and Urbanization</a><small>Undergraduate major; exact award label not stated in index · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-environmental-science-7293d6d471/">Environmental Science</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-french-romance-languages-and-literatures-d07971280e/">French, Romance Languages and Literatures</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-fundamentals-issues-and-texts-5dbe7530bb/">Fundamentals: Issues and Texts</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-gender-and-sexuality-studies-fd71da787b/">Gender and Sexuality Studies</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-geophysical-sciences-666cda2728/">Geophysical Sciences</a><small>BA / BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-germanic-studies-785fa2dc9d/">Germanic Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-global-studies-323d39c19c/">Global Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-history-893baa8dca/">History</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-history-philosophy-and-social-studies-of-science-and-medicine-5f11b33167/">History, Philosophy, and Social Studies of Science and Medicine</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-human-rights-0106bfff55/">Human Rights</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-inquiry-and-research-in-the-humanities-1c4b3577e5/">Inquiry and Research in the Humanities</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-italian-romance-languages-and-literatures-bc079332d6/">Italian, Romance Languages and Literatures</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-jewish-studies-9427a73d40/">Jewish Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-latin-american-and-caribbean-studies-c6ad3becc2/">Latin American and Caribbean Studies</a><small>BA · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-latin-american-and-iberian-languages-romance-languages-and-litera-91376a4b57/">Latin American and Iberian Languages, Romance Languages and Literatures</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-law-letters-and-society-be85baa338/">Law, Letters, and Society</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-linguistics-6d6231bf2e/">Linguistics</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-mathematics-7c0aab6dc6/">Mathematics</a><small>BA / BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-media-arts-and-design-05d19f815a/">Media Arts and Design</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-medieval-studies-71f5671cae/">Medieval Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-middle-eastern-studies-8e3d991b7d/">Middle Eastern Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-music-45b7b649ff/">Music</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-neuroscience-abb0e753ed/">Neuroscience</a><small>BA / BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-philosophy-4b63fe40b6/">Philosophy</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-physics-7535106653/">Physics</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-political-science-426253f72a/">Political Science</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-psychology-69d053456c/">Psychology</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-public-policy-studies-86dd20560f/">Public Policy Studies</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-race-diaspora-and-indigeneity-rdi-42fe741a57/">Race, Diaspora and Indigeneity (RDI)</a><small>Undergraduate major; exact award label not stated in index · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-religious-studies-e0aea27238/">Religious Studies</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-romance-languages-and-literatures-3b2f48296f/">Romance Languages and Literatures</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-russian-and-east-european-studies-5ce511c0cf/">Russian and East European Studies</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-sociology-d8c71b6427/">Sociology</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-south-asian-languages-and-civilizations-42a7caf4c2/">South Asian Languages and Civilizations</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-spanish-romance-languages-and-literatures-27286bfacf/">Spanish, Romance Languages and Literatures</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-statistics-fecb92a3dd/">Statistics</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-theater-and-performance-studies-1817985387/">Theater and Performance Studies</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/uchicago-visual-arts-de0eca35e6/">Visual Arts</a><small>Undergraduate major; exact award label not stated in index · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>中国高中材料与综合评估：</strong>国际新生与其他新生同样申请，按就读高中背景评估；需要完整中学成绩、学校报告和两位学科教师评估，非英文成绩附认证翻译及评分制。没有辅导员可由教师/学校管理者提交学校报告，本轮未取得高考统一录取线。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-requirements-dom">官方依据</a> · <a href="#source-u-uchicago-international-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT可选及英语：</strong>SAT/ACT不强制，当前No Harm政策只在成绩有利时用于审查，对本土、国际和转学生均适用。国际生可自愿以英语考试证明能力，若申请其他材料已充分体现英语，不强制正式分数；学校不设入学后ESL补习通道。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-requirements-dom">官方依据</a> · <a href="#source-u-uchicago-international-dom">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027新生申请日历：</strong>Common App或Coalition on Scoir。ED I与EA截止2026-11-02，ED II与RD截止2027-01-04；通常仅秋季入学。需两篇学校补充文书，非need-based资助申请者申请费US$90，申请此资助者免申请费。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-application-dom">官方依据</a> · <a href="#source-u-uchicago-requirements-dom">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>国际生资助申请方法：</strong>国际生如可能需要资助须申请入学时同时申请，学校满足获录取且申请者认定需要，方案不以贷款填补。国际生用UChicago账户中的Student Financial Aid Worksheet及收入资产证明，不交CSS Profile或FAFSA；国际转学生不获该经济资助。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-aid-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Merit奖及学费缺口：</strong>本科新生自动考虑部分学费的merit奖，国际转学生不符合此奖；奖项有限不能作为确定资金来源。本轮尚未取得有充分原文佐证的2026–2027独立本科学费表，年度金额暂缺，不能套研究生费率。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-aid-dom">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>逐专业结果缺口：</strong>本轮未取得各主修明确届次、响应样本和中国/国际生口径的毕业调查；当前专业目录仍有总数量对账缺口，不宣称已完成全主修全字段。</p>
+<p class="fact-sources"><a href="#source-u-uchicago-application-dom">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-uchicago-requirements-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/required-materials/">uchicago 官方本科资料：requirements-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uchicago-international-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/international-applicants/">uchicago 官方本科资料：international-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uchicago-application-dom"><div><a href="https://collegeadmissions.uchicago.edu/apply/application/">uchicago 官方本科资料：application-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uchicago-aid-dom"><div><a href="https://collegeadmissions.uchicago.edu/financial-support/international-financial-aid/">uchicago 官方本科资料：aid-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

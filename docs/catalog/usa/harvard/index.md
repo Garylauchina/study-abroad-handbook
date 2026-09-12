@@ -23,63 +23,99 @@ hide:
 
 ## 专业与申请资料
 
-52 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+52 个专业条目 · 0 个含详细资料 · 52 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=harvard#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-african-and-african-american-studies-6de52d22aa/">African and African American Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-anthropology-99dcae0673/">Anthropology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-applied-math-c74aa5e599/">Applied Math</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-art-film-and-visual-studies-aa20ceaad5/">Art, Film, and Visual Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-astrophysics-0ec9cc157b/">Astrophysics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-biomedical-engineering-d02f5524ee/">Biomedical Engineering</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-chemical-and-physical-biology-e531321ebd/">Chemical and Physical Biology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-chemistry-d7a5125a0a/">Chemistry</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-chemistry-and-physics-fbc4b000ca/">Chemistry and Physics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-classics-fbfe21c1d8/">Classics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-comparative-literature-487836aaa0/">Comparative Literature</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-comparative-study-of-religion-89dc65dd70/">Comparative Study of Religion</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-computer-science-2b0ad48285/">Computer Science</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-earth-and-planetary-sciences-22ca21a4b7/">Earth and Planetary Sciences</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-east-asian-studies-3771122a9c/">East Asian Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-economics-ad3c0ff144/">Economics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-electrical-engineering-93abeffe03/">Electrical Engineering</a><small>B.A. / B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-energy-climate-and-the-environment-concentration-33ffa9c950/">Energy, Climate, and the Environment concentration</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-engineering-sciences-bec554a9ad/">Engineering Sciences</a><small>B.A. / B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-english-a7bbc36a78/">English</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-environmental-science-and-engineering-5627541907/">Environmental Science and Engineering</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-environmental-science-and-public-policy-533799c2f3/">Environmental Science and Public Policy</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-folklore-and-mythology-1a49d23c71/">Folklore and Mythology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-germanic-languages-and-literature-30e75398f3/">Germanic Languages and Literature</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-government-5a0602aa4c/">Government</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-history-34bc460c3e/">History</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-history-and-literature-9dcae1474d/">History and Literature</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-history-and-science-2e3b4ac700/">History and Science</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-history-of-art-and-architecture-48a42c85a0/">History of Art and Architecture</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-human-developmental-and-regenerative-biology-e0d3e97cf4/">Human Developmental and Regenerative Biology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-human-evolutionary-biology-d19bfb8c2a/">Human Evolutionary Biology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-integrative-biology-fd75389dd8/">Integrative Biology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-liberal-arts-in-extension-studies-4a3a555a4b/">Liberal Arts in Extension Studies</a><small>Bachelor of Liberal Arts (ALB) in Extension Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-linguistics-c3caa2d351/">Linguistics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-mathematics-dc3b244080/">Mathematics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-mechanical-engineering-ae312227a1/">Mechanical Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-molecular-and-cellular-biology-752327129e/">Molecular and Cellular Biology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-music-1bb0353a3e/">Music</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-near-eastern-languages-and-civilizations-c3a5e364c3/">Near Eastern Languages and Civilizations</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-neuroscience-60d447da65/">Neuroscience</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-philosophy-47fa4437ff/">Philosophy</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-physics-ab050491f0/">Physics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-psychology-bd98dc3b2a/">Psychology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-romance-languages-and-literature-0a50f91312/">Romance Languages and Literature</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-slavic-literatures-and-cultures-1685402893/">Slavic Literatures and Cultures</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-social-studies-f1fa1bf588/">Social Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-sociology-842610dd02/">Sociology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-south-asian-studies-3bb0450096/">South Asian Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-special-concentration-986a5e021d/">Special Concentration</a><small>Harvard College bachelor degree; award label not stated in index · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-statistics-681e6ada4b/">Statistics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-studies-of-women-gender-and-sexuality-fe78f9bcbb/">Studies of Women, Gender, and Sexuality</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-theater-dance-media-7c0be4287f/">Theater, Dance &amp; Media</a><small>B.A. · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-african-and-african-american-studies-6de52d22aa/">African and African American Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-anthropology-99dcae0673/">Anthropology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-applied-math-c74aa5e599/">Applied Math</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-art-film-and-visual-studies-aa20ceaad5/">Art, Film, and Visual Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-astrophysics-0ec9cc157b/">Astrophysics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-biomedical-engineering-d02f5524ee/">Biomedical Engineering</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-chemical-and-physical-biology-e531321ebd/">Chemical and Physical Biology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-chemistry-d7a5125a0a/">Chemistry</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-chemistry-and-physics-fbc4b000ca/">Chemistry and Physics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-classics-fbfe21c1d8/">Classics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-comparative-literature-487836aaa0/">Comparative Literature</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-comparative-study-of-religion-89dc65dd70/">Comparative Study of Religion</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-computer-science-2b0ad48285/">Computer Science</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-earth-and-planetary-sciences-22ca21a4b7/">Earth and Planetary Sciences</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-east-asian-studies-3771122a9c/">East Asian Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-economics-ad3c0ff144/">Economics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-electrical-engineering-93abeffe03/">Electrical Engineering</a><small>B.A. / B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-energy-climate-and-the-environment-concentration-33ffa9c950/">Energy, Climate, and the Environment concentration</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-engineering-sciences-bec554a9ad/">Engineering Sciences</a><small>B.A. / B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-english-a7bbc36a78/">English</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-environmental-science-and-engineering-5627541907/">Environmental Science and Engineering</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-environmental-science-and-public-policy-533799c2f3/">Environmental Science and Public Policy</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-folklore-and-mythology-1a49d23c71/">Folklore and Mythology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-germanic-languages-and-literature-30e75398f3/">Germanic Languages and Literature</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-government-5a0602aa4c/">Government</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-history-34bc460c3e/">History</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-history-and-literature-9dcae1474d/">History and Literature</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-history-and-science-2e3b4ac700/">History and Science</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-history-of-art-and-architecture-48a42c85a0/">History of Art and Architecture</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-human-developmental-and-regenerative-biology-e0d3e97cf4/">Human Developmental and Regenerative Biology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-human-evolutionary-biology-d19bfb8c2a/">Human Evolutionary Biology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-integrative-biology-fd75389dd8/">Integrative Biology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-liberal-arts-in-extension-studies-4a3a555a4b/">Liberal Arts in Extension Studies</a><small>Bachelor of Liberal Arts (ALB) in Extension Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-linguistics-c3caa2d351/">Linguistics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-mathematics-dc3b244080/">Mathematics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-mechanical-engineering-ae312227a1/">Mechanical Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-molecular-and-cellular-biology-752327129e/">Molecular and Cellular Biology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-music-1bb0353a3e/">Music</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-near-eastern-languages-and-civilizations-c3a5e364c3/">Near Eastern Languages and Civilizations</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-neuroscience-60d447da65/">Neuroscience</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-philosophy-47fa4437ff/">Philosophy</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-physics-ab050491f0/">Physics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-psychology-bd98dc3b2a/">Psychology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-romance-languages-and-literature-0a50f91312/">Romance Languages and Literature</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-slavic-literatures-and-cultures-1685402893/">Slavic Literatures and Cultures</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-social-studies-f1fa1bf588/">Social Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-sociology-842610dd02/">Sociology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-south-asian-studies-3bb0450096/">South Asian Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-special-concentration-986a5e021d/">Special Concentration</a><small>Harvard College bachelor degree; award label not stated in index · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-statistics-681e6ada4b/">Statistics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-studies-of-women-gender-and-sexuality-fe78f9bcbb/">Studies of Women, Gender, and Sexuality</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/harvard/harvard-theater-dance-media-7c0be4287f/">Theater, Dance &amp; Media</a><small>B.A. · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>Harvard College国际资格范围：</strong>此处为Harvard College本科新生共同规则；不适用于Harvard Extension School的成人ALB、访问学生或研究生。本轮未核到中国高考单一录取线，按高中成绩、推荐、考试及个人背景综合评估。</p>
+<p class="fact-sources"><a href="#source-u-harvard-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT与英语：</strong>通常须提交SAT或ACT；仅在费用、考点或座位等实际无法取得考试的例外情况下，才可说明并用AP、IB、GCSE/A-Level或外部评估离校考试等替代。英语考试不能替代SAT/ACT。新生与转学生不必提交英语考试，可自愿提交；熟练英语仍是要求。</p>
+<p class="fact-sources"><a href="#source-u-harvard-international">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>渠道与当前日期：</strong>Common Application及Harvard补充材料，申请费US$95或豁免；学校报告、成绩单、两位教师推荐及期中/最终学校报告。官网当前规则为REA11月1日、RD1月1日当地23:59；需区分月日规则和明确年份公告，本轮未据此把每项静态日期改写为独立2027确认。</p>
+<p class="fact-sources"><a href="#source-u-harvard-apply">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026–2027学费与预算：</strong>Harvard College标准学费US$62,226；含学费、杂费、住食的账单小计US$91,634。计入书本、个人与0–5,000交通估计后为US$95,134–100,134；另需US$4,954医保，符合其他保险条件可免。此为资助前年度预算，非Extension按课报价。</p>
+<p class="fact-sources"><a href="#source-u-harvard-fees-aid">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生经济资助：</strong>学校对所有国籍采用同一资助政策；申请资助不影响录取，按学校认定需要提供援助。不是凭国籍或一个家庭收入数字自动获免学费。</p>
+<p class="fact-sources"><a href="#source-u-harvard-international">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>专业调查缺口：</strong>本轮未取得逐主修、明确届次与样本范围的中国学生就业率或起薪；不以个别知名校友及职业准备描述代替统计。</p>
+<p class="fact-sources"><a href="#source-u-harvard-international">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-harvard-international"><div><a href="https://college.harvard.edu/admissions/apply/international-applicants">harvard 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-harvard-apply"><div><a href="https://college.harvard.edu/admissions/apply/first-year-applicants">harvard 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-harvard-fees-aid"><div><a href="https://college.harvard.edu/financial-aid/how-aid-works">harvard 官方本科资料：fees-aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

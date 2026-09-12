@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Renaissance Engineering Programme</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4.5年（学士＋硕士）</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,9 +42,22 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录所列学位／路径：Bachelor of Engineering Science+ Master of Science in Technology Management。入学年份与是否接受特定身份须结合招生规则；目录列名本身不等于当前开放申请。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-3d6ef79ef5e1a5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>项目学制：</strong>官网项目结构栏列4.5年；减免、加速或海外阶段的个别选项须另核。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-3d6ef79ef5e1a5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>培养内容举例：</strong>课程／培养说明涉及人工智能、可持续发展、会计、财务管理、市场营销。这里只概述页面已明列的部分内容，不作为完整必修表。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-3d6ef79ef5e1a5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科与硕士衔接：</strong>REP为4.5年全住宿联合路径，授予工程科学学士及技术管理硕士；第3年含海外学习与实习，第4—5年含硕士课程和Capstone。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-3d6ef79ef5e1a5">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>国籍／身份限制参考：</strong>官方国际科目PDF的2026届脚注明确REP只向新加坡公民及永久居民开放。高考页的宽泛项目资格文字不能推翻该限制；本轮未取得能确认改变此限制的2027 REP专项规则。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-6f4b23b6ee3f88">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -56,7 +69,8 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>官网职业方向：</strong>页面列举的可能领域包括银行业、金融、咨询、航空、制造业；属于职业方向，未取得该项目毕业人数、就业率或大陆生结果。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-3d6ef79ef5e1a5">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +79,7 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ntu.edu.sg/education/undergraduate-programme/renaissance-engineering-programme-(rep))
 - [官方目录](https://www.ntu.edu.sg/education/degree-programmes)
 
+<div class="catalog-source" id="source-p-ASREN-3d6ef79ef5e1a5"><div><a href="https://www.ntu.edu.sg/education/undergraduate-programme/renaissance-engineering-programme-(rep)">Renaissance Engineering Programme — NTU官方项目资料 ↗</a><p>项目身份、学制、课程内容、科目条件及职业方向</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-6f4b23b6ee3f88"><div><a href="https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5">NTU国际资格科目要求PDF（2026届） ↗</a><p>REP身份与NIE非补贴限制，具体科目冲突边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">← 返回南洋理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

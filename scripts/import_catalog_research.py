@@ -13,6 +13,19 @@ from catalog_research import validate_record
 ROOT = Path(__file__).resolve().parents[1]
 
 
+def match_program(inventory, record, uid):
+    """Keep parallel degrees distinct even when they share a name and URL."""
+    candidates = [p for p in inventory if str(p.get('raw_key')) == str(record.get('raw_key'))]
+    if record.get('inventory_id'):
+        candidates = [p for p in candidates if p['id'] == record['inventory_id']]
+    if len(candidates) > 1 or record.get('inventory_id'):
+        candidates = [p for p in candidates if p['official_url'] == record['official_url'] and p['name_en'] == record['name_en']]
+    if record.get('degree_label'):
+        candidates = [p for p in candidates if p['degree_label'] == record['degree_label']]
+    assert len(candidates) == 1, f'{uid}: ambiguous/missing research identity {record.get("raw_key")}'
+    return candidates[0]
+
+
 def run(batch):
     profiles = json.loads((batch / 'profiles.json').read_text())
     facts = json.loads((batch / 'program-facts.json').read_text())
@@ -54,12 +67,9 @@ def run(batch):
             output['profile'] = clean(profile_map[uid])
         used = set()
         for record in by_school[uid]:
-            candidates = [p for p in inventory if str(p.get('raw_key')) == str(record.get('raw_key'))]
-            if len(candidates) > 1:
-                candidates = [p for p in candidates if p['official_url'] == record['official_url'] and p['name_en'] == record['name_en']]
-            assert len(candidates) == 1, f'{uid}: ambiguous/missing research identity {record["raw_key"]}'
+            candidate = match_program(inventory, record, uid)
             item = clean(record)
-            item['inventory_id'] = candidates[0]['id']
+            item['inventory_id'] = candidate['id']
             assert item['inventory_id'] not in used, item['inventory_id']
             used.add(item['inventory_id'])
             output['programs'].append(item)

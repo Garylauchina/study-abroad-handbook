@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Joint Bachelor in Sustainability (KU Leuven et al) (Brussels, Helsinki, Krakow, Madrid, Paris, Zurich)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27 课程目录</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Brussels · <strong>授课语言：</strong>English</p>
+<p class="program-location"><strong>校区：</strong>Brussels · <strong>授课语言：</strong>英语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,9 +40,16 @@ hide:
 
 <p><strong>申请路径：</strong>Joint institutional qualification; KU Leuven catalogue scope includes the named partner/campus.</p>
 
+<p class="catalog-fact"><strong>学习内容：</strong>比较可持续性的定义、模型、方法和价值基础，并研究相关发展阶段与实践问题；属跨校联合学位。</p>
+<p class="fact-sources"><a href="#source-p-ku-leuven-58364589">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学位、学分与授课地点：</strong>学术学士；目录所列课程版本学分：180 ECTS；地点：Brussels；授课语言：英语。目录年度2026/27；缩短、衔接与联合版本应按各自身份选读。</p>
+<p class="fact-sources"><a href="#source-p-ku-leuven-58364589">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>合作项目条件缺口：</strong>此条为合作院校或跨国联合路径；本轮未核实大陆新生专用招生入口、时间与收费主体，不自动继承KU Leuven普通项目的条件。</p>
+<p class="fact-sources"><a href="#source-p-ku-leuven-58364589">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -56,6 +63,13 @@ hide:
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>培养结果与就业调查：</strong>以下专业简介来自官方培养目标，包括继续深造或相关职业能力；本轮未核实各本科专业带届次、样本范围的就业率或薪资，学士培养目标也不自动等于医学等受监管职业的完整执照。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-catalogue">官方依据</a></p>
+
+</details>
+
 ## 官方来源与核验记录 {#sources}
 
 目录核验日期：**2026-09-12**；该日期不代表招生、学费与毕业信息已核验。
@@ -63,5 +77,7 @@ hide:
 - [官方项目页面或项目所在目录](https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_58364589)
 - [官方目录](https://www.kuleuven.be/opleidingen/)
 
+<div class="catalog-source" id="source-p-ku-leuven-58364589"><div><a href="https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_58364589">Joint Bachelor in Sustainability (KU Leuven et al) (Brussels, Helsinki, Krakow, Madrid, Paris, Zurich) ↗</a><p>2026/27资格培养目标、专业版本、学分、校区、语言及当前入学条件</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ku-leuven-catalogue"><div><a href="https://onderwijsaanbod.kuleuven.be/opleidingen/">KU Leuven programme guide 2026–2027 ↗</a><p>学位、培养内容和专业范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/belgium/ku-leuven/">← 返回鲁汶大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

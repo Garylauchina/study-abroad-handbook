@@ -1,0 +1,1397 @@
+{
+  "university_id": "washington",
+  "sources": [
+    {
+      "url": "https://admit.washington.edu/apply/freshman/how-to-apply/",
+      "sha256": "b3f4931e61bfae81e0e3b0595fb871bff62d840684cdc69ffcd46aee93ce9a9c",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/washington/raw/international.html",
+      "locator": "How to Apply"
+    },
+    {
+      "url": "https://admit.washington.edu/apply/first-year/how-to-apply/English-proficiency/",
+      "sha256": "4ffe7d08bc6df9a0640a523e2410d3e14a0fc022d2d0bf13a2307e2ecdc32556",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/washington/raw/english.html",
+      "locator": "Test score requirement / Deadline / Alternatives"
+    },
+    {
+      "url": "https://admit.washington.edu/costs/coa/",
+      "sha256": "2d436332fa85ee0576af09bb4de65e59929b363892cb5a3b0e7e0eba648a6436",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/washington/raw/tuition.html",
+      "locator": "Seattle undergraduate student budget 2026-27"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Business-300.html#credential-624f4ab7a3e96d4c1b871da0",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "locator": "credential credential-624f4ab7a3e96d4c1b871da0-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fd92c0f8af54fc29274a",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "locator": "credential credential-6283fd92c0f8af54fc29274a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AeronauticsandAstronautics-400.html#credential-63aa2fc0-9e42-4904-9c20-2b0886f10c76",
+      "sha256": "a1b40c196c20b3d67bdd42461b1af51e3343d5438302c5476481da9d938bb750",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-609aec50a72c.html",
+      "locator": "credential credential-63aa2fc0-9e42-4904-9c20-2b0886f10c76-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AmericanEthnicStudies-100.html#credential-290a8bbf-5147-47e0-964f-1f631b858eab",
+      "sha256": "8c94b06a074040168552f892b3c866bd9da924b17a087e6c7d4e925b44ebeb3d",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-15db8b1f1655.html",
+      "locator": "credential credential-290a8bbf-5147-47e0-964f-1f631b858eab-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AmericanIndianStudies-1015.html#credential-03d1d39c-6a5d-47f0-9358-4b1bfaa3ac62",
+      "sha256": "e4818dbd9d838c2162e24b68053303589313c70b228e9d9388f92feb148611ad",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a3fe88dab6fb.html",
+      "locator": "credential credential-03d1d39c-6a5d-47f0-9358-4b1bfaa3ac62-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-5a5e5a7c8249dd2e00d6d07c",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-5a5e5a7c8249dd2e00d6d07c-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-008019c3-2300-4dba-ae03-b6492b20b99e",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "locator": "credential credential-008019c3-2300-4dba-ae03-b6492b20b99e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-8b2b92c5-8e6d-41b2-96e9-30378a258677",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "locator": "credential credential-8b2b92c5-8e6d-41b2-96e9-30378a258677-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-607f210209917bf05e2cd3ce",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "locator": "credential credential-607f210209917bf05e2cd3ce-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-60e7743209fe055be777d74a",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "locator": "credential credential-60e7743209fe055be777d74a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-5c4793d80c55252400b11b49",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "locator": "credential credential-5c4793d80c55252400b11b49-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-60e773ce535b40f724aec04d",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "locator": "credential credential-60e773ce535b40f724aec04d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-607f222af69503804f6d92fc",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "locator": "credential credential-607f222af69503804f6d92fc-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-607f1f9309917b82e42cd3aa",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "locator": "credential credential-607f1f9309917b82e42cd3aa-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Anthropology-102.html#credential-60e7745b09fe05a22e77d751",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "locator": "credential credential-60e7745b09fe05a22e77d751-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AppliedandComputationalMathSciences-994.html#credential-67e1c469f30b814dcb572f9e",
+      "sha256": "9e20c21065b90c0430a48308e9d9d63c9ef12e21b3879e5a1e4b25929071f808",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4885e760e8ea.html",
+      "locator": "credential credential-67e1c469f30b814dcb572f9e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AppliedandComputationalMathSciences-994.html#credential-67e1c54c4addce96354a60e1",
+      "sha256": "9e20c21065b90c0430a48308e9d9d63c9ef12e21b3879e5a1e4b25929071f808",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4885e760e8ea.html",
+      "locator": "credential credential-67e1c54c4addce96354a60e1-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AppliedandComputationalMathSciences-994.html#credential-67e1c5c0de6651d3985542d2",
+      "sha256": "9e20c21065b90c0430a48308e9d9d63c9ef12e21b3879e5a1e4b25929071f808",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4885e760e8ea.html",
+      "locator": "credential credential-67e1c5c0de6651d3985542d2-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AppliedandComputationalMathSciences-994.html#credential-67e1c58f223c2c2a10978169",
+      "sha256": "9e20c21065b90c0430a48308e9d9d63c9ef12e21b3879e5a1e4b25929071f808",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4885e760e8ea.html",
+      "locator": "credential credential-67e1c58f223c2c2a10978169-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AppliedMathematics-208.html#credential-625df2939267f6cb4d8853eb",
+      "sha256": "1ff4a5c4e8dddb9f97796a233be4e617c257afa55e5cbd47a6f0a4db8c50d790",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-480ff7def8e0.html",
+      "locator": "credential credential-625df2939267f6cb4d8853eb-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AppliedMathematics-208.html#credential-6506187f06656faedfb5e11a",
+      "sha256": "1ff4a5c4e8dddb9f97796a233be4e617c257afa55e5cbd47a6f0a4db8c50d790",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-480ff7def8e0.html",
+      "locator": "credential credential-6506187f06656faedfb5e11a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofAquaticandFisherySciences-1078.html#credential-681a73babcce14c94e925170",
+      "sha256": "5122a331b51276643272176791826c30eca6c4ed9e4cf451cac1cd703073f05c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-18c5f90086e2.html",
+      "locator": "credential credential-681a73babcce14c94e925170-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Architecture-51.html#credential-b79f9246-25d4-4e34-bf27-1eb923a77638",
+      "sha256": "ba88a3af202842f70eda0d690752eaec74ee5511d3cb7a905b53d51d0ede889a",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-21c0fce4156d.html",
+      "locator": "credential credential-b79f9246-25d4-4e34-bf27-1eb923a77638-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Architecture-51.html#credential-67c0c90374a56b9a125a0b1f",
+      "sha256": "ba88a3af202842f70eda0d690752eaec74ee5511d3cb7a905b53d51d0ede889a",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-21c0fce4156d.html",
+      "locator": "credential credential-67c0c90374a56b9a125a0b1f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Architecture-51.html#credential-6411eca08972e6ceaca976cd",
+      "sha256": "ba88a3af202842f70eda0d690752eaec74ee5511d3cb7a905b53d51d0ede889a",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-21c0fce4156d.html",
+      "locator": "credential credential-6411eca08972e6ceaca976cd-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-5fed0af62d034d002698d892",
+      "sha256": "192a82f4de9bf1e2446a47dcc7085848da7b51287a9e5dbc63a8a4682b779905",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0784f55c5536.html",
+      "locator": "credential credential-5fed0af62d034d002698d892-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-5babe1adce4b1d2e0035acf3",
+      "sha256": "192a82f4de9bf1e2446a47dcc7085848da7b51287a9e5dbc63a8a4682b779905",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0784f55c5536.html",
+      "locator": "credential credential-5babe1adce4b1d2e0035acf3-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-5aafecc94cf7ff2e007084b5",
+      "sha256": "d1f79bc6726db4e10dd20040a7cc8b5dfd0e322c65e4d81bb3e31e91f9fe2529",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0959744dd544.html",
+      "locator": "credential credential-5aafecc94cf7ff2e007084b5-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Astronomy-107.html#credential-357828ef-1aa0-45bc-a963-ba969273cb52",
+      "sha256": "0408146a74144f5f765b8531d46fe891ce7f3dc7ef30a4e1e67f271064a5e7a2",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-71820d0f9c43.html",
+      "locator": "credential credential-357828ef-1aa0-45bc-a963-ba969273cb52-block; containing program-UG block"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AtmosphericandClimateScience-1067.html#credential-66eb4e06c6df17f51df9a3ee",
+      "sha256": "547b66c4fda185687e23ccb6e9e819e424ca11ec3f755aa8f972d3c8483f38d4",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-482403ff8b54.html",
+      "locator": "credential credential-66eb4e06c6df17f51df9a3ee-block; containing program-UG block"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AtmosphericandClimateScience-1067.html#credential-66eb4f7fc6df171928f9a3fb",
+      "sha256": "547b66c4fda185687e23ccb6e9e819e424ca11ec3f755aa8f972d3c8483f38d4",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-482403ff8b54.html",
+      "locator": "credential credential-66eb4f7fc6df171928f9a3fb-block; containing program-UG block"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AtmosphericandClimateScience-1067.html#credential-66eb4be55e1578ddb9e20fcc",
+      "sha256": "547b66c4fda185687e23ccb6e9e819e424ca11ec3f755aa8f972d3c8483f38d4",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-482403ff8b54.html",
+      "locator": "credential credential-66eb4be55e1578ddb9e20fcc-block; containing program-UG block"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AtmosphericandClimateScience-1067.html#credential-66eb50075e15782e7ae20feb",
+      "sha256": "547b66c4fda185687e23ccb6e9e819e424ca11ec3f755aa8f972d3c8483f38d4",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-482403ff8b54.html",
+      "locator": "credential credential-66eb50075e15782e7ae20feb-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-65de3f5b3b1280f65c14a80f",
+      "sha256": "fcd0f0364ebc4dd624a2684955c7a3de38b4fd1582d154d603183c7587e8efc5",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-debb34504fa8.html",
+      "locator": "credential credential-65de3f5b3b1280f65c14a80f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-65de3f6f248712fc80e34d70",
+      "sha256": "fcd0f0364ebc4dd624a2684955c7a3de38b4fd1582d154d603183c7587e8efc5",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-debb34504fa8.html",
+      "locator": "credential credential-65de3f6f248712fc80e34d70-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Bioengineering-745.html#credential-626c4006a7f8943f13ec3512",
+      "sha256": "9d725e057c8bd288cc69a462661ed5f4307ce45b846a714c75a1b322b5cc8e4f",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7869cdfe650e.html",
+      "locator": "credential credential-626c4006a7f8943f13ec3512-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Bioengineering-745.html#credential-626c40897c40fde8282c5769",
+      "sha256": "9d725e057c8bd288cc69a462661ed5f4307ce45b846a714c75a1b322b5cc8e4f",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7869cdfe650e.html",
+      "locator": "credential credential-626c40897c40fde8282c5769-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Bioengineering-745.html#credential-67ae2b31743d9f9765120387",
+      "sha256": "9d725e057c8bd288cc69a462661ed5f4307ce45b846a714c75a1b322b5cc8e4f",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7869cdfe650e.html",
+      "locator": "credential credential-67ae2b31743d9f9765120387-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Biology-112.html#credential-67b63a1f2fed08357f4244c1",
+      "sha256": "38617840faebe1f41da6fd6515b544a935c18e28410dbab65ce41668ded9c4b6",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-8cd9fb9ddaf4.html",
+      "locator": "credential credential-67b63a1f2fed08357f4244c1-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Biology-112.html#credential-67b634422fed08357f4187f1",
+      "sha256": "38617840faebe1f41da6fd6515b544a935c18e28410dbab65ce41668ded9c4b6",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-8cd9fb9ddaf4.html",
+      "locator": "credential credential-67b634422fed08357f4187f1-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fdddf6447f45c95dffa5",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "locator": "credential credential-6283fdddf6447f45c95dffa5-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ChemicalEngineering-402.html#credential-63bf3befa83deb582d6d4df8",
+      "sha256": "efdb1810b897623c9433694b8f91abd83482ae93b8892502c9cb9366cda00718",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fac2bf41d3f2.html",
+      "locator": "credential credential-63bf3befa83deb582d6d4df8-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ChemicalEngineering-402.html#credential-63c07896240232bb4e763658",
+      "sha256": "efdb1810b897623c9433694b8f91abd83482ae93b8892502c9cb9366cda00718",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fac2bf41d3f2.html",
+      "locator": "credential credential-63c07896240232bb4e763658-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-673d14852c84cd89aaee9eb4",
+      "sha256": "fcd0f0364ebc4dd624a2684955c7a3de38b4fd1582d154d603183c7587e8efc5",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-debb34504fa8.html",
+      "locator": "credential credential-673d14852c84cd89aaee9eb4-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-673d145abad10bcbbb765a8e",
+      "sha256": "fcd0f0364ebc4dd624a2684955c7a3de38b4fd1582d154d603183c7587e8efc5",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-debb34504fa8.html",
+      "locator": "credential credential-673d145abad10bcbbb765a8e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Chemistry-117.html#credential-673d14127d587199260a29f9",
+      "sha256": "fcd0f0364ebc4dd624a2684955c7a3de38b4fd1582d154d603183c7587e8efc5",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-debb34504fa8.html",
+      "locator": "credential credential-673d14127d587199260a29f9-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-2cebb662-0295-45d2-860b-6fa4a86b7c42",
+      "sha256": "d1f79bc6726db4e10dd20040a7cc8b5dfd0e322c65e4d81bb3e31e91f9fe2529",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0959744dd544.html",
+      "locator": "credential credential-2cebb662-0295-45d2-860b-6fa4a86b7c42-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CinemaandMediaStudies-132.html#credential-5a00ab0ef652f10100b24e07",
+      "sha256": "d1bb853d8904cae6e6d8b3b0d8901e24b677a3ff814b1eeed8a34cc348b2600b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e1843141755e.html",
+      "locator": "credential credential-5a00ab0ef652f10100b24e07-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CivilandEnvironmentalEngineering-403.html#credential-47bb6cd3-e3f2-44c4-89ed-1e6349c53e88",
+      "sha256": "adbd0e6c3ff1cd06e4f9e5904dd046813140c6254819f65f2d2f336f28301a0e",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bb71d672e1d2.html",
+      "locator": "credential credential-47bb6cd3-e3f2-44c4-89ed-1e6349c53e88-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Classics-118.html#credential-ea1fd256-0c72-4dfd-91fc-440130a293be",
+      "sha256": "4212d525882023842ac54756909d378ee2354a188a6b086722f513fd3d86df19",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-10b300129145.html",
+      "locator": "credential credential-ea1fd256-0c72-4dfd-91fc-440130a293be-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Classics-118.html#credential-14ecac65-f181-42ff-a8ae-434b74e1063e",
+      "sha256": "4212d525882023842ac54756909d378ee2354a188a6b086722f513fd3d86df19",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-10b300129145.html",
+      "locator": "credential credential-14ecac65-f181-42ff-a8ae-434b74e1063e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/FamilyMedicine-949.html#credential-5ace32c7dc96ad2e00883876",
+      "sha256": "0f49d9a2bf6558620b4ae3f6e29bd5403b76c46c7970fe738c40e2378bb5bb80",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ce4b72a7a808.html",
+      "locator": "credential credential-5ace32c7dc96ad2e00883876-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Communication-1035.html#credential-60414917f10b3ebc884f13b4",
+      "sha256": "2ec72b3148d9d70671bd0ec36843b7a3a6db1a5565fcfd4f5d3a48419cd3782d",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b49591201e25.html",
+      "locator": "credential credential-60414917f10b3ebc884f13b4-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Communication-1035.html#credential-691bf045192320144aef51de",
+      "sha256": "2ec72b3148d9d70671bd0ec36843b7a3a6db1a5565fcfd4f5d3a48419cd3782d",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b49591201e25.html",
+      "locator": "credential credential-691bf045192320144aef51de-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/UrbanDesignandPlanning-50.html#credential-a84420ed-2858-4460-97f8-735051436300",
+      "sha256": "ae29be04a315ae4a67f1b7e38a453bd3bcc598554af39c7875df635dd570b74a",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e7dfea866d57.html",
+      "locator": "credential credential-a84420ed-2858-4460-97f8-735051436300-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ComparativeHistoryofIdeas-202.html#credential-cf4498be-e737-4653-86c7-395be858e4af",
+      "sha256": "53eedf7279d0fc6831bf764f4f4357108e15ebe4c3ceef41187e830490ab35fe",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0e815c39b054.html",
+      "locator": "credential credential-cf4498be-e737-4653-86c7-395be858e4af-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CinemaandMediaStudies-132.html#credential-7ba890b1-5985-499b-8d22-f5c52c31d1c3",
+      "sha256": "d1bb853d8904cae6e6d8b3b0d8901e24b677a3ff814b1eeed8a34cc348b2600b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e1843141755e.html",
+      "locator": "credential credential-7ba890b1-5985-499b-8d22-f5c52c31d1c3-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CinemaandMediaStudies-132.html#credential-d83678af-bef1-48a0-b7ec-27964bf770f5",
+      "sha256": "d1bb853d8904cae6e6d8b3b0d8901e24b677a3ff814b1eeed8a34cc348b2600b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e1843141755e.html",
+      "locator": "credential credential-d83678af-bef1-48a0-b7ec-27964bf770f5-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-b2c253e0-8b94-4e17-bcba-88d081e4384f",
+      "sha256": "c79d75212b1be67be398f5300ff62d3fa03ea84a156982ae804e131782b3d93c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bdf6b10c15fd.html",
+      "locator": "credential credential-b2c253e0-8b94-4e17-bcba-88d081e4384f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-37970112-9cc0-49ff-bf6d-5bb9dd83015a",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-37970112-9cc0-49ff-bf6d-5bb9dd83015a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AppliedMathematics-208.html#credential-6385443808da7813dc8a07bf",
+      "sha256": "1ff4a5c4e8dddb9f97796a233be4e617c257afa55e5cbd47a6f0a4db8c50d790",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-480ff7def8e0.html",
+      "locator": "credential credential-6385443808da7813dc8a07bf-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AppliedMathematics-208.html#credential-65060a524f9b675f794cb118",
+      "sha256": "1ff4a5c4e8dddb9f97796a233be4e617c257afa55e5cbd47a6f0a4db8c50d790",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-480ff7def8e0.html",
+      "locator": "credential credential-65060a524f9b675f794cb118-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ComputerScienceandEngineering-406.html#credential-a1b757d5-a897-4704-a576-7419e1bed8c3",
+      "sha256": "2f90dbd6430ca6cc00d31e2fb903658e6df512cc613907e7072afc590a834e21",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7a245c9554bb.html",
+      "locator": "credential credential-a1b757d5-a897-4704-a576-7419e1bed8c3-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ComputerScience-210.html#credential-282f765e-0bf9-45db-80f7-1738b8ce7862",
+      "sha256": "fc3d2161078c3418088eaecbd3bbd243272e71fd2a9c46b973e45ffa40c02010",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-c66f407164e1.html",
+      "locator": "credential credential-282f765e-0bf9-45db-80f7-1738b8ce7862-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ComputerScience-210.html#credential-67dd818d0c792892baf0e37d",
+      "sha256": "fc3d2161078c3418088eaecbd3bbd243272e71fd2a9c46b973e45ffa40c02010",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-c66f407164e1.html",
+      "locator": "credential credential-67dd818d0c792892baf0e37d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ConstructionManagement-52.html#credential-67a54f6ddb9f54dbcb074751",
+      "sha256": "a64efac45ed893000dde1bc1da4aeb0ede5113d16ead06134d9209a19e50a5ef",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-38dcadb7f03e.html",
+      "locator": "credential credential-67a54f6ddb9f54dbcb074751-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ConstructionManagement-52.html#credential-94fe1f8d-bc57-4602-b4ef-d10f775d45b5",
+      "sha256": "a64efac45ed893000dde1bc1da4aeb0ede5113d16ead06134d9209a19e50a5ef",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-38dcadb7f03e.html",
+      "locator": "credential credential-94fe1f8d-bc57-4602-b4ef-d10f775d45b5-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Dance-133.html#credential-60b927e9bcc770338fb5ecab",
+      "sha256": "c57cb46f786f373f294c8f424178b845558f2aaef79deceace690df41b062985",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-852612e6cf13.html",
+      "locator": "credential credential-60b927e9bcc770338fb5ecab-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-a2df6a61-eaac-4751-b157-97666154c12a",
+      "sha256": "5bc7d6a9544b9c2f75d34df99ab078036eaf11f0dc4b003a7a55361c9e1bfb5b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b5e25344c517.html",
+      "locator": "credential credential-a2df6a61-eaac-4751-b157-97666154c12a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Drama-134.html#credential-609d60f513141c05a3bb6c48",
+      "sha256": "dc18c275fcbbfe54f7b62daebe8c7295539243dbc135ac430a10bb9005ed27fa",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-9ee3a672a342.html",
+      "locator": "credential credential-609d60f513141c05a3bb6c48-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Drama-134.html#credential-609d64142271da38091ab356",
+      "sha256": "dc18c275fcbbfe54f7b62daebe8c7295539243dbc135ac430a10bb9005ed27fa",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-9ee3a672a342.html",
+      "locator": "credential credential-609d64142271da38091ab356-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Drama-134.html#credential-609d62ac13141c15f1bb6c5a",
+      "sha256": "dc18c275fcbbfe54f7b62daebe8c7295539243dbc135ac430a10bb9005ed27fa",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-9ee3a672a342.html",
+      "locator": "credential credential-609d62ac13141c15f1bb6c5a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-652f07414de74e0c693b2b75",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-652f07414de74e0c693b2b75-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-5ff38aef1d041f0027edff9e",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-5ff38aef1d041f0027edff9e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-6529858babf94f5612b6eab4",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-6529858babf94f5612b6eab4-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-68f7c3da50d0bdac75a7f83b",
+      "sha256": "390ebb2362bf572fdb00b9278ba1b55547cf4ebb9cf706666657c908a4b84400",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3987bc7a2916.html",
+      "locator": "credential credential-68f7c3da50d0bdac75a7f83b-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-d9fdd733-535c-4cfb-8235-4ab223f53853",
+      "sha256": "390ebb2362bf572fdb00b9278ba1b55547cf4ebb9cf706666657c908a4b84400",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3987bc7a2916.html",
+      "locator": "credential credential-d9fdd733-535c-4cfb-8235-4ab223f53853-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-7a86f242-b274-4087-80b0-0315ca31444d",
+      "sha256": "390ebb2362bf572fdb00b9278ba1b55547cf4ebb9cf706666657c908a4b84400",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3987bc7a2916.html",
+      "locator": "credential credential-7a86f242-b274-4087-80b0-0315ca31444d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-5e8ba2ef7fbacb2500c1eb64",
+      "sha256": "390ebb2362bf572fdb00b9278ba1b55547cf4ebb9cf706666657c908a4b84400",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3987bc7a2916.html",
+      "locator": "credential credential-5e8ba2ef7fbacb2500c1eb64-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html#credential-57511a34-1f84-42da-8335-f128a060d0ad",
+      "sha256": "390ebb2362bf572fdb00b9278ba1b55547cf4ebb9cf706666657c908a4b84400",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3987bc7a2916.html",
+      "locator": "credential credential-57511a34-1f84-42da-8335-f128a060d0ad-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SlavicLanguagesandLiteratures-163.html#credential-81ba8595-b5ad-404f-afee-5247c4472051",
+      "sha256": "fc073959c7ee6b741d9dc89aec95b69332b4b093007b46ff6e3774019609b70c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-42d3a2fb3410.html",
+      "locator": "credential credential-81ba8595-b5ad-404f-afee-5247c4472051-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Economics-135.html#credential-675208ccda118fa0680bc88a",
+      "sha256": "671eb8e2a6753506b2a60e47e0791181220266cf35af3a5eb7c8250ebd844ef1",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-28c2f20cbffc.html",
+      "locator": "credential credential-675208ccda118fa0680bc88a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Economics-135.html#credential-6751ebf9708446ca275f27e3",
+      "sha256": "671eb8e2a6753506b2a60e47e0791181220266cf35af3a5eb7c8250ebd844ef1",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-28c2f20cbffc.html",
+      "locator": "credential credential-6751ebf9708446ca275f27e3-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Economics-135.html#credential-6737c98ea269d097a4b82313",
+      "sha256": "671eb8e2a6753506b2a60e47e0791181220266cf35af3a5eb7c8250ebd844ef1",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-28c2f20cbffc.html",
+      "locator": "credential credential-6737c98ea269d097a4b82313-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Economics-135.html#credential-675201073972fae43e5f68da",
+      "sha256": "671eb8e2a6753506b2a60e47e0791181220266cf35af3a5eb7c8250ebd844ef1",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-28c2f20cbffc.html",
+      "locator": "credential credential-675201073972fae43e5f68da-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Economics-135.html#credential-675224d73c8b5e6260e80040",
+      "sha256": "671eb8e2a6753506b2a60e47e0791181220266cf35af3a5eb7c8250ebd844ef1",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-28c2f20cbffc.html",
+      "locator": "credential credential-675224d73c8b5e6260e80040-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Economics-135.html#credential-6751f9663c8b5e6260e40608",
+      "sha256": "671eb8e2a6753506b2a60e47e0791181220266cf35af3a5eb7c8250ebd844ef1",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-28c2f20cbffc.html",
+      "locator": "credential credential-6751f9663c8b5e6260e40608-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-6529875c06990865c8238b32",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-6529875c06990865c8238b32-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-64d254efdd5ce4dd309ca01f",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-64d254efdd5ce4dd309ca01f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-623a53651b598458bf7a4bce",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-623a53651b598458bf7a4bce-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-67d1edbdd4f159d57973055e",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-67d1edbdd4f159d57973055e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-623a54100f967190043404a7",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-623a54100f967190043404a7-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-661d68dddac3fe4223a46980",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-661d68dddac3fe4223a46980-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-655d38b3a167835aa1be5527",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-655d38b3a167835aa1be5527-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CollegeofEducation-351.html#credential-5657a443-fd9b-4a2b-9c42-277b73d50e2a",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "locator": "credential credential-5657a443-fd9b-4a2b-9c42-277b73d50e2a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ElectricalandComputerEngineering-410.html#credential-626aa2f30c8a3982bf0d93b9",
+      "sha256": "14b2ec6b3c7c404c0f72d10ff595d94a406352e62d6b935f77dcb08905943579",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-28c7ed8dbdbb.html",
+      "locator": "credential credential-626aa2f30c8a3982bf0d93b9-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Engineering-412.html#credential-79bb0eed-fe3d-4227-b95f-f3598a8e5c63",
+      "sha256": "85e5b09a50122cdd7c3c495758861abdb6becf102e10cba868ced09e25a604ad",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-be63a5e2c3b8.html",
+      "locator": "credential credential-79bb0eed-fe3d-4227-b95f-f3598a8e5c63-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Engineering-412.html#credential-cd162a11-1b4f-4347-855d-d5d76d6ffa93",
+      "sha256": "85e5b09a50122cdd7c3c495758861abdb6becf102e10cba868ced09e25a604ad",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-be63a5e2c3b8.html",
+      "locator": "credential credential-cd162a11-1b4f-4347-855d-d5d76d6ffa93-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/English-136.html#credential-60da28b443ece933920e072a",
+      "sha256": "747a93b9270da97f501ca72788f75ea64f16df8fb919bc45614356c33ba8601c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b93ad5a66de8.html",
+      "locator": "credential credential-60da28b443ece933920e072a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/English-136.html#credential-60da334718f1462104c572bb",
+      "sha256": "747a93b9270da97f501ca72788f75ea64f16df8fb919bc45614356c33ba8601c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b93ad5a66de8.html",
+      "locator": "credential credential-60da334718f1462104c572bb-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fa9118cdefc9bf9468fc",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "locator": "credential credential-6283fa9118cdefc9bf9468fc-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/LandscapeArchitecture-53.html#credential-6882bab455e4077cd70e8a9c",
+      "sha256": "d764c49ae4acb88f8f7f0bbd65e618dd091bbc2590e669af6b491d88c68b153d",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-1be70f9325df.html",
+      "locator": "credential credential-6882bab455e4077cd70e8a9c-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/CivilandEnvironmentalEngineering-403.html#credential-5aaffbde7967682e00b03fa2",
+      "sha256": "adbd0e6c3ff1cd06e4f9e5904dd046813140c6254819f65f2d2f336f28301a0e",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bb71d672e1d2.html",
+      "locator": "credential credential-5aaffbde7967682e00b03fa2-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/EnvironmentalandOccupationalHealthSciences-702.html#credential-6411f810de38b27e0ee5a62a",
+      "sha256": "5c09587300cf3658c381697004d6b73bdfc6bc04ea188d94c9fa9049683d0fa9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-f5d5a05d9ee2.html",
+      "locator": "credential credential-6411f810de38b27e0ee5a62a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55e817048ba49afa3b419",
+      "sha256": "90e4e87954b660db5be3c88bab2d4821e85e161d279dc30ed395f6b279226997",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-457e56bb3d3f.html",
+      "locator": "credential credential-67a55e817048ba49afa3b419-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55df399e12e33bd4d9122",
+      "sha256": "90e4e87954b660db5be3c88bab2d4821e85e161d279dc30ed395f6b279226997",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-457e56bb3d3f.html",
+      "locator": "credential credential-67a55df399e12e33bd4d9122-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55dd9be16b40e8c8e0ac0",
+      "sha256": "90e4e87954b660db5be3c88bab2d4821e85e161d279dc30ed395f6b279226997",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-457e56bb3d3f.html",
+      "locator": "credential credential-67a55dd9be16b40e8c8e0ac0-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55e5a7048ba49afa3b2a8",
+      "sha256": "90e4e87954b660db5be3c88bab2d4821e85e161d279dc30ed395f6b279226997",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-457e56bb3d3f.html",
+      "locator": "credential credential-67a55e5a7048ba49afa3b2a8-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-67a55e3e3cafd1c671693b30",
+      "sha256": "90e4e87954b660db5be3c88bab2d4821e85e161d279dc30ed395f6b279226997",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-457e56bb3d3f.html",
+      "locator": "credential credential-67a55e3e3cafd1c671693b30-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ProgramontheEnvironment-1070.html#credential-65a801c3d273caf536fd4bf3",
+      "sha256": "a8e8d8e206945dfb79817720bf76d89145f84f2653dc3d08c1a362c73f62a1fc",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d85f2ec0e3a3.html",
+      "locator": "credential credential-65a801c3d273caf536fd4bf3-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-ad97b590-e083-4f79-8b7c-202f43d1fc26",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-ad97b590-e083-4f79-8b7c-202f43d1fc26-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fcb8f6447fbbe65dff99",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "locator": "credential credential-6283fcb8f6447fbbe65dff99-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-87a742e1-0a9b-49dd-b0cd-d44d7dd6fc96",
+      "sha256": "5bc7d6a9544b9c2f75d34df99ab078036eaf11f0dc4b003a7a55361c9e1bfb5b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b5e25344c517.html",
+      "locator": "credential credential-87a742e1-0a9b-49dd-b0cd-d44d7dd6fc96-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-695ec6f3fad7d90c6577a274",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "locator": "credential credential-695ec6f3fad7d90c6577a274-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-695ec10f75806148198581eb",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "locator": "credential credential-695ec10f75806148198581eb-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/FrenchandItalianStudies-1102.html#credential-66f8a1b2-3a67-4f79-ac53-a7b95a02731d",
+      "sha256": "1a23f53fb7498ad7bd918a0facddae1bf3c0147496a657129b7d6fb09144b418",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-42b83cb0b044.html",
+      "locator": "credential credential-66f8a1b2-3a67-4f79-ac53-a7b95a02731d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Gender,Women,andSexualityStudies-298.html#credential-7e6a0f53-ec90-4757-b655-e3f1c6a90cc2",
+      "sha256": "923e542b9479f10df87a067d9fec7bf68026b1b85a1f392c25723f1752ab304b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-33960a91f9fc.html",
+      "locator": "credential credential-7e6a0f53-ec90-4757-b655-e3f1c6a90cc2-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Geography-188.html#credential-63ec288ebdc9a3b56900bc22",
+      "sha256": "9acdbeb197991e95301b0667cfaf433e10a2e727c5219215363154beea5b0c5c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e6016f9bd705.html",
+      "locator": "credential credential-63ec288ebdc9a3b56900bc22-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Geography-188.html#credential-622f8a931175434f7055f609",
+      "sha256": "9acdbeb197991e95301b0667cfaf433e10a2e727c5219215363154beea5b0c5c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e6016f9bd705.html",
+      "locator": "credential credential-622f8a931175434f7055f609-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/GermanStudies-192.html#credential-648ccc6507151c500d2a8e5c",
+      "sha256": "b7441d021befd36d90a5b19d00bc7c86eaeee37735f6dc6749ac1b53ffcc888c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ef1670f7548a.html",
+      "locator": "credential credential-648ccc6507151c500d2a8e5c-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/GermanStudies-192.html#credential-60883f05859180137bcc9a0f",
+      "sha256": "b7441d021befd36d90a5b19d00bc7c86eaeee37735f6dc6749ac1b53ffcc888c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ef1670f7548a.html",
+      "locator": "credential credential-60883f05859180137bcc9a0f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SlavicLanguagesandLiteratures-163.html#credential-63508310d553995b1b646e67",
+      "sha256": "fc073959c7ee6b741d9dc89aec95b69332b4b093007b46ff6e3774019609b70c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-42d3a2fb3410.html",
+      "locator": "credential credential-63508310d553995b1b646e67-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Classics-118.html#credential-a5ccc7be-0896-4cf3-986f-59c5fbb14bdc",
+      "sha256": "4212d525882023842ac54756909d378ee2354a188a6b086722f513fd3d86df19",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-10b300129145.html",
+      "locator": "credential credential-a5ccc7be-0896-4cf3-986f-59c5fbb14bdc-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-63a4f749581ca3a6ad878567",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-63a4f749581ca3a6ad878567-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-600a22ee969868002748acc9",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "locator": "credential credential-600a22ee969868002748acc9-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/History-193.html#credential-62547132-e2c0-48eb-9c31-60c68cdc6a4e",
+      "sha256": "09799eecefa86bc24e5c259e6dd549f3c402f600850e8caa377b7a8f19fe48fa",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-774bcf2ec0c9.html",
+      "locator": "credential credential-62547132-e2c0-48eb-9c31-60c68cdc6a4e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Philosophy-221.html#credential-ba523be7-b017-4b17-89e9-ca723aff663c",
+      "sha256": "4b7970c6d356ad63d74bc0bc27b516c1d9355b6aa6c6949f710b372356b40ba0",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-2fbdb60436bf.html",
+      "locator": "credential credential-ba523be7-b017-4b17-89e9-ca723aff663c-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/History-193.html#credential-7393abc1-8186-48ea-ad42-5b7b47db470a",
+      "sha256": "09799eecefa86bc24e5c259e6dd549f3c402f600850e8caa377b7a8f19fe48fa",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-774bcf2ec0c9.html",
+      "locator": "credential credential-7393abc1-8186-48ea-ad42-5b7b47db470a-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/History-193.html#credential-99d398f0-b14b-4aa8-85e8-2f02b856342f",
+      "sha256": "09799eecefa86bc24e5c259e6dd549f3c402f600850e8caa377b7a8f19fe48fa",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-774bcf2ec0c9.html",
+      "locator": "credential credential-99d398f0-b14b-4aa8-85e8-2f02b856342f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/History-193.html#credential-91ad0f2f-93ff-4c6a-8a1f-395bdf7a2fab",
+      "sha256": "09799eecefa86bc24e5c259e6dd549f3c402f600850e8caa377b7a8f19fe48fa",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-774bcf2ec0c9.html",
+      "locator": "credential credential-91ad0f2f-93ff-4c6a-8a1f-395bdf7a2fab-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/History-193.html#credential-ac52f377-b323-4b03-ade8-e6128eb821d6",
+      "sha256": "09799eecefa86bc24e5c259e6dd549f3c402f600850e8caa377b7a8f19fe48fa",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-774bcf2ec0c9.html",
+      "locator": "credential credential-ac52f377-b323-4b03-ade8-e6128eb821d6-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/HumanCenteredDesignandEngineering-438.html#credential-6849b51c083f2e2d4a0ca1fd",
+      "sha256": "2b8b8e1cb3e2a7fd0eab3a63bfc939a02c0b4b7573e2a539143e7aa387dfc093",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-c6306f1a7b6c.html",
+      "locator": "credential credential-6849b51c083f2e2d4a0ca1fd-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/HumanCenteredDesignandEngineering-438.html#credential-67afdc59664deb1040c6d012",
+      "sha256": "2b8b8e1cb3e2a7fd0eab3a63bfc939a02c0b4b7573e2a539143e7aa387dfc093",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-c6306f1a7b6c.html",
+      "locator": "credential credential-67afdc59664deb1040c6d012-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Business-300.html#credential-676dd4365772f18cb3a8f838",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "locator": "credential credential-676dd4365772f18cb3a8f838-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/GeneralStudies-185.html#credential-b3a4228b-3c5b-488a-9323-a0a12d7deb42",
+      "sha256": "6891773369f8aeac63362290c442667fd98a2b083e7df8920cf9dd2923fd7068",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d0497766f16f.html",
+      "locator": "credential credential-b3a4228b-3c5b-488a-9323-a0a12d7deb42-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/GeneralStudies-185.html#credential-fb49304b-4d1a-41e0-94cb-756ab416ca96",
+      "sha256": "6891773369f8aeac63362290c442667fd98a2b083e7df8920cf9dd2923fd7068",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d0497766f16f.html",
+      "locator": "credential credential-fb49304b-4d1a-41e0-94cb-756ab416ca96-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-63acb70416ef9977f4d8a69c",
+      "sha256": "192a82f4de9bf1e2446a47dcc7085848da7b51287a9e5dbc63a8a4682b779905",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0784f55c5536.html",
+      "locator": "credential credential-63acb70416ef9977f4d8a69c-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/IndustrialandSystemsEngineering-418.html#credential-60342896d315b8002779a1e5",
+      "sha256": "19876f9241d9413a261e99247444c3ceedfb8a632ac5480fd038115a7335e74e",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0f9899421008.html",
+      "locator": "credential credential-60342896d315b8002779a1e5-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/IndustrialandSystemsEngineering-418.html#credential-626c48ec1977aa120f1d37eb",
+      "sha256": "19876f9241d9413a261e99247444c3ceedfb8a632ac5480fd038115a7335e74e",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0f9899421008.html",
+      "locator": "credential credential-626c48ec1977aa120f1d37eb-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/TheInformationSchool-671.html#credential-639a5b18b1079f2bc0e67bda",
+      "sha256": "aead38693fc50344fa2b0674cc6932e8a2821c6d3dd69fd49dcf0d2783751fa6",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ce8def9fc4c6.html",
+      "locator": "credential credential-639a5b18b1079f2bc0e67bda-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/TheInformationSchool-671.html#credential-610c59f63456c92714529c7f",
+      "sha256": "aead38693fc50344fa2b0674cc6932e8a2821c6d3dd69fd49dcf0d2783751fa6",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ce8def9fc4c6.html",
+      "locator": "credential credential-610c59f63456c92714529c7f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/TheInformationSchool-671.html#credential-6764b131ea56b6d733800b8b",
+      "sha256": "aead38693fc50344fa2b0674cc6932e8a2821c6d3dd69fd49dcf0d2783751fa6",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ce8def9fc4c6.html",
+      "locator": "credential credential-6764b131ea56b6d733800b8b-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fb8af6447f1ac35dff8e",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "locator": "credential credential-6283fb8af6447f1ac35dff8e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/IntegratedSocialSciences-125.html#credential-d13b349c-ff2d-4520-b8ff-87401b2f99a7",
+      "sha256": "76d5f43ab262a5ed339f543fed68b44b7539cc8a96212696cd45f189bdd44f98",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bcc9d479686d.html",
+      "locator": "credential credential-d13b349c-ff2d-4520-b8ff-87401b2f99a7-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-63acd5bb16ef99af3dd8a750",
+      "sha256": "192a82f4de9bf1e2446a47dcc7085848da7b51287a9e5dbc63a8a4682b779905",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0784f55c5536.html",
+      "locator": "credential credential-63acd5bb16ef99af3dd8a750-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-65efa1da23330124f5b9f8b0",
+      "sha256": "c79d75212b1be67be398f5300ff62d3fa03ea84a156982ae804e131782b3d93c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bdf6b10c15fd.html",
+      "locator": "credential credential-65efa1da23330124f5b9f8b0-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-3de9e354-feff-4386-b164-15ad1dc4664d",
+      "sha256": "c79d75212b1be67be398f5300ff62d3fa03ea84a156982ae804e131782b3d93c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bdf6b10c15fd.html",
+      "locator": "credential credential-3de9e354-feff-4386-b164-15ad1dc4664d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-aee18906-122b-4160-8007-a1d7a61c0eb1",
+      "sha256": "c79d75212b1be67be398f5300ff62d3fa03ea84a156982ae804e131782b3d93c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bdf6b10c15fd.html",
+      "locator": "credential credential-aee18906-122b-4160-8007-a1d7a61c0eb1-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-5fd3bfc3e9f12600287fc73b",
+      "sha256": "c79d75212b1be67be398f5300ff62d3fa03ea84a156982ae804e131782b3d93c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bdf6b10c15fd.html",
+      "locator": "credential credential-5fd3bfc3e9f12600287fc73b-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-f6f02d1c-b6f8-4565-ba26-e90c57f72ced",
+      "sha256": "c79d75212b1be67be398f5300ff62d3fa03ea84a156982ae804e131782b3d93c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bdf6b10c15fd.html",
+      "locator": "credential credential-f6f02d1c-b6f8-4565-ba26-e90c57f72ced-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html#credential-de5ae307-66fe-4109-baa1-8df5deecc0cf",
+      "sha256": "c79d75212b1be67be398f5300ff62d3fa03ea84a156982ae804e131782b3d93c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bdf6b10c15fd.html",
+      "locator": "credential credential-de5ae307-66fe-4109-baa1-8df5deecc0cf-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/FrenchandItalianStudies-1102.html#credential-7960565b-cbef-4971-8247-db224aeaaff9",
+      "sha256": "1a23f53fb7498ad7bd918a0facddae1bf3c0147496a657129b7d6fb09144b418",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-42b83cb0b044.html",
+      "locator": "credential credential-7960565b-cbef-4971-8247-db224aeaaff9-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-0aab95a6-7106-4eba-9c2f-1c48e1bf4252",
+      "sha256": "d1f79bc6726db4e10dd20040a7cc8b5dfd0e322c65e4d81bb3e31e91f9fe2529",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0959744dd544.html",
+      "locator": "credential credential-0aab95a6-7106-4eba-9c2f-1c48e1bf4252-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-63a4f14f28059dd62d166caa",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-63a4f14f28059dd62d166caa-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-ccb6b9dd-879a-4aa3-a0a8-7727f1b4382e",
+      "sha256": "d1f79bc6726db4e10dd20040a7cc8b5dfd0e322c65e4d81bb3e31e91f9fe2529",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0959744dd544.html",
+      "locator": "credential credential-ccb6b9dd-879a-4aa3-a0a8-7727f1b4382e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/LandscapeArchitecture-53.html#credential-6078dddbe5ffc09fa25582d4",
+      "sha256": "d764c49ae4acb88f8f7f0bbd65e618dd091bbc2590e669af6b491d88c68b153d",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-1be70f9325df.html",
+      "locator": "credential credential-6078dddbe5ffc09fa25582d4-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Classics-118.html#credential-37f79c92-2393-4662-a91a-600e5115bd16",
+      "sha256": "4212d525882023842ac54756909d378ee2354a188a6b086722f513fd3d86df19",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-10b300129145.html",
+      "locator": "credential credential-37f79c92-2393-4662-a91a-600e5115bd16-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Law,Societies,andJustice-1057.html#credential-ca7affb4-2aa2-4802-99f6-5b321b64d641",
+      "sha256": "e85df0b5b9ab7249b288b3994c9b2be2bf7287f08e2e00ded6e06031a3d8082f",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-58373118e8b8.html",
+      "locator": "credential credential-ca7affb4-2aa2-4802-99f6-5b321b64d641-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Linguistics-203.html#credential-572bd5d6-ed0e-4057-a68d-d67de31c2e76",
+      "sha256": "ff466134d3874bf32e751f25cb911eb6fa96aa97baa2ede271a97a348b710bea",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-05024422e0c5.html",
+      "locator": "credential credential-572bd5d6-ed0e-4057-a68d-d67de31c2e76-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/MarineBiology-1112.html#credential-5ae37b111e62de2e009bc198",
+      "sha256": "977113b827c358b95d47d85cd9bfd73c4ab3bdfcc1e2f25f9944f3767b8d9e1a",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a8a80d164d3a.html",
+      "locator": "credential credential-5ae37b111e62de2e009bc198-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Business-300.html#credential-63925a6d915688593801b5dc",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "locator": "credential credential-63925a6d915688593801b5dc-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/MaterialsScienceandEngineering-423.html#credential-65cbb4cbc8d08035c91a30d0",
+      "sha256": "d67ca19dd41495fb55212e2367b8167a8b46aef34cb1b13ba201d1380be9465b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-32c8d0968264.html",
+      "locator": "credential credential-65cbb4cbc8d08035c91a30d0-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/MaterialsScienceandEngineering-423.html#credential-645d59e2d5bf3bd1babcbebd",
+      "sha256": "d67ca19dd41495fb55212e2367b8167a8b46aef34cb1b13ba201d1380be9465b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-32c8d0968264.html",
+      "locator": "credential credential-645d59e2d5bf3bd1babcbebd-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Mathematics-206.html#credential-6851a0e84d04ffd9606d3268",
+      "sha256": "a19f70f4234d9c7a9f8f8d9726e7332be59020d821f30f3e6e600919224e627b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a9f173184d64.html",
+      "locator": "credential credential-6851a0e84d04ffd9606d3268-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Mathematics-206.html#credential-68519fd4072fc5a80cd26a48",
+      "sha256": "a19f70f4234d9c7a9f8f8d9726e7332be59020d821f30f3e6e600919224e627b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a9f173184d64.html",
+      "locator": "credential credential-68519fd4072fc5a80cd26a48-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Mathematics-206.html#credential-6851a15747556783ffe0eb4c",
+      "sha256": "a19f70f4234d9c7a9f8f8d9726e7332be59020d821f30f3e6e600919224e627b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a9f173184d64.html",
+      "locator": "credential credential-6851a15747556783ffe0eb4c-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Mathematics-206.html#credential-67ed8374c59a067a8f095eaf",
+      "sha256": "a19f70f4234d9c7a9f8f8d9726e7332be59020d821f30f3e6e600919224e627b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a9f173184d64.html",
+      "locator": "credential credential-67ed8374c59a067a8f095eaf-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/MechanicalEngineering-419.html#credential-d2bc625a-f5f7-4ef8-8a9f-d7292bc5d8bf",
+      "sha256": "942bba20cbc885f2832615b7b32427c100085f7db32736504318f49e0198bffb",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7365bef7b104.html",
+      "locator": "credential credential-d2bc625a-f5f7-4ef8-8a9f-d7292bc5d8bf-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/MechanicalEngineering-419.html#credential-5a57a68904d453010010586f",
+      "sha256": "942bba20cbc885f2832615b7b32427c100085f7db32736504318f49e0198bffb",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7365bef7b104.html",
+      "locator": "credential credential-5a57a68904d453010010586f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/MechanicalEngineering-419.html#credential-60f7279b1190ea5b70031d90",
+      "sha256": "942bba20cbc885f2832615b7b32427c100085f7db32736504318f49e0198bffb",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7365bef7b104.html",
+      "locator": "credential credential-60f7279b1190ea5b70031d90-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/LaboratoryMedicineandPathology-1123.html#credential-5fecd3492d034d002698d83e",
+      "sha256": "64ca2b997693b159dc4fabd5973e94d537f6899d9994e0c014def44206941269",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4201a28b8fc2.html",
+      "locator": "credential credential-5fecd3492d034d002698d83e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Microbiology-216.html#credential-85ddac45-6fb9-4f16-933e-1a6c724c9c83",
+      "sha256": "c36682faec8a3c09dd007b86ed0125591cee81f3ae228959bfdb1f178a3d5aa5",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-6001842547b5.html",
+      "locator": "credential credential-85ddac45-6fb9-4f16-933e-1a6c724c9c83-block; containing program-UG block"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MiddleEasternLanguagesandCultures-123.html#credential-63acb9a0aeda1718f9f3544c",
+      "sha256": "baae77bf64eca5e2925125c5d281c7818c06a8323847118628873ec29fe6d3cc",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-056f198f7bab.html",
+      "locator": "credential credential-63acb9a0aeda1718f9f3544c-block; containing program-UG block"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MiddleEasternLanguagesandCultures-123.html#credential-63acb7a9db37b15cda255ac0",
+      "sha256": "baae77bf64eca5e2925125c5d281c7818c06a8323847118628873ec29fe6d3cc",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-056f198f7bab.html",
+      "locator": "credential credential-63acb7a9db37b15cda255ac0-block; containing program-UG block"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MiddleEasternLanguagesandCultures-123.html#credential-63acb48cdb37b13fd4255aad",
+      "sha256": "baae77bf64eca5e2925125c5d281c7818c06a8323847118628873ec29fe6d3cc",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-056f198f7bab.html",
+      "locator": "credential credential-63acb48cdb37b13fd4255aad-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-2eb35bdc-bfb6-40cc-8e74-9b74db0665db",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-2eb35bdc-bfb6-40cc-8e74-9b74db0665db-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-bbb1b399-58dd-480b-9c4d-60ec0e2817ec",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-bbb1b399-58dd-480b-9c4d-60ec0e2817ec-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-baa0c8ef-5bfd-4052-bf1e-6f5f30c9fa11",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-baa0c8ef-5bfd-4052-bf1e-6f5f30c9fa11-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-47830959-38b0-4513-9462-a9e9e381862b",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-47830959-38b0-4513-9462-a9e9e381862b-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-c07858d4-8e60-44c8-beef-30c210465e86",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-c07858d4-8e60-44c8-beef-30c210465e86-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-97fa7541-de24-4022-b508-b7d217042df9",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-97fa7541-de24-4022-b508-b7d217042df9-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Neuroscience-1018.html#credential-f7857767-21a6-4357-8eb1-aaf46e2dddd6",
+      "sha256": "6a9d7bdb86e524896419f60b80260b7fb23977cf36c6f6c00810caf107762287",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-1663c07d88d5.html",
+      "locator": "credential credential-f7857767-21a6-4357-8eb1-aaf46e2dddd6-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-8049c039-f685-4cef-b475-9ecece852da2",
+      "sha256": "5bc7d6a9544b9c2f75d34df99ab078036eaf11f0dc4b003a7a55361c9e1bfb5b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b5e25344c517.html",
+      "locator": "credential credential-8049c039-f685-4cef-b475-9ecece852da2-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Nursing-552.html#credential-6671c0a8e3e4f1365b7b4cae",
+      "sha256": "4d23af44a286c44fa7fa985958516f8670d7d0c2186aefc3dcfd41a781753a7d",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0b34ee2c0ca7.html",
+      "locator": "credential credential-6671c0a8e3e4f1365b7b4cae-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Nursing-552.html#credential-6671c3f6a13ac17558fa8d32",
+      "sha256": "4d23af44a286c44fa7fa985958516f8670d7d0c2186aefc3dcfd41a781753a7d",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0b34ee2c0ca7.html",
+      "locator": "credential credential-6671c3f6a13ac17558fa8d32-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofOceanography-1077.html#credential-69010768465efd0560a81a8f",
+      "sha256": "de2e3960a87792673486e45170a0a7ea55354fd4a121e9fed05315462c3308e2",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-91aa85076176.html",
+      "locator": "credential credential-69010768465efd0560a81a8f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofOceanography-1077.html#credential-69011fd8ea5c2904e192f533",
+      "sha256": "de2e3960a87792673486e45170a0a7ea55354fd4a121e9fed05315462c3308e2",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-91aa85076176.html",
+      "locator": "credential credential-69011fd8ea5c2904e192f533-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Business-300.html#credential-6283fc652cf11bc1c3621f72",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "locator": "credential credential-6283fc652cf11bc1c3621f72-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-34bb71a0-4249-4651-ae2b-5ec49aecdc7f",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-34bb71a0-4249-4651-ae2b-5ec49aecdc7f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-69e75b07-4cbd-40ab-b0d7-1dc911b354ff",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-69e75b07-4cbd-40ab-b0d7-1dc911b354ff-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-63a4f6dd8400e8cee50951ff",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-63a4f6dd8400e8cee50951ff-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Philosophy-221.html#credential-bb3d1eb1-5da8-4e82-b76a-f8ad86d7870d",
+      "sha256": "4b7970c6d356ad63d74bc0bc27b516c1d9355b6aa6c6949f710b372356b40ba0",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-2fbdb60436bf.html",
+      "locator": "credential credential-bb3d1eb1-5da8-4e82-b76a-f8ad86d7870d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Philosophy-221.html#credential-5dced2c349deed2400cc9c25",
+      "sha256": "4b7970c6d356ad63d74bc0bc27b516c1d9355b6aa6c6949f710b372356b40ba0",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-2fbdb60436bf.html",
+      "locator": "credential credential-5dced2c349deed2400cc9c25-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Physics-239.html#credential-6011ed3c2c20dc002750ff3f",
+      "sha256": "3c71d3adbd81ff8e381a94e602127703f0b1b3cfd4d68cec31c77f83844ec174",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7798732199ef.html",
+      "locator": "credential credential-6011ed3c2c20dc002750ff3f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Physics-239.html#credential-6011f668c1372c0026298628",
+      "sha256": "3c71d3adbd81ff8e381a94e602127703f0b1b3cfd4d68cec31c77f83844ec174",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7798732199ef.html",
+      "locator": "credential credential-6011f668c1372c0026298628-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Physics-239.html#credential-6011fcf78842e00027cfd3d5",
+      "sha256": "3c71d3adbd81ff8e381a94e602127703f0b1b3cfd4d68cec31c77f83844ec174",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7798732199ef.html",
+      "locator": "credential credential-6011fcf78842e00027cfd3d5-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Physics-239.html#credential-6011ff068842e00027cfe05e",
+      "sha256": "3c71d3adbd81ff8e381a94e602127703f0b1b3cfd4d68cec31c77f83844ec174",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7798732199ef.html",
+      "locator": "credential credential-6011ff068842e00027cfe05e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-226f56ce-cc6f-4041-8107-2044676d838d",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-226f56ce-cc6f-4041-8107-2044676d838d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/PoliticalScience-244.html#credential-38d04ece-620a-4803-94ab-1e92e0a6268d",
+      "sha256": "0af5979c59cb348f676798e66abb699ddf5df81ccc2bc5d04b71842e2ee008c3",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e30645ee250c.html",
+      "locator": "credential credential-38d04ece-620a-4803-94ab-1e92e0a6268d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/PoliticalScience-244.html#credential-7650b4b8-6192-49f7-b044-4550b7d79c8e",
+      "sha256": "0af5979c59cb348f676798e66abb699ddf5df81ccc2bc5d04b71842e2ee008c3",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e30645ee250c.html",
+      "locator": "credential credential-7650b4b8-6192-49f7-b044-4550b7d79c8e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/PoliticalScience-244.html#credential-efd418eb-2cc3-4433-90c2-8ecd0ce2ae2e",
+      "sha256": "0af5979c59cb348f676798e66abb699ddf5df81ccc2bc5d04b71842e2ee008c3",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e30645ee250c.html",
+      "locator": "credential credential-efd418eb-2cc3-4433-90c2-8ecd0ce2ae2e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Psychology-262.html#credential-6009ecab76cd360027b94288",
+      "sha256": "a9fb9ce049ae66f417e8e9422be57ffc10f8c0a4e8cfe53a5172ab631aece6df",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-314bfe42f823.html",
+      "locator": "credential credential-6009ecab76cd360027b94288-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Psychology-262.html#credential-6513009879ab98885d1c322d",
+      "sha256": "a9fb9ce049ae66f417e8e9422be57ffc10f8c0a4e8cfe53a5172ab631aece6df",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-314bfe42f823.html",
+      "locator": "credential credential-6513009879ab98885d1c322d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-64949516660eee2ef01931f0",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "locator": "credential credential-64949516660eee2ef01931f0-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-649486de660eee2be51930d3",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "locator": "credential credential-649486de660eee2be51930d3-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-64949165750cbb297bcc9249",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "locator": "credential credential-64949165750cbb297bcc9249-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-64949711309b80266d1ed494",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "locator": "credential credential-64949711309b80266d1ed494-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-64949601d3a4e16bc8d9ee4f",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "locator": "credential credential-64949601d3a4e16bc8d9ee4f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-6494935d96abd71130483e08",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "locator": "credential credential-6494935d96abd71130483e08-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/PublicPolicyandGovernance-770.html#credential-67d34bb05d7813efef078283",
+      "sha256": "a5c53913994417f7707ca4c61188387f443167e368918ee7234ff17f113ab987",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-f1ff38dc8ed8.html",
+      "locator": "credential credential-67d34bb05d7813efef078283-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/RealEstate-54.html#credential-5f04955a4d49ee0026470810",
+      "sha256": "5cedf15f666d9fc0f76027fea975334ce2bd28984b45f1d6ceeb48cd7eb4a269",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b6cbeb401e24.html",
+      "locator": "credential credential-5f04955a4d49ee0026470810-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Linguistics-203.html#credential-ca76e28e-2c02-40fb-a64a-6dd6856595a4",
+      "sha256": "ff466134d3874bf32e751f25cb911eb6fa96aa97baa2ede271a97a348b710bea",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-05024422e0c5.html",
+      "locator": "credential credential-ca76e28e-2c02-40fb-a64a-6dd6856595a4-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SlavicLanguagesandLiteratures-163.html#credential-cff0fb2e-db41-4ce0-9094-1595ebdaaf69",
+      "sha256": "fc073959c7ee6b741d9dc89aec95b69332b4b093007b46ff6e3774019609b70c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-42d3a2fb3410.html",
+      "locator": "credential credential-cff0fb2e-db41-4ce0-9094-1595ebdaaf69-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-69e030f8-206e-46fe-8e6c-bb51d87ff4b7",
+      "sha256": "5bc7d6a9544b9c2f75d34df99ab078036eaf11f0dc4b003a7a55361c9e1bfb5b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b5e25344c517.html",
+      "locator": "credential credential-69e030f8-206e-46fe-8e6c-bb51d87ff4b7-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SocialWork-779.html#credential-684b026afab5d1d135be9f8c",
+      "sha256": "ed7e53b3506ae4a3c1839e82197af01d537a6b22ec2a4756a420a2449badb22f",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7ea0ba23e37a.html",
+      "locator": "credential credential-684b026afab5d1d135be9f8c-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Sociology-293.html#credential-d2036843-fca6-475c-81e6-6b4c468910b1",
+      "sha256": "7309ffe181405e8a155a766d2b0339cb07f321dc240d4c95d30ca1391ce2143c",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7578554b5a25.html",
+      "locator": "credential credential-d2036843-fca6-475c-81e6-6b4c468910b1-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html#credential-63ac8df07f36324df7b35225",
+      "sha256": "d1f79bc6726db4e10dd20040a7cc8b5dfd0e322c65e4d81bb3e31e91f9fe2529",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0959744dd544.html",
+      "locator": "credential credential-63ac8df07f36324df7b35225-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SpanishandPortugueseStudies-1103.html#credential-b22850fd-d850-4c4c-b7bf-3e3cb191785b",
+      "sha256": "5e455c6ffcd9ae8ef93a19b5bef615e915f93128adb026396d16ca7b76d8cd96",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-be21849aa019.html",
+      "locator": "credential credential-b22850fd-d850-4c4c-b7bf-3e3cb191785b-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SpeechandHearingSciences-296.html#credential-aff6c898-216a-43bb-a936-feeb950cae33",
+      "sha256": "7172167c0a0671e34d155634585f0bb82de6f904579b875d275880c343c983ca",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4fb66200d567.html",
+      "locator": "credential credential-aff6c898-216a-43bb-a936-feeb950cae33-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SpeechandHearingSciences-296.html#credential-fb96920b-7eeb-48a2-aeb9-ad862213ef2f",
+      "sha256": "7172167c0a0671e34d155634585f0bb82de6f904579b875d275880c343c983ca",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4fb66200d567.html",
+      "locator": "credential credential-fb96920b-7eeb-48a2-aeb9-ad862213ef2f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SpeechandHearingSciences-296.html#credential-5c814ab8dc76f12400307c6e",
+      "sha256": "7172167c0a0671e34d155634585f0bb82de6f904579b875d275880c343c983ca",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4fb66200d567.html",
+      "locator": "credential credential-5c814ab8dc76f12400307c6e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Statistics-294.html#credential-6361e9f116e38306a8670590",
+      "sha256": "be3197fec7165df310cab6d5cacffe9a1fc87e931f94d5d5d6c8fb68b522b821",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-41152ca6e004.html",
+      "locator": "credential credential-6361e9f116e38306a8670590-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Statistics-294.html#credential-6361e4a486d3ba05c2823692",
+      "sha256": "be3197fec7165df310cab6d5cacffe9a1fc87e931f94d5d5d6c8fb68b522b821",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-41152ca6e004.html",
+      "locator": "credential credential-6361e4a486d3ba05c2823692-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Statistics-294.html#credential-63618eb67315992389acec0e",
+      "sha256": "be3197fec7165df310cab6d5cacffe9a1fc87e931f94d5d5d6c8fb68b522b821",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-41152ca6e004.html",
+      "locator": "credential credential-63618eb67315992389acec0e-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-379cc175-27b2-4514-9b20-420420c8784d",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-379cc175-27b2-4514-9b20-420420c8784d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html#credential-6539752a6e384e60825ade9f",
+      "sha256": "90e4e87954b660db5be3c88bab2d4821e85e161d279dc30ed395f6b279226997",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-457e56bb3d3f.html",
+      "locator": "credential credential-6539752a6e384e60825ade9f-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/ScandinavianStudies-281.html#credential-7a881da4-bc69-49a0-b4c9-cbfe4291f13d",
+      "sha256": "5bc7d6a9544b9c2f75d34df99ab078036eaf11f0dc4b003a7a55361c9e1bfb5b",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b5e25344c517.html",
+      "locator": "credential credential-7a881da4-bc69-49a0-b4c9-cbfe4291f13d-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html#credential-63ac98e0db37b1354d255a18",
+      "sha256": "192a82f4de9bf1e2446a47dcc7085848da7b51287a9e5dbc63a8a4682b779905",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0784f55c5536.html",
+      "locator": "credential credential-63ac98e0db37b1354d255a18-block; containing program-UG block"
+    },
+    {
+      "url": "https://uw.edu/students/gencat/program/S/Music-217.html#credential-538ffe78-9fe6-4751-ba81-e50dcb44642a",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "locator": "credential credential-538ffe78-9fe6-4751-ba81-e50dcb44642a-block; containing program-UG block"
+    }
+  ]
+}

@@ -1,0 +1,743 @@
+{
+  "university_id": "northwestern",
+  "sources": [
+    {
+      "url": "https://admissions.northwestern.edu/apply/identities/international.html",
+      "sha256": "1c32dd65502e93270f9c1baeabec278802f8444b9cace2dcebca990061c579a6",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/northwestern/international-guide.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.northwestern.edu/faqs/international-applicants/index.html",
+      "sha256": "968d1bce87deec04873b68e2ddc8a87e4b8169308cd57968fd80bcdc78c2ff5e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/northwestern/international-faq.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.northwestern.edu/apply/application-options.html",
+      "sha256": "1663eeee54a031dc74a3b8038ec95a8ce84e15f582a1a938b7992c0aa9c55e18",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/northwestern/dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.northwestern.edu/apply/requirements.html",
+      "sha256": "ed041596758cf420b9cd32882efc7776ffc749a1e03a85195c9015b04b68df8b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/northwestern/requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.northwestern.edu/sfs/tuition/undergraduate/",
+      "sha256": "54adf561014c2b94e625a7b8d2f8b3eb76340b01d64646d81224d4e55d193fb7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/northwestern/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://news.northwestern.edu/stories/2026/05/northwestern-sets-tuition-and-fees-for-2026-2027-academic-year",
+      "sha256": "d0294547fc610cfd18575913c51f128e97e75fe27ca2132e609913a250724e0f",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/northwestern/fees-news.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/african-studies/african-studies-adjunct-major/",
+      "sha256": "b3059a64e180442dd8e6d2d4ff259ad775b7becbee502ddac80a8cc4fde70657",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/af9d07968de8a24d8edb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/american-studies/american-studies-major/",
+      "sha256": "a5bbe6df19352c3e7af37aa1f8839b2d63a35dcf3f9df449b38befa46e9afb0a",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/12dcf7e2015625460eba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/anthropology/anthropology-major/",
+      "sha256": "5ad7732ec5f003ae15a74e0f7838b9e7867e3018f4385cdd98297302bc97a6fd",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/15856b31ff9b2d27edb6.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/engineering-sciences-applied-mathematics/applied-mathematics-degree/",
+      "sha256": "7015a7b0dd71e876a6d06842dd1d6ea6684509530681d098dba9e72bc6a1152c",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/26d3b2a6b9849c6fed88.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/art-history/art-history-major/",
+      "sha256": "c1558296f900fc01c2d8bbb422ba370e8bea3f9c2bc6c3de979867f38794ffd5",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/23fc65330dfa4443c9fb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/art-theory-practice/art-theory-practice-major/",
+      "sha256": "45d39362815bb18d0d2c40924e0d7cc2cd695e73d4c30da0462c5a09091ff496",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/35b62cbc21986e03743b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/artificial-intelligence/artificial-intelligence-second-major-mccormick/",
+      "sha256": "1d1db218d55fc8cd1c2edca9bb315514e1aeb4b6a17ddc426a1a4dad30dbf19d",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/8bb23ee0a6f44009e9cd.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/artificial-intelligence/artificial-intelligence-second-major-non-mccormick/",
+      "sha256": "c06b3dbcd5582f395e27d7fa310e20b9be05bad1a43087ce3578126388995e6e",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/52301075e45ef67166a4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/artificial-intelligence/artificial-intelligence-major/",
+      "sha256": "49c1dddb7feb71fea7fb4ac52d80f6c13ccedc7bc7a3ad7d2b92f2db87b9f2c1",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/c903fed1c1d2ca21bad7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/asian-american-studies/asian-american-studies-major/",
+      "sha256": "fe063c81660bb984592dc8c75e594c0129aa3e9d20f071531fb994dc8e07d4c6",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/401c5baab857e212d96f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/asian-languages-cultures/asian-languages-cultures-major/",
+      "sha256": "3ebc503f0a92c44748689e6e10c2441ae6a629f37728413e6dcea18f8206d42c",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/8f82c3aac0e3c2e8109f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/biological-sciences/biological-sciences-major/",
+      "sha256": "26f2ebd0681bf3b860b47f2d93bae4f847d461c339366325e0349afd8762c5d6",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/fcd33ef55d558fef10c4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/biological-sciences/biological-sciences-second-major-isp-students/",
+      "sha256": "62997dd9cbae017f99d05a3b3e7d11495fe2defe89b20082139989836e376f1f",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/a397a5bc9bfe6f72df4a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/biomedical-engineering/biomedical-engineering-degree/",
+      "sha256": "7744eee4897260a0e086131206347f2bc6aa434fecb5f4d08272d3a32e3072ed",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/bb52ca33da8623341501.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/black-studies/black-studies-major/",
+      "sha256": "3139495cad5101c7ec6edeb64c8aa2f119d2084aac10191f4e7623dca2d4669c",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/23eba29d11931996edfd.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/chemical-engineering/chemical-engineering-degree/",
+      "sha256": "eee46be975f2228e0a4e195fe3cb73502aeff033bb5db4461ed904a76c651410",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/0628e1af5cb0405ea8d4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/chemistry/chemistry-major/",
+      "sha256": "99c46478874ba8a3087d1fddacc30164052d782f063cc6fa99faf6984ff59dbd",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/5d1b4abfa1f6a2281de8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/chemistry/chemistry-second-major-isp-students/",
+      "sha256": "9169660ad8167c4eec271ee1e53735e25f777adcb79f45fe890e8dbb9dcff1a3",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/553aedf62109514d353a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/civil-environmental-engineering/civil-engineering-degree/",
+      "sha256": "c1a99b3e53b0c707da2b18c9d267b3fe042e97c8e615e5fe852fbd31baca63a7",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/4108321dd75b91dc5126.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/classics/classics-major/",
+      "sha256": "23b3bd45b5ead99ef7c3d7a5b1fb8dd77f2764c8d3bb154e90e71e1472596637",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/8a1fa5c7e5ac676d5037.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/cognitive-science/cognitive-science-major/",
+      "sha256": "bca1f95503182bae27d310b4fd10eb7c94f47a0874639c329eda4798dc73aaa5",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/b831883b7bb7358a65eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/communication/communication-studies/communication-studies-major/",
+      "sha256": "9b6e0f8c07d3f59d38b0f007404ef3f4f33330fa9937def21938f08ffeb69f82",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/1b6e46cb20cf370391b3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/comparative-literary-studies/comparative-literary-studies-major/",
+      "sha256": "caad769b52cd498049ef16ff72c933b641713397581ac16e992ad5e4dcc2cdcd",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/dc8e6fc121a9ca4e10e0.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/music-composition/music-composition-major/",
+      "sha256": "84fc69a05e979b9f88ce5d3a9f056ffe5defda7822e65d60c1a1dccd64a78927",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/bc14218352ffc6017282.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/electrical-computer-engineering/computer-engineering-degree/",
+      "sha256": "7313d40134da1e4993f4f314b16f3a1b89a45f81e1b5169536d74c71f03f92b2",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/d4abacfdcdcc09d4fbdb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/computer-science/computer-science-degree/",
+      "sha256": "997329493d4408ab325e7b468941c535438373225c09318c8a05dce7d5170cc3",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/56d994285eda0a364aa4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/computer-science/computer-science-major/",
+      "sha256": "756c507d1a389787c470cf6f505a5d77f81a5ff9b23e50029f071a30ea20a6e9",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/624968bcec154b56f38e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/computer-science/computer-science-second-major-isp/",
+      "sha256": "301c744fcfae318021c31e54495e9bebb427678dad652c08e171a5b35636c645",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/0b5c976d95e495df9108.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/english/creative-writing-major/",
+      "sha256": "bf93e5ad6c47790d4ba0d048a2e3f2693343d7984e7fb92ec956677421c46cb5",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/fbe7bfa3452d37820dba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/communication/theatre/dance-major/",
+      "sha256": "14621517ab9f1305ad85f8d7f4de2173b44a01a7290c9e6b2b692cb8d837bcd7",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/9c18a4ce4f0dd1e8c1d7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/statistics-data-science/data-science-major/",
+      "sha256": "e1be82b356bf662580d778984dc3157a135286b94711cb69e85bf54a68c5b3a8",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/643d24e16e60e21c2a7f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/earth-planetary-sciences/earth-and-planetary-sciences-major/",
+      "sha256": "71312b09c5f344d492d02d60d35bbf770506277bf0866848ce7781652fb5b435",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/7b8a83dd9580748858db.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/earth-planetary-sciences/earth-planetary-sciences-second-major-isp-students/",
+      "sha256": "116f90086830ffe0ff89878dec6d0bbec0ff0c0c01bad565a7c60c7c3916eb5c",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/939640afc7ba6e8131e1.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/economics/economics-major/",
+      "sha256": "7d79dd4ee49f846c0a40f54fa65590b3b4737321a2319b44d341ea5d66948f8c",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/950027d88b97ca2f8516.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/electrical-computer-engineering/electrical-engineering-degree/",
+      "sha256": "9dd8e227556b867c43a6e74b2b3263568aa9c7b4f16046374970a396b9d70fbe",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/7e3e0e3cfe262c53cbe3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/education-social-policy/elementary-teaching/elementary-teaching-major/",
+      "sha256": "cc595984c8f797e67f2d385b51a5a5be012791e849e12279ecbe8fcd6a27a68f",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/15883acb2e8b9d285378.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/english/english-literature-major/",
+      "sha256": "4c3037d5819c6aa15fbfe7cca1e24f7d2403ffba5aa764df08d69f82d988a989",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/3f3a4d6184020cedf345.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/civil-environmental-engineering/environmental-engineering-degree/",
+      "sha256": "c6af43833e875153b6dd8ad33d52c75d0a522515f414124fcbef5bc22ed87902",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/d06ef8b12db1394f209c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/environmental-policy-culture/environmental-policy-culture-adjunct-major/",
+      "sha256": "ad7836a29734171b43e11744ed5c822544894f638461c00e1c9dca5f83fc99ea",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/ff03d180735fa02dac07.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/environmental-sciences/environmental-sciences-major/",
+      "sha256": "add7d181e872713442950035a9a7c32bcb66111fc4ae6ae17b20b62ca1adbd63",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/c8613d67e78c07380ca2.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/environmental-sciences/environmental-sciences-second-major-isp-students/",
+      "sha256": "946be3cbaa2c6ce05acaaa84d9061c14978d3329e532750f965ae1fc1f638ca7",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/18a81029470307b25850.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/french-italian/french-major/",
+      "sha256": "176e161afdb42cd6f26797ead21a7afdf2f2ffa78eb39e20b792d121294e684b",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/b36084bae319f244449e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/gender-sexuality-studies/gender-sexuality-studies-major/",
+      "sha256": "d11498f96bdc356c70effc27a097051dfc51061e37295d52b82f5c935e41053a",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/1402f955977b5475ef0f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/german/german-major/",
+      "sha256": "9965168f6684f49887e0b81990ce72b28e5ecd9a4f5e2fedafca389f44ff136c",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/cae65cae3ae4681ba532.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/global-health-studies/global-health-studies-adjunct-major/",
+      "sha256": "f51774a083851a437511e57ad415cb8023d70bc1e94ff3ba03941ad06e457421",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/480c32de9947e64409cc.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/history/history-major/",
+      "sha256": "52f4685255a70e4dd95cd198cc7502a6f2cb7d351063871eecbbb8ea456dbefb",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/899f4d8ddd6c05a6c1f3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/communication/communication-sciences-disorders/human-communication-sciences-major/",
+      "sha256": "d1af7a6eac36d80b7f3b6655bb1cf7a2fcedab6b210382aa72e187c1ae070486",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/1cbc3725ed76392576b8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/education-social-policy/human-development-context/human-development-context-major/",
+      "sha256": "f37bc0fb75ae976f8b9860d02b0e158f87504cb3d993ee4b6e05293d03e47138",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/3dffe1a3f9889a8f676b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/industrial-engineering-management-sciences/industrial-engineering-degree/",
+      "sha256": "46fb72e0a1f1782f9a5a5156ba450ec26bc81be7c186eb200350d7c81122952b",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/b5ef09051ffcd743f36c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/integrated-science/integrated-science-major/",
+      "sha256": "fc867ecbd020ba816f8a9069e0d2e9f914ed92bcaaf7c7d26d1bcf0b5afc0da3",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/e13e34736f8977a77b6d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/international-studies/international-studies-adjunct-major/",
+      "sha256": "34f5f20f2aa4f225447ef6996120d1cfc10423ddca5202e73248866e92d1d6c7",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/b6916cde0d41f7029733.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/french-italian/italian-literature-culture-major/",
+      "sha256": "e782a9c5184cf463a06ed192fe4424d1fa36a4e1db73a13e275d054e75903353",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/170c6de3f00978a9e898.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/jazz/jazz-studies-major/",
+      "sha256": "4af40f9a491137296ff24ff265d3563641cf50d0978f1d853b89e6475d152d31",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/0e53ceee259d19e057a3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/jewish-studies/jewish-studies-major/",
+      "sha256": "c532c948476d896c1397167e92294b6d468f02c76407f7112a2fc21ac4e2a865",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/a6287ce1ce281e612f73.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/journalism-media-integrated-marketing-communications/journalism/journalism-degree/",
+      "sha256": "cc64c67cc70020a0a67c5683385949778a418c5ebc9a3698962019af46beb684",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/12983a894472b8adf563.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/latina-latino-studies/latina-latino-studies-major/",
+      "sha256": "3cf70571f11ebb0cc3ebde31702a3841a643f06c3967340c6d67d69d697bd9b2",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/68d8f9622066c7a203bf.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/education-social-policy/learning-organizational-change/learning-organizational-change-major/",
+      "sha256": "7d3f488147abf7e56d66766a2c26cf9c37428610d20f8a9be016d84c1dbb48e7",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/d812b76d3485e1ea6f33.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/education-social-policy/learning-sciences/learning-sciences-major/",
+      "sha256": "f7d6bb55b3762709786e9552c72dd340324387e088368f4d64b6aaee7c1390e3",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/5e975e90b70961e616ee.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/legal-studies/legal-studies-major/",
+      "sha256": "02f71a884d6efdd8aa2d0e5fd0e9b71c0ca21c031570a04e22ef7538b4213150",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/175a24ff2f62ee5724b3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/linguistics/linguistics-major/",
+      "sha256": "c631745f213f65527c5fad766cde5a6a6d17225345025d42da2dfdeceb41eb2d",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/5cd31cf0c19bd68c0b12.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/segal-design-institute/manufacturing-design-engineering-degree/",
+      "sha256": "be09f0184f54dfacb49f25bf23e98dd81ec8ad25fa4d1e7b0a94535e6f73a661",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/03c7c8c771a35dc1e4dd.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/materials-science-engineering/materials-science-engineering-degree/",
+      "sha256": "c0aab74a4987485d87406eacf65a5ab8460767fe15913b49b3b3b299ba8ad87d",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/ba7cf8a65af5640bb34c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/mathematics/mathematics-major/",
+      "sha256": "cf73c947b411c7dcf5e8a50654c6c6f9e97a91c59f949455448d66216ec54683",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/b0d2cfa28b7d73f2f33f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/mathematics/mathematics-second-major-isp-students/",
+      "sha256": "4470caa2b8d319b50a9b118169e5b6fc8a504e4f5a3cd243de85033433987770",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/a2a0d912b65c370b579a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/mathematics/mathematics-second-major-minor-mmss-students/",
+      "sha256": "8f52aded97ad75c940e6ca65d2c54e914457ee58b5ce600a4799330eeb31fc20",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/1291528b23b7a90fccc1.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/engineering-applied-science/mechanical-engineering/mechanical-engineering-degree/",
+      "sha256": "f9475565b8ab6213e62d653ba534ba3c0fe001f69e83047004f2a783aa97ce66",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/36e191ead5f6fb08e784.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/middle-east-north-african-studies/middle-east-north-african-studies-major/",
+      "sha256": "cab46896ccc3cc84d6b09e6e439493fe610e6b0f0a927742b45ec75dc241eabb",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/d5119dcec7050dbd3da7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/mathematical-methods-social-sciences/mmss-adjunct-major/",
+      "sha256": "6d80f60c320a630de0dfeb0014434468e346e29673922f75a5546e8e36e63f60",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/af3f86a8497934a82d91.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/music-theory-cognition/music-cognition-major/",
+      "sha256": "fedc3887b017df26c898a90b797e509d47f3e47ce8c3e5a0388a51bf165b22bc",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/1f9ff3343fdb3936c48c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/music-education/music-education-major/",
+      "sha256": "b994e285477c16aa684e9d93c4dd37566d64d69fdc1d59879b1feb4ab77f3140",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/3a7ac797c0ce6936a5bf.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/music-theory-cognition/music-theory-major/",
+      "sha256": "29de75e482b4e32419317459ec0561bf6543f004113d90620324086bbd0d6db2",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/cf43b715e1d4ff1335ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/musicology/musicology-major/",
+      "sha256": "c740b26fdef2c2d5b202dbc5cb2df19394540de543e15308193772ef769e07be",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/a96e9d82dfbbee244f86.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/neurobiology/neuroscience-major/",
+      "sha256": "f77664f42952ee813e542b0ee5b0b11fe7b51c2cc4ed9432b228ca63a3504c9f",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/c9f506f5d6da65ac04e7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/neurobiology/neuroscience-second-major-isp-students/",
+      "sha256": "6b01e4c91ce47cfb7806836d6bf084e3c6cf0d71830224b298fdd17dafaa8388",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/34ed7c037c90a0633f5f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/communication/performance-studies/performance-studies-major/",
+      "sha256": "a2f58f1389a4b2e5e30881a87c9becc2e6a181bc52e4e2ef06314fd6b9b4dde8",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/7dfcbf10c32a7e83abf3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/philosophy/philosophy-major/",
+      "sha256": "4fb270e7824c15dc266e5a8366066d274c5966461f479c46f76e4dff8394ce9f",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/e04ce41bc54063b0fe45.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/physics-astronomy/physics-major/",
+      "sha256": "d3dd63dcaf055044cd9a293b35851c32377185a15e8a83ffb89f63a59b7c30e1",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/932a8522c37c7ef92917.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/physics-astronomy/physics-second-major-isp-students/",
+      "sha256": "79bf0bef6c3ff0bf1813d1adce020cc8d0949ad5c67acc1913a61446d640e6a4",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/0d1eac365d58b9e7b100.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/piano/piano-major/",
+      "sha256": "8df48506a24d0654cabfd24c985de5eb75aaff64178fe1cb39e652b2b782eb0b",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/81564b086b00cc0e9c80.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/political-science/political-science-major/",
+      "sha256": "cecea2878de4f3c7f0f46ddef67f79b75690d0dd63003156d6cf3b788e4337dc",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/547fdc57fa829bb2d4fb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/psychology/psychology-major/",
+      "sha256": "7517a397bbf96964041f0d0fcc097b7716601e3df1bc93b80ee2be214f98539b",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/dd27dfa9a729f157448e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/communication/radio-television-film/radio-television-film-major/",
+      "sha256": "ce6da70fe12173b2869745a5686a3059b07a9523db4712d3428bf16263484372",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/26d367108fe1a9735fcf.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/religious-studies/religious-studies-major/",
+      "sha256": "9e843035a93c7be59fcb938a8596e4632ffc3ec2d9d40b6d3c60b7c25762b5e4",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/ef7802328ee912a5c340.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/science-human-culture/science-human-culture-adjunct-major/",
+      "sha256": "f22bef44eab0ff197978318078b30a4895100d0c17f2491f2c5cbef9d7d449b8",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/320655532f128e9acc62.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/education-social-policy/secondary-teaching/",
+      "sha256": "5db2b6cd0f125a0977f89f5a949a6dcf29c1793f3b92f130385d20eb6cce5467",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/58414022c79997bd78de.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/slavic-languages-literatures/slavic-languages-literatures-major/",
+      "sha256": "914dd520d7c80276d1f26e9842789aeb127fe1d4033aa4ea2ccb0ae24a2993bb",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/4f305a3aa71276d2e911.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/education-social-policy/social-policy/social-policy-major/",
+      "sha256": "e0f25a071acc7d12f086f443f9257e70a4701bf8fed1a5d5c7beb4c9e483d534",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/4cc0f68a71c144dacc48.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/sociology/sociology-major/",
+      "sha256": "bf1c7ea3ce730a0b084cfff38f3fe943a6c16150fe5deec695b03399a9849259",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/7f3419d414ac84828dc1.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/spanish-portuguese/spanish-major/",
+      "sha256": "2c46c81948040051c8440b616e5d38b48ffceaddaa6d720a153e9a91132a693b",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/b5c34fc2cc4c2ce587ef.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/arts-sciences/statistics-data-science/statistics-major/",
+      "sha256": "7db89a3c722aee6e04c40a26379837cbd0ac05d8ae1c803632165fc654fde54c",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/201bc9944c7b6ec4f7fc.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/string-instruments/string-instruments-major/",
+      "sha256": "eb9d11edd66b405dcb6ff407c781593afc1e0ba972f68e6fb005d28e1118d86a",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/715a1ef7c00177a01b16.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/communication/theatre/theatre-major/",
+      "sha256": "d3ceaf9870ce9e67028f6ac324aa8d3f4f539c6a88ea9b1eee52a321920ce4fe",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/8009ead3e5d5efcb7e65.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/voice-opera/voice-opera-major/",
+      "sha256": "45490df096b2aa88820d5364a3207e595b89ee1890bada40d5b3fccbbe5cea32",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/4658a21331477164ce0b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/music/winds-percussion-instruments/winds-percussion-instruments-major/",
+      "sha256": "5e390446af0aa4f84d3eca31bd1671000981ca63cc23358651a97aa12d4aa273",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/746a11bcd0641abdfa5d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/biological-sciences/biological-sciences-bsgs/",
+      "sha256": "4667d814ae808700535131516518f7c843807174e0e465132b0bef6ccc701ad0",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/cffaec313136288f7b8f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/communication-studies/communication-studies-bphil-com/",
+      "sha256": "5acb59f32bc5ad5b1bd6dfca37c0953bb1352229f7224832613130904e39bd4c",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/db99920fe0a50f61a1a8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/economics/economics-bphil/",
+      "sha256": "c7910c296138a364760aa0250f7b2a6fe88de6361f343c1df7601789c1598d19",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/4f0107711df7c8c2ea71.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/economics/economics-bsgs/",
+      "sha256": "d0676eca1b8f1f5e6ca36a3a32f62b1bb9c73a266cb9829a77838d37d5697815",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/9b87304776b7b0cc0333.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/english-writing/english-writing-bphil/",
+      "sha256": "1de6a23b4c67667c5c2910923003e0ebcce6c451fe197c3dc574baa7b0b0e2d9",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/a6e950c3c78fb4a58ce0.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/english-writing/english-writing-bsgs/",
+      "sha256": "4d1449473291c55b0d75f7a733c4ecf3919765607a4bc0172588e4773a02d08d",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/cd7f8b0bedbc68790610.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/enterprise-leadership/enterprise-leadership-bsel/",
+      "sha256": "22a917b46dcacb25f9c81b59a42cee0d749f0f4385002fc541badea9b761dd89",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/7aea6ebeacc1888835b6.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/health-sciences/health-sciences-bshs/",
+      "sha256": "046cee1dd4d75c98d4d40f97a2dedaf7a4be8c950cc1ba0b0a1d26599bdfea46",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/ba51254081f8a5bff684.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/humanities/humanities-bphil/",
+      "sha256": "5a59068e8df567147aaa2ad7b9bc71aceea63ff11a25db1683be038773e93f4b",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/3ef91b558dcc9c0ec45c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/humanities/humanities-bsgs/",
+      "sha256": "5e0cc4ee723db083ff1fe13175b9be714b94361ca741285fd13130680b30475d",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/1376797913ab91405341.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/information-systems/information-systems-bphil/",
+      "sha256": "54fd3bc757ea62859ff2298a5ed1c1e2887abbad9de7f3a8cd9f55782cfde04f",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/df7fa5eb4fc5240775b4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/information-systems/information-systems-bsis/",
+      "sha256": "0e7aa251c660296a09c0c71cbf292445f25336d37f25860450737fd83ff0c940",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/8229da355c02bf058f36.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/information-systems/information-systems-bsgs/",
+      "sha256": "1722e35c068c49c9c8441346def6fbbf1da34f878be53fdb596d17e152d77d18",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/81183263e47185fc7399.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/organization-behavior/organization-behavior-bphil/",
+      "sha256": "010e6edd9e7045ecfdd14ca5103842f52186ad3cf074438c398f6a018e452b28",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/71c5edbc0857f6bc1f00.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/organization-behavior/organization-behavior-bsgs/",
+      "sha256": "aa8a825d469abfcad989b17a802123e6674bd54fb236841733b165a87c98c07c",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/98da96acc7a5f00627b8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/psychology/psychology-bphil/",
+      "sha256": "691711cd5c95dfc13dd91fc8e6c15d7d4c9d386415c3b63507902eb7ee87e655",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/cd28113df6ccf63804cd.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/psychology/psychology-bsgs/",
+      "sha256": "3a7784838d3a4b27c52f2fbd483db0093a8a00e9b016d3db872e89592ff67ddc",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/aaba1acf32238d976686.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/social-sciences/social-sciences-bphil/",
+      "sha256": "66daa19202aa29f87173bd5260c808aff6bfd569b4e74d658e110d65db3944cf",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/89e60a0223e69ebb557a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/social-sciences/social-sciences-bsss/",
+      "sha256": "900a97d766e6fd8d4a7fca01ae1f15c5a977591cf5c3f3f40ef1e5eee9fdb462",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/ebae987100e397169ac3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/social-sciences/social-sciences-bsgs/",
+      "sha256": "6f9baf4c5093647c78456f1b6a68e851764a63330e782ddbc62940ee811c0ef0",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/bdaa87f0f7161670616d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/undergraduate/strategic-communication/strategic-communication-bscs/",
+      "sha256": "7a2e662acad5b56538e2116789028425c8c379e0596922ecbfbd01df060c6350",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/c25055e96fb58e7524b9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.northwestern.edu/academics/undergraduate/bs-communication.html",
+      "sha256": "08d2e50cffe1e552426ed374d3cc6312148f3c0494264eafcb6c0aba1190105e",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/580db9a090129c3295aa.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.qatar.northwestern.edu/academics/undergraduate/bs-journalism.html",
+      "sha256": "3edbb519ec606a3272f02b788fa9f793ebe9c22c228b476f675ff1d2d65d3e61",
+      "raw_file": "scratch/full-catalog/us-details/northwestern/758fad0268257bf12265.html",
+      "locator": null
+    }
+  ]
+}

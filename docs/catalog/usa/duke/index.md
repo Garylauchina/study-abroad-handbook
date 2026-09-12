@@ -23,83 +23,118 @@ hide:
 
 ## 专业与申请资料
 
-72 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+72 个专业条目 · 0 个含详细资料 · 72 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=duke#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-african-african-american-studies-680db695fc/">African &amp; African American Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-ancient-religion-and-society-interdepartmental-21255cf31a/">Ancient Religion and Society, Interdepartmental</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-art-history-31d5c35c24/">Art History</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-art-history-and-visual-arts-33fe75d432/">Art History and Visual Arts</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-asian-and-middle-eastern-studies-0753d420f5/">Asian and Middle Eastern Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biology-dd03d6fd39/">Biology</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biology-b71bae91bf/">Biology</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biomedical-engineering-ded9dd2a30/">Biomedical Engineering</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biophysics-fcc043bda3/">Biophysics</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biophysics-8e519cb4bc/">Biophysics</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-brazilian-and-global-portuguese-studies-20a0f3a6b5/">Brazilian and Global Portuguese Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-chemistry-b292a0778e/">Chemistry</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-chemistry-d662ccf5da/">Chemistry</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-civil-engineering-de620e3dcb/">Civil Engineering</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-classical-civilization-ce55f9db94/">Classical Civilization</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-classical-languages-693c5ced61/">Classical Languages</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-computational-media-interdepartmental-dd5a18d79c/">Computational Media, Interdepartmental</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-computer-science-1df4f1d8f2/">Computer Science</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-computer-science-9b8e55d4f4/">Computer Science</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-cultural-anthropology-fa049766e3/">Cultural Anthropology</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-dance-7a112108cc/">Dance</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-data-science-math-cs-interdepartmental-84ae667e93/">Data Science: Math+CS, Interdepartmental</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-data-science-sta-cs-interdepartmental-1be577bbec/">Data Science: STA+CS, Interdepartmental</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-earth-and-climate-sciences-b02b0b06c4/">Earth and Climate Sciences</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-earth-and-climate-sciences-3aabff5c23/">Earth and Climate Sciences</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-economics-195a64f6b0/">Economics</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-economics-6445d19690/">Economics</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-electrical-and-computer-engineering-f58912c08f/">Electrical and Computer Engineering</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-english-edc95d1693/">English</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-environmental-engineering-5066f0cf33/">Environmental Engineering</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-environmental-sciences-065a8826bf/">Environmental Sciences</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-environmental-sciences-and-policy-5a68e23a4c/">Environmental Sciences and Policy</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-evolutionary-anthropology-f8330ba246/">Evolutionary Anthropology</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-evolutionary-anthropology-db80dec841/">Evolutionary Anthropology</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-french-studies-eef7e73d04/">French Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-gender-sexuality-and-feminist-studies-af1f365986/">Gender, Sexuality, and Feminist Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-german-32545b3ab2/">German</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-global-culture-theory-in-the-literature-program-e8c51f7ac3/">Global Culture &amp; Theory in the Literature Program</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-global-health-75c7ec4d88/">Global Health</a><small>AB2 · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-history-caaa421b2b/">History</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-interdisciplinary-program-in-engineering-ideas-a525890423/">Interdisciplinary Program in Engineering (IDEAS)</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-international-comparative-studies-fed10499b0/">International Comparative Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-italian-studies-189e1e97d2/">Italian Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-linguistics-4d8aed291c/">Linguistics</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-linguistics-and-computer-science-interdepartmental-cf3eaa95e6/">Linguistics and Computer Science, Interdepartmental</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-marine-science-and-conservation-3a3c6c1d2e/">Marine Science and Conservation</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-marine-science-and-conservation-d40e658d3b/">Marine Science and Conservation</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-mathematics-68f7c8e2c5/">Mathematics</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-mathematics-a993c025c3/">Mathematics</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-mechanical-engineering-17359bec6c/">Mechanical Engineering</a><small>BSE · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-medieval-and-renaissance-studies-31ba46bd34/">Medieval and Renaissance Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-music-2230dd46c4/">Music</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-neuroscience-90bf7ba6e9/">Neuroscience</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-neuroscience-e008a44b41/">Neuroscience</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-philosophy-fabc00b3d9/">Philosophy</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-physics-546fa23336/">Physics</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-physics-09337e30b2/">Physics</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-political-science-0d5d0ef4b4/">Political Science</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-psychology-3cce01863a/">Psychology</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-psychology-fc10419f3a/">Psychology</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-public-policy-2ea4e05586/">Public Policy</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-religion-f69d37e7d9/">Religion</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-romance-studies-f1fbc6a1f5/">Romance Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-russian-cc40255f41/">Russian</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-slavic-and-eurasian-studies-1ec70e213d/">Slavic and Eurasian Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-sociology-4ed19ed956/">Sociology</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-spanish-c5a4ef41cd/">Spanish</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-statistical-science-9a333f19c2/">Statistical Science</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-statistical-science-db1a6bb866/">Statistical Science</a><small>BS · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-theater-studies-6289092698/">Theater Studies</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-visual-arts-d03cd1dd83/">Visual Arts</a><small>AB · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-visual-and-media-studies-62db0f5caf/">Visual and Media Studies</a><small>AB · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-african-african-american-studies-680db695fc/">African &amp; African American Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-ancient-religion-and-society-interdepartmental-21255cf31a/">Ancient Religion and Society, Interdepartmental</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-art-history-31d5c35c24/">Art History</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-art-history-and-visual-arts-33fe75d432/">Art History and Visual Arts</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-asian-and-middle-eastern-studies-0753d420f5/">Asian and Middle Eastern Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biology-dd03d6fd39/">Biology</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biology-b71bae91bf/">Biology</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biomedical-engineering-ded9dd2a30/">Biomedical Engineering</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biophysics-fcc043bda3/">Biophysics</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-biophysics-8e519cb4bc/">Biophysics</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-brazilian-and-global-portuguese-studies-20a0f3a6b5/">Brazilian and Global Portuguese Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-chemistry-b292a0778e/">Chemistry</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-chemistry-d662ccf5da/">Chemistry</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-civil-engineering-de620e3dcb/">Civil Engineering</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-classical-civilization-ce55f9db94/">Classical Civilization</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-classical-languages-693c5ced61/">Classical Languages</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-computational-media-interdepartmental-dd5a18d79c/">Computational Media, Interdepartmental</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-computer-science-1df4f1d8f2/">Computer Science</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-computer-science-9b8e55d4f4/">Computer Science</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-cultural-anthropology-fa049766e3/">Cultural Anthropology</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-dance-7a112108cc/">Dance</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-data-science-math-cs-interdepartmental-84ae667e93/">Data Science: Math+CS, Interdepartmental</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-data-science-sta-cs-interdepartmental-1be577bbec/">Data Science: STA+CS, Interdepartmental</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-earth-and-climate-sciences-b02b0b06c4/">Earth and Climate Sciences</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-earth-and-climate-sciences-3aabff5c23/">Earth and Climate Sciences</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-economics-195a64f6b0/">Economics</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-economics-6445d19690/">Economics</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-electrical-and-computer-engineering-f58912c08f/">Electrical and Computer Engineering</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-english-edc95d1693/">English</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-environmental-engineering-5066f0cf33/">Environmental Engineering</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-environmental-sciences-065a8826bf/">Environmental Sciences</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-environmental-sciences-and-policy-5a68e23a4c/">Environmental Sciences and Policy</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-evolutionary-anthropology-f8330ba246/">Evolutionary Anthropology</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-evolutionary-anthropology-db80dec841/">Evolutionary Anthropology</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-french-studies-eef7e73d04/">French Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-gender-sexuality-and-feminist-studies-af1f365986/">Gender, Sexuality, and Feminist Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-german-32545b3ab2/">German</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-global-culture-theory-in-the-literature-program-e8c51f7ac3/">Global Culture &amp; Theory in the Literature Program</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-global-health-75c7ec4d88/">Global Health</a><small>AB2 · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-history-caaa421b2b/">History</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-interdisciplinary-program-in-engineering-ideas-a525890423/">Interdisciplinary Program in Engineering (IDEAS)</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-international-comparative-studies-fed10499b0/">International Comparative Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-italian-studies-189e1e97d2/">Italian Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-linguistics-4d8aed291c/">Linguistics</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-linguistics-and-computer-science-interdepartmental-cf3eaa95e6/">Linguistics and Computer Science, Interdepartmental</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-marine-science-and-conservation-3a3c6c1d2e/">Marine Science and Conservation</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-marine-science-and-conservation-d40e658d3b/">Marine Science and Conservation</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-mathematics-68f7c8e2c5/">Mathematics</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-mathematics-a993c025c3/">Mathematics</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-mechanical-engineering-17359bec6c/">Mechanical Engineering</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-medieval-and-renaissance-studies-31ba46bd34/">Medieval and Renaissance Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-music-2230dd46c4/">Music</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-neuroscience-90bf7ba6e9/">Neuroscience</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-neuroscience-e008a44b41/">Neuroscience</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-philosophy-fabc00b3d9/">Philosophy</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-physics-546fa23336/">Physics</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-physics-09337e30b2/">Physics</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-political-science-0d5d0ef4b4/">Political Science</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-psychology-3cce01863a/">Psychology</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-psychology-fc10419f3a/">Psychology</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-public-policy-2ea4e05586/">Public Policy</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-religion-f69d37e7d9/">Religion</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-romance-studies-f1fbc6a1f5/">Romance Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-russian-cc40255f41/">Russian</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-slavic-and-eurasian-studies-1ec70e213d/">Slavic and Eurasian Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-sociology-4ed19ed956/">Sociology</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-spanish-c5a4ef41cd/">Spanish</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-statistical-science-9a333f19c2/">Statistical Science</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-statistical-science-db1a6bb866/">Statistical Science</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-theater-studies-6289092698/">Theater Studies</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-visual-arts-d03cd1dd83/">Visual Arts</a><small>AB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/duke/duke-visual-and-media-studies-62db0f5caf/">Visual and Media Studies</a><small>AB · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>学历材料与申请入口：</strong>国际生无独立申请表，普通新生使用 Common Application；需高中成绩、学校报告及教师推荐，非英语原文连同正式译本提交。须选择 Trinity 文理学院或 Pratt 工程学院；本轮未取得大陆高考统一分数线。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d3941f287db06e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026–27 标化与英语：</strong>2026–27申请周期 SAT/ACT 可选，国际生没有额外标化要求。英语测试不强制，但可自愿提交 IELTS、TOEFL、DET等认可测试；不能将建议分数误当所有人的必交门槛。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d3941f287db06e">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027 入学申请日期：</strong>官方明确 ED 截止2026-11-02，RD 截止2027-01-04。ED具有约束性；专业艺术补充材料和资金申请须另查清单。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c6ca7fa3690e22">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026/27 本科新生费用：</strong>年学费 USD73,740，估计必缴费用3,019；Pratt工程另收60。双人间住房11,560、餐食10,469，学校直接账单合计98,788–98,848。属2026/27新生预算，未作为2027新生报价。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-7ee41ef3677f2d">官方依据</a></p>
+
+<p class="catalog-fact"><strong>预算范围：</strong>书本、个人和交通另计。费用表的交通估算写明为美国境内，不能当中国往返机票；总预算仍随学生实际情况变化。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-7ee41ef3677f2d">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生经济资助：</strong>国际生申请时选择需要资助者在单独录取池评估；以不需资助身份获录取者，整个本科期间不能再申请该资助。学校为国际生给四年资助安排，须按具体资助流程办理。两页面ED资助日期并不一致，本轮未把其中一个直接设为2027最终截止。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d2ad75a46ca80a">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-USBENR-d3941f287db06e"><div><a href="https://admissions.duke.edu/apply/">duke 官方 apply ↗</a><p>本条学历材料与申请入口及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-c6ca7fa3690e22"><div><a href="https://admissions.duke.edu/counselors/">duke 官方 deadlines ↗</a><p>本条2027 入学申请日期及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-7ee41ef3677f2d"><div><a href="https://financialaid.duke.edu/how-aid-calculated/cost-attendance/">duke 官方 tuition ↗</a><p>本条2026/27 本科新生费用及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-d2ad75a46ca80a"><div><a href="https://admissions.duke.edu/financial-support/">duke 官方 aid ↗</a><p>本条国际生经济资助及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

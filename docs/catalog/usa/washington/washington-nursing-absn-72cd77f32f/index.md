@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,9 +40,13 @@ hide:
 
 <p><strong>申请路径：</strong>Accelerated second-degree nursing route</p>
 
+<p class="catalog-fact"><strong>学位身份：</strong>本锚点对应Bachelor of Science in Nursing (ABSN) degree。资料来自现行在线目录，本轮未将目录出现等同2027招生开放确认。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-3185562ec5561f">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>目录标记的特殊路径：</strong>Accelerated second-degree nursing route。本轮须另核其申请身份，不套用普通第一本科新生规则。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-3185562ec5561f">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -63,5 +67,6 @@ hide:
 - [官方项目页面或项目所在目录](https://uw.edu/students/gencat/program/S/Nursing-552.html#credential-6671c3f6a13ac17558fa8d32)
 - [官方目录](https://www.washington.edu/students/gencat/degree_programs.html)
 
+<div class="catalog-source" id="source-p-USBENR-3185562ec5561f"><div><a href="https://uw.edu/students/gencat/program/S/Nursing-552.html#credential-6671c3f6a13ac17558fa8d32">Nursing (ABSN) — UW 官方项目目录 ↗</a><p>锚点所指学位的毕业要求、课程代码及其所属主修的准入路径</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/washington/">← 返回华盛顿大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,9 +40,19 @@ hide:
 
 <p><strong>申请路径：</strong>Metropolitan College undergraduate/degree-completion route; check eligibility</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：BS；资料期为Current official directory, checked 2026-09-12。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-62b0405d038b47">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程表举例：</strong>官方要求段落列出：MET SO 201 Sociological Methods；MET UA 301 Introduction to Urban Affairs；MET UA 503 Housing and Community Development；MET UA 509 Public Finance and Urban Infrastructure；MET CJ 251 Police and Society。这里只列部分课程名称／代码，可能包含选修及衔接硕士课程，须按本科与硕士阶段分开核对。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-62b0405d038b47">官方依据</a></p>
+
+<p class="catalog-fact"><strong>MET学位毕业要求：</strong>MET学士至少完成32门课程、128个units，包含Hub通识、主修、相关课程和选修；课程转入及专业要求须分别满足。学分量是毕业条件，不能用来推算固定年限。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-62b0405d038b47">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>Metropolitan College 路径：</strong>该项目归属Metropolitan College，项目页将申请信息导向MET招生网站。本轮未核具体国际生资格、可用授课方式与费用，暂不套用BU普通全日制新生资料。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-62b0405d038b47">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -63,5 +73,6 @@ hide:
 - [官方项目页面或项目所在目录](https://www.bu.edu/academics/met/programs/urban-affairs/bs/)
 - [官方目录](https://www.bu.edu/academics/degree-programs/)
 
+<div class="catalog-source" id="source-p-USBENR-62b0405d038b47"><div><a href="https://www.bu.edu/academics/met/programs/urban-affairs/bs/">Urban Affairs — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/boston/">← 返回波士顿大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

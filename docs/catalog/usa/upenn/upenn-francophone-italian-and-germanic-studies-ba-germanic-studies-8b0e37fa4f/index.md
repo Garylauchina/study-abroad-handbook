@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Francophone, Italian and Germanic Studies, BA: Germanic Studies</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026–2027传统本科年学费：US$65,670</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,74 @@ hide:
 
 <p><strong>申请路径：</strong>Undergraduate bachelor major or named track as individually published in the catalog</p>
 
+<p class="catalog-fact"><strong>培养结构表的学分：</strong>选取本专业/方向培养表最后列出的合计为32 course units。该合计可能是主修或方向表，不能自动当作整个学士学位的毕业总量，也不与通识要求直接相加。</p>
+<p class="fact-sources"><a href="#source-p-upenn-program-undergraduate-programs-francophone-italian-germanic-germanic-ba">官方依据</a></p>
+
+<p class="catalog-fact"><strong>具体学习单元示例：</strong>本条培养表列出：Seeing Differently: Transcultural Approaches to Francophone, Italian, and Germanic Studies（FIGS 1000）；Intermediate German II（GRMN 0400）。需按原表区分必修、选修及替代选项。</p>
+<p class="fact-sources"><a href="#source-p-upenn-program-undergraduate-programs-francophone-italian-germanic-germanic-ba">官方依据</a></p>
+
+<p class="catalog-fact"><strong>核验范围：</strong>本轮未逐项核定本专业校区、完整授课语言与所有特殊学习路径；学分不可自行换算为学年。</p>
+<p class="fact-sources"><a href="#source-p-upenn-program-undergraduate-programs-francophone-italian-germanic-germanic-ba">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>选择本科院校与中国高中材料：</strong>本科新生申请Penn的一个本科院校，部分可另选协调双学位；不等于目录中每个专业或concentration分别招生。国际申请提交完整中学年级记录，三年制高中按实际学校结构提供；非英文材料须认证翻译，无需第三方重算GPA。A-Level/IB无统一显式最低分，按所申院校学术准备综合审查。</p>
+<p class="fact-sources"><a href="#source-p-upenn-apply">官方依据</a> · <a href="#source-p-upenn-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业内部要求：</strong>本科录取共同条件不替代本专业宣告、双主修、荣誉、科研计划或学习单元先修条件；本轮尚未逐条完成这些内部要求的中文复核。</p>
+<p class="fact-sources"><a href="#source-p-upenn-program-undergraduate-programs-francophone-italian-germanic-germanic-ba">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>选择本科院校与中国高中材料：</strong>本科新生申请Penn的一个本科院校，部分可另选协调双学位；不等于目录中每个专业或concentration分别招生。国际申请提交完整中学年级记录，三年制高中按实际学校结构提供；非英文材料须认证翻译，无需第三方重算GPA。A-Level/IB无统一显式最低分，按所申院校学术准备综合审查。</p>
+<p class="fact-sources"><a href="#source-u-upenn-apply">官方依据</a> · <a href="#source-u-upenn-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT及英语：</strong>2026–2027申请周期要求SAT/ACT，无统一最低分；未考且有实际困难可提交豁免说明，已考试者必须交。英语母语或入学前高中/大学合计至少三年以英语为主要教学语言可免英语考试，否则须官方送TOEFL/IELTS/DET，有效两年，不能自报代替官方成绩。</p>
+<p class="fact-sources"><a href="#source-u-upenn-testing">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语竞争力描述并非硬录取线：</strong>国际申请FAQ描述有竞争力者IELTS常为7以上且各项稳定；新TOEFL常为5以上，仍有效的旧TOEFL常为100以上。官网用的是竞争力描述，不等于保证录取或通用硬最低线；不接受IELTS Indicator、One Retake或TOEFL MyBest。</p>
+<p class="fact-sources"><a href="#source-u-upenn-international">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2027秋季申请窗口：</strong>2027秋季新生申请已开放；Common App、Coalition App或QuestBridge。ED截止2026-11-01，具有入读承诺；RD截止2027-01-05。考试最后日期与主申请不同：ED SAT11月7日、ACT10月17日；RD SAT12月5日、ACT12月12日。</p>
+<p class="fact-sources"><a href="#source-p-upenn-apply">官方依据</a> · <a href="#source-p-upenn-testing">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027秋季申请窗口：</strong>2027秋季新生申请已开放；Common App、Coalition App或QuestBridge。ED截止2026-11-01，具有入读承诺；RD截止2027-01-05。考试最后日期与主申请不同：ED SAT11月7日、ACT10月17日；RD SAT12月5日、ACT12月12日。</p>
+<p class="fact-sources"><a href="#source-u-upenn-apply">官方依据</a> · <a href="#source-u-upenn-testing">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>2026–2027传统本科收费：</strong>传统本科标准年度学费US$65,670，强制费用US$8,308。住校基础预算US$99,082；该预算未必含需另加的保险和回家交通，护理新生及Wharton高年级书本预算不同。LPS继续教育学生按LPS费率和注册学分另算，不能套此标准年费。</p>
+<p class="fact-sources"><a href="#source-p-upenn-fees">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–2027传统本科收费：</strong>传统本科标准年度学费US$65,670，强制费用US$8,308。住校基础预算US$99,082；该预算未必含需另加的保险和回家交通，护理新生及Wharton高年级书本预算不同。LPS继续教育学生按LPS费率和注册学分另算，不能套此标准年费。</p>
+<p class="fact-sources"><a href="#source-u-upenn-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际经济资助影响录取：</strong>不属于美国/加拿大/墨西哥公民或永居的国际申请者，支付能力会影响录取；作为资助获得者获录取者满足学校认定的全部需要。须在申请时提出经济资助需求，具体认定和材料按国际资助页。</p>
+<p class="fact-sources"><a href="#source-u-upenn-aid">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业调查缺口：</strong>本轮未取得本专业明确届次、响应样本及中国/国际学生范围的就业率或薪酬；课程目标和少数校友故事不能代替毕业统计。</p>
+<p class="fact-sources"><a href="#source-p-upenn-program-undergraduate-programs-francophone-italian-germanic-germanic-ba">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>逐专业统计缺口：</strong>本轮未取得全部本科专业/重点方向的同届国际或中国学生就业调查；培养方案的职业方向不等于就业率。</p>
+<p class="fact-sources"><a href="#source-u-upenn-apply">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +114,15 @@ hide:
 - [官方项目页面或项目所在目录](https://catalog.upenn.edu/undergraduate/programs/francophone-italian-germanic-germanic-ba/)
 - [官方目录](https://catalog.upenn.edu/undergraduate/programs/)
 
+<div class="catalog-source" id="source-p-upenn-program-undergraduate-programs-francophone-italian-germanic-germanic-ba"><div><a href="https://catalog.upenn.edu/undergraduate/programs/francophone-italian-germanic-germanic-ba/">Francophone, Italian and Germanic Studies, BA: Germanic Studies 官方专业资料 ↗</a><p>本条学习内容、培养结构、内部要求及本轮核验边界</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-upenn-apply"><div><a href="https://admissions.upenn.edu/how-to-apply/first-year-applicants">upenn 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-upenn-international"><div><a href="https://admissions.upenn.edu/how-to-apply/international-applicants">upenn 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-upenn-testing"><div><a href="https://admissions.upenn.edu/how-to-apply/preparing-your-application/testing">upenn 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-upenn-fees"><div><a href="https://srfs.upenn.edu/costs-budgeting/undergraduate-cost-attendance">upenn 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-upenn-apply"><div><a href="https://admissions.upenn.edu/how-to-apply/first-year-applicants">upenn 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-upenn-international"><div><a href="https://admissions.upenn.edu/how-to-apply/international-applicants">upenn 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-upenn-testing"><div><a href="https://admissions.upenn.edu/how-to-apply/preparing-your-application/testing">upenn 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-upenn-fees"><div><a href="https://srfs.upenn.edu/costs-budgeting/undergraduate-cost-attendance">upenn 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-upenn-aid"><div><a href="https://admissions.upenn.edu/affording-penn/international-aid">upenn 官方本科资料：aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/upenn/">← 返回宾夕法尼亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

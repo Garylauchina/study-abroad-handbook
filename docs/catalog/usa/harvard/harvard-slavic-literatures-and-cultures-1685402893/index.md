@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Slavic Literatures and Cultures</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026–2027 Harvard College标准本科年学费 US$62,226；生活与保险等另计。</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,74 @@ hide:
 
 <p><strong>申请路径：</strong>Harvard College concentration</p>
 
+<p class="catalog-fact"><strong>主修学习内容：</strong>学习俄语或其他斯拉夫语言，研究俄罗斯、乌克兰、波兰及捷克等地的文学和文化历史。</p>
+<p class="fact-sources"><a href="#source-p-harvard-college-concentrations">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程核验范围：</strong>本条用Harvard College官方逐项总览补充学科说明。其示例课程含旧年安排，本轮不作为2027开课承诺；最新完整培养学分、先修及授课地点／语言尚待逐项核实。</p>
+<p class="fact-sources"><a href="#source-p-harvard-college-concentrations">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>Harvard College共同规则：Harvard College国际资格范围：</strong>此处为Harvard College本科新生共同规则；不适用于Harvard Extension School的成人ALB、访问学生或研究生。本轮未核到中国高考单一录取线，按高中成绩、推荐、考试及个人背景综合评估。</p>
+<p class="fact-sources"><a href="#source-p-harvard-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Harvard College共同规则：SAT/ACT与英语：</strong>通常须提交SAT或ACT；仅在费用、考点或座位等实际无法取得考试的例外情况下，才可说明并用AP、IB、GCSE/A-Level或外部评估离校考试等替代。英语考试不能替代SAT/ACT。新生与转学生不必提交英语考试，可自愿提交；熟练英语仍是要求。</p>
+<p class="fact-sources"><a href="#source-p-harvard-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主修与大学录取分开：</strong>Concentration是入校后的主修安排；共同本科申请条件不等于本主修的荣誉、语言、研究及宣告资格均已满足，特殊条件本轮尚未逐项核完。</p>
+<p class="fact-sources"><a href="#source-p-harvard-college-concentrations">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>Harvard College国际资格范围：</strong>此处为Harvard College本科新生共同规则；不适用于Harvard Extension School的成人ALB、访问学生或研究生。本轮未核到中国高考单一录取线，按高中成绩、推荐、考试及个人背景综合评估。</p>
+<p class="fact-sources"><a href="#source-u-harvard-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT与英语：</strong>通常须提交SAT或ACT；仅在费用、考点或座位等实际无法取得考试的例外情况下，才可说明并用AP、IB、GCSE/A-Level或外部评估离校考试等替代。英语考试不能替代SAT/ACT。新生与转学生不必提交英语考试，可自愿提交；熟练英语仍是要求。</p>
+<p class="fact-sources"><a href="#source-u-harvard-international">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>Harvard College共同规则：渠道与当前日期：</strong>Common Application及Harvard补充材料，申请费US$95或豁免；学校报告、成绩单、两位教师推荐及期中/最终学校报告。官网当前规则为REA11月1日、RD1月1日当地23:59；需区分月日规则和明确年份公告，本轮未据此把每项静态日期改写为独立2027确认。</p>
+<p class="fact-sources"><a href="#source-p-harvard-apply">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>渠道与当前日期：</strong>Common Application及Harvard补充材料，申请费US$95或豁免；学校报告、成绩单、两位教师推荐及期中/最终学校报告。官网当前规则为REA11月1日、RD1月1日当地23:59；需区分月日规则和明确年份公告，本轮未据此把每项静态日期改写为独立2027确认。</p>
+<p class="fact-sources"><a href="#source-u-harvard-apply">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>Harvard College共同规则：2026–2027学费与预算：</strong>Harvard College标准学费US$62,226；含学费、杂费、住食的账单小计US$91,634。计入书本、个人与0–5,000交通估计后为US$95,134–100,134；另需US$4,954医保，符合其他保险条件可免。此为资助前年度预算，非Extension按课报价。</p>
+<p class="fact-sources"><a href="#source-p-harvard-fees-aid">官方依据</a></p>
+
+<p class="catalog-fact"><strong>Harvard College共同规则：国际生经济资助：</strong>学校对所有国籍采用同一资助政策；申请资助不影响录取，按学校认定需要提供援助。不是凭国籍或一个家庭收入数字自动获免学费。</p>
+<p class="fact-sources"><a href="#source-p-harvard-international">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–2027学费与预算：</strong>Harvard College标准学费US$62,226；含学费、杂费、住食的账单小计US$91,634。计入书本、个人与0–5,000交通估计后为US$95,134–100,134；另需US$4,954医保，符合其他保险条件可免。此为资助前年度预算，非Extension按课报价。</p>
+<p class="fact-sources"><a href="#source-u-harvard-fees-aid">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生经济资助：</strong>学校对所有国籍采用同一资助政策；申请资助不影响录取，按学校认定需要提供援助。不是凭国籍或一个家庭收入数字自动获免学费。</p>
+<p class="fact-sources"><a href="#source-u-harvard-international">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本主修调查缺口：</strong>本轮未取得本主修有明确届次、回应分母和国际／中国学生口径的就业率或薪酬调查。</p>
+<p class="fact-sources"><a href="#source-p-harvard-college-concentrations">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>专业调查缺口：</strong>本轮未取得逐主修、明确届次与样本范围的中国学生就业率或起薪；不以个别知名校友及职业准备描述代替统计。</p>
+<p class="fact-sources"><a href="#source-u-harvard-international">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +114,12 @@ hide:
 - [官方项目页面或项目所在目录](https://slavic.fas.harvard.edu/pages/why-choose-slavic-studies)
 - [官方目录](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations)
 
+<div class="catalog-source" id="source-p-harvard-college-concentrations"><div><a href="https://college.harvard.edu/academics/liberal-arts-sciences/concentrations">Harvard College官方50项主修及特殊主修总览 ↗</a><p>逐项主修概述、College主修/辅修/特殊主修身份及资料年度边界</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-harvard-international"><div><a href="https://college.harvard.edu/admissions/apply/international-applicants">harvard 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-harvard-apply"><div><a href="https://college.harvard.edu/admissions/apply/first-year-applicants">harvard 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-harvard-fees-aid"><div><a href="https://college.harvard.edu/financial-aid/how-aid-works">harvard 官方本科资料：fees-aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-harvard-international"><div><a href="https://college.harvard.edu/admissions/apply/international-applicants">harvard 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-harvard-apply"><div><a href="https://college.harvard.edu/admissions/apply/first-year-applicants">harvard 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-harvard-fees-aid"><div><a href="https://college.harvard.edu/financial-aid/how-aid-works">harvard 官方本科资料：fees-aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/harvard/">← 返回哈佛大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

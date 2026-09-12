@@ -23,128 +23,249 @@ hide:
 
 ## 专业与申请资料
 
-100 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+183 个专业条目 · 0 个含详细资料 · 182 个补有专业资料 · 1 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=columbia#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-african-american-studies-72460c0d5f/">African-American Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-american-studies-55547fdc24/">American Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-ancient-studies-1add2122f3/">Ancient Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-anthropology-5a583c58b9/">Anthropology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-applied-mathematics-ebb993c026/">Applied Mathematics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-applied-mathematics-bs-c5a000371e/">Applied Mathematics (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-applied-physics-bs-dbd55abf98/">Applied Physics (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-archaeology-496aed4fb6/">Archaeology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-architecture-c8dc4dcbc3/">Architecture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-art-history-a25676d3b1/">Art History</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-art-history-and-visual-arts-dfec8b1eee/">Art History and ​Visual Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-astronomy-5fe506dee1/">Astronomy</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-astrophysics-3fbe481c4e/">Astrophysics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biochemistry-fc8c2edf54/">Biochemistry</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biology-a4a60338ff/">Biology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biomedical-engineering-bs-7c5fc539dc/">Biomedical Engineering (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biophysics-ea8c622876/">Biophysics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-chemical-engineering-bs-bc0fb077bb/">Chemical Engineering (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-chemical-physics-b2fa5a69b0/">Chemical Physics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-chemistry-d2eb562e1f/">Chemistry</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-civil-engineering-bs-aed29d8b35/">Civil Engineering (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-classics-bf9b1ea677/">Classics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-climate-system-science-f9ba7b04d2/">Climate System Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-climate-and-sustainability-7c0f0654f9/">Climate and Sustainability</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-cognitive-science-33919ab9c3/">Cognitive Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-combined-plan-ba-bs-387b2d63dc/">Combined Plan BA/BS</a><small>Bachelor of Arts + Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-comparative-literature-and-society-ba3c3e0783/">Comparative Literature and Society</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computational-biology-5d80ca7ecc/">Computational Biology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-engineering-bs-54e9ce7b77/">Computer Engineering (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-science-2f0a6993db/">Computer Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-science-bs-3b5a343c1f/">Computer Science (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-science-mathematics-d333798174/">Computer Science-​Mathematics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-creative-writing-cf2e452ad0/">Creative Writing</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-dance-d08a9c940f/">Dance</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-data-science-34273ce012/">Data Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-decision-science-and-data-analytics-bs-c3b2417e87/">Decision Science and Data Analytics (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-double-major-in-applied-physics-and-applied-mathematics-b0490f09e5/">Double Major in Applied Physics and Applied Mathematics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-drama-and-theatre-arts-4bf109dd13/">Drama and Theatre Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-earth-science-bcf9ec0b3d/">Earth Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-earth-and-environmental-engineering-bs-9289ddaaae/">Earth and Environmental Engineering (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-east-asian-studies-5831f8bced/">East Asian Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-d51648cf4e/">Economics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-mathematics-6c9f47ba87/">Economics-​Mathematics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-philosophy-9df90d316e/">Economics-​Philosophy</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-political-science-1456d860e6/">Economics-​Political Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-statistics-32d3505eff/">Economics-​Statistics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-education-studies-14372b6ff2/">Education Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-electrical-engineering-bs-a467cff035/">Electrical Engineering (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-english-775be6572c/">English</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-environmental-biology-3d470852ac/">Environmental Biology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-environmental-chemistry-eb18bc1680/">Environmental Chemistry</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-environmental-science-f3f648dc71/">Environmental Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-ethnicity-and-race-studies-2f01ad7b68/">Ethnicity and Race Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-evolutionary-biology-of-the-human-species-5339591ace/">Evolutionary Biology of the Human Species</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-film-and-media-studies-5d393e48f0/">Film and Media Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-financial-economics-5b99c9c0c9/">Financial Economics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-french-5e0d869118/">French</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-french-and-francophone-studies-71fe7ce0d1/">French and Francophone Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-german-literature-and-cultural-history-06a9c59ccf/">German Literature and Cultural History</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-global-affairs-and-public-policy-866fe2f2a8/">Global Affairs and Public Policy</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-hispanic-studies-8e5a675db8/">Hispanic Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-history-a6bc79893e/">History</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-history-and-theory-of-architecture-2ffa538e25/">History and Theory of Architecture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-human-rights-579f3c57ac/">Human Rights</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-industrial-engineering-bs-81b2b09069/">Industrial Engineering (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-information-science-aad4d93551/">Information Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-italian-84346689a5/">Italian</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-latin-american-and-caribbean-studies-1d93ac08c5/">Latin American and Caribbean Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-linguistics-8555f1c2ab/">Linguistics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-materials-science-bs-c2aae6f9d6/">Materials Science (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mathematics-d2141c0b12/">Mathematics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mathematics-statistics-a816bdcd89/">Mathematics-​Statistics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mechanical-engineering-bs-0c83adf1ab/">Mechanical Engineering (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-medical-humanities-399b279150/">Medical Humanities</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-middle-eastern-south-asian-and-african-studies-1ba9947fdb/">Middle Eastern, South Asian, and African Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mining-engineering-bs-a24d9fcd43/">Mining Engineering (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-music-da4c0c9b30/">Music</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-neuroscience-and-behavior-3b056b0a51/">Neuroscience and Behavior</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-operations-research-bs-eaa3f0ec53/">Operations Research (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-operations-research-analytics-dbd36b9d1a/">Operations Research: Analytics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-operations-research-engineering-management-systems-21d0c6f30f/">Operations Research: Engineering Management Systems</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-operations-research-financial-engineering-d0d5f54ae6/">Operations Research: Financial Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-philosophy-5acbe85308/">Philosophy</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-physics-8ee071e069/">Physics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-political-science-85e5e61927/">Political Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-political-science-statistics-1a26bac322/">Political Science-​Statistics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-psychology-de6a64dd5c/">Psychology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-quantitative-finance-and-financial-technology-bs-8ec5a5d469/">Quantitative Finance and Financial Technology (BS)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-regional-studies-529f93e719/">Regional Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-religion-b740a3ad0b/">Religion</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-russian-language-and-culture-5c0cb4b71f/">Russian Language and Culture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-russian-literature-and-culture-a9ccc8f0c0/">Russian Literature and Culture</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-slavic-studies-064493d629/">Slavic Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-sociology-ff242a3447/">Sociology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-statistics-e375eac81f/">Statistics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-sustainable-development-60ec393ca6/">Sustainable Development</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-urban-studies-7f05e95982/">Urban Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-visual-arts-0f268f7af6/">Visual Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-women-s-and-gender-studies-b296c74348/">Women&#x27;s and Gender Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-yiddish-studies-c0bfc52160/">Yiddish Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-african-american-and-african-diaspora-studies-ff855adbe4/">African American and African Diaspora Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-african-american-studies-72460c0d5f/">African-American Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-american-studies-55547fdc24/">American Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-american-studies-97a8aa5ec2/">American Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-ancient-studies-1add2122f3/">Ancient Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-ancient-studies-5d6944b893/">Ancient Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-anthropology-5a583c58b9/">Anthropology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-anthropology-2ea44ff906/">Anthropology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-applied-mathematics-ebb993c026/">Applied Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-applied-mathematics-39ad1106aa/">Applied Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-applied-mathematics-bs-c5a000371e/">Applied Mathematics (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-applied-physics-bs-dbd55abf98/">Applied Physics (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-archaeology-496aed4fb6/">Archaeology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-archaeology-1ec289ff24/">Archaeology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-architecture-c8dc4dcbc3/">Architecture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-architecture-a82f9e25af/">Architecture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-art-history-a25676d3b1/">Art History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-art-history-6e3eb366eb/">Art History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-art-history-and-visual-arts-749e77418e/">Art History and Visual Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-art-history-and-visual-arts-dfec8b1eee/">Art History and ​Visual Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-astronomy-5fe506dee1/">Astronomy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-astronomy-3463df444f/">Astronomy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-astrophysics-3fbe481c4e/">Astrophysics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-astrophysics-1259dd3d95/">Astrophysics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biochemistry-fc8c2edf54/">Biochemistry</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biochemistry-875167c8c8/">Biochemistry</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biology-a4a60338ff/">Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biology-f51ce9b74c/">Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biomedical-engineering-bs-7c5fc539dc/">Biomedical Engineering (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biophysics-ea8c622876/">Biophysics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-biophysics-3184d074a6/">Biophysics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-chemical-engineering-bs-bc0fb077bb/">Chemical Engineering (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-chemical-physics-b2fa5a69b0/">Chemical Physics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-chemical-physics-e74caa00fe/">Chemical Physics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-chemistry-d2eb562e1f/">Chemistry</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-chemistry-62eeca141a/">Chemistry</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-civil-engineering-bs-aed29d8b35/">Civil Engineering (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-classical-studies-e2da85f82e/">Classical Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-classics-bf9b1ea677/">Classics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-classics-59404e8744/">Classics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-climate-system-science-f9ba7b04d2/">Climate System Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-climate-system-science-6d904bb5cb/">Climate System Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-climate-and-sustainability-7c0f0654f9/">Climate and Sustainability</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-climate-and-sustainability-b0ca7b73c4/">Climate and Sustainability</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-cognitive-science-33919ab9c3/">Cognitive Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-cognitive-science-4a10ba7ee5/">Cognitive Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-combined-plan-ba-bs-387b2d63dc/">Combined Plan BA/BS</a><small>Bachelor of Arts + Bachelor of Science · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-comparative-literature-and-society-ba3c3e0783/">Comparative Literature and Society</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-comparative-literature-and-society-4de3faf641/">Comparative Literature and Society</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computational-biology-5d80ca7ecc/">Computational Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computational-biology-aa6550316b/">Computational Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-engineering-bs-54e9ce7b77/">Computer Engineering (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-science-2f0a6993db/">Computer Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-science-380dd79a36/">Computer Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-science-bs-3b5a343c1f/">Computer Science (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-science-mathematics-a4e69b6671/">Computer Science-Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-computer-science-mathematics-d333798174/">Computer Science-​Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-creative-writing-cf2e452ad0/">Creative Writing</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-creative-writing-d18e4d2635/">Creative Writing</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-dance-d08a9c940f/">Dance</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-dance-20586cfc68/">Dance</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-data-science-34273ce012/">Data Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-data-science-8b701616ff/">Data Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-decision-science-and-data-analytics-bs-c3b2417e87/">Decision Science and Data Analytics (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-double-major-in-applied-physics-and-applied-mathematics-b0490f09e5/">Double Major in Applied Physics and Applied Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-drama-and-theatre-arts-4bf109dd13/">Drama and Theatre Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-drama-and-theatre-arts-2b1460f46b/">Drama and Theatre Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-earth-science-bcf9ec0b3d/">Earth Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-earth-science-a4f6304c5f/">Earth Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-earth-and-environmental-engineering-bs-9289ddaaae/">Earth and Environmental Engineering (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-east-asian-studies-5831f8bced/">East Asian Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-east-asian-studies-01b398a573/">East Asian Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-d51648cf4e/">Economics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-5737a88165/">Economics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-mathematics-483bb4d4bc/">Economics-Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-philosophy-dbc714d7d2/">Economics-Philosophy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-political-science-dc2875eb07/">Economics-Political Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-statistics-03f9216911/">Economics-Statistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-mathematics-6c9f47ba87/">Economics-​Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-philosophy-9df90d316e/">Economics-​Philosophy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-political-science-1456d860e6/">Economics-​Political Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-economics-statistics-32d3505eff/">Economics-​Statistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-education-studies-14372b6ff2/">Education Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-education-studies-c58a805d79/">Education Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-education-studies-39b501923b/">Education Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-electrical-engineering-bs-a467cff035/">Electrical Engineering (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-english-775be6572c/">English</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-english-010188e5e5/">English</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-environmental-biology-3d470852ac/">Environmental Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-environmental-biology-e5bfa9c893/">Environmental Biology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-environmental-chemistry-eb18bc1680/">Environmental Chemistry</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-environmental-chemistry-f2163cf566/">Environmental Chemistry</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-environmental-science-f3f648dc71/">Environmental Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-environmental-science-bdc6fe4b8b/">Environmental Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-ethnicity-and-race-studies-2f01ad7b68/">Ethnicity and Race Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-ethnicity-and-race-studies-f0230d2fd6/">Ethnicity and Race Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-evolutionary-biology-of-the-human-species-5339591ace/">Evolutionary Biology of the Human Species</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-evolutionary-biology-of-the-human-species-165b3a3052/">Evolutionary Biology of the Human Species</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-film-and-media-studies-5d393e48f0/">Film and Media Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-film-and-media-studies-b2b848c499/">Film and Media Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-financial-economics-5b99c9c0c9/">Financial Economics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-financial-economics-0e5b541ffc/">Financial Economics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-french-5e0d869118/">French</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-french-83679e0a4e/">French</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-french-and-francophone-studies-71fe7ce0d1/">French and Francophone Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-french-and-francophone-studies-9ec94ce006/">French and Francophone Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-german-literature-and-cultural-history-06a9c59ccf/">German Literature and Cultural History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-german-literature-and-cultural-history-8fdd556083/">German Literature and Cultural History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-global-affairs-and-public-policy-866fe2f2a8/">Global Affairs and Public Policy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-global-affairs-and-public-policy-54b6f345da/">Global Affairs and Public Policy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-global-affairs-and-public-policy-221b6d93cf/">Global Affairs and Public Policy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-hispanic-studies-8e5a675db8/">Hispanic Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-hispanic-studies-1df3110119/">Hispanic Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-hispanic-studies-with-specialization-80cb396c1e/">Hispanic Studies with Specialization</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-history-a6bc79893e/">History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-history-917753d8f7/">History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-history-and-theory-of-architecture-2ffa538e25/">History and Theory of Architecture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-history-and-theory-of-architecture-81b8d76e62/">History and Theory of Architecture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-human-rights-579f3c57ac/">Human Rights</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-human-rights-2149aa0821/">Human Rights</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-industrial-engineering-bs-81b2b09069/">Industrial Engineering (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-information-science-aad4d93551/">Information Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-information-science-1b761f4cd2/">Information Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-italian-84346689a5/">Italian</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-italian-d07d181458/">Italian</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-latin-american-and-caribbean-studies-1d93ac08c5/">Latin American and Caribbean Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-latin-american-and-caribbean-studies-8d03311bf6/">Latin American and Caribbean Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-linguistics-8555f1c2ab/">Linguistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-linguistics-96d9766ac4/">Linguistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-materials-science-bs-c2aae6f9d6/">Materials Science (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mathematics-d2141c0b12/">Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mathematics-f887308acd/">Mathematics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mathematics-statistics-1250e46ff3/">Mathematics-Statistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mathematics-statistics-a816bdcd89/">Mathematics-​Statistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mechanical-engineering-bs-0c83adf1ab/">Mechanical Engineering (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-medical-humanities-399b279150/">Medical Humanities</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-medical-humanities-2d97f57606/">Medical Humanities</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-middle-eastern-south-asian-and-african-studies-1ba9947fdb/">Middle Eastern, South Asian, and African Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-middle-eastern-south-asian-and-african-studies-c318d8f0f2/">Middle Eastern, South Asian, and African Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-mining-engineering-bs-a24d9fcd43/">Mining Engineering (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-music-da4c0c9b30/">Music</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-music-f64e3a05b1/">Music</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-neuroscience-and-behavior-3b056b0a51/">Neuroscience and Behavior</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-neuroscience-and-behavior-0be4ccc2a0/">Neuroscience and Behavior</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-operations-research-bs-eaa3f0ec53/">Operations Research (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-operations-research-analytics-dbd36b9d1a/">Operations Research: Analytics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-operations-research-engineering-management-systems-21d0c6f30f/">Operations Research: Engineering Management Systems</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-operations-research-financial-engineering-d0d5f54ae6/">Operations Research: Financial Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-philosophy-5acbe85308/">Philosophy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-philosophy-4d28a158bb/">Philosophy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-physics-8ee071e069/">Physics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-physics-ead91eddd5/">Physics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-political-science-85e5e61927/">Political Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-political-science-a59b7bed9b/">Political Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-political-science-statistics-d884996883/">Political Science-Statistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-political-science-statistics-1a26bac322/">Political Science-​Statistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-psychology-de6a64dd5c/">Psychology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-psychology-e730b7f6d0/">Psychology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-quantitative-finance-and-financial-technology-bs-8ec5a5d469/">Quantitative Finance and Financial Technology (BS)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-regional-studies-529f93e719/">Regional Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-regional-studies-c51fb29fb3/">Regional Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-religion-b740a3ad0b/">Religion</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-religion-4cc26abc2e/">Religion</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-russian-language-and-culture-5c0cb4b71f/">Russian Language and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-russian-language-and-culture-1606818fc4/">Russian Language and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-russian-literature-and-culture-a9ccc8f0c0/">Russian Literature and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-russian-literature-and-culture-036eaf6af6/">Russian Literature and Culture</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-slavic-studies-064493d629/">Slavic Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-slavic-studies-7886c85e59/">Slavic Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-sociology-ff242a3447/">Sociology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-sociology-c9654f0305/">Sociology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-statistics-e375eac81f/">Statistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-statistics-0f2c144232/">Statistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-sustainable-development-60ec393ca6/">Sustainable Development</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-sustainable-development-96cde0a738/">Sustainable Development</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-urban-studies-7f05e95982/">Urban Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-urban-studies-9f007ea36e/">Urban Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-visual-arts-0f268f7af6/">Visual Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-visual-arts-2cfb80ee6b/">Visual Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-women-s-and-gender-studies-b296c74348/">Women&#x27;s and Gender Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-women-s-gender-and-sexuality-studies-fc8863575b/">Women’s, Gender, and Sexuality Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-yiddish-studies-c0bfc52160/">Yiddish Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/columbia/columbia-yiddish-studies-30ba0bef38/">Yiddish Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>GS非传统本科资格与第二学位：</strong>以下仅适用于School of General Studies（GS）。申请者须教育经历中断一年或以上，或有充分理由只能非全时就读；普通连续升学的高中毕业生不能据此直接认定符合GS入口。已有学士者可读不同于原学位的第二学士；最多认可60转入学分，毕业要求124 points。Columbia College及Engineering的普通新生规则本轮尚未充分取得，不套GS条件。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-eligibility-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>GS考试、语言和材料：</strong>GS的SAT/ACT或GSAE可选；英语非母语且中学并非英语授课者须英语证明。当前页列旧TOEFL iBT至少100、IELTS至少7、DET至少120，成绩两年内；本輪未取得该页对2026新TOEFL量表的对应说明。须个人经历文书、两封学术或职业推荐及学业记录，不能把GS可选考试政策自动推广到其他学院。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-apply-dom">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>GS独立申请和当前月日：</strong>GS使用独立网上申请，申请费US$80或申请豁免，不能同轮申请GS及Columbia College/Engineering。当前秋季窗口12月1日开放，优先EA1月15日、EA3月1日、RD5月15日；春季8月1日开放，优先9月1日、EA10月1日、RD11月1日。F-1申请者建议提早按EA递交。网页月日未逐项给出2027年份，本轮不把静态日期当作单独2027公告。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-apply-dom">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>GS 2025–2026学费参考：</strong>本轮实际读取的GS学费页仍明确为2025秋／2026春：每学期不足16 points按US$2,258/point，16 points及以上US$36,128/学期；两学期各15 points共US$67,740。另有杂费、生活费和保险。这是旧年度参考，2026–2027及2027–2028学费本轮未核实，不作最新报价。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-fees-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>GS资助不是全额满足承诺：</strong>GS明确不保证满足所有学生的全部认定经济需要。建议随入学申请并在EA时间内申请资助，寻求资助的申请者提交CSS Profile；在读学生每年重新申请校内奖学金。不能套用Columbia其他学院的资助承诺，也不能把网站所有学生获资助比例当中国学生获奖概率。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-aid-dom">官方依据</a> · <a href="#source-u-columbia-gs-apply-dom">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>专业及学院调查缺口：</strong>本轮未取得GS各主修或Engineering各本科项目有清晰毕业届次、回应样本与国际／中国学生分组的就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-entry-dom">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-columbia-gs-eligibility-dom"><div><a href="https://www.gs.columbia.edu/content/eligibility-undergraduate">columbia 官方本科资料：gs-eligibility-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-columbia-gs-apply-dom"><div><a href="https://www.gs.columbia.edu/content/how-apply">columbia 官方本科资料：gs-apply-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-columbia-gs-fees-dom"><div><a href="https://www.gs.columbia.edu/content/undergraduate-tuition-and-fees">columbia 官方本科资料：gs-fees-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-columbia-gs-aid-dom"><div><a href="https://www.gs.columbia.edu/content/applying-undergraduate-financial-aid">columbia 官方本科资料：gs-aid-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-columbia-gs-entry-dom"><div><a href="https://www.gs.columbia.edu/content/gs-undergraduate-admissions">columbia 官方本科资料：gs-entry-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 100 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 183 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>Complete GS Major section plus Engineering bachelor-labelled departmental indexes, three explicitly named old-cohort IEOR majors and one coordinated BA/BS route. Columbia College not yet mapped separately.</p>
+<p><strong>统计范围：</strong>Original GS and Engineering records retained; full 58-page Columbia College departmental Bulletin traversed and majors distinguished from minors/special programs. Two newly evidenced GS majors added.</p>
 
-<p><strong>对账方法：</strong>{&quot;gs_majors&quot;: 79, &quot;engineering_undergraduate_indexes_read&quot;: 11, &quot;engineering_rows&quot;: 21, &quot;pagination&quot;: false, &quot;engineering_marketing_advertised_major_count&quot;: 17}</p>
+<p><strong>对账方法：</strong>{&quot;columbia_college_department_links&quot;: 58, &quot;department_pages_read&quot;: 58, &quot;pagination&quot;: false, &quot;distinct_columbia_college_rows&quot;: 81, &quot;legacy_standalone_rows&quot;: 2, &quot;named_major_options&quot;: 1, &quot;gs_new_rows&quot;: 2, &quot;old_records_retained&quot;: 100}</p>
 
-<p><strong>排除项：</strong>GS: only Majors section, exclude minors, special programs and legacy concentrations；Engineering: read all 14 directory links; 11 have undergraduate program child indexes, select BS programs plus formal double major; retain old cohort majors separately with restrictions；Exclude BS/MS continuations, premedical/prelaw preparation, MD, JD and non-degree offerings；Combined BA/BS route retained independently as specifically named undergraduate program</p>
+<p><strong>排除项：</strong>Read every department page linked from the official College directory, including pages with minors only. Select explicit major requirements or an explicit major description; never infer a major from a department name.；Deduplicate interdepartmental majors listed in two or more departments; retain all identity evidence URLs.；Creative Writing genre options and five current Classics tracks are named_options within their major, not separate degrees.；Hispanic Studies with Specialization retained as a named_major_option because the department explicitly describes two majors/options.；Retain old Ancient Studies and Classical Studies standalone pathways with legacy eligibility; do not offer them as new 2027 standalone entries.；Exclude minors, old concentrations, special concentrations, second-program-only business/public-health/jazz teaching programs and MD/JD/MA continuations.；Columbia College B.A. entrance, GS B.A. entrance and Engineering B.S. entrance remain distinct.</p>
 
 **尚未解决的目录缺口：**
 
-- Columbia College complete separate major list not obtained; major-declaration website returned HTTP403 in both HTTP and Chrome. Department names alone were not promoted to majors.
-- Barnard affiliated-college scope not reconciled within Columbia University inventory.
-- Engineering marketing page advertises 17 majors while the 2026-2027 bulletin now lists additional/new/old-cohort variants. Exact cross-source total reconciliation remains pending; catalog cohort labels are retained.
-- No claim of complete university-wide coverage.
+- College headline program-list site returns HTTP403; completeness evidence is traversal of the full official 58-page departmental Bulletin, with selection per department in department-evidence.json.
+- University-wide status remains partial: Barnard independent admissions/affiliated scope has not been reconciled, and old Engineering 17-major marketing count versus catalog variants remains unresolved.
+- Original GS list is retained, plus two newly evidenced shared majors; GS department-by-department reconciliation for other newly changed entries is not yet complete.
+- Some pages retain French/French-and-Francophone and regional-program labels without a single unambiguous new-entry cutover; legacy/current details must be checked when applying.
 
 - [官方目录来源](https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/biomedical-engineering/undergraduate-programs/)
 - [官方目录来源](https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/chemical-engineering/undergraduate-programs/)
@@ -158,5 +279,63 @@ hide:
 - [官方目录来源](https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/computer-science/undergraduate-programs/)
 - [官方目录来源](https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/undergraduate-programs/)
 - [官方目录来源](https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/industrial-engineering-operations-research/undergraduate-programs/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/african-american-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/american-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/ancient-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/anthropology/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/archaeology/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/architecture/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/art-history-archaeology/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/astronomy/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/biological-sciences/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/business/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/chemistry/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/classics/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/cognitive-science/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/comparative-literature-society/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/creative-writing/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/dance/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/drama-theatre-arts/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/earth-environmental-sciences/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/east-asian-languages-cultures/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/ecology-evolution-environmental-biology/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/economics/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/education/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/english-comparative-literature/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/ethnicity-race-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/film-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/french-romance-philology/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/germanic-languages/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/global-affairs-public-policy/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/history/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/human-rights/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/italian/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/jazz-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/jewish-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/language-resource-center/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/latin-american-caribbean-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/latin-american-iberian-cultures/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/linguistics/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/mathematics/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/medieval-renaissance-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/middle-eastern-south-asian-african-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/music/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/philosophy/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/physical-education-intercollegiate-athletics/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/physics/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/political-science/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/psychology/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/public-health/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/regional-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/religion/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/history-philosophy-science/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/slavic-languages/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/sociology/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/statistics/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/sustainable-development/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/urban-studies/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/visual-arts/)
+- [官方目录来源](https://bulletin.columbia.edu/columbia-college/departments-instruction/womens-gender-studies/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

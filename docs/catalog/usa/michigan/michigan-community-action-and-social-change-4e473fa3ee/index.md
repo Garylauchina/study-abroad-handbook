@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Community Action and Social Change</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>2年（2027仅校内转入）</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,9 +38,13 @@ hide:
 
 <p><strong>条目类型：</strong>major</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录收录 Community Action and Social Change（BA）。本轮尚未完成该独立项目课程、费用及毕业去向的逐项核对；学校通用规则另列。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-fc23bbf18aa15f">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>2027仅校内转入：</strong>CASC为两年全日制BA课程，2027秋仅向Ann Arbor现有本科生开放跨学院转入；外部新转学生从2028秋才可申请。不是中国高中毕业后直接入学读两年的项目。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-97f69377531d96">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -61,5 +65,7 @@ hide:
 - [官方项目页面或项目所在目录](https://ssw.umich.edu/academic-programs/undergraduate/ba-casc)
 - [官方目录](https://admissions.umich.edu/academics-majors/majors-degrees)
 
+<div class="catalog-source" id="source-p-USBENR-fc23bbf18aa15f"><div><a href="https://admissions.umich.edu/academics-majors/majors-degrees">Community Action and Social Change — 官方本科目录 ↗</a><p>专业名称与目录入口；本轮未取得独立课程完整详情</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-USBENR-97f69377531d96"><div><a href="https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes">Michigan 2027 CASC入学更新 ↗</a><p>CASC学制与2027/2028校内外转学资格</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/michigan/">← 返回密歇根大学安娜堡分校</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

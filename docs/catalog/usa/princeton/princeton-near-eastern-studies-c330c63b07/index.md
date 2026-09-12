@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Near Eastern Studies</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026–2027标准本科学费 US$68,140/年；基础全年预算 US$94,624，交通等另计。</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -36,21 +36,80 @@ hide:
 
 <p><strong>目录适用期：</strong>current official Areas of Study; academic year not stated</p>
 
+<p class="catalog-fact"><strong>具体学习单元示例：</strong>本领域官方页面展示的单元：Elementary Arabic I（ARA 101）；Elementary Hebrew I（HEB 101/JDS 205）。示例不代表全部必修或当年保证开课，需核对必修/选修与授课安排。</p>
+<p class="fact-sources"><a href="#source-p-princeton-program-74ef83f324bc6a60">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成标准学制、具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="fact-sources"><a href="#source-p-princeton-program-74ef83f324bc6a60">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="fact-sources"><a href="#source-p-princeton-program-74ef83f324bc6a60">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：中国中学材料与英文批改论文：</strong>按所读国家课程体系理解成绩，无需自行换算GPA；有毕业离校考试者由学校提交预估或已取得成绩。需提交教师批改过的英文论文，论文及教师评语必须原本以英文写成，不能用中文论文翻译件代替。</p>
+<p class="fact-sources"><a href="#source-p-princeton-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：2027和2028考试政策分开：</strong>2027秋季新生/转学生仍可选择不交SAT/ACT，不因不交受劣势；恢复要求SAT/ACT的是2028秋季入学，即2027–2028申请周期。不能把申请周期误写成入学年份。</p>
+<p class="fact-sources"><a href="#source-p-princeton-testing">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：英语能力：</strong>英语非母语且学校非英语授课者须TOEFL、IELTS Academic、DET或PTE Academic；母语英语或至少三年英语为主要教学语言的中学学习可免。本轮未取得统一IELTS硬最低值，不编造分数。</p>
+<p class="fact-sources"><a href="#source-p-princeton-checklist">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国中学材料与英文批改论文：</strong>按所读国家课程体系理解成绩，无需自行换算GPA；有毕业离校考试者由学校提交预估或已取得成绩。需提交教师批改过的英文论文，论文及教师评语必须原本以英文写成，不能用中文论文翻译件代替。</p>
+<p class="fact-sources"><a href="#source-u-princeton-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027和2028考试政策分开：</strong>2027秋季新生/转学生仍可选择不交SAT/ACT，不因不交受劣势；恢复要求SAT/ACT的是2028秋季入学，即2027–2028申请周期。不能把申请周期误写成入学年份。</p>
+<p class="fact-sources"><a href="#source-u-princeton-testing">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语能力：</strong>英语非母语且学校非英语授课者须TOEFL、IELTS Academic、DET或PTE Academic；母语英语或至少三年英语为主要教学语言的中学学习可免。本轮未取得统一IELTS硬最低值，不编造分数。</p>
+<p class="fact-sources"><a href="#source-u-princeton-checklist">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：共同申请与作品集日期：</strong>通过Common App及Princeton补充问题，交批改论文、学校报告、成绩、辅导员及两位不同学科教师推荐。当前SCEA主申请11月1日、RD1月1日，艺术补充材料分别11月6日/1月8日，不能混为同一天；本页月日未逐项标入学年，申请时再确认当年日历。</p>
+<p class="fact-sources"><a href="#source-p-princeton-dates">官方依据</a> · <a href="#source-p-princeton-checklist">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>共同申请与作品集日期：</strong>通过Common App及Princeton补充问题，交批改论文、学校报告、成绩、辅导员及两位不同学科教师推荐。当前SCEA主申请11月1日、RD1月1日，艺术补充材料分别11月6日/1月8日，不能混为同一天；本页月日未逐项标入学年，申请时再确认当年日历。</p>
+<p class="fact-sources"><a href="#source-u-princeton-dates">官方依据</a> · <a href="#source-u-princeton-checklist">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：2026–2027年度学费：</strong>标准学费US$68,140；校方基础全年预算US$94,624。交通按人估计另计，未有合资格家庭保险者须购买学生医保；不把基础预算当中国学生含全部机票和保险的固定总价。</p>
+<p class="fact-sources"><a href="#source-p-princeton-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：国际生经济资助：</strong>国际生同样不因经济需要影响录取，并满足学校认定的全部需要；以无需偿还助学金提供，学校不设学术或体育merit奖。家庭承担额按学校对家庭资料的评估确定。</p>
+<p class="fact-sources"><a href="#source-p-princeton-international">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–2027年度学费：</strong>标准学费US$68,140；校方基础全年预算US$94,624。交通按人估计另计，未有合资格家庭保险者须购买学生医保；不把基础预算当中国学生含全部机票和保险的固定总价。</p>
+<p class="fact-sources"><a href="#source-u-princeton-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生经济资助：</strong>国际生同样不因经济需要影响录取，并满足学校认定的全部需要；以无需偿还助学金提供，学校不设学术或体育merit奖。家庭承担额按学校对家庭资料的评估确定。</p>
+<p class="fact-sources"><a href="#source-u-princeton-international">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业毕业调查缺口：</strong>本轮未取得有明确毕业届次、回应样本和国际/中国学生口径的本专业就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-p-princeton-program-74ef83f324bc6a60">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>专业调查范围：</strong>本轮未取得36个本科学习领域的同届国际/中国生就业率与薪酬分组调查，单门课或领域概览不能代替毕业结果。</p>
+<p class="fact-sources"><a href="#source-u-princeton-international">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -59,5 +118,16 @@ hide:
 - [官方项目页面或项目所在目录](https://www.princeton.edu/index%2Ephp/academics/area-of-study/near-eastern-studies)
 - [官方目录](https://www.princeton.edu/academics/areas-of-study?degree=All)
 
+<div class="catalog-source" id="source-p-princeton-program-74ef83f324bc6a60"><div><a href="https://www.princeton.edu/index%2Ephp/academics/area-of-study/near-eastern-studies">Near Eastern Studies 官方培养资料 ↗</a><p>本条培养表、具体学习单元及资料范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-princeton-international"><div><a href="https://admission.princeton.edu/apply/international-students">princeton 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-princeton-testing"><div><a href="https://admission.princeton.edu/apply/standardized-testing">princeton 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-princeton-checklist"><div><a href="https://admission.princeton.edu/apply/application-checklist">princeton 官方本科资料：checklist ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-princeton-dates"><div><a href="https://admission.princeton.edu/apply/first-year-application-dates-deadlines">princeton 官方本科资料：dates ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-princeton-fees"><div><a href="https://admission.princeton.edu/cost-aid/fees-payment-options">princeton 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-princeton-international"><div><a href="https://admission.princeton.edu/apply/international-students">princeton 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-princeton-testing"><div><a href="https://admission.princeton.edu/apply/standardized-testing">princeton 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-princeton-checklist"><div><a href="https://admission.princeton.edu/apply/application-checklist">princeton 官方本科资料：checklist ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-princeton-dates"><div><a href="https://admission.princeton.edu/apply/first-year-application-dates-deadlines">princeton 官方本科资料：dates ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-princeton-fees"><div><a href="https://admission.princeton.edu/cost-aid/fees-payment-options">princeton 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/princeton/">← 返回普林斯顿大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -21,12 +21,12 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>英语为主</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,17 +42,62 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eb7346b54e3cc7">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学科范围：</strong>官方本科招生介绍的范围：凝聚态、光学、等离子体、高能理论、复杂系统及生物物理等研究领域。这是学科说明，本轮未核完整必修、学分和专业毕业调查。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-eb7346b54e3cc7">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际本科授课语言：</strong>2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-5b6c4de709b7df">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国籍与毕业时间：</strong>国际本科申请者不得持韩国国籍（含双重国籍），且须双亲均非韩国籍，或符合韩裔申请者全部中小学教育在韩国境外完成的另一条路径。2027春须于2月28日前高中毕业，秋季于8月31日前毕业。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-5b6c4de709b7df">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国高中／国际课程材料：</strong>2027须至少一项正式标准化成绩，可为SAT/ACT/AP/IB/A-Level或国家高中毕业／大学入学考试；须有数学科学能力证据。高中毕业／大学入学考试成绩还需一页考试背景说明。IB/A-Level可由学校确认预测成绩，后补实际分；本轮未取得专属高考录取分数线。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-5b6c4de709b7df">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语是必交，分数为建议值：</strong>除获英语国家国籍或全高中英语授课证明等豁免者，须交英语考试。官网建议IELTS6.5；TOEFL旧制83、新制4.5（2026-01-21起），这些是recommended而非保证录取线。不接受DET、ITP及居家／线上考试版本。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-5b6c4de709b7df">官方依据</a></p>
+
+<p class="catalog-fact"><strong>入学后选专业：</strong>新生按未定专业入学；完成大一后可选择专业，官网注明无院系名额配额。国际生不设转学制，已有大学经历仍按新生申请；注册时不得同时在另一大学保留学位学习身份。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-aa009e11a49846">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027 Early与Regular：</strong>Early为2026-09-22至10-22 18:00韩国时间，可选2027春或秋；Regular为2026-11-10至2027-01-14 18:00，只对应秋季。2026-09-12尚未开放本周期。可选推荐信各于10-29／1-21截止。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-5b6c4de709b7df">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请渠道及推荐信变化：</strong>通过KAIST国际本科在线申请，初步阶段上传扫描件。2027起推荐信改为可选、强烈建议且最多2封；不能沿用旧年度必交一封的要求。本轮未在摘要列全部分项材料。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-5b6c4de709b7df">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>现行本部学费预算：</strong>费用页列每学期KRW3,433,000，两个学期合计6,866,000；同页另列住房、饮食、保险。页面本轮未核到明确适用入学年，不能当作2027锁定价。奖学金单独列，不先从账单中自动扣除。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-91848ae086fd19">官方依据</a></p>
+
+<p class="catalog-fact"><strong>KAIST Scholarship条件：</strong>国际招生录取者可获得8学期全额学费豁免、每月KRW350,000生活费及医保支持；在申请表财力部分勾选KAIST scholarship。大一后须维持GPA超过2.7/4.3；不是无条件覆盖任何延长学期。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-af2aa68828e669">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -65,5 +110,11 @@ hide:
 - [官方项目页面或项目所在目录](https://natsci.kaist.ac.kr/eng/sub0201)
 - [官方目录](https://admission.kaist.ac.kr/intl-undergraduate/before/sub01)
 
+<div class="catalog-source" id="source-p-ASREN-eb7346b54e3cc7"><div><a href="https://admission.kaist.ac.kr/intl-undergraduate/before/sub01">KAIST本科招生学科说明 ↗</a><p>各学科领域说明，不是完整课程表或毕业统计</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-5b6c4de709b7df"><div><a href="https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf">KAIST国际本科2027春秋招生简章 ↗</a><p>2027申请身份、材料、英语、未定专业与授课语言</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-5b6c4de709b7df"><div><a href="https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf">KAIST国际本科2027春秋招生简章 ↗</a><p>2027申请身份、材料、英语、未定专业与授课语言</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-aa009e11a49846"><div><a href="https://admission.kaist.ac.kr/intl-undergraduate/before/sub02">KAIST国际本科资格 ↗</a><p>一年级未定专业及不可转学</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-91848ae086fd19"><div><a href="https://admission.kaist.ac.kr/intl-undergraduate/support/coa">KAIST本部本科费用预算 ↗</a><p>现行学费及奖学金分列，不含确定2027年度</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ASREN-af2aa68828e669"><div><a href="https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist">KAIST Scholarship ↗</a><p>国际招生资助及GPA续领条件</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/south-korea/kaist/">← 返回韩国科学技术院</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

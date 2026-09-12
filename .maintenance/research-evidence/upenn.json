@@ -1,0 +1,1253 @@
+{
+  "university_id": "upenn",
+  "sources": [
+    {
+      "url": "https://admissions.upenn.edu/how-to-apply/first-year-applicants",
+      "sha256": "c4ef5f8db2d295f587c3daf3d73b98bd3cb88993481d21d3e312b64f98b72700",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/upenn/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.upenn.edu/how-to-apply/international-applicants",
+      "sha256": "8def5694d81714068c98e7a061495e5c586b9c85d09e705f425c7fb19385348a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/upenn/international.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.upenn.edu/how-to-apply/preparing-your-application/testing",
+      "sha256": "36f920d95f65b22b5569d42e05c66f13de979ba0c90c5facf0ec47d61302e001",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/upenn/testing.html",
+      "locator": null
+    },
+    {
+      "url": "https://srfs.upenn.edu/costs-budgeting/undergraduate-cost-attendance",
+      "sha256": "702f01a4b981ea4d6f80cdbf3a09f9647f7e84564bcf2d2ac9408902f50cac8a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/upenn/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.upenn.edu/affording-penn/international-aid",
+      "sha256": "d853a38fce314d40e25517af1ae7a7524e10fb8ff5b09908151fba0f20ca5693",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/upenn/aid.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/accounting-bs/",
+      "sha256": "f1199920873e1520c7b1b3d12db6eb848877cfb70a42246746346c4ec0b0d3e8",
+      "raw_file": "scratch/full-catalog/us-details/upenn/1fcf73842aa643175179.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/africana-studies-african-american-ba/",
+      "sha256": "0676e4c463c572ffbe0a34e53e893d47dce30865f91e4ed9aa4ba5b83fa4b0ec",
+      "raw_file": "scratch/full-catalog/us-details/upenn/2c75b09afc5142be0e43.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/africana-studies-african-diaspora-ba/",
+      "sha256": "ea68f5e80bbc1c46dbded3f369c071c2d10e219e597335921484f55a31b75a20",
+      "raw_file": "scratch/full-catalog/us-details/upenn/849153ecda9b301a74fe.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/africana-studies-african-studies-ba/",
+      "sha256": "33ddcb21d57257221e98f6e7fa88eae431bc367d65ea67f12dd5bb9a23878270",
+      "raw_file": "scratch/full-catalog/us-details/upenn/91861848c6f0405d0be3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/ancient-history-ba/",
+      "sha256": "12712c844d83bcffd4268479eaa486021dc8bc0a5d36f547b7118bede3f3b326",
+      "raw_file": "scratch/full-catalog/us-details/upenn/82c6df366c4899c04689.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/anthropology-archaeology-ba/",
+      "sha256": "0707f8a725c1e8ed75969ddf9e3daec98ed42579a26432a89b556e7b5c4f47d1",
+      "raw_file": "scratch/full-catalog/us-details/upenn/863605b2280f026ac867.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/anthropology-human-biology-ba/",
+      "sha256": "26c95655049e1e7c0257302b1b9b32895bd7a5aabce1085bc07c761a7fefd6d6",
+      "raw_file": "scratch/full-catalog/us-details/upenn/78d9d271846f375433aa.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/anthropology-cultural-linguistic-anthropology-ba/",
+      "sha256": "9c16e669c754772b2307a6eff6fe4f63dc74ca2765ca391ccc1b118d604a33ad",
+      "raw_file": "scratch/full-catalog/us-details/upenn/9811a11c4edb7cf135f5.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/anthropology-environmental-ba/",
+      "sha256": "76a14949ce7e98bc238b15c8ab384493e7a186c67aa9022bce8677cde18940c8",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c46b95ab8b82e286b41e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/anthropology-general-anthropology-ba/",
+      "sha256": "ca1881fb86cca4805b85aff4857a332e3a18ac9c47ada5367a0c378ed9fb34a2",
+      "raw_file": "scratch/full-catalog/us-details/upenn/fdacada10e29c0d3e8f9.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/anthropology-medical-anthropology-global-health-ba/",
+      "sha256": "e0e451b5cbd3331585b36ab71ea26ac33448b8d59fff017e1220e71f4d6d2a3e",
+      "raw_file": "scratch/full-catalog/us-details/upenn/6e65c0faedc63cb76230.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/architecture-design-ba/",
+      "sha256": "fa32f3da91caa963604b51ab07ac225a52a71091f85cc2f3476c45fa79cec3d1",
+      "raw_file": "scratch/full-catalog/us-details/upenn/5b82c0bc3f65605ed31d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/architecture-design-intensive-ba/",
+      "sha256": "eccaeaaacf5706efb2cee4990e1e5941da4491df125e1546947e9d6f46701503",
+      "raw_file": "scratch/full-catalog/us-details/upenn/bc0e6a0618c6334682ab.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/artificial-intelligence-business-bs/",
+      "sha256": "5fd331035ba0556ca3e6c38e7002d15da0eef0a7f6ed36c9ad05fbb8f60af92b",
+      "raw_file": "scratch/full-catalog/us-details/upenn/7791f5e8a8ab1a661bf1.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/artificial-intelligence-bse/",
+      "sha256": "ee532f9daf69cf0624c23c4ee87f6d98f98e337de3bb116b35237608f505a4e1",
+      "raw_file": "scratch/full-catalog/us-details/upenn/450701833d41b3880bbc.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/behavioral-economics-bs/",
+      "sha256": "8f47e50b18213b534164b1ef0c7d958e4839bea22b0e79dfc8535f2dd1b8b763",
+      "raw_file": "scratch/full-catalog/us-details/upenn/0cd0fbb6518432a2871d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/biochemistry-ba/",
+      "sha256": "73cc2da128f60dfb80b9751337b8768a749317d4ed1ea2752248211a4e89738b",
+      "raw_file": "scratch/full-catalog/us-details/upenn/d609af33a04e17633d5a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/bioengineering-bse/",
+      "sha256": "786ff88c28c62579c016fcde16ad0dc812227f5820738750ea13277d6c301c18",
+      "raw_file": "scratch/full-catalog/us-details/upenn/7de4589de29ca41a7b20.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/biology-general-biology-ba/",
+      "sha256": "833a4c971ac5cfe73c04489b77b7902203150b495eab45755ce7a15f01bbc050",
+      "raw_file": "scratch/full-catalog/us-details/upenn/a6b4058a95d5390649bf.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/biomedical-science-bas/",
+      "sha256": "fc82ff95fe0b1bc98bdd0ac0ef329407320380dd6f378af033ebda79fe14e970",
+      "raw_file": "scratch/full-catalog/us-details/upenn/f96ddfe4b860a81a9921.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/biophysics-ba/",
+      "sha256": "59536c98001a9812f9c8ed927c95d96d4ec02393bab99bbcfc6851b1a5876f80",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e4c14cd0baf1a9c01c52.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/business-analytics-bs/",
+      "sha256": "5743c82787f5dc508ec1fc78e58755c4d01e0b47a769e95df4456ab3c1f6283c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/14decd10764e5f06c3ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/business-economics-public-policy-bs/",
+      "sha256": "0a5273afbdf7406e82e694bd5993807fc7e34c2c20d97978504cf9bca6384825",
+      "raw_file": "scratch/full-catalog/us-details/upenn/a15e89f29996bef4fcd4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/chemical-biomolecular-engineering-bse/",
+      "sha256": "1f5edfc655ffd369a04292b3f615fb7f1838a002e29bb47ef7392b92d83ebda9",
+      "raw_file": "scratch/full-catalog/us-details/upenn/cd7d1fc4f85f1f6a33a2.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/chemistry-ba/",
+      "sha256": "1d97d2edb62ea9324bc114e2ec70e022a2d172b88852f0f304a5ed17d5bb7b8d",
+      "raw_file": "scratch/full-catalog/us-details/upenn/2e9018234b02441fdef8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/cinema-media-studies-ba/",
+      "sha256": "eaab897c53e6d1e82c1fb8d1948cb6644caf30984c1af9179c2e166cb5622fbb",
+      "raw_file": "scratch/full-catalog/us-details/upenn/07439eabcbfb6f8f5299.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/classical-studies-classical-civilizations-ba/",
+      "sha256": "bffa0cd75fe02f64f4c24d17a210efab1fb2cbd4bf8ea34da702375034457139",
+      "raw_file": "scratch/full-catalog/us-details/upenn/4fa5927c9ffe1bee9748.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/classical-studies-classical-languages-literature-ba/",
+      "sha256": "20c57d63c0024db4827db5c5c5fd24786fa14b7647339d87e8c1961c4104ec75",
+      "raw_file": "scratch/full-catalog/us-details/upenn/597ef0a2db3a632d2801.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/classical-studies-mediterranean-archaeology-ba/",
+      "sha256": "5e8beceb9d69e8f9e05c23aa5b31cea1eb826886eb881183ebd834996807dea9",
+      "raw_file": "scratch/full-catalog/us-details/upenn/ec123bf91d47829c7f7c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/cognitive-science-cognitive-neuroscience-ba/",
+      "sha256": "7a70859a81db7b204b99111bac5692bd281a3f988cf0603ffe6c922017008752",
+      "raw_file": "scratch/full-catalog/us-details/upenn/2e241a34d3dceb941acf.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/cognitive-science-computation-cognition-ba/",
+      "sha256": "784294f138dad4e348048e5f017c4b70d66da5ee885ad469382f89a41e2701c0",
+      "raw_file": "scratch/full-catalog/us-details/upenn/02992f694d88343ff544.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/cognitive-science-individualized-ba/",
+      "sha256": "5b1f3702f61f62336293810c3bb20b5fef337266aba39c79306818d67bc9e4cb",
+      "raw_file": "scratch/full-catalog/us-details/upenn/b2939009baf3444635b5.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/cognitive-science-language-mind-ba/",
+      "sha256": "3b98ee018b73839e1ff5ce1b38434e477219b0b21ac7974dae575774dd56033d",
+      "raw_file": "scratch/full-catalog/us-details/upenn/a06b45413a825af31d3a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/communication-public-service-ba/",
+      "sha256": "44dcede3b287fc5ca39bbb5d717326b584e6eeedf8f48df351a5e7085377deda",
+      "raw_file": "scratch/full-catalog/us-details/upenn/25064e2134a264f796f4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/communication-communication-culture-journalism-studies-ba/",
+      "sha256": "dc099ae81654e8febe7cc2978e50868cce4f9999ce17e523fd32e8d042069b4a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c3855f964cce138da21b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/communication-data-network-science-communication-ba/",
+      "sha256": "0b7baf456359fe2db016fbe5f4b863b0bdb2a179ae1bb1753281ea569fa19c68",
+      "raw_file": "scratch/full-catalog/us-details/upenn/a9a7240e07d653d8ca42.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/communication-ba/",
+      "sha256": "8b05365f0d233e065c7af6270cce80ead4b0a16a3a7c4ed26a54e33f5ad1cd0a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/0e44aadea7e399081446.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/communication-media-audiences-persuasion-ba/",
+      "sha256": "022a37a8609c98d450494138a0dd5c5a71c4e6be8f4f151957de88cbee83297f",
+      "raw_file": "scratch/full-catalog/us-details/upenn/23349268a2ac47e245af.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/communication-politics-policy-advocacy-ba/",
+      "sha256": "4650a167732eeb8d3d7a6d58415beca8122dcfe3732b366d6339b11819243d6a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/f9766564551758219f0f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/comparative-literature-transnational-literature-ba/",
+      "sha256": "a396a42c0f2f42822aad8e49697168147824d0237f257b703e201cda7062cc0c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/07193d8276485f9506ab.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/comparative-literature-globalization-ba/",
+      "sha256": "f985ae40d791e76a6704172d65a8a1d73a521b6c69d60178f92159661a9007c3",
+      "raw_file": "scratch/full-catalog/us-details/upenn/95a04e91eeacf04301a7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/comparative-literature-theory-ba/",
+      "sha256": "01070d916349f35657cb1b2feea38797d3eb1bb8547073c491eeab17ef3f258d",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e018256272ecdfada66c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/computer-engineering-bse/",
+      "sha256": "e64d3e9d9a8876b19b974a9997fdcff7d47e8c8baec3874f185e608bb38b46ec",
+      "raw_file": "scratch/full-catalog/us-details/upenn/5773e11445a74f73c39c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/computer-science-bas/",
+      "sha256": "3c60c1cf2ae8ed2abcb3f615288381f7cee3b03320653787d77ce72224dbac13",
+      "raw_file": "scratch/full-catalog/us-details/upenn/7aef902390270bcfd6b3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/computer-science-bse/",
+      "sha256": "6af39c155136f7a572c47f0665392b6b184599fb1e1a71c4c5bdd1c41a9b03c7",
+      "raw_file": "scratch/full-catalog/us-details/upenn/9acc2ed29328320e5f9f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/creative-studies-baas/",
+      "sha256": "a0708920cdc9907b99ae96a18b4e34adef55f2d8019f770a01f2523289f3c879",
+      "raw_file": "scratch/full-catalog/us-details/upenn/1926ac0b58c73b575ef8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/criminology-ba/",
+      "sha256": "3f056cfe427d00605140aa16fdec4be9830dd115a583d9a084e923860de60fe0",
+      "raw_file": "scratch/full-catalog/us-details/upenn/ac5d89076827a6d828d8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/data-analytics-psychological-sciences-baas/",
+      "sha256": "05ef5d16688e74e3085dc793d62b9b967ba3fe2fb1476c1d858119d791dddcfa",
+      "raw_file": "scratch/full-catalog/us-details/upenn/484ca60f4aa3338fb06c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/data-analytics-social-sciences-baas/",
+      "sha256": "9710c2c7157f1649e11cd5ab98c26b161f822537aec8cce2316d15c5316ede9f",
+      "raw_file": "scratch/full-catalog/us-details/upenn/1c3a8cea40af5590fdde.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/design-ba/",
+      "sha256": "a5686557a4dbfb4fe1ef2114e99312453a73d9befc3cb1abae380921c32cf6ba",
+      "raw_file": "scratch/full-catalog/us-details/upenn/7de2449847b5e6c57ba5.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/digital-media-design-bse/",
+      "sha256": "ee5d89ea245762b633e70be2636a37d298d6faca9a21140251da7aa6b62b5337",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c29e98726877feaf5553.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/earth-environmental-science-ba/",
+      "sha256": "880c4586231e7bb638464616add4369314f9733f124d455ccf2a88d029c4e643",
+      "raw_file": "scratch/full-catalog/us-details/upenn/285fbdaff9235c20ab51.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/east-asian-languages-civilizations-dual-language-ba/",
+      "sha256": "90e2b868cdec08b6fbac4688ef8bc397707919176b22057dbd7950bc26985c01",
+      "raw_file": "scratch/full-catalog/us-details/upenn/cf7ed13ad5f01f20be23.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/east-asian-languages-civilizations-east-asian-area-studies-ba/",
+      "sha256": "face4fef6a9d1303a89608b44b37e15da9949596509edc12b84dd677f3469075",
+      "raw_file": "scratch/full-catalog/us-details/upenn/d35443b4548158935312.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/east-asian-languages-civilizations-ba/",
+      "sha256": "e125ea12918a2cfcfe61bad8c48f9d036375026526e741f75ba4fe8b52b63e40",
+      "raw_file": "scratch/full-catalog/us-details/upenn/8ec3d235359b18a4addc.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/economics-ba/",
+      "sha256": "7c574924f80950ef081412aa39387438cdecdab2a0ac81b5d47f4bdf8b587805",
+      "raw_file": "scratch/full-catalog/us-details/upenn/88578081ba4a3c3a13ec.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/electrical-engineering-bse/",
+      "sha256": "e4a0b078db12ee686142b8a57f879fff722d461726c367eed61c3de2ae1697d4",
+      "raw_file": "scratch/full-catalog/us-details/upenn/47294ce5b83c104d6aa8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-18th-19th-centuries-ba/",
+      "sha256": "d407e9c02fd5a6b1424ead9938c1e28663eeeb70c58d30da4954faf1d0d2ccbb",
+      "raw_file": "scratch/full-catalog/us-details/upenn/31394cf5921e05e9d42d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-20th-21st-centuries-ba/",
+      "sha256": "ca5830a0ef90485429fa310c5bfe1fa43719c2808572858b15157f6d602841b3",
+      "raw_file": "scratch/full-catalog/us-details/upenn/3b277a11b6e6d6a49f95.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-africana-literature-culture-ba/",
+      "sha256": "9394c81d61ebd105ab2abe622194d123002a8eafeed96afc307d6bda81ce9ce9",
+      "raw_file": "scratch/full-catalog/us-details/upenn/f358d4a8d98deefdbaf0.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-cinema-media-studies-ba/",
+      "sha256": "000a128a5ca0124a49fe938746ff31437b3e279e57b1d29db8586f214208f96c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/b45d9f30a0c250e7137e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-creative-writing-ba/",
+      "sha256": "9397f3e409a4edb0b17fe79c5e1bcfe5d7f301cc682179e3a60f4b9fb4869d6b",
+      "raw_file": "scratch/full-catalog/us-details/upenn/d16b792d830b3c17e654.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-drama-ba/",
+      "sha256": "652c3016a0e9e4f4a9c0aad3feaa39aa08d227a67a35521161ee93d5f949d2f1",
+      "raw_file": "scratch/full-catalog/us-details/upenn/a456ecfa121b74614f50.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-gender-sexuality-ba/",
+      "sha256": "7d3f3f88cc6a54dce5b309e8d2b327df042047bdea7dbabaf6641cfa13bf95e1",
+      "raw_file": "scratch/full-catalog/us-details/upenn/721064001f44bb7b590a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-ba/",
+      "sha256": "5b26a6dcf7451bc3f811adc5b0588c7e65325bfca55769c8dea8c888bafc5037",
+      "raw_file": "scratch/full-catalog/us-details/upenn/8fc4bf471f81e8f6f260.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-literary-theory-cultural-studies-ba/",
+      "sha256": "d74ae4f80aff0be0db611aa6b88a6d24c4f2cf39d4bcae24f6c8dd823d986c26",
+      "raw_file": "scratch/full-catalog/us-details/upenn/6983a52d575549db4dea.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-literature-journalism-print-culture-ba/",
+      "sha256": "14cbf7d4bfc663912d96b24f43c3f0f6edd8b0fe1451bd8f104080649431f7e5",
+      "raw_file": "scratch/full-catalog/us-details/upenn/d99f46f4d48ec97bcfe0.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-medieval-renaissance-ba/",
+      "sha256": "372724eed9adf937d166470779438dd15e165d6c99ee0a925250efab62b90e1f",
+      "raw_file": "scratch/full-catalog/us-details/upenn/48c2f2e5522e963b40a2.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-poetry-poetics-ba/",
+      "sha256": "a0e436c9749cfb65f6761dcccb1525cd93b983004cb55a2c324f2726448844ed",
+      "raw_file": "scratch/full-catalog/us-details/upenn/93279a0df24009b98010.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/english-novel-ba/",
+      "sha256": "4b6964a7dea4f55f12f771b113cfe6c36d890a46ec05bb96054966bbaca6fc2c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/00320ce329a2240f01d7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/entrepreneurship-innovation-bs/",
+      "sha256": "c653ce21629309210d9bcb758c00e0675acaaca4ecc36a6321b8ad2663606ae5",
+      "raw_file": "scratch/full-catalog/us-details/upenn/2e14aee080e3dd9d44cd.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/environmental-studies-history-regional-ba/",
+      "sha256": "c92ecd61538603b1d8d71bf3d7be08a0898f235eed81b7d66d4697adea38932a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/1b50c1a29bb54438f67e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/environmental-studies-policy-application-ba/",
+      "sha256": "6ce23723dd92e1f3872b6459f85e7da82f0cdfbd6a1e20680b5689b528b16ffa",
+      "raw_file": "scratch/full-catalog/us-details/upenn/db4804eed965a720f13b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/environmental-studies-ba/",
+      "sha256": "64ffa12da02d18d7ec6ebe7d4890c99342e4529071b44fcdf11a9a625939cb3a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/6e9e6182099e4fb04118.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/environmental-studies-global-systems-ba/",
+      "sha256": "acf00dab2fe5a5c24430050562dad07c5817592f2f369374920532142b75c974",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c7848402c0ccb87bbb4c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/environmental-studies-sustainability-management-ba/",
+      "sha256": "469e9b6d4536511f7d7b43413e5306e4a0459fc36e9185d97b1b19785031fc2e",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c2a534031c4fc9fa4b3a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/finance-bs/",
+      "sha256": "4d71fc97221bee12cd5da66aba1c85d7a8407122178ee56178f3ca2a0c87d725",
+      "raw_file": "scratch/full-catalog/us-details/upenn/b807fef20fddb462b597.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/fine-arts-ba/",
+      "sha256": "3793df73b024c1b4964929565636cf2bcbc23063a8f578aa3ab57c6322a695b6",
+      "raw_file": "scratch/full-catalog/us-details/upenn/d2a27a842218598cfd00.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/fine-arts-bfa/",
+      "sha256": "cc852deaf82c876c588b2846a217cbba30d330558da68f3250e53a033906f29f",
+      "raw_file": "scratch/full-catalog/us-details/upenn/3a88fa1c350fba00c5c5.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/francophone-italian-germanic-dual-language-ba/",
+      "sha256": "32e41809677360be05eeb3d65ae8caedfe6ff5affb8b6b20ff0f2794202ba324",
+      "raw_file": "scratch/full-catalog/us-details/upenn/83ea65a641cd845e727f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/francophone-italian-germanic-french-francophone-ba/",
+      "sha256": "d25860d82c9259671b8b0698761fcba89fa652f0e9577150358973506d87cc4e",
+      "raw_file": "scratch/full-catalog/us-details/upenn/f4f53303412b83c21b0a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/francophone-italian-germanic-germanic-ba/",
+      "sha256": "75b2e6b54d20a202b989f5718ae9236b80b4a65bb019401a3eab9b60c551c60e",
+      "raw_file": "scratch/full-catalog/us-details/upenn/b0607fad1d4e40e6f4af.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/francophone-italian-germanic-italian-ba/",
+      "sha256": "fce5ba1e68bfb2c1257bba3b024a13ab79bc1794d0cdd8cb35ac23ec7ff76a43",
+      "raw_file": "scratch/full-catalog/us-details/upenn/20c7a672b1bd0e58912d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/gender-sexuality-womens-studies-feminist-studies-ba/",
+      "sha256": "9604e2aa8f676c2e1ac4be16cbce7baf362559ac297cfe70a10c39ca6c8583f9",
+      "raw_file": "scratch/full-catalog/us-details/upenn/31ad62464ac92aae95eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/gender-sexuality-womens-studies-ba/",
+      "sha256": "cbf2d063ca329e26aef95fecc85d6236e93ab4540fd8265daa59cec95253e1c3",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e81a66d7dcadd4f3b39b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/gender-sexuality-womens-studies-global-gender-sexuality-studies-ba/",
+      "sha256": "418e069dc46b63fe1f2db095d717a7fce602f7f3b9345947c81365a311b83530",
+      "raw_file": "scratch/full-catalog/us-details/upenn/43ee8ceb13d3d3af36d8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/gender-sexuality-womens-studies-health-disability-studies-ba/",
+      "sha256": "df0b52ca03481eacc1aba53bddfa44487bb9b356bbf47b3892c61691140106e1",
+      "raw_file": "scratch/full-catalog/us-details/upenn/907f04599f0fa5682323.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/gender-sexuality-womens-studies-lgbtq-studies-ba/",
+      "sha256": "e9efd8abbba88658304d7cd2594f13db5fefb872f99675f7102bdc1e2c4c5174",
+      "raw_file": "scratch/full-catalog/us-details/upenn/42a66559078cb7778344.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/gender-sexuality-womens-studies-self-designed-ba/",
+      "sha256": "5bea54d18fa788e80706513bf2c6b6596b59c462ddd565255313f9ba2159a5b3",
+      "raw_file": "scratch/full-catalog/us-details/upenn/10066177e294f6adc033.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/health-societies-bioethics-society-ba/",
+      "sha256": "da12dd1429fc333421f2f010d8bee1efe4628c85c22258de1b183fb618dff88a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/64407dd4d91c54b0b627.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/health-societies-disease-culture-ba/",
+      "sha256": "44c764cf5ed9100e7c5cee6d7184826c4a726a14c38c0482da0bf72b29459ca6",
+      "raw_file": "scratch/full-catalog/us-details/upenn/4823ab4316fe32ea9a29.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/health-societies-global-health-ba/",
+      "sha256": "6ccd5fd741047078983faf55e1b5a55bfe53723064e3d884476d6af50b590de1",
+      "raw_file": "scratch/full-catalog/us-details/upenn/58e340558847619dfc7a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/health-societies-health-care-markets-finance-ba/",
+      "sha256": "45be97b5a3f9ac22738146234d83f6b2a3f794e9c5fc07f5062c068ff0f8f665",
+      "raw_file": "scratch/full-catalog/us-details/upenn/7fddf605911076e4a714.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/health-societies-health-policy-law-ba/",
+      "sha256": "c4dd5ff2c6d5a5cff720b06d5238468e4db06479c8cfb3c6d0e84cb957f228ea",
+      "raw_file": "scratch/full-catalog/us-details/upenn/16a1cc0ce4eba46643fc.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/health-societies-public-health-ba/",
+      "sha256": "181f536e2b7f67513af1d43f4ce873dbbfb576aaddf58b2d8b864c9c681ed431",
+      "raw_file": "scratch/full-catalog/us-details/upenn/d954ed3a9e3a5bed5671.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/health-societies-race-gender-health-ba/",
+      "sha256": "3c6ff488615925180c96f89b9b167de896fc37a1d2cda96b3e0d2d0541efa0a2",
+      "raw_file": "scratch/full-catalog/us-details/upenn/de7e56a06df77e9d67e9.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/health-care-management-policy-bs/",
+      "sha256": "2d8f2fc094b6f1f44ad213720584481f2b4ca15c38c2832e9b4cff74070afb5a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/b2f2e0750b2b9439b8c5.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/hispanic-studies-ba/",
+      "sha256": "22c77aacd12ba3d571f49bcae4bec95aa98c358b6992e423e1d1a37af5b3d943",
+      "raw_file": "scratch/full-catalog/us-details/upenn/9a37a4d50ed6ff678387.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-art-ba/",
+      "sha256": "c7354ed941ae8d3a04d06de2daf7c438d5dd6128fbdc41954beac967347476ab",
+      "raw_file": "scratch/full-catalog/us-details/upenn/b5e88c4d837cee2f5b93.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-american-history-ba/",
+      "sha256": "c27e202629d2649f6919d6092a8b3531a0a21381e95db5442dab445c0480f829",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e2d72c720665664146dd.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-diplomatic-history-ba/",
+      "sha256": "6e3efb50cce7fe7bb9907b912bee0d10cecc61465eb0e2a118189bd171e6fd26",
+      "raw_file": "scratch/full-catalog/us-details/upenn/284895780a2ad7c43a6d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-economic-history-ba/",
+      "sha256": "c429e79d5daa68902488c58eee73ab90d0119c3fda5a8a1eb7090d56f97ecdc9",
+      "raw_file": "scratch/full-catalog/us-details/upenn/44e93c592425140ae62d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-european-history-ba/",
+      "sha256": "d912a31c07693443a643dcdd00ecd88b42b738dc921ba8b61ebd375d1e0c1846",
+      "raw_file": "scratch/full-catalog/us-details/upenn/6074017195e936c544a5.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-gender-history-ba/",
+      "sha256": "d6735459e610e87d62fdff0566ebf5190a5c1c91d7017763c40aa06205a2da57",
+      "raw_file": "scratch/full-catalog/us-details/upenn/8b5227dd83d5b0c9a2c0.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-general-history-ba/",
+      "sha256": "50005f5463ebc874d17e8f9edc479fc7a5f97087da0b2a611b4194f6dc737feb",
+      "raw_file": "scratch/full-catalog/us-details/upenn/2e82a23d671252137e98.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-intellectual-history-ba/",
+      "sha256": "184df84e1a48a9e10fa4e4e5584f97c80953b3b25b83e90e7554478759654a0a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/bff06587edb1876c5a49.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-jewish-history-ba/",
+      "sha256": "40d04b0be7b47e78d93479083842be734b3c5ee3a99128ebbcd83a3e99481fcf",
+      "raw_file": "scratch/full-catalog/us-details/upenn/5e84745c5326f4b81ff5.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-political-history-ba/",
+      "sha256": "ee625c407e6526cbe6fc2b99bd8ada10b11bb8ab4c5ad7ea05183fabb0f69b81",
+      "raw_file": "scratch/full-catalog/us-details/upenn/3968ae73e3598b575d10.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/history-world-history-ba/",
+      "sha256": "15d9e062daae186dc523b08cf8214fc0bdbbfd5fc1eae84c02abd2d8f0c76a54",
+      "raw_file": "scratch/full-catalog/us-details/upenn/dbe904395ed8d205d2c9.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/impact-value-sustainable-business-bs/",
+      "sha256": "340d352e1bb1b3ce9ca5fec9d94bf3dc464a515a1d2429d0775c29e3e6e24984",
+      "raw_file": "scratch/full-catalog/us-details/upenn/0173ff0d0aee5c852c43.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/individualized-major-indm-ba/",
+      "sha256": "91510b30174f43d365d59c8ea4cb39d1c770dbf98c212032b717518a5262da68",
+      "raw_file": "scratch/full-catalog/us-details/upenn/17441b8002fd750ad2dd.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/individualized-baas/",
+      "sha256": "cd2c3d77343d10f710646e46d00f5fb5521c66bd04cb20420366ebb2aaf8b16b",
+      "raw_file": "scratch/full-catalog/us-details/upenn/bdd8652cc2489f1a4087.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/individualized-bs/",
+      "sha256": "6f7c0fc8a80f8b7ea4d2ae53996b1320e6b4318e0b3f0996102cc92f1a6d3080",
+      "raw_file": "scratch/full-catalog/us-details/upenn/a2e5a6eb6687b9f03f07.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/international-relations-ba/",
+      "sha256": "6e4ffdf853e7084c7336003772921eb42c2610551cbe1546e15d67325a6f9c6d",
+      "raw_file": "scratch/full-catalog/us-details/upenn/ab3c8d2b9431300680af.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/international-studies-ba/",
+      "sha256": "fba75ffd868794e1a570cf408186cb63be178d2ab4ec5c336cdffaffc75820df",
+      "raw_file": "scratch/full-catalog/us-details/upenn/004bab8c641503370947.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/jewish-studies-ba/",
+      "sha256": "ac3e6749cc78a1bec72dfa00308614e0e67bcf1c01eebcafeb29ffd1b6e36272",
+      "raw_file": "scratch/full-catalog/us-details/upenn/ace3c6aa179a721b24c4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/latin-american-latinx-studies-ba/",
+      "sha256": "7c08b1663700999a3b6052aef460118c04a3bdc69173d312ee2c57f8140f5511",
+      "raw_file": "scratch/full-catalog/us-details/upenn/aa33c93f0606c9087267.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/law-society-ba/",
+      "sha256": "93e2ded3384ac1f8c456b88fc8efbdf28afc8fb7d39a8fad13c559cfa5429556",
+      "raw_file": "scratch/full-catalog/us-details/upenn/3471aeeedd7c51227025.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/leadership-communication-baas/",
+      "sha256": "a751700be9ff838ab2947cdb0c83e5cb6b886d21d77bbabc209b267591de2aa4",
+      "raw_file": "scratch/full-catalog/us-details/upenn/edd4725ac9c015ac54d7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/leading-across-differences-bs/",
+      "sha256": "3faec141035824707b346fa99440bdfd56c27a8211e18c096d8ec1770c2f5599",
+      "raw_file": "scratch/full-catalog/us-details/upenn/14f9d643f628b7685888.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/legal-studies-business-ethics-bs/",
+      "sha256": "3886a8c71951236f24cf34e8d79fc67b475cf2edf03abdcdf0465b5ed21011f6",
+      "raw_file": "scratch/full-catalog/us-details/upenn/bba25846c8981dabead4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/linguistics-ba/",
+      "sha256": "915151ad548a23a431e9302e2bff53bc3c18de607b5e19cd8ee14e7a1cafd77d",
+      "raw_file": "scratch/full-catalog/us-details/upenn/f6d95c945096eedc161d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/literature-culture-tradition-baas/",
+      "sha256": "88226a38fbd8ec945f01d0b36b04bb033a77a4e68ab6197f915397f50123ea59",
+      "raw_file": "scratch/full-catalog/us-details/upenn/3d810efd75879f18202e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/logic-information-computation-ba/",
+      "sha256": "9f3f07bebb0199114520a9b937d7eb0d76b00093fd20a2ce7ecbb8eb50898f74",
+      "raw_file": "scratch/full-catalog/us-details/upenn/65aa988904aff7e643c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/management-general-track-bs/",
+      "sha256": "6e1109d6a42fd5a396eb5be3903af466690741274004cbc7ab12fa7b753b0ba7",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e3ec94bcb4fcf0e9b8ae.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/management-multinational-management-track-bs/",
+      "sha256": "6b3a9c0ad4445ddbb9cecf41935a68dd861a5b66b29db1c8850fb0f48bb6b05c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/15def9474b4b989f3277.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/management-organizational-effectiveness-track-bs/",
+      "sha256": "3d46baa69ee84bc64fd555b84ce69fa559e3d30308b766a666d20597985d71db",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c2e5b6c4469b6201ecfe.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/management-strategic-management-track-bs/",
+      "sha256": "afeba8846057fa6c929f110a07ddadf314214a204ac61fce84d0f4fd44ebadcd",
+      "raw_file": "scratch/full-catalog/us-details/upenn/47eb5f9a6f4e75dfb98f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/marketing-communication-bs/",
+      "sha256": "9faf5eaae9782a4347267ded28ab7e04a1986e213deacdb628ef68f4e298c56d",
+      "raw_file": "scratch/full-catalog/us-details/upenn/eae7aba8050cfdcda14f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/marketing-operations-management-bs/",
+      "sha256": "d312f6f6b7dc63d4cbbe14a7c833b28d71062386c1cf9a5c482e0b56add4945a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/d9e6d862d79ad3e036f6.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/marketing-bs/",
+      "sha256": "e134c7fa518e22428e19cf1b3d018fdc5be02996f6f1a16455e612f65db1a9d6",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c20231b112a551cc5d7e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/materials-science-engineering-bse/",
+      "sha256": "fee721ec0675e9129ddfa74aa4c87efe4bae3952dc2d623436bcca41edc9769a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/52242d53dd745a22d998.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/mathematical-economics-ba/",
+      "sha256": "9811febf3a0974f313b07f26785a3109eda768a67dbf9bf2805cdffaf55559b3",
+      "raw_file": "scratch/full-catalog/us-details/upenn/5a37612e672432426012.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/mathematics-biological-mathematics-ba/",
+      "sha256": "2f8aaa4eb4bbdced663ca492703637ecc36bb51eb748cdc49e8ffaf86c4a749e",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c35be67b8414341cc637.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/mathematics-ba/",
+      "sha256": "33ca85d9ba16b9be00bbf608d090fb6fff4c4f3f72557cd6d27662fe603ef7a7",
+      "raw_file": "scratch/full-catalog/us-details/upenn/733b39b4c1477ae4815c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/mechanical-engineering-applied-mechanics-bse/",
+      "sha256": "cca91b304990e4d742735ef38ba42227afddbf74474abac1b53a139793e58c75",
+      "raw_file": "scratch/full-catalog/us-details/upenn/3e825750565566c36aa7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/middle-eastern-languages-cultures-ancient-middle-east-ba/",
+      "sha256": "5a3644c64cc95c737444e8a0356f0acb4d857645548f1c5ec462bbd64b7eae84",
+      "raw_file": "scratch/full-catalog/us-details/upenn/fcbeed978b53fc57ce08.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/middle-eastern-languages-cultures-arabic-hebrew-studies-ba/",
+      "sha256": "1be4c624ff10fee0968187de23b8ff54ba9f2d0d9bdd61ba0731d91d996416e7",
+      "raw_file": "scratch/full-catalog/us-details/upenn/5e97abf556a52dab5bdb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/middle-eastern-languages-cultures-arabic-language-literature-ba/",
+      "sha256": "0eaff2a8d0f6ab346aa9e305b56676e59588af910bccf526a47da21187a3ad70",
+      "raw_file": "scratch/full-catalog/us-details/upenn/5337792e81dbeb4e62b9.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/middle-eastern-languages-cultures-culture-societies-middle-east-north-africa-ba/",
+      "sha256": "0573dbb3d1026ae89a0f408eeaac61a8a1cceb3693202f300ff6fb35fe99f790",
+      "raw_file": "scratch/full-catalog/us-details/upenn/52d0c0bc25d5b7e127af.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/middle-eastern-languages-cultures-hebrew-judaic-studies-ba/",
+      "sha256": "bd86fdc54676a933cfc04aad8b33ff7be6a9537da3f35cce328ebea9e7390b66",
+      "raw_file": "scratch/full-catalog/us-details/upenn/f19fdbe0ea803b7a5ae4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/middle-eastern-languages-cultures-persian-languages-literature-ba/",
+      "sha256": "3327315e94fa4b10862e84e2482aa9ddfb7f8553f41f1f1f539b500d37cf0866",
+      "raw_file": "scratch/full-catalog/us-details/upenn/523a35f7213e397e7e6d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/modern-middle-eastern-studies-ba/",
+      "sha256": "de249029e269bee59256fbe691e4d8ae4000ec70b34b9a9ca1a34e5c550193b3",
+      "raw_file": "scratch/full-catalog/us-details/upenn/07dec3842581c9c17855.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/music-ba/",
+      "sha256": "5c7e9476b156e6094f1a5b81727f84fbce7af4478fc850fb86a06382f18faf88",
+      "raw_file": "scratch/full-catalog/us-details/upenn/bdd53f1ed4b47a88017c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/neuroscience-ba/",
+      "sha256": "8eff3f0d53ab904919733345445b9ad62b62374e9e07640a5e313f042a279347",
+      "raw_file": "scratch/full-catalog/us-details/upenn/4a978f3d7d638f9a5286.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/nursing-bsn/",
+      "sha256": "70062f31e48ac17840452e9645ef8099559147610b90b4804de6813f21478b2f",
+      "raw_file": "scratch/full-catalog/us-details/upenn/4d4244b5d87eb3f0d967.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/nutrition-science-ba/",
+      "sha256": "4fec4723937548ac89b13009e688e87f9858a96394f5e86f6c7c6f8b7325b8d7",
+      "raw_file": "scratch/full-catalog/us-details/upenn/584ee2d81fb45ca637c7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/nutrition-science-bsn/",
+      "sha256": "0b4ac83e05349d8ff9309579e24993b5fca3ee8a1dbf9d9377ff67c94cc7ccde",
+      "raw_file": "scratch/full-catalog/us-details/upenn/3dc34ea67d6ecdf4ce24.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/operations-information-decisions-decision-processes-track-bs/",
+      "sha256": "7819d657026a87641947a718df63828aac0fddca9c120511252ed4469a2a3a34",
+      "raw_file": "scratch/full-catalog/us-details/upenn/382431eb69b49bc5be07.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/operations-information-decisions-general-track-bs/",
+      "sha256": "3075db11b48be24a078a74e118c7414e840b4dd33923220d244cb4b6032e677d",
+      "raw_file": "scratch/full-catalog/us-details/upenn/b111d8301783f88e5ac7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/operations-information-decisions-information-systems-track-bs/",
+      "sha256": "4909e065ca98576c3880ba4445cb38dd8ea38166ecbe43fb012bd85886519b44",
+      "raw_file": "scratch/full-catalog/us-details/upenn/1d233a9509e8031dd4ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/operations-information-decisions-operations-management-science-track-bs/",
+      "sha256": "8a22b58913818152715b5376c8d258f895825c2b27095de9b20d0be3d53cb279",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e2432ac4d67b215eab79.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/organizational-studies-baas/",
+      "sha256": "e97e322aab8463790a6970d0e9d25e626b1a8e78988c194618e9f150417a3aa3",
+      "raw_file": "scratch/full-catalog/us-details/upenn/9c329e3ccd15ec4f25d6.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/philosophy-general-philosophy-ba/",
+      "sha256": "d1f5c542c4e7896a540cff9cede32e57a0c39063c3af14be767ed58b0d15e009",
+      "raw_file": "scratch/full-catalog/us-details/upenn/0141e63a2fba718b55b0.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/philosophy-humanistic-philosophy-ba/",
+      "sha256": "3de0f1ed83a516740e1e3950b07129bcf107cbd1fd4b0ae6f9ca38ab65e38238",
+      "raw_file": "scratch/full-catalog/us-details/upenn/631f63a9508970e85653.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/philosophy-political-moral-philosophy-ba/",
+      "sha256": "9ee78dfee5ec5406aac5e6088cd8ceffedcf23d8946667a521ce415fc8aeca02",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c400dff03b3ee162b86b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/philosophy-philosophy-science-ba/",
+      "sha256": "9c4bcabfeabd4e15df6763151fd16197212b8d5a2bfe004bfb0b0e4a26fe7597",
+      "raw_file": "scratch/full-catalog/us-details/upenn/5116856e6d5c44e66c20.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/philosophy-politics-economics-choice-behavior-ba/",
+      "sha256": "c15d554466f212fe69d78147475b85bd4484c380cd83de4d8a18297a996530c3",
+      "raw_file": "scratch/full-catalog/us-details/upenn/2a7d9e0191d7fdc47893.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/philosophy-politics-economics-distributive-justice-ba/",
+      "sha256": "f4eede45000c94cafea7264cc940ec9a19fbca50149c88239a67d5ab9ff88bae",
+      "raw_file": "scratch/full-catalog/us-details/upenn/8210736bf676006e1f5b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/philosophy-politics-economics-globalization-ba/",
+      "sha256": "ed5466420984e9e02d72abdc59ce9e1cac2321427495764eeeff6d7afcc10f16",
+      "raw_file": "scratch/full-catalog/us-details/upenn/9d3cbe0cc105ffe5d866.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/philosophy-politics-economics-public-policy-governance-ba/",
+      "sha256": "dd8d27fd1fbb04c1074407966224830808015a1aedb1d0e3c81f629335a450fe",
+      "raw_file": "scratch/full-catalog/us-details/upenn/2a8d6a47ab1286bebb11.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/physical-life-sciences-baas/",
+      "sha256": "b811638fcfdbad1ec0a177b7c59475becafa358d8a1dde101e3e60bc3963d110",
+      "raw_file": "scratch/full-catalog/us-details/upenn/32051da1a4626f0eafba.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/physics-astrophysics-ba/",
+      "sha256": "20e60301464715be5bcfb989264ef576aaccf40585ad0e3bc61e74c466b8b317",
+      "raw_file": "scratch/full-catalog/us-details/upenn/307a5228aa90f8abccd6.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/physics-biological-science-ba/",
+      "sha256": "a20c5699a58a22f19dfe05b834947bab1d786e8647a80e2ea2516ff978fb08f9",
+      "raw_file": "scratch/full-catalog/us-details/upenn/d4a565fb42fcaf705f00.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/physics-business-technology-ba/",
+      "sha256": "68246affcc2c4f1f6426aec5440bbcf52139f91492665cb87aa27cfc87b1a16f",
+      "raw_file": "scratch/full-catalog/us-details/upenn/20c991d66d499c92589b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/physics-chemical-principles-ba/",
+      "sha256": "45675e97658c94e3ee7bdcd3883297c70c9900898aa74656b168e81e7bfd7010",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e48dfec89ff61f9a7be5.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/physics-computer-techniques-ba/",
+      "sha256": "d6d1e1bc40972713b4907bf71a3913f1c2d96ec4ec36de8331b70242ca9405f2",
+      "raw_file": "scratch/full-catalog/us-details/upenn/22c3baac5a380c8a8633.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/physics-physical-theory-experimental-technique-ba/",
+      "sha256": "f9e86184d783b79458fdbf9e795627df18dc9966b27fd29115246019087e68cf",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e27b152fe152d047e8d8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/political-science-american-politics-ba/",
+      "sha256": "aa01854040b8a993cd59e5b802910748b51be835d077ca3aa4c85259ec084da5",
+      "raw_file": "scratch/full-catalog/us-details/upenn/ad9604babc7f7e8854cb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/political-science-comparative-politics-ba/",
+      "sha256": "9ab2372e585e1789def10213a60b09363a2a7deeb19e76ffe7efe47abd2bdc5f",
+      "raw_file": "scratch/full-catalog/us-details/upenn/1cb6280e19969a13ca2d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/political-science-general-ba/",
+      "sha256": "6e63b71e3d528ed8a8687603bb8fdb7ac8e42039330e5fbe7db2eb1ae2763ddf",
+      "raw_file": "scratch/full-catalog/us-details/upenn/3954902e6d3e6e9a58a2.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/political-science-individualized-ba/",
+      "sha256": "5da71b3dfa4b1d52635be44833e777c1a6453db0abea1982de598f1d6257c448",
+      "raw_file": "scratch/full-catalog/us-details/upenn/69fdd2aa80c4f7b14afa.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/political-science-international-relations-ba/",
+      "sha256": "66c7af885af4626f187b5488ab9c788450759dd7b18470dbe96d2db648a0423c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/6d4911e7d946d633467b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/political-science-economy-ba/",
+      "sha256": "6bad3cea3809d155935d560d0cc5e5b41d980c3de7d3a8af9ae3bff912ff0d2c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e95f371cab3f3b43d086.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/political-science-theory-ba/",
+      "sha256": "952341028961c3df5262045bdbc4aa515f0f5371db30d8783d608e3018b51b26",
+      "raw_file": "scratch/full-catalog/us-details/upenn/5b5acb558628d0d94608.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/psychology-ba/",
+      "sha256": "3ff69d2b9cd2d5c8dbe73175db3958ffcaad6e620590bb7efdeb3ce87dbce3c0",
+      "raw_file": "scratch/full-catalog/us-details/upenn/51e28d6a34d52a82db4f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/real-estate-bs/",
+      "sha256": "6ea2cbb64e2a5837a91f545fd9034349507a760c3dad7719a70c18fff3539564",
+      "raw_file": "scratch/full-catalog/us-details/upenn/3cb6f2f5465a16dbe8eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/religious-studies-ba/",
+      "sha256": "ece67dc345c2c00e6860bf7c152d190258de3d654dd633062fad4bad3188e53a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/b91ad153846db70ed9a3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/retailing-bs/",
+      "sha256": "60b6d1e540fa1339193a914b329efd9a2120f3c047c0d4a845d840e809ff9680",
+      "raw_file": "scratch/full-catalog/us-details/upenn/ac64b04d2c5a02445924.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/russian-east-european-studies-ba/",
+      "sha256": "aa68bac6eceac5cd00d675f0aa62fe9238eda81905342be12e22adf29a646645",
+      "raw_file": "scratch/full-catalog/us-details/upenn/ee5de353f3776d3eb1a8.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/science-technology-society-biotechnology-biomedicine-ba/",
+      "sha256": "be4416e462f46df287cfedb0af0c692344eaabdd063dfcb6265c37a64df25200",
+      "raw_file": "scratch/full-catalog/us-details/upenn/c8590f31ffc1003968fb.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/science-technology-society-energy-environment-ba/",
+      "sha256": "909f5599ce6e8c96754e0a02e328b0f48ba84aa76d6f645e90db96ea98dfb05a",
+      "raw_file": "scratch/full-catalog/us-details/upenn/21e88e3dac02dbbdd557.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/science-technology-society-global-science-technology-ba/",
+      "sha256": "ee886d2c4965784a0872249dbc4608294cba608119adca27214c80eb0f742df9",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e83237a323b2968b81b2.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/science-technology-society-information-organizations-ba/",
+      "sha256": "c90e03d2cd732338070396c1e4f6795b97d57482e8f69358090befbda3f3fbdd",
+      "raw_file": "scratch/full-catalog/us-details/upenn/8e95fd6a9a80d57f1383.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/science-technology-society-science-nature-culture-ba/",
+      "sha256": "52f7dbb2306a40073d8d8393bc9eb3233f2da7c11f24c7de85b259fb4b7bb1fa",
+      "raw_file": "scratch/full-catalog/us-details/upenn/51ad317304ef8dd8f2c7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/sociology-applied-research-data-analysis-ba/",
+      "sha256": "e45b4d6e4c6f534bb2942391d23c81960bb9351fa84d146483bb70bad0d7ec8c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/85f918ec50094b8be79f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/sociology-cities-markets-global-economy-ba/",
+      "sha256": "4c80acfd34c1239ef6478a32697ac8b86606d19013a56ec805179bc29136572b",
+      "raw_file": "scratch/full-catalog/us-details/upenn/7e43926d412581d58883.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/sociology-culture-diversity-ba/",
+      "sha256": "cc3f42ebaf889f13270621317fda49d4605ac694036e6a766a0fac39c664b934",
+      "raw_file": "scratch/full-catalog/us-details/upenn/bfda053a886884cbdc54.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/sociology-education-society-ba/",
+      "sha256": "f10d51964fe84c295d43216f2052137e25267fa8a50a7200a4f305c4ac3a78aa",
+      "raw_file": "scratch/full-catalog/us-details/upenn/9c31ba74c9a1ab9a0e8f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/sociology-family-gender-society-ba/",
+      "sha256": "f1c7f0d83b40bd2c9a92f7727ce0e81484ade4040d3f5570c259896c2b461d16",
+      "raw_file": "scratch/full-catalog/us-details/upenn/2918a93655f0e94d4214.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/sociology-medical-sociology-ba/",
+      "sha256": "6441ba8589983fc470bab3db10480d6a08bb57949662bb86af6ea34519c8b008",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e6689cbc2fc51f487bd7.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/sociology-structures-opportunity-inequality-ba/",
+      "sha256": "fae6ed0745d2dc4f6ff7c8ced0039cc697a964fb13680202b215d1a6afb168cf",
+      "raw_file": "scratch/full-catalog/us-details/upenn/b573fc7fa5bd8f461076.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/south-asia-studies-ba/",
+      "sha256": "8c87d9b6def90120ce0ba05b2474291aace3c26f866130e20052d261e7f13870",
+      "raw_file": "scratch/full-catalog/us-details/upenn/88c136460be4b3636209.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/statistics-data-science-bs/",
+      "sha256": "a1453ae446579a0a8e90e9c478ac273e6c154dd7d773f0a603d1839b52ed7949",
+      "raw_file": "scratch/full-catalog/us-details/upenn/58ab871e2ede7678b8ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/theatre-arts-ba/",
+      "sha256": "049def94b0866ed27dbb02bb3f0bbfe9f9ff61c6e8248b9e0c46ee366d4ce3fa",
+      "raw_file": "scratch/full-catalog/us-details/upenn/12ee06a87c2b6f74c207.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/urban-studies-ba/",
+      "sha256": "785bed188ea2a9366835c4061b4abcb0f45612df94692159b04f25a491b522cc",
+      "raw_file": "scratch/full-catalog/us-details/upenn/abe2e955e7e522311bed.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/visual-interactive-computing-bse/",
+      "sha256": "65bd9c2d23217f73fb7edba450ce03ea0a675929bc550877548fd6dcfb0d7742",
+      "raw_file": "scratch/full-catalog/us-details/upenn/51b50c9fc30e4607388b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/visual-studies-architecture-practice-technology-ba/",
+      "sha256": "13ea5a160e9c90bd13b56780d7326f79a47aa2793d20f96c06537df43cb815d3",
+      "raw_file": "scratch/full-catalog/us-details/upenn/e1603dbd6e9d2e0fea9d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/visual-studies-art-culture-seeing-ba/",
+      "sha256": "1490cdb82c1e9b184b6e916706ad953af50f2693c49daa2172093645ba424e3c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/be96cca2ac1cf0144d1f.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/visual-studies-art-practice-technology-ba/",
+      "sha256": "634f3b2f66b8accdbe61637684b1bf2a66ef06ff9f5486dbf31a558cb8501e0f",
+      "raw_file": "scratch/full-catalog/us-details/upenn/626888fa7849bd4da088.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/visual-studies-philosophy-science-seeing-ba/",
+      "sha256": "c5668c6b2f81dc357b56f3eaba0adb36464af3bdd778aa0858cd9333cc06f28c",
+      "raw_file": "scratch/full-catalog/us-details/upenn/f08ab0d6c4018dd278d2.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/writing-baas/",
+      "sha256": "ad1cc8b4298fc9207fc301280109f4d86b6b58d8256fc0fe053f445531f128a0",
+      "raw_file": "scratch/full-catalog/us-details/upenn/293a49beb522997913de.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/interdisciplinary/coordinated-dual-degree/",
+      "sha256": "b8acfcacb86c18dee6c1b505cd2a3e38fc2b2970291e7124b47ebf13a37471fd",
+      "raw_file": "scratch/full-catalog/us-details/upenn/0d7f6a6b024d99ec28f4.html",
+      "locator": null
+    }
+  ]
+}

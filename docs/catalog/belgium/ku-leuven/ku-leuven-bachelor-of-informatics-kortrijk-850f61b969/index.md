@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Bachelor of Informatics (Kortrijk)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27 课程目录</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Kortrijk · <strong>授课语言：</strong>Dutch</p>
+<p class="program-location"><strong>校区：</strong>Kortrijk · <strong>授课语言：</strong>荷兰语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,73 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor qualification</p>
 
+<p class="catalog-fact"><strong>学习内容：</strong>研究计算机科学，包括不同编程语言及其执行机制，并学习相关理论和方法。</p>
+<p class="fact-sources"><a href="#source-p-ku-leuven-50268900">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学位、学分与授课地点：</strong>学术学士；目录所列课程版本学分：180 ECTS；地点：Kortrijk；授课语言：荷兰语。目录年度2026/27；缩短、衔接与联合版本应按各自身份选读。</p>
+<p class="fact-sources"><a href="#source-p-ku-leuven-50268900">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>大陆学历最低申请资格：</strong>当前中国条目列高中毕业证书加高考成绩；这是可提交申请的最低资格，录取仍取决于专业审查、语言和可能的数学测试，不能照搬A-level或IB条件。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-eligibility">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请与赴比APS分别审查：</strong>学校无需在递交申请时收到APS，建议取得积极录取结果后办理；但对需要APS的大陆本科申请者，校方页面列明：211高校已成功完成至少1学期，其他中国高校至少3学期，并取得足够高考成绩。页面称不满足者无法取得APS及比利时学生签证；高中加高考可申请不等于当年可直接赴比。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-aps">官方依据</a></p>
+
+<p class="catalog-fact"><strong>APS豁免与德国证书边界：</strong>非中国学位或境外正规学位课程学分、符合条件的双边项目等可有APS豁免。已持德国APS者只有基于大学学习的审核可沿用；仅凭中国中学学历取得的德国APS不被该页认可作比利时学生签证用途。具体个人类别应按官方清单核对。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-aps">官方依据</a></p>
+
+<p class="catalog-fact"><strong>语言证明：</strong>荷语课程通常至少B2，个别要求C1；英语课程按项目认可考试与分数。中文学历材料需学校或宣誓译者出具认可语种译文，不能因网页有英文版本就视为英语授课。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-language">官方依据</a> · <a href="#source-u-ku-leuven-required-docs">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>境外学历申请材料：</strong>通过学校线上系统选定专业及学年，上传高中学历与成绩（尚未毕业可先交中期成绩）、语言证明、护照、动机信、CV及申请费证明；专业可另要数学考试、写作或其他材料。转学者也须走新生正式申请流程。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-required-docs">官方依据</a> · <a href="#source-u-ku-leuven-bachelor-instructions">官方依据</a></p>
+
+<p class="catalog-fact"><strong>年度与截止范围：</strong>当前指导页将非EEA荷语本科截止列为2月1日，具体学年须在申请时再次核对；英语项目应按申请窗口计算器的专业行查询。已核实计算器2026/27参考批次，本轮未取得2027/28窗口，不把2026旧截止改称下一轮。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-bachelor-instructions">官方依据</a> · <a href="#source-u-ku-leuven-windows">官方依据</a></p>
+
+<p class="catalog-fact"><strong>开学与特殊项目入口：</strong>本科通常9月开学、全日制日间授课，无第二学期新入学；联合BAES及与UCLouvain合作的商科/法律另有项目入口和审查，不能只完成一般注册。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-bachelor-instructions">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>非EEA收费身份与年度：</strong>费用计算器可选China（非EEA）及2026/27。本轮核实的七个英语本科项目档为每年EUR 3,093.12至9,493.92，精确金额见各项目；该区间不是全校所有本科的统一报价。荷语项目若有对应英语高收费版本，非EEA可能适用相同较高费率。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>收费缺口：</strong>未逐项核实的荷语、合作校区及新联合项目留作缺口；本轮未取得2027/28费表及可适用于所有中国本科新生的奖学金条件，不能把EEA栏或普通基本费率当作中国新生账单。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-fees">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>培养结果与就业调查：</strong>以下专业简介来自官方培养目标，包括继续深造或相关职业能力；本轮未核实各本科专业带届次、样本范围的就业率或薪资，学士培养目标也不自动等于医学等受监管职业的完整执照。</p>
+<p class="fact-sources"><a href="#source-u-ku-leuven-catalogue">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +113,14 @@ hide:
 - [官方项目页面或项目所在目录](https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268900)
 - [官方目录](https://www.kuleuven.be/opleidingen/)
 
+<div class="catalog-source" id="source-p-ku-leuven-50268900"><div><a href="https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268900">Bachelor of Informatics (Kortrijk) ↗</a><p>2026/27资格培养目标、专业版本、学分、校区、语言及当前入学条件</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ku-leuven-eligibility"><div><a href="https://www.kuleuven.be/english/apply/requested-documents/eligibility-bachelor">KU Leuven Minimum eligibility criteria for a bachelor programme ↗</a><p>中国高中与高考最低申请资格</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ku-leuven-aps"><div><a href="https://www.kuleuven.be/english/apply/requested-documents/aps-certificate">KU Leuven The APS Certificate ↗</a><p>大陆申请者APS、大学学习学期、比利时签证衔接</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ku-leuven-required-docs"><div><a href="https://www.kuleuven.be/english/apply/requested-documents/index.htm">KU Leuven Requested documents ↗</a><p>本科材料与翻译</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ku-leuven-language"><div><a href="https://www.kuleuven.be/english/apply/language-requirements">KU Leuven Language requirements ↗</a><p>授课语言与语言证明</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ku-leuven-bachelor-instructions"><div><a href="https://www.kuleuven.be/english/apply/application-instructions/apply-to-kuleuven">KU Leuven Apply to a bachelor programme ↗</a><p>申请渠道、荷语期限、学年与入学</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ku-leuven-fees"><div><a href="https://icts.kuleuven.be/apps/tuitionfees/">KU Leuven Tuition fee calculator ↗</a><p>2026/27 Bachelor、China非EEA项目费率</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ku-leuven-windows"><div><a href="https://icts.kuleuven.be/apps/tuitionfees/application-windows">KU Leuven Application windows ↗</a><p>2026/27 Bachelor非EEA申请窗口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ku-leuven-catalogue"><div><a href="https://onderwijsaanbod.kuleuven.be/opleidingen/">KU Leuven programme guide 2026–2027 ↗</a><p>学位、培养内容和专业范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/belgium/ku-leuven/">← 返回鲁汶大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

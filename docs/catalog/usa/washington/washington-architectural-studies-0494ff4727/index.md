@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,51 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>学位身份：</strong>本锚点对应Bachelor of Arts degree with a major in Architectural Studies。资料来自现行在线目录，本轮未将目录出现等同2027招生开放确认。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-8f68bf7c895e66">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程代码举例：</strong>该学位完成要求涉及ARCH 332、ARCH 361、ARCH 362、ARCH 431、ARCH 468、ARCH 469等课程代码；这里只用于定位部分课程，包含备选项的规则须阅读完整目录。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-8f68bf7c895e66">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业入口与分流：</strong>本主修准入段落分别涉及外部转学生。不同路径的大学课程、成绩与截止日不能作为同一套高中直入门槛。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-8f68bf7c895e66">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>高中申请与选专业：</strong>普通新生通过 Common App并在STARS申报课程成绩，须满足六类高中学科准备要求。绝大多数申请人不须SAT/ACT；家庭教育或无字母／数字评分者有例外。这里是大学入口，进入容量受限主修可能另有大学阶段选拔。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-aa5abe189eed59">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生英语：</strong>最低 IELTS6.0、DET110；TOEFL 2026-01-21前76，该日起4.0。考试须在申请当年12月31日或之前完成并由考试机构直送；未达最低要求不获考虑。英语授课背景或SAT/ACT的豁免必须同时满足官网具体条件。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-f87694d49f67c7">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>申请日期与费用：</strong>现行页面：8月15日开放，11月15日截止，次年3月1–15日通知。国际新生申请费 USD95，不予费用减免；冬季与春季不接收国际新生。页面未逐项标明入学年，保留现行日程口径。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-aa5abe189eed59">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 Seattle 费用：</strong>Seattle非居民本科九个月（10月至次年6月）学费栏 USD44,460；校内／校外独立居住总预算67,800。国际生按非居民费率。部分专业可有额外费用，Bothell/Tacoma不同；2027入学价本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-6bf14da3c3fb55">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生校级资助：</strong>学校费用页明确，不向国际本科生提供财务资助或奖学金，应备足全部费用。个别院系目录可能列有高年级奖项，本轮未将其资格泛化为国际新生可得。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-6bf14da3c3fb55">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +95,9 @@ hide:
 - [官方项目页面或项目所在目录](https://uw.edu/students/gencat/program/S/Architecture-51.html#credential-6411eca08972e6ceaca976cd)
 - [官方目录](https://www.washington.edu/students/gencat/degree_programs.html)
 
+<div class="catalog-source" id="source-p-USBENR-8f68bf7c895e66"><div><a href="https://uw.edu/students/gencat/program/S/Architecture-51.html#credential-6411eca08972e6ceaca976cd">Architectural Studies — UW 官方项目目录 ↗</a><p>锚点所指学位的毕业要求、课程代码及其所属主修的准入路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-aa5abe189eed59"><div><a href="https://admit.washington.edu/apply/freshman/how-to-apply/">washington 官方 international ↗</a><p>本条高中申请与选专业及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-f87694d49f67c7"><div><a href="https://admit.washington.edu/apply/first-year/how-to-apply/English-proficiency/">washington 官方 english ↗</a><p>本条国际生英语及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-6bf14da3c3fb55"><div><a href="https://admit.washington.edu/costs/coa/">washington 官方 tuition ↗</a><p>本条2026/27 Seattle 费用及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/washington/">← 返回华盛顿大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

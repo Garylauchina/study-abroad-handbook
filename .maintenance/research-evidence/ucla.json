@@ -1,0 +1,29 @@
+{
+  "university_id": "ucla",
+  "sources": [
+    {
+      "url": "https://admission.ucla.edu/apply/international-applicants",
+      "sha256": "be9d71472f206a0df4562f8399277bd3fa6a1e6c49067b3576fd8a61aea20ba3",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/ucla/raw/international.html",
+      "locator": "Academic Requirements"
+    },
+    {
+      "url": "https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/freshman-requirements-country.html",
+      "sha256": "a72cbb402c38d0702d5f6e44952ab6778f2f13f60733cf24ddc5c310e26fcea7",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/ucla/raw/china.html",
+      "locator": "China / British system"
+    },
+    {
+      "url": "https://admission.ucla.edu/tuition-aid/tuition-fees",
+      "sha256": "32af2f683ddd0e3243ee302e3dc03f581b0e76170060689853d8d39cd2c16159",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/ucla/raw/tuition.html",
+      "locator": "Updated July2026 / Cost Per Academic Year"
+    },
+    {
+      "url": "https://registrar.ucla.edu/faculty-staff/courses-and-programs/major-and-minor-codes/undergraduate-majors-and-premajors",
+      "sha256": "efa41c017a135f69250c78b03599a728694207ff1784db1b32e9a5fa08695a62",
+      "raw_file": "scratch/full-catalog/us-b/ucla/registrar.html",
+      "locator": "official undergraduate program listing"
+    }
+  ]
+}

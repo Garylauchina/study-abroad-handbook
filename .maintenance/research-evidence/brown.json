@@ -1,0 +1,563 @@
+{
+  "university_id": "brown",
+  "sources": [
+    {
+      "url": "https://admission.brown.edu/ask/international-applicants",
+      "sha256": "a5efcd337f8c4c087fd98b903cb1c3c18969fea79f95a45e76ceb03368d136db",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/brown/raw/international.html",
+      "locator": "Do you require applicants to have a high school diploma? / final grades"
+    },
+    {
+      "url": "https://admission.brown.edu/first-year/standardized-tests",
+      "sha256": "1586451113a77a518dc69aa1458dbe4e2eabc11febd525b1bbb6ef4bf10c2aa7",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/brown/raw/testing.html",
+      "locator": "standardized testing policy"
+    },
+    {
+      "url": "https://admission.brown.edu/apply/how-apply",
+      "sha256": "44d49f53685c9729433d4d731ef44eb7896a362edf7ecd35a109b13a033d013a",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/brown/raw/apply.html",
+      "locator": "How to Apply / Common Application deadlines"
+    },
+    {
+      "url": "https://www.brown.edu/news/2026-05-27/fiscal-year-2027-budget",
+      "sha256": "21b8acbebfa8a78024b5db38862a64dfaba5e8bb22c22406b63249f3305857bd",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/brown/raw/year-news.html",
+      "locator": "Tuition and Fees"
+    },
+    {
+      "url": "https://finaid.brown.edu/estimate-cost-aid/cost",
+      "sha256": "263bec503d1b7a0ad63680b1fc3e9366d8d593ed86da81385653696f35ec2175",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/brown/raw/tuition.html",
+      "locator": "Direct/Billed Charges / Additional Situations / Books / Insurance"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/afri/",
+      "sha256": "f3ca09de9a47bd4ac8e3c3e5c6dde97cf5ab0ea6aa840663273bdda2335f77a8",
+      "raw_file": "scratch/full-catalog/us-details/brown/8366fc3dae285929b737.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/amst/",
+      "sha256": "1955c2734999fa486b9ce1fd40c10e1092fb806bc8a99f834f9b19293a52a7ec",
+      "raw_file": "scratch/full-catalog/us-details/brown/fee1fa4d888406418d81.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/anth/",
+      "sha256": "0c4feb3b850a42a0a0fe146f68c747872d59bfb591aaaa2a24d03e4f1e93ec46",
+      "raw_file": "scratch/full-catalog/us-details/brown/94187504c58ebe576287.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/apma/",
+      "sha256": "4c6e335592d7a3571ec36e887c78e0598ed7463e58c1c89afdeac86759de011c",
+      "raw_file": "scratch/full-catalog/us-details/brown/0215e8ed3d556e30d022.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/apmb/",
+      "sha256": "28a0737cca1436d3180fac230a37af43006b20ff12389bf507d5fc3222484865",
+      "raw_file": "scratch/full-catalog/us-details/brown/af4a30dfa087c7f930cf.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/apmc/",
+      "sha256": "9b978e09f3fff13a1fef9fbf479d5e69f07c877e134cf6cca4ee4f97c6f565ed",
+      "raw_file": "scratch/full-catalog/us-details/brown/fb54ad19b1d123f36076.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/apme/",
+      "sha256": "acb10aaf3eb3c3793af9b9293275d6389624ee94f51dfd6f9144dbc5b28dde95",
+      "raw_file": "scratch/full-catalog/us-details/brown/0da51cf84f67f3a7b334.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/aran/",
+      "sha256": "5ec4321de2d283066e23db6ddcc2884f28347c4c2ee80b07942b5edaf8ea8084",
+      "raw_file": "scratch/full-catalog/us-details/brown/22b2613038ee8ca80de1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/arct/",
+      "sha256": "64e222ab12c24cf30f5a6a1ba50ad5e797bdde81e177d6d78197436e6b1f26a7",
+      "raw_file": "scratch/full-catalog/us-details/brown/696e4508c40968fdc7d9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/astr/",
+      "sha256": "e383a177c4af836f6e8a669e320ad7bf24cc9cff8b3c33cc07ee5072860677da",
+      "raw_file": "scratch/full-catalog/us-details/brown/3be71a57d34f9aab0c57.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/bds/",
+      "sha256": "5f1844c7fb6d7ac8b698de6101617f08320f7bf205386aae675cd6a225b4eb6b",
+      "raw_file": "scratch/full-catalog/us-details/brown/67a3cb33fcb5c948a117.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/bchm/",
+      "sha256": "d883d06ca12f0d408081f4fa9ad3a8592a1d4c25db373c0aab3160c735e3e024",
+      "raw_file": "scratch/full-catalog/us-details/brown/b6e660e9713c24d2cbe7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/biol/",
+      "sha256": "9acd64dabebb9437161395b3969a73f147dd446260ef4821d4ea479a31dcccb3",
+      "raw_file": "scratch/full-catalog/us-details/brown/21fe369c59925199ab89.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/enbi/",
+      "sha256": "f19341ef849c449627bbbd5db2d681f9a96580776c732703daddd31c9eca739a",
+      "raw_file": "scratch/full-catalog/us-details/brown/10bc8121e0168fc2643d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/biop/",
+      "sha256": "3e80dc971571ba5834f3c0f0058ce1d8dd838f95b62db66779e7822125794f16",
+      "raw_file": "scratch/full-catalog/us-details/brown/3f0cbabdefa6bafa14b1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cheg/",
+      "sha256": "b910d2e17a293ad0663b9a0c566ca8147ab5da42390b8fe7a1f2326bc9dbe4c0",
+      "raw_file": "scratch/full-catalog/us-details/brown/ffae53814140e50e3c2a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/chph/",
+      "sha256": "884a9c348fbf6c1d8e35e63c28fda455a80b33e3e19fb9bd14369fa358b90e90",
+      "raw_file": "scratch/full-catalog/us-details/brown/353320d3c36174c9abb7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/chem/",
+      "sha256": "66fb9968567f0f284de5c9053e95d6c875a4124cce6845e87ff24a487f33a2b5",
+      "raw_file": "scratch/full-catalog/us-details/brown/f7597ba259a9e243531b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/clas/",
+      "sha256": "efd1335217b95252d918f409e870641d0eb28b293ac80dc5a83f5724a599d23c",
+      "raw_file": "scratch/full-catalog/us-details/brown/3d3aa3a8ee018a09a6fd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cogn/",
+      "sha256": "2d5ed7385cffb896a328760a20ef8847e8591b886d331784e89bac0d6f007c24",
+      "raw_file": "scratch/full-catalog/us-details/brown/f4f8065e7a10fc520ddd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cogs/",
+      "sha256": "a0ce892ce37fe18115c08122275599f5e71ea68ea075a03c730981d2afad5cc8",
+      "raw_file": "scratch/full-catalog/us-details/brown/333e879645b466045607.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/colt/",
+      "sha256": "62f82ed352ab79f00835c4f3f7d9e6eb85a181590d7b07cde79245df2cfbba0f",
+      "raw_file": "scratch/full-catalog/us-details/brown/62682640e14ca458305f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/csbi/",
+      "sha256": "037c4be5e617061763bd1c7eae7a51275d749ee5c85df50040f2f83291739dd9",
+      "raw_file": "scratch/full-catalog/us-details/brown/a6a0e32014a0bca1cb64.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cccp/",
+      "sha256": "c58786c138e1d25b58d3d44cf39d8c56846910efd688c4ef7a4739bac48a7c9e",
+      "raw_file": "scratch/full-catalog/us-details/brown/3586048f0c53856ebba0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cneu/",
+      "sha256": "3e7a958514aa276b44233317f98bc58d6913fec27dc2377c69db047cd89f414e",
+      "raw_file": "scratch/full-catalog/us-details/brown/84a1b44c4254b2f52969.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/coeg/",
+      "sha256": "bc071817b885f69c5884355b8a4bb3098d57077b705f5d108c4728bce2fc2f32",
+      "raw_file": "scratch/full-catalog/us-details/brown/4f66fe1107a1e9dc0f3a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/comp/",
+      "sha256": "0fe304df206e4d56957c4d92ff295853d4754158647a1bba250465d868b2be2c",
+      "raw_file": "scratch/full-catalog/us-details/brown/d2e2a7bf71814d02bbd0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/csec/",
+      "sha256": "df4042bfbaa8e88f5771e2aff511545c5850af71d2f7d0d2d1fa094f07b0df30",
+      "raw_file": "scratch/full-catalog/us-details/brown/be8cb76941b8231cddb5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ctmp/",
+      "sha256": "2266adb6c0b7f7f38c6de467291b206f32b441e549d830782af79656beecf1dc",
+      "raw_file": "scratch/full-catalog/us-details/brown/420c0068b54cbe940e64.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/nais/",
+      "sha256": "cb5f461563e184b521ccbcf5810db45c0d5781943f3ee54e7416e6730581150d",
+      "raw_file": "scratch/full-catalog/us-details/brown/e6a1ddf286e8263ac05c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/dese/",
+      "sha256": "60e1a5f5f7800255e65564492cf1729ab0f9c4219b6e1f8c939c0295f91ac89d",
+      "raw_file": "scratch/full-catalog/us-details/brown/6835ec07e8e596b263fd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/emow/",
+      "sha256": "8d0e2e7902881613782c4ec6c82646e9fe3992055d748a372774de94b1b03ad8",
+      "raw_file": "scratch/full-catalog/us-details/brown/ff3a6ccc1e456495a6bc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/eps/",
+      "sha256": "75b53b1720be8a754c6899c49fcbbb0ff2ca8018e68874179495e457daf353ef",
+      "raw_file": "scratch/full-catalog/us-details/brown/923940ca6969c971b5ac.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ecb/",
+      "sha256": "6dedb89e92f3b72204bd7a43ef71bd67e1e3e4afedbf61bcf09080ed7418807c",
+      "raw_file": "scratch/full-catalog/us-details/brown/6865ee7d8fb2e02b37f2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/east/",
+      "sha256": "b9ab3b92e7d89eb424370e24dc6bf2dd409f9f880f335993fe2000a6dd92d86b",
+      "raw_file": "scratch/full-catalog/us-details/brown/08a45964676ff5d0a6e1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/econ/",
+      "sha256": "bb3fe1b9d1bce28fc3bc3eb2f6c287a1d9793176263343399f31e999b951f5c3",
+      "raw_file": "scratch/full-catalog/us-details/brown/f44b513fbd71947e293a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/educ/",
+      "sha256": "b850c808191dcfda35b4b77601c23ad1efe1f261e9dc5654810160db2f0dc77d",
+      "raw_file": "scratch/full-catalog/us-details/brown/52480c8c1c7329e196c7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/egya/",
+      "sha256": "1117df2fa19281a61d3716edffb5150c0859708e638d85d0dfeb37601b2a3d17",
+      "raw_file": "scratch/full-catalog/us-details/brown/b238546b9fee06d59c5c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/eleg/",
+      "sha256": "14351dd830d3601fbcefc0e8d294515f8b5e7ef721c271ac5096ad4eaaf1de03",
+      "raw_file": "scratch/full-catalog/us-details/brown/c409da390fa9c9b53d8a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/engn/",
+      "sha256": "6085781a5c639a0d02a6e86ef1ff941448e8897f9e0af679a56071bc2c645c90",
+      "raw_file": "scratch/full-catalog/us-details/brown/c3b0e3b294d20d4e6ff6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/enph/",
+      "sha256": "c3d86e5798f44e1c1c795950052096e846e6ded3462bbdad9396c65cd27a7d66",
+      "raw_file": "scratch/full-catalog/us-details/brown/1030553aef0d38ed79b6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/engl/",
+      "sha256": "8e4836050d38ad0f4f60069a3d5a1aabbd5cdd270b3cc9dd30a8453b70e5e6ee",
+      "raw_file": "scratch/full-catalog/us-details/brown/325c4a69c27bc72d3db6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/eveg/",
+      "sha256": "0aa782467defaee964bd56d64302d2596a03874c93546680f035ae45a48cbf63",
+      "raw_file": "scratch/full-catalog/us-details/brown/3c46bf0de3d2e7443858.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/envs/",
+      "sha256": "7ff34117f59f57c92ca20cfcaab7d8b3cfdbabfba07a1268e44fcbab4922b455",
+      "raw_file": "scratch/full-catalog/us-details/brown/1c5bdd0ebc8c70d06ef1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/eths/",
+      "sha256": "2176e9b8c8a598a4255b9e10f30f67706848070f3cfc328e58aeb3936ad6ed79",
+      "raw_file": "scratch/full-catalog/us-details/brown/cbfded1a62f04bd69c2e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ffs/",
+      "sha256": "18ee665e32f4d7756a2293574bddd1f53c1595b08801e6d152a7ba1b7b37ac47",
+      "raw_file": "scratch/full-catalog/us-details/brown/d56f0aeed4c65486797d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/gnss/",
+      "sha256": "449fa4b5632f219a4731cfc390b11cee72e66d229d09ee9eed24f09eb441f2ed",
+      "raw_file": "scratch/full-catalog/us-details/brown/c3d6045a19f10ba98c08.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/gcec/",
+      "sha256": "06b0743f1edc39ebb5233dfc5fc72197638e87714aa383844861ff74c0bc037d",
+      "raw_file": "scratch/full-catalog/us-details/brown/823d931947374ae9a70b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/gpcp/",
+      "sha256": "8d17ff75be812d5d1a9507f597e7834733326160907f6444f4c14104f4a8da11",
+      "raw_file": "scratch/full-catalog/us-details/brown/cc33084f0168e1bcec97.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/gmst/",
+      "sha256": "c82b33741a89064be2b1f59bd00b8788e7e248c103fd9a147471f6cfefa4244d",
+      "raw_file": "scratch/full-catalog/us-details/brown/c43bc259903eff8a1c5d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/hhbi/",
+      "sha256": "4a58d462f441240cd80aa0af1995002e1df820c913f1d12217ed04a19c229c90",
+      "raw_file": "scratch/full-catalog/us-details/brown/3899a45ad56f1f83eee3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/hslc/",
+      "sha256": "e0c9ac6781b148270cdf3982946e4ceaf92624c15c84ae6bf8335015a5474e2c",
+      "raw_file": "scratch/full-catalog/us-details/brown/85a6bffb75bfb995202d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/hist/",
+      "sha256": "5853f5cc205cd0f13dd336a7f6590b848549eb33f6f3469fa7e5a1b0f36c896f",
+      "raw_file": "scratch/full-catalog/us-details/brown/a18532165d55ece7b63a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/hiaa/",
+      "sha256": "663643a70efe76861876401a38647c484d3e39506b755b56555d3cf95e6c2284",
+      "raw_file": "scratch/full-catalog/us-details/brown/d513fc58477cadcfb35a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/indp/",
+      "sha256": "3b9ad4d5158bfde1a06915da01ec63a9965c47218d998b471a1ef824d06c8f08",
+      "raw_file": "scratch/full-catalog/us-details/brown/c30e8acba385017e7d41.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/iapa/",
+      "sha256": "edfc7394564aa1fa3ddf3401a66436121c8d1c14dde59b643b1d49bdbb89a29f",
+      "raw_file": "scratch/full-catalog/us-details/brown/ce6a7bafd3bb663b3958.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ital/",
+      "sha256": "f3d584d40b7b474d91b00634fe9448abad032c6d0f931344268b8c5e3754dbc9",
+      "raw_file": "scratch/full-catalog/us-details/brown/54cc6c5994e55094c8ae.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/juds/",
+      "sha256": "3b06d5a8b3d22e9d3baa0b6dc21aff0d8a8a204e770ac35618c0e822faf45ed3",
+      "raw_file": "scratch/full-catalog/us-details/brown/ec43370c201a969d867a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/lacs/",
+      "sha256": "39f1586a7721160d2cb07c30b29b6246a8a2c48e55b79d257605edaf2f1ae04e",
+      "raw_file": "scratch/full-catalog/us-details/brown/5fae5b94494e1a8237f6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ling/",
+      "sha256": "8fc6cc460102a265f404c6ac18c63058aebeeaf7646fd0cf9b8567aa7be8bed2",
+      "raw_file": "scratch/full-catalog/us-details/brown/54b0465d891ecff538b4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/lita/",
+      "sha256": "54d2f46d8bc327b4629bb805bad86b6c3613cdd03fbdb7b2894cf2bf815678df",
+      "raw_file": "scratch/full-catalog/us-details/brown/4376ff81ea6063ba20d4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/maeg/",
+      "sha256": "14b3195ecbd2d904934a288f27e26e1ff45e4d09f2e74e96adde2cb879984d5d",
+      "raw_file": "scratch/full-catalog/us-details/brown/f4aa3da4c2fe366271b9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/math/",
+      "sha256": "6857b2ca3fdb658602c2c54c37d05273700d710cca28450cd65b411a7437dbd1",
+      "raw_file": "scratch/full-catalog/us-details/brown/0ddd49164d254b70e257.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/macs/",
+      "sha256": "57ea81a57cabf71155246e69159627ebcbf4b0625d5fbd671d96a2afec784846",
+      "raw_file": "scratch/full-catalog/us-details/brown/c1a98e52136fd9419eb1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mtec/",
+      "sha256": "021de11d5fe0c4ecd3659c5cdc20dc4030bed61359b8c1492efcc1b8d74429fb",
+      "raw_file": "scratch/full-catalog/us-details/brown/d72e8926be40cabfa4e8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mceg/",
+      "sha256": "d9285b8e520911a11b3112e5eb41e70502b237700bfe9c5de93dfbe2217a838c",
+      "raw_file": "scratch/full-catalog/us-details/brown/cf79f0e928c26914c1e2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mdvc/",
+      "sha256": "25e6b33675a79b2f4e579fa755df9b5aacc7e6a01e1e1381c0a5fb714d1504ec",
+      "raw_file": "scratch/full-catalog/us-details/brown/906004c5bfc26d376ff0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mide/",
+      "sha256": "17c890f20a61b053ea6402278a047272b5acc6ad27050344f9537a7ffb791b66",
+      "raw_file": "scratch/full-catalog/us-details/brown/597796b556b89d7a853e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mcmd/",
+      "sha256": "2bd7495304777fce8094c0dec8519d71cd139b390705fb7514abf7f87db144b3",
+      "raw_file": "scratch/full-catalog/us-details/brown/4e585190f0d741d49b00.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/musc/",
+      "sha256": "9afd544eb79be20a1e02e0ddc8a83597f8a12e3be6064ad42ac95e25d58008f9",
+      "raw_file": "scratch/full-catalog/us-details/brown/524a69126943b69c394c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/neur/",
+      "sha256": "60fa313f64285b29a28e14ba42fd4b695f772f42fb3a8000b4e76cae5c04a5ed",
+      "raw_file": "scratch/full-catalog/us-details/brown/c9dd2c6d4c5ca4b2e584.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/phil/",
+      "sha256": "fb07fc8265294f91e0e8da97eaa3437836928371430898ba9552e02883f1ee74",
+      "raw_file": "scratch/full-catalog/us-details/brown/56b500067736511b6657.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/phys/",
+      "sha256": "a9cb0975977009e68979ae334496f80b392406a06e832dc77d86967694d58be0",
+      "raw_file": "scratch/full-catalog/us-details/brown/3e8faa4f52a871380c57.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/phph/",
+      "sha256": "20f118d12de0ee8bfc58c3626e92c9a1f27eaf51d136ac9e16e196b08c43363e",
+      "raw_file": "scratch/full-catalog/us-details/brown/89561c6beaf9d0cf0f28.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/pols/",
+      "sha256": "b421fc6dc5b786afd16445594957c753dc1757316e1c9613010a3cb5cafc0c08",
+      "raw_file": "scratch/full-catalog/us-details/brown/c3860bac0e9e2bdd97d8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/pobr/",
+      "sha256": "e8f0c0a82273882771e99c203f2cd4cf0027c6518eab358df02a0f84c9fb2507",
+      "raw_file": "scratch/full-catalog/us-details/brown/8ae5704b5d26d6f1084c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/psyc/",
+      "sha256": "5b649462da5c45b5fc36906fb6e0584334aa2dc5da95236b815472fc89a80ad1",
+      "raw_file": "scratch/full-catalog/us-details/brown/a40a790f2ffcc2263542.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/pubh/",
+      "sha256": "8c11f2b91d6e3dfcf78d5dd937041f209183719dcfb7d65bd5c9a57d235bb507",
+      "raw_file": "scratch/full-catalog/us-details/brown/bd894f02ebbd4f3a20f1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/rels/",
+      "sha256": "ccef24ec3dde37dfdcba802489d5ba72a832c6d77b32d2a76aecd9c1d0f3ba27",
+      "raw_file": "scratch/full-catalog/us-details/brown/9640c5ced1b645a3a02b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/sts/",
+      "sha256": "3a14c0a443188745de501faadcdddde3ccadf97349899220966dd5c514c94c97",
+      "raw_file": "scratch/full-catalog/us-details/brown/fd890c266dbff08ce8ad.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/slav/",
+      "sha256": "9ae6338da4592426d69ec2248d35be827ec9a7caa24c3fcb9e6ce96c13727e87",
+      "raw_file": "scratch/full-catalog/us-details/brown/4613983abf54fc998b03.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/sar/",
+      "sha256": "7770144918b2c47801df34e86aef9f97a9ddc82208f993bfb4cc5f8aef52b3b6",
+      "raw_file": "scratch/full-catalog/us-details/brown/4799f4c8b8b9c8ade33a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/soc/",
+      "sha256": "2a58ce1bd0a8e65826c35c2d716bafc9ab915bde737e6ef502f9e0a8d3ab4aab",
+      "raw_file": "scratch/full-catalog/us-details/brown/a444c459b3d54c07aa92.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/sast/",
+      "sha256": "f3aa9093cd5fbf6057f1fb6eb002beb578451ddb58d08326afff811804a6190d",
+      "raw_file": "scratch/full-catalog/us-details/brown/90d3edc1002d142e5b4a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/stat/",
+      "sha256": "18813c32bd9270dca481f53f4dc1f5e6acb5fa0f5f79e28ecf2526619216320b",
+      "raw_file": "scratch/full-catalog/us-details/brown/75e3ff16e9f6e69bfea7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/taps/",
+      "sha256": "ac28bc016d39c32ab85ab288aab1bd3482748a80a5a1da02d0e3fd31462c5d91",
+      "raw_file": "scratch/full-catalog/us-details/brown/26724348b25bbafcef47.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/urbn/",
+      "sha256": "ddacbc7e6587e501a5a44343126504d229fcd8f41221b5a079068a17988722d0",
+      "raw_file": "scratch/full-catalog/us-details/brown/4d3a62cbb15bb9ec91db.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/visa/",
+      "sha256": "b5ad3b6d3758b99d1a8414d4c5c1b09f911fb19945d467404442ffbaa40f192b",
+      "raw_file": "scratch/full-catalog/us-details/brown/33659d6cb3f47862a699.html",
+      "locator": "main/content > program section headings"
+    }
+  ]
+}

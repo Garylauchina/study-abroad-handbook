@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,47 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录收录 Informatics（BSI）。本轮尚未完成该独立项目课程、费用及毕业去向的逐项核对；学校通用规则另列。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-4feb64e6cc2195">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际新生身份与学历：</strong>适用于高中在读或毕业后未入读大学、非美国公民／永久居民且未毕业于得州高中的申请人；需相当于美国9–12年级的中学成绩，及高中期间大学学分的正式记录。本轮未取得大陆高考固定门槛。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-6e124ee712f593">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学术标化：</strong>须由考试机构发送至少一份官方SAT或ACT；该页脚注明确官方CLT也可满足该项。自报成绩不能代替截止前送达的官方成绩。专业还可能另要材料。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-6e124ee712f593">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语最低分：</strong>适用者须提供TOEFL79（旧120分制）或4（新6分制）、IELTS Academic6.5或DET115。英语豁免与受认可国家、至少3年当地高中学习有关，不能仅因在中国读英语课程就自行视为豁免。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-0c565ff0f5795c">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027 夏／秋入学日期：</strong>Common App 8月1日开放，EA 10月15日、补充材料10月22日；RD 12月1日、补充材料12月10日。页面明确相应录取通知为2027-01-15及2027-02-15。国际申请费 USD90。春季另有日程，本轮不混用。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-6e124ee712f593">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>学费须按学院核算：</strong>大学明确费用随居民身份和学院等而变，并链接 Cost of Attendance 与估算器。本轮未取得对应各本科专业、2026/27学年和国际身份的实际费率，也未核国际新生奖学金；暂不填统一金额。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d7e596bbc2e6aa">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +91,9 @@ hide:
 - [官方项目页面或项目所在目录](https://catalog.utexas.edu/undergraduate/degree-programs/)
 - [官方目录](https://catalog.utexas.edu/undergraduate/degree-programs/)
 
+<div class="catalog-source" id="source-p-USBENR-4feb64e6cc2195"><div><a href="https://catalog.utexas.edu/undergraduate/degree-programs/">Informatics — 官方本科目录 ↗</a><p>专业名称与目录入口；本轮未取得独立课程完整详情</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-6e124ee712f593"><div><a href="https://admissions.utexas.edu/apply/international-students/">ut-austin 官方 international ↗</a><p>本条国际新生身份与学历及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-0c565ff0f5795c"><div><a href="https://admissions.utexas.edu/info-for/international-students/">ut-austin 官方 info ↗</a><p>本条英语最低分及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-d7e596bbc2e6aa"><div><a href="https://admissions.utexas.edu/cost-aid/cost-tuition-rates/">ut-austin 官方 tuition ↗</a><p>本条学费须按学院核算及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/ut-austin/">← 返回得克萨斯大学奥斯汀分校</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

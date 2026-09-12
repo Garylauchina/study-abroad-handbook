@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,9 +42,13 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录所列学位／路径：Bachelor of Arts in English Literature and Education。入学年份与是否接受特定身份须结合招生规则；目录列名本身不等于当前开放申请。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-dc74482e666bc9">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>NIE国际生收费身份：</strong>2026届国际资格PDF脚注说明Arts/Science Education只向非补贴收费国际生开放，具体学科另有科目先修。不能套用普通NTU国际生Tuition Grant档；2027专项规则本轮未核。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-6f4b23b6ee3f88">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -65,5 +69,7 @@ hide:
 - [官方项目页面或项目所在目录](https://nie.edu.sg/te-undergraduate/undergraduate-programmes)
 - [官方目录](https://www.ntu.edu.sg/education/degree-programmes)
 
+<div class="catalog-source" id="source-p-ASREN-dc74482e666bc9"><div><a href="https://www.ntu.edu.sg/education/degree-programmes">English Literature and Education — NTU官方项目资料 ↗</a><p>项目身份、学制、课程内容、科目条件及职业方向</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-ASREN-6f4b23b6ee3f88"><div><a href="https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5">NTU国际资格科目要求PDF（2026届） ↗</a><p>REP身份与NIE非补贴限制，具体科目冲突边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">← 返回南洋理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

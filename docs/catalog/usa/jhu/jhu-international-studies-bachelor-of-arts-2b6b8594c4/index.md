@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">International Studies, Bachelor of Arts</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026–2027 Homewood全日制本科年学费 US$68,670；住校新生预算 US$94,858，保险另计。</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -36,21 +36,80 @@ hide:
 
 <p><strong>目录适用期：</strong>2026-2027</p>
 
+<p class="catalog-fact"><strong>培养表合计：</strong>本页本科主修相关培养表列出的合计包括63-65（credits）。表格可能对应不同结构或方向，不自动视为整个学位总量，不能跨表相加。</p>
+<p class="fact-sources"><a href="#source-p-jhu-program-115ab9c586263b70">官方依据</a></p>
+
+<p class="catalog-fact"><strong>具体学习单元示例：</strong>本科培养表列出的单元：Contemporary International Politics（AS.190.108）；Introduction to Global Studies（or AS.190.111）。示例不代表全部必修或当年保证开课，需核对必修/选修与授课安排。</p>
+<p class="fact-sources"><a href="#source-p-jhu-program-115ab9c586263b70">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成标准学制、具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="fact-sources"><a href="#source-p-jhu-program-115ab9c586263b70">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="fact-sources"><a href="#source-p-jhu-program-115ab9c586263b70">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：Homewood共同入口与Peabody分开：</strong>本节Homewood常规本科新生可为在读高中生，或高中毕业后大学学分不足12 semester credits者（高中期间所修不计）；已获学士学位不能沿用此本科入口。Peabody音乐/舞蹈须走独立试演申请，不可套普通本科截止。</p>
+<p class="fact-sources"><a href="#source-p-jhu-dates-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：国际材料与英语：</strong>国际生没有另一套主申请；非英文正式文件须验证英文翻译，无GPA或排名可留空。标准化入学考试为要求；母语非英语或过去三年非英语学校者推荐英语考试，不能把推荐写成统一IELTS硬门槛。</p>
+<p class="fact-sources"><a href="#source-p-jhu-international-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>Homewood共同入口与Peabody分开：</strong>本节Homewood常规本科新生可为在读高中生，或高中毕业后大学学分不足12 semester credits者（高中期间所修不计）；已获学士学位不能沿用此本科入口。Peabody音乐/舞蹈须走独立试演申请，不可套普通本科截止。</p>
+<p class="fact-sources"><a href="#source-u-jhu-dates-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际材料与英语：</strong>国际生没有另一套主申请；非英文正式文件须验证英文翻译，无GPA或排名可留空。标准化入学考试为要求；母语非英语或过去三年非英语学校者推荐英语考试，不能把推荐写成统一IELTS硬门槛。</p>
+<p class="fact-sources"><a href="#source-u-jhu-international-dom">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：2027 Homewood新生窗口：</strong>Common App或Coalition on Scoir，申请费US$70或豁免。ED I截止2026-11-01，ED II和RD2027-01-02；资助分别2026-11-15、2027-01-15。须学校报告、两位教师评估、期中报告等；Peabody另行申请。</p>
+<p class="fact-sources"><a href="#source-p-jhu-dates-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027 Homewood新生窗口：</strong>Common App或Coalition on Scoir，申请费US$70或豁免。ED I截止2026-11-01，ED II和RD2027-01-02；资助分别2026-11-15、2027-01-15。须学校报告、两位教师评估、期中报告等；Peabody另行申请。</p>
+<p class="fact-sources"><a href="#source-u-jhu-dates-dom">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：2026–2027 Homewood标准费用：</strong>Krieger/Whiting全日制本科秋春标准年学费US$68,670，按两学期每期至少12学分计。住校新生预算US$94,858包含US$500一次入学费和各项生活估计；健康保险US$3,624在校目录另列，不能当预算已包含。个人机票不能直接按US$738地区平均值保证。</p>
+<p class="fact-sources"><a href="#source-p-jhu-cost-full">官方依据</a> · <a href="#source-p-jhu-catalog-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：国际生资助须同期申请：</strong>国际生need-aware，资助需求影响录取；获录取且申请资助者满足学校认定全部需要。国际申请均须COF财政证明；需助学金者另交CSS Profile，若本科期间需要须在新生申请时提出，否则以后不能再申。国际转学生当前不获资助，少量merit奖自动考虑且不能保证。</p>
+<p class="fact-sources"><a href="#source-p-jhu-international-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–2027 Homewood标准费用：</strong>Krieger/Whiting全日制本科秋春标准年学费US$68,670，按两学期每期至少12学分计。住校新生预算US$94,858包含US$500一次入学费和各项生活估计；健康保险US$3,624在校目录另列，不能当预算已包含。个人机票不能直接按US$738地区平均值保证。</p>
+<p class="fact-sources"><a href="#source-u-jhu-cost-full">官方依据</a> · <a href="#source-u-jhu-catalog-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026–2027 Peabody本科费用：</strong>大学官方分院费表另列Peabody全时本科年学费US$68,670；其杂费、住宿、音乐个别课和非全时收费结构另列。不能仅因学费相同就套Homewood住宿、入学费或申请规则；本轮暂未采用Peabody页面之间不一致的保险/用品小计。</p>
+<p class="fact-sources"><a href="#source-u-jhu-catalog-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助须同期申请：</strong>国际生need-aware，资助需求影响录取；获录取且申请资助者满足学校认定全部需要。国际申请均须COF财政证明；需助学金者另交CSS Profile，若本科期间需要须在新生申请时提出，否则以后不能再申。国际转学生当前不获资助，少量merit奖自动考虑且不能保证。</p>
+<p class="fact-sources"><a href="#source-u-jhu-international-dom">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业毕业调查缺口：</strong>本轮未取得有明确毕业届次、回应样本和国际/中国学生口径的本专业就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-p-jhu-program-115ab9c586263b70">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>专业调查缺口：</strong>本轮未取得按Homewood专业/Peabody表演方向、毕业届次及国际/中国生样本分解的就业率或薪酬；学校无债毕业比例不是就业调查。</p>
+<p class="fact-sources"><a href="#source-u-jhu-dates-dom">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -59,5 +118,14 @@ hide:
 - [官方项目页面或项目所在目录](https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/international-studies/international-studies-bachelor-arts/)
 - [官方目录](https://e-catalogue.jhu.edu/programs/)
 
+<div class="catalog-source" id="source-p-jhu-program-115ab9c586263b70"><div><a href="https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/international-studies/international-studies-bachelor-arts/">International Studies, Bachelor of Arts 官方培养资料 ↗</a><p>本条培养表、具体学习单元及资料范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-jhu-dates-dom"><div><a href="https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/">jhu 官方本科资料：dates-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-jhu-international-dom"><div><a href="https://apply.jhu.edu/international-applicants/">jhu 官方本科资料：international-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-jhu-cost-full"><div><a href="https://sfs.jhu.edu/cost-tuition/">jhu 官方本科资料：cost-full ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-jhu-catalog-fees"><div><a href="https://e-catalogue.jhu.edu/university-wide-policies-information/admission-aid/tuition-fees/">jhu 官方本科资料：catalog-fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-jhu-dates-dom"><div><a href="https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/">jhu 官方本科资料：dates-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-jhu-international-dom"><div><a href="https://apply.jhu.edu/international-applicants/">jhu 官方本科资料：international-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-jhu-cost-full"><div><a href="https://sfs.jhu.edu/cost-tuition/">jhu 官方本科资料：cost-full ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-jhu-catalog-fees"><div><a href="https://e-catalogue.jhu.edu/university-wide-policies-information/admission-aid/tuition-fees/">jhu 官方本科资料：catalog-fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/jhu/">← 返回约翰斯·霍普金斯大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

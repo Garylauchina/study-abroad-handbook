@@ -1,0 +1,1157 @@
+{
+  "university_id": "boston",
+  "sources": [
+    {
+      "url": "https://www.bu.edu/admissions/apply/international/",
+      "sha256": "9beb671e5caf520d797f318e675541095ad087a701425d9f5f8ecd229eed13de",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/boston/raw/international.html",
+      "locator": "International Applicant Checklist / Secondary School Records"
+    },
+    {
+      "url": "https://www.bu.edu/admissions/apply/international/school-credentials/",
+      "sha256": "69ec95a98244d558ef82946c4832a67eb32074be3439900ab324db95acd01b5d",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/boston/raw/china.html",
+      "locator": "China"
+    },
+    {
+      "url": "https://www.bu.edu/admissions/apply/deadlines/",
+      "sha256": "9e39653dbcf401519e28ac7b9bb0981a59971559251c3c4789b761bfc5529322",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/boston/raw/deadlines.html",
+      "locator": "First-Year / Early Decision deadlines"
+    },
+    {
+      "url": "https://www.bu.edu/admissions/tuition-aid/tuition/",
+      "sha256": "aed302015e555b1f63ddc10511c8bd329085da110c7e8feb69bca9aafa0f1ce0",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/boston/raw/tuition.html",
+      "locator": "2026/2027 Cost of Attendance"
+    },
+    {
+      "url": "https://www.bu.edu/admissions/tuition-aid/scholarships-financial-aid/first-year-merit/",
+      "sha256": "64a9ec0bf91a5cafad5b69426864fc8cabc3c821fe2348a9a00bbd44537d8513",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/boston/raw/merit.html",
+      "locator": "Eligibility / Presidential Scholarship"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/acting/",
+      "sha256": "e8c22afc9c96e8f0852b6b488592df265ed105a945a04ce439798427157dccc9",
+      "raw_file": "scratch/full-catalog/us-details/boston/96d3ae5886e5e97977e2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/com/programs/advertising/advertising-bs/",
+      "sha256": "3011ba93b6f28d09a53fec599273c9fc9b625ffc5e44cdcbd216f433f3effb1b",
+      "raw_file": "scratch/full-catalog/us-details/boston/ae495b57b13f7299097d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/african-american-black-diaspora-studies/ba/",
+      "sha256": "163aaf1e4c7eee7613edfce13cbacc2312d327445b6f4f2f21760d0481565dfe",
+      "raw_file": "scratch/full-catalog/us-details/boston/c727873e67e1f4e022be.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/american-new-england-studies/ba/",
+      "sha256": "c85c9728da6c0d5d722d67e9b425d539cb9e91115e58c4066be3525bd4848b0a",
+      "raw_file": "scratch/full-catalog/us-details/boston/83400f75868ff6a89f01.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-ancient-greek-latin/",
+      "sha256": "d09946b0940db67e7deb944af5012dba686dc1a8c548c9fbbde219f0c24f01a3",
+      "raw_file": "scratch/full-catalog/us-details/boston/5d6fd1583beae710d3eb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-in-ancient-greek-mfa-in-literary-translation/",
+      "sha256": "61ca00da3c9a46450b328b084145158a5ec602376f506baf71c5226c1bc79258",
+      "raw_file": "scratch/full-catalog/us-details/boston/05ced44064cfe88fbe19.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/anthropology/ba-anthropology-religion/",
+      "sha256": "ee5e996cdf2b97cd1cdc0df762f5a277fbfb2eb20f010ee21a5f164fd74690c2",
+      "raw_file": "scratch/full-catalog/us-details/boston/1e1bafb4039cf7be0a05.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/anthropology/anthropology-health-medicine/",
+      "sha256": "ff75340d787b4eaabdde594be494cc47ec8c77c8d5f1f6212cb65d672c3d808c",
+      "raw_file": "scratch/full-catalog/us-details/boston/2cf74fd3d1e94edfd6c4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/anthropology/biological-anthropology/",
+      "sha256": "7f1b43bb902f561c17fe25311fb180c9dde1aa69701eb50a9df3c43817fb4496",
+      "raw_file": "scratch/full-catalog/us-details/boston/2f85b68d8ae0eee0a62c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/anthropology/sociocultural-anthropology/",
+      "sha256": "f22f3ce383b9ae0b08f2a72b5e20b723b888d41ac995102b0999074059bf6592",
+      "raw_file": "scratch/full-catalog/us-details/boston/631babbf14cd0a5e8932.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/archaeology/ba-in-archaeological-environmental-sciences/",
+      "sha256": "e697460d9411ddd3191c7c3347c57b6ae1c0803f50687fdc2e4edbf2c7f06dfd",
+      "raw_file": "scratch/full-catalog/us-details/boston/4b2f72ad8beb40a1ed60.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/archaeology/ba-ma/",
+      "sha256": "6bd637988bc2b455f1d32519ded54c53e4b76c5d421735a30c8399e68d508e93",
+      "raw_file": "scratch/full-catalog/us-details/boston/015f846b4b727dea6a4f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/archaeology/ba/",
+      "sha256": "f1eaf1b51e46678a4e379c85dd917941578798a6c19613020b817b56d82c0736",
+      "raw_file": "scratch/full-catalog/us-details/boston/6cb20b5010d1a0640075.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/archaeology/bama-in-archaeology/",
+      "sha256": "3f62337c6a2f971ac0ef9291b05cbaede9b540cca701c02bf6e56f4c083c1bb2",
+      "raw_file": "scratch/full-catalog/us-details/boston/ec5e3e0a2d3883004759.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/art-history/ba-architectural-studies/",
+      "sha256": "1001cf556d240c4f57976328fdf8e70a61033294c2247fc45b2ce173f47b3cb5",
+      "raw_file": "scratch/full-catalog/us-details/boston/c68b2bd1d8e72153dc57.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/ba-in-art/",
+      "sha256": "dcb2589d5a77233d8477a994a6603dbbea15f2f6f7b78f364fd5e9d4148ad3f4",
+      "raw_file": "scratch/full-catalog/us-details/boston/14459caa86b8d1c52b4c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/art-history/ba/",
+      "sha256": "92f8d3803e8f215674b1f29533bda8677fad0d106ae4467042fdf0be453b7d86",
+      "raw_file": "scratch/full-catalog/us-details/boston/bf3cb57604b91a6d7a06.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/art-education/bfa/",
+      "sha256": "7d1ef4dd705c197a4c46be36c53f03e3f0140d5171ffb70b487a4407622cde67",
+      "raw_file": "scratch/full-catalog/us-details/boston/55d98d8bf2e2b10c680e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/bfa-ma/",
+      "sha256": "53ac9e45d902ace0a8de9b8c67751f20cc1f4c5c444e3197b4b5854ffc497de7",
+      "raw_file": "scratch/full-catalog/us-details/boston/fee098ef60e96479d687.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/art-history/",
+      "sha256": "ce336d5ffdcaae82b2974b7f87fa64d43c19fcbef660a4c4303d4187f256ba50",
+      "raw_file": "scratch/full-catalog/us-details/boston/144e51a77e89dc00bfd8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/asian-studies/ba-in-asian-studies/",
+      "sha256": "65b38ae6d3bbff9df3aaa2a9a656a4405b7f1d70ba54abb69d957ba505549b15",
+      "raw_file": "scratch/full-catalog/us-details/boston/be5adbdabdc6ce03cef1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/astronomy/ba/",
+      "sha256": "476db42b5ecfee26ee79395b110735e1b6e9f94b5a107eb3cca9faf6496feaea",
+      "raw_file": "scratch/full-catalog/us-details/boston/f5bb62425657b5517c0b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/astronomy/ba-astronomy-physics/",
+      "sha256": "b20736d9b80faec6c492755c4fa35c187e7d5f28b89f21b7ffeacf722d757182",
+      "raw_file": "scratch/full-catalog/us-details/boston/9b2018db6c5307f1c3f0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/astronomy/ba-ma-astrophysics/",
+      "sha256": "a555437a92d93e526873c762cdb3402e003e0d8118aaa9d4eb8769d66a525a37",
+      "raw_file": "scratch/full-catalog/us-details/boston/85d29dcf53bb8b8de3a2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sar/programs/bs-in-behavior-and-health/",
+      "sha256": "acd3301eba423116f8042b9c47684fa85ba4b550692ca3e6bfe6afc1b3ede92f",
+      "raw_file": "scratch/full-catalog/us-details/boston/17dab749895f02443505.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/bilingual-education/bs/",
+      "sha256": "ea08f96b1325155d86321e36b46908fdbc650e0021afd05cd471a2343adf64fc",
+      "raw_file": "scratch/full-catalog/us-details/boston/a9bd02673097fb4908a5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/biochemistry-molecular-biology/ba/",
+      "sha256": "a3a74d4e20416c156d62f5c1d6cda447eec97ea86afb8d1c0cf75f1a41fd3b9e",
+      "raw_file": "scratch/full-catalog/us-details/boston/29fb9f34ba651891ea89.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/degree-programs/academics/cas/programs/biochemistry-molecular-biology/bachelor-of-arts-in-biochemistry-and-molecular-biology-to-master-of-science-in-molecular-biology-cell-biology-and-biochemistry/",
+      "sha256": "0d999a0e86c902b44c0f8518d500ca0983dc9e2da08229a67cb5ee74e86ec004",
+      "raw_file": "scratch/full-catalog/us-details/boston/cb6d018bc2211759dc71.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/biochemistry-molecular-biology/ba-ma/",
+      "sha256": "954c8560febc411054a32a5b17eeba3bebf6c977c981d6c34ffcb536cd33aa3d",
+      "raw_file": "scratch/full-catalog/us-details/boston/ebeef3b3ecc261279b0a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/biology/ba/",
+      "sha256": "d4ea2258234bf20780ff0afa2fc8aa520d523221e379bf9fa6d63d95355a3cf8",
+      "raw_file": "scratch/full-catalog/us-details/boston/5b0033c7897defeca300.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/biology/ba-ms-in-biology/",
+      "sha256": "43b5cdd98826ac5952461b12ed0fad75db5a4919aa1a44fd76fa6ee7dd90cd4f",
+      "raw_file": "scratch/full-catalog/us-details/boston/e19529e57d971813b610.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/biology/",
+      "sha256": "ba074bac66ad654e413199e2b769e7620a7784dedcf147633b1bddad77e7d1b8",
+      "raw_file": "scratch/full-catalog/us-details/boston/f61de12818e3bc637bd2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/biology/ba-behavioral/",
+      "sha256": "61d7f3a9cae6fd0a3f37c4239c6e91987188c1226a1af6a969b3f8738243e531",
+      "raw_file": "scratch/full-catalog/us-details/boston/056f5264989a6fc351a0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/biology/ba-in-biology-biodiversity-conservation-global-change-biology-specialization/",
+      "sha256": "22701cf6c51a85cb33df10c0e2272f38bcf325cd81e5e5db22ad8295b21a81bf",
+      "raw_file": "scratch/full-catalog/us-details/boston/11a7af6db31c09e15dc8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/biology/ba-cell-molecular-genetics/",
+      "sha256": "604fce85c380b06db94f626326405cd2f847551dd932a8e164ef5cc7d2bedb96",
+      "raw_file": "scratch/full-catalog/us-details/boston/8776b898fa731901fd66.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/biology/ba-neurobiology/",
+      "sha256": "15eb0d3f07463e852d553de2ed0ea9d2be0058c2ba3289c25c0780abe634ad93",
+      "raw_file": "scratch/full-catalog/us-details/boston/54831a9be221f6a7fd89.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/eng/programs/biomedical-engineering/bs/",
+      "sha256": "af43d2310aec3f75709d91c7169c2ab47a500282f46c5a2db3a47a07eb4e38eb",
+      "raw_file": "scratch/full-catalog/us-details/boston/bde7ad07836f94ff553b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/questrom/programs/undergrad/",
+      "sha256": "bdd861eb90ea4a2cef23d7c43c310b08f060223f34c5e2d535bd1c3410664773",
+      "raw_file": "scratch/full-catalog/us-details/boston/d6a7865f2c0d1b97c33b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/physics/ba-in-chemistry-physics/",
+      "sha256": "9a71f074c8f41bdf514644669d2182868d7dc00189ad7e31d329a6e80cd1813a",
+      "raw_file": "scratch/full-catalog/us-details/boston/5625141a20fd7f5176a6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/chemistry/ba/",
+      "sha256": "70552848ec8898f78a97ed78ca2abf45548af3f91d3e8c02a5e73b96929475c9",
+      "raw_file": "scratch/full-catalog/us-details/boston/f75030147546ed7172c2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/chemistry/ba-ma/",
+      "sha256": "2ddb7e9024e0d52fe4135c80195bb6bada7304c753bd17458e659fdc34760d4c",
+      "raw_file": "scratch/full-catalog/us-details/boston/7d313d1e9e4f52820696.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/chemistry/ba-in-chemistry-chemical-biology/",
+      "sha256": "2c171f32d65cc7f1e838315f1f936a525da40a7bbe2044d87733fe1ac8d2bd25",
+      "raw_file": "scratch/full-catalog/us-details/boston/184d5fa9199df39a21c2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/chemistry/ba-in-chemistry-materials-and-nanoscience/",
+      "sha256": "0c5b640cdf89c81d5148b231dea9ebb510b00a301c0d16b4570f85a9af7ca66f",
+      "raw_file": "scratch/full-catalog/us-details/boston/3076cb087cc4da7aab42.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-chinese/",
+      "sha256": "549c2680ef508257150cd616466673e3c79578d44d55f662dadb6928c3af2e54",
+      "raw_file": "scratch/full-catalog/us-details/boston/6e1c7a823c9452a31c47.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-in-chinese-mfa-in-literary-translation/",
+      "sha256": "58acb7ed6b5aedd6b93050601a30392eba875bf634bfaa06d6a191d1ebb03d68",
+      "raw_file": "scratch/full-catalog/us-details/boston/c03de0c9bfd24f57da6f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/cinema-media-studies/ba-in-cinema-media-studies/",
+      "sha256": "394138d580fb95edf0356bcda3b4c7c7c4349210be38d46bf104872fdd484bd2",
+      "raw_file": "scratch/full-catalog/us-details/boston/9ac8da4cfcbaa671e72d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-classical-civilization/",
+      "sha256": "72b51d0ef7d95c6c3268eac0597f81e2c865fc20278065bf1742e464e9756ece",
+      "raw_file": "scratch/full-catalog/us-details/boston/91bbd8d3c4594426e3b8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-ma/",
+      "sha256": "d2b011b8cf742cd7e2cfd680fbbeb88dfea7cb9562526ae45bfd14af21479bf9",
+      "raw_file": "scratch/full-catalog/us-details/boston/d8bddee4bf2050dbf7b1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-in-classics-archaeology/",
+      "sha256": "4ad92b9f999d7e4139f4ee64b68b33034e4d14f701c20c19a23e7712f889e4c3",
+      "raw_file": "scratch/full-catalog/us-details/boston/4f801731aa5a85a813f5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-ma-in-classics-archaeology/",
+      "sha256": "33846d585646585f64733a91e62f52d87aebc8ba5424112517866815f14cef7a",
+      "raw_file": "scratch/full-catalog/us-details/boston/40db54faa983b283daac.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-classics-philosophy/",
+      "sha256": "c1e5e207d875d2ab930db4cfac52c54e1e8e5fc092cb86ef50780734ec986f90",
+      "raw_file": "scratch/full-catalog/us-details/boston/e233b679d1a534e764a3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-classics-religion/",
+      "sha256": "567a2fbeaaaec71c4f2d9ab52ef91d33dfac4aaa1d5c1a52b152cc6e71e713ea",
+      "raw_file": "scratch/full-catalog/us-details/boston/cb0a457284d56e7aa42f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-comparative-literature/",
+      "sha256": "e94ec2c2aa62b7f3f9854b286bb23a4732a28dee1e8236dff6591a58e8884cc9",
+      "raw_file": "scratch/full-catalog/us-details/boston/94dfd1855d7200f2962c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-in-comparative-literature-mfa-in-literary-translation/",
+      "sha256": "3de9e684022a6ff675e4efec63c2ada696b5adb798816a514775566ea9d87e64",
+      "raw_file": "scratch/full-catalog/us-details/boston/7d11fdaaf578b7b5e772.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/composition/bm/",
+      "sha256": "53d20f0c0dbe5ca4a9e09a16adf3eee667e6a0a1a89e897e000ff5d3f5f1a0de",
+      "raw_file": "scratch/full-catalog/us-details/boston/3952159838102497b46f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/eng/programs/computer-engineering/bs/",
+      "sha256": "2a6ad23f867eddd6455477b81a1301f11998216106bedb772405c68dcae081ba",
+      "raw_file": "scratch/full-catalog/us-details/boston/d867a39c6c5f0e751e40.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/degree-programs/academics/cas/programs/economics/ba-in-computer-science-economics/",
+      "sha256": "ebbcc650111c0067ca4afe403f96ac9a8ccf1d0095e9ca58edf548c6bed496b0",
+      "raw_file": "scratch/full-catalog/us-details/boston/0a63b77cd457bc05f839.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/computer-science/ba/",
+      "sha256": "fecee77e10c6b1a152872f618a0051385c244f88c76a41b26f01ff915307c769",
+      "raw_file": "scratch/full-catalog/us-details/boston/7999c16e34a0b9b2ddca.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/computer-science/ba-ms/",
+      "sha256": "986dd032f74425e329a1f2da7e9eb5c8db0d84d171a76021d0891de683f9bff1",
+      "raw_file": "scratch/full-catalog/us-details/boston/05a9449c64303d63ae6a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/computer-science/bs/",
+      "sha256": "dbfaa8fc26850c4726e9fc67ed07bdfe4abff9809770770f3f235c474159fb26",
+      "raw_file": "scratch/full-catalog/us-details/boston/809bfbf25fe7a7f58da5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/costume-design-production/bfa/",
+      "sha256": "c87ca617e21c920d1d5041c0c163d0c94ea7a0b8d859a706e0904a5bd9f1048a",
+      "raw_file": "scratch/full-catalog/us-details/boston/b49d533e74958e06792e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/criminal-justice/bs/",
+      "sha256": "96a95c7f7a04b1ecf6db06f29d4f4dfaf1102d8f4969fc1c6f717dfcd51fcc1d",
+      "raw_file": "scratch/full-catalog/us-details/boston/54c59705984d628196a4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cds/programs/bs-in-data-science/",
+      "sha256": "8565188c654d57a2e9f0e27ecdae05e7c6e9e5b46ec84b50c68d0398321bc859",
+      "raw_file": "scratch/full-catalog/us-details/boston/4071fcf519feb6fb47fb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cds/programs/bs-ms/",
+      "sha256": "019eb9ffa12cc800b99b8ca0a17994630e086cdf695fa3f33e695731897ed710",
+      "raw_file": "scratch/full-catalog/us-details/boston/3309639577514b30cd3b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cds/programs/bs-data-science-ms-bioinformatics/",
+      "sha256": "9e78f305fa4ee96b134b28cd0832ace1e4988612a2d047338d58fc9ab7135b63",
+      "raw_file": "scratch/full-catalog/us-details/boston/1e6abeea8511e255397b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/deaf-studies/bs/",
+      "sha256": "b1c2836be7623b5f4e9667291464cb4af761ea72d0c79724643e10d1368e1d0b",
+      "raw_file": "scratch/full-catalog/us-details/boston/5525e9213600d19d1677.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/early-childhood-education/bs/",
+      "sha256": "0eed6dfa68dcde75d5d8fc2222094c08ab89e9423fe811c1bcfc8f93c282e252",
+      "raw_file": "scratch/full-catalog/us-details/boston/5c81a51b06ed11cc6ac9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/earth-environment/ba-in-earth-environmental-sciences/",
+      "sha256": "dc6251af0d66d300baf91dbf7eafdd2f7518255cd5524f58621b1bf74ba036a0",
+      "raw_file": "scratch/full-catalog/us-details/boston/2f49b2bf4e159cd40d9e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/economics/ba-mathematics/",
+      "sha256": "6d9e24df238b13f2b375f3f96bde5c1a8ac3305f6bc4cab06ddb5165dbbbccc2",
+      "raw_file": "scratch/full-catalog/us-details/boston/e9a32ba8485467f52f67.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/economics/ba-econ-math-ma/",
+      "sha256": "4faf6088bcf8ec569ac407529ca39a93b1e3ed5dc83f15d455fc6b230220c3c1",
+      "raw_file": "scratch/full-catalog/us-details/boston/4a9dd817ccf3d0fa9854.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/economics/ba/",
+      "sha256": "f5236e00a4569f28cdb16a6a89b46364b12c82a9fa6dc54a562917699ea69d45",
+      "raw_file": "scratch/full-catalog/us-details/boston/3ae8a0bad9b647e2d298.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/economics/",
+      "sha256": "dd0ffb0598d35dd320fb9373611678d91227d655daead92d45503c96681b150f",
+      "raw_file": "scratch/full-catalog/us-details/boston/1bb387d17decb57115c6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/economics/ba-ma/",
+      "sha256": "583367f90ac53c2ef10b1db707f57771bbf987cf709636175a3f3f71ffd05796",
+      "raw_file": "scratch/full-catalog/us-details/boston/cf4e126cc30270bea150.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/bs-in-education-human-development/",
+      "sha256": "b0bc3285e53805a509602afba59cbf4001c8297c6ec85f16e0d49f6981bd8fce",
+      "raw_file": "scratch/full-catalog/us-details/boston/098691a5fe61aefd324e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/applied-human-development/bs-edm-applied-human-development/",
+      "sha256": "751eee02160c34c5fb0d5c7020cc113e07d0fa9097aa8f751df8d9a495e2fdf7",
+      "raw_file": "scratch/full-catalog/us-details/boston/a3d8eb04a86093cde0b5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/policy-planning-administration/bs-ma-educational-policy-studies/",
+      "sha256": "d8f9efc8a897c58dcf6dafbaed734831c1fedb6155c99170a6dd734c28d1724b",
+      "raw_file": "scratch/full-catalog/us-details/boston/87d54cd822b8460abb6e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/bilingual-education/bs-edm-tesol-applied-linguistics/",
+      "sha256": "0d9285b7e05fd2e84b1a3d16a601051e76880c47bbf86acfc06ae0156d778015",
+      "raw_file": "scratch/full-catalog/us-details/boston/75a2c07df469277eda93.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/bilingual-education/bs-ms-tesol-multilingual-learner-education/",
+      "sha256": "93925e72c305b071b9194eea35ad0bcb07339d7a656ef3808a8d4c657d2d692d",
+      "raw_file": "scratch/full-catalog/us-details/boston/e3794470b7cf25976b54.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/eng/programs/electrical-engineering/bs/",
+      "sha256": "7c9777640f6f8a0f75b0390acc6e847307f9c7dc3a0f6723c3bbb8a24ae3ad6d",
+      "raw_file": "scratch/full-catalog/us-details/boston/57502dc331fda29e8b6e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/elementary-education/bs/",
+      "sha256": "1dda95c64ed392f623c3020f0441c0aaab04fcff4efb9afb8c41208aa075a9d8",
+      "raw_file": "scratch/full-catalog/us-details/boston/6572d28c23908af4c02f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/earth-environment/bama-energy-environment/",
+      "sha256": "71f8bbb5014a6ef0c630dad9e710d58d1e2b1ce58236a358f99dd6472239c830",
+      "raw_file": "scratch/full-catalog/us-details/boston/fb7ea47d5fb345085adc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/english/ba/",
+      "sha256": "0b588140868dcfb0fbc9d42ec1541972613dba8fbbfbc4d4e9de66c6ac9bc28b",
+      "raw_file": "scratch/full-catalog/us-details/boston/855ec8779b11cdb3098c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/english/bama-in-english/",
+      "sha256": "3e1cd0ba5eda080763288b9b9481c2efe440cf7eaaa035daf42f2f0fb8346d9f",
+      "raw_file": "scratch/full-catalog/us-details/boston/06663e3145dfa5c3fcf3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/english-american-literature/",
+      "sha256": "f223a68b09603b8b36f7ace96f698142a7e4424341ef793349dcc9262046164e",
+      "raw_file": "scratch/full-catalog/us-details/boston/2d498c922d77fdd6fa8f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/english-education/bs/",
+      "sha256": "693c24c6b6f0e3ea5ff1623d0df0108fee766a172c260fbec2da51670e0bb7b2",
+      "raw_file": "scratch/full-catalog/us-details/boston/c7e15102a2f270606cd1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/earth-environment/ba-environmental-analysis-policy/",
+      "sha256": "cc69615b5468dab1e410c49be769bc5eb94e1d30700f4765f5d22bfd6cde752f",
+      "raw_file": "scratch/full-catalog/us-details/boston/b61a0eb5ad316eb0acb8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/european-studies/ba/",
+      "sha256": "0b5d9c0983d2096b526551227b7506db9e977996bd51c214e507fa886a038230",
+      "raw_file": "scratch/full-catalog/us-details/boston/9df3626ae50feaa6381e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/com/programs/film-television/film-televisionbs/",
+      "sha256": "d7ddee766188f605a6cf9c9eef799e902bb831ce698635fe6448f34717aac02d",
+      "raw_file": "scratch/full-catalog/us-details/boston/a152ff8426981c38496e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/ba-french-linguistics/",
+      "sha256": "8e3003614f1e904a242732c6ba792642a879816a2808f899a669378e219a0b1e",
+      "raw_file": "scratch/full-catalog/us-details/boston/b8ca29c6b947cc321cb7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-french/",
+      "sha256": "e2facfe6c77bc7bb2e49172ca7040b06b89267c1f394e477f7fb4b84ebb45a61",
+      "raw_file": "scratch/full-catalog/us-details/boston/3286998e52492db90a52.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-in-french-studies-mfa-in-literary-translation/",
+      "sha256": "0049981a41ed13068236650ca6dd3e5c36e17a5b5cbe78eeaad49737ea105659",
+      "raw_file": "scratch/full-catalog/us-details/boston/0ec46f5948c58c1c030a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-german/",
+      "sha256": "81c9221e0ab05beea445e7a131541a0cccca42d0cf8f03494a35315a7423c59f",
+      "raw_file": "scratch/full-catalog/us-details/boston/33d849c63aa46805a3d6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-in-german-mfa-in-literary-translation/",
+      "sha256": "b22331b0a690c9132ddab9fe025a9efc522365c43cd9a61af4e7de455a302dea",
+      "raw_file": "scratch/full-catalog/us-details/boston/079a05d4dcaebc284973.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/graphic-design/bfa/",
+      "sha256": "086e1c15d14b86e814d7dd69b3af0297a9e25e2b3ed2a76f84bb4f698fd3e01d",
+      "raw_file": "scratch/full-catalog/us-details/boston/4c76dd79d558f961f4ac.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/classical-studies/ba-ancient-greek/",
+      "sha256": "d09946b0940db67e7deb944af5012dba686dc1a8c548c9fbbde219f0c24f01a3",
+      "raw_file": "scratch/full-catalog/us-details/boston/d71a3457b8003913e082.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sar/programs/health-science/",
+      "sha256": "4697dfba5a92efc16c49229f89987f5ad42725fe986443e741911b7e75c81ff7",
+      "raw_file": "scratch/full-catalog/us-details/boston/1e1e01ca1fbc2a1f6e43.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/history/ba/",
+      "sha256": "1f8fe4a01288f2344372b759db46b12f35da45ce2581e1f1e34d113b3290c2ff",
+      "raw_file": "scratch/full-catalog/us-details/boston/17c387b808e2e07eebd0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/history/",
+      "sha256": "5863ff410333dcc8b71b0cc1d11303f32ea7b9c609e4f3fbe05af95115716b5e",
+      "raw_file": "scratch/full-catalog/us-details/boston/d4d7be48ed46c2bac1f7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/holocaust-genocide-human-rights-studies/ba/",
+      "sha256": "1011f6e8c5e7ef04db56458ab1e41bc93d3fc46e609e219f7da4104fa04ce9fa",
+      "raw_file": "scratch/full-catalog/us-details/boston/c4b5d7906035e2ca4ac4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sha/programs/bs-in-hospitality-communication/",
+      "sha256": "1a4ffe76e8dd5eb99d850d4780babacdcc57e8f8506915a8c90c1481ae5778c4",
+      "raw_file": "scratch/full-catalog/us-details/boston/9780045b54e0a717de38.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sha/programs/bachelor-of-science-in-hospitality-administration/",
+      "sha256": "79e2b4ac0e817bd5452cf7fc651ce1df8cd3a353fc5304899ca0ffb3f2639059",
+      "raw_file": "scratch/full-catalog/us-details/boston/ebdc8aba7e287b215a9f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sar/programs/human-physiology/bs/",
+      "sha256": "fcca1a065068a6400e18fd19aa4fb7ea407390f8ccaa8e52fd5081378300d29b",
+      "raw_file": "scratch/full-catalog/us-details/boston/5c9523a05d0684e755aa.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sar/programs/human-physiology/bsms/",
+      "sha256": "ddfd899388bd4e46ec29f42e6def049f544e605ac136ffd9cbbc88a807ef3bb0",
+      "raw_file": "scratch/full-catalog/us-details/boston/1c5907d60bef9defa730.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/majors-and-minors/",
+      "sha256": "28ff792c77dd09f47a64e003648ab4f6472b800bf5283c8b11c986a9ae7b44b2",
+      "raw_file": "scratch/full-catalog/us-details/boston/61191e6a0225dd11d1ee.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/interdisciplinary-studies/",
+      "sha256": "e52ec46b8bbab03a2ae3b53935f497d3e55aebd1bb71d5a84eccd4501f812c57",
+      "raw_file": "scratch/full-catalog/us-details/boston/f0ed960dbacdbb25dfe5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/international-relations/ba/",
+      "sha256": "2935f01fd74f3853f4c021afb189726fb5b6837198c29d330e0c44030d2bebca",
+      "raw_file": "scratch/full-catalog/us-details/boston/9049e923dd9e2bc59b5a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/international-relations/ba-in-international-relationsma-in-international-affairs/",
+      "sha256": "2fbb2143efcd07099168ddb99f82aa7a24d8acad13e10c59f845cc5ff8a0c441",
+      "raw_file": "scratch/full-catalog/us-details/boston/dfd4988874d46be6c239.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/ba-italian-linguistics/",
+      "sha256": "aa1f1ce1c03c36ce36ae3ab6d6ffea3b8bcc27b9a62f76a48e24abb98d661a26",
+      "raw_file": "scratch/full-catalog/us-details/boston/00732ed59447e36e9077.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-italian/",
+      "sha256": "b9b94de56501d0a5dc96b4e7040ee3fc514fc37f396393a7b6fceac8ec71438c",
+      "raw_file": "scratch/full-catalog/us-details/boston/797f8a986b7b7fe05003.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/ba-japanese-linguistics/",
+      "sha256": "52a79ab64dfeeb9aa4e0128f0186ac1047a95701f6e60f473947825e1dc2795e",
+      "raw_file": "scratch/full-catalog/us-details/boston/1aa33edcac60edaf2895.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-japanese/",
+      "sha256": "3c414a5b302fc167b5745bbdb139826428c106f0493eec681398552ff7859daa",
+      "raw_file": "scratch/full-catalog/us-details/boston/ce0cb7649fa2377ef4dc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-in-japanese-mfa-in-literary-translation/",
+      "sha256": "8b23c5e61d52a448ef8362b4ce7380823883112af240a79bb27241f00ca66056",
+      "raw_file": "scratch/full-catalog/us-details/boston/ba811da3b68af4ced3dc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/com/programs/journalism/bs/",
+      "sha256": "0d1de127a365c2a470b88a083c3470e496eed6c27ec4a036fc28ec83915362f4",
+      "raw_file": "scratch/full-catalog/us-details/boston/0676355be966082276b2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/korean/ba-in-korean-language-literature/",
+      "sha256": "485561919ce1ae2277e9db4739c0af3d9868dd4eab6e1847942726d4217d0fc0",
+      "raw_file": "scratch/full-catalog/us-details/boston/19936a950eb7fe4e1882.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/latin-american-studies/ba/",
+      "sha256": "c1f35dfd1820bb1b354603af1fa8510f8f19c5b103e1acd684c5bc0f01b1c733",
+      "raw_file": "scratch/full-catalog/us-details/boston/5049b6048ba0bdcea61a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-in-latin-mfa-in-literary-translation/",
+      "sha256": "1f9ecacf31d721600cb08480c3c9aaec95e1c2f8b6a1e77d64fdf2add977b1f1",
+      "raw_file": "scratch/full-catalog/us-details/boston/f0725fa72706c0dc252f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/lighting-design/bfa/",
+      "sha256": "a2793ae396ea086422d0fb140297b67aaf99480ea692cc4ecffb893056b58ce9",
+      "raw_file": "scratch/full-catalog/us-details/boston/087acf4f38b500966277.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/ba-linguistics-african-languages/",
+      "sha256": "07d37defeedce4faf2f53d094cb1109bdac7f1c6cdf141b2443db335f18fc714",
+      "raw_file": "scratch/full-catalog/us-details/boston/a4c836085cfb3d5a6ce8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/ba-in-linguistics-computer-science/\"",
+      "sha256": "6dff543945e9d9ec0361d10f327a7301fb81860bbbf82463b72d13ae387e755e",
+      "raw_file": "scratch/full-catalog/us-details/boston/9f2fbefc1b38c16276f7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/ba-linguistics-philosophy/",
+      "sha256": "9cadfec7e71106d496568f3ba3f8c5f1c666448c8e9634182ad17f6b23826bf2",
+      "raw_file": "scratch/full-catalog/us-details/boston/47345f0b8a324e10082e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/ba-in-linguistics-speech-language-and-hearing-sciences/",
+      "sha256": "46f1b6961c48652e2b266339bc5dd476058da5a2122e8ebc62ebfc4490728bd9",
+      "raw_file": "scratch/full-catalog/us-details/boston/634d1773920dbc1b880f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sar/programs/speech-language-hearing-sciences/bs-in-linguistics-speech-language-and-hearing-sciences/",
+      "sha256": "9d8502f04314871f4ca7b1b3d5a1222a874300a897469e8ee1e7c7e316edc697",
+      "raw_file": "scratch/full-catalog/us-details/boston/8d4de85dc33373421acb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/ba-linguistics/",
+      "sha256": "33d811ac242cebe9f61daefa002f4736ee3d402cfbdc6b5b945c3df3543035b5",
+      "raw_file": "scratch/full-catalog/us-details/boston/7a9013ab7a83d2fde0b1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/bama-in-linguistics/",
+      "sha256": "6fa5c318f37ca283de3c347efca5b4fac67e128fbaa981510561643d74741bf6",
+      "raw_file": "scratch/full-catalog/us-details/boston/002a246e5c0bc8ab451c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/administrative-sciences/bs/",
+      "sha256": "1077cba133e6bbd63044f0b89832f7e5cbaeebdf231766626334c017abe5dd7c",
+      "raw_file": "scratch/full-catalog/us-details/boston/16595146869f65d8e106.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/marine-science/ba/",
+      "sha256": "8f1ee72204c91096d43061e48b3c0fa5bc08b19f51be7730ddd1465f4e0d5a1a",
+      "raw_file": "scratch/full-catalog/us-details/boston/3d7ad8131e52cafe4121.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/marine-science/bachelor-of-arts-in-marine-science-to-master-of-science-in-biology/",
+      "sha256": "26e8775017bf75260ef4415206c03138852f0ffa21e561afddec0c53e1e88122",
+      "raw_file": "scratch/full-catalog/us-details/boston/c1b069bd2a99f84cb2f4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba/",
+      "sha256": "fe9c63a2381dd6dc40558b3b3ab382e9d047f3310fc3dafe1baf17601bdc4a8a",
+      "raw_file": "scratch/full-catalog/us-details/boston/39afb1a4c0710d6776b8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-ma/",
+      "sha256": "0f6eb783a354de8485a58d08299e43f83bb3671b7441828f10272f6c5f45b842",
+      "raw_file": "scratch/full-catalog/us-details/boston/213fbba225ae92172bc5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-mathematics-computer-science/",
+      "sha256": "ad06a36fdbdff7cb3b419bb8305376d2ea98b06a61afbcde72b338aff0f93078",
+      "raw_file": "scratch/full-catalog/us-details/boston/ee0746737301a49f14f7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-in-mathematics-computer-science-ms-in-computer-science/",
+      "sha256": "56d63d912977d4d1d214d545fbce8cfb55f4efaffe78996718f93c8d2b7d7d1e",
+      "raw_file": "scratch/full-catalog/us-details/boston/5b53879d440b9dbda0e2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-mathematics-education/",
+      "sha256": "bc705a8df892c78fbdcd8d67849f5bde62aeaca4cb91230f280d75d128a23e1e",
+      "raw_file": "scratch/full-catalog/us-details/boston/cea9c02118ca85f6ec28.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-mathematics-philosophy/",
+      "sha256": "c189c308736e9d2bfd44bdb4a997e43d08ea56157c441c5a65d00eeba0d6162e",
+      "raw_file": "scratch/full-catalog/us-details/boston/f06df10aeeeff461be74.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-in-mathematics-physics/",
+      "sha256": "69421c632aa3dc17ba7163431c42d2402b9d53df806ad86f306bbe6681a20f57",
+      "raw_file": "scratch/full-catalog/us-details/boston/728b2a35e8e311f3d153.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/mathematics-education/bs/",
+      "sha256": "63e3656a7c9fea97ec3a1d354af2468627a75cdb7901b294a17e919aeaccb275",
+      "raw_file": "scratch/full-catalog/us-details/boston/78c303e12c99e1b96893.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/mathematics/",
+      "sha256": "2bffeaf86e40ebc90efae29d3c9c57834ed002c488a56a8bcc6bd5472950094f",
+      "raw_file": "scratch/full-catalog/us-details/boston/14ef1fdb94650f3a50d2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/c/grs/programs/biostatistics/ba-ms-math-biostatistics/",
+      "sha256": "222cd1f793177951c0c628f0b19ffd1c494a49ad014225ab7f9d0015de41e270",
+      "raw_file": "scratch/full-catalog/us-details/boston/ddb0c0e9aecec8b32a75.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/eng/programs/mechanical-engineering/bs/",
+      "sha256": "7247a94309b7895411bac8fa64e8fa3d9c5843a8a3fe0e295295b4a22b51133d",
+      "raw_file": "scratch/full-catalog/us-details/boston/24562895f2bf1b9e0da4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/com/programs/media-science/bs-in-media-science/",
+      "sha256": "aa4459806ca5189962bbfe9ee78936b8ce0f6e64742f3a712ed58a1aa755b8c9",
+      "raw_file": "scratch/full-catalog/us-details/boston/be2d73b5d8f5676fbb9b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/ba-in-middle-east-north-africa-studies/",
+      "sha256": "9635c7a745a4a30107c9aa0960b446938f308ffa253d856943d3a91a7acb77c0",
+      "raw_file": "scratch/full-catalog/us-details/boston/700d853a694cee5538ea.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/bachelor-of-arts-in-middle-eastern-and-south-asian-languages-literatures/",
+      "sha256": "390ed2d676075f58db50269233bc577e6e550922dbe4755c28bc0df1fe3c048d",
+      "raw_file": "scratch/full-catalog/us-details/boston/4b2f25fe1fcb1405ee0c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/modern-foreign-language-education/bs/",
+      "sha256": "4d3edbbe51bbb6aebd751b5202ee401ac12919ba131ac985b901bbe91fa9e777",
+      "raw_file": "scratch/full-catalog/us-details/boston/1505c9108dbe74f2bc42.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/music/",
+      "sha256": "f4ec434f3fef7f2da1a7c03d5a13a9708d087e16e4dad24309edbdd310dd164d",
+      "raw_file": "scratch/full-catalog/us-details/boston/a57f222b0538d3c5a4c5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/music-education/bm/",
+      "sha256": "5302bd05d8695c87dda1e867866f098aec38fd7afd01aa78801496f4274ded66",
+      "raw_file": "scratch/full-catalog/us-details/boston/3cc580461e1225afaee4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/music-education/bm-mm/",
+      "sha256": "9d6eccdb8ab42d9b64e54d26779b19eb4a2fd7835558a8538bb21ea07a1a2fcd",
+      "raw_file": "scratch/full-catalog/us-details/boston/91a97dff08deca5f924b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-music/performance/bm/",
+      "sha256": "6806f991b9f9e032d7a74416f5793c033787500adfa20af13c815cf1d4997db7",
+      "raw_file": "scratch/full-catalog/us-details/boston/9e9c2d1516810cc5e35a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/neuroscience/",
+      "sha256": "42710c5b6442d06c85eac3129aba04134c5f98dea2381a8061d78444fa4981d3",
+      "raw_file": "scratch/full-catalog/us-details/boston/c0854a44c6065f5a0e76.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sar/programs/nutrition-dietetics/bs/",
+      "sha256": "a81f406fef602445e1bec5332299b3b4af732658a6938e64e70225c8504bb62c",
+      "raw_file": "scratch/full-catalog/us-details/boston/5872c4572f701da2125a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/painting/bfa/",
+      "sha256": "cbf4ac61c938903f6b72a06bf232c5d82c84a30ce4e3024914ad0c2a622193f5",
+      "raw_file": "scratch/full-catalog/us-details/boston/f23ad1e6134dc95bbd5e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/philosophy/ba-in-philosophy-neuroscience/",
+      "sha256": "ebfde04004b29814383a258067cfa5e5b40f9defea87bff098525cc113ea46e7",
+      "raw_file": "scratch/full-catalog/us-details/boston/f19f1f8234476c6c0521.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/philosophy/ba-physics/",
+      "sha256": "2490a25ec608a590d5e1519cb6a3df59740e14aabd6f1f61929a70a1ca981970",
+      "raw_file": "scratch/full-catalog/us-details/boston/9f845b4acd00f943dbc8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/philosophy/ba-political-science/",
+      "sha256": "5e204d41fdd46c7e23d01960caadafbc5ab293f513a295265d66fc9a0c8df738",
+      "raw_file": "scratch/full-catalog/us-details/boston/6cde0616a405de5b404d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/philosophy/ba-psychology/",
+      "sha256": "d3d9480e333367f634037fa7e4dcd8775e8c7661b53b7bfcda7bcc895ee6f015",
+      "raw_file": "scratch/full-catalog/us-details/boston/da9296d382ed628dcb01.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/philosophy/ba-philosophy-religion/",
+      "sha256": "2e12cd462af1f9ab13cf0db073ccd143decad9398863464d2b920d68b836aa4a",
+      "raw_file": "scratch/full-catalog/us-details/boston/7d900c848653f7d0a66f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/philosophy/ba/",
+      "sha256": "6038025dc237b12334aac32f5833983c09df15cd37cadfd4e6a33bc82e0ed6d5",
+      "raw_file": "scratch/full-catalog/us-details/boston/a91f71f78ceed22979cc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/philosophy/bls-in-philosophy/",
+      "sha256": "6984faf9143fdaaafc2ca8a256671b6861c5f1fdefd239334bcd03ef74fd7bad",
+      "raw_file": "scratch/full-catalog/us-details/boston/3a456cd2e8aaf47538fb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sar/programs/physical-therapy/bs-dpt/",
+      "sha256": "2a9c650352f8e0f3bf3c84da20454239713f7b10933281f32ac1eb6bf8422084",
+      "raw_file": "scratch/full-catalog/us-details/boston/b697b589444bf8b5f464.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/physics/ba/",
+      "sha256": "68abfe8393ab6cfdf17b8acd1e688851d7845a071a2cfab7b589dee57815bb58",
+      "raw_file": "scratch/full-catalog/us-details/boston/2191775823d298645857.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/physics/ba-ma/",
+      "sha256": "480ce83b0dab3766f97f1ba90b499380bc8da8ed149d83211e126c5e5ee7d396",
+      "raw_file": "scratch/full-catalog/us-details/boston/cd561e410477d64005ac.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/physics/ba-in-physics-computer-science/",
+      "sha256": "f76f1554250c7cf84e5b7d020a753950b1160c27adffb633c25b0eb361296a88",
+      "raw_file": "scratch/full-catalog/us-details/boston/fdc7ada8b0c937c06a8c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/political-science/ba/",
+      "sha256": "3f180761a8c02106788e92b16b27e7656e8cd2df4e0da2926bf252c12197ca9f",
+      "raw_file": "scratch/full-catalog/us-details/boston/8d0efe05668d4d3e9850.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/printmaking-2/bfa/",
+      "sha256": "1462d8ac26effb36e66fd0b78b60cbadf30fe740371b2c29a98abba90e114ca1",
+      "raw_file": "scratch/full-catalog/us-details/boston/75636d7a893353c0a670.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/psychology/ba/",
+      "sha256": "391cc7ca2dbc997857940ae73a5549e419dca4c6a19278bfff6f76c3e230c152",
+      "raw_file": "scratch/full-catalog/us-details/boston/07d35e6c858a98cdbed0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/psychology/",
+      "sha256": "2a53892a2e195cb78db0e7d8ea687b96a4d8a3d08965d60ae5b8df5e14f42bd8",
+      "raw_file": "scratch/full-catalog/us-details/boston/d2c045a9bcd53526ff14.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/bamph-program/",
+      "sha256": "439da8baba44c97f9f21d175dd458c32488cd6a7a80c68197843f67065dc0b4e",
+      "raw_file": "scratch/full-catalog/us-details/boston/2fbbf705ff11297b7236.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sar/programs/public-health/bs-mph/",
+      "sha256": "4a1534cf2ff1297231e84ce63902933ebf265a4ff6744e0e6d0aae0f701e082a",
+      "raw_file": "scratch/full-catalog/us-details/boston/b3a3e34240e750598989.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/com/programs/public-relations/bs-in-public-relations/",
+      "sha256": "22abee3424656310386025fe4e2fb98d18d267073d11c5ed2ca1c35155a125db",
+      "raw_file": "scratch/full-catalog/us-details/boston/f8f10871f7b8a26860b4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/religion/ba/",
+      "sha256": "7cf42981cc484682b1e5d3a8fcf6b2d83619c3c25ac52afaf8b82e9a879e9df2",
+      "raw_file": "scratch/full-catalog/us-details/boston/76b3cba84a5260833806.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/earth-environment/bama-in-remote-sensing-geospatial-sciences/",
+      "sha256": "c9e15c5642e9f862c0271bb577b2df5c6166d199084e04824a8c3e5624eda3f0",
+      "raw_file": "scratch/full-catalog/us-details/boston/02169c905199ad18f93f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/world-languages-literatures/ba-russian/",
+      "sha256": "397072cc24c5f235c59ee812c495c01cdbc523731418a6ea33c6adf3a9d2b519",
+      "raw_file": "scratch/full-catalog/us-details/boston/05996a19ffd1bd0850a7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/scene-design/bfa/",
+      "sha256": "869238dd4b7fd527adac2724bbabecf9911c85de99e3b8194f4741233ef134d2",
+      "raw_file": "scratch/full-catalog/us-details/boston/ab698298593128f67a49.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/ba-in-science-education/",
+      "sha256": "d4650bb3633695f721ea7989b3b876de3c9a49c760258df1475c3f14bf34f1bf",
+      "raw_file": "scratch/full-catalog/us-details/boston/e3c1ce2d75e8ade279a1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/science-education/bs/",
+      "sha256": "1707004f72b079d3aa6c1592f6b18fbf7886b6e5fdf8d32383138e0405eced4f",
+      "raw_file": "scratch/full-catalog/us-details/boston/494374c11319b76f1b8a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-visual-arts/sculpture/bfa/",
+      "sha256": "f2b8058338b042527b1407a078c9edbc58a7cb099a22343bbddf9e838b92088c",
+      "raw_file": "scratch/full-catalog/us-details/boston/4ef9599397f270c12cd6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/social-studies-education/bs/",
+      "sha256": "ed5dc5f6569b8a009eb5ffd87f7b959142f21bb2dee812b9d116757e1d5e4043",
+      "raw_file": "scratch/full-catalog/us-details/boston/849b24317b5948cc0af3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/sociology/ba/",
+      "sha256": "ff3e6754ffb3c5fae4cc5515b1eb70a55205d3833dde5f4e765fecf10e07aa81",
+      "raw_file": "scratch/full-catalog/us-details/boston/37bf1e6bd0cbb380cb9f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/sound-design/bfa/",
+      "sha256": "d5d1edaf144352edad76796f5f4efe19de1ee58826c9aee3ac2c3ba915e303b1",
+      "raw_file": "scratch/full-catalog/us-details/boston/f0b6168a834047630456.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-spanish/",
+      "sha256": "45de16320868fe20b4d34670ab0843e1d3149eb3b6c35ea5df029f178c8bfccb",
+      "raw_file": "scratch/full-catalog/us-details/boston/b642a9d2f2efce7d38df.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/linguistics/ba-spanish-linguistics/",
+      "sha256": "0f56e699f4f78e74675e97e60e43a8ad1d1a2a07f19400c68d6d2cccc47087d0",
+      "raw_file": "scratch/full-catalog/us-details/boston/a54f9016121ffd2f1460.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/romance-studies/ba-in-spanish-mfa-in-literary-translation/",
+      "sha256": "a5cef69322c278dab2b148f18d2167d3720cf8718a76b91117de8d22a7cef7c7",
+      "raw_file": "scratch/full-catalog/us-details/boston/aaef46c3516085520081.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/wheelock/programs/special-education/bs/",
+      "sha256": "b1e02a7f049d2788536229ccb0267e4281c92aaf691676e82e3927477cdffaab",
+      "raw_file": "scratch/full-catalog/us-details/boston/64c24b80a1a4ce144b46.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/sar/programs/speech-language-hearing-sciences/bs/",
+      "sha256": "811f8e6df15c5be83f03c840da11e4b0e4452e8334a339db9718ff8057e00a47",
+      "raw_file": "scratch/full-catalog/us-details/boston/e3ac2fc06921beafd75b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/stage-management/bfa/",
+      "sha256": "a5135b1783b1d0f5bb580101dfb8625c5b2104619eefed15f01aa95f52c46b33",
+      "raw_file": "scratch/full-catalog/us-details/boston/6e9ead5519b4e34b35d1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/mathematics-statistics/ba-in-statistics-computer-science/",
+      "sha256": "4cc65434d3000d9ad4367071bc4f91a8058e2ced3e31e2fc063de50ce3e9fffa",
+      "raw_file": "scratch/full-catalog/us-details/boston/6dfe2e396137a9f33ca3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cas/programs/chemistry/ba-teaching/",
+      "sha256": "e85ed0cf0f095ea3efc75814f8c9cbb73eb34458e2959cd0549423529cece1b6",
+      "raw_file": "scratch/full-catalog/us-details/boston/f566451ea07b4343d9a4.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/cfa/programs/school-of-theatre/technical-production/bfa/",
+      "sha256": "b3dec17d11ede6cfe08af807497a6fceb0ed230d0578ba4f57548bcff1f7bfc9",
+      "raw_file": "scratch/full-catalog/us-details/boston/af1f3abf009734e76194.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://www.bu.edu/academics/met/programs/urban-affairs/bs/",
+      "sha256": "6fb5566f7655213d89a4dbea6a2a55bc14f0832f0cab2ef9a5d0dfa642fbdd05",
+      "raw_file": "scratch/full-catalog/us-details/boston/ae12eee3a8814c11ce3b.html",
+      "locator": "main/content > program section headings"
+    }
+  ]
+}

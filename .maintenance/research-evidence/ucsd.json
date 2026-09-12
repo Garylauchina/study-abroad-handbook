@@ -1,0 +1,41 @@
+{
+  "university_id": "ucsd",
+  "sources": [
+    {
+      "url": "https://admissions.ucsd.edu/international/",
+      "sha256": "9f33f2fc0b46c7630930cfc43a2fddcfe07212cc056f4cfdde112be058e0b5dd",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/ucsd/raw/international.html",
+      "locator": "First-year definition / Secondary School Requirements"
+    },
+    {
+      "url": "https://admissions.ucsd.edu/faq/",
+      "sha256": "69143aca53913a6e7f8bac6ffb5ac2071fb2cd2d55c090629c66489c684af32d",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/ucsd/raw/faq.html",
+      "locator": "How and when do I apply / International FAQ"
+    },
+    {
+      "url": "https://students.ucsd.edu/finances/fees/registration/2026-27/index.html",
+      "sha256": "b3e0e91825d3b726cb1d8e16717d0c3785597396f0e18f452749173fd96a2a86",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/ucsd/raw/tuition.html",
+      "locator": "Undergraduates First Enrolled2026-2027"
+    },
+    {
+      "url": "https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html",
+      "sha256": "6e1e9deb60ad1ef486dcf294f1566aba2a7b5b20d7a5ef33175fd037eeffe239",
+      "raw_file": "scratch/full-catalog/us-b/ucsd/advising.html",
+      "locator": "official undergraduate program listing"
+    },
+    {
+      "url": "https://be.ucsd.edu/undergrad",
+      "sha256": "875b35668d46ed5ca7d3364c2229a59ba76c8980cb5d311497c6af653af20e23",
+      "raw_file": "scratch/full-catalog/us-details/ucsd/10bebbe8a8e292bb7f63.html",
+      "locator": "Enrollment and Degrees Conferred > Bioengineering: BioSystems"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/undergraduate/degrees-offered/index.html",
+      "sha256": "6e1e9deb60ad1ef486dcf294f1566aba2a7b5b20d7a5ef33175fd037eeffe239",
+      "raw_file": "scratch/full-catalog/us-b/ucsd/advising.html",
+      "locator": "official undergraduate program listing"
+    }
+  ]
+}

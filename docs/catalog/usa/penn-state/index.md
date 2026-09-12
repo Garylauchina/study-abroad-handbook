@@ -23,189 +23,225 @@ hide:
 
 ## 专业与申请资料
 
-178 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+178 个专业条目 · 0 个含详细资料 · 178 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=penn-state#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-accounting-8e3192a170/">Accounting</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-acting-d05c48d668/">Acting</a><small>B.F.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-actuarial-science-b5eea388de/">Actuarial Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-advertising-public-relations-5b2462f448/">Advertising/Public Relations</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-aerospace-engineering-16013db865/">Aerospace Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-african-american-studies-01542b2958/">African American Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-african-studies-30b521eb6f/">African Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-african-and-african-american-studies-e225871bd1/">African and African American Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-african-and-african-american-studies-03c2411012/">African and African American Studies</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-agribusiness-management-d560537490/">Agribusiness Management</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-agricultural-science-81e022e79f/">Agricultural Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-agricultural-and-biorenewable-systems-management-1f3ffe84a6/">Agricultural and Biorenewable Systems Management</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-agricultural-and-extension-education-70c13d9996/">Agricultural and Extension Education</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-animal-science-b7b3f5eb41/">Animal Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-anthropological-science-4bd0cd72a7/">Anthropological Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-anthropology-4599e0d487/">Anthropology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-applied-linguistics-ce1b926ca5/">Applied Linguistics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-architectural-engineering-b2e095efd7/">Architectural Engineering</a><small>B.A.E. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-architecture-ab0530184d/">Architecture</a><small>B.Arch. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-architecture-f641976941/">Architecture</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-art-e64bdfe94c/">Art</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-art-eee2362587/">Art</a><small>B.F.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-art-education-e4fc194fae/">Art Education</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-art-history-899b9cdaf9/">Art History</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-artificial-intelligence-engineering-6c8b646255/">Artificial Intelligence Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-artificial-intelligence-methods-and-applications-e0aee9a130/">Artificial Intelligence Methods and Applications</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-asian-studies-2fdad8befa/">Asian Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-astronomy-and-astrophysics-a7a1bfe814/">Astronomy and Astrophysics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biobehavioral-health-73795204d0/">Biobehavioral Health</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biochemistry-and-molecular-biology-572b8ef0c9/">Biochemistry and Molecular Biology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biological-engineering-855735f5a2/">Biological Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biology-3debd96eb9/">Biology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biomedical-engineering-6899f8edda/">Biomedical Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biotechnology-36c4b66c88/">Biotechnology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-business-analytics-and-information-systems-338b70b3e6/">Business Analytics and Information Systems</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-chemical-engineering-2580756212/">Chemical Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-chemistry-ebbd8f0f84/">Chemistry</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-chinese-0f7f013ab4/">Chinese</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-civil-engineering-0a89b028a6/">Civil Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-classics-and-ancient-mediterranean-studies-2579d793ac/">Classics and Ancient Mediterranean Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-communication-arts-and-sciences-2e535c0573/">Communication Arts and Sciences</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-communication-arts-and-sciences-767b70242d/">Communication Arts and Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-communication-sciences-and-disorders-c94232dc04/">Communication Sciences and Disorders</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-community-environment-and-development-d13509127d/">Community, Environment, and Development</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-comparative-literature-47b4fce587/">Comparative Literature</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-computer-engineering-9fca64b9b9/">Computer Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-computer-science-bc207073c1/">Computer Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-corporate-innovation-and-entrepreneurship-e90edadc51/">Corporate Innovation and Entrepreneurship</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-criminology-c275b79b97/">Criminology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-criminology-c46eccf458/">Criminology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-cybersecurity-analytics-and-operations-ae823fd805/">Cybersecurity Analytics and Operations</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-data-sciences-fc38cc4592/">Data Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-data-sciences-e3b1920c11/">Data Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-data-sciences-51b0613d82/">Data Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-digital-arts-and-media-design-343e8ebe5b/">Digital Arts and Media Design</a><small>B.Des. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-earth-science-and-policy-ba84b4d85d/">Earth Science and Policy</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-economics-27b665bcc2/">Economics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-economics-3aaffac665/">Economics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-education-and-public-policy-1da30b6ba0/">Education and Public Policy</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-electrical-engineering-828753c1d5/">Electrical Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-elementary-and-early-childhood-education-b7819548c7/">Elementary and Early Childhood Education</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-elementary-and-kindergarten-education-8f5b6955c7/">Elementary and Kindergarten Education</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-energy-business-and-finance-0ed80a6083/">Energy Business and Finance</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-energy-engineering-65ced81695/">Energy Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-engineering-science-ea9a575d12/">Engineering Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-english-80bdab9038/">English</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-enterprise-technology-integration-a9f84035ec/">Enterprise Technology Integration</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-environmental-engineering-d90b168a0d/">Environmental Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-environmental-resource-management-8312f1ab89/">Environmental Resource Management</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-environmental-systems-engineering-cabc04d597/">Environmental Systems Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-film-production-2fd619c6b1/">Film Production</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-finance-1bd5670a02/">Finance</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-food-science-f885ab4999/">Food Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-forensic-science-fe4e6db7d4/">Forensic Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-forest-ecosystems-2f62d96c7c/">Forest Ecosystems</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-french-and-francophone-studies-eb2f664b44/">French and Francophone Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-french-and-francophone-studies-0e3ad70e08/">French and Francophone Studies</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geobiology-ed3d5c8e45/">Geobiology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geography-bd0e0ce025/">Geography</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geography-033d037e57/">Geography</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geosciences-a2ba47d702/">Geosciences</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geosciences-fee937d93e/">Geosciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-german-d2f0e3c5f7/">German</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-german-a01b6123c1/">German</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-global-and-international-studies-456a9d3cce/">Global and International Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-global-and-international-studies-a1248d5c8e/">Global and International Studies</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-graphic-design-f9c96ae56f/">Graphic Design</a><small>B.Des. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-health-policy-and-administration-66b4b57f19/">Health Policy and Administration</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-history-8c61097f10/">History</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-hospitality-management-44bdf87a1c/">Hospitality Management</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-human-development-and-family-studies-ad3d4f3241/">Human Development and Family Studies</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-human-centered-design-and-development-828828e07e/">Human-Centered Design and Development</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-immunology-and-infectious-disease-2b58592480/">Immunology and Infectious Disease</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-industrial-engineering-7b6424f08e/">Industrial Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-information-technology-ethics-and-compliance-739f8bb513/">Information Technology Ethics and Compliance</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-integrative-arts-d43944d7c5/">Integrative Arts</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-integrative-science-84250a46f7/">Integrative Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-international-politics-28ebff208a/">International Politics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-italian-8c916f3fb1/">Italian</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-italian-345420cadb/">Italian</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-japanese-cfb7286175/">Japanese</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-jewish-studies-a8da6edd6d/">Jewish Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-journalism-9e5b07a5ab/">Journalism</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-kinesiology-7c46e3a131/">Kinesiology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-korean-b35dd534a3/">Korean</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-labor-and-human-resources-e425d85ee0/">Labor and Human Resources</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-labor-and-human-resources-d3c392da72/">Labor and Human Resources</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-landscape-architecture-5f67be3a17/">Landscape Architecture</a><small>B.L.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-landscape-contracting-64a39f0dc7/">Landscape Contracting</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-latin-american-studies-c668411cd2/">Latin American Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-linguistics-a1a18facf6/">Linguistics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-management-ffeca68ffc/">Management</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-marketing-938b75e9b2/">Marketing</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-materials-science-and-engineering-44fd43efc8/">Materials Science and Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-mathematics-7aaa1c107c/">Mathematics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-mathematics-fae3e9815b/">Mathematics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-mechanical-engineering-e1bd6b07b5/">Mechanical Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-media-studies-23c02ad421/">Media Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-medieval-studies-1a824199fc/">Medieval Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-meteorology-and-atmospheric-science-537c60bad4/">Meteorology and Atmospheric Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-microbiology-b5d89f5db1/">Microbiology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-middle-east-studies-e9fa7c8916/">Middle East Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-middle-level-education-e1f6368bab/">Middle Level Education</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-mining-engineering-be12ed85f4/">Mining Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-multidisciplinary-studies-23fa339d17/">Multidisciplinary Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-music-8cd6cda377/">Music</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-music-43538e6ed4/">Music</a><small>B.M. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-music-education-41318a932c/">Music Education</a><small>B.M.E. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-music-technology-2d76e91b2a/">Music Technology</a><small>B.M. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-musical-arts-aef343edf9/">Musical Arts</a><small>B.M.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-musical-theatre-787c08f1bb/">Musical Theatre</a><small>B.F.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-neurobiology-5e2223db26/">Neurobiology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-nuclear-engineering-571b5e4d55/">Nuclear Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-nursing-09aa52d4c4/">Nursing</a><small>B.S.N. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-nutritional-sciences-47a98bcd64/">Nutritional Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-organizational-leadership-cdcb86e404/">Organizational Leadership</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-organizational-leadership-e9987979b7/">Organizational Leadership</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-petroleum-and-natural-gas-engineering-41e8d16ff4/">Petroleum and Natural Gas Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-pharmacology-and-toxicology-fdd9dc409a/">Pharmacology and Toxicology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-philosophy-fbd98b1cec/">Philosophy</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-philosophy-b68ec5d0c4/">Philosophy</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-physics-a84fbc4792/">Physics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-planetary-science-and-astronomy-dffbfab53d/">Planetary Science and Astronomy</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-plant-sciences-4f596310f6/">Plant Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-political-science-512027da70/">Political Science</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-political-science-51ee0c13db/">Political Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-premedical-medical-63e8ce6380/">Premedical-Medical</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-premedicine-4de2454b4d/">Premedicine</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-professional-photography-0b54b3f1c0/">Professional Photography</a><small>B.Des. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-psychology-fdd597336e/">Psychology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-psychology-6c35caa7db/">Psychology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-real-estate-93d8cbf95c/">Real Estate</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-recreation-park-and-tourism-management-26fecc6860/">Recreation, Park, and Tourism Management</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-rehabilitation-and-human-services-e6c4c15c06/">Rehabilitation and Human Services</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-risk-management-12d367c7d3/">Risk Management</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-russian-10c10d71f4/">Russian</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-secondary-education-1e7ae150bb/">Secondary Education</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-security-and-risk-analysis-771397b37d/">Security and Risk Analysis</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-social-data-analytics-f856fde68f/">Social Data Analytics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-sociology-603d2eb9cd/">Sociology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-sociology-73c1150978/">Sociology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-spanish-a50fae4d39/">Spanish</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-spanish-c7901ed882/">Spanish</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-special-education-436549e227/">Special Education</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-statistics-2e66b80dcc/">Statistics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-supply-chain-and-information-systems-129d4d08a9/">Supply Chain and Information Systems</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-sustainability-society-and-environmental-geography-5a0737a6ed/">Sustainability, Society, and Environmental Geography</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-systems-neuroscience-2a057ca9eb/">Systems Neuroscience</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-telecommunications-and-media-industries-75811d2765/">Telecommunications and Media Industries</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-theatre-eb2ffccb94/">Theatre</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-theatre-15cb7db127/">Theatre</a><small>B.F.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-turfgrass-science-f2442ec302/">Turfgrass Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-veterinary-and-biomedical-sciences-95974a7fdf/">Veterinary and Biomedical Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-wildlife-and-fisheries-science-d74838a0be/">Wildlife and Fisheries Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-women-s-gender-and-sexuality-studies-15686af192/">Women&#x27;s, Gender, and Sexuality Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-women-s-gender-and-sexuality-studies-d4cffe4cbe/">Women&#x27;s, Gender, and Sexuality Studies</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-workforce-education-and-development-cbdedfc997/">Workforce Education and Development</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-world-languages-k-12-education-38dd6b5df0/">World Languages (K-12) Education</a><small>B.S. · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-accounting-8e3192a170/">Accounting</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-acting-d05c48d668/">Acting</a><small>B.F.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-actuarial-science-b5eea388de/">Actuarial Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-advertising-public-relations-5b2462f448/">Advertising/Public Relations</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-aerospace-engineering-16013db865/">Aerospace Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-african-american-studies-01542b2958/">African American Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-african-studies-30b521eb6f/">African Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-african-and-african-american-studies-e225871bd1/">African and African American Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-african-and-african-american-studies-03c2411012/">African and African American Studies</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-agribusiness-management-d560537490/">Agribusiness Management</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-agricultural-science-81e022e79f/">Agricultural Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-agricultural-and-biorenewable-systems-management-1f3ffe84a6/">Agricultural and Biorenewable Systems Management</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-agricultural-and-extension-education-70c13d9996/">Agricultural and Extension Education</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-animal-science-b7b3f5eb41/">Animal Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-anthropological-science-4bd0cd72a7/">Anthropological Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-anthropology-4599e0d487/">Anthropology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-applied-linguistics-ce1b926ca5/">Applied Linguistics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-architectural-engineering-b2e095efd7/">Architectural Engineering</a><small>B.A.E. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-architecture-ab0530184d/">Architecture</a><small>B.Arch. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-architecture-f641976941/">Architecture</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-art-e64bdfe94c/">Art</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-art-eee2362587/">Art</a><small>B.F.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-art-education-e4fc194fae/">Art Education</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-art-history-899b9cdaf9/">Art History</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-artificial-intelligence-engineering-6c8b646255/">Artificial Intelligence Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-artificial-intelligence-methods-and-applications-e0aee9a130/">Artificial Intelligence Methods and Applications</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-asian-studies-2fdad8befa/">Asian Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-astronomy-and-astrophysics-a7a1bfe814/">Astronomy and Astrophysics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biobehavioral-health-73795204d0/">Biobehavioral Health</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biochemistry-and-molecular-biology-572b8ef0c9/">Biochemistry and Molecular Biology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biological-engineering-855735f5a2/">Biological Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biology-3debd96eb9/">Biology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biomedical-engineering-6899f8edda/">Biomedical Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-biotechnology-36c4b66c88/">Biotechnology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-business-analytics-and-information-systems-338b70b3e6/">Business Analytics and Information Systems</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-chemical-engineering-2580756212/">Chemical Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-chemistry-ebbd8f0f84/">Chemistry</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-chinese-0f7f013ab4/">Chinese</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-civil-engineering-0a89b028a6/">Civil Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-classics-and-ancient-mediterranean-studies-2579d793ac/">Classics and Ancient Mediterranean Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-communication-arts-and-sciences-2e535c0573/">Communication Arts and Sciences</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-communication-arts-and-sciences-767b70242d/">Communication Arts and Sciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-communication-sciences-and-disorders-c94232dc04/">Communication Sciences and Disorders</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-community-environment-and-development-d13509127d/">Community, Environment, and Development</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-comparative-literature-47b4fce587/">Comparative Literature</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-computer-engineering-9fca64b9b9/">Computer Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-computer-science-bc207073c1/">Computer Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-corporate-innovation-and-entrepreneurship-e90edadc51/">Corporate Innovation and Entrepreneurship</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-criminology-c275b79b97/">Criminology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-criminology-c46eccf458/">Criminology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-cybersecurity-analytics-and-operations-ae823fd805/">Cybersecurity Analytics and Operations</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-data-sciences-fc38cc4592/">Data Sciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-data-sciences-e3b1920c11/">Data Sciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-data-sciences-51b0613d82/">Data Sciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-digital-arts-and-media-design-343e8ebe5b/">Digital Arts and Media Design</a><small>B.Des. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-earth-science-and-policy-ba84b4d85d/">Earth Science and Policy</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-economics-27b665bcc2/">Economics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-economics-3aaffac665/">Economics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-education-and-public-policy-1da30b6ba0/">Education and Public Policy</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-electrical-engineering-828753c1d5/">Electrical Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-elementary-and-early-childhood-education-b7819548c7/">Elementary and Early Childhood Education</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-elementary-and-kindergarten-education-8f5b6955c7/">Elementary and Kindergarten Education</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-energy-business-and-finance-0ed80a6083/">Energy Business and Finance</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-energy-engineering-65ced81695/">Energy Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-engineering-science-ea9a575d12/">Engineering Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-english-80bdab9038/">English</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-enterprise-technology-integration-a9f84035ec/">Enterprise Technology Integration</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-environmental-engineering-d90b168a0d/">Environmental Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-environmental-resource-management-8312f1ab89/">Environmental Resource Management</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-environmental-systems-engineering-cabc04d597/">Environmental Systems Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-film-production-2fd619c6b1/">Film Production</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-finance-1bd5670a02/">Finance</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-food-science-f885ab4999/">Food Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-forensic-science-fe4e6db7d4/">Forensic Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-forest-ecosystems-2f62d96c7c/">Forest Ecosystems</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-french-and-francophone-studies-eb2f664b44/">French and Francophone Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-french-and-francophone-studies-0e3ad70e08/">French and Francophone Studies</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geobiology-ed3d5c8e45/">Geobiology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geography-bd0e0ce025/">Geography</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geography-033d037e57/">Geography</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geosciences-a2ba47d702/">Geosciences</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-geosciences-fee937d93e/">Geosciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-german-d2f0e3c5f7/">German</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-german-a01b6123c1/">German</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-global-and-international-studies-456a9d3cce/">Global and International Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-global-and-international-studies-a1248d5c8e/">Global and International Studies</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-graphic-design-f9c96ae56f/">Graphic Design</a><small>B.Des. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-health-policy-and-administration-66b4b57f19/">Health Policy and Administration</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-history-8c61097f10/">History</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-hospitality-management-44bdf87a1c/">Hospitality Management</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-human-development-and-family-studies-ad3d4f3241/">Human Development and Family Studies</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-human-centered-design-and-development-828828e07e/">Human-Centered Design and Development</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-immunology-and-infectious-disease-2b58592480/">Immunology and Infectious Disease</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-industrial-engineering-7b6424f08e/">Industrial Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-information-technology-ethics-and-compliance-739f8bb513/">Information Technology Ethics and Compliance</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-integrative-arts-d43944d7c5/">Integrative Arts</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-integrative-science-84250a46f7/">Integrative Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-international-politics-28ebff208a/">International Politics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-italian-8c916f3fb1/">Italian</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-italian-345420cadb/">Italian</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-japanese-cfb7286175/">Japanese</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-jewish-studies-a8da6edd6d/">Jewish Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-journalism-9e5b07a5ab/">Journalism</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-kinesiology-7c46e3a131/">Kinesiology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-korean-b35dd534a3/">Korean</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-labor-and-human-resources-e425d85ee0/">Labor and Human Resources</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-labor-and-human-resources-d3c392da72/">Labor and Human Resources</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-landscape-architecture-5f67be3a17/">Landscape Architecture</a><small>B.L.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-landscape-contracting-64a39f0dc7/">Landscape Contracting</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-latin-american-studies-c668411cd2/">Latin American Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-linguistics-a1a18facf6/">Linguistics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-management-ffeca68ffc/">Management</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-marketing-938b75e9b2/">Marketing</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-materials-science-and-engineering-44fd43efc8/">Materials Science and Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-mathematics-7aaa1c107c/">Mathematics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-mathematics-fae3e9815b/">Mathematics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-mechanical-engineering-e1bd6b07b5/">Mechanical Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-media-studies-23c02ad421/">Media Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-medieval-studies-1a824199fc/">Medieval Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-meteorology-and-atmospheric-science-537c60bad4/">Meteorology and Atmospheric Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-microbiology-b5d89f5db1/">Microbiology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-middle-east-studies-e9fa7c8916/">Middle East Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-middle-level-education-e1f6368bab/">Middle Level Education</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-mining-engineering-be12ed85f4/">Mining Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-multidisciplinary-studies-23fa339d17/">Multidisciplinary Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-music-8cd6cda377/">Music</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-music-43538e6ed4/">Music</a><small>B.M. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-music-education-41318a932c/">Music Education</a><small>B.M.E. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-music-technology-2d76e91b2a/">Music Technology</a><small>B.M. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-musical-arts-aef343edf9/">Musical Arts</a><small>B.M.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-musical-theatre-787c08f1bb/">Musical Theatre</a><small>B.F.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-neurobiology-5e2223db26/">Neurobiology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-nuclear-engineering-571b5e4d55/">Nuclear Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-nursing-09aa52d4c4/">Nursing</a><small>B.S.N. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-nutritional-sciences-47a98bcd64/">Nutritional Sciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-organizational-leadership-cdcb86e404/">Organizational Leadership</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-organizational-leadership-e9987979b7/">Organizational Leadership</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-petroleum-and-natural-gas-engineering-41e8d16ff4/">Petroleum and Natural Gas Engineering</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-pharmacology-and-toxicology-fdd9dc409a/">Pharmacology and Toxicology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-philosophy-fbd98b1cec/">Philosophy</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-philosophy-b68ec5d0c4/">Philosophy</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-physics-a84fbc4792/">Physics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-planetary-science-and-astronomy-dffbfab53d/">Planetary Science and Astronomy</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-plant-sciences-4f596310f6/">Plant Sciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-political-science-512027da70/">Political Science</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-political-science-51ee0c13db/">Political Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-premedical-medical-63e8ce6380/">Premedical-Medical</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-premedicine-4de2454b4d/">Premedicine</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-professional-photography-0b54b3f1c0/">Professional Photography</a><small>B.Des. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-psychology-fdd597336e/">Psychology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-psychology-6c35caa7db/">Psychology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-real-estate-93d8cbf95c/">Real Estate</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-recreation-park-and-tourism-management-26fecc6860/">Recreation, Park, and Tourism Management</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-rehabilitation-and-human-services-e6c4c15c06/">Rehabilitation and Human Services</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-risk-management-12d367c7d3/">Risk Management</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-russian-10c10d71f4/">Russian</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-secondary-education-1e7ae150bb/">Secondary Education</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-security-and-risk-analysis-771397b37d/">Security and Risk Analysis</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-social-data-analytics-f856fde68f/">Social Data Analytics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-sociology-603d2eb9cd/">Sociology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-sociology-73c1150978/">Sociology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-spanish-a50fae4d39/">Spanish</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-spanish-c7901ed882/">Spanish</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-special-education-436549e227/">Special Education</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-statistics-2e66b80dcc/">Statistics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-supply-chain-and-information-systems-129d4d08a9/">Supply Chain and Information Systems</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-sustainability-society-and-environmental-geography-5a0737a6ed/">Sustainability, Society, and Environmental Geography</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-systems-neuroscience-2a057ca9eb/">Systems Neuroscience</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-telecommunications-and-media-industries-75811d2765/">Telecommunications and Media Industries</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-theatre-eb2ffccb94/">Theatre</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-theatre-15cb7db127/">Theatre</a><small>B.F.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-turfgrass-science-f2442ec302/">Turfgrass Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-veterinary-and-biomedical-sciences-95974a7fdf/">Veterinary and Biomedical Sciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-wildlife-and-fisheries-science-d74838a0be/">Wildlife and Fisheries Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-women-s-gender-and-sexuality-studies-15686af192/">Women&#x27;s, Gender, and Sexuality Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-women-s-gender-and-sexuality-studies-d4cffe4cbe/">Women&#x27;s, Gender, and Sexuality Studies</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-workforce-education-and-development-cbdedfc997/">Workforce Education and Development</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/penn-state/penn-state-world-languages-k-12-education-38dd6b5df0/">World Languages (K-12) Education</a><small>B.S. · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>成绩与英语材料：</strong>第一本科新生通常填写 STARS，录取接受后核正式中学记录；SAT/ACT可选，英语证明独立要求。IELTS最低6.5、DET120；TOEFL 2026-01-21前80，该日后4.5，考试2年内。官网未在该段清楚处理1月21日当天措辞，本轮不扩写；大陆国家学历清单在本轮网页未渲染，具体会考／高考材料尚待核。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-1ff14f88a34af9">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>申请渠道与材料：</strong>MyPennState或Common Application均可，仍须用MyPennState完成学校自报成绩记录；国际申请费 USD75。普通推荐信不纳入评估，但特定项目有例外。大学要求填写主选及备选校区，不能视为所有专业都可在所有校区完成。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-01e47d7e2501b0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>当前申请安排：</strong>EA截止11月1日；其后滚动审核，University Park及限额专业竞争和可选项可能收紧。国际生还有签证办理所需的最终截止，但本轮取得的网页未显示该表具体日期；不以滚动招生推断可随时申请。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-f7167cefb46bd6">官方依据</a></p>
+
+<p class="catalog-fact"><strong>七校区停止新生录取：</strong>目录统一通知：DuBois、Fayette、New Kensington、Mont Alto、Shenango、Wilkes-Barre、York计划在2027年春季后关闭，已停止接收新生。本批178条以University Park为毕业校区，不能把“Any Penn State Campus”起始校区理解为包含上述关闭校区。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-47d207c1847db6">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>费用与校区边界：</strong>大学明确总费用随学分、所选课程与住宿变化，并提供 Tuition and Fees Schedules 及成本计算器。本轮未取得能同时对应2026/27、校区、年级和专业的国际学费数值，未把某一校区普通档套给178项目。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-0166361c417db3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>财力要求：</strong>国际生接受录取后须证明首个日历年足够的州外学费及生活资金（不含交通），并说明后续各年资金安排。本轮未核全国际本科奖学金资格，不将 FAFSA 一般建议当作大陆国际生可获资助的证据。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-01e47d7e2501b0">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-USBENR-1ff14f88a34af9"><div><a href="https://www.psu.edu/resources/international-students/admission-requirements">penn-state 官方 requirements ↗</a><p>本条成绩与英语材料及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-01e47d7e2501b0"><div><a href="https://www.psu.edu/resources/international-students/steps-to-apply">penn-state 官方 international ↗</a><p>本条申请渠道与材料及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-f7167cefb46bd6"><div><a href="https://www.psu.edu/resources/international-students/deadlines">penn-state 官方 deadlines ↗</a><p>本条当前申请安排及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-0166361c417db3"><div><a href="https://www.psu.edu/costs-aid/costs-of-attendance">penn-state 官方 tuition ↗</a><p>本条费用与校区边界及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-47d207c1847db6"><div><a href="https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-studies-ba/">Penn State 本科目录校区关闭通知 ↗</a><p>七个校区停止新生录取及计划关闭年度</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

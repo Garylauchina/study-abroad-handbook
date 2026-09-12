@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Latin Language and Literature</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>6 semesters</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>冬季学期</strong></div><div><span>学制</span><strong>6 学期</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>德语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,21 +40,74 @@ hide:
 
 <p><strong>申请路径：</strong>Combined bachelor main subject; prescribed minor/second subject combination required; not a stand-alone single-subject award.</p>
 
+<p class="catalog-fact"><strong>学习内容与培养身份：</strong>研究从古代至中世纪初的拉丁文本及其欧洲影响，并联系罗马文化、历史和希腊等邻近学科。</p>
+<p class="fact-sources"><a href="#source-p-fu-berlin-be72d2acb172-de">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学习安排：</strong>学位：Bachelor of Arts (B.A.) in major subject in combi bachelor with teacher training；标准学制：6 学期；授课语言：德语；开始学期：冬季学期。</p>
+<p class="fact-sources"><a href="#source-p-fu-berlin-be72d2acb172">官方依据</a></p>
+
+<p class="catalog-fact"><strong>组合学位主科：</strong>此条是组合本科学位的主科学习部分；需按可选组件和教师培养规则搭配，不能把主科组件单独当作全部学士课程。</p>
+<p class="fact-sources"><a href="#source-p-fu-berlin-be72d2acb172">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>额外语言：</strong>该课程另列语言条件：Knowladge of Latin (for 60-minor subject, if necessary proof of a pre-study language course)；认可考试、豁免和提交时间须按课程说明核对。</p>
+<p class="fact-sources"><a href="#source-p-fu-berlin-be72d2acb172">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国资格与APS：</strong>境外学历先由uni-assist审核资格，来自中国的学历通常还须APS。2026年8月APS高考路径以12年教育、高中毕业及会考、指定高考科目为基础：总分70%可形成受学科限制的直接资格，60%主要通向相关预科和资格考试；医学药学兽医牙医及法律直接资格另要求80%及指定科目组合。大学录取仍独立判断。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-application">官方依据</a> · <a href="#source-u-fu-berlin-aps70">官方依据</a> · <a href="#source-u-fu-berlin-aps60">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请和注册德语不同：</strong>多数项目申请时至少提交规定的C1水平证明，注册时通常须DSH-2、TestDaF四项4或telc C1 Hochschule至少gut等。证书一般不超过三年；德语语言文学所有组件注册要求DSH-3或TestDaF四项5。个别纯英语项目按专业例外。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-language">官方依据</a></p>
+
+<p class="catalog-fact"><strong>预科语言与材料：</strong>确定必须读Studienkolleg者可按B2证明申请；资格未确定时学校建议先准备C1。学校和大学成绩证明须齐备，非英德文证书需认可的正式翻译。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-language">官方依据</a> · <a href="#source-u-fu-berlin-application">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>VPD后还须正式申请：</strong>先在uni-assist申请发给FU Berlin的VPD，再在FU申请门户上传完整材料并提交；VPD有效一年，官方提醒高峰处理可达八周。按时申请VPD不等于按时申请学位，期限以FU收到完整材料含VPD为准。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-application">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026/27已结束参考批次：</strong>2026年6月1日开放；限制名额的单科/法律或至少一组件有限额的组合本科7月15日截止；全部组件不限额的本科9月1日截止。该2026批次均已结束，本轮未取得2027/28本科申请窗口。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-dates">官方依据</a></p>
+
+<p class="catalog-fact"><strong>药学兽医非EU路径：</strong>非EU/EEA且无德国入学资格者，当前专门页要求通过FU申请门户并遵循境外资格VPD流程；2026参考截止7月15日。不能套用德国/EU考生的Hochschulstart旧生5月期限。中央日历还保留“via uni-assist”措辞，应按现行专门流程完成FU正式提交。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-pharmacy-vet-application">官方依据</a> · <a href="#source-u-fu-berlin-dates">官方依据</a> · <a href="#source-u-fu-berlin-application">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27中国新生费用：</strong>FU普通学位不收学费，继续教育项目除外；2026/27冬季新注册通常缴EUR376.80学期费用，含学生服务、管理、学生会及适用学生的交通票等。本科国际生不因此适用海德堡或TUM的第三国学费规则；Charité等合作项目另核账单。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助和未来费用缺口：</strong>本轮未核实可向所有中国本科新生提供的奖学金金额、条件或2027/28学期账单；不能把现行普通学费为零理解为生活成本或入学手续无需资金。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-fees">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>职业方向不是就业统计：</strong>各课程说明研究、教学或职业准备方向；本轮未核实按本科专业、毕业届次及样本划分的就业率或薪资。组合科目和国家考试路径亦不与普通单学士直接等同。</p>
+<p class="fact-sources"><a href="#source-u-fu-berlin-german-index">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -63,5 +116,15 @@ hide:
 - [官方项目页面或项目所在目录](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/lateinische_philologie_kombi_lo/index.html)
 - [官方目录](https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/index.html)
 
+<div class="catalog-source" id="source-p-fu-berlin-be72d2acb172"><div><a href="https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/lateinische_philologie_kombi_lo/index.html">Latin Language and Literature ↗</a><p>英文目录的学位、时长、语言及入学类别</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-fu-berlin-be72d2acb172-de"><div><a href="https://www.fu-berlin.de/studium/studienangebot/grundstaendige/lateinische_philologie_kombi/index.html">Latin Language and Literature current German programme ↗</a><p>当前德语课程简介与结构</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-application"><div><a href="https://www.fu-berlin.de/en/studium/bewerbung/bachelor/ausl-hzb/index.html">FU Application with non-German entrance qualification ↗</a><p>VPD、APS、材料及FU正式门户</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-dates"><div><a href="https://www.fu-berlin.de/en/studium/bewerbung/bewerbungsfristen/index.html">FU Deadlines winter2026/27 ↗</a><p>2026本科期限</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-language"><div><a href="https://www.fu-berlin.de/en/studium/bewerbung/allgemein/deutschkenntnisse/index.html">FU German skills for application and enrolment ↗</a><p>德语水平、证书有效期与专业例外</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-fees"><div><a href="https://www.fu-berlin.de/studium/studieren/studienorganisation/gebuehren/index.html">FU Gebühren ↗</a><p>2026/27冬季费及学费规则</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-pharmacy-vet-application"><div><a href="https://www.fu-berlin.de/en/studium/bewerbung/hochschulstart-dt/index.html">FU Pharmacy and Veterinary Medicine applicants ↗</a><p>非EU申请门户与EU分开</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-german-index"><div><a href="https://www.fu-berlin.de/studium/studienangebot/grundstaendige/index.html">FU Current German undergraduate catalogue ↗</a><p>组合与单科本科、教师及合作培养范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-aps70"><div><a href="https://www.aps.org.cn/wp-content/uploads/272_voraussetzungen_70_verfahren_gaokao_chn.pdf">APS 高考成绩70%以上程序适用条件 ↗</a><p>2026年8月中国高考直接资格与学科限制</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-fu-berlin-aps60"><div><a href="https://www.aps.org.cn/wp-content/uploads/271_voraussetzungen_60_verfahren_gaokao_chn.pdf">APS 高考成绩60%以上程序适用条件 ↗</a><p>2026年8月相关预科及资格考试路径</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/">← 返回柏林自由大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

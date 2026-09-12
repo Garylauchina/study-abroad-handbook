@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,9 +40,16 @@ hide:
 
 <p><strong>申请路径：</strong>School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-64d59c731ef0c6">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程表举例：</strong>目录所列课程包括：Writing for Exploration；Mastering Creative &amp; Professional Writing Skills；Critical Thinking: Big Questions, Many Answers (Critical Thinking and Communication)；Effective Communication: Strategies for Professional Success；Precalculus；Calculus W/Applications to Business &amp; Economics。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-64d59c731ef0c6">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>DAUS申请资格：</strong>DAUS本科入学须已完成高中学历或GED，并采用综合审核；页面导向SPS招生网站核对材料与截止。这里只确认学历层次，未独立核准中国具体证书及2027日期。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-64d59c731ef0c6">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -63,5 +70,6 @@ hide:
 - [官方项目页面或项目所在目录](https://bulletins.nyu.edu/undergraduate/professional-studies/programs/leadership-management-bs/)
 - [官方目录](https://bulletins.nyu.edu/programs/)
 
+<div class="catalog-source" id="source-p-USBENR-64d59c731ef0c6"><div><a href="https://bulletins.nyu.edu/undergraduate/professional-studies/programs/leadership-management-bs/">Leadership and Management — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/nyu/">← 返回纽约大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

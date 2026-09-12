@@ -23,89 +23,140 @@ hide:
 
 ## 专业与申请资料
 
-78 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+78 个专业条目 · 0 个含详细资料 · 78 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=copenhagen#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-antropologi-5f2878e482/">Antropologi</a><small>Bachelor i antropologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-asienstudier-indien-og-sydasienstudier-e83cd5d605/">Asienstudier (indien- og sydasienstudier)</a><small>Bachelor i asienstudier (indien- og sydasienstudier) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-asienstudier-japanstudier-5425a2beb1/">Asienstudier (japanstudier)</a><small>Bachelor i asienstudier (japanstudier) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-asienstudier-kinastudier-69ba974eea/">Asienstudier (kinastudier)</a><small>Bachelor i asienstudier (kinastudier) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-asienstudier-koreastudier-3ea0662958/">Asienstudier (koreastudier)</a><small>Bachelor i asienstudier (koreastudier) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-audiologop-di-36cc507d98/">Audiologopædi</a><small>Bachelor i audiologopædi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-bioinformatik-ab49d1eec3/">Bioinformatik</a><small>Bachelor i bioinformatik · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-biokemi-f232d59c7b/">Biokemi</a><small>Bachelor i biokemi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-biologi-154d6abce3/">Biologi</a><small>Bachelor i biologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-bioteknologi-af153c3b53/">Bioteknologi</a><small>Bachelor i bioteknologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-dansk-c36b042f53/">Dansk</a><small>Bachelor i dansk · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-datalogi-a7fda817ec/">Datalogi</a><small>Bachelor i datalogi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-datalogi-konomi-2d5150e627/">Datalogi-økonomi</a><small>Bachelor i datalogi-økonomi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-engelsk-2de7e99633/">Engelsk</a><small>Bachelor i engelsk · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-europ-isk-etnologi-a8f5c47250/">Europæisk etnologi</a><small>Bachelor i europæisk etnologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-farmaci-5810d67778/">Farmaci</a><small>Bachelor i farmaci · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-film-og-medievidenskab-ac85f55bf7/">Film- og medievidenskab</a><small>Bachelor i film- og medievidenskab · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-filosofi-5b70650e92/">Filosofi</a><small>Bachelor i filosofi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-folkesundhedsvidenskab-fc3f67de0d/">Folkesundhedsvidenskab</a><small>Bachelor i folkesundhedsvidenskab · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-forhistorisk-ark-ologi-bbf9987e01/">Forhistorisk arkæologi</a><small>Bachelor i forhistorisk arkæologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-forsikringsmatematik-bdc79ca020/">Forsikringsmatematik</a><small>Bachelor i forsikringsmatematik · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-fransk-sprog-og-kultur-3bccba925c/">Fransk sprog og kultur</a><small>Bachelor i fransk sprog og kultur · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-fysik-e0e2196e57/">Fysik</a><small>Bachelor i fysik · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-f-devarer-og-ern-ring-dc2b04426d/">Fødevarer og ernæring</a><small>Bachelor i fødevarer og ernæring · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-geografi-og-geoinformatik-2b8f5812cc/">Geografi og geoinformatik</a><small>Bachelor i geografi og geoinformatik · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-geologi-geoscience-667a7e597b/">Geologi-geoscience</a><small>Bachelor i geologi-geoscience · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-gr-nlandske-og-arktiske-studier-91144a4f31/">Grønlandske og arktiske studier</a><small>Bachelor i grønlandske og arktiske studier · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-historie-a514681775/">Historie</a><small>Bachelor i historie · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-idr-t-og-fysisk-aktivitet-5679f1cbbb/">Idræt og fysisk aktivitet</a><small>Bachelor i idræt og fysisk aktivitet · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-informationsstudier-358f1996d3/">Informationsstudier</a><small>Bachelor i informationsstudier · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-italiensk-sprog-og-kultur-0df4867e15/">Italiensk sprog og kultur</a><small>Bachelor i italiensk sprog og kultur · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-jura-7951ad433d/">Jura</a><small>Bachelor i jura · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-kemi-43e1f0d51e/">Kemi</a><small>Bachelor i kemi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-klassisk-ark-ologi-f91b6cef74/">Klassisk arkæologi</a><small>Bachelor i klassisk arkæologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-klassisk-gr-sk-255f3440a1/">Klassisk græsk</a><small>Bachelor i klassisk græsk · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-kognitions-og-datavidenskab-1a23937d42/">Kognitions- og datavidenskab</a><small>Bachelor i kognitions- og datavidenskab · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-kommunikation-og-it-b1db6c97d1/">Kommunikation og it</a><small>Bachelor i kommunikation og it · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-kunsthistorie-e8001fe7b5/">Kunsthistorie</a><small>Bachelor i kunsthistorie · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-landskabsarkitektur-2662806ae5/">Landskabsarkitektur</a><small>Bachelor i landskabsarkitektur · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-latin-c99de0a4f5/">Latin</a><small>Bachelor i latin · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-lingvistik-c561641999/">Lingvistik</a><small>Bachelor i lingvistik · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-litteraturvidenskab-0e4e9062e1/">Litteraturvidenskab</a><small>Bachelor i litteraturvidenskab · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-machine-learning-og-datavidenskab-99aacd680d/">Machine learning og datavidenskab</a><small>Bachelor i machine learning og datavidenskab · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-matematik-5e5a478c3a/">Matematik</a><small>Bachelor i matematik · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-matematik-konomi-f72affb6d3/">Matematik-økonomi</a><small>Bachelor i matematik-økonomi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-medicin-k-benhavn-4eff59a5da/">Medicin (København)</a><small>Bachelor i medicin (København) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-medicin-k-ge-4510b9ea88/">Medicin (Køge)</a><small>Bachelor i medicin (Køge) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-medicin-og-teknologi-3b7161231c/">Medicin og teknologi</a><small>Bachelor i medicin og teknologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-medicinalkemi-954c9656e8/">Medicinalkemi</a><small>Bachelor i medicinalkemi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mellem-stens-sprog-og-samfund-mellem-stens-ark-ologi-d7bc83075d/">Mellemøstens sprog og samfund (Mellemøstens arkæologi)</a><small>Bachelor i Mellemøstens sprog og samfund (Mellemøstens arkæologi) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mellem-stens-sprog-og-samfund-arabisk-hebraisk-persisk-tyrkisk-658c3a319b/">Mellemøstens sprog og samfund (arabisk, hebraisk, persisk, tyrkisk)</a><small>Bachelor i Mellemøstens sprog og samfund (arabisk, hebraisk, persisk, tyrkisk) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mellem-stens-sprog-og-samfund-assyriologi-7e49875567/">Mellemøstens sprog og samfund (assyriologi)</a><small>Bachelor i Mellemøstens sprog og samfund (assyriologi) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mellem-stens-sprog-og-samfund-gyptologi-847a6caa83/">Mellemøstens sprog og samfund (ægyptologi)</a><small>Bachelor i Mellemøstens sprog og samfund (ægyptologi) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mesoamerikastudier-38ef106aba/">Mesoamerikastudier</a><small>Bachelor i mesoamerikastudier · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-milj-og-f-devare-konomi-8587fe0006/">Miljø- og fødevareøkonomi</a><small>Bachelor i miljø- og fødevareøkonomi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-molekyl-r-biomedicin-159b1eabc7/">Molekylær biomedicin</a><small>Bachelor i molekylær biomedicin · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-musikvidenskab-2971bde649/">Musikvidenskab</a><small>Bachelor i musikvidenskab · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-nanoscience-01030b1332/">Nanoscience</a><small>Bachelor i nanoscience · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-naturressourcer-9bdd944db2/">Naturressourcer</a><small>Bachelor i naturressourcer · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-odontologi-b16f25b016/">Odontologi</a><small>Bachelor i odontologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-psykologi-ae6d721a28/">Psykologi</a><small>Bachelor i psykologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-p-dagogik-c9f1eaa4f5/">Pædagogik</a><small>Bachelor i pædagogik · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-religionsvidenskab-4f31a3be4d/">Religionsvidenskab</a><small>Bachelor i religionsvidenskab · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-retorik-83f854b071/">Retorik</a><small>Bachelor i retorik · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-samfundsfag-a92576ecdb/">Samfundsfag</a><small>Bachelor i samfundsfag · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-skov-og-landskabsingeni-r-c4472c2cdd/">Skov- og landskabsingeniør</a><small>Skov- og landskabsingeniør (professionsbachelor) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-sociologi-4070fb8d42/">Sociologi</a><small>Bachelor i sociologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-spansk-og-latinamerikansk-sprog-og-kultur-5857278a53/">Spansk og latinamerikansk sprog og kultur</a><small>Bachelor i spansk og latinamerikansk sprog og kultur · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-statskundskab-5f57ed0fd8/">Statskundskab</a><small>Bachelor i statskundskab · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-sundhed-og-informatik-a7ba95ee99/">Sundhed og informatik</a><small>Bachelor i sundhed og informatik · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-tandpleje-f143d2175e/">Tandpleje</a><small>Professionsbachelor i tandpleje · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-teater-og-performancestudier-9b0bb51a8b/">Teater- og performancestudier</a><small>Bachelor i teater- og performancestudier · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-teologi-6ed7f90426/">Teologi</a><small>Bachelor i teologi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-tysk-sprog-og-kultur-7293ec15ff/">Tysk sprog og kultur</a><small>Bachelor i tysk sprog og kultur · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-urban-landskabsingeni-r-ca59e1366f/">Urban landskabsingeniør</a><small>Urban landskabsingeniør (professionsbachelor) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-veterin-rmedicin-c103e9e5a6/">Veterinærmedicin</a><small>Bachelor i veterinærmedicin · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-konomi-a3946aeb67/">Økonomi</a><small>Bachelor i økonomi · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-steuropastudier-2d873d6cd7/">Østeuropastudier</a><small>Bachelor i østeuropastudier · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-antropologi-5f2878e482/">Antropologi</a><small>Bachelor i antropologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-asienstudier-indien-og-sydasienstudier-e83cd5d605/">Asienstudier (indien- og sydasienstudier)</a><small>Bachelor i asienstudier (indien- og sydasienstudier) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-asienstudier-japanstudier-5425a2beb1/">Asienstudier (japanstudier)</a><small>Bachelor i asienstudier (japanstudier) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-asienstudier-kinastudier-69ba974eea/">Asienstudier (kinastudier)</a><small>Bachelor i asienstudier (kinastudier) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-asienstudier-koreastudier-3ea0662958/">Asienstudier (koreastudier)</a><small>Bachelor i asienstudier (koreastudier) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-audiologop-di-36cc507d98/">Audiologopædi</a><small>Bachelor i audiologopædi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-bioinformatik-ab49d1eec3/">Bioinformatik</a><small>Bachelor i bioinformatik · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-biokemi-f232d59c7b/">Biokemi</a><small>Bachelor i biokemi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-biologi-154d6abce3/">Biologi</a><small>Bachelor i biologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-bioteknologi-af153c3b53/">Bioteknologi</a><small>Bachelor i bioteknologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-dansk-c36b042f53/">Dansk</a><small>Bachelor i dansk · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-datalogi-a7fda817ec/">Datalogi</a><small>Bachelor i datalogi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-datalogi-konomi-2d5150e627/">Datalogi-økonomi</a><small>Bachelor i datalogi-økonomi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-engelsk-2de7e99633/">Engelsk</a><small>Bachelor i engelsk · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-europ-isk-etnologi-a8f5c47250/">Europæisk etnologi</a><small>Bachelor i europæisk etnologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-farmaci-5810d67778/">Farmaci</a><small>Bachelor i farmaci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-film-og-medievidenskab-ac85f55bf7/">Film- og medievidenskab</a><small>Bachelor i film- og medievidenskab · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-filosofi-5b70650e92/">Filosofi</a><small>Bachelor i filosofi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-folkesundhedsvidenskab-fc3f67de0d/">Folkesundhedsvidenskab</a><small>Bachelor i folkesundhedsvidenskab · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-forhistorisk-ark-ologi-bbf9987e01/">Forhistorisk arkæologi</a><small>Bachelor i forhistorisk arkæologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-forsikringsmatematik-bdc79ca020/">Forsikringsmatematik</a><small>Bachelor i forsikringsmatematik · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-fransk-sprog-og-kultur-3bccba925c/">Fransk sprog og kultur</a><small>Bachelor i fransk sprog og kultur · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-fysik-e0e2196e57/">Fysik</a><small>Bachelor i fysik · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-f-devarer-og-ern-ring-dc2b04426d/">Fødevarer og ernæring</a><small>Bachelor i fødevarer og ernæring · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-geografi-og-geoinformatik-2b8f5812cc/">Geografi og geoinformatik</a><small>Bachelor i geografi og geoinformatik · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-geologi-geoscience-667a7e597b/">Geologi-geoscience</a><small>Bachelor i geologi-geoscience · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-gr-nlandske-og-arktiske-studier-91144a4f31/">Grønlandske og arktiske studier</a><small>Bachelor i grønlandske og arktiske studier · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-historie-a514681775/">Historie</a><small>Bachelor i historie · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-idr-t-og-fysisk-aktivitet-5679f1cbbb/">Idræt og fysisk aktivitet</a><small>Bachelor i idræt og fysisk aktivitet · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-informationsstudier-358f1996d3/">Informationsstudier</a><small>Bachelor i informationsstudier · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-italiensk-sprog-og-kultur-0df4867e15/">Italiensk sprog og kultur</a><small>Bachelor i italiensk sprog og kultur · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-jura-7951ad433d/">Jura</a><small>Bachelor i jura · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-kemi-43e1f0d51e/">Kemi</a><small>Bachelor i kemi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-klassisk-ark-ologi-f91b6cef74/">Klassisk arkæologi</a><small>Bachelor i klassisk arkæologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-klassisk-gr-sk-255f3440a1/">Klassisk græsk</a><small>Bachelor i klassisk græsk · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-kognitions-og-datavidenskab-1a23937d42/">Kognitions- og datavidenskab</a><small>Bachelor i kognitions- og datavidenskab · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-kommunikation-og-it-b1db6c97d1/">Kommunikation og it</a><small>Bachelor i kommunikation og it · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-kunsthistorie-e8001fe7b5/">Kunsthistorie</a><small>Bachelor i kunsthistorie · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-landskabsarkitektur-2662806ae5/">Landskabsarkitektur</a><small>Bachelor i landskabsarkitektur · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-latin-c99de0a4f5/">Latin</a><small>Bachelor i latin · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-lingvistik-c561641999/">Lingvistik</a><small>Bachelor i lingvistik · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-litteraturvidenskab-0e4e9062e1/">Litteraturvidenskab</a><small>Bachelor i litteraturvidenskab · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-machine-learning-og-datavidenskab-99aacd680d/">Machine learning og datavidenskab</a><small>Bachelor i machine learning og datavidenskab · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-matematik-5e5a478c3a/">Matematik</a><small>Bachelor i matematik · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-matematik-konomi-f72affb6d3/">Matematik-økonomi</a><small>Bachelor i matematik-økonomi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-medicin-k-benhavn-4eff59a5da/">Medicin (København)</a><small>Bachelor i medicin (København) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-medicin-k-ge-4510b9ea88/">Medicin (Køge)</a><small>Bachelor i medicin (Køge) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-medicin-og-teknologi-3b7161231c/">Medicin og teknologi</a><small>Bachelor i medicin og teknologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-medicinalkemi-954c9656e8/">Medicinalkemi</a><small>Bachelor i medicinalkemi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mellem-stens-sprog-og-samfund-mellem-stens-ark-ologi-d7bc83075d/">Mellemøstens sprog og samfund (Mellemøstens arkæologi)</a><small>Bachelor i Mellemøstens sprog og samfund (Mellemøstens arkæologi) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mellem-stens-sprog-og-samfund-arabisk-hebraisk-persisk-tyrkisk-658c3a319b/">Mellemøstens sprog og samfund (arabisk, hebraisk, persisk, tyrkisk)</a><small>Bachelor i Mellemøstens sprog og samfund (arabisk, hebraisk, persisk, tyrkisk) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mellem-stens-sprog-og-samfund-assyriologi-7e49875567/">Mellemøstens sprog og samfund (assyriologi)</a><small>Bachelor i Mellemøstens sprog og samfund (assyriologi) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mellem-stens-sprog-og-samfund-gyptologi-847a6caa83/">Mellemøstens sprog og samfund (ægyptologi)</a><small>Bachelor i Mellemøstens sprog og samfund (ægyptologi) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-mesoamerikastudier-38ef106aba/">Mesoamerikastudier</a><small>Bachelor i mesoamerikastudier · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-milj-og-f-devare-konomi-8587fe0006/">Miljø- og fødevareøkonomi</a><small>Bachelor i miljø- og fødevareøkonomi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-molekyl-r-biomedicin-159b1eabc7/">Molekylær biomedicin</a><small>Bachelor i molekylær biomedicin · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-musikvidenskab-2971bde649/">Musikvidenskab</a><small>Bachelor i musikvidenskab · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-nanoscience-01030b1332/">Nanoscience</a><small>Bachelor i nanoscience · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-naturressourcer-9bdd944db2/">Naturressourcer</a><small>Bachelor i naturressourcer · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-odontologi-b16f25b016/">Odontologi</a><small>Bachelor i odontologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-psykologi-ae6d721a28/">Psykologi</a><small>Bachelor i psykologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-p-dagogik-c9f1eaa4f5/">Pædagogik</a><small>Bachelor i pædagogik · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-religionsvidenskab-4f31a3be4d/">Religionsvidenskab</a><small>Bachelor i religionsvidenskab · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-retorik-83f854b071/">Retorik</a><small>Bachelor i retorik · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-samfundsfag-a92576ecdb/">Samfundsfag</a><small>Bachelor i samfundsfag · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-skov-og-landskabsingeni-r-c4472c2cdd/">Skov- og landskabsingeniør</a><small>Skov- og landskabsingeniør (professionsbachelor) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-sociologi-4070fb8d42/">Sociologi</a><small>Bachelor i sociologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-spansk-og-latinamerikansk-sprog-og-kultur-5857278a53/">Spansk og latinamerikansk sprog og kultur</a><small>Bachelor i spansk og latinamerikansk sprog og kultur · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-statskundskab-5f57ed0fd8/">Statskundskab</a><small>Bachelor i statskundskab · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-sundhed-og-informatik-a7ba95ee99/">Sundhed og informatik</a><small>Bachelor i sundhed og informatik · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-tandpleje-f143d2175e/">Tandpleje</a><small>Professionsbachelor i tandpleje · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-teater-og-performancestudier-9b0bb51a8b/">Teater- og performancestudier</a><small>Bachelor i teater- og performancestudier · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-teologi-6ed7f90426/">Teologi</a><small>Bachelor i teologi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-tysk-sprog-og-kultur-7293ec15ff/">Tysk sprog og kultur</a><small>Bachelor i tysk sprog og kultur · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-urban-landskabsingeni-r-ca59e1366f/">Urban landskabsingeniør</a><small>Urban landskabsingeniør (professionsbachelor) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-veterin-rmedicin-c103e9e5a6/">Veterinærmedicin</a><small>Bachelor i veterinærmedicin · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-konomi-a3946aeb67/">Økonomi</a><small>Bachelor i økonomi · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/copenhagen-steuropastudier-2d873d6cd7/">Østeuropastudier</a><small>Bachelor i østeuropastudier · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>大陆学历资格：</strong>中国条目为高中毕业证＋高考，再加一年高等教育，或补充至少一门丹麦A层级及一门B层级课程。仍须满足具体科目并由学校正式审查；A/B表示丹麦课程深度，不是中国分数或英国考试成绩。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-china">官方依据</a></p>
+
+<p class="catalog-fact"><strong>申请类别取决于学历体系：</strong>大陆普高学历通常不能换算为quota1成绩，须走quota2；IB、EB及欧洲等学历按各自类别处理。录取测试及面试不替代学术和语言资格。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-china">官方依据</a> · <a href="#source-u-copenhagen-quota2">官方依据</a></p>
+
+<p class="catalog-fact"><strong>丹麦语证明：</strong>所有本科均要求丹麦语，英语课程或读物不代表全英语本科。高中母语已学到最高层级者可通过Studieprøven补丹麦语证明，通常三项考试至少02；医学、牙医及口腔卫生要求每项至少7。也可按认可丹麦语A等路径审查。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-entry">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国材料：</strong>上传高中及已有高等教育毕业证和成绩、认可译本、语言及补课证明；非EU国籍按要求提供居留材料。学历资格与学费身份是两次不同判断。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-foreign">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2026申请参考已结束：</strong>2026日历为2月1日Optagelse.dk开放、非丹麦学历3月15日中午12点截止，通常7月5日中午前补足资格材料，7月28日结果。这一常规轮已结束；2027完整日历本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-dates">官方依据</a> · <a href="#source-u-copenhagen-foreign">官方依据</a></p>
+
+<p class="catalog-fact"><strong>签字及quota2步骤：</strong>没有丹麦CPR/MitID者须打印签字页、签字扫描并在申请截止前电邮学校，否则申请不登记。quota2测试须另行报名，以丹麦语进行；高分者进入口试或笔试面试，未参加并通过测试者一般不予考虑。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-entry">官方依据</a> · <a href="#source-u-copenhagen-quota2">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027预评估入口：</strong>2026年9月2日至10月22日可申请非丹麦学历的预评估，面向2027拟申请者；这是资格咨询，不是正式录取申请或保证。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-dates">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>国际生学费和年度缺口：</strong>非EU/EEA国籍通常须缴本科费用，符合特定丹麦居留资格者可获豁免。学校让申请人向所属学院确认费率；本轮未取得适用于2026/27或2027/28各本科的准确金额，不套用硕士、交换或短期访学生价格。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-foreign">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科奖学金：</strong>本科招生页明确学校不向外国学生提供财政支持或奖学金，并指向丹麦主管机关查询外部机会；学校另页的硕士奖学金不代表本科可申请。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-entry">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>职业方向的口径：</strong>专业页常将本科和后续硕士后的职业方向放在同页；本轮未核实具体本科毕业届次、样本及薪资就业率，职业说明不能视为本科直接执业或就业保证。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-career-example">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-copenhagen-china"><div><a href="https://www.ku.dk/studies/bachelor/admission-requirements/non-eu-eea-and-non-nordic-countries">UCPH Non-EU/EEA admissions ↗</a><p>中国学历、quota2及收费身份</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-entry"><div><a href="https://www.ku.dk/studies/bachelor/admission-requirements">UCPH Bachelor admission requirements ↗</a><p>丹麦语、材料与本科奖学金</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-foreign"><div><a href="https://www.ku.dk/studier/bachelor/ansoegning-og-optagelse/individuelle-forhold/ansoeg-med-en-ikke-dansk-eksamen">UCPH non-Danish examinations ↗</a><p>申请材料、收费及截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-quota2"><div><a href="https://www.ku.dk/studies/bachelor/quota-1-and-quota-2">UCPH quota1 and quota2 ↗</a><p>测试、面试及中国与IB路径区别</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-dates"><div><a href="https://www.ku.dk/studier/bachelor/frister-og-vigtige-datoer">UCPH deadlines2026 ↗</a><p>2026日期及2027预评估</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-career-example"><div><a href="https://www.ku.dk/studier/bachelor/medicin-koebenhavn">Medicin (København) ↗</a><p>本科及后续培养边界</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

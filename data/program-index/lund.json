@@ -3,10 +3,10 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "complete",
-    "count": 118,
+    "count": 117,
     "scope": "本科官方目录；条目类型及排除规则见证据记录。",
     "method": "Programme filter then Grundutbildning filter returns120results; pages1–6each20.120unique official URLs; HTML sources stored with unique URL-hash keys to preserve different advanced-entry tracks.",
-    "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
+    "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。 Civilingenjörsutbildning i riskhantering：官方培养计划第2节说明本项目不含基础阶段、从第4学年深化；第4.2节授予工程硕士。它是高年级工程完成段，不能作为独立学士或高中进入的本硕一体项目计入本清单。",
     "sources": [
       {
         "url": "https://www.lu.se/studera/kurser-program/%2A/educations/3/EducationsFilterByType-programme_EducationsFilterByLevel-basic/",
@@ -361,23 +361,6 @@
       "entity_type": "bachelor/first-entry professional programme",
       "credits": "300 högskolepoäng",
       "id": "lund-civilingenj-rsutbildning-i-risk-s-kerhet-och-krishantering-cdef384800"
-    },
-    {
-      "name_en": "Civilingenjörsutbildning i riskhantering",
-      "degree_label": "Civilingenjörsexamen",
-      "official_url": "https://www.lu.se/studera/civilingenjorsutbildning-i-riskhantering-TARIH",
-      "intake": "Höst 2025",
-      "duration": "2 år",
-      "campus": "Lund",
-      "language": "Svenska",
-      "discovery_source_url": "https://www.lu.se/studera/kurser-program/%2A/educations/2/EducationsFilterByType-programme_EducationsFilterByLevel-basic/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-a53b87d15a21",
-      "name_original": "Civilingenjörsutbildning i riskhantering",
-      "source_language": "sv",
-      "entity_type": "bachelor/first-entry professional programme",
-      "credits": "120 högskolepoäng",
-      "id": "lund-civilingenj-rsutbildning-i-riskhantering-f98387266b"
     },
     {
       "name_en": "Civilingenjörsutbildning i teknisk fysik",

@@ -1,0 +1,827 @@
+{
+  "university_id": "lund",
+  "sources": [
+    {
+      "url": "https://www.universityadmissions.se/en/apply-to-bachelors/provide-application-documents-bachelors/country-instructions/china-mainland/",
+      "sha256": "cb02c3553be9a76848e98925241bf1a7f5d7bbe5640db9b3d08906808bce7bc7",
+      "raw_file": "scratch/full-catalog/europe-enrichment/kth/sweden-china.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universityadmissions.se/en/key-dates-and-deadlines/autumn-semester-dates/",
+      "sha256": "746089c10cc3ae5e1ecd84eda582719d6338bedaefe949eceba6d53268b5c1e9",
+      "raw_file": "scratch/full-catalog/europe-enrichment/kth/sweden-dates2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.universityadmissions.se/en/key-dates-and-deadlines/spring-semester-dates/",
+      "sha256": "0435332cbaba1db6eb6e0b8b10972fae513d118848f8748f255b7a274802cf52",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/spring-dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.antagning.se/sv/betyg-och-behorighet/utlandsk-gymnasieutbildning/det-har-behover-du-ha/behorighet-i-svenska/",
+      "sha256": "c5e52107cf50cf96eb052a3f060167e967ae3ebc4d0850dd8d58aa1379e83a6d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/swedish-language.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lunduniversity.lu.se/study/admission-degree-studies/entry-requirements",
+      "sha256": "5c548a98802e9a90004452d08254dcc4c819ceb8dfe4e54ce5bf0120e641782d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/entry.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lunduniversity.lu.se/node/5486",
+      "sha256": "67fb3c5037cec10ac5def6480a8307245a2d20353b5f626432c4ee0583349d81",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/bachelors.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lunduniversity.lu.se/study/admission-degree-studies/applying-studies-when-apply/tuition-fees",
+      "sha256": "63c4472f686ef9b6e3c7eca0addaec79c7d76de8cbfc1c1c43cf4858023c41c7",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lunduniversity.lu.se/node/83",
+      "sha256": "f0fd0089b6dff48ef2eaf2e92d9aebc00a8426bb3048b52686ca13fd1f176b9d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/global-scholarship.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/arbetsterapeutprogrammet-VGATP",
+      "sha256": "8a67dd7e75f9d8692c175377b8a3e5a5f3ad935b1be1fed9956497018f634611",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-f44bbc81bc3e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/arkitektutbildning-TAARK",
+      "sha256": "cd5570e8a35c21f052d8d2357cd5111398ef1fc479a1f0f52fd2cd2b92d2472b",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-0694de430ceb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/audionomprogrammet-VGAUD",
+      "sha256": "87d06a1b1508051ef02217ed0d4e98bc4defdf4c1312c3f19b1bc84d00f73d0b",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-c4582ace99eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/beteendevetenskap-kandidatprogram-SGBVP",
+      "sha256": "a63b54ca29beb4da3add440f8a8022cbbcd4cd93fc9a77b691e113afd659f1bf",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-dd8ae6758886.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/biomedicinprogrammet-MGBIM",
+      "sha256": "80a58493912e2a10cde63f01304175f882a98a9f6f70d64162332dfadf491ace",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-96a16daec2bf.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-bioteknik-TABTE",
+      "sha256": "b794a9db2a859defa9307a997e332685331521b1fb994d59724b1efc084b9986",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-e99ae0d33ff7.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-brandteknik-TABRA",
+      "sha256": "e78786f7bc659c49e501533ad207b7bc886521c4dd212a3bce5b613d15552c4e",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-545b29c98c8e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-datateknik-TADAT",
+      "sha256": "e23c01ae9afec1d0260e8c78e4261405298b8ed3db979ccf24b61ef3f913040c",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-ebae59465c71.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-ekosystemteknik-TAEKO",
+      "sha256": "06fa0ad5b869fab34e11610405248ad17877e6a1d92be0a0aa33cb325c17279d",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-f709646b8040.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-elektroteknik-TAELT",
+      "sha256": "2fb9e43064e876511a304d68e3d7fd6d5169a23231b15ee3ea2b02dec5e5d682",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-8d1c7489472b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-industriell-ekonomi-TAINE",
+      "sha256": "9ca6fbdb4cc9a9f46e869a466a36a7b7dd77dc38252e24d05e9c1fc85d5f34f8",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-18a912fd0d40.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-informations-och-kommunikationsteknik-TADIC",
+      "sha256": "b4579d46c4724c1ab3e051167272a6716939778c83673653c51f810c064016b1",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-5e23464aca55.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-kemiteknik-TAKEM",
+      "sha256": "a55f1fa69f3e6cf40ac03d9d3e009cccb15c06d023569f25bd3d996e7b338ccd",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-2cbec17e55f6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-lantmateri-TALAN",
+      "sha256": "96c7eb54685e15070984b88d39b9dc29f886d3ce708a9859213d2700211d7a82",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-ef307b793ede.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-maskinteknik-TAMAS",
+      "sha256": "d9089343a92a2fb51bdfaaa7a1dc18e7b371ec3151983c82473c29596594f75b",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-e77353a5d84a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-maskinteknik-teknisk-design-TAMAD",
+      "sha256": "f1afa3ccd2d223cb8772d03116ecc9072fc3e18a3ebc5404ea4dafffaa9449a3",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-495f63521ef4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-medicin-och-teknik-TAMTE",
+      "sha256": "23c7e28fd4fbf5837b29b52b8766c6dfd9e90f7430c2903c138ce34d3c886199",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-f23e48d59ac9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-risk-sakerhet-och-krishantering-TARSK",
+      "sha256": "6048d209b830496b1912cc7761fcc70bfc28a7c3d334e66984318f24670b5221",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-2700b56ea592.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-teknisk-fysik-TATFY",
+      "sha256": "3384f655d9e2eec004c27accda764e0a995aee385fe0cbc3e8c968406cd35ae8",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-a776ead643c2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-teknisk-matematik-TATPI",
+      "sha256": "ddeeeae1a9e8d363d4e809c8262c06b8d499b2606bc787c02ad70cf60afc95e2",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-b9feafb483e5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-teknisk-nanovetenskap-TATNA",
+      "sha256": "f402cda2622ed3c542db66dec23c09399fd3e9cbef239eebeeb75ebfcb1632eb",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-6b47f51ed362.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/civilingenjorsutbildning-i-vag-och-vattenbyggnad-TAVOV",
+      "sha256": "0b158f69926ce9d177914f965fa9d4f13153ba368e71a9e8e830677de3f67016",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-d67240369919.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/digitala-kulturer-kandidatprogram-HGDIK",
+      "sha256": "be481ef3cdfd75e0fcb15ca8f28be60595f8abbf3e17a5e6a5dadbbb8defecfa",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-1556367add45.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/economy-and-society-kandidatprogram-EGESO",
+      "sha256": "3ccee81b9ae938a8efb822948cd69ab904f2c9da9520dd7f0fbd93dcb3342c11",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-e6b630f5815e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/ekonomie-kandidatprogram-EGEKO",
+      "sha256": "f92100e69ff7884b5e23e90b86d90c0b3ea8b6196998d3a56ec0b9b86904a859",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-9be06bea6197.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/engelska-kandidatprogram-HGENG",
+      "sha256": "9ab5c5939bbb6c99f54b0ba6f9c84a328ad7f3e17d46df55d5b462ad4580dcdc",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-153454463128.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/europastudier-med-humanistisk-profil-kandidatprogram-HGEUH",
+      "sha256": "59a0746811acced50d098cee4e8bcb76bb236e235f34561f54a4e7dfde405553",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-9d5a8af9e3c4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/freds-och-konfliktvetenskap-kandidatprogram-SGFKO",
+      "sha256": "35e6f55a6347fb55771e64e8eb958ebdfdabda86cdc26685b1a9c3b1c10280c8",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-6d8ae1d8e7c5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/fysioterapeutprogrammet-VGFYT",
+      "sha256": "4f31a246b91578f55b57e18bf39a1826eb31fbeb2dd3880b8f984e64016e1b63",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-ac8b21f184fb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/genusvetenskap-kandidatprogram-SGGNV",
+      "sha256": "5cd19fee4338b15cdb8597db8207ff1173b2f7ab68dd17ca67cfbae869df1539",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-5ad552c69bd7.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/historia-kandidatprogram-HGHIS",
+      "sha256": "0889e7f27df88f817c559585608f3390d947540ba3844bb85fd3d17b543a0c6b",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-1909c6b73651.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/human-resources-kandidatprogram-SGHUR",
+      "sha256": "d2dad8ce2fb6bb92523bf05187078ea3e7db1453890de971d7bca028881286cd",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-b004bd5afaf7.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/hogskoleingenjorsutbildning-i-byggteknik-infrastruktur-TGBYT",
+      "sha256": "76e7047acc0d1ffcc545ccd3bc8c5acb132509f6772524ef41a8347cb9ee61db",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-6ae8e8e48842.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/hogskoleingenjorsutbildning-i-byggteknik-med-arkitektur-TGBYA",
+      "sha256": "d1dd0792fd0e7d3e62e01a6b8105999d3257b9fee195ccfe6740c6510263fa35",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-d3f149e45a60.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/hogskoleingenjorsutbildning-i-datateknik-TGDAT",
+      "sha256": "b939c9771731f145903959e90117c4941e86f9d90322078977f729f67b097b07",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-ad0379d6dc8e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/hogskoleingenjorsutbildning-i-elektroteknik-med-automationsteknik-TGELT",
+      "sha256": "75fbcf20294f8a1823c1f4e7e965fd303ecee56e144816acc2e480d941dbc2a8",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-7f85d5599fce.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/industridesign-kandidatutbildning-TGIND",
+      "sha256": "b7d857fac3077900054831039aed7749df12b51558bbcc09c44b4bf43e9284fa",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-f196476a8d6a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/international-business-kandidatprogram-EGIBU",
+      "sha256": "fa01f59df2d82664130dc5ebfe5a567fd6951a5613c7bf00172aed78e59f9122",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-bbd6e7c6fca3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/japanska-kandidatprogram-HGJAP",
+      "sha256": "b9a367cc372cfd5ad2c62e1e5c5f90ca3f502e18c497c9aca298ebeb1a9d039d",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-b293306e6651.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/journalistik-kandidatprogram-SGJOL",
+      "sha256": "71759b20c39e8174b54c71f74d362a8b3561c122d9e49f98d7b22d8dfb96048b",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-be2efc429edf.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/juristprogrammet-JAJUS",
+      "sha256": "b4c57fc81a2f799a72b13f0fcedca24ef38088143c8489f002b492c501063775",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-1f9b5f4de2c9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/kompletterande-pedagogisk-utbildning-grundniva-inriktning-mot-gymnasieskolan-ett-amne-LGKPD-1ÄGY",
+      "sha256": "a84393f8a8cb6956ef87acdfe60b7eb08ab40a556f8f1ce10f9c1cfb07c4dca1",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-79af38516ef2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/kompletterande-pedagogisk-utbildning-grundniva-inriktning-mot-arskurs-7-9-ett-amne-LGKPD-1Ä79",
+      "sha256": "55c3674fc74c404634adb9495d324634e66b34380043744a567a1704ff6d483c",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-92b112a063f5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/kompletterande-pedagogisk-utbildning-inriktning-mot-gymnasieskolan-tva-amnen-LAKPE-2ÄGY",
+      "sha256": "8529cf84ff94f0efbd9be83638c5aa70c4b50a9f3e93701951853de4edc83c3e",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-8a1e0e59e706.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/kompletterande-pedagogisk-utbildning-inriktning-mot-arskurs-7-9-2-amnen-LAKPE-2N79",
+      "sha256": "2b4f8c25034a432ad0013ec5b71bdde425256cc5ecdb069c634aadd662f49dc4",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-731dbf2ccc78.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/kompletterande-pedagogisk-utbildning-inriktning-musik-KGKPU",
+      "sha256": "7ebc7ae6b08ccc2b0fa122ab41c537edf57da07d9c89897ef31370cba65050c8",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-df38b8ccf791.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konsthistoria-och-visuella-studier-kandidatprogram-HGKOV",
+      "sha256": "2bc4547e330808f34273145a8953a7071153b9714ccc16d36db29414a3e59eb3",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-68f65a71b5a5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-dramatiskt-skrivande-KGDSK",
+      "sha256": "b4987c288306680218e843c18357933b5d49b1decdf5a05b9ebf59a81bdfbac7",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-5c0d08a15d8d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-fri-konst-KGFKO",
+      "sha256": "defbfb8015e14d538d4fe1b10d35589ca4293ce2520c9add13b88f52b2a981b4",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-e3e9a002b306.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-kyrkomusik-KGKYM",
+      "sha256": "9221650a7ceccf80455be566ed87b1ec1f1e037b19b85bc673f9cc5963659bc0",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-89295bcb3719.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/kyrkomusiker",
+      "sha256": "4da4c7b27cf19356dcedd4dadb2b1db159beb80ce3489600c360d67d16d5388c",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-f45824c0b02e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-arrangeringkomposition-jazzinriktning-KGMUS-ARKJ",
+      "sha256": "9b1807298c6eb356951b22f87ff3466dbb02324df4ab62a3be9b70fc7e7e988b",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-f86410efbb97.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/arrangeringkomposition-jazzinriktning",
+      "sha256": "c05c35a10ca7e75944fcf595f0dc537fe783e6faf28f36a71973c63b0648a05f",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-d6b48913203e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-arrangeringkomposition-klassisk-inriktning-KGMUS-ARKK",
+      "sha256": "4aacf1d247ed65446454a9d83b0eae5de7cb97323d0ed181c98a5ab7a3d71d33",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-1478e95a25e4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/arrangeringkomposition-klassisk-inriktning",
+      "sha256": "5d63dcf9178bc7e65b0823a6ae79234c04a6f42e95eec1e68e0b3c70fc9e6aa2",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-124938a173f0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-blockflojt-KGMUS-BLFL",
+      "sha256": "c93598ccfdf520c3234f3a91bafbda629559f3a1de608f0e52fe2ecd40727b8a",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-310a900bdf5a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/blockflojt",
+      "sha256": "6e303e05d0923ceac2e251d04607b5686794bd94131f803a0fc99b4195067825",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-a7e289c6eb5e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-cembalo-KGMUS-CEMB",
+      "sha256": "be1780c6e79f6a24461c2979f5b91031383f0489af3c46f02c1a09cfdd70e1cd",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-4954b7360a5d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/cembalo",
+      "sha256": "fb9be1a32613a21f9838b02408a8f15f4c84de8f0eb380743e8ac0ca62184a5d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-5b120ccf6934.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-folk-och-varldsmusik-KGMUS-FOVÄ",
+      "sha256": "5dbe6315d1a5fdf75f817bc5cd55bccec0b885f3271c81e27f7ef5bbedc9ded0",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-7f69560c66ef.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/folk-och-varldsmusik",
+      "sha256": "3a3a9eb2cbbcb7821b6f0b756c4ac3c30a0fee4212046b910599e5a4c60364a7",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-ffd80f7c139a.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-gitarr-KGMUS-GITA",
+      "sha256": "dcec7d667ee83be03a55aef68795b59985d1b25c1fe604813d78b50d71935757",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-8ce2c9aac3ff.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/gitarr-klassisk-inriktning-0",
+      "sha256": "ccb92938120d7db14834905f41ca054aaac256bae34aa462b50917ee5e7041aa",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-24d600f5371b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-individuell-studiegang-KGMUS-INST",
+      "sha256": "16c356be05c8421254744014afa2278ea5299a1c7687041ff613a868bb0b636e",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-a17e3c60b548.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/individuell-studiegang",
+      "sha256": "e579a131d748dbcb17e3d362409064a97b14240608c2a7c5b89dd6fa9b9e5abd",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-6cd37ee729ab.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-jazz-improvisation-KGMUS-JAIN",
+      "sha256": "8383e634b41086cf93042620720fc08265e1fec653d6c66ae2301c3c3200d7a2",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-61bb552c29cb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/jazzimprovisation-0",
+      "sha256": "19296f8e20555c1c1e7fe32c64083f202380e6d26d25d14cf0babdc38192b9ec",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-634633628235.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-komposition-KGMUS-KOMP",
+      "sha256": "3ca2adcf43f01fb4ac927be0cc96f90ebcf846fb00101ba6898845f134dc9281",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-8d230ecc106f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/komposition",
+      "sha256": "3fe23aeae16c8fddda35bcb2e9cf011ed7be56595f7f6207a512af2c6c62a3a3",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-9260c685037e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-piano-KGMUS-PIAN",
+      "sha256": "9c5ed6adf9ceb81275c16339b99b235fa8580772c6794bc854a6212365a61ff6",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-ca461e7c29f4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/piano-klassisk-inriktning",
+      "sha256": "e8850edc1f0aa8b60e8999e8763d2e9d46c975583f9c9afe4eff790406394575",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-e174d368f484.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-symfoniorkesterinstrument-KGMUS-SYMF",
+      "sha256": "82acc9413963c3e603f1c1ce02cdde2a0d8b779bc500f87723ead8afc63049ce",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-a4e6539fb1a2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mhm.lu.se/utbildning/musikerutbildningar/symfoniorkesterinstrument",
+      "sha256": "9644ae3b3747e5bc634164265f9487483efaba2fd33270c9e835526ffa8c10e7",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lund/music-26826ff39c47.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-musik-sang-KGMUS-SÅNG",
+      "sha256": "579e4fd03c82a7ebd1a752e655321f4cf74977855df2a76d8c73c1adfc8b42b8",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-74ac11a77303.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/konstnarligt-kandidatprogram-i-skadespeleri-KGSKS",
+      "sha256": "059c0467d0af715562d5cf73f13ac2a1af4063afad47be4bc39240aa8170500f",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-a6039682fb2e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/kriminologi-kandidatprogram-SGKRI",
+      "sha256": "b4d26ca98c326d0554e8efcabd642aec24cd1f3ae2a7e6bb700174195254dc85",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-565462ac1e8d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/litteraturvetenskap-kandidatprogram-HGLIT",
+      "sha256": "c7517cd2edc9dbb19327358ac978bc394bd8515fe54ad5a62858e56cbd0695ee",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-546aecf83063.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/litteraturvetenskap-antagning-till-senare-del-termin-3-kandidatprogram-HGLIT-SEDE",
+      "sha256": "563c6be4c9db9e76784478c757c7687fac935ce26b88711213ec2d92c3683a0f",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-df231870760e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/livsmedelsteknik-kandidatutbildning-TGLMT",
+      "sha256": "293a8d2e1c072fd882624b2b8cad00dcacd1baa5ffd285f5020cfc89654eb2e6",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-fedaa23fff79.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/logistics-service-management-kandidatprogram-SGLOM",
+      "sha256": "cb5cb1d35d447755f4cf88c4daf7676499d97fa1fe295106e00062e5183e4bcd",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-5387358f8538.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/logopedprogrammet-VALGP",
+      "sha256": "7cd4c436c773e1e061ec8c4b3fbae599bf1d1052bfb0a30b6a438a685e6c6792",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-c067f8e4def0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/lakarprogrammet-MALÄB",
+      "sha256": "640b16277e1e534f2101b0fc4b791ee7b0c63d062d4171e24e6813e63efb68be",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-6a598d045138.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/modevetenskap-kandidatprogram-HGMOV",
+      "sha256": "6ed24c8c247a9d90ba05b07cfe46a85c8523720738d57a0dfdbbb91bae71b539",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-07fcb867789d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/modevetenskap-antagning-till-senare-del-termin-2-kandidatprogram-HGMOV-SEDE",
+      "sha256": "ebb1e0499ded49a15699032fbb6110cf742786f565adedd2f57b4138f1ced882",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-0296803bd1b5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/manskliga-rattigheter-kandidatprogram-RGMRS",
+      "sha256": "080ae43b09e0513bf2a403dc08be100e6ae9953c21a01626bdda40f9d5241a18",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-16e1925260b9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-astronomi-och-astrofysik-NGNAT-ASTR",
+      "sha256": "97b617cfb6178620747d0f6d19403cf269270cfd5604c541bd86b3e4a3ca7368",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-205f6986167d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-biologi-NGNAT-BIOL",
+      "sha256": "06e592f4d3dfc504a1d175adf5112c75e06a241e15c057104b81d04301923838",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-8e96c4dde4d8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-fysik-undervisning-pa-engelska-NGNAT-ENFY",
+      "sha256": "468ea98aad95b3545ab2e1ee957b56224d91f782a3b5714f99a1664c040df838",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-a1a1505d75de.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-geologi-NGNAT-GEOB",
+      "sha256": "3bac7f1f5ef53a8a67b557c3b9830b966839ea321aa4eb2d41c01bfcba48ab4f",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-1dd5a9e952ef.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-kemi-NGNAT-KEMI",
+      "sha256": "e3e3d2bf4f006d69b8fecee90e2e2cb1ff654af0e01fa525200a52c0035e1d40",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-07ae675fbf42.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-kemimolekylarbiologi-NGNAT-KEMO",
+      "sha256": "df9380957e6d85e1ddc2d8d35b12d9e4229cd02dfd730b9618cf9eebb5f5121a",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-72ad5345b4ae.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-matematik-undervisning-pa-engelska-NGNAT-ENMA",
+      "sha256": "a486a19b8db4172d5bf42b1f5d9eebdb4660b46bbafbb036ef01e7fd173d2aa0",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-e65055ae6654.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-miljovetenskap-NGNAT-MIVE",
+      "sha256": "18acbf3e94e02101b874ef5c7101c7f5158613c9dda416b665dfce224ae97d98",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-488285947038.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-molekylarbiologi-NGNAT-MOBI",
+      "sha256": "ba522b3d3ea48e4f7b75e6b34850ad452d69ad8688b75f0b25c6fa347747fba0",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-1241ee4b7d69.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-naturgeografi-och-ekosystemvetenskap-NGNAT-INES",
+      "sha256": "3cd60e20ffb71762c98ebe843ec6506f67f2eacdb6df82df1259a85a91961d98",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-7a77b56028ec.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/naturvetenskapligt-kandidatprogram-teoretisk-fysik-NGNAT-TEOF",
+      "sha256": "ec23c78a88baa2df76a573fbaed598d4d39f8fa5fce1a879132ad5cec2733af9",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-0d0d63ab06cc.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/politices-kandidatprogrammet-SGPOL",
+      "sha256": "8c5c2e3c813e77f0635a0a90a30c835b0503dcad2c3d58e13fd5de8d0f805057",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-f2f7bd96304c.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/praktisk-filosofi-politik-och-ekonomi-kandidatprogram-HGPPE",
+      "sha256": "8751c3959ce31a54f1b07d420549007a090d5c29383d30f9519959869fa679dd",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-ede310095832.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/psykologprogrammet-SAPSP",
+      "sha256": "bf58242294c826b3ac807cce38477c4c5f77fac52dded58018922b740bf98e7e",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-06caca16612d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/religionsvetenskap-och-teologi-kandidatprogram-RGRVT",
+      "sha256": "6ef472ede2b92224fae56757cf09492c6e7fe839edb49da5ab4e377f48bfa35e",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-b6dbcfff356b.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/rontgensjukskoterskeprogrammet-VGRRS",
+      "sha256": "93bc576e785d5b76be63f6e742179d68df9b71cf6e36bdd79c8040ba7339481b",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-2d8b5778a680.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/samhallsplanering-urban-och-regional-utveckling-kandidatprogram-SGSPP",
+      "sha256": "c9d5bd6a2467cfc00cd0cbbc0d8a70a76f3eccac444d46ba4cd1c5c28c2627a0",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-99e5da66be1e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/service-management-halsa-kandidatprogram-SGSEM-HEAL",
+      "sha256": "d436a4f6c2c1098ac082fcb458e020584888fb3fe917c88faa7bcbbe6c7d808c",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-ec3295391c0e.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/service-management-retail-kandidatprogram-SGSEM-RETA",
+      "sha256": "2a16c8941d195094b37f934d727efcf2042d3cdfc21a976a213b7f5917b11ae7",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-a68aab958191.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/service-management-turism-och-hotell-kandidatprogram-SGSEM-TOHO",
+      "sha256": "5b864ecd2fb5752191453c916fe638bc3b81d346d7cca6e607d27840a97579d1",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-08f251463376.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/sjukhusfysikerutbildning-NASJF",
+      "sha256": "939c82614b279d5e0a58040b44375bb87758247486c9251cad7957ff2e332555",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-9ba61b8cdbd4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/sjukhusfysikerutbildning-antagning-till-senare-del-NASJF-SEDE",
+      "sha256": "547c61fd209c2080c8843c87ca66eee74787400724240a2818f46f8ca7556297",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-cbf1afb70cc6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/sjukskoterskeprogrammet-VGSJU",
+      "sha256": "6aaa21d77e1968412149f0495f0c28665e3a4d79c3b5a477d3d4741416f45c75",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-5e5e01f06faa.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/socialantropologi-kandidatprogram-SGSAN",
+      "sha256": "a2e3c1a4de8ae181ebecb695a662e5c651d966dce4902847c5ec46ffdcc54a14",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-b6adf43fa47d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/socialantropologi-antagning-till-senare-del-termin-5-kandidatprogram-SGSAN-SEDE",
+      "sha256": "b565acbc5af1ece05430da4dab29226fed52ba233969b3a568143c147db02607",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-a9e3c7851432.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/sociologi-kandidatprogram-SGSCO",
+      "sha256": "ffe5ec1ecad715841d334244ea40c16c56827c1d933d166d4f2a3525ecebc6e3",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-d51447fb2ed0.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/sociologi-antagning-till-senare-del-termin-5-kandidatprogram-SGSCO-SEDE",
+      "sha256": "5af637fa7d8122e16d086881b58bee0f845378c82f6943ee3119deaee0e5cfcc",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-2d1438ab2d93.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/socionomprogrammet-SGSOC",
+      "sha256": "270b808634c4c525c89d3462adb1a476a5988545cc2485ba433421d82f0e671d",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-1621a15b1bd9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/sprakkonsultprogrammet-HGSPK",
+      "sha256": "0cfa7c899b34de9f4610abb43185cf509c8723409ca28695f3522bee196b0469",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-77cc5b530394.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/sprakkonsultprogrammet-antagning-till-senare-del-termin-2-HGSPK-SEDE",
+      "sha256": "2890fd67bbe64d455d00e8a260de85a8ff4b3de1b2117712571da955df173b7a",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-09ad5fe9f157.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/sprakkonsultprogrammet-antagning-till-senare-del-termin-3-HGSPK-SED3",
+      "sha256": "9b92e3f4808e220d272acc884275789b48d2946bfbaf75f7f6b93072ad189736",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-984ca8af8412.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/strategisk-kommunikation-kandidatprogram-SGSKO",
+      "sha256": "364b24089c1dfcc0760029cda540cdf7b7cc0ac017c4efaca6734acbb30a76c1",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-a44ded228d80.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/systemvetenskapligt-kandidatprogram-design-av-informationssystem-EGSYS",
+      "sha256": "57b2f13bba0aa6763063e6bd5e246304fa658d84ce9b431907a0f4f28d1abeea",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-7c221cf2fb80.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/teoretisk-filosofi-kritisk-utredare-kandidatprogram-HGKKU",
+      "sha256": "a93e0fddd789fefe17e3e4060d2c751762aa45ba7880e18345f5390f24ed5452",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-eb0c431fbe81.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/utvecklingsstudier-kandidatprogram-SGUTV",
+      "sha256": "ba8db108e7b3919475cf54d6b29ef1569d681627095b69577593e4d27ee0f892",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-28d73b0616eb.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/amneslararutbildning-i-musik-med-inriktning-mot-gymnasieskolan-instrumental-ensemble-jazz-LAMGY-JAZZ",
+      "sha256": "e64432b408307238119a6e0fe60f38945720bddddf1ab3730bd6a9a311adbc74",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-940223d51257.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/amneslararutbildning-i-musik-med-inriktning-mot-gymnasieskolan-instrumental-ensemble-klassisk-LAMGY-KLAS",
+      "sha256": "66a70e8e842a70e09102b4dc3f649b27c20e89fab9ce395239ce2e87d88c0d9c",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-182912f5c296.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/amneslararutbildning-i-musik-med-inriktning-mot-gymnasieskolan-instrumental-ensemble-rock-LAMGY-ROCK",
+      "sha256": "d9a7559c9a613844de88f03707b70d2017f2f58738322fc7237a16f3ed226931",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-e13f08857660.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/amneslararutbildning-i-musik-med-inriktning-mot-gymnasieskolan-instrumental-ensemble-singer-songwriter-LAMGY-SISO",
+      "sha256": "aac61b0754e16d77f31386c4360397366c8642379d6eccdc151cbce96dcd6ba0",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-9fd5fa2400cd.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/amneslararutbildning-i-musik-med-inriktning-mot-gymnasieskolan-instrumental-ensemble-sang-genrebredd-LAMGY-SÅGB",
+      "sha256": "8259dde7dc1e81599b6a5d408864bd07831c042ab5d468d96e2caab41a6ce1d5",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-3aceb8696223.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/amneslararutbildning-med-inriktning-mot-gymnasieskolan-ingang-engelska-LAÄGN-INEN",
+      "sha256": "4450e9cb6a95062bb0fb8d7e87a039b4d98d2d7184f90feb0d56d28508c831eb",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-2aa767b7d210.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/amneslararutbildning-med-inriktning-mot-gymnasieskolan-ingang-matematik-LAÄGN-INMT",
+      "sha256": "eabff924a8d4cc922ad06109b90c3c87c37adc97b2b75046e69a3c46d1a9cdd0",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-ac4aab14ecb2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/amneslararutbildning-med-inriktning-mot-gymnasieskolan-ingang-svenska-LAÄGN-INSV",
+      "sha256": "3edd649d2f6364f983f70f8c197916839904265ee62c85d3e894b2f729642542",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-fd5960386dca.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lu.se/studera/amneslararutbildning-med-inriktning-mot-gymnasieskolan-ingang-svenska-som-andrasprak-LAÄGN-INSA",
+      "sha256": "25aa31a0ecc10d860749dbdc6f5fd735d439cb2a8122932016610773df8dec79",
+      "raw_file": "scratch/full-catalog/europe/lund/detail-1d687c20dffb.html",
+      "locator": null
+    }
+  ]
+}

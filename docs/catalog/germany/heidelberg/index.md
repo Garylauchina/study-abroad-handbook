@@ -23,100 +23,152 @@ hide:
 
 ## 专业与申请资料
 
-89 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+89 个专业条目 · 0 个含详细资料 · 89 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=heidelberg#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-american-studies-bachelor-100-a60f47206c/">American Studies — Bachelor 100%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-ancient-history-bachelor-50-5a954db2fa/">Ancient History — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-anthropology-bachelor-50-671e309a88/">Anthropology — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-anthropology-bachelor-75-6490a6348f/">Anthropology — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-assyriology-bachelor-50-4ca4748391/">Assyriology — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-assyriology-bachelor-75-364913b51e/">Assyriology — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-biochemistry-bachelor-100-6f84dbf4fa/">Biochemistry — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-biology-bachelor-50-d6d814da86/">Biology — Bachelor 50%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-biosciences-bachelor-100-386f667d78/">Biosciences — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-byzantine-archaeology-and-art-history-bachelor-50-7c3d55e76e/">Byzantine Archaeology and Art History — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-chemistry-bachelor-100-af8ed45aed/">Chemistry — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-chemistry-bachelor-50-1e5334f82c/">Chemistry — Bachelor 50%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-christianity-and-culture-bachelor-50-e0b3b6165a/">Christianity and Culture — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-classical-archaeology-bachelor-50-614e0f9731/">Classical Archaeology — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-classical-archaeology-bachelor-75-a78af08a8d/">Classical Archaeology — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-comparative-german-studies-bachelor-50-fa27a5330f/">Comparative German Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-comparative-german-studies-bachelor-75-48972d4ce2/">Comparative German Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computational-linguistics-bachelor-100-b2e0555254/">Computational Linguistics — Bachelor 100%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computational-linguistics-bachelor-50-7d9f050678/">Computational Linguistics — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computational-linguistics-bachelor-75-96f7592260/">Computational Linguistics — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computer-science-bachelor-100-19592b9d8c/">Computer Science — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computer-science-bachelor-50-87dca9e2e8/">Computer Science — Bachelor 50%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-dentistry-state-examination-4842de0966/">Dentistry — State Examination</a><small>State Examination · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-earth-sciences-bachelor-100-dd32d61981/">Earth Sciences — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-east-asian-studies-bachelor-50-a286284188/">East Asian Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-east-asian-studies-bachelor-75-5057bcfdd4/">East Asian Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-eastern-european-and-east-central-european-studies-bachelor-100-3079be4824/">Eastern European and East Central European Studies — Bachelor 100%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-eastern-european-and-east-central-european-studies-bachelor-50-835ce2678d/">Eastern European and East Central European Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-eastern-european-and-east-central-european-studies-bachelor-75-953f605cb6/">Eastern European and East Central European Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-economics-bachelor-100-99f988bcde/">Economics — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-economics-bachelor-50-57f5151b34/">Economics — Bachelor 50%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-education-studies-bachelor-75-6f42482a31/">Education Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-egyptology-bachelor-50-5504c072fd/">Egyptology — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-english-studies-bachelor-50-c8d54dc453/">English Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-english-studies-bachelor-75-34912b894b/">English Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-european-art-history-bachelor-50-e18c73b098/">European Art History — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-european-art-history-bachelor-75-3f505e2806/">European Art History — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-french-romance-studies-bachelor-50-609827b6ad/">French / Romance Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-geography-bachelor-100-739fd0665b/">Geography — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-geography-bachelor-50-8d2d5b3a2e/">Geography — Bachelor 50%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-german-studies-bachelor-50-6562c62190/">German Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-gerontology-health-and-care-bachelor-67-2483316b78/">Gerontology, Health, and Care — Bachelor 67%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-greek-classical-philology-bachelor-50-cafe79e14c/">Greek/Classical Philology — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-history-bachelor-50-bc43858a52/">History — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-history-bachelor-75-1281f69af9/">History — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-interprofessional-health-care-bachelor-100-6cd20664f7/">Interprofessional Health Care — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-italian-romance-studies-bachelor-50-751030aebc/">Italian / Romance Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-jewish-studies-bachelor-50-2673772a5b/">Jewish Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-jewish-studies-bachelor-75-8a92e95695/">Jewish Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-latin-classical-philology-bachelor-50-9c01b543bb/">Latin/Classical Philology — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-law-state-examination-1ab9ad2369/">Law — State Examination</a><small>State Examination · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-mathematics-bachelor-100-abd4c0365f/">Mathematics — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-mathematics-bachelor-50-07120b28a4/">Mathematics — Bachelor 50%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-medical-informatics-bachelor-100-7c5284cf90/">Medical Informatics — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-medicine-study-location-heidelberg-state-examination-b456c87a49/">Medicine (study location Heidelberg) — State Examination</a><small>State Examination · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-medicine-study-location-mannheim-state-examination-be266854f7/">Medicine (study location Mannheim) — State Examination</a><small>State Examination · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-middle-eastern-studies-bachelor-50-c38f3b2ba1/">Middle Eastern Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-middle-eastern-studies-bachelor-75-df5e368b24/">Middle Eastern Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-molecular-biotechnology-bachelor-100-84cadddbf2/">Molecular Biotechnology — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-musicology-bachelor-50-390e9d8f98/">Musicology — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-musicology-bachelor-75-d65b035e77/">Musicology — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-near-eastern-archaeology-bachelor-50-0fbbfc1ecf/">Near Eastern Archaeology — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-near-eastern-archaeology-bachelor-75-aa3dd08401/">Near Eastern Archaeology — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-pharmacy-state-examination-f3ad48cf9d/">Pharmacy — State Examination</a><small>State Examination · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-philosophy-bachelor-50-00eeb95c40/">Philosophy — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-philosophy-bachelor-75-9f2f70e386/">Philosophy — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-physics-bachelor-100-d7199f8d0d/">Physics — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-physics-bachelor-50-1a78af7d5c/">Physics — Bachelor 50%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-physiotherapiewissenschaft-bachelor-100-a64ddf78bc/">Physiotherapiewissenschaft — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-political-science-bachelor-50-34b5dbccb5/">Political Science — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-political-science-bachelor-75-d18eae886a/">Political Science — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-pre-and-protohistory-bachelor-50-d626afa53b/">Pre- and Protohistory — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-protestant-theology-bachelor-50-6a268644fe/">Protestant Theology — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-protestant-theology-magister-theologiae-7385fdbd6b/">Protestant Theology — Magister Theologiae</a><small>Magister Theologiae · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-psychology-bachelor-100-f40d839a38/">Psychology — Bachelor 100%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-religious-studies-bachelor-50-5b803636e2/">Religious Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-religious-studies-bachelor-75-fe1aaed40e/">Religious Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-semitic-languages-and-cultures-studies-bachelor-50-88c9822b27/">Semitic languages ​​and cultures Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-slavic-studies-bachelor-50-c508cbb0b1/">Slavic Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-slavic-studies-bachelor-75-9ca0275262/">Slavic Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-sociology-bachelor-100-c005c92a41/">Sociology — Bachelor 100%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-south-asian-studies-bachelor-100-78b360168b/">South Asian Studies — Bachelor 100%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-south-asian-studies-bachelor-50-f52e021fe1/">South Asian Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-south-asian-studies-bachelor-75-5c19ea365a/">South Asian Studies — Bachelor 75%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-spanish-romance-studies-bachelor-50-e844f6ecc6/">Spanish / Romance Studies — Bachelor 50%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-sport-science-bachelor-50-af83d38167/">Sport Science — Bachelor 50%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-sport-science-bachelor-75-6c61be5671/">Sport Science — Bachelor 75%</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-translation-studies-for-information-technologies-bachelor-100-172846423f/">Translation Studies for Information Technologies — Bachelor 100%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-translation-studies-bachelor-100-80898c9fe7/">Translation Studies — Bachelor 100%</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-american-studies-bachelor-100-a60f47206c/">American Studies — Bachelor 100%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-ancient-history-bachelor-50-5a954db2fa/">Ancient History — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-anthropology-bachelor-50-671e309a88/">Anthropology — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-anthropology-bachelor-75-6490a6348f/">Anthropology — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-assyriology-bachelor-50-4ca4748391/">Assyriology — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-assyriology-bachelor-75-364913b51e/">Assyriology — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-biochemistry-bachelor-100-6f84dbf4fa/">Biochemistry — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-biology-bachelor-50-d6d814da86/">Biology — Bachelor 50%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-biosciences-bachelor-100-386f667d78/">Biosciences — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-byzantine-archaeology-and-art-history-bachelor-50-7c3d55e76e/">Byzantine Archaeology and Art History — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-chemistry-bachelor-100-af8ed45aed/">Chemistry — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-chemistry-bachelor-50-1e5334f82c/">Chemistry — Bachelor 50%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-christianity-and-culture-bachelor-50-e0b3b6165a/">Christianity and Culture — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-classical-archaeology-bachelor-50-614e0f9731/">Classical Archaeology — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-classical-archaeology-bachelor-75-a78af08a8d/">Classical Archaeology — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-comparative-german-studies-bachelor-50-fa27a5330f/">Comparative German Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-comparative-german-studies-bachelor-75-48972d4ce2/">Comparative German Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computational-linguistics-bachelor-100-b2e0555254/">Computational Linguistics — Bachelor 100%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computational-linguistics-bachelor-50-7d9f050678/">Computational Linguistics — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computational-linguistics-bachelor-75-96f7592260/">Computational Linguistics — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computer-science-bachelor-100-19592b9d8c/">Computer Science — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-computer-science-bachelor-50-87dca9e2e8/">Computer Science — Bachelor 50%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-dentistry-state-examination-4842de0966/">Dentistry — State Examination</a><small>State Examination · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-earth-sciences-bachelor-100-dd32d61981/">Earth Sciences — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-east-asian-studies-bachelor-50-a286284188/">East Asian Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-east-asian-studies-bachelor-75-5057bcfdd4/">East Asian Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-eastern-european-and-east-central-european-studies-bachelor-100-3079be4824/">Eastern European and East Central European Studies — Bachelor 100%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-eastern-european-and-east-central-european-studies-bachelor-50-835ce2678d/">Eastern European and East Central European Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-eastern-european-and-east-central-european-studies-bachelor-75-953f605cb6/">Eastern European and East Central European Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-economics-bachelor-100-99f988bcde/">Economics — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-economics-bachelor-50-57f5151b34/">Economics — Bachelor 50%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-education-studies-bachelor-75-6f42482a31/">Education Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-egyptology-bachelor-50-5504c072fd/">Egyptology — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-english-studies-bachelor-50-c8d54dc453/">English Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-english-studies-bachelor-75-34912b894b/">English Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-european-art-history-bachelor-50-e18c73b098/">European Art History — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-european-art-history-bachelor-75-3f505e2806/">European Art History — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-french-romance-studies-bachelor-50-609827b6ad/">French / Romance Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-geography-bachelor-100-739fd0665b/">Geography — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-geography-bachelor-50-8d2d5b3a2e/">Geography — Bachelor 50%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-german-studies-bachelor-50-6562c62190/">German Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-gerontology-health-and-care-bachelor-67-2483316b78/">Gerontology, Health, and Care — Bachelor 67%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-greek-classical-philology-bachelor-50-cafe79e14c/">Greek/Classical Philology — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-history-bachelor-50-bc43858a52/">History — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-history-bachelor-75-1281f69af9/">History — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-interprofessional-health-care-bachelor-100-6cd20664f7/">Interprofessional Health Care — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-italian-romance-studies-bachelor-50-751030aebc/">Italian / Romance Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-jewish-studies-bachelor-50-2673772a5b/">Jewish Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-jewish-studies-bachelor-75-8a92e95695/">Jewish Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-latin-classical-philology-bachelor-50-9c01b543bb/">Latin/Classical Philology — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-law-state-examination-1ab9ad2369/">Law — State Examination</a><small>State Examination · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-mathematics-bachelor-100-abd4c0365f/">Mathematics — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-mathematics-bachelor-50-07120b28a4/">Mathematics — Bachelor 50%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-medical-informatics-bachelor-100-7c5284cf90/">Medical Informatics — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-medicine-study-location-heidelberg-state-examination-b456c87a49/">Medicine (study location Heidelberg) — State Examination</a><small>State Examination · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-medicine-study-location-mannheim-state-examination-be266854f7/">Medicine (study location Mannheim) — State Examination</a><small>State Examination · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-middle-eastern-studies-bachelor-50-c38f3b2ba1/">Middle Eastern Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-middle-eastern-studies-bachelor-75-df5e368b24/">Middle Eastern Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-molecular-biotechnology-bachelor-100-84cadddbf2/">Molecular Biotechnology — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-musicology-bachelor-50-390e9d8f98/">Musicology — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-musicology-bachelor-75-d65b035e77/">Musicology — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-near-eastern-archaeology-bachelor-50-0fbbfc1ecf/">Near Eastern Archaeology — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-near-eastern-archaeology-bachelor-75-aa3dd08401/">Near Eastern Archaeology — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-pharmacy-state-examination-f3ad48cf9d/">Pharmacy — State Examination</a><small>State Examination · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-philosophy-bachelor-50-00eeb95c40/">Philosophy — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-philosophy-bachelor-75-9f2f70e386/">Philosophy — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-physics-bachelor-100-d7199f8d0d/">Physics — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-physics-bachelor-50-1a78af7d5c/">Physics — Bachelor 50%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-physiotherapiewissenschaft-bachelor-100-a64ddf78bc/">Physiotherapiewissenschaft — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-political-science-bachelor-50-34b5dbccb5/">Political Science — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-political-science-bachelor-75-d18eae886a/">Political Science — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-pre-and-protohistory-bachelor-50-d626afa53b/">Pre- and Protohistory — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-protestant-theology-bachelor-50-6a268644fe/">Protestant Theology — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-protestant-theology-magister-theologiae-7385fdbd6b/">Protestant Theology — Magister Theologiae</a><small>Magister Theologiae · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-psychology-bachelor-100-f40d839a38/">Psychology — Bachelor 100%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-religious-studies-bachelor-50-5b803636e2/">Religious Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-religious-studies-bachelor-75-fe1aaed40e/">Religious Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-semitic-languages-and-cultures-studies-bachelor-50-88c9822b27/">Semitic languages ​​and cultures Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-slavic-studies-bachelor-50-c508cbb0b1/">Slavic Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-slavic-studies-bachelor-75-9ca0275262/">Slavic Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-sociology-bachelor-100-c005c92a41/">Sociology — Bachelor 100%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-south-asian-studies-bachelor-100-78b360168b/">South Asian Studies — Bachelor 100%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-south-asian-studies-bachelor-50-f52e021fe1/">South Asian Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-south-asian-studies-bachelor-75-5c19ea365a/">South Asian Studies — Bachelor 75%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-spanish-romance-studies-bachelor-50-e844f6ecc6/">Spanish / Romance Studies — Bachelor 50%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-sport-science-bachelor-50-af83d38167/">Sport Science — Bachelor 50%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-sport-science-bachelor-75-6c61be5671/">Sport Science — Bachelor 75%</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-translation-studies-for-information-technologies-bachelor-100-172846423f/">Translation Studies for Information Technologies — Bachelor 100%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/germany/heidelberg/heidelberg-translation-studies-bachelor-100-80898c9fe7/">Translation Studies — Bachelor 100%</a><small>Bachelor of Arts · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>中国学历按资格路径核查：</strong>学校按ZAB框架审核境外入学资格；只有部分相当者可申请Studienkolleg及Feststellungsprüfung。APS的2026年8月高考程序以12年学校教育、高中毕业与会考及高考科目为前提：总分70%路径可形成受专业限制的直接资格，60%路径主要面向相关预科及资格考试；最终录取仍由大学决定。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-requirements">官方依据</a> · <a href="#source-u-heidelberg-aps70">官方依据</a> · <a href="#source-u-heidelberg-aps60">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高考专业限制：</strong>70%路径还须满足相应高考科目组合；医学、牙医、药学等及法律的直接资格要求80%并有指定科目组合。不能把单一总分门槛理解为可任意申请全部学科。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-aps70">官方依据</a></p>
+
+<p class="catalog-fact"><strong>德语通用要求与例外：</strong>通常要求DSH-2或认可同等（例如TestDaF四项均TDN4、telc C1 Hochschule），一般最迟注册时提交；部分项目须申请时提交，部分须DSH-3或更高分项。实际授课可含英语等，但不能因此省去学校要求的德语证明。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-language">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>申请及注册渠道：</strong>非EU/EEA境外学历申请者须先正式申请，录取后按录取信期限在heiCO注册；达到资格不代表有名额。医学信息学由Heilbronn管理申请及注册，体育、犹太研究等另有程序。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-internal">官方依据</a> · <a href="#source-u-heidelberg-enrolment">官方依据</a></p>
+
+<p class="catalog-fact"><strong>现行本科申请窗口：</strong>学校中央页现列：限制录取或入学考试项目冬季6月1日至7月15日、夏季12月1日至1月15日；无录取限制且无入学考试项目冬季6月1日至10月31日、夏季12月1日至4月30日。属于循环期限，非独立2027承诺；只适用于该项目实际开设的学期。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-dates">官方依据</a></p>
+
+<p class="catalog-fact"><strong>医学牙医药学非EU类别：</strong>非EU/EEA且持境外入学资格者，医学、牙医、药学现行冬季窗口为6月1日至7月15日，直接向海德堡申请，夏季不提供。不能使用德国/EU申请者的Hochschulstart旧生5月期限。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-dates">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>中国新生常见收费：</strong>现行规则向非EU/EEA且持境外入学资格的本科及国家考试学生收EUR 1,500/学期；当前另列学期杂费EUR 189.80。符合特定居留、学历或法定例外者可有豁免，不能因学校属公立就写免学费；本轮未取得独立2027费表。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-fees">官方依据</a> · <a href="#source-u-heidelberg-semester">官方依据</a></p>
+
+<p class="catalog-fact"><strong>新生学费豁免申请：</strong>校规允许在5%额度内豁免新入学国际生学费；一般申请截止冬季7月15日、夏季1月15日，需按表格及章程交证明，并非自动奖学金。页面的特定财务紧急救助不适用于首次第一学期新生。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-fees">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>培养与调查的区别：</strong>课程介绍说明研究能力与职业准备；本轮未核实各专业带明确毕业届次和样本范围的就业率或薪资。医学、法律等国家考试路径也不能作为普通六学期学士比较。</p>
+<p class="fact-sources"><a href="#source-u-heidelberg-catalogue-scope">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-heidelberg-requirements"><div><a href="https://www.uni-heidelberg.de/en/study/application-enrolment/study-requirements">Heidelberg Study requirements ↗</a><p>外国资格、ZAB评估与预科</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-language"><div><a href="https://www.uni-heidelberg.de/en/study/advisory-services/learning-languages/language-requirements-for-international-students">Heidelberg Language requirements for international students ↗</a><p>德语门槛、提交时间与特殊课程</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-internal"><div><a href="https://www.uni-heidelberg.de/en/study/application-enrolment/starting-the-first-academic-semester-of-your-degree-programme/internal-university-selection-procedure/internal-university-selection-procedure-0">Heidelberg Non-EU/EEA internal selection ↗</a><p>非EU申请方式、资格与专业例外</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-enrolment"><div><a href="https://www.uni-heidelberg.de/en/study/application-enrolment/enrolment/enrolment-in-the-1st-academic-semester-1">Heidelberg Enrolment non-EU applicants ↗</a><p>heiCO注册与截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-dates"><div><a href="https://www.uni-heidelberg.de/en/study/management-of-studies/key-dates-deadlines/application-deadlines-for-the-1st-semester-of-undergraduate-degree-programmes">Heidelberg Undergraduate application deadlines ↗</a><p>非EU与项目类别的现行申请窗口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-fees"><div><a href="https://www.uni-heidelberg.de/en/study/management-of-studies/semester-fees/tuition-fees-for-international-students">Heidelberg Tuition fees for international students ↗</a><p>非EU费率、豁免和减免范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-semester"><div><a href="https://www.uni-heidelberg.de/en/study/management-of-studies/semester-fees">Heidelberg Semester fees ↗</a><p>当前学期杂费金额</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-aps70"><div><a href="https://www.aps.org.cn/wp-content/uploads/272_voraussetzungen_70_verfahren_gaokao_chn.pdf">APS 高考成绩70%以上程序适用条件 ↗</a><p>中国高考直接资格与科目限制；2026年8月</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-aps60"><div><a href="https://www.aps.org.cn/wp-content/uploads/271_voraussetzungen_60_verfahren_gaokao_chn.pdf">APS 高考成绩60%以上程序适用条件 ↗</a><p>中国高考预科/资格考试路径；2026年8月</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-heidelberg-catalogue-scope"><div><a href="https://www.uni-heidelberg.de/en/study/all-subjects">Heidelberg undergraduate study finder ↗</a><p>课程内容、培养方向及职业范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

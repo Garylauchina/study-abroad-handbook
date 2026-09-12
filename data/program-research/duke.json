@@ -1,0 +1,4513 @@
+{
+  "university_id": "duke",
+  "programs": [
+    {
+      "university_id": "duke",
+      "raw_key": "rmt5D2kOHPHdtIXlNOyV | African & African American Studies (AB)",
+      "name_en": "African & African American Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/rmt5D2kOHPHdtIXlNOyV",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-a20253ca9427ec"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-a20253ca9427ec"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-a20253ca9427ec"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及AAAS 102、AAAS 103、AAAS 499S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-a20253ca9427ec"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-a20253ca9427ec",
+          "title": "African & African American Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/rmt5D2kOHPHdtIXlNOyV",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "5b228bc860fea0cf69e84c8b8070af91ba812451b73d33e31eeac838010bbad6",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-african-african-american-studies-680db695fc"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "SshZY0pLBHbZ6mI4eVxk | Ancient Religion and Society, Interdepartmental (AB)",
+      "name_en": "Ancient Religion and Society, Interdepartmental",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/SshZY0pLBHbZ6mI4eVxk",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-d60b54dcb25e13"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-d60b54dcb25e13"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-d60b54dcb25e13"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及RELIGION 101、CLST 284等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-d60b54dcb25e13"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-d60b54dcb25e13",
+          "title": "Ancient Religion and Society, Interdepartmental — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/SshZY0pLBHbZ6mI4eVxk",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "362bbf846c3d35a12888bb7021d9ea0bcb70d4024ef8868f16720ef739371a25",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-ancient-religion-and-society-interdepartmental-21255cf31a"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "SdQn0LtVx5Ss5m7NFz3y | Art History (AB)",
+      "name_en": "Art History",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/SdQn0LtVx5Ss5m7NFz3y",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-1218109ea01fb0"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-1218109ea01fb0"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-1218109ea01fb0"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及ARTSVIS 199、ARTHIST 491、ARTHIST 493、MATH 111L、PHYSICS 141L、CEE 311等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-1218109ea01fb0"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-1218109ea01fb0",
+          "title": "Art History — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/SdQn0LtVx5Ss5m7NFz3y",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "4f0d083c5292a5f63845e33835917a8ae7ff3683e80d888cbefed0f75ec10141",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-art-history-31d5c35c24"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "9VPDrmpFrTUkFppSQGEf | Art History and Visual Arts (AB)",
+      "name_en": "Art History and Visual Arts",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/9VPDrmpFrTUkFppSQGEf",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-3bd95201dde906"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-3bd95201dde906"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-3bd95201dde906"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及ARTSVIS 199、ARTSVIS 496S、ARTHIST 495S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-3bd95201dde906"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-3bd95201dde906",
+          "title": "Art History and Visual Arts — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/9VPDrmpFrTUkFppSQGEf",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "2ab366a76c6064983c51b4f931795ff0e3edcc901454f222cd64d11443f8f460",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-art-history-and-visual-arts-33fe75d432"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "Jd29PKLfwXTunjjOcY5G | Asian and Middle Eastern Studies (AB)",
+      "name_en": "Asian and Middle Eastern Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/Jd29PKLfwXTunjjOcY5G",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-179390e71a9e6a"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-179390e71a9e6a"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-179390e71a9e6a"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及AMES 195S、AMES 493、AMES 498S、AMES 499S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-179390e71a9e6a"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-179390e71a9e6a",
+          "title": "Asian and Middle Eastern Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/Jd29PKLfwXTunjjOcY5G",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "1faf15dbe99a2defc97e58f1800135fc4a24f5fc05433f91cb3493e81811ffeb",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-asian-and-middle-eastern-studies-0753d420f5"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "oOUva5b6mAeN1gYhEp8D | Biology (AB)",
+      "name_en": "Biology",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/oOUva5b6mAeN1gYhEp8D",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-0571f9cde3d727"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-0571f9cde3d727"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-0571f9cde3d727"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CHEM 101DL、CHEM 110DL、CHEM 21、MATH 105L、MATH 111L、MATH 121等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-0571f9cde3d727"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-0571f9cde3d727",
+          "title": "Biology — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/oOUva5b6mAeN1gYhEp8D",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "bafbf9c13bc904661075a5966957dae7fc9048107a35376dc2f9ab70896dd8db",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-biology-dd03d6fd39"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "Yt39ZjOB6XsxGOqqkOsN | Biology (BS)",
+      "name_en": "Biology",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/Yt39ZjOB6XsxGOqqkOsN",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-6392941e24a7b2"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-6392941e24a7b2"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-6392941e24a7b2"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CHEM 201DL、CHEM 101DL、CHEM 110DL、CHEM 21、MATH 105L、MATH 111L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-6392941e24a7b2"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-6392941e24a7b2",
+          "title": "Biology — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/Yt39ZjOB6XsxGOqqkOsN",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "4269c4cb299163f60f28cd6eb0b5968a2d44a6396aa9456f87dd19cefcf79d8c",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-biology-b71bae91bf"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "dbXHQ4iluXiWRAJBjm6l | Biomedical Engineering (BSE)",
+      "name_en": "Biomedical Engineering",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/dbXHQ4iluXiWRAJBjm6l",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BSE；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-7540c3211f4606"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-7540c3211f4606"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及BIOLOGY 201L、EGR 201L、ECE 110L、BME 244L、BME 260L、BME 271D等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-7540c3211f4606"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-7540c3211f4606",
+          "title": "Biomedical Engineering — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/dbXHQ4iluXiWRAJBjm6l",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "894bbe5fca0428ea6050a783374265e3b6ba6c0d153edfbd66942d020408873e",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BSE",
+      "inventory_id": "duke-biomedical-engineering-ded9dd2a30"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "drKkVKuIkw5Vha77PKYG | Biophysics (AB)",
+      "name_en": "Biophysics",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/drKkVKuIkw5Vha77PKYG",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-6feb956bba602b"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-6feb956bba602b"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-6feb956bba602b"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CHEM 101DL、MATH 122L、MATH 212、MATH 216、PHYSICS 161D、PHYSICS 162D等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-6feb956bba602b"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-6feb956bba602b",
+          "title": "Biophysics — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/drKkVKuIkw5Vha77PKYG",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "50c99a7d37fdf14637779a694ae2e317656c5ecbb66ee4d14cc05750d3310b02",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-biophysics-fcc043bda3"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "ZW4BaEE0YaGc2s3BgaSN | Biophysics (BS)",
+      "name_en": "Biophysics",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/ZW4BaEE0YaGc2s3BgaSN",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-3c2b409f951d3f"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-3c2b409f951d3f"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少18个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-3c2b409f951d3f"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CHEM 101DL、MATH 122L、MATH 212、MATH 216、MATH 221、MATH 356等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-3c2b409f951d3f"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-3c2b409f951d3f",
+          "title": "Biophysics — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/ZW4BaEE0YaGc2s3BgaSN",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "b5c4d64fcfbb22c8d3761093ad63afe523fbbd4bc591ed5bed9aa8a93fd39aad",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-biophysics-8e519cb4bc"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "ElMguQyGDLrxfcL37xuO | Brazilian and Global Portuguese Studies (AB)",
+      "name_en": "Brazilian and Global Portuguese Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/ElMguQyGDLrxfcL37xuO",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-c2147bab2d864c"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-c2147bab2d864c"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-c2147bab2d864c"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及PORTUGUE 203等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-c2147bab2d864c"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-c2147bab2d864c",
+          "title": "Brazilian and Global Portuguese Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/ElMguQyGDLrxfcL37xuO",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "2f7c7dbd4bd1eaad1ef8dabe88ed4bbe844ea777a9c6dd2365bf85ceb811f58c",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-brazilian-and-global-portuguese-studies-20a0f3a6b5"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "9et0Q1Jixk8SR9NZDtG5 | Chemistry (AB)",
+      "name_en": "Chemistry",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/9et0Q1Jixk8SR9NZDtG5",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e549f85aec6a01"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-e549f85aec6a01"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-e549f85aec6a01"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CHEM 101DL、CHEM 110DL、CHEM 21、MATH 111L、MATH 112L、MATH 122L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-e549f85aec6a01"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e549f85aec6a01",
+          "title": "Chemistry — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/9et0Q1Jixk8SR9NZDtG5",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e7d8200f7951bbd194815487c4984b45f45ec55a6b1634682c4a7d7fc6021978",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-chemistry-b292a0778e"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "tSUfAlnpirtSsuEp09Gg | Chemistry (BS)",
+      "name_en": "Chemistry",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/tSUfAlnpirtSsuEp09Gg",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-0fd44b2eef544a"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-0fd44b2eef544a"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-0fd44b2eef544a"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CHEM 101DL、CHEM 110DL、CHEM 21、MATH 111L、MATH 112L、MATH 122L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-0fd44b2eef544a"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-0fd44b2eef544a",
+          "title": "Chemistry — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/tSUfAlnpirtSsuEp09Gg",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "0f0e2e517af6296272a8aeafd33d595da6ba6ef3f8b043e8010ea4a7278c2062",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-chemistry-d662ccf5da"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "cx4u4vtxnntjfRuLpoEt | Civil Engineering (BSE)",
+      "name_en": "Civil Engineering",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/cx4u4vtxnntjfRuLpoEt",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BSE；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-2bfc79384cc5d7"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-2bfc79384cc5d7"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及EGR 201L、CEE 251L、CEE 201L、EGR 244L、CEE 132L、CEE 205等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-2bfc79384cc5d7"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-2bfc79384cc5d7",
+          "title": "Civil Engineering — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/cx4u4vtxnntjfRuLpoEt",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "0f055137588988da7e460efcc42a4b661bbbd025426e4b4bcba08feeb2471ee5",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BSE",
+      "inventory_id": "duke-civil-engineering-de620e3dcb"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "fK99NFqazCWuVuPbjK4z | Classical Civilization (AB)",
+      "name_en": "Classical Civilization",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/fK99NFqazCWuVuPbjK4z",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-cb5a8162135335"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-cb5a8162135335"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-cb5a8162135335"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CLST 181S、CLST 201S、CLST 283、CLST 182S、CLST 202、CLST 284等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-cb5a8162135335"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-cb5a8162135335",
+          "title": "Classical Civilization — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/fK99NFqazCWuVuPbjK4z",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "b8e3cb2d31b9592293f0367d65d8d108e4008d82ba886ffc061fe5daf437c700",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-classical-civilization-ce55f9db94"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "KwrVX6KKTTxQU2EGxLpu | Classical Languages (AB)",
+      "name_en": "Classical Languages",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/KwrVX6KKTTxQU2EGxLpu",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-fa8b11ad848fbb"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-fa8b11ad848fbb"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-fa8b11ad848fbb"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CLST 480S、LATIN 493等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-fa8b11ad848fbb"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-fa8b11ad848fbb",
+          "title": "Classical Languages — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/KwrVX6KKTTxQU2EGxLpu",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "b88c81440d9908fb5e0736d6abccfbc210c3678b823cfc4234e861374f47cc97",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-classical-languages-693c5ced61"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "jtakFndeaaOrKB303QeI | Computational Media, Interdepartmental (AB)",
+      "name_en": "Computational Media, Interdepartmental",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/jtakFndeaaOrKB303QeI",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-bf176bcf64e6e3"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-bf176bcf64e6e3"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-bf176bcf64e6e3"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及COMPSCI 101L、COMPSCI 102L、COMPSCI 116、MATH 21、MATH 111L、MATH 22等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-bf176bcf64e6e3"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-bf176bcf64e6e3",
+          "title": "Computational Media, Interdepartmental — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/jtakFndeaaOrKB303QeI",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "130a007d065bb1f316a95c56facff005cd69d7e6153b88d51932dcb7b75aa9bc",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-computational-media-interdepartmental-dd5a18d79c"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "4uFv186jhtGmA8bhUNCo | Computer Science (AB)",
+      "name_en": "Computer Science",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/4uFv186jhtGmA8bhUNCo",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-a69c200ac507f9"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-a69c200ac507f9"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-a69c200ac507f9"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及COMPSCI 101L、COMPSCI 102L、COMPSCI 116、COMPSCI 201、MATH 111L、MATH 21等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-a69c200ac507f9"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-a69c200ac507f9",
+          "title": "Computer Science — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/4uFv186jhtGmA8bhUNCo",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "3cacac6ab707a49c408d7d1a3cfadf7ba740b0d33e71e799c3e7ac81d2531609",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-computer-science-1df4f1d8f2"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "uKtkrNKIkBp4lDk9aHDr | Computer Science (BS)",
+      "name_en": "Computer Science",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/uKtkrNKIkBp4lDk9aHDr",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-b1d4507c3b3e68"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-b1d4507c3b3e68"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少15个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-b1d4507c3b3e68"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及COMPSCI 101L、COMPSCI 102L、COMPSCI 116、COMPSCI 201、MATH 111L、MATH 21等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-b1d4507c3b3e68"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-b1d4507c3b3e68",
+          "title": "Computer Science — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/uKtkrNKIkBp4lDk9aHDr",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "f7040f588bc7f2ae1b9b1f87350ccfbc4a8c100504c0a235cc98bbfb6a3767c2",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-computer-science-9b8e55d4f4"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "IH53VedN7Z9bLI6DIxeR | Cultural Anthropology (AB)",
+      "name_en": "Cultural Anthropology",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/IH53VedN7Z9bLI6DIxeR",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-d761836f1e0c76"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-d761836f1e0c76"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-d761836f1e0c76"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CULANTH 101、CULANTH 301、CULANTH 302、CULANTH 498S、CULANTH 499S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-d761836f1e0c76"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-d761836f1e0c76",
+          "title": "Cultural Anthropology — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/IH53VedN7Z9bLI6DIxeR",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "f72aff3df7dcd9b0294a95d5f34a907219c9288a20a154aa6d26791e3669b4be",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-cultural-anthropology-fa049766e3"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "FC1x5OEdjINlOf1Y6vMf | Dance (AB)",
+      "name_en": "Dance",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/FC1x5OEdjINlOf1Y6vMf",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-10fd29e01676e3"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-10fd29e01676e3"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-10fd29e01676e3"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及DANCE 101、DANCE 487S、DANCE 489T、DANCE 499S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-10fd29e01676e3"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-10fd29e01676e3",
+          "title": "Dance — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/FC1x5OEdjINlOf1Y6vMf",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "c0891b7321bc90a8503a4d5d2bc63807ff6b2ecf102a137b95841e43ad684b22",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-dance-7a112108cc"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "DCTjs1Hm9W9teE7sbtZX | Data Science: Math+CS, Interdepartmental (BS)",
+      "name_en": "Data Science: Math+CS, Interdepartmental",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/DCTjs1Hm9W9teE7sbtZX",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e4d112e3c6a9f4"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-e4d112e3c6a9f4"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少12个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-e4d112e3c6a9f4"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及COMPSCI 201、COMPSCI 210D、COMPSCI 250D、COMPSCI 330、COMPSCI 370D、COMPSCI 371等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-e4d112e3c6a9f4"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e4d112e3c6a9f4",
+          "title": "Data Science: Math+CS, Interdepartmental — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/DCTjs1Hm9W9teE7sbtZX",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "d020f27fc8d2df6478d04f993c04a0ebf5e813b647f210996ca67327e8816dac",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-data-science-math-cs-interdepartmental-84ae667e93"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "srviMcdAAo2NrYFAbwM8 | Data Science: STA+CS, Interdepartmental (BS)",
+      "name_en": "Data Science: STA+CS, Interdepartmental",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/srviMcdAAo2NrYFAbwM8",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-aef4885d0b3f35"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-aef4885d0b3f35"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-aef4885d0b3f35"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及MATH 21、MATH 106L、MATH 111L、MATH 22、MATH 112L、MATH 122L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-aef4885d0b3f35"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-aef4885d0b3f35",
+          "title": "Data Science: STA+CS, Interdepartmental — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/srviMcdAAo2NrYFAbwM8",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "dba76a0c3c00d7badac4b28bbc3607564439bf832a88536577fa692980aa124f",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-data-science-sta-cs-interdepartmental-1be577bbec"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "NUznfgWxyD2IwN0mz31J | Earth and Climate Sciences (AB)",
+      "name_en": "Earth and Climate Sciences",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/NUznfgWxyD2IwN0mz31J",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-86ed91ace75e9e"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-86ed91ace75e9e"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-86ed91ace75e9e"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及BIOLOGY 201L、BIOLOGY 202L、BIOLOGY 207、CHEM 21、CHEM 101DL、CHEM 110DL等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-86ed91ace75e9e"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-86ed91ace75e9e",
+          "title": "Earth and Climate Sciences — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/NUznfgWxyD2IwN0mz31J",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "d054b5ed6c287bbbcb794b8cc66558b695c91b7f95fa3ebac4d9d92caf096142",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-earth-and-climate-sciences-b02b0b06c4"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "BgEPu8eaps9kn8IrHQiy | Earth and Climate Sciences (BS)",
+      "name_en": "Earth and Climate Sciences",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/BgEPu8eaps9kn8IrHQiy",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-dd5ba6d18e768a"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-dd5ba6d18e768a"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少16个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-dd5ba6d18e768a"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CHEM 21、CHEM 101DL、CHEM 110DL、MATH 21、MATH 111L、PHYSICS 25等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-dd5ba6d18e768a"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-dd5ba6d18e768a",
+          "title": "Earth and Climate Sciences — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/BgEPu8eaps9kn8IrHQiy",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "067c9af67525a8c12da8a4f2ddf510eb2259e0a58c1a0a7a12b1178ca1046075",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-earth-and-climate-sciences-3aabff5c23"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "coagTcJl9iMI4QniAUp6 | Economics (AB)",
+      "name_en": "Economics",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/coagTcJl9iMI4QniAUp6",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-9bcdb3cb9d511a"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-9bcdb3cb9d511a"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-9bcdb3cb9d511a"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及MATH 21、MATH 105L、MATH 111L、ECON 101D、ECON 104D、ECON 201D等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-9bcdb3cb9d511a"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-9bcdb3cb9d511a",
+          "title": "Economics — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/coagTcJl9iMI4QniAUp6",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "fea5429352fb43cf58a372328a22410a3e8abddec24edf4ff436fbf9be8b8e17",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-economics-195a64f6b0"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "eJTIqSawWM6x3r55fkAW | Economics (BS)",
+      "name_en": "Economics",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/eJTIqSawWM6x3r55fkAW",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-659b514e46db59"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-659b514e46db59"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少12个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-659b514e46db59"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及MATH 202、MATH 212、MATH 219、MATH 222、ECON 101D、ECON 104D等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-659b514e46db59"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-659b514e46db59",
+          "title": "Economics — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/eJTIqSawWM6x3r55fkAW",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "79e70553eb86c9b71671a973940a595c68d6c45b6823a74d4b1317b34381224e",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-economics-6445d19690"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "XxAyh86HqynixoDfGMur | Electrical and Computer Engineering (BSE)",
+      "name_en": "Electrical and Computer Engineering",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/XxAyh86HqynixoDfGMur",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BSE；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-c727158962d86a"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-c727158962d86a"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及COMPSCI 201、ECE 110L、ECE 230L、ECE 250D、ECE 270DL、ECE 280L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-c727158962d86a"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-c727158962d86a",
+          "title": "Electrical and Computer Engineering — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/XxAyh86HqynixoDfGMur",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "72f39f8a8244537629066d521b3e2e0298539f6e498424c64760139e7e769f82",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BSE",
+      "inventory_id": "duke-electrical-and-computer-engineering-f58912c08f"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "yV7GeW0VdsevdxTWCtaG | English (AB)",
+      "name_en": "English",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/yV7GeW0VdsevdxTWCtaG",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-3288ee8c0ccf29"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-3288ee8c0ccf29"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-3288ee8c0ccf29"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及ENGLISH 101S、ENGLISH 313A、ENGLISH 110S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-3288ee8c0ccf29"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-3288ee8c0ccf29",
+          "title": "English — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/yV7GeW0VdsevdxTWCtaG",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "06d1efb35f866a454e79987b410e9b390562373e1453fd502fd2607f08b22a81",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-english-edc95d1693"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "pZPj6UPv2In2fI4jSJs6 | Environmental Engineering (BSE)",
+      "name_en": "Environmental Engineering",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/pZPj6UPv2In2fI4jSJs6",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BSE；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-9b2159088792af"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-9b2159088792af"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及BIOLOGY 201L、BIOLOGY 202L、BIOLOGY 212、BIOLOGY 203L、CEE 132L、CEE 204等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-9b2159088792af"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-9b2159088792af",
+          "title": "Environmental Engineering — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/pZPj6UPv2In2fI4jSJs6",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "cd96b9f19c877e91f96b9be30e474ab66c991a2e6610d381e9bd4c990df06618",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BSE",
+      "inventory_id": "duke-environmental-engineering-5066f0cf33"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "Mcko0VZ7EF3fbG8pz2J0 | Environmental Sciences (BS)",
+      "name_en": "Environmental Sciences",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/Mcko0VZ7EF3fbG8pz2J0",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-a6901df829cbbc"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-a6901df829cbbc"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少16个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-a6901df829cbbc"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及BIOLOGY 201L、BIOLOGY 202L、BIOLOGY 203L、MATH 111L、MATH 112L、MATH 122L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-a6901df829cbbc"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-a6901df829cbbc",
+          "title": "Environmental Sciences — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/Mcko0VZ7EF3fbG8pz2J0",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "dd8cefe6f37a19b06dfb79357285642193b9d00f0b5f42429eb74cf520cda62d",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-environmental-sciences-065a8826bf"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "8sTKaZJAsrA76KFNykX0 | Environmental Sciences and Policy (AB)",
+      "name_en": "Environmental Sciences and Policy",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/8sTKaZJAsrA76KFNykX0",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-162e9a6e0a5a5d"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-162e9a6e0a5a5d"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少13个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-162e9a6e0a5a5d"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及BIOLOGY 201L、BIOLOGY 202L、BIOLOGY 203L、MATH 21、MATH 111L、MATH 122L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-162e9a6e0a5a5d"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-162e9a6e0a5a5d",
+          "title": "Environmental Sciences and Policy — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/8sTKaZJAsrA76KFNykX0",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "a0b5c99a6b6d84b9d2053a8d8a8aefc20a69835a07d078a9e5a0a28946712d29",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-environmental-sciences-and-policy-5a68e23a4c"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "9kNjSpnyQ8hZzIMEhcLK | Evolutionary Anthropology (AB)",
+      "name_en": "Evolutionary Anthropology",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/9kNjSpnyQ8hZzIMEhcLK",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-c04fadda5e9ea4"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-c04fadda5e9ea4"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-c04fadda5e9ea4"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及BIOLOGY 202L、BIOLOGY 203L、EVANTH 101等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-c04fadda5e9ea4"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-c04fadda5e9ea4",
+          "title": "Evolutionary Anthropology — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/9kNjSpnyQ8hZzIMEhcLK",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "248ecfc74c37c574e8021449e59edc446a6552eb2675cf603ed738211be11f78",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-evolutionary-anthropology-f8330ba246"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "b3Ax5h9N6uTKmwrvXtWH | Evolutionary Anthropology (BS)",
+      "name_en": "Evolutionary Anthropology",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/b3Ax5h9N6uTKmwrvXtWH",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-83964ab793e0bf"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-83964ab793e0bf"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少15个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-83964ab793e0bf"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及BIOLOGY 201L、BIOLOGY 203L、CHEM 21、CHEM 101DL、CHEM 110DL、CHEM 201DL等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-83964ab793e0bf"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-83964ab793e0bf",
+          "title": "Evolutionary Anthropology — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/b3Ax5h9N6uTKmwrvXtWH",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "6f61ef5ff0d51ba827d87ace1e06a39bce35bba8fc8569078f46f43be2c21907",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-evolutionary-anthropology-db80dec841"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "SYTWAn8UJMRYQTkNdDSQ | French Studies (AB)",
+      "name_en": "French Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/SYTWAn8UJMRYQTkNdDSQ",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e7a8ce95cbd794"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-e7a8ce95cbd794"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-e7a8ce95cbd794"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及FRENCH 203、FRENCH 204等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-e7a8ce95cbd794"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e7a8ce95cbd794",
+          "title": "French Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/SYTWAn8UJMRYQTkNdDSQ",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "75aa964b6a2c7b6ac907206137f0bdaca0b0e7c51ca4ce68dac5a0c2eda9ec67",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-french-studies-eef7e73d04"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "rYzShHXgim9ow8Vm44VO | Gender, Sexuality, and Feminist Studies (AB)",
+      "name_en": "Gender, Sexuality, and Feminist Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/rYzShHXgim9ow8Vm44VO",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-9ee2b31216b58d"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：GSF 493；GSF 494。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-9ee2b31216b58d"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-9ee2b31216b58d"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-9ee2b31216b58d"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及GSF 299S、GSF 499S、GSF 493、GSF 494等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-9ee2b31216b58d"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-9ee2b31216b58d",
+          "title": "Gender, Sexuality, and Feminist Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/rYzShHXgim9ow8Vm44VO",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "797262b807667fc28ea30580385e3b7052aedf29c250f07402018604dc9b386c",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-gender-sexuality-and-feminist-studies-af1f365986"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "Jjyq2dB7EUITArbmoBNE | German (AB)",
+      "name_en": "German",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/Jjyq2dB7EUITArbmoBNE",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-21f7204cdd8337"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-21f7204cdd8337"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-21f7204cdd8337"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及GERMAN 305S、GERMAN 306S、GERMAN 303AS、GERMAN 312AS、GERMAN 319AS等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-21f7204cdd8337"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-21f7204cdd8337",
+          "title": "German — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/Jjyq2dB7EUITArbmoBNE",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "f60945381cb0418401fc19332a3cfbf626adb2685eadbc7e1ba267d3e8cff445",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-german-32545b3ab2"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "48fEthQmSruiBMK0tWfa | Global Culture & Theory in the Literature Program (AB)",
+      "name_en": "Global Culture & Theory in the Literature Program",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/48fEthQmSruiBMK0tWfa",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-aff76be0ed2782"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-aff76be0ed2782"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-aff76be0ed2782"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及LIT 201、LIT 301S、LIT 393、LIT 495、LIT 496、LIT 316等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-aff76be0ed2782"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-aff76be0ed2782",
+          "title": "Global Culture & Theory in the Literature Program — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/48fEthQmSruiBMK0tWfa",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "6bbc3a67dd767e133c62da958478d0b6612e241b76967563dab23b14b7d128c4",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-global-culture-theory-in-the-literature-program-e8c51f7ac3"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "uLlnqW2cG2Qx6eymlBdC | Global Health (AB2)",
+      "name_en": "Global Health",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/uLlnqW2cG2Qx6eymlBdC",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB2；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-50889af8662330"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-50889af8662330"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-50889af8662330"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及GLHLTH 101、GLHLTH 371、GLHLTH 499、GLHLTH 210、GLHLTH 373、BIOLOGY 304等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-50889af8662330"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-50889af8662330",
+          "title": "Global Health — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/uLlnqW2cG2Qx6eymlBdC",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "803f5689028424956772c3f281197fbbfb8be4c7427e101343b66febf1e81e71",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB2",
+      "inventory_id": "duke-global-health-75c7ec4d88"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "3dfSF27oGJ4mvSPmFxYp | History (AB)",
+      "name_en": "History",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/3dfSF27oGJ4mvSPmFxYp",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-d74639964a8f84"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-d74639964a8f84"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-d74639964a8f84"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及HISTORY 495S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-d74639964a8f84"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-d74639964a8f84",
+          "title": "History — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/3dfSF27oGJ4mvSPmFxYp",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "db98069b45777643a78e9c847d2546d0a25325e687cc071b99f21bd76805592d",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-history-caaa421b2b"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "VhUzzsuVal9Nz6qFFoLv | Interdisciplinary Program in Engineering (IDEAS) (BSE)",
+      "name_en": "Interdisciplinary Program in Engineering (IDEAS)",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/VhUzzsuVal9Nz6qFFoLv",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BSE；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-d69a09f1bd72f6"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及WRITING 120、EGR 101L、EGR 105L、COMPSCI 201等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-d69a09f1bd72f6"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-d69a09f1bd72f6",
+          "title": "Interdisciplinary Program in Engineering (IDEAS) — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/VhUzzsuVal9Nz6qFFoLv",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "676831713570bfa04f9116930e23af3156635c82b1d5ef05ab5aacfad8a2b7d3",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BSE",
+      "inventory_id": "duke-interdisciplinary-program-in-engineering-ideas-a525890423"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "YJknzyrYTHm1CsxApaDY | International Comparative Studies (AB)",
+      "name_en": "International Comparative Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/YJknzyrYTHm1CsxApaDY",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-7a53ed28bdbc03"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-7a53ed28bdbc03"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-7a53ed28bdbc03"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及ICS 195、ICS 489S、ICS 495S、ICS 495等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-7a53ed28bdbc03"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-7a53ed28bdbc03",
+          "title": "International Comparative Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/YJknzyrYTHm1CsxApaDY",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e750eb73dd1bca8bee774f928636fb251c437d47f91df35aca6f14aa84cdf81a",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-international-comparative-studies-fed10499b0"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "CK8L3FzlYs1vPk8OU8Bs | Italian Studies (AB)",
+      "name_en": "Italian Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/CK8L3FzlYs1vPk8OU8Bs",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-84152428753a69"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-84152428753a69"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-84152428753a69"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-84152428753a69",
+          "title": "Italian Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/CK8L3FzlYs1vPk8OU8Bs",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "761fc2fa900cf31bcf2b2e60b54dbdb6f2c65c5607ff27fa1b77130a99719d23",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-italian-studies-189e1e97d2"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "eWnJchwjAv0QfArH4GHg | Linguistics (AB)",
+      "name_en": "Linguistics",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/eWnJchwjAv0QfArH4GHg",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-8370060f486b6a"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-8370060f486b6a"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-8370060f486b6a"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及LINGUIST 201、LINGUIST 203、LINGUIST 202、LINGUIST 450S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-8370060f486b6a"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-8370060f486b6a",
+          "title": "Linguistics — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/eWnJchwjAv0QfArH4GHg",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "2052e2e065856b3daf9b192d4ef258b0018ff807de165b28e0a1c6da1660575d",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-linguistics-4d8aed291c"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "7FZSjBDQuMIgx8rjVIgN | Linguistics and Computer Science, Interdepartmental (AB)",
+      "name_en": "Linguistics and Computer Science, Interdepartmental",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/7FZSjBDQuMIgx8rjVIgN",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-5355b9b4c07da6"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-5355b9b4c07da6"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-5355b9b4c07da6"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及COMPSCI 101L、COMPSCI 103L、COMPSCI 116、MATH 21、MATH 111L、MATH 22等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-5355b9b4c07da6"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-5355b9b4c07da6",
+          "title": "Linguistics and Computer Science, Interdepartmental — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/7FZSjBDQuMIgx8rjVIgN",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "532dadbcfa6dc8a1f269c93710b7eb5e8f270fb65536078aea6d1f67de862f69",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-linguistics-and-computer-science-interdepartmental-cf3eaa95e6"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "eAZDdSLMEXYBF7SZge4U | Marine Science and Conservation (AB)",
+      "name_en": "Marine Science and Conservation",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/eAZDdSLMEXYBF7SZge4U",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-17fe9bf51c2c63"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-17fe9bf51c2c63"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-17fe9bf51c2c63"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CHEM 101DL、CHEM 110DL、CHEM 201DL、CHEM 210DL、BIOLOGY 201L、BIOLOGY 202L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-17fe9bf51c2c63"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-17fe9bf51c2c63",
+          "title": "Marine Science and Conservation — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/eAZDdSLMEXYBF7SZge4U",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "4ebede58774aa54f6dd0763f63cb5ba33964a458969fee26ed6eeb8a44af493e",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-marine-science-and-conservation-3a3c6c1d2e"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "khZ2jw3KAb93x7HoMxdr | Marine Science and Conservation (BS)",
+      "name_en": "Marine Science and Conservation",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/khZ2jw3KAb93x7HoMxdr",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-40bf54908e60cb"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-40bf54908e60cb"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少15个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-40bf54908e60cb"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及CHEM 101DL、CHEM 110DL、CHEM 201DL、CHEM 210DL、BIOLOGY 201L、BIOLOGY 202L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-40bf54908e60cb"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-40bf54908e60cb",
+          "title": "Marine Science and Conservation — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/khZ2jw3KAb93x7HoMxdr",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "84990e0ac6d52ade67f588a64e8af8de79a2c1892f42098a58d32abbb908414c",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-marine-science-and-conservation-d40e658d3b"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "HS40MvDXvxkBlMT13HjZ | Mathematics (AB)",
+      "name_en": "Mathematics",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/HS40MvDXvxkBlMT13HjZ",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-96790ca2214c21"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-96790ca2214c21"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-96790ca2214c21"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及MATH 21、MATH 105L、MATH 111L、MATH 121、MATH 22、MATH 112L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-96790ca2214c21"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-96790ca2214c21",
+          "title": "Mathematics — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/HS40MvDXvxkBlMT13HjZ",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "56563c782f19d965d83a4bde326e2d025e4e871d15689cc5449b5f7fe63084cd",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-mathematics-68f7c8e2c5"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "hKanjdP9GIfHoDdgUDqE | Mathematics (BS)",
+      "name_en": "Mathematics",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/hKanjdP9GIfHoDdgUDqE",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-0df6234ad962e1"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-0df6234ad962e1"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-0df6234ad962e1"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及MATH 21、MATH 105L、MATH 111L、MATH 121、MATH 22、MATH 112L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-0df6234ad962e1"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-0df6234ad962e1",
+          "title": "Mathematics — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/hKanjdP9GIfHoDdgUDqE",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "4749f434346ca9f6193e427be15ddd7c6ef479a41c092827b23b9b80b5a74bc9",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-mathematics-a993c025c3"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "fiTnrJxjsrMCxlzt3QHL | Mechanical Engineering (BSE)",
+      "name_en": "Mechanical Engineering",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/fiTnrJxjsrMCxlzt3QHL",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BSE；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-06beca5dd46305"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-06beca5dd46305"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及EGR 121L、EGR 201L、EGR 224L、ECE 110L、EGR 244L、ME 221L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-06beca5dd46305"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-06beca5dd46305",
+          "title": "Mechanical Engineering — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/fiTnrJxjsrMCxlzt3QHL",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "ffc6216be35c4ee4d6f31e4087bb1ad28ca1b11e0b434803cc78059ce6a72f00",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BSE",
+      "inventory_id": "duke-mechanical-engineering-17359bec6c"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "PGgGd2MEAZrWWSOukTv9 | Medieval and Renaissance Studies (AB)",
+      "name_en": "Medieval and Renaissance Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/PGgGd2MEAZrWWSOukTv9",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-44345a5bb4bd97"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-44345a5bb4bd97"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-44345a5bb4bd97"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及MEDREN 491等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-44345a5bb4bd97"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-44345a5bb4bd97",
+          "title": "Medieval and Renaissance Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/PGgGd2MEAZrWWSOukTv9",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e86be088bf10505c4fe21f5dadcef2743d919604124c958e32ec8d47f24d87f4",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-medieval-and-renaissance-studies-31ba46bd34"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "JB0odX8x6wp5AXzIxhse | Music (AB)",
+      "name_en": "Music",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/JB0odX8x6wp5AXzIxhse",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-bb760780998351"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-bb760780998351"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11.5个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-bb760780998351"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及MUSIC 261、MUSIC 255S、MUSIC 256S、MUSIC 257、MUSIC 258、MUSIC 361等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-bb760780998351"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-bb760780998351",
+          "title": "Music — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/JB0odX8x6wp5AXzIxhse",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "92ee0ea2f8a40e0786c8c882f7f682df58f4e396a8a0f342a495fb46ab0cf39d",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-music-2230dd46c4"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "Z7fnnqQ9urCyyIXHCvG4 | Neuroscience (AB)",
+      "name_en": "Neuroscience",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/Z7fnnqQ9urCyyIXHCvG4",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-19109070212e1a"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-19109070212e1a"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-19109070212e1a"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及BIOLOGY 201L、BIOLOGY 202L、BIOLOGY 20、BIOLOGY 21、CHEM 101DL、CHEM 110DL等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-19109070212e1a"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-19109070212e1a",
+          "title": "Neuroscience — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/Z7fnnqQ9urCyyIXHCvG4",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "d293501e57bc7ee747673a5501c191b297d4c5f49f30f00805f23cc09a1ff0f4",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-neuroscience-90bf7ba6e9"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "cNIwuD3kK3KbxVF7hYnG | Neuroscience (BS)",
+      "name_en": "Neuroscience",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/cNIwuD3kK3KbxVF7hYnG",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-7fa40678f1ff23"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-7fa40678f1ff23"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少14个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-7fa40678f1ff23"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及BIOLOGY 201L、BIOLOGY 202L、BIOLOGY 20、BIOLOGY 21、CHEM 101DL、CHEM 110DL等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-7fa40678f1ff23"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-7fa40678f1ff23",
+          "title": "Neuroscience — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/cNIwuD3kK3KbxVF7hYnG",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "19e50ccf511501225db1c3efdec51b66b68653056a76f54a892a5b815c762619",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-neuroscience-e008a44b41"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "YUw1qieY8AtN9DyWDSaC | Philosophy (AB)",
+      "name_en": "Philosophy",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/YUw1qieY8AtN9DyWDSaC",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-7dd5612d3ee41a"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-7dd5612d3ee41a"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-7dd5612d3ee41a"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及PHIL 201、PHIL 203等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-7dd5612d3ee41a"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-7dd5612d3ee41a",
+          "title": "Philosophy — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/YUw1qieY8AtN9DyWDSaC",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "18d087fb7c373e081ef7f191ad6b388348ccf0c7441db9b39cc81c17c9cd0315",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-philosophy-fabc00b3d9"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "tQSC7ZTx6Gr7FvgX4TP9 | Physics (AB)",
+      "name_en": "Physics",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/tQSC7ZTx6Gr7FvgX4TP9",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-2f23bcdf2ddf5d"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-2f23bcdf2ddf5d"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-2f23bcdf2ddf5d"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及PHYSICS 161D、PHYSICS 141L、PHYSICS 151L、PHYSICS 162D、PHYSICS 142L、PHYSICS 152L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-2f23bcdf2ddf5d"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-2f23bcdf2ddf5d",
+          "title": "Physics — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/tQSC7ZTx6Gr7FvgX4TP9",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "7306475c4e21509403c8bc96f421336be8c38feb3ebb30546978d9f441a8922b",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-physics-546fa23336"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "FiFL0EZaNAPxOWINcX9C | Physics (BS)",
+      "name_en": "Physics",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/FiFL0EZaNAPxOWINcX9C",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-40bcb22028c444"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-40bcb22028c444"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少13个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-40bcb22028c444"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及PHYSICS 161D、PHYSICS 141L、PHYSICS 151L、PHYSICS 162D、PHYSICS 142L、PHYSICS 152L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-40bcb22028c444"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-40bcb22028c444",
+          "title": "Physics — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/FiFL0EZaNAPxOWINcX9C",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "cec093355a0adca9f6c7455ad392e45721c319201469e5773876f14f9cf6b986",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-physics-09337e30b2"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "lPimGthtohBKVmmp7eE6 | Political Science (AB)",
+      "name_en": "Political Science",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/lPimGthtohBKVmmp7eE6",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-682edd68dd9c67"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-682edd68dd9c67"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-682edd68dd9c67"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及POLSCI 175、POLSCI 175FS、STA 198L、STA 199L、ECON 104D、POLSCI 114等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-682edd68dd9c67"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-682edd68dd9c67",
+          "title": "Political Science — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/lPimGthtohBKVmmp7eE6",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "f5469bbff484a1f128aaaed7fac92ce2ba488967faa95d4146b843ddfea1bd79",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-political-science-0d5d0ef4b4"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "M4y39JARCg8g1oMLT1mJ | Psychology (AB)",
+      "name_en": "Psychology",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/M4y39JARCg8g1oMLT1mJ",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-36b31541cf2c19"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-36b31541cf2c19"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-36b31541cf2c19"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及PSY 101、PSY 204L、PSY 205L、PSY 232、UNIV 101、UNIV 104等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-36b31541cf2c19"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-36b31541cf2c19",
+          "title": "Psychology — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/M4y39JARCg8g1oMLT1mJ",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "4c3329db17d8fbbf89e87cf3769bee5a33a59ce920873b56163ef5e3d4fa9c6d",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-psychology-3cce01863a"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "qrmUbDGlJK45Oh3OLSg6 | Psychology (BS)",
+      "name_en": "Psychology",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/qrmUbDGlJK45Oh3OLSg6",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-3a1608d673df5c"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-3a1608d673df5c"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少16个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-3a1608d673df5c"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及PSY 101、PSY 204L、PSY 205L、PSY 232、UNIV 101、UNIV 104等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-3a1608d673df5c"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-3a1608d673df5c",
+          "title": "Psychology — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/qrmUbDGlJK45Oh3OLSg6",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "158b3e89abd2bf46f07e4effb3ea277e2c2c990d0f0dd6054b39d2e2434cba9e",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-psychology-fc10419f3a"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "HUIrgveWVwaT0vUWT5fi | Public Policy (AB)",
+      "name_en": "Public Policy",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/HUIrgveWVwaT0vUWT5fi",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-4a7b4be51d6331"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-4a7b4be51d6331"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少11个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-4a7b4be51d6331"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及PUBPOL 150D、ECON 104D、PUBPOL 101D、PUBPOL 301、PUBPOL 302D、PUBPOL 330等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-4a7b4be51d6331"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-4a7b4be51d6331",
+          "title": "Public Policy — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/HUIrgveWVwaT0vUWT5fi",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "b3b26f54b726f2e415bfa427b6eba0fc0571a7765ac8f445c02d1cef538ff00d",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-public-policy-2ea4e05586"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "8YpQrZ3pQ7Yfw99k5Fdp | Religion (AB)",
+      "name_en": "Religion",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/8YpQrZ3pQ7Yfw99k5Fdp",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-dbbdacc38360a9"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-dbbdacc38360a9"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-dbbdacc38360a9"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及RELIGION 101、RELIGION 102等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-dbbdacc38360a9"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-dbbdacc38360a9",
+          "title": "Religion — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/8YpQrZ3pQ7Yfw99k5Fdp",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "fc0b636edcb3d32a9b5e588f5877459ff7651f9f73bcb204566caecf2c0098ed",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-religion-f69d37e7d9"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "VzEgIzxCtoJiJi4pwk4k | Romance Studies (AB)",
+      "name_en": "Romance Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/VzEgIzxCtoJiJi4pwk4k",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-42e59f9a2f9b06"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-42e59f9a2f9b06"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-42e59f9a2f9b06"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及FRENCH 204、ITALIAN 203、PORTUGUE 203等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-42e59f9a2f9b06"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-42e59f9a2f9b06",
+          "title": "Romance Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/VzEgIzxCtoJiJi4pwk4k",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "b217478175c7de2f3eef5860a430f0737d2dd156d9e26af18c468263ba2ecd04",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-romance-studies-f1fbc6a1f5"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "99xqjNL7em0LeZf2wXs2 | Russian (AB)",
+      "name_en": "Russian",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/99xqjNL7em0LeZf2wXs2",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e96e0bc56c3b34"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-e96e0bc56c3b34"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-e96e0bc56c3b34"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及RUSSIAN 203、RUSSIAN 204、RUSSIAN 301S、RUSSIAN 302S、RUSSIAN 401、RUSSIAN 402等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-e96e0bc56c3b34"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e96e0bc56c3b34",
+          "title": "Russian — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/99xqjNL7em0LeZf2wXs2",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "ebd32b83f4eef9f287365262fa47bfe0cee0f9ff68b5f78b16934b8eb46fd5a5",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-russian-cc40255f41"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "Nn54Ct9OnvKdJF0loUG9 | Slavic and Eurasian Studies (AB)",
+      "name_en": "Slavic and Eurasian Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/Nn54Ct9OnvKdJF0loUG9",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-89a6fd98de91a2"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-89a6fd98de91a2"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-89a6fd98de91a2"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及SES 423S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-89a6fd98de91a2"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-89a6fd98de91a2",
+          "title": "Slavic and Eurasian Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/Nn54Ct9OnvKdJF0loUG9",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "03e30cd686ee4aaca618dcd3239dc49ac38183b31e58daa2bd81d38fb3184b16",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-slavic-and-eurasian-studies-1ec70e213d"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "wIBL2qITLLJLLLIDvgik | Sociology (AB)",
+      "name_en": "Sociology",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/wIBL2qITLLJLLLIDvgik",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-86caa8e2d93782"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-86caa8e2d93782"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-86caa8e2d93782"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及SOCIOL 110、SOCIOL 332、SOCIOL 333、SOCIOL 338、SOCIOL 393、SOCIOL 495S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-86caa8e2d93782"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-86caa8e2d93782",
+          "title": "Sociology — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/wIBL2qITLLJLLLIDvgik",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "2d0b3cbdbf3b1ade0f689825716463ea9b3f44541e4f9954c21dbe073e5b1f70",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-sociology-4ed19ed956"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "4hvjE9xN4CL5b4zLlUU8 | Spanish (AB)",
+      "name_en": "Spanish",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/4hvjE9xN4CL5b4zLlUU8",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-1af0efeffdf1ce"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-1af0efeffdf1ce"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-1af0efeffdf1ce"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及SPANISH 332、SPANISH 333、SPANISH 334、SPANISH 335、SPANISH 336、SPANISH 314A等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-1af0efeffdf1ce"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-1af0efeffdf1ce",
+          "title": "Spanish — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/4hvjE9xN4CL5b4zLlUU8",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "04163d49c6833710ea9fe2254b136397485a10061896641c792720605178f95a",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-spanish-c5a4ef41cd"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "LYH88S5rRQPKefnbVYCh | Statistical Science (AB)",
+      "name_en": "Statistical Science",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/LYH88S5rRQPKefnbVYCh",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-5191c6c7cc6ddf"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-5191c6c7cc6ddf"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少12个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-5191c6c7cc6ddf"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及MATH 21、MATH 105L、MATH 111L、MATH 22、MATH 112L、MATH 122L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-5191c6c7cc6ddf"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-5191c6c7cc6ddf",
+          "title": "Statistical Science — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/LYH88S5rRQPKefnbVYCh",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "0268c279a6843971c71a4800e824f0489488a563684c4d1ccd2c039abe33f92d",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-statistical-science-9a333f19c2"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "DplzxtiSYvU1RYkhYQEk | Statistical Science (BS)",
+      "name_en": "Statistical Science",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/DplzxtiSYvU1RYkhYQEk",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：BS；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-7da3aa5ba1e609"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-7da3aa5ba1e609"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少13个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-7da3aa5ba1e609"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及MATH 21、MATH 105L、MATH 111L、MATH 22、MATH 112L、MATH 122L等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-7da3aa5ba1e609"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-7da3aa5ba1e609",
+          "title": "Statistical Science — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/DplzxtiSYvU1RYkhYQEk",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "21011289200db16b32cb0e11680c74e46860447d219096cc8601e8c825c613d2",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "BS",
+      "inventory_id": "duke-statistical-science-db1a6bb866"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "UpOTZYeOQRH8l7Hf8VW3 | Theater Studies (AB)",
+      "name_en": "Theater Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/UpOTZYeOQRH8l7Hf8VW3",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-2739c69cd82161"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-2739c69cd82161"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-2739c69cd82161"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及THEATRST 145S、THEATRST 187S、THEATRST 209等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-2739c69cd82161"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-2739c69cd82161",
+          "title": "Theater Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/UpOTZYeOQRH8l7Hf8VW3",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "7583fd0ca39f9b0add4fea3c3c334a10eb035ac51ce1903dd454c4a5e4ed6c0f",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-theater-studies-6289092698"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "6b4stFe9k48c1VXILcAv | Visual and Media Studies (AB)",
+      "name_en": "Visual and Media Studies",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/6b4stFe9k48c1VXILcAv",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-4685526682c61c"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-4685526682c61c"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少13个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-4685526682c61c"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及VMS 220D、VMS 327S、VMS 499、VMS 202D、VMS 499S、CINE 201等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-4685526682c61c"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-4685526682c61c",
+          "title": "Visual and Media Studies — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/6b4stFe9k48c1VXILcAv",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "10a9ffa2ab922c95fab20b256670119d3be23ae52def46fdf04e089717170ab4",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-visual-and-media-studies-62db0f5caf"
+    },
+    {
+      "university_id": "duke",
+      "raw_key": "WMFFz5G9RRjZSgLmBI2E | Visual Arts (AB)",
+      "name_en": "Visual Arts",
+      "official_url": "https://undergraduate.bulletins.duke.edu/pages/WMFFz5G9RRjZSgLmBI2E",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-78759fda8007b9"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "本科毕业最低学分",
+            "text": "该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。",
+            "source_ids": [
+              "USBENR-78759fda8007b9"
+            ],
+            "extraction_locator": "Academic Requirements > introductory minimum degree units"
+          },
+          {
+            "label": "主修要求最低学分",
+            "text": "主修部分至少12个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。",
+            "source_ids": [
+              "USBENR-78759fda8007b9"
+            ],
+            "extraction_locator": "Academic Requirements > major minimum units"
+          },
+          {
+            "label": "课程代码举例",
+            "text": "学术要求涉及ARTSVIS 496S、ARTSVIS 497S等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。",
+            "source_ids": [
+              "USBENR-78759fda8007b9"
+            ],
+            "extraction_locator": "Academic Requirements > course codes"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-78759fda8007b9",
+          "title": "Visual Arts — 官方本科课程目录",
+          "url": "https://undergraduate.bulletins.duke.edu/pages/WMFFz5G9RRjZSgLmBI2E",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "afdcd5fbcb07e1b4bfa0385677ce9333cb01fa9962cc8f4b2e4f7f6c9e873c5d",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "AB",
+      "inventory_id": "duke-visual-arts-d03cd1dd83"
+    }
+  ],
+  "profile": {
+    "university_id": "duke",
+    "checked_at": "2026-09-12",
+    "scope": "Duke 美国本部第一本科，排除研究生、Duke Kunshan及其他独立招生项目。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "学历材料与申请入口",
+          "text": "国际生无独立申请表，普通新生使用 Common Application；需高中成绩、学校报告及教师推荐，非英语原文连同正式译本提交。须选择 Trinity 文理学院或 Pratt 工程学院；本轮未取得大陆高考统一分数线。",
+          "source_ids": [
+            "USBENR-d3941f287db06e"
+          ],
+          "extraction_locator": "First-Year Applicants / Transcripts / International Applicants"
+        },
+        {
+          "label": "2026–27 标化与英语",
+          "text": "2026–27申请周期 SAT/ACT 可选，国际生没有额外标化要求。英语测试不强制，但可自愿提交 IELTS、TOEFL、DET等认可测试；不能将建议分数误当所有人的必交门槛。",
+          "source_ids": [
+            "USBENR-d3941f287db06e"
+          ],
+          "extraction_locator": "Test-Optional Policy 2026-2027 / International Applicants"
+        }
+      ],
+      "applications": [
+        {
+          "label": "2027 入学申请日期",
+          "text": "官方明确 ED 截止2026-11-02，RD 截止2027-01-04。ED具有约束性；专业艺术补充材料和资金申请须另查清单。",
+          "source_ids": [
+            "USBENR-c6ca7fa3690e22"
+          ],
+          "extraction_locator": "Important Dates"
+        }
+      ],
+      "fees": [
+        {
+          "label": "2026/27 本科新生费用",
+          "text": "年学费 USD73,740，估计必缴费用3,019；Pratt工程另收60。双人间住房11,560、餐食10,469，学校直接账单合计98,788–98,848。属2026/27新生预算，未作为2027新生报价。",
+          "source_ids": [
+            "USBENR-7ee41ef3677f2d"
+          ],
+          "extraction_locator": "2026-2027 Estimated Cost of Attendance > 1st-year Undergraduate Student"
+        },
+        {
+          "label": "预算范围",
+          "text": "书本、个人和交通另计。费用表的交通估算写明为美国境内，不能当中国往返机票；总预算仍随学生实际情况变化。",
+          "source_ids": [
+            "USBENR-7ee41ef3677f2d"
+          ],
+          "extraction_locator": "Estimate of other expenses"
+        },
+        {
+          "label": "国际生经济资助",
+          "text": "国际生申请时选择需要资助者在单独录取池评估；以不需资助身份获录取者，整个本科期间不能再申请该资助。学校为国际生给四年资助安排，须按具体资助流程办理。两页面ED资助日期并不一致，本轮未把其中一个直接设为2027最终截止。",
+          "source_ids": [
+            "USBENR-d2ad75a46ca80a"
+          ],
+          "extraction_locator": "Prepare Your Application / international student aid"
+        }
+      ],
+      "outcomes": []
+    },
+    "sources": [
+      {
+        "id": "USBENR-d3941f287db06e",
+        "title": "duke 官方 apply",
+        "url": "https://admissions.duke.edu/apply/",
+        "checked_at": "2026-09-12",
+        "supports": "本条学历材料与申请入口及年度/身份范围",
+        "sha256": "5f58049415b81bcb36547c10a4d9819b85317f0a0944ddfbaeee50c1e9cc6f7a",
+        "locator": "First-Year Applicants / Transcripts / International Applicants"
+      },
+      {
+        "id": "USBENR-c6ca7fa3690e22",
+        "title": "duke 官方 deadlines",
+        "url": "https://admissions.duke.edu/counselors/",
+        "checked_at": "2026-09-12",
+        "supports": "本条2027 入学申请日期及年度/身份范围",
+        "sha256": "a4a3639940637c778a547aa9f8e7abf1f9ab7ccbc7424fcc0fc7d8b3afad1c04",
+        "locator": "Important Dates"
+      },
+      {
+        "id": "USBENR-7ee41ef3677f2d",
+        "title": "duke 官方 tuition",
+        "url": "https://financialaid.duke.edu/how-aid-calculated/cost-attendance/",
+        "checked_at": "2026-09-12",
+        "supports": "本条2026/27 本科新生费用及年度/身份范围",
+        "sha256": "2c10638722e55b2f2ea23edb88d58e61042912f63b9ad5645207923393c53680",
+        "locator": "2026-2027 Estimated Cost of Attendance > 1st-year Undergraduate Student"
+      },
+      {
+        "id": "USBENR-d2ad75a46ca80a",
+        "title": "duke 官方 aid",
+        "url": "https://admissions.duke.edu/financial-support/",
+        "checked_at": "2026-09-12",
+        "supports": "本条国际生经济资助及年度/身份范围",
+        "sha256": "c3d4a51d7960c492621f0566b85d51f5dbb51bd5fd1e5d0cb5d5a25812970b25",
+        "locator": "Prepare Your Application / international student aid"
+      }
+    ]
+  }
+}

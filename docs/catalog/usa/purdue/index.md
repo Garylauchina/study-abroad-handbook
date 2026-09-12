@@ -23,176 +23,229 @@ hide:
 
 ## 专业与申请资料
 
-165 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+165 个专业条目 · 0 个含详细资料 · 163 个补有专业资料 · 2 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=purdue#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-accounting-c0bb1bc94c/">Accounting</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-actuarial-science-e64046590a/">Actuarial Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-aeronautical-engineering-technology-cea061bf97/">Aeronautical Engineering Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-aeronautical-and-astronautical-engineering-6da46b57b4/">Aeronautical and Astronautical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agribusiness-d07e6da06a/">Agribusiness</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agricultural-economics-2c382177e6/">Agricultural Economics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agricultural-education-b9aa9176f1/">Agricultural Education</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agricultural-engineering-c2d0752186/">Agricultural Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agricultural-engineering-technology-and-management-41f9dfdc25/">Agricultural Engineering Technology and Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-animal-sciences-80aa86d2d3/">Animal Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-animation-and-visual-effects-8cd884463c/">Animation and Visual Effects</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-anthropology-f014403d2b/">Anthropology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-anthropology-8e751ba026/">Anthropology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-aquatic-sciences-c521803068/">Aquatic Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-artificial-intelligence-liberal-arts-c43338cd73/">Artificial Intelligence (Liberal Arts)</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-artificial-intelligence-science-f2fdd74355/">Artificial Intelligence (Science)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-astrophysics-8bf2f404c7/">Astrophysics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-atmospheric-science-26c578ddeb/">Atmospheric Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-aviation-management-d5a62dae1f/">Aviation Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biochemistry-50e0857a06/">Biochemistry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biochemistry-chemistry-c4aed9b5b7/">Biochemistry (Chemistry)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biological-engineering-dc1c6045dd/">Biological Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biology-5d3452eeef/">Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biomedical-engineering-93c0aa1f54/">Biomedical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biomedical-health-sciences-de9cf255c2/">Biomedical Health Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biomolecular-design-f574521f22/">Biomolecular Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-brain-and-behavioral-sciences-a47feb5a70/">Brain and Behavioral Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-business-analytics-and-information-management-6c89997b32/">Business Analytics and Information Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-cell-molecular-and-developmental-biology-f05a1eb9b9/">Cell, Molecular, and Developmental Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-chemical-biology-and-biochemistry-19fd450292/">Chemical Biology and Biochemistry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-chemical-engineering-0cba271ddb/">Chemical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-chemistry-749991bc83/">Chemistry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-chemistry-american-chemical-society-a3fcd63a73/">Chemistry – American Chemical Society</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-civil-engineering-2fec159cd6/">Civil Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-cognitive-science-119877a95a/">Cognitive Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-communication-8f61e067b5/">Communication</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computer-engineering-f28399c29c/">Computer Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computer-engineering-technology-3dc3db60cb/">Computer Engineering Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computer-science-98eab85431/">Computer Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computer-and-information-technology-fa26f46f43/">Computer and Information Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computing-infrastructure-and-network-engineering-technology-edce29a153/">Computing Infrastructure and Network Engineering Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-construction-engineering-df704c55e3/">Construction Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-construction-management-f313797b8b/">Construction Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-creative-writing-499f0fba14/">Creative Writing</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-crop-soil-and-agroecosystem-sciences-377856682d/">Crop, Soil and Agroecosystem Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-cybersecurity-878fb316e6/">Cybersecurity</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-data-analytics-technologies-and-applications-68d58d4e64/">Data Analytics, Technologies and Applications</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-data-science-bdd34b82ef/">Data Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-design-studies-a9afdf43de/">Design Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-design-and-construction-integration-3fab7e6454/">Design and Construction Integration</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-developmental-and-family-science-b3a9218a9c/">Developmental and Family Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-digital-criminology-da6c01968c/">Digital Criminology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-early-childhood-education-and-exceptional-needs-2db3ff69a7/">Early Childhood Education and Exceptional Needs</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-ecology-evolution-and-environmental-sciences-d69d7e7a82/">Ecology, Evolution and Environmental Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-economics-07dceb6d13/">Economics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-economics-business-f66f12a0be/">Economics (Business)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-electrical-engineering-74e3b38150/">Electrical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-electrical-engineering-technology-8dd17cf698/">Electrical Engineering Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-elementary-education-6e744b3789/">Elementary Education</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-english-5ae664cebf/">English</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-english-education-6ebc0adabc/">English Education</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-environmental-geosciences-7f55a70f44/">Environmental Geosciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-environmental-and-ecological-engineering-18cd5f6652/">Environmental and Ecological Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-environmental-and-natural-resources-engineering-94c79a0191/">Environmental and Natural Resources Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-family-and-consumer-sciences-education-2299fc4f93/">Family and Consumer Sciences Education</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-farm-management-1f8c97d253/">Farm Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-film-and-video-d59a20c795/">Film and Video</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-finance-c0d1ac18f5/">Finance</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-financial-counseling-and-planning-df27252071/">Financial Counseling and Planning</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-flight-professional-flight-technology-f144a0e95e/">Flight (Professional Flight Technology)</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-food-science-43851d13aa/">Food Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-forestry-50fe9a380a/">Forestry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-game-development-5f210c27da/">Game Development</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-general-education-curriculum-and-instruction-non-licensure-9b6a9456d3/">General Education: Curriculum and Instruction (non-licensure)</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-general-education-educational-studies-non-licensure-6fa8180951/">General Education: Educational Studies (non-licensure)</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-general-management-1fdc0f0ff9/">General Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-genetics-62c7b6648c/">Genetics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-geology-and-geophysics-874ad1e429/">Geology and Geophysics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-health-and-disease-eedb238d61/">Health and Disease</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-history-2e84a0a853/">History</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-history-of-science-technology-and-medicine-d568aabcea/">History of Science, Technology and Medicine</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-horticulture-6cf8a495ff/">Horticulture</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-hospitality-and-tourism-management-e659d16413/">Hospitality and Tourism Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-human-resource-development-7a0de75455/">Human Resource Development</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-human-services-ead441ae3d/">Human Services</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-inclusion-dual-license-in-special-education-k-6-and-elementary-ed-9d34d706ed/">Inclusion: Dual License in Special Education (K-6) and Elementary Education</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-industrial-consumer-product-design-d3b287cfaa/">Industrial (Consumer Product) Design</a><small>Bachelor of Fine Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-industrial-engineering-75c3adad47/">Industrial Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-industrial-engineering-technology-df3723a769/">Industrial Engineering Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-industrial-microbiology-and-biotechnology-469ce8849a/">Industrial Microbiology and Biotechnology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-insect-biology-c1cebdba30/">Insect Biology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-integrated-business-and-engineering-c6c5dec3cf/">Integrated Business and Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-integrated-science-and-business-applied-statistics-069e485688/">Integrated Science and Business — Applied Statistics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-integrated-studio-arts-portfolio-required-3285ea6dad/">Integrated Studio Arts (Portfolio Required)</a><small>Bachelor of Fine Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interdisciplinary-engineering-studies-795dc11f4c/">Interdisciplinary Engineering Studies</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interdisciplinary-performance-525511bb5e/">Interdisciplinary Performance</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interdisciplinary-studies-8bcba30563/">Interdisciplinary Studies</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interior-space-planning-design-21f38b9e72/">Interior (Space Planning) Design</a><small>Bachelor of Fine Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interior-architecture-ae63062326/">Interior Architecture</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-kinesiology-feb169a7fa/">Kinesiology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-landscape-architecture-b3207bc83e/">Landscape Architecture</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-law-and-society-7ef9b29f4e/">Law and Society</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-linguistics-df6c18eae6/">Linguistics</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-marketing-7610434e4d/">Marketing</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-materials-engineering-924f667d1b/">Materials Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mathematics-00f241f2c7/">Mathematics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mathematics-applied-edb3ffeefd/">Mathematics Applied</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mathematics-education-b2882d1483/">Mathematics Education</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mathematics-statistics-6648d690d0/">Mathematics Statistics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mechanical-engineering-1727a5a501/">Mechanical Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mechanical-engineering-technology-9a4f4e3f44/">Mechanical Engineering Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mechatronics-engineering-technology-adb8ac7ef4/">Mechatronics Engineering Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-medical-laboratory-sciences-e4923bac5a/">Medical Laboratory Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-motorsports-engineering-9c224e3922/">Motorsports Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-multidisciplinary-engineering-651ebea4fe/">Multidisciplinary Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-multidisciplinary-technology-3eac0dbb87/">Multidisciplinary Technology</a><small>Bachelor of Science (BS) · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-music-3f87b483bc/">Music</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-natural-resources-and-environmental-science-66be645b76/">Natural Resources and Environmental Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-neurobiology-and-physiology-22aa01a1d1/">Neurobiology and Physiology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nuclear-engineering-20e3c2153e/">Nuclear Engineering</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nursing-f460d8257f/">Nursing</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nutrition-science-f2fce4b50a/">Nutrition Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nutrition-and-dietetics-54febd0f6d/">Nutrition and Dietetics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nutrition-and-dietetics-nutrition-fitness-and-health-f7366538bf/">Nutrition and Dietetics/ Nutrition, Fitness and Health</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-occupational-and-environmental-health-sciences-8652eac72a/">Occupational and Environmental Health Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-organizational-behavior-and-human-resource-management-fd381196cf/">Organizational Behavior and Human Resource Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-organizational-leadership-7a9f22317e/">Organizational Leadership</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-pharmaceutical-sciences-d84f2204cc/">Pharmaceutical Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-philosophy-e178ecc004/">Philosophy</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-physics-7e6a85357a/">Physics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-physics-applied-7d8763c20c/">Physics Applied</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-planetary-sciences-613c9a07fb/">Planetary Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-plant-genetics-breeding-and-biotechnology-0c21e40a31/">Plant Genetics, Breeding and Biotechnology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-plant-science-90e0600192/">Plant Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-political-science-cd8c881ed6/">Political Science</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-professional-writing-cadada8ba7/">Professional Writing</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-psychological-sciences-8635c70b29/">Psychological Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-public-health-8ab4ee6c1c/">Public Health</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-quantitative-business-economics-73bdbb9b1c/">Quantitative Business Economics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-radiological-health-sciences-b9106c247c/">Radiological Health Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-robotics-engineering-technology-e390f00266/">Robotics Engineering Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sales-and-marketing-7097c2f66a/">Sales and Marketing</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-science-education-aafdbeb969/">Science Education</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-selling-and-sales-management-ab97d1395d/">Selling and Sales Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-social-studies-education-567f54787d/">Social Studies Education</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sociology-1f23b5d3b7/">Sociology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sound-for-the-performing-arts-f88bc50646/">Sound for the Performing Arts</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-special-education-mild-and-intense-intervention-p-12-064b61c7ba/">Special Education: Mild and Intense Intervention P-12</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-speech-language-and-hearing-sciences-737e8b65ac/">Speech, Language and Hearing Sciences</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-statistics-applied-36befb03fa/">Statistics Applied</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-statistics-math-emphasis-b3be2954c3/">Statistics, Math Emphasis</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-studio-arts-and-technology-c0e8f51409/">Studio Arts and Technology</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-supply-chain-and-operations-management-faae095a58/">Supply Chain and Operations Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sustainable-food-and-farming-systems-18cf76d45e/">Sustainable Food and Farming Systems</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-theatre-7e8074e371/">Theatre</a><small>Bachelor of Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-themed-entertainment-design-d63a7cd70e/">Themed Entertainment Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-turf-management-and-science-dac2986300/">Turf Management and Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-ux-design-28b3def1dd/">UX Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-unmanned-aerial-systems-d7211bc986/">Unmanned Aerial Systems</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-veterinary-technology-9e2b9e60a5/">Veterinary Technology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-virtual-design-and-construction-6a49cd55c6/">Virtual Design and Construction</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-visual-communication-design-7728cbffc0/">Visual Communication Design</a><small>Bachelor of Fine Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-web-programming-and-design-a6b5529ba7/">Web Programming and Design</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-wildlife-science-ef66665ce4/">Wildlife Science</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-world-languages-and-cultures-25c0e8ce45/">World Languages and Cultures</a><small>Bachelor of Arts (BA) · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-accounting-c0bb1bc94c/">Accounting</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-actuarial-science-e64046590a/">Actuarial Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-aeronautical-engineering-technology-cea061bf97/">Aeronautical Engineering Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-aeronautical-and-astronautical-engineering-6da46b57b4/">Aeronautical and Astronautical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agribusiness-d07e6da06a/">Agribusiness</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agricultural-economics-2c382177e6/">Agricultural Economics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agricultural-education-b9aa9176f1/">Agricultural Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agricultural-engineering-c2d0752186/">Agricultural Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-agricultural-engineering-technology-and-management-41f9dfdc25/">Agricultural Engineering Technology and Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-animal-sciences-80aa86d2d3/">Animal Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-animation-and-visual-effects-8cd884463c/">Animation and Visual Effects</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-anthropology-f014403d2b/">Anthropology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-anthropology-8e751ba026/">Anthropology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-aquatic-sciences-c521803068/">Aquatic Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-artificial-intelligence-liberal-arts-c43338cd73/">Artificial Intelligence (Liberal Arts)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-artificial-intelligence-science-f2fdd74355/">Artificial Intelligence (Science)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-astrophysics-8bf2f404c7/">Astrophysics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-atmospheric-science-26c578ddeb/">Atmospheric Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-aviation-management-d5a62dae1f/">Aviation Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biochemistry-50e0857a06/">Biochemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biochemistry-chemistry-c4aed9b5b7/">Biochemistry (Chemistry)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biological-engineering-dc1c6045dd/">Biological Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biology-5d3452eeef/">Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biomedical-engineering-93c0aa1f54/">Biomedical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biomedical-health-sciences-de9cf255c2/">Biomedical Health Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-biomolecular-design-f574521f22/">Biomolecular Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-brain-and-behavioral-sciences-a47feb5a70/">Brain and Behavioral Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-business-analytics-and-information-management-6c89997b32/">Business Analytics and Information Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-cell-molecular-and-developmental-biology-f05a1eb9b9/">Cell, Molecular, and Developmental Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-chemical-biology-and-biochemistry-19fd450292/">Chemical Biology and Biochemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-chemical-engineering-0cba271ddb/">Chemical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-chemistry-749991bc83/">Chemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-chemistry-american-chemical-society-a3fcd63a73/">Chemistry – American Chemical Society</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-civil-engineering-2fec159cd6/">Civil Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-cognitive-science-119877a95a/">Cognitive Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-communication-8f61e067b5/">Communication</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computer-engineering-f28399c29c/">Computer Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computer-engineering-technology-3dc3db60cb/">Computer Engineering Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computer-science-98eab85431/">Computer Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computer-and-information-technology-fa26f46f43/">Computer and Information Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-computing-infrastructure-and-network-engineering-technology-edce29a153/">Computing Infrastructure and Network Engineering Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-construction-engineering-df704c55e3/">Construction Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-construction-management-f313797b8b/">Construction Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-creative-writing-499f0fba14/">Creative Writing</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-crop-soil-and-agroecosystem-sciences-377856682d/">Crop, Soil and Agroecosystem Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-cybersecurity-878fb316e6/">Cybersecurity</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-data-analytics-technologies-and-applications-68d58d4e64/">Data Analytics, Technologies and Applications</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-data-science-bdd34b82ef/">Data Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-design-studies-a9afdf43de/">Design Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-design-and-construction-integration-3fab7e6454/">Design and Construction Integration</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-developmental-and-family-science-b3a9218a9c/">Developmental and Family Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-digital-criminology-da6c01968c/">Digital Criminology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-early-childhood-education-and-exceptional-needs-2db3ff69a7/">Early Childhood Education and Exceptional Needs</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-ecology-evolution-and-environmental-sciences-d69d7e7a82/">Ecology, Evolution and Environmental Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-economics-07dceb6d13/">Economics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-economics-business-f66f12a0be/">Economics (Business)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-electrical-engineering-74e3b38150/">Electrical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-electrical-engineering-technology-8dd17cf698/">Electrical Engineering Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-elementary-education-6e744b3789/">Elementary Education</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-english-5ae664cebf/">English</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-english-education-6ebc0adabc/">English Education</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-environmental-geosciences-7f55a70f44/">Environmental Geosciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-environmental-and-ecological-engineering-18cd5f6652/">Environmental and Ecological Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-environmental-and-natural-resources-engineering-94c79a0191/">Environmental and Natural Resources Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-family-and-consumer-sciences-education-2299fc4f93/">Family and Consumer Sciences Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-farm-management-1f8c97d253/">Farm Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-film-and-video-d59a20c795/">Film and Video</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-finance-c0d1ac18f5/">Finance</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-financial-counseling-and-planning-df27252071/">Financial Counseling and Planning</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-flight-professional-flight-technology-f144a0e95e/">Flight (Professional Flight Technology)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-food-science-43851d13aa/">Food Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-forestry-50fe9a380a/">Forestry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-game-development-5f210c27da/">Game Development</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-general-education-curriculum-and-instruction-non-licensure-9b6a9456d3/">General Education: Curriculum and Instruction (non-licensure)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-general-education-educational-studies-non-licensure-6fa8180951/">General Education: Educational Studies (non-licensure)</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-general-management-1fdc0f0ff9/">General Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-genetics-62c7b6648c/">Genetics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-geology-and-geophysics-874ad1e429/">Geology and Geophysics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-health-and-disease-eedb238d61/">Health and Disease</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-history-2e84a0a853/">History</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-history-of-science-technology-and-medicine-d568aabcea/">History of Science, Technology and Medicine</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-horticulture-6cf8a495ff/">Horticulture</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-hospitality-and-tourism-management-e659d16413/">Hospitality and Tourism Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-human-resource-development-7a0de75455/">Human Resource Development</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-human-services-ead441ae3d/">Human Services</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-inclusion-dual-license-in-special-education-k-6-and-elementary-ed-9d34d706ed/">Inclusion: Dual License in Special Education (K-6) and Elementary Education</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-industrial-consumer-product-design-d3b287cfaa/">Industrial (Consumer Product) Design</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-industrial-engineering-75c3adad47/">Industrial Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-industrial-engineering-technology-df3723a769/">Industrial Engineering Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-industrial-microbiology-and-biotechnology-469ce8849a/">Industrial Microbiology and Biotechnology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-insect-biology-c1cebdba30/">Insect Biology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-integrated-business-and-engineering-c6c5dec3cf/">Integrated Business and Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-integrated-science-and-business-applied-statistics-069e485688/">Integrated Science and Business — Applied Statistics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-integrated-studio-arts-portfolio-required-3285ea6dad/">Integrated Studio Arts (Portfolio Required)</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interdisciplinary-engineering-studies-795dc11f4c/">Interdisciplinary Engineering Studies</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interdisciplinary-performance-525511bb5e/">Interdisciplinary Performance</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interdisciplinary-studies-8bcba30563/">Interdisciplinary Studies</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interior-space-planning-design-21f38b9e72/">Interior (Space Planning) Design</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-interior-architecture-ae63062326/">Interior Architecture</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-kinesiology-feb169a7fa/">Kinesiology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-landscape-architecture-b3207bc83e/">Landscape Architecture</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-law-and-society-7ef9b29f4e/">Law and Society</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-linguistics-df6c18eae6/">Linguistics</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-marketing-7610434e4d/">Marketing</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-materials-engineering-924f667d1b/">Materials Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mathematics-00f241f2c7/">Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mathematics-applied-edb3ffeefd/">Mathematics Applied</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mathematics-education-b2882d1483/">Mathematics Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mathematics-statistics-6648d690d0/">Mathematics Statistics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mechanical-engineering-1727a5a501/">Mechanical Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mechanical-engineering-technology-9a4f4e3f44/">Mechanical Engineering Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-mechatronics-engineering-technology-adb8ac7ef4/">Mechatronics Engineering Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-medical-laboratory-sciences-e4923bac5a/">Medical Laboratory Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-motorsports-engineering-9c224e3922/">Motorsports Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-multidisciplinary-engineering-651ebea4fe/">Multidisciplinary Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-multidisciplinary-technology-3eac0dbb87/">Multidisciplinary Technology</a><small>Bachelor of Science (BS) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-music-3f87b483bc/">Music</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-natural-resources-and-environmental-science-66be645b76/">Natural Resources and Environmental Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-neurobiology-and-physiology-22aa01a1d1/">Neurobiology and Physiology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nuclear-engineering-20e3c2153e/">Nuclear Engineering</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nursing-f460d8257f/">Nursing</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nutrition-science-f2fce4b50a/">Nutrition Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nutrition-and-dietetics-54febd0f6d/">Nutrition and Dietetics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-nutrition-and-dietetics-nutrition-fitness-and-health-f7366538bf/">Nutrition and Dietetics/ Nutrition, Fitness and Health</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-occupational-and-environmental-health-sciences-8652eac72a/">Occupational and Environmental Health Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-organizational-behavior-and-human-resource-management-fd381196cf/">Organizational Behavior and Human Resource Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-organizational-leadership-7a9f22317e/">Organizational Leadership</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-pharmaceutical-sciences-d84f2204cc/">Pharmaceutical Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-philosophy-e178ecc004/">Philosophy</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-physics-7e6a85357a/">Physics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-physics-applied-7d8763c20c/">Physics Applied</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-planetary-sciences-613c9a07fb/">Planetary Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-plant-genetics-breeding-and-biotechnology-0c21e40a31/">Plant Genetics, Breeding and Biotechnology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-plant-science-90e0600192/">Plant Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-political-science-cd8c881ed6/">Political Science</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-professional-writing-cadada8ba7/">Professional Writing</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-psychological-sciences-8635c70b29/">Psychological Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-public-health-8ab4ee6c1c/">Public Health</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-quantitative-business-economics-73bdbb9b1c/">Quantitative Business Economics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-radiological-health-sciences-b9106c247c/">Radiological Health Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-robotics-engineering-technology-e390f00266/">Robotics Engineering Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sales-and-marketing-7097c2f66a/">Sales and Marketing</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-science-education-aafdbeb969/">Science Education</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-selling-and-sales-management-ab97d1395d/">Selling and Sales Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-social-studies-education-567f54787d/">Social Studies Education</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sociology-1f23b5d3b7/">Sociology</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sound-for-the-performing-arts-f88bc50646/">Sound for the Performing Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-special-education-mild-and-intense-intervention-p-12-064b61c7ba/">Special Education: Mild and Intense Intervention P-12</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-speech-language-and-hearing-sciences-737e8b65ac/">Speech, Language and Hearing Sciences</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-statistics-applied-36befb03fa/">Statistics Applied</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-statistics-math-emphasis-b3be2954c3/">Statistics, Math Emphasis</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-studio-arts-and-technology-c0e8f51409/">Studio Arts and Technology</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-supply-chain-and-operations-management-faae095a58/">Supply Chain and Operations Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-sustainable-food-and-farming-systems-18cf76d45e/">Sustainable Food and Farming Systems</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-theatre-7e8074e371/">Theatre</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-themed-entertainment-design-d63a7cd70e/">Themed Entertainment Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-turf-management-and-science-dac2986300/">Turf Management and Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-ux-design-28b3def1dd/">UX Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-unmanned-aerial-systems-d7211bc986/">Unmanned Aerial Systems</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-veterinary-technology-9e2b9e60a5/">Veterinary Technology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-virtual-design-and-construction-6a49cd55c6/">Virtual Design and Construction</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-visual-communication-design-7728cbffc0/">Visual Communication Design</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-web-programming-and-design-a6b5529ba7/">Web Programming and Design</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-wildlife-science-ef66665ce4/">Wildlife Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/purdue/purdue-world-languages-and-cultures-25c0e8ce45/">World Languages and Cultures</a><small>Bachelor of Arts (BA) · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>大陆高中申请材料：</strong>仍在高中者提交初三及高一、高二成绩；已毕业者提交高中三年最终成绩、会考与高中毕业证明，高考成绩可选。学校可能要求 CHSI 验证；非英语材料须提供合格英文译本。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-611168bea94a25">官方依据</a></p>
+
+<p class="catalog-fact"><strong>A-level 与 IB 资格：</strong>IGCSE/GCSE 至少5门学术科目及格，涵盖英语、数学、自然/物理科学、社会学科；仅持 IGCSE 通常竞争力不足，学校指出多数申请人另修3–4门 AS/A-level。IB 无统一最低总分，符合高中课程要求即可按整体材料评估；这不是专业录取保证。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-611168bea94a25">官方依据</a></p>
+
+<p class="catalog-fact"><strong>新生身份与国际生外语例外：</strong>高中毕业后取得至少12个大学学分通常按转学生申请。来自非英语国家的国际申请人不须满足普通高中要求中的额外外语修课项；仍须满足英语能力证明。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-611168bea94a25">官方依据</a></p>
+
+<p class="catalog-fact"><strong>选拔与专业先修：</strong>学校按目标专业与名额进行综合评估。基础高中课程包括数学4年、英语4年、实验科学3年、社会学科3年；工程要求有化学学习，护理、药学、兽医护理的实验科学须各含1年化学与生物。页面将 SAT/ACT/CLT 写为“如提供”，成绩须在5年内；本轮不将这些测试解释为高考替代分数线。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-8eef2bf9753974">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语成绩：</strong>页面一般标准：IELTS 总分6.5、各项6.0；DET 总分115、各项110。TOEFL 在2026-01-21前考试为总分88、各项20；该日起考试采用总分4.5、各项4.0。成绩须在2年内；达到标准不保证录取，符合英语授课经历者可申请豁免。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-313a465a332ea0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国申请人的额外录取审查：</strong>Purdue 官方说明：自2026-08-15起录取的中国公民（含港澳），若不是美国公民、永久居民或获美国庇护／难民身份者，须完成额外研究安全审查。学校可能索取教育、工作、资助、关联机构等资料；缺少所需资料不能录取。官方仍指示按常规申请；此为大学公布的招生程序说明。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-72003a45cf90ef">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>申请渠道与当前日程：</strong>通过 Common Application 申请，8月1日开放；Early Action 截止11月1日，Regular Decision 截止1月15日。当前页没有逐项标明入学年份，故本轮保留为所读现行日程，未将其独立验证为2027专属公告。申请费 USD60。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-f160b753dd3d32">官方依据</a></p>
+
+<p class="catalog-fact"><strong>名额敏感专业：</strong>工程、计算机、飞行、护理和兽医技术等项目应特别注意11月1日优先申请；之后可能只在余位情况下继续受理。West Lafayette 工程为 First-Year Engineering 入口，Indianapolis 列出具体工程专业；申请前需再查 Closed Programs。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-f160b753dd3d32">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026/27 国际生基础收费：</strong>West Lafayette 普通基础档、每学期至少8学分：秋春合计学费及表列必缴费 USD32,104（每学期16,052）。这是2026/27参考，并非2027入学报价；工程/计算机/数据科学、商学院、Polytechnic、护理及兽医技术有单独费表，不能直接套用。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-b2144cb7703f39">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026/27 生活预算参考：</strong>同一国际生基础档估算秋春住宿餐饮 USD16,734，连同书本、交通及个人杂费后的总预算 USD52,698。表中生活项为估算，交通额不应视作中国往返机票实际价格；专业附加费、其他校区仍须单独核对。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-b2144cb7703f39">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金身份限制：</strong>此页校级新生奖学金仅适用于其定义的 domestic students；F/J及部分其他签证国际生不适用。国际本科生一般不具备含奖学金在内的校方资助资格；不能把页面给非居民的 Trustees 等金额作为大陆国际生预算减项。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-0066447e6741c6">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-USBENR-611168bea94a25"><div><a href="https://admissions.purdue.edu/become-student/international/">Purdue 官方 international ↗</a><p>本条大陆高中申请材料及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-8eef2bf9753974"><div><a href="https://admissions.purdue.edu/become-student/first-year-criteria/">Purdue 官方 first-year-criteria ↗</a><p>本条选拔与专业先修及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-313a465a332ea0"><div><a href="https://admissions.purdue.edu/become-student/english-proficiency/">Purdue 官方 english ↗</a><p>本条英语成绩及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-72003a45cf90ef"><div><a href="https://admissions.purdue.edu/sb256/">Purdue 官方 china-review ↗</a><p>本条中国申请人的额外录取审查及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-f160b753dd3d32"><div><a href="https://admissions.purdue.edu/deadlines/first-year-college-student/">Purdue 官方 first-year-dates ↗</a><p>本条申请渠道与当前日程及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-b2144cb7703f39"><div><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2026-2027/undergraduate-tuition-and-fees-2026-2027/">Purdue 官方 international-base-fees-2026 ↗</a><p>本条2026/27 国际生基础收费及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-0066447e6741c6"><div><a href="https://admissions.purdue.edu/cost-financial-aid/scholarships/">Purdue 官方 scholarships ↗</a><p>本条奖学金身份限制及资格范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

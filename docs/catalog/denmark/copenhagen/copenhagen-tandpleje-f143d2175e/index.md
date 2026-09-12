@@ -21,12 +21,12 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Nørre Campus, Blegdamsvej 3B, 2200 København N. · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Nørre Campus, Blegdamsvej 3B, 2200 København N. · <strong>授课语言：</strong>丹麦语；部分课程可能使用英语或专业语言</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,49 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor programme</p>
 
+<p class="catalog-fact"><strong>学习内容：</strong>通过课堂、临床患者与模拟训练、实习和项目学习口腔卫生，专业本科培养与牙医学位区分。</p>
+<p class="fact-sources"><a href="#source-p-copenhagen-detail-1000">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学位和地点：</strong>目录学位：Professionsbachelor i tandpleje。地点Nørre Campus, Blegdamsvej 3B, 2200 København N.。</p>
+<p class="fact-sources"><a href="#source-p-copenhagen-detail-1000">官方依据</a></p>
+
+<p class="catalog-fact"><strong>语言安排：</strong>本科培养要求丹麦语；具体专业可能使用英语或所学外语的课程和读物。</p>
+<p class="fact-sources"><a href="#source-p-copenhagen-entry">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业先修层级：</strong>该职业本科另列高中和特定职业学历路径，后者须丹麦语C、英语C及物理C/化学C/数学C/自然科学C之一；中国学历的具体等同和quota2评估本轮未核实，不套用可换算丹麦分数条件。 以上为丹麦课程层级；中国科目和补修方案须由学校正式认定。</p>
+<p class="fact-sources"><a href="#source-p-copenhagen-detail-1000">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>职业本科申请例外：</strong>外国学历通常须3月15日中午前申请；本课程按页面列明的职业本科选拔和材料规则办理，2027日历本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-copenhagen-detail-1000">官方依据</a> · <a href="#source-p-copenhagen-foreign">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际生学费和年度缺口：</strong>非EU/EEA国籍通常须缴本科费用，符合特定丹麦居留资格者可获豁免。学校让申请人向所属学院确认费率；本轮未取得适用于2026/27或2027/28各本科的准确金额，不套用硕士、交换或短期访学生价格。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-foreign">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科奖学金：</strong>本科招生页明确学校不向外国学生提供财政支持或奖学金，并指向丹麦主管机关查询外部机会；学校另页的硕士奖学金不代表本科可申请。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-entry">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>职业方向的口径：</strong>专业页常将本科和后续硕士后的职业方向放在同页；本轮未核实具体本科毕业届次、样本及薪资就业率，职业说明不能视为本科直接执业或就业保证。</p>
+<p class="fact-sources"><a href="#source-u-copenhagen-career-example">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +89,11 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ku.dk/studier/bachelor/tandpleje)
 - [官方目录](https://www.ku.dk/studier/bachelor)
 
+<div class="catalog-source" id="source-p-copenhagen-detail-1000"><div><a href="https://www.ku.dk/studier/bachelor/tandpleje">Tandpleje ↗</a><p>课程内容、学位、教学安排及先修</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-copenhagen-entry"><div><a href="https://www.ku.dk/studies/bachelor/admission-requirements">UCPH Bachelor admission requirements ↗</a><p>丹麦语、材料与本科奖学金</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-copenhagen-foreign"><div><a href="https://www.ku.dk/studier/bachelor/ansoegning-og-optagelse/individuelle-forhold/ansoeg-med-en-ikke-dansk-eksamen">UCPH non-Danish examinations ↗</a><p>申请材料、收费及截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-entry"><div><a href="https://www.ku.dk/studies/bachelor/admission-requirements">UCPH Bachelor admission requirements ↗</a><p>丹麦语、材料与本科奖学金</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-foreign"><div><a href="https://www.ku.dk/studier/bachelor/ansoegning-og-optagelse/individuelle-forhold/ansoeg-med-en-ikke-dansk-eksamen">UCPH non-Danish examinations ↗</a><p>申请材料、收费及截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-copenhagen-career-example"><div><a href="https://www.ku.dk/studier/bachelor/medicin-koebenhavn">Medicin (København) ↗</a><p>本科及后续培养边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/denmark/copenhagen/">← 返回哥本哈根大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

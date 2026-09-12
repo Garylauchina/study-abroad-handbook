@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Bachelor of Islamic Education</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4年</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,21 +42,34 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>UM当前目录列出的本科学位：Bachelor of Islamic Education。授课条件与国际申请资格须结合下方本项目国际栏。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-115ba52b977e66">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学制：</strong>官网列4年全日制；原文另列(8 Semesters)，学期安排按学校课程表核。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-115ba52b977e66">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>国际生入口未提供：</strong>本课程Entry Requirement的International栏明确为Not Offered；英语国际栏亦未提供。本批保留学位目录，但不能据其他UM国际本科规则推定可申请。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-115ba52b977e66">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>项目入学季：</strong>课程页列第1学期10月入学，受当年项目是否开放限制。本页入学季不能当申请截止；2027具体申请日程本轮未核。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-115ba52b977e66">官方依据</a></p>
+
+<p class="catalog-fact"><strong>3月入学选项：</strong>课程页还列第2学期3月入学，是否开放以当轮项目供应为准；本轮未核2027截止。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-115ba52b977e66">官方依据</a></p>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>国际费用未提供：</strong>课程页国际费用栏为Not Available，本轮不填本地SATU费率。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-115ba52b977e66">官方依据</a></p>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>职业方向：</strong>课程页列举教学、教育、研究、咨询等可能方向。这是职业展望；本轮未取得该专业毕业调查或就业率，执业资格也须另行满足。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-115ba52b977e66">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +78,6 @@ hide:
 - [官方项目页面或项目所在目录](https://study.um.edu.my/bachelor-of-islamic-education)
 - [官方目录](https://study.um.edu.my/academy-of-islamic-studies-courses)
 
+<div class="catalog-source" id="source-p-ASREN-115ba52b977e66"><div><a href="https://study.um.edu.my/bachelor-of-islamic-education">Bachelor of Islamic Education — UM官方课程页 ↗</a><p>项目身份、培养内容、国际生先修与英语、页面费用和开学季</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/">← 返回马来亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

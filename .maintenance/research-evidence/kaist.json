@@ -1,0 +1,35 @@
+{
+  "university_id": "kaist",
+  "sources": [
+    {
+      "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+      "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/guide2027.pdf",
+      "locator": "PDF pages3–8,12"
+    },
+    {
+      "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub02",
+      "sha256": "5cbb044b943e17928220d0d864975d46f645c182375c52b02fb01741cf23194e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/eligibility.html",
+      "locator": "About Admissions"
+    },
+    {
+      "url": "https://admission.kaist.ac.kr/intl-undergraduate/support/coa",
+      "sha256": "43c79597546f4b17be41c20d0cd2634e446c944d620ad50abce4ab101c5a6a70",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/coa.html",
+      "locator": "Cost of Attendance tables"
+    },
+    {
+      "url": "https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist",
+      "sha256": "9ce1ec085c023bba31aaf9655c7e208167225a22357f041f4a40a169be6f635c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/kaist/raw/kaist-scholarship.html",
+      "locator": "Eligibility/Subsidies/Requirement"
+    },
+    {
+      "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+      "raw_file": "scratch/full-catalog/asia/kaist/raw/directory.html",
+      "locator": "Before You Apply / Into Your Interest"
+    }
+  ]
+}

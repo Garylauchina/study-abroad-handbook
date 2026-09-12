@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,59 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：AB；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-1af0efeffdf1ce">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科毕业最低学分：</strong>该页载明取得学位至少需要34个 Duke units；这里的 units 不是其他大学的学分换算。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-1af0efeffdf1ce">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主修要求最低学分：</strong>主修部分至少10个 Duke units；页面若另列共同先修（co-requisites），仍须额外满足，不以此数字代表全部本科课程。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-1af0efeffdf1ce">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程代码举例：</strong>学术要求涉及SPANISH 332、SPANISH 333、SPANISH 334、SPANISH 335、SPANISH 336、SPANISH 314A等课程。代码用于定位官方目录；可能含必修、备选或建议项，本轮未把它们统一归为必修。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-1af0efeffdf1ce">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>学历材料与申请入口：</strong>国际生无独立申请表，普通新生使用 Common Application；需高中成绩、学校报告及教师推荐，非英语原文连同正式译本提交。须选择 Trinity 文理学院或 Pratt 工程学院；本轮未取得大陆高考统一分数线。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d3941f287db06e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026–27 标化与英语：</strong>2026–27申请周期 SAT/ACT 可选，国际生没有额外标化要求。英语测试不强制，但可自愿提交 IELTS、TOEFL、DET等认可测试；不能将建议分数误当所有人的必交门槛。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d3941f287db06e">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027 入学申请日期：</strong>官方明确 ED 截止2026-11-02，RD 截止2027-01-04。ED具有约束性；专业艺术补充材料和资金申请须另查清单。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c6ca7fa3690e22">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 本科新生费用：</strong>年学费 USD73,740，估计必缴费用3,019；Pratt工程另收60。双人间住房11,560、餐食10,469，学校直接账单合计98,788–98,848。属2026/27新生预算，未作为2027新生报价。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-7ee41ef3677f2d">官方依据</a></p>
+
+<p class="catalog-fact"><strong>预算范围：</strong>书本、个人和交通另计。费用表的交通估算写明为美国境内，不能当中国往返机票；总预算仍随学生实际情况变化。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-7ee41ef3677f2d">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生经济资助：</strong>国际生申请时选择需要资助者在单独录取池评估；以不需资助身份获录取者，整个本科期间不能再申请该资助。学校为国际生给四年资助安排，须按具体资助流程办理。两页面ED资助日期并不一致，本轮未把其中一个直接设为2027最终截止。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d2ad75a46ca80a">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +103,10 @@ hide:
 - [官方项目页面或项目所在目录](https://undergraduate.bulletins.duke.edu/pages/4hvjE9xN4CL5b4zLlUU8)
 - [官方目录](https://undergraduate.bulletins.duke.edu/allprograms/all)
 
+<div class="catalog-source" id="source-p-USBENR-1af0efeffdf1ce"><div><a href="https://undergraduate.bulletins.duke.edu/pages/4hvjE9xN4CL5b4zLlUU8">Spanish — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-d3941f287db06e"><div><a href="https://admissions.duke.edu/apply/">duke 官方 apply ↗</a><p>本条学历材料与申请入口及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-c6ca7fa3690e22"><div><a href="https://admissions.duke.edu/counselors/">duke 官方 deadlines ↗</a><p>本条2027 入学申请日期及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-7ee41ef3677f2d"><div><a href="https://financialaid.duke.edu/how-aid-calculated/cost-attendance/">duke 官方 tuition ↗</a><p>本条2026/27 本科新生费用及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-d2ad75a46ca80a"><div><a href="https://admissions.duke.edu/financial-support/">duke 官方 aid ↗</a><p>本条国际生经济资助及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/duke/">← 返回杜克大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

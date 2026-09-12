@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Psychology</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4 Years Full-Time</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4年全日制</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,75 @@ hide:
 
 <p><strong>条目类型：</strong>undergraduate programme/major</p>
 
+<p class="catalog-fact"><strong>专业身份与学制：</strong>学位：B.A. Honours Bachelor Degree (NFQ Level 8)；学制：4年全日制。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-105">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程与培养路径：</strong>学习心理学理论、研究设计和统计评估，使用Python进行分析；结合社会、发展、认知、脑与行为及实验训练。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-105">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本专业英语等级：</strong>本页要求Band B；参照同校英语政策。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-105">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：中国高中/高考路径：</strong>持中国高中毕业证、平均成绩至少80%，并有高考成绩者可申请；录取逐案审查，仍受专业先修及名额限制。未参加高考者可考虑国际预科；A-level、IB等按各自资格要求办理，不能把其单科分数直接换成高考要求。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-china">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：国际预科：</strong>中国页列高二学年平均85%或高三平均80%，均需至少五门学术科目及相关关键科目。完成预科并达到指定成绩才可升所选学位方向；医学、牙科、音乐和戏剧还需通过面试。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-china">官方依据</a> · <a href="#source-u-trinity-dublin-foundation">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：英语证明：</strong>多数专业用Band B：IELTS Academic总分6.5、各项6.0；Band C一般为总分7.0、各项6.5。成绩须在开课前两年内签发。具体专业另有说明时须按专业页核查。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-english">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>2026非EU申请参考：</strong>本页Non-EU申请链接列截止：01/FEB/2026，均已结束。2027准确截止本轮未取得。</p>
+<p class="fact-sources"><a href="#source-p-trinity-dublin-program-105">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：身份与渠道：</strong>普通非欧盟收费身份本科从课程页Non-EU申请链接直接进入Trinity在线系统，欧盟收费身份一般经CAO。身份按居住等正式规则评定，并非仅看护照；非欧盟身份接受录取后通常在该学程内保持该分类。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-fee-status">官方依据</a> · <a href="#source-u-trinity-dublin-apply">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027本科与预科开放：</strong>国际本科总页明确：2027年9月入学申请将在2026年11月开放；国际预科另在2026年10月重开2027入学申请。各专业2027准确截止日尚未取得，不沿用旧总页2025或当前课程2026截止。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-international">官方依据</a> · <a href="#source-u-trinity-dublin-foundation">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：2026/27非欧盟首年费用参考：</strong>官网2026/27首年表例如：Global Business EUR20,630；多数商科语言及人文项目EUR22,580；工程/计算机及多类科学EUR29,570；临床言语语言EUR41,210。医学和牙科仅标最高EUR60,000，不是统一确定报价。联合荣誉组合、校际联合与硕士第五年须逐项核对，2027/28本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>同校共用：申请费与附加费：</strong>普通直接申请每个课程入口收EUR55申请费；非欧盟本科接受录取时需押金，可抵总费用。SLC须另付：2026/27表中四年全日制本科档EUR212.75，其他学制应按对应档核算，不将此金额一概套用。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-fee-rules">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026/27中国Claddagh奖学金：</strong>须为中国公民、通常居住中国、非欧盟收费身份并持一年级全日制本科offer；首年学费减免EUR2,000—5,000。医学、牙科、表演、工程、自然科学及计算机统计被排除。2026年5月31日截止已过，2027条件本轮未取得；Global Excellence另明确不接受中国学生。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-claddagh">官方依据</a> · <a href="#source-u-trinity-dublin-global-scholarship">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026/27中国Chiu/Ip奖学金：</strong>中国公民及永久居民、非欧盟收费、直接本科录取者可竞争每年EUR5,000、四年合计EUR20,000减免；预科升学、医学、校际联合学位及已有其他奖项者被排除。2026年3月31日截止已过，2027条件本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-china-scholarship">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>同校共用：就业调查口径：</strong>爱尔兰HEA Graduate Outcomes调查在毕业九个月后进行，当前官方入口列2024届报告。全国、全校和具体专业统计不能混用；本轮尚未核实Trinity各本科学位可比的就业率和薪资，课程职业介绍不作调查结果。</p>
+<p class="fact-sources"><a href="#source-u-trinity-dublin-hea-outcomes">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +115,18 @@ hide:
 - [官方项目页面或项目所在目录](https://www.tcd.ie/courses/undergraduate/courses/psychology/)
 - [官方目录](https://www.tcd.ie/courses/undergraduate/a-z-of-ug-courses/)
 
+<div class="catalog-source" id="source-p-trinity-dublin-program-105"><div><a href="https://www.tcd.ie/courses/undergraduate/courses/psychology/">Psychology ↗</a><p>学位结构、课程、先修与本页申请链接</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-china"><div><a href="https://www.tcd.ie/study/country/china/">China entry requirements ↗</a><p>中国学历与预科</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-english"><div><a href="https://www.tcd.ie/study/english-language-requirements/">English language requirements ↗</a><p>Band B/C与有效期</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-fee-status"><div><a href="https://www.tcd.ie/academicregistry/fees-and-payments/eu-eligibility-fees/">EU fee eligibility ↗</a><p>收费身份与申请渠道</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-apply"><div><a href="https://www.tcd.ie/study/international/how-to-apply/">How to apply ↗</a><p>直接申请程序；页面含2025日期不作2027依据</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-international"><div><a href="https://www.tcd.ie/study/international/">International applicants ↗</a><p>2027开放月份</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-foundation"><div><a href="https://www.tcd.ie/study/international/foundation-programme/howitworks.php">Foundation programme: how it works ↗</a><p>2027预科开放及升学条件</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-fees"><div><a href="https://www.tcd.ie/courses/undergraduate/fees/">Undergraduate fees 2026/27 ↗</a><p>首年非欧盟费用</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-fee-rules"><div><a href="https://www.tcd.ie/academicregistry/fees-and-payments/what-fees-do-I-need-to-pay/">Tuition and other charges ↗</a><p>申请费、押金与年度附加费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-claddagh"><div><a href="https://www.tcd.ie/study/international/scholarships/undergraduate/chinaug.php">China Claddagh Undergraduate Scholarship 2026/27 ↗</a><p>中国奖学金资格、金额与期限</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-china-scholarship"><div><a href="https://www.tcd.ie/study/international/scholarships/undergraduate/dr-jonathan-chiu-and-dr-margaret-sau-sheung-ip/">Chiu and Ip Undergraduate Scholarship 2026/27 ↗</a><p>中国直入奖学金</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-global-scholarship"><div><a href="https://www.tcd.ie/study/international/scholarships/undergraduate/geug.php">Global Excellence Undergraduate Scholarship 2026/27 ↗</a><p>中国申请者不适用</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-trinity-dublin-hea-outcomes"><div><a href="https://hea.ie/statistics/graduate-outcomes-data-and-reports/">HEA Graduate Outcomes data and reports ↗</a><p>调查定义与统计边界</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/ireland/trinity-dublin/">← 返回都柏林圣三一大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

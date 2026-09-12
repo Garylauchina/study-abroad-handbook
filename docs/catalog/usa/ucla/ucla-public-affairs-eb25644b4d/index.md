@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,17 +40,50 @@ hide:
 
 <p>Public Affairs (B.A.)</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录收录 Public Affairs（BA）。本轮尚未完成该独立项目课程、费用及毕业去向的逐项核对；学校通用规则另列。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-a195bccf13668f">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>新生与第二学位限制：</strong>完成中学后尚未在大学常规学期注册者可按新生申请；已有学士学位者不获 UCLA 本科录取，不能隐瞒大学记录改按新生。转学生须满足独立的高年级转入资格。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-238bd940a08671">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国普高与 A-level：</strong>UC中国说明要求按原记录申报初三至高三课程和成绩；A-level体系申请须至少5门IGCSE/GCSE/O-level及3门学术A-level。不同体系材料按相应分支提交，本轮未把这些资格改成中国高考最低分。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-1cf30aaae7d07f">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语与 SAT/ACT：</strong>UCLA不将SAT/ACT用于录取或奖学金评估。英语授课经历不满足豁免者须考英语；竞争力水平为新TOEFL5且小分5、旧TOEFL高于100且小分高于24、IELTS7.5或DET135。分数为竞争力描述，不应写成保证录取标准。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-238bd940a08671">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>申请材料阶段：</strong>使用 UC 申请；课程及考试先准确自报，录取后再按清单提交学校记录、国家考试证书及译文。所读 UCLA 页未列2027截止日期，本轮不从其他UC校区直接推定其最终安排。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-238bd940a08671">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026年7月更新的费用参考：</strong>九个月非居民本科预算：University Fees USD16,430另加非居民补充学费39,270；住校总预算84,770、校外公寓87,056，含表列保险3,885（合格保险可申请豁免）。该页为2026年7月更新参考，2027新生学费未独立取得。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-446c1628a5e653">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际本科资助：</strong>UCLA明确不向非美国公民／永久居民本科生提供奖学金或财务资助；须准备教育、生活与保险费用。国际页的财力证明示例与最新费用页预算不同，本轮采用费用页具体预算，不把旧示例当实付学费。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-238bd940a08671">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -63,5 +96,9 @@ hide:
 - [官方项目页面或项目所在目录](https://newstudents.ucla.edu/studyarea/?id=418)
 - [官方目录](https://registrar.ucla.edu/faculty-staff/courses-and-programs/major-and-minor-codes/undergraduate-majors-and-premajors)
 
+<div class="catalog-source" id="source-p-USBENR-a195bccf13668f"><div><a href="https://registrar.ucla.edu/faculty-staff/courses-and-programs/major-and-minor-codes/undergraduate-majors-and-premajors">Public Affairs — 官方本科目录 ↗</a><p>专业名称与目录入口；本轮未取得独立课程完整详情</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-238bd940a08671"><div><a href="https://admission.ucla.edu/apply/international-applicants">ucla 官方 international ↗</a><p>本条新生与第二学位限制及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-1cf30aaae7d07f"><div><a href="https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/freshman-requirements-country.html">ucla 官方 china ↗</a><p>本条中国普高与 A-level及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-446c1628a5e653"><div><a href="https://admission.ucla.edu/tuition-aid/tuition-fees">ucla 官方 tuition ↗</a><p>本条2026年7月更新的费用参考及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/ucla/">← 返回加利福尼亚大学洛杉矶分校</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

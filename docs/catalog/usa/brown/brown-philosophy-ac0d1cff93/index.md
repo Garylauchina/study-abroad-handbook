@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,17 +38,62 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor concentration</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：A.B.；资料期为2026-27。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-f7cbc50090dc01">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程表举例：</strong>目录所列课程包括：Ancient Greek Philosophy；Plato；Aristotle；Early Modern Philosophy；Locke, Berkeley, Hume and Others；17th Century Continental Rationalism。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-f7cbc50090dc01">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主修要求量：</strong>本 A.B. 路径课程表总计10个 Brown 课程学分；这是主修／concentration 要求，不是整个本科毕业总学分。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-f7cbc50090dc01">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
 已核对官方目录；具体招生条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>高中与国际课程：</strong>入学时须完成中学或同等学历，通常为12年基础教育；中国普高材料按本国体系整体评估，本轮未取得高考固定门槛。A-level 等未放榜者由学校提交预估分，最终成绩显著不符可撤销录取。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-4bee8881e0cd42">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT／ACT：</strong>新生须提交 SAT 或 ACT；Brown 不设统一最低录取分数，成绩结合教育背景整体评估。英语考试不能取代学术标化。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-f2fc400b00cc53">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语建议标准：</strong>非英语第一语言、家庭主要语言或完整中学授课语言者，学校强烈建议提交英语考试。通常期望 IELTS8.0、DET130；TOEFL旧制105，官网将2026年1月及之后新制列为5.5。这是所列一般期望，不能改写为对所有国际生无例外的硬性考试要求。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-4bee8881e0cd42">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>申请与日程：</strong>2026–27申请周期通过 Common Application 及 Brown 补充问题申请，申请费 USD80或获批豁免。页面现列 ED 11月1日、RD 1月5日。PLME 与 Brown|RISD 双学位另有专门文书。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-9ac8e1ff2d917a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>考试时间：</strong>ED 考试应在最后一次10月考期前完成，RD应在最后一次12月考期前完成；提交时间以收到完整成绩的规定为准。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-f2fc400b00cc53">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 学费：</strong>董事会公布2026/27本科年学费 USD74,568；标准住宿10,710、餐食8,754。另有学生资源、健康服务、活动和体育费用；这是2026/27而非2027入学报价。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-d37af21d84c1c5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>费用口径与缺口：</strong>费用页还列新生首次学术记录费 USD100，保险和个别费用不含在标准预算内；书本补助对象不同，未获该补助者另按书本用品预算。该页两个总额存在10美元不一致，本轮不采用未解释总额作为完整预算。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-50a0f9bec1847c">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际新生助学金：</strong>自2024–25申请周期起，国际新生实行 need-blind；对申请资助且获录取者满足学校认定的全部经济需要。金额由家庭情况核定，不能理解为人人免学费；假期和暑期费用不在该说明的覆盖范围内。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-4bee8881e0cd42">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
@@ -61,5 +106,11 @@ hide:
 - [官方项目页面或项目所在目录](https://bulletin.brown.edu/the-college/concentrations/phil/)
 - [官方目录](https://bulletin.brown.edu/the-college/concentrations/)
 
+<div class="catalog-source" id="source-p-USBENR-f7cbc50090dc01"><div><a href="https://bulletin.brown.edu/the-college/concentrations/phil/">Philosophy — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-4bee8881e0cd42"><div><a href="https://admission.brown.edu/ask/international-applicants">brown 官方 international ↗</a><p>本条高中与国际课程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-f2fc400b00cc53"><div><a href="https://admission.brown.edu/first-year/standardized-tests">brown 官方 testing ↗</a><p>本条SAT／ACT及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-9ac8e1ff2d917a"><div><a href="https://admission.brown.edu/apply/how-apply">brown 官方 apply ↗</a><p>本条申请与日程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-d37af21d84c1c5"><div><a href="https://www.brown.edu/news/2026-05-27/fiscal-year-2027-budget">brown 官方 year-news ↗</a><p>本条2026/27 学费及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-50a0f9bec1847c"><div><a href="https://finaid.brown.edu/estimate-cost-aid/cost">brown 官方 tuition ↗</a><p>本条费用口径与缺口及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/brown/">← 返回布朗大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -270,6 +270,389 @@
       "bytes": 97077,
       "raw_file": "scratch/full-catalog/us-a/columbia/gs-degree.html",
       "meta_file": "scratch/full-catalog/us-a/columbia/gs-degree.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/african-american-studies/",
+      "sha256": "e7460998c45aab01c55654dad481d546c9b784243c462236f612cb1bffd75a53",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-african-american-studies.html",
+      "bytes": 89997
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/american-studies/",
+      "sha256": "3cb7b9415fb9506cdb5464a4cdaea4d1da4019395ec6c1749d47d931c9f22a69",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-american-studies.html",
+      "bytes": 56924
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/ancient-studies/",
+      "sha256": "850cef72b64bb6472ecdbff5d721486a8a9de1acead8a21aea41861b4acff9b3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-ancient-studies.html",
+      "bytes": 60445
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/anthropology/",
+      "sha256": "6f9e4c60eaccc85d92b8fa102edb6c4a623b748b7a47e1ed8fdddc794ba70550",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-anthropology.html",
+      "bytes": 256891
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/archaeology/",
+      "sha256": "74f0a0fd14c496604a9f92f705f5b00f6841e9177877ba59273f7f8dbf47fdb3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-archaeology.html",
+      "bytes": 78118
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/architecture/",
+      "sha256": "b1b87478fcd8695ad01dd9cd02f26c5d378d885291e465641e281e972c85cbe3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-architecture.html",
+      "bytes": 146408
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/art-history-archaeology/",
+      "sha256": "3eec0ca80e4a72e0b2dadcd05e22949b6015c5fda44b1f003fe0e05cf334dee7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-art-history-archaeology.html",
+      "bytes": 158083
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/astronomy/",
+      "sha256": "aff45b35faf5c41568951dd065053f3287a19103d3c69a82dd1014430dfaab1d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-astronomy.html",
+      "bytes": 156066
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/biological-sciences/",
+      "sha256": "c0c5af0d8c980b152826942d170425ff22855d49bed0e9368e8a300a30f35539",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-biological-sciences.html",
+      "bytes": 336275
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/business/",
+      "sha256": "7bdf61e1046a93cbae445ff08c5ea2459071038c6b94b10f0f1ea45c0f7097e5",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-business.html",
+      "bytes": 68376
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/chemistry/",
+      "sha256": "c4afad2317d97bcbe32e3635f48d378b06bd2e5b26bf6c2640db476f2196a772",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-chemistry.html",
+      "bytes": 296073
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/classics/",
+      "sha256": "5966aafa5fdc55983ed797a62f1cac4020e57601df3d192de506dbebf2bb4f3e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-classics.html",
+      "bytes": 248688
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/cognitive-science/",
+      "sha256": "f23d5c52d9c25574f18ddadd1f0eeb500040e88eedfae3cd5226928a52b3c9a7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-cognitive-science.html",
+      "bytes": 373320
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/comparative-literature-society/",
+      "sha256": "7ffbacfbfe960255485972d7129625b6200a26dce0f2649a4e70f2119c2ed91c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-comparative-literature-society.html",
+      "bytes": 109985
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/",
+      "sha256": "561f23c713cc162d4a10e59d7f8ff965e73084b8b46043ac86cdcbe7b7977b0a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-computer-science.html",
+      "bytes": 310289
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/creative-writing/",
+      "sha256": "bf24c88dd977e6b1276a6a6e29243712bef01f08b30acb02682cb6f33877e40f",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-creative-writing.html",
+      "bytes": 84884
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/dance/",
+      "sha256": "72383075f95781e9282fefb7fbdcba3d1e6bba695a773910b926db01ada1118d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-dance.html",
+      "bytes": 205788
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/drama-theatre-arts/",
+      "sha256": "3e32852d2aaa6b64373ef110a8c20c02afcce9666a28b0bea68272e5cfdf7786",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-drama-theatre-arts.html",
+      "bytes": 169187
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/earth-environmental-sciences/",
+      "sha256": "30c4af67252babdea4c5e527b4bcd4cb6df9ddd44ccfad96b3f8929e76888658",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-earth-environmental-sciences.html",
+      "bytes": 291924
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/east-asian-languages-cultures/",
+      "sha256": "f010a974f5d95dbee1f1c4d1bf8d097fbaf4b63fe1d423ae28a3a80136be0ead",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-east-asian-languages-cultures.html",
+      "bytes": 294908
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/ecology-evolution-environmental-biology/",
+      "sha256": "8138a2924502341d885c1a72f93da5125ac742eb34ccf0387f78253166a9345e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-ecology-evolution-environmental-biology.html",
+      "bytes": 176263
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/economics/",
+      "sha256": "ab5796ae5b0c0b2c46f8e3774b33e6ea863fa5df7c824b0f6d1f911a52c3c94e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-economics.html",
+      "bytes": 322334
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/education/",
+      "sha256": "1da55ae00808f523176a342f3f1b6fabb961a7fa24d488992c290ea272461de9",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-education.html",
+      "bytes": 137949
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/english-comparative-literature/",
+      "sha256": "f351f5643fef83cb8cac28e7616de52ee65331def2becd57cdbd24c6717851be",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-english-comparative-literature.html",
+      "bytes": 282523
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/ethnicity-race-studies/",
+      "sha256": "79449f96cd643a8b652987596bde00b690165d62b0169518c578e20b1e22658b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-ethnicity-race-studies.html",
+      "bytes": 131811
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/film-studies/",
+      "sha256": "7e5cafee579ca2528b9d3266b58914fd4049d440e15372509dc1ecdbc42827da",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-film-studies.html",
+      "bytes": 111278
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/french-romance-philology/",
+      "sha256": "0d2ba7de1873972f31d6c644b321a26a1aa88cb2871468e734ccabf15567780c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-french-romance-philology.html",
+      "bytes": 136938
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/germanic-languages/",
+      "sha256": "2dae4f46ce8231d9a314a59ccb316a2b75a415cd324d6e9e64e67d8d5353b9c5",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-germanic-languages.html",
+      "bytes": 179594
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/global-affairs-public-policy/",
+      "sha256": "5d56aea2dbd015af7f02006b603a6c5bab0491d44c7a92f127035871e0948024",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-global-affairs-public-policy.html",
+      "bytes": 66984
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/history/",
+      "sha256": "f1e4d1545e074c4344937bed42af2bb08f20aaed37fb89391a8e170680584d49",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-history.html",
+      "bytes": 334569
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/human-rights/",
+      "sha256": "f16604bd8c45516ea70ab577ab4c3b4c035421021f337962e304d93d0bb7b1bf",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-human-rights.html",
+      "bytes": 103471
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/italian/",
+      "sha256": "f820f22e3b83138c725ce1fce4221bdba112c82b89762a70321ee854ccbecd0a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-italian.html",
+      "bytes": 178882
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/jazz-studies/",
+      "sha256": "61b6941286c9b12e06ffed844aa62ea4fd498d57d97b41201af9632ccea05180",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-jazz-studies.html",
+      "bytes": 46845
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/jewish-studies/",
+      "sha256": "ccf7cc8d8ad793b82f4690df636f6ab4164180625a06e5ed3cf6094006c8d2cf",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-jewish-studies.html",
+      "bytes": 157586
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/language-resource-center/",
+      "sha256": "a1735613663d2b4801a715b8537fbb4bb153dc9ca1d37619a81daf301168c477",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-language-resource-center.html",
+      "bytes": 141247
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/latin-american-caribbean-studies/",
+      "sha256": "6b56e3e3e647c1dc74713cbeec442e88401349cf56d68d9260051f2e32e602fa",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-latin-american-caribbean-studies.html",
+      "bytes": 85439
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/latin-american-iberian-cultures/",
+      "sha256": "34918a6b998f7400737d4e24d046e5b79118b63bfcd92f49f003b9d074c43de7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-latin-american-iberian-cultures.html",
+      "bytes": 173381
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/linguistics/",
+      "sha256": "f156fc8e499212780a3b70a28c2b1236854eccb6bf8826613013857ae58f2373",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-linguistics.html",
+      "bytes": 73052
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/mathematics/",
+      "sha256": "7894b21c97f28a5484dda227f8927f91c0d5c4b255f28e0aea45e9d0bddd36c4",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-mathematics.html",
+      "bytes": 291726
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/medieval-renaissance-studies/",
+      "sha256": "4238aa3bf4e313cd6e94165b21bcdc27b5ae4d525fbf48e1989486423b5b4eab",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-medieval-renaissance-studies.html",
+      "bytes": 32415
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/middle-eastern-south-asian-african-studies/",
+      "sha256": "5a6d9ba6ec32c92eceffd20edea53f785409e41e5d8ee7f42584325e3e43d84c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-middle-eastern-south-asian-african-studies.html",
+      "bytes": 201179
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/music/",
+      "sha256": "505d24a1914221d5a81f416b1f36a482242598e48d4ebf5f4aa75a6b8b331c26",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-music.html",
+      "bytes": 468179
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/philosophy/",
+      "sha256": "0892cd70f50a2de74e4517aa927f2a0e477d6961b10c397262d58a4b7675077b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-philosophy.html",
+      "bytes": 134927
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/physical-education-intercollegiate-athletics/",
+      "sha256": "99c067a2ee10f2cc04529a9dfb62e4971f57f74a2f4f7bc44d19f6eb192bcc0c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-physical-education-intercollegiate-athletics.html",
+      "bytes": 103245
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/physics/",
+      "sha256": "186b3be70f1da8941e07341be87c0bd37c00e158d36baf8a0a4d2e0da72450b3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-physics.html",
+      "bytes": 216807
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/political-science/",
+      "sha256": "ce91e1487ddeaf9dd21805df19b2aea80c6229433a88d4f61fba7603d659bcf1",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-political-science.html",
+      "bytes": 240728
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/psychology/",
+      "sha256": "6fff14473e11e0b01b2beddeba66573b24798053e5749ada0b067bfb528453b7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-psychology.html",
+      "bytes": 290350
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/public-health/",
+      "sha256": "c0398c07e0d23c146cdc9926917066b9f7cd5f039144ec856813d48e933e1a08",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-public-health.html",
+      "bytes": 58070
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/regional-studies/",
+      "sha256": "d2391e6a52964d8fb866056f06f6f81250e5db46e7b43e613bcb5442ab479c26",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-regional-studies.html",
+      "bytes": 28244
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/religion/",
+      "sha256": "1a8116b47fff01e664fff3ed478303d7b5691d38e03c418f8d06fb998e142484",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-religion.html",
+      "bytes": 210269
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/history-philosophy-science/",
+      "sha256": "4be07d5a75a940a7a76b8acee44d32dd2718db202659e75e5740efe97b27515c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-history-philosophy-science.html",
+      "bytes": 42149
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/slavic-languages/",
+      "sha256": "847ebafce84780367f6acd7b8ade1cce55d4c91904b6b1bb24716885611ae843",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-slavic-languages.html",
+      "bytes": 203320
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/sociology/",
+      "sha256": "c768335baaa08a1c8425a9ffc3a857360910525640dc2ed5436352ea5e9d3688",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-sociology.html",
+      "bytes": 113939
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/statistics/",
+      "sha256": "e8d35d333fcf3fbeb79c2a96a9f28c8316546225b0e94cf1336eea298e45b040",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-statistics.html",
+      "bytes": 166465
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/sustainable-development/",
+      "sha256": "5e358606391373d837c82932828bb12c4334d21f1f37cc1153f28baacb9c53a4",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-sustainable-development.html",
+      "bytes": 234876
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/urban-studies/",
+      "sha256": "2aaf08e1f7253bbfaaaa400c1b689c4605a7b730a0697edc30081d0499766dd9",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-urban-studies.html",
+      "bytes": 102816
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/visual-arts/",
+      "sha256": "107eabed0cc50e71cabae441f74b8101758cc6d2f909313b9d22a5b9aea26b83",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-visual-arts.html",
+      "bytes": 165980
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/womens-gender-studies/",
+      "sha256": "4986ab9326d2f7e2bc878ddb2b272c931fa3ba989c475b6a477a5bd93cd3509b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-womens-gender-studies.html",
+      "bytes": 132210
     }
-  ]
+  ],
+  "college_expansion_manifest": {
+    "university_id": "columbia",
+    "status": "partial",
+    "count": 183,
+    "official_total": null,
+    "checked_at": "2026-09-12",
+    "scope": "Original GS and Engineering records retained; full 58-page Columbia College departmental Bulletin traversed and majors distinguished from minors/special programs. Two newly evidenced GS majors added.",
+    "source_period": "2026-2027 Bulletin",
+    "discovery_source_url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/",
+    "pagination_evidence": {
+      "columbia_college_department_links": 58,
+      "department_pages_read": 58,
+      "pagination": false,
+      "distinct_columbia_college_rows": 81,
+      "legacy_standalone_rows": 2,
+      "named_major_options": 1,
+      "gs_new_rows": 2,
+      "old_records_retained": 100
+    },
+    "filter_rules": [
+      "Read every department page linked from the official College directory, including pages with minors only. Select explicit major requirements or an explicit major description; never infer a major from a department name.",
+      "Deduplicate interdepartmental majors listed in two or more departments; retain all identity evidence URLs.",
+      "Creative Writing genre options and five current Classics tracks are named_options within their major, not separate degrees.",
+      "Hispanic Studies with Specialization retained as a named_major_option because the department explicitly describes two majors/options.",
+      "Retain old Ancient Studies and Classical Studies standalone pathways with legacy eligibility; do not offer them as new 2027 standalone entries.",
+      "Exclude minors, old concentrations, special concentrations, second-program-only business/public-health/jazz teaching programs and MD/JD/MA continuations.",
+      "Columbia College B.A. entrance, GS B.A. entrance and Engineering B.S. entrance remain distinct."
+    ],
+    "gaps": [
+      "College headline program-list site returns HTTP403; completeness evidence is traversal of the full official 58-page departmental Bulletin, with selection per department in department-evidence.json.",
+      "University-wide status remains partial: Barnard independent admissions/affiliated scope has not been reconciled, and old Engineering 17-major marketing count versus catalog variants remains unresolved.",
+      "Original GS list is retained, plus two newly evidenced shared majors; GS department-by-department reconciliation for other newly changed entries is not yet complete.",
+      "Some pages retain French/French-and-Francophone and regional-program labels without a single unambiguous new-entry cutover; legacy/current details must be checked when applying."
+    ]
+  }
 }

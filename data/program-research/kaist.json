@@ -1,0 +1,1233 @@
+{
+  "university_id": "kaist",
+  "programs": [
+    {
+      "raw_key": "Physics",
+      "name_en": "Physics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://natsci.kaist.ac.kr/eng/sub0201",
+      "university_id": "kaist",
+      "inventory_id": "kaist-physics-2419871986",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：凝聚态、光学、等离子体、高能理论、复杂系统及生物物理等研究领域。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Physics description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Matematical Sciences",
+      "name_en": "Matematical Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://natsci.kaist.ac.kr/eng/sub0202",
+      "university_id": "kaist",
+      "inventory_id": "kaist-matematical-sciences-cc7733c3d1",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：数学基础与研究训练，并与自然科学、工程及经济等领域交叉。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Matematical Sciences description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Chemistry",
+      "name_en": "Chemistry",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://natsci.kaist.ac.kr/eng/sub0203",
+      "university_id": "kaist",
+      "inventory_id": "kaist-chemistry-bc0b7fadb5",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：以物理原理解释化学转变，并连接生命过程与材料过程，强调跨学科化学教育。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Chemistry description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Mechanical Engineering",
+      "name_en": "Mechanical Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=74",
+      "university_id": "kaist",
+      "inventory_id": "kaist-mechanical-engineering-1cf311b5df",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：围绕机械技术与产业应用培养工程能力；该招生说明未给完整课程表。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Mechanical Engineering description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Aerospace Engineering",
+      "name_en": "Aerospace Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=75",
+      "university_id": "kaist",
+      "inventory_id": "kaist-aerospace-engineering-9e987282eb",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：航空航天系统设计、结构动力学、空气与流体动力学、推进燃烧及飞行动力学。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Aerospace Engineering description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Electrical Engineering",
+      "name_en": "Electrical Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=76",
+      "university_id": "kaist",
+      "inventory_id": "kaist-electrical-engineering-f656749a23",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：系统、电子器件和智能系统等领域的教育与研究。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Electrical Engineering description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Computer Science",
+      "name_en": "Computer Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=77",
+      "university_id": "kaist",
+      "inventory_id": "kaist-computer-science-8e385cf2b1",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：以人为中心的计算，涉及硬件软件、人机关系及数据驱动的社会计算。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Computer Science description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Civil & Environmental Engineering",
+      "name_en": "Civil & Environmental Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=84",
+      "university_id": "kaist",
+      "inventory_id": "kaist-civil-environmental-engineering-02a536a240",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：住房、产业与交通基础设施，自然与建筑环境保护及资源开发等领域。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Civil & Environmental Engineering description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Bio & Brain Engineering",
+      "name_en": "Bio & Brain Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=85",
+      "university_id": "kaist",
+      "inventory_id": "kaist-bio-brain-engineering-49fd408108",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：将生物工程与脑工程结合，研究相关技术与人类生活质量。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Bio & Brain Engineering description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Industrial Design",
+      "name_en": "Industrial Design",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=86",
+      "university_id": "kaist",
+      "inventory_id": "kaist-industrial-design-11dc9682ab",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：结合工程技术和人类行为研究进行设计，关注用户需求与创新产品。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Industrial Design description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Industrial & Systems Engineering",
+      "name_en": "Industrial & Systems Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=89",
+      "university_id": "kaist",
+      "inventory_id": "kaist-industrial-systems-engineering-e4dc63c861",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：系统分析、问题求解、系统设计与集成，涵盖制造、服务和复杂工程系统。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Industrial & Systems Engineering description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Chemical & Biomolecular Engineering",
+      "name_en": "Chemical & Biomolecular Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=78",
+      "university_id": "kaist",
+      "inventory_id": "kaist-chemical-biomolecular-engineering-9264fea890",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：化工过程与生物分子工程，面向产品制造、能源和环境等问题。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Chemical & Biomolecular Engineering description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Materials Science & Engineering",
+      "name_en": "Materials Science & Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=79",
+      "university_id": "kaist",
+      "inventory_id": "kaist-materials-science-engineering-4032c64e9c",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：研究材料性能与功能，并把材料基础知识应用于实际工艺。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Materials Science & Engineering description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Nuclear & Quantum Engineering",
+      "name_en": "Nuclear & Quantum Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://engineering.kaist.ac.kr/education/departmentDetail?idx=87",
+      "university_id": "kaist",
+      "inventory_id": "kaist-nuclear-quantum-engineering-a12393b491",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "学科范围",
+            "text": "官方本科招生介绍的范围：本科培养涉及核能、辐射、量子技术的基础科学与工程应用。这是学科说明，本轮未核完整必修、学分和专业毕业调查。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ],
+            "extraction_locator": "Nuclear & Quantum Engineering description"
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "partially_enriched"
+    },
+    {
+      "raw_key": "Business and Technology Management",
+      "name_en": "Business and Technology Management",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "university_id": "kaist",
+      "inventory_id": "kaist-business-and-technology-management-a489f6bee1",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "directory_only"
+    },
+    {
+      "raw_key": "Biological Sciences",
+      "name_en": "Biological Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "university_id": "kaist",
+      "inventory_id": "kaist-biological-sciences-622772b938",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "directory_only"
+    },
+    {
+      "raw_key": "Brain & Cognitive Sciences",
+      "name_en": "Brain & Cognitive Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "university_id": "kaist",
+      "inventory_id": "kaist-brain-cognitive-sciences-ce9a2b8537",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "directory_only"
+    },
+    {
+      "raw_key": "School of Transdisciplinary Studies",
+      "name_en": "School of Transdisciplinary Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "university_id": "kaist",
+      "inventory_id": "kaist-school-of-transdisciplinary-studies-b0970b7881",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录身份",
+            "text": "KAIST本科招生目录列此学科／学校；新生先未定专业入学。学位正式名称未从本条目录取得。",
+            "source_ids": [
+              "ASREN-eb7346b54e3cc7"
+            ]
+          },
+          {
+            "label": "国际本科授课语言",
+            "text": "2027国际本科简章说明国际生沟通与教学语言为英语，且多数课程完全英语授课；不将“多数”扩大为每一门课程。",
+            "source_ids": [
+              "ASREN-5b6c4de709b7df"
+            ],
+            "extraction_locator": "PDF pages3 and8"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "ASREN-eb7346b54e3cc7",
+          "title": "KAIST本科招生学科说明",
+          "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+          "checked_at": "2026-09-12",
+          "supports": "各学科领域说明，不是完整课程表或毕业统计",
+          "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+          "locator": "Before You Apply / Into Your Interest"
+        },
+        {
+          "id": "ASREN-5b6c4de709b7df",
+          "title": "KAIST国际本科2027春秋招生简章",
+          "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+          "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+          "locator": "PDF pages3–8,12"
+        }
+      ],
+      "display_fields": {
+        "language": "英语为主"
+      },
+      "research_status": "directory_only"
+    }
+  ],
+  "profile": {
+    "university_id": "kaist",
+    "checked_at": "2026-09-12",
+    "scope": "KAIST本部国际本科新生；项目名称不是直接分专业录取入口。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "国籍与毕业时间",
+          "text": "国际本科申请者不得持韩国国籍（含双重国籍），且须双亲均非韩国籍，或符合韩裔申请者全部中小学教育在韩国境外完成的另一条路径。2027春须于2月28日前高中毕业，秋季于8月31日前毕业。",
+          "source_ids": [
+            "ASREN-5b6c4de709b7df"
+          ]
+        },
+        {
+          "label": "中国高中／国际课程材料",
+          "text": "2027须至少一项正式标准化成绩，可为SAT/ACT/AP/IB/A-Level或国家高中毕业／大学入学考试；须有数学科学能力证据。高中毕业／大学入学考试成绩还需一页考试背景说明。IB/A-Level可由学校确认预测成绩，后补实际分；本轮未取得专属高考录取分数线。",
+          "source_ids": [
+            "ASREN-5b6c4de709b7df"
+          ]
+        },
+        {
+          "label": "英语是必交，分数为建议值",
+          "text": "除获英语国家国籍或全高中英语授课证明等豁免者，须交英语考试。官网建议IELTS6.5；TOEFL旧制83、新制4.5（2026-01-21起），这些是recommended而非保证录取线。不接受DET、ITP及居家／线上考试版本。",
+          "source_ids": [
+            "ASREN-5b6c4de709b7df"
+          ]
+        },
+        {
+          "label": "入学后选专业",
+          "text": "新生按未定专业入学；完成大一后可选择专业，官网注明无院系名额配额。国际生不设转学制，已有大学经历仍按新生申请；注册时不得同时在另一大学保留学位学习身份。",
+          "source_ids": [
+            "ASREN-aa009e11a49846"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "2027 Early与Regular",
+          "text": "Early为2026-09-22至10-22 18:00韩国时间，可选2027春或秋；Regular为2026-11-10至2027-01-14 18:00，只对应秋季。2026-09-12尚未开放本周期。可选推荐信各于10-29／1-21截止。",
+          "source_ids": [
+            "ASREN-5b6c4de709b7df"
+          ]
+        },
+        {
+          "label": "申请渠道及推荐信变化",
+          "text": "通过KAIST国际本科在线申请，初步阶段上传扫描件。2027起推荐信改为可选、强烈建议且最多2封；不能沿用旧年度必交一封的要求。本轮未在摘要列全部分项材料。",
+          "source_ids": [
+            "ASREN-5b6c4de709b7df"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "现行本部学费预算",
+          "text": "费用页列每学期KRW3,433,000，两个学期合计6,866,000；同页另列住房、饮食、保险。页面本轮未核到明确适用入学年，不能当作2027锁定价。奖学金单独列，不先从账单中自动扣除。",
+          "source_ids": [
+            "ASREN-91848ae086fd19"
+          ]
+        },
+        {
+          "label": "KAIST Scholarship条件",
+          "text": "国际招生录取者可获得8学期全额学费豁免、每月KRW350,000生活费及医保支持；在申请表财力部分勾选KAIST scholarship。大一后须维持GPA超过2.7/4.3；不是无条件覆盖任何延长学期。",
+          "source_ids": [
+            "ASREN-af2aa68828e669"
+          ]
+        }
+      ],
+      "outcomes": []
+    },
+    "sources": [
+      {
+        "id": "ASREN-5b6c4de709b7df",
+        "title": "KAIST国际本科2027春秋招生简章",
+        "url": "https://admission.kaist.ac.kr/wz/api/common/files/download/intl-undergraduate/pdf/Admissions_Guide_for_2027_admission.pdf",
+        "checked_at": "2026-09-12",
+        "supports": "2027申请身份、材料、英语、未定专业与授课语言",
+        "sha256": "ba533ea83afd2038ffbd22aa557c6f35698f96732985d6c705190a2bb04c60e0",
+        "locator": "PDF pages3–8,12"
+      },
+      {
+        "id": "ASREN-aa009e11a49846",
+        "title": "KAIST国际本科资格",
+        "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub02",
+        "checked_at": "2026-09-12",
+        "supports": "一年级未定专业及不可转学",
+        "sha256": "5cbb044b943e17928220d0d864975d46f645c182375c52b02fb01741cf23194e",
+        "locator": "About Admissions"
+      },
+      {
+        "id": "ASREN-91848ae086fd19",
+        "title": "KAIST本部本科费用预算",
+        "url": "https://admission.kaist.ac.kr/intl-undergraduate/support/coa",
+        "checked_at": "2026-09-12",
+        "supports": "现行学费及奖学金分列，不含确定2027年度",
+        "sha256": "43c79597546f4b17be41c20d0cd2634e446c944d620ad50abce4ab101c5a6a70",
+        "locator": "Cost of Attendance tables"
+      },
+      {
+        "id": "ASREN-af2aa68828e669",
+        "title": "KAIST Scholarship",
+        "url": "https://admission.kaist.ac.kr/intl-undergraduate/support/scholarships/kaist",
+        "checked_at": "2026-09-12",
+        "supports": "国际招生资助及GPA续领条件",
+        "sha256": "9ce1ec085c023bba31aaf9655c7e208167225a22357f041f4a40a169be6f635c",
+        "locator": "Eligibility/Subsidies/Requirement"
+      }
+    ]
+  }
+}

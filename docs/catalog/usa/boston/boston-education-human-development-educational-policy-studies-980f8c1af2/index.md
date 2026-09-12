@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：已补学校共用资料，专业专属详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,9 +40,13 @@ hide:
 
 <p><strong>申请路径：</strong>Combined bachelor/graduate pathway; graduate award not an independent undergraduate program</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：BS-to-MA；资料期为Current official directory, checked 2026-09-12。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-37a907a93c6278">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>特殊路径边界：</strong>目录学位名称为本科衔接硕士或专业博士的联合路径；各学习阶段的准入与费用须分别核对。本轮未核完整升段条件，暂不将普通第一本科费用和日程直接覆盖整个联合路径。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-37a907a93c6278">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -63,5 +67,6 @@ hide:
 - [官方项目页面或项目所在目录](https://www.bu.edu/academics/wheelock/programs/policy-planning-administration/bs-ma-educational-policy-studies/)
 - [官方目录](https://www.bu.edu/academics/degree-programs/)
 
+<div class="catalog-source" id="source-p-USBENR-37a907a93c6278"><div><a href="https://www.bu.edu/academics/wheelock/programs/policy-planning-administration/bs-ma-educational-policy-studies/">Education &amp; Human Development/Educational Policy Studies — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/boston/">← 返回波士顿大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

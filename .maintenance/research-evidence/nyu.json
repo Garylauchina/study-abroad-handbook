@@ -1,0 +1,1061 @@
+{
+  "university_id": "nyu",
+  "sources": [
+    {
+      "url": "https://meet.nyu.edu/advice/application-tips/inside-the-2026-2027-common-application-for-nyu/",
+      "sha256": "93eddd513f151c12e400505d151e25c4b90eeaab48e26807c691514239dad7ec",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/nyu/raw/current-apply-web.json",
+      "locator": "General Information / Optional Supplemental Question"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/admissions/",
+      "sha256": "008144fd61c7f737765c8298d3a3a6bc7e1639a8f9b9015e3902548ab58c78bb",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/nyu/raw/admissions.html",
+      "locator": "Tisch Admissions / Applicants With International Credentials"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/cost-attendance/",
+      "sha256": "1a5e9c23160de694a8c676c7617e4311d0750f87e6bd9d505eeb598cfaa6f48f",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/nyu/raw/cas-tuition.html",
+      "locator": "New York > school-specific tables"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/africana-studies-ba/",
+      "sha256": "b95cd70e515e79b70b22fbc49f15b4eba411d63e5a5cbf724499a17d89db9eff",
+      "raw_file": "scratch/full-catalog/us-details/nyu/cfe15af8722a5308186e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/american-studies-ba/",
+      "sha256": "fd032a7e9930654e0fb9afbe3b139b9753a1a53ee546294f74730ed56e851adb",
+      "raw_file": "scratch/full-catalog/us-details/nyu/fb8c342fb5d54517a34b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/anthropology-ba/",
+      "sha256": "640139572a1328257599e6d18db98d085fef3ba3096ef6cf16ed5fda4b4a436a",
+      "raw_file": "scratch/full-catalog/us-details/nyu/de1cc651ec88cc41df74.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/anthropology-classical-civilization-ba/",
+      "sha256": "e82718ec79ca26e3db2bd9bdd5f7afac82515f8a65077fbc1285a8dfdd1ff329",
+      "raw_file": "scratch/full-catalog/us-details/nyu/a738177ad644a8f85411.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/anthropology-linguistics-ba/",
+      "sha256": "a37b513f03eb4b25b795095d769046818927d378cc420e5939039b59aad8b05a",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f346517eef54c9d10f34.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/applied-data-analytics-visualization-bs/",
+      "sha256": "f0e06f18f2cb77904a40cea4873b40195c2c09c06b0a54d91493661025e55e3b",
+      "raw_file": "scratch/full-catalog/us-details/nyu/256d283be8ca26722977.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/applied-general-studies-ba/",
+      "sha256": "afa51a0a574e9a54efc0c62b5e124b0cf8c2c304f4bbafc13cd15b699359e61e",
+      "raw_file": "scratch/full-catalog/us-details/nyu/bd16a70c253efc1a28f8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/applied-physics-bs/",
+      "sha256": "18dc4444676b68deda15b6aaa1e844a63ec8489fde74ec759cf8763dc24e4b06",
+      "raw_file": "scratch/full-catalog/us-details/nyu/27ab113e307736e547ec.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/applied-psychology-bs/",
+      "sha256": "c65648c34a215349a1ce8f8698c5d8aae2fb06ba20945dd45ada0b4df6121fed",
+      "raw_file": "scratch/full-catalog/us-details/nyu/1b05cdce558e336593f9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/art-history-ba/",
+      "sha256": "6cc4db5fda2aa74ba9757612dfed01d765697979912c28451257fb59513ec657",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d6d441ad832e00888665.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/asian-pacific-american-studies-ba/",
+      "sha256": "73fc52d5b345ae22d72f5615f809417ecc4892a0629650a4bf8e73774053fda8",
+      "raw_file": "scratch/full-catalog/us-details/nyu/6d0e6293ad9c45a95285.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biochemistry-ba/",
+      "sha256": "d0d3c6fff7b223c0cf4cfafb5a7616ca98c4938c0c0232379685bba36696cf16",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f87015e7b04d5cc24a7e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-ba/",
+      "sha256": "40d2e8f8a93b5535d22cf3f5ea19958b6c16434f8ce903daee5c4d4a5624add6",
+      "raw_file": "scratch/full-catalog/us-details/nyu/79a528a0d48516145ef2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-chemical-biomolecular-engineering-bs-bs/",
+      "sha256": "7036fc05f37d44b9a4df9aa09879ae9019846526977a97f47942ab0adaaa1c03",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7e72b78f23f0478ab5a9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-dentistry-ba-dds/",
+      "sha256": "0b6865b522c15f0444332bd0efe87e296346e5d9bb88a373c75534d3b27896a2",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d4a6e747cbb89c1d5b4d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/biomolecular-science-bs/",
+      "sha256": "ccbf7b5d10dc54124f0de15dc54c3bf864a1ade09ae7b0df08c4a00223531058",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d9cf871759e1260949b6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/business/programs/business-bs/",
+      "sha256": "fd38b93c91b03c8762d3fb24626e2804a8481ba02630b294d0b510789127ba83",
+      "raw_file": "scratch/full-catalog/us-details/nyu/8571d6d5f05b017e2d39.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/business/programs/business-political-economy-bs/",
+      "sha256": "651158e125adc2d873ef9b30a857428c5840d66f3fb62351b9337ea70aaf4ba2",
+      "raw_file": "scratch/full-catalog/us-details/nyu/5e896e81169d87692e1d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/business-technology-management-bs/",
+      "sha256": "74815c9d68457d193e5bee674868990c01c93ec7a291fcdfee6390b2588726e7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f1d8113868821b0d8045.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/business/programs/business-technology-entrepreneurship-bs/",
+      "sha256": "c50be492aa6d42dc61a7f3dd5243a69442b203087680e59c90609d55f6c0d10b",
+      "raw_file": "scratch/full-catalog/us-details/nyu/36b6bfd8c86b26d7c139.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/business/programs/accounting-bs-ms/",
+      "sha256": "305e762a4b5c56235df0b548edef9dd55e3ba04026bf3ea7e08f4c88d423c4c5",
+      "raw_file": "scratch/full-catalog/us-details/nyu/b7ff33d6e3da1e107844.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/chemical-biomolecular-engineering-bs/",
+      "sha256": "82dcb3d2a12fc6c2d4b061cb7826b45d9b6a601244cca4a2777f971780fd46cd",
+      "raw_file": "scratch/full-catalog/us-details/nyu/616eb69bd440f7384501.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-ba/",
+      "sha256": "786de77b876458c23229881af3a98dc7ea3f79fbf3f7ec2a504a96b383113564",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7ae9bad1f39fd032003e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-bs/",
+      "sha256": "da83ea805b87ec398d098a619a023be70f7c8be3d2a60200e19d9530736395a4",
+      "raw_file": "scratch/full-catalog/us-details/nyu/e8bbc835d2ac0c72958c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-chemical-biomolecular-engineering-bs-bs/",
+      "sha256": "19cc7215854ed64ab9fac0a171aa464b6767cb0ca6d80d5a05ce09396ea2e448",
+      "raw_file": "scratch/full-catalog/us-details/nyu/a33b26c160071318068e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/childhood-education-childhood-special-education-bs/",
+      "sha256": "4d603c05297005a5ed826c6778153da4c31053d98ce6ab62459dc87e4e9a34f0",
+      "raw_file": "scratch/full-catalog/us-details/nyu/212833ff5e7f2a003cfc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/cinema-studies-ba/",
+      "sha256": "22c5b65f0e9e6b83c14db76189e14a0c822693168547017d73aa30f60c129a91",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7b1101e8b8f132f0a196.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/cinema-studies-ba/",
+      "sha256": "de82b63a39c7e1fd0e5598267d029cd2783782f546b150e8781c7ed128c65285",
+      "raw_file": "scratch/full-catalog/us-details/nyu/44cddbf29cd8fe6835e1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/civil-engineering-bs/",
+      "sha256": "920a1873f64134383c640a19744a69272f31088fbb7919fbf811a29402a5e47c",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d1a2544d562d1109c261.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classical-civilization-ba/",
+      "sha256": "c32c8f511b76b687192efdbba66b4a519d413a5d4075da320ecede5212dfcfdf",
+      "raw_file": "scratch/full-catalog/us-details/nyu/72a68cd93697118a2fcd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classical-civilization-hellenic-studies-ba/",
+      "sha256": "2f2162df4ef161d52ae63d425bf71b59e3ae8bd0809ecdbeaf1f4447c9160a08",
+      "raw_file": "scratch/full-catalog/us-details/nyu/6a55ad3feb628ec6d71c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classics-ba/",
+      "sha256": "98e8aae3e02beec07efa4c71990927b0866bd9245162d18614c287b95702f6f5",
+      "raw_file": "scratch/full-catalog/us-details/nyu/a16b64601cbdbc5dc8db.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classics-art-history-ba/",
+      "sha256": "00de97dabdf04e73d45116a42576c642dc032b7a513fc1d2b0833af55cc4defa",
+      "raw_file": "scratch/full-catalog/us-details/nyu/be64a67f2b2ecd947379.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/collaborative-arts-bfa/",
+      "sha256": "14e3385462dc15b0ed299b7fd1eb2917c8cc462248c80c5ea62abc86ed3981fc",
+      "raw_file": "scratch/full-catalog/us-details/nyu/c6770d7ed7ef3aa42901.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/communicative-sciences-disorders-bs/",
+      "sha256": "1b887bcc06045a074ebcebcbb54b11813c3176f8e9d4f5ec83a0db18d62e484a",
+      "raw_file": "scratch/full-catalog/us-details/nyu/656778a0b802132523c6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/comparative-literature-ba/",
+      "sha256": "6fce7ec97420c73dbc67ed82880433568fdbd33afc535f7af7d061717f5134e1",
+      "raw_file": "scratch/full-catalog/us-details/nyu/17feb7b44d6194eb09ef.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-data-science-ba/",
+      "sha256": "57d6dc81276fc987201116ffad35ee3ece4ffbeeff38c2e9c5fe90417ff629f8",
+      "raw_file": "scratch/full-catalog/us-details/nyu/ed76c7c9e2adc84c8eb2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-engineering-bs/",
+      "sha256": "41ca31df70b808a54064cc02e44696bd9844c1b4524aa0adba5e22ba02c62c72",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f9169fb151b7920cf96d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-ba/",
+      "sha256": "abeb1a48f9c097bdc392f2a096b51eb9fe7234128ff3e9144300ba31d7441655",
+      "raw_file": "scratch/full-catalog/us-details/nyu/b17c6ae98b168557e90e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-science-bs/",
+      "sha256": "5d8228c587d05518969dc39a749a65cc67e630cdec3c31828929dd82972b8e56",
+      "raw_file": "scratch/full-catalog/us-details/nyu/1161a68e103d344341fd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-engineering-bs-bs/",
+      "sha256": "403743e240fe96c9c8042dd3aed6ee265cdcee9da2da3c3b532ec155f1ec9808",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7f899534d3d8d83c231e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-electrical-engineering-bs-bs/",
+      "sha256": "530d987aebe8f2e8f5a78e73a7cc426dbd9e9e8fed7e226206eed3124666c8a2",
+      "raw_file": "scratch/full-catalog/us-details/nyu/15bda751d1c87410dbb7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-science-management-technology-bs-ms/",
+      "sha256": "f01e8c8858804fd648ddbbc71da656678373f9f13424bf8c24e356ebec3810b6",
+      "raw_file": "scratch/full-catalog/us-details/nyu/2242b1476b397dd6ebb7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/dance-bfa/",
+      "sha256": "317a0419dfd81e6e76038e4b835c1cb2631771d269f59eecb7fd1ca485c3ad82",
+      "raw_file": "scratch/full-catalog/us-details/nyu/789f7f318c23369bff1d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/data-science-ba/",
+      "sha256": "3cf60252df9c40582c0d2ed95485e126e2d37fa24a0f5d85f15130eac97c3b9e",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f3d40fa7272b37901961.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/data-science-mathematics-ba/",
+      "sha256": "3a781835673eb4f0db81ce0e29e0b72cf73b7f43b2d205c989a06ac44d8df236",
+      "raw_file": "scratch/full-catalog/us-details/nyu/4bf2b9a88c059e087185.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/dentistry/programs/dental-hygiene-bachelor-science/",
+      "sha256": "8773a534dca9ff2bc605385401613b2244a94f876c6d0e6762d1f9682accf0cc",
+      "raw_file": "scratch/full-catalog/us-details/nyu/6b1b52e68e988750c2b2.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/digital-communications-media-bs/",
+      "sha256": "8071849e3ce1314c68dc4c1370224fefdd63430c518f77536f52269e89397645",
+      "raw_file": "scratch/full-catalog/us-details/nyu/01df37cddd05d5f61bf8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/dramatic-literature-theatre-history-cinema-ba/",
+      "sha256": "a25de076c893b9222832a4f20116f630314880ed86a0abff630c270ffb0adebd",
+      "raw_file": "scratch/full-catalog/us-details/nyu/4a1489984b4775c7dc4f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/dramatic-writing-bfa/",
+      "sha256": "8bee465e3c903461d2de9cd54feda75e5dd5fd704d11dac895b86dc226dd12d9",
+      "raw_file": "scratch/full-catalog/us-details/nyu/a184f370d22006c17710.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/early-childhood-education-special-bs/",
+      "sha256": "68bd66bc225c00a3e1c9902589baea0f36d84f23e8378e5b790a0c6546d92d2c",
+      "raw_file": "scratch/full-catalog/us-details/nyu/478cfeb107fe0e69ef73.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/east-asian-studies-ba/",
+      "sha256": "1b5e051b5e88809e8718286d8802bcf65c4867c653593c0eb1550dfff02143f7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/fcc717e85917f8c3b459.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/economics-ba/",
+      "sha256": "fb85294b80823cd265e9ddf6e2612dac142f5673c05d1432b8f6f36d1085bb2a",
+      "raw_file": "scratch/full-catalog/us-details/nyu/74e40b3e03c88f9f02a6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/economics-computer-science-ba/",
+      "sha256": "ea6fd91ba244b8796857f125b1fad62c6220653ed467c4153ee9319076ae3357",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d7e4ef596be42bd38351.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/economics-mathematics-ba/",
+      "sha256": "e65f049dd6cfc8d30a5a295a849b915cda7a77a5552c332917a14ef20f6541a5",
+      "raw_file": "scratch/full-catalog/us-details/nyu/fd275358c6df28de4cbd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/education-studies-ba/",
+      "sha256": "a4a7077b3578b591e5332fa65f456fdf8c0326daf152038cf596b7e885455906",
+      "raw_file": "scratch/full-catalog/us-details/nyu/aeacb45a05bd87c44ecb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/educational-theatre-bs/",
+      "sha256": "d6b961dd6e7f7995fe2f1abd80795e39569e4fdc807aa3e4be51291b1361d9d5",
+      "raw_file": "scratch/full-catalog/us-details/nyu/1ec1f32d8cb2ef4508f3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/electrical-computer-engineering-bs/",
+      "sha256": "476d87c54eb45d9e99f35e3ec82ea7bc2d946f985961b7464035f2ebfd0839d5",
+      "raw_file": "scratch/full-catalog/us-details/nyu/0e966e52d6fb70751202.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/electrical-engineering-bs/",
+      "sha256": "7a37e30ee03045c5b0e7699f4a5949bcc8e9eb2d8a6b4234873570ce7a613461",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f0bad696fa541f5f6dcc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/english-american-literature-ba/",
+      "sha256": "a0d4dabeb234714770c6fd8d1f87a6221ae9ba6b40952e5dd69750447f6e9814",
+      "raw_file": "scratch/full-catalog/us-details/nyu/315afedea1e0be44fd25.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/environmental-engineering-bs/",
+      "sha256": "80cb063daa76e2b18d4d7df7aa35a46f831ed8fae5336fe12bbff894c258a221",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d0c9441991b341d66e39.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/environmental-studies-ba/",
+      "sha256": "f60f0ef53432dcec04f7fab3bcb950853660b5d4f7d984ce4fc9575adc6ed7ea",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d548a4c7f605cafab195.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/european-mediterranean-studies-ba/",
+      "sha256": "4f75090b717c82c07f0180aea6a1c8b6b66ddde7f486ab5ba567586a4b0d4d6f",
+      "raw_file": "scratch/full-catalog/us-details/nyu/6eb1fcf4972eebf7a28a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/film-television-bfa/",
+      "sha256": "09ec9c644821219a38942af431b66dcf36ad3b2638ce5ec0811f227dd6c35d2d",
+      "raw_file": "scratch/full-catalog/us-details/nyu/83af19ce4b180ccb38bf.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/french-ba/",
+      "sha256": "00d1e968d3381259d2cd2042cb20bc4b3cbe9ed649ba79f3ea5840df5c3584cd",
+      "raw_file": "scratch/full-catalog/us-details/nyu/ba28a073171ba38b2acc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/french-linguistics-ba/",
+      "sha256": "edf2d9fef850951d0c64c9a22c620ac71eac3c5cda539603b0797a40b3d88620",
+      "raw_file": "scratch/full-catalog/us-details/nyu/73e8dadbc00ccd88ffa7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/game-design-bfa/",
+      "sha256": "70256fdb3ebb3c5e7f34bb6cffa9083cae3a0d5d286e4e1e24f35dac2b7e5b27",
+      "raw_file": "scratch/full-catalog/us-details/nyu/98762e657aab45b90dc5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/gender-sexuality-studies-ba/",
+      "sha256": "3f7d8a6bc5965b3fe6d521c6f0ba400e894e35de80ed7f2b12f3f05c1d3a3f49",
+      "raw_file": "scratch/full-catalog/us-details/nyu/6c2a043f13361231c07e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/german-ba/",
+      "sha256": "ec01414a57f28494e3a67ef2061ce3a85491aba9636abc5e8d43d91606944dc4",
+      "raw_file": "scratch/full-catalog/us-details/nyu/40014de521810820d359.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/german-linguistics-ba/",
+      "sha256": "b37879774af23dbda961a63928c9bb3b5582a8399c6b21baf94f271eb230ada7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/e0b18585c709a92b2159.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/liberal-studies/programs/global-liberal-studies-ba/",
+      "sha256": "e02efa67160d4b9eef2ea29b575183b913bd9c5f574bde041de0d5823f1f36bb",
+      "raw_file": "scratch/full-catalog/us-details/nyu/ca688c557e09ab9c04e9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-anthropology-ba/",
+      "sha256": "ee31c239187f51d010c6ec7485b9a0cd7b1b94bd74db072b325deb7f124b19c8",
+      "raw_file": "scratch/full-catalog/us-details/nyu/87dc327672aa31b1d3ca.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-history-ba/",
+      "sha256": "00651731bb92bd8b34170bc05f0ad4b122912fbdd38914a1894ee074c53ca75f",
+      "raw_file": "scratch/full-catalog/us-details/nyu/e6ab09e0712965ea6bc5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-science-bs/",
+      "sha256": "9bef6202284747d85676cf82929bef7b66d6e704831a833e993abf7be33cbdc3",
+      "raw_file": "scratch/full-catalog/us-details/nyu/cb01d7d842668f530bc0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/social-work/programs/global-public-health-social-work-bs/",
+      "sha256": "dbf627302bf5980d28cd5b813a89395d027aa8e37308eb7845440e1aadef4e39",
+      "raw_file": "scratch/full-catalog/us-details/nyu/9c5727183f7605ee56d7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-sociology-ba/",
+      "sha256": "97e4ccfc1a9d6792fa0deb922c9117e34b79de543bcc16c1742eff39af6181cf",
+      "raw_file": "scratch/full-catalog/us-details/nyu/8cff1817c0c16f332293.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-applied-psychology-bs/",
+      "sha256": "89b52cfbfd110b45b740a74b0aeec454590b81bf5eecbc8a8f4e2a8a49a76bfe",
+      "raw_file": "scratch/full-catalog/us-details/nyu/2c69d23d45fac6772faa.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-communicative-sciences-disorders-bs/",
+      "sha256": "da0cc7d6faeb3d25feb259e759309a684e2cef51a5cbd41952080da9cfcb2067",
+      "raw_file": "scratch/full-catalog/us-details/nyu/1665a5ae43c0288f3ae5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-food-studies-bs/",
+      "sha256": "93bd8885a0660c9bfe338e8b809e9880a0bb433707640a06e807412fbd97459e",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7c557e27d50e93b94778.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/liberal-studies/programs/global-liberal-studies-public-health-ba/",
+      "sha256": "49740f7ffadadd18dbe935ba80918e550ac12413475a677cfbaaa2a468855af0",
+      "raw_file": "scratch/full-catalog/us-details/nyu/41e2d5359047fcedc6b3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-media-culture-communication-bs/",
+      "sha256": "9e8e8a26798e9514d19f1ddd6a5663a950e4874a7d97f08fba050766b2aae516",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d47da6c6ba8be03d537e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-nutrition-dietetics-bs/",
+      "sha256": "430278462eec3c0f4082cbaa492bd9232505fe4ea3b97050b46cb99f3d9e48c8",
+      "raw_file": "scratch/full-catalog/us-details/nyu/47f647d94fecc2a16c9a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/health-wellbeing-studies-bs/",
+      "sha256": "2595bf04953b5374f7a7fd5f112bc2d8f07f63b83e98eb3da751295591818866",
+      "raw_file": "scratch/full-catalog/us-details/nyu/73d74144f69e5ef13f90.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/healthcare-management-bs/",
+      "sha256": "ce9635a34cb39899bf080e5ebadd2a1c214d238ac0c2066a967c041879e2ca3b",
+      "raw_file": "scratch/full-catalog/us-details/nyu/a6c2919bdf612f8a1aad.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/hebrew-judaic-studies-ba/",
+      "sha256": "03a789cff090d1c503c6432bec2c63ac0fb345cac69868b4753e7d2bc98c7d4e",
+      "raw_file": "scratch/full-catalog/us-details/nyu/8c941c4fb9d0ed6d51e6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/hellenic-studies-ba/",
+      "sha256": "33ad5af50b1f1f309667d8fdc17d406915f406a53e4446d0816e30abb31180bb",
+      "raw_file": "scratch/full-catalog/us-details/nyu/2a2ae616bc8c7345408e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/history-ba/",
+      "sha256": "c4ad8792b80a1c66166be7326e3f92c9b25ede35bc5dc240409a11f7eb51fc4f",
+      "raw_file": "scratch/full-catalog/us-details/nyu/a11d46fc5d0731bed330.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/hospitality-travel-tourism-management-bs/",
+      "sha256": "58844aad50ac0f5fd8a74056242354b4923e081ad25d86ea824821800f4c9342",
+      "raw_file": "scratch/full-catalog/us-details/nyu/c3f3358ebbf3ee8c54bc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/humanities-ba/",
+      "sha256": "626ebfd1975fb667883c13b040ba8d0554f735317fb48b4daf8f8f1c5b12852c",
+      "raw_file": "scratch/full-catalog/us-details/nyu/8ae3f4c5aa45c602e996.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/individualized-study/programs/individualized-major-ba/",
+      "sha256": "83cd7cf6a8c8e81bacae86d388f1b11e0cb3c222fd7364ef2e919255154087e7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/2cbc6cb8e1c87fe14e77.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/information-systems-technology-bs/",
+      "sha256": "117fc592048d9d69f07fb6977112b495be40546c4fe3523b52b5d6a9337a6065",
+      "raw_file": "scratch/full-catalog/us-details/nyu/3f4297e2cfa2992fff86.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/instrumental-performance-bm/",
+      "sha256": "b41815f3180269e89966bd4bf28cf9206fd49afe5b2562e74b0798068b84dc12",
+      "raw_file": "scratch/full-catalog/us-details/nyu/3022d52641d330308844.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/integrated-design-media-bs/",
+      "sha256": "f7ee05ada7ab6d9be793fa0b6c6892f2ba9b6893981b3b7a2b257d182d8b7917",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f9027914824b98749102.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/interactive-media-arts-bfa/",
+      "sha256": "4d2089b415e3f9b8a01a10891ea9ab29d4b037e11c94aa870cd56e786028b9ef",
+      "raw_file": "scratch/full-catalog/us-details/nyu/1cf94e3f13b24799d30d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/international-relations-ba/",
+      "sha256": "86da435857c136eca62b730ae4185ec3ed77097385c5a1960352587ee684e3d9",
+      "raw_file": "scratch/full-catalog/us-details/nyu/8e53d5113c875c0fa2c1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/italian-ba/",
+      "sha256": "f8755da4c676173e103f98da07d780c430a1f76230e93ed1121269d1502b3733",
+      "raw_file": "scratch/full-catalog/us-details/nyu/9d413af74ad25f3e6775.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/italian-linguistics-ba/",
+      "sha256": "d778f54bdc973178f3e42c0d3bfd0f493e39f296acc9242f286579faf06f7ec6",
+      "raw_file": "scratch/full-catalog/us-details/nyu/fe1f60ca13c70013e08e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/journalism-ba/",
+      "sha256": "b2925f5bf9dc82ab5aa8b0cf982878969f24949aefd9803bb41f26ee6b78f13a",
+      "raw_file": "scratch/full-catalog/us-details/nyu/5b01b89be0c16688ee3e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/language-mind-ba/",
+      "sha256": "c0f0d8fa182082729d0aca0e4c05f178fd74e4d5f0b4d13891010f1fff7b5282",
+      "raw_file": "scratch/full-catalog/us-details/nyu/696f2a053128f8124d8e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/latin-american-caribbean-studies-ba/",
+      "sha256": "04ebeefd66a48d4bac0be7ebca4294bbcfa6c89cc0e89681dc2f093adaf9c30c",
+      "raw_file": "scratch/full-catalog/us-details/nyu/70f8a4fef23de33f02f7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/latino-studies-ba/",
+      "sha256": "e7612e3138643636a92113ffac3a181cb65b42a0bbe6066b9e40368f252e7d30",
+      "raw_file": "scratch/full-catalog/us-details/nyu/6d49ae2f4e9cfbc4863c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/leadership-management-bs/",
+      "sha256": "3f57d21e891aa52201fd52f909209d3fa3fe11b91748394970d6f5c4eff81830",
+      "raw_file": "scratch/full-catalog/us-details/nyu/b992a34a1eebbb30d76b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/linguistics-ba/",
+      "sha256": "3d548553c404c4bfcbead4b4cd90dea8a4ee23deb778b48ff5328f6f862dc059",
+      "raw_file": "scratch/full-catalog/us-details/nyu/b31394c16f6ff5291f1d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/marketing-analytics-bs/",
+      "sha256": "8c75cf8f5c7c9e9a04296d6b20379aab3c30d5e3cba0708aa7c671ad9481a7da",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f1c299a64106d25c83ea.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-ba/",
+      "sha256": "a11afa30f6f8cda369a031bb8be6180e90a2ee703d53ea619031a53e520a566b",
+      "raw_file": "scratch/full-catalog/us-details/nyu/1512cc431dd2b5c8ff63.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mathematics-bs/",
+      "sha256": "4780895605fa95b722684b7eefcd1212e52790ce9335a565787e11a038fc72e7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d49f059175a1fc178637.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-computer-science-ba/",
+      "sha256": "cc655085da5018e0e2459197541c0b7efd878aefd42eeac915813b6c9b1fae4a",
+      "raw_file": "scratch/full-catalog/us-details/nyu/3171ddb6a499971230d1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mathematics-physics-bs/",
+      "sha256": "0ed8671450e9d0eea1c96a73f5b8445368c7618f5145b80ad822f247cd4cf016",
+      "raw_file": "scratch/full-catalog/us-details/nyu/dde96e32cf93bdd3ceb0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-civil-engineering-bs-bs/",
+      "sha256": "42513013703e8fdc3315d4af14688192b1b68e720903f013f10b8ac881226b4b",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7d83f1c6ca1baae6958d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-computer-engineering-bs-bs/",
+      "sha256": "2cb901a32cd0ff7b69fff60cc96cc6adf1b8c83c95e0432fcda5996bd7bddd77",
+      "raw_file": "scratch/full-catalog/us-details/nyu/ab33bd4c5e063697fc69.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-electrical-engineering-bs-bs/",
+      "sha256": "62748db20f79b8faa74c0cf5d2921fdab8c2cd90af01f803609e3210c33d6d59",
+      "raw_file": "scratch/full-catalog/us-details/nyu/429b8a00f18bad1069a1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-mechanical-engineering-bs-bs/",
+      "sha256": "2f07daa722a4a5f578c3bb0ad256be38f85a38392b548801dcfa636055e62ebd",
+      "raw_file": "scratch/full-catalog/us-details/nyu/8ea5090f1910f329fd06.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mechanical-engineering-bs/",
+      "sha256": "d3e4b37a709e943ec4bcca67b33bc5ec5686334da5e0785f7eeae62e9eaaf340",
+      "raw_file": "scratch/full-catalog/us-details/nyu/69840b6f3de6162df3ba.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/media-culture-communication-bs/",
+      "sha256": "f974bf8242f552619c5256c01c3b6f710f2b8ecc0d685c7b796a47c45139550c",
+      "raw_file": "scratch/full-catalog/us-details/nyu/8da5c51bfceed409aebe.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/medieval-renaissance-studies-ba/",
+      "sha256": "9acbaeddf352005e6a4111fcda12518b2833513fc71a7a7bb5d973a08e295ec5",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f052a8bcb895cac8d35d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/middle-eastern-studies-ba/",
+      "sha256": "3e9663d438afdcb0a3b0e249d310e79dbcc347c30390da13f19285b03bcef84c",
+      "raw_file": "scratch/full-catalog/us-details/nyu/32c8c41fc6297a8ef791.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/music-ba/",
+      "sha256": "489b831bf95b6c15f462c541120cde39a2d92687070fc5e59009720ab256a741",
+      "raw_file": "scratch/full-catalog/us-details/nyu/c9c8e6d6a2f973eb3453.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-business-bm/",
+      "sha256": "64372fc57c6f46b50486515b417083ce9a87b280a8bb2e6d78a4e38a11b98a3b",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f4da8948c2cf0779179f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-business-bs/",
+      "sha256": "b2170a1a814aed4d147ee6cdcdef6012bb6482aa86f5a89290514e2048be2049",
+      "raw_file": "scratch/full-catalog/us-details/nyu/5dc1d85b1f37b146b584.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-technology-bm/",
+      "sha256": "ec26561bdc850e01497f562ef21f8d62f0ade106f72a153aa630d4b91462caf6",
+      "raw_file": "scratch/full-catalog/us-details/nyu/a5afb6b0531d5ab0fb69.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-theory-composition-bm/",
+      "sha256": "91cac4d82c6ba7609e6800f3d6648de73b4796ee2c3111a8d4659610786dcda5",
+      "raw_file": "scratch/full-catalog/us-details/nyu/da857e9daa1ce25a0465.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/neural-science-bs/",
+      "sha256": "0148bc83c0bc40a221fc70207d8a3798b3b2b156794da48922024fcac618773e",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f517308e7859cc1eb20d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-accelerated-15-month-bs/",
+      "sha256": "e642fb740de85d20c50fdfe8eb6a70b8572ecda70aa7fceef19db66e036743a7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/bed919ae3d0e9a2ea93d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-traditional-4-year-bs/",
+      "sha256": "1150a9fe1f1ad5d5a8200f51172c22c65c16572697f66a41d974db5adc327f3f",
+      "raw_file": "scratch/full-catalog/us-details/nyu/ed1cbc078de38b74e171.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/nursing/programs/global-public-health-nursing-bs/",
+      "sha256": "cb373eefaa79470c65c5126040324a65247889bbd651a7d5b7bb2a0c91e90aea",
+      "raw_file": "scratch/full-catalog/us-details/nyu/ba179cc3e7604a4ffda8.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/nutrition-food-studies-bs/",
+      "sha256": "4b63950c2d6def739f7b094295e6a88967cc20c62bef6286a3f93602788c8e79",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7bed73deccfb63424c76.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/performance-studies-ba/",
+      "sha256": "aeb5ca35734a6c439c797d27318ad098f232613a7df3b7a7c55f3756e1fc2629",
+      "raw_file": "scratch/full-catalog/us-details/nyu/24d9b32debbc2370ab17.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/philosophy-ba/",
+      "sha256": "15ab763cf5b8b80787df15370b94b00684df7dc7e981ee91e98ac3a16554d8b3",
+      "raw_file": "scratch/full-catalog/us-details/nyu/f2bdd9f0cbb11a57f348.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/photography-imaging-bfa/",
+      "sha256": "12cea5d88bf1d3f4fffb1805a7f6ad0dad5255f8d11ce72b767cd42658d3ff66",
+      "raw_file": "scratch/full-catalog/us-details/nyu/807590e56a5d391483e0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-ba/",
+      "sha256": "3997e5c59805b04ddd33b4645b6d312175fac9aad0653a6529a1aa2cf53f0647",
+      "raw_file": "scratch/full-catalog/us-details/nyu/5b0fa82b0f30b27980f0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-bs/",
+      "sha256": "20494fb0d53daece3249457ae373e521c6d2310a1c018335c9ccb7491e1dd6b2",
+      "raw_file": "scratch/full-catalog/us-details/nyu/179f36addd1829004ce7.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-civil-engineering-bs-bs/",
+      "sha256": "0cda8ca3255b39d673d3cf0f8196977d555b76deb72451c90e193ea026559a52",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d23b0f1a07d726cc5e2a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-computer-engineering-bs-bs/",
+      "sha256": "c683ce4dd562c94793aa45f0c063f0e0f29e4532570e7677780ab720d5fa0b70",
+      "raw_file": "scratch/full-catalog/us-details/nyu/58f9899b378c393f8a83.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-electrical-engineering-bs-bs/",
+      "sha256": "8e9c18dec431f0f45af3c81f5e16a1a5816257939cba933770b043f9baefc693",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7215a1f6c76f375c9e52.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-mechanical-engineering-bs-bs/",
+      "sha256": "7a7e0ef2417323db9dcd45f5d569c40ffb5ffd0ec8ee4e673a54f2be8d512eba",
+      "raw_file": "scratch/full-catalog/us-details/nyu/fe827ce5342b3ff1ac83.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/piano-performance-bm/",
+      "sha256": "7838f4cd2f81e0e073e87cdb1fb572cc58043017d161c995bbbe701934222183",
+      "raw_file": "scratch/full-catalog/us-details/nyu/1d3e7c53c26840287d12.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/politics-ba/",
+      "sha256": "d22c29c54e3d6fcfb25d6748b5bd477091c66316033acd12a26b7947bdfa1b2f",
+      "raw_file": "scratch/full-catalog/us-details/nyu/8f299719f309a90def8d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/professional-studies-bs/",
+      "sha256": "2c3db6439f1afe5de5cb579adc4d5bd6cf5cc8d517ca9184abc75238c7060c19",
+      "raw_file": "scratch/full-catalog/us-details/nyu/810c0375b5aff148ea8b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/psychology-ba/",
+      "sha256": "4d27c79c75693b90a3904039b426c72b47f84f90a901bc69f811bdfb6dd561ce",
+      "raw_file": "scratch/full-catalog/us-details/nyu/28077382882302042ecf.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/public-policy-ba/",
+      "sha256": "1d733c4cb783462bac396f4bee27b9655016efbeff51a45c1d0973f804968802",
+      "raw_file": "scratch/full-catalog/us-details/nyu/eec62bf3154387473713.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/real-estate-bs/",
+      "sha256": "f4ff2baeaae715b1c2598d9f0dd2a3a4736f44fdef848b7ac2cdacb47a01e6ec",
+      "raw_file": "scratch/full-catalog/us-details/nyu/5626b999e444603917a6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/real-estate-urban-sustainability-bs/",
+      "sha256": "24f26eca4661f1aa8a927961050916186e5ea6954c5aaab184d31c930e584ea7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/00ca5d66be5aad8c0c97.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/recorded-music-bfa/",
+      "sha256": "90fff450648aafab836f882cdc75500edb0aca6a454242e3041ffe05cccd2732",
+      "raw_file": "scratch/full-catalog/us-details/nyu/70aab7b7fa0aaac4a690.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/religious-studies-ba/",
+      "sha256": "0ca9ae680d3108182ca78dc86ac17cb3baaa8aae338f982eea075a77dbc5c4d9",
+      "raw_file": "scratch/full-catalog/us-details/nyu/198a31129ebdab96f48d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/romance-languages-ba/",
+      "sha256": "df74eeebb592d90d72f4f522124bae907dbb4380a0e0bac58f79734722a50436",
+      "raw_file": "scratch/full-catalog/us-details/nyu/48d2969c64e7cc3aa207.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/russian-slavic-studies-ba/",
+      "sha256": "93c8792f5479b49b9032d1cc7997d1ea72dd6fc1e846a14a2e0d37c565bf03de",
+      "raw_file": "scratch/full-catalog/us-details/nyu/882ebe2f0a17e5eb15ef.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/social-cultural-analysis-ba/",
+      "sha256": "c27e834e2c7d8b8744742237058bba0a8ac4fae86afb17cafd2e95e099259dbc",
+      "raw_file": "scratch/full-catalog/us-details/nyu/36cafe93e2c5bbd295ff.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/social-sciences-ba/",
+      "sha256": "04cf41135854fd12bf664a407a625d2922fdce8195de640111addcb8123436c9",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7cbf737282280534bee9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/sociology-ba/",
+      "sha256": "cc7a07acea876a77a18f4e5730ea99db1291e7099cd82d57e3783356bec09f3e",
+      "raw_file": "scratch/full-catalog/us-details/nyu/c5190e5e0ec7d05a1ffb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/spanish-linguistics-ba/",
+      "sha256": "5f4ddf91075e431d2f1d556e983075f96e701cf15240388e9b85b503433b8ce0",
+      "raw_file": "scratch/full-catalog/us-details/nyu/2d27876be44844ffbcc9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/spanish-portuguese-ba/",
+      "sha256": "33dc0e147903fc8a352cf4baf3b47162571ec3997eedb16d971699b4a0ca3c1e",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7e6ed8f92599c820d2f1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/sport-management-bs/",
+      "sha256": "507e466dbb4db766eb06144a693b481d578f1d5a8860a73b2d370c0e0b174da7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/91ce4dcb038690abd998.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/studio-art-bfa/",
+      "sha256": "983eabef9a47edc1e8362fd6e273a2127c02d7212b5a916fb58102280e249df0",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d40c2385cf293d19f2dc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/studio-art-integrated-design-media-bfa-ms/",
+      "sha256": "cb7d871164fc48bedadba6503b917ba7afd9ac7b22f0ef6730e0754cb9b5a711",
+      "raw_file": "scratch/full-catalog/us-details/nyu/49b5891f754cc650a62f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-chinese-bs/",
+      "sha256": "0a1497aa4ba97603532ecd88d070d9a5c586be18ff2bdc8c784d44b6fccc9305",
+      "raw_file": "scratch/full-catalog/us-details/nyu/b18565cee11273c2b3c0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-french-bs/",
+      "sha256": "a496431e390b91f9ce98b7ab534186d3e372edfe97a292958e4c5d1b1b6216b0",
+      "raw_file": "scratch/full-catalog/us-details/nyu/9296772af1992523d557.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-italian-bs/",
+      "sha256": "b9099a7cfa16d961857c759b84748708e9223a500617bf541ba3690e82e796c7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/5fa7a5ca4f13cbc30a63.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-japanese-bs/",
+      "sha256": "5cb5b80568bb08d563b371f89edec8c857edd1ccdc0b5ba32c8b6a3ada634a22",
+      "raw_file": "scratch/full-catalog/us-details/nyu/47e126b9cee44bfccf0f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-spanish-bs/",
+      "sha256": "b2ee65a331aa8278356e17c1b2c44a2e7c78fb649818ea1b10aff92f9a7e4a13",
+      "raw_file": "scratch/full-catalog/us-details/nyu/5b997e2198368d669be1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-biology-7-12-bs/",
+      "sha256": "f5e60fc8453bf6b0d22a03da171ecceb82967ca4792dc3cd507c8dba6ed4e03e",
+      "raw_file": "scratch/full-catalog/us-details/nyu/8593086e8b56c44575cd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-chemistry-7-12-bs/",
+      "sha256": "ae6c12a115bc225ba6e69d7d8aca019013f8b20058218fffeb6b24845253fbae",
+      "raw_file": "scratch/full-catalog/us-details/nyu/4068e31c742570f9bcba.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-earth-science-7-12-bs/",
+      "sha256": "36679ebfa5d933d8f6b88bbee8e2920aac58ca0b966fa3ad176ad48a3464793e",
+      "raw_file": "scratch/full-catalog/us-details/nyu/693baa00de1bad0c6604.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-english-712-bs/",
+      "sha256": "d7d2baaff76d9b47ba5d3ad72cdf5a2ed540a1a58e42e7f38025af0503e19815",
+      "raw_file": "scratch/full-catalog/us-details/nyu/86517077cd44a10b740b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-mathematics-712-bs/",
+      "sha256": "35fd498b46bb1738c6181ff1101ad1db196b70662af871fd828d8d1d57b354d0",
+      "raw_file": "scratch/full-catalog/us-details/nyu/dc757cf694671d5aee67.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-physics-7-12-bs/",
+      "sha256": "e9ee14b8e52106a85806e44a2cb952475c011f1a778794f4874197f3b28af357",
+      "raw_file": "scratch/full-catalog/us-details/nyu/7acd027e4c1dbe25ee8e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-social-studies-712-bs/",
+      "sha256": "ba7db72e62372fe0980c479ab777bcfff05dbdf89e26b75c65a0bc3c4c8f86c7",
+      "raw_file": "scratch/full-catalog/us-details/nyu/bf3d1b7f8275c6378482.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts/programs/theatre-bfa/",
+      "sha256": "825729ec39951d93a67edb5ea90358711722df8e0c38a363e0036ce421c1cce6",
+      "raw_file": "scratch/full-catalog/us-details/nyu/71f01359b7f5a71b27fb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-design-architecture-studies-ba/",
+      "sha256": "9f5f345c30c6c64c9e732ca706c8fa503d3ace4ba599228c47ce9f6b1f1a4302",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d37820088fe9ae0bd1cd.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-anthropology-ba/",
+      "sha256": "236c312b3e513bdf2d0c9688f6e11d3c029037f55d571d49a80b30c9819d26e6",
+      "raw_file": "scratch/full-catalog/us-details/nyu/cf5e51646cbc31eef00c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-history-ba/",
+      "sha256": "e2d6ed898c054b5d86b823b7087ae357a2169d855a273ae7e84cb4b9ca321c91",
+      "raw_file": "scratch/full-catalog/us-details/nyu/d039769b8e1ac9242fe6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-social-cultural-analysis-ba/",
+      "sha256": "afb938d26b1115e67cd64b1556f38c2de457b8e5f0bf87161c7112d8435cccd6",
+      "raw_file": "scratch/full-catalog/us-details/nyu/cca459bda4ecd0a2e4ae.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-sociology-ba/",
+      "sha256": "8ccea37e314d356f672de6305d7bae14b75634ffec2baa96f505dbd6f13c92a5",
+      "raw_file": "scratch/full-catalog/us-details/nyu/624e1bd4fba0b1512cfb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/vocal-performance-bm/",
+      "sha256": "7c726df20c743bb6e953ef58fe3a701fca00921b659390f9e8a9b019cc2db528",
+      "raw_file": "scratch/full-catalog/us-details/nyu/e94f3e43ae4beb651cbc.html",
+      "locator": "main/content > program section headings"
+    }
+  ]
+}

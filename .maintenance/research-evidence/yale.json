@@ -1,0 +1,497 @@
+{
+  "university_id": "yale",
+  "sources": [
+    {
+      "url": "https://admissions.yale.edu/international",
+      "sha256": "bac4aebff8fba49e848d4f5e4ae456f118eb3e1227efd9910240fbd6c08c5283",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/yale/international.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.yale.edu/standardized-testing",
+      "sha256": "d114aac6ea533876495cf41b0138cbc80b9ec361e5b25674a1365602f70a1ba9",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/yale/testing.html",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.yale.edu/first-year-application-process",
+      "sha256": "74f8bb1c8aa4b85405d9de82b75c768f965d8ec8769eaddfa87eca5f213afcb2",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/yale/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://finaid.yale.edu/coa",
+      "sha256": "81fed12b1bbb69c6295a48deb315b05e0a4d80e6e9ee9719544e787642136f28",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/yale/cost.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/african-studies/",
+      "sha256": "94da525f631ce97803bcd5aeab26fa0a43dc2e502bb90d458aea7854d3a39b3a",
+      "raw_file": "scratch/full-catalog/us-details/yale/c0191fd51d2d82b0bacc.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/american-studies/",
+      "sha256": "648c59e39554b6f640ddc064b95dcf5575fe96cc5f84ce52cf3f225fc338fcc1",
+      "raw_file": "scratch/full-catalog/us-details/yale/4b94fce36616efc33c25.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/anthropology/",
+      "sha256": "6c0c131460db3ede9967fc1395a656ea2232d31f80c9579b6eb31c0c3a3a1f00",
+      "raw_file": "scratch/full-catalog/us-details/yale/bf3454be9d671e300600.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/applied-mathematics/",
+      "sha256": "74868f46ea7caa12fdc27af2b8d2c71e3bb0cc70c94127a8b6f396d36b7f2a5b",
+      "raw_file": "scratch/full-catalog/us-details/yale/4710f27ef7d6028bcb1e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/applied-physics/",
+      "sha256": "ee586aaf1e05f84f3edac062066769f4872a034c40a5c9f2f526fa6fe935e112",
+      "raw_file": "scratch/full-catalog/us-details/yale/18317d359387e0f3ce65.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/archaeological-studies/",
+      "sha256": "1d97f4ac90498ade2529fcd54f754282da627a1dd0350dade5f48983c8cac442",
+      "raw_file": "scratch/full-catalog/us-details/yale/b7e350db40f44911ddf4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/architecture/",
+      "sha256": "abe4ed5d118c7ea237d032a50e23fd82b7626882f7bbcb6a2cea4b4b0ced4403",
+      "raw_file": "scratch/full-catalog/us-details/yale/2fec6b6a233675f15fd2.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/art/",
+      "sha256": "880b0804277cb6b9a218af504d89fa23ae7cf60e4ee0cbcb01dc73c299f0ae15",
+      "raw_file": "scratch/full-catalog/us-details/yale/efbfa3ecf4ef9890d77a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/astronomy/",
+      "sha256": "9fdd41cdfeb30b97819de18c8e8663b4e1a31ed11493d010f5e5d4d0b0725dbd",
+      "raw_file": "scratch/full-catalog/us-details/yale/8a08934bba20b2ceac08.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/biomedical-engineering",
+      "sha256": "1591d027c55687e029d76317af565a77a050a0fe3bb9b5aa2c04ba8c6827c669",
+      "raw_file": "scratch/full-catalog/us-details/yale/5256a2c99791eec07e4a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/african-american-studies/",
+      "sha256": "ef8726a2de028e6bbee3d59852e2a5dd62eae98c6fbba6c764d61ddcc7f7a08c",
+      "raw_file": "scratch/full-catalog/us-details/yale/58cefe6cdd9ce9fa1cd9.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering",
+      "sha256": "64630fca74542885fef95cb1c946d75d1086f7f8876fe62fd9b879c1173318c5",
+      "raw_file": "scratch/full-catalog/us-details/yale/ede8d5b8ce38f0c80e08.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/chemistry/",
+      "sha256": "829e181024f63412b7a57033cf744d6bc734972c8312e19eefd25ca3568cb9ad",
+      "raw_file": "scratch/full-catalog/us-details/yale/cf0654e47d5e80da4c05.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/classics/",
+      "sha256": "18b79150cdc39b59d1445bcc21dac48452e1bd649979eb7cfb8943e25dbb21f8",
+      "raw_file": "scratch/full-catalog/us-details/yale/7876dbadbd39cf40b1c9.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/cognitive-science/",
+      "sha256": "938cb0ca847c8b35f4acd85606c88e0d17be7c4bea8c528679fd68622ed8b6bd",
+      "raw_file": "scratch/full-catalog/us-details/yale/06d4b55696555e3f0c5b.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/literature/",
+      "sha256": "3a7a1025bd6ff9a2e980eb675d31469eb7bd69c15750719e550c47b7c096d371",
+      "raw_file": "scratch/full-catalog/us-details/yale/f8c7a577213e703612c3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science/",
+      "sha256": "69333cb0ab88188e1d1dc32c31daef821fac4024c30ed95b3cff691d2c21633e",
+      "raw_file": "scratch/full-catalog/us-details/yale/9b40ab5df218a5941386.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/computerscienceandeconomics/",
+      "sha256": "370b3edd891b72eb8af4b68af560b2da40a7b0fa6c8c5604a0be04dd222a2a7d",
+      "raw_file": "scratch/full-catalog/us-details/yale/ce8140d1df710f9dd8d1.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-mathematics/",
+      "sha256": "4122b16e6efddda2b3a0a03f0d02659b51da2254a33e719adc2e2544de260e0f",
+      "raw_file": "scratch/full-catalog/us-details/yale/08fbb10fe9e81f29feaf.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science-psychology/",
+      "sha256": "ec4b7bee0e06295daa13625851523b395f209e131a6a60a50ae2ecd2a389c2ca",
+      "raw_file": "scratch/full-catalog/us-details/yale/23365dfcdb4749241e9d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/computing20and20linguistics/",
+      "sha256": "4966a1a4a02491962913f11684c82bd86ce4f25e63df36ed1e5763d43b736d9a",
+      "raw_file": "scratch/full-catalog/us-details/yale/bd4f05e4d893bfa51a48.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/",
+      "sha256": "5ddcda3e5d3c1b758112e13a4f4eb246b1ff8a790beb654a50c0781b981840d3",
+      "raw_file": "scratch/full-catalog/us-details/yale/d5a7dda142700ced2015.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/geology-geophysics/",
+      "sha256": "a2c04bfd12f99fc68542625fb7a485416da4ef8a267ef9bb2519f03a16c2fd29",
+      "raw_file": "scratch/full-catalog/us-details/yale/68e5f6c4c954f183b11a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-languages-literatures/",
+      "sha256": "10cf48c7402d3fa11f71d484d9e1ed50c656d1e00bbc779dfa2333b4c67097ad",
+      "raw_file": "scratch/full-catalog/us-details/yale/d00beac27a137cbcc5af.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/east-asian-studies/",
+      "sha256": "a0f548c311e8ecf1cf4e95749c177cb7d536fa85f5624c3e4740bbb672090a69",
+      "raw_file": "scratch/full-catalog/us-details/yale/9e20e796ee703ae45e86.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/ecology-evolutionary-biology",
+      "sha256": "4b38c56830648e4c626ca203025d0048d1f9379590e652c894a9c9592f75dd9a",
+      "raw_file": "scratch/full-catalog/us-details/yale/2c46330dd7c86c1c1278.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/economics",
+      "sha256": "6d6eb64fdb95827857f92cc83264c1876d4cb6f58c37d5e3165b9e1efc24ebd7",
+      "raw_file": "scratch/full-catalog/us-details/yale/4d0e16f0f8887f683930.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/economics-mathematics",
+      "sha256": "007483407b1a694d4a23125cfb6db52d9f4e22b276a51515a2997456705ca059",
+      "raw_file": "scratch/full-catalog/us-details/yale/eeab555bda6a112dc042.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering",
+      "sha256": "563ef96bb953e2d0ca6e526894cb54332584644e0d6534f289b25c6d3ca5f234",
+      "raw_file": "scratch/full-catalog/us-details/yale/20fc3113fef2e01fd9fd.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering-computer-science/",
+      "sha256": "1e0826f8448cdaeadcb4a397a0d9936b2d38df209945509bca1c2a9cd951d555",
+      "raw_file": "scratch/full-catalog/us-details/yale/685d33f3130d8b9e53b4.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/chemical-engineering/",
+      "sha256": "64630fca74542885fef95cb1c946d75d1086f7f8876fe62fd9b879c1173318c5",
+      "raw_file": "scratch/full-catalog/us-details/yale/ede8d5b8ce38f0c80e08.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/electrical-engineering/",
+      "sha256": "563ef96bb953e2d0ca6e526894cb54332584644e0d6534f289b25c6d3ca5f234",
+      "raw_file": "scratch/full-catalog/us-details/yale/20fc3113fef2e01fd9fd.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering/",
+      "sha256": "0ea1d494dd3665014507507ca83c7b6f256faf125943ce1819aa34c1b252892e",
+      "raw_file": "scratch/full-catalog/us-details/yale/a6552f2cf4d0ca28e322.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering/",
+      "sha256": "63724e58387bead5c76125ea43200239e2961863139b74e5fdfedabe8cb2354b",
+      "raw_file": "scratch/full-catalog/us-details/yale/fd800473e3ce778af790.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/english-language-literature/",
+      "sha256": "b78acdf2c2ce2144279c8039579802e27caaf53fab7ed591a0af47143c82de81",
+      "raw_file": "scratch/full-catalog/us-details/yale/4d41b048ee8198e8384e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-engineering",
+      "sha256": "0ea1d494dd3665014507507ca83c7b6f256faf125943ce1819aa34c1b252892e",
+      "raw_file": "scratch/full-catalog/us-details/yale/a6552f2cf4d0ca28e322.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/environmental-studies",
+      "sha256": "5991fc7fc196c4bb84e4b8e70bafbb63eda76a25e13b2f2d1c49579315744f90",
+      "raw_file": "scratch/full-catalog/us-details/yale/6979dccb87441a52daf0.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/ethics-politics-economics",
+      "sha256": "e3a2d0fab62452761673123b0be4cf4d7769fbb62eec541f4daa8029d5788700",
+      "raw_file": "scratch/full-catalog/us-details/yale/c5e7de8a8d844bef1052.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/ethnicity-race-migration",
+      "sha256": "f962aa355da071814d5b4915ec86bc222c11ad3a37f1c2111522627aa63104d3",
+      "raw_file": "scratch/full-catalog/us-details/yale/49bdc66ae74fa947b7ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/film-studies",
+      "sha256": "3c1b82864ed13aec91a04a740392f6cf92e6d12debbedecbf613e49aca68a715",
+      "raw_file": "scratch/full-catalog/us-details/yale/3a13f603d8268e101a99.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/french",
+      "sha256": "3bace2b811dfee8ccf62810434d05da7fe071b8b0de69174b3a5b829f4fc88e4",
+      "raw_file": "scratch/full-catalog/us-details/yale/1521eb7ba919dd066f81.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/german-studies/",
+      "sha256": "dc07c9dbacd2ae3c6c6aaeafc1d951280c44fd5a8a16c91cf49cb1269d273f8c",
+      "raw_file": "scratch/full-catalog/us-details/yale/22c893b80cc45a247832.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/global-affairs",
+      "sha256": "ece2873d241942c8d99073b86438bff2914011be9d7e46b83616c64ee0981913",
+      "raw_file": "scratch/full-catalog/us-details/yale/811e9f1f5f6d0447497e.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/history",
+      "sha256": "226856761a5d1c4d58ad3aa7fadee90f324432306c8b9f9a9430e62020dd9c2f",
+      "raw_file": "scratch/full-catalog/us-details/yale/491a4f1b93a3895d911a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/history-of-art",
+      "sha256": "2c5d5f991060a73f7f90e05a3e28db498bb33ad6129b345b120fd7e61859e090",
+      "raw_file": "scratch/full-catalog/us-details/yale/4d1401ffa5582c925efe.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/history-of-science-medicine-public-health",
+      "sha256": "cb683ebe82388d24672d3ccc35de91a9f87e28dd13a5009a4006b48e14d1478c",
+      "raw_file": "scratch/full-catalog/us-details/yale/32a017efa1791d724d4c.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/humanities",
+      "sha256": "d33950047a1276dd7aad2884a2e9ce9a4ca2ad90b79f640b5ebaa898cbae1265",
+      "raw_file": "scratch/full-catalog/us-details/yale/08268a42053ba0b91485.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/italian",
+      "sha256": "04e321922152fb3247eb053669c0e93516f1408d4ef7268e7bf2878729bda35f",
+      "raw_file": "scratch/full-catalog/us-details/yale/fdfd598007cbdd7cb804.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/judaic-studies",
+      "sha256": "56ea61a36a5bd62e2aa7858d310f9ba26001a0872ebdd14166de373fc984eb8b",
+      "raw_file": "scratch/full-catalog/us-details/yale/2f4d89807a5eca258309.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/latin-american-studies",
+      "sha256": "d473f68ed472e59706efe2d7fc6fc0cbd798e77108479c8545612bab6d7298d1",
+      "raw_file": "scratch/full-catalog/us-details/yale/b380c333148841c6b2d3.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/linguistics",
+      "sha256": "2448bc9e54813e105519c1265bea428fa5f86230de92c2ea02a7fff13c7b3d0b",
+      "raw_file": "scratch/full-catalog/us-details/yale/a3dbc5c98a5ab5c64dd9.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics",
+      "sha256": "fb86a4e9b03f9d712b9f8016506b0dab199e2e3c79ab32903739ecb68c7592eb",
+      "raw_file": "scratch/full-catalog/us-details/yale/7e8be5234b699b52a43d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics-philosophy",
+      "sha256": "8d964db56a0cc62e5a877af48b403afdae6c7cb93dca337ec6e58322b47f7a36",
+      "raw_file": "scratch/full-catalog/us-details/yale/75bf2b1021fed3d96b49.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/mathematics-physics/",
+      "sha256": "957f75f0c4a7f5143153dfba2d5913bca9eda5201ead4dabfea6e6c2404bff66",
+      "raw_file": "scratch/full-catalog/us-details/yale/6325bf70dabc7fd35535.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/mechanical-engineering",
+      "sha256": "63724e58387bead5c76125ea43200239e2961863139b74e5fdfedabe8cb2354b",
+      "raw_file": "scratch/full-catalog/us-details/yale/fd800473e3ce778af790.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/modern-middle-east-studies",
+      "sha256": "c244dad666188bfe6ed07e682b5a3364b5ad1dca1f02d285a671c19202037989",
+      "raw_file": "scratch/full-catalog/us-details/yale/1ef88880856c9c015cc9.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/molecular-biophysics-biochemistry",
+      "sha256": "6d3e337963f494d13776af8c5c8dd16cd50e41f4a3443bd4b8b7b451fba94e03",
+      "raw_file": "scratch/full-catalog/us-details/yale/7144b795a4b2ba168426.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/molecular-cellular-developmental-biology",
+      "sha256": "96ea3ddc2d82ef68c63b3895ad6553b92ab7ff1732051c5cd4e8c7c187c91175",
+      "raw_file": "scratch/full-catalog/us-details/yale/eff755a8346eda3510bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/music",
+      "sha256": "cd465d2a1220a52b0a87b9729afbae81c32f36178648da72813174e372edfe98",
+      "raw_file": "scratch/full-catalog/us-details/yale/ee839b591516f8487add.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/near-eastern-languages-civilizations",
+      "sha256": "d6efe401945d7178dcd1d906f418a1a0785ab2070f343bc06ce80e10ceda7795",
+      "raw_file": "scratch/full-catalog/us-details/yale/6bc2b48291fc4b26b9da.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/neuroscience/",
+      "sha256": "5b5f1c5b57a525aabce1910b9236d0fc2744e5784373dd6fac8eba52f20567af",
+      "raw_file": "scratch/full-catalog/us-details/yale/8861becbc017ac07cf46.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/philosophy",
+      "sha256": "2416d98ec0bec8642a94a657f5c8d44c4fd84f4a22bfa9d9231e176968b03865",
+      "raw_file": "scratch/full-catalog/us-details/yale/65b0f62ffc323fa332e6.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/physics",
+      "sha256": "00e1ee0b3ede43bd288935665932dbdcc96333f22f52ee9bd4cf174c9490cc95",
+      "raw_file": "scratch/full-catalog/us-details/yale/3b75eefe9b783e5f64f0.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/physics-geosciences/",
+      "sha256": "d76b2b814440fd2d04e4e71008cf170c6becf5ade6bc9ed166cef386b8bf941f",
+      "raw_file": "scratch/full-catalog/us-details/yale/15c89088789891a55385.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/physics-philosophy/",
+      "sha256": "9e8971ff24328f7b433376d6b0e313c78aa005670dde41936f0fb1ea432111dc",
+      "raw_file": "scratch/full-catalog/us-details/yale/7c094b279449ef02feab.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/political-science/",
+      "sha256": "c20de4ed78351fa4f94fb06b6afbdae1e25f5ce16fbaa988059bd73ee934ebf5",
+      "raw_file": "scratch/full-catalog/us-details/yale/4168e4b026bdf8fe4104.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/portuguese",
+      "sha256": "ef170468582e022cdaa4a29dc33f75792e2ccbbf1114034f54e6807125850524",
+      "raw_file": "scratch/full-catalog/us-details/yale/8ff44e6a423821fe7c7d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/psychology",
+      "sha256": "f135644e0b7533c7b4bd8106b5e8fdcbdd40ce7ee99aa204524d060e85d90c95",
+      "raw_file": "scratch/full-catalog/us-details/yale/84068075f772c8a21bbe.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/religious-studies",
+      "sha256": "33e27ee5105347a38a0e2256318bb94ae01172ff1a661338e2881924bafe2935",
+      "raw_file": "scratch/full-catalog/us-details/yale/36ba3b4286d8e0dbb99a.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/slavic-languages-literatures/",
+      "sha256": "f6d8cd75ce7e1042c2234d31219e20873b88cf9db1c00d65d054d08453991410",
+      "raw_file": "scratch/full-catalog/us-details/yale/09beefef18758ad4fdf6.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/russian-east-european-studies",
+      "sha256": "47b7c1fe7411c375b9762fb36e6665e9f4cca7e7edbd426a138a1dbe56059d7f",
+      "raw_file": "scratch/full-catalog/us-details/yale/132b461479d63a768b3d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/sociology",
+      "sha256": "0034e97dcdfa70a57fa25a05d569da876620691cec550d22b9b948714b71d421",
+      "raw_file": "scratch/full-catalog/us-details/yale/7c337ce1ccb20f21a39d.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/spanish",
+      "sha256": "5e197e69d8c6b54544d00e9bfda562961b99debf71b3f5c9babc18d464dd024a",
+      "raw_file": "scratch/full-catalog/us-details/yale/2cc0217a95e79b65c6ef.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/special-divisional-majors/",
+      "sha256": "b3fa704a181694f552ce5504f789e28d305d2fef631a9bc19190814cb8f96890",
+      "raw_file": "scratch/full-catalog/us-details/yale/a193f48ee9581a643af0.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/statistics",
+      "sha256": "4742ea87d61f18cf80403ba4c2ec571a9cc4c622bce2ae68a1a1fbfe3ab7896a",
+      "raw_file": "scratch/full-catalog/us-details/yale/45c0d6c0cfc8c4a24949.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/theater-studies",
+      "sha256": "f0e8e26dffb1f94f0e10147f8c993896e2cfe37250c699be3f0198380b3bdcde",
+      "raw_file": "scratch/full-catalog/us-details/yale/663bd5819754f5a38071.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/urban-studies/",
+      "sha256": "99ef979dc3976fc117a620a5ee8da61f34a229fa40add0353274d054e7333516",
+      "raw_file": "scratch/full-catalog/us-details/yale/c7d2456e4923f7944b50.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.yale.edu/ycps/subjects-of-instruction/womens-gender-sexuality-studies",
+      "sha256": "45819d202cda3937fedd8ec1bdc51a9df7ade4535aa56cb1abf6288fff00bc39",
+      "raw_file": "scratch/full-catalog/us-details/yale/518d531b3de192967284.html",
+      "locator": null
+    }
+  ]
+}

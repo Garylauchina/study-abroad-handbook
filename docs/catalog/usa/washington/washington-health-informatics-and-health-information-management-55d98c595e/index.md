@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -40,9 +40,19 @@ hide:
 
 <p><strong>申请路径：</strong>Professional bachelor credential; program-specific prior-study eligibility must be checked</p>
 
+<p class="catalog-fact"><strong>学位身份：</strong>本锚点对应Bachelor of Science in Health Informatics and Health Information Management degree。资料来自现行在线目录，本轮未将目录出现等同2027招生开放确认。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-506662c128ebd4">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程代码举例：</strong>该学位完成要求涉及HIHIM 400、HIHIM 405、BIOST 405、HIHIM 408、HIHIM 409、HIHIM 410等课程代码；这里只用于定位部分课程，包含备选项的规则须阅读完整目录。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-506662c128ebd4">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业入口与分流：</strong>本主修准入段落分别涉及UW 在校生转入。不同路径的大学课程、成绩与截止日不能作为同一套高中直入门槛。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-506662c128ebd4">官方依据</a></p>
+
+<p class="catalog-fact"><strong>目录标记的特殊路径：</strong>Professional bachelor credential; program-specific prior-study eligibility must be checked。本轮须另核其申请身份，不套用普通第一本科新生规则。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-506662c128ebd4">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -63,5 +73,6 @@ hide:
 - [官方项目页面或项目所在目录](https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-600a22ee969868002748acc9)
 - [官方目录](https://www.washington.edu/students/gencat/degree_programs.html)
 
+<div class="catalog-source" id="source-p-USBENR-506662c128ebd4"><div><a href="https://uw.edu/students/gencat/program/S/SchoolofPublicHealth-715.html#credential-600a22ee969868002748acc9">Health Informatics and Health Information Management — UW 官方项目目录 ↗</a><p>锚点所指学位的毕业要求、课程代码及其所属主修的准入路径</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/washington/">← 返回华盛顿大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

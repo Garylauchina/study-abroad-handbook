@@ -1,0 +1,527 @@
+{
+  "university_id": "ku-leuven",
+  "sources": [
+    {
+      "url": "https://www.kuleuven.be/english/apply/requested-documents/eligibility-bachelor",
+      "sha256": "d45b8f80ae87612536051e894d8d66aa3bc5735bf7116748094b3814b9ac56be",
+      "raw_file": "scratch/full-catalog/europe-enrichment/ku-leuven/eligibility.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.kuleuven.be/english/apply/requested-documents/aps-certificate",
+      "sha256": "e3a0ec0b12cb903b62c9ea0846da7a02d1755b39456ebe5e3bbe3c6a93b3464a",
+      "raw_file": "scratch/full-catalog/europe-enrichment/ku-leuven/aps.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.kuleuven.be/english/apply/requested-documents/index.htm",
+      "sha256": "44c098121c19c7bbcaf3d8c2a30877609262aa0d3d6254a177aeedd363cbf1cf",
+      "raw_file": "scratch/full-catalog/europe-enrichment/ku-leuven/required-docs.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.kuleuven.be/english/apply/language-requirements",
+      "sha256": "9ce41768e17b0be1a0209d564572eec4a50a29260cd58a148245881d4e41f383",
+      "raw_file": "scratch/full-catalog/europe-enrichment/ku-leuven/language.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.kuleuven.be/english/apply/application-instructions/apply-to-kuleuven",
+      "sha256": "a37c163d81eb1fc7a436189348e62034fab58e8265cb7d292a94359aaf0b6a17",
+      "raw_file": "scratch/full-catalog/europe-enrichment/ku-leuven/bachelor-instructions.html",
+      "locator": null
+    },
+    {
+      "url": "https://icts.kuleuven.be/apps/tuitionfees/",
+      "sha256": "161c177b5cf94d781ed9bdb26ccc6623294e48ee9222a0c6e41e0ed6241152dd",
+      "raw_file": "scratch/full-catalog/europe-enrichment/ku-leuven/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://icts.kuleuven.be/apps/tuitionfees/application-windows",
+      "sha256": "666a09363e7289bcc2567bf32f88428188fa6535ec0035b7bc8d59b8760033d6",
+      "raw_file": "scratch/full-catalog/europe-enrichment/ku-leuven/windows.html",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074159",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51230582",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51854588",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074168",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51522830",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51522834",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074169",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074206",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51236201",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50269003",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074215",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074174",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074173",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074221",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51230579",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_51854602",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51854581",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074157",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074158",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_52873652",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_54763668",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074165",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50293725",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268998",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268966",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268928",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074201",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074164",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074161",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50362492",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51917072",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51236207",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51600575",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_51601481",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51601254",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51844737",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_52440374",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074214",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51854593",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_56359369",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074216",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074205",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_57665012",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268977",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268976",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268900",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074217",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50311045",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51522831",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51522835",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268980",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268981",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268982",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51861758",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268920",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_52243355",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268918",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_57662264",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074167",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074166",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268995",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074219",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074172",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074171",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50309651",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074202",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_50311099",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268974",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074203",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268997",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074218",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268971",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074160",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51917052",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074204",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074200",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074162",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_50074163",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_58364589",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "locator": null
+    }
+  ]
+}

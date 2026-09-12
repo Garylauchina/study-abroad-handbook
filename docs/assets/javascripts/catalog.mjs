@@ -63,8 +63,8 @@ function programCard(p, base) {
   }
   const open = element('a','program-open','查看专业资料 →');
   open.href = titleLink.href;
-  card.append(meta,school,rank,depth,title,element('p','program-english',p.name!==p.name_en ? p.name_en : (p.degree_label || p.degree)),
-    element('p','program-cohort',`${p.intake==='尚未核实' ? '入学年度待核实' : p.intake+' 入学'} · ${p.degree}`),facts,open);
+  card.append(meta,school,rank,depth,title,element('p','program-english',p.name!==p.name_en ? p.name_en : ''),
+    element('p','program-cohort',`${p.intake==='尚未核实' ? '入学年度待核实' : p.intake+' 入学'} · ${p.degree_label || p.degree}`),facts,open);
   return card;
 }
 async function initialize() {

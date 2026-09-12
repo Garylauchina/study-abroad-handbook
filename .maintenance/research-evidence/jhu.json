@@ -1,0 +1,485 @@
+{
+  "university_id": "jhu",
+  "sources": [
+    {
+      "url": "https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/",
+      "sha256": "6d1b641827ab9668ad912d9dc8a08df17a665d969aef28e19e36a1efc861dab0",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/jhu/dates-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://apply.jhu.edu/international-applicants/",
+      "sha256": "889df725f2e9e0c8e89359589de028bfe120fd8fb56d7ca420a86ebcea400464",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/jhu/international-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://sfs.jhu.edu/cost-tuition/",
+      "sha256": "cf06e1eaef5a33eeefddf803eddbee422e0d63fbcc56a79044a295a9d2616016",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/jhu/cost-full.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/university-wide-policies-information/admission-aid/tuition-fees/",
+      "sha256": "925d76d8e3bf7330004137c5df433c7fa1cab4df2294651973c17621c1ecafa5",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/jhu/catalog-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/africana-studies/africana-studies-bachelor-arts/",
+      "sha256": "1b917ed8d87d5b6d541801f49388d60218adab3f3024f292bae505f21afc1fd0",
+      "raw_file": "scratch/full-catalog/us-details/jhu/c0905c91b1fd6d8c1ba1.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/anthropology/anthropology-bachelor-arts/",
+      "sha256": "d1313c07bfb12ee12ec20f0d246877779ef9b5c92ff1537e3b14479aff2b9411",
+      "raw_file": "scratch/full-catalog/us-details/jhu/0d020076a70e2ac976d1.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/applied-mathematics-statistics/applied-mathematics-statistics-bachelors-degrees/",
+      "sha256": "b41e3ccb35b9a6a1fb1737795825abd12223f2bab9503f26d208c34d6d391745",
+      "raw_file": "scratch/full-catalog/us-details/jhu/f655e5181334e7969515.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/applied-mathematics-statistics/applied-mathematics-statistics-bs/",
+      "sha256": "606f0c9e315b1ea71c79072b7e67d6f12af1adcf2e32dec19637a07760b30082",
+      "raw_file": "scratch/full-catalog/us-details/jhu/18dfa34f14764ce30017.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/archaeology-ugrad-major/archaeology-bachelor-arts/",
+      "sha256": "ce07aceeed06079013aa7245464d1a67f6c5540f245f07473755b8c8f27dd522",
+      "raw_file": "scratch/full-catalog/us-details/jhu/4ae8cc6a1bc7703ea8f1.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/dance-bachelor-fine-arts/",
+      "sha256": "b0cef11535bfae3613224a0688e09ba16ccc5a2ad879e916ab57648cd2740af6",
+      "raw_file": "scratch/full-catalog/us-details/jhu/89b8c78da739dae5859d.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/composition-bachelor-music/",
+      "sha256": "ada9a3c8f25f12b386c7b040fe77bb778e411ad22b0ba2038fba4df9cf926d73",
+      "raw_file": "scratch/full-catalog/us-details/jhu/69b4553bdadb9d487194.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/hip-hop-bachelor-music/",
+      "sha256": "67fd5614db70e9704893b5163c71eaf91aec9b70be03f5f25d98de5a10c31aea",
+      "raw_file": "scratch/full-catalog/us-details/jhu/ef2cbcc7326735927b9f.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/jazz-performance-bachelor-music/",
+      "sha256": "b2949bacf20bbdeaf12b07ad2e45b97bbf9f82c37ccf84914fa84f327acd33c9",
+      "raw_file": "scratch/full-catalog/us-details/jhu/de1be5de39ada7b88c1d.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/bachelor-music-degree/bachelor-music-education/",
+      "sha256": "295cb12116c7a83de0a9eebc6371a9a3dd0eff92d6895a67fc7b0e91a76efef1",
+      "raw_file": "scratch/full-catalog/us-details/jhu/47e71d8a415408801f0c.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/music-new-media-bachelor-music/",
+      "sha256": "8b1580f85eb3fd9d5b183c4a7e87d74ebc9dc4919a73ab81816073839797fe20",
+      "raw_file": "scratch/full-catalog/us-details/jhu/47260d49fd37c4edb24d.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/performance-general-bachelor-music/",
+      "sha256": "21fe75f0e620bb165521b18748e2d81338fdd01d075ccb4961bd3742a81e529d",
+      "raw_file": "scratch/full-catalog/us-details/jhu/c9f37b4412709ec8107e.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/computer-music-bachelor-music/",
+      "sha256": "bf40f8671534ec7642f5bc3782f70577fa2ce6eda0cd22ce54a2aa42f0d1246e",
+      "raw_file": "scratch/full-catalog/us-details/jhu/c816e468d500ac2281b3.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/guitar-bachelor-music/",
+      "sha256": "16f76608f3e0eb346f1ffb9bc085fb9dab5c4b4a98e843b09004474dc89ce18e",
+      "raw_file": "scratch/full-catalog/us-details/jhu/533e15472e4ed5a34416.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/harpsichord-bachelor-music/",
+      "sha256": "2a5299ca6c611e50e9a35bc289b3b165c8d939546e54429846a1c03a11ade00a",
+      "raw_file": "scratch/full-catalog/us-details/jhu/06a0cecd526d059c1db4.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/historical-performance-bachelor-music/",
+      "sha256": "1441036b91def7d82ecbf030935b91871c51ec7aa977f82b2ddae26b542dbb77",
+      "raw_file": "scratch/full-catalog/us-details/jhu/68b632ca8c115ef452b2.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/orchestral-instruments-bachelor-music/",
+      "sha256": "7255635c7abe3a467c2077a8acc032bd668952aad90586a2af7c2b10a050f21a",
+      "raw_file": "scratch/full-catalog/us-details/jhu/a7a68809a6a29908943b.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/organ-bachelor-music/",
+      "sha256": "f59aa3e724522545c0f01cb634ab88148748b5df66dbd6b42d4420b7f3183968",
+      "raw_file": "scratch/full-catalog/us-details/jhu/e6f5adfd4227b360a83f.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/piano-bachelor-music/",
+      "sha256": "3131d581afb9fdcca57ad244c8c37400c6273ae5ecfafb63f1e132bf157e75cd",
+      "raw_file": "scratch/full-catalog/us-details/jhu/d7da7016f08d717ab08e.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/voice-bachelor-music/",
+      "sha256": "c45316dbe1a5dd5bbdd80434acf9714c192b6a84f9d12832ae7b219ff8c14fa9",
+      "raw_file": "scratch/full-catalog/us-details/jhu/0ccfa97dcbaa4cc1f3d7.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/bachelor-music-degree/bachelor-music-recording-arts/",
+      "sha256": "317539d5e9ca1b73ca64671f9f52f8aa636839b286d2ced8645d033ef8fa8274",
+      "raw_file": "scratch/full-catalog/us-details/jhu/4e33ac85020448858546.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/behavioral-biology/behavioral-biology-bachelor-arts/",
+      "sha256": "860d99470cbbac4d03a85e1fb55ca19714b95bcfcb171ed4dbb1211babff9728",
+      "raw_file": "scratch/full-catalog/us-details/jhu/4bcb6d82c513fae2c1ca.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/biology/biology-bachelor-arts/",
+      "sha256": "c3b6f57cc7a3c219fedda6050cb3f5efe6a56d2107ea817f87e573141b1f5115",
+      "raw_file": "scratch/full-catalog/us-details/jhu/76ffe1b7b440853fc594.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/biomedical-engineering/biomedical-engineering-bachelor-science/",
+      "sha256": "629d00ff4ab6d92211b234af3b7fd30890742bb886aeeb1f568400e90b4f5e41",
+      "raw_file": "scratch/full-catalog/us-details/jhu/7ac631b12df29d170114.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/biophysics/biophysics-bachelor-science/",
+      "sha256": "a3727b63bf22f0b912a835591d5f8dfca06e86c1a5b443440e46671336fd0903",
+      "raw_file": "scratch/full-catalog/us-details/jhu/f58d2904992d326c3451.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/chemical-biomolecular-engineering/chemical-biomolecular-engineering-bachelor-science/",
+      "sha256": "f76b75d251275dc94072d5fa521f5b5ba4f998f10dc4cd167833d61e5b5d8319",
+      "raw_file": "scratch/full-catalog/us-details/jhu/3229a2b101ccb5e39cf6.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/chemistry/chemistry-bachelor-science/",
+      "sha256": "6c5c55b10706a7c362f6e6377f82bde42d06481fbb5e6f8d6fd0e4059dedff1e",
+      "raw_file": "scratch/full-catalog/us-details/jhu/4e1d8bd6743f40d4898d.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/civil-engineering/civil-engineering-bachelor-science/",
+      "sha256": "c4fa60d69d1b28e870319983c244dd4d54a5a899f34d26731e91c159c699df20",
+      "raw_file": "scratch/full-catalog/us-details/jhu/811f1bf871acd4854997.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/classics/classics-bachelor-arts/",
+      "sha256": "ce7643c4f724a2baa801ac11b5071c2f13b47d3fb63e0f8005c980161a4f9b4c",
+      "raw_file": "scratch/full-catalog/us-details/jhu/d13ee90ce27b5e7a40ed.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/cognitive-science/cognitive-science-bachelor-arts/",
+      "sha256": "d3b20a4b532f9a2120393c4f1ddc67ffb0befef93434ded05a527b662152ae40",
+      "raw_file": "scratch/full-catalog/us-details/jhu/fab6f248dbb3b5313126.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/computer-engineering-bachelor-science/",
+      "sha256": "64185ee77651398e23adfa4ef45195b10501f3e35f9a0505cf7a3aa9d425ed9c",
+      "raw_file": "scratch/full-catalog/us-details/jhu/855db9447e66f95bcc77.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/computer-science-ba/",
+      "sha256": "a75434fcf15b8596458c21372c2b6f69b0372f400341a217bd90a6e9d63b82bb",
+      "raw_file": "scratch/full-catalog/us-details/jhu/5275a8faff1bb0c285e4.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/computer-science-bs/",
+      "sha256": "6d51a15c9a6a474311a7a7c68350f4594f2299027dfb864ba2848d550eb4f3df",
+      "raw_file": "scratch/full-catalog/us-details/jhu/7e5f0a64130826affc75.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/chloe-center/critical-diaspora-studies-bachelor-arts/",
+      "sha256": "3f93bf12327a11346a3b0ec165a0ac3ca0784afb2acb0a168ec0379a58d532fc",
+      "raw_file": "scratch/full-catalog/us-details/jhu/752e8f02f8021d5055e9.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/international-studies/ba-ma-sais/",
+      "sha256": "16169378029b56b8b5233153be9bb9131d88590c09d25fe7cb8f2c27acc51502",
+      "raw_file": "scratch/full-catalog/us-details/jhu/588fb6af1a49e90d5407.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/earth-planetary-science/earth-planetary-sciences-bachelor-arts/",
+      "sha256": "5769fac2eaf3a7f57779b9e59331a550c7318933016532769e80d02589f6ac8e",
+      "raw_file": "scratch/full-catalog/us-details/jhu/53d9f5429cfb13690705.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/east-asian-studies/east-asian-studies-bachelor-arts/",
+      "sha256": "0ab5552a8cbd61a64ba26a9c987421d9bf7052996242c55e8ea9d266b79b44bc",
+      "raw_file": "scratch/full-catalog/us-details/jhu/83be83276948b6b960da.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/economics/economics-bachelor-arts/",
+      "sha256": "bdc5340fad90f8b6dcd60df79385ce366d0471ee2919be98ea871224f14ae539",
+      "raw_file": "scratch/full-catalog/us-details/jhu/5a230e0532dde24cbe46.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/electrical-engineering-bachelor-science/",
+      "sha256": "48f6ecf9495e4765f7ebe9c4326c04c5ada17f8e04bc68e3af0d490d9d53ec0b",
+      "raw_file": "scratch/full-catalog/us-details/jhu/37946f8536b912e542aa.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/mechanical-engineering/engineering-mechanics-bachelor-science/",
+      "sha256": "1333516b246499c20665de3f3b3df5329c46fc98243d4a98a7c6357b5791a425",
+      "raw_file": "scratch/full-catalog/us-details/jhu/1d200082798493f25c74.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/english/english-bachelor-arts/",
+      "sha256": "4d361b07f95343e1bfff073019c79cab6fdf419b21ff25d104eb121a006cf324",
+      "raw_file": "scratch/full-catalog/us-details/jhu/2235b715eba199cf6295.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/environmental-health-engineering/environmental-engineering-bachelor-science/",
+      "sha256": "5b83b60d6c80fc85e4bd51c4b875169a3ea84283666c45fe385a9840004f8462",
+      "raw_file": "scratch/full-catalog/us-details/jhu/6ff38dd70b048b631f15.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/earth-planetary-science/environmental-science-bachelor-science/",
+      "sha256": "e4c658cf4efe864bbf8a557c810a3c737809e9fbfcecc0e0c3791826e1f0b3ec",
+      "raw_file": "scratch/full-catalog/us-details/jhu/b78158b3bcb404e0828c.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/earth-planetary-science/environmental-studies-bachelor-arts/",
+      "sha256": "a2ab86af95f64ed07167e03be5ca3aa3564b1512bb474369ee74db6a5b6e2894",
+      "raw_file": "scratch/full-catalog/us-details/jhu/1c39a0b14f6ae20ea772.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/film-media-studies/film-media-studies-bachelor-arts/",
+      "sha256": "7cad44d47e8f7bb86624900c2bfb69fd0b4a1caa045931ad6947e66707f680d2",
+      "raw_file": "scratch/full-catalog/us-details/jhu/0fa7cfe808cc0a1c9582.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/french-bachelor-arts/",
+      "sha256": "66ad13cbb890e25b86cd07d2d17c52cb79389c57a13f7bbd565095a1e16ad7f7",
+      "raw_file": "scratch/full-catalog/us-details/jhu/3f20b12c37e4350a2c3c.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/general-engineering/general-engineering-bachelor-arts/",
+      "sha256": "92084458afb612789b39262bca8fc022cde8a4bf48d4737e9e17f886d8da9bb6",
+      "raw_file": "scratch/full-catalog/us-details/jhu/b186347f995968da19c0.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/german-bachelor-arts/",
+      "sha256": "51ffc5793b6f53168b389fa29c2469506e8f8ba2f91bc2db46a6f5c30aef0ae2",
+      "raw_file": "scratch/full-catalog/us-details/jhu/b2f810ad41fc9eb77af1.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/history-art-bachelor-arts/",
+      "sha256": "ae50230dcce5b11340e050142d9ed636937faf0eaf94e07768b6a6f46fedc765",
+      "raw_file": "scratch/full-catalog/us-details/jhu/151a4fe080e3032a4738.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/history-science-technology/history-science-medicine-technology-bachelor-arts/",
+      "sha256": "ab8aaf7635ac678caecaba795c34caa4bf3aa51388b62a063f7ef91943a0cb8d",
+      "raw_file": "scratch/full-catalog/us-details/jhu/5ba26ea961a8a1f98eb8.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/history/history-bachelor-arts/",
+      "sha256": "e211549012233b4ec82cc13a82e8361898b971069d82027943f0e36a66f00f44",
+      "raw_file": "scratch/full-catalog/us-details/jhu/34458ffe9e32639b5e59.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/interdisciplinary-studies/interdisciplinary-studies-bachelor-arts/",
+      "sha256": "5242397f6dd0998c599f07d8d00675500ed9914f999d0a154969b0a4683579b2",
+      "raw_file": "scratch/full-catalog/us-details/jhu/477a1d354702bdca48b4.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/international-studies/international-studies-bachelor-arts/",
+      "sha256": "cd8f26332327eb7d450718fff66f063ee13627f69ca1c76a1382ab2b5515fd09",
+      "raw_file": "scratch/full-catalog/us-details/jhu/115ab9c586263b704e0e.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/italian-bachelor-arts/",
+      "sha256": "76207be9d9694213749cfea435b5449c241c44e2c4e3e613917f7b3fba283c0f",
+      "raw_file": "scratch/full-catalog/us-details/jhu/408ddab32e0c88fc264b.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/program-latin-american-caribbean-latinx-studies/latin-american-caribbean-latinx-studies-bachelor-arts/",
+      "sha256": "24e441ae7734d84c5173839c26245679d109873896529c54ad7dc81e2a2d76bb",
+      "raw_file": "scratch/full-catalog/us-details/jhu/2ebc75f84e9763a2882a.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/materials-science-engineering/materials-engineering-bachelor-science/",
+      "sha256": "c4ca17fc05a5aeb1fca1a1fbc9a40554d757750bc95e1c2735980c815c82c23e",
+      "raw_file": "scratch/full-catalog/us-details/jhu/90229852744c735b108c.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/mathematics/mathematics-bachelor-arts/",
+      "sha256": "385199337d19062dcde70827701819c57a0f2a24edc01c739537518e4305c67b",
+      "raw_file": "scratch/full-catalog/us-details/jhu/b8ea4f8e5c99180d7bbf.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/mechanical-engineering/mechanical-engineering-bachelor-science/",
+      "sha256": "197f2d00e54a22c426dda01bd1c078bb72152b80f44b366aead1868a27f73614",
+      "raw_file": "scratch/full-catalog/us-details/jhu/ccf65395c94ae7621a5e.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/medicine-science-humanities/medicine-science-humanities-bachelor-arts/",
+      "sha256": "6e0a310d54e119a5df09441ce6b682bc4d09f3959071353ad216ebc9586d7414",
+      "raw_file": "scratch/full-catalog/us-details/jhu/0aff4dc7a5923cfa6045.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/biology/molecular-cellular-biology-bachelor-science/",
+      "sha256": "63d045d8fbe4cb6e45c749f5ad0cda747c84c9aaa94acc25f10e43592f025ec5",
+      "raw_file": "scratch/full-catalog/us-details/jhu/beacc9e3a566bbd29763.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/center-economy-society/moral-political-economy-bachelor-arts/",
+      "sha256": "c29ecdfd76409e731711025467eff324480e1d6f0a161f37ae893d6629155745",
+      "raw_file": "scratch/full-catalog/us-details/jhu/39582a190cd15c2c7e84.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/natural-sciences-area/natural-sciences-area-bachelor-arts/",
+      "sha256": "1f156e24dafbf591ffae2616ad6a25ba1aa95d8d81ee298460f663a8c683d995",
+      "raw_file": "scratch/full-catalog/us-details/jhu/9d5de44dfeccc64e74c0.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/near-eastern-studies/near-eastern-studies-bachelor-arts/",
+      "sha256": "eccb20c555fd9e24203a6ad71c6ad29a34ec6e166d39fb900e5ac31934667cb6",
+      "raw_file": "scratch/full-catalog/us-details/jhu/4f5a44f54a65cea735a9.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/neuroscience/neuroscience-bachelor-science/",
+      "sha256": "9f8f923c10a3883581150eaf0544f4a45028aa43fbb305a9c933b0ac8b11e6e3",
+      "raw_file": "scratch/full-catalog/us-details/jhu/88dd49a1be13634fad6f.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/peabody/bachelor-music-degree/combined-degree-programs/peabody-homewood-double-degree-program/",
+      "sha256": "40db927121802f51e69be58947f15ac56851fa8b8cebaa8c6d23feebfc9a9537",
+      "raw_file": "scratch/full-catalog/us-details/jhu/20476b4921dce33d5162.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/philosophy/philosophy-bachelor-arts/",
+      "sha256": "d46cdba0702b15d0a3c17adbb5de424b5bd886c3d3d0cd51fcb8e43498cb2e08",
+      "raw_file": "scratch/full-catalog/us-details/jhu/fb7221e98ae60d7d4d55.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/physics-astronomy/physics-astronomy-bachelor-arts/",
+      "sha256": "8edaf87544441a3c106722b6c2899e1d32fda9627c32a04c2ff9e098cf883616",
+      "raw_file": "scratch/full-catalog/us-details/jhu/5d66e8b9d94f46c10593.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/physics-astronomy/physics-bachelor-science/",
+      "sha256": "b2e9ea83fd91663812ceb9746ddd6bdf4b1f756ddd94138ab049d54a56460039",
+      "raw_file": "scratch/full-catalog/us-details/jhu/4155b2f68f1f9bcb4cb4.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/political-science/political-science-bachelor-arts/",
+      "sha256": "353f8068e6a21ea82a1353ba237fa9b216a9182810d237df5accc97802c5efc6",
+      "raw_file": "scratch/full-catalog/us-details/jhu/67347930c350dd5f5049.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/psychological-brain-science/psychology-bachelor-arts/",
+      "sha256": "458a85853fbc25ada8f03752c7b74c138fef49a67d50bc5ce752bfbec520e0d0",
+      "raw_file": "scratch/full-catalog/us-details/jhu/dcb45965f9b0826cc604.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/public-health-studies/public-health-studies-bachelor-arts/",
+      "sha256": "eac0abc642246b3a0b50a83217f5d3faee0647cc3da82bc3b6aa11d4aa68c019",
+      "raw_file": "scratch/full-catalog/us-details/jhu/6bc3dcad09e8b0cc2946.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/romance-languages-bachelor-arts/",
+      "sha256": "791dd8088db3abbc3e20daa85fa490afac5694b1f9e9c8a6ab58d1168ba095a2",
+      "raw_file": "scratch/full-catalog/us-details/jhu/068b04c99aa44ae28f61.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/sociology/sociology-bachelor-arts/",
+      "sha256": "b2a5ffee0708b6ff3e4e18873533091680c44aecb2a22ff4814d0aad976a4ba1",
+      "raw_file": "scratch/full-catalog/us-details/jhu/377923df22e7454ea361.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/spanish-bachelor-arts/",
+      "sha256": "c77d35446dd248e1586a09d6e43c6815cf8f5efe4a9754b25d29bfaaa1a8a200",
+      "raw_file": "scratch/full-catalog/us-details/jhu/1eddbfd71f588920a391.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/civil-engineering/systems-engineering-bachelor-science/",
+      "sha256": "230a1f957fd8167622d3b785717f6bcd3bba680bb630cd8110d9b63e2836d4be",
+      "raw_file": "scratch/full-catalog/us-details/jhu/b8928a6b5cd3367ea01c.html",
+      "locator": null
+    },
+    {
+      "url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/writing-seminars/writing-seminars-bachelor-arts/",
+      "sha256": "20a1909ae0be89ef6368766e459203464e9b3fd4bba940d45429d978b2b46f4b",
+      "raw_file": "scratch/full-catalog/us-details/jhu/1801f61b700a3bdf198e.html",
+      "locator": null
+    }
+  ]
+}

@@ -7,11 +7,24 @@ import unittest
 
 from catalog_research import attach_research, validate_record
 from render_catalog import load_catalog
+from import_catalog_research import match_program
 
 ROOT = Path(__file__).resolve().parents[1]
 
 
 class ResearchTests(unittest.TestCase):
+    def test_parallel_degrees_require_unambiguous_identity(self):
+        shared = {'raw_key':'psychology','official_url':'https://example.edu/psychology','name_en':'Psychology'}
+        inventory = [dict(shared, id='psych-ba', degree_label='BA'), dict(shared, id='psych-bs', degree_label='BS')]
+        with self.assertRaisesRegex(AssertionError, 'ambiguous/missing'):
+            match_program(inventory, shared, 'example')
+        self.assertEqual(match_program(inventory, dict(shared, degree_label='BS'), 'example')['id'], 'psych-bs')
+        self.assertEqual(match_program(inventory, dict(shared, inventory_id='psych-ba'), 'example')['degree_label'], 'BA')
+        with self.assertRaisesRegex(AssertionError, 'ambiguous/missing'):
+            match_program(inventory, dict(shared, inventory_id='psych-ba', degree_label='BS'), 'example')
+        with self.assertRaisesRegex(AssertionError, 'ambiguous/missing'):
+            match_program(inventory, dict(shared, inventory_id='another-school'), 'example')
+
     def test_every_school_has_a_directory_and_existing_details_survive(self):
         _, schools, programs = load_catalog()
         self.assertEqual(len(schools), 96)

@@ -14,6 +14,6 @@ hide:
 先选择大学，再进入专业查看入学条件、国际生学费和毕业生情况。当前收录 1 所 QS 2027 前 100 名大学；“=”表示并列。专业详情收录情况见学校卡片。
 
 <div class="university-grid">
-<article class="university-card" data-university-id="malaya"><span class="qs-rank">QS 2027 · <strong>56</strong></span><p class="catalog-eyebrow">马来西亚 · Kuala Lumpur</p><h2><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/">马来亚大学</a></h2><p class="university-english">Universiti Malaya (UM)</p><p class="university-coverage">80 个专业条目 · 0 个含详细资料</p><a class="program-open" href="/study-abroad-handbook/catalog/malaysia/malaya/">查看学校与专业入口 →</a></article></div>
+<article class="university-card" data-university-id="malaya"><span class="qs-rank">QS 2027 · <strong>56</strong></span><p class="catalog-eyebrow">马来西亚 · Kuala Lumpur</p><h2><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/">马来亚大学</a></h2><p class="university-english">Universiti Malaya (UM)</p><p class="university-coverage">80 个专业条目 · 0 个含详细资料 · 80 个补有专业资料 · 0 个仅补学校共用资料</p><a class="program-open" href="/study-abroad-handbook/catalog/malaysia/malaya/">查看学校与专业入口 →</a></article></div>
 
 <a class="md-button" href="/study-abroad-handbook/?country=malaysia#program-finder">筛选这里的大学与专业 →</a>

@@ -1,0 +1,4397 @@
+{
+  "university_id": "cmu",
+  "programs": [
+    {
+      "university_id": "cmu",
+      "raw_key": "Anthropology, B.A.",
+      "name_en": "Anthropology",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/anthropology-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e58119b7770dbc"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to Anthropology；Introduction to Global Studies；How (Not) to Change the World；Anthropology of Energy；How Do We Remember? The Politics and Cultures of Memory；The Politics of Water in Global Perspective。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-e58119b7770dbc"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e58119b7770dbc",
+          "title": "Anthropology — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/anthropology-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "38450f9cb70a2f05054af6787e33841635086122ef62d2f26fd650595c99a77c",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-anthropology-ffa2c5056a"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Architecture, B.A.",
+      "name_en": "Architecture",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-d229d3a6ecc433"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Architecture Design Studio: Core 1 - Foundations；Architecture Design Studio: Poiesis Studio；Architecture Design Studio: Core 3 - Tectonics；Architecture Options Studios: Core；Design Ethics & Social Justice in Architecture；Exploring Pittsburgh。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-d229d3a6ecc433"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-d229d3a6ecc433",
+          "title": "Architecture — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "7cb14a7ca5196341ed47e0bace0a6f983f96436725aa9f01a17f067a65d6526f",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-architecture-f910541da7"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Architecture, B.Arch.",
+      "name_en": "Architecture",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-barch/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.Arch.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-2ef5241a315837"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Architecture Design Studio: Core 1 - Foundations；Architecture Design Studio: Poiesis Studio；Architecture Design Studio: Core 3 - Tectonics；Architecture Options Studios: Core；Architecture Design Studio: Core 5 - Ecologies；Architecture Design Studio: Praxis Studio。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-2ef5241a315837"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-2ef5241a315837",
+          "title": "Architecture — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofarchitecture/architecture-barch/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "9cb5580bd0cd23ea4a8b9436e15fee1ab763a56a0d23ac3cd21f67ebb9bff829",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.Arch.",
+      "inventory_id": "cmu-architecture-6564738c7e"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Art, B.F.A.",
+      "name_en": "Art",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofart/art-bfa/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.F.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-b9ad223c9c4a8c"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Survey of Western Music History；World Music；History of Black American Music；Intersectional Feminism；Managing Across Cultures；Books You Should Have Read By Now。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-b9ad223c9c4a8c"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-b9ad223c9c4a8c",
+          "title": "Art — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofart/art-bfa/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "dc50adf388524c4955584d9c6704175ca57907e40ca5ae18f5632c01eeb58a8e",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.F.A.",
+      "inventory_id": "cmu-art-ca600eb3f6"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Artificial Intelligence, Additional Major",
+      "name_en": "Artificial Intelligence",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e49743a4e133e5"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Fundamentals of Programming and Computer Science；Integral Calculus；Differential and Integral Calculus；Concepts of Mathematics；Mathematical Concepts and Proofs；Mathematical Foundations for Computer Science。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-e49743a4e133e5"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-e49743a4e133e5"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e49743a4e133e5",
+          "title": "Artificial Intelligence — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "6382f5060dc0d44a64cfe0bbbe1959aad69b89621eaf012725560994a7b5ce28",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-artificial-intelligence-e6c54c526e"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Artificial Intelligence, B.S.",
+      "name_en": "Artificial Intelligence",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-6542122442f64f"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-6542122442f64f",
+          "title": "Artificial Intelligence — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/artificialintelligence/artificial-intelligence-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "7bcc8d55a05261cf23663874e28a26b26610683df2cd29fbf53067cc5ade4331",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-artificial-intelligence-990f7e2201"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Behavioral Economics, B.S.",
+      "name_en": "Behavioral Economics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/behavioral-economics-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e5e52cea2988b6"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential Calculus and Integral Calculus；Differential and Integral Calculus；Reasoning with Data；Behavioral Economics；Behavioral Economics and Public Policy；Designing Economics Experiments in the Wild。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-e5e52cea2988b6"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e5e52cea2988b6",
+          "title": "Behavioral Economics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/behavioral-economics-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "78452831cb6bca0b2e3d27c27026f6a6695b1b5f12059093f6ef19dc4894e6af",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-behavioral-economics-59800bc024"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Biological Sciences, Additional Major",
+      "name_en": "Biological Sciences",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-70e749e59bbb87"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Honors Modern Biology；Modern Biology；Undergraduate Colloquium for Sophomores；Honors Biochemistry；Cell Biology *New course number ( 03-240 ) starting Fall；Introduction to Computational Biology。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-70e749e59bbb87"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-70e749e59bbb87"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-70e749e59bbb87",
+          "title": "Biological Sciences — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e2412796f72fddd16b7cd45580e155236553f2b2d2c093d602e7df2b0c7ef7b2",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-biological-sciences-f03f4c5ece"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Biological Sciences, B.A.",
+      "name_en": "Biological Sciences",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-bd38ab98112517"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Honors Modern Biology；Modern Biology；Undergraduate Colloquium for Sophomores；Honors Biochemistry；Cell Biology *New course number ( 03-240 ) starting Fall；Genetics *New course number ( 03-330 ) starting Fall。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-bd38ab98112517"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-bd38ab98112517",
+          "title": "Biological Sciences — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "60cb53755e1af0373eb843e06b5b4dd8c0080fc3b6c96482ff5a81815adcfe50",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-biological-sciences-e7f23f0713"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Biological Sciences, B.S.",
+      "name_en": "Biological Sciences",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-10a9f3bff3f236"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-10a9f3bff3f236",
+          "title": "Biological Sciences — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "00458a5c4dde251f7aa3d4eae9be46484e608bf6fb80826f8780ffc649e94b62",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-biological-sciences-80779fbc7a"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Biological Sciences and Psychology, B.S.",
+      "name_en": "Biological Sciences and Psychology",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-psychology-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-487ffb4289fc8b"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Honors Modern Biology；Modern Biology；Undergraduate Colloquium for Sophomores *Only required for MCS Students；Honors Biochemistry；Biochemistry I；Cell Biology *New course number ( 03-240 ) starting Fall。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-487ffb4289fc8b"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-487ffb4289fc8b",
+          "title": "Biological Sciences and Psychology — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/biological-sciences-psychology-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "d1ddc7b94f01fdfc097ede1979ac6526032e12b55dae846f60629cf5bc2b7ebd",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-biological-sciences-and-psychology-0865c2abe9"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Biomedical Engineering, Additional Major",
+      "name_en": "Biomedical Engineering",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-engineering-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-505d94c00fbbf0"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Modern Biology；Honors Modern Biology；Introduction to Biomedical Engineering；Professional Issues in Biomedical Engineering；Physiology；Biomedical Engineering Laboratory *。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-505d94c00fbbf0"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-505d94c00fbbf0"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-505d94c00fbbf0",
+          "title": "Biomedical Engineering — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-engineering-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "02e414bdf994c15ffe449c76d6b8bd65352c4470ec409127b9908cfc91978acf",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-biomedical-engineering-df467701d6"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Biomedical Technology, Additional Major",
+      "name_en": "Biomedical Technology",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-technology-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-b1bd18a7426e24"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Modern Biology；Honors Modern Biology；Introduction to Biomedical Engineering；Professional Issues in Biomedical Engineering；Physiology；Biomedical Engineering Laboratory *。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-b1bd18a7426e24"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-b1bd18a7426e24"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-b1bd18a7426e24",
+          "title": "Biomedical Technology — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofbiomedicalengineering/biomedical-technology-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "f0371c96c3409e76b374863d372681aa4048805a71cfac6d8d5cea6a12d2f3af",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-biomedical-technology-0b532dcf97"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Business Administration, Additional Major",
+      "name_en": "Business Administration",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-3cf64124a1a009"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential and Integral Calculus；Differential Calculus and Integral Calculus；Multivariate Analysis；Linear Algebra and Vector Calculus for Engineers；Calculus in Three Dimensions；Vector Calculus using Matrix Algebra。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-3cf64124a1a009"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-3cf64124a1a009"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-3cf64124a1a009",
+          "title": "Business Administration — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "c30bd28a409745a3fdc575ee0a7f3c39a86e469359a1b778bcfccec54b8bb6b6",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-business-administration-6083337486"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Business Administration, B.S.",
+      "name_en": "Business Administration",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-c36fd908dade3d"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential and Integral Calculus；Differential Calculus and Integral Calculus；Multivariate Analysis；Calculus in Three Dimensions；Optimization for Business；Operations Research I。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-c36fd908dade3d"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-c36fd908dade3d",
+          "title": "Business Administration — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/business-administration-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "596064515db3f47ec28373102bc4008d3cf2d8b312270354c0a9eaa2254d7c0f",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-business-administration-2ac30b6b69"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Chemical Engineering, B.S.",
+      "name_en": "Chemical Engineering",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofchemicalengineering/chemical-engineering-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-2c3f14116dd35d"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-2c3f14116dd35d",
+          "title": "Chemical Engineering — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofchemicalengineering/chemical-engineering-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "5a207ab12360ea50f62a6f02335ab53343e3de305f43f460c4375661139ddb72",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-chemical-engineering-016318285c"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Chemistry, B.A.",
+      "name_en": "Chemistry",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e39467c440d796"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Physics I for Science Students；Physics II for Biological Sciences and Chemistry Students；Principles of Computing；Fundamentals of Programming and Computer Science；Programming for Scientists；Differential and Integral Calculus。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-e39467c440d796"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e39467c440d796",
+          "title": "Chemistry — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "fd1406a6369659fbf7cadca5cfae788526f4bae5fc5150bdaf3e427cfff9d462",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-chemistry-be656f04b0"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Chemistry, B.S.",
+      "name_en": "Chemistry",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-2b1c1bcf375c10"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Physics I for Science Students；Physics II for Biological Sciences and Chemistry Students；Modern Biology；Honors Biochemistry；Biochemistry I；Principles of Computing。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-2b1c1bcf375c10"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-2b1c1bcf375c10",
+          "title": "Chemistry — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "05e8e0a615778cbfde01b8b6fd5c2f5d5aa762b7676a02cce986e045b51e9b60",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-chemistry-767eed0992"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Chemistry/Biological Chemistry Track, B.S.",
+      "name_en": "Chemistry/Biological Chemistry Track",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-biological-chemistry-track-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-56e0275e63dc66"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Physics I for Science Students；Physics II for Biological Sciences and Chemistry Students；Modern Biology；Principles of Computing；Fundamentals of Programming and Computer Science；Programming for Scientists。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-56e0275e63dc66"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-56e0275e63dc66",
+          "title": "Chemistry/Biological Chemistry Track — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofchemistry/chemistry-biological-chemistry-track-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "8ac9aef2d28de10699d54417a52598e9215cc0b95485b8e75117dc680fb3b2e1",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-chemistry-biological-chemistry-track-6cf6c84718"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Civil Engineering, B.S.",
+      "name_en": "Civil Engineering",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofcivilandenvironmentalengineering/civil-engineering-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-c2d9791a899d73"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-c2d9791a899d73",
+          "title": "Civil Engineering — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofcivilandenvironmentalengineering/civil-engineering-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "7498a9fe5e01f7fb91cab09c47d8d5f6bf7b4c620534519bad986784951bf69a",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-civil-engineering-1175854898"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Cognitive Science, B.S.",
+      "name_en": "Cognitive Science",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/cognitive-science-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-832e1ac5cfb4f1"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Cognitive Psychology；Foundations of Brain and Behavior；Introduction to Research Methods；Experimental Design for Behavioral & Social Sciences；Statistical Concepts and Methods for Behavioral and Social Science；Introduction to Probability Theory。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-832e1ac5cfb4f1"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-832e1ac5cfb4f1",
+          "title": "Cognitive Science — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/cognitive-science-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "1b4b9b8106beab2f7d456c6f199ded52837caba3d14ebd87033d4e1167799bc9",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-cognitive-science-090e83b0cb"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Composition, B.F.A.",
+      "name_en": "Composition",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/composition-bfa/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.F.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-1c4bcaa5ed349d"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Composers Forum；Convocation；Introduction to Music Technology；Basic Harmony I；Harmony I；Eurhythmics I。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-1c4bcaa5ed349d"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-1c4bcaa5ed349d",
+          "title": "Composition — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/composition-bfa/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "77029872e400da519189619c2007739947b588546e3b5225424f9be9c72bf1bd",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.F.A.",
+      "inventory_id": "cmu-composition-a4d2b1eb49"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Computational Biology, Additional Major",
+      "name_en": "Computational Biology",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-fe487efe1964dd"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Great Ideas in Computational Biology I and Great Ideas in Computational Biology II；Introduction to Computational Biology；Honors Modern Biology；Modern Biology；Principles of Imperative Computation；Mathematical Foundations for Computer Science。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-fe487efe1964dd"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-fe487efe1964dd"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-fe487efe1964dd",
+          "title": "Computational Biology — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "61e5e9dd433decd21e6834b3868312c295edb8699e9f8ba8be12f72f3afe7bb2",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-computational-biology-d95f1e62d2"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Computational Biology, B.S.",
+      "name_en": "Computational Biology",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e2cefa445dc9d0"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e2cefa445dc9d0",
+          "title": "Computational Biology — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputatonalbiology/computational-biology-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "c530cb383feff83361a3c2d08621ad0b2f3538da386c69730e640cf594049db3",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-computational-biology-c72bc078eb"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Computational Finance, B.S.",
+      "name_en": "Computational Finance",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/computational-finance/computational-finance-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-024dccae96b639"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential and Integral Calculus；Integration and Approximation；Concepts of Mathematics；Matrices and Linear Transformations；Calculus in Three Dimensions；Differential Equations。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-024dccae96b639"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-024dccae96b639",
+          "title": "Computational Finance — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/computational-finance/computational-finance-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "d9ade280a2b73a0bd9bdc9c4a2609c98c2d3ada36c358da459903fb6f0e1d86f",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-computational-finance-250e0de9ef"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Computer Science, Additional Major",
+      "name_en": "Computer Science",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-803fc73db1e901"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Principles of Imperative Computation；Principles of Functional Programming；Parallel and Sequential Data Structures and Algorithms；Introduction to Computer Systems；Great Ideas in Theoretical Computer Science；Algorithm Design and Analysis。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-803fc73db1e901"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-803fc73db1e901"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-803fc73db1e901",
+          "title": "Computer Science — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "268a25106df438d4b15904651b0462864fbca2607039a12026307434b880479f",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-computer-science-916600e2a0"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Computer Science, B.S.",
+      "name_en": "Computer Science",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-0e3470ad4034b5"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-0e3470ad4034b5",
+          "title": "Computer Science — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/computer-science-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "86927fbb03c138cf6ee5068647d2218f05fa9a046b79101faa150d0e8720d3e7",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-computer-science-7474e1ede3"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Computer Science and Arts, B.C.S.A.",
+      "name_en": "Computer Science and Arts",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/computer-science-arts/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.C.S.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-52a9be98bd8b11"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-52a9be98bd8b11",
+          "title": "Computer Science and Arts — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/computer-science-arts/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "83a010c5bf0ebf7af4c116706d0a413252db1c3b5271c2a3fca1dfed0e29bce0",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.C.S.A.",
+      "inventory_id": "cmu-computer-science-and-arts-2a128944cb"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Creative Writing, B.A.",
+      "name_en": "Creative Writing",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/creative-writing-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-7a613cb3640103"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to TV Writing；Introduction to Writing Fiction；Intro to Writing Creative Nonfiction；Introduction to Writing Poetry；Introduction to Screenwriting；Reading in Forms: Nonfiction。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-7a613cb3640103"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-7a613cb3640103",
+          "title": "Creative Writing — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/creative-writing-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "3c9b7ca654f168e94445a37ff67e1baed4cc7f6283247c96cb295ec365d180d7",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-creative-writing-6592be86dc"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Decision Science, B.S.",
+      "name_en": "Decision Science",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/decision-science-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-b343e6d63ba168"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential Calculus and Integral Calculus；Differential and Integral Calculus；Reasoning with Data；Integration and Approximation；Multivariate Analysis；Modern Regression。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-b343e6d63ba168"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-b343e6d63ba168",
+          "title": "Decision Science — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/decision-science-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e353a749eb274535641b9864a73f05eb5a76284628f8dc25b8e11baa86654ed8",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-decision-science-c78203aec1"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Design, B.Des.",
+      "name_en": "Design",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdesign/design-bdes/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.Des.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-db03171a2b62cd"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Studio: Survey of Design；Visualizing；Design Studies: Place；Design Studies: Histories；Interpretation and Argument；Introduction to Psychology。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-db03171a2b62cd"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-db03171a2b62cd",
+          "title": "Design — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdesign/design-bdes/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "f05bfa77caa5a504b89956a3c009af8ee884ef8d5c437b1c541f3e6c777c63c7",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.Des.",
+      "inventory_id": "cmu-design-047ac28839"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Drama, B.F.A.",
+      "name_en": "Drama",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdrama/drama-bfa/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.F.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-70ffae0348e602"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [
+          {
+            "label": "导演方向暂停",
+            "text": "本页仅 Directing Program 小标题标注招生暂停；不得据此推定整个 Drama BFA 停招。其他表演与制作方向须各核试镜／作品材料。",
+            "source_ids": [
+              "USBENR-70ffae0348e602"
+            ],
+            "extraction_locator": "Directing Program (Admissions on pause)"
+          }
+        ],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-70ffae0348e602",
+          "title": "Drama — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofdrama/drama-bfa/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "ae4c0de516c93dc0e3916de27a301be1c78269e911793f08347af3392e9993c8",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.F.A.",
+      "inventory_id": "cmu-drama-fe91477285"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Economics, Additional Major",
+      "name_en": "Economics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-8f4b83ceca3501"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential and Integral Calculus；Differential Calculus and Integral Calculus；Multivariate Analysis；Linear Algebra and Vector Calculus for Engineers；Calculus in Three Dimensions；Vector Calculus using Matrix Algebra。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-8f4b83ceca3501"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-8f4b83ceca3501"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-8f4b83ceca3501",
+          "title": "Economics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "d145c0e549dd9b6de16337ae12872af2203919ff00c8148fb5c3ff75d0b131dc",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-economics-afa6a7e260"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Economics, B.A.",
+      "name_en": "Economics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-a2bd7af0feedd6"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential and Integral Calculus；Differential Calculus and Integral Calculus；Multivariate Analysis；Calculus in Three Dimensions；Principles of Microeconomics；Principles of Microeconomics Accelerated。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-a2bd7af0feedd6"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-a2bd7af0feedd6",
+          "title": "Economics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "ed64eed55984d529cee876b48dee1dbc32edcceaf57c016d490775bf74537d1a",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-economics-a2d20ce8ed"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Economics, B.S.",
+      "name_en": "Economics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-ec1946093ce9af"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential and Integral Calculus；Differential Calculus and Integral Calculus；Multivariate Analysis；Calculus in Three Dimensions；Matrix Algebra with Applications；Matrices and Linear Transformations。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-ec1946093ce9af"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-ec1946093ce9af",
+          "title": "Economics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "1a2ced194ce9c049a542eed595bd89699167b0f34614ba09329ea3ed2160ff3f",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-economics-481d3c46b3"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Economics and Mathematical Sciences, B.S.",
+      "name_en": "Economics and Mathematical Sciences",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-mathematical-sciences-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-4425bc6e45abe1"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Principles of Microeconomics *；Principles of Microeconomics Accelerated；Principles of Macroeconomics；Intermediate Microeconomics；Intermediate Macroeconomics；Probability and Statistics for Business Applications。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-4425bc6e45abe1"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-4425bc6e45abe1",
+          "title": "Economics and Mathematical Sciences — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduateeconomicsprogram/economics-mathematical-sciences-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "652980f0894906a9496ad1124729a9d73d1613140935984f616fe3ee479c5bdc",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-economics-and-mathematical-sciences-0d2442bdc0"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Economics and Politics, B.S.",
+      "name_en": "Economics and Politics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/economics-politics-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-baf55673662fea"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential and Integral Calculus；Integral Calculus；Multivariate Analysis；Calculus in Three Dimensions；Principles of Microeconomics *；Principles of Microeconomics Accelerated。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-baf55673662fea"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-baf55673662fea",
+          "title": "Economics and Politics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/economics-politics-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "d181b3141d6364ef9765e7a4317f6a52d51a5eeb4b34df598e85d4780318a28a",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-economics-and-politics-d4d9bfa8ec"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Economics and Statistics, B.S.",
+      "name_en": "Economics and Statistics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/economics-statistics-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-bb8fa770b5c210"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Precalculus；Differential Calculus；Integral Calculus；Differential and Integral Calculus；Multivariate Analysis；Calculus in Three Dimensions。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-bb8fa770b5c210"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-bb8fa770b5c210",
+          "title": "Economics and Statistics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/economics-statistics-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "82850c782f562296fe2c4f2e48c271ca0914e9055ec5327cfa96fb68a11884b2",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-economics-and-statistics-465fe41f21"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Electrical and Computer Engineering, B.S.",
+      "name_en": "Electrical and Computer Engineering",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/electrical-computer-engineering-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-57b82021e82d6d"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-57b82021e82d6d",
+          "title": "Electrical and Computer Engineering — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/electrical-computer-engineering-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "a64695eb6fb00c1b8f495626f22070b0f61052a8256446fa5f36126e8b897162",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-electrical-and-computer-engineering-1f2aa497cd"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Electronic Music, B.F.A",
+      "name_en": "Electronic Music",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/electronic-music-bfa/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.F.A；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-8fe2e9d805f83c"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Convocation；Basic Harmony I；Harmony I；Eurhythmics I；Basic Solfege I；Solfege I。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-8fe2e9d805f83c"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-8fe2e9d805f83c",
+          "title": "Electronic Music — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/electronic-music-bfa/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e84a846e14d048864bb718eaa5c96ccd1f48a0ff67a8c8b44fd3e35d50b7d845",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.F.A",
+      "inventory_id": "cmu-electronic-music-688bb7d15e"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Engineering and Arts, Additional Major",
+      "name_en": "Engineering and Arts",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-arts-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e2eb5fb23006ab"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：BXA Seminar I: Building the Wunderkammer -Spring, First-year (mini-3)；BXA Seminar II: Transferring Knowledge -Spring, Sophomore year (mini-4)；BXA Seminar III: Deconstructing Disciplines -Spring, Junior year；BXA Seminar IV: Capstone Project Research -Fall, Senior year；BXA Seminar V: Capstone Project Production -Spring, Senior year；Architecture Design Studio: Core 1 - Foundations -Fall, First-year or Sophomore year。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-e2eb5fb23006ab"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-e2eb5fb23006ab"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e2eb5fb23006ab",
+          "title": "Engineering and Arts — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-arts-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "d27b5456bd93366115154bc84ac4a065d8fcfd296cee3e43288bc15c69e7eea2",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-engineering-and-arts-dc14982e59"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Engineering and Public Policy, Additional Major",
+      "name_en": "Engineering and Public Policy",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofengineeringandpublicpolicy/engineering-public-policy-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-2023c511e1e6aa"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to Engineering and Public Policy；Professional Issues in Engineering, Science, Technology and Public Policy；Principles of Microeconomics；The Economics of Politics and Technology；Engineering Statistics and Quality Control；Introduction to Statistical Inference。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-2023c511e1e6aa"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-2023c511e1e6aa"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-2023c511e1e6aa",
+          "title": "Engineering and Public Policy — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofengineeringandpublicpolicy/engineering-public-policy-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e921996c66f3b76a7334b764be9358017b42f20f28d3975f6ca5ca43336405f4",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-engineering-and-public-policy-f798e7eb0f"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Engineering Design, Innovation, and Entrepreneurship, Additional Major",
+      "name_en": "Engineering Design, Innovation, and Entrepreneurship",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/integratedinnovationinstitute/engineering-design-innovation-entrepreneurship-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-7dda9025a011cb"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-7dda9025a011cb"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-7dda9025a011cb",
+          "title": "Engineering Design, Innovation, and Entrepreneurship — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/integratedinnovationinstitute/engineering-design-innovation-entrepreneurship-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "c8863d9d5cdd8c8fff23f3d9e45055b62ae09225480f7855aab7853d79040936",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-engineering-design-innovation-and-entrepreneurship-2976ada4b8"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Engineering Studies and Arts, B.E.S.A.",
+      "name_en": "Engineering Studies and Arts",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.E.S.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-86c65c6273368b"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-86c65c6273368b",
+          "title": "Engineering Studies and Arts — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/engineering-studies-arts/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "eb271f44040a1c44778a7f9c1288e778ba425508c5bdc36a3796692bc2fbc7ee",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.E.S.A.",
+      "inventory_id": "cmu-engineering-studies-and-arts-9124bf8cd3"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Environmental and Sustainability Studies, Additional Major",
+      "name_en": "Environmental and Sustainability Studies",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/environmental-sustainability-studies/environmental-sustainability-studies-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e7cc785a4159c2"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Environmental Systems on a Changing Planet；Introduction to Environmental Ideas；Interdisciplinary Dialogues for Environmental & Sustainability Studies；Senior Capstone；Ecology and Environmental Science；Chemistry and Sustainability。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-e7cc785a4159c2"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-e7cc785a4159c2"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e7cc785a4159c2",
+          "title": "Environmental and Sustainability Studies — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/environmental-sustainability-studies/environmental-sustainability-studies-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "ae835d2bfa47a3a5cd078eb85309a1732a9a22d0bd6c0cef46afb84cf9a5ae2c",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-environmental-and-sustainability-studies-2083339f10"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Environmental Engineering, B.S.",
+      "name_en": "Environmental Engineering",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofcivilandenvironmentalengineering/environmental-engineering-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-5fc6cf16490b2e"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-5fc6cf16490b2e",
+          "title": "Environmental Engineering — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofcivilandenvironmentalengineering/environmental-engineering-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "8ba236bf1cf99b5f04a66f465d23b0c99e81190965c4239f4e5c6dd989620ac0",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-environmental-engineering-5b1dd87e14"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Ethics, History and Public Policy, B.A/B.S.",
+      "name_en": "Ethics, History and Public Policy",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/ethics-history-public-policy-ba-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e092b9cc55cce1"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e092b9cc55cce1",
+          "title": "Ethics, History and Public Policy — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/ethics-history-public-policy-ba-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "b6e95d0bf0cd2bef4e0e0ca1d37711138886e2aecbe31594d8ce16ee72577510",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-ethics-history-and-public-policy-839a868b10",
+      "coverage_notes": "同页合载B.A./B.S.，已移除无法明确区分学位的课程表抽样；共同校内条件如有另列。"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Ethics, History and Public Policy, B.A/B.S.",
+      "name_en": "Ethics, History and Public Policy",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/ethics-history-public-policy-ba-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e092b9cc55cce1"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e092b9cc55cce1",
+          "title": "Ethics, History and Public Policy — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/ethics-history-public-policy-ba-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "b6e95d0bf0cd2bef4e0e0ca1d37711138886e2aecbe31594d8ce16ee72577510",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-ethics-history-and-public-policy-61a841bf8d",
+      "coverage_notes": "同页合载B.A./B.S.，已移除无法明确区分学位的课程表抽样；共同校内条件如有另列。"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Film and Visual Media, B.A.",
+      "name_en": "Film and Visual Media",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/film-visual-media-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-ab8c69ab3c2012"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to Film Studies；Film History；Introduction to Screenwriting；Introduction to Film Production；Screenwriting Workshop；Moving Pictures。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-ab8c69ab3c2012"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-ab8c69ab3c2012",
+          "title": "Film and Visual Media — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/film-visual-media-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e2454a3351c15e9ca42ac0c4b08286198d2089c6a8775df46d7bda5c2fc99fe6",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-film-and-visual-media-01846fe548"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "General Studies, B.A./B.S.",
+      "name_en": "General Studies",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/general-studies-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-71fbc63d657f07"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "毕业要求",
+            "text": "General Studies共同毕业要求至少360个units，另有高年级、辅修、Capstone及成绩条件；B.A./B.S.方案由委员会按课程计划批准。",
+            "source_ids": [
+              "USBENR-71fbc63d657f07"
+            ],
+            "extraction_locator": "Degree Structure and Graduation Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "仅限在校生经批准转入",
+            "text": "不能独立直接申请此学位。须先修完至少180个CMU units，其中75%在CMU取得，并满足大一写作/Core、拟修辅修进度等要求，由学院及General Studies委员会批准；普通高中生不能以此作为直入入口。",
+            "source_ids": [
+              "USBENR-71fbc63d657f07"
+            ],
+            "extraction_locator": "Eligibility and Approval"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-71fbc63d657f07",
+          "title": "General Studies — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/general-studies-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "7acc1fc5641f408906e4350e5b1d20ea13db0219fe6b527989c784734931cca6",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-general-studies-969cdee7c1",
+      "coverage_notes": "同页合载B.A./B.S.，已移除无法明确区分学位的课程表抽样；共同校内条件如有另列。",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ]
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "General Studies, B.A./B.S.",
+      "name_en": "General Studies",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/general-studies-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-71fbc63d657f07"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "毕业要求",
+            "text": "General Studies共同毕业要求至少360个units，另有高年级、辅修、Capstone及成绩条件；B.A./B.S.方案由委员会按课程计划批准。",
+            "source_ids": [
+              "USBENR-71fbc63d657f07"
+            ],
+            "extraction_locator": "Degree Structure and Graduation Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "仅限在校生经批准转入",
+            "text": "不能独立直接申请此学位。须先修完至少180个CMU units，其中75%在CMU取得，并满足大一写作/Core、拟修辅修进度等要求，由学院及General Studies委员会批准；普通高中生不能以此作为直入入口。",
+            "source_ids": [
+              "USBENR-71fbc63d657f07"
+            ],
+            "extraction_locator": "Eligibility and Approval"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-71fbc63d657f07",
+          "title": "General Studies — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/general-studies-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "7acc1fc5641f408906e4350e5b1d20ea13db0219fe6b527989c784734931cca6",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-general-studies-1e2997edeb",
+      "coverage_notes": "同页合载B.A./B.S.，已移除无法明确区分学位的课程表抽样；共同校内条件如有另列。",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ]
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Global Cultures and Emerging Technologies, B.A.",
+      "name_en": "Global Cultures and Emerging Technologies",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentoflanguagesculturesappliedlinguistics/global-cultures-emerging-technologies-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-5ca47560848c07"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Interpreting Global Texts & Cultures；Language Diversity & Cultural Identity；AI, XR and Digital Literacies for Global Cultures；AI for the Humanities: Learning, Reflection, and Creative Practices；Digital Realities: An Introduction to Immersive Storytelling；Global Food Cultures。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-5ca47560848c07"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-5ca47560848c07",
+          "title": "Global Cultures and Emerging Technologies — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentoflanguagesculturesappliedlinguistics/global-cultures-emerging-technologies-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "b33f8851ddb02e2793586ce6960d8ef0bbc3fa8417765bdf2d34373678cd8b70",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-global-cultures-and-emerging-technologies-1f8645f622"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Health Humanities, Additional Major",
+      "name_en": "Health Humanities",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/health-humanities-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e36690cb66bfc4"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Structure and Function of the Human Body；Basic Science to Modern Medicine；Physiology；Neurobiology of Disease；Molecules to Mind；Hooked: The Molecular Basis of Addiction。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-e36690cb66bfc4"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-e36690cb66bfc4"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e36690cb66bfc4",
+          "title": "Health Humanities — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/interdisciplinary/health-humanities-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "4079427dcca981861746e9e9c37da1f571393c2aaf7f91fb79d7aae73f9f22b9",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-health-humanities-7bd081b407"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "History, B.A.",
+      "name_en": "History",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/history-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-b7f42d6cec1318"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Genocide and Weapons of Mass Destruction；Introduction to the History of Science；Democracy and History: Thinking Beyond the Self；Introduction to Historical Research & Writing；Advanced Seminar in History；Introduction to the Medieval Mediterranean World。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-b7f42d6cec1318"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-b7f42d6cec1318",
+          "title": "History — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/history-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "88c07a180a519864aa367af10c135b22695879bf6b0e2b5e1b4ee4a8152ae4e6",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-history-3802ca6f36"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Human-Computer Interaction, Additional Major",
+      "name_en": "Human-Computer Interaction",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-b3532208bd1ca9"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Cognitive Psychology；Social Psychology；Human Information Processing and Artificial Intelligence；Reasoning with Data；Engineering Statistics and Quality Control；Introduction to Probability Theory and Introduction to Statistical Inference。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-b3532208bd1ca9"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-b3532208bd1ca9"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-b3532208bd1ca9",
+          "title": "Human-Computer Interaction — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "f4bf98e9b92030b552f35067475799ab96d3e3b7275c7081dc2b7d8a940858ae",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-human-computer-interaction-96c874d07e"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Human-Computer Interaction, B.S.",
+      "name_en": "Human-Computer Interaction",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-cb91f6420cfdf9"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-cb91f6420cfdf9",
+          "title": "Human-Computer Interaction — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/humancomputerinteractionprogram/human-computer-interaction-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "47b55a6fa59d493f455829e73eb19ba5a03548c818723f6d8d5fbc1ca90a8d37",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-human-computer-interaction-711b35911c"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Humanities and Arts, B.H.A.",
+      "name_en": "Humanities and Arts",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.H.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-ea0c35b792309c"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-ea0c35b792309c",
+          "title": "Humanities and Arts — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/humanities-arts/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "1e8c487802c8a41b301bedc0dc6ae616f0c29abcc9962006a82392e638fa91fc",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.H.A.",
+      "inventory_id": "cmu-humanities-and-arts-b49261b822"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Information Systems, B.S.",
+      "name_en": "Information Systems",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/informationsystems/information-systems-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-d33becef81af58"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Integral Calculus Pre-requisite of 21-111；Differential and Integral Calculus Pre-requisite of 21-090；Concepts of Mathematics；Matrix Algebra with Applications；Logic and Proofs；Principles of Computing。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-d33becef81af58"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-d33becef81af58",
+          "title": "Information Systems — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/informationsystems/information-systems-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "d5a629621ef2c5ba3f5dea1b010251d43ebd125e090e7743af34a1753053e5cc",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-information-systems-e92d84e221"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "International Relations and Political Science, B.S.",
+      "name_en": "International Relations and Political Science",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/international-relations-political-science-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-0fee3cb84df466"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to Political Science；The Economics of Politics and Technology；Principles of Microeconomics；Principles of Macroeconomics；Principles of Microeconomics Accelerated；Writing for Political Science and Policy。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-0fee3cb84df466"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-0fee3cb84df466",
+          "title": "International Relations and Political Science — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/international-relations-political-science-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "f5910816331b4a69f1eb3eb9d0edab89e2d00a1d6c072459212c07b6163c24ae",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-international-relations-and-political-science-21e65dea73"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Languages and Cultures, B.A.",
+      "name_en": "Languages and Cultures",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentoflanguagesculturesappliedlinguistics/languages-cultures-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-4b4c3e8418e26f"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Interpreting Global Texts & Cultures；Language Diversity & Cultural Identity；Senior Seminar in Languages, Cultures and Applied Linguistics。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-4b4c3e8418e26f"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-4b4c3e8418e26f",
+          "title": "Languages and Cultures — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentoflanguagesculturesappliedlinguistics/languages-cultures-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "43f278d430ba92c3feccb119bf0937e374753830c1a9d08d7f119c05bf598f06",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-languages-and-cultures-d972e59659"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Linguistics, B.A.",
+      "name_en": "Linguistics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/linguistics-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-cb75c5a8763bc7"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to Linguistics；Phonetics and Phonology；Linguistic Analysis；Natural Language Syntax；Meaning in Language；Language in Use。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-cb75c5a8763bc7"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-cb75c5a8763bc7",
+          "title": "Linguistics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/linguistics-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "00d56ab659b27a0b1656f6f01872101cef55f8201a914d49979e72e60e9c70bb",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-linguistics-d5f9358e41"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Literature and Culture, B.A.",
+      "name_en": "Literature and Culture",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/literature-culture-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-ca236a3a21ce55"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to TV Writing；Introduction to Writing Fiction；Intro to Writing Creative Nonfiction；Introduction to Writing Poetry；Introduction to Screenwriting；Shakespeare: Tragedies & Histories。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-ca236a3a21ce55"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-ca236a3a21ce55",
+          "title": "Literature and Culture — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/literature-culture-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "55e68812cde02f3026d4773529467a96ab0a1e2fe67175135e8961b84d0bb4fa",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-literature-and-culture-3657efa180"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Logic and Computation, B.S.",
+      "name_en": "Logic and Computation",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/logic-computation-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-b0371728511302"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Nature of Reason；Logic and Mathematical Inquiry；Logic and Proofs；Reasoning with Data；Fundamentals of Programming and Computer Science；Concepts of Mathematics。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-b0371728511302"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-b0371728511302",
+          "title": "Logic and Computation — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/logic-computation-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "126c3ab282fd854b7a9adba9c98ada944c050f21fdcf36f200c8fe9ce8fd1fff",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-logic-and-computation-63b356f696"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Materials Science and Engineering, B.S.",
+      "name_en": "Materials Science and Engineering",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/materialsscienceandengineering/materials-science-engineering-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-599d3198e5c309"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-599d3198e5c309",
+          "title": "Materials Science and Engineering — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/materialsscienceandengineering/materials-science-engineering-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "ce6dcd0363f3c1069b136454e15a8e92209795565087856a65b5aeb5c7e2882a",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-materials-science-and-engineering-61dfff2474"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Mathematical Sciences, B.A.",
+      "name_en": "Mathematical Sciences",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-4e1476d783a8af"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential and Integral Calculus；Integration and Approximation；Concepts of Mathematics；Mathematical Concepts and Proofs；Undergraduate Colloquium；Discrete Mathematics。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-4e1476d783a8af"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-4e1476d783a8af",
+          "title": "Mathematical Sciences — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "3f74938ce21ba96f40aae51bbc8264042b9d74bcd2066b00991e1f62152b3f04",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-mathematical-sciences-930fdfb9e9"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Mathematical Sciences, B.S.",
+      "name_en": "Mathematical Sciences",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-dd32a6b2303d4f"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-dd32a6b2303d4f",
+          "title": "Mathematical Sciences — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "fcc2af5c8a6c378d04bd1e65bb51ed083014ed167ecc3807c122fe8217644efd",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-mathematical-sciences-f9ee47c722"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Mathematical Sciences and Economics, B.S.",
+      "name_en": "Mathematical Sciences and Economics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-economics-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-01cc8ca2d6e946"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Principles of Microeconomics；Principles of Microeconomics Accelerated；Principles of Macroeconomics；Intermediate Microeconomics；Intermediate Macroeconomics；Probability and Statistics for Business Applications。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-01cc8ca2d6e946"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-01cc8ca2d6e946",
+          "title": "Mathematical Sciences and Economics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/mathematical-sciences-economics-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "02ed36147e70a6bb3d6e869efec5f05c6002443fab605d96fcf10b9055c88fe6",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-mathematical-sciences-and-economics-2e2cffb8ad"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Mechanical Engineering, B.S.",
+      "name_en": "Mechanical Engineering",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofmechanicalengineering/mechanical-engineering-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-94a56da4a8dd81"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-94a56da4a8dd81",
+          "title": "Mechanical Engineering — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofmechanicalengineering/mechanical-engineering-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "71e8488fa0215caae60c10edc7832a78636084513c38f592cc641e5691bcdb61",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-mechanical-engineering-9ac3cbaa90"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Music and Technology, B.S.",
+      "name_en": "Music and Technology",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-technology-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-a36552ab88b550"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to Music Technology；Basic Harmony I；Harmony I；Eurhythmics I；Basic Solfege I；Solfege I。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-a36552ab88b550"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-a36552ab88b550",
+          "title": "Music and Technology — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-technology-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "067a3d539b3fac1e434a6264664f94fb0717c02f6d6b3bdd87cd154ad3b8eb48",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-music-and-technology-e613109a25"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Music Performance, B.F.A.",
+      "name_en": "Music Performance",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-performance-bfa/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.F.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-a3a82d8f13909c"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-a3a82d8f13909c",
+          "title": "Music Performance — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeoffinearts/schoolofmusic/music-performance-bfa/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "4c1118b85f421a12a886155c1dea1fbe19c7d31979ea43c1b71459bea2ea0851",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.F.A.",
+      "inventory_id": "cmu-music-performance-51a37e209d"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Neuroscience, B.S.",
+      "name_en": "Neuroscience",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/neuroscience-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-83360d7f7e92b2"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential and Integral Calculus；Integration and Approximation；Modern Biology；Honors Modern Biology；Undergraduate Colloquium for Sophomores *Only required for MCS Students；Genetics *New course code ( 03-330 ) starting Fall。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-83360d7f7e92b2"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-83360d7f7e92b2",
+          "title": "Neuroscience — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/majors-minors/neuroscience-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "3bc8f3ca289e28e74abf5638b1ef35d602bd61b1c5b0984cc420e9fd54327735",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-neuroscience-fc970bfdef"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Philosophy, B.A.",
+      "name_en": "Philosophy",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/philosophy-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-76c78b0c68201f"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to Philosophy；Introduction to Ethics；Introduction to Political Philosophy；Social Structure, Public Policy & Ethics；Philosophy of Race and Gender；Environmental Ethics。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-76c78b0c68201f"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-76c78b0c68201f",
+          "title": "Philosophy — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofphilosophy/philosophy-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "4c8ce327b9e881a17da2fd657658817b6e48e222b167bea2b397b0546a4f2263",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-philosophy-27eea76419"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Physics, Additional Major",
+      "name_en": "Physics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-4c9e202e01cf77"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Physics I for Science Students；Physics I for Engineering Students；Matter and Interactions I；Physics II for Engineering and Physics Students；Matter and Interactions II；Experimental Physics。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-4c9e202e01cf77"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-4c9e202e01cf77"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-4c9e202e01cf77",
+          "title": "Physics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e07984f923ea4d5c9e27dbb8bb440cc2db402f80ceb17fcb22ba83eb33e5db30",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-physics-61eabe6381"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Physics, B.A.",
+      "name_en": "Physics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-66f81f145cf8d6"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Physics I for Science Students；Matter and Interactions I；Physics II for Engineering and Physics Students；Matter and Interactions II；Experimental Physics；Physics Sophomore Colloquium I。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-66f81f145cf8d6"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-66f81f145cf8d6",
+          "title": "Physics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "9f7b94543c082b8991910cae86b58de654909aeb45b7efb543cab826fe83ae5e",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-physics-748531956f"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Physics, B.S.",
+      "name_en": "Physics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-c1729b288fae2a"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Physics I for Science Students；Matter and Interactions I；Physics II for Engineering and Physics Students；Matter and Interactions II；Experimental Physics；Physics Sophomore Colloquium I。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-c1729b288fae2a"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-c1729b288fae2a",
+          "title": "Physics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofphysics/physics-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "5f5c1c0f7ecb10e39e2d242d6cd045bb15b95acb82f11dcf72557a530dbd78ff",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-physics-72252a065b"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Policy and Management, B.S.",
+      "name_en": "Policy and Management",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/policy-management-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-b700906695230d"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential Calculus and Integral Calculus；Differential and Integral Calculus；Reasoning with Data；Principles of Microeconomics；Principles of Microeconomics Accelerated；Markets, Democracy, and Public Policy。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-b700906695230d"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-b700906695230d",
+          "title": "Policy and Management — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofsocialanddecisionsciences/policy-management-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "a2cc5a9d003b81aac4d3e768dfb202fa203eaa0db945641203b1b0d7fc83027d",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-policy-and-management-51a6c2b0ab"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Political Science, Security, and Technology, B.S.",
+      "name_en": "Political Science, Security, and Technology",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/political-science-security-technology-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-76802d72eafbfc"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to Political Science；Decision Processes in American Political Institutions；International Relations；Writing for Political Science and Policy；An Introduction to Technology and War；Politics, Technological Change, and Economic Growth。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-76802d72eafbfc"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-76802d72eafbfc",
+          "title": "Political Science, Security, and Technology — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/carnegiemelloninstituteforstrategyandtechnology/political-science-security-technology-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "50b553380206c05f4f5b407e7c06a420c4b28a54d1bb07b7815a82fc85a12724",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-political-science-security-and-technology-e5e8678c07"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Professional Writing, B.A.",
+      "name_en": "Professional Writing",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/professional-writing-ba/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-b94b227a98d011"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to TV Writing；Introduction to Writing Fiction；Intro to Writing Creative Nonfiction；Introduction to Writing Poetry；Introduction to Screenwriting；Introduction to Professional and Technical Writing。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-b94b227a98d011"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-b94b227a98d011",
+          "title": "Professional Writing — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/professional-writing-ba/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "22b136aae62ead170ecd399c77419e6c64a3bd0bd1c07004efd530c2bb22365e",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-professional-writing-2051e72cb6"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Psychology, B.A./B.S",
+      "name_en": "Psychology",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-ba-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-61d680c92af29f"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-61d680c92af29f",
+          "title": "Psychology — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-ba-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "0d09619af5b885c45b237f5332545089a61e2e1e75f78ab296e7ddd6c5a45977",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.A.",
+      "inventory_id": "cmu-psychology-1f434851c2",
+      "coverage_notes": "同页合载B.A./B.S.，已移除无法明确区分学位的课程表抽样；共同校内条件如有另列。"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Psychology, B.A./B.S",
+      "name_en": "Psychology",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-ba-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-61d680c92af29f"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-61d680c92af29f",
+          "title": "Psychology — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-ba-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "0d09619af5b885c45b237f5332545089a61e2e1e75f78ab296e7ddd6c5a45977",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-psychology-8144398dd3",
+      "coverage_notes": "同页合载B.A./B.S.，已移除无法明确区分学位的课程表抽样；共同校内条件如有另列。"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Psychology and Biological Sciences, B.S.",
+      "name_en": "Psychology and Biological Sciences",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-biological-sciences-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-4c242d6a8cdc19"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Honors Modern Biology；Modern Biology；Undergraduate Colloquium for Sophomores *Only required for MCS Students；Honors Biochemistry；Biochemistry I；Cell Biology *New course number ( 03-240 ) starting Fall。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-4c242d6a8cdc19"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-4c242d6a8cdc19",
+          "title": "Psychology and Biological Sciences — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofpsychology/psychology-biological-sciences-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "1a822012aa48c334e27b1158b875d4452ef1329d3c2ccc1cf89be349c7db6e39",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-psychology-and-biological-sciences-8109391c1e"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Robotics, Additional Major",
+      "name_en": "Robotics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-7db402c77936c1"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Intelligent Robot Systems；General Robotics (formerly 16-311 )；Chemical Engineering Process Control；Introduction to Feedback Control Systems；Fundamentals of Control；Feedback Control Systems。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-7db402c77936c1"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-7db402c77936c1"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-7db402c77936c1",
+          "title": "Robotics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "600dba6957b7c90a05f4a2a3921959e216078ce29facde781f9508452529beab",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-robotics-d27faaae31"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Robotics, B.S.",
+      "name_en": "Robotics",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-bc6285957b2160"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-bc6285957b2160",
+          "title": "Robotics — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/robotics/robotics-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "c4b9a1c44468c82bf9554920b2215bcef596c04513318a545ab052485807adaf",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-robotics-a594e18f1b"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Science and Arts, B.S.A",
+      "name_en": "Science and Arts",
+      "official_url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.A；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e5f81652ecc034"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e5f81652ecc034",
+          "title": "Science and Arts — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/intercollegeprograms/bxaintercollege/science-arts/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "21d26e29fbd7e0872dd59d92876a04f9201f4638430c025e2b4e99c69a69c7c4",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "directory_only",
+      "degree_label": "B.S.A",
+      "inventory_id": "cmu-science-and-arts-6b04fb9b22"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Science, Technology and Society, B.S.",
+      "name_en": "Science, Technology and Society",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/science-technology-society-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-05be7c891ab8b6"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to the History of Science；Introduction to Science, Technology, and Society；Introduction to Historical Research & Writing；Advanced Seminar in History；Introduction to the Medieval Mediterranean World；Introduction to Asian American History。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-05be7c891ab8b6"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-05be7c891ab8b6",
+          "title": "Science, Technology and Society — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofhistory/science-technology-society-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "086811becbed66e3f7d49d517fae37974b2f01a1e13d24d00fa395209c83fb54",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-science-technology-and-society-ed6901062c"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Science, Technology, and Public Policy, Additional Major",
+      "name_en": "Science, Technology, and Public Policy",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofengineeringandpublicpolicy/science-technology-public-policy-additional-major/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：本科项目（学位名称尚未核实）；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-e13315d5540701"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Introduction to Engineering and Public Policy；Professional Issues in Engineering, Science, Technology and Public Policy；Principles of Microeconomics；The Economics of Politics and Technology；Engineering Statistics and Quality Control；Introduction to Statistical Inference。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-e13315d5540701"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "附加主修身份",
+            "text": "这是 Additional Major，需要依附主学位及校内申报规则；不应理解为高中可单独申请并取得的一个本科文凭。",
+            "source_ids": [
+              "USBENR-e13315d5540701"
+            ],
+            "extraction_locator": "Additional Major / How to Declare"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-e13315d5540701",
+          "title": "Science, Technology, and Public Policy — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofengineeringandpublicpolicy/science-technology-public-policy-additional-major/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "e4e0d7450115884f1710b3c1252a00f77929cb7eb64b56e42e35bef564f64e64",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "inventory_id": "cmu-science-technology-and-public-policy-c82553ab3f"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Statistics and Data Science, B.S.",
+      "name_en": "Statistics and Data Science",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-bbe836aef73b7d"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Precalculus；Differential Calculus；Integral Calculus；Differential and Integral Calculus；Multivariate Analysis；Calculus in Three Dimensions。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-bbe836aef73b7d"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-bbe836aef73b7d",
+          "title": "Statistics and Data Science — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "8b5639d5860dd8001dc6f1d0f8b8f2633c6e5bce3c407fb7738f0c750e3ad4da",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-statistics-and-data-science-f0c04ae94c"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Statistics and Data Science (Mathematical Sciences Track), B.S.",
+      "name_en": "Statistics and Data Science (Mathematical Sciences Track)",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-mathematical-sciences-track-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-ff7953de2dc84c"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Precalculus；Differential Calculus；Integral Calculus；Differential and Integral Calculus；Integration and Approximation；Multivariate Analysis。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-ff7953de2dc84c"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-ff7953de2dc84c",
+          "title": "Statistics and Data Science (Mathematical Sciences Track) — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-mathematical-sciences-track-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "990aa5af43154c2bd5628e05664adb07ff46306e622b0b94668cb8793d3caafb",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-statistics-and-data-science-mathematical-sciences-track-f279e8f41a"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Statistics and Data Science (Neuroscience Track), B.S.",
+      "name_en": "Statistics and Data Science (Neuroscience Track)",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-neuroscience-track-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-29a9137a49eaaf"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Precalculus；Differential Calculus；Integral Calculus；Differential and Integral Calculus；Multivariate Analysis；Calculus in Three Dimensions。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-29a9137a49eaaf"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-29a9137a49eaaf",
+          "title": "Statistics and Data Science (Neuroscience Track) — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-data-science-neuroscience-track-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "0d0a1b19028f32c04fa26ac3730e0f3ecf8d40ba1ed98282e56d77480c59ad76",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-statistics-and-data-science-neuroscience-track-8be6b225d2"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Statistics and Machine Learning, B.S.",
+      "name_en": "Statistics and Machine Learning",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-machine-learning-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-abb5d3b71ee6e0"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Precalculus；Differential Calculus；Integral Calculus；Differential and Integral Calculus；Multivariate Analysis；Calculus in Three Dimensions。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-abb5d3b71ee6e0"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-abb5d3b71ee6e0",
+          "title": "Statistics and Machine Learning — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofstatistics/statistics-machine-learning-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "916f5efadc93093ad39ee27d321516c6cba8c63f11535c82d5e28aad5842af8c",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-statistics-and-machine-learning-ba05acec02"
+    },
+    {
+      "university_id": "cmu",
+      "raw_key": "Technical Writing, B.S.",
+      "name_en": "Technical Writing",
+      "official_url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/technical-writing-bs/",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学位与年度",
+            "text": "官方本科目录登记学位／路径：B.S.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。",
+            "source_ids": [
+              "USBENR-c2084228c2c301"
+            ],
+            "extraction_locator": "program title / catalogue edition"
+          },
+          {
+            "label": "课程表举例",
+            "text": "目录所列课程包括：Differential Calculus；Integral Calculus；Differential and Integral Calculus；Concepts of Mathematics；Reasoning with Data；Principles of Computing。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。",
+            "source_ids": [
+              "USBENR-c2084228c2c301"
+            ],
+            "extraction_locator": "degree-scoped requirement section > sc_courselist / course links"
+          }
+        ],
+        "admissions": [],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "USBENR-c2084228c2c301",
+          "title": "Technical Writing — 官方本科课程目录",
+          "url": "https://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/departmentofenglish/technical-writing-bs/",
+          "checked_at": "2026-09-12",
+          "supports": "目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径",
+          "sha256": "b3ea1674ce86ec7c1997607e0a8b1a10247627d4ccc328c27caff2d90f790535",
+          "locator": "main/content > program section headings"
+        }
+      ],
+      "display_fields": {},
+      "research_status": "partially_enriched",
+      "degree_label": "B.S.",
+      "inventory_id": "cmu-technical-writing-ce5ef1c521"
+    }
+  ],
+  "profile": {
+    "university_id": "cmu",
+    "checked_at": "2026-09-12",
+    "scope": "匹兹堡普通第一本科申请；Additional Major、第二学位及其他校区另核。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "国际学历",
+          "text": "国际学生使用与美国本土申请人相同的申请程序；非英语成绩单须有正式译本并经学校人员确认。正在修读 IB 或 GCE A-level 的申请人提交预估考试成绩。本轮未取得可作为专业录取线的大陆高考／普高固定分数。",
+          "source_ids": [
+            "USBENR-c32178daec96ec"
+          ],
+          "extraction_locator": "Additional Information"
+        },
+        {
+          "label": "工程与艺术入口",
+          "text": "工程一般直接按院系／专业录取，选择 Engineering Undecided 者再在大一分流；转专业不保证。艺术学院的戏剧和音乐需预筛、试镜／试演或作品审查；建筑、美术、设计须提交规定作品集。",
+          "source_ids": [
+            "USBENR-fec99727d30f81"
+          ],
+          "extraction_locator": "Additional Requirements"
+        },
+        {
+          "label": "标化考试按学院区分",
+          "text": "计算机学院要求 SAT 或 ACT。工程、Dietrich 文社科、Information Systems、Mellon 理科和 Tepper 商学院实行 test-flexible，仍须提交认可测试，可选 SAT/ACT、IB、AP、A-level 或法国会考等。艺术学院 test-optional，但作品／试演要求仍适用；不能将 flexible 理解为免考。",
+          "source_ids": [
+            "USBENR-264523f5048d9c"
+          ],
+          "extraction_locator": "Testing Policy"
+        },
+        {
+          "label": "英语",
+          "text": "母语非英语者须提交英语测试，成绩2年内。IELTS 总分至少7.5；TOEFL 2026-01-21前至少102，该日起至少5；DET 至少135。官网对小分另给优先考虑水平：IELTS7.5、旧TOEFL25／新5、DET四项135；这些小分措辞不同于总分硬门槛。",
+          "source_ids": [
+            "USBENR-c32178daec96ec"
+          ],
+          "extraction_locator": "English Language Proficiency Requirements"
+        }
+      ],
+      "applications": [
+        {
+          "label": "现行申请日程",
+          "text": "Early Decision 截止11月2日且具有约束性；普通 Regular Decision 截止1月4日。戏剧与音乐 RD 为12月1日，且戏剧、音乐及 BXA Design 不开放 ED。所读页面未逐项标入学年，暂按现行日程保留；艺术材料另有安排。",
+          "source_ids": [
+            "USBENR-1a9217deaf3fb4"
+          ],
+          "extraction_locator": "Application Plans and Deadlines"
+        }
+      ],
+      "fees": [
+        {
+          "label": "2026/27 匹兹堡本科预算",
+          "text": "官方 I-20/DS-2019 预算表：学费 USD69,702、费用1,862、住房11,700、餐食7,950、保险3,265、书本用品2,400，合计96,879／学年。仅匹兹堡本科；保险栏脚注仍按2025/26估算，2027入学价格本轮未取得。",
+          "source_ids": [
+            "USBENR-684580ad7b78d5"
+          ],
+          "extraction_locator": "Undergraduate Student Estimated Expenses 2026-2027 Pittsburgh"
+        },
+        {
+          "label": "国际生资助",
+          "text": "大学明确不向这里定义的国际生（将在美国持临时签证学习者）提供 financial aid，家庭应准备全额就读费用；不把其他身份的资助政策套用于 F/J 国际生。",
+          "source_ids": [
+            "USBENR-c32178daec96ec"
+          ],
+          "extraction_locator": "international applicant definition / financial aid"
+        }
+      ],
+      "outcomes": []
+    },
+    "sources": [
+      {
+        "id": "USBENR-c32178daec96ec",
+        "title": "cmu 官方 international",
+        "url": "https://www.cmu.edu/admission/admission/international-applicants",
+        "checked_at": "2026-09-12",
+        "supports": "本条国际学历及年度/身份范围",
+        "sha256": "a6761b7be21e453c0e7455b8a86f1f87ab7c55e11ca48743d54ac1a95704caea",
+        "locator": "Additional Information"
+      },
+      {
+        "id": "USBENR-fec99727d30f81",
+        "title": "cmu 官方 requirements",
+        "url": "https://www.cmu.edu/admission/admission/undergraduate-admission-requirements",
+        "checked_at": "2026-09-12",
+        "supports": "本条工程与艺术入口及年度/身份范围",
+        "sha256": "ddabe5765cc6a4b009f33766396a5030b19522bc11880cb2223ca234895fef93",
+        "locator": "Additional Requirements"
+      },
+      {
+        "id": "USBENR-264523f5048d9c",
+        "title": "cmu 官方 testing",
+        "url": "https://www.cmu.edu/admission/admission/standardized-testing",
+        "checked_at": "2026-09-12",
+        "supports": "本条标化考试按学院区分及年度/身份范围",
+        "sha256": "e1a89ebe9a4e10f255b4307511666346e8a8394ff850440da94d033afcd030b4",
+        "locator": "Testing Policy"
+      },
+      {
+        "id": "USBENR-1a9217deaf3fb4",
+        "title": "cmu 官方 deadlines",
+        "url": "https://www.cmu.edu/admission/admission/application-plans-deadlines",
+        "checked_at": "2026-09-12",
+        "supports": "本条现行申请日程及年度/身份范围",
+        "sha256": "9d01e6664644113a4aac18a3d3374bd0c47bd29804a553785a2951ea04e8d9b1",
+        "locator": "Application Plans and Deadlines"
+      },
+      {
+        "id": "USBENR-684580ad7b78d5",
+        "title": "cmu 官方 tuition",
+        "url": "https://www.cmu.edu/oie/pre-arrival-and-settling-in/students/instructions/estimated-expenses.html",
+        "checked_at": "2026-09-12",
+        "supports": "本条2026/27 匹兹堡本科预算及年度/身份范围",
+        "sha256": "da3cb26655773e4f9074b4c84a74c48009ca18c803b03d2195cdcac3589b3ba4",
+        "locator": "Undergraduate Student Estimated Expenses 2026-2027 Pittsburgh"
+      }
+    ]
+  }
+}

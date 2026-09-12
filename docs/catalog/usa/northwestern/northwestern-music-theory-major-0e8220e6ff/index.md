@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Music Theory Major</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026–2027美国常规本科年学费 US$71,802（秋冬春）；SPS/Qatar不适用。</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -36,21 +36,77 @@ hide:
 
 <p><strong>目录适用期：</strong>2026-2027</p>
 
+<p class="catalog-fact"><strong>主修学分：</strong>本页主修要求标题明确18 units，仍须完成所属院校学位及注册要求。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-cf43b715e1d4ff13">官方依据</a></p>
+
+<p class="catalog-fact"><strong>具体学习单元示例：</strong>本科培养表列出的单元：Music Theory  I and Music Theory II and Music Theory III（MUSIC 111-1 &amp; MUSIC 111-2 &amp; MUSIC 111-3）；Foundations of Conducting（CONDUCT 326-0）。示例不代表全部必修或当年保证开课，需核对必修/选修与授课安排。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-cf43b715e1d4ff13">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成标准学制、具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-cf43b715e1d4ff13">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-cf43b715e1d4ff13">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：国际高中资格与范围：</strong>常规本科新生在中学最后一年申请，完成可进入本国认可大学学位课程的中学教育；已在大学攻读本科者通常走转学。此表限美国常规本科，不自动适用于SPS成人项目和卡塔尔校区。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-international-guide">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：考试与英语：</strong>SAT/ACT当前可不交；第一/主要语言非英语或中学未用英语教学者须官方送英语成绩。接受DET、IELTS（含Indicator）、TOEFL iBT，不接受TOEFL ITP Plus for China；无统一最低分，不拼英语超分或使用MyBest。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-international-faq">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际高中资格与范围：</strong>常规本科新生在中学最后一年申请，完成可进入本国认可大学学位课程的中学教育；已在大学攻读本科者通常走转学。此表限美国常规本科，不自动适用于SPS成人项目和卡塔尔校区。</p>
+<p class="fact-sources"><a href="#source-u-northwestern-international-guide">官方依据</a></p>
+
+<p class="catalog-fact"><strong>考试与英语：</strong>SAT/ACT当前可不交；第一/主要语言非英语或中学未用英语教学者须官方送英语成绩。接受DET、IELTS（含Indicator）、TOEFL iBT，不接受TOEFL ITP Plus for China；无统一最低分，不拼英语超分或使用MyBest。</p>
+<p class="fact-sources"><a href="#source-u-northwestern-international-faq">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：2027申请日期与特殊专业：</strong>当前2027新生ED主申请2026-11-01、RD2027-01-04；资助截止分别2026-12-01、2027-02-01。可经Common App、Coalition on Scoir等渠道。音乐申请另有Bienen补充材料、预筛/作品集、试演，ISP等有额外申请，不能把普通截止替代专业材料日期。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-dates">官方依据</a> · <a href="#source-p-northwestern-requirements">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2027申请日期与特殊专业：</strong>当前2027新生ED主申请2026-11-01、RD2027-01-04；资助截止分别2026-12-01、2027-02-01。可经Common App、Coalition on Scoir等渠道。音乐申请另有Bienen补充材料、预筛/作品集、试演，ISP等有额外申请，不能把普通截止替代专业材料日期。</p>
+<p class="fact-sources"><a href="#source-u-northwestern-dates">官方依据</a> · <a href="#source-u-northwestern-requirements">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：2026–2027美国常规本科：</strong>标准全时学费US$23,934/学季（3–5.5 units），秋冬春年费US$71,802；标准住食US$22,941，费用US$1,260，医保另按NU-SHIP或认可保险处理。SPS和Qatar须另核费表，不自动按此年价。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-fees">官方依据</a> · <a href="#source-p-northwestern-fees-news">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：国际生经济资助：</strong>国际生申请助学金及所需金额可影响录取；获录取新生承诺满足学校认定需要四年。具体金额按家庭资料评定，不能凭单一收入预判资助。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-international-guide">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–2027美国常规本科：</strong>标准全时学费US$23,934/学季（3–5.5 units），秋冬春年费US$71,802；标准住食US$22,941，费用US$1,260，医保另按NU-SHIP或认可保险处理。SPS和Qatar须另核费表，不自动按此年价。</p>
+<p class="fact-sources"><a href="#source-u-northwestern-fees">官方依据</a> · <a href="#source-u-northwestern-fees-news">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生经济资助：</strong>国际生申请助学金及所需金额可影响录取；获录取新生承诺满足学校认定需要四年。具体金额按家庭资料评定，不能凭单一收入预判资助。</p>
+<p class="fact-sources"><a href="#source-u-northwestern-international-guide">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业毕业调查缺口：</strong>本轮未取得有明确毕业届次、回应样本和国际/中国学生口径的本专业就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-p-northwestern-program-cf43b715e1d4ff13">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>逐项目结果缺口：</strong>本轮未取得各本科专业及SPS/Qatar分别定义届次和国际/中国生响应样本的毕业结果，官网校级综合去向数字不能当本专业就业率。</p>
+<p class="fact-sources"><a href="#source-u-northwestern-international-guide">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -59,5 +115,18 @@ hide:
 - [官方项目页面或项目所在目录](https://catalogs.northwestern.edu/undergraduate/music/music-theory-cognition/music-theory-major/)
 - [官方目录](https://catalogs.northwestern.edu/undergraduate/programs-az/)
 
+<div class="catalog-source" id="source-p-northwestern-program-cf43b715e1d4ff13"><div><a href="https://catalogs.northwestern.edu/undergraduate/music/music-theory-cognition/music-theory-major/">Music Theory Major 官方培养资料 ↗</a><p>本条培养表、具体学习单元及资料范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-northwestern-international-guide"><div><a href="https://admissions.northwestern.edu/apply/identities/international.html">northwestern 官方本科资料：international-guide ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-northwestern-international-faq"><div><a href="https://admissions.northwestern.edu/faqs/international-applicants/index.html">northwestern 官方本科资料：international-faq ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-northwestern-dates"><div><a href="https://admissions.northwestern.edu/apply/application-options.html">northwestern 官方本科资料：dates ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-northwestern-requirements"><div><a href="https://admissions.northwestern.edu/apply/requirements.html">northwestern 官方本科资料：requirements ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-northwestern-fees"><div><a href="https://www.northwestern.edu/sfs/tuition/undergraduate/">northwestern 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-northwestern-fees-news"><div><a href="https://news.northwestern.edu/stories/2026/05/northwestern-sets-tuition-and-fees-for-2026-2027-academic-year">northwestern 官方本科资料：fees-news ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-northwestern-international-guide"><div><a href="https://admissions.northwestern.edu/apply/identities/international.html">northwestern 官方本科资料：international-guide ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-northwestern-international-faq"><div><a href="https://admissions.northwestern.edu/faqs/international-applicants/index.html">northwestern 官方本科资料：international-faq ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-northwestern-dates"><div><a href="https://admissions.northwestern.edu/apply/application-options.html">northwestern 官方本科资料：dates ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-northwestern-requirements"><div><a href="https://admissions.northwestern.edu/apply/requirements.html">northwestern 官方本科资料：requirements ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-northwestern-fees"><div><a href="https://www.northwestern.edu/sfs/tuition/undergraduate/">northwestern 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-northwestern-fees-news"><div><a href="https://news.northwestern.edu/stories/2026/05/northwestern-sets-tuition-and-fees-for-2026-2027-academic-year">northwestern 官方本科资料：fees-news ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/northwestern/">← 返回西北大学（美国）</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

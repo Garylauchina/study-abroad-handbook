@@ -1,0 +1,461 @@
+{
+  "university_id": "duke",
+  "sources": [
+    {
+      "url": "https://admissions.duke.edu/apply/",
+      "sha256": "5f58049415b81bcb36547c10a4d9819b85317f0a0944ddfbaeee50c1e9cc6f7a",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/duke/raw/apply.html",
+      "locator": "First-Year Applicants / Transcripts / International Applicants"
+    },
+    {
+      "url": "https://admissions.duke.edu/counselors/",
+      "sha256": "a4a3639940637c778a547aa9f8e7abf1f9ab7ccbc7424fcc0fc7d8b3afad1c04",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/duke/raw/deadlines.html",
+      "locator": "Important Dates"
+    },
+    {
+      "url": "https://financialaid.duke.edu/how-aid-calculated/cost-attendance/",
+      "sha256": "2c10638722e55b2f2ea23edb88d58e61042912f63b9ad5645207923393c53680",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/duke/raw/tuition.html",
+      "locator": "2026-2027 Estimated Cost of Attendance > 1st-year Undergraduate Student"
+    },
+    {
+      "url": "https://admissions.duke.edu/financial-support/",
+      "sha256": "c3d4a51d7960c492621f0566b85d51f5dbb51bd5fd1e5d0cb5d5a25812970b25",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/duke/raw/aid.html",
+      "locator": "Prepare Your Application / international student aid"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/rmt5D2kOHPHdtIXlNOyV",
+      "sha256": "5b228bc860fea0cf69e84c8b8070af91ba812451b73d33e31eeac838010bbad6",
+      "raw_file": "scratch/full-catalog/us-details/duke/ab0e255041f7c6872903.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/SshZY0pLBHbZ6mI4eVxk",
+      "sha256": "362bbf846c3d35a12888bb7021d9ea0bcb70d4024ef8868f16720ef739371a25",
+      "raw_file": "scratch/full-catalog/us-details/duke/9945a3baf60da5348661.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/SdQn0LtVx5Ss5m7NFz3y",
+      "sha256": "4f0d083c5292a5f63845e33835917a8ae7ff3683e80d888cbefed0f75ec10141",
+      "raw_file": "scratch/full-catalog/us-details/duke/e23491c098184ed9ab6f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/9VPDrmpFrTUkFppSQGEf",
+      "sha256": "2ab366a76c6064983c51b4f931795ff0e3edcc901454f222cd64d11443f8f460",
+      "raw_file": "scratch/full-catalog/us-details/duke/18a216392a19b0d5730e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/Jd29PKLfwXTunjjOcY5G",
+      "sha256": "1faf15dbe99a2defc97e58f1800135fc4a24f5fc05433f91cb3493e81811ffeb",
+      "raw_file": "scratch/full-catalog/us-details/duke/6e0f0c053062e08632af.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/oOUva5b6mAeN1gYhEp8D",
+      "sha256": "bafbf9c13bc904661075a5966957dae7fc9048107a35376dc2f9ab70896dd8db",
+      "raw_file": "scratch/full-catalog/us-details/duke/bb2c71fec4661ff071f9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/Yt39ZjOB6XsxGOqqkOsN",
+      "sha256": "4269c4cb299163f60f28cd6eb0b5968a2d44a6396aa9456f87dd19cefcf79d8c",
+      "raw_file": "scratch/full-catalog/us-details/duke/8254dfefa2284189c55a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/dbXHQ4iluXiWRAJBjm6l",
+      "sha256": "894bbe5fca0428ea6050a783374265e3b6ba6c0d153edfbd66942d020408873e",
+      "raw_file": "scratch/full-catalog/us-details/duke/ca623625412ca98b1485.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/drKkVKuIkw5Vha77PKYG",
+      "sha256": "50c99a7d37fdf14637779a694ae2e317656c5ecbb66ee4d14cc05750d3310b02",
+      "raw_file": "scratch/full-catalog/us-details/duke/6c27871e04549e479f26.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/ZW4BaEE0YaGc2s3BgaSN",
+      "sha256": "b5c4d64fcfbb22c8d3761093ad63afe523fbbd4bc591ed5bed9aa8a93fd39aad",
+      "raw_file": "scratch/full-catalog/us-details/duke/bab98f37d37a6831321f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/ElMguQyGDLrxfcL37xuO",
+      "sha256": "2f7c7dbd4bd1eaad1ef8dabe88ed4bbe844ea777a9c6dd2365bf85ceb811f58c",
+      "raw_file": "scratch/full-catalog/us-details/duke/6f57380227c0e3fb809b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/9et0Q1Jixk8SR9NZDtG5",
+      "sha256": "e7d8200f7951bbd194815487c4984b45f45ec55a6b1634682c4a7d7fc6021978",
+      "raw_file": "scratch/full-catalog/us-details/duke/50499ce500fc4e5de846.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/tSUfAlnpirtSsuEp09Gg",
+      "sha256": "0f0e2e517af6296272a8aeafd33d595da6ba6ef3f8b043e8010ea4a7278c2062",
+      "raw_file": "scratch/full-catalog/us-details/duke/6098a742649b185e4471.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/cx4u4vtxnntjfRuLpoEt",
+      "sha256": "0f055137588988da7e460efcc42a4b661bbbd025426e4b4bcba08feeb2471ee5",
+      "raw_file": "scratch/full-catalog/us-details/duke/060ce83a9c1d4686f5dc.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/fK99NFqazCWuVuPbjK4z",
+      "sha256": "b8e3cb2d31b9592293f0367d65d8d108e4008d82ba886ffc061fe5daf437c700",
+      "raw_file": "scratch/full-catalog/us-details/duke/2bf1a7be18115e96a06c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/KwrVX6KKTTxQU2EGxLpu",
+      "sha256": "b88c81440d9908fb5e0736d6abccfbc210c3678b823cfc4234e861374f47cc97",
+      "raw_file": "scratch/full-catalog/us-details/duke/f451b0ea5b0fa1572490.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/jtakFndeaaOrKB303QeI",
+      "sha256": "130a007d065bb1f316a95c56facff005cd69d7e6153b88d51932dcb7b75aa9bc",
+      "raw_file": "scratch/full-catalog/us-details/duke/487d872f414a8d2b2856.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/4uFv186jhtGmA8bhUNCo",
+      "sha256": "3cacac6ab707a49c408d7d1a3cfadf7ba740b0d33e71e799c3e7ac81d2531609",
+      "raw_file": "scratch/full-catalog/us-details/duke/853a2a12b13e7afcaeea.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/uKtkrNKIkBp4lDk9aHDr",
+      "sha256": "f7040f588bc7f2ae1b9b1f87350ccfbc4a8c100504c0a235cc98bbfb6a3767c2",
+      "raw_file": "scratch/full-catalog/us-details/duke/72992797bf245630137e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/IH53VedN7Z9bLI6DIxeR",
+      "sha256": "f72aff3df7dcd9b0294a95d5f34a907219c9288a20a154aa6d26791e3669b4be",
+      "raw_file": "scratch/full-catalog/us-details/duke/881f888e18638e971408.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/FC1x5OEdjINlOf1Y6vMf",
+      "sha256": "c0891b7321bc90a8503a4d5d2bc63807ff6b2ecf102a137b95841e43ad684b22",
+      "raw_file": "scratch/full-catalog/us-details/duke/9bb24687229058396db5.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/DCTjs1Hm9W9teE7sbtZX",
+      "sha256": "d020f27fc8d2df6478d04f993c04a0ebf5e813b647f210996ca67327e8816dac",
+      "raw_file": "scratch/full-catalog/us-details/duke/5a62c0b59e05777a0a8f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/srviMcdAAo2NrYFAbwM8",
+      "sha256": "dba76a0c3c00d7badac4b28bbc3607564439bf832a88536577fa692980aa124f",
+      "raw_file": "scratch/full-catalog/us-details/duke/51f3e92f851dcb138864.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/NUznfgWxyD2IwN0mz31J",
+      "sha256": "d054b5ed6c287bbbcb794b8cc66558b695c91b7f95fa3ebac4d9d92caf096142",
+      "raw_file": "scratch/full-catalog/us-details/duke/50fa0761c57e0335c5cb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/BgEPu8eaps9kn8IrHQiy",
+      "sha256": "067c9af67525a8c12da8a4f2ddf510eb2259e0a58c1a0a7a12b1178ca1046075",
+      "raw_file": "scratch/full-catalog/us-details/duke/94221e9dac0023b8f874.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/coagTcJl9iMI4QniAUp6",
+      "sha256": "fea5429352fb43cf58a372328a22410a3e8abddec24edf4ff436fbf9be8b8e17",
+      "raw_file": "scratch/full-catalog/us-details/duke/d88c917ab30c564fcbf1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/eJTIqSawWM6x3r55fkAW",
+      "sha256": "79e70553eb86c9b71671a973940a595c68d6c45b6823a74d4b1317b34381224e",
+      "raw_file": "scratch/full-catalog/us-details/duke/2d8e94e1bf0a215330ac.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/XxAyh86HqynixoDfGMur",
+      "sha256": "72f39f8a8244537629066d521b3e2e0298539f6e498424c64760139e7e769f82",
+      "raw_file": "scratch/full-catalog/us-details/duke/a74596af739293a2d64b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/yV7GeW0VdsevdxTWCtaG",
+      "sha256": "06d1efb35f866a454e79987b410e9b390562373e1453fd502fd2607f08b22a81",
+      "raw_file": "scratch/full-catalog/us-details/duke/aab44922be185a883a90.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/pZPj6UPv2In2fI4jSJs6",
+      "sha256": "cd96b9f19c877e91f96b9be30e474ab66c991a2e6610d381e9bd4c990df06618",
+      "raw_file": "scratch/full-catalog/us-details/duke/cb5b1fa628ecdd0c02f9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/Mcko0VZ7EF3fbG8pz2J0",
+      "sha256": "dd8cefe6f37a19b06dfb79357285642193b9d00f0b5f42429eb74cf520cda62d",
+      "raw_file": "scratch/full-catalog/us-details/duke/6db1d4df8154738af54f.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/8sTKaZJAsrA76KFNykX0",
+      "sha256": "a0b5c99a6b6d84b9d2053a8d8a8aefc20a69835a07d078a9e5a0a28946712d29",
+      "raw_file": "scratch/full-catalog/us-details/duke/f6fd3ac66794ce5c1c08.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/9kNjSpnyQ8hZzIMEhcLK",
+      "sha256": "248ecfc74c37c574e8021449e59edc446a6552eb2675cf603ed738211be11f78",
+      "raw_file": "scratch/full-catalog/us-details/duke/7cb8495479836ac33558.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/b3Ax5h9N6uTKmwrvXtWH",
+      "sha256": "6f61ef5ff0d51ba827d87ace1e06a39bce35bba8fc8569078f46f43be2c21907",
+      "raw_file": "scratch/full-catalog/us-details/duke/2b62a1ae5faaebec8e5b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/SYTWAn8UJMRYQTkNdDSQ",
+      "sha256": "75aa964b6a2c7b6ac907206137f0bdaca0b0e7c51ca4ce68dac5a0c2eda9ec67",
+      "raw_file": "scratch/full-catalog/us-details/duke/be4c10eda0888bc761da.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/rYzShHXgim9ow8Vm44VO",
+      "sha256": "797262b807667fc28ea30580385e3b7052aedf29c250f07402018604dc9b386c",
+      "raw_file": "scratch/full-catalog/us-details/duke/f3217eed425b235335d9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/Jjyq2dB7EUITArbmoBNE",
+      "sha256": "f60945381cb0418401fc19332a3cfbf626adb2685eadbc7e1ba267d3e8cff445",
+      "raw_file": "scratch/full-catalog/us-details/duke/b6fef97a9f6debefac84.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/48fEthQmSruiBMK0tWfa",
+      "sha256": "6bbc3a67dd767e133c62da958478d0b6612e241b76967563dab23b14b7d128c4",
+      "raw_file": "scratch/full-catalog/us-details/duke/f8172b484e51d9bb9078.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/uLlnqW2cG2Qx6eymlBdC",
+      "sha256": "803f5689028424956772c3f281197fbbfb8be4c7427e101343b66febf1e81e71",
+      "raw_file": "scratch/full-catalog/us-details/duke/edba2dc025d0e55c126a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/3dfSF27oGJ4mvSPmFxYp",
+      "sha256": "db98069b45777643a78e9c847d2546d0a25325e687cc071b99f21bd76805592d",
+      "raw_file": "scratch/full-catalog/us-details/duke/ffda14e9470af8b714b9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/VhUzzsuVal9Nz6qFFoLv",
+      "sha256": "676831713570bfa04f9116930e23af3156635c82b1d5ef05ab5aacfad8a2b7d3",
+      "raw_file": "scratch/full-catalog/us-details/duke/bc5908d1c60f1faf9e7d.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/YJknzyrYTHm1CsxApaDY",
+      "sha256": "e750eb73dd1bca8bee774f928636fb251c437d47f91df35aca6f14aa84cdf81a",
+      "raw_file": "scratch/full-catalog/us-details/duke/669c007c64306c0cfa9c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/CK8L3FzlYs1vPk8OU8Bs",
+      "sha256": "761fc2fa900cf31bcf2b2e60b54dbdb6f2c65c5607ff27fa1b77130a99719d23",
+      "raw_file": "scratch/full-catalog/us-details/duke/e59eb7f2e6ec7e0ac0ac.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/eWnJchwjAv0QfArH4GHg",
+      "sha256": "2052e2e065856b3daf9b192d4ef258b0018ff807de165b28e0a1c6da1660575d",
+      "raw_file": "scratch/full-catalog/us-details/duke/713e97ca268da175fb16.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/7FZSjBDQuMIgx8rjVIgN",
+      "sha256": "532dadbcfa6dc8a1f269c93710b7eb5e8f270fb65536078aea6d1f67de862f69",
+      "raw_file": "scratch/full-catalog/us-details/duke/71d9e2843e7cb121717e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/eAZDdSLMEXYBF7SZge4U",
+      "sha256": "4ebede58774aa54f6dd0763f63cb5ba33964a458969fee26ed6eeb8a44af493e",
+      "raw_file": "scratch/full-catalog/us-details/duke/3b109e2f5f1ff775ecda.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/khZ2jw3KAb93x7HoMxdr",
+      "sha256": "84990e0ac6d52ade67f588a64e8af8de79a2c1892f42098a58d32abbb908414c",
+      "raw_file": "scratch/full-catalog/us-details/duke/2456ff0817bf236e13bf.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/HS40MvDXvxkBlMT13HjZ",
+      "sha256": "56563c782f19d965d83a4bde326e2d025e4e871d15689cc5449b5f7fe63084cd",
+      "raw_file": "scratch/full-catalog/us-details/duke/5be5883fc05085265018.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/hKanjdP9GIfHoDdgUDqE",
+      "sha256": "4749f434346ca9f6193e427be15ddd7c6ef479a41c092827b23b9b80b5a74bc9",
+      "raw_file": "scratch/full-catalog/us-details/duke/91d8deffa56f6f41d8a6.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/fiTnrJxjsrMCxlzt3QHL",
+      "sha256": "ffc6216be35c4ee4d6f31e4087bb1ad28ca1b11e0b434803cc78059ce6a72f00",
+      "raw_file": "scratch/full-catalog/us-details/duke/dc843a8d480a994776e1.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/PGgGd2MEAZrWWSOukTv9",
+      "sha256": "e86be088bf10505c4fe21f5dadcef2743d919604124c958e32ec8d47f24d87f4",
+      "raw_file": "scratch/full-catalog/us-details/duke/8d00b3fa0d0f2869349e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/JB0odX8x6wp5AXzIxhse",
+      "sha256": "92ee0ea2f8a40e0786c8c882f7f682df58f4e396a8a0f342a495fb46ab0cf39d",
+      "raw_file": "scratch/full-catalog/us-details/duke/dd977b8e902303e9384a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/Z7fnnqQ9urCyyIXHCvG4",
+      "sha256": "d293501e57bc7ee747673a5501c191b297d4c5f49f30f00805f23cc09a1ff0f4",
+      "raw_file": "scratch/full-catalog/us-details/duke/6002c066bee0f78451bb.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/cNIwuD3kK3KbxVF7hYnG",
+      "sha256": "19e50ccf511501225db1c3efdec51b66b68653056a76f54a892a5b815c762619",
+      "raw_file": "scratch/full-catalog/us-details/duke/c6644d12162e7fc74398.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/YUw1qieY8AtN9DyWDSaC",
+      "sha256": "18d087fb7c373e081ef7f191ad6b388348ccf0c7441db9b39cc81c17c9cd0315",
+      "raw_file": "scratch/full-catalog/us-details/duke/47de98d336573b852be9.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/tQSC7ZTx6Gr7FvgX4TP9",
+      "sha256": "7306475c4e21509403c8bc96f421336be8c38feb3ebb30546978d9f441a8922b",
+      "raw_file": "scratch/full-catalog/us-details/duke/e2075db47a5ed5047d2c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/FiFL0EZaNAPxOWINcX9C",
+      "sha256": "cec093355a0adca9f6c7455ad392e45721c319201469e5773876f14f9cf6b986",
+      "raw_file": "scratch/full-catalog/us-details/duke/7e3a1f5616e3bf80b05a.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/lPimGthtohBKVmmp7eE6",
+      "sha256": "f5469bbff484a1f128aaaed7fac92ce2ba488967faa95d4146b843ddfea1bd79",
+      "raw_file": "scratch/full-catalog/us-details/duke/ffac377590699dc9ed50.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/M4y39JARCg8g1oMLT1mJ",
+      "sha256": "4c3329db17d8fbbf89e87cf3769bee5a33a59ce920873b56163ef5e3d4fa9c6d",
+      "raw_file": "scratch/full-catalog/us-details/duke/0f2933a8c98a541e8b8b.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/qrmUbDGlJK45Oh3OLSg6",
+      "sha256": "158b3e89abd2bf46f07e4effb3ea277e2c2c990d0f0dd6054b39d2e2434cba9e",
+      "raw_file": "scratch/full-catalog/us-details/duke/88f3181ca43868efeb8c.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/HUIrgveWVwaT0vUWT5fi",
+      "sha256": "b3b26f54b726f2e415bfa427b6eba0fc0571a7765ac8f445c02d1cef538ff00d",
+      "raw_file": "scratch/full-catalog/us-details/duke/5b701125b9bb8cca6daa.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/8YpQrZ3pQ7Yfw99k5Fdp",
+      "sha256": "fc0b636edcb3d32a9b5e588f5877459ff7651f9f73bcb204566caecf2c0098ed",
+      "raw_file": "scratch/full-catalog/us-details/duke/a681d4f28f775835a2de.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/VzEgIzxCtoJiJi4pwk4k",
+      "sha256": "b217478175c7de2f3eef5860a430f0737d2dd156d9e26af18c468263ba2ecd04",
+      "raw_file": "scratch/full-catalog/us-details/duke/6d1f430e844d08690d22.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/99xqjNL7em0LeZf2wXs2",
+      "sha256": "ebd32b83f4eef9f287365262fa47bfe0cee0f9ff68b5f78b16934b8eb46fd5a5",
+      "raw_file": "scratch/full-catalog/us-details/duke/b426246be3268f68f181.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/Nn54Ct9OnvKdJF0loUG9",
+      "sha256": "03e30cd686ee4aaca618dcd3239dc49ac38183b31e58daa2bd81d38fb3184b16",
+      "raw_file": "scratch/full-catalog/us-details/duke/9f4a77ad4be83e095e5e.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/wIBL2qITLLJLLLIDvgik",
+      "sha256": "2d0b3cbdbf3b1ade0f689825716463ea9b3f44541e4f9954c21dbe073e5b1f70",
+      "raw_file": "scratch/full-catalog/us-details/duke/4d75c2fae45d9e9b6a16.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/4hvjE9xN4CL5b4zLlUU8",
+      "sha256": "04163d49c6833710ea9fe2254b136397485a10061896641c792720605178f95a",
+      "raw_file": "scratch/full-catalog/us-details/duke/daaa872952d15f0cbb92.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/LYH88S5rRQPKefnbVYCh",
+      "sha256": "0268c279a6843971c71a4800e824f0489488a563684c4d1ccd2c039abe33f92d",
+      "raw_file": "scratch/full-catalog/us-details/duke/fe2c76cabe9005f53195.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/DplzxtiSYvU1RYkhYQEk",
+      "sha256": "21011289200db16b32cb0e11680c74e46860447d219096cc8601e8c825c613d2",
+      "raw_file": "scratch/full-catalog/us-details/duke/433d5e1e7d906d2270a3.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/UpOTZYeOQRH8l7Hf8VW3",
+      "sha256": "7583fd0ca39f9b0add4fea3c3c334a10eb035ac51ce1903dd454c4a5e4ed6c0f",
+      "raw_file": "scratch/full-catalog/us-details/duke/8b827f2320a09b6ec033.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/6b4stFe9k48c1VXILcAv",
+      "sha256": "10a9ffa2ab922c95fab20b256670119d3be23ae52def46fdf04e089717170ab4",
+      "raw_file": "scratch/full-catalog/us-details/duke/5164ebcfae9f5b3b17c0.html",
+      "locator": "main/content > program section headings"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/pages/WMFFz5G9RRjZSgLmBI2E",
+      "sha256": "afdcd5fbcb07e1b4bfa0385677ce9333cb01fa9962cc8f4b2e4f7f6c9e873c5d",
+      "raw_file": "scratch/full-catalog/us-details/duke/a674e3e9a4d7ec88431f.html",
+      "locator": "main/content > program section headings"
+    }
+  ]
+}

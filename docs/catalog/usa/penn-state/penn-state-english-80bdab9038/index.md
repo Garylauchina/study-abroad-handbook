@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,62 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>目录学位与年度：</strong>官方本科目录登记学位／路径：B.A.；资料期为2026-2027。目录年度不能单独证明该项目已开放下一入学年度申请。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-87e30e36c915fa">官方依据</a></p>
+
+<p class="catalog-fact"><strong>课程表举例：</strong>目录所列课程包括：Introduction to Critical Reading；What is Literature；Senior Thesis in English；Senior Seminar。这是课程表的部分例子，可能含选修或备选项；不构成全部必修清单。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-87e30e36c915fa">官方依据</a></p>
+
+<p class="catalog-fact"><strong>最低毕业学分：</strong>本学位至少需要123学分；课程重叠、通识与专业要求按目录完整规则计算。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-87e30e36c915fa">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>入学后的专业准入：</strong>该段出现的 GPA 标准为2.00（不同路径或课程组须按完整段落对应）；需达到至少第3学期身份。此处是已入学学生进入专业的规则，不是中国高中申请分数线；还需核完整成绩、学分与名额条件。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-87e30e36c915fa">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>成绩与英语材料：</strong>第一本科新生通常填写 STARS，录取接受后核正式中学记录；SAT/ACT可选，英语证明独立要求。IELTS最低6.5、DET120；TOEFL 2026-01-21前80，该日后4.5，考试2年内。官网未在该段清楚处理1月21日当天措辞，本轮不扩写；大陆国家学历清单在本轮网页未渲染，具体会考／高考材料尚待核。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-1ff14f88a34af9">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>申请渠道与材料：</strong>MyPennState或Common Application均可，仍须用MyPennState完成学校自报成绩记录；国际申请费 USD75。普通推荐信不纳入评估，但特定项目有例外。大学要求填写主选及备选校区，不能视为所有专业都可在所有校区完成。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-01e47d7e2501b0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>当前申请安排：</strong>EA截止11月1日；其后滚动审核，University Park及限额专业竞争和可选项可能收紧。国际生还有签证办理所需的最终截止，但本轮取得的网页未显示该表具体日期；不以滚动招生推断可随时申请。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-f7167cefb46bd6">官方依据</a></p>
+
+<p class="catalog-fact"><strong>七校区停止新生录取：</strong>目录统一通知：DuBois、Fayette、New Kensington、Mont Alto、Shenango、Wilkes-Barre、York计划在2027年春季后关闭，已停止接收新生。本批178条以University Park为毕业校区，不能把“Any Penn State Campus”起始校区理解为包含上述关闭校区。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-47d207c1847db6">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>费用与校区边界：</strong>大学明确总费用随学分、所选课程与住宿变化，并提供 Tuition and Fees Schedules 及成本计算器。本轮未取得能同时对应2026/27、校区、年级和专业的国际学费数值，未把某一校区普通档套给178项目。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-0166361c417db3">官方依据</a></p>
+
+<p class="catalog-fact"><strong>财力要求：</strong>国际生接受录取后须证明首个日历年足够的州外学费及生活资金（不含交通），并说明后续各年资金安排。本轮未核全国际本科奖学金资格，不将 FAFSA 一般建议当作大陆国际生可获资助的证据。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-01e47d7e2501b0">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>职业与深造方向：</strong>该页职业段落提及商业、教育、研究、研究生深造、法学院深造、医疗。段落可能合述本学科学生或辅修者；未取得本独立学位按届统计的就业率、收入及大陆生数据。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-87e30e36c915fa">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +102,11 @@ hide:
 - [官方项目页面或项目所在目录](https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/english-ba/)
 - [官方目录](https://bulletins.psu.edu/programs/)
 
+<div class="catalog-source" id="source-p-USBENR-87e30e36c915fa"><div><a href="https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/english-ba/">English — 官方本科课程目录 ↗</a><p>目录学位身份、课程表及局部学分、入学后专业申报/进阶条件、职业方向与特殊入学路径</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-1ff14f88a34af9"><div><a href="https://www.psu.edu/resources/international-students/admission-requirements">penn-state 官方 requirements ↗</a><p>本条成绩与英语材料及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-01e47d7e2501b0"><div><a href="https://www.psu.edu/resources/international-students/steps-to-apply">penn-state 官方 international ↗</a><p>本条申请渠道与材料及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-f7167cefb46bd6"><div><a href="https://www.psu.edu/resources/international-students/deadlines">penn-state 官方 deadlines ↗</a><p>本条当前申请安排及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-0166361c417db3"><div><a href="https://www.psu.edu/costs-aid/costs-of-attendance">penn-state 官方 tuition ↗</a><p>本条费用与校区边界及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-47d207c1847db6"><div><a href="https://bulletins.psu.edu/undergraduate/colleges/liberal-arts/african-studies-ba/">Penn State 本科目录校区关闭通知 ↗</a><p>七个校区停止新生录取及计划关闭年度</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/penn-state/">← 返回宾夕法尼亚州立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

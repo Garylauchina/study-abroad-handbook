@@ -23,58 +23,108 @@ hide:
 
 ## 专业与申请资料
 
-47 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+47 个专业条目 · 0 个含详细资料 · 47 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=hkust#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-economics-17abe5045f/">BBA in Economics</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-eurasian-business-780aa1732a/">BBA in Eurasian Business</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-finance-7309121abd/">BBA in Finance</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-general-business-management-13e9504146/">BBA in General Business Management</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-global-business-9f15bde9dd/">BBA in Global Business</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-information-systems-e126dd4504/">BBA in Information Systems</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-management-1ebca65c75/">BBA in Management</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-marketing-e678f25359/">BBA in Marketing</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-operations-management-eb0060011d/">BBA in Operations Management</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-professional-accounting-045414d01e/">BBA in Professional Accounting</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-world-business-a78ac71c84/">BBA in World Business</a><small>BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-aerospace-engineering-82f0b49e21/">BEng in Aerospace Engineering</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-artificial-intelligence-318393f28d/">BEng in Artificial Intelligence</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-bioengineering-094875dced/">BEng in Bioengineering</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-chemical-engineering-9562513204/">BEng in Chemical Engineering</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-civil-engineering-e01b69a0b3/">BEng in Civil Engineering</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-civil-and-environmental-engineering-1a4c6f530d/">BEng in Civil and Environmental Engineering</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-computer-engineering-2a6749ab16/">BEng in Computer Engineering</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-computer-science-c11c74e0f4/">BEng in Computer Science</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-decision-analytics-f1acf14800/">BEng in Decision Analytics</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-electronic-engineering-69048f5e96/">BEng in Electronic Engineering</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-energy-and-environmental-engineering-c82eb00894/">BEng in Energy and Environmental Engineering</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-industrial-engineering-and-engineering-management-e66a06f682/">BEng in Industrial Engineering and Engineering Management</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-mechanical-engineering-01246e3c67/">BEng in Mechanical Engineering</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-microelectronics-and-integrated-circuits-204e520646/">BEng in Microelectronics and Integrated Circuits</a><small>BEng · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-bsc-bba-dual-degree-program-in-technology-management-fe1472f578/">BEng/BSc &amp; BBA Dual Degree Program in Technology &amp; Management</a><small>BEng/BSc &amp; BBA · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-biochemistry-and-cell-biology-9f4ea68001/">BSc in Biochemistry and Cell Biology</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-biomedical-and-health-sciences-409200bf87/">BSc in Biomedical and Health Sciences</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-biotechnology-a029c9898f/">BSc in Biotechnology</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-biotechnology-and-business-949b70490b/">BSc in Biotechnology and Business</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-chemistry-7d753ff449/">BSc in Chemistry</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-computer-science-b55445e100/">BSc in Computer Science</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-data-analytics-and-artificial-intelligence-in-science-8221d86684/">BSc in Data Analytics and Artificial Intelligence in Science</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-data-science-and-technology-bb392d5933/">BSc in Data Science and Technology</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-economics-and-finance-8d15ec6c9a/">BSc in Economics and Finance</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-environmental-management-and-technology-c9e9600b93/">BSc in Environmental Management and Technology</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-global-china-studies-8b16a636b8/">BSc in Global China Studies</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-individualized-interdisciplinary-major-009f8ccf14/">BSc in Individualized Interdisciplinary Major</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-innovation-design-and-technology-ae49109d07/">BSc in Innovation, Design and Technology</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-mathematics-813630fc77/">BSc in Mathematics</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-mathematics-and-economics-ca2388186d/">BSc in Mathematics and Economics</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-ocean-science-and-technology-f1b1f5c1ec/">BSc in Ocean Science and Technology</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-physics-4b61ba1f32/">BSc in Physics</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-quantitative-finance-81d92fcd82/">BSc in Quantitative Finance</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-quantitative-social-analysis-ab04bea58e/">BSc in Quantitative Social Analysis</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-risk-management-and-business-intelligence-31fbae99fc/">BSc in Risk Management and Business Intelligence</a><small>BSc · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-sustainable-and-green-finance-a324afe1bf/">BSc in Sustainable and Green Finance</a><small>BSc · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-economics-17abe5045f/">工商管理學士（經濟學）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-eurasian-business-780aa1732a/">工商管理學士（歐亞商業管理）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-finance-7309121abd/">工商管理學士（金融學）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-general-business-management-13e9504146/">工商管理學士（綜合商業管理學）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-global-business-9f15bde9dd/">工商管理學士（環球商業管理）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-information-systems-e126dd4504/">工商管理學士（資訊系統學）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-management-1ebca65c75/">工商管理學士（管理學）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-marketing-e678f25359/">工商管理學士（市場學）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-operations-management-eb0060011d/">工商管理學士（營運管理學）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-professional-accounting-045414d01e/">工商管理學士（專業會計學）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bba-in-world-business-a78ac71c84/">工商管理學士（全球商業管理）</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-aerospace-engineering-82f0b49e21/">工學士（航空航天工程學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-artificial-intelligence-318393f28d/">工學士（人工智能）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-bioengineering-094875dced/">工學士（生物工程學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-chemical-engineering-9562513204/">工學士（化學工程學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-civil-engineering-e01b69a0b3/">工學士（土木工程學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-civil-and-environmental-engineering-1a4c6f530d/">工學士（土木及環境工程學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-computer-engineering-2a6749ab16/">工學士（計算機工程學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-computer-science-c11c74e0f4/">工學士（計算機科學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-decision-analytics-f1acf14800/">工學士（決策分析學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-electronic-engineering-69048f5e96/">工學士（電子工程學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-energy-and-environmental-engineering-c82eb00894/">工學士(能源及環境工程)</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-industrial-engineering-and-engineering-management-e66a06f682/">工學士（工業工程及工程管理學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-mechanical-engineering-01246e3c67/">工學士（機械工程學）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-in-microelectronics-and-integrated-circuits-204e520646/">工學士（微電子與集成電路）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-beng-bsc-bba-dual-degree-program-in-technology-management-fe1472f578/">工學士（ 科技學科名稱 ）及工商管理學士（ 商業學科名稱 ）或 理學士（ 科技學科名稱 ）及工商管理學士（ 商業學科名稱 ）</a><small>BEng/BSc &amp; BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-biochemistry-and-cell-biology-9f4ea68001/">理學士（生物化學及細胞生物學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-biomedical-and-health-sciences-409200bf87/">理學士（生物醫學及健康科學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-biotechnology-a029c9898f/">理學士（生物科技）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-biotechnology-and-business-949b70490b/">理學士（生物科技及商學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-chemistry-7d753ff449/">理學士（化學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-computer-science-b55445e100/">理學士（計算機科學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-data-analytics-and-artificial-intelligence-in-science-8221d86684/">理學士 ( 科學數據分析及人工智能)</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-data-science-and-technology-bb392d5933/">理學士（數據科學與技術）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-economics-and-finance-8d15ec6c9a/">理學士（經濟及金融學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-environmental-management-and-technology-c9e9600b93/">理學士（環境管理及科技）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-global-china-studies-8b16a636b8/">理學士（環球中國研究）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-individualized-interdisciplinary-major-009f8ccf14/">理學士（跨學科自選主修）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-innovation-design-and-technology-ae49109d07/">理學士（創新設計與科技）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-mathematics-813630fc77/">理學士（數學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-mathematics-and-economics-ca2388186d/">理學士（數學與經濟學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-ocean-science-and-technology-f1b1f5c1ec/">理學士（海洋科學與技術）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-physics-4b61ba1f32/">理學士（物理）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-quantitative-finance-81d92fcd82/">理學士（量化金融學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-quantitative-social-analysis-ab04bea58e/">理學士（定量社會數據分析）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-risk-management-and-business-intelligence-31fbae99fc/">理學士（風險管理及商業智能學）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/hong-kong/hkust/hkust-bsc-in-sustainable-and-green-finance-a324afe1bf/">理學士（可持續發展及綠色金融）</a><small>BSc · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>内地高考入口：</strong>港科大通过学校网申独立招生，不占内地统招志愿。参加当年高考的考生（含复读生）可申请；公布成绩后按当年申请情况设学院面试线，全英语面试。高考外语若不是英语，须另有有效达标英语成绩。</p>
+<p class="fact-sources"><a href="#source-u-hkust-gaokao">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际学历入口：</strong>国际学历申请须高中毕业并满足学历、学院/专业及英语三组要求。2027招生册一般认可IB完整文凭，或至少3门A-level及格；这是最低资格，不是承诺录取分数。具体学科先修仍须逐项目核对。</p>
+<p class="fact-sources"><a href="#source-u-hkust-prospectus-2027">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科英语要求：</strong>本科英语要求可由IELTS Academic总分6.0满足；TOEFL iBT须同次旧制80（2026年1月21日前）或新制4.5（该日起）。IB英语A及HL英语B等另有替代。授课语言为英语；个别课程语言及联合院校规则另核。</p>
+<p class="fact-sources"><a href="#source-u-hkust-english-pdf">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>2027内地高考申请：</strong>2027入学于2026年10月上旬开放，2027年6月10日截止；6月下旬按高考成绩邀请面试，6月下旬至7月上旬发录取。2026周期已结束。</p>
+<p class="fact-sources"><a href="#source-u-hkust-gaokao">官方依据</a> · <a href="#source-u-hkust-apply-cn">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027国际学历申请：</strong>2026年10月上旬开放，优先轮2026年11月25日截止；11月26日起滚动审核，2027年6月30日关闭。此窗口不替代高考申请截止日。</p>
+<p class="fact-sources"><a href="#source-u-hkust-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学院/学系/专业申请区别：</strong>国际学历申请最多选两个志愿，可按学院、学系或指定专业申请。学院入口通常于大一春季或大二秋季选主修；学系入口在就读若干学期后于学系内选专业。目录中的每个主修不一定是新生网申的独立志愿。</p>
+<p class="fact-sources"><a href="#source-u-hkust-procedure">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2027/28非本地学费：</strong>普通非本地本科生2027/28学费每年港币260,000元，不含住宿和生活费。自资Eurasian Business、World Business及双学位后期费用须按专门规定；本轮不将本地生双学位第五年75,000元套用于内地非本地生。</p>
+<p class="fact-sources"><a href="#source-u-hkust-fees">官方依据</a> · <a href="#source-u-hkust-prospectus-2027">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金：</strong>内地高考入学奖学金按学术及非学术表现择优，无须另行申请，可能为定额、部分或全部学费及生活津贴。是否获奖及续领以录取奖学金条件为准；其他需要单独申请的计划须另查。</p>
+<p class="fact-sources"><a href="#source-u-hkust-fees-cn">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>毕业去向证据范围：</strong>本轮已核课程和招生资料，尚未取得可按本专业、毕业届次、国际/中国学生范围及分母解释的就业率，不用全校数据替代。</p>
+<p class="fact-sources"><a href="#source-u-hkust-procedure">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-hkust-gaokao"><div><a href="https://join.hkust.edu.hk/zh-hans/admissions/gaokao">hkust 官方本科资料：gaokao ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hkust-prospectus-2027"><div><a href="https://publication.join.ust.hk/view/14363550/10-11/">hkust 官方本科资料：prospectus-2027 ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hkust-english-pdf"><div><a href="https://join.hkust.edu.hk/oas/elar.pdf">hkust 官方本科资料：english-pdf ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hkust-apply-cn"><div><a href="https://join.hkust.edu.hk/zh-hans/apply">hkust 官方本科资料：apply-cn ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hkust-international"><div><a href="https://join.hkust.edu.hk/admissions/international-qualifications">hkust 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hkust-procedure"><div><a href="https://join.hkust.edu.hk/admissions/international-qualifications/application-procedures">hkust 官方本科资料：procedure ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hkust-fees"><div><a href="https://join.hkust.edu.hk/fees-and-scholarships">hkust 官方本科资料：fees ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-hkust-fees-cn"><div><a href="https://join.hkust.edu.hk/zh-hans/fees-and-scholarships">hkust 官方本科资料：fees-cn ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

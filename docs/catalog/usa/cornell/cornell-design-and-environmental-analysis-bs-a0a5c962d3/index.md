@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Design and Environmental Analysis (BS)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026–2027非纽约州居民标准本科年学费 US$73,946；生活、保险及实际交通另计。</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
+<p class="program-location"><strong>校区：</strong>Ithaca（纽约州） · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -36,21 +36,80 @@ hide:
 
 <p><strong>目录适用期：</strong>current Fields of Study list; linked catalog is 2026-2027</p>
 
+<p class="catalog-fact"><strong>专业学习内容：</strong>结合以人为中心的设计、环境心理学、人体工学及设施策略，研究环境、产品和系统如何影响生活。</p>
+<p class="fact-sources"><a href="#source-p-cornell-catalog-dom-design-environmental-analysis-bs">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学位总学分：</strong>官方项目资料列学位最低／总要求为120学分；主修、通识、驻校及课程成绩条件须同时满足。</p>
+<p class="fact-sources"><a href="#source-p-cornell-catalog-dom-design-environmental-analysis-bs">官方依据</a></p>
+
+<p class="catalog-fact"><strong>校区与教学形式：</strong>项目目录地点列纽约州Ithaca；形式为线下面授。授课语言本轮未单独核实。</p>
+<p class="fact-sources"><a href="#source-p-cornell-catalog-dom-design-environmental-analysis-bs">官方依据</a></p>
+
+<p class="catalog-fact"><strong>培养表学习单元示例：</strong>本页培养表包含：Visual Literacy and Design Studio（DEA 1101）；Making a Difference by Design（DEA 1110）。示例不替代完整必修／选修清单，也不保证某学期一定开课。</p>
+<p class="fact-sources"><a href="#source-p-cornell-catalog-dom-design-environmental-analysis-bs">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>大学共同规则：申请学院和中学资格：</strong>本科新生直接申请一个学院/学校，再看其独特要求；Common App含高中完整已修成绩和在修课程、学校报告、辅导员及两位教师推荐。高中后已取得12或以上大学学分者不可直接沿用此新生定义；本轮未取得中国高考统一分数线。</p>
+<p class="fact-sources"><a href="#source-p-cornell-apply">官方依据</a></p>
+
+<p class="catalog-fact"><strong>大学共同规则：SAT/ACT与英语：</strong>新生要求SAT或ACT；转学生不要求也不预期提交。英语豁免可基于美国公民/永居、母语英语、或过去四年主要英语授课；否则交英语考试。官网列有竞争力的最低值：IELTS7.5、DET130、Cambridge191；旧TOEFL100，2026年1月起页面新量表最低5、推荐5.5。日期按Cornell本页写法，不自行改成其他学校的切换日。</p>
+<p class="fact-sources"><a href="#source-p-cornell-testing">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业特殊要求范围：</strong>本轮未逐项完成本专业所有高中科目、宣告主修成绩、作品集／面试及课程先修条件核验。目录中的在读成绩要求不能当高考录取分数线。</p>
+<p class="fact-sources"><a href="#source-p-cornell-catalog-dom-design-environmental-analysis-bs">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>申请学院和中学资格：</strong>本科新生直接申请一个学院/学校，再看其独特要求；Common App含高中完整已修成绩和在修课程、学校报告、辅导员及两位教师推荐。高中后已取得12或以上大学学分者不可直接沿用此新生定义；本轮未取得中国高考统一分数线。</p>
+<p class="fact-sources"><a href="#source-u-cornell-apply">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT/ACT与英语：</strong>新生要求SAT或ACT；转学生不要求也不预期提交。英语豁免可基于美国公民/永居、母语英语、或过去四年主要英语授课；否则交英语考试。官网列有竞争力的最低值：IELTS7.5、DET130、Cambridge191；旧TOEFL100，2026年1月起页面新量表最低5、推荐5.5。日期按Cornell本页写法，不自行改成其他学校的切换日。</p>
+<p class="fact-sources"><a href="#source-u-cornell-testing">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>大学共同规则：当前申请日期及作品集：</strong>Common App，US$85或申请豁免。官网当前ED主申请/适用作品集11月1日，其余材料11月13日；RD主申请/作品集1月2日，其余材料1月19日。需按所选院校完成补充文书和艺术/设计材料；本页日期未逐项标年份，本轮不将其冒充已独立核定2027各专业窗口。</p>
+<p class="fact-sources"><a href="#source-p-cornell-apply">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>当前申请日期及作品集：</strong>Common App，US$85或申请豁免。官网当前ED主申请/适用作品集11月1日，其余材料11月13日；RD主申请/作品集1月2日，其余材料1月19日。需按所选院校完成补充文书和艺术/设计材料；本页日期未逐项标年份，本轮不将其冒充已独立核定2027各专业窗口。</p>
+<p class="fact-sources"><a href="#source-u-cornell-apply">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>大学共同规则：2026–2027非纽约居民本科费用：</strong>2026–2027非纽约州居民就读各本科学院年度学费US$73,946；纽约合同学院本州居民低费率不能用于一般中国申请者。典型预算US$99,734未计因地区而异交通，也未含SHP保险等非全体强制支出。</p>
+<p class="fact-sources"><a href="#source-p-cornell-cost-news">官方依据</a> · <a href="#source-p-cornell-cost">官方依据</a></p>
+
+<p class="catalog-fact"><strong>大学共同规则：中国国际生资助和日期范围：</strong>国际本科need-aware，资助需求影响录取；满足获录取者认定需要的方案可能含助学金、勤工及合理贷款，不能称全额无偿奖学金。须与入学同时申请资助。资助页明确的Fall2026截止已过：ED2025-11-01、RD2026-01-02；本轮未取得2027具年份CSS Profile新公告，不能沿用旧年。</p>
+<p class="fact-sources"><a href="#source-p-cornell-aid">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–2027非纽约居民本科费用：</strong>2026–2027非纽约州居民就读各本科学院年度学费US$73,946；纽约合同学院本州居民低费率不能用于一般中国申请者。典型预算US$99,734未计因地区而异交通，也未含SHP保险等非全体强制支出。</p>
+<p class="fact-sources"><a href="#source-u-cornell-cost-news">官方依据</a> · <a href="#source-u-cornell-cost">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国国际生资助和日期范围：</strong>国际本科need-aware，资助需求影响录取；满足获录取者认定需要的方案可能含助学金、勤工及合理贷款，不能称全额无偿奖学金。须与入学同时申请资助。资助页明确的Fall2026截止已过：ED2025-11-01、RD2026-01-02；本轮未取得2027具年份CSS Profile新公告，不能沿用旧年。</p>
+<p class="fact-sources"><a href="#source-u-cornell-aid">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>专业毕业调查缺口：</strong>本轮未取得该学位有明确届次、回应分母及国际／中国学生分组的就业率或薪酬统计；官网职业示例与专业教育准备不等于实际就业结果。</p>
+<p class="fact-sources"><a href="#source-p-cornell-catalog-dom-design-environmental-analysis-bs">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>逐专业毕业调查待核：</strong>本轮未取得按专业、届次与国际/中国生样本定义的就业或收入数据；机构的总体资助比例不能代替课程就业率。</p>
+<p class="fact-sources"><a href="#source-u-cornell-apply">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -59,5 +118,16 @@ hide:
 - [官方项目页面或项目所在目录](https://catalog.cornell.edu/programs/design-environmental-analysis-bs/)
 - [官方目录](https://www.cornell.edu/academics/fields.cfm)
 
+<div class="catalog-source" id="source-p-cornell-catalog-dom-design-environmental-analysis-bs"><div><a href="https://catalog.cornell.edu/programs/design-environmental-analysis-bs/">cornell 官方本科资料：catalog-dom-design-environmental-analysis-bs ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cornell-apply"><div><a href="https://admissions.cornell.edu/how-to-apply/first-year-applicants">cornell 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cornell-testing"><div><a href="https://admissions.cornell.edu/policies/standardized-testing-policy">cornell 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cornell-cost-news"><div><a href="https://news.cornell.edu/stories/2026/03/board-trustees-approves-2026-27-budget-parameters">cornell 官方本科资料：cost-news ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cornell-cost"><div><a href="https://finaid.cornell.edu/cost-to-attend">cornell 官方本科资料：cost ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-cornell-aid"><div><a href="https://www.finaid.cornell.edu/first-year-and-transfer-students-international">cornell 官方本科资料：aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cornell-apply"><div><a href="https://admissions.cornell.edu/how-to-apply/first-year-applicants">cornell 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cornell-testing"><div><a href="https://admissions.cornell.edu/policies/standardized-testing-policy">cornell 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cornell-cost-news"><div><a href="https://news.cornell.edu/stories/2026/03/board-trustees-approves-2026-27-budget-parameters">cornell 官方本科资料：cost-news ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cornell-cost"><div><a href="https://finaid.cornell.edu/cost-to-attend">cornell 官方本科资料：cost ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-cornell-aid"><div><a href="https://www.finaid.cornell.edu/first-year-and-transfer-students-international">cornell 官方本科资料：aid ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/cornell/">← 返回康奈尔大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

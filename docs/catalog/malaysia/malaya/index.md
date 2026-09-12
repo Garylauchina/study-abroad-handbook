@@ -23,91 +23,120 @@ hide:
 
 ## 专业与申请资料
 
-80 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+80 个专业条目 · 0 个含详细资料 · 80 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=malaya#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-in-accounting-71593ddcae/">Bachelor in Accounting</a><small>Bachelor in Accounting · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-actuarial-science-2a34e2ae1b/">Bachelor of Actuarial Science</a><small>Bachelor of Actuarial Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-al-quran-and-al-hadith-cfea6e1267/">Bachelor of Al-Quran and Al-Hadith</a><small>Bachelor of Al-Quran and Al-Hadith · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arabic-language-and-linguistics-66c345cf12/">Bachelor of Arabic Language and Linguistics</a><small>Bachelor of Arabic Language and Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-anthropology-and-sociology-c8285dc5a8/">Bachelor of Arts Anthropology and Sociology</a><small>Bachelor of Arts Anthropology and Sociology · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-chinese-studies-74a3838330/">Bachelor of Arts Chinese Studies</a><small>Bachelor of Arts Chinese Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-english-7b31ab601d/">Bachelor of Arts English</a><small>Bachelor of Arts English · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-history-76e020a824/">Bachelor of Arts History</a><small>Bachelor of Arts History · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-indian-studies-6fe2119f39/">Bachelor of Arts Indian Studies</a><small>Bachelor of Arts Indian Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-international-and-strategic-studies-8d1c2284de/">Bachelor of Arts International and Strategic Studies</a><small>Bachelor of Arts International and Strategic Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-southeast-asian-studies-32c13045af/">Bachelor of Arts Southeast Asian Studies</a><small>Bachelor of Arts Southeast Asian Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-biomedical-engineering-1790034a5d/">Bachelor of Biomedical Engineering</a><small>Bachelor of Biomedical Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-biomedical-science-bd4a484387/">Bachelor of Biomedical Science</a><small>Bachelor of Biomedical Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-building-surveying-fbfa753b46/">Bachelor of Building Surveying</a><small>Bachelor of Building Surveying · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-business-administration-a0ce1ce31f/">Bachelor of Business Administration</a><small>Bachelor of Business Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-chemical-engineering-029b218e3b/">Bachelor of Chemical Engineering</a><small>Bachelor of Chemical Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-chinese-language-and-linguistics-e8466117b1/">Bachelor of Chinese Language and Linguistics</a><small>Bachelor of Chinese Language and Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-civil-engineering-f8a0afcfe1/">Bachelor of Civil Engineering</a><small>Bachelor of Civil Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-ai-7975a120d7/">Bachelor of Computer Science (AI)</a><small>Bachelor of Computer Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-computer-system-and-network-16da2056f7/">Bachelor of Computer Science (Computer System and Network)</a><small>Bachelor of Computer Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-data-science-76b80e5961/">Bachelor of Computer Science (Data Science)</a><small>Bachelor of Computer Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-information-system-685e9e6d2d/">Bachelor of Computer Science (Information System)</a><small>Bachelor of Computer Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-multimedia-computing-1ad69d09f1/">Bachelor of Computer Science (Multimedia Computing)</a><small>Bachelor of Computer Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-software-engineering-95fd21aa5e/">Bachelor of Computer Science (Software Engineering)</a><small>Bachelor of Computer Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-counseling-204e8ffbe4/">Bachelor of Counseling</a><small>Bachelor of Counseling · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-dance-4226db86ae/">Bachelor of Dance</a><small>Bachelor of Dance · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-dental-surgery-e4ff85bf97/">Bachelor of Dental Surgery</a><small>Bachelor of Dental Surgery · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-drama-747cdf492e/">Bachelor of Drama</a><small>Bachelor of Drama · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-early-childhood-education-4e6966688b/">Bachelor of Early Childhood Education</a><small>Bachelor of Early Childhood Education · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-east-asian-studies-5b12b9d90a/">Bachelor of East Asian Studies</a><small>Bachelor of East Asian Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-economics-3e58afd98e/">Bachelor of Economics</a><small>Bachelor of Economics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-education-tesl-925dca8676/">Bachelor of Education TESL</a><small>Bachelor of Education TESL · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-electrical-engineering-e2ae955435/">Bachelor of Electrical Engineering</a><small>Bachelor of Electrical Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-english-language-and-linguistics-5e18cd20ca/">Bachelor of English Language and Linguistics</a><small>Bachelor of English Language and Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-environmental-studies-78a291dbd0/">Bachelor of Environmental Studies</a><small>Bachelor of Environmental Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-finance-23cd811fe5/">Bachelor of Finance</a><small>Bachelor of Finance · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-french-language-and-linguistics-b1ba15c655/">Bachelor of French Language and Linguistics</a><small>Bachelor of French Language and Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-geography-fbe65a745e/">Bachelor of Geography</a><small>Bachelor of Geography · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-german-language-and-linguistics-6d580b1f4d/">Bachelor of German Language and Linguistics</a><small>Bachelor of German Language and Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-islamic-education-ed0936166a/">Bachelor of Islamic Education</a><small>Bachelor of Islamic Education · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-islamic-studies-and-science-137b8e07ae/">Bachelor of Islamic Studies and Science</a><small>Bachelor of Islamic Studies and Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-italian-language-and-linguistics-9dc3fe7c8f/">Bachelor of Italian Language and Linguistics</a><small>Bachelor of Italian Language and Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-japanese-language-and-linguistics-b138ae2a1e/">Bachelor of Japanese Language and Linguistics</a><small>Bachelor of Japanese Language and Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-jurisprudence-5e99f17bd4/">Bachelor of Jurisprudence</a><small>Bachelor of Jurisprudence · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-laws-e2129009af/">Bachelor of Laws</a><small>Bachelor of Laws · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-malay-linguistics-3cedb2077c/">Bachelor of Malay Linguistics</a><small>Bachelor of Malay Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-malay-literature-4ab833c42e/">Bachelor of Malay Literature</a><small>Bachelor of Malay Literature · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-malay-studies-cf5ad40354/">Bachelor of Malay Studies</a><small>Bachelor of Malay Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-mechanical-engineering-7e051217ce/">Bachelor of Mechanical Engineering</a><small>Bachelor of Mechanical Engineering · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-media-studies-4a2071ce31/">Bachelor of Media Studies</a><small>Bachelor of Media Studies · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-medicine-and-bachelor-of-surgery-a5236b4cce/">Bachelor of Medicine and Bachelor of Surgery</a><small>Bachelor of Medicine and Bachelor of Surgery · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-muamalat-management-872119a17f/">Bachelor of Muamalat Management</a><small>Bachelor of Muamalat Management · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-music-7ad4bdd583/">Bachelor of Music</a><small>Bachelor of Music · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-nursing-science-f557ef8d2b/">Bachelor of Nursing Science</a><small>Bachelor of Nursing Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-performing-arts-4596511683/">Bachelor of Performing Arts</a><small>Bachelor of Performing Arts · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-pharmacy-with-honours-23cf0172f8/">Bachelor of Pharmacy with Honours</a><small>Bachelor of Pharmacy with Honours · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-professional-malay-language-fadc395e52/">Bachelor of Professional Malay Language</a><small>Bachelor of Professional Malay Language · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-quantity-surveying-7298d362bf/">Bachelor of Quantity Surveying</a><small>Bachelor of Quantity Surveying · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-real-estate-8ecd15206a/">Bachelor of Real Estate</a><small>Bachelor of Real Estate · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-applied-geology-d1b2f6eea1/">Bachelor of Science in Applied Geology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-architecture-882d7934f1/">Bachelor of Science in Architecture</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-biochemistry-3789330fcc/">Bachelor of Science in Biochemistry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-biotechnology-39b2f2e6fd/">Bachelor of Science in Biotechnology</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-chemistry-611ee6d15b/">Bachelor of Science in Chemistry</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-ecology-and-biodiversity-aae58f8659/">Bachelor of Science in Ecology and Biodiversity</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-environmental-management-7fea4bcaba/">Bachelor of Science in Environmental Management</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-mathematics-3dbaa4f678/">Bachelor of Science in Mathematics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-microbiology-and-molecular-genetics-4b9af37caa/">Bachelor of Science in Microbiology and Molecular Genetics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-physics-a58fcfaafc/">Bachelor of Science in Physics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-statistics-c50342d070/">Bachelor of Science in Statistics</a><small>Bachelor of Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-with-education-80e93b76e0/">Bachelor of Science with Education</a><small>Bachelor of Science with Education · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-shariah-9a4931a922/">Bachelor of Shariah</a><small>Bachelor of Shariah · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-shariah-and-law-58d1340629/">Bachelor of Shariah and Law</a><small>Bachelor of Shariah and Law · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-social-administration-a93099a283/">Bachelor of Social Administration</a><small>Bachelor of Social Administration · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-spanish-language-and-linguistics-fc33b07965/">Bachelor of Spanish Language and Linguistics</a><small>Bachelor of Spanish Language and Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-sports-management-da1cdb4e33/">Bachelor of Sports Management</a><small>Bachelor of Sports Management · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-sports-science-exercise-science-3c2290437f/">Bachelor of Sports Science (Exercise Science)</a><small>Bachelor of Sports Science · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-tamil-language-and-linguistics-ce74154c9d/">Bachelor of Tamil Language and Linguistics</a><small>Bachelor of Tamil Language and Linguistics · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-urban-and-regional-bbae8f3fe7/">Bachelor of Urban and Regional</a><small>Bachelor of Urban and Regional · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-usuluddin-3d63149782/">Bachelor of Usuluddin</a><small>Bachelor of Usuluddin · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-in-accounting-71593ddcae/">Bachelor in Accounting</a><small>Bachelor in Accounting · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-actuarial-science-2a34e2ae1b/">Bachelor of Actuarial Science</a><small>Bachelor of Actuarial Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-al-quran-and-al-hadith-cfea6e1267/">Bachelor of Al-Quran and Al-Hadith</a><small>Bachelor of Al-Quran and Al-Hadith · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arabic-language-and-linguistics-66c345cf12/">Bachelor of Arabic Language and Linguistics</a><small>Bachelor of Arabic Language and Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-anthropology-and-sociology-c8285dc5a8/">Bachelor of Arts Anthropology and Sociology</a><small>Bachelor of Arts Anthropology and Sociology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-chinese-studies-74a3838330/">Bachelor of Arts Chinese Studies</a><small>Bachelor of Arts Chinese Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-english-7b31ab601d/">Bachelor of Arts English</a><small>Bachelor of Arts English · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-history-76e020a824/">Bachelor of Arts History</a><small>Bachelor of Arts History · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-indian-studies-6fe2119f39/">Bachelor of Arts Indian Studies</a><small>Bachelor of Arts Indian Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-international-and-strategic-studies-8d1c2284de/">Bachelor of Arts International and Strategic Studies</a><small>Bachelor of Arts International and Strategic Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-arts-southeast-asian-studies-32c13045af/">Bachelor of Arts Southeast Asian Studies</a><small>Bachelor of Arts Southeast Asian Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-biomedical-engineering-1790034a5d/">Bachelor of Biomedical Engineering</a><small>Bachelor of Biomedical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-biomedical-science-bd4a484387/">Bachelor of Biomedical Science</a><small>Bachelor of Biomedical Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-building-surveying-fbfa753b46/">Bachelor of Building Surveying</a><small>Bachelor of Building Surveying · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-business-administration-a0ce1ce31f/">Bachelor of Business Administration</a><small>Bachelor of Business Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-chemical-engineering-029b218e3b/">Bachelor of Chemical Engineering</a><small>Bachelor of Chemical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-chinese-language-and-linguistics-e8466117b1/">Bachelor of Chinese Language and Linguistics</a><small>Bachelor of Chinese Language and Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-civil-engineering-f8a0afcfe1/">Bachelor of Civil Engineering</a><small>Bachelor of Civil Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-ai-7975a120d7/">Bachelor of Computer Science (AI)</a><small>Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-computer-system-and-network-16da2056f7/">Bachelor of Computer Science (Computer System and Network)</a><small>Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-data-science-76b80e5961/">Bachelor of Computer Science (Data Science)</a><small>Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-information-system-685e9e6d2d/">Bachelor of Computer Science (Information System)</a><small>Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-multimedia-computing-1ad69d09f1/">Bachelor of Computer Science (Multimedia Computing)</a><small>Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-computer-science-software-engineering-95fd21aa5e/">Bachelor of Computer Science (Software Engineering)</a><small>Bachelor of Computer Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-counseling-204e8ffbe4/">Bachelor of Counseling</a><small>Bachelor of Counseling · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-dance-4226db86ae/">Bachelor of Dance</a><small>Bachelor of Dance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-dental-surgery-e4ff85bf97/">Bachelor of Dental Surgery</a><small>Bachelor of Dental Surgery · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-drama-747cdf492e/">Bachelor of Drama</a><small>Bachelor of Drama · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-early-childhood-education-4e6966688b/">Bachelor of Early Childhood Education</a><small>Bachelor of Early Childhood Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-east-asian-studies-5b12b9d90a/">Bachelor of East Asian Studies</a><small>Bachelor of East Asian Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-economics-3e58afd98e/">Bachelor of Economics</a><small>Bachelor of Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-education-tesl-925dca8676/">Bachelor of Education TESL</a><small>Bachelor of Education TESL · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-electrical-engineering-e2ae955435/">Bachelor of Electrical Engineering</a><small>Bachelor of Electrical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-english-language-and-linguistics-5e18cd20ca/">Bachelor of English Language and Linguistics</a><small>Bachelor of English Language and Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-environmental-studies-78a291dbd0/">Bachelor of Environmental Studies</a><small>Bachelor of Environmental Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-finance-23cd811fe5/">Bachelor of Finance</a><small>Bachelor of Finance · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-french-language-and-linguistics-b1ba15c655/">Bachelor of French Language and Linguistics</a><small>Bachelor of French Language and Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-geography-fbe65a745e/">Bachelor of Geography</a><small>Bachelor of Geography · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-german-language-and-linguistics-6d580b1f4d/">Bachelor of German Language and Linguistics</a><small>Bachelor of German Language and Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-islamic-education-ed0936166a/">Bachelor of Islamic Education</a><small>Bachelor of Islamic Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-islamic-studies-and-science-137b8e07ae/">Bachelor of Islamic Studies and Science</a><small>Bachelor of Islamic Studies and Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-italian-language-and-linguistics-9dc3fe7c8f/">Bachelor of Italian Language and Linguistics</a><small>Bachelor of Italian Language and Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-japanese-language-and-linguistics-b138ae2a1e/">Bachelor of Japanese Language and Linguistics</a><small>Bachelor of Japanese Language and Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-jurisprudence-5e99f17bd4/">Bachelor of Jurisprudence</a><small>Bachelor of Jurisprudence · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-laws-e2129009af/">Bachelor of Laws</a><small>Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-malay-linguistics-3cedb2077c/">Bachelor of Malay Linguistics</a><small>Bachelor of Malay Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-malay-literature-4ab833c42e/">Bachelor of Malay Literature</a><small>Bachelor of Malay Literature · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-malay-studies-cf5ad40354/">Bachelor of Malay Studies</a><small>Bachelor of Malay Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-mechanical-engineering-7e051217ce/">Bachelor of Mechanical Engineering</a><small>Bachelor of Mechanical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-media-studies-4a2071ce31/">Bachelor of Media Studies</a><small>Bachelor of Media Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-medicine-and-bachelor-of-surgery-a5236b4cce/">Bachelor of Medicine and Bachelor of Surgery</a><small>Bachelor of Medicine and Bachelor of Surgery · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-muamalat-management-872119a17f/">Bachelor of Muamalat Management</a><small>Bachelor of Muamalat Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-music-7ad4bdd583/">Bachelor of Music</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-nursing-science-f557ef8d2b/">Bachelor of Nursing Science</a><small>Bachelor of Nursing Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-performing-arts-4596511683/">Bachelor of Performing Arts</a><small>Bachelor of Performing Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-pharmacy-with-honours-23cf0172f8/">Bachelor of Pharmacy with Honours</a><small>Bachelor of Pharmacy with Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-professional-malay-language-fadc395e52/">Bachelor of Professional Malay Language</a><small>Bachelor of Professional Malay Language · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-quantity-surveying-7298d362bf/">Bachelor of Quantity Surveying</a><small>Bachelor of Quantity Surveying · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-real-estate-8ecd15206a/">Bachelor of Real Estate</a><small>Bachelor of Real Estate · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-applied-geology-d1b2f6eea1/">Bachelor of Science in Applied Geology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-architecture-882d7934f1/">Bachelor of Science in Architecture</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-biochemistry-3789330fcc/">Bachelor of Science in Biochemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-biotechnology-39b2f2e6fd/">Bachelor of Science in Biotechnology</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-chemistry-611ee6d15b/">Bachelor of Science in Chemistry</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-ecology-and-biodiversity-aae58f8659/">Bachelor of Science in Ecology and Biodiversity</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-environmental-management-7fea4bcaba/">Bachelor of Science in Environmental Management</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-mathematics-3dbaa4f678/">Bachelor of Science in Mathematics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-microbiology-and-molecular-genetics-4b9af37caa/">Bachelor of Science in Microbiology and Molecular Genetics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-physics-a58fcfaafc/">Bachelor of Science in Physics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-in-statistics-c50342d070/">Bachelor of Science in Statistics</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-science-with-education-80e93b76e0/">Bachelor of Science with Education</a><small>Bachelor of Science with Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-shariah-9a4931a922/">Bachelor of Shariah</a><small>Bachelor of Shariah · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-shariah-and-law-58d1340629/">Bachelor of Shariah and Law</a><small>Bachelor of Shariah and Law · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-social-administration-a93099a283/">Bachelor of Social Administration</a><small>Bachelor of Social Administration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-spanish-language-and-linguistics-fc33b07965/">Bachelor of Spanish Language and Linguistics</a><small>Bachelor of Spanish Language and Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-sports-management-da1cdb4e33/">Bachelor of Sports Management</a><small>Bachelor of Sports Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-sports-science-exercise-science-3c2290437f/">Bachelor of Sports Science (Exercise Science)</a><small>Bachelor of Sports Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-tamil-language-and-linguistics-ce74154c9d/">Bachelor of Tamil Language and Linguistics</a><small>Bachelor of Tamil Language and Linguistics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-urban-and-regional-bbae8f3fe7/">Bachelor of Urban and Regional</a><small>Bachelor of Urban and Regional · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/malaysia/malaya/malaya-bachelor-of-usuluddin-3d63149782/">Bachelor of Usuluddin</a><small>Bachelor of Usuluddin · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>中国普高／高考：</strong>自2025-10-23起，中国籍持中国国家高中证书申请本科，须高考总分至少80%并交CSSD官方验证。该条件还须叠加各专业科目要求；持国际资格或在中国境外学校毕业者有高考豁免。不能把旧的520分说法作为现行门槛。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国境内开设课程的限制：</strong>自2025/26第2学期起，UM不接受在中国开设的OSSD、A-Level及Foundation或同等课程；列明保留中国SHSC/HSC/Grade12及UM Foundation例外。限制依据课程开设地点及类别，不能扩大为所有中国籍A-Level学生均不符合。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语要求的适用边界：</strong>多数项目以英语授课，马来语、语言与文学、艺术社科及伊斯兰研究部分项目例外。英语分数按项目国际生栏核；FAQ中的英语豁免仅限研究生，不能套给普通本科。接受IELTS单项重考；该FAQ列IELTS UKVI及TOEFL Home Edition/ITP不接受。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>国际生申请入口：</strong>国际生走学校International Channel，通过MAYA申请；UPU和SATU只适用马来西亚公民。一般10月是主入学季，3月仅部分项目开放；本轮未取得2027各专业最终截止日期，不把学期开始日当申请截止。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>申请费与学费缺口：</strong>国际常规全日制本科申请费MYR300/次。各专业页的国际费另列，但本轮未核齐对应入学年与全年／全程计费周期；奖学金资格尚待核实，预算不预先扣奖。</p>
+<p class="fact-sources"><a href="#source-u-ASREN-b5c6b617e6ddf8">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-ASREN-b5c6b617e6ddf8"><div><a href="https://study.um.edu.my/faqs-amp-info">UM招生常见问题（含中国资格更新） ↗</a><p>中国证书/高考、教学语言、申请渠道与考试形式</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

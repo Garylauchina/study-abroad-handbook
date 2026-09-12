@@ -203,6 +203,17 @@ def generate():
                 body += '\n' + link(route(c['id'],u['id']),'← 返回'+u['name']) + ' · ' + link('tools/budget/','用已确认费用计算全程预算') + '\n'
                 outputs['docs/'+route(c['id'],u['id'],p['id'])+'index.md'] = body
                 index.append({k:p[k] for k in ['id','university_id','name','name_en','degree','subject','intake','duration','campus','language','entry_summary','tuition_summary','outcomes_summary','detail_status']} | {'subjects':p.get('subjects',[p['subject']]),'degree_label':p.get('degree_label'),'research_scope':p.get('research_scope'),'qs_rank':u['qs_rank'],'qs_rank_display':u['qs_rank_display'],'country_id':c['id'],'country_name':c['name'],'university_name':u['name'],'university_name_en':u['name_en'],'aliases':u.get('aliases',[]),'url':route(c['id'],u['id'],p['id'])})
+    exclusion_file = ROOT/'data/catalog-exclusions.json'
+    for item in json.loads(exclusion_file.read_text()) if exclusion_file.exists() else []:
+        u = um[item['university_id']]; c = cm[u['country_id']]
+        assert item['id'] not in {p['id'] for p in programs}, 'Excluded item remains in the live catalog'
+        body = front(item['name_en']+' · 收录范围说明', program_context={'catalog_program': True, 'catalog_country': c['name'], 'catalog_country_url': BASE+route(c['id']), 'catalog_university': u['name'], 'catalog_university_url': BASE+route(c['id'],u['id'])})
+        body += '# '+item['name_en'].strip()+'\n\n> **此项目已移出本科专业清单。** 旧链接保留，供查阅更正说明。\n\n'+esc(item['reason'])+'\n\n'
+        body += link(route(c['id'],u['id']), '返回'+u['name']+'的本科专业清单')+'\n\n## 官方依据\n\n'
+        for source in item['sources']:
+            assert re.fullmatch(r'[a-f0-9]{64}', source['sha256'])
+            body += f'- <a href="{esc(source["url"])}">{esc(source["title"])}</a>（核对：{esc(source["checked_at"]) }）\n'
+        outputs['docs/'+route(c['id'],u['id'],item['id'])+'index.md'] = body
     university_index = [{k:v for k,v in u.items() if k not in ('catalog_coverage','profile')} | {'country_name':cm[u['country_id']]['name'], 'program_count':sum(p['university_id']==u['id'] for p in programs), 'detailed_count':sum(p['university_id']==u['id'] and p['detail_status']=='detailed' for p in programs), 'url':route(u['country_id'],u['id'])} for u in universities]
     outputs['docs/assets/data/catalog-index.json'] = json.dumps({'universities':university_index,'programs':index,'ranking':{k:v for k,v in RANKING.items() if k!='rows'}},ensure_ascii=False,separators=(',', ':'))+'\n'
     nav = ['  - 全部国家和地区: catalog/index.md']

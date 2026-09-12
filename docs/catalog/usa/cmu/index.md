@@ -23,102 +23,141 @@ hide:
 
 ## 专业与申请资料
 
-91 个专业条目 · 0 个含详细资料。入学条件、学费和毕业调查范围按具体项目查看。
+91 个专业条目 · 0 个含详细资料 · 69 个补有专业资料 · 22 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=cmu#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-anthropology-ffa2c5056a/">Anthropology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-architecture-f910541da7/">Architecture</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-architecture-6564738c7e/">Architecture</a><small>B.Arch. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-art-ca600eb3f6/">Art</a><small>B.F.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-artificial-intelligence-e6c54c526e/">Artificial Intelligence</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-artificial-intelligence-990f7e2201/">Artificial Intelligence</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-behavioral-economics-59800bc024/">Behavioral Economics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-f03f4c5ece/">Biological Sciences</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-e7f23f0713/">Biological Sciences</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-80779fbc7a/">Biological Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-and-psychology-0865c2abe9/">Biological Sciences and Psychology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-engineering-df467701d6/">Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-technology-0b532dcf97/">Biomedical Technology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-6083337486/">Business Administration</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-2ac30b6b69/">Business Administration</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-chemical-engineering-016318285c/">Chemical Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-chemistry-be656f04b0/">Chemistry</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-chemistry-767eed0992/">Chemistry</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-chemistry-biological-chemistry-track-6cf6c84718/">Chemistry/Biological Chemistry Track</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-civil-engineering-1175854898/">Civil Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-cognitive-science-090e83b0cb/">Cognitive Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-composition-a4d2b1eb49/">Composition</a><small>B.F.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computational-biology-d95f1e62d2/">Computational Biology</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computational-biology-c72bc078eb/">Computational Biology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computational-finance-250e0de9ef/">Computational Finance</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-916600e2a0/">Computer Science</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-7474e1ede3/">Computer Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-and-arts-2a128944cb/">Computer Science and Arts</a><small>B.C.S.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-creative-writing-6592be86dc/">Creative Writing</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-decision-science-c78203aec1/">Decision Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-design-047ac28839/">Design</a><small>B.Des. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-drama-fe91477285/">Drama</a><small>B.F.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-afa6a7e260/">Economics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-a2d20ce8ed/">Economics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-481d3c46b3/">Economics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-and-mathematical-sciences-0d2442bdc0/">Economics and Mathematical Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-and-politics-d4d9bfa8ec/">Economics and Politics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-and-statistics-465fe41f21/">Economics and Statistics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-electrical-and-computer-engineering-1f2aa497cd/">Electrical and Computer Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-electronic-music-688bb7d15e/">Electronic Music</a><small>B.F.A · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-engineering-design-innovation-and-entrepreneurship-2976ada4b8/">Engineering Design, Innovation, and Entrepreneurship</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-engineering-studies-and-arts-9124bf8cd3/">Engineering Studies and Arts</a><small>B.E.S.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-engineering-and-arts-dc14982e59/">Engineering and Arts</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-engineering-and-public-policy-f798e7eb0f/">Engineering and Public Policy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-environmental-engineering-5b1dd87e14/">Environmental Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-environmental-and-sustainability-studies-2083339f10/">Environmental and Sustainability Studies</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-ethics-history-and-public-policy-839a868b10/">Ethics, History and Public Policy</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-ethics-history-and-public-policy-61a841bf8d/">Ethics, History and Public Policy</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-film-and-visual-media-01846fe548/">Film and Visual Media</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-general-studies-969cdee7c1/">General Studies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-general-studies-1e2997edeb/">General Studies</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-global-cultures-and-emerging-technologies-1f8645f622/">Global Cultures and Emerging Technologies</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-health-humanities-7bd081b407/">Health Humanities</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-history-3802ca6f36/">History</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-human-computer-interaction-96c874d07e/">Human-Computer Interaction</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-human-computer-interaction-711b35911c/">Human-Computer Interaction</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-humanities-and-arts-b49261b822/">Humanities and Arts</a><small>B.H.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-e92d84e221/">Information Systems</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-international-relations-and-political-science-21e65dea73/">International Relations and Political Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-d972e59659/">Languages and Cultures</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-linguistics-d5f9358e41/">Linguistics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-literature-and-culture-3657efa180/">Literature and Culture</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-logic-and-computation-63b356f696/">Logic and Computation</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-materials-science-and-engineering-61dfff2474/">Materials Science and Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-930fdfb9e9/">Mathematical Sciences</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-f9ee47c722/">Mathematical Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-and-economics-2e2cffb8ad/">Mathematical Sciences and Economics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mechanical-engineering-9ac3cbaa90/">Mechanical Engineering</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-music-performance-51a37e209d/">Music Performance</a><small>B.F.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-music-and-technology-e613109a25/">Music and Technology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-neuroscience-fc970bfdef/">Neuroscience</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-philosophy-27eea76419/">Philosophy</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-physics-61eabe6381/">Physics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-physics-748531956f/">Physics</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-physics-72252a065b/">Physics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-policy-and-management-51a6c2b0ab/">Policy and Management</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-political-science-security-and-technology-e5e8678c07/">Political Science, Security, and Technology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-professional-writing-2051e72cb6/">Professional Writing</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-psychology-1f434851c2/">Psychology</a><small>B.A. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-psychology-8144398dd3/">Psychology</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-psychology-and-biological-sciences-8109391c1e/">Psychology and Biological Sciences</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-robotics-d27faaae31/">Robotics</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-robotics-a594e18f1b/">Robotics</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-science-and-arts-6b04fb9b22/">Science and Arts</a><small>B.S.A · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-science-technology-and-society-ed6901062c/">Science, Technology and Society</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-science-technology-and-public-policy-c82553ab3f/">Science, Technology, and Public Policy</a><small>本科项目（学位名称尚未核实） · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-statistics-and-data-science-f0c04ae94c/">Statistics and Data Science</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-statistics-and-data-science-mathematical-sciences-track-f279e8f41a/">Statistics and Data Science (Mathematical Sciences Track)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-statistics-and-data-science-neuroscience-track-8be6b225d2/">Statistics and Data Science (Neuroscience Track)</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-statistics-and-machine-learning-ba05acec02/">Statistics and Machine Learning</a><small>B.S. · 目录已核对 · 详情待补</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-technical-writing-ce5ef1c521/">Technical Writing</a><small>B.S. · 目录已核对 · 详情待补</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-anthropology-ffa2c5056a/">Anthropology</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-architecture-f910541da7/">Architecture</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-architecture-6564738c7e/">Architecture</a><small>B.Arch. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-art-ca600eb3f6/">Art</a><small>B.F.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-artificial-intelligence-e6c54c526e/">Artificial Intelligence</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-artificial-intelligence-990f7e2201/">Artificial Intelligence</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-behavioral-economics-59800bc024/">Behavioral Economics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-f03f4c5ece/">Biological Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-e7f23f0713/">Biological Sciences</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-80779fbc7a/">Biological Sciences</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biological-sciences-and-psychology-0865c2abe9/">Biological Sciences and Psychology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-engineering-df467701d6/">Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-biomedical-technology-0b532dcf97/">Biomedical Technology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-6083337486/">Business Administration</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-business-administration-2ac30b6b69/">Business Administration</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-chemical-engineering-016318285c/">Chemical Engineering</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-chemistry-be656f04b0/">Chemistry</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-chemistry-767eed0992/">Chemistry</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-chemistry-biological-chemistry-track-6cf6c84718/">Chemistry/Biological Chemistry Track</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-civil-engineering-1175854898/">Civil Engineering</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-cognitive-science-090e83b0cb/">Cognitive Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-composition-a4d2b1eb49/">Composition</a><small>B.F.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computational-biology-d95f1e62d2/">Computational Biology</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computational-biology-c72bc078eb/">Computational Biology</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computational-finance-250e0de9ef/">Computational Finance</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-916600e2a0/">Computer Science</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-7474e1ede3/">Computer Science</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-computer-science-and-arts-2a128944cb/">Computer Science and Arts</a><small>B.C.S.A. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-creative-writing-6592be86dc/">Creative Writing</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-decision-science-c78203aec1/">Decision Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-design-047ac28839/">Design</a><small>B.Des. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-drama-fe91477285/">Drama</a><small>B.F.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-afa6a7e260/">Economics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-a2d20ce8ed/">Economics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-481d3c46b3/">Economics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-and-mathematical-sciences-0d2442bdc0/">Economics and Mathematical Sciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-and-politics-d4d9bfa8ec/">Economics and Politics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-economics-and-statistics-465fe41f21/">Economics and Statistics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-electrical-and-computer-engineering-1f2aa497cd/">Electrical and Computer Engineering</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-electronic-music-688bb7d15e/">Electronic Music</a><small>B.F.A · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-engineering-design-innovation-and-entrepreneurship-2976ada4b8/">Engineering Design, Innovation, and Entrepreneurship</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-engineering-studies-and-arts-9124bf8cd3/">Engineering Studies and Arts</a><small>B.E.S.A. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-engineering-and-arts-dc14982e59/">Engineering and Arts</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-engineering-and-public-policy-f798e7eb0f/">Engineering and Public Policy</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-environmental-engineering-5b1dd87e14/">Environmental Engineering</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-environmental-and-sustainability-studies-2083339f10/">Environmental and Sustainability Studies</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-ethics-history-and-public-policy-839a868b10/">Ethics, History and Public Policy</a><small>B.A. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-ethics-history-and-public-policy-61a841bf8d/">Ethics, History and Public Policy</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-film-and-visual-media-01846fe548/">Film and Visual Media</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-general-studies-969cdee7c1/">General Studies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-general-studies-1e2997edeb/">General Studies</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-global-cultures-and-emerging-technologies-1f8645f622/">Global Cultures and Emerging Technologies</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-health-humanities-7bd081b407/">Health Humanities</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-history-3802ca6f36/">History</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-human-computer-interaction-96c874d07e/">Human-Computer Interaction</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-human-computer-interaction-711b35911c/">Human-Computer Interaction</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-humanities-and-arts-b49261b822/">Humanities and Arts</a><small>B.H.A. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-information-systems-e92d84e221/">Information Systems</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-international-relations-and-political-science-21e65dea73/">International Relations and Political Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-languages-and-cultures-d972e59659/">Languages and Cultures</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-linguistics-d5f9358e41/">Linguistics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-literature-and-culture-3657efa180/">Literature and Culture</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-logic-and-computation-63b356f696/">Logic and Computation</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-materials-science-and-engineering-61dfff2474/">Materials Science and Engineering</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-930fdfb9e9/">Mathematical Sciences</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-f9ee47c722/">Mathematical Sciences</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mathematical-sciences-and-economics-2e2cffb8ad/">Mathematical Sciences and Economics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-mechanical-engineering-9ac3cbaa90/">Mechanical Engineering</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-music-performance-51a37e209d/">Music Performance</a><small>B.F.A. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-music-and-technology-e613109a25/">Music and Technology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-neuroscience-fc970bfdef/">Neuroscience</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-philosophy-27eea76419/">Philosophy</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-physics-61eabe6381/">Physics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-physics-748531956f/">Physics</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-physics-72252a065b/">Physics</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-policy-and-management-51a6c2b0ab/">Policy and Management</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-political-science-security-and-technology-e5e8678c07/">Political Science, Security, and Technology</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-professional-writing-2051e72cb6/">Professional Writing</a><small>B.A. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-psychology-1f434851c2/">Psychology</a><small>B.A. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-psychology-8144398dd3/">Psychology</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-psychology-and-biological-sciences-8109391c1e/">Psychology and Biological Sciences</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-robotics-d27faaae31/">Robotics</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-robotics-a594e18f1b/">Robotics</a><small>B.S. · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-science-and-arts-6b04fb9b22/">Science and Arts</a><small>B.S.A · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-science-technology-and-society-ed6901062c/">Science, Technology and Society</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-science-technology-and-public-policy-c82553ab3f/">Science, Technology, and Public Policy</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-statistics-and-data-science-f0c04ae94c/">Statistics and Data Science</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-statistics-and-data-science-mathematical-sciences-track-f279e8f41a/">Statistics and Data Science (Mathematical Sciences Track)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-statistics-and-data-science-neuroscience-track-8be6b225d2/">Statistics and Data Science (Neuroscience Track)</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-statistics-and-machine-learning-ba05acec02/">Statistics and Machine Learning</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/cmu/cmu-technical-writing-ce5ef1c521/">Technical Writing</a><small>B.S. · 部分专业资料已核实</small></article></div>
+
+## 学校共用申请资料
+
+以下是已核实的学校规则，适用资格与年度在各条中说明；具体专业还可能要求先修科目、考试、作品集或另行申请。
+
+### 入学条件
+
+<p class="catalog-fact"><strong>国际学历：</strong>国际学生使用与美国本土申请人相同的申请程序；非英语成绩单须有正式译本并经学校人员确认。正在修读 IB 或 GCE A-level 的申请人提交预估考试成绩。本轮未取得可作为专业录取线的大陆高考／普高固定分数。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c32178daec96ec">官方依据</a></p>
+
+<p class="catalog-fact"><strong>工程与艺术入口：</strong>工程一般直接按院系／专业录取，选择 Engineering Undecided 者再在大一分流；转专业不保证。艺术学院的戏剧和音乐需预筛、试镜／试演或作品审查；建筑、美术、设计须提交规定作品集。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-fec99727d30f81">官方依据</a></p>
+
+<p class="catalog-fact"><strong>标化考试按学院区分：</strong>计算机学院要求 SAT 或 ACT。工程、Dietrich 文社科、Information Systems、Mellon 理科和 Tepper 商学院实行 test-flexible，仍须提交认可测试，可选 SAT/ACT、IB、AP、A-level 或法国会考等。艺术学院 test-optional，但作品／试演要求仍适用；不能将 flexible 理解为免考。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-264523f5048d9c">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语：</strong>母语非英语者须提交英语测试，成绩2年内。IELTS 总分至少7.5；TOEFL 2026-01-21前至少102，该日起至少5；DET 至少135。官网对小分另给优先考虑水平：IELTS7.5、旧TOEFL25／新5、DET四项135；这些小分措辞不同于总分硬门槛。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c32178daec96ec">官方依据</a></p>
+
+### 申请安排
+
+<p class="catalog-fact"><strong>现行申请日程：</strong>Early Decision 截止11月2日且具有约束性；普通 Regular Decision 截止1月4日。戏剧与音乐 RD 为12月1日，且戏剧、音乐及 BXA Design 不开放 ED。所读页面未逐项标入学年，暂按现行日程保留；艺术材料另有安排。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-1a9217deaf3fb4">官方依据</a></p>
+
+### 学费与资助
+
+<p class="catalog-fact"><strong>2026/27 匹兹堡本科预算：</strong>官方 I-20/DS-2019 预算表：学费 USD69,702、费用1,862、住房11,700、餐食7,950、保险3,265、书本用品2,400，合计96,879／学年。仅匹兹堡本科；保险栏脚注仍按2025/26估算，2027入学价格本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-684580ad7b78d5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助：</strong>大学明确不向这里定义的国际生（将在美国持临时签证学习者）提供 financial aid，家庭应准备全额就读费用；不把其他身份的资助政策套用于 F/J 国际生。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-c32178daec96ec">官方依据</a></p>
+
+### 学校资料来源
+
+<div class="catalog-source" id="source-u-USBENR-c32178daec96ec"><div><a href="https://www.cmu.edu/admission/admission/international-applicants">cmu 官方 international ↗</a><p>本条国际学历及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-fec99727d30f81"><div><a href="https://www.cmu.edu/admission/admission/undergraduate-admission-requirements">cmu 官方 requirements ↗</a><p>本条工程与艺术入口及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-264523f5048d9c"><div><a href="https://www.cmu.edu/admission/admission/standardized-testing">cmu 官方 testing ↗</a><p>本条标化考试按学院区分及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-1a9217deaf3fb4"><div><a href="https://www.cmu.edu/admission/admission/application-plans-deadlines">cmu 官方 deadlines ↗</a><p>本条现行申请日程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-684580ad7b78d5"><div><a href="https://www.cmu.edu/oie/pre-arrival-and-settling-in/students/instructions/estimated-expenses.html">cmu 官方 tuition ↗</a><p>本条2026/27 匹兹堡本科预算及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 
 ## 专业目录覆盖记录
 

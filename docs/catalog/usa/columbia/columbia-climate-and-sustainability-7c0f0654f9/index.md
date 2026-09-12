@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Climate and Sustainability</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>仅GS：2025–2026参考 US$2,258/point；30 points为 US$67,740。新年度金额本轮未核实。</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,74 @@ hide:
 
 <p><strong>申请路径：</strong>School of General Studies undergraduate pathway; school-specific eligibility must be checked</p>
 
+<p class="catalog-fact"><strong>具体学习单元示例：</strong>本科培养表列出的单元：EARTH&#x27;S ENVIRONMENTAL SYSTEMS: THE SOLID EARTH（EESC UN2200）；EARTH&#x27;S ENVIRO SYST: CLIM SYST（EESC UN2100）。示例不代表全部必修或当年保证开课，需核对必修/选修与授课安排。</p>
+<p class="fact-sources"><a href="#source-p-columbia-program-7428a9828f4b7c16">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成标准学制、具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="fact-sources"><a href="#source-p-columbia-program-7428a9828f4b7c16">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="fact-sources"><a href="#source-p-columbia-program-7428a9828f4b7c16">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：GS非传统本科资格与第二学位：</strong>以下仅适用于School of General Studies（GS）。申请者须教育经历中断一年或以上，或有充分理由只能非全时就读；普通连续升学的高中毕业生不能据此直接认定符合GS入口。已有学士者可读不同于原学位的第二学士；最多认可60转入学分，毕业要求124 points。Columbia College及Engineering的普通新生规则本轮尚未充分取得，不套GS条件。</p>
+<p class="fact-sources"><a href="#source-p-columbia-gs-eligibility-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：GS考试、语言和材料：</strong>GS的SAT/ACT或GSAE可选；英语非母语且中学并非英语授课者须英语证明。当前页列旧TOEFL iBT至少100、IELTS至少7、DET至少120，成绩两年内；本轮未取得该页对2026新TOEFL量表的对应说明。须个人经历文书、两封学术或职业推荐及学业记录，不能把GS可选考试政策自动推广到其他学院。</p>
+<p class="fact-sources"><a href="#source-p-columbia-gs-apply-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>GS非传统本科资格与第二学位：</strong>以下仅适用于School of General Studies（GS）。申请者须教育经历中断一年或以上，或有充分理由只能非全时就读；普通连续升学的高中毕业生不能据此直接认定符合GS入口。已有学士者可读不同于原学位的第二学士；最多认可60转入学分，毕业要求124 points。Columbia College及Engineering的普通新生规则本轮尚未充分取得，不套GS条件。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-eligibility-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>GS考试、语言和材料：</strong>GS的SAT/ACT或GSAE可选；英语非母语且中学并非英语授课者须英语证明。当前页列旧TOEFL iBT至少100、IELTS至少7、DET至少120，成绩两年内；本輪未取得该页对2026新TOEFL量表的对应说明。须个人经历文书、两封学术或职业推荐及学业记录，不能把GS可选考试政策自动推广到其他学院。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-apply-dom">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：GS独立申请和当前月日：</strong>GS使用独立网上申请，申请费US$80或申请豁免，不能同轮申请GS及Columbia College/Engineering。当前秋季窗口12月1日开放，优先EA1月15日、EA3月1日、RD5月15日；春季8月1日开放，优先9月1日、EA10月1日、RD11月1日。F-1申请者建议提早按EA递交。网页月日未逐项给出2027年份，本轮不把静态日期当作单独2027公告。</p>
+<p class="fact-sources"><a href="#source-p-columbia-gs-apply-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>GS独立申请和当前月日：</strong>GS使用独立网上申请，申请费US$80或申请豁免，不能同轮申请GS及Columbia College/Engineering。当前秋季窗口12月1日开放，优先EA1月15日、EA3月1日、RD5月15日；春季8月1日开放，优先9月1日、EA10月1日、RD11月1日。F-1申请者建议提早按EA递交。网页月日未逐项给出2027年份，本轮不把静态日期当作单独2027公告。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-apply-dom">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：GS 2025–2026学费参考：</strong>本轮实际读取的GS学费页仍明确为2025秋／2026春：每学期不足16 points按US$2,258/point，16 points及以上US$36,128/学期；两学期各15 points共US$67,740。另有杂费、生活费和保险。这是旧年度参考，2026–2027及2027–2028学费本轮未核实，不作最新报价。</p>
+<p class="fact-sources"><a href="#source-p-columbia-gs-fees-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：GS资助不是全额满足承诺：</strong>GS明确不保证满足所有学生的全部认定经济需要。建议随入学申请并在EA时间内申请资助，寻求资助的申请者提交CSS Profile；在读学生每年重新申请校内奖学金。不能套用Columbia其他学院的资助承诺，也不能把网站所有学生获资助比例当中国学生获奖概率。</p>
+<p class="fact-sources"><a href="#source-p-columbia-gs-aid-dom">官方依据</a> · <a href="#source-p-columbia-gs-apply-dom">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>GS 2025–2026学费参考：</strong>本轮实际读取的GS学费页仍明确为2025秋／2026春：每学期不足16 points按US$2,258/point，16 points及以上US$36,128/学期；两学期各15 points共US$67,740。另有杂费、生活费和保险。这是旧年度参考，2026–2027及2027–2028学费本轮未核实，不作最新报价。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-fees-dom">官方依据</a></p>
+
+<p class="catalog-fact"><strong>GS资助不是全额满足承诺：</strong>GS明确不保证满足所有学生的全部认定经济需要。建议随入学申请并在EA时间内申请资助，寻求资助的申请者提交CSS Profile；在读学生每年重新申请校内奖学金。不能套用Columbia其他学院的资助承诺，也不能把网站所有学生获资助比例当中国学生获奖概率。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-aid-dom">官方依据</a> · <a href="#source-u-columbia-gs-apply-dom">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业毕业调查缺口：</strong>本轮未取得有明确毕业届次、回应样本和国际/中国学生口径的本专业就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-p-columbia-program-7428a9828f4b7c16">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>专业及学院调查缺口：</strong>本轮未取得GS各主修或Engineering各本科项目有清晰毕业届次、回应样本与国际／中国学生分组的就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-u-columbia-gs-entry-dom">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +114,15 @@ hide:
 - [官方项目页面或项目所在目录](https://bulletin.columbia.edu/general-studies/majors-concentrations/climate-sustainability/)
 - [官方目录](https://bulletin.columbia.edu/general-studies/majors-concentrations/)
 
+<div class="catalog-source" id="source-p-columbia-program-7428a9828f4b7c16"><div><a href="https://bulletin.columbia.edu/general-studies/majors-concentrations/climate-sustainability/">Climate and Sustainability 官方培养资料 ↗</a><p>本条培养表、具体学习单元及资料范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-columbia-gs-eligibility-dom"><div><a href="https://www.gs.columbia.edu/content/eligibility-undergraduate">columbia 官方本科资料：gs-eligibility-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-columbia-gs-apply-dom"><div><a href="https://www.gs.columbia.edu/content/how-apply">columbia 官方本科资料：gs-apply-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-columbia-gs-fees-dom"><div><a href="https://www.gs.columbia.edu/content/undergraduate-tuition-and-fees">columbia 官方本科资料：gs-fees-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-columbia-gs-aid-dom"><div><a href="https://www.gs.columbia.edu/content/applying-undergraduate-financial-aid">columbia 官方本科资料：gs-aid-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-columbia-gs-eligibility-dom"><div><a href="https://www.gs.columbia.edu/content/eligibility-undergraduate">columbia 官方本科资料：gs-eligibility-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-columbia-gs-apply-dom"><div><a href="https://www.gs.columbia.edu/content/how-apply">columbia 官方本科资料：gs-apply-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-columbia-gs-fees-dom"><div><a href="https://www.gs.columbia.edu/content/undergraduate-tuition-and-fees">columbia 官方本科资料：gs-fees-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-columbia-gs-aid-dom"><div><a href="https://www.gs.columbia.edu/content/applying-undergraduate-financial-aid">columbia 官方本科资料：gs-aid-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-columbia-gs-entry-dom"><div><a href="https://www.gs.columbia.edu/content/gs-undergraduate-admissions">columbia 官方本科资料：gs-entry-dom ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/columbia/">← 返回哥伦比亚大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

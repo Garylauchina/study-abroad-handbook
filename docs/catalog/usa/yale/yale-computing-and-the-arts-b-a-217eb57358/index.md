@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Computing and the Arts (B.A.)</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>2026–2027 Yale College标准本科年学费 US$72,500；另计住食与费用。</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -36,21 +36,77 @@ hide:
 
 <p><strong>目录适用期：</strong>2026-2027</p>
 
+<p class="catalog-fact"><strong>介绍中的学习主题：</strong>本项目官方介绍涉及建筑、历史、音乐、戏剧。这是介绍中的主题摘要，不能代替必修课清单、完整培养方案或专业入学条件。</p>
+<p class="fact-sources"><a href="#source-p-yale-program-d5a7dda142700ced">官方依据</a></p>
+
+<p class="catalog-fact"><strong>主修要求范围：</strong>本页要求摘要列出12门课程的要求。先修、语言及高年级研究是否包含在内、B.A./B.S.不同路径如何计算，须按同一页细则核对；不是学士学位全部课程数。</p>
+<p class="fact-sources"><a href="#source-p-yale-program-d5a7dda142700ced">官方依据</a></p>
+
+<p class="catalog-fact"><strong>尚待逐项复核：</strong>本轮未逐项完成标准学制、具体校区、全程授课语言、专业特殊招生与毕业职业统计的核验。</p>
+<p class="fact-sources"><a href="#source-p-yale-program-d5a7dda142700ced">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>专业特殊要求待核：</strong>本轮未完成本条宣告主修、转入、荣誉、表演试演、作品集或全部学习单元先修条件的逐项核验；校级共同规则不能替代特有要求。</p>
+<p class="fact-sources"><a href="#source-p-yale-program-d5a7dda142700ced">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：国际高中资格与共同入口：</strong>Yale College用相同整体审查流程评估各国申请者；海外高中学生提交同样申请及要求材料，非英文成绩和推荐附认证英文翻译，不得自行翻译。本轮未取得中国高考统一录取分数线。</p>
+<p class="fact-sources"><a href="#source-p-yale-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：当前考试与英语：</strong>当前政策要求新生和转学生SAT或ACT；其他离校或英语考试不能替代。非英语母语、未在英语授课中学学习至少两年者须英语能力证明。官网描述有竞争力的水平为IELTS7以上、DET120以上、Cambridge185以上；这些是竞争力描述而非保证录取线。</p>
+<p class="fact-sources"><a href="#source-p-yale-international">官方依据</a> · <a href="#source-p-yale-testing">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>国际高中资格与共同入口：</strong>Yale College用相同整体审查流程评估各国申请者；海外高中学生提交同样申请及要求材料，非英文成绩和推荐附认证英文翻译，不得自行翻译。本轮未取得中国高考统一录取分数线。</p>
+<p class="fact-sources"><a href="#source-u-yale-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>当前考试与英语：</strong>当前政策要求新生和转学生SAT或ACT；其他离校或英语考试不能替代。非英语母语、未在英语授课中学学习至少两年者须英语能力证明。官网描述有竞争力的水平为IELTS7以上、DET120以上、Cambridge185以上；这些是竞争力描述而非保证录取线。</p>
+<p class="fact-sources"><a href="#source-u-yale-international">官方依据</a> · <a href="#source-u-yale-testing">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：渠道与当前日期：</strong>可选Common App、Coalition on Scoir或QuestBridge，只提交一份申请；需推荐、学校报告及成绩、标准考试。当前SCEA截止11月1日、RD1月2日。本页未为所有日期逐项标年份，本轮不将静态月日冒充单独2027年份公告。</p>
+<p class="fact-sources"><a href="#source-p-yale-apply">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>渠道与当前日期：</strong>可选Common App、Coalition on Scoir或QuestBridge，只提交一份申请；需推荐、学校报告及成绩、标准考试。当前SCEA截止11月1日、RD1月2日。本页未为所有日期逐项标年份，本轮不将静态月日冒充单独2027年份公告。</p>
+<p class="fact-sources"><a href="#source-u-yale-apply">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>所属入口共同规则：2026–2027标准本科费用：</strong>年度标准学费US$72,500；另有学生活动费US$185、住宿US$12,080、餐饮US$9,520，书本用品估计US$1,000、个人US$2,700，交通按家庭地址变化。Eli Whitney学生按学期注册学分适用全费或半费，不自动套全时年费。</p>
+<p class="fact-sources"><a href="#source-p-yale-cost">官方依据</a></p>
+
+<p class="catalog-fact"><strong>所属入口共同规则：国际生资助：</strong>国际申请不因支付能力影响录取，并满足学校认定的全部需要；方案考虑居住国经济、住食及每年两次往返交通。国际生入学后不要求每年重新申请资助。</p>
+<p class="fact-sources"><a href="#source-p-yale-international">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026–2027标准本科费用：</strong>年度标准学费US$72,500；另有学生活动费US$185、住宿US$12,080、餐饮US$9,520，书本用品估计US$1,000、个人US$2,700，交通按家庭地址变化。Eli Whitney学生按学期注册学分适用全费或半费，不自动套全时年费。</p>
+<p class="fact-sources"><a href="#source-u-yale-cost">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助：</strong>国际申请不因支付能力影响录取，并满足学校认定的全部需要；方案考虑居住国经济、住食及每年两次往返交通。国际生入学后不要求每年重新申请资助。</p>
+<p class="fact-sources"><a href="#source-u-yale-international">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>本专业毕业调查缺口：</strong>本轮未取得有明确毕业届次、回应样本和国际/中国学生口径的本专业就业率或薪酬统计。</p>
+<p class="fact-sources"><a href="#source-p-yale-program-d5a7dda142700ced">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>逐专业统计缺口：</strong>本轮未取得有毕业届次、回应样本及国际/中国生分组的全部主修就业率或薪酬资料。</p>
+<p class="fact-sources"><a href="#source-u-yale-apply">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -59,5 +115,14 @@ hide:
 - [官方项目页面或项目所在目录](https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/)
 - [官方目录](https://catalog.yale.edu/ycps/majors-in-yale-college/)
 
+<div class="catalog-source" id="source-p-yale-program-d5a7dda142700ced"><div><a href="https://catalog.yale.edu/ycps/subjects-of-instruction/computing-arts/">Computing and the Arts (B.A.) 官方培养资料 ↗</a><p>本条培养表、具体学习单元及资料范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-yale-international"><div><a href="https://admissions.yale.edu/international">yale 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-yale-testing"><div><a href="https://admissions.yale.edu/standardized-testing">yale 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-yale-apply"><div><a href="https://admissions.yale.edu/first-year-application-process">yale 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-p-yale-cost"><div><a href="https://finaid.yale.edu/coa">yale 官方本科资料：cost ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-yale-international"><div><a href="https://admissions.yale.edu/international">yale 官方本科资料：international ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-yale-testing"><div><a href="https://admissions.yale.edu/standardized-testing">yale 官方本科资料：testing ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-yale-apply"><div><a href="https://admissions.yale.edu/first-year-application-process">yale 官方本科资料：apply ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-yale-cost"><div><a href="https://finaid.yale.edu/coa">yale 官方本科资料：cost ↗</a><p>本条学术/英语/申请/资助/费用事实及适用范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/yale/">← 返回耶鲁大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

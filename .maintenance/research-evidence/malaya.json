@@ -1,0 +1,491 @@
+{
+  "university_id": "malaya",
+  "sources": [
+    {
+      "url": "https://study.um.edu.my/faqs-amp-info",
+      "sha256": "5512902f92c8de5411b68043cdf2a16e9dcca08974336f9baa2a8b70e222eb43",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/faq.html",
+      "locator": "Student Info / Entry Requirements for China Nationals"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-islamic-studies-and-science",
+      "sha256": "b8856b939c9a38700f308eecfaad1b2c27e7b1546e6c30567ef59da292b312be",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-93a12a55a99e953c0bed.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-muamalat-management",
+      "sha256": "07ed34e870c7e0b367d31d824351425cb162fd68cb09e7b1026763f304d02234",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-8c932923d2ea46ddda83.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-al-quran-and-al-hadith",
+      "sha256": "e636b49fd61392238919f2b21ae0ef4a178e6b3c411502955ca099fb2d3fb44c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-5dbc4dd71531863ec5a2.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-shariah-and-law",
+      "sha256": "2601b2b528e41e1909d756b16008bf656e37e48a609d924c609635e6610e8c1c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-d68901376091e559916f.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-shariah",
+      "sha256": "e2050f63547f4b1fcad80eac48c94f52ead9db5a34f4180d3a4869a2a785d185",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-66bf1752f748a5b85e6e.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-usuluddin",
+      "sha256": "8224d4f24f140732db005102b5653f6b2eeecb3a5279e24006cdbdcb872a068b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-ce35992e4bec229ed82a.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-islamic-education",
+      "sha256": "c1f2d5b98b29a4b22157224ea67c5c1cb95602e00069315171d8d7cd2b58e341",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-e27f95f69460d020351c.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-arts-anthropology-and-sociology",
+      "sha256": "35555e271874a0ca999a5a814268665094a699ee85c0f678a36a59e8514c1be5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-954e9c0b4230471fe2ff.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-geography",
+      "sha256": "01df0dd5f109c131604a409bbc9ef0dcf0ffb8e909766868e87a83e34f4a2c0a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-ad0fe5a36d6f7e392a0b.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-environmental-studies",
+      "sha256": "bb367beb97ed1845f5abc69a6d05c06328d208ffc950c80ec2bf673bf24f1461",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-b5fd3801c476adb20708.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-arts-international-and-strategic-studies",
+      "sha256": "cd373614e7dee94c2460adc6482f45229fd040546afc4a7da12a952c79172201",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-e51e4fd3aa48324bb4ef.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-arts-southeast-asians-studies",
+      "sha256": "0e46af2ebf3a54fe911ca3d15590d67a69c924db0db4044d1a4fdaddde2f3c24",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-98fbdcc5fc6ee927ebe6.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-east-asian-studies",
+      "sha256": "3d1e1b3e1f93dfc34c68f62b1b16ef6e73aa0b90a80f2234afda140bebeaba71",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-68316e46d57eb9f262af.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-social-administration",
+      "sha256": "5d48732c7ab1598f35c4e6cf445d9b8660b47d2dbe04004e006dbe5180691093",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-80cac3bea500140fb8c6.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-arts-history",
+      "sha256": "9fbe1935d1f2b0995ad652a8d1b471fef04f445d5afcdb649839184dabe0d4a4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-8ef194a7cf50d923dca8.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-arts-indian-studies",
+      "sha256": "67704cc362f4e8627978ee42ff3269f0f7104d93abaf817b5628afd8809eb3f8",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-cba330bea19829039834.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-arts-chinese-studies",
+      "sha256": "1213989c9cb8ae10f7c7bc40cec9da7b9d121e4c0c7f5a7acd0ec4720b5aa745",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-2d722c8f15ca9657af85.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-arts-english",
+      "sha256": "d3df3b868353e053f0143b6bb36ffe423eb68cef15a879041f846ef5d17c6f1e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-846381864d8aaf43e5ae.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-media-studies",
+      "sha256": "b96904ee3e37d07c17a756f39c86ee2cf299a82743ea1cc0293b64cbf4c29406",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-a30eae20c1c8b5787079.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-architecture",
+      "sha256": "bc8c0956f39343a97e43fcf2890623f927897ed50e4051d15817bb33bafa3419",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-09a2ed2137366c59d772.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-building-surveying",
+      "sha256": "181d5a620a140077fcf914d29bb64857ba0b400f9ea88ecc2865e06aa39fb7d9",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-daac0ab5f1685c1490ff.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-quantity-surveying",
+      "sha256": "027388ab935b54d94b656992446c5a2a249793bc1eae10ea9d4bf6a8bb2ea037",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-68bf21eab5b451d4c100.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-urban-and-regional-planning",
+      "sha256": "45779d51cfea2e38017b637f2c6ad487f36f45598510784b6aa0ee3a70cc44d9",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-260510f1a3d90e549bc4.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-real-estate",
+      "sha256": "ed4de67b2d3738eb79bc33639575c978da71b42dc8d99da1ca0a7e7da56e0389",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-99c05321f7b1a8059984.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-business-administration",
+      "sha256": "e0753f4a467fd3355fdc61c53822f8abb59ff23d588f598df375559cd3a7fe8e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-157c5bb50635bd66e6e9.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-in-accounting",
+      "sha256": "db59f7346daf422dc14f0157c59ccf1fc95eb2770fc12e532da08b95d60fbaab",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-a21dbd653293e3470a18.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-finance",
+      "sha256": "44f9598345727db339658a544a4f54cde20c25f08fe85a581036d1f8c18c4671",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-fd638cda1828c014477f.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-economics",
+      "sha256": "5407cba469d1a2657881995bb0268a62843d356470970e814a0aa2bad8c8e29a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-5b82c40ef727e8569553.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-computer-science-artificial-intelligence",
+      "sha256": "d035b5c3438780eca195c9a5a1ece09732241e0a8292add9be31b1f264de6333",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-cff9cb499787d79b64d8.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-computer-science-software-engineering",
+      "sha256": "a84584ceaaeabefbc2ce69d5dbb0423a1da720e462481689a88fd18bdafb64c2",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-914b0e1a0fc3f84a9a79.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-computer-science-computer-system-and-network",
+      "sha256": "6cedc1f1cdedc346da3eb7df4db02b88602c2691ba4a846d66a8a07a67801ebb",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-c282c7a9cb750da7e02f.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-computer-science-multimedia-computing",
+      "sha256": "62cdedbf2a9d601a560bdaf0961b460ee1540b2e31daa7502bbf137fc9693896",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-f8b6eed60e9acd1a80e8.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-computer-science-data-science",
+      "sha256": "bb587b464e3dae7f9494b7d7f70667c1c19a7133bd92355d506940fa9a185702",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-73d0d6b4f070e9ac4d86.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-computer-science-information-system",
+      "sha256": "a7b73b35f985c5286b87a383a9194d480de3ac765d226753b31b83d4a1c962f7",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-f910b7eda67e526042a0.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-dance",
+      "sha256": "a3bd76da5aa76152aa55dd3d801d9c21536978af0c8e88a03dd2aa4e0616768e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-0f3531aa52e844c815ef.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-drama",
+      "sha256": "3704a721864eccf7395d93b3f10826033612a76052ac28254257db592c51b15e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-73da9fb86f6e295580a2.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-music",
+      "sha256": "fb9f515dffcdd1dc23acc598f808090554f7893f01633a5148b3f50a47d412d4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-52ac818767a7afc7fc80.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-performing-arts",
+      "sha256": "1798f501615b4c0905e5f258f1e1e31137a41b5dcf423dc89e76e0d560332e4f",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-495484a91cb98db25611.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-dental-surgery",
+      "sha256": "495dfdca172692657a6ad0cd08a09bedc46624ed222103ba40ba4082385b4ada",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-1a09999ec216478d786e.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-counseling",
+      "sha256": "44f2c08c14f6678509a64cd0d318888224e3958f21bd187f7e588b615733a7a0",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-20a6d1df7813eb4aa8cf.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-teaching-english-as-second-language",
+      "sha256": "003fc77a0adae7125c1788004d4806a733b4c5e2c023cc45d4f5de344ea6ae36",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-0f78a872beb6c1254a81.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-childhood-education",
+      "sha256": "4cd3897b3e5a98c1ba4e2cb082f65a8b72ccd4eaad0c47f37e3446b39a39efd5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-14b3fca1ade616f29e3d.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-civil-engineering",
+      "sha256": "60e4e6731b1b8b680ffd2c2fc326f503422cabff0d36b95c56075c25ccb29957",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-99ce4f7de0d7888e4ed6.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-biomedical-engineering",
+      "sha256": "10f13cf1a9fa58bdf1697dcdd8f13b7520031ef34c2e207cccf85734f1106e88",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-a9d14ffc2e014ede8cca.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-mechanical-engineering",
+      "sha256": "fed4dd8ec395ada518ee211cc34ad0e3258b253d77d3c9fecf69347c7580688c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-d6d2878aae095807e7dd.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-electrical-engineering",
+      "sha256": "4f2313837118a089984f0fa514107250cec0f528261f375fc29f186fea50e4ab",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-fffe4d47b77a5303e61e.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-chemical-engineering",
+      "sha256": "fd1917f86daeea3c405a54100c5074ed93ff93e3d9b1696327ec9d5bebc3fa47",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-aa9cd6303c0060a6c8ca.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-english-language-and-linguistics",
+      "sha256": "5e41bc782a264c7ac32da40cb089404e5e082147a1556ecaf2c6b1c3d9d7a80e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-9193ca1f25ac43ef6e82.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-chinese-language-and-linguistics",
+      "sha256": "a60b74874656831e8e4af494c9de40aae0a92241863a07e6cd3e600de54d0d9b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-acc1aa318a665ecac391.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-arabic-language-and-linguistics",
+      "sha256": "e875d2f1f0036dbccf02ab30a63bee507322587806742a52f7501afae2c0ae8a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-8346a27d4b1f6342c38b.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-tamil-language-and-linguistics",
+      "sha256": "71da17402519200d7b7672c20b6265fac030d52647e06229be52a1885891c474",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-fe85d6c236d95ee86987.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-japanese-language-and-linguistic",
+      "sha256": "351df5d71f211f42c1db035135d9bb06fd2d32060c01ba5e5cd317af58eb8b2d",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-01626166e18f767d1b1d.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-french-language-and-linguistics",
+      "sha256": "59a474f204df74b1a9aa6e0a60078a9ec412112fc31a3ec0b2758afca4bb15d3",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-28a600aadb31a26e7ed2.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-german-language-and-linguistics",
+      "sha256": "c5abea1884b2bb4d6ff38d2926597209d928d0a50b4f66f28e8bfd3610d02910",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-74da087979c6cfc8a8a5.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-spanish-language-and-linguistics",
+      "sha256": "badae3997e264c9811c416625b1ab5338d4a5b6cee04ddc3d016b6bb971ee405",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-ee9d0d92e0b6aa58504c.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-italian-language-and-linguistics",
+      "sha256": "29820eb0400757ba56f30e71373153cbfa256702e69174cda6244247d6917988",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-21f91a49be649ece12dc.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/Bachelor-of-laws",
+      "sha256": "d890fa534d415c6382db2caa33d532f555f0c75bdc6c7cebed2a4c85fce33dc1",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-4531e1228600800124d7.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-jurisprudence",
+      "sha256": "8ee5aae9cf4b936c8c5c246673317fdfcbe6e110443c2817d02224a387c88fbc",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-f9195feb0da911a3781f.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/Bachelor-of-Medicine-and-Bachelor-of-Surgery",
+      "sha256": "5656c800867b22e3edb15fde00742d13af73c44aca52666dea542f7356379de8",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-fbfdcfb39e58298a9ca9.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/Bachelor-of-Biomedical-Science",
+      "sha256": "7ba7c902d86ba21ab8dabbffca422e739651d727bf6cabba7048a54912fa08a5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-924b1e08d700f8af431f.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/Bachelor-of-Nursing-Science",
+      "sha256": "98a7fcae36869fd760e16b3ecd930ee72bcb0cb1b7eaa24c012b1f849aa716d4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-bdce877aed3c06525cdc.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-pharmacy-with-honours",
+      "sha256": "2b587e7e93a0160b59d1e72876a041d98d9635df55ac27a734560538b630d521",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-8a671b9f1c197edde042.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-chemistry",
+      "sha256": "e059bab4dce425a8ce6ada58445e161938c449c1c8b25caebb8df61c7bb4034d",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-276a0e61ad080ad5d57a.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-ecology",
+      "sha256": "a7117376aafd3816a045976cc2a34935cafee8de631294ef0d62b45fbefde71e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-0c255d0a64e075e9304e.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-physics",
+      "sha256": "225d783940692acb29c63d4b8e4b158efc904670e77ab3b6c83e905d448017b7",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-27fa1bdda0c6ca3420be.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-environment",
+      "sha256": "5b447befdfb54b4d30f60a0a2c5824883d2d74c2dcb42f0277cf71d247ecbc07",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-8473f5f5ddb019d41c35.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-applied-geology",
+      "sha256": "176b12d5b3080c240316817c9b35d303f2140dd0f649e421f081145c597b2d13",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-d406ddc92e5c81563f99.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-biochemistry",
+      "sha256": "ed7efdabbc9a47f3831a216650a02c0dcc0d5ce29bdc11cdfcfb1c9a0f60e047",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-1d463d0711a533a850df.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-of-mathematics",
+      "sha256": "2d93bc5791a08317d789bb053525ddd3f54cd3b973049aa4c88a0c565f3e6ca3",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-4be7bf48f866447c0faa.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-biotechnology",
+      "sha256": "1828af973424a49063bd1c73aef0515fe722ff54a2c3577794b87191d044d877",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-61ec7f4191af80657ec4.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-with-education",
+      "sha256": "5151a0a0e8760ed62fa082ca39e577d8bd79459dd1e514b840a6d393b9ebeb8d",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-c65a17d7551031a04529.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-actuarial-science",
+      "sha256": "c2db1c83b6091784452c79b0a1a52893cef777cbe70008ab30a6a971762e4110",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-5e0fdf1f27402482ffa7.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-microbiology-and-molecular-genetics",
+      "sha256": "21c47d708037c8c3d98641ce8578cb1f439ab319e175772f62b5f0f445c32eeb",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-6bc56e99ba3e2c9c4173.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-science-in-statistics",
+      "sha256": "b6ee331f4855652c22bec2eb24362877b634b82f46246381b6ce15d8f279a87e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-6a0aef027bc28a3650f6.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-sports-management",
+      "sha256": "009751464c3a1c655dfe46771924faa49db3a5a5c97e805d4f0a389e4d2fd596",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-b690824e4fc0e065e467.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-sport-sciences",
+      "sha256": "f0b863e33284baba47692c37ce051f7decd95e8a0fdacb23817929fbf6c97c18",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-805c1abc48911d73c480.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-proffesional-malay-language",
+      "sha256": "ceb58edc3518193613f9fc8e8fbfdaca806480594cb7b30b0f6f94897de8d16a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-45f655a6f39a3e0b4b3b.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-malay-linguistic",
+      "sha256": "4f7b1b8e24ef2bbd73ce731ea204222fb8f2502c0d528d43492f9a959a16c9e5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-f00a4e9f7deab3013ca5.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-malay-literature",
+      "sha256": "eb186d17b31f8973edf985d6299dcb373df895d0e9ab660b0e763938ebc90281",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-50538adc3a99243b6e47.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    },
+    {
+      "url": "https://study.um.edu.my/bachelor-of-malay-studies",
+      "sha256": "57a923a82335d6f64692e0c574c4046a5fbde36ee78773267520ca8bf53fbb8a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/malaya/raw/detail-187936cd94d39874a919.html",
+      "locator": "Programme Overview/Structure; #info2 international; #english2 international; Tuition Fee"
+    }
+  ]
+}

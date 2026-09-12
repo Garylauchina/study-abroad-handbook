@@ -14,6 +14,6 @@ hide:
 先选择大学，再进入专业查看入学条件、国际生学费和毕业生情况。当前收录 1 所 QS 2027 前 100 名大学；“=”表示并列。专业详情收录情况见学校卡片。
 
 <div class="university-grid">
-<article class="university-card" data-university-id="polimi"><span class="qs-rank">QS 2027 · <strong>=87</strong></span><p class="catalog-eyebrow">意大利 · Milan</p><h2><a class="" href="/study-abroad-handbook/catalog/italy/polimi/">米兰理工大学</a></h2><p class="university-english">Politecnico di Milano</p><p class="university-coverage">29 个专业条目 · 0 个含详细资料</p><a class="program-open" href="/study-abroad-handbook/catalog/italy/polimi/">查看学校与专业入口 →</a></article></div>
+<article class="university-card" data-university-id="polimi"><span class="qs-rank">QS 2027 · <strong>=87</strong></span><p class="catalog-eyebrow">意大利 · Milan</p><h2><a class="" href="/study-abroad-handbook/catalog/italy/polimi/">米兰理工大学</a></h2><p class="university-english">Politecnico di Milano</p><p class="university-coverage">29 个专业条目 · 0 个含详细资料 · 29 个补有专业资料 · 0 个仅补学校共用资料</p><a class="program-open" href="/study-abroad-handbook/catalog/italy/polimi/">查看学校与专业入口 →</a></article></div>
 
 <a class="md-button" href="/study-abroad-handbook/?country=italy#program-finder">筛选这里的大学与专业 →</a>

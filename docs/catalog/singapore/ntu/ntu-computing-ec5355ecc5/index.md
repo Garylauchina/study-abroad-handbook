@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Computing #</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>尚未核实</strong></div><div><span>学制</span><strong>4年（非全日制）</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
 
 <p class="program-location"><strong>校区：</strong>尚未核实 · <strong>授课语言：</strong>尚未核实</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -42,9 +42,19 @@ hide:
 
 <p><strong>目录状态：</strong>listed_current</p>
 
+<p class="catalog-fact"><strong>目录身份：</strong>官方目录所列学位／路径：Bachelor of Technology in Computing。入学年份与是否接受特定身份须结合招生规则；目录列名本身不等于当前开放申请。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-bc5cf231ac8666">官方依据</a></p>
+
+<p class="catalog-fact"><strong>项目学制：</strong>官网项目结构栏列4年（非全日制）；减免、加速或海外阶段的个别选项须另核。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-bc5cf231ac8666">官方依据</a></p>
+
+<p class="catalog-fact"><strong>培养内容举例：</strong>课程／培养说明涉及编程、人工智能。这里只概述页面已明列的部分内容，不作为完整必修表。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-bc5cf231ac8666">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>非全日制路径：</strong>这是非全日制本科，页面另列年龄、工作及学历条件；不沿用普通高中全日制新生的日程和补贴费率。本轮尚未逐项核中国申请者资格。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-bc5cf231ac8666">官方依据</a></p>
 
 ## 申请安排 {#applications}
 
@@ -56,7 +66,8 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>官网职业方向：</strong>页面列举的可能领域包括软件；属于职业方向，未取得该项目毕业人数、就业率或大陆生结果。</p>
+<p class="fact-sources"><a href="#source-p-ASREN-bc5cf231ac8666">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -65,5 +76,6 @@ hide:
 - [官方项目页面或项目所在目录](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-technology-in-computing-skillsfuture-work-study-degree)
 - [官方目录](https://www.ntu.edu.sg/education/degree-programmes)
 
+<div class="catalog-source" id="source-p-ASREN-bc5cf231ac8666"><div><a href="https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-technology-in-computing-skillsfuture-work-study-degree">Computing # — NTU官方项目资料 ↗</a><p>项目身份、学制、课程内容、科目条件及职业方向</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">← 返回南洋理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

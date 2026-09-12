@@ -26,7 +26,7 @@ hide:
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,74 @@ hide:
 
 <p><strong>条目类型：</strong>bachelor program</p>
 
+<p class="catalog-fact"><strong>学位与校区：</strong>学位：Bachelor of Arts；校区：West Lafayette；学院：Liberal Arts。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-1f0d3267afb51a">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>高中课程要求：</strong>课程页列出的基础修课要求：数学4年、英语4年、实验科学3年、社会学科3年、外语2年。这是修课年限；非英语国家申请人的外语豁免见学校国际生规则，不等同高考分数线。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-1f0d3267afb51a">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>大陆高中申请材料：</strong>仍在高中者提交初三及高一、高二成绩；已毕业者提交高中三年最终成绩、会考与高中毕业证明，高考成绩可选。学校可能要求 CHSI 验证；非英语材料须提供合格英文译本。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-611168bea94a25">官方依据</a></p>
+
+<p class="catalog-fact"><strong>A-level 与 IB 资格：</strong>IGCSE/GCSE 至少5门学术科目及格，涵盖英语、数学、自然/物理科学、社会学科；仅持 IGCSE 通常竞争力不足，学校指出多数申请人另修3–4门 AS/A-level。IB 无统一最低总分，符合高中课程要求即可按整体材料评估；这不是专业录取保证。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-611168bea94a25">官方依据</a></p>
+
+<p class="catalog-fact"><strong>新生身份与国际生外语例外：</strong>高中毕业后取得至少12个大学学分通常按转学生申请。来自非英语国家的国际申请人不须满足普通高中要求中的额外外语修课项；仍须满足英语能力证明。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-611168bea94a25">官方依据</a></p>
+
+<p class="catalog-fact"><strong>选拔与专业先修：</strong>学校按目标专业与名额进行综合评估。基础高中课程包括数学4年、英语4年、实验科学3年、社会学科3年；工程要求有化学学习，护理、药学、兽医护理的实验科学须各含1年化学与生物。页面将 SAT/ACT/CLT 写为“如提供”，成绩须在5年内；本轮不将这些测试解释为高考替代分数线。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-8eef2bf9753974">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语成绩：</strong>页面一般标准：IELTS 总分6.5、各项6.0；DET 总分115、各项110。TOEFL 在2026-01-21前考试为总分88、各项20；该日起考试采用总分4.5、各项4.0。成绩须在2年内；达到标准不保证录取，符合英语授课经历者可申请豁免。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-313a465a332ea0">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国申请人的额外录取审查：</strong>Purdue 官方说明：自2026-08-15起录取的中国公民（含港澳），若不是美国公民、永久居民或获美国庇护／难民身份者，须完成额外研究安全审查。学校可能索取教育、工作、资助、关联机构等资料；缺少所需资料不能录取。官方仍指示按常规申请；此为大学公布的招生程序说明。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-72003a45cf90ef">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
 申请开放日、截止日及申请通道尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>申请渠道与当前日程：</strong>通过 Common Application 申请，8月1日开放；Early Action 截止11月1日，Regular Decision 截止1月15日。当前页没有逐项标明入学年份，故本轮保留为所读现行日程，未将其独立验证为2027专属公告。申请费 USD60。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-f160b753dd3d32">官方依据</a></p>
+
+<p class="catalog-fact"><strong>名额敏感专业：</strong>工程、计算机、飞行、护理和兽医技术等项目应特别注意11月1日优先申请；之后可能只在余位情况下继续受理。West Lafayette 工程为 First-Year Engineering 入口，Indianapolis 列出具体工程专业；申请前需再查 Closed Programs。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-f160b753dd3d32">官方依据</a></p>
+
+</details>
+
 ## 学费与资助 {#fees}
 
 国际生学费、费用年度、计费单位和奖助条件尚未核实。
 
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>2026/27 国际生基础收费：</strong>West Lafayette 普通基础档、每学期至少8学分：秋春合计学费及表列必缴费 USD32,104（每学期16,052）。这是2026/27参考，并非2027入学报价；工程/计算机/数据科学、商学院、Polytechnic、护理及兽医技术有单独费表，不能直接套用。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-b2144cb7703f39">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026/27 生活预算参考：</strong>同一国际生基础档估算秋春住宿餐饮 USD16,734，连同书本、交通及个人杂费后的总预算 USD52,698。表中生活项为估算，交通额不应视作中国往返机票实际价格；专业附加费、其他校区仍须单独核对。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-b2144cb7703f39">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金身份限制：</strong>此页校级新生奖学金仅适用于其定义的 domestic students；F/J及部分其他签证国际生不适用。国际本科生一般不具备含奖学金在内的校方资助资格；不能把页面给非居民的 Trustees 等金额作为大陆国际生预算减项。</p>
+<p class="fact-sources"><a href="#source-u-USBENR-0066447e6741c6">官方依据</a></p>
+
+</details>
+
 ## 毕业生情况 {#outcomes}
 
-专业层面的毕业调查、就业或继续深造数据尚未核实。
+<p class="catalog-fact"><strong>职业方向举例：</strong>官方列举：Attorney；Editor or copywriter；Financial planner；Marketing manager。这是职业方向，未取得该专业按届统计的就业率或收入。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-1f0d3267afb51a">官方依据</a></p>
+
+<p class="catalog-fact"><strong>实习／毕业去向举例：</strong>官方将实习与毕业去向合并列举：Senior narrative designer, WolfEye Studios；Senior account manager, Insight Global；Project assistant, Eli Lilly and Company；Associate national bank examiner, Office of the Comptroller of the Currency。未提供这些例子的届别、样本数或占比。</p>
+<p class="fact-sources"><a href="#source-p-USBENR-1f0d3267afb51a">官方依据</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +114,13 @@ hide:
 - [官方项目页面或项目所在目录](https://admissions.purdue.edu/majors/english/)
 - [官方目录](https://admissions.purdue.edu/academics/majors/?paged=4)
 
+<div class="catalog-source" id="source-p-USBENR-1f0d3267afb51a"><div><a href="https://admissions.purdue.edu/majors/english/">English — Purdue 本科专业介绍 ↗</a><p>专业学位/校区、课程主题、高中课程要求、职业方向和实习或毕业去向例子</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-611168bea94a25"><div><a href="https://admissions.purdue.edu/become-student/international/">Purdue 官方 international ↗</a><p>本条大陆高中申请材料及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-8eef2bf9753974"><div><a href="https://admissions.purdue.edu/become-student/first-year-criteria/">Purdue 官方 first-year-criteria ↗</a><p>本条选拔与专业先修及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-313a465a332ea0"><div><a href="https://admissions.purdue.edu/become-student/english-proficiency/">Purdue 官方 english ↗</a><p>本条英语成绩及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-72003a45cf90ef"><div><a href="https://admissions.purdue.edu/sb256/">Purdue 官方 china-review ↗</a><p>本条中国申请人的额外录取审查及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-f160b753dd3d32"><div><a href="https://admissions.purdue.edu/deadlines/first-year-college-student/">Purdue 官方 first-year-dates ↗</a><p>本条申请渠道与当前日程及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-b2144cb7703f39"><div><a href="https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2026-2027/undergraduate-tuition-and-fees-2026-2027/">Purdue 官方 international-base-fees-2026 ↗</a><p>本条2026/27 国际生基础收费及资格范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-0066447e6741c6"><div><a href="https://admissions.purdue.edu/cost-financial-aid/scholarships/">Purdue 官方 scholarships ↗</a><p>本条奖学金身份限制及资格范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/usa/purdue/">← 返回普渡大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

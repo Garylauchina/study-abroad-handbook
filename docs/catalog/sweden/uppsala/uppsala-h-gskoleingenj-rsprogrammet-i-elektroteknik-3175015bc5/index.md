@@ -19,14 +19,14 @@ hide:
 
 <p class="program-title-en">Högskoleingenjörsprogrammet i elektroteknik</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>Hösten 2026</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>尚未核实</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>秋季 2026</strong></div><div><span>学制</span><strong>尚未核实</strong></div><div><span>国际生学费</span><strong>所列批次项目总费 SEK 450,000</strong></div></div>
 
-<p class="program-location"><strong>校区：</strong>Uppsala · <strong>授课语言：</strong>Svenska</p>
+<p class="program-location"><strong>校区：</strong>Uppsala · <strong>授课语言：</strong>瑞典语</p>
 
 <nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 
-> **资料状态：已核对专业目录，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
+> **资料状态：部分专业资料已核实，详情仍在补充。** 下列空缺尚未完成核验；不表示学校未公布，也不表示没有相关要求。学校共用规则与专业专属要求分别标明。
 
 ## 专业说明 {#overview}
 
@@ -38,21 +38,76 @@ hide:
 
 <p><strong>条目类型：</strong>first-entry/first-cycle programme</p>
 
+<p class="catalog-fact"><strong>学习内容：</strong>围绕现代电网、控制系统和节能技术学习电气工程，关注电动交通及可持续基础设施。</p>
+<p class="fact-sources"><a href="#source-p-uppsala-detail-28">官方依据</a></p>
+
+<p class="catalog-fact"><strong>目标学位：</strong>目录列明：Bachelor of Science in Engineering。这是该培养路径的最终学位；若列Master，不能改称三年学士或误当仅限本科后申请。</p>
+<p class="fact-sources"><a href="#source-p-uppsala-detail-28">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学习安排：</strong>课程学分：180 hp；地点：Uppsala；授课：瑞典语；形式：校内。职业或综合培养学位不自动等同三年普通学士。</p>
+<p class="fact-sources"><a href="#source-p-uppsala-detail-28">官方依据</a></p>
+
 ## 入学条件 {#admissions}
 
-已核对官方目录；具体招生条件尚未核实。
+<p class="catalog-fact"><strong>本专业先修：</strong>一般入学资格，另需物理 等级 2, 化学 等级 1, 数学进阶 等级 1c。此为瑞典课程层级，旧课程替代及中国成绩的等同须正式审查，不能直接把高考科目名称相等视为达标。</p>
+<p class="fact-sources"><a href="#source-p-uppsala-detail-28">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>中国学历与材料：</strong>中央中国页认可完成的高中、中专或职高教育作为一般资格，须提交毕业证、三年成绩和/或会考及身份证明；大学成绩不能替代中学学历材料。专业数理、其他科目或大学学分要求仍独立核查。</p>
+<p class="fact-sources"><a href="#source-u-uppsala-kth-sweden-china">官方依据</a></p>
+
+<p class="catalog-fact"><strong>高中尚未毕业的限制：</strong>学校国际本科申请说明以已完成高中教育为条件，并明确高中最后一年在读者不能申请。计划2027年6月高考者不能据此假定可凭预测成绩完成2027年1月国际首轮，应核对其实际毕业和材料期限所对应的入学年度。</p>
+<p class="fact-sources"><a href="#source-u-uppsala-uppsala-entry">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语与瑞语：</strong>中国高中英语本身不满足英语要求；通常English6/level2可用IELTS6.5且单项5.5等认可证明满足。瑞语授课通常还需Svenska3或第二语言瑞语3合格或TISUS等认可替代，不能用英语考试代替。</p>
+<p class="fact-sources"><a href="#source-u-uppsala-kth-sweden-china">官方依据</a> · <a href="#source-u-uppsala-uppsala-entry">官方依据</a> · <a href="#source-u-uppsala-lund-swedish-language">官方依据</a></p>
+
+</details>
 
 ## 申请安排 {#applications}
 
-申请开放日、截止日及申请通道尚未核实。
+<p class="catalog-fact"><strong>秋季2026申请参考：</strong>本批次申请截止：2026年4月15日；该常规期限已结束。代码：UU-P1551。</p>
+<p class="fact-sources"><a href="#source-p-uppsala-detail-28">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>渠道和2027秋国际首轮：</strong>通过UniversityAdmissions.se提交并排序；2027秋首轮2026年10月16日开放、2027年1月15日申请截止，2月1日费用和材料截止，本科4月8日结果。仅适用于该轮实际开放项目。</p>
+<p class="fact-sources"><a href="#source-u-uppsala-uppsala-application">官方依据</a> · <a href="#source-u-uppsala-kth-sweden-dates2027">官方依据</a></p>
+
+<p class="catalog-fact"><strong>瑞语及春季2027参考轮次：</strong>春季2027首轮申请已于2026年8月17日截止；次轮9月15日开放、10月15日截止，12月1日通常补件、12月9日结果。官方提醒需新办居留的非EU/EEA申请者来不及，不应把次轮视为可靠赴瑞计划。</p>
+<p class="fact-sources"><a href="#source-u-uppsala-lund-spring-dates">官方依据</a></p>
+
+<p class="catalog-fact"><strong>次轮及迟交限制：</strong>2027秋次轮3月15日开放、4月15日申请截止；瑞语课程集中该轮，居留时间仍存在官方明确限制。迟交仅在有余位时可能处理且不能申请学校本科奖学金。</p>
+<p class="fact-sources"><a href="#source-u-uppsala-kth-sweden-dates2027">官方依据</a> · <a href="#source-u-uppsala-uppsala-application">官方依据</a></p>
+
+</details>
 
 ## 学费与资助 {#fees}
 
-国际生学费、费用年度、计费单位和奖助条件尚未核实。
+<p class="catalog-fact"><strong>秋季2026国际学费：</strong>非EU/EEA/瑞士项目总学费SEK 450,000；首次付款SEK 75,000。总额是所列项目范围，不是每年金额；法定豁免另核。</p>
+<p class="fact-sources"><a href="#source-p-uppsala-detail-28">官方依据</a></p>
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>大陆新生收费身份：</strong>非EU/EEA/瑞士公民一般缴申请费与学费，瑞典永久或部分非学习原因居留可有豁免，须提交身份材料。金额按具体课程及批次查询；下列专业均区分完整项目费和首次付款，不将总额错写成年费。</p>
+<p class="fact-sources"><a href="#source-u-uppsala-uppsala-fees">官方依据</a></p>
+
+<p class="catalog-fact"><strong>本科奖学金国籍边界：</strong>当前本科奖学金页列Anders Wall奖为非洲国家公民开放、须把乌普萨拉项目列第一志愿，可覆盖学费但不含生活费；中国国籍不能依据旧中国受奖者故事视为当前合资格。2026轮已结束，学校称下一轮2027年初开放，准确日期本轮未取得。</p>
+<p class="fact-sources"><a href="#source-u-uppsala-uppsala-scholarship">官方依据</a></p>
+
+</details>
 
 ## 毕业生情况 {#outcomes}
 
 专业层面的毕业调查、就业或继续深造数据尚未核实。
+
+<details class="school-policy"><summary>学校共用规则 · 请核对适用资格和年度</summary>
+
+<p class="catalog-fact"><strong>职业描述与统计边界：</strong>课程说明列职业工作和后续学习方向；本轮未核实具体本科毕业届次、样本口径的就业率或薪资，不把行业前景描述改写为就业保证。</p>
+<p class="fact-sources"><a href="#source-u-uppsala-catalogue">官方依据</a></p>
+
+</details>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -61,5 +116,15 @@ hide:
 - [官方项目页面或项目所在目录](https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-elektroteknik)
 - [官方目录](https://www.uu.se/utbildning/sok?type=Program&level=Grundniv%C3%A5&start=110)
 
+<div class="catalog-source" id="source-p-uppsala-detail-28"><div><a href="https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-elektroteknik">Högskoleingenjörsprogrammet i elektroteknik ↗</a><p>课程内容、批次、语言、先修与国际学费</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uppsala-kth-sweden-china"><div><a href="https://www.universityadmissions.se/en/apply-to-bachelors/provide-application-documents-bachelors/country-instructions/china-mainland/">University Admissions China mainland ↗</a><p>中国学历、材料、英语与翻译</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uppsala-kth-sweden-dates2027"><div><a href="https://www.universityadmissions.se/en/key-dates-and-deadlines/autumn-semester-dates/">University Admissions Autumn2027 dates ↗</a><p>2027首轮与次轮</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uppsala-lund-spring-dates"><div><a href="https://www.universityadmissions.se/en/key-dates-and-deadlines/spring-semester-dates/">University Admissions Spring2027 dates ↗</a><p>2027春季首轮与次轮</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uppsala-lund-swedish-language"><div><a href="https://www.antagning.se/sv/betyg-och-behorighet/utlandsk-gymnasieutbildning/det-har-behover-du-ha/behorighet-i-svenska/">Antagning Swedish requirements ↗</a><p>境外学历瑞语资格</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uppsala-uppsala-entry"><div><a href="https://www.uu.se/en/study/bachelors-studies/application/entry-requirements">Uppsala Bachelor entry requirements ↗</a><p>高中毕业、英语及专业先修</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uppsala-uppsala-application"><div><a href="https://www.uu.se/en/study/bachelors-studies/application">Uppsala Bachelor application ↗</a><p>申请渠道与轮次</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uppsala-uppsala-fees"><div><a href="https://www.uu.se/utbildning/anmalan-och-antagning/avgifter">Uppsala application and tuition fees ↗</a><p>非EU学费身份及项目费率</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uppsala-uppsala-scholarship"><div><a href="https://www.uu.se/en/study/bachelors-studies/scholarships/uppsala-university-scholarships.html">Uppsala Bachelor scholarships ↗</a><p>当前奖学金国籍与2027窗口</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-uppsala-catalogue"><div><a href="https://www.uu.se/utbildning/sok">Uppsala undergraduate programme directory ↗</a><p>课程、学位与职业培养范围</p><small>核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/sweden/uppsala/">← 返回乌普萨拉大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

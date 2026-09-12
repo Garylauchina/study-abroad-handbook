@@ -1,0 +1,29 @@
+{
+  "university_id": "ut-austin",
+  "sources": [
+    {
+      "url": "https://admissions.utexas.edu/apply/international-students/",
+      "sha256": "2cb51dd8075fd915a1c1d3870b208c34a9c4c7402945549b5368c80bedc1b8c1",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/ut-austin/raw/international.html",
+      "locator": "Freshman / High School Transcripts"
+    },
+    {
+      "url": "https://admissions.utexas.edu/info-for/international-students/",
+      "sha256": "39039ea8eca25c9181fc4cd36c3b51b9ea99ddd9eee9ad541f09bfbf4c71fc24",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/ut-austin/raw/info.html",
+      "locator": "TOEFL/IELTS/DET Information"
+    },
+    {
+      "url": "https://admissions.utexas.edu/cost-aid/cost-tuition-rates/",
+      "sha256": "e27efab18a3db61d8c658d9fbb84d918d55aba71f6a166c5215dfeaf3dda2d77",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/ut-austin/raw/tuition.html",
+      "locator": "Cost & Tuition Rates"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/degree-programs/",
+      "sha256": "5b79d59f93ff7c74d13919fcd557b2597a65418d02a393beca5a3ac33930d3bd",
+      "raw_file": "scratch/full-catalog/us-b/ut-austin/index.html",
+      "locator": "official undergraduate program listing"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "university_id": "harvard",
+  "sources": [
+    {
+      "url": "https://college.harvard.edu/admissions/apply/international-applicants",
+      "sha256": "1b1a776f2bc15baa63c242faff97ebd8c9e775f854b67fba5dd341bcc170ce23",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/harvard/international.html",
+      "locator": null
+    },
+    {
+      "url": "https://college.harvard.edu/admissions/apply/first-year-applicants",
+      "sha256": "9d5b85c49b5b29bda3a924d2d7126be3998f7e93fdc83a7cf10e602c467a4860",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/harvard/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://college.harvard.edu/financial-aid/how-aid-works",
+      "sha256": "9d0296cdd9264f4aaf51f9b5e37558be7475e814619611e22eb7325d32c1d3c9",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/harvard/fees-aid.html",
+      "locator": null
+    },
+    {
+      "url": "https://seas.harvard.edu/applied-mathematics/undergraduate-program",
+      "sha256": "c15c0151639e5ef379f2b4ae4830639dbf2f1c1903b8f5b6387f1011a6ea4a51",
+      "raw_file": "scratch/full-catalog/us-details/harvard/88a3ed7e27a599864250.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.seas.harvard.edu/bioengineering/undergraduate-program",
+      "sha256": "dd8c117c6dd05f476481512a17038e8d687d53ff151c38fc7497ff600ea8f394",
+      "raw_file": "scratch/full-catalog/us-details/harvard/59c556d4e0d9fc712198.html",
+      "locator": null
+    },
+    {
+      "url": "https://complit.fas.harvard.edu/",
+      "sha256": "e5733988c2de8d145679871e078cd9c2a31c9470a81e2549f96741beabb6425b",
+      "raw_file": "scratch/full-catalog/us-details/harvard/01d6c4619fddd7234e75.html",
+      "locator": null
+    },
+    {
+      "url": "https://studyofreligion.fas.harvard.edu/",
+      "sha256": "09d8ffe8592a3f204696615c7af87ec07861e5098417da06586a9863e11e8dd7",
+      "raw_file": "scratch/full-catalog/us-details/harvard/f11561350bbdbaf14fec.html",
+      "locator": null
+    },
+    {
+      "url": "https://seas.harvard.edu/computer-science/undergraduate-program",
+      "sha256": "ad88bfe7db1ace97e19ca42c54573b64cf2137b7ae2734dcb126bd718d1e330d",
+      "raw_file": "scratch/full-catalog/us-details/harvard/7ce41af043094c787fb2.html",
+      "locator": null
+    },
+    {
+      "url": "https://eps.harvard.edu/pages/undergraduate",
+      "sha256": "f1c0ec4f59338b15314f26d6232be25141509467237ead2b6c446ecc6de27dd6",
+      "raw_file": "scratch/full-catalog/us-details/harvard/3f10d9427bf8bae81bf4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.seas.harvard.edu/electrical-engineering/undergraduate-programs",
+      "sha256": "60594a44eb522f57d63b3e26931a0b6d1f35fa0cde92b8cc55e297f458ab2882",
+      "raw_file": "scratch/full-catalog/us-details/harvard/e74cbf5851c9998c912d.html",
+      "locator": null
+    },
+    {
+      "url": "https://seas.harvard.edu/energy-climate-environment/bachelors-energy-climate-and-environment",
+      "sha256": "9af64a74d0fb6f33e46385cf76ec48a1633d40a4626d21684fc887ac82a9372f",
+      "raw_file": "scratch/full-catalog/us-details/harvard/750e568946247db7ab6b.html",
+      "locator": null
+    },
+    {
+      "url": "https://seas.harvard.edu/about-us/school-overview/accreditation-abet/engineering-sciences-sb",
+      "sha256": "7eb79d0b8126e5a1a459912351633c1cad148689ed72b8ee4d52691607725e3f",
+      "raw_file": "scratch/full-catalog/us-details/harvard/a3b1bd7b145abae23e8c.html",
+      "locator": null
+    },
+    {
+      "url": "https://seas.harvard.edu/environmental-science-engineering/undergraduate-program",
+      "sha256": "19ba4e4ed3f784b8ea9409f61474d1e288474aa8b8f963678d9f69c1a54a438b",
+      "raw_file": "scratch/full-catalog/us-details/harvard/d283c8823d4f30c62a4d.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.gov.harvard.edu/undergraduate/",
+      "sha256": "230f92f7c0f9a6799bf7f2b39adf92dee82d70e2ad5a240a0ff3319bc140f056",
+      "raw_file": "scratch/full-catalog/us-details/harvard/d35621301a6a8bf15e1b.html",
+      "locator": null
+    },
+    {
+      "url": "https://hscrb.harvard.edu/undergraduate-students/",
+      "sha256": "2de3e679bcd62924944e88a672bfdccbf15dcfc11d9c22ac643a6e98bdb08818",
+      "raw_file": "scratch/full-catalog/us-details/harvard/f36b045f1839450d969d.html",
+      "locator": null
+    },
+    {
+      "url": "https://seas.harvard.edu/materials-science-mechanical-engineering",
+      "sha256": "1caa8952608a3dca3b2ffe8b8d4281168a370ae2bb1e5e8c4f71f26e8363618a",
+      "raw_file": "scratch/full-catalog/us-details/harvard/72e9acf60a23c13a5a86.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mcb.harvard.edu/undergraduate/molecular-and-cellular-biology-mcb/",
+      "sha256": "0bf83f80af4bbb5557a4da23e87418d1a7bcb3f58cdb6eba4ba1dde6a18e623e",
+      "raw_file": "scratch/full-catalog/us-details/harvard/b8b11f1516de0cb6325f.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.mcb.harvard.edu/undergraduate/neuroscience/",
+      "sha256": "32bda4f970964e70561b3c86c4ea9f9e6f7f0e7be4bd96cef44d71df722d91ae",
+      "raw_file": "scratch/full-catalog/us-details/harvard/4afc0f2c7e61c568f2a0.html",
+      "locator": null
+    },
+    {
+      "url": "https://sas.fas.harvard.edu/undergraduate-0",
+      "sha256": "48bdd680212ce238b04c2caef0055e7c84cb12a903a089e2404fe7465c92392f",
+      "raw_file": "scratch/full-catalog/us-details/harvard/3be84a4ccbe2267e0585.html",
+      "locator": null
+    },
+    {
+      "url": "https://extension.harvard.edu/academics/programs/bachelor-of-liberal-arts-degree-program/",
+      "sha256": "140fe026dc1fab1a106bd31108b600295e605bc537b69c7c7f7bd1b90ea4e5b5",
+      "raw_file": "scratch/full-catalog/us-details/harvard/45a47d304dab7e4c4759.html",
+      "locator": null
+    },
+    {
+      "url": "https://college.harvard.edu/academics/liberal-arts-sciences/concentrations",
+      "sha256": "7230f3bc2163f4f7e6df43d041111d79585c9c634173bc3157bd18b76882ebde",
+      "raw_file": "scratch/full-catalog/us-a/harvard/concentrations.html",
+      "locator": null
+    }
+  ]
+}

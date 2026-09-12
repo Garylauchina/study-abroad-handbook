@@ -1,0 +1,941 @@
+{
+  "university_id": "columbia",
+  "sources": [
+    {
+      "url": "https://www.gs.columbia.edu/content/eligibility-undergraduate",
+      "sha256": "ace217c90705470ccbcc825727a32088f79ce9dbfe44bfe9c54cea8c502e22fb",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/gs-eligibility-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.gs.columbia.edu/content/how-apply",
+      "sha256": "2284f03a11d380f8679c2501c97a83847dd73f406389f10bd2ba86ecdeb4223d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/gs-apply-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.gs.columbia.edu/content/undergraduate-tuition-and-fees",
+      "sha256": "54224134abb47e0bb4d3b655e77f0139c0651613118ab36a90722051c8e39243",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/gs-fees-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.gs.columbia.edu/content/applying-undergraduate-financial-aid",
+      "sha256": "7f2a5fbda8cdebe2a17fb51395f49c2cdc2b307c7aabf01eac2072d4111e5bc3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/gs-aid-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.gs.columbia.edu/content/gs-undergraduate-admissions",
+      "sha256": "36cfa0116e73845f92ebd3f8193738275c4d8b7184dc6cb038720694b1d8f8e6",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/gs-entry-dom.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/african-american-studies/",
+      "sha256": "0f896e67b5be1734209ea5cd712bc1e988e20b67eb72c9abdb755a4c701a7097",
+      "raw_file": "scratch/full-catalog/us-details/columbia/b6921397a0e4094bb2fb.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/american-studies/",
+      "sha256": "0c89a47956b8c319f61eeba13070590b8aedaddce2b1c43ed653d888773e31fa",
+      "raw_file": "scratch/full-catalog/us-details/columbia/d32f180a65b454a09ec4.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/ancient-studies/",
+      "sha256": "8b8a953b485ca1659fd7625c6345b29eebc68a3287d9168b7da3a5d445ff11e1",
+      "raw_file": "scratch/full-catalog/us-details/columbia/12ea14a8cee82c12337e.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/anthropology/",
+      "sha256": "831457f4d89d9c26673b058b25e3f2e1b6be841dc955e1118a723c1ad3468e7d",
+      "raw_file": "scratch/full-catalog/us-details/columbia/934a2fe4599fdd560650.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/applied-mathematics/",
+      "sha256": "1c98c3d3de518bb2737404cf4e12079853dcaea58c1dec6d73f75067f49c7160",
+      "raw_file": "scratch/full-catalog/us-details/columbia/9af31463ac30482b00cb.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/archaeology/",
+      "sha256": "69f18be56af84c66630dd3c05322f660930526847008fbf343ab1d72ad70731b",
+      "raw_file": "scratch/full-catalog/us-details/columbia/456c609665b5342552c6.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/architecture/",
+      "sha256": "f2272e174dea37888244e31c3e5f3cb570f426a42ce367e05b3306bd8667649b",
+      "raw_file": "scratch/full-catalog/us-details/columbia/ff7a5af25dd3bd1ad349.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/art-history/",
+      "sha256": "1fb2a2425134a83161c37eea7e6d34254b230d0ce75e43e46a2b9740d76880ed",
+      "raw_file": "scratch/full-catalog/us-details/columbia/83749c4e8aac88c22bc5.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/art-history-visual-arts/",
+      "sha256": "9d71d1e6de33815ae2122760cc574b0b12635020f426d5c18ba4b90dbba9192f",
+      "raw_file": "scratch/full-catalog/us-details/columbia/2a6cebc089ddcdc307bc.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/astronomy/",
+      "sha256": "29019a592f851ff478a84b26beb4e614f0c87d182d36dee365718f5a519b7217",
+      "raw_file": "scratch/full-catalog/us-details/columbia/b091c5c6c73f809226ce.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/astrophysics/",
+      "sha256": "b48493b3d2ac25609587db55ecd700d789c4998324ee7b3fc2bdd3f5ffc6c691",
+      "raw_file": "scratch/full-catalog/us-details/columbia/62379fee809bc5df1e2b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/biochemistry/",
+      "sha256": "ee28f640d151e1fc1f4499dab5223dff8aee2ba48f793c6f273f6d997d35bc29",
+      "raw_file": "scratch/full-catalog/us-details/columbia/d92e430248afa79d8a8a.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/biological-sciences/",
+      "sha256": "dbb647fb8fe2cbf22061f3042210a05e9737079dc4ac45a22db32f9635b09fdd",
+      "raw_file": "scratch/full-catalog/us-details/columbia/02c50a1054611a5ca4e6.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/biophysics/",
+      "sha256": "344036750ad55c74b65430d507bf66d2f2cfc2688f667cd56888adc6edd7b7d7",
+      "raw_file": "scratch/full-catalog/us-details/columbia/c91e0838279dcf83b26c.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/chemical-physics/",
+      "sha256": "f0fe38e5cb10eff828359377ce843c88936a572a209822809471f89fbb0de93e",
+      "raw_file": "scratch/full-catalog/us-details/columbia/f4d4f5bf0868cebff1c2.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/chemistry/",
+      "sha256": "8cdea19745c051c584829e102c3c13f245e36587f2c371acbe215c260c899bf7",
+      "raw_file": "scratch/full-catalog/us-details/columbia/bfeb346fa74020c940b1.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/classics/",
+      "sha256": "8ce5172e3732c1e0f7dce6ba13b5147037f002797c3adcc8f9841b08dbc10c6e",
+      "raw_file": "scratch/full-catalog/us-details/columbia/4c0081dd332e95dc9b6f.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/climate-sustainability/",
+      "sha256": "758dcb6c723a5982aeca4256d03b9ce8277f5db60b0c94867c00c51ee4750e63",
+      "raw_file": "scratch/full-catalog/us-details/columbia/7428a9828f4b7c169711.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/climate-system-science",
+      "sha256": "c27c7c32f094aace577024c68bc1fad6ff04d20f39f7366e5ddb13107c27d8bb",
+      "raw_file": "scratch/full-catalog/us-details/columbia/3cf122d2477a2e35e9b3.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/cognitive-science/",
+      "sha256": "ac06647c638b7a4dfe3c2074f15bc2f141dc170d52117f232d92c793f4726c74",
+      "raw_file": "scratch/full-catalog/us-details/columbia/b87b5fe81f65aab3cf04.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/comparative-literature-society/",
+      "sha256": "f6ae5fec31fa749ad1396f148000b08f69005acdf645827b7e4216eff9204f47",
+      "raw_file": "scratch/full-catalog/us-details/columbia/9a65161ceb6e5dfa686d.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/computational-biology",
+      "sha256": "7c0dbf83c9ab950c73b4572c1e898a7d6e4344a427e1f063e8d58a287e0ab87f",
+      "raw_file": "scratch/full-catalog/us-details/columbia/8a182996f4e5e51afc41.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/computer-science/",
+      "sha256": "14b2dfd107bdbcfc8308881cd40ce8064f6c474bd3389c7d00d0b6cbbf7cd1d4",
+      "raw_file": "scratch/full-catalog/us-details/columbia/59e0b83064a2c2f4ad05.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/computer-science-mathematics/",
+      "sha256": "ccc102817cca4a3bc9fecafae910e5dca7f1f9df59808bd9ca731618c00c1efe",
+      "raw_file": "scratch/full-catalog/us-details/columbia/fef9a3e31a9096a39f40.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/creative-writing/",
+      "sha256": "80cd17471d21378764a41f07dd664b05833a31282399151053c080dd7fcb169d",
+      "raw_file": "scratch/full-catalog/us-details/columbia/04f9b1d2b04d1da0301e.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/dance/",
+      "sha256": "3923ba4ef775945c8469c92b034babd962362294a892cfe8630be7df4999202e",
+      "raw_file": "scratch/full-catalog/us-details/columbia/8154b421f60d7aaa3c91.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/computer-science-statistics/",
+      "sha256": "21fa06f83c6b11c4bf06fad454a6e0616e2264881b31b2ce6cea39876bc7c091",
+      "raw_file": "scratch/full-catalog/us-details/columbia/2e90276d65ec721a7024.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/drama-theatre-arts/",
+      "sha256": "2d30140186c857796cce2864c6415f3c7fceddfdefbba6d54fb603e2bc0f748f",
+      "raw_file": "scratch/full-catalog/us-details/columbia/2d045f7b79207f9835a0.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/earth-science/",
+      "sha256": "380aca2e2a84df530d199b6de2f22f7f8a730cbb238377845f547a3f834ef320",
+      "raw_file": "scratch/full-catalog/us-details/columbia/c34bbb6272e7a3084ea4.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/east-asian-studies/",
+      "sha256": "a8d7f3585d1d1d7989ddf0d8fa453dd4eac82829115603d1e24d8e1e310809c6",
+      "raw_file": "scratch/full-catalog/us-details/columbia/394a8bed9ed1b17701e3.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/economics/",
+      "sha256": "6681bed65e6651aa2f98bfc82585d043f3e5cd869d7be26926c892901417aaed",
+      "raw_file": "scratch/full-catalog/us-details/columbia/31c2a784ec6856f2255b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/economics-mathematics/",
+      "sha256": "42ccb692625c4c1e6a81f0d1ea52027868bfaf0088e84e87f085729efa3d83a3",
+      "raw_file": "scratch/full-catalog/us-details/columbia/de8853a05b2ea8c36d02.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/economics-philosophy/",
+      "sha256": "c960f71c7e4549554e189d151c5ce3eff00f993d028ffe6a895d175b44889e36",
+      "raw_file": "scratch/full-catalog/us-details/columbia/d5d10196e16b1e551d34.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/economics-political-science/",
+      "sha256": "f58d53e013902052c1111295ab632266739df678860d4f416026c8a274ff12c4",
+      "raw_file": "scratch/full-catalog/us-details/columbia/134fd3ebd66966f9282a.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/economics-statistics/",
+      "sha256": "bffe1b293f5ad7337eff21a1186a2395680fe0f22cd290e67facf76962e03822",
+      "raw_file": "scratch/full-catalog/us-details/columbia/3f5f6c7bd9929e098485.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/education-studies",
+      "sha256": "44734ec7bee3c5e4b433d3e52c4cf567713b2c13289653db0116515175620f16",
+      "raw_file": "scratch/full-catalog/us-details/columbia/adf663b2d10778faa537.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/english/",
+      "sha256": "59f623904dcf132c63cd9c1421f0c02e6952fb41c724206f96b2efe198bad7fc",
+      "raw_file": "scratch/full-catalog/us-details/columbia/f5f2aaf77f302dfd9d53.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/environmental-biology/",
+      "sha256": "811df8897743a6c0a93de9b1fb2e6fef47229666d95cc317a3128dfc4d371a42",
+      "raw_file": "scratch/full-catalog/us-details/columbia/2a9b107b728181ebd888.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/environmental-chemistry/",
+      "sha256": "e8e6e30b1168eca63e34a60596b26743efcd2fc70f3832051012326449de2adc",
+      "raw_file": "scratch/full-catalog/us-details/columbia/dfaf46f219b2158c2718.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/environmental-science/",
+      "sha256": "2b104e8782fae9d73ebeee99808d80ba617bcd0fa1dc718f890033af6f1723f4",
+      "raw_file": "scratch/full-catalog/us-details/columbia/26e145d313de9a05e088.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/ethnicity-race-studies/",
+      "sha256": "fd8b30732ef18ac655c80c3c2eefa26472f47d7fb1cadb6b30ec511f8f6c6bf9",
+      "raw_file": "scratch/full-catalog/us-details/columbia/91c877e6eb7e322492d6.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/evolutionary-biology-human-species/",
+      "sha256": "ae0d4d2ed37abb20623b30acc1d208fa17a9e523ff322cfaebb273f80fd559f4",
+      "raw_file": "scratch/full-catalog/us-details/columbia/308abd8e4bde3a43f76f.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/film-studies/",
+      "sha256": "22bd36dab298ad1604ca262e5acd285fe53dcb3a5003865c5279570bd4dadaa5",
+      "raw_file": "scratch/full-catalog/us-details/columbia/a5feceb0a08e49988e6a.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/financial-economics/",
+      "sha256": "046a1fd5640ed39bbd21130a5a54102b01a5a8e540223b0955d6d6085d5e0cae",
+      "raw_file": "scratch/full-catalog/us-details/columbia/eee26c23de37791e2b29.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/french/",
+      "sha256": "7cf4121bda5de5574bd32e306017b354bfca6cf1fd93b9500c14531b3355ed2b",
+      "raw_file": "scratch/full-catalog/us-details/columbia/3d1a0de00a5ef49b563c.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/french-francophone-studies/",
+      "sha256": "e6fdaebcb76cd2aa5c9ef0c87defb39889f8fad65f0e051a266b0cf0c7225283",
+      "raw_file": "scratch/full-catalog/us-details/columbia/46846391792906c4c8d8.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/german-literature-cultural-history/",
+      "sha256": "a717a8742a34a4aecaf458c5afaaacffe6fb4e745207916cfd1c59533263334c",
+      "raw_file": "scratch/full-catalog/us-details/columbia/92d4b7f6e76b7fac2a39.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/global-affairs-public-policy/index.html",
+      "sha256": "941d8ed8575ef9463bc0fa6e6543fb936beb264f04c7d32246d17815aa0f3da4",
+      "raw_file": "scratch/full-catalog/us-details/columbia/301715c5d39c129f671e.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/hispanic-studies/",
+      "sha256": "0bf2f79cf21a8e3ced41268c11772132c9b0e6e628d28fcaffba6408e3c7b7b9",
+      "raw_file": "scratch/full-catalog/us-details/columbia/dfe0aaf335b49867ebce.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/history/",
+      "sha256": "dea321d4d56b5199e2cd9ad098debc525b4fbc796c015af927e64132bcafdab9",
+      "raw_file": "scratch/full-catalog/us-details/columbia/30a305d83722e06d52c4.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/architecture-history-theory/",
+      "sha256": "2a61f3760e476a9909b1ed741a51b966a5b6d209f8d25b9801bef35e754a4a02",
+      "raw_file": "scratch/full-catalog/us-details/columbia/08a550dc487e4a2b8564.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/human-rights/",
+      "sha256": "687858fc82bc1c50eebf550aa18226b7c10b2d4b1414c9d8ec2e0ebf7d0eaa01",
+      "raw_file": "scratch/full-catalog/us-details/columbia/c085526d868389746c9f.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/information-science/",
+      "sha256": "138649e6876f54f64716d600a647ffb9b12e000c127cef51a1e320accc3255ee",
+      "raw_file": "scratch/full-catalog/us-details/columbia/0e4391d9fd8521bb13e2.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/italian",
+      "sha256": "05dd368d157a518cfc7a085934cf0afb902ad2dfd361823720a4d9dcce71085d",
+      "raw_file": "scratch/full-catalog/us-details/columbia/b70dc2cf2cc1fbad5659.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/latin-american-caribbean-studies/",
+      "sha256": "a21cc2d5730de1e35a3f3e59c0d6d84c00be86f06cc5ae409bd13bcb9fc44e9d",
+      "raw_file": "scratch/full-catalog/us-details/columbia/6f2607e09674498d615a.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/linguistics/",
+      "sha256": "e421a9ce3adc9828930fbe5485c95ec4ec49cdea8de38113564cd42d357603e6",
+      "raw_file": "scratch/full-catalog/us-details/columbia/df979534a7d8f10a575b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/mathematics/",
+      "sha256": "8bbc10d839114ea87350adb2160fa26f30c9c97fda83a701e46de6c665408390",
+      "raw_file": "scratch/full-catalog/us-details/columbia/6f918dd7c46a33e33816.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/mathematics-statistics/",
+      "sha256": "b68ad8bd9bcddc1f3947c1f1c6c161cb71124372354e36bee29e71f23f9e443b",
+      "raw_file": "scratch/full-catalog/us-details/columbia/1b648c1af5ddda8ff59b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/medical-humanities",
+      "sha256": "a52075dc0b070750cb06dfcf0d432175f8afd51f8de1cb23489bec3ed24ab77e",
+      "raw_file": "scratch/full-catalog/us-details/columbia/7cb1a432f6f35c507173.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/middle-eastern-south-asian-african-studies/",
+      "sha256": "cfb47b941cdbb3370ec0d94a63447b03a3e95e33579f9ee69f0986ff4a7d7cf7",
+      "raw_file": "scratch/full-catalog/us-details/columbia/095c81d7f62f915ff3ae.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/music/",
+      "sha256": "3073de9df0c91bf2daa892c49af3466aa80686f46ada7c38e54878c1844e61d5",
+      "raw_file": "scratch/full-catalog/us-details/columbia/0e185b006ee77d016825.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/neuroscience-behavior/",
+      "sha256": "abdf1e2b7885201898bc484ecd124b8af0b2a0aaf29fe6f89b522cac5ecb1043",
+      "raw_file": "scratch/full-catalog/us-details/columbia/e313c4b7f9d0badf7dc3.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/philosophy/",
+      "sha256": "67cc94f42ad899fcef4d3a50ab3516939ebee95afe617c72379e606aeea59927",
+      "raw_file": "scratch/full-catalog/us-details/columbia/1b24c9c06475489ff43b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/physics/",
+      "sha256": "4a764f5c8cdfa454747fe5c64f62c98759a8592fb47716b38ea66e406d8df864",
+      "raw_file": "scratch/full-catalog/us-details/columbia/f78dff58e5d9725d7edd.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/political-science/",
+      "sha256": "74c4e4ff628d564fb76e584e0315963fb1a624901d7e5008dfb767c7ace06102",
+      "raw_file": "scratch/full-catalog/us-details/columbia/b6bd0b844d981dbbe222.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/political-science-statistics/",
+      "sha256": "e4f775d24f69134e889590bd661e8b576f2a5542e0fa6fd749ab688206966613",
+      "raw_file": "scratch/full-catalog/us-details/columbia/c645e35483fec6990c69.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/psychology/",
+      "sha256": "b667f5f736754d1d084da454b04186dec5542669526e2c75da022db32a13765a",
+      "raw_file": "scratch/full-catalog/us-details/columbia/38b500d9286762be7cb4.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/regional-studies/",
+      "sha256": "18f028aa1b2b542b6d1c26a16557e056e87534c0ac0fc26770192e6aa64d4a9c",
+      "raw_file": "scratch/full-catalog/us-details/columbia/0d2b96c1419397437421.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/religion/",
+      "sha256": "9b757f435801fdb29cb1ac14ee9f83104734c7122f14ebe147193cdb35929e9b",
+      "raw_file": "scratch/full-catalog/us-details/columbia/641a3bef743c5f29a956.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/russian-language-culture/",
+      "sha256": "96c756040fe7ca941da01d2960621226a212e260710b83ad75e1015787affff4",
+      "raw_file": "scratch/full-catalog/us-details/columbia/d6adf5280bd412a6e0a4.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/russian-literature-culture/",
+      "sha256": "278bcc63e8724bc8d5e8d2cf1e2a349693bdc2d6a2ba502889e9cf8c30a8555b",
+      "raw_file": "scratch/full-catalog/us-details/columbia/4503b9bc73c0033ec8a7.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/slavic-language-culture/",
+      "sha256": "a74b3ca3f63961b8e4a61c5ec6a0ade168f6d1ac64a377ffcbdafc6dd78331b6",
+      "raw_file": "scratch/full-catalog/us-details/columbia/4ef8f362da86faf8ac25.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/sociology/",
+      "sha256": "ba17bd7c5c93064aba011d2678255e94e9f06f17e6d67817ef975cabda7c9b64",
+      "raw_file": "scratch/full-catalog/us-details/columbia/41743ba20bd427d84d01.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/statistics/",
+      "sha256": "c16c01f18039a50c627d6fe078896d1dcbf208c489e69d506c12febbca262f2f",
+      "raw_file": "scratch/full-catalog/us-details/columbia/b1542075241fde4fce8d.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/sustainable-development/",
+      "sha256": "069deaf592038c121441f3353a499e2514ca2ecaf00ab94f412198eab0f8c6a1",
+      "raw_file": "scratch/full-catalog/us-details/columbia/ebe0f4dc50bbfcf41b55.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/urban-studies/",
+      "sha256": "35af43dbeefda26b4903f6f712eb35adf305ac2fa97f1bc6a8a0bb6a4102a578",
+      "raw_file": "scratch/full-catalog/us-details/columbia/c56fea841452af22c7b7.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/visual-arts/",
+      "sha256": "bf84637d6ce42e55906b780cd24351e50828619e77ba5f568b39d8b4d84ea07c",
+      "raw_file": "scratch/full-catalog/us-details/columbia/906b3ee57ee35dd08b9c.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/womens-gender-studies/",
+      "sha256": "1ef2d389b74c35aad38fcb80d8222e1b2e61796b0a01fca95466e3b8a3245c45",
+      "raw_file": "scratch/full-catalog/us-details/columbia/adc9efd4640c225987b7.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/yiddish-studies/",
+      "sha256": "2b7a522592d56c782377858649fca70ccefd704bf460548a6f9a407247265641",
+      "raw_file": "scratch/full-catalog/us-details/columbia/e16235b1ca8f9cb408e9.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/undergraduate-programs/applied-physics-bs/",
+      "sha256": "a0ab7cfd5b3fce2fe5cef6fa3582490569f269613a8ac544fd117d3c44b31d4b",
+      "raw_file": "scratch/full-catalog/us-details/columbia/18035289bcff2d114353.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/undergraduate-programs/applied-mathematics-bs/",
+      "sha256": "0e41a73ac8828fecd3d158405fb10ac551d6896ffe76d4d5f9c61618fe8f048f",
+      "raw_file": "scratch/full-catalog/us-details/columbia/01c39358a8abbf686f7b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/undergraduate-programs/double-major-apams/",
+      "sha256": "9c12091635c638fe199528e5d7e2610a6cdd3ffcca59847575f3ea7504202f5d",
+      "raw_file": "scratch/full-catalog/us-details/columbia/9ad0221906b6fd9d1a67.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/materials-science-engineering-program/undergraduate-programs/material-science-bs/",
+      "sha256": "044af99cf01ee579af4abbd6df4195a48b182e3e84b3119575ccdd7d9593e79d",
+      "raw_file": "scratch/full-catalog/us-details/columbia/e5d63f86a6af83de7cfc.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/biomedical-engineering/undergraduate-programs/biomedical-engineering-bs/",
+      "sha256": "7706d54e672351580a52c8794e2945530fc9e390135481143d41a0e8bea49bee",
+      "raw_file": "scratch/full-catalog/us-details/columbia/c506ab6ec97372015560.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/chemical-engineering/undergraduate-programs/chemical-engineering-bs/",
+      "sha256": "89ac6d7b6d1d1bd95ecd97adc98e024c1877c825660c21cc7e65161d3f057af9",
+      "raw_file": "scratch/full-catalog/us-details/columbia/dd73c33b2d7320c7aeb8.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/civil-engineering-engineering-mechanics/undergraduate-programs/civil-engineering-bs/",
+      "sha256": "78958cbf6e0d3c2a4a189ff7131ff7d69466154b8d662d7ea6ab9b33a2dc62c5",
+      "raw_file": "scratch/full-catalog/us-details/columbia/9348ba21e8f6c0dc1e6c.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/computer-engineering-program/undergraduate-programs/computer-engineering-bs/",
+      "sha256": "3ad672b64ec62ceaaa64b92cfe5ec6e4c659cfb903c1018306e95a81f9860b8a",
+      "raw_file": "scratch/full-catalog/us-details/columbia/6437257580fc9ffc45f6.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/computer-science/undergraduate-programs/computer-science-bs/",
+      "sha256": "6500e9fae33668c7cfa3d2a8ca8400c0b27a220754b90543bbaa81177a02a16b",
+      "raw_file": "scratch/full-catalog/us-details/columbia/2918c30a1333d1758498.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/earth-environmental-engineering/undergraduate-programs/earth-environmental-engineering-bs/",
+      "sha256": "13812b4ac28de68ab7a7dd7a45e038b57aad138bcce5fffa42a9ea21efe367b4",
+      "raw_file": "scratch/full-catalog/us-details/columbia/ef5fbca676cb4e2dabae.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/earth-environmental-engineering/undergraduate-programs/mining-engineering-bs/",
+      "sha256": "18980f53fca2915acd211f21acc955a7826059032392d39369a8add46ba4046d",
+      "raw_file": "scratch/full-catalog/us-details/columbia/f397db7d5b6ebf7fcc7b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/electrical-engineering/undergraduate-programs/electrical-engineering-bs/",
+      "sha256": "ef8bb1e6b43576affe6cdc0a6527deecd4407dcbcabeb0b233d0df1fb0e02d41",
+      "raw_file": "scratch/full-catalog/us-details/columbia/202558cd7f9c3ef0b004.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/industrial-engineering-operations-research/undergraduate-programs/decision-science-and-data-analytics-bs/",
+      "sha256": "f2d24269af7ccbf511e5133741e83efb1caaf821144a9892f73cc208d9806a1b",
+      "raw_file": "scratch/full-catalog/us-details/columbia/856d6b68ee03efdae81f.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/industrial-engineering-operations-research/undergraduate-programs/industrial-engineering-bs/",
+      "sha256": "f86cd83c5168b7797678ab9951a8b9b8b3f1564df39ffa06dfc69d4d0d4fa6a5",
+      "raw_file": "scratch/full-catalog/us-details/columbia/e8e9c1ecff667ebb4c1c.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/industrial-engineering-operations-research/undergraduate-programs/operations-research-bs/",
+      "sha256": "d7f8a44a225dfffcd28974cefad45e06d392f555af4515db30cb4aaaad060bd3",
+      "raw_file": "scratch/full-catalog/us-details/columbia/88da83ddead03165f7fc.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/industrial-engineering-operations-research/undergraduate-programs/quantitative-finance-and-financial-technology-bs/",
+      "sha256": "dc519f8cbd686bb314c4751d61d5d630b465c67b8da04434762eb248682556a1",
+      "raw_file": "scratch/full-catalog/us-details/columbia/c6daa40d6f78cd912350.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/industrial-engineering-operations-research/undergraduate-programs/",
+      "sha256": "62b607da38fe94f5a0f1d95e3f2a7d458020a3bc0fe22062a06cec1ae1eeba70",
+      "raw_file": "scratch/full-catalog/us-details/columbia/4c612fc3abc481d85b59.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/mechanical-engineering/undergraduate-programs/mechanical-engineering-bs/",
+      "sha256": "6d88ffac3e2495b208abc2ff7c303ac6d579ee3eed51f31b8f30197db66957b7",
+      "raw_file": "scratch/full-catalog/us-details/columbia/f329fe43ce6d987c1850.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/african-american-studies/",
+      "sha256": "e7460998c45aab01c55654dad481d546c9b784243c462236f612cb1bffd75a53",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-african-american-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/",
+      "sha256": "36bc39389ddd7618f5b20d85148f8fb3074032759ea7f55550b5d43b745c05ca",
+      "raw_file": "scratch/full-catalog/us-a/columbia/cc-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/admission/",
+      "sha256": "958271eb8ce04420b97a227735d54c96e3a5a8c0227a42f62a862e63ef6a3026",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-admission.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/fees-expenses-financial-aid/",
+      "sha256": "92f5931d41c0d344d9239c94c8add07a9334a2d1a5db2efea32d7413e4e3e865",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://communications.news.columbia.edu/news/update-columbia-college-and-columbia-engineering-testing-policy",
+      "sha256": "013533f166a3e4743f530fc2a6a85bee91651a3a9e0155cd63ab02409afc1135",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-testing-web.json",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/american-studies/",
+      "sha256": "3cb7b9415fb9506cdb5464a4cdaea4d1da4019395ec6c1749d47d931c9f22a69",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-american-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/ancient-studies/",
+      "sha256": "850cef72b64bb6472ecdbff5d721486a8a9de1acead8a21aea41861b4acff9b3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-ancient-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/anthropology/",
+      "sha256": "6f9e4c60eaccc85d92b8fa102edb6c4a623b748b7a47e1ed8fdddc794ba70550",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-anthropology.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/archaeology/",
+      "sha256": "74f0a0fd14c496604a9f92f705f5b00f6841e9177877ba59273f7f8dbf47fdb3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-archaeology.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/architecture/",
+      "sha256": "b1b87478fcd8695ad01dd9cd02f26c5d378d885291e465641e281e972c85cbe3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-architecture.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/art-history-archaeology/",
+      "sha256": "3eec0ca80e4a72e0b2dadcd05e22949b6015c5fda44b1f003fe0e05cf334dee7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-art-history-archaeology.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/astronomy/",
+      "sha256": "aff45b35faf5c41568951dd065053f3287a19103d3c69a82dd1014430dfaab1d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-astronomy.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/biological-sciences/",
+      "sha256": "c0c5af0d8c980b152826942d170425ff22855d49bed0e9368e8a300a30f35539",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-biological-sciences.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/chemistry/",
+      "sha256": "c4afad2317d97bcbe32e3635f48d378b06bd2e5b26bf6c2640db476f2196a772",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-chemistry.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/classics/",
+      "sha256": "5966aafa5fdc55983ed797a62f1cac4020e57601df3d192de506dbebf2bb4f3e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-classics.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/cognitive-science/",
+      "sha256": "f23d5c52d9c25574f18ddadd1f0eeb500040e88eedfae3cd5226928a52b3c9a7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-cognitive-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/comparative-literature-society/",
+      "sha256": "7ffbacfbfe960255485972d7129625b6200a26dce0f2649a4e70f2119c2ed91c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-comparative-literature-society.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/computer-science/",
+      "sha256": "561f23c713cc162d4a10e59d7f8ff965e73084b8b46043ac86cdcbe7b7977b0a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-computer-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/creative-writing/",
+      "sha256": "bf24c88dd977e6b1276a6a6e29243712bef01f08b30acb02682cb6f33877e40f",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-creative-writing.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/dance/",
+      "sha256": "72383075f95781e9282fefb7fbdcba3d1e6bba695a773910b926db01ada1118d",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-dance.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/drama-theatre-arts/",
+      "sha256": "3e32852d2aaa6b64373ef110a8c20c02afcce9666a28b0bea68272e5cfdf7786",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-drama-theatre-arts.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/earth-environmental-sciences/",
+      "sha256": "30c4af67252babdea4c5e527b4bcd4cb6df9ddd44ccfad96b3f8929e76888658",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-earth-environmental-sciences.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/east-asian-languages-cultures/",
+      "sha256": "f010a974f5d95dbee1f1c4d1bf8d097fbaf4b63fe1d423ae28a3a80136be0ead",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-east-asian-languages-cultures.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/ecology-evolution-environmental-biology/",
+      "sha256": "8138a2924502341d885c1a72f93da5125ac742eb34ccf0387f78253166a9345e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-ecology-evolution-environmental-biology.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/economics/",
+      "sha256": "ab5796ae5b0c0b2c46f8e3774b33e6ea863fa5df7c824b0f6d1f911a52c3c94e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-economics.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/education/",
+      "sha256": "1da55ae00808f523176a342f3f1b6fabb961a7fa24d488992c290ea272461de9",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-education.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/english-comparative-literature/",
+      "sha256": "f351f5643fef83cb8cac28e7616de52ee65331def2becd57cdbd24c6717851be",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-english-comparative-literature.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/ethnicity-race-studies/",
+      "sha256": "79449f96cd643a8b652987596bde00b690165d62b0169518c578e20b1e22658b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-ethnicity-race-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/film-studies/",
+      "sha256": "7e5cafee579ca2528b9d3266b58914fd4049d440e15372509dc1ecdbc42827da",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-film-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/french-romance-philology/",
+      "sha256": "0d2ba7de1873972f31d6c644b321a26a1aa88cb2871468e734ccabf15567780c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-french-romance-philology.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/germanic-languages/",
+      "sha256": "2dae4f46ce8231d9a314a59ccb316a2b75a415cd324d6e9e64e67d8d5353b9c5",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-germanic-languages.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/global-affairs-public-policy/",
+      "sha256": "5d56aea2dbd015af7f02006b603a6c5bab0491d44c7a92f127035871e0948024",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-global-affairs-public-policy.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/history/",
+      "sha256": "f1e4d1545e074c4344937bed42af2bb08f20aaed37fb89391a8e170680584d49",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-history.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/human-rights/",
+      "sha256": "f16604bd8c45516ea70ab577ab4c3b4c035421021f337962e304d93d0bb7b1bf",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-human-rights.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/italian/",
+      "sha256": "f820f22e3b83138c725ce1fce4221bdba112c82b89762a70321ee854ccbecd0a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-italian.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/latin-american-caribbean-studies/",
+      "sha256": "6b56e3e3e647c1dc74713cbeec442e88401349cf56d68d9260051f2e32e602fa",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-latin-american-caribbean-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/latin-american-iberian-cultures/",
+      "sha256": "34918a6b998f7400737d4e24d046e5b79118b63bfcd92f49f003b9d074c43de7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-latin-american-iberian-cultures.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/linguistics/",
+      "sha256": "f156fc8e499212780a3b70a28c2b1236854eccb6bf8826613013857ae58f2373",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-linguistics.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/mathematics/",
+      "sha256": "7894b21c97f28a5484dda227f8927f91c0d5c4b255f28e0aea45e9d0bddd36c4",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-mathematics.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/middle-eastern-south-asian-african-studies/",
+      "sha256": "5a6d9ba6ec32c92eceffd20edea53f785409e41e5d8ee7f42584325e3e43d84c",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-middle-eastern-south-asian-african-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/music/",
+      "sha256": "505d24a1914221d5a81f416b1f36a482242598e48d4ebf5f4aa75a6b8b331c26",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-music.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/philosophy/",
+      "sha256": "0892cd70f50a2de74e4517aa927f2a0e477d6961b10c397262d58a4b7675077b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-philosophy.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/physics/",
+      "sha256": "186b3be70f1da8941e07341be87c0bd37c00e158d36baf8a0a4d2e0da72450b3",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-physics.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/political-science/",
+      "sha256": "ce91e1487ddeaf9dd21805df19b2aea80c6229433a88d4f61fba7603d659bcf1",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-political-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/psychology/",
+      "sha256": "6fff14473e11e0b01b2beddeba66573b24798053e5749ada0b067bfb528453b7",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-psychology.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/regional-studies/",
+      "sha256": "d2391e6a52964d8fb866056f06f6f81250e5db46e7b43e613bcb5442ab479c26",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-regional-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/religion/",
+      "sha256": "1a8116b47fff01e664fff3ed478303d7b5691d38e03c418f8d06fb998e142484",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-religion.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/slavic-languages/",
+      "sha256": "847ebafce84780367f6acd7b8ade1cce55d4c91904b6b1bb24716885611ae843",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-slavic-languages.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/sociology/",
+      "sha256": "c768335baaa08a1c8425a9ffc3a857360910525640dc2ed5436352ea5e9d3688",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-sociology.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/statistics/",
+      "sha256": "e8d35d333fcf3fbeb79c2a96a9f28c8316546225b0e94cf1336eea298e45b040",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-statistics.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/sustainable-development/",
+      "sha256": "5e358606391373d837c82932828bb12c4334d21f1f37cc1153f28baacb9c53a4",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-sustainable-development.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/urban-studies/",
+      "sha256": "2aaf08e1f7253bbfaaaa400c1b689c4605a7b730a0697edc30081d0499766dd9",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-urban-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/visual-arts/",
+      "sha256": "107eabed0cc50e71cabae441f74b8101758cc6d2f909313b9d22a5b9aea26b83",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-visual-arts.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/womens-gender-studies/",
+      "sha256": "4986ab9326d2f7e2bc878ddb2b272c931fa3ba989c475b6a477a5bd93cd3509b",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/columbia/cc-dept-womens-gender-studies.html",
+      "locator": null
+    }
+  ]
+}

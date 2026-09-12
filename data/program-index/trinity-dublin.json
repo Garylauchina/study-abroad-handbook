@@ -3,7 +3,7 @@
   "checked_at": "2026-09-12",
   "coverage": {
     "status": "complete",
-    "count": 118,
+    "count": 117,
     "scope": "本科官方目录；条目类型及排除规则见证据记录。",
     "method": "Full single-page directory captured; every selected programme detail read; Trinity explicitly shows1–121of121.",
     "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
@@ -1606,20 +1606,6 @@
       "entity_type": "joint honours subject",
       "entry_route": "Joint Honours subject; prescribed subject combinations apply.",
       "id": "trinity-dublin-russian-jh-3138fa8313"
-    },
-    {
-      "name_en": "Science",
-      "degree_label": "B.A. (Moderatorship) Honours Bachelor Degree (NFQ Level 8)",
-      "official_url": "https://www.tcd.ie/courses/undergraduate/courses/science/",
-      "intake": null,
-      "duration": "4 Years Full-Time",
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://www.tcd.ie/courses/undergraduate/a-z-of-ug-courses/",
-      "source_period": "Current official directory, checked 2026-09-12",
-      "raw_key": "detail-114",
-      "entity_type": "undergraduate programme/major",
-      "id": "trinity-dublin-science-569afc1c57"
     },
     {
       "name_en": "Social Policy (JH)",

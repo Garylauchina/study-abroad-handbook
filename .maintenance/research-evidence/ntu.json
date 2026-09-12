@@ -1,0 +1,461 @@
+{
+  "university_id": "ntu",
+  "sources": [
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/prc-gaokao",
+      "sha256": "6343a52d5ca654e2da3894adc3aa52e3e6eaea64c02a6a4b08914f0695c34fa0",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/china.html",
+      "locator": "Minimum Requirement to Apply"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide",
+      "sha256": "a62277e9ed45e6442768071ce756954cfd8a9631d125b7aef550e0036143d243",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/guide.html",
+      "locator": "Admissions To Academic Year 2027-28 Undergraduate Programmes"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications",
+      "sha256": "32399b3d21167ede4b503c55bdd62c4010f58f40dc5d89f90b1e0801fc2e81ee",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/international.html",
+      "locator": "Application Period table, PRC Gao Kao"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026",
+      "sha256": "cf6ad6eefff0a4b2bddc6cf9026df9686f01e15f1f6dd3a63c6e81f7e1f9f002",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/tuition.html",
+      "locator": "Tuition Fees table"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants",
+      "sha256": "252f2a426c00ef9a8b5babb6b6729cd371ebad3ab15d1db4273fe5b9d0a2de4c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/grant.html",
+      "locator": "Who is Eligible; Permanent Residents and international students"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship",
+      "sha256": "eb86dd632cfa5f033b40d76f365fda4c00ef682deb92ab183649daa1aa55accb",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/scholarship.html",
+      "locator": "Eligibility; Benefits; Terms; Application Procedures"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-accountancy",
+      "sha256": "857e198f075349583ba6983b7386434e291aedcea77f98d8154693ed82fd8a28",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-ab081733d851d8512486.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/accountancy-for-future-leaders-bachelor-of-accountancy-in-sustainability-management-and-analytics#curriculum",
+      "sha256": "7065316960f9932ec6a4610a9be163b86bf4c65830e65b468dd7083abd56d5b4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-bd8fa124b85dece3533b.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-aerospace-engineering",
+      "sha256": "c87e2454772bed8d933f7fdba3cfce0ed352bbb29f0bd0859e9f9780fe7fd73d",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-db764a94ed51eaa3d861.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-applied-computing-in-finance",
+      "sha256": "530136fff7366b533e2db60a31e2704df4e7a7c0b5cdb3cd9051174703c2d695",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-046f5a0fc52dcd742207.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-art-design-media",
+      "sha256": "4d893da276bed8af280e0b8dd052a3e9aa4c6ee0918e945006671264f9e82b46",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-be358ac3a7983b9cf815.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-hons-in-artificial-intelligence-and-society",
+      "sha256": "16e058c743029de074532b83a30a6c2bd2c518452d45bf6704de577e656b393c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-134a1403bea2a1f81c20.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-bioengineering",
+      "sha256": "4423bf7904a5082d6893b9081b6ba5293e81b64794bdd21a289c57ded38b6dcd",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-3b90ae04024fbcf8e8be.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-biological-sciences",
+      "sha256": "ac2944c5512f0e303c6c292cd4fd51c2f8ba10494f9bcfcb6d0af07b1730f998",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-91528f7cd5b97e99eb14.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-business",
+      "sha256": "ec423caf9a030c9d8ba8ab7fa291c48024c108ac6b5494150c0956e62e49f1b4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-a7e262e5e48062647362.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/degree-programmes",
+      "sha256": "ecb00757ab504083702dc05fdf84764082960e65531b4ca27d4934351ce2b2d0",
+      "raw_file": "scratch/full-catalog/asia/ntu/raw/directory.html",
+      "locator": "degree-programmes tables"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-chemical-and-biomolecular-engineering",
+      "sha256": "e9e05676d4e0b2c924595b316da1c7079a5e26b79e94d2b0a052cd64192b68e5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-19b04eaa256ef4552053.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-chemistry-and-biological-chemistry",
+      "sha256": "d83d461682bb768912682635a8c65b595315c84c732ede8a3a2102def08b91d0",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-50bb3573993e6bfb3f1a.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-in-chinese",
+      "sha256": "fd75f4adf95da2f7a0e582404ba0c7720da1111fd46f9643d8633b6c38d4abeb",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-5aa1e0284e37c82f1a27.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-chinese-medicine",
+      "sha256": "bb01e74dc216af047453eeb29bf9a1f21e4d7f6e98f888fd7babee708cc25b17",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-5749853f582f3f7eb60f.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-civil-engineering",
+      "sha256": "4c59010252cc6ad02a6f13c5ab0924514b35f55fe6dc58fce8c0bf5624dce3ed",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-0a20355d7f7485f56634.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-communication-studies",
+      "sha256": "8d104270faaf521c9290d7d79f239a36e8f5abf732605dc2b0be7a2396c124e2",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-df0bf4ca64b233e56e04.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-engineering",
+      "sha256": "2445b12fe3abb0b8d209ee3d17139b878d3ac57e338683c1b825c273de50a8ee",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-f88f976b8043b00987d7.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-computing-in-computer-science",
+      "sha256": "6edd478b3c1c1666f46a276d5e6cecb1c04d11986d9c88e3e04e0ce00c4b1d97",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-3053847e1f6c4ebe7885.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-technology-in-computing-skillsfuture-work-study-degree",
+      "sha256": "badf4aa37227b98b4f95633ed3fe072e9c0dce9bfb37098e679cb0276b107de6",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-73397b8e667a0c583925.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-data-science-artificial-intelligence",
+      "sha256": "e39f53e9555c5c035be683247931baca0bbe5edcda0249c7637ebca70537f2e3",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-1353a0d4a5e6142677ac.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-in-economics-(honours)",
+      "sha256": "bc21c70bc92745e6487a73d54dfe619e781cfe50b5e45dde65b55f4f67adf02d",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-8a4f0178deba0bb6edb1.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-economics-and-data-science",
+      "sha256": "a1e9c1f5448807e7954da2698aa37cb93342f587fb9b84b3a0450583e700d3d5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-30dcb498451e5e334f6d.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-electrical-and-electronic-engineering-(eee)",
+      "sha256": "d74be14cdcb925868a6e7fb56a5e89677d9c982d89bf1ce033be1bb93f39b274",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-a700fe9b5625b37078ff.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-(bsc)-in-environmental-earth-systems-science",
+      "sha256": "67b6a5267bf358d1d37ee9a7d5f394bdbdf86111e8d9ed3f0711eeba2792b380",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-7f718127d95aacb24fe8.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-environmental-engineering",
+      "sha256": "fcc8463e39367d8a149e2c1780bde349686a68b753fd2460e749dc864ab4b093",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-b89e522921350bb20c27.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-in-history",
+      "sha256": "b5fb4973a34ed8a017b1f8a67c9e9589c06875f52787b36754142b91006902e7",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-f0d12e7afdcefe8476fe.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-information-engineering-and-media-iem",
+      "sha256": "ee030cf05a9c4fd78685049e5b3963e63ad720a94540fa67dddd759d5d8ebdb7",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-519e083f269e7f916781.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-linguistics-and-multilingual-studies",
+      "sha256": "26767ad40fead0a01997789838d6f67060bfed01097aaa33351897124ffaf0b3",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-423ae76bc891a59375e1.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-maritime-studies",
+      "sha256": "ad46cb27904dad10b99001ebfae3c3bdd501bbf0224d96517294fbc29d5deaac",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-1b777998bb1c93d6071d.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-materials-engineering",
+      "sha256": "576b114d63e3a965b22f84ebf3d4f847a8ff8efd795ca737108e4bfe55ca3b26",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-2f94555724b5e119f51c.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-mathematical-sciences",
+      "sha256": "20181418ed0fb094f5d0113ebe31a8c0218539e5ab9d23352e24665959f3557f",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-c6915a18193a61c2844a.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-mechanical-engineering",
+      "sha256": "448431bb449a2a5f52dc036562dd7bb86b5f647cf588055d0a7fb3faf016968b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-450e3dc57e2340fe406b.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-medicine-and-bachelor-of-surgery-(mbbs)",
+      "sha256": "ed3bd5339d337a018d9954f7eae1c67e1477ae3192b755ea5695afe7fbb152fa",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-9629ca6ea701ab2f1e75.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-physics-applied-physics",
+      "sha256": "820624e8a7d560a2180ef15b64f88c6d42f295511dce8d0f7d6138b50783d834",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-9267704a52865ad13144.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-philosophy",
+      "sha256": "8db6a2282dac232ceb046d4e78d63002b45240ed3b511542a4f87a99ace35422",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-09ad5495c744dc5f7f87.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-science-in-philosophy-politics-and-economics",
+      "sha256": "ff1b3d131fac9a5546036d0888ba2d98d592d17ed72fce16a0a4692342ad42dc",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-aeceb3ebf51397f53519.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-in-psychology-(honours)",
+      "sha256": "16e7650845cc8cc00b318043219f3395b17a9107f36a18a4c5800e43806cf5cd",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-65c31608b0ba354c281a.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-in-public-policy-and-global-affairs-(honours)",
+      "sha256": "096f9d542bb2194226b7dca99067734acfc72d3cd35c45436c737695cf344d20",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-9fe4392d47bc8b449731.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/mae/admissions/undergraduate-programmes/detail/bachelor-of-engineering-in-robotics",
+      "sha256": "66a49c2cd9f563bde4dabc2399a3d656ff71d25a7e0f78732da494cb2d69e48c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-d1e9da08f426a31047d6.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-in-sociology-(honours)",
+      "sha256": "65a4fd951db31fb655235940ac6d9227006f048a0711e472cc7b1af8411ad458",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-450010f6e14dda7a04fd.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-biological-sciences-and-psychology",
+      "sha256": "a231ece15ad853692f81fcbdff7310c5ebd51b981e5998525acece16f7f1e6aa",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-efe354d0503fd86e1b3a.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-biomedical-sciences-and-biobusiness",
+      "sha256": "59633475b6e70f470b09bb1eb2433908df105992e1f5dc42822659cff99bd728",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-44f6a3eebd3f04b2126b.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---chinese-and-english",
+      "sha256": "201962897f0f1245f7b23dc0effc562780bb839cbbf88ee85aca05f3c483b095",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-7b3d8e6eb67fb524f255.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---chinese-and-linguistics-and-multilingual-studies",
+      "sha256": "c54840da8862bb70b93ced2c7f1c3b0c30dcd9dc063f687aacef86c983acdb8a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-3a88ffdd52bba6c92a82.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-(hons)-in-double-major---economics-and-media-analytics",
+      "sha256": "30fb804427e4c8ff318ba2589e77249bd3f4d92772056d17e5cd2137ce99c670",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-bab9c6c105e42fa8c872.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-(hons)-in-double-major---economics-and-psychology",
+      "sha256": "be9df1a5507176dae4bf17d41f4b361122f7200b38e4e4dc0acc2159188b9d92",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-a39d41332bc659de4c4c.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-(hons)-in-double-major---economics-and-public-policy-global-affairs",
+      "sha256": "150aed530388662dc4a5f308c33b73696fecc5d30d867ce467a0a728bc61a346",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-2a05cd4ef3d130b3fe34.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---english-and-history",
+      "sha256": "a73126b38fb1aefb1b1e68b5f13ae4af3ff082b2ffff3aa24633d43773c79d4e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-43752722152932bc9f26.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---english-and-philosophy",
+      "sha256": "7d1a09813888fe0fe0d5f1fb2d5eb584e825cc66907fcaed8f05a4fcdc7b7223",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-c53ce540e7b3d0d3a3c8.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---english-literature-and-art-history",
+      "sha256": "35d581e124ff86d98fc88356f31212af43f272899a4f4304be7082dc9c033ab7",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-b66c6d3a33c14270e689.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-environmental-earth-systems-science-and-public-policy-and-global-affairs",
+      "sha256": "fac3628c7fc3447e1c0f9b8790edf3699876314c03291d0f57b2e91cba689d70",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-19e4b953cb4b7a6ebcf0.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---history-and-chinese",
+      "sha256": "1b6ba7a34bc57b62179e2542de018f615a53a30e439ed615e6231b74995f175b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-762f45c8ae08dcca31c0.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---history-and-linguistics-and-multilingual-studies",
+      "sha256": "f67f6c661d54fcfd3a674ab1b34bae3d54ee4e7b061e8861ca814cb719cc1261",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-c3453c465d00496603b3.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---linguistics-and-multilingual-studies-and-english",
+      "sha256": "0307a207ad058aa06bfa7bc889e6d21228df460ef8bf87ae801ead563598dcbc",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-07e34a3e20f67bf03602.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---linguistics-and-multilingual-studies-and-philosophy",
+      "sha256": "01920412dae636ac77182fb25f5f927b88d65c557178d9ce9d14177311600d68",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-c25d04ceb76f5ca49dc8.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-mathematical-and-computer-sciences",
+      "sha256": "695b13d42780f6db731c9e66a9e26ce83ac85444f1052b39cbdaac5272234b8b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-198efccb75e4a74d94c8.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-mathematical-sciences-and-economics",
+      "sha256": "a2a63bd8d529148ee0323e6d77de9856f095b6095a6cb6a0365083a923230149",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-834ca4283406f117d647.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---philosophy-and-chinese",
+      "sha256": "9c05160ccd01b0e08d88cf32e1fcb1bddf19832d6578db9e43cdc36ba4af2fa4",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-3b3bebd228770738cec8.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---philosophy-and-history",
+      "sha256": "d29d3509473618f3aea860906a221afb6b11ecac3559b82c2e7228303dcdc2c1",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-87272a82cefd000fcea2.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-science-in-physics-and-mathematical-sciences",
+      "sha256": "174a80bf7aa30395ff5890a856ba032efddfe986a61dbe5142919982f931813c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-9bec37c80bf2c863ef2a.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/cceb/admissions/detail/bachelor-of-engineering-science-with-double-majors-in-process-engineering-and-synthetic-chemistry#programme",
+      "sha256": "0434e4b411b3d2b6d245f1a1411e1284dd525cb38f97faca011db13d18fe402f",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-30369a8d11a6f953fbbf.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-social-sciences-(hons)-in-double-major---psychology-and-media-analytics",
+      "sha256": "9799863d85dbc08e6b58d5564860a7469f589613d685930d97a1f03f326cdfc3",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-8d395f3552ec7913f098.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-arts-(hons)-in-double-major---psychology-and-linguistics-multilingual-studies",
+      "sha256": "e9fec36b762ded3cd8bf00449ed305972f7d401e794649dcf653796b5b47baa8",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-4bbcecfedc7647fc3b67.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5",
+      "sha256": "7e3acebd34e5985ba4825e2261592487fd3d8ed5ab67aa17a0ce3c5f04bb100c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/subject-requirements.pdf",
+      "locator": "PDF pages2 and8, footnotes"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-accountancy-business",
+      "sha256": "b4e796ca50b7d1cd8b7bbb404d19f5aef01e19f81240b5d2d7f1ddca53ff7605",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-6601986ce4b7e72ca22a.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-accountancy-and-science",
+      "sha256": "332a19dd791ab8527ffbcc9b0f00972706f5aa5ce36d9cd99b0a22e09709a5a5",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-ccdc3e8b8799bafd316a.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-business-and-computer-engineering-or-computer-science",
+      "sha256": "bd74a6d9317a9e447bfe720af78469cb55430d1e24294794d255ffa3c7954d0a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-2d11e94dbf30414bbfdc.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-engineering-and-business-(specialisation-in-business-analytics)",
+      "sha256": "cabab52628ab60457a11efba2561eaf96744579f17635a536971b2077b239095",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-0329fa34053c7a33bc66.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-science-and-economics",
+      "sha256": "405c643fd3b1b4efb7332c4eb113d5b72e6fa1989f222f6217b5a8cb21facec0",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-5cae9533d39b1f97d831.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/renaissance-engineering-programme-(rep)",
+      "sha256": "8c77afc4f0ce13d1842ace67fd1e2b5bc8a699be17c59c76559774d92e1f7f79",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/ntu/raw/detail-3cead3cdb5ca8ee9ed6e.html",
+      "locator": "EducationalOccupationalProgram JSON-LD additionalProperty; corresponding visible programme sections"
+    }
+  ]
+}
