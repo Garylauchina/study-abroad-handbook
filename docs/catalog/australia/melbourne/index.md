@@ -23,13 +23,28 @@ hide:
 
 ## 专业与申请资料
 
-目前已收录学校身份、所在地、QS 2027 排名及官网入口，**专业详情待收录**。可先从大学官网查找本科课程与国际生招生入口。
+已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
-| 资料 | 当前状态 |
-| --- | --- |
-| 本科专业与学制 | 待按具体课程核验 |
-| 中国大陆学生入学条件 | 待核验；需区分高考、国际课程与其他资格 |
-| 国际生学费 | 待取得具体专业、入学年度和币种 |
-| 毕业生情况 | 待取得课程或学科的调查范围与年份 |
+<div class="program-grid">
+<article class="program-card" data-program-id="melbourne-economics">
+<div class="program-meta"><span>澳大利亚 · Melbourne</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/">墨尔本大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=22</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economics/">商学学士·经济学主修</a></h3>
+<p class="program-english">Bachelor of Commerce — Economics major</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>不接受高考直录；IB 34／A-level ABB为参考，另有先修要求</dd><dt>学费</dt><dd>2027首年：A$56,451–62,464（所属学位估算区间）</dd><dt>毕业</dt><dd>已列职业与升学方向；主修层级就业率和起薪待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economics/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="melbourne-computing-software-systems">
+<div class="program-meta"><span>澳大利亚 · Melbourne</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/">墨尔本大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=22</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-software-systems/">理学学士·计算机与软件系统主修</a></h3>
+<p class="program-english">Bachelor of Science — Computing and Software Systems major</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>不接受高考直录；IB 31／A-level BBB为参考，另有先修要求</dd><dt>学费</dt><dd>2027首年：A$55,556–65,344（所属学位估算区间）</dd><dt>毕业</dt><dd>已列职业与升学方向；主修层级就业率和起薪待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-software-systems/">查看条件、费用与去向 →</a>
+</article></div>
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

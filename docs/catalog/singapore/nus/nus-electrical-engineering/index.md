@@ -95,15 +95,25 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-### 就业统计缺口
+### 2024 届本专业实测结果
 
-<p class="catalog-fact">本轮尚未核实本专业就业率、薪资及调查口径，暂不列数字。下列课程或行业方向仅供探索，不代表毕业生实际就业比例或个人收入。</p>
+<p class="catalog-fact">政府公开数据的2024届 Bachelor of Engineering (Electrical Engineering)：毕业约六个月已就业率 88.4%，全职长期就业率 86.0%；全职长期就业者税前月薪中位 S$5,000，第25至75百分位为 S$4,500–5,400。</p>
+<p class="fact-sources"><a href="#source-nus-electrical-engineering-ges2024-data">依据 13</a></p>
+
+### 2025 届统计仍待核
+
+<p class="catalog-fact">2025 届本专业就业率、薪资及调查口径本轮尚未核实，暂不列2025数字。上述2024届结果只作历史参考，不能当作2025届或未来毕业结果。</p>
 <p class="fact-sources"><a href="#source-nus-electrical-engineering-ges">依据 6</a></p>
 
 ### 课程与去向的边界
 
 <p class="catalog-fact">课程覆盖电力、电子、信号与嵌入式系统，可据此考察相关岗位或研究方向；这属于课程内容判断，不是毕业生岗位分布或就业率调查。</p>
 <p class="fact-sources"><a href="#source-nus-electrical-engineering-curriculum">依据 7</a></p>
+
+### 2024 调查口径与适用边界
+
+<p class="catalog-fact">就业率分母为进入劳动力市场的毕业生，含正在工作或积极求职且可上岗者；已就业含全职、兼职、临时及自由职业。全职长期为每周至少35小时的非临时工作，含一年及以上合同；薪资只计该组的经常性税前月收入，含固定津贴等、不含奖金。该表未按大陆或国际学生身份单列，本轮未取得本专业回应人数，历史结果不代表个人就业承诺。</p>
+<p class="fact-sources"><a href="#source-nus-electrical-engineering-ges2024-data">依据 13</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -121,5 +131,6 @@ hide:
 <div class="catalog-source" id="source-nus-electrical-engineering-application-dates"><span class="source-number">10</span><div><a href="https://www.nus.edu.sg/oam/admissions/important-dates">NUS：Important Dates — AY2027/28 ↗</a><p>2027/28国际资格（除IB）及IB申请期均2026-12-16至2027-02-17；当前Closed；2027高考放榜后三日补交。</p><small>www.nus.edu.sg · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-nus-electrical-engineering-applications-2026"><span class="source-number">11</span><div><a href="https://www.comp.nus.edu.sg/admissions/faq/">NUS Computing Open House 2026：Admissions FAQ ↗</a><p>2026/27全校申请日历：国际资格2025-12-03至2026-02-23；IB2025-12-17至2026-02-23。</p><small>www.comp.nus.edu.sg · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-nus-electrical-engineering-scholarship"><span class="source-number">12</span><div><a href="https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship">NUS：International Undergraduate Scholarship ↗</a><p>非新加坡公民新生；成绩、领导力、课外表现择优；由入学申请考虑；覆盖TG后学费、须接受TG及其三年义务；续领GPA3.5。</p><small>www.nus.edu.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-nus-electrical-engineering-ges2024-data"><span class="source-number">13</span><div><a href="https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view">MOE data.gov.sg：Graduate Employment Survey，2024 届专业数据 ↗</a><p>官方API记录_id=1424，year=2024；National University of Singapore，Bachelor of Engineering (Electrical Engineering)。overall、ft_perm、gross_monthly_median及25/75百分位；数据集列定义说明劳动力分母、全职长期及税前经常性薪资。2025届不在该数据集本轮返回记录中。</p><small>data.gov.sg · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/nus/">← 返回新加坡国立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

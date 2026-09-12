@@ -2042,6 +2042,939 @@
       "checked_at": "2026-09-12",
       "campus": "曼彻斯特校本部",
       "language": "英语"
+    },
+    {
+      "id": "imperial-computing-beng",
+      "university_id": "imperial",
+      "name": "计算机",
+      "name_en": "Computing BEng",
+      "degree": "本科",
+      "subject": "计算机",
+      "intake": "2027",
+      "duration": "3 年",
+      "campus": "伦敦 South Kensington",
+      "language": "英语",
+      "entry_summary": "高考不足以直入；A-level A*A*A或A*AAA，数学A*；须TMUA",
+      "tuition_summary": "2027未定；2026/27参考 £45,500／年",
+      "outcomes_summary": "Computing系级95%就业或升学（2023/24；非G400独立统计）",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与校区",
+            "text": "2027年10月入学；3年全日制BEng，UCAS G400，在South Kensington校区。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "覆盖编程、算法、计算机系统和数学基础，最后一年开展个人项目，并可选人工智能等方向课程。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语；大学2025/26授课型项目规章第31条规定，特定模块除外，教学与考核使用英语。",
+            "source_ids": [
+              "UK-IMP-LANGUAGE-REGULATIONS"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考路径",
+            "text": "Imperial明确高考不足以入读学位课程；普高申请者需取得大学接受的其他资格，或完成本课程认可的预科。不能从A-level成绩自行换算高考分数。",
+            "source_ids": [
+              "UK-IMP-EAST-ASIA",
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "A-level",
+            "text": "最低A*A*A或A*AAA，必须数学A*；其余两科A*、A或三科AAA，优先进阶数学。不接受ICT、Business Studies、General Studies及Critical Thinking；offer所含理科有实验考核的须通过。最低线不保证录取。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "IB",
+            "text": "最低41分，HL数学7、另一相关HL科目7；HL数学AA或AI均接受。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "认可预科",
+            "text": "接受UCL UPCSE：总分80%、数学80%、生物／化学／物理之一80%；也接受Warwick指定Science & Engineering IFP路线：总分80%、三门技术模块各80%，不接受Biology and Chemistry路线。预科达标仍须完成TMUA等筛选。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "考试与面试",
+            "text": "2027必须参加TMUA；MAT已不使用。面试通常不安排，但招生教师可酌情邀请个别申请者。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "要求Standard：IELTS Academic总分6.5、单项至少6.0；考试距预计入学不得超过两年，不接受IELTS单项重考。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE",
+              "UK-IMP-ENGLISH"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请，课程代码G400，学校代码I50。入学申请与UAT-UK考试报名是两个步骤。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "2027申请截止与当前状态",
+            "text": "UCAS平等考虑截止为2027年1月13日英国时间18:00。截至2026年9月12日，2027申请已自9月1日开放提交，截止尚未到；逾期是否继续受理须查大学及UCAS空位。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE",
+              "UK-UCAS-SUBMIT-2027"
+            ]
+          },
+          {
+            "label": "TMUA：2026年10月场",
+            "text": "中国大陆及港澳考点限定2026年10月15或16日；预约已开放，2026年9月28日英国夏令时18:00截止。须在UAT-UK建账户并预约考试，仅提交UCAS不会自动报名。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          },
+          {
+            "label": "TMUA：2027年1月场",
+            "text": "中国大陆及港澳考点限定2027年1月8日；预约于2026年10月26日英国时间15:00开放，2026年12月21日英国时间18:00截止。对本校申请可选10月或1月，同一种考试每个申请周期只能参加一次；如同时申请牛津或剑桥，须遵从其更早考试要求。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          },
+          {
+            "label": "考试费用与特别安排",
+            "text": "在英国及爱尔兰以外考点，每种考试费用£133。需要合理调整的10月场申请截止为2026年9月14日英国18:00，1月场为2026年12月7日英国18:00，须先申请并获批再预约。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生专业学费",
+            "text": "2027课程页明确标为Not set；同专业2026/27参考£45,500／年。该参考不是2027报价，不含生活费及课程额外开支。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "Imperial Inspires 2027/28",
+            "text": "本课程页列此奖项，奖项条目也列本院系。面向全日制新入学、支付Overseas学费者，每年£15,000；符合最低入学和奖项条件者在递交入学申请后获邀补充文书，竞争性评审。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE",
+              "UK-IMP-INSPIRES-2027",
+              "UK-IMP-INSPIRES-TERMS-2027"
+            ]
+          },
+          {
+            "label": "奖学金时间与续领",
+            "text": "截至核验日，奖项条目仍注明暂不接受2027 Inspires申请，本轮未取得申请关闭日期；须等正式邀请。本科奖项拟在2027年4月中旬前决定，续领要求学业进展合格，不能延期保留，重读年和休学期间不支付。",
+            "source_ids": [
+              "UK-IMP-INSPIRES-2027",
+              "UK-IMP-INSPIRES-TERMS-2027"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "有统计的范围",
+            "text": "课程页报告Imperial Computing毕业生95%在工作或继续学习，88%在高技能工作或继续学习；标注为2023/24 Graduate Outcomes、HESA于2026年发布，调查约在毕业15个月后。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE",
+              "UK-HESA-GO-METHOD"
+            ]
+          },
+          {
+            "label": "统计边界",
+            "text": "以上为Computing院系范围，不能当作本条G400 BEng的独立比例；本轮未取得该百分比样本量、居住地筛选或中国大陆学生单列结果。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          },
+          {
+            "label": "职业方向",
+            "text": "院系列软件开发、数据科学、机器学习、网络安全及量化交易等去向；这些是历届方向，不是岗位或录用保证。",
+            "source_ids": [
+              "UK-IMP-CS-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-IMP-CS-COURSE",
+          "title": "Imperial Computing BEng：2027入学",
+          "url": "https://www.imperial.ac.uk/study/courses/undergraduate/computing-beng/",
+          "checked_at": "2026-09-12",
+          "supports": "2027学位、学制、校区、UCAS、内容、A-level/IB/指定预科/英语等级、TMUA及面试、费用状态与2026/27参考、系级2023/24毕业结果"
+        },
+        {
+          "id": "UK-IMP-EAST-ASIA",
+          "title": "Imperial：东亚申请者学历要求",
+          "url": "https://www.imperial.ac.uk/study/international-students/information-by-region/east-asia/",
+          "checked_at": "2026-09-12",
+          "supports": "明确高考不足以申请任何学位；须接受的其他资格或课程认可的预科；本科与本科入口本硕连读学制区分"
+        },
+        {
+          "id": "UK-IMP-ENGLISH",
+          "title": "Imperial 英语要求",
+          "url": "https://www.imperial.ac.uk/study/apply/english-language/",
+          "checked_at": "2026-09-12",
+          "supports": "Standard IELTS Academic 6.5、单项6.0；两年有效；不接受IELTS单项重考"
+        },
+        {
+          "id": "UK-IMP-LANGUAGE-REGULATIONS",
+          "title": "Imperial授课型项目规章2025/26，第12页第31条",
+          "url": "https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/regulations/2025-26/Regulations_for_Taught_Programmes_2025_26-v1.0.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "教学和考核使用英语（特定模块除外）；该项采用2025/26规章，不作为2027招生门槛来源；已提取并图像复核第12页"
+        },
+        {
+          "id": "UK-UCAS-SUBMIT-2027",
+          "title": "UCAS 2027申请开放提交日期",
+          "url": "https://www.ucas.com/events/2027-entry-ucas-applications-can-be-submitted-465631",
+          "checked_at": "2026-09-12",
+          "supports": "2026年9月1日起可提交2027入学申请；与核验日比较得出当前周期状态"
+        },
+        {
+          "id": "UK-UAT-DATES-2027",
+          "title": "UAT-UK 2027入学考试及报名日历",
+          "url": "https://esat-tmua.ac.uk/deadlines/",
+          "checked_at": "2026-09-12",
+          "supports": "2027入学ESAT/TMUA/TARA报名窗口、英国时间截止、中国大陆及港澳指定考试日、一次考试规则、境外考费及合理调整申请截止"
+        },
+        {
+          "id": "UK-IMP-INSPIRES-2027",
+          "title": "Imperial Inspires Scholarships 2027/28奖项条目",
+          "url": "https://www.imperial.ac.uk/study/fees-and-funding/scholarships-search/imperial-inspires-scholarships-20272028.php",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28新入学、Overseas学费、全日制；列Computing及Mechanical Engineering；£15,000每年；邀请补充文书；页面核验时仍称暂不接受2027奖学金申请"
+        },
+        {
+          "id": "UK-IMP-INSPIRES-TERMS-2027",
+          "title": "Imperial Inspires 2027条款",
+          "url": "https://www.imperial.ac.uk/study/fees-and-funding/imperial-inspires-scholarships/terms-and-conditions/",
+          "checked_at": "2026-09-12",
+          "supports": "竞争性评审、2027年4月中旬前本科奖项决定、续奖须学业进展合格、不能延期；重读及休学期间不支付"
+        },
+        {
+          "id": "UK-HESA-GO-METHOD",
+          "title": "HESA Graduate Outcomes：调查口径",
+          "url": "https://www.hesa.ac.uk/data-and-analysis/graduates/releases",
+          "checked_at": "2026-09-12",
+          "supports": "Graduate Outcomes为完成高等教育约15个月后的调查；仅用于解释调查时间，不提供本专业数值"
+        }
+      ]
+    },
+    {
+      "id": "imperial-mechanical-engineering-meng",
+      "university_id": "imperial",
+      "name": "机械工程（本科入口本硕连读）",
+      "name_en": "Mechanical Engineering MEng",
+      "degree": "本科",
+      "subject": "工程",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "伦敦 South Kensington",
+      "language": "英语",
+      "entry_summary": "高考不足以直入；数学A*、物理A*/A；须ESAT及面试",
+      "tuition_summary": "2027未定；2026/27参考 £45,500／年",
+      "outcomes_summary": "机械工程系级100%就业或升学（2023/24；非H301独立统计）",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位、学制与校区",
+            "text": "2027年10月入学；主项目为4年全日制MEng，UCAS H301，South Kensington校区。这是本科入口的本硕连读，官网主项目并非BEng；海外或实习选项另有安排。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "学习力学、热流体、材料、设计及制造，配合实验、工程设计和高年级项目。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语；大学2025/26授课型项目规章第31条规定，特定模块除外，教学与考核使用英语。",
+            "source_ids": [
+              "UK-IMP-LANGUAGE-REGULATIONS"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考路径",
+            "text": "Imperial明确高考不足以入读学位课程。普高申请者应取得接受的其他学历资格，或完成本课程认可的预科；不可把高考分数与A-level自行等价。",
+            "source_ids": [
+              "UK-IMP-EAST-ASIA",
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "A-level",
+            "text": "最低A*A*A或A*AAA：数学须A*；修三科时物理须A*，修四科时物理至少A，其余所需科目A。不接受General Studies及Critical Thinking，offer所含理科的实验考核须通过。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "IB",
+            "text": "最低40分，HL数学6、HL物理6；接受HL数学AA或AI，优先AA。课程页另列典型offer为40分且HL数学、物理均7；典型offer与最低门槛不同。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "认可预科",
+            "text": "接受UCL UPCSE及Warwick IFP Engineering路径，均要求总分80%、数学80%、物理80%；仍须参加课程要求的ESAT及选拔。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "ESAT与面试",
+            "text": "须参加ESAT的Mathematics 1、Mathematics 2、Physics三模块。获邀者参加约25–30分钟线上面试，考查数学、物理及工程思考；课程页列面试在11月至3月举行。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "要求Standard：IELTS Academic总分6.5、单项至少6.0；两年内成绩，不接受IELTS单项重考。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE",
+              "UK-IMP-ENGLISH"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请，课程代码H301，学校代码I50。入学申请与UAT-UK考试报名是两个步骤。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "2027申请截止与当前状态",
+            "text": "UCAS平等考虑截止为2027年1月13日英国时间18:00。截至2026年9月12日，2027申请已自9月1日开放提交，截止尚未到；逾期是否继续受理须查大学及UCAS空位。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE",
+              "UK-UCAS-SUBMIT-2027"
+            ]
+          },
+          {
+            "label": "ESAT：2026年10月场",
+            "text": "中国大陆及港澳考点限定2026年10月12或13日；预约已开放，2026年9月28日英国夏令时18:00截止。须在UAT-UK建账户并预约考试，仅提交UCAS不会自动报名。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          },
+          {
+            "label": "ESAT：2027年1月场",
+            "text": "中国大陆及港澳考点限定2027年1月6日；预约于2026年10月26日英国时间15:00开放，2026年12月21日英国时间18:00截止。对本校申请可选10月或1月，同一种考试每个申请周期只能参加一次；如同时申请牛津或剑桥，须遵从其更早考试要求。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          },
+          {
+            "label": "考试费用与特别安排",
+            "text": "在英国及爱尔兰以外考点，每种考试费用£133。需要合理调整的10月场申请截止为2026年9月14日英国18:00，1月场为2026年12月7日英国18:00，须先申请并获批再预约。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际生专业学费",
+            "text": "2027课程页明确标为Not set；同专业2026/27参考£45,500／年。该参考不是2027报价，不含生活费及课程额外开支。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "Imperial Inspires 2027/28",
+            "text": "本课程页列此奖项，奖项条目也列本院系。面向全日制新入学、支付Overseas学费者，每年£15,000；符合最低入学和奖项条件者在递交入学申请后获邀补充文书，竞争性评审。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE",
+              "UK-IMP-INSPIRES-2027",
+              "UK-IMP-INSPIRES-TERMS-2027"
+            ]
+          },
+          {
+            "label": "奖学金时间与续领",
+            "text": "截至核验日，奖项条目仍注明暂不接受2027 Inspires申请，本轮未取得申请关闭日期；须等正式邀请。本科奖项拟在2027年4月中旬前决定，续领要求学业进展合格，不能延期保留，重读年和休学期间不支付。",
+            "source_ids": [
+              "UK-IMP-INSPIRES-2027",
+              "UK-IMP-INSPIRES-TERMS-2027"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "有统计的范围",
+            "text": "课程页报告Imperial Mechanical Engineering毕业生100%在工作或继续学习，91%在高技能工作或继续学习；标注2023/24 Graduate Outcomes、HESA于2026年发布，调查约在毕业15个月后。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE",
+              "UK-HESA-GO-METHOD"
+            ]
+          },
+          {
+            "label": "统计边界",
+            "text": "上述是机械工程院系范围，不能当作H301主项目独立结果；本轮未取得百分比样本量、居住地筛选或中国大陆学生单列结果。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          },
+          {
+            "label": "职业方向",
+            "text": "院系列航空航天、汽车、能源、工程咨询、机器人及研发等方向，亦有金融和软件岗位；雇主实例不能用来推算录用概率。",
+            "source_ids": [
+              "UK-IMP-ME-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-IMP-ME-COURSE",
+          "title": "Imperial Mechanical Engineering MEng：2027入学",
+          "url": "https://www.imperial.ac.uk/study/courses/undergraduate/mechanical-engineering/",
+          "checked_at": "2026-09-12",
+          "supports": "主项目H301 MEng四年与校区、2027学术要求/预科/ESAT模块/面试/英语等级、申请截止、2027费用未定与2026/27参考、系级2023/24毕业结果"
+        },
+        {
+          "id": "UK-IMP-EAST-ASIA",
+          "title": "Imperial：东亚申请者学历要求",
+          "url": "https://www.imperial.ac.uk/study/international-students/information-by-region/east-asia/",
+          "checked_at": "2026-09-12",
+          "supports": "明确高考不足以申请任何学位；须接受的其他资格或课程认可的预科；本科与本科入口本硕连读学制区分"
+        },
+        {
+          "id": "UK-IMP-ENGLISH",
+          "title": "Imperial 英语要求",
+          "url": "https://www.imperial.ac.uk/study/apply/english-language/",
+          "checked_at": "2026-09-12",
+          "supports": "Standard IELTS Academic 6.5、单项6.0；两年有效；不接受IELTS单项重考"
+        },
+        {
+          "id": "UK-IMP-LANGUAGE-REGULATIONS",
+          "title": "Imperial授课型项目规章2025/26，第12页第31条",
+          "url": "https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/regulations/2025-26/Regulations_for_Taught_Programmes_2025_26-v1.0.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "教学和考核使用英语（特定模块除外）；该项采用2025/26规章，不作为2027招生门槛来源；已提取并图像复核第12页"
+        },
+        {
+          "id": "UK-UCAS-SUBMIT-2027",
+          "title": "UCAS 2027申请开放提交日期",
+          "url": "https://www.ucas.com/events/2027-entry-ucas-applications-can-be-submitted-465631",
+          "checked_at": "2026-09-12",
+          "supports": "2026年9月1日起可提交2027入学申请；与核验日比较得出当前周期状态"
+        },
+        {
+          "id": "UK-UAT-DATES-2027",
+          "title": "UAT-UK 2027入学考试及报名日历",
+          "url": "https://esat-tmua.ac.uk/deadlines/",
+          "checked_at": "2026-09-12",
+          "supports": "2027入学ESAT/TMUA/TARA报名窗口、英国时间截止、中国大陆及港澳指定考试日、一次考试规则、境外考费及合理调整申请截止"
+        },
+        {
+          "id": "UK-IMP-INSPIRES-2027",
+          "title": "Imperial Inspires Scholarships 2027/28奖项条目",
+          "url": "https://www.imperial.ac.uk/study/fees-and-funding/scholarships-search/imperial-inspires-scholarships-20272028.php",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28新入学、Overseas学费、全日制；列Computing及Mechanical Engineering；£15,000每年；邀请补充文书；页面核验时仍称暂不接受2027奖学金申请"
+        },
+        {
+          "id": "UK-IMP-INSPIRES-TERMS-2027",
+          "title": "Imperial Inspires 2027条款",
+          "url": "https://www.imperial.ac.uk/study/fees-and-funding/imperial-inspires-scholarships/terms-and-conditions/",
+          "checked_at": "2026-09-12",
+          "supports": "竞争性评审、2027年4月中旬前本科奖项决定、续奖须学业进展合格、不能延期；重读及休学期间不支付"
+        },
+        {
+          "id": "UK-HESA-GO-METHOD",
+          "title": "HESA Graduate Outcomes：调查口径",
+          "url": "https://www.hesa.ac.uk/data-and-analysis/graduates/releases",
+          "checked_at": "2026-09-12",
+          "supports": "Graduate Outcomes为完成高等教育约15个月后的调查；仅用于解释调查时间，不提供本专业数值"
+        }
+      ]
+    },
+    {
+      "id": "ucl-computer-science-bsc",
+      "university_id": "ucl",
+      "name": "计算机科学",
+      "name_en": "Computer Science BSc",
+      "degree": "本科",
+      "subject": "计算机",
+      "intake": "2027",
+      "duration": "3 年",
+      "campus": "伦敦 Bloomsbury",
+      "language": "英语",
+      "entry_summary": "A-level A*A*A，数学或进阶数学A*；2027须TARA；中国学历另评",
+      "tuition_summary": "2027/28 £48,600／年",
+      "outcomes_summary": "课程页报告平均薪资£54,255（毕业15个月；2017–2023汇总）",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与校区",
+            "text": "2027年9月入学；3年全日制BSc，UCAS G400，伦敦Bloomsbury校区。入学后可申请增加industry year并转为4年版本，须获准并取得实习。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "包括数学、算法、编程、系统、软件工程及人工智能选修，设团队产业项目和最后一年的个人项目。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "授课语言依据",
+            "text": "按英语学习与考核准备：本课程列英语Level 1；UCL现行学术手册要求考核使用英语，测试其他语言能力的科目除外。本轮未取得单独标为2027授课语言的字段。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE",
+              "UK-UCL-ASSESSMENT-LANGUAGE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国学历替代资格",
+            "text": "已在本课程2027页面选择China核验：UCL认可的中国大学本科完成两年、加权均分90%，且所学包含目标课程相关科目，可作为A-level或IB的替代资格。这不是高考直录，也不表示自动插班第三年。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "普高与预科边界",
+            "text": "本课程China选项未把普高／高考列为直接等价资格。UCL UPC预科中国条目接受高中毕业证，总均至少80%、相关科目85%；这只是预科学术门槛，不等于本专业录取或保证升学；其他预科要求与升读条件需另核。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE",
+              "UK-UCL-UPC-CHINA"
+            ]
+          },
+          {
+            "label": "A-level及基础科目",
+            "text": "A*A*A，数学或进阶数学须A*；至少两门来自UCL优先科目清单；GCSE或等价英语语言与数学均至少C/4。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "IB",
+            "text": "总分40，三门HL合计20，其中HL数学7；接受AA或AI，优先AA。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "2027入学考试",
+            "text": "所有申请者须参加TARA（Test of Academic Reasoning for Admissions），与UCAS申请并行；本课程不是TMUA。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "Level 1对应IELTS Academic总分6.5、单项至少6.0；一般为入学前两年内成绩，不接受IELTS One Skill Retake。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE",
+              "UK-UCL-ENGLISH"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请，课程代码G400。入学申请与UAT-UK考试报名是两个步骤。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "2027申请截止与当前状态",
+            "text": "UCAS平等考虑截止为2027年1月13日英国时间18:00。截至2026年9月12日，2027申请已自9月1日开放提交，截止尚未到；逾期是否继续受理须查大学及UCAS空位。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE",
+              "UK-UCAS-SUBMIT-2027"
+            ]
+          },
+          {
+            "label": "TARA：2026年10月场",
+            "text": "中国大陆及港澳考点限定2026年10月14日；预约已开放，2026年9月28日英国夏令时18:00截止。须在UAT-UK建账户并预约考试，仅提交UCAS不会自动报名。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          },
+          {
+            "label": "TARA：2027年1月场",
+            "text": "中国大陆及港澳考点限定2027年1月7日；预约于2026年10月26日英国时间15:00开放，2026年12月21日英国时间18:00截止。对本校申请可选10月或1月，同一种考试每个申请周期只能参加一次；如同时申请牛津或剑桥，须遵从其更早考试要求。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          },
+          {
+            "label": "考试费用与特别安排",
+            "text": "在英国及爱尔兰以外考点，每种考试费用£133。需要合理调整的10月场申请截止为2026年9月14日英国18:00，1月场为2026年12月7日英国18:00，须先申请并获批再预约。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027/28国际生专业学费",
+            "text": "2027/28新生国际费为£48,600／年。课程页采用cohort guarantee，正常课程期间学费不涨，但保留因政府征收的税费等调整权利；生活费另计。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "课程额外成本",
+            "text": "课程要求自备电脑，页面最低配置估价约£1,200；项目或实习往返合作单位的交通开支可能另计，因安排不同而异。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "奖学金入口及年份",
+            "text": "Global Undergraduate Scholarship本轮读到的仍为2026/27批次：面向Overseas学费、低收入申请者，须先提交全日制本科申请并获确认fee status；不要求先有录取。该批次于2026年4月27日英国17:00截止，现已结束；本轮未取得2027批次名额及日期。",
+            "source_ids": [
+              "UK-UCL-GLOBAL-UG-2026"
+            ]
+          },
+          {
+            "label": "2026/27奖学金参考范围",
+            "text": "当期有10项全学费加生活补助、20项仅全学费，另3项仅限印度学生。以经济需要评审；家庭年收入£42,875或以下为指导值，超过也可考虑。以上均非2027承诺，也不是所有国际生自动减免。",
+            "source_ids": [
+              "UK-UCL-GLOBAL-UG-2026"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "课程页披露的薪资",
+            "text": "课程页称毕业15个月内的平均薪资为£54,255，引用UCL Graduate Outcomes Survey 2017–2023汇总。该数值是均值，不是中位数，也不是2027入学者未来薪资。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "统计边界",
+            "text": "本轮未取得该均薪的样本量、全职／地域筛选及中国大陆学生单列数据，亦未独立复算其交互数据表；不把该数值理解为所有毕业生均可获得的工资或课程就业率。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          },
+          {
+            "label": "已列去向",
+            "text": "课程页列毕业生进入Amazon、Bloomberg、Goldman Sachs、Meta及Microsoft等的高技能岗位；属于历届去向实例，非录用保证。",
+            "source_ids": [
+              "UK-UCL-CS-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-UCL-CS-COURSE",
+          "title": "UCL Computer Science BSc：2027入学",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/computer-science-bsc",
+          "checked_at": "2026-09-12",
+          "supports": "2027学制/校区/代码、课程内容、A-level/IB、TARA与英语等级、£48,600及cohort条款、薪资和统计年份；Chrome实际选择Other qualifications→China取得两年中国本科90%与相关科目条件"
+        },
+        {
+          "id": "UK-UCL-UPC-CHINA",
+          "title": "UCL UPC预科：中国高中资格",
+          "url": "https://www.ucl.ac.uk/study/clie/upc-foundation/entry-requirements/academic-requirements-country",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中毕业证申请UPC的学术门槛为总均80%、相关科目85%；这是预科入学门槛，非本科录取或保证升学"
+        },
+        {
+          "id": "UK-UCL-ENGLISH",
+          "title": "UCL本科英语要求",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/english-language-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "Level 1 IELTS Academic 6.5/单项6.0；Level 2为7.0/单项6.5；两年有效及不接受IELTS One Skill Retake；页面2026履约日期不移用到2027"
+        },
+        {
+          "id": "UK-UCL-ASSESSMENT-LANGUAGE",
+          "title": "UCL 2026/27学术手册：考核语言",
+          "url": "https://www.ucl.ac.uk/study/current-students/academic-manual/chapters/chapter-4-assessment-framework-taught-programmes/section-2-module-assessment",
+          "checked_at": "2026-09-12",
+          "supports": "2.1条规定考核用英语，测试其他语言能力的考核除外；与课程英语要求共同支持语言判断，不声称已取得2027独立授课语言字段"
+        },
+        {
+          "id": "UK-UCAS-SUBMIT-2027",
+          "title": "UCAS 2027申请开放提交日期",
+          "url": "https://www.ucas.com/events/2027-entry-ucas-applications-can-be-submitted-465631",
+          "checked_at": "2026-09-12",
+          "supports": "2026年9月1日起可提交2027入学申请；与核验日比较得出当前周期状态"
+        },
+        {
+          "id": "UK-UAT-DATES-2027",
+          "title": "UAT-UK 2027入学考试及报名日历",
+          "url": "https://esat-tmua.ac.uk/deadlines/",
+          "checked_at": "2026-09-12",
+          "supports": "2027入学ESAT/TMUA/TARA报名窗口、英国时间截止、中国大陆及港澳指定考试日、一次考试规则、境外考费及合理调整申请截止"
+        },
+        {
+          "id": "UK-UCL-GLOBAL-UG-2026",
+          "title": "UCL Global Undergraduate Scholarship：2026/27参考",
+          "url": "https://www.ucl.ac.uk/scholarships/ucl-global-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27奖学金Overseas、低收入、先递交本科申请、fee status确认；10个学费加生活费和20个学费奖项另有3个印度专属；2026-04-27英国17:00截止；未取得2027批次"
+        }
+      ]
+    },
+    {
+      "id": "ucl-economics-bsc-econ",
+      "university_id": "ucl",
+      "name": "经济学",
+      "name_en": "Economics BSc (Econ)",
+      "degree": "本科",
+      "subject": "经济",
+      "intake": "2027",
+      "duration": "3 年",
+      "campus": "伦敦 Bloomsbury",
+      "language": "英语",
+      "entry_summary": "A-level A*AA，数学A*；IB39；须TMUA，不接受重考",
+      "tuition_summary": "2027/28 £40,800／年",
+      "outcomes_summary": "官方列2022/23毕业去向；本轮未取得课程就业比例",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与校区",
+            "text": "2027年9月入学；3年全日制BSc (Econ)，UCAS L100，伦敦Bloomsbury。4年Placement Year版须先进入主项目，再取得获批的英国实习并转入，实习不保证。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "学习微观、宏观、数学、统计、计量经济学和数据编程，高年级可选公共经济、金融经济及不平等等专题，并完成研究项目。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "授课语言依据",
+            "text": "按英语学习与考核准备：本课程列英语Level 2；UCL现行学术手册要求考核使用英语，测试其他语言能力的科目除外。本轮未取得单独标为2027授课语言的字段。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE",
+              "UK-UCL-ASSESSMENT-LANGUAGE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国学历替代资格",
+            "text": "已在本课程2027页面选择China核验：UCL认可的中国大学本科完成两年、加权均分90%，且所学包含目标课程相关科目，可作为A-level或IB的替代资格。这不是高考直录，也不表示自动插班第三年。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "普高与预科边界",
+            "text": "本课程China选项未把普高／高考列为直接等价资格。UCL UPC预科中国条目接受高中毕业证，总均至少80%、相关科目85%；这只是预科学术门槛，不等于本专业录取或保证升学；其他预科要求与升读条件需另核。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE",
+              "UK-UCL-UPC-CHINA"
+            ]
+          },
+          {
+            "label": "A-level及基础科目",
+            "text": "A*AA，数学必须A*；至少两门来自UCL优先科目清单；GCSE或等价英语语言及数学至少C/4。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "IB",
+            "text": "总分39，三门HL合计19，其中HL数学7，任何HL不得低于5；接受HL数学AA或AI。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "重考与入学考试",
+            "text": "不接受为提高已取得资格成绩而进行的第二次或后续重考；2027所有申请者须参加TMUA，结合学术表现及个人陈述综合评估。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "Level 2对应IELTS Academic总分7.0、单项至少6.5；一般为入学前两年内成绩，不接受IELTS One Skill Retake。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE",
+              "UK-UCL-ENGLISH"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请，课程代码L100。入学申请与UAT-UK考试报名是两个步骤。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "2027申请截止与当前状态",
+            "text": "UCAS平等考虑截止为2027年1月13日英国时间18:00。截至2026年9月12日，2027申请已自9月1日开放提交，截止尚未到；逾期是否继续受理须查大学及UCAS空位。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE",
+              "UK-UCAS-SUBMIT-2027"
+            ]
+          },
+          {
+            "label": "TMUA：2026年10月场",
+            "text": "中国大陆及港澳考点限定2026年10月15或16日；预约已开放，2026年9月28日英国夏令时18:00截止。须在UAT-UK建账户并预约考试，仅提交UCAS不会自动报名。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          },
+          {
+            "label": "TMUA：2027年1月场",
+            "text": "中国大陆及港澳考点限定2027年1月8日；预约于2026年10月26日英国时间15:00开放，2026年12月21日英国时间18:00截止。对本校申请可选10月或1月，同一种考试每个申请周期只能参加一次；如同时申请牛津或剑桥，须遵从其更早考试要求。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          },
+          {
+            "label": "考试费用与特别安排",
+            "text": "在英国及爱尔兰以外考点，每种考试费用£133。需要合理调整的10月场申请截止为2026年9月14日英国18:00，1月场为2026年12月7日英国18:00，须先申请并获批再预约。",
+            "source_ids": [
+              "UK-UAT-DATES-2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027/28国际生专业学费",
+            "text": "2027/28新生国际费为£40,800／年。课程页采用cohort guarantee，正常课程期间学费不涨，但保留因政府征收的税费等调整权利；生活费另计。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "课程额外成本",
+            "text": "页面估算自备电脑约£600、认可计算器约£20，另有书籍费用；均取决于所选设备和实际学习安排。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "奖学金入口及年份",
+            "text": "Global Undergraduate Scholarship本轮读到的仍为2026/27批次：面向Overseas学费、低收入申请者，须先提交全日制本科申请并获确认fee status；不要求先有录取。该批次于2026年4月27日英国17:00截止，现已结束；本轮未取得2027批次名额及日期。",
+            "source_ids": [
+              "UK-UCL-GLOBAL-UG-2026"
+            ]
+          },
+          {
+            "label": "2026/27奖学金参考范围",
+            "text": "当期有10项全学费加生活补助、20项仅全学费，另3项仅限印度学生。以经济需要评审；家庭年收入£42,875或以下为指导值，超过也可考虑。以上均非2027承诺，也不是所有国际生自动减免。",
+            "source_ids": [
+              "UK-UCL-GLOBAL-UG-2026"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方毕业去向",
+            "text": "课程页引用HESA Graduate Outcomes的2022/23毕业生去向，列经济学家、金融或商业分析师、研究、会计及税务岗位；雇主实例有McKinsey、Bank of England、HSBC、Amazon及Financial Times。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "统计边界",
+            "text": "本轮未取得L100独立就业／升学百分比、薪资与样本量，也未取得中国大陆学生单列数据。上述调查中的雇主实例不能转换为该课程录用概率。",
+            "source_ids": [
+              "UK-UCL-ECON-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-UCL-ECON-COURSE",
+          "title": "UCL Economics BSc (Econ)：2027入学",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ",
+          "checked_at": "2026-09-12",
+          "supports": "2027主项目L100三年与校区、另选实习年、学术要求/重考限制/TMUA/英语等级、£40,800和cohort条款、2022/23毕业去向；Chrome实际选择China取得两年中国本科90%与相关科目条件"
+        },
+        {
+          "id": "UK-UCL-UPC-CHINA",
+          "title": "UCL UPC预科：中国高中资格",
+          "url": "https://www.ucl.ac.uk/study/clie/upc-foundation/entry-requirements/academic-requirements-country",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中毕业证申请UPC的学术门槛为总均80%、相关科目85%；这是预科入学门槛，非本科录取或保证升学"
+        },
+        {
+          "id": "UK-UCL-ENGLISH",
+          "title": "UCL本科英语要求",
+          "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/english-language-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "Level 1 IELTS Academic 6.5/单项6.0；Level 2为7.0/单项6.5；两年有效及不接受IELTS One Skill Retake；页面2026履约日期不移用到2027"
+        },
+        {
+          "id": "UK-UCL-ASSESSMENT-LANGUAGE",
+          "title": "UCL 2026/27学术手册：考核语言",
+          "url": "https://www.ucl.ac.uk/study/current-students/academic-manual/chapters/chapter-4-assessment-framework-taught-programmes/section-2-module-assessment",
+          "checked_at": "2026-09-12",
+          "supports": "2.1条规定考核用英语，测试其他语言能力的考核除外；与课程英语要求共同支持语言判断，不声称已取得2027独立授课语言字段"
+        },
+        {
+          "id": "UK-UCAS-SUBMIT-2027",
+          "title": "UCAS 2027申请开放提交日期",
+          "url": "https://www.ucas.com/events/2027-entry-ucas-applications-can-be-submitted-465631",
+          "checked_at": "2026-09-12",
+          "supports": "2026年9月1日起可提交2027入学申请；与核验日比较得出当前周期状态"
+        },
+        {
+          "id": "UK-UAT-DATES-2027",
+          "title": "UAT-UK 2027入学考试及报名日历",
+          "url": "https://esat-tmua.ac.uk/deadlines/",
+          "checked_at": "2026-09-12",
+          "supports": "2027入学ESAT/TMUA/TARA报名窗口、英国时间截止、中国大陆及港澳指定考试日、一次考试规则、境外考费及合理调整申请截止"
+        },
+        {
+          "id": "UK-UCL-GLOBAL-UG-2026",
+          "title": "UCL Global Undergraduate Scholarship：2026/27参考",
+          "url": "https://www.ucl.ac.uk/scholarships/ucl-global-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27奖学金Overseas、低收入、先递交本科申请、fee status确认；10个学费加生活费和20个学费奖项另有3个印度专属；2026-04-27英国17:00截止；未取得2027批次"
+        }
+      ]
     }
   ]
 }

@@ -23,13 +23,28 @@ hide:
 
 ## 专业与申请资料
 
-目前已收录学校身份、所在地、QS 2027 排名及官网入口，**专业详情待收录**。可先从大学官网查找本科课程与国际生招生入口。
+已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
-| 资料 | 当前状态 |
-| --- | --- |
-| 本科专业与学制 | 待按具体课程核验 |
-| 中国大陆学生入学条件 | 待核验；需区分高考、国际课程与其他资格 |
-| 国际生学费 | 待取得具体专业、入学年度和币种 |
-| 毕业生情况 | 待取得课程或学科的调查范围与年份 |
+<div class="program-grid">
+<article class="program-card" data-program-id="imperial-computing-beng">
+<div class="program-meta"><span>英国 · London</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/imperial/">帝国理工学院</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=2</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/imperial/imperial-computing-beng/">计算机</a></h3>
+<p class="program-english">Computing BEng</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考不足以直入；A-level A*A*A或A*AAA，数学A*；须TMUA</dd><dt>学费</dt><dd>2027未定；2026/27参考 £45,500／年</dd><dt>毕业</dt><dd>Computing系级95%就业或升学（2023/24；非G400独立统计）</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/imperial/imperial-computing-beng/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="imperial-mechanical-engineering-meng">
+<div class="program-meta"><span>英国 · London</span><span>工程</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/imperial/">帝国理工学院</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=2</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/imperial/imperial-mechanical-engineering-meng/">机械工程（本科入口本硕连读）</a></h3>
+<p class="program-english">Mechanical Engineering MEng</p>
+<p class="program-cohort">2027 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考不足以直入；数学A*、物理A*/A；须ESAT及面试</dd><dt>学费</dt><dd>2027未定；2026/27参考 £45,500／年</dd><dt>毕业</dt><dd>机械工程系级100%就业或升学（2023/24；非H301独立统计）</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/imperial/imperial-mechanical-engineering-meng/">查看条件、费用与去向 →</a>
+</article></div>
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

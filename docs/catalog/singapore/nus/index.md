@@ -53,7 +53,7 @@ hide:
 <h3><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-electrical-engineering/">电气工程（荣誉）</a></h3>
 <p class="program-english">Bachelor of Engineering (Electrical Engineering)</p>
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
-<dl class="program-facts"><dt>入学</dt><dd>Engineering 共同入口；高考与 Year 12 数学、英语另审</dd><dt>学费</dt><dd>2026/27：无补助 S$39,700／年；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>本轮未核实可发布的专业就业率及薪资；见统计缺口说明</dd></dl>
+<dl class="program-facts"><dt>入学</dt><dd>Engineering 共同入口；高考与 Year 12 数学、英语另审</dd><dt>学费</dt><dd>2026/27：无补助 S$39,700／年；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>2024届参考：全职长期就业86.0%；税前月薪中位 S$5,000；2025届待核</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/nus/nus-electrical-engineering/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="nus-economics">

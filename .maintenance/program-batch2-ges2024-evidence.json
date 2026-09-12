@@ -1,0 +1,52 @@
+{
+  "checked_at": "2026-09-12",
+  "dataset_url": "https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view",
+  "source_api": "https://data.gov.sg/api/action/datastore_search?resource_id=d_3c55210de27fcccda2ed0c63fdd2b352&limit=10000",
+  "records": [
+    {
+      "_id": 1424,
+      "year": "2024",
+      "university": "National University of Singapore",
+      "school": "College of Design and Engineering",
+      "degree": "Bachelor of Engineering (Electrical Engineering)",
+      "employment_rate_overall": "88.4",
+      "employment_rate_ft_perm": "86.0",
+      "basic_monthly_mean": "4895",
+      "basic_monthly_median": "4900",
+      "gross_monthly_mean": "5057",
+      "gross_monthly_median": "5000",
+      "gross_mthly_25_percentile": "4500",
+      "gross_mthly_75_percentile": "5400"
+    },
+    {
+      "_id": 1454,
+      "year": "2024",
+      "university": "Nanyang Technological University",
+      "school": "College of Engineering",
+      "degree": "Electrical and Electronic Engineering",
+      "employment_rate_overall": "79.3",
+      "employment_rate_ft_perm": "76.1",
+      "basic_monthly_mean": "4684",
+      "basic_monthly_median": "4700",
+      "gross_monthly_mean": "4824",
+      "gross_monthly_median": "4800",
+      "gross_mthly_25_percentile": "4200",
+      "gross_mthly_75_percentile": "5155"
+    },
+    {
+      "_id": 1463,
+      "year": "2024",
+      "university": "Nanyang Technological University",
+      "school": "College of Humanities, Arts & Social Sciences",
+      "degree": "Economics",
+      "employment_rate_overall": "88.2",
+      "employment_rate_ft_perm": "79.4",
+      "basic_monthly_mean": "4580",
+      "basic_monthly_median": "4300",
+      "gross_monthly_mean": "4683",
+      "gross_monthly_median": "4325",
+      "gross_mthly_25_percentile": "4000",
+      "gross_mthly_75_percentile": "5000"
+    }
+  ]
+}

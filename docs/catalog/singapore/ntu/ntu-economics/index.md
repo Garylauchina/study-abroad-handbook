@@ -100,15 +100,25 @@ hide:
 
 ## 毕业生情况 {#outcomes}
 
-### 就业统计缺口
+### 2024 届本专业实测结果
 
-<p class="catalog-fact">本轮尚未核实本专业就业率、薪资及调查口径，暂不列数字。下列课程或行业方向仅供探索，不代表毕业生实际就业比例或个人收入。</p>
+<p class="catalog-fact">政府公开数据的2024届 Economics：毕业约六个月已就业率 88.2%，全职长期就业率 79.4%；全职长期就业者税前月薪中位 S$4,325，第25至75百分位为 S$4,000–5,000。</p>
+<p class="fact-sources"><a href="#source-ntu-economics-ges2024-data">依据 12</a></p>
+
+### 2025 届统计仍待核
+
+<p class="catalog-fact">2025 届本专业就业率、薪资及调查口径本轮尚未核实，暂不列2025数字。上述2024届结果只作历史参考，不能当作2025届或未来毕业结果。</p>
 <p class="fact-sources"><a href="#source-ntu-economics-ges">依据 5</a></p>
 
 ### 方向与实测结果的区别
 
 <p class="catalog-fact">应用与实证、金融、公共政策属于课程方向；其设置不表示毕业生已获得相应行业职位，也不是薪资调查。</p>
 <p class="fact-sources"><a href="#source-ntu-economics-curriculum">依据 6</a></p>
+
+### 2024 调查口径与适用边界
+
+<p class="catalog-fact">就业率分母为进入劳动力市场的毕业生，含正在工作或积极求职且可上岗者；已就业含全职、兼职、临时及自由职业。全职长期为每周至少35小时的非临时工作，含一年及以上合同；薪资只计该组的经常性税前月收入，含固定津贴等、不含奖金。该表未按大陆或国际学生身份单列，本轮未取得本专业回应人数，历史结果不代表个人就业承诺。</p>
+<p class="fact-sources"><a href="#source-ntu-economics-ges2024-data">依据 12</a></p>
 
 ## 官方来源与核验记录 {#sources}
 
@@ -125,5 +135,6 @@ hide:
 <div class="catalog-source" id="source-ntu-economics-language"><span class="source-number">09</span><div><a href="https://www.ntu.edu.sg/research/research-hub/news/detail/global-classrooms-for-diverse-talents">NTU：Global classrooms for diverse talents ↗</a><p>官方文章明确大学课程以英语授课；用于授课语言，不移用交换生入学资格。</p><small>www.ntu.edu.sg · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-ntu-economics-application-dates"><span class="source-number">10</span><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications">NTU：International Qualifications — Forms and Deadlines ↗</a><p>2026申请表按资格分类：高考2025-10-15至2026-01-20，IB/UK A-Level至2026-03-19，均Closed；UK8月才有成绩须下一轮。</p><small>www.ntu.edu.sg · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-ntu-economics-scholarship"><span class="source-number">11</span><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship">NTU：Nanyang Global Scholarship ↗</a><p>各国籍新生，成绩、领导力及课外表现择优；先入学后单独奖学金申请；覆盖TG后学费，保留TG三年义务；CGPA3.5。 Year12等效资格奖学金申请期与入学期相同，须入学申请截止前提交；250词短文、照片、教师评价通常7日内，困难时尽快且建议两周内。</p><small>www.ntu.edu.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-ntu-economics-ges2024-data"><span class="source-number">12</span><div><a href="https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view">MOE data.gov.sg：Graduate Employment Survey，2024 届专业数据 ↗</a><p>官方API记录_id=1463，year=2024；Nanyang Technological University，Economics。overall、ft_perm、gross_monthly_median及25/75百分位；数据集列定义说明劳动力分母、全职长期及税前经常性薪资。2025届不在该数据集本轮返回记录中。</p><small>data.gov.sg · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">← 返回南洋理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

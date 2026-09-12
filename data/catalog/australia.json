@@ -1959,6 +1959,791 @@
       "checked_at": "2026-09-12",
       "campus": "Kensington（悉尼）",
       "language": "英语"
+    },
+    {
+      "id": "melbourne-computing-software-systems",
+      "university_id": "melbourne",
+      "name": "理学学士·计算机与软件系统主修",
+      "name_en": "Bachelor of Science — Computing and Software Systems major",
+      "degree": "本科",
+      "subject": "计算机",
+      "intake": "2027",
+      "duration": "3 年",
+      "campus": "Parkville（墨尔本）",
+      "language": "英语",
+      "entry_summary": "不接受高考直录；IB 31／A-level BBB为参考，另有先修要求",
+      "tuition_summary": "2027首年：A$55,556–65,344（所属学位估算区间）",
+      "outcomes_summary": "已列职业与升学方向；主修层级就业率和起薪待补",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与主修",
+            "text": "先申请 Bachelor of Science，再按学位要求完成 Computing and Software Systems 主修。该主修也在 Bachelor of Design 开设；本记录仅对应理学学士路径。",
+            "source_ids": [
+              "melbourne-computing-software-systems-major"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "学习编程、计算机系统与软件开发；主修所需数学和计算机基础课程应从前两年开始规划。",
+            "source_ids": [
+              "melbourne-computing-software-systems-major"
+            ]
+          },
+          {
+            "label": "校区与学制",
+            "text": "Parkville 校区，通常全日制3年。2027国际生课程页列 March、July 入学；具体迎新和开课日需按录取批次日历确认。",
+            "source_ids": [
+              "melbourne-computing-software-systems-entry"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。",
+            "source_ids": [
+              "melbourne-computing-software-systems-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国普高／高考",
+            "text": "大学明确不接受高考成绩直接入读本科。中国普高学生通常需考虑 Trinity College Foundation Studies 等认可路径；持 IB、A-level 等认可国际课程资格者按相应标准申请。预科录取不等于已达到本科升读条件。",
+            "source_ids": [
+              "melbourne-computing-software-systems-china"
+            ]
+          },
+          {
+            "label": "2027国际课程参考门槛",
+            "text": "IB总分31；GCE A-level BBB，至少3门A-level。当前国际生页面将分数标为参考值（guide only）；还须满足先修科目、英语和名额等条件，不能理解为保证录取。",
+            "source_ids": [
+              "melbourne-computing-software-systems-entry"
+            ]
+          },
+          {
+            "label": "IB先修科目",
+            "text": "英语或 English B、数学（AA SL/HL 或 AI HL）、生物／化学／物理之一均须 SL或HL 4分及以上。",
+            "source_ids": [
+              "melbourne-computing-software-systems-entry"
+            ]
+          },
+          {
+            "label": "A-level先修科目",
+            "text": "A-level 数学与生物／化学／物理之一，另加认可 A/AS 英语；或数学、进阶数学与认可 A/AS 英语。所列先修科目至少C。认可英语科目范围见课程页；总分门槛和先修科目要求须同时满足。",
+            "source_ids": [
+              "melbourne-computing-software-systems-entry"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS Academic 总分6.5、各单项6.0；其他考试或豁免资格按大学英语规则另核。",
+            "source_ids": [
+              "melbourne-computing-software-systems-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "以在中国完成的 IB、A-level 等海外资格申请，按国际本科页面直接申请。澳大利亚 Year 12、在澳大利亚或新西兰完成 IB 等类别，按页面表格和入学学期选择 VTAC 或直申；不要混用申请渠道。",
+            "source_ids": [
+              "melbourne-computing-software-systems-apply"
+            ]
+          },
+          {
+            "label": "2027申请时间",
+            "text": "国际直接申请：2027第一学期截止2026年11月30日；2027第二学期截止2027年5月31日。晚申请是否接受由学校酌情决定；实际offer条件和接受期限另看录取信。",
+            "source_ids": [
+              "melbourne-computing-software-systems-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027国际生学费",
+            "text": "首年标准全日制学习量（1 EFTSL）估算为 A$55,556–65,344；官网全程估算 A$181,310–211,405，已假设后续年度涨价。这是整个所属学位的选课区间，不是该主修的固定报价。",
+            "source_ids": [
+              "melbourne-computing-software-systems-fees"
+            ]
+          },
+          {
+            "label": "计费与额外支出",
+            "text": "按实际所修科目及课程量计费，学费每年审查；最终金额以入学选课后的账单为准。生活、住宿及海外学生医疗保险等需另计。",
+            "source_ids": [
+              "melbourne-computing-software-systems-fees"
+            ]
+          },
+          {
+            "label": "奖学金国籍限制",
+            "text": "Melbourne International Undergraduate Scholarship 的2027标准为学费减免20%，但限定官方列明国家的公民；本次核对清单不含中国，不能把该奖当作中国籍申请者默认可用资助。其他面向中国籍学生的具体奖项本轮仍待核。",
+            "source_ids": [
+              "melbourne-computing-software-systems-scholarship",
+              "melbourne-computing-software-systems-scholarship-countries"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向",
+            "text": "官方列举系统分析、IT咨询、编程、应用开发和数据分析等方向。这些是可能的职业路径，不是毕业生就业率或雇主录用承诺。",
+            "source_ids": [
+              "melbourne-computing-software-systems-careers"
+            ]
+          },
+          {
+            "label": "本主修统计缺口",
+            "text": "本轮未取得同时标明主修、毕业届次、回应样本及国际生身份的就业率、起薪或升学率；不以全校排名替代。",
+            "source_ids": [
+              "melbourne-computing-software-systems-careers"
+            ]
+          },
+          {
+            "label": "后续学习",
+            "text": "官网列软件工程、信息技术、信息系统、数据科学等硕士方向，以及研究型学习路径；须另行满足录取及相关专业认证要求。三年理学学士主修本身不能直接理解为已取得工程师资格。",
+            "source_ids": [
+              "melbourne-computing-software-systems-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-computing-software-systems-entry",
+          "title": "Melbourne 2027 国际生入学要求（选择 International、2027、相应资格）",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/entry-requirements/",
+          "checked_at": "2026-09-12",
+          "supports": "2027国际生IB/A-level参考成绩、先修科目、IELTS、学制与校区。"
+        },
+        {
+          "id": "melbourne-computing-software-systems-fees",
+          "title": "Melbourne 国际生 2027 学费",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/fees/",
+          "checked_at": "2026-09-12",
+          "supports": "国际生视图的2027首年与全程估算、按选课计费、年度调整和额外支出。"
+        },
+        {
+          "id": "melbourne-computing-software-systems-major",
+          "title": "Melbourne 主修介绍",
+          "url": "https://study.unimelb.edu.au/find/courses/major/computing-and-software-systems",
+          "checked_at": "2026-09-12",
+          "supports": "主修所属学位、学习内容与方向。"
+        },
+        {
+          "id": "melbourne-computing-software-systems-careers",
+          "title": "Melbourne 主修职业与升学方向",
+          "url": "https://study.unimelb.edu.au/find/courses/major/computing-and-software-systems/career-outcomes/",
+          "checked_at": "2026-09-12",
+          "supports": "职业与升学方向；本轮未取得有届次和样本口径的主修就业统计。"
+        },
+        {
+          "id": "melbourne-computing-software-systems-china",
+          "title": "Melbourne 面向中国申请者的资格说明",
+          "url": "https://study.unimelb.edu.au/connect-with-us/international/china",
+          "checked_at": "2026-09-12",
+          "supports": "不接受高考直入；普高预科与国际课程路径。"
+        },
+        {
+          "id": "melbourne-computing-software-systems-apply",
+          "title": "Melbourne 国际本科申请渠道与 2027 截止日期",
+          "url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027第一、二学期截止日期；境外资格直申与VTAC渠道。"
+        },
+        {
+          "id": "melbourne-computing-software-systems-language",
+          "title": "Melbourne 授课语言说明",
+          "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "大学所有学习均以英语进行。"
+        },
+        {
+          "id": "melbourne-computing-software-systems-scholarship",
+          "title": "Melbourne International Undergraduate Scholarship",
+          "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "2027减免20%及国籍、学业和既往大学经历限制。"
+        },
+        {
+          "id": "melbourne-computing-software-systems-scholarship-countries",
+          "title": "Melbourne 奖学金适用国籍清单",
+          "url": "https://scholarships.unimelb.edu.au/eligible-countries/_nocache",
+          "checked_at": "2026-09-12",
+          "supports": "该奖限定国籍清单；本次读取清单不含中国。"
+        }
+      ]
+    },
+    {
+      "id": "melbourne-economics",
+      "university_id": "melbourne",
+      "name": "商学学士·经济学主修",
+      "name_en": "Bachelor of Commerce — Economics major",
+      "degree": "本科",
+      "subject": "经济",
+      "intake": "2027",
+      "duration": "3 年",
+      "campus": "Parkville（墨尔本）",
+      "language": "英语",
+      "entry_summary": "不接受高考直录；IB 34／A-level ABB为参考，另有先修要求",
+      "tuition_summary": "2027首年：A$56,451–62,464（所属学位估算区间）",
+      "outcomes_summary": "已列职业与升学方向；主修层级就业率和起薪待补",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与主修",
+            "text": "Economics 同时在 Bachelor of Arts 与 Bachelor of Commerce 开设；本记录仅对应商学学士内的经济学主修，不是独立 Bachelor of Economics 招生学位。",
+            "source_ids": [
+              "melbourne-economics-major"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "围绕微观经济学、宏观经济学和计量经济学展开，以数学、统计数据和模型分析市场及政策问题。",
+            "source_ids": [
+              "melbourne-economics-major"
+            ]
+          },
+          {
+            "label": "校区与学制",
+            "text": "Parkville 校区，通常全日制3年。2027国际生课程页列 March、July 入学；具体迎新和开课日需按录取批次日历确认。",
+            "source_ids": [
+              "melbourne-economics-entry"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。",
+            "source_ids": [
+              "melbourne-economics-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国普高／高考",
+            "text": "大学明确不接受高考成绩直接入读本科。中国普高学生通常需考虑 Trinity College Foundation Studies 等认可路径；持 IB、A-level 等认可国际课程资格者按相应标准申请。预科录取不等于已达到本科升读条件。",
+            "source_ids": [
+              "melbourne-economics-china"
+            ]
+          },
+          {
+            "label": "2027国际课程参考门槛",
+            "text": "IB总分34；GCE A-level ABB，至少3门A-level。当前国际生页面将分数标为参考值（guide only）；还须满足先修科目、英语和名额等条件，不能理解为保证录取。",
+            "source_ids": [
+              "melbourne-economics-entry"
+            ]
+          },
+          {
+            "label": "IB先修科目",
+            "text": "英语（English A、Literature and Performance 或 English B）及数学（AA SL/HL 或 AI HL）均须4分及以上；AI SL 不满足所列数学要求。",
+            "source_ids": [
+              "melbourne-economics-entry"
+            ]
+          },
+          {
+            "label": "A-level先修科目",
+            "text": "A-level 数学与认可 A/AS 英语，所列先修科目至少C。认可英语科目范围见课程页；总分门槛和先修科目要求须同时满足。",
+            "source_ids": [
+              "melbourne-economics-entry"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS Academic 总分6.5、各单项6.0；其他考试或豁免资格按大学英语规则另核。",
+            "source_ids": [
+              "melbourne-economics-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "以在中国完成的 IB、A-level 等海外资格申请，按国际本科页面直接申请。澳大利亚 Year 12、在澳大利亚或新西兰完成 IB 等类别，按页面表格和入学学期选择 VTAC 或直申；不要混用申请渠道。",
+            "source_ids": [
+              "melbourne-economics-apply"
+            ]
+          },
+          {
+            "label": "2027申请时间",
+            "text": "国际直接申请：2027第一学期截止2026年11月30日；2027第二学期截止2027年5月31日。晚申请是否接受由学校酌情决定；实际offer条件和接受期限另看录取信。",
+            "source_ids": [
+              "melbourne-economics-apply"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027国际生学费",
+            "text": "首年标准全日制学习量（1 EFTSL）估算为 A$56,451–62,464；官网全程估算 A$180,714–200,139，已假设后续年度涨价。这是整个所属学位的选课区间，不是该主修的固定报价。",
+            "source_ids": [
+              "melbourne-economics-fees"
+            ]
+          },
+          {
+            "label": "计费与额外支出",
+            "text": "按实际所修科目及课程量计费，学费每年审查；最终金额以入学选课后的账单为准。生活、住宿及海外学生医疗保险等需另计。",
+            "source_ids": [
+              "melbourne-economics-fees"
+            ]
+          },
+          {
+            "label": "奖学金国籍限制",
+            "text": "Melbourne International Undergraduate Scholarship 的2027标准为学费减免20%，但限定官方列明国家的公民；本次核对清单不含中国，不能把该奖当作中国籍申请者默认可用资助。其他面向中国籍学生的具体奖项本轮仍待核。",
+            "source_ids": [
+              "melbourne-economics-scholarship",
+              "melbourne-economics-scholarship-countries"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向",
+            "text": "官方列举咨询、政府、银行投资及行业研究等方向。这些是可能的职业路径，不是毕业生就业率或雇主录用承诺。",
+            "source_ids": [
+              "melbourne-economics-careers"
+            ]
+          },
+          {
+            "label": "本主修统计缺口",
+            "text": "本轮未取得同时标明主修、毕业届次、回应样本及国际生身份的就业率、起薪或升学率；不以全校排名替代。",
+            "source_ids": [
+              "melbourne-economics-careers"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-economics-entry",
+          "title": "Melbourne 2027 国际生入学要求（选择 International、2027、相应资格）",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/entry-requirements/",
+          "checked_at": "2026-09-12",
+          "supports": "2027国际生IB/A-level参考成绩、先修科目、IELTS、学制与校区。"
+        },
+        {
+          "id": "melbourne-economics-fees",
+          "title": "Melbourne 国际生 2027 学费",
+          "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+          "checked_at": "2026-09-12",
+          "supports": "国际生视图的2027首年与全程估算、按选课计费、年度调整和额外支出。"
+        },
+        {
+          "id": "melbourne-economics-major",
+          "title": "Melbourne 主修介绍",
+          "url": "https://study.unimelb.edu.au/find/courses/major/economics",
+          "checked_at": "2026-09-12",
+          "supports": "主修所属学位、学习内容与方向。"
+        },
+        {
+          "id": "melbourne-economics-careers",
+          "title": "Melbourne 主修职业与升学方向",
+          "url": "https://study.unimelb.edu.au/find/courses/major/economics/career-outcomes/",
+          "checked_at": "2026-09-12",
+          "supports": "职业与升学方向；本轮未取得有届次和样本口径的主修就业统计。"
+        },
+        {
+          "id": "melbourne-economics-china",
+          "title": "Melbourne 面向中国申请者的资格说明",
+          "url": "https://study.unimelb.edu.au/connect-with-us/international/china",
+          "checked_at": "2026-09-12",
+          "supports": "不接受高考直入；普高预科与国际课程路径。"
+        },
+        {
+          "id": "melbourne-economics-apply",
+          "title": "Melbourne 国际本科申请渠道与 2027 截止日期",
+          "url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027第一、二学期截止日期；境外资格直申与VTAC渠道。"
+        },
+        {
+          "id": "melbourne-economics-language",
+          "title": "Melbourne 授课语言说明",
+          "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "大学所有学习均以英语进行。"
+        },
+        {
+          "id": "melbourne-economics-scholarship",
+          "title": "Melbourne International Undergraduate Scholarship",
+          "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "2027减免20%及国籍、学业和既往大学经历限制。"
+        },
+        {
+          "id": "melbourne-economics-scholarship-countries",
+          "title": "Melbourne 奖学金适用国籍清单",
+          "url": "https://scholarships.unimelb.edu.au/eligible-countries/_nocache",
+          "checked_at": "2026-09-12",
+          "supports": "该奖限定国籍清单；本次读取清单不含中国。"
+        }
+      ]
+    },
+    {
+      "id": "sydney-advanced-computing",
+      "university_id": "sydney",
+      "name": "高级计算机学士·计算机科学主修",
+      "name_en": "Bachelor of Advanced Computing — Computer Science major",
+      "degree": "本科",
+      "subject": "计算机",
+      "intake": "2027",
+      "duration": "4 年",
+      "campus": "Camperdown / Darlington（悉尼）",
+      "language": "英语",
+      "entry_summary": "高考参考80%；IB 34；IELTS 6.5／各6.0",
+      "tuition_summary": "2027首年估算：A$63,600（1 EFTSL）",
+      "outcomes_summary": "已列职业与培养方向；项目就业率和起薪待补",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与主修",
+            "text": "本条对应 Bachelor of Advanced Computing 内 Computer Science 主修。该学位另有网络安全、软件开发、计算数据科学主修；计算机科学主修不是另一个独立学位。2027培养计划标注仍在复核，可能调整。",
+            "source_ids": [
+              "sydney-advanced-computing-plan2027"
+            ]
+          },
+          {
+            "label": "培养结构",
+            "text": "全日制4年、192学分；学习编程、离散数学、数据结构与算法、系统编程等，并完成主修项目。Honours 路径需另行申请，要求 WAM 至少70并完成一个 Table A 主修；并非所有入学者自动取得荣誉学位。",
+            "source_ids": [
+              "sydney-advanced-computing-plan2027"
+            ]
+          },
+          {
+            "label": "校区与授课",
+            "text": "Camperdown / Darlington 校区，面授；英语用于讲课、辅导课、作业与考试。",
+            "source_ids": [
+              "sydney-advanced-computing-course",
+              "sydney-advanced-computing-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "数学先修的适用对象",
+            "text": "BAC 列有数学前置要求，但适用于澳洲 Year 12（无论学习地点）、在澳洲完成的 IB／A-level，以及国际生 USFP 等指定类别。官网明确以其他资格申请的国际生不适用这项前置门槛；中国境内高考申请者不能套用澳洲 HSC 分数。课程仍包含较多数学。",
+            "source_ids": [
+              "sydney-advanced-computing-math",
+              "sydney-advanced-computing-plan2027"
+            ]
+          },
+          {
+            "label": "2027高考与国际课程参考",
+            "text": "高考为本省满分的80%；IB总分34；GCE A-level 三门／四门累计15／16分（A*=6、A=5、B=4、C=3、D=2、E=1，AS不计）。指南值仅供参考，达到分数仍须满足其他条件和名额要求。",
+            "source_ids": [
+              "sydney-advanced-computing-guide2027"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS Academic 总分6.5、各单项至少6.0。英语考试在开学时不得超过2年；其他英语学历、科目或考试路径按官方规则核对。",
+            "source_ids": [
+              "sydney-advanced-computing-guide2027",
+              "sydney-advanced-computing-language"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "渠道与材料",
+            "text": "以中国高考或中国境内国际课程资格通常可经课程页直申或授权代理申请；当前澳洲 Year 12（境内外）或在澳洲读IB须走UAC。准备学历成绩单、英语与身份证明；中文材料按要求翻译，并检查是否需要中国CSSD认证。",
+            "source_ids": [
+              "sydney-advanced-computing-apply",
+              "sydney-advanced-computing-dates"
+            ]
+          },
+          {
+            "label": "2027批次及截止",
+            "text": "2027指南列2月、8月入学。按当前国际本科通用规则，第一学期申请截止为2026年12月1日，第二学期为2027年5月29日；这是通用日期规则换算，课程可因满额提前关闭，应在课程申请入口确认实际受理状态。",
+            "source_ids": [
+              "sydney-advanced-computing-dates",
+              "sydney-advanced-computing-guide2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027国际生学费",
+            "text": "2027首年、标准1 EFTSL估算 A$63,600；后续年度可能上涨，不是整个学位的固定总价。",
+            "source_ids": [
+              "sydney-advanced-computing-guide2027",
+              "sydney-advanced-computing-course"
+            ]
+          },
+          {
+            "label": "资助与额外支出",
+            "text": "当前 Academic Excellence Scholarship 覆盖合资格单一本科学位最多4年的全部学费及SSAF，须另申并竞争评选；要求已完成中学、此前无大学学习（特定Year 12拓展除外）等。国籍及课程多样性参与评选，不能视为中国学生保证获奖。2027具体批次应在申请时再核。住宿、生活、OSHC等仍由学生承担。",
+            "source_ids": [
+              "sydney-advanced-computing-scholarship"
+            ]
+          },
+          {
+            "label": "奖学金续领条件",
+            "text": "该全额奖学金须每学期保持至少65的SAM、无欠费，并在规定学制内完成学业；条款不允许延期、暂停或转至另一学位。持续资助仍须满足全部条件。",
+            "source_ids": [
+              "sydney-advanced-computing-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "认证状态",
+            "text": "课程页仍将 ACS 有条件专业认证列至2026年底，并称2027再认证处于审查流程。本轮未取得已完成2027认证的新结论；不把旧认证期延伸到2027。",
+            "source_ids": [
+              "sydney-advanced-computing-course"
+            ]
+          },
+          {
+            "label": "职业方向",
+            "text": "课程页列计算机编程、系统分析、网络安全分析和软件架构等方向；所列职业不是就业率、起薪或职业资格自动授予。",
+            "source_ids": [
+              "sydney-advanced-computing-course"
+            ]
+          },
+          {
+            "label": "毕业统计缺口",
+            "text": "本轮未取得同时标明本学位／主修、毕业届次、回应样本及国际生身份的就业率、起薪和升学率。课程职业介绍与新培养方案的预期收益不能代替实际调查结果。",
+            "source_ids": [
+              "sydney-advanced-computing-course"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-advanced-computing-course",
+          "title": "Sydney 2027 国际生课程页（International、2027）",
+          "url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing.html",
+          "checked_at": "2026-09-12",
+          "supports": "课程、校区、学制、学费、职业方向及专业资格边界。"
+        },
+        {
+          "id": "sydney-advanced-computing-guide2027",
+          "title": "Sydney 2027 国际生招生指南（商学p.60、计算机p.62、说明p.68–71）",
+          "url": "https://www.sydney.edu.au/content/dam/corporate/documents/study/how-to-apply/international-admission-guide.pdf.coredownload.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027高考、IB、A-level、IELTS、学制、开学月份、首年国际生费用和分数计算说明。"
+        },
+        {
+          "id": "sydney-advanced-computing-apply",
+          "title": "Sydney 国际生申请步骤",
+          "url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students.html",
+          "checked_at": "2026-09-12",
+          "supports": "直申、代理与UAC类别；材料、非英语翻译及中国材料认证。"
+        },
+        {
+          "id": "sydney-advanced-computing-dates",
+          "title": "Sydney 本科申请与学期日期",
+          "url": "https://www.sydney.edu.au/study/applying/application-dates.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科国际生一般截止日期规则及额满可能提前截止。"
+        },
+        {
+          "id": "sydney-advanced-computing-language",
+          "title": "Sydney 英语资格要求",
+          "url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html",
+          "checked_at": "2026-09-12",
+          "supports": "教学、作业和考试所需英语；考试年限与其他资格路径。"
+        },
+        {
+          "id": "sydney-advanced-computing-scholarship",
+          "title": "Sydney International Undergraduate Academic Excellence Scholarship",
+          "url": "https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html",
+          "checked_at": "2026-09-12",
+          "supports": "当前全额学费/SSAF竞争性奖学金、学制与既往学习限制、其他支出不包含。 续领SAM至少65、无欠费、标准学制以及不得延期/暂停/转学位。"
+        },
+        {
+          "id": "sydney-advanced-computing-plan2027",
+          "title": "Sydney 2027 Computer Science 主修培养计划",
+          "url": "https://cusp.sydney.edu.au/students/view-degree-page/print/1/dvid/6753/",
+          "checked_at": "2026-09-12",
+          "supports": "2027计划处于复核状态；学位192学分、主修选择、课程内容与Honours资格。"
+        },
+        {
+          "id": "sydney-advanced-computing-math",
+          "title": "Sydney 数学先修条件适用范围",
+          "url": "https://www.sydney.edu.au/study/applying/how-to-apply/undergraduate/mathematics-prerequisite.html",
+          "checked_at": "2026-09-12",
+          "supports": "BAC数学前置条件及其申请资格类别限制。"
+        }
+      ]
+    },
+    {
+      "id": "sydney-commerce",
+      "university_id": "sydney",
+      "name": "商学学士",
+      "name_en": "Bachelor of Commerce",
+      "degree": "本科",
+      "subject": "商科",
+      "intake": "2027",
+      "duration": "3 年",
+      "campus": "Camperdown / Darlington（悉尼）",
+      "language": "英语",
+      "entry_summary": "高考参考85%；IB 38；IELTS 7.0／各6.0",
+      "tuition_summary": "2027首年估算：A$59,100（1 EFTSL）",
+      "outcomes_summary": "已列职业与培养方向；项目就业率和起薪待补",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与方向",
+            "text": "三年制 Bachelor of Commerce。2027主修包括金融、商业分析、市场营销、数字商业等；入读商学学位后按培养规则选择主修。本条不对应四年／五年组合学位。",
+            "source_ids": [
+              "sydney-commerce-majors2027",
+              "sydney-commerce-course"
+            ]
+          },
+          {
+            "label": "实践与升学",
+            "text": "BCom ASPIRE 提供贯穿学位的职业探索、行业项目、导师和实习等参与机会，不等于保证安排带薪实习。Honours 是本科毕业后另行申请的一年研究学习。",
+            "source_ids": [
+              "sydney-commerce-majors2027"
+            ]
+          },
+          {
+            "label": "校区与授课",
+            "text": "Camperdown / Darlington 校区，面授；英语用于讲课、辅导课、作业与考试。",
+            "source_ids": [
+              "sydney-commerce-course",
+              "sydney-commerce-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "先修与建议基础",
+            "text": "2027课程页写明没有强制先修科目；建议具备 Mathematics Standard 或更高数学基础，具体取决于主修和所选课程。建议基础（assumed knowledge）与强制录取条件不同。",
+            "source_ids": [
+              "sydney-commerce-course"
+            ]
+          },
+          {
+            "label": "2027高考与国际课程参考",
+            "text": "高考为本省满分的85%；IB总分38；GCE A-level 三门／四门累计17／19分（A*=6、A=5、B=4、C=3、D=2、E=1，AS不计）。指南值仅供参考，达到分数仍须满足其他条件和名额要求。",
+            "source_ids": [
+              "sydney-commerce-guide2027"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS Academic 总分7.0、各单项至少6.0。英语考试在开学时不得超过2年；其他英语学历、科目或考试路径按官方规则核对。",
+            "source_ids": [
+              "sydney-commerce-guide2027",
+              "sydney-commerce-language"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "渠道与材料",
+            "text": "以中国高考或中国境内国际课程资格通常可经课程页直申或授权代理申请；当前澳洲 Year 12（境内外）或在澳洲读IB须走UAC。准备学历成绩单、英语与身份证明；中文材料按要求翻译，并检查是否需要中国CSSD认证。",
+            "source_ids": [
+              "sydney-commerce-apply",
+              "sydney-commerce-dates"
+            ]
+          },
+          {
+            "label": "2027批次及截止",
+            "text": "2027指南列2月、8月入学。按当前国际本科通用规则，第一学期申请截止为2026年12月1日，第二学期为2027年5月29日；这是通用日期规则换算，课程可因满额提前关闭，应在课程申请入口确认实际受理状态。",
+            "source_ids": [
+              "sydney-commerce-dates",
+              "sydney-commerce-guide2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027国际生学费",
+            "text": "2027首年、标准1 EFTSL估算 A$59,100；后续年度可能上涨，不是整个学位的固定总价。",
+            "source_ids": [
+              "sydney-commerce-guide2027",
+              "sydney-commerce-course"
+            ]
+          },
+          {
+            "label": "资助与额外支出",
+            "text": "当前 Academic Excellence Scholarship 覆盖合资格单一本科学位最多4年的全部学费及SSAF，须另申并竞争评选；要求已完成中学、此前无大学学习（特定Year 12拓展除外）等。国籍及课程多样性参与评选，不能视为中国学生保证获奖。2027具体批次应在申请时再核。住宿、生活、OSHC等仍由学生承担。",
+            "source_ids": [
+              "sydney-commerce-scholarship"
+            ]
+          },
+          {
+            "label": "奖学金续领条件",
+            "text": "该全额奖学金须每学期保持至少65的SAM、无欠费，并在规定学制内完成学业；条款不允许延期、暂停或转至另一学位。持续资助仍须满足全部条件。",
+            "source_ids": [
+              "sydney-commerce-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业方向",
+            "text": "课程页列商业分析、会计、金融顾问、营销和咨询等方向，取决于主修与选课；所列职业不是就业率、起薪或职业资格自动授予。",
+            "source_ids": [
+              "sydney-commerce-course"
+            ]
+          },
+          {
+            "label": "毕业统计缺口",
+            "text": "本轮未取得同时标明本学位／主修、毕业届次、回应样本及国际生身份的就业率、起薪和升学率。课程职业介绍与新培养方案的预期收益不能代替实际调查结果。",
+            "source_ids": [
+              "sydney-commerce-course"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-commerce-course",
+          "title": "Sydney 2027 国际生课程页（International、2027）",
+          "url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-commerce0.html",
+          "checked_at": "2026-09-12",
+          "supports": "课程、校区、学制、学费、职业方向及专业资格边界。"
+        },
+        {
+          "id": "sydney-commerce-guide2027",
+          "title": "Sydney 2027 国际生招生指南（商学p.60、计算机p.62、说明p.68–71）",
+          "url": "https://www.sydney.edu.au/content/dam/corporate/documents/study/how-to-apply/international-admission-guide.pdf.coredownload.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027高考、IB、A-level、IELTS、学制、开学月份、首年国际生费用和分数计算说明。"
+        },
+        {
+          "id": "sydney-commerce-apply",
+          "title": "Sydney 国际生申请步骤",
+          "url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students.html",
+          "checked_at": "2026-09-12",
+          "supports": "直申、代理与UAC类别；材料、非英语翻译及中国材料认证。"
+        },
+        {
+          "id": "sydney-commerce-dates",
+          "title": "Sydney 本科申请与学期日期",
+          "url": "https://www.sydney.edu.au/study/applying/application-dates.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科国际生一般截止日期规则及额满可能提前截止。"
+        },
+        {
+          "id": "sydney-commerce-language",
+          "title": "Sydney 英语资格要求",
+          "url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html",
+          "checked_at": "2026-09-12",
+          "supports": "教学、作业和考试所需英语；考试年限与其他资格路径。"
+        },
+        {
+          "id": "sydney-commerce-scholarship",
+          "title": "Sydney International Undergraduate Academic Excellence Scholarship",
+          "url": "https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html",
+          "checked_at": "2026-09-12",
+          "supports": "当前全额学费/SSAF竞争性奖学金、学制与既往学习限制、其他支出不包含。 续领SAM至少65、无欠费、标准学制以及不得延期/暂停/转学位。"
+        },
+        {
+          "id": "sydney-commerce-majors2027",
+          "title": "Sydney Business School 2027 主修与 BCom ASPIRE",
+          "url": "https://www.sydney.edu.au/business/study/undergraduate-courses.html",
+          "checked_at": "2026-09-12",
+          "supports": "2027主修、ASPIRE实践安排及另读Honours的性质。"
+        }
+      ]
     }
   ]
 }

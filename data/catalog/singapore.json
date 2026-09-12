@@ -998,7 +998,7 @@
       "checked_at": "2026-09-12",
       "entry_summary": "Engineering 共同入口；高考与 Year 12 数学、英语另审",
       "tuition_summary": "2026/27：无补助 S$39,700／年；有条件补助 S$21,400／年",
-      "outcomes_summary": "本轮未核实可发布的专业就业率及薪资；见统计缺口说明",
+      "outcomes_summary": "2024届参考：全职长期就业86.0%；税前月薪中位 S$5,000；2025届待核",
       "sections": {
         "overview": [
           {
@@ -1107,8 +1107,15 @@
         ],
         "outcomes": [
           {
-            "label": "就业统计缺口",
-            "text": "本轮尚未核实本专业就业率、薪资及调查口径，暂不列数字。下列课程或行业方向仅供探索，不代表毕业生实际就业比例或个人收入。",
+            "label": "2024 届本专业实测结果",
+            "text": "政府公开数据的2024届 Bachelor of Engineering (Electrical Engineering)：毕业约六个月已就业率 88.4%，全职长期就业率 86.0%；全职长期就业者税前月薪中位 S$5,000，第25至75百分位为 S$4,500–5,400。",
+            "source_ids": [
+              "nus-electrical-engineering-ges2024-data"
+            ]
+          },
+          {
+            "label": "2025 届统计仍待核",
+            "text": "2025 届本专业就业率、薪资及调查口径本轮尚未核实，暂不列2025数字。上述2024届结果只作历史参考，不能当作2025届或未来毕业结果。",
             "source_ids": [
               "nus-electrical-engineering-ges"
             ]
@@ -1118,6 +1125,13 @@
             "text": "课程覆盖电力、电子、信号与嵌入式系统，可据此考察相关岗位或研究方向；这属于课程内容判断，不是毕业生岗位分布或就业率调查。",
             "source_ids": [
               "nus-electrical-engineering-curriculum"
+            ]
+          },
+          {
+            "label": "2024 调查口径与适用边界",
+            "text": "就业率分母为进入劳动力市场的毕业生，含正在工作或积极求职且可上岗者；已就业含全职、兼职、临时及自由职业。全职长期为每周至少35小时的非临时工作，含一年及以上合同；薪资只计该组的经常性税前月收入，含固定津贴等、不含奖金。该表未按大陆或国际学生身份单列，本轮未取得本专业回应人数，历史结果不代表个人就业承诺。",
+            "source_ids": [
+              "nus-electrical-engineering-ges2024-data"
             ]
           }
         ]
@@ -1206,6 +1220,13 @@
           "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
           "checked_at": "2026-09-12",
           "supports": "非新加坡公民新生；成绩、领导力、课外表现择优；由入学申请考虑；覆盖TG后学费、须接受TG及其三年义务；续领GPA3.5。"
+        },
+        {
+          "id": "nus-electrical-engineering-ges2024-data",
+          "title": "MOE data.gov.sg：Graduate Employment Survey，2024 届专业数据",
+          "url": "https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view",
+          "checked_at": "2026-09-12",
+          "supports": "官方API记录_id=1424，year=2024；National University of Singapore，Bachelor of Engineering (Electrical Engineering)。overall、ft_perm、gross_monthly_median及25/75百分位；数据集列定义说明劳动力分母、全职长期及税前经常性薪资。2025届不在该数据集本轮返回记录中。"
         }
       ],
       "language": "英语",
@@ -1440,7 +1461,7 @@
       "checked_at": "2026-09-12",
       "entry_summary": "高考最低申请门槛 80%；高中数学、理科与英语另审",
       "tuition_summary": "2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实",
-      "outcomes_summary": "本轮未核实可发布的专业就业率及薪资；见统计缺口说明",
+      "outcomes_summary": "2024届参考：全职长期就业76.1%；税前月薪中位 S$4,800；2025届待核",
       "sections": {
         "overview": [
           {
@@ -1547,8 +1568,15 @@
         ],
         "outcomes": [
           {
-            "label": "就业统计缺口",
-            "text": "本轮尚未核实本专业就业率、薪资及调查口径，暂不列数字。下列课程或行业方向仅供探索，不代表毕业生实际就业比例或个人收入。",
+            "label": "2024 届本专业实测结果",
+            "text": "政府公开数据的2024届 Electrical and Electronic Engineering：毕业约六个月已就业率 79.3%，全职长期就业率 76.1%；全职长期就业者税前月薪中位 S$4,800，第25至75百分位为 S$4,200–5,155。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-ges2024-data"
+            ]
+          },
+          {
+            "label": "2025 届统计仍待核",
+            "text": "2025 届本专业就业率、薪资及调查口径本轮尚未核实，暂不列2025数字。上述2024届结果只作历史参考，不能当作2025届或未来毕业结果。",
             "source_ids": [
               "ntu-electrical-electronic-engineering-ges"
             ]
@@ -1558,6 +1586,13 @@
             "text": "课程页列举半导体与集成电路、控制自动化、电力与清洁能源、通信等方向；属于可能进入的行业，未给出各行业毕业生人数或比例。",
             "source_ids": [
               "ntu-electrical-electronic-engineering-curriculum"
+            ]
+          },
+          {
+            "label": "2024 调查口径与适用边界",
+            "text": "就业率分母为进入劳动力市场的毕业生，含正在工作或积极求职且可上岗者；已就业含全职、兼职、临时及自由职业。全职长期为每周至少35小时的非临时工作，含一年及以上合同；薪资只计该组的经常性税前月收入，含固定津贴等、不含奖金。该表未按大陆或国际学生身份单列，本轮未取得本专业回应人数，历史结果不代表个人就业承诺。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-ges2024-data"
             ]
           }
         ]
@@ -1632,6 +1667,13 @@
           "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship",
           "checked_at": "2026-09-12",
           "supports": "各国籍新生，成绩、领导力及课外表现择优；先入学后单独奖学金申请；覆盖TG后学费，保留TG三年义务；CGPA3.5。 Year12等效资格奖学金申请期与入学期相同，须入学申请截止前提交；250词短文、照片、教师评价通常7日内，困难时尽快且建议两周内。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-ges2024-data",
+          "title": "MOE data.gov.sg：Graduate Employment Survey，2024 届专业数据",
+          "url": "https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view",
+          "checked_at": "2026-09-12",
+          "supports": "官方API记录_id=1454，year=2024；Nanyang Technological University，Electrical and Electronic Engineering。overall、ft_perm、gross_monthly_median及25/75百分位；数据集列定义说明劳动力分母、全职长期及税前经常性薪资。2025届不在该数据集本轮返回记录中。"
         }
       ],
       "language": "英语",
@@ -1649,7 +1691,7 @@
       "checked_at": "2026-09-12",
       "entry_summary": "高考最低申请门槛 80%；数学与高中英语良好，择优面试",
       "tuition_summary": "2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实",
-      "outcomes_summary": "本轮未核实可发布的专业就业率及薪资；见统计缺口说明",
+      "outcomes_summary": "2024届参考：全职长期就业79.4%；税前月薪中位 S$4,325；2025届待核",
       "sections": {
         "overview": [
           {
@@ -1764,8 +1806,15 @@
         ],
         "outcomes": [
           {
-            "label": "就业统计缺口",
-            "text": "本轮尚未核实本专业就业率、薪资及调查口径，暂不列数字。下列课程或行业方向仅供探索，不代表毕业生实际就业比例或个人收入。",
+            "label": "2024 届本专业实测结果",
+            "text": "政府公开数据的2024届 Economics：毕业约六个月已就业率 88.2%，全职长期就业率 79.4%；全职长期就业者税前月薪中位 S$4,325，第25至75百分位为 S$4,000–5,000。",
+            "source_ids": [
+              "ntu-economics-ges2024-data"
+            ]
+          },
+          {
+            "label": "2025 届统计仍待核",
+            "text": "2025 届本专业就业率、薪资及调查口径本轮尚未核实，暂不列2025数字。上述2024届结果只作历史参考，不能当作2025届或未来毕业结果。",
             "source_ids": [
               "ntu-economics-ges"
             ]
@@ -1775,6 +1824,13 @@
             "text": "应用与实证、金融、公共政策属于课程方向；其设置不表示毕业生已获得相应行业职位，也不是薪资调查。",
             "source_ids": [
               "ntu-economics-curriculum"
+            ]
+          },
+          {
+            "label": "2024 调查口径与适用边界",
+            "text": "就业率分母为进入劳动力市场的毕业生，含正在工作或积极求职且可上岗者；已就业含全职、兼职、临时及自由职业。全职长期为每周至少35小时的非临时工作，含一年及以上合同；薪资只计该组的经常性税前月收入，含固定津贴等、不含奖金。该表未按大陆或国际学生身份单列，本轮未取得本专业回应人数，历史结果不代表个人就业承诺。",
+            "source_ids": [
+              "ntu-economics-ges2024-data"
             ]
           }
         ]
@@ -1856,6 +1912,13 @@
           "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship",
           "checked_at": "2026-09-12",
           "supports": "各国籍新生，成绩、领导力及课外表现择优；先入学后单独奖学金申请；覆盖TG后学费，保留TG三年义务；CGPA3.5。 Year12等效资格奖学金申请期与入学期相同，须入学申请截止前提交；250词短文、照片、教师评价通常7日内，困难时尽快且建议两周内。"
+        },
+        {
+          "id": "ntu-economics-ges2024-data",
+          "title": "MOE data.gov.sg：Graduate Employment Survey，2024 届专业数据",
+          "url": "https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view",
+          "checked_at": "2026-09-12",
+          "supports": "官方API记录_id=1463，year=2024；Nanyang Technological University，Economics。overall、ft_perm、gross_monthly_median及25/75百分位；数据集列定义说明劳动力分母、全职长期及税前经常性薪资。2025届不在该数据集本轮返回记录中。"
         }
       ],
       "language": "英语",

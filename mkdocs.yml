@@ -57,12 +57,16 @@ nav:
           - 大学列表: catalog/uk/index.md
           - 帝国理工学院:
               - 大学概览: catalog/uk/imperial/index.md
+              - 计算机: catalog/uk/imperial/imperial-computing-beng/index.md
+              - 机械工程（本科入口本硕连读）: catalog/uk/imperial/imperial-mechanical-engineering-meng/index.md
           - 牛津大学:
               - 大学概览: catalog/uk/oxford/index.md
           - 剑桥大学:
               - 大学概览: catalog/uk/cambridge/index.md
           - 伦敦大学学院:
               - 大学概览: catalog/uk/ucl/index.md
+              - 计算机科学: catalog/uk/ucl/ucl-computer-science-bsc/index.md
+              - 经济学: catalog/uk/ucl/ucl-economics-bsc-econ/index.md
           - 爱丁堡大学:
               - 大学概览: catalog/uk/edinburgh/index.md
           - 伦敦国王学院:
@@ -105,8 +109,12 @@ nav:
               - 计算机科学理学学士: catalog/australia/unsw/unsw-computer-science/index.md
           - 墨尔本大学:
               - 大学概览: catalog/australia/melbourne/index.md
+              - 商学学士·经济学主修: catalog/australia/melbourne/melbourne-economics/index.md
+              - 理学学士·计算机与软件系统主修: catalog/australia/melbourne/melbourne-computing-software-systems/index.md
           - 悉尼大学:
               - 大学概览: catalog/australia/sydney/index.md
+              - 高级计算机学士·计算机科学主修: catalog/australia/sydney/sydney-advanced-computing/index.md
+              - 商学学士: catalog/australia/sydney/sydney-commerce/index.md
           - 澳大利亚国立大学:
               - 大学概览: catalog/australia/anu/index.md
           - 蒙纳士大学:
@@ -205,8 +213,12 @@ nav:
           - 大学列表: catalog/hong-kong/index.md
           - 香港大学:
               - 大学概览: catalog/hong-kong/hku/index.md
+              - 经济学学士（6767共同招生）: catalog/hong-kong/hku/hku-economics-becon/index.md
+              - 计算机科学工学学士（6999共同招生）: catalog/hong-kong/hku/hku-computer-science-beng/index.md
           - 香港中文大学:
               - 大学概览: catalog/hong-kong/cuhk/index.md
+              - 计算机科学理学士（CSE首年后分流）: catalog/hong-kong/cuhk/cuhk-computer-science-bsc/index.md
+              - 经济学社会科学学士: catalog/hong-kong/cuhk/cuhk-economics-bssc/index.md
           - 香港科技大学:
               - 大学概览: catalog/hong-kong/hkust/index.md
           - 香港理工大学:

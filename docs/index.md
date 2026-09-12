@@ -38,35 +38,35 @@ hide:
 <a class="country-card country-switzerland" data-country-filter="switzerland" href="/study-abroad-handbook/catalog/switzerland/"><span class="country-en">Switzerland</span><strong>瑞士</strong><span>3 所大学 <b aria-hidden="true">↗</b></span></a>
 <a class="country-card country-taiwan" data-country-filter="taiwan" href="/study-abroad-handbook/catalog/taiwan/"><span class="country-en">Taiwan</span><strong>中国台湾</strong><span>1 所大学 <b aria-hidden="true">↗</b></span></a>
 </div></details><div id="program-finder" data-catalog-url="assets/data/catalog-index.json">
-<div class="finder-heading"><h2>大学与专业资料库</h2><span>22 个国家和地区 · 96 所大学 · 24 个专业详情</span></div>
-<div class="catalog-view-controls" role="group" aria-label="查看大学或专业" hidden><button type="button" data-catalog-view="universities" aria-pressed="true" aria-controls="catalog-results">大学 · 96</button><button type="button" data-catalog-view="programs" aria-pressed="false" aria-controls="catalog-results">已收录专业 · 24</button></div><form class="catalog-filters" role="search" aria-label="筛选大学与专业">
+<div class="finder-heading"><h2>大学与专业资料库</h2><span>22 个国家和地区 · 96 所大学 · 36 个专业详情</span></div>
+<div class="catalog-view-controls" role="group" aria-label="查看大学或专业" hidden><button type="button" data-catalog-view="universities" aria-pressed="true" aria-controls="catalog-results">大学 · 96</button><button type="button" data-catalog-view="programs" aria-pressed="false" aria-controls="catalog-results">已收录专业 · 36</button></div><form class="catalog-filters" role="search" aria-label="筛选大学与专业">
 <label class="catalog-query"><span id="catalog-query-label">搜索学校或专业</span><input id="catalog-query" name="q" type="search" placeholder="例如：MIT、香港大学" autocomplete="off"></label>
 <label>国家 / 地区<select id="catalog-country" name="country"><option value="">全部国家和地区</option><option value="uk">英国</option><option value="australia">澳大利亚</option><option value="singapore">新加坡</option><option value="usa">美国</option><option value="canada">加拿大</option><option value="hong-kong">中国香港</option><option value="argentina">阿根廷</option><option value="belgium">比利时</option><option value="denmark">丹麦</option><option value="france">法国</option><option value="germany">德国</option><option value="ireland">爱尔兰</option><option value="italy">意大利</option><option value="japan">日本</option><option value="malaysia">马来西亚</option><option value="netherlands">荷兰</option><option value="new-zealand">新西兰</option><option value="saudi-arabia">沙特阿拉伯</option><option value="south-korea">韩国</option><option value="sweden">瑞典</option><option value="switzerland">瑞士</option><option value="taiwan">中国台湾</option></select></label><label>大学<select id="catalog-university" name="university"><option value="">全部大学</option><option value="mit" data-country="usa">麻省理工学院</option><option value="imperial" data-country="uk">帝国理工学院</option><option value="stanford" data-country="usa">斯坦福大学</option><option value="oxford" data-country="uk">牛津大学</option><option value="harvard" data-country="usa">哈佛大学</option><option value="cambridge" data-country="uk">剑桥大学</option><option value="caltech" data-country="usa">加州理工学院</option><option value="eth-zurich" data-country="switzerland">苏黎世联邦理工学院</option><option value="ucl" data-country="uk">伦敦大学学院</option><option value="nus" data-country="singapore">新加坡国立大学</option><option value="hku" data-country="hong-kong">香港大学</option><option value="ntu" data-country="singapore">南洋理工大学</option><option value="upenn" data-country="usa">宾夕法尼亚大学</option><option value="cornell" data-country="usa">康奈尔大学</option><option value="yale" data-country="usa">耶鲁大学</option><option value="cuhk" data-country="hong-kong">香港中文大学</option><option value="unsw" data-country="australia">新南威尔士大学</option><option value="jhu" data-country="usa">约翰斯·霍普金斯大学</option><option value="berkeley" data-country="usa">加利福尼亚大学伯克利分校</option><option value="epfl" data-country="switzerland">洛桑联邦理工学院</option><option value="melbourne" data-country="australia">墨尔本大学</option><option value="uchicago" data-country="usa">芝加哥大学</option><option value="tum" data-country="germany">慕尼黑工业大学</option><option value="princeton" data-country="usa">普林斯顿大学</option><option value="sydney" data-country="australia">悉尼大学</option><option value="anu" data-country="australia">澳大利亚国立大学</option><option value="mcgill" data-country="canada">麦吉尔大学</option><option value="monash" data-country="australia">蒙纳士大学</option><option value="toronto" data-country="canada">多伦多大学</option><option value="hkust" data-country="hong-kong">香港科技大学</option><option value="psl" data-country="france">巴黎文理大学</option><option value="edinburgh" data-country="uk">爱丁堡大学</option><option value="kcl" data-country="uk">伦敦国王学院</option><option value="snu" data-country="south-korea">首尔大学</option><option value="tokyo" data-country="japan">东京大学</option><option value="queensland" data-country="australia">昆士兰大学</option><option value="manchester" data-country="uk">曼彻斯特大学</option><option value="yonsei" data-country="south-korea">延世大学</option><option value="columbia" data-country="usa">哥伦比亚大学</option><option value="ip-paris" data-country="france">巴黎理工学院</option><option value="northwestern" data-country="usa">西北大学（美国）</option><option value="ubc" data-country="canada">英属哥伦比亚大学</option><option value="tu-delft" data-country="netherlands">代尔夫特理工大学</option><option value="ucla" data-country="usa">加利福尼亚大学洛杉矶分校</option><option value="polyu" data-country="hong-kong">香港理工大学</option><option value="michigan" data-country="usa">密歇根大学安娜堡分校</option><option value="cityuhk" data-country="hong-kong">香港城市大学</option><option value="korea-university" data-country="south-korea">高丽大学</option><option value="ntu-taiwan" data-country="taiwan">台湾大学</option><option value="cmu" data-country="usa">卡内基梅隆大学</option><option value="malaya" data-country="malaysia">马来亚大学</option><option value="bristol" data-country="uk">布里斯托大学</option><option value="nyu" data-country="usa">纽约大学</option><option value="ku-leuven" data-country="belgium">鲁汶大学</option><option value="amsterdam" data-country="netherlands">阿姆斯特丹大学</option><option value="lmu-munich" data-country="germany">慕尼黑大学</option><option value="lse" data-country="uk">伦敦政治经济学院</option><option value="kfupm" data-country="saudi-arabia">法赫德国王石油与矿业大学</option><option value="kyoto" data-country="japan">京都大学</option><option value="kaist" data-country="south-korea">韩国科学技术院</option><option value="brown" data-country="usa">布朗大学</option><option value="auckland" data-country="new-zealand">奥克兰大学</option><option value="birmingham" data-country="uk">伯明翰大学</option><option value="warwick" data-country="uk">华威大学</option><option value="duke" data-country="usa">杜克大学</option><option value="lund" data-country="sweden">隆德大学</option><option value="ut-austin" data-country="usa">得克萨斯大学奥斯汀分校</option><option value="sorbonne" data-country="france">索邦大学</option><option value="uiuc" data-country="usa">伊利诺伊大学厄巴纳香槟分校</option><option value="trinity-dublin" data-country="ireland">都柏林圣三一大学</option><option value="paris-saclay" data-country="france">巴黎萨克雷大学</option><option value="uwa" data-country="australia">西澳大学</option><option value="leeds" data-country="uk">利兹大学</option><option value="adelaide-university" data-country="australia">阿德莱德大学</option><option value="glasgow" data-country="uk">格拉斯哥大学</option><option value="ucsd" data-country="usa">加利福尼亚大学圣迭戈分校</option><option value="kth" data-country="sweden">瑞典皇家理工学院</option><option value="sheffield" data-country="uk">谢菲尔德大学</option><option value="uba" data-country="argentina">布宜诺斯艾利斯大学</option><option value="durham" data-country="uk">杜伦大学</option><option value="heidelberg" data-country="germany">海德堡大学</option><option value="polimi" data-country="italy">米兰理工大学</option><option value="uts" data-country="australia">悉尼科技大学</option><option value="uppsala" data-country="sweden">乌普萨拉大学</option><option value="copenhagen" data-country="denmark">哥本哈根大学</option><option value="penn-state" data-country="usa">宾夕法尼亚州立大学</option><option value="washington" data-country="usa">华盛顿大学</option><option value="boston" data-country="usa">波士顿大学</option><option value="osaka" data-country="japan">大阪大学</option><option value="alberta" data-country="canada">阿尔伯塔大学</option><option value="science-tokyo" data-country="japan">东京科学大学</option><option value="nottingham" data-country="uk">诺丁汉大学</option><option value="fu-berlin" data-country="germany">柏林自由大学</option><option value="uzh" data-country="switzerland">苏黎世大学</option><option value="purdue" data-country="usa">普渡大学</option><option value="ucd" data-country="ireland">都柏林大学</option></select></label><label id="catalog-subject-label">专业方向<select id="catalog-subject" name="subject"><option value="">全部方向</option><option value="商科">商科</option><option value="工程">工程</option><option value="经济">经济</option><option value="计算机">计算机</option></select></label><button type="reset">清除筛选</button></form>
 <noscript><style>.catalog-filters{display:none}</style><p>可通过国家入口和下面的大学、专业链接直接浏览。启用 JavaScript 后可使用即时筛选。</p></noscript><p class="catalog-status" id="catalog-status" role="status" aria-live="polite">收录 QS 2027 前 100 名的 96 所非中国大陆大学，按原始名次排序；“=”表示并列。</p><p id="catalog-empty" hidden></p><div id="catalog-results"><section id="catalog-universities"><h3 class="catalog-list-title">大学清单</h3><div class="university-grid"><article class="university-card" data-university-id="mit"><span class="qs-rank">QS 2027 · <strong>1</strong></span><p class="catalog-eyebrow">美国 · Cambridge</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/mit/">麻省理工学院</a></h2><p class="university-english">Massachusetts Institute of Technology (MIT)</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/mit/">查看学校与专业入口 →</a></article>
-<article class="university-card" data-university-id="imperial"><span class="qs-rank">QS 2027 · <strong>=2</strong></span><p class="catalog-eyebrow">英国 · London</p><h2><a class="" href="/study-abroad-handbook/catalog/uk/imperial/">帝国理工学院</a></h2><p class="university-english">Imperial College London</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/uk/imperial/">查看学校与专业入口 →</a></article>
+<article class="university-card" data-university-id="imperial"><span class="qs-rank">QS 2027 · <strong>=2</strong></span><p class="catalog-eyebrow">英国 · London</p><h2><a class="" href="/study-abroad-handbook/catalog/uk/imperial/">帝国理工学院</a></h2><p class="university-english">Imperial College London</p><p class="university-coverage">已收录 2 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/uk/imperial/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="stanford"><span class="qs-rank">QS 2027 · <strong>=2</strong></span><p class="catalog-eyebrow">美国 · Stanford</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/stanford/">斯坦福大学</a></h2><p class="university-english">Stanford University</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/stanford/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="oxford"><span class="qs-rank">QS 2027 · <strong>4</strong></span><p class="catalog-eyebrow">英国 · Oxford</p><h2><a class="" href="/study-abroad-handbook/catalog/uk/oxford/">牛津大学</a></h2><p class="university-english">University of Oxford</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/uk/oxford/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="harvard"><span class="qs-rank">QS 2027 · <strong>5</strong></span><p class="catalog-eyebrow">美国 · Cambridge</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/harvard/">哈佛大学</a></h2><p class="university-english">Harvard University</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/harvard/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="cambridge"><span class="qs-rank">QS 2027 · <strong>6</strong></span><p class="catalog-eyebrow">英国 · Cambridge</p><h2><a class="" href="/study-abroad-handbook/catalog/uk/cambridge/">剑桥大学</a></h2><p class="university-english">University of Cambridge</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/uk/cambridge/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="caltech"><span class="qs-rank">QS 2027 · <strong>7</strong></span><p class="catalog-eyebrow">美国 · Pasadena</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/caltech/">加州理工学院</a></h2><p class="university-english">California Institute of Technology (Caltech)</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/caltech/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="eth-zurich"><span class="qs-rank">QS 2027 · <strong>=8</strong></span><p class="catalog-eyebrow">瑞士 · Zürich</p><h2><a class="" href="/study-abroad-handbook/catalog/switzerland/eth-zurich/">苏黎世联邦理工学院</a></h2><p class="university-english">ETH Zurich</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/switzerland/eth-zurich/">查看学校与专业入口 →</a></article>
-<article class="university-card" data-university-id="ucl"><span class="qs-rank">QS 2027 · <strong>=8</strong></span><p class="catalog-eyebrow">英国 · London</p><h2><a class="" href="/study-abroad-handbook/catalog/uk/ucl/">伦敦大学学院</a></h2><p class="university-english">UCL</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/uk/ucl/">查看学校与专业入口 →</a></article>
+<article class="university-card" data-university-id="ucl"><span class="qs-rank">QS 2027 · <strong>=8</strong></span><p class="catalog-eyebrow">英国 · London</p><h2><a class="" href="/study-abroad-handbook/catalog/uk/ucl/">伦敦大学学院</a></h2><p class="university-english">UCL</p><p class="university-coverage">已收录 2 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/uk/ucl/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="nus"><span class="qs-rank">QS 2027 · <strong>10</strong></span><p class="catalog-eyebrow">新加坡 · 新加坡</p><h2><a class="" href="/study-abroad-handbook/catalog/singapore/nus/">新加坡国立大学</a></h2><p class="university-english">National University of Singapore</p><p class="university-coverage">已收录 4 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/singapore/nus/">查看学校与专业入口 →</a></article>
-<article class="university-card" data-university-id="hku"><span class="qs-rank">QS 2027 · <strong>11</strong></span><p class="catalog-eyebrow">中国香港 · Hong Kong</p><h2><a class="" href="/study-abroad-handbook/catalog/hong-kong/hku/">香港大学</a></h2><p class="university-english">The University of Hong Kong</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/hku/">查看学校与专业入口 →</a></article>
+<article class="university-card" data-university-id="hku"><span class="qs-rank">QS 2027 · <strong>11</strong></span><p class="catalog-eyebrow">中国香港 · Hong Kong</p><h2><a class="" href="/study-abroad-handbook/catalog/hong-kong/hku/">香港大学</a></h2><p class="university-english">The University of Hong Kong</p><p class="university-coverage">已收录 2 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/hku/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="ntu"><span class="qs-rank">QS 2027 · <strong>12</strong></span><p class="catalog-eyebrow">新加坡 · 新加坡</p><h2><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">南洋理工大学</a></h2><p class="university-english">Nanyang Technological University</p><p class="university-coverage">已收录 4 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="upenn"><span class="qs-rank">QS 2027 · <strong>15</strong></span><p class="catalog-eyebrow">美国 · Philadelphia</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/upenn/">宾夕法尼亚大学</a></h2><p class="university-english">University of Pennsylvania</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/upenn/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="cornell"><span class="qs-rank">QS 2027 · <strong>=16</strong></span><p class="catalog-eyebrow">美国 · Ithaca</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/cornell/">康奈尔大学</a></h2><p class="university-english">Cornell University</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/cornell/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="yale"><span class="qs-rank">QS 2027 · <strong>=16</strong></span><p class="catalog-eyebrow">美国 · New Haven</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/yale/">耶鲁大学</a></h2><p class="university-english">Yale University</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/yale/">查看学校与专业入口 →</a></article>
-<article class="university-card" data-university-id="cuhk"><span class="qs-rank">QS 2027 · <strong>18</strong></span><p class="catalog-eyebrow">中国香港 · Hong Kong</p><h2><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">香港中文大学</a></h2><p class="university-english">The Chinese University of Hong Kong (CUHK)</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">查看学校与专业入口 →</a></article>
+<article class="university-card" data-university-id="cuhk"><span class="qs-rank">QS 2027 · <strong>18</strong></span><p class="catalog-eyebrow">中国香港 · Hong Kong</p><h2><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">香港中文大学</a></h2><p class="university-english">The Chinese University of Hong Kong (CUHK)</p><p class="university-coverage">已收录 2 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="unsw"><span class="qs-rank">QS 2027 · <strong>19</strong></span><p class="catalog-eyebrow">澳大利亚 · 悉尼（Kensington校区）</p><h2><a class="" href="/study-abroad-handbook/catalog/australia/unsw/">新南威尔士大学</a></h2><p class="university-english">UNSW Sydney</p><p class="university-coverage">已收录 4 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/australia/unsw/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="jhu"><span class="qs-rank">QS 2027 · <strong>=20</strong></span><p class="catalog-eyebrow">美国 · Baltimore</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/jhu/">约翰斯·霍普金斯大学</a></h2><p class="university-english">Johns Hopkins University</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/jhu/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="berkeley"><span class="qs-rank">QS 2027 · <strong>=20</strong></span><p class="catalog-eyebrow">美国 · Berkeley</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/berkeley/">加利福尼亚大学伯克利分校</a></h2><p class="university-english">University of California, Berkeley (UCB)</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/berkeley/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="epfl"><span class="qs-rank">QS 2027 · <strong>=22</strong></span><p class="catalog-eyebrow">瑞士 · Lausanne</p><h2><a class="" href="/study-abroad-handbook/catalog/switzerland/epfl/">洛桑联邦理工学院</a></h2><p class="university-english">EPFL – École polytechnique fédérale de Lausanne</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/switzerland/epfl/">查看学校与专业入口 →</a></article>
-<article class="university-card" data-university-id="melbourne"><span class="qs-rank">QS 2027 · <strong>=22</strong></span><p class="catalog-eyebrow">澳大利亚 · Melbourne</p><h2><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/">墨尔本大学</a></h2><p class="university-english">The University of Melbourne</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/australia/melbourne/">查看学校与专业入口 →</a></article>
+<article class="university-card" data-university-id="melbourne"><span class="qs-rank">QS 2027 · <strong>=22</strong></span><p class="catalog-eyebrow">澳大利亚 · Melbourne</p><h2><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/">墨尔本大学</a></h2><p class="university-english">The University of Melbourne</p><p class="university-coverage">已收录 2 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/australia/melbourne/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="uchicago"><span class="qs-rank">QS 2027 · <strong>24</strong></span><p class="catalog-eyebrow">美国 · Chicago</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/uchicago/">芝加哥大学</a></h2><p class="university-english">University of Chicago</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/uchicago/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="tum"><span class="qs-rank">QS 2027 · <strong>25</strong></span><p class="catalog-eyebrow">德国 · Munich</p><h2><a class="" href="/study-abroad-handbook/catalog/germany/tum/">慕尼黑工业大学</a></h2><p class="university-english">Technical University of Munich</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/germany/tum/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="princeton"><span class="qs-rank">QS 2027 · <strong>27</strong></span><p class="catalog-eyebrow">美国 · Princeton</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/princeton/">普林斯顿大学</a></h2><p class="university-english">Princeton University</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/princeton/">查看学校与专业入口 →</a></article>
-<article class="university-card" data-university-id="sydney"><span class="qs-rank">QS 2027 · <strong>28</strong></span><p class="catalog-eyebrow">澳大利亚 · Sydney</p><h2><a class="" href="/study-abroad-handbook/catalog/australia/sydney/">悉尼大学</a></h2><p class="university-english">The University of Sydney</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/australia/sydney/">查看学校与专业入口 →</a></article>
+<article class="university-card" data-university-id="sydney"><span class="qs-rank">QS 2027 · <strong>28</strong></span><p class="catalog-eyebrow">澳大利亚 · Sydney</p><h2><a class="" href="/study-abroad-handbook/catalog/australia/sydney/">悉尼大学</a></h2><p class="university-english">The University of Sydney</p><p class="university-coverage">已收录 2 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/australia/sydney/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="anu"><span class="qs-rank">QS 2027 · <strong>29</strong></span><p class="catalog-eyebrow">澳大利亚 · Canberra</p><h2><a class="" href="/study-abroad-handbook/catalog/australia/anu/">澳大利亚国立大学</a></h2><p class="university-english">Australian National University (ANU)</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/australia/anu/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="mcgill"><span class="qs-rank">QS 2027 · <strong>30</strong></span><p class="catalog-eyebrow">加拿大 · Montreal</p><h2><a class="" href="/study-abroad-handbook/catalog/canada/mcgill/">麦吉尔大学</a></h2><p class="university-english">McGill University</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/canada/mcgill/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="monash"><span class="qs-rank">QS 2027 · <strong>31</strong></span><p class="catalog-eyebrow">澳大利亚 · 墨尔本（Clayton校区）</p><h2><a class="" href="/study-abroad-handbook/catalog/australia/monash/">蒙纳士大学</a></h2><p class="university-english">Monash University</p><p class="university-coverage">已收录 4 个专业详情</p><a class="program-open" href="/study-abroad-handbook/catalog/australia/monash/">查看学校与专业入口 →</a></article>
@@ -137,7 +137,47 @@ hide:
 <article class="university-card" data-university-id="fu-berlin"><span class="qs-rank">QS 2027 · <strong>=98</strong></span><p class="catalog-eyebrow">德国 · Berlin</p><h2><a class="" href="/study-abroad-handbook/catalog/germany/fu-berlin/">柏林自由大学</a></h2><p class="university-english">Freie Universitaet Berlin</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/germany/fu-berlin/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="uzh"><span class="qs-rank">QS 2027 · <strong>=98</strong></span><p class="catalog-eyebrow">瑞士 · Zürich</p><h2><a class="" href="/study-abroad-handbook/catalog/switzerland/uzh/">苏黎世大学</a></h2><p class="university-english">University of Zurich</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/switzerland/uzh/">查看学校与专业入口 →</a></article>
 <article class="university-card" data-university-id="purdue"><span class="qs-rank">QS 2027 · <strong>=100</strong></span><p class="catalog-eyebrow">美国 · West Lafayette</p><h2><a class="" href="/study-abroad-handbook/catalog/usa/purdue/">普渡大学</a></h2><p class="university-english">Purdue University</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/usa/purdue/">查看学校与专业入口 →</a></article>
-<article class="university-card" data-university-id="ucd"><span class="qs-rank">QS 2027 · <strong>=100</strong></span><p class="catalog-eyebrow">爱尔兰 · Dublin</p><h2><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/">都柏林大学</a></h2><p class="university-english">University College Dublin</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/ireland/ucd/">查看学校与专业入口 →</a></article></div></section><section id="catalog-programs"><h3 class="catalog-list-title">已收录专业</h3><div class="program-grid"><article class="program-card" data-program-id="nus-business-administration">
+<article class="university-card" data-university-id="ucd"><span class="qs-rank">QS 2027 · <strong>=100</strong></span><p class="catalog-eyebrow">爱尔兰 · Dublin</p><h2><a class="" href="/study-abroad-handbook/catalog/ireland/ucd/">都柏林大学</a></h2><p class="university-english">University College Dublin</p><p class="university-coverage">专业详情待收录</p><a class="program-open" href="/study-abroad-handbook/catalog/ireland/ucd/">查看学校与专业入口 →</a></article></div></section><section id="catalog-programs"><h3 class="catalog-list-title">已收录专业</h3><div class="program-grid"><article class="program-card" data-program-id="imperial-computing-beng">
+<div class="program-meta"><span>英国 · London</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/imperial/">帝国理工学院</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=2</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/imperial/imperial-computing-beng/">计算机</a></h3>
+<p class="program-english">Computing BEng</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考不足以直入；A-level A*A*A或A*AAA，数学A*；须TMUA</dd><dt>学费</dt><dd>2027未定；2026/27参考 £45,500／年</dd><dt>毕业</dt><dd>Computing系级95%就业或升学（2023/24；非G400独立统计）</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/imperial/imperial-computing-beng/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="imperial-mechanical-engineering-meng">
+<div class="program-meta"><span>英国 · London</span><span>工程</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/imperial/">帝国理工学院</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=2</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/imperial/imperial-mechanical-engineering-meng/">机械工程（本科入口本硕连读）</a></h3>
+<p class="program-english">Mechanical Engineering MEng</p>
+<p class="program-cohort">2027 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考不足以直入；数学A*、物理A*/A；须ESAT及面试</dd><dt>学费</dt><dd>2027未定；2026/27参考 £45,500／年</dd><dt>毕业</dt><dd>机械工程系级100%就业或升学（2023/24；非H301独立统计）</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/imperial/imperial-mechanical-engineering-meng/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="ucl-computer-science-bsc">
+<div class="program-meta"><span>英国 · London</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/ucl/">伦敦大学学院</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=8</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-computer-science-bsc/">计算机科学</a></h3>
+<p class="program-english">Computer Science BSc</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>A-level A*A*A，数学或进阶数学A*；2027须TARA；中国学历另评</dd><dt>学费</dt><dd>2027/28 £48,600／年</dd><dt>毕业</dt><dd>课程页报告平均薪资£54,255（毕业15个月；2017–2023汇总）</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/ucl/ucl-computer-science-bsc/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="ucl-economics-bsc-econ">
+<div class="program-meta"><span>英国 · London</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/ucl/">伦敦大学学院</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=8</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-economics-bsc-econ/">经济学</a></h3>
+<p class="program-english">Economics BSc (Econ)</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>A-level A*AA，数学A*；IB39；须TMUA，不接受重考</dd><dt>学费</dt><dd>2027/28 £40,800／年</dd><dt>毕业</dt><dd>官方列2022/23毕业去向；本轮未取得课程就业比例</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/ucl/ucl-economics-bsc-econ/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="nus-business-administration">
 <div class="program-meta"><span>新加坡 · 新加坡</span><span>商科</span></div>
 <p class="program-school"><a class="" href="/study-abroad-handbook/catalog/singapore/nus/">新加坡国立大学</a></p>
 <span class="qs-rank">大学 QS 2027 · <strong>10</strong></span>
@@ -164,7 +204,7 @@ hide:
 <h3><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-electrical-engineering/">电气工程（荣誉）</a></h3>
 <p class="program-english">Bachelor of Engineering (Electrical Engineering)</p>
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
-<dl class="program-facts"><dt>入学</dt><dd>Engineering 共同入口；高考与 Year 12 数学、英语另审</dd><dt>学费</dt><dd>2026/27：无补助 S$39,700／年；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>本轮未核实可发布的专业就业率及薪资；见统计缺口说明</dd></dl>
+<dl class="program-facts"><dt>入学</dt><dd>Engineering 共同入口；高考与 Year 12 数学、英语另审</dd><dt>学费</dt><dd>2026/27：无补助 S$39,700／年；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>2024届参考：全职长期就业86.0%；税前月薪中位 S$5,000；2025届待核</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/nus/nus-electrical-engineering/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="nus-economics">
@@ -176,6 +216,26 @@ hide:
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>Humanities and Sciences 共同入口；主修选择与高考、英语另审</dd><dt>学费</dt><dd>2026/27：无补助 S$36,650／年；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>本轮未取得经济学单列就业结果；不将 BSocSci 汇总当作经济学成绩</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/nus/nus-economics/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="hku-economics-becon">
+<div class="program-meta"><span>中国香港 · Hong Kong</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/hong-kong/hku/">香港大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>11</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/hong-kong/hku/hku-economics-becon/">经济学学士（6767共同招生）</a></h3>
+<p class="program-english">Bachelor of Economics</p>
+<p class="program-cohort">2026 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2026：高考独立申请；国际资格参考IB36或A-Level 3A，并须数学等条件</dd><dt>学费</dt><dd>2026/27非本地：HK$224,000／年</dd><dt>毕业</dt><dd>已核实职业方向；本专业就业率、薪酬及升学率的可靠统计待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/hku/hku-economics-becon/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="hku-computer-science-beng">
+<div class="program-meta"><span>中国香港 · Hong Kong</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/hong-kong/hku/">香港大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>11</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/hong-kong/hku/hku-computer-science-beng/">计算机科学工学学士（6999共同招生）</a></h3>
+<p class="program-english">Bachelor of Engineering in Computer Science</p>
+<p class="program-cohort">2026 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2026：高考独立申请、综合评审；国际资格参考IB38或A-Level 2A*1A</dd><dt>学费</dt><dd>2026/27非本地：HK$249,000／年</dd><dt>毕业</dt><dd>已核实职业方向；本专业就业率、薪酬及升学率的可靠统计待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/hku/hku-computer-science-beng/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="ntu-business">
 <div class="program-meta"><span>新加坡 · 新加坡</span><span>商科</span></div>
@@ -204,7 +264,7 @@ hide:
 <h3><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-electrical-electronic-engineering/">电气与电子工程（荣誉）</a></h3>
 <p class="program-english">Bachelor of Engineering in Electrical and Electronic Engineering</p>
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
-<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；高中数学、理科与英语另审</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>本轮未核实可发布的专业就业率及薪资；见统计缺口说明</dd></dl>
+<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；高中数学、理科与英语另审</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>2024届参考：全职长期就业76.1%；税前月薪中位 S$4,800；2025届待核</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-electrical-electronic-engineering/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="ntu-economics">
@@ -214,8 +274,28 @@ hide:
 <h3><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics/">经济学（荣誉）</a></h3>
 <p class="program-english">Bachelor of Social Sciences (Honours) in Economics</p>
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
-<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；数学与高中英语良好，择优面试</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>本轮未核实可发布的专业就业率及薪资；见统计缺口说明</dd></dl>
+<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；数学与高中英语良好，择优面试</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>2024届参考：全职长期就业79.4%；税前月薪中位 S$4,325；2025届待核</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="cuhk-computer-science-bsc">
+<div class="program-meta"><span>中国香港 · Hong Kong</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">香港中文大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>18</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computer-science-bsc/">计算机科学理学士（CSE首年后分流）</a></h3>
+<p class="program-english">Bachelor of Science in Computer Science</p>
+<p class="program-cohort">2026 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2026：高考工科类，英语≥120/150；首年CSE后按规定分流CS</dd><dt>学费</dt><dd>2026/27非本地首年：HK$214,000</dd><dt>毕业</dt><dd>已核实职业方向；本专业就业率、薪酬及升学率的可靠统计待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computer-science-bsc/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="cuhk-economics-bssc">
+<div class="program-meta"><span>中国香港 · Hong Kong</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">香港中文大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>18</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-economics-bssc/">经济学社会科学学士</a></h3>
+<p class="program-english">Bachelor of Social Science in Economics</p>
+<p class="program-cohort">2026 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2026：高考人文类，英语≥120/150；国际资格另行申请</dd><dt>学费</dt><dd>2026/27非本地首年：HK$214,000</dd><dt>毕业</dt><dd>已核实职业方向；本专业就业率、薪酬及升学率的可靠统计待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-economics-bssc/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="unsw-commerce">
 <div class="program-meta"><span>澳大利亚 · 悉尼（Kensington校区）</span><span>商科</span></div>
@@ -256,6 +336,46 @@ hide:
 <p class="program-cohort">2026 入学 · 本科 · 3 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>2026高考参考75%；IELTS 6.5／单项6.0</dd><dt>学费</dt><dd>2026首年指示学费：A$61,000</dd><dt>毕业</dt><dd>本专业统计待补；附全校本土本科毕业3年后薪酬</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="melbourne-economics">
+<div class="program-meta"><span>澳大利亚 · Melbourne</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/">墨尔本大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=22</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economics/">商学学士·经济学主修</a></h3>
+<p class="program-english">Bachelor of Commerce — Economics major</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>不接受高考直录；IB 34／A-level ABB为参考，另有先修要求</dd><dt>学费</dt><dd>2027首年：A$56,451–62,464（所属学位估算区间）</dd><dt>毕业</dt><dd>已列职业与升学方向；主修层级就业率和起薪待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economics/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="melbourne-computing-software-systems">
+<div class="program-meta"><span>澳大利亚 · Melbourne</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/">墨尔本大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=22</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-software-systems/">理学学士·计算机与软件系统主修</a></h3>
+<p class="program-english">Bachelor of Science — Computing and Software Systems major</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>不接受高考直录；IB 31／A-level BBB为参考，另有先修要求</dd><dt>学费</dt><dd>2027首年：A$55,556–65,344（所属学位估算区间）</dd><dt>毕业</dt><dd>已列职业与升学方向；主修层级就业率和起薪待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-software-systems/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="sydney-advanced-computing">
+<div class="program-meta"><span>澳大利亚 · Sydney</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/sydney/">悉尼大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>28</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-advanced-computing/">高级计算机学士·计算机科学主修</a></h3>
+<p class="program-english">Bachelor of Advanced Computing — Computer Science major</p>
+<p class="program-cohort">2027 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考参考80%；IB 34；IELTS 6.5／各6.0</dd><dt>学费</dt><dd>2027首年估算：A$63,600（1 EFTSL）</dd><dt>毕业</dt><dd>已列职业与培养方向；项目就业率和起薪待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/sydney/sydney-advanced-computing/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="sydney-commerce">
+<div class="program-meta"><span>澳大利亚 · Sydney</span><span>商科</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/sydney/">悉尼大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>28</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/sydney/sydney-commerce/">商学学士</a></h3>
+<p class="program-english">Bachelor of Commerce</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考参考85%；IB 38；IELTS 7.0／各6.0</dd><dt>学费</dt><dd>2027首年估算：A$59,100（1 EFTSL）</dd><dt>毕业</dt><dd>已列职业与培养方向；项目就业率和起薪待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/sydney/sydney-commerce/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="monash-commerce">
 <div class="program-meta"><span>澳大利亚 · 墨尔本（Clayton校区）</span><span>商科</span></div>
@@ -379,5 +499,5 @@ hide:
 </article></div></section></div>
 </div>
 
-<div class="catalog-footnote"><strong>收录范围与数据口径</strong><p>QS 2027 榜单名次不大于 100 的共有 102 所；剔除中国大陆 6 所后收录 96 所，保留中国香港和中国台湾。大学排名与专业排名不同；入榜不表示面向所有申请者开放本科招生。专业资料目前覆盖 6 所大学、24 个本科项目，其余标注待收录。入学年度、费用年度和申请截止日期分别标注；已结束批次供参考。核验：2026-09-12。</p><a class="" href="/study-abroad-handbook/about/catalog-data/">排名来源与数据说明</a> · <a class="" href="/study-abroad-handbook/tools/budget/">计算全程预算</a> · <a class="" href="/study-abroad-handbook/start/undergraduate/">申请准备指南</a></div>
+<div class="catalog-footnote"><strong>收录范围与数据口径</strong><p>QS 2027 榜单名次不大于 100 的共有 102 所；剔除中国大陆 6 所后收录 96 所，保留中国香港和中国台湾。大学排名与专业排名不同；入榜不表示面向所有申请者开放本科招生。专业资料目前覆盖 12 所大学、36 个本科项目，其余标注待收录。入学年度、费用年度和申请截止日期分别标注；已结束批次供参考。核验：2026-09-12。</p><a class="" href="/study-abroad-handbook/about/catalog-data/">排名来源与数据说明</a> · <a class="" href="/study-abroad-handbook/tools/budget/">计算全程预算</a> · <a class="" href="/study-abroad-handbook/start/undergraduate/">申请准备指南</a></div>
 </div>

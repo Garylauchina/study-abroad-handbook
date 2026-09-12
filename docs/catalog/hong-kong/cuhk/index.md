@@ -23,13 +23,28 @@ hide:
 
 ## 专业与申请资料
 
-目前已收录学校身份、所在地、QS 2027 排名及官网入口，**专业详情待收录**。可先从大学官网查找本科课程与国际生招生入口。
+已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
-| 资料 | 当前状态 |
-| --- | --- |
-| 本科专业与学制 | 待按具体课程核验 |
-| 中国大陆学生入学条件 | 待核验；需区分高考、国际课程与其他资格 |
-| 国际生学费 | 待取得具体专业、入学年度和币种 |
-| 毕业生情况 | 待取得课程或学科的调查范围与年份 |
+<div class="program-grid">
+<article class="program-card" data-program-id="cuhk-computer-science-bsc">
+<div class="program-meta"><span>中国香港 · Hong Kong</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">香港中文大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>18</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computer-science-bsc/">计算机科学理学士（CSE首年后分流）</a></h3>
+<p class="program-english">Bachelor of Science in Computer Science</p>
+<p class="program-cohort">2026 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2026：高考工科类，英语≥120/150；首年CSE后按规定分流CS</dd><dt>学费</dt><dd>2026/27非本地首年：HK$214,000</dd><dt>毕业</dt><dd>已核实职业方向；本专业就业率、薪酬及升学率的可靠统计待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-computer-science-bsc/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="cuhk-economics-bssc">
+<div class="program-meta"><span>中国香港 · Hong Kong</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/">香港中文大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>18</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-economics-bssc/">经济学社会科学学士</a></h3>
+<p class="program-english">Bachelor of Social Science in Economics</p>
+<p class="program-cohort">2026 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2026：高考人文类，英语≥120/150；国际资格另行申请</dd><dt>学费</dt><dd>2026/27非本地首年：HK$214,000</dd><dt>毕业</dt><dd>已核实职业方向；本专业就业率、薪酬及升学率的可靠统计待补</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/hong-kong/cuhk/cuhk-economics-bssc/">查看条件、费用与去向 →</a>
+</article></div>
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

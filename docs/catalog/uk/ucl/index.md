@@ -23,13 +23,28 @@ hide:
 
 ## 专业与申请资料
 
-目前已收录学校身份、所在地、QS 2027 排名及官网入口，**专业详情待收录**。可先从大学官网查找本科课程与国际生招生入口。
+已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
-| 资料 | 当前状态 |
-| --- | --- |
-| 本科专业与学制 | 待按具体课程核验 |
-| 中国大陆学生入学条件 | 待核验；需区分高考、国际课程与其他资格 |
-| 国际生学费 | 待取得具体专业、入学年度和币种 |
-| 毕业生情况 | 待取得课程或学科的调查范围与年份 |
+<div class="program-grid">
+<article class="program-card" data-program-id="ucl-computer-science-bsc">
+<div class="program-meta"><span>英国 · London</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/ucl/">伦敦大学学院</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=8</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-computer-science-bsc/">计算机科学</a></h3>
+<p class="program-english">Computer Science BSc</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>A-level A*A*A，数学或进阶数学A*；2027须TARA；中国学历另评</dd><dt>学费</dt><dd>2027/28 £48,600／年</dd><dt>毕业</dt><dd>课程页报告平均薪资£54,255（毕业15个月；2017–2023汇总）</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/ucl/ucl-computer-science-bsc/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="ucl-economics-bsc-econ">
+<div class="program-meta"><span>英国 · London</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/ucl/">伦敦大学学院</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=8</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/ucl/ucl-economics-bsc-econ/">经济学</a></h3>
+<p class="program-english">Economics BSc (Econ)</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>A-level A*AA，数学A*；IB39；须TMUA，不接受重考</dd><dt>学费</dt><dd>2027/28 £40,800／年</dd><dt>毕业</dt><dd>官方列2022/23毕业去向；本轮未取得课程就业比例</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/ucl/ucl-economics-bsc-econ/">查看条件、费用与去向 →</a>
+</article></div>
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

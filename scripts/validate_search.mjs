@@ -61,6 +61,12 @@ for (const [query, route] of [
   ['UNSW Economics', 'catalog/australia/unsw/unsw-economics/'],
   ['NUS Electrical', 'catalog/singapore/nus/nus-electrical-engineering/'],
   ['NTU Economics', 'catalog/singapore/ntu/ntu-economics/'],
+  ['Imperial Computing', 'catalog/uk/imperial/imperial-computing-beng/'],
+  ['UCL Economics', 'catalog/uk/ucl/ucl-economics-bsc-econ/'],
+  ['HKU Computer', 'catalog/hong-kong/hku/hku-computer-science-beng/'],
+  ['CUHK Economics', 'catalog/hong-kong/cuhk/cuhk-economics-bssc/'],
+  ['Melbourne Economics', 'catalog/australia/melbourne/melbourne-economics/'],
+  ['Sydney Computing', 'catalog/australia/sydney/sydney-advanced-computing/'],
 ]) {
   const response = await request({ type: 2, data: query, options: { suggest: true } }, 3);
   const locations = response.data.items.flat().map(item => item.location);

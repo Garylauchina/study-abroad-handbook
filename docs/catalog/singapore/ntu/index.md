@@ -53,7 +53,7 @@ hide:
 <h3><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-electrical-electronic-engineering/">电气与电子工程（荣誉）</a></h3>
 <p class="program-english">Bachelor of Engineering in Electrical and Electronic Engineering</p>
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
-<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；高中数学、理科与英语另审</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>本轮未核实可发布的专业就业率及薪资；见统计缺口说明</dd></dl>
+<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；高中数学、理科与英语另审</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>2024届参考：全职长期就业76.1%；税前月薪中位 S$4,800；2025届待核</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-electrical-electronic-engineering/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="ntu-economics">
@@ -63,7 +63,7 @@ hide:
 <h3><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics/">经济学（荣誉）</a></h3>
 <p class="program-english">Bachelor of Social Sciences (Honours) in Economics</p>
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
-<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；数学与高中英语良好，择优面试</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>本轮未核实可发布的专业就业率及薪资；见统计缺口说明</dd></dl>
+<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；数学与高中英语良好，择优面试</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>2024届参考：全职长期就业79.4%；税前月薪中位 S$4,325；2025届待核</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics/">查看条件、费用与去向 →</a>
 </article></div>
 
