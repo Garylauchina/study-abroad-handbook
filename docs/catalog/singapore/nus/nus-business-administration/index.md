@@ -16,7 +16,9 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>2026/27：无补助 S$33,400／年；有条件补助 S$22,200／年</strong></div></div>
 
-<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#fees">学费与费用</a><a href="#outcomes">毕业生情况</a></nav>
+<p class="program-location"><strong>校区：</strong>肯特岗校区（Kent Ridge） · <strong>授课语言：</strong>英语</p>
+
+<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 ## 专业说明 {#overview}
 
@@ -29,6 +31,11 @@ hide:
 
 <p class="catalog-fact">本条为 BBA 整体项目目录，九个主修并非九份同等就业统计。选择具体主修时须继续核对该主修课程，不能直接套用旧 BBA 统计。</p>
 <p class="fact-sources"><a href="#source-nus-business-administration-curriculum">依据 1</a> · <a href="#source-nus-business-administration-ges">依据 8</a></p>
+
+### 校区与授课语言
+
+<p class="catalog-fact">学院位于肯特岗校区；NUS 官方英语要求文件明确以英语教学。</p>
+<p class="fact-sources"><a href="#source-nus-business-administration-campus">依据 9</a> · <a href="#source-nus-business-administration-english">依据 5</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -52,7 +59,24 @@ hide:
 <p class="catalog-fact">国际资格要求 Year 12 或更高水平数学及格；此为学科先修条件，不是保证录取的高考分数线。</p>
 <p class="fact-sources"><a href="#source-nus-business-administration-prerequisites">依据 4</a></p>
 
-## 学费与费用 {#fees}
+## 申请安排 {#applications}
+
+### 2026/27 申请（已结束）
+
+<p class="catalog-fact">通过 NUS 本科在线申请入口按毕业资格填表。2026/27 国际资格窗口为 2025-12-03 至 2026-02-23，已结束；IB 为 2025-12-17 至 2026-02-23。</p>
+<p class="fact-sources"><a href="#source-nus-business-administration-applications-2026">依据 11</a> · <a href="#source-nus-business-administration-gaokao">依据 3</a></p>
+
+### 下一轮 2027/28（尚未开始）
+
+<p class="catalog-fact">已公布国际资格（除 IB）及 IB 窗口：2026-12-16 至 2027-02-17，当前尚未开放。2027 高考实际成绩须放榜后三日内经 Applicant Portal 补交。此处是下一轮日期；本页学费仍为 2026/27。</p>
+<p class="fact-sources"><a href="#source-nus-business-administration-application-dates">依据 10</a></p>
+
+### 资格类别
+
+<p class="catalog-fact">大陆高考走面向外国申请者的国际资格／Gaokao 类别；IB 单列，英国体系 A-Level 应选对应国际资格。勿套用 Singapore-Cambridge A-Level 的申请日历或科目分数。</p>
+<p class="fact-sources"><a href="#source-nus-business-administration-gaokao">依据 3</a> · <a href="#source-nus-business-administration-application-dates">依据 10</a></p>
+
+## 学费与资助 {#fees}
 
 ### 大陆学生适用费率
 
@@ -63,6 +87,11 @@ hide:
 
 <p class="catalog-fact">国际生须获授、接受 政府学费补助（TG） 并按期申请签署；受助者毕业后须为新加坡实体工作三年。不接受或未完成手续者支付无补助学费。</p>
 <p class="fact-sources"><a href="#source-nus-business-administration-grant">依据 7</a></p>
+
+### 奖学金入口与条件
+
+<p class="catalog-fact">NUS International Undergraduate Scholarship 面向非新加坡公民，随入学申请择优考虑成绩、领导力和课外表现；覆盖 TG 后学费，须接受 TG 三年义务，续领须 GPA 至少 3.5。</p>
+<p class="fact-sources"><a href="#source-nus-business-administration-scholarship">依据 12</a></p>
 
 ## 毕业生情况 {#outcomes}
 
@@ -93,5 +122,9 @@ hide:
 <div class="catalog-source" id="source-nus-business-administration-fees"><span class="source-number">06</span><div><a href="https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf">NUS：Undergraduate Tuition Fees Per Annum AY2026/2027 ↗</a><p>PDF 第 2 页 A 表：2026/27 新生，Computing 与 Business；非 ASEAN 其他国际生、有无 MOE Tuition Grant、含 GST；第 14 页收费注释。</p><small>www.nus.edu.sg · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-nus-business-administration-grant"><span class="source-number">07</span><div><a href="https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees">NUS Registrar：Undergraduate Fees / Tuition Grant ↗</a><p>Tuition Grant 栏：国际生须申请、接受及完成签署；受助者毕业后服务三年；无补助者付非补助学费。</p><small>www.nus.edu.sg · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-nus-business-administration-ges"><span class="source-number">08</span><div><a href="https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf">MOE：NUS Graduate Employment Survey 2025 原始报告 ↗</a><p>PDF 第 1 页对应专业行；第 2 页脚注 1–6：2025-11-01 观察时点、劳动力分母、就业及薪资口径。</p><small>www.moe.gov.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-nus-business-administration-campus"><span class="source-number">09</span><div><a href="https://www.nus.edu.sg/oam/nus-experience/virtual-tour">NUS：Virtual Tour — Kent Ridge Campus ↗</a><p>Kent Ridge校园图与Business、CDE、Computing、FASS分区。</p><small>www.nus.edu.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-nus-business-administration-application-dates"><span class="source-number">10</span><div><a href="https://www.nus.edu.sg/oam/admissions/important-dates">NUS：Important Dates — AY2027/28 ↗</a><p>2027/28国际资格（除IB）及IB申请期均2026-12-16至2027-02-17；当前Closed；2027高考放榜后三日补交。</p><small>www.nus.edu.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-nus-business-administration-applications-2026"><span class="source-number">11</span><div><a href="https://www.comp.nus.edu.sg/admissions/faq/">NUS Computing Open House 2026：Admissions FAQ ↗</a><p>2026/27全校申请日历：国际资格2025-12-03至2026-02-23；IB2025-12-17至2026-02-23。</p><small>www.comp.nus.edu.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-nus-business-administration-scholarship"><span class="source-number">12</span><div><a href="https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship">NUS：International Undergraduate Scholarship ↗</a><p>非新加坡公民新生；成绩、领导力、课外表现择优；由入学申请考虑；覆盖TG后学费、须接受TG及其三年义务；续领GPA3.5。</p><small>www.nus.edu.sg · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/nus/">← 返回新加坡国立大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

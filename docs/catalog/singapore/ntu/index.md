@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
+已收录 4 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
 <div class="program-grid">
 <article class="program-card" data-program-id="ntu-business">
@@ -45,6 +45,26 @@ hide:
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>高考申请最低80%；数学／物理先修与英语另审</dd><dt>学费</dt><dd>2026：无补助费用待核；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>2025届：全职长期就业79.7%；税前月薪中位 S$5,500（全职长期受访者）</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-science/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="ntu-electrical-electronic-engineering">
+<div class="program-meta"><span>新加坡 · 新加坡</span><span>工程</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">南洋理工大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>12</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-electrical-electronic-engineering/">电气与电子工程（荣誉）</a></h3>
+<p class="program-english">Bachelor of Engineering in Electrical and Electronic Engineering</p>
+<p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；高中数学、理科与英语另审</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>本轮未核实可发布的专业就业率及薪资；见统计缺口说明</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-electrical-electronic-engineering/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="ntu-economics">
+<div class="program-meta"><span>新加坡 · 新加坡</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">南洋理工大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>12</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics/">经济学（荣誉）</a></h3>
+<p class="program-english">Bachelor of Social Sciences (Honours) in Economics</p>
+<p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考最低申请门槛 80%；数学与高中英语良好，择优面试</dd><dt>学费</dt><dd>2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实</dd><dt>毕业</dt><dd>本轮未核实可发布的专业就业率及薪资；见统计缺口说明</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-economics/">查看条件、费用与去向 →</a>
 </article></div>
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

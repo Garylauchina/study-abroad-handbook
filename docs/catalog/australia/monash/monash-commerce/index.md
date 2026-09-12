@@ -14,21 +14,33 @@ hide:
 
 <p class="program-title-en">Bachelor of Commerce</p>
 
-<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>2026参考：A$55,900／年；2027费用待核</strong></div></div>
+<div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>2027：A$59,140／年（48学分）</strong></div></div>
 
-<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#fees">学费与费用</a><a href="#outcomes">毕业生情况</a></nav>
+<p class="program-location"><strong>校区：</strong>Clayton（澳大利亚） · <strong>授课语言：</strong>英语</p>
+
+<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 ## 专业说明 {#overview}
 
 ### 项目与校区
 
-<p class="catalog-fact">B2001；CRICOS 013382G。澳大利亚Clayton校区，通常全日制3年，2月或7月入学。</p>
-<p class="fact-sources"><a href="#source-monash-commerce-guide">依据 3</a></p>
+<p class="catalog-fact">B2001；CRICOS 013382G。澳大利亚Clayton校区，全日制3年；国际课程页列2月、7月及11月入学，11月不提供精算研究（Actuarial Studies）方向。</p>
+<p class="fact-sources"><a href="#source-monash-commerce-guide">依据 3</a> · <a href="#source-monash-commerce-course-international">依据 9</a></p>
 
 ### 学习内容
 
 <p class="catalog-fact">先建立商科与数量分析基础，再选择会计、经济、金融、商业分析或市场科学等主修方向。</p>
 <p class="fact-sources"><a href="#source-monash-commerce-course">依据 1</a> · <a href="#source-monash-commerce-guide">依据 3</a></p>
+
+### 校区
+
+<p class="catalog-fact">Clayton（澳大利亚）；本条仅对应此校区。</p>
+<p class="fact-sources"><a href="#source-monash-commerce-course">依据 1</a></p>
+
+### 授课语言
+
+<p class="catalog-fact">英语；大学英语要求页明确英语是教学语言。</p>
+<p class="fact-sources"><a href="#source-monash-commerce-language">依据 5</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -47,17 +59,39 @@ hide:
 <p class="catalog-fact">Level A：IELTS Academic总分6.5，听、说、读、写各6.0；其他认可考试按对应表核对。</p>
 <p class="fact-sources"><a href="#source-monash-commerce-gaokao">依据 2</a></p>
 
-## 学费与费用 {#fees}
+## 申请安排 {#applications}
 
-### 已取得的2026参考学费
+### 国际生申请渠道
 
-<p class="catalog-fact">A$55,900／48学分，约为标准一学年全日制课程量。虽然来源封面写2027，费用脚注明确是2026报价；此处不能当作2027确认学费。</p>
-<p class="fact-sources"><a href="#source-monash-commerce-guide">依据 3</a></p>
+<p class="catalog-fact">以中国高考等海外资格申请，可经大学国际本科申请页直接申请。当前就读澳洲Year 12、澳洲或新西兰IB、或新西兰NCEA者按该页走VTAC；不要混用VTAC国内生规则。</p>
+<p class="fact-sources"><a href="#source-monash-commerce-applications">依据 6</a></p>
 
-### 2027费用缺口
+### 2027开学批次
 
-<p class="catalog-fact">本次未取得B2001的2027国际生确认费用；国际生版课程页面获取失败，默认国内学生页面中的CSP或国内全费金额不适用于本条目。</p>
-<p class="fact-sources"><a href="#source-monash-commerce-guide">依据 3</a> · <a href="#source-monash-commerce-course">依据 1</a></p>
+<p class="catalog-fact">国际课程页列2月、7月及11月入学；11月不提供精算研究（Actuarial Studies）方向。大学2027日历：第1学期迎新2月18–26日、教学3月1日开始；第2学期迎新7月19–23日、教学7月26日开始。11月选项的具体2027教学日期本轮尚未核实。</p>
+<p class="fact-sources"><a href="#source-monash-commerce-calendar2027">依据 7</a> · <a href="#source-monash-commerce-course-international">依据 9</a></p>
+
+### 截止日期与周期状态
+
+<p class="catalog-fact">截至2026-09-12，2027教学尚未开始。国际直申说明为全年可提交，本轮未取得该课程2027统一最终申请截止日或实时剩余名额；实际是否受理及offer到期日应看申请系统/录取信。须按毕业和最终成绩取得时间选择批次。</p>
+<p class="fact-sources"><a href="#source-monash-commerce-applications">依据 6</a> · <a href="#source-monash-commerce-calendar2027">依据 7</a></p>
+
+## 学费与资助 {#fees}
+
+### 2027国际生学费
+
+<p class="catalog-fact">官网国际生面板列2027 International fee为A$59,140／48学分，代表标准一年全日制负荷。</p>
+<p class="fact-sources"><a href="#source-monash-commerce-course-international">依据 9</a></p>
+
+### 费用年份与预算
+
+<p class="catalog-fact">国际生指南的A$55,900是脚注标明的2026旧报价；2027应采用国际课程页A$59,140。年度费用可调整，不能将首年金额当作固定全程报价；默认国内生视图的费用不适用于国际生。</p>
+<p class="fact-sources"><a href="#source-monash-commerce-course-international">依据 9</a> · <a href="#source-monash-commerce-guide">依据 3</a> · <a href="#source-monash-commerce-course">依据 1</a></p>
+
+### 国际生奖学金
+
+<p class="catalog-fact">Monash International Merit Scholarship面向获得无条件本科offer、拟在澳大利亚校区全日制入学的国际新生，按学业表现自动评估，无须单独申请；2026起获奖标准为A$15,000/48学分/年。每年20名，维持每学期70%以上等条件；澳洲Year 12、路径课程及特定转学生等不适用。须见完整资格，不从学费中预先扣除。</p>
+<p class="fact-sources"><a href="#source-monash-commerce-scholarship">依据 8</a></p>
 
 ## 毕业生情况 {#outcomes}
 
@@ -79,5 +113,10 @@ hide:
 <div class="catalog-source" id="source-monash-commerce-gaokao"><span class="source-number">02</span><div><a href="https://www.monash.edu/__data/assets/pdf_file/0019/3016081/Monash-Gaokao-Flyer-English.pdf">Monash 2027 高考申请资格表（第2/4/8/9页） ↗</a><p>2027高考总分、数学科目说明、英语Level A及总分折算。</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-monash-commerce-guide"><span class="source-number">03</span><div><a href="https://www.monash.edu/__data/assets/pdf_file/0005/3941744/undergraduate-international-course-guide.pdf">Monash 2027国际本科指南，第20—21印刷页 ↗</a><p>B2001校区、学制、方向；A$55,900及脚注注明其为2026费用。</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-monash-commerce-math"><span class="source-number">04</span><div><a href="https://www.monash.edu/study/courses/prerequisite-subjects-and-assumed-knowledge">Monash：Prerequisite subjects and assumed knowledge ↗</a><p>其他认可资格须完成相关数学/理科并达到要求成绩；后续在线Skills Analysis是建议活动。</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-monash-commerce-language"><span class="source-number">05</span><div><a href="https://www.monash.edu/admissions/entry-requirements/english-language">Monash English language requirements：授课语言 ↗</a><p>大学明确英语为授课语言</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-monash-commerce-applications"><span class="source-number">06</span><div><a href="https://www.monash.edu/admissions/apply/international-ug">Monash international undergraduate applications ↗</a><p>大陆高考申请可直申；特定澳洲/IB/NCEA资格走VTAC；国际直申全年受理原则</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-monash-commerce-calendar2027"><span class="source-number">07</span><div><a href="https://www.monash.edu/students/admin/dates/summary-dates">Monash semester dates 2026–2028 ↗</a><p>2027第1、2学期迎新和教学开始日期；不是招生截止日期</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-monash-commerce-scholarship"><span class="source-number">08</span><div><a href="https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770">Monash International Merit Scholarship ↗</a><p>国际新生资格、无条件offer、自动评估、A$15,000/年、择优及保持条件</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-monash-commerce-course-international"><span class="source-number">09</span><div><a href="https://www.monash.edu/study/courses/find-a-course/commerce-b2001?international=true">Monash Commerce B2001：国际生课程、申请与费用 ↗</a><p>官网国际视图：2027 International fee A$59,140/48学分；Clayton全日制3年；2月、7月、11月批次，11月不提供Actuarial Studies</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/monash/">← 返回蒙纳士大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

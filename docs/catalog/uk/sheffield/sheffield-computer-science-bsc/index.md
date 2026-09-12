@@ -16,7 +16,9 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>2027 专业金额本次未取得</strong></div></div>
 
-<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#fees">学费与费用</a><a href="#outcomes">毕业生情况</a></nav>
+<p class="program-location"><strong>校区：</strong>谢菲尔德校本部 · <strong>授课语言：</strong>英语</p>
+
+<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 ## 专业说明 {#overview}
 
@@ -29,6 +31,16 @@ hide:
 
 <p class="catalog-fact">兼顾计算机理论与软件实践，涉及网络安全、深度学习、语音识别、密码学和机器人。</p>
 <p class="fact-sources"><a href="#source-UK-SHE-CS-COURSE">依据 1</a></p>
+
+### 校区
+
+<p class="catalog-fact">谢菲尔德校本部。课程页说明课堂通常在大学校园，主要实践教学在The Diamond。</p>
+<p class="fact-sources"><a href="#source-UK-SHE-CS-COURSE">依据 1</a></p>
+
+### 授课语言
+
+<p class="catalog-fact">英语。合作大学UOW的官方Sheffield交换资料明确列示英语授课；本课程英语入学标准另见下方。该语言来源为院校层面资料，非2027单专业规章。</p>
+<p class="fact-sources"><a href="#source-UK-SHE-LANGUAGE-PARTNER">依据 10</a> · <a href="#source-UK-SHE-CS-COURSE">依据 1</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -47,7 +59,24 @@ hide:
 <p class="catalog-fact">IELTS 总分 6.5，各单项不低于 6.0；学校也接受列明的其他等效英语资格。</p>
 <p class="fact-sources"><a href="#source-UK-SHE-CS-COURSE">依据 1</a></p>
 
-## 学费与费用 {#fees}
+## 申请安排 {#applications}
+
+### 申请渠道
+
+<p class="catalog-fact">通过UCAS申请；课程代码为G402。</p>
+<p class="fact-sources"><a href="#source-UK-SHE-CS-COURSE">依据 1</a></p>
+
+### 2027 平等考虑截止
+
+<p class="catalog-fact">一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。</p>
+<p class="fact-sources"><a href="#source-UK-UCAS-DEADLINE-2027">依据 8</a> · <a href="#source-UK-SHE-CS-COURSE">依据 1</a></p>
+
+### 当前周期状态
+
+<p class="catalog-fact">按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。</p>
+<p class="fact-sources"><a href="#source-UK-UCAS-2027">依据 7</a></p>
+
+## 学费与资助 {#fees}
 
 ### 2027 国际生专业学费
 
@@ -63,6 +92,16 @@ hide:
 
 <p class="catalog-fact">校方说明：保持同一课程时，之后各年的学费与第一年相同；转专业、实习年及海外学习年另有规则。</p>
 <p class="fact-sources"><a href="#source-UK-SHE-FEES">依据 3</a></p>
+
+### 2027 国际本科奖学金
+
+<p class="catalog-fact">符合条件可自动获每年£2,500学费减免，无需另申。须2027年9月入学、按overseas收费且自费，并在2027年6月2日英国16:00前将Sheffield设为firm或insurance；本课程不属于医学／牙医学排除项。</p>
+<p class="fact-sources"><a href="#source-UK-SHE-SCHOLARSHIP-2027">依据 9</a></p>
+
+### 奖学金续领与叠加
+
+<p class="catalog-fact">之后年度须前一年均分至少60%并取得120学分；实习年和海外学习年不适用。除非明确允许，不得与大学其他奖学金或折扣叠加；也不得同时获得外部机构全额或部分资助，须全部偿还的贷款除外。贷款机构若另享大学折扣，只取较高优惠，不可叠加。</p>
+<p class="fact-sources"><a href="#source-UK-SHE-SCHOLARSHIP-2027">依据 9</a></p>
 
 ## 毕业生情况 {#outcomes}
 
@@ -85,11 +124,15 @@ hide:
 
 资料核验：**2026-09-12**。课程招生年份与毕业调查年份分别记录；历史毕业结果不表示未来个人结果。
 
-<div class="catalog-source" id="source-UK-SHE-CS-COURSE"><span class="source-number">01</span><div><a href="https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-bsc">Computer Science BSc — 2027/28 ↗</a><p>G402 三年全日制课程、课程方向、A-level 与英语要求</p><small>sheffield.ac.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-SHE-CS-COURSE"><span class="source-number">01</span><div><a href="https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-bsc">Computer Science BSc — 2027/28 ↗</a><p>G402 三年全日制课程、课程方向、A-level 与英语要求；课程所在教学设施、UCAS申请渠道和课程代码</p><small>sheffield.ac.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-SHE-CHINA"><span class="source-number">02</span><div><a href="https://sheffield.ac.uk/international/entry-requirements/china">Sheffield 中国学历入学要求 ↗</a><p>校级高考直入、单科要求及普高毕业证预科路径；页面未标入学年度</p><small>sheffield.ac.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-SHE-FEES"><span class="source-number">03</span><div><a href="https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas">Sheffield 国际生本科收费规则 ↗</a><p>2027/28 校级收费范围及同课程固定学费规则；不是专业准确报价</p><small>sheffield.ac.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-SHE-LOOKUP"><span class="source-number">04</span><div><a href="https://tools.sheffield.ac.uk/fees/ug/">Sheffield 本科学费查询工具 ↗</a><p>专业收费查询入口；本次公开表格的数据请求返回空结果，未取得项目金额</p><small>tools.sheffield.ac.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-SHE-CS-OUTCOMES"><span class="source-number">05</span><div><a href="https://www.discoveruni.gov.uk/course-details/10007157/G402/Full-time/">Discover Uni — Sheffield Computer Science G402 ↗</a><p>本课程 2022/23 就业或升学调查；另列计算机学科合并薪资、毕业年份及样本</p><small>www.discoveruni.gov.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-DU-METHODS"><span class="source-number">06</span><div><a href="https://www.discoveruni.gov.uk/about-our-data/">Discover Uni 数据口径 ↗</a><p>毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果</p><small>www.discoveruni.gov.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-UCAS-2027"><span class="source-number">07</span><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2027 本科申请日期 ↗</a><p>2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导</p><small>www.ucas.com · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-UCAS-DEADLINE-2027"><span class="source-number">08</span><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS 2027 一般本科平等考虑截止 ↗</a><p>2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位</p><small>www.ucas.com · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-SHE-SCHOLARSHIP-2027"><span class="source-number">09</span><div><a href="https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027">Sheffield International Undergraduate Scholarship 2027 ↗</a><p>2027每年£2,500学费减免；firm或insurance时限、自费国际生、进度及不可叠加条件</p><small>sheffield.ac.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-SHE-LANGUAGE-PARTNER"><span class="source-number">10</span><div><a href="https://www.uow.edu.au/student/study-overseas/explore-and-apply/exchange/unitedkingdom/university-of-sheffield/">UOW 官方 Sheffield 交换院校资料 ↗</a><p>合作大学官方资料明确Sheffield授课语言English；这是院校层面交换资料，非2027单专业语言规章</p><small>www.uow.edu.au · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/sheffield/">← 返回谢菲尔德大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

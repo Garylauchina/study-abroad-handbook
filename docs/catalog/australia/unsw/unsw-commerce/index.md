@@ -16,7 +16,9 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2026</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>2026首年指示学费：A$56,500</strong></div></div>
 
-<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#fees">学费与费用</a><a href="#outcomes">毕业生情况</a></nav>
+<p class="program-location"><strong>校区：</strong>Kensington（悉尼） · <strong>授课语言：</strong>英语</p>
+
+<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 ## 专业说明 {#overview}
 
@@ -34,6 +36,16 @@ hide:
 
 <p class="catalog-fact">三年课程包含综合商科第一年、至少一个主修和选修。主修可选金融、会计、商业分析、营销等；须完成计学分的实习、竞赛或项目式实践课程之一。</p>
 <p class="fact-sources"><a href="#source-unsw-commerce-course">依据 1</a></p>
+
+### 校区
+
+<p class="catalog-fact">Kensington（悉尼）；本条仅对应此校区。</p>
+<p class="fact-sources"><a href="#source-unsw-commerce-course">依据 1</a></p>
+
+### 授课语言
+
+<p class="catalog-fact">英语。大学官方交换生资料明确教学语言；该语言来源为2021版，当前课程页也要求具备听课、作业和考试所需英语能力。这里不沿用旧资料的申请日期。</p>
+<p class="fact-sources"><a href="#source-unsw-commerce-language">依据 6</a> · <a href="#source-unsw-commerce-course">依据 1</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -57,7 +69,29 @@ hide:
 <p class="catalog-fact">本条目的高考表和学费为2026资料。课程页面已提示部分2026国际生批次满额，并表示2027申请已开放；不据此宣称本项目2026仍有名额。</p>
 <p class="fact-sources"><a href="#source-unsw-commerce-course">依据 1</a></p>
 
-## 学费与费用 {#fees}
+## 申请安排 {#applications}
+
+### 国际生申请渠道
+
+<p class="catalog-fact">持中国高考等海外资格，使用UNSW Applicant Portal提交材料，也可由大学授权代理协助。澳洲Year 12、IB或新西兰NCEA申请者须另核对UAC渠道与该渠道日程。</p>
+<p class="fact-sources"><a href="#source-unsw-commerce-applications">依据 7</a></p>
+
+### 国籍与录取批次
+
+<p class="catalog-fact">仅持中国大陆国籍不在ISA/IADP适用国籍清单，应核对非ISA国家的本科轮次；不要预设享有ISA学费减免或IADP加分。</p>
+<p class="fact-sources"><a href="#source-unsw-commerce-rounds2027">依据 8</a> · <a href="#source-unsw-commerce-isa-eligibility">依据 10</a></p>
+
+### 2026批次与历史截止缺口
+
+<p class="catalog-fact">标准Term 1/2/3教学分别于2026-02-16、06-01、09-14开始；截至2026-09-12，前两批已开学、Term 3迎新已结束。本轮未取得本课程2026本科最终申请截止及是否仍受理补录的确证；课程页提醒部分2026项目因容量关闭，不能据此判定本课程仍有名额。</p>
+<p class="fact-sources"><a href="#source-unsw-commerce-calendar">依据 9</a> · <a href="#source-unsw-commerce-course">依据 1</a></p>
+
+### 2027申请窗口
+
+<p class="catalog-fact">截至2026-09-12，2027申请开放。非ISA国家本科Term 1 2027下一轮完整申请截止2026-09-24，计划2026-11-19发offer，2026-12-24接受截止。这只是该轮安排，非全部2027批次最终截止；额外轮次视容量。本轮未取得Term 2/3 2027对应本科精确截止。</p>
+<p class="fact-sources"><a href="#source-unsw-commerce-rounds2027">依据 8</a></p>
+
+## 学费与资助 {#fees}
 
 ### 2026国际生首年学费
 
@@ -68,6 +102,16 @@ hide:
 
 <p class="catalog-fact">官方还列全学位指示费用A$180,500；该数包含学费增长假设及每年约A$1,000学习相关成本，不应标为固定总学费，也不包含全部生活支出。</p>
 <p class="fact-sources"><a href="#source-unsw-commerce-course">依据 1</a></p>
+
+### 2026奖学金周期
+
+<p class="catalog-fact">官方Term 3 2026国际生奖学金PUCA1029申请截止为2026-06-18；截至核验日已过。2027奖学金有独立周期，不能用于扣减2026实际费用。</p>
+<p class="fact-sources"><a href="#source-unsw-commerce-scholarship2026">依据 12</a></p>
+
+### 2027 Term 1奖学金入口
+
+<p class="catalog-fact">国际生PUCA1029奖学金申请截止2026-10-30；通常还须在该日之前取得本页定义的合资格录取通知。International Scientia可为最低学制内全额学费或A$20,000/年，须2027 Term 1全日制入学并提交学业、领导力、活动和动机证据。原页允许尚待Year 12或同等最终成绩的申请者，以及UAC国际申请者，先在截止前申请；成功获奖者最终须持无条件录取通知。9月24日申请轮计划11月19日发offer，通常晚于10月30日资格截止，不能预设赶上奖学金。其他2027批次规则本轮未取得。</p>
+<p class="fact-sources"><a href="#source-unsw-commerce-scholarship2027">依据 11</a> · <a href="#source-unsw-commerce-rounds2027">依据 8</a></p>
 
 ## 毕业生情况 {#outcomes}
 
@@ -95,5 +139,12 @@ hide:
 <div class="catalog-source" id="source-unsw-commerce-english"><span class="source-number">03</span><div><a href="https://www.unsw.edu.au/study/how-to-apply/english-language-requirements">UNSW 英语要求：本科 IELTS 对照表 ↗</a><p>工程本科与商科本科的IELTS要求和考试时间要求。</p><small>www.unsw.edu.au · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-unsw-commerce-outcomes"><span class="source-number">04</span><div><a href="https://www.unsw.edu.au/about-us/excellence/rankings-reputation">UNSW 官方毕业生情况：2025 QILT GOS-L ↗</a><p>全校本土本科毕业生、毕业后三年的薪酬中位数。</p><small>www.unsw.edu.au · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-unsw-commerce-qilt"><span class="source-number">05</span><div><a href="https://qilt.edu.au/surveys/graduate-outcomes-survey---longitudinal-(gos-l)">QILT Graduate Outcomes Survey – Longitudinal：指标定义 ↗</a><p>GOS-L三年后调查和全职就业者年薪中位数定义。</p><small>qilt.edu.au · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-unsw-commerce-language"><span class="source-number">06</span><div><a href="https://www.international.unsw.edu.au/sites/default/files/unsw-exchange-fact-sheet_2021.pdf">UNSW Exchange Fact Sheet 2021：授课语言 ↗</a><p>大学官方资料明确教学语言为英语；该来源年份为2021，仅用于语言，不用于日期/费用/申请规则</p><small>www.international.unsw.edu.au · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-unsw-commerce-applications"><span class="source-number">07</span><div><a href="https://www.unsw.edu.au/study/how-to-apply/international">UNSW applying as an international student ↗</a><p>海外高考申请经Applicant Portal或授权代理；澳洲Year12/IB/NCEA需核对UAC渠道</p><small>www.unsw.edu.au · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-unsw-commerce-rounds2027"><span class="source-number">08</span><div><a href="https://www.unsw.edu.au/study/international-students/admissions-info">UNSW International Student Admissions：本科offer轮次 ↗</a><p>非ISA国家本科Term1 2027轮次；2027申请开放与容量条件</p><small>www.unsw.edu.au · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-unsw-commerce-calendar"><span class="source-number">09</span><div><a href="https://www.unsw.edu.au/student/managing-your-studies/key-dates/academic-calendar">UNSW Academic calendars 2026–2027 ↗</a><p>2026/2027标准Term教学开始与迎新日期</p><small>www.unsw.edu.au · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-unsw-commerce-isa-eligibility"><span class="source-number">10</span><div><a href="https://www.scholarships.unsw.edu.au/sites/default/files/2026-07/unsw-international-student-award-international-admissions-diversity-pathway-terms-conditions.pdf">UNSW ISA and IADP terms and conditions ↗</a><p>资格依据国籍；Attachment A未列中国大陆；不能套用20%减费或5分加分</p><small>www.scholarships.unsw.edu.au · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-unsw-commerce-scholarship2027"><span class="source-number">11</span><div><a href="https://www.scholarships.unsw.edu.au/scholarships/id/1988/7272">UNSW Scholarships for International Students Commencing Term 1, 2027 ↗</a><p>PUCA1029申请及通常合资格offer截止2026-10-30；Scientia金额与全日制2027T1要求；待Year12/同等成绩和UAC国际申请者例外；学业/领导力/活动/动机评选</p><small>www.scholarships.unsw.edu.au · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-unsw-commerce-scholarship2026"><span class="source-number">12</span><div><a href="https://www.scholarships.unsw.edu.au/scholarships/id/1957">UNSW Scholarships for International Students Commencing Term 3, 2026 ↗</a><p>2026 Term3国际生奖学金申请截止2026-06-18，已结束</p><small>www.scholarships.unsw.edu.au · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/unsw/">← 返回新南威尔士大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

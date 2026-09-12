@@ -23,9 +23,19 @@ hide:
 
 ## 专业与申请资料
 
-已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
+已收录 4 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
 <div class="program-grid">
+<article class="program-card" data-program-id="manchester-mechanical-engineering-beng">
+<div class="program-meta"><span>英国 · 曼彻斯特</span><span>工程</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/manchester/">曼彻斯特大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=40</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-mechanical-engineering-beng/">机械工程</a></h3>
+<p class="program-english">BEng Mechanical Engineering</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考不直接入学；A-level A*A*A，含数学和物理</dd><dt>学费</dt><dd>2027 未定；2026/27 参考 £35,700／年</dd><dt>毕业</dt><dd>本轮未取得本专业毕业统计；附官方职业方向</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/manchester/manchester-mechanical-engineering-beng/">查看条件、费用与去向 →</a>
+</article>
 <article class="program-card" data-program-id="manchester-computer-science-bsc">
 <div class="program-meta"><span>英国 · 曼彻斯特</span><span>计算机</span></div>
 <p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/manchester/">曼彻斯特大学</a></p>
@@ -35,6 +45,16 @@ hide:
 <p class="program-cohort">2027 入学 · 本科 · 3 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>高考不直接入学；A-level A*AA，数学须 A*</dd><dt>学费</dt><dd>2027 国际生学费尚未确定</dd><dt>毕业</dt><dd>2022/23届：95% 工作或升学 · 本课程 · 毕业后 15 个月</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/uk/manchester/manchester-computer-science-bsc/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="manchester-economics-bsc">
+<div class="program-meta"><span>英国 · 曼彻斯特</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/manchester/">曼彻斯特大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=40</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/manchester/manchester-economics-bsc/">经济学</a></h3>
+<p class="program-english">BSc Economics</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 或 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考不直接入学；A-level AAA，含数学；另有认可预科路径</dd><dt>学费</dt><dd>2027 未定；2026/27 参考 £33,100／年</dd><dt>毕业</dt><dd>本轮未取得本专业毕业统计；附官方职业方向</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/manchester/manchester-economics-bsc/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="manchester-management-bsc">
 <div class="program-meta"><span>英国 · 曼彻斯特</span><span>商科</span></div>

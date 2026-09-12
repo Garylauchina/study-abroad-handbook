@@ -69,7 +69,9 @@ nav:
               - 大学概览: catalog/uk/kcl/index.md
           - 曼彻斯特大学:
               - 大学概览: catalog/uk/manchester/index.md
+              - 机械工程: catalog/uk/manchester/manchester-mechanical-engineering-beng/index.md
               - 计算机科学: catalog/uk/manchester/manchester-computer-science-bsc/index.md
+              - 经济学: catalog/uk/manchester/manchester-economics-bsc/index.md
               - 管理学: catalog/uk/manchester/manchester-management-bsc/index.md
           - 布里斯托大学:
               - 大学概览: catalog/uk/bristol/index.md
@@ -87,6 +89,8 @@ nav:
               - 大学概览: catalog/uk/sheffield/index.md
               - 计算机科学: catalog/uk/sheffield/sheffield-computer-science-bsc/index.md
               - 经济学: catalog/uk/sheffield/sheffield-economics-bsc/index.md
+              - 电气与电子工程: catalog/uk/sheffield/sheffield-electrical-electronic-engineering-beng/index.md
+              - 机械工程: catalog/uk/sheffield/sheffield-mechanical-engineering-beng/index.md
           - 杜伦大学:
               - 大学概览: catalog/uk/durham/index.md
           - 诺丁汉大学:
@@ -96,6 +100,8 @@ nav:
           - 新南威尔士大学:
               - 大学概览: catalog/australia/unsw/index.md
               - 商学学士: catalog/australia/unsw/unsw-commerce/index.md
+              - 经济学学士: catalog/australia/unsw/unsw-economics/index.md
+              - 机械工程荣誉学士: catalog/australia/unsw/unsw-mechanical-engineering/index.md
               - 计算机科学理学学士: catalog/australia/unsw/unsw-computer-science/index.md
           - 墨尔本大学:
               - 大学概览: catalog/australia/melbourne/index.md
@@ -107,6 +113,8 @@ nav:
               - 大学概览: catalog/australia/monash/index.md
               - 商学学士: catalog/australia/monash/monash-commerce/index.md
               - 计算机科学学士: catalog/australia/monash/monash-computer-science/index.md
+              - 经济学学士: catalog/australia/monash/monash-economics/index.md
+              - 工程荣誉学士（机械工程方向）: catalog/australia/monash/monash-mechanical-engineering/index.md
           - 昆士兰大学:
               - 大学概览: catalog/australia/queensland/index.md
           - 西澳大学:
@@ -121,10 +129,14 @@ nav:
               - 大学概览: catalog/singapore/nus/index.md
               - 工商管理（荣誉）: catalog/singapore/nus/nus-business-administration/index.md
               - 计算机科学（荣誉）: catalog/singapore/nus/nus-computer-science/index.md
+              - 电气工程（荣誉）: catalog/singapore/nus/nus-electrical-engineering/index.md
+              - 经济学（荣誉；CHS 共同入口）: catalog/singapore/nus/nus-economics/index.md
           - 南洋理工大学:
               - 大学概览: catalog/singapore/ntu/index.md
               - 商学（荣誉，单主修）: catalog/singapore/ntu/ntu-business/index.md
               - 计算机科学（荣誉）: catalog/singapore/ntu/ntu-computer-science/index.md
+              - 电气与电子工程（荣誉）: catalog/singapore/ntu/ntu-electrical-electronic-engineering/index.md
+              - 经济学（荣誉）: catalog/singapore/ntu/ntu-economics/index.md
       - 美国:
           - 大学列表: catalog/usa/index.md
           - 麻省理工学院:

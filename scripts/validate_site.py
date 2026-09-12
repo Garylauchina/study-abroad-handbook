@@ -103,10 +103,10 @@ for program in catalog['programs']:
     if route not in locations:
         errors.append(f"Full-text search misses catalog program {route}")
     body = " ".join("".join(pages[path].text).split())
-    for field in ('name_en', 'intake', 'duration', 'tuition_summary'):
+    for field in ('name_en', 'intake', 'duration', 'campus', 'language', 'tuition_summary'):
         if " ".join(program[field].split()) not in body:
             errors.append(f"Catalog rendered value lost in {route}: {field}")
-    for section in ('overview', 'admissions', 'fees', 'outcomes', 'sources'):
+    for section in ('overview', 'admissions', 'applications', 'fees', 'outcomes', 'sources'):
         if section not in pages[path].ids:
             errors.append(f"Catalog section missing in {route}: {section}")
 if errors:

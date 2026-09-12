@@ -16,7 +16,9 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>2027：A$58,940／年（48学分）</strong></div></div>
 
-<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#fees">学费与费用</a><a href="#outcomes">毕业生情况</a></nav>
+<p class="program-location"><strong>校区：</strong>Clayton（澳大利亚） · <strong>授课语言：</strong>英语</p>
+
+<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 ## 专业说明 {#overview}
 
@@ -29,6 +31,16 @@ hide:
 
 <p class="catalog-fact">计算理论与数学基础，包含算法与软件、人工智能、网络安全、数据科学方向；课程提供与行业相关的实践和项目机会。</p>
 <p class="fact-sources"><a href="#source-monash-computer-science-course">依据 1</a></p>
+
+### 校区
+
+<p class="catalog-fact">Clayton（澳大利亚）；本条仅对应此校区。</p>
+<p class="fact-sources"><a href="#source-monash-computer-science-course">依据 1</a></p>
+
+### 授课语言
+
+<p class="catalog-fact">英语；大学英语要求页明确英语是教学语言。</p>
+<p class="fact-sources"><a href="#source-monash-computer-science-language">依据 4</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -47,7 +59,24 @@ hide:
 <p class="catalog-fact">Level A：IELTS Academic总分6.5，听、说、读、写各6.0；其他认可考试按对应表核对。</p>
 <p class="fact-sources"><a href="#source-monash-computer-science-gaokao">依据 2</a></p>
 
-## 学费与费用 {#fees}
+## 申请安排 {#applications}
+
+### 国际生申请渠道
+
+<p class="catalog-fact">以中国高考等海外资格申请，可经大学国际本科申请页直接申请。当前就读澳洲Year 12、澳洲或新西兰IB、或新西兰NCEA者按该页走VTAC；不要混用VTAC国内生规则。</p>
+<p class="fact-sources"><a href="#source-monash-computer-science-applications">依据 5</a></p>
+
+### 2027开学批次
+
+<p class="catalog-fact">课程列2月、7月入学批次。大学2027日历：第1学期迎新2月18–26日、教学3月1日开始；第2学期迎新7月19–23日、教学7月26日开始。批次月份与教学起始日含义不同。</p>
+<p class="fact-sources"><a href="#source-monash-computer-science-calendar2027">依据 6</a> · <a href="#source-monash-computer-science-course">依据 1</a></p>
+
+### 截止日期与周期状态
+
+<p class="catalog-fact">截至2026-09-12，2027教学尚未开始。国际直申说明为全年可提交，本轮未取得该课程2027统一最终申请截止日或实时剩余名额；实际是否受理及offer到期日应看申请系统/录取信。须按毕业和最终成绩取得时间选择批次。</p>
+<p class="fact-sources"><a href="#source-monash-computer-science-applications">依据 5</a> · <a href="#source-monash-computer-science-calendar2027">依据 6</a></p>
+
+## 学费与资助 {#fees}
 
 ### 2027国际学费
 
@@ -58,6 +87,11 @@ hide:
 
 <p class="catalog-fact">课程页提示部分学生另需缴Student Services and Amenities Fee。不要直接将首年学费乘3当作固定总报价。</p>
 <p class="fact-sources"><a href="#source-monash-computer-science-course">依据 1</a></p>
+
+### 国际生奖学金
+
+<p class="catalog-fact">Monash International Merit Scholarship面向获得无条件本科offer、拟在澳大利亚校区全日制入学的国际新生，按学业表现自动评估，无须单独申请；2026起获奖标准为A$15,000/48学分/年。每年20名，维持每学期70%以上等条件；澳洲Year 12、路径课程及特定转学生等不适用。须见完整资格，不从学费中预先扣除。</p>
+<p class="fact-sources"><a href="#source-monash-computer-science-scholarship">依据 7</a></p>
 
 ## 毕业生情况 {#outcomes}
 
@@ -78,5 +112,9 @@ hide:
 <div class="catalog-source" id="source-monash-computer-science-course"><span class="source-number">01</span><div><a href="https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true">Monash Bachelor of Computer Science 课程页面 ↗</a><p>课程名称、学制、Clayton校区、主修及培养方向。2027国际生学费及额外费用。</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-monash-computer-science-gaokao"><span class="source-number">02</span><div><a href="https://www.monash.edu/__data/assets/pdf_file/0019/3016081/Monash-Gaokao-Flyer-English.pdf">Monash 2027 高考申请资格表（第2/4/8/9页） ↗</a><p>2027高考总分、数学科目说明、英语Level A及总分折算。</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-monash-computer-science-math"><span class="source-number">03</span><div><a href="https://www.monash.edu/study/courses/prerequisite-subjects-and-assumed-knowledge">Monash：Prerequisite subjects and assumed knowledge ↗</a><p>其他认可资格须完成相关数学/理科并达到要求成绩；后续在线Skills Analysis是建议活动。</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-monash-computer-science-language"><span class="source-number">04</span><div><a href="https://www.monash.edu/admissions/entry-requirements/english-language">Monash English language requirements：授课语言 ↗</a><p>大学明确英语为授课语言</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-monash-computer-science-applications"><span class="source-number">05</span><div><a href="https://www.monash.edu/admissions/apply/international-ug">Monash international undergraduate applications ↗</a><p>大陆高考申请可直申；特定澳洲/IB/NCEA资格走VTAC；国际直申全年受理原则</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-monash-computer-science-calendar2027"><span class="source-number">06</span><div><a href="https://www.monash.edu/students/admin/dates/summary-dates">Monash semester dates 2026–2028 ↗</a><p>2027第1、2学期迎新和教学开始日期；不是招生截止日期</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-monash-computer-science-scholarship"><span class="source-number">07</span><div><a href="https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770">Monash International Merit Scholarship ↗</a><p>国际新生资格、无条件offer、自动评估、A$15,000/年、择优及保持条件</p><small>www.monash.edu · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/australia/monash/">← 返回蒙纳士大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

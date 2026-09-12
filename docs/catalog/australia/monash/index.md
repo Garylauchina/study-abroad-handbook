@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
+已收录 4 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
 <div class="program-grid">
 <article class="program-card" data-program-id="monash-commerce">
@@ -33,7 +33,7 @@ hide:
 <h3><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-commerce/">商学学士</a></h3>
 <p class="program-english">Bachelor of Commerce</p>
 <p class="program-cohort">2027 入学 · 本科 · 3 年</p>
-<dl class="program-facts"><dt>入学</dt><dd>高考总分70%＋数学60%；IELTS 6.5／单项6.0</dd><dt>学费</dt><dd>2026参考：A$55,900／年；2027费用待核</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率待补；已列培养方向</dd></dl>
+<dl class="program-facts"><dt>入学</dt><dd>高考总分70%＋数学60%；IELTS 6.5／单项6.0</dd><dt>学费</dt><dd>2027：A$59,140／年（48学分）</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率待补；已列培养方向</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/australia/monash/monash-commerce/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="monash-computer-science">
@@ -45,6 +45,26 @@ hide:
 <p class="program-cohort">2027 入学 · 本科 · 3 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>高考总分70%＋数学60%；IELTS 6.5／单项6.0</dd><dt>学费</dt><dd>2027：A$58,940／年（48学分）</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率待补；已列培养方向</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/australia/monash/monash-computer-science/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="monash-economics">
+<div class="program-meta"><span>澳大利亚 · 墨尔本（Clayton校区）</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/monash/">蒙纳士大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>31</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-economics/">经济学学士</a></h3>
+<p class="program-english">Bachelor of Economics</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2027高考70%＋数学60%；IELTS 6.5／单项6.0</dd><dt>学费</dt><dd>2027：A$59,140／年（48学分）</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率本轮未取得；附官方职业方向</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/monash/monash-economics/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="monash-mechanical-engineering">
+<div class="program-meta"><span>澳大利亚 · 墨尔本（Clayton校区）</span><span>工程</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/monash/">蒙纳士大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>31</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-mechanical-engineering/">工程荣誉学士（机械工程方向）</a></h3>
+<p class="program-english">Bachelor of Engineering (Honours) — Mechanical engineering specialisation</p>
+<p class="program-cohort">2027 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2027高考75%；数学＋一门理科各60%；IELTS 6.5／6.0</dd><dt>学费</dt><dd>2027：A$63,040／年（48学分）</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率本轮未取得；附官方职业方向</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/monash/monash-mechanical-engineering/">查看条件、费用与去向 →</a>
 </article></div>
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

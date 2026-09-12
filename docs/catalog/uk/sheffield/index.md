@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
+已收录 4 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
 <div class="program-grid">
 <article class="program-card" data-program-id="sheffield-computer-science-bsc">
@@ -37,7 +37,7 @@ hide:
 <a class="program-open" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-bsc/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="sheffield-economics-bsc">
-<div class="program-meta"><span>英国 · 谢菲尔德</span><span>商科</span></div>
+<div class="program-meta"><span>英国 · 谢菲尔德</span><span>经济</span></div>
 <p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/">谢菲尔德大学</a></p>
 <span class="qs-rank">大学 QS 2027 · <strong>=82</strong></span>
 <h3><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-bsc/">经济学</a></h3>
@@ -45,6 +45,26 @@ hide:
 <p class="program-cohort">2027 入学 · 本科 · 3 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>高考有直入路径；A-level AAB，含数学</dd><dt>学费</dt><dd>2027 专业金额本次未取得</dd><dt>毕业</dt><dd>2022/23届：90% 工作或升学 · 本课程 · 毕业后 15 个月</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-bsc/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="sheffield-electrical-electronic-engineering-beng">
+<div class="program-meta"><span>英国 · 谢菲尔德</span><span>工程</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/">谢菲尔德大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=82</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-electronic-engineering-beng/">电气与电子工程</a></h3>
+<p class="program-english">Electrical and Electronic Engineering BEng</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考有直入路径；A-level AAB，含数学及一门认可科学</dd><dt>学费</dt><dd>2027 专业金额本轮未取得</dd><dt>毕业</dt><dd>本轮未取得本专业毕业统计；附官方职业方向</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-electrical-electronic-engineering-beng/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="sheffield-mechanical-engineering-beng">
+<div class="program-meta"><span>英国 · 谢菲尔德</span><span>工程</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/">谢菲尔德大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=82</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-engineering-beng/">机械工程</a></h3>
+<p class="program-english">Mechanical Engineering BEng</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考有直入路径；A-level A*AA，含数学及物理／化学／生物之一</dd><dt>学费</dt><dd>2027 专业金额本轮未取得</dd><dt>毕业</dt><dd>本轮未取得本专业毕业统计；附官方职业方向</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-mechanical-engineering-beng/">查看条件、费用与去向 →</a>
 </article></div>
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

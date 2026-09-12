@@ -16,7 +16,9 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>2027 未定；2026/27 参考 £33,100／年</strong></div></div>
 
-<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#fees">学费与费用</a><a href="#outcomes">毕业生情况</a></nav>
+<p class="program-location"><strong>校区：</strong>曼彻斯特校本部 · <strong>授课语言：</strong>英语</p>
+
+<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 ## 专业说明 {#overview}
 
@@ -29,6 +31,16 @@ hide:
 
 <p class="catalog-fact">第一年包括会计、金融、经济、营销、工作心理学、组织与管理和定量方法；之后可选修，末年有论文或企业咨询项目等路径。</p>
 <p class="fact-sources"><a href="#source-UK-MAN-MGMT-COURSE">依据 1</a></p>
+
+### 校区
+
+<p class="catalog-fact">曼彻斯特校本部，所属Alliance Manchester Business School位于Booth Street West；具体课堂按课程安排。</p>
+<p class="fact-sources"><a href="#source-UK-MAN-MGMT-CAMPUS">依据 9</a></p>
+
+### 授课语言
+
+<p class="catalog-fact">英语；AMBS本科学生手册明确全部本科教学使用英语。</p>
+<p class="fact-sources"><a href="#source-UK-MAN-MGMT-LANGUAGE">依据 10</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -52,7 +64,24 @@ hide:
 <p class="catalog-fact">IELTS 总分 6.5，各单项不低于 6.0，或提交认可的等效资格；有时效限制的成绩须在开课时仍有效。</p>
 <p class="fact-sources"><a href="#source-UK-MAN-MGMT-COURSE">依据 1</a></p>
 
-## 学费与费用 {#fees}
+## 申请安排 {#applications}
+
+### 申请渠道
+
+<p class="catalog-fact">通过UCAS申请；课程代码为N201，Manchester学校代码M20。</p>
+<p class="fact-sources"><a href="#source-UK-MAN-MGMT-COURSE">依据 1</a></p>
+
+### 2027 平等考虑截止
+
+<p class="catalog-fact">一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。</p>
+<p class="fact-sources"><a href="#source-UK-UCAS-DEADLINE-2027">依据 7</a> · <a href="#source-UK-MAN-MGMT-COURSE">依据 1</a></p>
+
+### 当前周期状态
+
+<p class="catalog-fact">按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。</p>
+<p class="fact-sources"><a href="#source-UK-UCAS-2027">依据 6</a></p>
+
+## 学费与资助 {#fees}
 
 ### 2027 国际生专业学费
 
@@ -63,6 +92,11 @@ hide:
 
 <p class="catalog-fact">商学院官方收费页列 2026/27 国际生年费 £33,100，并注明之后年度可能每年上调最多 7%。这只是上一入学年度参考，不是 2027 的已公布报价，也不包括生活费。</p>
 <p class="fact-sources"><a href="#source-UK-MAN-MGMT-FEES">依据 3</a></p>
+
+### 奖学金地区条件
+
+<p class="catalog-fact">Global Futures 2027按居住地区判断资格，当前清单不含中国大陆，因此居住在中国大陆者不符合本页地区条件；这不是按中国国籍一概排除。本轮未核实其他适用于本课程及该居住地申请者的具体奖项金额。</p>
+<p class="fact-sources"><a href="#source-UK-MAN-GLOBAL-FUTURES-2027">依据 8</a></p>
 
 ## 毕业生情况 {#outcomes}
 
@@ -90,10 +124,15 @@ hide:
 
 资料核验：**2026-09-12**。课程招生年份与毕业调查年份分别记录；历史毕业结果不表示未来个人结果。
 
-<div class="catalog-source" id="source-UK-MAN-MGMT-COURSE"><span class="source-number">01</span><div><a href="https://www.manchester.ac.uk/study/undergraduate/courses/2027/03519/bsc-management/all-content/">BSc Management — 2027 entry（完整课程页） ↗</a><p>N201 三年课程、A-level、选科限制、IB、GCSE 等效要求、IELTS 及 2027 学费未定</p><small>www.manchester.ac.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-MAN-MGMT-COURSE"><span class="source-number">01</span><div><a href="https://www.manchester.ac.uk/study/undergraduate/courses/2027/03519/bsc-management/all-content/">BSc Management — 2027 entry（完整课程页） ↗</a><p>N201 三年课程、A-level、选科限制、IB、GCSE 等效要求、IELTS 及 2027 学费未定；课程所在教学设施、UCAS申请渠道和课程代码</p><small>www.manchester.ac.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-MAN-CHINA"><span class="source-number">02</span><div><a href="https://www.manchester.ac.uk/study/international/country-specific-information/china-mainland/">Manchester 中国大陆申请者要求 ↗</a><p>大陆普通高中及高考申请者需认可预科；高考不直接用于本科入学</p><small>www.manchester.ac.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-MAN-MGMT-FEES"><span class="source-number">03</span><div><a href="https://www.alliancembs.manchester.ac.uk/study/undergraduate/fees-and-scholarships/">Alliance Manchester Business School 本科收费 ↗</a><p>仅供 2026/27 历史预算参考的国际生本科费用及后续涨费条款</p><small>www.alliancembs.manchester.ac.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-MAN-MGMT-OUTCOMES"><span class="source-number">04</span><div><a href="https://discoveruni.gov.uk/course-details/10007798/413/Full-time/">Discover Uni — Manchester Management（三年） ↗</a><p>课程单独数据不足；2021–23 商业与管理学科合并就业或升学及薪资</p><small>discoveruni.gov.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-DU-METHODS"><span class="source-number">05</span><div><a href="https://www.discoveruni.gov.uk/about-our-data/">Discover Uni 数据口径 ↗</a><p>毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果</p><small>www.discoveruni.gov.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-UCAS-2027"><span class="source-number">06</span><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2027 本科申请日期 ↗</a><p>2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导</p><small>www.ucas.com · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-UCAS-DEADLINE-2027"><span class="source-number">07</span><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS 2027 一般本科平等考虑截止 ↗</a><p>2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位</p><small>www.ucas.com · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-MAN-GLOBAL-FUTURES-2027"><span class="source-number">08</span><div><a href="https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/">Manchester Global Futures Scholarships 2027 ↗</a><p>2027奖项以居住地区为资格条件；当前清单不含中国大陆；并非按中国国籍一概排除</p><small>www.manchester.ac.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-MAN-MGMT-CAMPUS"><span class="source-number">09</span><div><a href="https://www.alliancembs.manchester.ac.uk/study/undergraduate/visit-contact-us/">Alliance MBS 本科访问与联系方式 ↗</a><p>本科所属商学院在Manchester的Booth Street West；校园访问入口</p><small>www.alliancembs.manchester.ac.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-MAN-MGMT-LANGUAGE"><span class="source-number">10</span><div><a href="https://www.ambs.ughandbook.manchester.ac.uk/support/ambs-support/other-undergraduate-support/">AMBS Undergraduate Handbook — English language requirements ↗</a><p>商学院本科教学全部使用英语</p><small>www.ambs.ughandbook.manchester.ac.uk · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/manchester/">← 返回曼彻斯特大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

@@ -16,7 +16,9 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2027</strong></div><div><span>学制</span><strong>3 年</strong></div><div><span>国际生学费</span><strong>2027 国际生学费尚未确定</strong></div></div>
 
-<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#fees">学费与费用</a><a href="#outcomes">毕业生情况</a></nav>
+<p class="program-location"><strong>校区：</strong>曼彻斯特校本部 · <strong>授课语言：</strong>英语</p>
+
+<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 ## 专业说明 {#overview}
 
@@ -29,6 +31,16 @@ hide:
 
 <p class="catalog-fact">从编程、计算原理和计算机数学起步，进阶软件工程、算法、数据库及可选人工智能等方向，并包含个人或团队项目。</p>
 <p class="fact-sources"><a href="#source-UK-MAN-CS-COURSE">依据 1</a></p>
+
+### 校区
+
+<p class="catalog-fact">曼彻斯特校本部。计算机系位于Oxford Road的Kilburn Building，官网明确其位于主校区。</p>
+<p class="fact-sources"><a href="#source-UK-MAN-CS-CAMPUS">依据 9</a></p>
+
+### 授课语言
+
+<p class="catalog-fact">英语。2026年4月2日校规XII.3规定校内教学使用英语，除非某项目规章另有规定；本课程另列英语入学门槛。</p>
+<p class="fact-sources"><a href="#source-UK-MAN-LANGUAGE-REGULATIONS">依据 8</a> · <a href="#source-UK-MAN-CS-COURSE">依据 1</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -52,12 +64,34 @@ hide:
 <p class="catalog-fact">IELTS 总分 6.5，所有单项不低于 6.5；有时效限制的英语成绩须在课程开始时仍有效。</p>
 <p class="fact-sources"><a href="#source-UK-MAN-CS-COURSE">依据 1</a></p>
 
-## 学费与费用 {#fees}
+## 申请安排 {#applications}
+
+### 申请渠道
+
+<p class="catalog-fact">通过UCAS申请；课程代码为G400，Manchester学校代码M20。</p>
+<p class="fact-sources"><a href="#source-UK-MAN-CS-COURSE">依据 1</a></p>
+
+### 2027 平等考虑截止
+
+<p class="catalog-fact">一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。</p>
+<p class="fact-sources"><a href="#source-UK-UCAS-DEADLINE-2027">依据 6</a> · <a href="#source-UK-MAN-CS-COURSE">依据 1</a></p>
+
+### 当前周期状态
+
+<p class="catalog-fact">按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。</p>
+<p class="fact-sources"><a href="#source-UK-UCAS-2027">依据 5</a></p>
+
+## 学费与资助 {#fees}
 
 ### 2027 国际生专业学费
 
 <p class="catalog-fact">官方 2027 课程页明确表示学费尚未确定；页面展示的 2026 本地生收费不可当作国际生费用。本目录暂不填入项目金额。</p>
 <p class="fact-sources"><a href="#source-UK-MAN-CS-COURSE">依据 1</a></p>
+
+### 奖学金地区条件
+
+<p class="catalog-fact">Global Futures 2027按居住地区判断资格，当前清单不含中国大陆，因此居住在中国大陆者不符合本页地区条件；这不是按中国国籍一概排除。本轮未核实其他适用于本课程及该居住地申请者的具体奖项金额。</p>
+<p class="fact-sources"><a href="#source-UK-MAN-GLOBAL-FUTURES-2027">依据 7</a></p>
 
 ## 毕业生情况 {#outcomes}
 
@@ -80,9 +114,14 @@ hide:
 
 资料核验：**2026-09-12**。课程招生年份与毕业调查年份分别记录；历史毕业结果不表示未来个人结果。
 
-<div class="catalog-source" id="source-UK-MAN-CS-COURSE"><span class="source-number">01</span><div><a href="https://www.manchester.ac.uk/study/undergraduate/courses/2027/00560/bsc-computer-science/">BSc Computer Science — 2027 entry ↗</a><p>G400 学制、课程、A-level、认可预科、英语及 2027 学费未定说明</p><small>www.manchester.ac.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-MAN-CS-COURSE"><span class="source-number">01</span><div><a href="https://www.manchester.ac.uk/study/undergraduate/courses/2027/00560/bsc-computer-science/">BSc Computer Science — 2027 entry ↗</a><p>G400 学制、课程、A-level、认可预科、英语及 2027 学费未定说明；课程所在教学设施、UCAS申请渠道和课程代码</p><small>www.manchester.ac.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-MAN-CHINA"><span class="source-number">02</span><div><a href="https://www.manchester.ac.uk/study/international/country-specific-information/china-mainland/">Manchester 中国大陆申请者要求 ↗</a><p>大陆普通高中及高考申请者需认可预科；高考不直接用于本科入学</p><small>www.manchester.ac.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-MAN-CS-OUTCOMES"><span class="source-number">03</span><div><a href="https://discoveruni.gov.uk/course-details/10007798/28/FullTime/">Discover Uni — Manchester Computer Science ↗</a><p>三年 BSc Computer Science 的毕业调查与全日制计算机学科薪资</p><small>discoveruni.gov.uk · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-UK-DU-METHODS"><span class="source-number">04</span><div><a href="https://www.discoveruni.gov.uk/about-our-data/">Discover Uni 数据口径 ↗</a><p>毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果</p><small>www.discoveruni.gov.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-UCAS-2027"><span class="source-number">05</span><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2027 本科申请日期 ↗</a><p>2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导</p><small>www.ucas.com · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-UCAS-DEADLINE-2027"><span class="source-number">06</span><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS 2027 一般本科平等考虑截止 ↗</a><p>2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位</p><small>www.ucas.com · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-MAN-GLOBAL-FUTURES-2027"><span class="source-number">07</span><div><a href="https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/">Manchester Global Futures Scholarships 2027 ↗</a><p>2027奖项以居住地区为资格条件；当前清单不含中国大陆；并非按中国国籍一概排除</p><small>www.manchester.ac.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-MAN-LANGUAGE-REGULATIONS"><span class="source-number">08</span><div><a href="https://documents.manchester.ac.uk/display.aspx?DocID=79060">Manchester General Regulations（2026-04-02） ↗</a><p>第12页General Regulation XII.3：校内授课语言为英语，除非特定项目规章另有规定</p><small>documents.manchester.ac.uk · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-UK-MAN-CS-CAMPUS"><span class="source-number">09</span><div><a href="https://www.cs.manchester.ac.uk/about/">Manchester 计算机系介绍及校区位置 ↗</a><p>本科教学所属计算机系位于主校区Kilburn Building，Oxford Road</p><small>www.cs.manchester.ac.uk · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/uk/manchester/">← 返回曼彻斯特大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

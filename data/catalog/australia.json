@@ -203,6 +203,20 @@
             "source_ids": [
               "monash-computer-science-course"
             ]
+          },
+          {
+            "label": "校区",
+            "text": "Clayton（澳大利亚）；本条仅对应此校区。",
+            "source_ids": [
+              "monash-computer-science-course"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语；大学英语要求页明确英语是教学语言。",
+            "source_ids": [
+              "monash-computer-science-language"
+            ]
           }
         ],
         "admissions": [
@@ -243,6 +257,13 @@
             "source_ids": [
               "monash-computer-science-course"
             ]
+          },
+          {
+            "label": "国际生奖学金",
+            "text": "Monash International Merit Scholarship面向获得无条件本科offer、拟在澳大利亚校区全日制入学的国际新生，按学业表现自动评估，无须单独申请；2026起获奖标准为A$15,000/48学分/年。每年20名，维持每学期70%以上等条件；澳洲Year 12、路径课程及特定转学生等不适用。须见完整资格，不从学费中预先扣除。",
+            "source_ids": [
+              "monash-computer-science-scholarship"
+            ]
           }
         ],
         "outcomes": [
@@ -258,6 +279,31 @@
             "text": "课程的算法、软件、AI、数据及安全方向可以帮助形成相应技术专长；所列方向和项目经历本身不代表毕业就业结果。",
             "source_ids": [
               "monash-computer-science-course"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际生申请渠道",
+            "text": "以中国高考等海外资格申请，可经大学国际本科申请页直接申请。当前就读澳洲Year 12、澳洲或新西兰IB、或新西兰NCEA者按该页走VTAC；不要混用VTAC国内生规则。",
+            "source_ids": [
+              "monash-computer-science-applications"
+            ]
+          },
+          {
+            "label": "2027开学批次",
+            "text": "课程列2月、7月入学批次。大学2027日历：第1学期迎新2月18–26日、教学3月1日开始；第2学期迎新7月19–23日、教学7月26日开始。批次月份与教学起始日含义不同。",
+            "source_ids": [
+              "monash-computer-science-calendar2027",
+              "monash-computer-science-course"
+            ]
+          },
+          {
+            "label": "截止日期与周期状态",
+            "text": "截至2026-09-12，2027教学尚未开始。国际直申说明为全年可提交，本轮未取得该课程2027统一最终申请截止日或实时剩余名额；实际是否受理及offer到期日应看申请系统/录取信。须按毕业和最终成绩取得时间选择批次。",
+            "source_ids": [
+              "monash-computer-science-applications",
+              "monash-computer-science-calendar2027"
             ]
           }
         ]
@@ -283,9 +329,39 @@
           "url": "https://www.monash.edu/study/courses/prerequisite-subjects-and-assumed-knowledge",
           "checked_at": "2026-09-12",
           "supports": "其他认可资格须完成相关数学/理科并达到要求成绩；后续在线Skills Analysis是建议活动。"
+        },
+        {
+          "id": "monash-computer-science-language",
+          "title": "Monash English language requirements：授课语言",
+          "url": "https://www.monash.edu/admissions/entry-requirements/english-language",
+          "checked_at": "2026-09-12",
+          "supports": "大学明确英语为授课语言"
+        },
+        {
+          "id": "monash-computer-science-applications",
+          "title": "Monash international undergraduate applications",
+          "url": "https://www.monash.edu/admissions/apply/international-ug",
+          "checked_at": "2026-09-12",
+          "supports": "大陆高考申请可直申；特定澳洲/IB/NCEA资格走VTAC；国际直申全年受理原则"
+        },
+        {
+          "id": "monash-computer-science-calendar2027",
+          "title": "Monash semester dates 2026–2028",
+          "url": "https://www.monash.edu/students/admin/dates/summary-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027第1、2学期迎新和教学开始日期；不是招生截止日期"
+        },
+        {
+          "id": "monash-computer-science-scholarship",
+          "title": "Monash International Merit Scholarship",
+          "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770",
+          "checked_at": "2026-09-12",
+          "supports": "国际新生资格、无条件offer、自动评估、A$15,000/年、择优及保持条件"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-12",
+      "campus": "Clayton（澳大利亚）",
+      "language": "英语"
     },
     {
       "id": "monash-commerce",
@@ -297,15 +373,16 @@
       "intake": "2027",
       "duration": "3 年",
       "entry_summary": "高考总分70%＋数学60%；IELTS 6.5／单项6.0",
-      "tuition_summary": "2026参考：A$55,900／年；2027费用待核",
+      "tuition_summary": "2027：A$59,140／年（48学分）",
       "outcomes_summary": "本专业就业率、起薪、升学率待补；已列培养方向",
       "sections": {
         "overview": [
           {
             "label": "项目与校区",
-            "text": "B2001；CRICOS 013382G。澳大利亚Clayton校区，通常全日制3年，2月或7月入学。",
+            "text": "B2001；CRICOS 013382G。澳大利亚Clayton校区，全日制3年；国际课程页列2月、7月及11月入学，11月不提供精算研究（Actuarial Studies）方向。",
             "source_ids": [
-              "monash-commerce-guide"
+              "monash-commerce-guide",
+              "monash-commerce-course-international"
             ]
           },
           {
@@ -314,6 +391,20 @@
             "source_ids": [
               "monash-commerce-course",
               "monash-commerce-guide"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "Clayton（澳大利亚）；本条仅对应此校区。",
+            "source_ids": [
+              "monash-commerce-course"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语；大学英语要求页明确英语是教学语言。",
+            "source_ids": [
+              "monash-commerce-language"
             ]
           }
         ],
@@ -343,18 +434,26 @@
         ],
         "fees": [
           {
-            "label": "已取得的2026参考学费",
-            "text": "A$55,900／48学分，约为标准一学年全日制课程量。虽然来源封面写2027，费用脚注明确是2026报价；此处不能当作2027确认学费。",
+            "label": "2027国际生学费",
+            "text": "官网国际生面板列2027 International fee为A$59,140／48学分，代表标准一年全日制负荷。",
             "source_ids": [
-              "monash-commerce-guide"
+              "monash-commerce-course-international"
             ]
           },
           {
-            "label": "2027费用缺口",
-            "text": "本次未取得B2001的2027国际生确认费用；国际生版课程页面获取失败，默认国内学生页面中的CSP或国内全费金额不适用于本条目。",
+            "label": "费用年份与预算",
+            "text": "国际生指南的A$55,900是脚注标明的2026旧报价；2027应采用国际课程页A$59,140。年度费用可调整，不能将首年金额当作固定全程报价；默认国内生视图的费用不适用于国际生。",
             "source_ids": [
+              "monash-commerce-course-international",
               "monash-commerce-guide",
               "monash-commerce-course"
+            ]
+          },
+          {
+            "label": "国际生奖学金",
+            "text": "Monash International Merit Scholarship面向获得无条件本科offer、拟在澳大利亚校区全日制入学的国际新生，按学业表现自动评估，无须单独申请；2026起获奖标准为A$15,000/48学分/年。每年20名，维持每学期70%以上等条件；澳洲Year 12、路径课程及特定转学生等不适用。须见完整资格，不从学费中预先扣除。",
+            "source_ids": [
+              "monash-commerce-scholarship"
             ]
           }
         ],
@@ -371,6 +470,31 @@
             "text": "课程强调用数学和数据理解商业决策，可向会计、经济、金融、商业分析或管理等领域发展；这些是课程方向，不是就业分布统计。",
             "source_ids": [
               "monash-commerce-course"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际生申请渠道",
+            "text": "以中国高考等海外资格申请，可经大学国际本科申请页直接申请。当前就读澳洲Year 12、澳洲或新西兰IB、或新西兰NCEA者按该页走VTAC；不要混用VTAC国内生规则。",
+            "source_ids": [
+              "monash-commerce-applications"
+            ]
+          },
+          {
+            "label": "2027开学批次",
+            "text": "国际课程页列2月、7月及11月入学；11月不提供精算研究（Actuarial Studies）方向。大学2027日历：第1学期迎新2月18–26日、教学3月1日开始；第2学期迎新7月19–23日、教学7月26日开始。11月选项的具体2027教学日期本轮尚未核实。",
+            "source_ids": [
+              "monash-commerce-calendar2027",
+              "monash-commerce-course-international"
+            ]
+          },
+          {
+            "label": "截止日期与周期状态",
+            "text": "截至2026-09-12，2027教学尚未开始。国际直申说明为全年可提交，本轮未取得该课程2027统一最终申请截止日或实时剩余名额；实际是否受理及offer到期日应看申请系统/录取信。须按毕业和最终成绩取得时间选择批次。",
+            "source_ids": [
+              "monash-commerce-applications",
+              "monash-commerce-calendar2027"
             ]
           }
         ]
@@ -403,9 +527,46 @@
           "url": "https://www.monash.edu/study/courses/prerequisite-subjects-and-assumed-knowledge",
           "checked_at": "2026-09-12",
           "supports": "其他认可资格须完成相关数学/理科并达到要求成绩；后续在线Skills Analysis是建议活动。"
+        },
+        {
+          "id": "monash-commerce-language",
+          "title": "Monash English language requirements：授课语言",
+          "url": "https://www.monash.edu/admissions/entry-requirements/english-language",
+          "checked_at": "2026-09-12",
+          "supports": "大学明确英语为授课语言"
+        },
+        {
+          "id": "monash-commerce-applications",
+          "title": "Monash international undergraduate applications",
+          "url": "https://www.monash.edu/admissions/apply/international-ug",
+          "checked_at": "2026-09-12",
+          "supports": "大陆高考申请可直申；特定澳洲/IB/NCEA资格走VTAC；国际直申全年受理原则"
+        },
+        {
+          "id": "monash-commerce-calendar2027",
+          "title": "Monash semester dates 2026–2028",
+          "url": "https://www.monash.edu/students/admin/dates/summary-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027第1、2学期迎新和教学开始日期；不是招生截止日期"
+        },
+        {
+          "id": "monash-commerce-scholarship",
+          "title": "Monash International Merit Scholarship",
+          "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770",
+          "checked_at": "2026-09-12",
+          "supports": "国际新生资格、无条件offer、自动评估、A$15,000/年、择优及保持条件"
+        },
+        {
+          "id": "monash-commerce-course-international",
+          "title": "Monash Commerce B2001：国际生课程、申请与费用",
+          "url": "https://www.monash.edu/study/courses/find-a-course/commerce-b2001?international=true",
+          "checked_at": "2026-09-12",
+          "supports": "官网国际视图：2027 International fee A$59,140/48学分；Clayton全日制3年；2月、7月、11月批次，11月不提供Actuarial Studies"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-12",
+      "campus": "Clayton（澳大利亚）",
+      "language": "英语"
     },
     {
       "id": "unsw-computer-science",
@@ -439,6 +600,21 @@
             "label": "学习内容",
             "text": "学习编程、算法、计算机系统与数据结构，可选择AI、数据库、网络、嵌入式系统、编程语言或安全工程方向；毕业年包括团队计算机科学项目。",
             "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "Kensington（悉尼）；本条仅对应此校区。",
+            "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。大学官方交换生资料明确教学语言；该语言来源为2021版，当前课程页也要求具备听课、作业和考试所需英语能力。这里不沿用旧资料的申请日期。",
+            "source_ids": [
+              "unsw-computer-science-language",
               "unsw-computer-science-course"
             ]
           }
@@ -487,6 +663,21 @@
             "source_ids": [
               "unsw-computer-science-course"
             ]
+          },
+          {
+            "label": "2026奖学金周期",
+            "text": "官方Term 3 2026国际生奖学金PUCA1029申请截止为2026-06-18；截至核验日已过。2027奖学金有独立周期，不能用于扣减2026实际费用。",
+            "source_ids": [
+              "unsw-computer-science-scholarship2026"
+            ]
+          },
+          {
+            "label": "2027 Term 1奖学金入口",
+            "text": "国际生PUCA1029奖学金申请截止2026-10-30；通常还须在该日之前取得本页定义的合资格录取通知。International Scientia可为最低学制内全额学费或A$20,000/年，须2027 Term 1全日制入学并提交学业、领导力、活动和动机证据。原页允许尚待Year 12或同等最终成绩的申请者，以及UAC国际申请者，先在截止前申请；成功获奖者最终须持无条件录取通知。9月24日申请轮计划11月19日发offer，通常晚于10月30日资格截止，不能预设赶上奖学金。其他2027批次规则本轮未取得。",
+            "source_ids": [
+              "unsw-computer-science-scholarship2027",
+              "unsw-computer-science-rounds2027"
+            ]
           }
         ],
         "outcomes": [
@@ -511,6 +702,38 @@
             "text": "课程列出的潜在岗位包括网络安全顾问、系统分析师、数据库管理员和游戏开发者。学校举出的企业去向案例不是毕业生比例，也不表示每位学生能取得这些职位。",
             "source_ids": [
               "unsw-computer-science-course"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际生申请渠道",
+            "text": "持中国高考等海外资格，使用UNSW Applicant Portal提交材料，也可由大学授权代理协助。澳洲Year 12、IB或新西兰NCEA申请者须另核对UAC渠道与该渠道日程。",
+            "source_ids": [
+              "unsw-computer-science-applications"
+            ]
+          },
+          {
+            "label": "国籍与录取批次",
+            "text": "仅持中国大陆国籍不在ISA/IADP适用国籍清单，应核对非ISA国家的本科轮次；不要预设享有ISA学费减免或IADP加分。",
+            "source_ids": [
+              "unsw-computer-science-rounds2027",
+              "unsw-computer-science-isa-eligibility"
+            ]
+          },
+          {
+            "label": "2026批次与历史截止缺口",
+            "text": "标准Term 1/2/3教学分别于2026-02-16、06-01、09-14开始；截至2026-09-12，前两批已开学、Term 3迎新已结束。本轮未取得本课程2026本科最终申请截止及是否仍受理补录的确证；课程页提醒部分2026项目因容量关闭，不能据此判定本课程仍有名额。",
+            "source_ids": [
+              "unsw-computer-science-calendar",
+              "unsw-computer-science-course"
+            ]
+          },
+          {
+            "label": "2027申请窗口",
+            "text": "截至2026-09-12，2027申请开放。非ISA国家本科Term 1 2027下一轮完整申请截止2026-09-24，计划2026-11-19发offer，2026-12-24接受截止。这只是该轮安排，非全部2027批次最终截止；额外轮次视容量。本轮未取得Term 2/3 2027对应本科精确截止。",
+            "source_ids": [
+              "unsw-computer-science-rounds2027"
             ]
           }
         ]
@@ -550,9 +773,60 @@
           "url": "https://qilt.edu.au/surveys/graduate-outcomes-survey---longitudinal-(gos-l)",
           "checked_at": "2026-09-12",
           "supports": "GOS-L三年后调查和全职就业者年薪中位数定义。"
+        },
+        {
+          "id": "unsw-computer-science-language",
+          "title": "UNSW Exchange Fact Sheet 2021：授课语言",
+          "url": "https://www.international.unsw.edu.au/sites/default/files/unsw-exchange-fact-sheet_2021.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "大学官方资料明确教学语言为英语；该来源年份为2021，仅用于语言，不用于日期/费用/申请规则"
+        },
+        {
+          "id": "unsw-computer-science-applications",
+          "title": "UNSW applying as an international student",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/international",
+          "checked_at": "2026-09-12",
+          "supports": "海外高考申请经Applicant Portal或授权代理；澳洲Year12/IB/NCEA需核对UAC渠道"
+        },
+        {
+          "id": "unsw-computer-science-rounds2027",
+          "title": "UNSW International Student Admissions：本科offer轮次",
+          "url": "https://www.unsw.edu.au/study/international-students/admissions-info",
+          "checked_at": "2026-09-12",
+          "supports": "非ISA国家本科Term1 2027轮次；2027申请开放与容量条件"
+        },
+        {
+          "id": "unsw-computer-science-calendar",
+          "title": "UNSW Academic calendars 2026–2027",
+          "url": "https://www.unsw.edu.au/student/managing-your-studies/key-dates/academic-calendar",
+          "checked_at": "2026-09-12",
+          "supports": "2026/2027标准Term教学开始与迎新日期"
+        },
+        {
+          "id": "unsw-computer-science-isa-eligibility",
+          "title": "UNSW ISA and IADP terms and conditions",
+          "url": "https://www.scholarships.unsw.edu.au/sites/default/files/2026-07/unsw-international-student-award-international-admissions-diversity-pathway-terms-conditions.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "资格依据国籍；Attachment A未列中国大陆；不能套用20%减费或5分加分"
+        },
+        {
+          "id": "unsw-computer-science-scholarship2027",
+          "title": "UNSW Scholarships for International Students Commencing Term 1, 2027",
+          "url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988/7272",
+          "checked_at": "2026-09-12",
+          "supports": "PUCA1029申请及通常合资格offer截止2026-10-30；Scientia金额与全日制2027T1要求；待Year12/同等成绩和UAC国际申请者例外；学业/领导力/活动/动机评选"
+        },
+        {
+          "id": "unsw-computer-science-scholarship2026",
+          "title": "UNSW Scholarships for International Students Commencing Term 3, 2026",
+          "url": "https://www.scholarships.unsw.edu.au/scholarships/id/1957",
+          "checked_at": "2026-09-12",
+          "supports": "2026 Term3国际生奖学金申请截止2026-06-18，已结束"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-12",
+      "campus": "Kensington（悉尼）",
+      "language": "英语"
     },
     {
       "id": "unsw-commerce",
@@ -586,6 +860,21 @@
             "label": "学习内容",
             "text": "三年课程包含综合商科第一年、至少一个主修和选修。主修可选金融、会计、商业分析、营销等；须完成计学分的实习、竞赛或项目式实践课程之一。",
             "source_ids": [
+              "unsw-commerce-course"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "Kensington（悉尼）；本条仅对应此校区。",
+            "source_ids": [
+              "unsw-commerce-course"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。大学官方交换生资料明确教学语言；该语言来源为2021版，当前课程页也要求具备听课、作业和考试所需英语能力。这里不沿用旧资料的申请日期。",
+            "source_ids": [
+              "unsw-commerce-language",
               "unsw-commerce-course"
             ]
           }
@@ -634,6 +923,21 @@
             "source_ids": [
               "unsw-commerce-course"
             ]
+          },
+          {
+            "label": "2026奖学金周期",
+            "text": "官方Term 3 2026国际生奖学金PUCA1029申请截止为2026-06-18；截至核验日已过。2027奖学金有独立周期，不能用于扣减2026实际费用。",
+            "source_ids": [
+              "unsw-commerce-scholarship2026"
+            ]
+          },
+          {
+            "label": "2027 Term 1奖学金入口",
+            "text": "国际生PUCA1029奖学金申请截止2026-10-30；通常还须在该日之前取得本页定义的合资格录取通知。International Scientia可为最低学制内全额学费或A$20,000/年，须2027 Term 1全日制入学并提交学业、领导力、活动和动机证据。原页允许尚待Year 12或同等最终成绩的申请者，以及UAC国际申请者，先在截止前申请；成功获奖者最终须持无条件录取通知。9月24日申请轮计划11月19日发offer，通常晚于10月30日资格截止，不能预设赶上奖学金。其他2027批次规则本轮未取得。",
+            "source_ids": [
+              "unsw-commerce-scholarship2027",
+              "unsw-commerce-rounds2027"
+            ]
           }
         ],
         "outcomes": [
@@ -658,6 +962,38 @@
             "text": "课程列出的潜在岗位包括会计／审计、商业分析、咨询、金融及市场相关工作。这是可探索的职业方向，不是毕业生就业率或薪酬统计。",
             "source_ids": [
               "unsw-commerce-course"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际生申请渠道",
+            "text": "持中国高考等海外资格，使用UNSW Applicant Portal提交材料，也可由大学授权代理协助。澳洲Year 12、IB或新西兰NCEA申请者须另核对UAC渠道与该渠道日程。",
+            "source_ids": [
+              "unsw-commerce-applications"
+            ]
+          },
+          {
+            "label": "国籍与录取批次",
+            "text": "仅持中国大陆国籍不在ISA/IADP适用国籍清单，应核对非ISA国家的本科轮次；不要预设享有ISA学费减免或IADP加分。",
+            "source_ids": [
+              "unsw-commerce-rounds2027",
+              "unsw-commerce-isa-eligibility"
+            ]
+          },
+          {
+            "label": "2026批次与历史截止缺口",
+            "text": "标准Term 1/2/3教学分别于2026-02-16、06-01、09-14开始；截至2026-09-12，前两批已开学、Term 3迎新已结束。本轮未取得本课程2026本科最终申请截止及是否仍受理补录的确证；课程页提醒部分2026项目因容量关闭，不能据此判定本课程仍有名额。",
+            "source_ids": [
+              "unsw-commerce-calendar",
+              "unsw-commerce-course"
+            ]
+          },
+          {
+            "label": "2027申请窗口",
+            "text": "截至2026-09-12，2027申请开放。非ISA国家本科Term 1 2027下一轮完整申请截止2026-09-24，计划2026-11-19发offer，2026-12-24接受截止。这只是该轮安排，非全部2027批次最终截止；额外轮次视容量。本轮未取得Term 2/3 2027对应本科精确截止。",
+            "source_ids": [
+              "unsw-commerce-rounds2027"
             ]
           }
         ]
@@ -697,9 +1033,932 @@
           "url": "https://qilt.edu.au/surveys/graduate-outcomes-survey---longitudinal-(gos-l)",
           "checked_at": "2026-09-12",
           "supports": "GOS-L三年后调查和全职就业者年薪中位数定义。"
+        },
+        {
+          "id": "unsw-commerce-language",
+          "title": "UNSW Exchange Fact Sheet 2021：授课语言",
+          "url": "https://www.international.unsw.edu.au/sites/default/files/unsw-exchange-fact-sheet_2021.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "大学官方资料明确教学语言为英语；该来源年份为2021，仅用于语言，不用于日期/费用/申请规则"
+        },
+        {
+          "id": "unsw-commerce-applications",
+          "title": "UNSW applying as an international student",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/international",
+          "checked_at": "2026-09-12",
+          "supports": "海外高考申请经Applicant Portal或授权代理；澳洲Year12/IB/NCEA需核对UAC渠道"
+        },
+        {
+          "id": "unsw-commerce-rounds2027",
+          "title": "UNSW International Student Admissions：本科offer轮次",
+          "url": "https://www.unsw.edu.au/study/international-students/admissions-info",
+          "checked_at": "2026-09-12",
+          "supports": "非ISA国家本科Term1 2027轮次；2027申请开放与容量条件"
+        },
+        {
+          "id": "unsw-commerce-calendar",
+          "title": "UNSW Academic calendars 2026–2027",
+          "url": "https://www.unsw.edu.au/student/managing-your-studies/key-dates/academic-calendar",
+          "checked_at": "2026-09-12",
+          "supports": "2026/2027标准Term教学开始与迎新日期"
+        },
+        {
+          "id": "unsw-commerce-isa-eligibility",
+          "title": "UNSW ISA and IADP terms and conditions",
+          "url": "https://www.scholarships.unsw.edu.au/sites/default/files/2026-07/unsw-international-student-award-international-admissions-diversity-pathway-terms-conditions.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "资格依据国籍；Attachment A未列中国大陆；不能套用20%减费或5分加分"
+        },
+        {
+          "id": "unsw-commerce-scholarship2027",
+          "title": "UNSW Scholarships for International Students Commencing Term 1, 2027",
+          "url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988/7272",
+          "checked_at": "2026-09-12",
+          "supports": "PUCA1029申请及通常合资格offer截止2026-10-30；Scientia金额与全日制2027T1要求；待Year12/同等成绩和UAC国际申请者例外；学业/领导力/活动/动机评选"
+        },
+        {
+          "id": "unsw-commerce-scholarship2026",
+          "title": "UNSW Scholarships for International Students Commencing Term 3, 2026",
+          "url": "https://www.scholarships.unsw.edu.au/scholarships/id/1957",
+          "checked_at": "2026-09-12",
+          "supports": "2026 Term3国际生奖学金申请截止2026-06-18，已结束"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-12",
+      "campus": "Kensington（悉尼）",
+      "language": "英语"
+    },
+    {
+      "id": "monash-mechanical-engineering",
+      "university_id": "monash",
+      "name": "工程荣誉学士（机械工程方向）",
+      "name_en": "Bachelor of Engineering (Honours) — Mechanical engineering specialisation",
+      "degree": "本科",
+      "subject": "工程",
+      "intake": "2027",
+      "duration": "4 年",
+      "entry_summary": "2027高考75%；数学＋一门理科各60%；IELTS 6.5／6.0",
+      "tuition_summary": "2027：A$63,040／年（48学分）",
+      "outcomes_summary": "本专业就业率、起薪、升学率本轮未取得；附官方职业方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与校区",
+            "text": "这是 E3001 工程荣誉学士内的机械工程方向，CRICOS 001722B；本条收录澳大利亚 Clayton 校区。全日制4年，首年为共同工程基础课程，第二年起专修。",
+            "source_ids": [
+              "monash-mechanical-engineering-course",
+              "monash-mechanical-engineering-specialisation",
+              "monash-mechanical-engineering-gaokao"
+            ]
+          },
+          {
+            "label": "课程内容",
+            "text": "学习流体力学、动力学、机械系统设计、热力学与控制系统，可选择机器人、风工程、复合材料等专题。",
+            "source_ids": [
+              "monash-mechanical-engineering-specialisation"
+            ]
+          },
+          {
+            "label": "实践要求",
+            "text": "E3001要求完成420小时持续专业发展，可通过相关假期工作或经批准的发展活动组合完成；这不等同于学校保证有薪实习。",
+            "source_ids": [
+              "monash-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "Clayton（澳大利亚）；本条仅对应此校区。",
+            "source_ids": [
+              "monash-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语；大学英语要求页明确英语是教学语言。",
+            "source_ids": [
+              "monash-mechanical-engineering-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国高考申请（2027）",
+            "text": "官方表列高考总分75%，按所在省份满分换算；数学，以及化学、物理、生物中的一门，所用科目各须达到60%。还须满足最低年龄、英语等条件，达到表列值不代表保证录取。",
+            "source_ids": [
+              "monash-mechanical-engineering-gaokao",
+              "monash-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "先修与入学准备",
+            "text": "高考表的60%是所列科目的成绩要求；星号另建议完成数学/理科知识练习，不代表免除科目成绩。",
+            "source_ids": [
+              "monash-mechanical-engineering-gaokao",
+              "monash-mechanical-engineering-math"
+            ]
+          },
+          {
+            "label": "IB申请参考",
+            "text": "2027国际课程页列IB总分30；数学须AA标准级4或AA/AI高级别3；理科须化学或物理标准级4/高级别3，或生物标准级5/高级别4。英语先修及总体英语要求仍须同时满足。",
+            "source_ids": [
+              "monash-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "Level A：IELTS Academic总分6.5，听说读写各不低于6.0。其他获认可方式见国际生课程页。",
+            "source_ids": [
+              "monash-mechanical-engineering-course",
+              "monash-mechanical-engineering-gaokao"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027国际生学费",
+            "text": "A$63,040／48学分，代表标准一年全日制负荷；费用每年可调整，不宜乘以4当作锁定的四年总价。",
+            "source_ids": [
+              "monash-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "国际生奖学金",
+            "text": "Monash International Merit Scholarship面向获得无条件本科offer、拟在澳大利亚校区全日制入学的国际新生，按学业表现自动评估，无须单独申请；2026起获奖标准为A$15,000/48学分/年。每年20名，维持每学期70%以上等条件；澳洲Year 12、路径课程及特定转学生等不适用。须见完整资格，不从学费中预先扣除。",
+            "source_ids": [
+              "monash-mechanical-engineering-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "可核实职业方向",
+            "text": "校方列出的方向包括先进制造、自动控制、节能建筑、风力发电和医疗工程；这些是职业举例，不能理解为毕业生比例或就业承诺。",
+            "source_ids": [
+              "monash-mechanical-engineering-specialisation"
+            ]
+          },
+          {
+            "label": "毕业统计缺口",
+            "text": "本轮未取得本方向附毕业届次、调查年份、分母和国际生范围的就业率、薪酬或升学数据。方向页的就业宣传没有足够统计口径，因此未收入数值。",
+            "source_ids": [
+              "monash-mechanical-engineering-specialisation"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际生申请渠道",
+            "text": "以中国高考等海外资格申请，可经大学国际本科申请页直接申请。当前就读澳洲Year 12、澳洲或新西兰IB、或新西兰NCEA者按该页走VTAC；不要混用VTAC国内生规则。",
+            "source_ids": [
+              "monash-mechanical-engineering-applications"
+            ]
+          },
+          {
+            "label": "2027开学批次",
+            "text": "课程列2月、7月入学批次。大学2027日历：第1学期迎新2月18–26日、教学3月1日开始；第2学期迎新7月19–23日、教学7月26日开始。批次月份与教学起始日含义不同。",
+            "source_ids": [
+              "monash-mechanical-engineering-calendar2027",
+              "monash-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "截止日期与周期状态",
+            "text": "截至2026-09-12，2027教学尚未开始。国际直申说明为全年可提交，本轮未取得该课程2027统一最终申请截止日或实时剩余名额；实际是否受理及offer到期日应看申请系统/录取信。须按毕业和最终成绩取得时间选择批次。",
+            "source_ids": [
+              "monash-mechanical-engineering-applications",
+              "monash-mechanical-engineering-calendar2027"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "monash-mechanical-engineering-course",
+          "title": "Monash Engineering E3001：国际生课程页",
+          "url": "https://www.monash.edu/study/courses/find-a-course/engineering-e3001?international=true",
+          "checked_at": "2026-09-12",
+          "supports": "E3001学位、Clayton、学制、2027入学条件、英语、国际学费与专业发展要求"
+        },
+        {
+          "id": "monash-mechanical-engineering-specialisation",
+          "title": "Monash Mechanical engineering：本科方向说明",
+          "url": "https://www.monash.edu/engineering/future-students/undergraduate-study/specialisations/mechanical",
+          "checked_at": "2026-09-12",
+          "supports": "机械方向存在性、课程内容、Clayton与职业方向；页面就业宣传数值缺少调查范围，未采用"
+        },
+        {
+          "id": "monash-mechanical-engineering-gaokao",
+          "title": "Monash 2027 Gaokao admissions guide",
+          "url": "https://www.monash.edu/__data/assets/pdf_file/0019/3016081/Monash-Gaokao-Flyer-English.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "E3001高考总分75%、数学及化学/物理/生物先修各60%、Level A、CRICOS"
+        },
+        {
+          "id": "monash-mechanical-engineering-math",
+          "title": "Monash prerequisite subjects and assumed knowledge",
+          "url": "https://www.monash.edu/study/courses/prerequisite-subjects-and-assumed-knowledge",
+          "checked_at": "2026-09-12",
+          "supports": "国际资格仍须相关科目及成绩，入学前知识练习为推荐环节"
+        },
+        {
+          "id": "monash-mechanical-engineering-language",
+          "title": "Monash English language requirements：授课语言",
+          "url": "https://www.monash.edu/admissions/entry-requirements/english-language",
+          "checked_at": "2026-09-12",
+          "supports": "大学明确英语为授课语言"
+        },
+        {
+          "id": "monash-mechanical-engineering-applications",
+          "title": "Monash international undergraduate applications",
+          "url": "https://www.monash.edu/admissions/apply/international-ug",
+          "checked_at": "2026-09-12",
+          "supports": "大陆高考申请可直申；特定澳洲/IB/NCEA资格走VTAC；国际直申全年受理原则"
+        },
+        {
+          "id": "monash-mechanical-engineering-calendar2027",
+          "title": "Monash semester dates 2026–2028",
+          "url": "https://www.monash.edu/students/admin/dates/summary-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027第1、2学期迎新和教学开始日期；不是招生截止日期"
+        },
+        {
+          "id": "monash-mechanical-engineering-scholarship",
+          "title": "Monash International Merit Scholarship",
+          "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770",
+          "checked_at": "2026-09-12",
+          "supports": "国际新生资格、无条件offer、自动评估、A$15,000/年、择优及保持条件"
+        }
+      ],
+      "checked_at": "2026-09-12",
+      "campus": "Clayton（澳大利亚）",
+      "language": "英语"
+    },
+    {
+      "id": "monash-economics",
+      "university_id": "monash",
+      "name": "经济学学士",
+      "name_en": "Bachelor of Economics",
+      "degree": "本科",
+      "subject": "经济",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "2027高考70%＋数学60%；IELTS 6.5／单项6.0",
+      "tuition_summary": "2027：A$59,140／年（48学分）",
+      "outcomes_summary": "本专业就业率、起薪、升学率本轮未取得；附官方职业方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与校区",
+            "text": "课程 B2031，CRICOS 001447E；澳大利亚 Clayton 校区，全日制3年。国际生申请面板列2月、7月及11月入学选项。",
+            "source_ids": [
+              "monash-economics-guide",
+              "monash-economics-gaokao",
+              "monash-economics-course-international"
+            ]
+          },
+          {
+            "label": "课程方向",
+            "text": "提供经济商业分析、经济学与经济政策、宏观经济与金融市场、数理经济学与计量经济学四个方向。",
+            "source_ids": [
+              "monash-economics-course"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "Clayton（澳大利亚）；本条仅对应此校区。",
+            "source_ids": [
+              "monash-economics-course-international",
+              "monash-economics-guide"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语；大学英语要求页明确英语是教学语言。",
+            "source_ids": [
+              "monash-economics-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国高考申请（2027）",
+            "text": "官网国际生2027中国资格列高考总分70%，按实际高考成绩除以本省满分再乘100换算，须提交省级考试机构签发的正式最终成绩。官方高考表另要求数学60%；年龄、英语等条件仍须同时满足。",
+            "source_ids": [
+              "monash-economics-course-international",
+              "monash-economics-gaokao"
+            ]
+          },
+          {
+            "label": "数学先修",
+            "text": "高考数学60%是表列科目成绩要求；数学知识练习是另行推荐的入学准备。IB数学先修为AA标准级4，或AA/AI高级别3；不能用高考比例替代IB资格评估。",
+            "source_ids": [
+              "monash-economics-gaokao",
+              "monash-economics-math",
+              "monash-economics-course"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "官网国际生要求IELTS Academic总分6.5、听说读写各不低于6.0，与国际生指南Level A一致；还须满足适用有效期及大学认可的证明方式。",
+            "source_ids": [
+              "monash-economics-course-international",
+              "monash-economics-gaokao",
+              "monash-economics-guide"
+            ]
+          },
+          {
+            "label": "其他国际高中资格（2027）",
+            "text": "官网国际生Global资格选项列GCE A Level为11分（校方积分制），IB Diploma为31分；还需分别满足所用资格的数学先修与英语条件，不能把高考分数比例套到国际课程。",
+            "source_ids": [
+              "monash-economics-course-international",
+              "monash-economics-course"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027国际生学费",
+            "text": "课程官网国际生面板列2027 International fee为A$59,140／48学分，代表标准一年全日制负荷。",
+            "source_ids": [
+              "monash-economics-course-international"
+            ]
+          },
+          {
+            "label": "费用年份与预算",
+            "text": "2027招生指南中的A$55,900为脚注标明的2026旧报价；2027预算应采用已核实的国际课程页A$59,140，而非默认国内生视图的费用。年度学费可调整，不能把首年费用直接当作固定全程报价。",
+            "source_ids": [
+              "monash-economics-course-international",
+              "monash-economics-guide",
+              "monash-economics-course"
+            ]
+          },
+          {
+            "label": "国际生奖学金",
+            "text": "Monash International Merit Scholarship面向获得无条件本科offer、拟在澳大利亚校区全日制入学的国际新生，按学业表现自动评估，无须单独申请；2026起获奖标准为A$15,000/48学分/年。每年20名，维持每学期70%以上等条件；澳洲Year 12、路径课程及特定转学生等不适用。须见完整资格，不从学费中预先扣除。",
+            "source_ids": [
+              "monash-economics-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "可核实职业方向",
+            "text": "课程页列公共及私人部门的经济政策、研究和管理方向；不构成特定岗位、收入或留澳就业承诺。",
+            "source_ids": [
+              "monash-economics-course"
+            ]
+          },
+          {
+            "label": "毕业统计缺口",
+            "text": "本轮读取的课程及招生资料没有取得可用于本专业的就业率、起薪和升学率，尤其缺少中国大陆/国际毕业生分组。",
+            "source_ids": [
+              "monash-economics-course",
+              "monash-economics-guide"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际生申请渠道",
+            "text": "以中国高考等海外资格申请，可经大学国际本科申请页直接申请。当前就读澳洲Year 12、澳洲或新西兰IB、或新西兰NCEA者按该页走VTAC；不要混用VTAC国内生规则。",
+            "source_ids": [
+              "monash-economics-applications"
+            ]
+          },
+          {
+            "label": "2027开学批次",
+            "text": "国际课程页B2031直申面板列2月、7月及11月入学选项。大学2027日历：第1学期迎新2月18–26日、教学3月1日开始；第2学期迎新7月19–23日、教学7月26日开始。11月选项的具体2027教学日期与适用安排本轮尚未核实。",
+            "source_ids": [
+              "monash-economics-calendar2027",
+              "monash-economics-course-international"
+            ]
+          },
+          {
+            "label": "截止日期与周期状态",
+            "text": "截至2026-09-12，2027教学尚未开始。国际直申说明为全年可提交，本轮未取得该课程2027统一最终申请截止日或实时剩余名额；实际是否受理及offer到期日应看申请系统/录取信。须按毕业和最终成绩取得时间选择批次。",
+            "source_ids": [
+              "monash-economics-applications",
+              "monash-economics-calendar2027"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "monash-economics-course",
+          "title": "Monash Economics B2031：课程与先修说明",
+          "url": "https://www.monash.edu/study/courses/find-a-course/economics-b2031",
+          "checked_at": "2026-09-12",
+          "supports": "课程名称、方向、职业说明及IB先修；默认国内费用未用于国际生"
+        },
+        {
+          "id": "monash-economics-gaokao",
+          "title": "Monash 2027 Gaokao admissions guide",
+          "url": "https://www.monash.edu/__data/assets/pdf_file/0019/3016081/Monash-Gaokao-Flyer-English.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "B2031中国高考70%、数学60%、Level A与CRICOS"
+        },
+        {
+          "id": "monash-economics-guide",
+          "title": "Monash 2027 International Undergraduate Course Guide",
+          "url": "https://www.monash.edu/__data/assets/pdf_file/0005/3941744/undergraduate-international-course-guide.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "B2031 Clayton、3年、2月/7月、英语Level A；费用脚注明确为2026 A$55,900/48学分"
+        },
+        {
+          "id": "monash-economics-math",
+          "title": "Monash prerequisite subjects and assumed knowledge",
+          "url": "https://www.monash.edu/study/courses/prerequisite-subjects-and-assumed-knowledge",
+          "checked_at": "2026-09-12",
+          "supports": "所需科目成绩与建议知识练习的区别"
+        },
+        {
+          "id": "monash-economics-language",
+          "title": "Monash English language requirements：授课语言",
+          "url": "https://www.monash.edu/admissions/entry-requirements/english-language",
+          "checked_at": "2026-09-12",
+          "supports": "大学明确英语为授课语言"
+        },
+        {
+          "id": "monash-economics-applications",
+          "title": "Monash international undergraduate applications",
+          "url": "https://www.monash.edu/admissions/apply/international-ug",
+          "checked_at": "2026-09-12",
+          "supports": "大陆高考申请可直申；特定澳洲/IB/NCEA资格走VTAC；国际直申全年受理原则"
+        },
+        {
+          "id": "monash-economics-calendar2027",
+          "title": "Monash semester dates 2026–2028",
+          "url": "https://www.monash.edu/students/admin/dates/summary-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027第1、2学期迎新和教学开始日期；不是招生截止日期"
+        },
+        {
+          "id": "monash-economics-scholarship",
+          "title": "Monash International Merit Scholarship",
+          "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770",
+          "checked_at": "2026-09-12",
+          "supports": "国际新生资格、无条件offer、自动评估、A$15,000/年、择优及保持条件"
+        },
+        {
+          "id": "monash-economics-course-international",
+          "title": "Monash Economics B2031：国际生课程、入学条件与费用",
+          "url": "https://www.monash.edu/study/courses/find-a-course/economics-b2031?international=true",
+          "checked_at": "2026-09-12",
+          "supports": "国际视图：Clayton、全日制3年；2027高考70%、省考试机构正式最终成绩与省满分换算；GCE A Level11、IB31；IELTS6.5各6.0；2027 A$59,140/48学分；直申面板2月/7月/11月选项"
+        }
+      ],
+      "checked_at": "2026-09-12",
+      "campus": "Clayton（澳大利亚）",
+      "language": "英语"
+    },
+    {
+      "id": "unsw-mechanical-engineering",
+      "university_id": "unsw",
+      "name": "机械工程荣誉学士",
+      "name_en": "Bachelor of Engineering (Honours) (Mechanical Engineering)",
+      "degree": "本科",
+      "subject": "工程",
+      "intake": "2027",
+      "duration": "4 年",
+      "entry_summary": "2027高考参考75%；IELTS 6.5／单项6.0",
+      "tuition_summary": "2026首年参考：A$61,500；2027费用本轮未取得",
+      "outcomes_summary": "本专业就业率、起薪、升学率本轮未取得；附官方职业方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与校区",
+            "text": "课程 3707，CRICOS 056835E；Sydney Kensington校区，全日制4 年，192学分。课程页列Term 1、2、3；2028年日历变更可能影响2028年前入学者实际完成时间。",
+            "source_ids": [
+              "unsw-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "课程与实践",
+            "text": "学习机械系统的设计、制造、运行和维护，需完成60天工业培训；包含数学、物理、计算与工程设计基础。培训要求不等于保证有薪岗位。",
+            "source_ids": [
+              "unsw-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "Kensington（悉尼）；本条仅对应此校区。",
+            "source_ids": [
+              "unsw-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。大学官方交换生资料明确教学语言；该语言来源为2021版，当前课程页也要求具备听课、作业和考试所需英语能力。这里不沿用旧资料的申请日期。",
+            "source_ids": [
+              "unsw-mechanical-engineering-language",
+              "unsw-mechanical-engineering-course"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国高考申请（2027）",
+            "text": "2027国际生表列高考75%；工程总表的注释明确覆盖机械方向。",
+            "source_ids": [
+              "unsw-mechanical-engineering-entry2027"
+            ]
+          },
+          {
+            "label": "分数口径与国际课程",
+            "text": "高考按全部应试科目百分比评估并核对各省满分；2027表列IB 35、GCE A Level 13分（校方积分制，非单科分数）。表为参考，实际要求可变，须以申请评估为准。",
+            "source_ids": [
+              "unsw-mechanical-engineering-entry2027"
+            ]
+          },
+          {
+            "label": "数学与理科准备",
+            "text": "课程页列assumed knowledge为Mathematics Extension 1及Physics；大学指南将这类知识与正式入学科目要求区分，未学过不自动禁止录取，但建议先补习。",
+            "source_ids": [
+              "unsw-mechanical-engineering-course",
+              "unsw-mechanical-engineering-guide2026"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS Academic总分6.5，单项均不低于6.0。通常须在入学前两年内取得；Term 1/2/3分别按两年前1月1日、5月1日、8月1日核算最早考试日期。",
+            "source_ids": [
+              "unsw-mechanical-engineering-english"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2026国际生参考费用",
+            "text": "课程页当前列2026首年指示学费A$61,500。本轮未取得2027精确学费；2026金额不能作2027承诺报价。",
+            "source_ids": [
+              "unsw-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "完整学费估算的边界",
+            "text": "2026课程总费用指示值A$265,500包含学费上涨假设及每年约A$1,000学习相关费用，不是固定的纯学费总额；实际金额按所选课程和年份变化。",
+            "source_ids": [
+              "unsw-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "2027 Term 1奖学金入口",
+            "text": "国际生PUCA1029奖学金申请截止2026-10-30；通常还须在该日之前取得本页定义的合资格录取通知。International Scientia可为最低学制内全额学费或A$20,000/年，须2027 Term 1全日制入学并提交学业、领导力、活动和动机证据。原页允许尚待Year 12或同等最终成绩的申请者，以及UAC国际申请者，先在截止前申请；成功获奖者最终须持无条件录取通知。9月24日申请轮计划11月19日发offer，通常晚于10月30日资格截止，不能预设赶上奖学金。其他2027批次规则本轮未取得。",
+            "source_ids": [
+              "unsw-mechanical-engineering-scholarship2027",
+              "unsw-mechanical-engineering-rounds2027"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "可核实职业方向",
+            "text": "校方列汽车、制造、机器人、矿产与能源技术、建设、交通和生物力学等行业；课程获Engineers Australia专业工程师层级认证。",
+            "source_ids": [
+              "unsw-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "毕业统计缺口",
+            "text": "本轮未取得本专业附调查年份、毕业届次、就业率分母及国际生分组的就业率、薪酬或深造比例；职业方向不能替代结果统计。",
+            "source_ids": [
+              "unsw-mechanical-engineering-course"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际生申请渠道",
+            "text": "持中国高考等海外资格，使用UNSW Applicant Portal提交材料，也可由大学授权代理协助。澳洲Year 12、IB或新西兰NCEA申请者须另核对UAC渠道与该渠道日程。",
+            "source_ids": [
+              "unsw-mechanical-engineering-applications"
+            ]
+          },
+          {
+            "label": "国籍与录取批次",
+            "text": "仅持中国大陆国籍不在ISA/IADP适用国籍清单，应核对非ISA国家的本科轮次；不要预设享有ISA学费减免或IADP加分。",
+            "source_ids": [
+              "unsw-mechanical-engineering-rounds2027",
+              "unsw-mechanical-engineering-isa-eligibility"
+            ]
+          },
+          {
+            "label": "2027开学批次",
+            "text": "课程列Term 1、2、3。标准教学起始日为2027-02-15、05-31、09-13，迎新分别为2月8–12日、5月24–28日、9月6–10日；须按取得毕业及最终成绩的时间选择批次。",
+            "source_ids": [
+              "unsw-mechanical-engineering-calendar",
+              "unsw-mechanical-engineering-course"
+            ]
+          },
+          {
+            "label": "2027申请窗口",
+            "text": "截至2026-09-12，2027申请开放。非ISA国家本科Term 1 2027下一轮完整申请截止2026-09-24，计划2026-11-19发offer，2026-12-24接受截止。这只是该轮安排，非全部2027批次最终截止；额外轮次视容量。本轮未取得Term 2/3 2027对应本科精确截止。",
+            "source_ids": [
+              "unsw-mechanical-engineering-rounds2027"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "unsw-mechanical-engineering-course",
+          "title": "UNSW Bachelor of Engineering (Honours) (Mechanical Engineering)：课程页",
+          "url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-mechanical",
+          "checked_at": "2026-09-12",
+          "supports": "学位、Kensington、学制、课程/先修、2026国际生费用、职业方向"
+        },
+        {
+          "id": "unsw-mechanical-engineering-entry2027",
+          "title": "UNSW 2027 Undergraduate International Entry Requirements",
+          "url": "https://www.unsw.edu.au/content/dam/pdfs/future-students/2027-int-ug-entry-table.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027高考75%、GCE A Level分数、IB及工程包含机械方向的注释"
+        },
+        {
+          "id": "unsw-mechanical-engineering-english",
+          "title": "UNSW English language requirements",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "工程/商学院IELTS本科标准与考试有效期"
+        },
+        {
+          "id": "unsw-mechanical-engineering-guide2026",
+          "title": "UNSW 2026 International Undergraduate Guide",
+          "url": "https://www.unsw.edu.au/content/dam/pdfs/future-students/2026-INT-UG-Guide.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "Assumed knowledge与正式科目先修的区别；不用于2027总分要求"
+        },
+        {
+          "id": "unsw-mechanical-engineering-language",
+          "title": "UNSW Exchange Fact Sheet 2021：授课语言",
+          "url": "https://www.international.unsw.edu.au/sites/default/files/unsw-exchange-fact-sheet_2021.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "大学官方资料明确教学语言为英语；该来源年份为2021，仅用于语言，不用于日期/费用/申请规则"
+        },
+        {
+          "id": "unsw-mechanical-engineering-applications",
+          "title": "UNSW applying as an international student",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/international",
+          "checked_at": "2026-09-12",
+          "supports": "海外高考申请经Applicant Portal或授权代理；澳洲Year12/IB/NCEA需核对UAC渠道"
+        },
+        {
+          "id": "unsw-mechanical-engineering-rounds2027",
+          "title": "UNSW International Student Admissions：本科offer轮次",
+          "url": "https://www.unsw.edu.au/study/international-students/admissions-info",
+          "checked_at": "2026-09-12",
+          "supports": "非ISA国家本科Term1 2027轮次；2027申请开放与容量条件"
+        },
+        {
+          "id": "unsw-mechanical-engineering-calendar",
+          "title": "UNSW Academic calendars 2026–2027",
+          "url": "https://www.unsw.edu.au/student/managing-your-studies/key-dates/academic-calendar",
+          "checked_at": "2026-09-12",
+          "supports": "2026/2027标准Term教学开始与迎新日期"
+        },
+        {
+          "id": "unsw-mechanical-engineering-isa-eligibility",
+          "title": "UNSW ISA and IADP terms and conditions",
+          "url": "https://www.scholarships.unsw.edu.au/sites/default/files/2026-07/unsw-international-student-award-international-admissions-diversity-pathway-terms-conditions.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "资格依据国籍；Attachment A未列中国大陆；不能套用20%减费或5分加分"
+        },
+        {
+          "id": "unsw-mechanical-engineering-scholarship2027",
+          "title": "UNSW Scholarships for International Students Commencing Term 1, 2027",
+          "url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988/7272",
+          "checked_at": "2026-09-12",
+          "supports": "PUCA1029申请及通常合资格offer截止2026-10-30；Scientia金额与全日制2027T1要求；待Year12/同等成绩和UAC国际申请者例外；学业/领导力/活动/动机评选"
+        }
+      ],
+      "checked_at": "2026-09-12",
+      "campus": "Kensington（悉尼）",
+      "language": "英语"
+    },
+    {
+      "id": "unsw-economics",
+      "university_id": "unsw",
+      "name": "经济学学士",
+      "name_en": "Bachelor of Economics",
+      "degree": "本科",
+      "subject": "经济",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "2027高考参考75%；IELTS 7.0／单项6.0",
+      "tuition_summary": "2026首年参考：A$56,500；2027费用本轮未取得",
+      "outcomes_summary": "本专业就业率、起薪、升学率本轮未取得；附官方职业方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与校区",
+            "text": "课程 3543，CRICOS 001920G；Sydney Kensington校区，全日制3 年，144学分。课程页列Term 1、2、3；2028年日历变更可能影响2028年前入学者实际完成时间。",
+            "source_ids": [
+              "unsw-economics-course"
+            ]
+          },
+          {
+            "label": "课程与实践",
+            "text": "三年课程包括经济学基础与选修。可选择数据分析与计量经济、经济政策与社会、宏观经济与金融市场，也可不设专门方向；实习及行业实践为可选机会。",
+            "source_ids": [
+              "unsw-economics-course"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "Kensington（悉尼）；本条仅对应此校区。",
+            "source_ids": [
+              "unsw-economics-course"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。大学官方交换生资料明确教学语言；该语言来源为2021版，当前课程页也要求具备听课、作业和考试所需英语能力。这里不沿用旧资料的申请日期。",
+            "source_ids": [
+              "unsw-economics-language",
+              "unsw-economics-course"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国高考申请（2027）",
+            "text": "2027国际生表列高考75%。",
+            "source_ids": [
+              "unsw-economics-entry2027"
+            ]
+          },
+          {
+            "label": "分数口径与国际课程",
+            "text": "高考按全部应试科目百分比评估并核对各省满分；2027表列IB 33、GCE A Level 12分（校方积分制，非单科分数）。表为参考，实际要求可变，须以申请评估为准。",
+            "source_ids": [
+              "unsw-economics-entry2027"
+            ]
+          },
+          {
+            "label": "数学与理科准备",
+            "text": "课程页列assumed knowledge为Mathematics Advanced；大学指南将这类知识与正式入学科目要求区分，未学过不自动禁止录取，但建议先补习。",
+            "source_ids": [
+              "unsw-economics-course",
+              "unsw-economics-guide2026"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS Academic总分7.0，单项均不低于6.0。通常须在入学前两年内取得；Term 1/2/3分别按两年前1月1日、5月1日、8月1日核算最早考试日期。",
+            "source_ids": [
+              "unsw-economics-english"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2026国际生参考费用",
+            "text": "课程页当前列2026首年指示学费A$56,500。本轮未取得2027精确学费；2026金额不能作2027承诺报价。",
+            "source_ids": [
+              "unsw-economics-course"
+            ]
+          },
+          {
+            "label": "完整学费估算的边界",
+            "text": "2026课程总费用指示值A$180,500包含学费上涨假设及每年约A$1,000学习相关费用，不是固定的纯学费总额；实际金额按所选课程和年份变化。",
+            "source_ids": [
+              "unsw-economics-course"
+            ]
+          },
+          {
+            "label": "2027 Term 1奖学金入口",
+            "text": "国际生PUCA1029奖学金申请截止2026-10-30；通常还须在该日之前取得本页定义的合资格录取通知。International Scientia可为最低学制内全额学费或A$20,000/年，须2027 Term 1全日制入学并提交学业、领导力、活动和动机证据。原页允许尚待Year 12或同等最终成绩的申请者，以及UAC国际申请者，先在截止前申请；成功获奖者最终须持无条件录取通知。9月24日申请轮计划11月19日发offer，通常晚于10月30日资格截止，不能预设赶上奖学金。其他2027批次规则本轮未取得。",
+            "source_ids": [
+              "unsw-economics-scholarship2027",
+              "unsw-economics-rounds2027"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "可核实职业方向",
+            "text": "校方列经济研究、政策分析、商业或数据分析、经济咨询、金融分析等方向；职业清单不代表每位毕业生可直接进入相关岗位。",
+            "source_ids": [
+              "unsw-economics-course"
+            ]
+          },
+          {
+            "label": "毕业统计缺口",
+            "text": "本轮未取得本专业附调查年份、毕业届次、就业率分母及国际生分组的就业率、薪酬或深造比例；职业方向不能替代结果统计。",
+            "source_ids": [
+              "unsw-economics-course"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际生申请渠道",
+            "text": "持中国高考等海外资格，使用UNSW Applicant Portal提交材料，也可由大学授权代理协助。澳洲Year 12、IB或新西兰NCEA申请者须另核对UAC渠道与该渠道日程。",
+            "source_ids": [
+              "unsw-economics-applications"
+            ]
+          },
+          {
+            "label": "国籍与录取批次",
+            "text": "仅持中国大陆国籍不在ISA/IADP适用国籍清单，应核对非ISA国家的本科轮次；不要预设享有ISA学费减免或IADP加分。",
+            "source_ids": [
+              "unsw-economics-rounds2027",
+              "unsw-economics-isa-eligibility"
+            ]
+          },
+          {
+            "label": "2027开学批次",
+            "text": "课程列Term 1、2、3。标准教学起始日为2027-02-15、05-31、09-13，迎新分别为2月8–12日、5月24–28日、9月6–10日；须按取得毕业及最终成绩的时间选择批次。",
+            "source_ids": [
+              "unsw-economics-calendar",
+              "unsw-economics-course"
+            ]
+          },
+          {
+            "label": "2027申请窗口",
+            "text": "截至2026-09-12，2027申请开放。非ISA国家本科Term 1 2027下一轮完整申请截止2026-09-24，计划2026-11-19发offer，2026-12-24接受截止。这只是该轮安排，非全部2027批次最终截止；额外轮次视容量。本轮未取得Term 2/3 2027对应本科精确截止。",
+            "source_ids": [
+              "unsw-economics-rounds2027"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "unsw-economics-course",
+          "title": "UNSW Bachelor of Economics：课程页",
+          "url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics",
+          "checked_at": "2026-09-12",
+          "supports": "学位、Kensington、学制、课程/先修、2026国际生费用、职业方向"
+        },
+        {
+          "id": "unsw-economics-entry2027",
+          "title": "UNSW 2027 Undergraduate International Entry Requirements",
+          "url": "https://www.unsw.edu.au/content/dam/pdfs/future-students/2027-int-ug-entry-table.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027高考75%、GCE A Level分数、IB及工程包含机械方向的注释"
+        },
+        {
+          "id": "unsw-economics-english",
+          "title": "UNSW English language requirements",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "工程/商学院IELTS本科标准与考试有效期"
+        },
+        {
+          "id": "unsw-economics-guide2026",
+          "title": "UNSW 2026 International Undergraduate Guide",
+          "url": "https://www.unsw.edu.au/content/dam/pdfs/future-students/2026-INT-UG-Guide.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "Assumed knowledge与正式科目先修的区别；不用于2027总分要求"
+        },
+        {
+          "id": "unsw-economics-language",
+          "title": "UNSW Exchange Fact Sheet 2021：授课语言",
+          "url": "https://www.international.unsw.edu.au/sites/default/files/unsw-exchange-fact-sheet_2021.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "大学官方资料明确教学语言为英语；该来源年份为2021，仅用于语言，不用于日期/费用/申请规则"
+        },
+        {
+          "id": "unsw-economics-applications",
+          "title": "UNSW applying as an international student",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/international",
+          "checked_at": "2026-09-12",
+          "supports": "海外高考申请经Applicant Portal或授权代理；澳洲Year12/IB/NCEA需核对UAC渠道"
+        },
+        {
+          "id": "unsw-economics-rounds2027",
+          "title": "UNSW International Student Admissions：本科offer轮次",
+          "url": "https://www.unsw.edu.au/study/international-students/admissions-info",
+          "checked_at": "2026-09-12",
+          "supports": "非ISA国家本科Term1 2027轮次；2027申请开放与容量条件"
+        },
+        {
+          "id": "unsw-economics-calendar",
+          "title": "UNSW Academic calendars 2026–2027",
+          "url": "https://www.unsw.edu.au/student/managing-your-studies/key-dates/academic-calendar",
+          "checked_at": "2026-09-12",
+          "supports": "2026/2027标准Term教学开始与迎新日期"
+        },
+        {
+          "id": "unsw-economics-isa-eligibility",
+          "title": "UNSW ISA and IADP terms and conditions",
+          "url": "https://www.scholarships.unsw.edu.au/sites/default/files/2026-07/unsw-international-student-award-international-admissions-diversity-pathway-terms-conditions.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "资格依据国籍；Attachment A未列中国大陆；不能套用20%减费或5分加分"
+        },
+        {
+          "id": "unsw-economics-scholarship2027",
+          "title": "UNSW Scholarships for International Students Commencing Term 1, 2027",
+          "url": "https://www.scholarships.unsw.edu.au/scholarships/id/1988/7272",
+          "checked_at": "2026-09-12",
+          "supports": "PUCA1029申请及通常合资格offer截止2026-10-30；Scientia金额与全日制2027T1要求；待Year12/同等成绩和UAC国际申请者例外；学业/领导力/活动/动机评选"
+        }
+      ],
+      "checked_at": "2026-09-12",
+      "campus": "Kensington（悉尼）",
+      "language": "英语"
     }
   ]
 }

@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
+已收录 4 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
 <div class="program-grid">
 <article class="program-card" data-program-id="nus-business-administration">
@@ -45,6 +45,26 @@ hide:
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>高考成绩良好；数学先修与英语证明另审</dd><dt>学费</dt><dd>2026/27：无补助 S$39,700／年；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>2025届：全职长期就业84.1%；税前月薪中位 S$6,400（全职长期受访者）</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/nus/nus-computer-science/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="nus-electrical-engineering">
+<div class="program-meta"><span>新加坡 · 新加坡</span><span>工程</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/singapore/nus/">新加坡国立大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>10</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-electrical-engineering/">电气工程（荣誉）</a></h3>
+<p class="program-english">Bachelor of Engineering (Electrical Engineering)</p>
+<p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>Engineering 共同入口；高考与 Year 12 数学、英语另审</dd><dt>学费</dt><dd>2026/27：无补助 S$39,700／年；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>本轮未核实可发布的专业就业率及薪资；见统计缺口说明</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/singapore/nus/nus-electrical-engineering/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="nus-economics">
+<div class="program-meta"><span>新加坡 · 新加坡</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/singapore/nus/">新加坡国立大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>10</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/singapore/nus/nus-economics/">经济学（荣誉；CHS 共同入口）</a></h3>
+<p class="program-english">Bachelor of Social Sciences (Honours) in Economics</p>
+<p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>Humanities and Sciences 共同入口；主修选择与高考、英语另审</dd><dt>学费</dt><dd>2026/27：无补助 S$36,650／年；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>本轮未取得经济学单列就业结果；不将 BSocSci 汇总当作经济学成绩</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/singapore/nus/nus-economics/">查看条件、费用与去向 →</a>
 </article></div>
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

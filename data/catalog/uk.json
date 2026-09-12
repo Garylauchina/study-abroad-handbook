@@ -329,6 +329,21 @@
             "source_ids": [
               "UK-SHE-CS-COURSE"
             ]
+          },
+          {
+            "label": "校区",
+            "text": "谢菲尔德校本部。课程页说明课堂通常在大学校园，主要实践教学在The Diamond。",
+            "source_ids": [
+              "UK-SHE-CS-COURSE"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。合作大学UOW的官方Sheffield交换资料明确列示英语授课；本课程英语入学标准另见下方。该语言来源为院校层面资料，非2027单专业规章。",
+            "source_ids": [
+              "UK-SHE-LANGUAGE-PARTNER",
+              "UK-SHE-CS-COURSE"
+            ]
           }
         ],
         "admissions": [
@@ -355,6 +370,30 @@
             ]
           }
         ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请；课程代码为G402。",
+            "source_ids": [
+              "UK-SHE-CS-COURSE"
+            ]
+          },
+          {
+            "label": "2027 平等考虑截止",
+            "text": "一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。",
+            "source_ids": [
+              "UK-UCAS-DEADLINE-2027",
+              "UK-SHE-CS-COURSE"
+            ]
+          },
+          {
+            "label": "当前周期状态",
+            "text": "按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。",
+            "source_ids": [
+              "UK-UCAS-2027"
+            ]
+          }
+        ],
         "fees": [
           {
             "label": "2027 国际生专业学费",
@@ -375,6 +414,20 @@
             "text": "校方说明：保持同一课程时，之后各年的学费与第一年相同；转专业、实习年及海外学习年另有规则。",
             "source_ids": [
               "UK-SHE-FEES"
+            ]
+          },
+          {
+            "label": "2027 国际本科奖学金",
+            "text": "符合条件可自动获每年£2,500学费减免，无需另申。须2027年9月入学、按overseas收费且自费，并在2027年6月2日英国16:00前将Sheffield设为firm或insurance；本课程不属于医学／牙医学排除项。",
+            "source_ids": [
+              "UK-SHE-SCHOLARSHIP-2027"
+            ]
+          },
+          {
+            "label": "奖学金续领与叠加",
+            "text": "之后年度须前一年均分至少60%并取得120学分；实习年和海外学习年不适用。除非明确允许，不得与大学其他奖学金或折扣叠加；也不得同时获得外部机构全额或部分资助，须全部偿还的贷款除外。贷款机构若另享大学折扣，只取较高优惠，不可叠加。",
+            "source_ids": [
+              "UK-SHE-SCHOLARSHIP-2027"
             ]
           }
         ],
@@ -410,7 +463,7 @@
           "title": "Computer Science BSc — 2027/28",
           "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-bsc",
           "checked_at": "2026-09-12",
-          "supports": "G402 三年全日制课程、课程方向、A-level 与英语要求"
+          "supports": "G402 三年全日制课程、课程方向、A-level 与英语要求；课程所在教学设施、UCAS申请渠道和课程代码"
         },
         {
           "id": "UK-SHE-CHINA",
@@ -446,9 +499,39 @@
           "url": "https://www.discoveruni.gov.uk/about-our-data/",
           "checked_at": "2026-09-12",
           "supports": "毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果"
+        },
+        {
+          "id": "UK-UCAS-2027",
+          "title": "UCAS 2027 本科申请日期",
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导"
+        },
+        {
+          "id": "UK-UCAS-DEADLINE-2027",
+          "title": "UCAS 2027 一般本科平等考虑截止",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-12",
+          "supports": "2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位"
+        },
+        {
+          "id": "UK-SHE-SCHOLARSHIP-2027",
+          "title": "Sheffield International Undergraduate Scholarship 2027",
+          "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027",
+          "checked_at": "2026-09-12",
+          "supports": "2027每年£2,500学费减免；firm或insurance时限、自费国际生、进度及不可叠加条件"
+        },
+        {
+          "id": "UK-SHE-LANGUAGE-PARTNER",
+          "title": "UOW 官方 Sheffield 交换院校资料",
+          "url": "https://www.uow.edu.au/student/study-overseas/explore-and-apply/exchange/unitedkingdom/university-of-sheffield/",
+          "checked_at": "2026-09-12",
+          "supports": "合作大学官方资料明确Sheffield授课语言English；这是院校层面交换资料，非2027单专业语言规章"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-12",
+      "campus": "谢菲尔德校本部",
+      "language": "英语"
     },
     {
       "id": "sheffield-economics-bsc",
@@ -456,7 +539,7 @@
       "name": "经济学",
       "name_en": "Economics BSc",
       "degree": "本科",
-      "subject": "商科",
+      "subject": "经济",
       "intake": "2027",
       "duration": "3 年",
       "entry_summary": "高考有直入路径；A-level AAB，含数学",
@@ -475,6 +558,21 @@
             "label": "学什么",
             "text": "侧重数学、统计、计量经济学和经济分析方法；前两年与 Economics BA 共用核心课程，第三年走方法与理论方向。",
             "source_ids": [
+              "UK-SHE-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "谢菲尔德校本部。经济学院设在Elmfield；教学可能在Elmfield、The Wave及其他校园楼宇进行。",
+            "source_ids": [
+              "UK-SHE-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。合作大学UOW的官方Sheffield交换资料明确列示英语授课；本课程英语入学标准另见下方。该语言来源为院校层面资料，非2027单专业规章。",
+            "source_ids": [
+              "UK-SHE-LANGUAGE-PARTNER",
               "UK-SHE-ECON-COURSE"
             ]
           }
@@ -503,6 +601,30 @@
             ]
           }
         ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请；课程代码为L101。",
+            "source_ids": [
+              "UK-SHE-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "2027 平等考虑截止",
+            "text": "一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。",
+            "source_ids": [
+              "UK-UCAS-DEADLINE-2027",
+              "UK-SHE-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "当前周期状态",
+            "text": "按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。",
+            "source_ids": [
+              "UK-UCAS-2027"
+            ]
+          }
+        ],
         "fees": [
           {
             "label": "2027 国际生专业学费",
@@ -523,6 +645,20 @@
             "text": "保持同一课程时学费固定；可选实习年、海外学习年及转专业的费用另行核对。",
             "source_ids": [
               "UK-SHE-FEES"
+            ]
+          },
+          {
+            "label": "2027 国际本科奖学金",
+            "text": "符合条件可自动获每年£2,500学费减免，无需另申。须2027年9月入学、按overseas收费且自费，并在2027年6月2日英国16:00前将Sheffield设为firm或insurance；本课程不属于医学／牙医学排除项。",
+            "source_ids": [
+              "UK-SHE-SCHOLARSHIP-2027"
+            ]
+          },
+          {
+            "label": "奖学金续领与叠加",
+            "text": "之后年度须前一年均分至少60%并取得120学分；实习年和海外学习年不适用。除非明确允许，不得与大学其他奖学金或折扣叠加；也不得同时获得外部机构全额或部分资助，须全部偿还的贷款除外。贷款机构若另享大学折扣，只取较高优惠，不可叠加。",
+            "source_ids": [
+              "UK-SHE-SCHOLARSHIP-2027"
             ]
           }
         ],
@@ -559,7 +695,7 @@
           "title": "Economics BSc — 2027/28",
           "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-bsc",
           "checked_at": "2026-09-12",
-          "supports": "L101 三年课程、数学先修、IELTS、课程内容及院系毕业方向"
+          "supports": "L101 三年课程、数学先修、IELTS、课程内容及院系毕业方向；课程所在教学设施、UCAS申请渠道和课程代码"
         },
         {
           "id": "UK-SHE-CHINA",
@@ -595,9 +731,39 @@
           "url": "https://www.discoveruni.gov.uk/about-our-data/",
           "checked_at": "2026-09-12",
           "supports": "毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果"
+        },
+        {
+          "id": "UK-UCAS-2027",
+          "title": "UCAS 2027 本科申请日期",
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导"
+        },
+        {
+          "id": "UK-UCAS-DEADLINE-2027",
+          "title": "UCAS 2027 一般本科平等考虑截止",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-12",
+          "supports": "2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位"
+        },
+        {
+          "id": "UK-SHE-SCHOLARSHIP-2027",
+          "title": "Sheffield International Undergraduate Scholarship 2027",
+          "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027",
+          "checked_at": "2026-09-12",
+          "supports": "2027每年£2,500学费减免；firm或insurance时限、自费国际生、进度及不可叠加条件"
+        },
+        {
+          "id": "UK-SHE-LANGUAGE-PARTNER",
+          "title": "UOW 官方 Sheffield 交换院校资料",
+          "url": "https://www.uow.edu.au/student/study-overseas/explore-and-apply/exchange/unitedkingdom/university-of-sheffield/",
+          "checked_at": "2026-09-12",
+          "supports": "合作大学官方资料明确Sheffield授课语言English；这是院校层面交换资料，非2027单专业语言规章"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-12",
+      "campus": "谢菲尔德校本部",
+      "language": "英语"
     },
     {
       "id": "manchester-computer-science-bsc",
@@ -624,6 +790,21 @@
             "label": "学什么",
             "text": "从编程、计算原理和计算机数学起步，进阶软件工程、算法、数据库及可选人工智能等方向，并包含个人或团队项目。",
             "source_ids": [
+              "UK-MAN-CS-COURSE"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "曼彻斯特校本部。计算机系位于Oxford Road的Kilburn Building，官网明确其位于主校区。",
+            "source_ids": [
+              "UK-MAN-CS-CAMPUS"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。2026年4月2日校规XII.3规定校内教学使用英语，除非某项目规章另有规定；本课程另列英语入学门槛。",
+            "source_ids": [
+              "UK-MAN-LANGUAGE-REGULATIONS",
               "UK-MAN-CS-COURSE"
             ]
           }
@@ -659,12 +840,43 @@
             ]
           }
         ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请；课程代码为G400，Manchester学校代码M20。",
+            "source_ids": [
+              "UK-MAN-CS-COURSE"
+            ]
+          },
+          {
+            "label": "2027 平等考虑截止",
+            "text": "一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。",
+            "source_ids": [
+              "UK-UCAS-DEADLINE-2027",
+              "UK-MAN-CS-COURSE"
+            ]
+          },
+          {
+            "label": "当前周期状态",
+            "text": "按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。",
+            "source_ids": [
+              "UK-UCAS-2027"
+            ]
+          }
+        ],
         "fees": [
           {
             "label": "2027 国际生专业学费",
             "text": "官方 2027 课程页明确表示学费尚未确定；页面展示的 2026 本地生收费不可当作国际生费用。本目录暂不填入项目金额。",
             "source_ids": [
               "UK-MAN-CS-COURSE"
+            ]
+          },
+          {
+            "label": "奖学金地区条件",
+            "text": "Global Futures 2027按居住地区判断资格，当前清单不含中国大陆，因此居住在中国大陆者不符合本页地区条件；这不是按中国国籍一概排除。本轮未核实其他适用于本课程及该居住地申请者的具体奖项金额。",
+            "source_ids": [
+              "UK-MAN-GLOBAL-FUTURES-2027"
             ]
           }
         ],
@@ -699,7 +911,7 @@
           "title": "BSc Computer Science — 2027 entry",
           "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00560/bsc-computer-science/",
           "checked_at": "2026-09-12",
-          "supports": "G400 学制、课程、A-level、认可预科、英语及 2027 学费未定说明"
+          "supports": "G400 学制、课程、A-level、认可预科、英语及 2027 学费未定说明；课程所在教学设施、UCAS申请渠道和课程代码"
         },
         {
           "id": "UK-MAN-CHINA",
@@ -721,9 +933,46 @@
           "url": "https://www.discoveruni.gov.uk/about-our-data/",
           "checked_at": "2026-09-12",
           "supports": "毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果"
+        },
+        {
+          "id": "UK-UCAS-2027",
+          "title": "UCAS 2027 本科申请日期",
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导"
+        },
+        {
+          "id": "UK-UCAS-DEADLINE-2027",
+          "title": "UCAS 2027 一般本科平等考虑截止",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-12",
+          "supports": "2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位"
+        },
+        {
+          "id": "UK-MAN-GLOBAL-FUTURES-2027",
+          "title": "Manchester Global Futures Scholarships 2027",
+          "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
+          "checked_at": "2026-09-12",
+          "supports": "2027奖项以居住地区为资格条件；当前清单不含中国大陆；并非按中国国籍一概排除"
+        },
+        {
+          "id": "UK-MAN-LANGUAGE-REGULATIONS",
+          "title": "Manchester General Regulations（2026-04-02）",
+          "url": "https://documents.manchester.ac.uk/display.aspx?DocID=79060",
+          "checked_at": "2026-09-12",
+          "supports": "第12页General Regulation XII.3：校内授课语言为英语，除非特定项目规章另有规定"
+        },
+        {
+          "id": "UK-MAN-CS-CAMPUS",
+          "title": "Manchester 计算机系介绍及校区位置",
+          "url": "https://www.cs.manchester.ac.uk/about/",
+          "checked_at": "2026-09-12",
+          "supports": "本科教学所属计算机系位于主校区Kilburn Building，Oxford Road"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-12",
+      "campus": "曼彻斯特校本部",
+      "language": "英语"
     },
     {
       "id": "manchester-management-bsc",
@@ -751,6 +1000,20 @@
             "text": "第一年包括会计、金融、经济、营销、工作心理学、组织与管理和定量方法；之后可选修，末年有论文或企业咨询项目等路径。",
             "source_ids": [
               "UK-MAN-MGMT-COURSE"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "曼彻斯特校本部，所属Alliance Manchester Business School位于Booth Street West；具体课堂按课程安排。",
+            "source_ids": [
+              "UK-MAN-MGMT-CAMPUS"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语；AMBS本科学生手册明确全部本科教学使用英语。",
+            "source_ids": [
+              "UK-MAN-MGMT-LANGUAGE"
             ]
           }
         ],
@@ -784,6 +1047,30 @@
             ]
           }
         ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请；课程代码为N201，Manchester学校代码M20。",
+            "source_ids": [
+              "UK-MAN-MGMT-COURSE"
+            ]
+          },
+          {
+            "label": "2027 平等考虑截止",
+            "text": "一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。",
+            "source_ids": [
+              "UK-UCAS-DEADLINE-2027",
+              "UK-MAN-MGMT-COURSE"
+            ]
+          },
+          {
+            "label": "当前周期状态",
+            "text": "按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。",
+            "source_ids": [
+              "UK-UCAS-2027"
+            ]
+          }
+        ],
         "fees": [
           {
             "label": "2027 国际生专业学费",
@@ -797,6 +1084,13 @@
             "text": "商学院官方收费页列 2026/27 国际生年费 £33,100，并注明之后年度可能每年上调最多 7%。这只是上一入学年度参考，不是 2027 的已公布报价，也不包括生活费。",
             "source_ids": [
               "UK-MAN-MGMT-FEES"
+            ]
+          },
+          {
+            "label": "奖学金地区条件",
+            "text": "Global Futures 2027按居住地区判断资格，当前清单不含中国大陆，因此居住在中国大陆者不符合本页地区条件；这不是按中国国籍一概排除。本轮未核实其他适用于本课程及该居住地申请者的具体奖项金额。",
+            "source_ids": [
+              "UK-MAN-GLOBAL-FUTURES-2027"
             ]
           }
         ],
@@ -838,7 +1132,7 @@
           "title": "BSc Management — 2027 entry（完整课程页）",
           "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03519/bsc-management/all-content/",
           "checked_at": "2026-09-12",
-          "supports": "N201 三年课程、A-level、选科限制、IB、GCSE 等效要求、IELTS 及 2027 学费未定"
+          "supports": "N201 三年课程、A-level、选科限制、IB、GCSE 等效要求、IELTS 及 2027 学费未定；课程所在教学设施、UCAS申请渠道和课程代码"
         },
         {
           "id": "UK-MAN-CHINA",
@@ -867,9 +1161,887 @@
           "url": "https://www.discoveruni.gov.uk/about-our-data/",
           "checked_at": "2026-09-12",
           "supports": "毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果"
+        },
+        {
+          "id": "UK-UCAS-2027",
+          "title": "UCAS 2027 本科申请日期",
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导"
+        },
+        {
+          "id": "UK-UCAS-DEADLINE-2027",
+          "title": "UCAS 2027 一般本科平等考虑截止",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-12",
+          "supports": "2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位"
+        },
+        {
+          "id": "UK-MAN-GLOBAL-FUTURES-2027",
+          "title": "Manchester Global Futures Scholarships 2027",
+          "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
+          "checked_at": "2026-09-12",
+          "supports": "2027奖项以居住地区为资格条件；当前清单不含中国大陆；并非按中国国籍一概排除"
+        },
+        {
+          "id": "UK-MAN-MGMT-CAMPUS",
+          "title": "Alliance MBS 本科访问与联系方式",
+          "url": "https://www.alliancembs.manchester.ac.uk/study/undergraduate/visit-contact-us/",
+          "checked_at": "2026-09-12",
+          "supports": "本科所属商学院在Manchester的Booth Street West；校园访问入口"
+        },
+        {
+          "id": "UK-MAN-MGMT-LANGUAGE",
+          "title": "AMBS Undergraduate Handbook — English language requirements",
+          "url": "https://www.ambs.ughandbook.manchester.ac.uk/support/ambs-support/other-undergraduate-support/",
+          "checked_at": "2026-09-12",
+          "supports": "商学院本科教学全部使用英语"
         }
       ],
-      "checked_at": "2026-09-12"
+      "checked_at": "2026-09-12",
+      "campus": "曼彻斯特校本部",
+      "language": "英语"
+    },
+    {
+      "id": "sheffield-mechanical-engineering-beng",
+      "university_id": "sheffield",
+      "name": "机械工程",
+      "name_en": "Mechanical Engineering BEng",
+      "degree": "本科",
+      "subject": "工程",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "高考有直入路径；A-level A*AA，含数学及物理／化学／生物之一",
+      "tuition_summary": "2027 专业金额本轮未取得",
+      "outcomes_summary": "本轮未取得本专业毕业统计；附官方职业方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与学制",
+            "text": "2027 年 9 月入学，UCAS H302，BEng，全日制 3 年；课程提供可选实习年或海外学习机会，选择后需另核总学制。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "学什么",
+            "text": "前两年学习设计、数学、流体、动力学、热力学和材料力学；通过项目应用理论，第三年包含个人研究项目及专业选修。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "谢菲尔德校本部。课程页说明多数本科讲座、实验或辅导课在The Diamond进行。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。合作大学UOW的官方Sheffield交换资料明确列示英语授课；本课程英语入学标准另见下方。该语言来源为院校层面资料，非2027单专业规章。",
+            "source_ids": [
+              "UK-SHE-LANGUAGE-PARTNER",
+              "UK-SHE-ME-COURSE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考",
+            "text": "学校接受高考直入：AAA及以上课程校级总分门槛为满分75%；专业要求数学及一门科学，还须满足相应高考单科门槛。中国资格页未单列2027，本专业选科及A*单科换算本轮未核实。仅高中毕业证需认可预科。",
+            "source_ids": [
+              "UK-SHE-CHINA",
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "A-level 资格",
+            "text": "2027标准为 A*AA，含数学以及物理、化学、生物至少一门。另列 AAA（同样选科）加 AS 进阶数学 A 或 A-level 进阶数学 B 的替代组合。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "IB 资格",
+            "text": "标准总分38，Higher Level数学及物理／化学／生物至少一门为6；另有总分36加科学类Extended Essay A等组合，按课程页完整条件核对。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS 总分6.5，各单项至少6.0，或认可等效英语资格。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "预科路径",
+            "text": "课程页列 Sheffield International College 的 International Foundation Year in Science and Engineering；具体入读和升读成绩须另核预科规则。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请；课程代码为H302。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "2027 平等考虑截止",
+            "text": "一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。",
+            "source_ids": [
+              "UK-UCAS-DEADLINE-2027",
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "当前周期状态",
+            "text": "按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。",
+            "source_ids": [
+              "UK-UCAS-2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027 国际生专业学费",
+            "text": "本轮未取得 H302 的准确国际生金额。课程页引导至收费查询入口，不应把全校费用区间当作本课程报价。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE",
+              "UK-SHE-LOOKUP"
+            ]
+          },
+          {
+            "label": "后续年度",
+            "text": "国际生保持同一课程时，学费按第一年金额固定；转专业、实习年及海外学习年另有收费规则。",
+            "source_ids": [
+              "UK-SHE-FEES"
+            ]
+          },
+          {
+            "label": "2027 国际本科奖学金",
+            "text": "符合条件可自动获每年£2,500学费减免，无需另申。须2027年9月入学、按overseas收费且自费，并在2027年6月2日英国16:00前将Sheffield设为firm或insurance；本课程不属于医学／牙医学排除项。",
+            "source_ids": [
+              "UK-SHE-SCHOLARSHIP-2027"
+            ]
+          },
+          {
+            "label": "奖学金续领与叠加",
+            "text": "之后年度须前一年均分至少60%并取得120学分；实习年和海外学习年不适用。除非明确允许，不得与大学其他奖学金或折扣叠加；也不得同时获得外部机构全额或部分资助，须全部偿还的贷款除外。贷款机构若另享大学折扣，只取较高优惠，不可叠加。",
+            "source_ids": [
+              "UK-SHE-SCHOLARSHIP-2027"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业方向",
+            "text": "课程页列出的近期雇主包括 BAE Systems、Boeing、Dyson、EDF、Jaguar、McLaren、Siemens 等，涉及航空航天、交通、能源及制造领域；这些是去向实例，没有相应岗位占比。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          },
+          {
+            "label": "统计边界",
+            "text": "本轮未取得 H302 可核验的课程级毕业调查比例、样本与薪资。以上雇主和职业方向不能读成就业率，也没有单列中国大陆毕业生。",
+            "source_ids": [
+              "UK-SHE-ME-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-SHE-ME-COURSE",
+          "title": "Mechanical Engineering BEng — 2027 entry",
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-beng",
+          "checked_at": "2026-09-12",
+          "supports": "2027课程与UCAS代码、学制、教学设施、A-level/IB/英语、申请渠道、费用状态和毕业方向；课程所在教学设施、UCAS申请渠道和课程代码"
+        },
+        {
+          "id": "UK-SHE-CHINA",
+          "title": "Sheffield 中国学历入学要求",
+          "url": "https://sheffield.ac.uk/international/entry-requirements/china",
+          "checked_at": "2026-09-12",
+          "supports": "校级高考直入、单科要求及普高毕业证预科路径；页面未标入学年度"
+        },
+        {
+          "id": "UK-SHE-LOOKUP",
+          "title": "Sheffield 本科学费查询工具",
+          "url": "https://tools.sheffield.ac.uk/fees/ug/",
+          "checked_at": "2026-09-12",
+          "supports": "专业收费查询入口；本次公开表格的数据请求返回空结果，未取得项目金额"
+        },
+        {
+          "id": "UK-SHE-FEES",
+          "title": "Sheffield 国际生本科收费规则",
+          "url": "https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28 校级收费范围及同课程固定学费规则；不是专业准确报价"
+        },
+        {
+          "id": "UK-UCAS-2027",
+          "title": "UCAS 2027 本科申请日期",
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导"
+        },
+        {
+          "id": "UK-UCAS-DEADLINE-2027",
+          "title": "UCAS 2027 一般本科平等考虑截止",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-12",
+          "supports": "2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位"
+        },
+        {
+          "id": "UK-SHE-SCHOLARSHIP-2027",
+          "title": "Sheffield International Undergraduate Scholarship 2027",
+          "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027",
+          "checked_at": "2026-09-12",
+          "supports": "2027每年£2,500学费减免；firm或insurance时限、自费国际生、进度及不可叠加条件"
+        },
+        {
+          "id": "UK-SHE-LANGUAGE-PARTNER",
+          "title": "UOW 官方 Sheffield 交换院校资料",
+          "url": "https://www.uow.edu.au/student/study-overseas/explore-and-apply/exchange/unitedkingdom/university-of-sheffield/",
+          "checked_at": "2026-09-12",
+          "supports": "合作大学官方资料明确Sheffield授课语言English；这是院校层面交换资料，非2027单专业语言规章"
+        }
+      ],
+      "checked_at": "2026-09-12",
+      "campus": "谢菲尔德校本部",
+      "language": "英语"
+    },
+    {
+      "id": "sheffield-electrical-electronic-engineering-beng",
+      "university_id": "sheffield",
+      "name": "电气与电子工程",
+      "name_en": "Electrical and Electronic Engineering BEng",
+      "degree": "本科",
+      "subject": "工程",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "高考有直入路径；A-level AAB，含数学及一门认可科学",
+      "tuition_summary": "2027 专业金额本轮未取得",
+      "outcomes_summary": "本轮未取得本专业毕业统计；附官方职业方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与学制",
+            "text": "2027 年 9 月入学，UCAS H628，BEng，全日制3年；可选实习年和海外学习需另核总时长。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "学什么",
+            "text": "涵盖数字与模拟电子、电机与驱动、电力系统、通信、数字信号处理和嵌入式编程，并通过硬件与软件项目练习设计、实现和测试。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "谢菲尔德校本部。课程页说明多数本科讲座、实验或辅导课在The Diamond进行。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。合作大学UOW的官方Sheffield交换资料明确列示英语授课；本课程英语入学标准另见下方。该语言来源为院校层面资料，非2027单专业规章。",
+            "source_ids": [
+              "UK-SHE-LANGUAGE-PARTNER",
+              "UK-SHE-EE-COURSE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考",
+            "text": "学校高考规则中 AAB–ABB 课程的校级总分门槛为满分70%，数学和专业要求的科学单科还须达到对应等级。该校级页未单列2027，本专业高考具体科目与等级换算本轮未核实；仅高中毕业证需认可预科。",
+            "source_ids": [
+              "UK-SHE-CHINA",
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "A-level 资格",
+            "text": "2027标准为 AAB，含数学及一门科学。认可科学包括生物／人体生物、化学、计算机、电子、工程、进阶数学、物理或技术。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "IB 资格",
+            "text": "标准总分34，Higher Level数学和科学分别为6、5（顺序不限）；另列总分33、两科5并有科学类Extended Essay B的替代组合。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS总分6.5，各单项至少6.0，或学校认可的等效英语资格。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "预科路径",
+            "text": "课程页列 Sheffield International College 的 International Foundation Year in Science and Engineering；具体预科录取和升读成绩另核。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请；课程代码为H628。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "2027 平等考虑截止",
+            "text": "一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。",
+            "source_ids": [
+              "UK-UCAS-DEADLINE-2027",
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "当前周期状态",
+            "text": "按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。",
+            "source_ids": [
+              "UK-UCAS-2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027 国际生专业学费",
+            "text": "本轮未取得 H628 的准确国际生金额。官方课程页提供收费入口，全校金额范围不能当作本课程报价。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE",
+              "UK-SHE-LOOKUP"
+            ]
+          },
+          {
+            "label": "后续年度",
+            "text": "国际生保持同一课程时，之后年度学费与第一年相同；实习年、海外学习年和转专业须另核。",
+            "source_ids": [
+              "UK-SHE-FEES"
+            ]
+          },
+          {
+            "label": "2027 国际本科奖学金",
+            "text": "符合条件可自动获每年£2,500学费减免，无需另申。须2027年9月入学、按overseas收费且自费，并在2027年6月2日英国16:00前将Sheffield设为firm或insurance；本课程不属于医学／牙医学排除项。",
+            "source_ids": [
+              "UK-SHE-SCHOLARSHIP-2027"
+            ]
+          },
+          {
+            "label": "奖学金续领与叠加",
+            "text": "之后年度须前一年均分至少60%并取得120学分；实习年和海外学习年不适用。除非明确允许，不得与大学其他奖学金或折扣叠加；也不得同时获得外部机构全额或部分资助，须全部偿还的贷款除外。贷款机构若另享大学折扣，只取较高优惠，不可叠加。",
+            "source_ids": [
+              "UK-SHE-SCHOLARSHIP-2027"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "院系毕业岗位实例",
+            "text": "课程页列出的院系毕业方向包括设计工程师、能源顾问、系统工程师、电气工程师、核电控制工程师及软件工程师。该列表属于院系职业实例，不是 H628 的毕业调查比例。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          },
+          {
+            "label": "统计边界",
+            "text": "本轮未取得 H628 独立的毕业调查比例、样本或薪资，亦未取得中国大陆毕业生分组结果。",
+            "source_ids": [
+              "UK-SHE-EE-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-SHE-EE-COURSE",
+          "title": "Electrical and Electronic Engineering BEng — 2027 entry",
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-beng",
+          "checked_at": "2026-09-12",
+          "supports": "2027课程与UCAS代码、学制、教学设施、A-level/IB/英语、申请渠道、费用状态和毕业方向；课程所在教学设施、UCAS申请渠道和课程代码"
+        },
+        {
+          "id": "UK-SHE-CHINA",
+          "title": "Sheffield 中国学历入学要求",
+          "url": "https://sheffield.ac.uk/international/entry-requirements/china",
+          "checked_at": "2026-09-12",
+          "supports": "校级高考直入、单科要求及普高毕业证预科路径；页面未标入学年度"
+        },
+        {
+          "id": "UK-SHE-LOOKUP",
+          "title": "Sheffield 本科学费查询工具",
+          "url": "https://tools.sheffield.ac.uk/fees/ug/",
+          "checked_at": "2026-09-12",
+          "supports": "专业收费查询入口；本次公开表格的数据请求返回空结果，未取得项目金额"
+        },
+        {
+          "id": "UK-SHE-FEES",
+          "title": "Sheffield 国际生本科收费规则",
+          "url": "https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28 校级收费范围及同课程固定学费规则；不是专业准确报价"
+        },
+        {
+          "id": "UK-UCAS-2027",
+          "title": "UCAS 2027 本科申请日期",
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导"
+        },
+        {
+          "id": "UK-UCAS-DEADLINE-2027",
+          "title": "UCAS 2027 一般本科平等考虑截止",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-12",
+          "supports": "2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位"
+        },
+        {
+          "id": "UK-SHE-SCHOLARSHIP-2027",
+          "title": "Sheffield International Undergraduate Scholarship 2027",
+          "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027",
+          "checked_at": "2026-09-12",
+          "supports": "2027每年£2,500学费减免；firm或insurance时限、自费国际生、进度及不可叠加条件"
+        },
+        {
+          "id": "UK-SHE-LANGUAGE-PARTNER",
+          "title": "UOW 官方 Sheffield 交换院校资料",
+          "url": "https://www.uow.edu.au/student/study-overseas/explore-and-apply/exchange/unitedkingdom/university-of-sheffield/",
+          "checked_at": "2026-09-12",
+          "supports": "合作大学官方资料明确Sheffield授课语言English；这是院校层面交换资料，非2027单专业语言规章"
+        }
+      ],
+      "checked_at": "2026-09-12",
+      "campus": "谢菲尔德校本部",
+      "language": "英语"
+    },
+    {
+      "id": "manchester-mechanical-engineering-beng",
+      "university_id": "manchester",
+      "name": "机械工程",
+      "name_en": "BEng Mechanical Engineering",
+      "degree": "本科",
+      "subject": "工程",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "高考不直接入学；A-level A*A*A，含数学和物理",
+      "tuition_summary": "2027 未定；2026/27 参考 £35,700／年",
+      "outcomes_summary": "本轮未取得本专业毕业统计；附官方职业方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与学制",
+            "text": "2027入学，UCAS H300，学校代码M20，BEng，3年。该记录对应三年本科正课。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "学什么",
+            "text": "学习机械工程基础与设计，末年有专业选修及独立研究项目；项目包含科学实验、调查与分析。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "曼彻斯特校本部。课程使用Home of Engineering and Materials教学设施，包括风洞和激光实验室。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。2026年4月2日校规XII.3规定校内教学使用英语，除非某项目规章另有规定；本课程另列英语入学门槛。",
+            "source_ids": [
+              "UK-MAN-LANGUAGE-REGULATIONS",
+              "UK-MAN-ME-COURSE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考",
+            "text": "大学中国大陆资格页说明，完成普通高中者需先读认可预科，高考不能直接用于本科入学。A-level、IB等持有人按对应资格与专业要求评估。",
+            "source_ids": [
+              "UK-MAN-CHINA",
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "A-level 资格",
+            "text": "2027标准为 A*A*A，三科须含数学、物理及另一科。第三科优先相关科学或技术类，但非强制；未修物理而修进阶数学者可个案考虑。 所修Science A-level若含独立实验考核，还须通过实验部分。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "IB 资格",
+            "text": "总分38，Higher Level为7、7、6，须含数学和物理；数学接受Analysis and Approaches或Applications and Interpretation。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "GCSE／IGCSE基础",
+            "text": "通常要求至少五门GCSE／IGCSE达到A*/8至B/6，包含数学与科学；英语语言至少C/4。其他资格的等效认定须按大学标准核对。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS 总分6.5，各单项至少6.5；有时效限制的英语成绩须在开课时有效。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请；课程代码为H300，Manchester学校代码M20。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "2027 平等考虑截止",
+            "text": "一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。",
+            "source_ids": [
+              "UK-UCAS-DEADLINE-2027",
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "当前周期状态",
+            "text": "按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。",
+            "source_ids": [
+              "UK-UCAS-2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027 国际生专业学费",
+            "text": "2027课程页明确表示学费尚未确定；同页2026本地生数字不适用于国际生。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "2026/27 参考金额",
+            "text": "同一专业2026课程页列国际生年费£35,700，之后年度校方保留每年最多上调7%的权利。该数字属于2026/27入学参考，不是2027报价，也不含生活费。",
+            "source_ids": [
+              "UK-MAN-ME-FEES-2026"
+            ]
+          },
+          {
+            "label": "奖学金地区条件",
+            "text": "Global Futures 2027按居住地区判断资格，当前清单不含中国大陆，因此居住在中国大陆者不符合本页地区条件；这不是按中国国籍一概排除。本轮未核实其他适用于本课程及该居住地申请者的具体奖项金额。",
+            "source_ids": [
+              "UK-MAN-GLOBAL-FUTURES-2027"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业生实例",
+            "text": "2027课程页展示BEng毕业生Alice Davis进入Schneider担任Graduate Mechanical Engineer的实例；这是个人案例，不能推断所有学生的去向。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          },
+          {
+            "label": "职业方向与统计边界",
+            "text": "课程页列咨询、建筑、设计、制造和管理等毕业行业。本轮未取得H300课程级毕业比例、样本和薪资，不能用全校雇主关注度替代本专业就业结果。",
+            "source_ids": [
+              "UK-MAN-ME-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-MAN-ME-COURSE",
+          "title": "BEng Mechanical Engineering — 2027 entry",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03389/beng-mechanical-engineering/",
+          "checked_at": "2026-09-12",
+          "supports": "2027课程与UCAS代码、学制、教学设施、A-level/IB/英语、申请渠道、费用状态和毕业方向；课程所在教学设施、UCAS申请渠道和课程代码"
+        },
+        {
+          "id": "UK-MAN-ME-FEES-2026",
+          "title": "BEng Mechanical Engineering — 2026费用参考",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/03389/beng-mechanical-engineering/",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27国际生£35,700及后续年度最高7%涨费条款；不可替代2027报价"
+        },
+        {
+          "id": "UK-MAN-CHINA",
+          "title": "Manchester 中国大陆申请者要求",
+          "url": "https://www.manchester.ac.uk/study/international/country-specific-information/china-mainland/",
+          "checked_at": "2026-09-12",
+          "supports": "大陆普通高中及高考申请者需认可预科；高考不直接用于本科入学"
+        },
+        {
+          "id": "UK-UCAS-2027",
+          "title": "UCAS 2027 本科申请日期",
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导"
+        },
+        {
+          "id": "UK-UCAS-DEADLINE-2027",
+          "title": "UCAS 2027 一般本科平等考虑截止",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-12",
+          "supports": "2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位"
+        },
+        {
+          "id": "UK-MAN-GLOBAL-FUTURES-2027",
+          "title": "Manchester Global Futures Scholarships 2027",
+          "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
+          "checked_at": "2026-09-12",
+          "supports": "2027奖项以居住地区为资格条件；当前清单不含中国大陆；并非按中国国籍一概排除"
+        },
+        {
+          "id": "UK-MAN-LANGUAGE-REGULATIONS",
+          "title": "Manchester General Regulations（2026-04-02）",
+          "url": "https://documents.manchester.ac.uk/display.aspx?DocID=79060",
+          "checked_at": "2026-09-12",
+          "supports": "第12页General Regulation XII.3：校内授课语言为英语，除非特定项目规章另有规定"
+        }
+      ],
+      "checked_at": "2026-09-12",
+      "campus": "曼彻斯特校本部",
+      "language": "英语"
+    },
+    {
+      "id": "manchester-economics-bsc",
+      "university_id": "manchester",
+      "name": "经济学",
+      "name_en": "BSc Economics",
+      "degree": "本科",
+      "subject": "经济",
+      "intake": "2027",
+      "duration": "3 或 4 年",
+      "entry_summary": "高考不直接入学；A-level AAA，含数学；另有认可预科路径",
+      "tuition_summary": "2027 未定；2026/27 参考 £33,100／年",
+      "outcomes_summary": "本轮未取得本专业毕业统计；附官方职业方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与学制",
+            "text": "2027入学，UCAS L102，学校代码M20。课程页列3或4年，并提供实习及海外学习选项；选择额外一年会改变总时长。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "学什么",
+            "text": "重视数学建模、统计和计量经济学，同时学习微观、宏观与应用经济学；第三年可选经济学方向课程或毕业论文。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "校区",
+            "text": "曼彻斯特校本部，经济系所属社会科学学院在Arthur Lewis Building；该地址不表示所有课程固定在一栋楼授课。",
+            "source_ids": [
+              "UK-MAN-ECON-CAMPUS"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "英语。2026年4月2日校规XII.3规定校内教学使用英语，除非某项目规章另有规定；本课程另列英语入学门槛。",
+            "source_ids": [
+              "UK-MAN-LANGUAGE-REGULATIONS",
+              "UK-MAN-ECON-COURSE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考",
+            "text": "大学中国大陆资格页要求完成普通高中的申请者先修认可预科，不接受高考直入本科。持A-level、IB等资格者按课程对应标准评估。",
+            "source_ids": [
+              "UK-MAN-CHINA",
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "A-level 资格",
+            "text": "2027标准为AAA，包含数学；优先至少两门来自课程列明的科目。数学＋进阶数学＋母语三科组合不接受；母语A-level须与其他科目同一考试期。 所修Science A-level若含独立实验考核，还须通过实验部分。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "IB与数理基础",
+            "text": "IB总分36，Higher Level为6、6、6，含数学。另要求相当于GCSE／IGCSE英语语言4/C和数学6/B的基础。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "指定预科路径",
+            "text": "INTO Manchester认可合作预科或NCUK International Foundation Year须学术科目AAA（含数学），EAP为B，写作和口语B、听力和阅读C；其他预科须向院系确认认可。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS总分6.5，各单项至少6.0；课程页要求在官方IELTS考点参加的线下考试。成绩须在开课时仍有效。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "通过UCAS申请；课程代码为L102，Manchester学校代码M20。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "2027 平等考虑截止",
+            "text": "一般本科课程的UCAS平等考虑截止为2027年1月13日英国时间18:00；此后是否继续考虑申请取决于大学和剩余名额，不能把该日理解为保证录取或无限期开放。",
+            "source_ids": [
+              "UK-UCAS-DEADLINE-2027",
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "当前周期状态",
+            "text": "按2026年9月12日核验：2027入学申请已于2026年9月1日开放提交，平等考虑截止尚未到。此处日期均对应2027入学，不沿用2026入学截止。",
+            "source_ids": [
+              "UK-UCAS-2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027 国际生专业学费",
+            "text": "2027课程页明确表示学费尚未确定；未将页面上的2026本地生金额用于国际生预算。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "2026/27 参考金额",
+            "text": "同一专业2026课程页列国际生年费£33,100，之后年度可能每年上调最多7%。这是2026/27入学参考，不是2027报价，不含生活费。",
+            "source_ids": [
+              "UK-MAN-ECON-FEES-2026"
+            ]
+          },
+          {
+            "label": "奖学金地区条件",
+            "text": "Global Futures 2027按居住地区判断资格，当前清单不含中国大陆，因此居住在中国大陆者不符合本页地区条件；这不是按中国国籍一概排除。本轮未核实其他适用于本课程及该居住地申请者的具体奖项金额。",
+            "source_ids": [
+              "UK-MAN-GLOBAL-FUTURES-2027"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业方向",
+            "text": "课程页列近期毕业生进入会计与专业服务、金融银行、政府等领域，雇主实例包括KPMG、Deloitte、PwC、American Express、Bloomberg和Morgan Stanley；也可继续读经济学、商业或金融研究生。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "统计边界",
+            "text": "本轮未取得L102可复核的课程级毕业比例、调查样本或薪资，亦未取得中国大陆学生单列结果。雇主名单是去向实例，不能当成录用概率。",
+            "source_ids": [
+              "UK-MAN-ECON-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-MAN-ECON-COURSE",
+          "title": "BSc Economics — 2027 entry",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10224/bsc-economics/",
+          "checked_at": "2026-09-12",
+          "supports": "2027课程与UCAS代码、学制、教学设施、A-level/IB/英语、申请渠道、费用状态和毕业方向；课程所在教学设施、UCAS申请渠道和课程代码"
+        },
+        {
+          "id": "UK-MAN-ECON-FEES-2026",
+          "title": "BSc Economics — 2026费用参考",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2026/10224/bsc-economics/",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27国际生£33,100及之后年度最多7%涨费条款；非2027报价"
+        },
+        {
+          "id": "UK-MAN-CHINA",
+          "title": "Manchester 中国大陆申请者要求",
+          "url": "https://www.manchester.ac.uk/study/international/country-specific-information/china-mainland/",
+          "checked_at": "2026-09-12",
+          "supports": "大陆普通高中及高考申请者需认可预科；高考不直接用于本科入学"
+        },
+        {
+          "id": "UK-UCAS-2027",
+          "title": "UCAS 2027 本科申请日期",
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked_at": "2026-09-12",
+          "supports": "2027 申请2026-09-01开放提交；一般课程2027-01-13英国18:00平等考虑截止；当前周期状态按核验日推导"
+        },
+        {
+          "id": "UK-UCAS-DEADLINE-2027",
+          "title": "UCAS 2027 一般本科平等考虑截止",
+          "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+          "checked_at": "2026-09-12",
+          "supports": "2027-01-13英国18:00；晚于平等考虑截止的申请是否考虑取决于空位"
+        },
+        {
+          "id": "UK-MAN-GLOBAL-FUTURES-2027",
+          "title": "Manchester Global Futures Scholarships 2027",
+          "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
+          "checked_at": "2026-09-12",
+          "supports": "2027奖项以居住地区为资格条件；当前清单不含中国大陆；并非按中国国籍一概排除"
+        },
+        {
+          "id": "UK-MAN-LANGUAGE-REGULATIONS",
+          "title": "Manchester General Regulations（2026-04-02）",
+          "url": "https://documents.manchester.ac.uk/display.aspx?DocID=79060",
+          "checked_at": "2026-09-12",
+          "supports": "第12页General Regulation XII.3：校内授课语言为英语，除非特定项目规章另有规定"
+        },
+        {
+          "id": "UK-MAN-ECON-CAMPUS",
+          "title": "Manchester 经济系联系方式",
+          "url": "https://www.humanities.manchester.ac.uk/economics/connect/contact-us/",
+          "checked_at": "2026-09-12",
+          "supports": "经济系所在School of Social Sciences的Arthur Lewis Building地址；非所有课堂固定地点"
+        }
+      ],
+      "checked_at": "2026-09-12",
+      "campus": "曼彻斯特校本部",
+      "language": "英语"
     }
   ]
 }

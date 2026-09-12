@@ -75,6 +75,14 @@
             "source_ids": [
               "nus-computer-science-curriculum"
             ]
+          },
+          {
+            "label": "校区与授课语言",
+            "text": "学院位于肯特岗校区；NUS 官方英语要求文件明确以英语教学。",
+            "source_ids": [
+              "nus-computer-science-campus",
+              "nus-computer-science-english"
+            ]
           }
         ],
         "admissions": [
@@ -123,6 +131,13 @@
             "source_ids": [
               "nus-computer-science-grant"
             ]
+          },
+          {
+            "label": "奖学金入口与条件",
+            "text": "NUS International Undergraduate Scholarship 面向非新加坡公民，随入学申请择优考虑成绩、领导力和课外表现；覆盖 TG 后学费，须接受 TG 三年义务，续领须 GPA 至少 3.5。",
+            "source_ids": [
+              "nus-computer-science-scholarship"
+            ]
           }
         ],
         "outcomes": [
@@ -145,6 +160,31 @@
             "text": "报告另列 90.9% 已获得就业安排，包含接受未来上岗的 offer 或筹备创业者，故不等于当时已工作比例。2025 数据不能预测 2026 入学者毕业时收入。",
             "source_ids": [
               "nus-computer-science-ges"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2026/27 申请（已结束）",
+            "text": "通过 NUS 本科在线申请入口按毕业资格填表。2026/27 国际资格窗口为 2025-12-03 至 2026-02-23，已结束；IB 为 2025-12-17 至 2026-02-23。",
+            "source_ids": [
+              "nus-computer-science-applications-2026",
+              "nus-computer-science-gaokao"
+            ]
+          },
+          {
+            "label": "下一轮 2027/28（尚未开始）",
+            "text": "已公布国际资格（除 IB）及 IB 窗口：2026-12-16 至 2027-02-17，当前尚未开放。2027 高考实际成绩须放榜后三日内经 Applicant Portal 补交。此处是下一轮日期；本页学费仍为 2026/27。",
+            "source_ids": [
+              "nus-computer-science-application-dates"
+            ]
+          },
+          {
+            "label": "资格类别",
+            "text": "大陆高考走面向外国申请者的国际资格／Gaokao 类别；IB 单列，英国体系 A-Level 应选对应国际资格。勿套用 Singapore-Cambridge A-Level 的申请日历或科目分数。",
+            "source_ids": [
+              "nus-computer-science-gaokao",
+              "nus-computer-science-application-dates"
             ]
           }
         ]
@@ -212,8 +252,38 @@
           "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
           "checked_at": "2026-09-12",
           "supports": "PDF 第 1 页对应专业行；第 2 页脚注 1–6：2025-11-01 观察时点、劳动力分母、就业及薪资口径。"
+        },
+        {
+          "id": "nus-computer-science-campus",
+          "title": "NUS：Virtual Tour — Kent Ridge Campus",
+          "url": "https://www.nus.edu.sg/oam/nus-experience/virtual-tour",
+          "checked_at": "2026-09-12",
+          "supports": "Kent Ridge校园图与Business、CDE、Computing、FASS分区。"
+        },
+        {
+          "id": "nus-computer-science-application-dates",
+          "title": "NUS：Important Dates — AY2027/28",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28国际资格（除IB）及IB申请期均2026-12-16至2027-02-17；当前Closed；2027高考放榜后三日补交。"
+        },
+        {
+          "id": "nus-computer-science-applications-2026",
+          "title": "NUS Computing Open House 2026：Admissions FAQ",
+          "url": "https://www.comp.nus.edu.sg/admissions/faq/",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27全校申请日历：国际资格2025-12-03至2026-02-23；IB2025-12-17至2026-02-23。"
+        },
+        {
+          "id": "nus-computer-science-scholarship",
+          "title": "NUS：International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "非新加坡公民新生；成绩、领导力、课外表现择优；由入学申请考虑；覆盖TG后学费、须接受TG及其三年义务；续领GPA3.5。"
         }
-      ]
+      ],
+      "language": "英语",
+      "campus": "肯特岗校区（Kent Ridge）"
     },
     {
       "id": "nus-business-administration",
@@ -244,6 +314,14 @@
             "source_ids": [
               "nus-business-administration-curriculum",
               "nus-business-administration-ges"
+            ]
+          },
+          {
+            "label": "校区与授课语言",
+            "text": "学院位于肯特岗校区；NUS 官方英语要求文件明确以英语教学。",
+            "source_ids": [
+              "nus-business-administration-campus",
+              "nus-business-administration-english"
             ]
           }
         ],
@@ -292,6 +370,13 @@
             "source_ids": [
               "nus-business-administration-grant"
             ]
+          },
+          {
+            "label": "奖学金入口与条件",
+            "text": "NUS International Undergraduate Scholarship 面向非新加坡公民，随入学申请择优考虑成绩、领导力和课外表现；覆盖 TG 后学费，须接受 TG 三年义务，续领须 GPA 至少 3.5。",
+            "source_ids": [
+              "nus-business-administration-scholarship"
+            ]
           }
         ],
         "outcomes": [
@@ -315,6 +400,31 @@
             "source_ids": [
               "nus-business-administration-ges",
               "nus-business-administration-curriculum"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2026/27 申请（已结束）",
+            "text": "通过 NUS 本科在线申请入口按毕业资格填表。2026/27 国际资格窗口为 2025-12-03 至 2026-02-23，已结束；IB 为 2025-12-17 至 2026-02-23。",
+            "source_ids": [
+              "nus-business-administration-applications-2026",
+              "nus-business-administration-gaokao"
+            ]
+          },
+          {
+            "label": "下一轮 2027/28（尚未开始）",
+            "text": "已公布国际资格（除 IB）及 IB 窗口：2026-12-16 至 2027-02-17，当前尚未开放。2027 高考实际成绩须放榜后三日内经 Applicant Portal 补交。此处是下一轮日期；本页学费仍为 2026/27。",
+            "source_ids": [
+              "nus-business-administration-application-dates"
+            ]
+          },
+          {
+            "label": "资格类别",
+            "text": "大陆高考走面向外国申请者的国际资格／Gaokao 类别；IB 单列，英国体系 A-Level 应选对应国际资格。勿套用 Singapore-Cambridge A-Level 的申请日历或科目分数。",
+            "source_ids": [
+              "nus-business-administration-gaokao",
+              "nus-business-administration-application-dates"
             ]
           }
         ]
@@ -375,8 +485,38 @@
           "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
           "checked_at": "2026-09-12",
           "supports": "PDF 第 1 页对应专业行；第 2 页脚注 1–6：2025-11-01 观察时点、劳动力分母、就业及薪资口径。"
+        },
+        {
+          "id": "nus-business-administration-campus",
+          "title": "NUS：Virtual Tour — Kent Ridge Campus",
+          "url": "https://www.nus.edu.sg/oam/nus-experience/virtual-tour",
+          "checked_at": "2026-09-12",
+          "supports": "Kent Ridge校园图与Business、CDE、Computing、FASS分区。"
+        },
+        {
+          "id": "nus-business-administration-application-dates",
+          "title": "NUS：Important Dates — AY2027/28",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28国际资格（除IB）及IB申请期均2026-12-16至2027-02-17；当前Closed；2027高考放榜后三日补交。"
+        },
+        {
+          "id": "nus-business-administration-applications-2026",
+          "title": "NUS Computing Open House 2026：Admissions FAQ",
+          "url": "https://www.comp.nus.edu.sg/admissions/faq/",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27全校申请日历：国际资格2025-12-03至2026-02-23；IB2025-12-17至2026-02-23。"
+        },
+        {
+          "id": "nus-business-administration-scholarship",
+          "title": "NUS：International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "非新加坡公民新生；成绩、领导力、课外表现择优；由入学申请考虑；覆盖TG后学费、须接受TG及其三年义务；续领GPA3.5。"
         }
-      ]
+      ],
+      "language": "英语",
+      "campus": "肯特岗校区（Kent Ridge）"
     },
     {
       "id": "ntu-computer-science",
@@ -405,6 +545,14 @@
             "text": "课程包含必修企业实践、团队创新设计、毕业综合项目及贯穿课程的小型项目。",
             "source_ids": [
               "ntu-computer-science-curriculum"
+            ]
+          },
+          {
+            "label": "校区与授课语言",
+            "text": "学院位于南洋大道主校区；NTU 官方说明大学课程以英语授课。",
+            "source_ids": [
+              "ntu-computer-science-campus",
+              "ntu-computer-science-language"
             ]
           }
         ],
@@ -461,6 +609,13 @@
             "source_ids": [
               "ntu-computer-science-grant"
             ]
+          },
+          {
+            "label": "奖学金入口与条件",
+            "text": "Nanyang Global Scholarship 面向各国籍，择优考察成绩、领导力和课外表现；先申请入学，再单独申请奖学金。覆盖 TG 后学费，保留 TG 三年义务；续领须 CGPA 至少 3.5 及良好操行。",
+            "source_ids": [
+              "ntu-computer-science-scholarship"
+            ]
           }
         ],
         "outcomes": [
@@ -483,6 +638,36 @@
             "text": "另列 89.5% 已获得就业安排，包含尚未上岗的 offer 及筹备创业，不等于当时就业率；历史毕业结果不能保证个人就业或薪资。",
             "source_ids": [
               "ntu-computer-science-ges"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2026/27 高考申请（已结束）",
+            "text": "经 NTU 本科在线系统选择 PRC National College Entrance Exam／Gao Kao 类别；申请期为 2025-10-15 至 2026-01-20，已结束。当前所读日期表仍是这一轮；本轮未取得 2027/28 完整申请开放与截止日期。",
+            "source_ids": [
+              "ntu-computer-science-application-dates"
+            ]
+          },
+          {
+            "label": "IB 与 A-Level 类别",
+            "text": "IB 与 UK A-Level 使用各自申请表；2026/27 窗口为 2025-10-15 至 2026-03-19，已结束。UK A-Level 若到八月才获实际成绩，校方要求下一招生轮申请；不能套用高考时间线。",
+            "source_ids": [
+              "ntu-computer-science-application-dates"
+            ]
+          },
+          {
+            "label": "2027 入学高考路径的重要变动",
+            "text": "2027 年起，NTU 不再以高一、高二成绩决定高考申请者的面试；须在实际高考放榜后三日内提交成绩，择优参加七月面试。整轮申请开放及截止日期本轮未取得，请按新一轮招生通知安排。",
+            "source_ids": [
+              "ntu-computer-science-gaokao"
+            ]
+          },
+          {
+            "label": "奖学金申请也有截止日",
+            "text": "Year 12 等效资格申请者须先提交入学申请，再凭申请编号于同一资格的入学申请截止日前递交奖学金表，不能等收到录取后才申请。需不超过 250 词的指定主题短文、照片及非亲属学校教师评价；教师通常须在奖学金申请后七日内提交，无法按时者应尽快补交（校方建议不超过两周）。",
+            "source_ids": [
+              "ntu-computer-science-scholarship"
             ]
           }
         ]
@@ -529,8 +714,38 @@
           "url": "https://www.moe.gov.sg/api/media/585fe7dc-65e3-470e-87c3-e23ceed5782b/Web-Publication-NTU-GES-2025.pdf",
           "checked_at": "2026-09-12",
           "supports": "PDF 第 1 页 Computer Science / Business 行；第 2 页脚注 1–6 定义就业率及税前月薪。"
+        },
+        {
+          "id": "ntu-computer-science-campus",
+          "title": "NTU：学院校址与本科联络",
+          "url": "https://www.ntu.edu.sg/computing/contact-us",
+          "checked_at": "2026-09-12",
+          "supports": "CCDS为Block S3、Nanyang Avenue。"
+        },
+        {
+          "id": "ntu-computer-science-language",
+          "title": "NTU：Global classrooms for diverse talents",
+          "url": "https://www.ntu.edu.sg/research/research-hub/news/detail/global-classrooms-for-diverse-talents",
+          "checked_at": "2026-09-12",
+          "supports": "官方文章明确大学课程以英语授课；用于授课语言，不移用交换生入学资格。"
+        },
+        {
+          "id": "ntu-computer-science-application-dates",
+          "title": "NTU：International Qualifications — Forms and Deadlines",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications",
+          "checked_at": "2026-09-12",
+          "supports": "2026申请表按资格分类：高考2025-10-15至2026-01-20，IB/UK A-Level至2026-03-19，均Closed；UK8月才有成绩须下一轮。"
+        },
+        {
+          "id": "ntu-computer-science-scholarship",
+          "title": "NTU：Nanyang Global Scholarship",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "各国籍新生，成绩、领导力及课外表现择优；先入学后单独奖学金申请；覆盖TG后学费，保留TG三年义务；CGPA3.5。 Year12等效资格奖学金申请期与入学期相同，须入学申请截止前提交；250词短文、照片、教师评价通常7日内，困难时尽快且建议两周内。"
         }
-      ]
+      ],
+      "language": "英语",
+      "campus": "南洋大道主校区（Nanyang Avenue）"
     },
     {
       "id": "ntu-business",
@@ -561,6 +776,14 @@
             "source_ids": [
               "ntu-business-curriculum",
               "ntu-business-reform"
+            ]
+          },
+          {
+            "label": "校区与授课语言",
+            "text": "学院位于南洋大道主校区；NTU 官方说明大学课程以英语授课。",
+            "source_ids": [
+              "ntu-business-campus",
+              "ntu-business-language"
             ]
           }
         ],
@@ -594,6 +817,13 @@
             "source_ids": [
               "ntu-business-prerequisites"
             ]
+          },
+          {
+            "label": "数学先修脚注补充",
+            "text": "2026 国际资格表的 Additional Mathematics 附脚注明确：未在初中阶段修读该科者，可按高中 Mathematics 类别审核。该补充不把大陆具体数学成绩自动换算为合格。",
+            "source_ids": [
+              "ntu-business-prerequisites"
+            ]
           }
         ],
         "fees": [
@@ -609,6 +839,13 @@
             "text": "国际生须在申请时选择 政府学费补助（TG），获授并接受后完成登记和协议签署；受助非新加坡公民毕业后须为新加坡实体工作三年。未完成手续按无补助收费。",
             "source_ids": [
               "ntu-business-grant"
+            ]
+          },
+          {
+            "label": "奖学金入口与条件",
+            "text": "Nanyang Global Scholarship 面向各国籍，择优考察成绩、领导力和课外表现；先申请入学，再单独申请奖学金。覆盖 TG 后学费，保留 TG 三年义务；续领须 CGPA 至少 3.5 及良好操行。",
+            "source_ids": [
+              "ntu-business-scholarship"
             ]
           }
         ],
@@ -633,6 +870,36 @@
             "source_ids": [
               "ntu-business-ges",
               "ntu-business-reform"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2026/27 高考申请（已结束）",
+            "text": "经 NTU 本科在线系统选择 PRC National College Entrance Exam／Gao Kao 类别；申请期为 2025-10-15 至 2026-01-20，已结束。当前所读日期表仍是这一轮；本轮未取得 2027/28 完整申请开放与截止日期。",
+            "source_ids": [
+              "ntu-business-application-dates"
+            ]
+          },
+          {
+            "label": "IB 与 A-Level 类别",
+            "text": "IB 与 UK A-Level 使用各自申请表；2026/27 窗口为 2025-10-15 至 2026-03-19，已结束。UK A-Level 若到八月才获实际成绩，校方要求下一招生轮申请；不能套用高考时间线。",
+            "source_ids": [
+              "ntu-business-application-dates"
+            ]
+          },
+          {
+            "label": "2027 入学高考路径的重要变动",
+            "text": "2027 年起，NTU 不再以高一、高二成绩决定高考申请者的面试；须在实际高考放榜后三日内提交成绩，择优参加七月面试。整轮申请开放及截止日期本轮未取得，请按新一轮招生通知安排。",
+            "source_ids": [
+              "ntu-business-gaokao"
+            ]
+          },
+          {
+            "label": "奖学金申请也有截止日",
+            "text": "Year 12 等效资格申请者须先提交入学申请，再凭申请编号于同一资格的入学申请截止日前递交奖学金表，不能等收到录取后才申请。需不超过 250 词的指定主题短文、照片及非亲属学校教师评价；教师通常须在奖学金申请后七日内提交，无法按时者应尽快补交（校方建议不超过两周）。",
+            "source_ids": [
+              "ntu-business-scholarship"
             ]
           }
         ]
@@ -686,8 +953,913 @@
           "url": "https://www.moe.gov.sg/api/media/585fe7dc-65e3-470e-87c3-e23ceed5782b/Web-Publication-NTU-GES-2025.pdf",
           "checked_at": "2026-09-12",
           "supports": "PDF 第 1 页 Computer Science / Business 行；第 2 页脚注 1–6 定义就业率及税前月薪。"
+        },
+        {
+          "id": "ntu-business-campus",
+          "title": "NTU：学院校址与本科联络",
+          "url": "https://www.ntu.edu.sg/business/events/ntu-open-house-nbs-discover-business-2025",
+          "checked_at": "2026-09-12",
+          "supports": "NBS的Gaia为91 Nanyang Avenue；学校活动页校址。"
+        },
+        {
+          "id": "ntu-business-language",
+          "title": "NTU：Global classrooms for diverse talents",
+          "url": "https://www.ntu.edu.sg/research/research-hub/news/detail/global-classrooms-for-diverse-talents",
+          "checked_at": "2026-09-12",
+          "supports": "官方文章明确大学课程以英语授课；用于授课语言，不移用交换生入学资格。"
+        },
+        {
+          "id": "ntu-business-application-dates",
+          "title": "NTU：International Qualifications — Forms and Deadlines",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications",
+          "checked_at": "2026-09-12",
+          "supports": "2026申请表按资格分类：高考2025-10-15至2026-01-20，IB/UK A-Level至2026-03-19，均Closed；UK8月才有成绩须下一轮。"
+        },
+        {
+          "id": "ntu-business-scholarship",
+          "title": "NTU：Nanyang Global Scholarship",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "各国籍新生，成绩、领导力及课外表现择优；先入学后单独奖学金申请；覆盖TG后学费，保留TG三年义务；CGPA3.5。 Year12等效资格奖学金申请期与入学期相同，须入学申请截止前提交；250词短文、照片、教师评价通常7日内，困难时尽快且建议两周内。"
         }
-      ]
+      ],
+      "language": "英语",
+      "campus": "南洋大道主校区（Nanyang Avenue）"
+    },
+    {
+      "id": "nus-electrical-engineering",
+      "university_id": "nus",
+      "name": "电气工程（荣誉）",
+      "name_en": "Bachelor of Engineering (Electrical Engineering)",
+      "degree": "本科",
+      "subject": "工程",
+      "intake": "2026/27",
+      "duration": "4 年",
+      "checked_at": "2026-09-12",
+      "entry_summary": "Engineering 共同入口；高考与 Year 12 数学、英语另审",
+      "tuition_summary": "2026/27：无补助 S$39,700／年；有条件补助 S$21,400／年",
+      "outcomes_summary": "本轮未核实可发布的专业就业率及薪资；见统计缺口说明",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与课程",
+            "text": "四年直接荣誉工程学位。采用 AY2025/26 起课程结构：160 units，由共同课程、工程主修和自由选修组成；电力系统、电子电路、信号、数字设计和微控制器均在核心课程中。",
+            "source_ids": [
+              "nus-electrical-engineering-curriculum",
+              "nus-electrical-engineering-common-entry"
+            ]
+          },
+          {
+            "label": "实践",
+            "text": "主修包含 10 units 行业实习及 8 units 综合项目；选修可进一步探索机器人、物联网、微电子等方向。",
+            "source_ids": [
+              "nus-electrical-engineering-curriculum"
+            ]
+          },
+          {
+            "label": "校区与授课语言",
+            "text": "学院位于肯特岗校区；NUS 官方英语要求文件明确以英语教学。",
+            "source_ids": [
+              "nus-electrical-engineering-campus",
+              "nus-electrical-engineering-english"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考路径",
+            "text": "2026 入学：已考高考者提交高考成绩；应届生可先交高二下学期成绩，随后补交实际高考成绩。官网要求高考成绩良好，未公布统一百分比录取线。",
+            "source_ids": [
+              "nus-electrical-engineering-gaokao"
+            ]
+          },
+          {
+            "label": "2026 年实际成绩补交",
+            "text": "2026 高考成绩须在 2026 年 6 月 29 日 12:00（新加坡时间）前补交；这是已结束的 2026 申请节点，不能用于 2027 入学。",
+            "source_ids": [
+              "nus-electrical-engineering-gaokao"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "高考申请者须交英语证明。当前官方 IELTS Academic 门槛为总分、阅读、写作各 6.5；成绩须满足入学前两年有效期，不接受 IELTS One Skill Retake。英语 PDF 已更新至 2026 年 9 月，未来申请须按对应入学批次复核。",
+            "source_ids": [
+              "nus-electrical-engineering-english",
+              "nus-electrical-engineering-gaokao"
+            ]
+          },
+          {
+            "label": "共同入口与先修",
+            "text": "申请选择 Engineering，可填 Electrical Engineering 为偏好主修，也可暂不定专业；共同入口没有内部专业配额，可至第四学期重新声明。国际资格须满足 Year 12 或更高数学及格；无等效物理背景者可能需修衔接课。",
+            "source_ids": [
+              "nus-electrical-engineering-common-entry",
+              "nus-electrical-engineering-prerequisites"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2026/27 申请（已结束）",
+            "text": "通过 NUS 本科在线申请入口按毕业资格填表。2026/27 国际资格窗口为 2025-12-03 至 2026-02-23，已结束；IB 为 2025-12-17 至 2026-02-23。",
+            "source_ids": [
+              "nus-electrical-engineering-applications-2026",
+              "nus-electrical-engineering-gaokao"
+            ]
+          },
+          {
+            "label": "下一轮 2027/28（尚未开始）",
+            "text": "已公布国际资格（除 IB）及 IB 窗口：2026-12-16 至 2027-02-17，当前尚未开放。2027 高考实际成绩须放榜后三日内经 Applicant Portal 补交。此处是下一轮日期；本页学费仍为 2026/27。",
+            "source_ids": [
+              "nus-electrical-engineering-application-dates"
+            ]
+          },
+          {
+            "label": "资格类别",
+            "text": "大陆高考走面向外国申请者的国际资格／Gaokao 类别；IB 单列，英国体系 A-Level 应选对应国际资格。勿套用 Singapore-Cambridge A-Level 的申请日历或科目分数。",
+            "source_ids": [
+              "nus-electrical-engineering-gaokao",
+              "nus-electrical-engineering-application-dates"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "大陆学生适用费率",
+            "text": "中国籍、非新加坡永居、非 ASEAN 国际生：2026/27 新生按一般 Design and Engineering 行，获政府学费补助（TG）为 S$21,400／年，无 TG 为 S$39,700／年，含 9% GST；生活、杂费及特别学期另算。",
+            "source_ids": [
+              "nus-electrical-engineering-fees"
+            ]
+          },
+          {
+            "label": "政府学费补助（Tuition Grant）与服务义务",
+            "text": "国际生须获授、接受 政府学费补助（TG） 并按期申请签署；受助者毕业后须为新加坡实体工作三年。不接受或未完成手续者支付无补助学费。",
+            "source_ids": [
+              "nus-electrical-engineering-grant"
+            ]
+          },
+          {
+            "label": "奖学金入口与条件",
+            "text": "NUS International Undergraduate Scholarship 面向非新加坡公民，随入学申请择优考虑成绩、领导力和课外表现；覆盖 TG 后学费，须接受 TG 三年义务，续领须 GPA 至少 3.5。",
+            "source_ids": [
+              "nus-electrical-engineering-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "就业统计缺口",
+            "text": "本轮尚未核实本专业就业率、薪资及调查口径，暂不列数字。下列课程或行业方向仅供探索，不代表毕业生实际就业比例或个人收入。",
+            "source_ids": [
+              "nus-electrical-engineering-ges"
+            ]
+          },
+          {
+            "label": "课程与去向的边界",
+            "text": "课程覆盖电力、电子、信号与嵌入式系统，可据此考察相关岗位或研究方向；这属于课程内容判断，不是毕业生岗位分布或就业率调查。",
+            "source_ids": [
+              "nus-electrical-engineering-curriculum"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "nus-electrical-engineering-gaokao",
+          "title": "NUS：Gaokao or PRC National College Entrance Examination",
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+          "checked_at": "2026-09-12",
+          "supports": "2026 高考申请资格、高二下学期成绩暂申、英语要求及实际成绩补交截止。"
+        },
+        {
+          "id": "nus-electrical-engineering-prerequisites",
+          "title": "NUS：International Qualifications — Single Degree Programme（2025 年 12 月版）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/international-qualifications/cat-d-sdp.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "NUS国际资格表的Engineering数学先修／H&S指向CHS要求。"
+        },
+        {
+          "id": "nus-electrical-engineering-english",
+          "title": "NUS：English Test Scores（2026 年 9 月更新）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf?sfvrsn=316d6c_9",
+          "checked_at": "2026-09-12",
+          "supports": "PDF IELTS Academic 栏：总分、阅读、写作 6.5；有效期及不接受单科重考。该链接已更新，不能据此还原早前申请时点的完整版本。"
+        },
+        {
+          "id": "nus-electrical-engineering-fees",
+          "title": "NUS：Undergraduate Tuition Fees Per Annum AY2026/2027",
+          "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27新生表第2页：一般Design and Engineering、Humanities and Sciences，非ASEAN其他国际生有无TG、含9%GST；已渲染核对。"
+        },
+        {
+          "id": "nus-electrical-engineering-grant",
+          "title": "NUS Registrar：Undergraduate Fees / Tuition Grant",
+          "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+          "checked_at": "2026-09-12",
+          "supports": "Tuition Grant 栏：国际生须申请、接受及完成签署；受助者毕业后服务三年；无补助者付非补助学费。"
+        },
+        {
+          "id": "nus-electrical-engineering-ges",
+          "title": "MOE：NUS Graduate Employment Survey 2025 原始报告",
+          "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "已定位2025官方原始报告；本轮新增专业尚未完成可视行列复核，不作为新增薪资或就业率数字的发布依据。"
+        },
+        {
+          "id": "nus-electrical-engineering-curriculum",
+          "title": "NUS ECE：EE Curriculum Structure — AY2025/26 onwards",
+          "url": "https://cde.nus.edu.sg/ece/undergraduate/electrical-engineering/ee-curriculum-structure-ay2025-26/",
+          "checked_at": "2026-09-12",
+          "supports": "适用于2025/26及以后入学：160 units，40共同课程、80主修、40自由选修；课程、10 units实习和8 units综合项目。"
+        },
+        {
+          "id": "nus-electrical-engineering-common-entry",
+          "title": "NUS CDE：Admissions 2026",
+          "url": "https://cde.nus.edu.sg/admissions/",
+          "checked_at": "2026-09-12",
+          "supports": "Admissions及Choosing your major FAQ：共同Engineering入口含EE；数学先修、物理衔接；可至第四学期重新声明主修；四年直接荣誉学位。"
+        },
+        {
+          "id": "nus-electrical-engineering-campus",
+          "title": "NUS：Virtual Tour — Kent Ridge Campus",
+          "url": "https://www.nus.edu.sg/oam/nus-experience/virtual-tour",
+          "checked_at": "2026-09-12",
+          "supports": "Kent Ridge校园图与Business、CDE、Computing、FASS分区。"
+        },
+        {
+          "id": "nus-electrical-engineering-application-dates",
+          "title": "NUS：Important Dates — AY2027/28",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28国际资格（除IB）及IB申请期均2026-12-16至2027-02-17；当前Closed；2027高考放榜后三日补交。"
+        },
+        {
+          "id": "nus-electrical-engineering-applications-2026",
+          "title": "NUS Computing Open House 2026：Admissions FAQ",
+          "url": "https://www.comp.nus.edu.sg/admissions/faq/",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27全校申请日历：国际资格2025-12-03至2026-02-23；IB2025-12-17至2026-02-23。"
+        },
+        {
+          "id": "nus-electrical-engineering-scholarship",
+          "title": "NUS：International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "非新加坡公民新生；成绩、领导力、课外表现择优；由入学申请考虑；覆盖TG后学费、须接受TG及其三年义务；续领GPA3.5。"
+        }
+      ],
+      "language": "英语",
+      "campus": "肯特岗校区（Kent Ridge）"
+    },
+    {
+      "id": "nus-economics",
+      "university_id": "nus",
+      "name": "经济学（荣誉；CHS 共同入口）",
+      "name_en": "Bachelor of Social Sciences (Honours) in Economics",
+      "degree": "本科",
+      "subject": "经济",
+      "intake": "2026/27",
+      "duration": "4 年",
+      "checked_at": "2026-09-12",
+      "entry_summary": "Humanities and Sciences 共同入口；主修选择与高考、英语另审",
+      "tuition_summary": "2026/27：无补助 S$36,650／年；有条件补助 S$21,400／年",
+      "outcomes_summary": "本轮未取得经济学单列就业结果；不将 BSocSci 汇总当作经济学成绩",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与课程",
+            "text": "Economics 单主修授予社会科学荣誉学士；CHS 四年课程共 160 units，其中经济学主修至少 60 units，学习微观、宏观、计量经济学与定量方法。",
+            "source_ids": [
+              "nus-economics-curriculum",
+              "nus-economics-common-entry"
+            ]
+          },
+          {
+            "label": "论文选择",
+            "text": "荣誉论文不是所有学生必修；须达到已修学分和 GPA 等门槛后申请，具体以本人的课程年度要求为准。",
+            "source_ids": [
+              "nus-economics-curriculum"
+            ]
+          },
+          {
+            "label": "校区与授课语言",
+            "text": "学院位于肯特岗校区；NUS 官方英语要求文件明确以英语教学。",
+            "source_ids": [
+              "nus-economics-campus",
+              "nus-economics-english"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考路径",
+            "text": "2026 入学：已考高考者提交高考成绩；应届生可先交高二下学期成绩，随后补交实际高考成绩。官网要求高考成绩良好，未公布统一百分比录取线。",
+            "source_ids": [
+              "nus-economics-gaokao"
+            ]
+          },
+          {
+            "label": "2026 年实际成绩补交",
+            "text": "2026 高考成绩须在 2026 年 6 月 29 日 12:00（新加坡时间）前补交；这是已结束的 2026 申请节点，不能用于 2027 入学。",
+            "source_ids": [
+              "nus-economics-gaokao"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "高考申请者须交英语证明。当前官方 IELTS Academic 门槛为总分、阅读、写作各 6.5；成绩须满足入学前两年有效期，不接受 IELTS One Skill Retake。英语 PDF 已更新至 2026 年 9 月，未来申请须按对应入学批次复核。",
+            "source_ids": [
+              "nus-economics-english",
+              "nus-economics-gaokao"
+            ]
+          },
+          {
+            "label": "共同入口与主修先修",
+            "text": "先申请 Humanities and Sciences；Economics 是 CHS 开放主修，可在前两年确定方向。CHS 对已注册学生列明该主修无额外科目先修；这不等于免除大学高考、英语等入学审核，也不同于 Data Science and Economics 独立项目。",
+            "source_ids": [
+              "nus-economics-common-entry"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2026/27 申请（已结束）",
+            "text": "通过 NUS 本科在线申请入口按毕业资格填表。2026/27 国际资格窗口为 2025-12-03 至 2026-02-23，已结束；IB 为 2025-12-17 至 2026-02-23。",
+            "source_ids": [
+              "nus-economics-applications-2026",
+              "nus-economics-gaokao"
+            ]
+          },
+          {
+            "label": "下一轮 2027/28（尚未开始）",
+            "text": "已公布国际资格（除 IB）及 IB 窗口：2026-12-16 至 2027-02-17，当前尚未开放。2027 高考实际成绩须放榜后三日内经 Applicant Portal 补交。此处是下一轮日期；本页学费仍为 2026/27。",
+            "source_ids": [
+              "nus-economics-application-dates"
+            ]
+          },
+          {
+            "label": "资格类别",
+            "text": "大陆高考走面向外国申请者的国际资格／Gaokao 类别；IB 单列，英国体系 A-Level 应选对应国际资格。勿套用 Singapore-Cambridge A-Level 的申请日历或科目分数。",
+            "source_ids": [
+              "nus-economics-gaokao",
+              "nus-economics-application-dates"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "大陆学生适用费率",
+            "text": "中国籍、非新加坡永居、非 ASEAN 国际生：2026/27 新生 Humanities and Sciences 行，获政府学费补助（TG）为 S$21,400／年，无 TG 为 S$36,650／年，含 9% GST；生活、杂费及特别学期另算。",
+            "source_ids": [
+              "nus-economics-fees"
+            ]
+          },
+          {
+            "label": "政府学费补助（Tuition Grant）与服务义务",
+            "text": "国际生须获授、接受 政府学费补助（TG） 并按期申请签署；受助者毕业后须为新加坡实体工作三年。不接受或未完成手续者支付无补助学费。",
+            "source_ids": [
+              "nus-economics-grant"
+            ]
+          },
+          {
+            "label": "奖学金入口与条件",
+            "text": "NUS International Undergraduate Scholarship 面向非新加坡公民，随入学申请择优考虑成绩、领导力和课外表现；覆盖 TG 后学费，须接受 TG 三年义务，续领须 GPA 至少 3.5。",
+            "source_ids": [
+              "nus-economics-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "就业统计缺口",
+            "text": "本轮未取得 NUS Economics 单独可发布的毕业就业率、薪资及样本口径。MOE GES 的 Bachelor of Social Sciences 汇总不等于经济学单一专业，不能直接填入本项目，也不能代表中国大陆毕业生。",
+            "source_ids": [
+              "nus-economics-ges"
+            ]
+          },
+          {
+            "label": "课程与去向的边界",
+            "text": "主修训练经济分析和计量方法；这些课程可帮助理解后续研究与分析岗位要求，不能据此计算毕业生从业比例或薪资。",
+            "source_ids": [
+              "nus-economics-curriculum"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "nus-economics-gaokao",
+          "title": "NUS：Gaokao or PRC National College Entrance Examination",
+          "url": "https://www.nus.edu.sg/oam/admissions/international-qualifications-for-foreigners/international-qualifications/gaokao-or-prc-national-college-entrance-examination",
+          "checked_at": "2026-09-12",
+          "supports": "2026 高考申请资格、高二下学期成绩暂申、英语要求及实际成绩补交截止。"
+        },
+        {
+          "id": "nus-economics-english",
+          "title": "NUS：English Test Scores（2026 年 9 月更新）",
+          "url": "https://www.nus.edu.sg/oam/docs/default-source/default-document-library/english-test-scores.pdf?sfvrsn=316d6c_9",
+          "checked_at": "2026-09-12",
+          "supports": "PDF IELTS Academic 栏：总分、阅读、写作 6.5；有效期及不接受单科重考。该链接已更新，不能据此还原早前申请时点的完整版本。"
+        },
+        {
+          "id": "nus-economics-fees",
+          "title": "NUS：Undergraduate Tuition Fees Per Annum AY2026/2027",
+          "url": "https://www.nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27新生表第2页：一般Design and Engineering、Humanities and Sciences，非ASEAN其他国际生有无TG、含9%GST；已渲染核对。"
+        },
+        {
+          "id": "nus-economics-grant",
+          "title": "NUS Registrar：Undergraduate Fees / Tuition Grant",
+          "url": "https://www.nus.edu.sg/registrar/administrative-policies-procedures/undergraduate/undergraduate-fees",
+          "checked_at": "2026-09-12",
+          "supports": "Tuition Grant 栏：国际生须申请、接受及完成签署；受助者毕业后服务三年；无补助者付非补助学费。"
+        },
+        {
+          "id": "nus-economics-ges",
+          "title": "MOE：NUS Graduate Employment Survey 2025 原始报告",
+          "url": "https://www.moe.gov.sg/api/media/a43cdd0b-4f2d-44f8-a98c-7ff48a7670ac/Web-Publication-NUS-GES-2025.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "已定位2025官方原始报告；本轮新增专业尚未完成可视行列复核，不作为新增薪资或就业率数字的发布依据。"
+        },
+        {
+          "id": "nus-economics-curriculum",
+          "title": "NUS Economics：Requirements for Economics Major",
+          "url": "https://fass.nus.edu.sg/ecs/requirements-for-economics-major/",
+          "checked_at": "2026-09-12",
+          "supports": "AY2021/22 and onwards：Single Major [B.Soc.Sci.(Hons.)]，60 units经济学主修；微观、宏观、计量及定量方法。"
+        },
+        {
+          "id": "nus-economics-common-entry",
+          "title": "NUS CHS：Prospective Students",
+          "url": "https://chs.nus.edu.sg/prospective-students/",
+          "checked_at": "2026-09-12",
+          "supports": "四年160 units；Economics为Humanities and Sciences开放主修、BSocSci；已入院学生无额外主修先修；前两年选择主修、无内部限额。"
+        },
+        {
+          "id": "nus-economics-campus",
+          "title": "NUS：Virtual Tour — Kent Ridge Campus",
+          "url": "https://www.nus.edu.sg/oam/nus-experience/virtual-tour",
+          "checked_at": "2026-09-12",
+          "supports": "Kent Ridge校园图与Business、CDE、Computing、FASS分区。"
+        },
+        {
+          "id": "nus-economics-application-dates",
+          "title": "NUS：Important Dates — AY2027/28",
+          "url": "https://www.nus.edu.sg/oam/admissions/important-dates",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28国际资格（除IB）及IB申请期均2026-12-16至2027-02-17；当前Closed；2027高考放榜后三日补交。"
+        },
+        {
+          "id": "nus-economics-applications-2026",
+          "title": "NUS Computing Open House 2026：Admissions FAQ",
+          "url": "https://www.comp.nus.edu.sg/admissions/faq/",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27全校申请日历：国际资格2025-12-03至2026-02-23；IB2025-12-17至2026-02-23。"
+        },
+        {
+          "id": "nus-economics-scholarship",
+          "title": "NUS：International Undergraduate Scholarship",
+          "url": "https://www.nus.edu.sg/oam/scholarships/scholarships-for-freshmen-international-students/nus-international-undergraduate-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "非新加坡公民新生；成绩、领导力、课外表现择优；由入学申请考虑；覆盖TG后学费、须接受TG及其三年义务；续领GPA3.5。"
+        }
+      ],
+      "language": "英语",
+      "campus": "肯特岗校区（Kent Ridge）"
+    },
+    {
+      "id": "ntu-electrical-electronic-engineering",
+      "university_id": "ntu",
+      "name": "电气与电子工程（荣誉）",
+      "name_en": "Bachelor of Engineering in Electrical and Electronic Engineering",
+      "degree": "本科",
+      "subject": "工程",
+      "intake": "2026/27",
+      "duration": "4 年",
+      "checked_at": "2026-09-12",
+      "entry_summary": "高考最低申请门槛 80%；高中数学、理科与英语另审",
+      "tuition_summary": "2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实",
+      "outcomes_summary": "本轮未核实可发布的专业就业率及薪资；见统计缺口说明",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与课程",
+            "text": "四年全日制工程学士，课程结合物理科学、电气电子工程及非技术领域；包含工程设计、实验、三年级行业实践和毕业项目。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-curriculum"
+            ]
+          },
+          {
+            "label": "校区与授课语言",
+            "text": "学院位于南洋大道主校区；NTU 官方说明大学课程以英语授课。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-campus",
+              "ntu-electrical-electronic-engineering-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考路径",
+            "text": "已考高考者最低申请门槛为总分比例至少 80%，并须提交 CSSD（学信网）验证报告；达到门槛不代表录取。2026 年入学指南允许高三应届生先用高一、高二成绩与英语成绩申请，择优面试。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-gaokao",
+              "ntu-electrical-electronic-engineering-prerequisites"
+            ]
+          },
+          {
+            "label": "年度流程",
+            "text": "2026 入学高考申请期为 2025 年 10 月 15 日至 2026 年 1 月 20 日，现已结束。当前网页另列 2027 年起的高考出分后三天内提交及七月面试安排；这部分不属于本条 2026/27 批次。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-prerequisites",
+              "ntu-electrical-electronic-engineering-gaokao"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "高考类别当前最低 IELTS 总分 6.0、写作 6.0、口语 6.0。校方提示竞争激烈专业及非理工课程可要求更高，不能把该最低线视为商科或计算机录取保证。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-gaokao"
+            ]
+          },
+          {
+            "label": "专业先修与申请选择",
+            "text": "单学位入口为 Electrical and Electronic Engineering；国际资格要求高中数学及物理／化学／生物之一。若高中未学物理，还须具备初中物理。此项为单一工程学位，不是另列的工程加经济学双学位。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-curriculum",
+              "ntu-electrical-electronic-engineering-prerequisites"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2026/27 高考申请（已结束）",
+            "text": "经 NTU 本科在线系统选择 PRC National College Entrance Exam／Gao Kao 类别；申请期为 2025-10-15 至 2026-01-20，已结束。当前所读日期表仍是这一轮；本轮未取得 2027/28 完整申请开放与截止日期。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-application-dates"
+            ]
+          },
+          {
+            "label": "IB 与 A-Level 类别",
+            "text": "IB 与 UK A-Level 使用各自申请表；2026/27 窗口为 2025-10-15 至 2026-03-19，已结束。UK A-Level 若到八月才获实际成绩，校方要求下一招生轮申请；不能套用高考时间线。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-application-dates"
+            ]
+          },
+          {
+            "label": "2027 入学高考路径的重要变动",
+            "text": "2027 年起，NTU 不再以高一、高二成绩决定高考申请者的面试；须在实际高考放榜后三日内提交成绩，择优参加七月面试。整轮申请开放及截止日期本轮未取得，请按新一轮招生通知安排。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-gaokao"
+            ]
+          },
+          {
+            "label": "奖学金申请也有截止日",
+            "text": "Year 12 等效资格申请者须先提交入学申请，再凭申请编号于同一资格的入学申请截止日前递交奖学金表，不能等收到录取后才申请。需不超过 250 词的指定主题短文、照片及非亲属学校教师评价；教师通常须在奖学金申请后七日内提交，无法按时者应尽快补交（校方建议不超过两周）。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-scholarship"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "大陆学生适用费率",
+            "text": "2026 接受录取的中国籍、非新加坡永居、非 ASEAN 国际生，按其他国际生通用行获 TG 后 S$21,400／年，含 9% GST。无 TG 的通用实验／非实验档为 S$40,600／S$36,350；本轮未取得 EEE 与收费档位的明确对应，须由校方确认。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-fees"
+            ]
+          },
+          {
+            "label": "政府学费补助（Tuition Grant）与服务义务",
+            "text": "国际生须在申请时选择 政府学费补助（TG），获授并接受后完成登记和协议签署；受助非新加坡公民毕业后须为新加坡实体工作三年。未完成手续按无补助收费。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-grant"
+            ]
+          },
+          {
+            "label": "奖学金入口与条件",
+            "text": "Nanyang Global Scholarship 面向各国籍，择优考察成绩、领导力和课外表现；先申请入学，再单独申请奖学金。覆盖 TG 后学费，保留 TG 三年义务；续领须 CGPA 至少 3.5 及良好操行。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "就业统计缺口",
+            "text": "本轮尚未核实本专业就业率、薪资及调查口径，暂不列数字。下列课程或行业方向仅供探索，不代表毕业生实际就业比例或个人收入。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-ges"
+            ]
+          },
+          {
+            "label": "校方列举的方向",
+            "text": "课程页列举半导体与集成电路、控制自动化、电力与清洁能源、通信等方向；属于可能进入的行业，未给出各行业毕业生人数或比例。",
+            "source_ids": [
+              "ntu-electrical-electronic-engineering-curriculum"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ntu-electrical-electronic-engineering-gaokao",
+          "title": "NTU：PRC National College Entrance Exam / Gao Kao",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/prc-gaokao",
+          "checked_at": "2026-09-12",
+          "supports": "Minimum Requirement to Apply：已考高考最低总分比例 80%、CSSD 验证、英语门槛、竞争性；页面另有 2027 年起的流程变更。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-prerequisites",
+          "title": "NTU：International Qualifications — Minimum Subject Requirements（2026 年 2 月版）",
+          "url": "https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5",
+          "checked_at": "2026-09-12",
+          "supports": "2026国际资格PDF：EEE第3页、Economics第4页、数学及物理脚注第8页；已截图核对。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-fees",
+          "title": "NTU：Accepted Programme Offer in 2026 — Tuition Fees",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026",
+          "checked_at": "2026-09-12",
+          "supports": "2026通用年费行：其他国际生TG费21,400；无TG实验/非实验40,600/36,350；未取得本专业分类。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-grant",
+          "title": "NTU：Tuition Grants",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants",
+          "checked_at": "2026-09-12",
+          "supports": "国际生在申请时选择 TG；获授并接受后登记签约；非新加坡公民三年服务合同义务。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-ges",
+          "title": "MOE：NTU Graduate Employment Survey 2025 原始报告",
+          "url": "https://www.moe.gov.sg/api/media/585fe7dc-65e3-470e-87c3-e23ceed5782b/Web-Publication-NTU-GES-2025.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "已定位2025官方原始报告；本轮新增专业尚未完成可视行列复核，不作为新增薪资或就业率数字的发布依据。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-curriculum",
+          "title": "NTU：Bachelor of Engineering in Electrical and Electronic Engineering",
+          "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-electrical-and-electronic-engineering-(eee)",
+          "checked_at": "2026-09-12",
+          "supports": "Full-time四年；工程设计、实验、三年级行业实习和毕业项目；国际资格科目要求；官方职业方向。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-campus",
+          "title": "NTU：学院校址与本科联络",
+          "url": "https://www.ntu.edu.sg/eee/about-us/contact-us",
+          "checked_at": "2026-09-12",
+          "supports": "EEE为Block S2、50 Nanyang Avenue；全日制BEng联络入口。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-language",
+          "title": "NTU：Global classrooms for diverse talents",
+          "url": "https://www.ntu.edu.sg/research/research-hub/news/detail/global-classrooms-for-diverse-talents",
+          "checked_at": "2026-09-12",
+          "supports": "官方文章明确大学课程以英语授课；用于授课语言，不移用交换生入学资格。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-application-dates",
+          "title": "NTU：International Qualifications — Forms and Deadlines",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications",
+          "checked_at": "2026-09-12",
+          "supports": "2026申请表按资格分类：高考2025-10-15至2026-01-20，IB/UK A-Level至2026-03-19，均Closed；UK8月才有成绩须下一轮。"
+        },
+        {
+          "id": "ntu-electrical-electronic-engineering-scholarship",
+          "title": "NTU：Nanyang Global Scholarship",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "各国籍新生，成绩、领导力及课外表现择优；先入学后单独奖学金申请；覆盖TG后学费，保留TG三年义务；CGPA3.5。 Year12等效资格奖学金申请期与入学期相同，须入学申请截止前提交；250词短文、照片、教师评价通常7日内，困难时尽快且建议两周内。"
+        }
+      ],
+      "language": "英语",
+      "campus": "南洋大道主校区（Nanyang Avenue）"
+    },
+    {
+      "id": "ntu-economics",
+      "university_id": "ntu",
+      "name": "经济学（荣誉）",
+      "name_en": "Bachelor of Social Sciences (Honours) in Economics",
+      "degree": "本科",
+      "subject": "经济",
+      "intake": "2026/27",
+      "duration": "4 年",
+      "checked_at": "2026-09-12",
+      "entry_summary": "高考最低申请门槛 80%；数学与高中英语良好，择优面试",
+      "tuition_summary": "2026：有条件补助 S$21,400／年；无补助课程归类本轮未核实",
+      "outcomes_summary": "本轮未核实可发布的专业就业率及薪资；见统计缺口说明",
+      "sections": {
+        "overview": [
+          {
+            "label": "学位与课程",
+            "text": "四年直接荣誉社会科学学士，Economics 单主修；核心学习微观、宏观及经济学数学，结合经济计量等课程。它与 Economics and Data Science、双主修或工程加经济学双学位分别招生。",
+            "source_ids": [
+              "ntu-economics-curriculum",
+              "ntu-economics-duration",
+              "ntu-economics-prerequisites"
+            ]
+          },
+          {
+            "label": "可选方向",
+            "text": "可选应用与实证经济、金融、公共政策方向；达成要求后取得学院方向证明，该方向不写入学位证或成绩单。",
+            "source_ids": [
+              "ntu-economics-curriculum"
+            ]
+          },
+          {
+            "label": "校区与授课语言",
+            "text": "学院位于南洋大道主校区；NTU 官方说明大学课程以英语授课。",
+            "source_ids": [
+              "ntu-economics-campus",
+              "ntu-economics-language"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考路径",
+            "text": "已考高考者最低申请门槛为总分比例至少 80%，并须提交 CSSD（学信网）验证报告；达到门槛不代表录取。2026 年入学指南允许高三应届生先用高一、高二成绩与英语成绩申请，择优面试。",
+            "source_ids": [
+              "ntu-economics-gaokao",
+              "ntu-economics-prerequisites"
+            ]
+          },
+          {
+            "label": "年度流程",
+            "text": "2026 入学高考申请期为 2025 年 10 月 15 日至 2026 年 1 月 20 日，现已结束。当前网页另列 2027 年起的高考出分后三天内提交及七月面试安排；这部分不属于本条 2026/27 批次。",
+            "source_ids": [
+              "ntu-economics-prerequisites",
+              "ntu-economics-gaokao"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "高考类别当前最低 IELTS 总分 6.0、写作 6.0、口语 6.0。校方提示竞争激烈专业及非理工课程可要求更高，不能把该最低线视为商科或计算机录取保证。",
+            "source_ids": [
+              "ntu-economics-gaokao"
+            ]
+          },
+          {
+            "label": "专业先修与面试",
+            "text": "国际资格表要求初中阶段 Additional Mathematics 及高中英语取得良好成绩；脚注允许未读初中 Additional Mathematics 者以高中数学满足数学类别。表中 Economics 可择优面试。大陆课程等效与良好成绩标准仍须由招生办公室判断。",
+            "source_ids": [
+              "ntu-economics-prerequisites"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "2026/27 高考申请（已结束）",
+            "text": "经 NTU 本科在线系统选择 PRC National College Entrance Exam／Gao Kao 类别；申请期为 2025-10-15 至 2026-01-20，已结束。当前所读日期表仍是这一轮；本轮未取得 2027/28 完整申请开放与截止日期。",
+            "source_ids": [
+              "ntu-economics-application-dates"
+            ]
+          },
+          {
+            "label": "IB 与 A-Level 类别",
+            "text": "IB 与 UK A-Level 使用各自申请表；2026/27 窗口为 2025-10-15 至 2026-03-19，已结束。UK A-Level 若到八月才获实际成绩，校方要求下一招生轮申请；不能套用高考时间线。",
+            "source_ids": [
+              "ntu-economics-application-dates"
+            ]
+          },
+          {
+            "label": "2027 入学高考路径的重要变动",
+            "text": "2027 年起，NTU 不再以高一、高二成绩决定高考申请者的面试；须在实际高考放榜后三日内提交成绩，择优参加七月面试。整轮申请开放及截止日期本轮未取得，请按新一轮招生通知安排。",
+            "source_ids": [
+              "ntu-economics-gaokao"
+            ]
+          },
+          {
+            "label": "奖学金申请也有截止日",
+            "text": "Year 12 等效资格申请者须先提交入学申请，再凭申请编号于同一资格的入学申请截止日前递交奖学金表，不能等收到录取后才申请。需不超过 250 词的指定主题短文、照片及非亲属学校教师评价；教师通常须在奖学金申请后七日内提交，无法按时者应尽快补交（校方建议不超过两周）。",
+            "source_ids": [
+              "ntu-economics-scholarship"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "大陆学生适用费率",
+            "text": "2026 接受录取的中国籍、非新加坡永居、非 ASEAN 国际生，按其他国际生通用行获 TG 后 S$21,400／年，含 9% GST。无 TG 通用表为实验档 S$40,600、非实验档 S$36,350；本轮未取得 Economics 与该分类的明确对应，不把非实验档自动当作已确认专业价格。",
+            "source_ids": [
+              "ntu-economics-fees"
+            ]
+          },
+          {
+            "label": "政府学费补助（Tuition Grant）与服务义务",
+            "text": "国际生须在申请时选择 政府学费补助（TG），获授并接受后完成登记和协议签署；受助非新加坡公民毕业后须为新加坡实体工作三年。未完成手续按无补助收费。",
+            "source_ids": [
+              "ntu-economics-grant"
+            ]
+          },
+          {
+            "label": "奖学金入口与条件",
+            "text": "Nanyang Global Scholarship 面向各国籍，择优考察成绩、领导力和课外表现；先申请入学，再单独申请奖学金。覆盖 TG 后学费，保留 TG 三年义务；续领须 CGPA 至少 3.5 及良好操行。",
+            "source_ids": [
+              "ntu-economics-scholarship"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "就业统计缺口",
+            "text": "本轮尚未核实本专业就业率、薪资及调查口径，暂不列数字。下列课程或行业方向仅供探索，不代表毕业生实际就业比例或个人收入。",
+            "source_ids": [
+              "ntu-economics-ges"
+            ]
+          },
+          {
+            "label": "方向与实测结果的区别",
+            "text": "应用与实证、金融、公共政策属于课程方向；其设置不表示毕业生已获得相应行业职位，也不是薪资调查。",
+            "source_ids": [
+              "ntu-economics-curriculum"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "ntu-economics-gaokao",
+          "title": "NTU：PRC National College Entrance Exam / Gao Kao",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/prc-gaokao",
+          "checked_at": "2026-09-12",
+          "supports": "Minimum Requirement to Apply：已考高考最低总分比例 80%、CSSD 验证、英语门槛、竞争性；页面另有 2027 年起的流程变更。"
+        },
+        {
+          "id": "ntu-economics-prerequisites",
+          "title": "NTU：International Qualifications — Minimum Subject Requirements（2026 年 2 月版）",
+          "url": "https://www.ntu.edu.sg/media/docs/default-source/undergraduate-admissions/msr/emsr_intnl.pdf?sfvrsn=35f52b2c_5",
+          "checked_at": "2026-09-12",
+          "supports": "2026国际资格PDF：EEE第3页、Economics第4页、数学及物理脚注第8页；已截图核对。"
+        },
+        {
+          "id": "ntu-economics-fees",
+          "title": "NTU：Accepted Programme Offer in 2026 — Tuition Fees",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026",
+          "checked_at": "2026-09-12",
+          "supports": "2026通用年费行：其他国际生TG费21,400；无TG实验/非实验40,600/36,350；未取得本专业分类。"
+        },
+        {
+          "id": "ntu-economics-grant",
+          "title": "NTU：Tuition Grants",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants",
+          "checked_at": "2026-09-12",
+          "supports": "国际生在申请时选择 TG；获授并接受后登记签约；非新加坡公民三年服务合同义务。"
+        },
+        {
+          "id": "ntu-economics-ges",
+          "title": "MOE：NTU Graduate Employment Survey 2025 原始报告",
+          "url": "https://www.moe.gov.sg/api/media/585fe7dc-65e3-470e-87c3-e23ceed5782b/Web-Publication-NTU-GES-2025.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "已定位2025官方原始报告；本轮新增专业尚未完成可视行列复核，不作为新增薪资或就业率数字的发布依据。"
+        },
+        {
+          "id": "ntu-economics-curriculum",
+          "title": "NTU SSS：BSocSci (Hons) in Economics",
+          "url": "https://www.ntu.edu.sg/sss/about-us/economics/economics-curriculum/bsocsci-hons-in-economics",
+          "checked_at": "2026-09-12",
+          "supports": "学位全称及课程；微观、宏观、计量、数学；应用与实证、金融及公共政策方向；方向证明不写入学位证或成绩单。"
+        },
+        {
+          "id": "ntu-economics-duration",
+          "title": "NTU School of Social Sciences：Home",
+          "url": "https://www.ntu.edu.sg/sss/home",
+          "checked_at": "2026-09-12",
+          "supports": "SSS提供包括Economics在内的四年直接荣誉课程。"
+        },
+        {
+          "id": "ntu-economics-campus",
+          "title": "NTU：学院校址与本科联络",
+          "url": "https://www.ntu.edu.sg/sss/about-us/contact-us",
+          "checked_at": "2026-09-12",
+          "supports": "SSS为48 Nanyang Avenue；经济学本科联系人。"
+        },
+        {
+          "id": "ntu-economics-language",
+          "title": "NTU：Global classrooms for diverse talents",
+          "url": "https://www.ntu.edu.sg/research/research-hub/news/detail/global-classrooms-for-diverse-talents",
+          "checked_at": "2026-09-12",
+          "supports": "官方文章明确大学课程以英语授课；用于授课语言，不移用交换生入学资格。"
+        },
+        {
+          "id": "ntu-economics-application-dates",
+          "title": "NTU：International Qualifications — Forms and Deadlines",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications",
+          "checked_at": "2026-09-12",
+          "supports": "2026申请表按资格分类：高考2025-10-15至2026-01-20，IB/UK A-Level至2026-03-19，均Closed；UK8月才有成绩须下一轮。"
+        },
+        {
+          "id": "ntu-economics-scholarship",
+          "title": "NTU：Nanyang Global Scholarship",
+          "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship",
+          "checked_at": "2026-09-12",
+          "supports": "各国籍新生，成绩、领导力及课外表现择优；先入学后单独奖学金申请；覆盖TG后学费，保留TG三年义务；CGPA3.5。 Year12等效资格奖学金申请期与入学期相同，须入学申请截止前提交；250词短文、照片、教师评价通常7日内，困难时尽快且建议两周内。"
+        }
+      ],
+      "language": "英语",
+      "campus": "南洋大道主校区（Nanyang Avenue）"
     }
   ]
 }

@@ -16,7 +16,9 @@ hide:
 
 <div class="program-at-a-glance"><div><span>入学年度</span><strong>2026/27</strong></div><div><span>学制</span><strong>4 年</strong></div><div><span>国际生学费</span><strong>2026：无补助 S$45,600／年；有条件补助 S$21,800／年</strong></div></div>
 
-<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#fees">学费与费用</a><a href="#outcomes">毕业生情况</a></nav>
+<p class="program-location"><strong>校区：</strong>南洋大道主校区（Nanyang Avenue） · <strong>授课语言：</strong>英语</p>
+
+<nav class="program-jumps" aria-label="专业详情章节"><a href="#overview">专业说明</a><a href="#admissions">入学条件</a><a href="#applications">申请安排</a><a href="#fees">学费与资助</a><a href="#outcomes">毕业生情况</a></nav>
 
 ## 专业说明 {#overview}
 
@@ -29,6 +31,11 @@ hide:
 
 <p class="catalog-fact">单主修课程由跨学科共同课、商科核心、主修课程及拓展选修组成；可按条件增加其他学院第二主修、辅修或实践学习。</p>
 <p class="fact-sources"><a href="#source-ntu-business-curriculum">依据 1</a> · <a href="#source-ntu-business-reform">依据 2</a></p>
+
+### 校区与授课语言
+
+<p class="catalog-fact">学院位于南洋大道主校区；NTU 官方说明大学课程以英语授课。</p>
+<p class="fact-sources"><a href="#source-ntu-business-campus">依据 8</a> · <a href="#source-ntu-business-language">依据 9</a></p>
 
 ## 入学条件 {#admissions}
 
@@ -52,7 +59,34 @@ hide:
 <p class="catalog-fact">2026 国际资格表要求初中阶段 Additional Mathematics 及良好的高中英语成绩。该英文学科名称在大陆普高体系中的对应课程须由校方确认，不能自行把普通初中数学判为满足。</p>
 <p class="fact-sources"><a href="#source-ntu-business-prerequisites">依据 4</a></p>
 
-## 学费与费用 {#fees}
+### 数学先修脚注补充
+
+<p class="catalog-fact">2026 国际资格表的 Additional Mathematics 附脚注明确：未在初中阶段修读该科者，可按高中 Mathematics 类别审核。该补充不把大陆具体数学成绩自动换算为合格。</p>
+<p class="fact-sources"><a href="#source-ntu-business-prerequisites">依据 4</a></p>
+
+## 申请安排 {#applications}
+
+### 2026/27 高考申请（已结束）
+
+<p class="catalog-fact">经 NTU 本科在线系统选择 PRC National College Entrance Exam／Gao Kao 类别；申请期为 2025-10-15 至 2026-01-20，已结束。当前所读日期表仍是这一轮；本轮未取得 2027/28 完整申请开放与截止日期。</p>
+<p class="fact-sources"><a href="#source-ntu-business-application-dates">依据 10</a></p>
+
+### IB 与 A-Level 类别
+
+<p class="catalog-fact">IB 与 UK A-Level 使用各自申请表；2026/27 窗口为 2025-10-15 至 2026-03-19，已结束。UK A-Level 若到八月才获实际成绩，校方要求下一招生轮申请；不能套用高考时间线。</p>
+<p class="fact-sources"><a href="#source-ntu-business-application-dates">依据 10</a></p>
+
+### 2027 入学高考路径的重要变动
+
+<p class="catalog-fact">2027 年起，NTU 不再以高一、高二成绩决定高考申请者的面试；须在实际高考放榜后三日内提交成绩，择优参加七月面试。整轮申请开放及截止日期本轮未取得，请按新一轮招生通知安排。</p>
+<p class="fact-sources"><a href="#source-ntu-business-gaokao">依据 3</a></p>
+
+### 奖学金申请也有截止日
+
+<p class="catalog-fact">Year 12 等效资格申请者须先提交入学申请，再凭申请编号于同一资格的入学申请截止日前递交奖学金表，不能等收到录取后才申请。需不超过 250 词的指定主题短文、照片及非亲属学校教师评价；教师通常须在奖学金申请后七日内提交，无法按时者应尽快补交（校方建议不超过两周）。</p>
+<p class="fact-sources"><a href="#source-ntu-business-scholarship">依据 11</a></p>
+
+## 学费与资助 {#fees}
 
 ### 大陆学生适用费率
 
@@ -63,6 +97,11 @@ hide:
 
 <p class="catalog-fact">国际生须在申请时选择 政府学费补助（TG），获授并接受后完成登记和协议签署；受助非新加坡公民毕业后须为新加坡实体工作三年。未完成手续按无补助收费。</p>
 <p class="fact-sources"><a href="#source-ntu-business-grant">依据 6</a></p>
+
+### 奖学金入口与条件
+
+<p class="catalog-fact">Nanyang Global Scholarship 面向各国籍，择优考察成绩、领导力和课外表现；先申请入学，再单独申请奖学金。覆盖 TG 后学费，保留 TG 三年义务；续领须 CGPA 至少 3.5 及良好操行。</p>
+<p class="fact-sources"><a href="#source-ntu-business-scholarship">依据 11</a></p>
 
 ## 毕业生情况 {#outcomes}
 
@@ -92,5 +131,9 @@ hide:
 <div class="catalog-source" id="source-ntu-business-fees"><span class="source-number">05</span><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees/accepted-programme-offer-in-2026">NTU：Accepted Programme Offer in 2026 — Tuition Fees ↗</a><p>2026 本科年费表：其他国际生补助费；未受助实验/非实验类和 Business 专列；国际生金额含 9% GST。</p><small>www.ntu.edu.sg · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-ntu-business-grant"><span class="source-number">06</span><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants">NTU：Tuition Grants ↗</a><p>国际生在申请时选择 TG；获授并接受后登记签约；非新加坡公民三年服务合同义务。</p><small>www.ntu.edu.sg · 核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-ntu-business-ges"><span class="source-number">07</span><div><a href="https://www.moe.gov.sg/api/media/585fe7dc-65e3-470e-87c3-e23ceed5782b/Web-Publication-NTU-GES-2025.pdf">MOE：NTU Graduate Employment Survey 2025 原始报告 ↗</a><p>PDF 第 1 页 Computer Science / Business 行；第 2 页脚注 1–6 定义就业率及税前月薪。</p><small>www.moe.gov.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-ntu-business-campus"><span class="source-number">08</span><div><a href="https://www.ntu.edu.sg/business/events/ntu-open-house-nbs-discover-business-2025">NTU：学院校址与本科联络 ↗</a><p>NBS的Gaia为91 Nanyang Avenue；学校活动页校址。</p><small>www.ntu.edu.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-ntu-business-language"><span class="source-number">09</span><div><a href="https://www.ntu.edu.sg/research/research-hub/news/detail/global-classrooms-for-diverse-talents">NTU：Global classrooms for diverse talents ↗</a><p>官方文章明确大学课程以英语授课；用于授课语言，不移用交换生入学资格。</p><small>www.ntu.edu.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-ntu-business-application-dates"><span class="source-number">10</span><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications">NTU：International Qualifications — Forms and Deadlines ↗</a><p>2026申请表按资格分类：高考2025-10-15至2026-01-20，IB/UK A-Level至2026-03-19，均Closed；UK8月才有成绩须下一轮。</p><small>www.ntu.edu.sg · 核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-ntu-business-scholarship"><span class="source-number">11</span><div><a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/scholarship-opportunities/detail/nanyang-scholarship">NTU：Nanyang Global Scholarship ↗</a><p>各国籍新生，成绩、领导力及课外表现择优；先入学后单独奖学金申请；覆盖TG后学费，保留TG三年义务；CGPA3.5。 Year12等效资格奖学金申请期与入学期相同，须入学申请截止前提交；250词短文、照片、教师评价通常7日内，困难时尽快且建议两周内。</p><small>www.ntu.edu.sg · 核验 2026-09-12</small></div></div>
 
 <a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">← 返回南洋理工大学</a> · <a class="" href="/study-abroad-handbook/tools/budget/">用已确认费用计算全程预算</a>

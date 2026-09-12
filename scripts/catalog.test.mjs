@@ -29,7 +29,13 @@ test('QS directory preserves all published top-100 places, mainland exclusion an
  const {universities,programs}=catalog;
  assert.equal(universities.length,96);
  assert.equal(new Set(universities.map(u=>u.country_id)).size,22);
- assert.equal(programs.length,12);
+ assert.equal(programs.length,24);
+ for (const id of ['sheffield','manchester','monash','unsw','nus','ntu']) {
+   assert.equal(filterPrograms(programs,{university:id}).length,4);
+ }
+ assert.equal(new Set(programs.map(p=>p.subject)).size,4);
+ assert.ok(filterPrograms(programs,{subject:'工程'}).length>=6);
+ assert.ok(filterPrograms(programs,{subject:'经济'}).length>=3);
  assert.ok(universities.every(u=>u.qs_rank<=100));
  assert.equal(universities.filter(u=>u.qs_rank===100).length,2);
  assert.equal(filterUniversities(universities,{country:'hong-kong'}).length,5);

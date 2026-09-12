@@ -23,7 +23,7 @@ hide:
 
 ## 专业与申请资料
 
-已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
+已收录 4 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
 <div class="program-grid">
 <article class="program-card" data-program-id="unsw-commerce">
@@ -35,6 +35,26 @@ hide:
 <p class="program-cohort">2026 入学 · 本科 · 3 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>2026高考参考80%；IELTS 7.0／单项6.0</dd><dt>学费</dt><dd>2026首年指示学费：A$56,500</dd><dt>毕业</dt><dd>本专业统计待补；附全校本土本科毕业3年后薪酬</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="unsw-economics">
+<div class="program-meta"><span>澳大利亚 · 悉尼（Kensington校区）</span><span>经济</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/unsw/">新南威尔士大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>19</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics/">经济学学士</a></h3>
+<p class="program-english">Bachelor of Economics</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2027高考参考75%；IELTS 7.0／单项6.0</dd><dt>学费</dt><dd>2026首年参考：A$56,500；2027费用本轮未取得</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率本轮未取得；附官方职业方向</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="unsw-mechanical-engineering">
+<div class="program-meta"><span>澳大利亚 · 悉尼（Kensington校区）</span><span>工程</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/unsw/">新南威尔士大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>19</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-engineering/">机械工程荣誉学士</a></h3>
+<p class="program-english">Bachelor of Engineering (Honours) (Mechanical Engineering)</p>
+<p class="program-cohort">2027 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>2027高考参考75%；IELTS 6.5／单项6.0</dd><dt>学费</dt><dd>2026首年参考：A$61,500；2027费用本轮未取得</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率本轮未取得；附官方职业方向</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-engineering/">查看条件、费用与去向 →</a>
 </article>
 <article class="program-card" data-program-id="unsw-computer-science">
 <div class="program-meta"><span>澳大利亚 · 悉尼（Kensington校区）</span><span>计算机</span></div>

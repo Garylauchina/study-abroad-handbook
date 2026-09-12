@@ -10,7 +10,7 @@ from urllib.parse import urlsplit
 ROOT = Path(__file__).resolve().parents[1]
 BASE = '/study-abroad-handbook/'
 RANKING = json.loads((ROOT / 'data/rankings/qs-2027.json').read_text())
-SECTIONS = [('overview', '专业说明'), ('admissions', '入学条件'), ('fees', '学费与费用'), ('outcomes', '毕业生情况')]
+SECTIONS = [('overview', '专业说明'), ('admissions', '入学条件'), ('applications', '申请安排'), ('fees', '学费与资助'), ('outcomes', '毕业生情况')]
 
 def esc(value):
     return html.escape(str(value), quote=True)
@@ -52,7 +52,7 @@ def load_catalog():
         assert cm[u['country_id']]['qs_location'] == row['location']
     for p in programs:
         assert p['university_id'] in um
-        for key in ['name', 'name_en', 'degree', 'subject', 'intake', 'duration', 'entry_summary', 'tuition_summary', 'outcomes_summary', 'checked_at']:
+        for key in ['name', 'name_en', 'degree', 'subject', 'intake', 'duration', 'campus', 'language', 'entry_summary', 'tuition_summary', 'outcomes_summary', 'checked_at']:
             assert isinstance(p[key], str) and p[key].strip(), f'{p["id"]}: missing {key}'
         assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', p['checked_at'])
         sources = {s['id']: s for s in p['sources']}
@@ -106,6 +106,7 @@ def generate():
     cm, um = {c['id']:c for c in countries}, {u['id']:u for u in universities}
     universities.sort(key=lambda u: (u['qs_rank'], u['name_en']))
     programs.sort(key=lambda p: (um[p['university_id']]['qs_rank'], p['name_en']))
+    program_university_count = len({p['university_id'] for p in programs})
     outputs = {}
     cards = '\n'.join(program_card(p, um[p['university_id']], cm[um[p['university_id']]['country_id']]) for p in programs)
     home = front('QS 2027 大学与专业查询', True)
@@ -128,7 +129,7 @@ def generate():
     home += f'<p class="catalog-status" id="catalog-status" role="status" aria-live="polite">收录 QS 2027 前 100 名的 {len(universities)} 所非中国大陆大学，按原始名次排序；“=”表示并列。</p><p id="catalog-empty" hidden></p><div id="catalog-results"><section id="catalog-universities"><h3 class="catalog-list-title">大学清单</h3><div class="university-grid">'
     home += '\n'.join(university_card(u,cm[u['country_id']],programs) for u in universities)
     home += f'</div></section><section id="catalog-programs"><h3 class="catalog-list-title">已收录专业</h3><div class="program-grid">{cards}</div></section></div>\n</div>\n\n'
-    home += '<div class="catalog-footnote"><strong>收录范围与数据口径</strong><p>QS 2027 榜单名次不大于 100 的共有 102 所；剔除中国大陆 6 所后收录 96 所，保留中国香港和中国台湾。大学排名与专业排名不同；入榜不表示面向所有申请者开放本科招生。专业资料目前覆盖 6 所大学、12 个本科项目，其余标注待收录。核验：2026-09-12。</p>' + link('about/catalog-data/','排名来源与数据说明') + ' · ' + link('tools/budget/','计算全程预算') + ' · ' + link('start/undergraduate/','申请准备指南') + '</div>\n</div>\n'
+    home += f'<div class="catalog-footnote"><strong>收录范围与数据口径</strong><p>QS 2027 榜单名次不大于 100 的共有 102 所；剔除中国大陆 6 所后收录 96 所，保留中国香港和中国台湾。大学排名与专业排名不同；入榜不表示面向所有申请者开放本科招生。专业资料目前覆盖 {program_university_count} 所大学、{len(programs)} 个本科项目，其余标注待收录。入学年度、费用年度和申请截止日期分别标注；已结束批次供参考。核验：2026-09-12。</p>' + link('about/catalog-data/','排名来源与数据说明') + ' · ' + link('tools/budget/','计算全程预算') + ' · ' + link('start/undergraduate/','申请准备指南') + '</div>\n</div>\n'
     outputs['docs/index.md'] = home
     directory = front('国家与地区', True) + '# 按国家与地区查大学\n\n收录 QS 2027 前 100 名的非中国大陆大学。选择所在地，查看大学排名与资料收录情况。\n\n<div class="country-grid">'
     for c in countries:
@@ -162,6 +163,7 @@ def generate():
                 body = front(u['name']+' · '+p['name']) + crumbs([('','大学与专业'),(route(c['id']),c['name']),(route(c['id'],u['id']),u['name']),(None,p['name'])])
                 body += f'<p class="catalog-eyebrow">{esc(u["name"])} · {esc(p["degree"])} · {esc(p["subject"])}</p>\n\n# {p["name"]}\n\n<p class="program-title-en">{esc(p["name_en"])}</p>\n\n'
                 body += '<div class="program-at-a-glance">' + ''.join(f'<div><span>{label}</span><strong>{esc(value)}</strong></div>' for label,value in [('入学年度',p['intake']),('学制',p['duration']),('国际生学费',p['tuition_summary'])]) + '</div>\n\n'
+                body += f'<p class="program-location"><strong>校区：</strong>{esc(p["campus"])} · <strong>授课语言：</strong>{esc(p["language"])}</p>\n\n'
                 body += '<nav class="program-jumps" aria-label="专业详情章节">' + ''.join(f'<a href="#{key}">{title}</a>' for key,title in SECTIONS) + '</nav>\n\n'
                 for key,title in SECTIONS:
                     body += f'## {title} {{#{key}}}\n\n'
@@ -174,7 +176,7 @@ def generate():
                     body += f'<div class="catalog-source" id="source-{s["id"]}"><span class="source-number">{i:02d}</span><div><a href="{esc(s["url"])}">{esc(s["title"])} ↗</a><p>{esc(s["supports"])}</p><small>{esc(urlsplit(s["url"]).netloc)} · 核验 {s["checked_at"]}</small></div></div>\n'
                 body += '\n' + link(route(c['id'],u['id']),'← 返回'+u['name']) + ' · ' + link('tools/budget/','用已确认费用计算全程预算') + '\n'
                 outputs['docs/'+route(c['id'],u['id'],p['id'])+'index.md'] = body
-                index.append({k:p[k] for k in ['id','university_id','name','name_en','degree','subject','intake','duration','entry_summary','tuition_summary','outcomes_summary']} | {'qs_rank':u['qs_rank'],'qs_rank_display':u['qs_rank_display'],'country_id':c['id'],'country_name':c['name'],'university_name':u['name'],'university_name_en':u['name_en'],'aliases':u.get('aliases',[]),'url':route(c['id'],u['id'],p['id'])})
+                index.append({k:p[k] for k in ['id','university_id','name','name_en','degree','subject','intake','duration','campus','language','entry_summary','tuition_summary','outcomes_summary']} | {'qs_rank':u['qs_rank'],'qs_rank_display':u['qs_rank_display'],'country_id':c['id'],'country_name':c['name'],'university_name':u['name'],'university_name_en':u['name_en'],'aliases':u.get('aliases',[]),'url':route(c['id'],u['id'],p['id'])})
     university_index = [u | {'country_name':cm[u['country_id']]['name'], 'program_count':sum(p['university_id']==u['id'] for p in programs), 'url':route(u['country_id'],u['id'])} for u in universities]
     outputs['docs/assets/data/catalog-index.json'] = json.dumps({'universities':university_index,'programs':index,'ranking':{k:v for k,v in RANKING.items() if k!='rows'}},ensure_ascii=False,indent=2)+'\n'
     nav = ['  - 全部国家和地区: catalog/index.md']
