@@ -1382,5 +1382,101 @@
         "sha256": "ba48b9bb336884f0d45ff3270d214a931b795cc21eeba2e2349882e58edbe1e6"
       }
     ]
+  },
+  {
+    "id": "yonsei-satellite-systems-682a860abd",
+    "university_id": "yonsei",
+    "name_en": "Satellite Systems",
+    "checked_at": "2026-09-13",
+    "reason": "理学院把卫星系统列在研究生课程下，学习卫星平台、载荷、试验、轨道运行及数据应用；页面明确描述获企业资助的研究生。本条不属于高中新生本科目录，建议从学士项目计数排除。",
+    "sources": [
+      {
+        "id": "YONSEI-3cea5841be37f9",
+        "title": "延世大学官方专业课程说明",
+        "url": "http://science.yonsei.ac.kr/major/graduate",
+        "checked_at": "2026-09-13",
+        "sha256": "d4ba82b77167576f9ec23f5001afc163f54e74d4627b3789b9fd1f464ec7a05c"
+      }
+    ]
+  },
+  {
+    "id": "yonsei-digital-integration-engineering-7dd4784a49",
+    "university_id": "yonsei",
+    "name_en": "Digital Integration Engineering",
+    "checked_at": "2026-09-13",
+    "reason": "工学院把本项目明确列为研究生合同学科，结合数字技术和产业应用培养高层次人才；不能因其出现在学院总目录，就把它当成普通本科专业。",
+    "sources": [
+      {
+        "id": "YONSEI-da3116cc106d58",
+        "title": "延世大学官方专业课程说明",
+        "url": "https://engineering.yonsei.ac.kr/engineering/major_14_2.do",
+        "checked_at": "2026-09-13",
+        "sha256": "38b9452573297b4799932fff302b907a3055ebd3f373082b01cf4d0ccb797158"
+      }
+    ]
+  },
+  {
+    "id": "yonsei-intelligent-data-and-optimization-0edba89ca0",
+    "university_id": "yonsei",
+    "name_en": "Intelligent Data and Optimization",
+    "checked_at": "2026-09-13",
+    "reason": "工学院研究生合同学科页列有本项目，研究数据、人工智能及优化的产业应用。本条应从学士目录计数排除，研究生所需先前学历另按其招生规则核查。",
+    "sources": [
+      {
+        "id": "YONSEI-da3116cc106d58",
+        "title": "延世大学官方专业课程说明",
+        "url": "https://engineering.yonsei.ac.kr/engineering/major_14_2.do",
+        "checked_at": "2026-09-13",
+        "sha256": "38b9452573297b4799932fff302b907a3055ebd3f373082b01cf4d0ccb797158"
+      }
+    ]
+  },
+  {
+    "id": "yonsei-battery-engineering-cba2b62b5e",
+    "university_id": "yonsei",
+    "name_en": "Battery Engineering",
+    "checked_at": "2026-09-13",
+    "reason": "官方毕业要求按硕士、博士和硕博连读分别列示，没有在该页提供本科培养路线。本条不是高中毕业后直接进入的学士专业，建议从本科目录计数排除。",
+    "sources": [
+      {
+        "id": "YONSEI-c74879eee7ed14",
+        "title": "延世大学官方专业课程说明",
+        "url": "https://yongei.yonsei.ac.kr/battery/info03.do",
+        "checked_at": "2026-09-13",
+        "sha256": "f55592ace3526ea65f5e88ffd8594ba266f9ed82227f8063c0f831131033c812"
+      }
+    ]
+  },
+  {
+    "id": "yonsei-school-of-computing-b8c5ede7eb",
+    "university_id": "yonsei",
+    "name_en": "School of Computing",
+    "checked_at": "2026-09-13",
+    "reason": "计算学部课程表明确分为计算机科学与工程、人工智能、人工智能系统三个专业，各有三门指定必修。这是组织及课程总览；对应专业已分别收录，不能再将总览视为第四个独立本科专业。",
+    "sources": [
+      {
+        "id": "YONSEI-ad5afe235d0734",
+        "title": "延世大学官方专业课程说明",
+        "url": "https://cais.yonsei.ac.kr/csai_en/educate/facultyCurri.do",
+        "checked_at": "2026-09-13",
+        "sha256": "922b86861acd13f902a7ee606307f70a54fba1a3c3757a99bed3f22d8ae04501"
+      }
+    ]
+  },
+  {
+    "id": "yonsei-school-of-integrated-technology-3c700109f1",
+    "university_id": "yonsei",
+    "name_en": "School of Integrated Technology",
+    "checked_at": "2026-09-13",
+    "reason": "学部当前包含信息技术融合、智能半导体技术和移动系统三个本科专业，强调科学技术与人文、设计之间的研究融合。官网介绍可选择的本科3年加硕博连读4年加速路线，但这不是所有学生统一7年制。 本科三个子专业已分别收录；本条组织总览合并，不再计为独立学位。",
+    "sources": [
+      {
+        "id": "YONSEI-633dc91c7a73d8",
+        "title": "延世大学官方专业课程说明",
+        "url": "https://sit.yonsei.ac.kr/sit/intro/overview.do",
+        "checked_at": "2026-09-13",
+        "sha256": "5714bd0524872f5161af48da969d044e7ff9fe82a83105f20e8644154572d8fb"
+      }
+    ]
   }
 ]

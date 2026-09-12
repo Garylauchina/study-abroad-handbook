@@ -79,7 +79,7 @@
 - UCSD原178+新BDS=179；13旧院系/URL纠正、9旧心理/暂停项目隔离新生规则、7贯通和2自拟路径隔离直录。113来源SHA通过；151学科/相近专业校友例子、4旧BENG授位数量保留。BDS分组44+52与实际课程层级40+56均96，明确差别。旧年费用、UC China、FDS毕业当时和样本限制保留。
 - 最新生成16577条：36详细、15309部分专业、1232学校共用；61目录complete、35partial。UT和UCSD目录因仍有内部路径/身份未闭合保守降partial。更正页62。8 Node/4研究/2资产版本通过，来源与生成一致性检查进行中；strict初次162.62秒、类别修正后143.04秒通过；首轮16769HTML、913776内部引用、18696搜索条目、512.0MB检查通过。PharmD首屏改先修后专业学位并新增对应回归断言。UCSD首屏补本科阶段旧年费用、旧/暂停方案申请限制和来源标题后，最终strict构建142.04秒通过；16769HTML、913785内部引用、18696搜索条目、512.0MB均通过。来源/生成一致性、8 Node/4研究/2资产版本、隐私扫描和git diff --check通过。Chrome已核UCSD旧心理新生隔离与BDS96学分分组/首屏费用、UNSW3899新旧药学说明、UT163分页与美国卡片联动，PharmD390px窄屏目视通过。提交368b80a9d18b9a760db9b2358bb6730e0780e75f已推送main与工作分支；Actions34714225822 build/deploy均success。线上首页、catalog-index.json（SHA c0536192b81fe0e8505fe21f96cdbd82f615916cb1d1937852bd2bb45638ef6c）、UT PharmD和UCSD BDS均HTTP200且与本地逐字节一致；Chrome线上PharmD先修后标签、学制、25831/学期和全部来源已目视。
 
-## 第七批已完成本地验收，准备发布
+## 第七批已发布并完成线上验收
 
 - UCLA145、Melbourne144、UIUC169已整合；全站16577条：36详细、15711部分专业、830学校共用。目录60完整、36部分；更正页71。
 - UCLA逐一匹配145当前课程页，141旧ID保留，新增Computational Art、Design、Games、Digital Humanities。6页147索引行中的2次完全重复合并。12个停止/暂停/校内/高年级或旧方案隔离普通新生规则。2027三项DMA首届、Music Industry无面试、Nursing推荐截止冲突分别保留。
@@ -90,12 +90,28 @@
 - UIUC费用采用真实International列，工程/商科47800为2026/27学年参考，不能套US Nonresident44440；线上442+4/学分等独立。CS毕业372、已知229（62%）、落实去向96%其中就业62/升学34，年薪中位133000仅N43。149个当前内部方向候选尚未独立收录，目录由complete降partial。
 - 8 Node、4研究、2资源版本测试通过；来源与生成一致性、隐私扫描、git diff --check通过。strict构建153.32秒，修订一处覆盖说明后157.88秒；最终16778HTML、925353内部引用、18725搜索条目、518.2MB通过。Chrome本地UCLA145筛选、音乐产业中文搜索与2027无面试/60117.69费用、Biophysics停招首屏、Melbourne新主修100学分和2027父学位费、UIUC CS毕业样本与390px双学位首屏均已核验。
 
+- 提交4af0df1680f3e4dd49bf43c1aa3e9b7849827c57已发布main；Actions34719502446 build/deploy均success。线上首页、catalog-index.json（16,112,253字节，SHA be85d982f0760e2c983c6c487a6b27416cdb54096fd2f8f4a363491347eca5f6）与UIUC CS页均HTTP200且逐字节相等；Chrome线上CS的372/229/62%及薪资N43和来源布局已目视。
+
+## 第八批本地验收完成，待发布
+
+- Michigan145、Yonsei119研究已整体导入；全站16,578条：36详细、15,942部分专业事实、600学校共用资料。目录仍60完整、36部分，更正页77。未称全量详情完成。
+- Michigan保留140旧ID，新增BBS、牙科卫生学士补全、体育管理2方向、IONM旧届在读方向5项。266个URL+SHA来源及145记录身份、引用闭合通过；Plant Biology在当前LSA目录身份未闭合，仍仅学校资料。
+- LSA71旧方向逐项补先修、毕业学分和中文；Biotechnology and Bioenvironmental Sciences为Winter2027新设。SMTD29明确音乐理论仅大学阶段转入、实际2027试演与专门IELTS6.5；Interarts沿Stamps一般语言政策。教育、艺术、建筑、公共卫生、信息、Ford的高中直录／在读／转学资格分别保留。
+- 工程18+IBE1核2026/27课程及18职业统计PDF；CS/DS薪资属于LSA+Engineering联合样本，工程授位数不套LSA。IBE为高中申请150学分BBA+BSE，非在读转入，实际适用Ross费率。
+- 143条费用独立复核：2026/27 Non-Resident每完整学期12–18学分、低年级0–54／高年级55+；另收246.89学期费、F/J完整学期500、保险308.72/月（2026-09至2027-08）。CASC未知，不因大学有通用费用表而填入。牙科补全只用高年级35854，且须美国RDH等先前资格。
+- Root实读Ross2024/25求职507、498获offer、496接受，薪资样本另列；Michigan护理州委员会2025报告实读并Chrome目视PDF102页：Ann Arbor BS首次167人次158通过94.61%，明示为执照考试而非就业/毕业人数。2025护理128学分计划不写成2027毕业规则。
+- Yonsei旧123排除4研究生与2子专业已收录的学部总览，保留117稳定ID；新增四年尖端医药科学和非护理学士后2年ABSN。159个源URL+SHA（含排除证明）通过；实际研究155唯一来源。6旧URL均生成更正页。
+- Yonsei20项身份／学位澄清与2项旧名承继待核保留；原州护理英文学院名由root对照2022升格后的现行大学目录改为Wonju College of Nursing。UIC、MIRAE、GLC、普通首尔、在职／合同／联修入口隔离，医护MIRAE第一批已截止，不套11月普通第二批。
+- Root目视首尔2027简章46–49等专业/脚注和2026国际费用表，GBED第1学期7388000、第2学期7174000韩元，之后按专业阶段参考；MIRAE不套首尔费用，2027未知。尖端医药科学不获药师应考资格，10/31面试是否适用新专业待确认；医师笔试报道年度/届次冲突未解决，不发布候选50人/100%数字。
+- 8 Node、4研究、2资源版本测试、来源和生成一致性、隐私扫描、git diff --check通过。两校首次strict构建157.34秒；修正原州护理英文学院名和医学院首屏摘要后最终146.97秒。最终16,785HTML、928,457内部引用、18,744搜索条目、520.2MB通过。
+- Chrome本地密歇根145筛选、中文音乐理论搜索唯一结果、转入资格与共用规则隔离、护理94.61%考试来源、390px牙科学士补全首屏已目视；延世四年新专业费用与药师资格界限、原州护理已截止及现场面试说明均已目视。
+
 ## 当前分工与下一批 scratch
 
-- research_au_catalog：已冻结Melbourne与Michigan LSA71+新增BBS1；继续Michigan SMTD29，Theory仅转入，2027实际试演日期和本科英语专门要求分开。
-- research_uk_catalog：已冻结UIUC；继续Michigan工程18+IBE1，实际bulletin、20课程PDF和18职业PDF已取得，按调查期间、美国就业限制与本科授位数分别整理。
-- uk_sample：已冻结UCLA；继续Yonsei123（69Seoul/International、33MIRAE、16UIC、5GLC），校区和招生身份分别适用。
-- root：第七批发布与线上核验；Michigan校级2027旧事实保留，2026/27完整学费32表+必缴费用表与2026/27保险及在校国际生S&S奖学金新资料已获取。另查其余20专业：教育已有小学本科当前全文、LEAPS总览；中学教育浏览器验证页不可用，改读公开网页检索原文。Ross课程与直录说明实际Chrome已保存，后续申请、课程、毕业原文继续归档。
+- research_au_catalog：Korea University101，首尔与世宗2027本科简章及专业课程；只写korea-enrichment scratch。
+- research_uk_catalog：NUS128，逐主修/并修身份、2026/27课程、Tuition Grant和2025 GES分母；只写nus-enrichment scratch。
+- uk_sample：Osaka68与内部方向缺口，普通2027概要、EJU与IUPS英语路线分别；只写osaka-enrichment scratch。
+- root：第八批发布与线上验收；NTU Taiwan62及官方115学年度本科必修查询95个选项、7个校院学士链接正在对照，陆生2027本科入口未取得不套国际生日期。原文在ntu-taiwan-enrichment scratch。
 
 ## 未完成的验收范围
 

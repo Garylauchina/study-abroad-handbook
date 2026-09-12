@@ -23,151 +23,156 @@ hide:
 
 ## 专业与申请资料
 
-140 个专业条目 · 0 个含详细资料 · 5 个补有专业资料 · 135 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+145 个专业条目 · 0 个含详细资料 · 144 个补有专业资料 · 1 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=michigan#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-aerospace-engineering-d1603a0423/">Aerospace Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-afroamerican-and-african-studies-4e610531e0/">Afroamerican and African Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-american-culture-7bf9d724eb/">American Culture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-anthropology-7c826aa6a0/">Anthropology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-applied-exercise-science-aa22e86884/">Applied Exercise Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-archaeology-of-the-ancient-mediterranean-ea3dfc8c68/">Archaeology of the Ancient Mediterranean</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-architecture-63af6b9c96/">Architecture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-art-design-d267be7b0d/">Art &amp; Design</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-art-design-f47c10092b/">Art &amp; Design</a><small>BFA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-arts-and-ideas-in-the-humanities-administered-by-the-residential-cf0856046b/">Arts and Ideas in the Humanities (Administered by the Residential College)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-asian-studies-213d56df4b/">Asian Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-astronomy-and-astrophysics-7b9ad55533/">Astronomy and Astrophysics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biochemistry-4530d82d11/">Biochemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biology-5e6c20f8c4/">Biology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biology-health-and-society-234bf0bcd0/">Biology, Health, and Society</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biomedical-engineering-cc40381134/">Biomedical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biomolecular-science-8ab4007521/">Biomolecular Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biophysics-cbcaec2d3c/">Biophysics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biopsychology-cognition-and-neuroscience-7b329f861d/">Biopsychology, Cognition, and Neuroscience</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-business-7b061bd79f/">Business</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-cellular-and-molecular-biomedical-science-31f90bae24/">Cellular and Molecular Biomedical Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-chemical-engineering-69a568f085/">Chemical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-chemistry-c9b587f409/">Chemistry</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-choral-music-education-a2e33b9f5c/">Choral Music Education</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-civil-engineering-e67236f5f9/">Civil Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-classical-civilization-2e4c252b54/">Classical Civilization</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-classical-languages-and-literatures-9a871cee84/">Classical Languages and Literatures</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-climate-and-meteorology-93924351ac/">Climate and Meteorology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-cognitive-science-2de49397c8/">Cognitive Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-communication-and-media-7c2f19bfde/">Communication and Media</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-community-action-and-social-change-4e473fa3ee/">Community Action and Social Change</a><small>BA · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-community-and-global-public-health-7e3f64ad1d/">Community and Global Public Health</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-comparative-literature-arts-and-media-c94add2300/">Comparative Literature, Arts, and Media</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-composition-fe3e83c865/">Composition</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-computer-engineering-87ebcec465/">Computer Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-computer-science-47a910434d/">Computer Science</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-computer-science-ba68a98720/">Computer Science</a><small>BSE · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-creative-writing-and-literature-administered-by-the-residential-c-5253d3b8d1/">Creative Writing and Literature (Administered by the Residential College)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-dance-3fff85ad3a/">Dance</a><small>Bachelor of Fine Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-data-science-05ffeba650/">Data Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-data-science-1818a13e6b/">Data Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-dental-hygiene-054b0dacb8/">Dental Hygiene</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-drama-administered-by-the-residential-college-2acdfc42d8/">Drama (Administered by the Residential College)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-earth-and-environmental-sciences-5535f905cd/">Earth and Environmental Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-ecology-evolution-and-biodiversity-ed41a25663/">Ecology, Evolution, and Biodiversity</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-economics-4eb74678c4/">Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-electrical-engineering-51a034ece4/">Electrical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-elementary-teacher-education-848fce1f01/">Elementary Teacher Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-engineering-physics-7ed8f785eb/">Engineering Physics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-english-a2888627c0/">English</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-environment-6e67075c72/">Environment</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-environmental-engineering-a041e6caab/">Environmental Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-film-television-and-media-5662618886/">Film, Television, and Media</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-french-and-francophone-studies-7e9badb54f/">French and Francophone Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-gender-and-health-5fd3f6bfc6/">Gender and Health</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-general-studies-b5baa83996/">General Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-german-90a986b530/">German</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-greek-ancient-language-and-literature-992e045fee/">Greek (Ancient) Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-greek-modern-language-and-culture-62921633fd/">Greek (Modern) Language and Culture</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-history-47649971a9/">History</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-history-of-art-eef581d1ca/">History of Art</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-human-origins-biology-and-behavior-8157e67ff7/">Human Origins, Biology, and Behavior</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-industrial-and-operations-engineering-a562b3b214/">Industrial and Operations Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-information-analysis-and-design-49012dfa93/">Information Analysis and Design</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-instrumental-music-education-c688cb0c45/">Instrumental Music Education</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-integrated-business-and-engineering-b03a39b3bc/">Integrated Business and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-interarts-performance-8203474196/">Interarts Performance</a><small>Bachelor of Fine Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-interdisciplinary-astronomy-3e15e51a2a/">Interdisciplinary Astronomy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-interdisciplinary-chemical-sciences-bc8be3fcd1/">Interdisciplinary Chemical Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-interdisciplinary-physics-f78824791d/">Interdisciplinary Physics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-international-studies-4d0efcd209/">International Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-italian-23ee69827c/">Italian</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-jazz-contemplative-studies-53501c55e0/">Jazz &amp; Contemplative Studies</a><small>Bachelor of Fine Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-jazz-contemporary-improvisation-54fe985691/">Jazz &amp; Contemporary Improvisation</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-judaic-studies-cbb7d7327d/">Judaic Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-latin-american-and-caribbean-studies-10626bddfc/">Latin American and Caribbean Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-latin-language-and-literature-115971805d/">Latin Language and Literature</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-latina-latino-studies-1cb82dffa4/">Latina/Latino Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-learning-equity-and-problem-solving-for-the-public-good-leaps-3203ab1d64/">Learning, Equity, and Problem Solving for the Public Good (LEAPS)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-linguistics-5f06f75fda/">Linguistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-materials-science-and-engineering-400dfaf8ec/">Materials Science and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-mathematics-1d6d5f32ae/">Mathematics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-mechanical-engineering-ca1bc097e9/">Mechanical Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-microbiology-10bb9a7ba2/">Microbiology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-middle-east-studies-b3eae2d334/">Middle East Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-middle-eastern-and-north-african-studies-18685d5aef/">Middle Eastern and North African Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-molecular-cellular-and-developmental-biology-771ef3ca0c/">Molecular, Cellular, and Developmental Biology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-movement-science-db45b82a33/">Movement Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-music-dc926a18e9/">Music</a><small>Bachelor of Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-music-technology-bc98d26a94/">Music &amp; Technology</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-music-theory-efae525325/">Music Theory</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-musical-theatre-ebfc0289cf/">Musical Theatre</a><small>Bachelor of Fine Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-musicology-99e9cf55db/">Musicology</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-naval-architecture-and-marine-engineering-367a395442/">Naval Architecture and Marine Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-neuroscience-86557bed0f/">Neuroscience</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-nuclear-engineering-and-radiological-sciences-f65bea7843/">Nuclear Engineering and Radiological Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-nursing-4fccbe57fd/">Nursing</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-organ-performance-sacred-music-8be56a84c8/">Organ Performance &amp; Sacred Music</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-organizational-studies-39d94550f4/">Organizational Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-multiple-wind-instruments-165c057560/">Performance: Multiple Wind Instruments</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-organ-8ceab31423/">Performance: Organ</a><small>Bachelor of Musical Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-piano-4fbe19a358/">Performance: Piano</a><small>Bachelor of Musical Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-strings-a7f13847c3/">Performance: Strings</a><small>Bachelor of Musical Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-voice-349f1b06dd/">Performance: Voice</a><small>Bachelor of Musical Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-winds-percussion-608c39a017/">Performance: Winds &amp; Percussion</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-winds-percussion-b656057b8d/">Performance: Winds &amp; Percussion</a><small>Bachelor of Musical Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performing-arts-technology-60d067406d/">Performing Arts Technology</a><small>Bachelor of Fine Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-pharmaceutical-sciences-ab7c3df9d9/">Pharmaceutical Sciences</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-philosophy-92a703a7b0/">Philosophy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-philosophy-politics-and-economics-58af52d32b/">Philosophy, Politics, and Economics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-physics-6bfec9093d/">Physics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-piano-performance-bb38cef35e/">Piano Performance</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-plant-biology-267b379902/">Plant Biology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-polish-e52a6c6d12/">Polish</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-political-science-3bb1acf799/">Political Science</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-psychology-7655da6deb/">Psychology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-public-health-sciences-68e08795ed/">Public Health Sciences</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-public-policy-9fa582fb6b/">Public Policy</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-robotics-c14ddb48bf/">Robotics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-romance-languages-and-literatures-29ecb64c20/">Romance Languages and Literatures</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-russian-a0cbfc5f43/">Russian</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-russian-east-european-and-eurasian-studies-de77505374/">Russian, East European, and Eurasian Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-secondary-teacher-education-2dc30aab85/">Secondary Teacher Education</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-social-theory-and-practice-administered-by-the-residential-colleg-fda170e6da/">Social Theory and Practice (Administered by the Residential College)</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-sociology-045214772a/">Sociology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-sound-engineering-fef8eb0c7d/">Sound Engineering</a><small>Bachelor of Science · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-space-sciences-and-engineering-efb2fa5707/">Space Sciences and Engineering</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-spanish-47ce05dbbe/">Spanish</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-sport-management-738ee03c99/">Sport Management</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-statistics-f65e8014b4/">Statistics</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-strings-performance-2d4d1fad31/">Strings Performance</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-theatre-arts-c961fd2b52/">Theatre Arts</a><small>Bachelor of Theatre Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-theatre-design-production-c3d8a5219e/">Theatre Design &amp; Production</a><small>Bachelor of Fine Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-theatre-performance-acting-692adebb4c/">Theatre Performance: Acting</a><small>Bachelor of Fine Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-theatre-performance-directing-6f1fbc0cd2/">Theatre Performance: Directing</a><small>Bachelor of Fine Arts · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-translation-0fa9793603/">Translation</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-urban-technology-5670b6c878/">Urban Technology</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-user-experience-design-1a4a9649ad/">User Experience Design</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-voice-performance-e259f27b8a/">Voice Performance</a><small>Bachelor of Music · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-women-s-and-gender-studies-e3035e6439/">Women’s and Gender Studies</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-aerospace-engineering-d1603a0423/">航空航天工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-afroamerican-and-african-studies-4e610531e0/">非裔美国与非洲研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-american-culture-7bf9d724eb/">美国文化</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-anthropology-7c826aa6a0/">人类学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-applied-exercise-science-aa22e86884/">应用运动科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-archaeology-of-the-ancient-mediterranean-ea3dfc8c68/">古代地中海考古</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-architecture-63af6b9c96/">建筑学理学学士（BS）</a><small>Bachelor of Science in Architecture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-art-design-d267be7b0d/">艺术与设计文学学士（BA）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-art-design-f47c10092b/">艺术与设计艺术学士（BFA）</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-arts-and-ideas-in-the-humanities-administered-by-the-residential-cf0856046b/">人文艺术与思想</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-asian-studies-213d56df4b/">亚洲研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-astronomy-and-astrophysics-7b9ad55533/">天文学与天体物理</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biochemistry-4530d82d11/">生物化学</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biology-5e6c20f8c4/">生物学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biology-health-and-society-234bf0bcd0/">生物、健康与社会</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biomedical-engineering-cc40381134/">生物医学工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biomolecular-science-8ab4007521/">生物分子科学</a><small>A.B. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biophysics-cbcaec2d3c/">生物物理</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biopsychology-cognition-and-neuroscience-7b329f861d/">生物心理、认知与神经科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-biotechnology-and-bioenvironmental-sciences-ef2435ba81/">生物技术与生物环境科学</a><small>本科主修（具体学位名称本轮未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-business-7b061bd79f/">工商管理</a><small>BBA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-cellular-and-molecular-biomedical-science-31f90bae24/">细胞与分子生物医学科学</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-chemical-engineering-69a568f085/">化学工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-chemistry-c9b587f409/">化学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-choral-music-education-a2e33b9f5c/">音乐教育（合唱）音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-civil-engineering-e67236f5f9/">土木工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-classical-civilization-2e4c252b54/">古典文明</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-classical-languages-and-literatures-9a871cee84/">古典语言与文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-climate-and-meteorology-93924351ac/">气候与气象</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-cognitive-science-2de49397c8/">认知科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-communication-and-media-7c2f19bfde/">传播与媒体</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-community-action-and-social-change-4e473fa3ee/">社区行动与社会变革</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-community-and-global-public-health-7e3f64ad1d/">社区与全球公共卫生</a><small>Bachelor of Arts (BA) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-comparative-literature-arts-and-media-c94add2300/">比较文学、艺术与媒体</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-composition-fe3e83c865/">作曲音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-computer-engineering-87ebcec465/">计算机工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-computer-science-47a910434d/">计算机科学（LSA）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-computer-science-ba68a98720/">计算机科学（工程理学学士）</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-creative-writing-and-literature-administered-by-the-residential-c-5253d3b8d1/">创意写作与文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-dance-3fff85ad3a/">舞蹈艺术学士</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-data-science-05ffeba650/">数据科学（工程理学学士）</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-data-science-1818a13e6b/">数据科学（LSA）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-dental-hygiene-054b0dacb8/">口腔卫生学（先修后专业阶段）</a><small>BS in Dental Hygiene · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-dental-hygiene-degree-completion-df9dd03641/">口腔卫生学学士补全（须美国注册资格）</a><small>BS in Dental Hygiene — degree completion · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-drama-administered-by-the-residential-college-2acdfc42d8/">戏剧（LSA）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-earth-and-environmental-sciences-5535f905cd/">地球与环境科学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-ecology-evolution-and-biodiversity-ed41a25663/">生态、进化与生物多样性</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-economics-4eb74678c4/">经济学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-electrical-engineering-51a034ece4/">电气工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-elementary-teacher-education-848fce1f01/">小学教师教育（教育文学／理学学士）</a><small>Bachelor of Arts or Bachelor of Science in Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-engineering-physics-7ed8f785eb/">工程物理</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-english-a2888627c0/">英语</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-environment-6e67075c72/">环境研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-environmental-engineering-a041e6caab/">环境工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-film-television-and-media-5662618886/">电影、电视与媒体</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-french-and-francophone-studies-7e9badb54f/">法语与法语地区研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-gender-and-health-5fd3f6bfc6/">性别与健康</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-general-studies-b5baa83996/">综合研究学士</a><small>Bachelor in General Studies (B.G.S.) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-german-90a986b530/">德语</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-greek-ancient-language-and-literature-992e045fee/">古希腊语与文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-greek-modern-language-and-culture-62921633fd/">现代希腊语与文化</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-history-47649971a9/">历史</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-history-of-art-eef581d1ca/">艺术史</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-human-origins-biology-and-behavior-8157e67ff7/">人类起源、生物学与行为</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-industrial-and-operations-engineering-a562b3b214/">工业与运筹工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-information-analysis-and-design-49012dfa93/">信息分析（BSI学习方向）</a><small>Bachelor of Science in Information (BSI) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-instrumental-music-education-c688cb0c45/">音乐教育（器乐）音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-integrated-business-and-engineering-b03a39b3bc/">商科与工程一体化双学位</a><small>BBA + BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-interarts-performance-8203474196/">跨艺术表演艺术学士</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-interdisciplinary-astronomy-3e15e51a2a/">跨学科天文学</a><small>B.A. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-interdisciplinary-chemical-sciences-bc8be3fcd1/">跨学科化学科学</a><small>A.B. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-interdisciplinary-physics-f78824791d/">跨学科物理</a><small>A.B. or B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-international-studies-4d0efcd209/">国际研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-intraoperative-neuromonitoring-5c5e8d3452/">术中神经监测（本科最后批次方向）</a><small>BS Movement Science — concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-italian-23ee69827c/">意大利语</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-jazz-contemplative-studies-53501c55e0/">爵士与沉思研究艺术学士</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-jazz-contemporary-improvisation-54fe985691/">爵士与当代即兴音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-judaic-studies-cbb7d7327d/">犹太研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-latin-american-and-caribbean-studies-10626bddfc/">拉丁美洲与加勒比研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-latin-language-and-literature-115971805d/">拉丁语与文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-latina-latino-studies-1cb82dffa4/">拉丁裔研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-learning-equity-and-problem-solving-for-the-public-good-leaps-3203ab1d64/">学习、公平与公共问题解决教育文学学士（LEAPS）</a><small>Bachelor of Arts in Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-linguistics-5f06f75fda/">语言学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-materials-science-and-engineering-400dfaf8ec/">材料科学与工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-mathematics-1d6d5f32ae/">数学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-mechanical-engineering-ca1bc097e9/">机械工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-microbiology-10bb9a7ba2/">微生物学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-middle-east-studies-b3eae2d334/">中东研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-middle-eastern-and-north-african-studies-18685d5aef/">中东与北非研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-molecular-cellular-and-developmental-biology-771ef3ca0c/">分子、细胞与发育生物学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-movement-science-db45b82a33/">人体运动科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-music-dc926a18e9/">音乐文学学士</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-music-technology-bc98d26a94/">音乐与技术音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-music-theory-efae525325/">音乐理论音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-musical-theatre-ebfc0289cf/">音乐剧艺术学士</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-musicology-99e9cf55db/">音乐学音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-naval-architecture-and-marine-engineering-367a395442/">船舶与海洋工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-neuroscience-86557bed0f/">神经科学</a><small>B.S. · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-nuclear-engineering-and-radiological-sciences-f65bea7843/">核工程与放射科学</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-nursing-4fccbe57fd/">护理学</a><small>BSN · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-organ-performance-sacred-music-8be56a84c8/">管风琴表演与宗教音乐音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-organizational-studies-39d94550f4/">组织研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-multiple-wind-instruments-165c057560/">多种管乐器表演音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-organ-8ceab31423/">管风琴表演音乐艺术学士</a><small>Bachelor of Musical Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-piano-4fbe19a358/">钢琴表演音乐艺术学士</a><small>Bachelor of Musical Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-strings-a7f13847c3/">弦乐表演音乐艺术学士</a><small>Bachelor of Musical Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-voice-349f1b06dd/">声乐表演音乐艺术学士</a><small>Bachelor of Musical Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-winds-percussion-608c39a017/">管乐与打击乐表演音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performance-winds-percussion-b656057b8d/">管乐与打击乐表演音乐艺术学士</a><small>Bachelor of Musical Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-performing-arts-technology-60d067406d/">表演艺术技术艺术学士</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-pharmaceutical-sciences-ab7c3df9d9/">药物科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-philosophy-92a703a7b0/">哲学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-philosophy-politics-and-economics-58af52d32b/">哲学、政治与经济（PPE）</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-physics-6bfec9093d/">物理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-piano-performance-bb38cef35e/">钢琴表演音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-plant-biology-267b379902/">植物生物学（当前目录身份待确认）</a><small>本科项目（学位名称尚未核实） · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-polish-e52a6c6d12/">波兰语</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-political-science-3bb1acf799/">政治学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-psychology-7655da6deb/">心理学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-public-health-sciences-68e08795ed/">公共卫生科学</a><small>Bachelor of Science (BS) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-public-policy-9fa582fb6b/">公共政策</a><small>Bachelor of Arts (BA) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-robotics-c14ddb48bf/">机器人工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-romance-languages-and-literatures-29ecb64c20/">罗曼语言与文学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-russian-a0cbfc5f43/">俄语</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-russian-east-european-and-eurasian-studies-de77505374/">俄罗斯、东欧与欧亚研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-secondary-teacher-education-2dc30aab85/">中学教师教育（教育文学／理学学士）</a><small>Bachelor of Arts or Bachelor of Science in Education · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-social-theory-and-practice-administered-by-the-residential-colleg-fda170e6da/">社会理论与实践</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-sociology-045214772a/">社会学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-sound-engineering-fef8eb0c7d/">声音工程理学学士</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-space-sciences-and-engineering-efb2fa5707/">空间科学与工程</a><small>BSE · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-spanish-47ce05dbbe/">西班牙语</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-sport-management-738ee03c99/">体育管理</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-sport-marketing-and-management-f5a73ef7a6/">体育营销与管理（体育管理内部方向）</a><small>BA Sport Management — concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-sport-policy-and-analytics-d6a6b0d726/">体育政策与分析（体育管理内部方向）</a><small>BA Sport Management — concentration · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-statistics-f65e8014b4/">统计学</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-strings-performance-2d4d1fad31/">弦乐表演音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-theatre-arts-c961fd2b52/">戏剧艺术学士（BTA）</a><small>Bachelor of Theatre Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-theatre-design-production-c3d8a5219e/">戏剧设计与制作艺术学士</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-theatre-performance-acting-692adebb4c/">戏剧表演艺术学士（表演）</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-theatre-performance-directing-6f1fbc0cd2/">戏剧表演艺术学士（导演）</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-translation-0fa9793603/">翻译</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-urban-technology-5670b6c878/">城市技术</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-user-experience-design-1a4a9649ad/">用户体验设计（BSI学习方向）</a><small>Bachelor of Science in Information (BSI) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-voice-performance-e259f27b8a/">声乐表演音乐学士</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/michigan/michigan-women-s-and-gender-studies-e3035e6439/">女性与性别研究</a><small>本科项目（学位名称尚未核实） · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -194,35 +199,319 @@ hide:
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>国际生资助与费用缺口：</strong>临时签证国际本科生不具备普通 financial aid 资格，应准备全额费用；奖学金很少、通常无可用资助。本轮尚未取得按学院、年级和2026/27对应的实际国际学费，未用全校平均数冒充专业费用。</p>
+<p class="catalog-fact"><strong>学院学费与年度：</strong>已按官方2026—2027本科费表匹配学院及非Michigan居民身份。价格按Full Term完整学期、12—18学分；0—54累计计入学位学分为低年级，55及以上为高年级，含认可AP／转学分，不能机械等同大一大二。2027—2028费率尚未核实。</p>
+<p class="fact-sources"><a href="#source-u-mich-root-tuition">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学费内含及另缴项目：</strong>表列学费已含Health Service USD233及Infrastructure USD185；另每完整学期必缴USD246.89（注册80、学生会11.19、法律服务9.90、学院学生会5.80、学生中心65、运动设施75）。F／J签证另收每完整学期USD500，半学期250；保险、生活及特定课程费用另计，超过18学分加收。</p>
+<p class="fact-sources"><a href="#source-u-mich-root-tuition">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2026—2027保险：</strong>2026年9月1日至2027年8月31日，国际学生保险本人USD308.72/月，不足月按整月计。由U-M Ann Arbor签发I-20／DS-2019的F1／J1学生及相关家属须有合格保险，替代保险须按规则审批；Health Service校费不等于这份保险。</p>
+<p class="fact-sources"><a href="#source-u-mich-root-insurance-rate">官方依据</a> · <a href="#source-u-mich-root-insurance-rule">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际生资助边界：</strong>临时签证国际本科生通常不具备普通financial aid资格，应按自筹完整费用准备；少量特殊资助按各自资格竞争，不能预先算作新生确定收入。</p>
 <p class="fact-sources"><a href="#source-u-USBENR-19dd357d6e5073">官方依据</a></p>
+
+<p class="catalog-fact"><strong>在校国际生S&amp;S基金：</strong>S&amp;S一般USD5000—12000，申请者须已在当期Ann Arbor全日制攻读学位、持F1／J1、为亚洲或非洲国家公民且学业状态良好；优先因素含本科、理工、经济需要及未获其他大额资助。不是尚未入学者保证可得奖学金。2026/27首轮9月14日至10月12日，另有后续三轮。</p>
+<p class="fact-sources"><a href="#source-u-mich-root-ssfund">官方依据</a></p>
+
+<p class="catalog-fact"><strong>多学院与非全日制：</strong>同时攻读多个学院学位时全部学分通常按较高学费计收；专业明示归属或特例应另核。非全日制、春夏和加修按实际学分／学期计算，不能把两次完整学期简单当作所有项目全年费用。</p>
+<p class="fact-sources"><a href="#source-u-mich-root-tuition">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-USBENR-bc79f334f7d83f"><div><a href="https://admissions.umich.edu/apply/international-applicants/requirements-deadlines/requirements-country">Michigan 官方 大陆普高与考试材料 ↗</a><p>本条大陆普高与考试材料及申请年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-97f69377531d96"><div><a href="https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes">Michigan 官方 2027 标化与 CS 入口更新 ↗</a><p>本条2027 标化与 CS 入口更新及申请年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-USBENR-0c1c917e51fc79"><div><a href="https://admissions.umich.edu/apply/international-applicants/exams-visas">Michigan 官方 英语一般分数范围 ↗</a><p>本条英语一般分数范围及申请年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-USBENR-19dd357d6e5073"><div><a href="https://admissions.umich.edu/apply/international-applicants/requirements-deadlines">Michigan 官方 2026–27 申请周期 ↗</a><p>本条2026–27 申请周期及申请年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-97f69377531d96"><div><a href="https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes">Michigan 2026–27申请周期更新 ↗</a><p>2027专业入口变化和特殊申请身份</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-USBENR-bc79f334f7d83f"><div><a href="https://admissions.umich.edu/apply/international-applicants/requirements-deadlines/requirements-country">Michigan 官方 大陆普高与考试材料 ↗</a><p>本条大陆普高与考试材料及申请年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-mich-root-insurance-rate"><div><a href="https://internationalcenter.umich.edu/healthins/coverage-and-rates">2026—2027国际学生保险费 ↗</a><p>当前适用年度、申请者身份及费用／资助范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-mich-root-insurance-rule"><div><a href="https://internationalcenter.umich.edu/healthins/requirement-and-enrollment">F/J学生保险要求 ↗</a><p>当前适用年度、申请者身份及费用／资助范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-mich-root-ssfund"><div><a href="https://internationalcenter.umich.edu/resources/student-funding/ss-fund">S&amp;S在校亚洲／非洲国际生资助 ↗</a><p>当前适用年度、申请者身份及费用／资助范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-mich-root-tuition"><div><a href="https://ro.umich.edu/tuition-residency/tuition-fees?year=147&amp;school=All&amp;term_type=75&amp;level=86">Michigan 2026—2027本科各学院完整学期费表 ↗</a><p>Undergraduate / Full Term / Michigan Non-Resident；学院、学分层级和必缴费</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 140 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 145 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>University of Michigan Ann Arbor undergraduate admissions A-Z; excludes Flint and Dearborn</p>
+<p><strong>统计范围：</strong>Ann Arbor当前本科顶层学位／主修及已逐项核实的内部方向和补全入口</p>
 
-<p><strong>对账方法：</strong>{&quot;pages&quot;: 3, &quot;index_rows&quot;: 156, &quot;pagination&quot;: &quot;All A-W tables read in one rendered admissions page; alphabet jump links are not pagination. All 16 SMTD accordion sections loaded and archived.&quot;}</p>
+<p><strong>对账方法：</strong>保留原140稳定ID；新增BBS主修、口腔卫生补全、体育管理两个方向及最后本科IONM方向。LSA71、工程19、SMTD29及其他学院逐项原文对账；目录仍未完全闭合。</p>
 
 <p><strong>排除项：</strong>Exclude explicit sub-majors and certificate from independent-degree count, preserving them in submajors/excluded files. Replace broad SMTD and Stamps discipline listings with named awards. Merge same joint major repeated under two colleges. Keep second-entry/continuing-student majors.</p>
 
 **尚未解决的目录缺口：**
 
-- For majors whose award is not printed in the directory degree_label is null; BA/BS options must not be inferred. Therefore completeness of all degree variants across every school is not yet proven.
-- Stamps general Dual/Joint Degree is a route, not a named fixed-degree program; broad route remains in archived source.
-- Sub-majors retained separately, not counted as independent bachelor programs.
-- All intake, duration and language fields are null where directory does not state them.
+- 旧Plant Biology未列当前LSA72主修，尚无明确停招、更名或替代关系证据，保留旧条目并隔离普通新生规则。
+- 工程Robotics五方向、数学及生物物理等全部内部方向尚未逐个独立收录；当前145条不代表全量专业与详情已完成。
+- 多数学位2027—2028费用、独立毕业调查及逐课程授课语言仍有缺口；2026—2027费率为明确学院与学分层级参考。
+- 明确区分高中新生、大学转入、校内主修申报、既有美国注册专业人士补全及本科最后批次。
 
 - [官方目录来源](https://stamps.umich.edu/undergraduate-programs)
 - [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/)
 - [官方目录来源](https://admissions.umich.edu/academics-majors/majors-degrees)
+- [官方目录来源](https://admissions.umich.edu/apply/international-applicants/requirements-deadlines/requirements-country)
+- [官方目录来源](https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes)
+- [官方目录来源](https://admissions.umich.edu/apply/international-applicants/exams-visas)
+- [官方目录来源](https://admissions.umich.edu/apply/international-applicants/requirements-deadlines)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/afroamerican-and-african-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/american-culture-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/anthropology-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/archaeology_of_the_ancient_mediterranean-maj.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/arts-ideas-in-the-humanities-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/asian-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/astronomy-and-astrophysics-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/biochemistry-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/biology-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/biology-health-and-society-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/biomolecular-science-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/biophysics-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/biopsychology-cognition-and-neuroscience-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/cell-and-molecular-biomedical-science-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/chemistry-maj)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/classical-civilization-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/classical-languages-and-literatures-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/cognitive-science-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/communication-and-media-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/comparative_literature_arts_and_media-maj.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/computer-science-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/creative-writing-literature-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/data-science-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/drama-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/earth-and-environmental-sciences-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/ecology_evolution_and_biodiversity_eeb-maj.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/economics-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/english-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/the-environment-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/film-television-and-media-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/french-and-francophone-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/gender-and-health-major.html)
+- [官方目录来源](https://lsa.umich.edu/advising/degrees-majors/bachelor-of-general-studies.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/german-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/greek-ancient-language-and-literature-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/greek-modern-language-and-culture-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/history-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/history-of-art-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/human-origins-biology-and-behavior-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/interdisciplinary-astronomy-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/interdisciplinary-chemical-sciences-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/interdisciplinary-physics-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/international-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/italian-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/judaic-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/latin-american-and-caribbean-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/latin-language-and-literature-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/latina-latino-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/linguistics-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/mathematics-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/microbiology-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/middle-east-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/middle-eastern-and-north-african-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/molecular-cellular-and-developmental-biology-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/neuroscience-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/organizational-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/philosophy-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/philosophy-politics-and-economics-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/physics-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/polish-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/political-science-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/psychology-general-social-science-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/romance-languages-and-literatures-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/russian-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/russian-east-european-and-eurasian-studies-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/social-theory-and-practice-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/sociology-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/spanish-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/statistics-major.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/translation-maj.html)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/womens-and-gender-studies-major.html)
+- [官方目录来源](https://bulletin.engin.umich.edu/aero/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/AEROSP-BSE-Sample-Schedule_4.21.25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/rules/declare-change-major/)
+- [官方目录来源](https://bulletin.engin.umich.edu/degree-programs/)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorAerospaceEngineeringAY25.pdf)
+- [官方目录来源](https://career.engin.umich.edu/students/michigan-engineering-student-salary-information/)
+- [官方目录来源](https://bulletin.engin.umich.edu/bme/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/BME-UG-2026-2027-Sample-Schedule.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorBiomedicalEngineeringAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/che/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2024/03/Chemical_Engineering_BSE_Sample-Schedule.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/08/BachelorsChemicalEngineeringAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/cee/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/06/Civil-Engineering-Sample-Schedule_AY202526_Final.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsCivilEngineeringAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/clasp/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-CM-BSE-2.24.2023-Google-Sheets.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsClimateMeteorologyAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/eecs/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/FA26-Computer-Engineering-Sample-Schedule-CoE-Bulletin.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsComputerEngineeringAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/05/WN27-CS-Eng-Sample-Schedule_5.7.26.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorComputerScienceAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/FA26-WN27-DS-Eng-Sample-Schedule-.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsDataScienceAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/FA26-Electrical-Engineering-Sample-Schedule-CoE-Bulletin.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsElectricalEngineeringAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/engin-phys/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/09/Engineering-Physics-Sample-Schedule-Winter-2025-1.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsEngineeringPhysicsAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/08/Environmental-Engineering-Sample-Schedule-Students-Enrolled-WN27-After.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsEnvironmentalEngineeringAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/depts/ioe-2/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/04/IOE-Sample-Schedule_4.17.26.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorIndustrialOperationsEngineeringAY25.pdf)
+- [官方目录来源](https://business-engineering.umich.edu/)
+- [官方目录来源](https://bulletin.engin.umich.edu/depts/mse-2/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/Materials-Science-and-Engineering-Sample-Schedule.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsMaterialsScienceEngineeringAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/depts/me-2/)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorMechanicalEngineeringAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/depts/name/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/NAME-Sample-Schedule-updated-3_28_25.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsNavalArchitectureMarineEngineeringAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/depts/ners/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/04/NERS-Sample-Schedule-4-2026.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsNuclearEngineeringRadiologicalSciencesAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/depts/rob/)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/Robotics-Undergraduate-Sample-Schedule-3.10.26.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorRoboticsAY25.pdf)
+- [官方目录来源](https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-SSE-BSE-2023-Sheet1.pdf)
+- [官方目录来源](https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsSpaceScienceEngineeringAY25.pdf)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/undergraduate-audition-dates/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-music-education-choral/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_14)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_22)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_33)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/apply-undergrad/)
+- [官方目录来源](https://smtd.umich.edu/admissions/international-admissions/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-composition/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_3)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-dance/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_4)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-music-education-instrumental/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-interarts/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_10)
+- [官方目录来源](https://stamps.umich.edu/undergraduate-admissions/apply)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-fine-arts-jazz-contemplative-studies/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_11)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-jazz-contemporary-improvisation/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-arts-in-music/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_12)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-music-technology/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_20)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-music-theory/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_15)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-musical-theatre/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_16)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-musicology/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_17)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-organ-performance-sacred-music/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_19)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-performance-multiple-winds/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_0)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_2)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_6)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_7)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_9)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_18)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_23)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_28)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_29)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_30)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-organ-performance/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_13)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-piano/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-performance-strings/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_1)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_5)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_8)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_31)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_32)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-performance-voice/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-performance-winds-percussion/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_21)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-performance-winds-percussion/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-performing-arts-technology/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-piano-performance/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-science-in-sound-engineering/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-performance-strings/)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-theatre-arts/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_24)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-design-production/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_27)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-theatre-drama-acting/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_25)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-theatre-drama-directing/)
+- [官方目录来源](https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_26)
+- [官方目录来源](https://smtd.umich.edu/degree/bachelor-of-music-in-performance-voice/)
+- [官方目录来源](https://marsal.umich.edu/academics-admissions/degrees/bachelors-certification/undergraduate-elementary-teacher-education)
+- [官方目录来源](https://marsal.umich.edu/academics-admissions/epp/slideroom)
+- [官方目录来源](https://marsal.umich.edu/academics-admissions/degrees/certification-bachelors/undergraduate-secondary-teacher-education)
+- [官方目录来源](https://marsal.umich.edu/academics-admissions/degrees/bachelors/learning-equity-and-problem-solving-public-good)
+- [官方目录来源](https://marsal.umich.edu/academics-admissions/leaps)
+- [官方目录来源](https://marsal.umich.edu/academics-admissions/leaps/slideroom)
+- [官方目录来源](https://admissions.umich.edu/apply/international-applicants/exams-visas)
+- [官方目录来源](https://stamps.umich.edu/undergraduate-admissions/apply)
+- [官方目录来源](https://stamps.umich.edu/undergraduate-programs/ba)
+- [官方目录来源](https://stamps.umich.edu/undergraduate-admissions/admissions-faq)
+- [官方目录来源](https://stamps.umich.edu/undergraduate-admissions/portfolio)
+- [官方目录来源](https://stamps.umich.edu/undergraduate-programs/bfa)
+- [官方目录来源](https://taubmancollege.umich.edu/academics/architecture/accreditation/)
+- [官方目录来源](https://taubmancollege.umich.edu/admissions/apply/bachelor-of-science-in-architecture-first-year/)
+- [官方目录来源](https://taubmancollege.umich.edu/academics/architecture/bachelor-of-science-in-architecture/degree-information/)
+- [官方目录来源](https://taubmancollege.umich.edu/academics/architecture/bachelor-of-science-in-architecture/)
+- [官方目录来源](https://taubmancollege.umich.edu/wp-content/uploads/2026/08/DegreeRequirements2026-2027.pdf)
+- [官方目录来源](https://sph.umich.edu/undergrad/degrees/index.html)
+- [官方目录来源](https://sph.umich.edu/undergrad/degrees/degree-requirements.html)
+- [官方目录来源](https://sph.umich.edu/undergrad/apply/)
+- [官方目录来源](https://sph.umich.edu/undergrad/apply/prerequisites.html)
+- [官方目录来源](https://sph.umich.edu/undergrad/apply/preferred-admissions.html)
+- [官方目录来源](https://sph.umich.edu/undergrad/apply/campus-transfer.html)
+- [官方目录来源](https://sph.umich.edu/undergrad/apply/external-transfer.html)
+- [官方目录来源](https://sph.umich.edu/careers/pdf/2025/2025_CDO_report_UnderGrad_02.pdf)
+- [官方目录来源](https://sph.umich.edu/undergrad/career-outcomes.html)
+- [官方目录来源](https://si.umich.edu/programs/degree-programs/bachelor-science-information/bachelor-science-information-curriculum)
+- [官方目录来源](https://www.si.umich.edu/programs/degree-programs/bachelor-science-information)
+- [官方目录来源](https://si.umich.edu/programs/bachelor-science-information/how-do-i-apply-bachelor-science-information)
+- [官方目录来源](https://www.si.umich.edu/admissions-aid/apply/bachelor-science-information/preferred-admissions)
+- [官方目录来源](https://www.si.umich.edu/admissions-aid/apply/bachelor-science-information/cross-campus-transfer)
+- [官方目录来源](https://www.si.umich.edu/admissions-aid/apply/bachelor-science-information/new-transfer-students-bsi)
+- [官方目录来源](https://www.si.umich.edu/student-experience/career-outcomes/2026-bsi-employment-report)
+- [官方目录来源](https://fordschool.umich.edu/ba/major)
+- [官方目录来源](https://fordschool.umich.edu/ba)
+- [官方目录来源](https://fordschool.umich.edu/application/ba/process)
+- [官方目录来源](https://fordschool.umich.edu/ba/faqs)
+- [官方目录来源](https://fordschool.umich.edu/news/2025/policy-job-market-trends)
+- [官方目录来源](https://www.kines.umich.edu/sites/default/files/2026-04/2025-2026%20Undergraduate%20Bulletin.pdf)
+- [官方目录来源](https://www.kines.umich.edu/admissions-aid/undergraduate/first-year)
+- [官方目录来源](https://www.kines.umich.edu/academics/applied-exercise-science)
+- [官方目录来源](https://www.kines.umich.edu/academics/applied-exercise-science/undergraduate-program)
+- [官方目录来源](https://www.kines.umich.edu/academics/movement-science/undergraduate)
+- [官方目录来源](https://www.kines.umich.edu/academics/movement-science)
+- [官方目录来源](https://www.kines.umich.edu/academics/movement-science/undergraduate/IONM)
+- [官方目录来源](https://www.kines.umich.edu/academics/sport-management/undergraduate)
+- [官方目录来源](https://www.kines.umich.edu/academics/sport-management)
+- [官方目录来源](https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/)
+- [官方目录来源](https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/curriculum/)
+- [官方目录来源](https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/fast-track-to-pharmd/)
+- [官方目录来源](https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/admissions/)
+- [官方目录来源](https://michiganross.umich.edu/undergraduate/bba/admissions/first-year-applicants)
+- [官方目录来源](https://michiganross.umich.edu/undergraduate/bba/curriculum/curriculum-by-year)
+- [官方目录来源](https://michiganross.umich.edu/undergraduate/bba/careers/employment-data)
+- [官方目录来源](https://taubmancollege.umich.edu/academics/urban-and-regional-planning/bachelor-of-science-in-urban-technology/degree-information/)
+- [官方目录来源](https://taubmancollege.umich.edu/admissions/apply/bachelor-of-science-in-urban-technology/)
+- [官方目录来源](https://taubmancollege.umich.edu/academics/urban-and-regional-planning/bachelor-of-science-in-urban-technology/)
+- [官方目录来源](https://nursing.umich.edu/academics/BSN)
+- [官方目录来源](https://nursing.umich.edu/program_plans/plan.php?id=36&year=2025)
+- [官方目录来源](https://nursing.umich.edu/admissions-aid/admission-requirements/bachelor-science-nursing-bsn-first-year-entry)
+- [官方目录来源](https://www.michigan.gov/lara/-/media/Project/Websites/lara/bpl/Nursing/Licensing-Info-and-Forms/NCLEX-Score-Summaries/2025-NCLEX-Program-Summaries.pdf?hash=DA4B6851B99E676D8297E4C80B1CA22B&rev=fcd7705f5ca44f7abfe755c65003c748)
+- [官方目录来源](https://dent.umich.edu/education/academic-programs/dental-hygiene-programs/undergraduate-program-bs)
+- [官方目录来源](https://dent.umich.edu/education/academic-programs/dental-hygiene-programs/undergraduate-program-bs/application-process)
+- [官方目录来源](https://ssw.umich.edu/academic-programs/undergraduate/ba-casc)
+- [官方目录来源](https://dent.umich.edu/education/academic-programs/dental-hygiene-programs/degree-completion-bs)
+- [官方目录来源](https://lsa.umich.edu/lsa/academics/majors-minors/biotechnology-and-bioenvironmental-sciences-maj.html)
+- [官方目录来源](https://ro.umich.edu/tuition-residency/tuition-fees?year=147&school=All&term_type=75&level=86)
+- [官方目录来源](https://internationalcenter.umich.edu/healthins/coverage-and-rates)
+- [官方目录来源](https://internationalcenter.umich.edu/healthins/requirement-and-enrollment)
+- [官方目录来源](https://internationalcenter.umich.edu/resources/student-funding/ss-fund)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

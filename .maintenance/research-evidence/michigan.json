@@ -2,18 +2,6 @@
   "university_id": "michigan",
   "sources": [
     {
-      "url": "https://admissions.umich.edu/apply/international-applicants/requirements-deadlines/requirements-country",
-      "sha256": "f8041380fa4c8eb88019a093a38ca11d8c7196c6805576a4bda7ef8957e295ad",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/michigan/raw/official-admissions-web.json",
-      "locator": "China lines143–146"
-    },
-    {
-      "url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes",
-      "sha256": "35b5db093ef2453947979120bcc9c4be8819f33416ca43d0ac4db426210186be",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/michigan/raw/official-rules-web.json",
-      "locator": "New Academic Opportunities and Updates"
-    },
-    {
       "url": "https://admissions.umich.edu/apply/international-applicants/exams-visas",
       "sha256": "35b5db093ef2453947979120bcc9c4be8819f33416ca43d0ac4db426210186be",
       "raw_file": "scratch/full-catalog/us-b-enrichment/michigan/raw/official-rules-web.json",
@@ -26,19 +14,1585 @@
       "locator": "How to Apply / Deadlines"
     },
     {
+      "url": "https://admissions.umich.edu/apply/first-year-applicants/requirements-deadlines/application-changes",
+      "sha256": "35b5db093ef2453947979120bcc9c4be8819f33416ca43d0ac4db426210186be",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/michigan/raw/official-rules-web.json",
+      "locator": "New Academic Opportunities and Updates"
+    },
+    {
+      "url": "https://admissions.umich.edu/apply/international-applicants/requirements-deadlines/requirements-country",
+      "sha256": "f8041380fa4c8eb88019a093a38ca11d8c7196c6805576a4bda7ef8957e295ad",
+      "raw_file": "scratch/full-catalog/us-b-enrichment/michigan/raw/official-admissions-web.json",
+      "locator": "China lines143–146"
+    },
+    {
+      "url": "https://internationalcenter.umich.edu/healthins/coverage-and-rates",
+      "sha256": "1f61e746b8044c61a2462b38b3c0e6c6f44781b0f74095f9142defe09f1886a0",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/b59dfa4705acea33d71a.html",
+      "locator": "当前适用年度、申请者身份及费用／资助范围"
+    },
+    {
+      "url": "https://internationalcenter.umich.edu/healthins/requirement-and-enrollment",
+      "sha256": "06719b554c3ba77f8d29eb5163b84232687e64fb7e32b6ea90890c9602474008",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/3c539855689b8ce2e141.html",
+      "locator": "当前适用年度、申请者身份及费用／资助范围"
+    },
+    {
+      "url": "https://internationalcenter.umich.edu/resources/student-funding/ss-fund",
+      "sha256": "6ccca37598a1b4fc6bd83f4aa8699a383e4545d6bfff00e43d50577610e2c60e",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/d6752ba26b8f833af5ee.html",
+      "locator": "当前适用年度、申请者身份及费用／资助范围"
+    },
+    {
+      "url": "https://ro.umich.edu/tuition-residency/tuition-fees?year=147&school=All&term_type=75&level=86",
+      "sha256": "63b0918d15cdcd133e4510cba5455335bc34e6af5401fdbd161208ea500bbcd9",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/tuition-2026-27-undergraduate-full.html",
+      "locator": "Undergraduate / Full Term / Michigan Non-Resident；学院、学分层级和必缴费"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors.html",
+      "sha256": "15b7858d3d814b139ba5b6b383a4560b33951bcb0b9c2e63e9f63f7cd52e38d3",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/lsa-expanded-072.txt",
+      "locator": "Expanded major title and corresponding descriptive block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/afroamerican-and-african-studies-major.html",
+      "sha256": "33a208bb28c93ef00f64c7f40da7cf01d8f17798947dbadf387526a1df5e1864",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/000.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/american-culture-major.html",
+      "sha256": "01872c6ebdda8078db2a45c0023a359702764f3f1e05a53237739ba7b8054338",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/001.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/anthropology-major.html",
+      "sha256": "f95af3654f159917acd8dcc4b4f44abfb272025b954dda40663fcee5f58dfc4b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/002.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/archaeology_of_the_ancient_mediterranean-maj.html",
+      "sha256": "6f327cfd792b14ac8257b82bb23374a2e87ce8d953b79e3995046e1d41ccf877",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/003.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/arts-ideas-in-the-humanities-major.html",
+      "sha256": "edced858dfd74a22515fbffec315e99489ab04da67f19565615842a7f51228a0",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/004.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/asian-studies-major.html",
+      "sha256": "4f8ca6f57073cb10dc25a98e80d676e4e0f6d2d4c02cc256343646f1d74471b4",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/005.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/astronomy-and-astrophysics-major.html",
+      "sha256": "c83744cbee5e95a42583bf3995e6896cdd9703dcdb2f059649e85073ca18ea9d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/006.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/biochemistry-major.html",
+      "sha256": "91163619f3ccd6acdf16b50f1fc1d26f92955d1c2bd20c0d463d87bc9f449b31",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/007.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/biology-major.html",
+      "sha256": "1ecd27033405c5ceabeb7736dac1bcde310b720506373b618e44ac62966947a6",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/008.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/biology-health-and-society-major.html",
+      "sha256": "82a05db944134f640756465551cd0bf4f978d90f6f4b4c7494aa2c1bd5f1ed05",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/009.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/biomolecular-science-major.html",
+      "sha256": "6d608ab0f312edc4630254958bbb592d048f77cfbd57d4b16265ebecebb1b3e4",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/010.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/biophysics-major.html",
+      "sha256": "ee92b06bdc2ecce0c5331ef5a8bf025edffa17f21ce437dc6e4bd21212325aac",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/011.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/biopsychology-cognition-and-neuroscience-major.html",
+      "sha256": "69f4a25773c15d0b28288dd15899b3c8cefb80de9f5500f5b234d56e7047cca1",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/012.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/cell-and-molecular-biomedical-science-major.html",
+      "sha256": "81323788db8f64c5489327db040aa329f64a042f4177832df004fbda43950a05",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/014.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/chemistry-maj",
+      "sha256": "a4623c5443ce07a1e53f88acc4d70dce83513237f4ab8eb568e7f65238efae3a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/015.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/classical-civilization-major.html",
+      "sha256": "4c5315cc8fb2c13f9cf5900bbf529a486b056778cf2869803771714ba72c725e",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/016.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/classical-languages-and-literatures-major.html",
+      "sha256": "8ac937b1fb74ecf71ebbf8cb80035b1684455bdb31e0349dd18798e8150b3ed6",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/017.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/cognitive-science-major.html",
+      "sha256": "083f39594897370f020ccd7727d41f4a6f4659fc5dc12b76619288f186ca1152",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/018.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/communication-and-media-major.html",
+      "sha256": "0ce6dcc260d330e007b1c0deae068606f117cacdb7d8db0daea88c467a19c0b1",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/019.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/comparative_literature_arts_and_media-maj.html",
+      "sha256": "38e634af33c5d1d5ece3653d19933758748db0139c7c04505d45cb4d6fe23c29",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/020.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorComputerScienceAY25.pdf",
+      "sha256": "5a009d535d3021e96abfbcbea7b6d688ba0074353f8ac4dd986a10343e539969",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-ComputerScience.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/students/michigan-engineering-student-salary-information/",
+      "sha256": "9d95434b5c13839963afcf597eea1fe8ea766d6b5cd181810c71a84e85622538",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/career-current.txt",
+      "locator": "Survey / Methodology / Reporting Notes / Salary Information"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/computer-science-major.html",
+      "sha256": "2d37ace326b7fea0ad92d137814959164a9189a1ff89e05d76c617c6a049501c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/021.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/creative-writing-literature-major.html",
+      "sha256": "f76d2b35b746e36694c2e67949e192604f5e075ad7a744fff3e9bcb3d084ff2a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/022.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsDataScienceAY25.pdf",
+      "sha256": "892f08f5620c410f6e043f029809f61d83c8f2908814dcbf5f11d35095978b21",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-DataScience.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/data-science-major.html",
+      "sha256": "e2dbe8f70f752bb16e6cb45e8fe81c229f21ddebaa89274038f06847bb1ae11d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/023.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/drama-major.html",
+      "sha256": "75b769f620e2629734dfa6f428eb4d0485338bd039a9493b9c4d8e7796674642",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/024.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/earth-and-environmental-sciences-major.html",
+      "sha256": "240ff7517f367da9d5c58567c571f4792f1f94010770ee02a1b1630042c7dbe9",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/025.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/ecology_evolution_and_biodiversity_eeb-maj.html",
+      "sha256": "000cb409579b18b73926ec28de22ff84c64c4a0888c970ebd2d1cc8802bf9cbf",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/026.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/economics-major.html",
+      "sha256": "0b5c559f8553d74db77814e35d857e82d71c39a73fad61335dbba2ab51c6d22f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/027.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/english-major.html",
+      "sha256": "d23ca38429fd6a07f0a1f1c423c2a6cf7ed260ce11aed97fae4bc101b1f78a29",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/028.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/the-environment-major.html",
+      "sha256": "1344f143b73d9a1b3d02d67b2013f1d68a2d459140df6e7671fee169758b10b3",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/029.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/film-television-and-media-major.html",
+      "sha256": "7084b4ee63eff876fb5ac0a14a0c361b4c4580c1b7016bcb3aa07d97754d9b8c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/030.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/french-and-francophone-studies-major.html",
+      "sha256": "5a8126ebb0c34c2d4a1c646bc09f982f0637794510815778c6bfa510b1066a80",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/031.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/gender-and-health-major.html",
+      "sha256": "7d4e9e18d273e47da20a64e4c3d695252a45534fd13d79b1169b4c890d15d527",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/032.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/advising/degrees-majors/bachelor-of-general-studies.html",
+      "sha256": "a287df89f785d4a0c368121a12d52c409bf44927741424d855e6ba7ce86b2505",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/033.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/german-major.html",
+      "sha256": "e8aff5b6a27996b4f00ee68dae88c25af498bca33b3a0e7f1fe6f7517500fc39",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/034.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/greek-ancient-language-and-literature-major.html",
+      "sha256": "c6b39265b3b19aacac500c065aa4a497e02fcaac6c70bf65cb81366c123067b2",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/035.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/greek-modern-language-and-culture-major.html",
+      "sha256": "6250e4fd10223685feaba6e7d6723c8c18328f3cb88e3a2e25e7958845a11397",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/036.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/history-major.html",
+      "sha256": "243335620f7b37ea664e01947e0874905b645e31b93649bcbeb0768ace4141a4",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/037.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/history-of-art-major.html",
+      "sha256": "4f8be7be95aebf8233e5e18a183cf4b782f8fd1da8c599cc80b2980b226ba1d7",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/038.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/human-origins-biology-and-behavior-major.html",
+      "sha256": "959bcd674448249fdfe4e742cfff5c4b90707a93824d21b84ed52dcf2d4c01aa",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/039.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/interdisciplinary-astronomy-major.html",
+      "sha256": "3323cc2a9a002bdc9266513e3f8aca367afe65abb8aa71b6204500845b294d49",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/040.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/interdisciplinary-chemical-sciences-major.html",
+      "sha256": "83fd338c3eee5e512ac058152bc5811b2d14d3adf71b77fbf6fd86e5dae5417d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/041.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/interdisciplinary-physics-major.html",
+      "sha256": "5ecd3de1ef4d8cb2cc7b8f2a02c1d289817aea98e76513b592c59de30b5e09d9",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/042.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/international-studies-major.html",
+      "sha256": "e2cb1fa0e3002a5620a32120adf655ffa713abb4ebc04ed116a9959b64895fad",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/043.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/italian-major.html",
+      "sha256": "f8cc3f7c8a0692c025c9c8b3b998ebc6870c01407588b5dd68bc43c255e52a23",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/044.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/judaic-studies-major.html",
+      "sha256": "1b0df339d4d3e9a6b9bae53455975b00a0273646d89a40d4c612ebfd814ca554",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/045.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/latin-american-and-caribbean-studies-major.html",
+      "sha256": "4017abd622a4476ac3fc7f787cc524d2cfee6e20ac3b7c8ef9fe250fab08c5ad",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/046.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/latin-language-and-literature-major.html",
+      "sha256": "1fe6e0110d79fadae7962b1e298aa497a2b43c60d162589896e6a85376f35018",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/047.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/latina-latino-studies-major.html",
+      "sha256": "1a0d8fddae8c1e76e56a66c9f27d85762699cda8fbb393ed95080880fc139fd0",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/048.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/linguistics-major.html",
+      "sha256": "5fccea9b9d148f1202db3bd5c1e2dedb19fde613cfa912b35dd0742ea6b08c9b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/049.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/mathematics-major.html",
+      "sha256": "4e75579ce0a0e28f8bf1fe148197e17af522bb4d610275efc0f108e32447ccd3",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/050.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/microbiology-major.html",
+      "sha256": "a3d872c198aee39374ca60d03f53ab1de7bff7b1744ddb9bf436f5643ccc26d0",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/051.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/middle-east-studies-major.html",
+      "sha256": "8ffb60770bcf314cc7f90bd8f3690e11da53950061fab392395b5898cd9e3215",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/052.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/middle-eastern-and-north-african-studies-major.html",
+      "sha256": "6ce777d8a9897cf1909129ee247af601a22ed3348308cbd2107dde09e74fe199",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/053.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/molecular-cellular-and-developmental-biology-major.html",
+      "sha256": "8a57b034b9a6b5027be5aac3d726fbff4a2c49163bd053972872858352c45c6d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/054.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/neuroscience-major.html",
+      "sha256": "1b813680fdee7131e5f0a1a211fd3bc667bbd144c7d9f8ce8fefcc5cb0b072c2",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/055.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/organizational-studies-major.html",
+      "sha256": "7cefb407dfaa1c847c78740ee9f9f9f344d59829670b646bba3e0e471418065d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/056.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/philosophy-major.html",
+      "sha256": "f212f990746d422d3c904493f5fb6a5e4e03fcc3d9839c576a2c796bcd53c6ce",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/057.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/philosophy-politics-and-economics-major.html",
+      "sha256": "eacacf0c22591dbb0399318076e06e1be0af2a85316370e233f088a6dfd0f12c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/058.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/physics-major.html",
+      "sha256": "eed0339222504626efd94f42c3b143daea02bc75bece5907b07ccf1b67f3a806",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/059.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/polish-major.html",
+      "sha256": "13f455d567bdc2fbadeef0d0f51779a2cc369d34a303055a8250bbe7e128c552",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/060.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/political-science-major.html",
+      "sha256": "91cad91aee32575b90b7f2a4216a265c2c868eba5adb9a4308019b2988b26894",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/061.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/psychology-general-social-science-major.html",
+      "sha256": "558206674b392327cbfeb3b22159e9572978327f59ced07f0db147f71dc12ff6",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/062.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/romance-languages-and-literatures-major.html",
+      "sha256": "a3ea43ac012a498251d2118e214f14e0df5277215224682086cdbdb946abd55f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/063.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/russian-major.html",
+      "sha256": "19e59e010696f1f95bb16cad52601a39652775957e284a725f7a802131e56914",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/064.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/russian-east-european-and-eurasian-studies-major.html",
+      "sha256": "297ba417128c9def256c9453795fd0e4614ce46d5c2e88f72f80c355db5bcb0d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/065.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/social-theory-and-practice-major.html",
+      "sha256": "e1d650e90bcdc8f5a054f17d0a09161442e28f457b1ea70a82c632974d174e4b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/066.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/sociology-major.html",
+      "sha256": "8a1ee958e21f482a78d40d4cd0002fb4e313ac8fb0dc6800c04ab2280805a084",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/067.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/spanish-major.html",
+      "sha256": "1f7d9968da9d51d2a158b4b0d8701afe0351d865428364aa9ef90c5b69228076",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/068.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/statistics-major.html",
+      "sha256": "0761181e0880a4bcc6c2f4962f4a704bb98dc4d363da6bcad515fc82d9f5e13c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/069.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/translation-maj.html",
+      "sha256": "ce509709cdc5fd62fbafc4f3860ebd8f94fa6c2bb5e69dcbcf6deee46b14ee59",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/070.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/womens-and-gender-studies-major.html",
+      "sha256": "07d663b07dcdd425bc7f198ce359f1c2dd7e69d88cca64f532f636c83cd46eec",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/071.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/aero/",
+      "sha256": "fa5f8dfd1f7bbbb0c21bc7acd7b3ea1d06d2fee8995e3e03577a4ea8550cb768",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/aero.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/AEROSP-BSE-Sample-Schedule_4.21.25.pdf",
+      "sha256": "9c9a59a440cab83b34296993d00f7b52e8b610faffb0a7d1b9b55d0e0a7e8c10",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/aero-schedule-10.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/rules/declare-change-major/",
+      "sha256": "cfa025417c330361c92630e91c511aa26cc6431819c146a4a0bac71b80dfd434",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/declare.txt",
+      "locator": "Declaring (or Changing) a Major"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/degree-programs/",
+      "sha256": "a1a36db78ec8f4c9ad03ec963602c7cb9bd91716c3f0b4484c818653fecb5532",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/degree-programs.txt",
+      "locator": "本科18个BSE与通常4年"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorAerospaceEngineeringAY25.pdf",
+      "sha256": "d77ded466477ecc6904fa158a8f351c7909b58aeb28b193c00bc2b4c801790be",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-AerospaceEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/bme/",
+      "sha256": "9ff857a78129d8d3c92c9e6735b1cca293d0af90698d3c3fcb4eae41da3c5e92",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/bme.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/BME-UG-2026-2027-Sample-Schedule.pdf",
+      "sha256": "8187eef3bee9932304d3bdb457e06d82ac507f59c67826d1b265cbd0b9e376dc",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/bme-schedule-17.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorBiomedicalEngineeringAY25.pdf",
+      "sha256": "40a9f601433b287e16c5e575663e6cb9df6c155afc08d9f455bcddcbdde26fd8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-BiomedicalEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/che/",
+      "sha256": "7b2b3597e08d02bd4a8dcc0ec7edf150bc0ee0bc35eff94b1e84b5d6378a20a6",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/che.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2024/03/Chemical_Engineering_BSE_Sample-Schedule.pdf",
+      "sha256": "71010053f8721734e92bf89b51a98e755a9222069b22d0e041a66840a27eceaf",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/che-schedule-0.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/08/BachelorsChemicalEngineeringAY25.pdf",
+      "sha256": "8bd0d6699bc742711fb930d5ab0171f71952879fa4be094e0d8ebb91ec95e2e1",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-ChemicalEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/cee/",
+      "sha256": "f886573c87060fce6e73ac78055d7839c0590b3b06dca426f8fa9cf684ef6c6b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/cee.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/06/Civil-Engineering-Sample-Schedule_AY202526_Final.pdf",
+      "sha256": "5afb8c7c7e73e5b06097189358ee352f8f7af115a503fd39bc5583d42657ea96",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/cee-schedule-5.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsCivilEngineeringAY25.pdf",
+      "sha256": "ea8314aab9953130dcaa5d6fb158c73371cdf5e4b1f2fa50b98c30cf82d7e18b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-CivilEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/clasp/",
+      "sha256": "fbf4d4b6eb538c1ecd3447348ddc95ccecc1836a53b105f16adcf7634899e572",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/clasp.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-CM-BSE-2.24.2023-Google-Sheets.pdf",
+      "sha256": "42a4d794a33d8e74d3cc54683e2d595cec52f45148c1d228329a158a4fd3b515",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/clasp-schedule-2.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsClimateMeteorologyAY25.pdf",
+      "sha256": "b858bf19b152252988a21f6b4316d535118040f0bf3c74f8495749491304d867",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-ClimateMeteorology.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/eecs/",
+      "sha256": "cd6a018eeb91dfcf222076f757c931517501f6f1b00d9d8e08aafdf5e82b699a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/eecs.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/FA26-Computer-Engineering-Sample-Schedule-CoE-Bulletin.pdf",
+      "sha256": "b90aeda4104a522a8cf20224e4f466201ec6e9717597e605992e7b9e0c176a49",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/eecs-schedule-12.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsComputerEngineeringAY25.pdf",
+      "sha256": "465e611874202dad2ec07e5b6c9fca56845cf3e0348b17d420d10cb6fb40dda5",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-ComputerEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/05/WN27-CS-Eng-Sample-Schedule_5.7.26.pdf",
+      "sha256": "831cfcc03bcd1959293040493c4ad94277202514bbdbf661ea5eebca78587aaf",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/eecs-schedule-14.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/FA26-WN27-DS-Eng-Sample-Schedule-.pdf",
+      "sha256": "d37c8113f063deb4330df6c23be59042f96f2fa20f20897c40440999b9c25b2f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/eecs-schedule-15.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/FA26-Electrical-Engineering-Sample-Schedule-CoE-Bulletin.pdf",
+      "sha256": "a2cea3e02c8dc9ce3b6e84dbf1072bfd555c7ff38ee8da05cff71bff8b97f976",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/eecs-schedule-16.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsElectricalEngineeringAY25.pdf",
+      "sha256": "5638226626103bdad156f5adaeac29ee226b934c0df8b628140a228ab1425b49",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-ElectricalEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/engin-phys/",
+      "sha256": "f8e142c91386991e3d4e7db3d49e64461265e3e932fe4f4f37820a8e567db9a6",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/engin-phys.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/09/Engineering-Physics-Sample-Schedule-Winter-2025-1.pdf",
+      "sha256": "063aaba2306fa573c6bb99e6adb339bc1a1f9073753000550ddc6d7d25fc220b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/engin-phys-schedule-4.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsEngineeringPhysicsAY25.pdf",
+      "sha256": "2aa24b353257331f72b634fa9cb2c48632dc4fb93c7111c31f28d4f6ab8911d4",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-EngineeringPhysics.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/08/Environmental-Engineering-Sample-Schedule-Students-Enrolled-WN27-After.pdf",
+      "sha256": "ca5731e9eedeeeae07b1cd592e05d81ce5ae44f45bfa2f903b7f534d58480dcb",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/cee-schedule-7.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsEnvironmentalEngineeringAY25.pdf",
+      "sha256": "ae0096987a1c9576aa8613521391c2b815dea46bd89fe176f7081bd1c9e4701c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-EnvironmentalEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/depts/ioe-2/",
+      "sha256": "fd57f9e9546eb85255f4022ee98919dda3902a6e28d600a9d60db725dce39e74",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/ioe.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/04/IOE-Sample-Schedule_4.17.26.pdf",
+      "sha256": "451c6fbdf1c1caf722e7000980ddd54cefb8d5b0757554dfcb940eee326323c3",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/ioe-schedule-19.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorIndustrialOperationsEngineeringAY25.pdf",
+      "sha256": "ab67c4d1eb45df7e3a6a77fcc6b91b7c158c9f449cd97d5c7ba05fd785cc16f4",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-IndustrialOperationsEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://business-engineering.umich.edu/",
+      "sha256": "5fb82fcfd772fb88e4a6542307fd13f633a7c66e52a93cfd7f1c8c740c06d87c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/ibe.html",
+      "locator": "Get Started; Application deadlines; Admissions; Academics; Tuition Costs"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/depts/mse-2/",
+      "sha256": "762836761470af6e5f80807acf351d2170c9fa917bffd7de4670883f7ca9fe41",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/mse.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/Materials-Science-and-Engineering-Sample-Schedule.pdf",
+      "sha256": "d6882e4ce1b4fd23ecbaf4a89442c9f05905fe15955adbcf7a484faf5ee95993",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/mse-schedule-8.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsMaterialsScienceEngineeringAY25.pdf",
+      "sha256": "3d3488e5af265ca377b1554add11572776029f128e793a531a7fe2ffa6bb8b0c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-MaterialsScienceEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/depts/me-2/",
+      "sha256": "f391a620a88835c0c4277c6fe9284a66d711b5c2222a9f3a04ad67553348584c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/me.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorMechanicalEngineeringAY25.pdf",
+      "sha256": "a8f5eac84e758bfe4cf609dcbae441a395fbce9aad7bb36df596b5d4edb06f9c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-MechanicalEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/depts/name/",
+      "sha256": "7da36a07b93c3157ba331c1f79639ee4047cef50eee4443a63e0c7203c82c031",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/name.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2025/04/NAME-Sample-Schedule-updated-3_28_25.pdf",
+      "sha256": "332da4befc6c5c507da9795a2e933a9ca6f84f13bce0562c2556b6a2abcff8e8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/name-schedule-9.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsNavalArchitectureMarineEngineeringAY25.pdf",
+      "sha256": "4f9620d97f70ff3069f50fae279e379289da29fc717c4ae482cc2a0dce595294",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-NavalArchMarineEng.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/depts/ners/",
+      "sha256": "608f6e32f0ce39f62fc33b6fa99ba6812005d0930a009ed6b74bfd096d844077",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/ners.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/04/NERS-Sample-Schedule-4-2026.pdf",
+      "sha256": "96d192b5c1ac1ba70ea9de6ca193c0e798b896431b599c4bb04144d04c92e5d8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/ners-schedule-18.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsNuclearEngineeringRadiologicalSciencesAY25.pdf",
+      "sha256": "805d4ccc1bbe354ae3d8ce92acd7c0ad0946bec8233438604faa30c172626195",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-NuclearEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/depts/rob/",
+      "sha256": "9ccf40b5e3787565132b571e1d889f97537e3baa2d3c395eeca36fc1ca6a3baf",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/browser/robotics.txt",
+      "locator": "Undergraduate Degree Program / Sample Schedule / Enrollment and Graduation Data"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2026/03/Robotics-Undergraduate-Sample-Schedule-3.10.26.pdf",
+      "sha256": "b530dea49784db59fc1f99a2c329462490aa96e051630070fd72e4941b53514d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/robotics-schedule-11.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorRoboticsAY25.pdf",
+      "sha256": "bf89e0410bea5ac53e8860647117a239cef2c933e56c71cbc930820f2aa5a3c7",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-Robotics.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://bulletin.engin.umich.edu/wp-content/uploads/sites/306/2023/02/Program-Plan-SSE-BSE-2023-Sheet1.pdf",
+      "sha256": "11e997436b8651b0ab827876078eb2cca47743abd457f693dce21a9ca9bec76b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/clasp-schedule-3.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/BachelorsSpaceScienceEngineeringAY25.pdf",
+      "sha256": "5179a2879e4a7693d28ea5d24a2f8d292b21bf1a098123d2450f4c5cf3d8726f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/engineering-agent/raw/salary-SpaceSciencesEngineering.pdf",
+      "locator": "PDF，第1页课程表或统计及脚注；续页课程注释"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-audition-dates/",
+      "sha256": "452e4dc36f1452883e931d654471106a1291a4105e70cb3729167ba765e75485",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/16930d42336d2624461f.html",
+      "locator": null
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-music-education-choral/",
+      "sha256": "0b7f4a8a42bbb2421313d1792cd693ad6f2a446159330f7c98b45863a7652296",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/33dc130c4cca3f1d360e.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_14",
+      "sha256": "f16bc824167f255a71b254e795cb271b1f3f672c5e5049921530affa6d53bed8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-14.txt",
+      "locator": "Expanded region: Music Education"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_22",
+      "sha256": "581f33047d55e828ff534a1c73d6997d43a25a5d11e615346e4e34e69400cc4a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-22.txt",
+      "locator": "Expanded region: Piano"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_33",
+      "sha256": "3105bfce4ce7918e4578c9b840266ad2614123c64f8bb61107cb57a4601556ef",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-33.txt",
+      "locator": "Expanded region: Voice"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/apply-undergrad/",
+      "sha256": "167ff00b658a74b8965797d995efcd255bbcd9bb17c1ea964c9f78bbdd06759f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/apply.txt",
+      "locator": null
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/international-admissions/",
+      "sha256": "d64a99edfd10b85ea0e66c396323dd54860f07c5502b30d35b33a41af14de161",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/international.txt",
+      "locator": null
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-composition/",
+      "sha256": "995c01d6038bcc3b73fdccae8877ef3503729ca677d990bc79731add38bfdeb8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/f624d29c23297df73883.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_3",
+      "sha256": "c7c308855907f3ff0c49a8ab80990ded02f8f5937147e621b93dd442b506c2c4",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-03.txt",
+      "locator": "Expanded region: Composition"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-dance/",
+      "sha256": "2c19934df5841408e2b52a3a38a2dfd74d216c9f4117787583eddd041d751908",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/fc6502f09ae73237ab99.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_4",
+      "sha256": "e42fba2c629f02c46752acd9de3977c128ec33e3bb14211d60790989320917a6",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-04.txt",
+      "locator": "Expanded region: Dance"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-music-education-instrumental/",
+      "sha256": "424be000843ba6f038a83f3f6d4d8e1c4e35a42a50b23c753d509c1bbf727820",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/3d2872b115a08d0cf4b4.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-interarts/",
+      "sha256": "0f7cace41a24c1ebb5d560deff85ebc844f490f4650886ecd07e6df4b2d87a8f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/8bfca8333c8e48c75209.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_10",
+      "sha256": "93f3eaa1e17eb9d08c03e988bdf2995e29877ed9648e183ea59f1287812bcfe8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-10.txt",
+      "locator": "Expanded region: Interarts Performance"
+    },
+    {
+      "url": "https://stamps.umich.edu/undergraduate-admissions/apply",
+      "sha256": "31cb2419ff6b8659372b5f783b229c11be03790e4058f029af8c29767d49cfd8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/stamps-apply.txt",
+      "locator": null
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-fine-arts-jazz-contemplative-studies/",
+      "sha256": "74a07a1db4ad00089dfc5f2071deeabed0c631872e72bdb46bd8c3b71360b6cc",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/2008ced9bc4a08094d6e.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_11",
+      "sha256": "1b5b77aea527aecdb40cf4379b9ce5bee37108e48d4d0e1b29f13f8433b59b0a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-11.txt",
+      "locator": "Expanded region: Jazz"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-jazz-contemporary-improvisation/",
+      "sha256": "796a8cfca60dfdd5cf00181e2af27beda9598bdafd0a4de564f3cc3a5f9dc3f9",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/9c69f9c4efa08e85e94e.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-arts-in-music/",
+      "sha256": "b497f0ae25ad99ed730239c870380137d67ce093f8192ac6e8d69bfec89139ba",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/b12805b094af67a3043e.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_12",
+      "sha256": "f4bf5cece6674c12f6e3e7a383aaaca076f45d9f9c6dc8cd45fcd8c8fadfebfb",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-12.txt",
+      "locator": "Expanded region: Music: Bachelor of Arts"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-music-technology/",
+      "sha256": "a7dab2e78d89c4c5915d58f9544b851dd74f586ac3f2b7e4d31eca13f2d50a17",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/b22026c7f725b71c62e6.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_20",
+      "sha256": "409a8ced6ae2acbfed7ccf59f4d2206931e17d68761df05cba07ea537d91fd37",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-20.txt",
+      "locator": "Expanded region: Performing Arts Technology"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-music-theory/",
+      "sha256": "22812a67dc2416755010422a47799de43c7517f0e04024d40a08a4bca9e93fd7",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/23e2b9fb9812d97316fc.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_15",
+      "sha256": "1be6290c6098885ff759fc066debaadce1a2948842120f454e3fe77f42deef7f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-15.txt",
+      "locator": "Expanded region: Music Theory"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-musical-theatre/",
+      "sha256": "76b73c7ed93d792bf33d77ad29d52ec6093f53c0bd894e9d074cb06a066c59d6",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/448c5e91a14970ffd1ea.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_16",
+      "sha256": "7678cc969398fbac45ded3c59b4ed75c4691a4eb397c2cde8dda01acc27331f4",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-16.txt",
+      "locator": "Expanded region: Musical Theatre"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-musicology/",
+      "sha256": "b70935f3a2a58cdc538c9a4ebbd120421cc398619aee63236fbf8687e3ca25f0",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/da2f5671ac8fd0a5c8aa.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_17",
+      "sha256": "7c77ae525ccf81b9159ba7df777c28323d744ee4ea9d6fe1efb54768f3a6b50c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-17.txt",
+      "locator": "Expanded region: Musicology"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-organ-performance-sacred-music/",
+      "sha256": "69079b8da6544808ed46e0110003ac3f68084c6686f648f8aa94f99d2de3e7f1",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/43738ca7489d15c3d35d.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_19",
+      "sha256": "7df6810f3d86f42c913b10a1b8616b2dd70907fa04b723c4f622b0c63db06517",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-19.txt",
+      "locator": "Expanded region: Organ"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-performance-multiple-winds/",
+      "sha256": "ad6b0ca6542eb15b9293ce1c0c79042506a8600da858e5ebdaa78b8589e2b422",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/66bd121375774bdb6a44.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_0",
+      "sha256": "55e36081340601cb9fbf251f4acf1c9920e0751760887af7b1a97627da8d13c9",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-00.txt",
+      "locator": "Expanded region: Bassoon"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_2",
+      "sha256": "483e62bbfc85ff5ceb9704c65068045469f5d59553057aa37e9abe3ebeab7eb8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-02.txt",
+      "locator": "Expanded region: Clarinet"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_6",
+      "sha256": "3389464c5cbe88644162c39c66a981aeaceeea71baa8b8a36b548f0818bdc956",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-06.txt",
+      "locator": "Expanded region: Euphonium"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_7",
+      "sha256": "6a6ec5c146758b8cca532af1474416ad8d2fd73c24252227d012d21b68440f77",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-07.txt",
+      "locator": "Expanded region: Flute"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_9",
+      "sha256": "f2c1c2b9b9459f5ed4d6fc31fbeffb5f899bc084e497f4871a91478cbc7bc0ac",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-09.txt",
+      "locator": "Expanded region: Horn"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_18",
+      "sha256": "b3ff7f5f68c1564c142934a21aa2adfaf69981d6ec1f579341acd34581695e68",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-18.txt",
+      "locator": "Expanded region: Oboe"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_23",
+      "sha256": "49006862353f336443fe624490ae8479ff06c2a2dc895b71a2b0bbd5ae54d1df",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-23.txt",
+      "locator": "Expanded region: Saxophone"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_28",
+      "sha256": "e5fef6677d3ad8a2bb1cdfb2a3de5bcb36e286f3ac89618a8ad719f2cc0572a5",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-28.txt",
+      "locator": "Expanded region: Trombone"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_29",
+      "sha256": "baf39e392b6d43675f227ce57bb2ce7aa4c08c7ca3c481fa54255e85f0e78499",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-29.txt",
+      "locator": "Expanded region: Trumpet"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_30",
+      "sha256": "4f2fc071e6acef638b30ad4a59a7f4fc1723742bfab9815343b08ad441a5be6f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-30.txt",
+      "locator": "Expanded region: Tuba"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-organ-performance/",
+      "sha256": "2ee423b32ce5aa7a769dbfad54df50f41cb35f565988c8f72fcc640ee4e86217",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/b1f81fad7bbc21163811.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_13",
+      "sha256": "22e42f8af146b73985809b8ad871fc4d64e91c27743102b1110591cd8f1c5608",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-13.txt",
+      "locator": "Expanded region: BMA in Multidisciplinary Studies"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-piano/",
+      "sha256": "b96681aa003849889146a7f2b3586e05ff40aa5ca1ac23187e55c6a475bf5e6e",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/2ccabe4b766c263337b3.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-performance-strings/",
+      "sha256": "869cbbeba23640382f699fc6ab7779572f690bea061b986e27198089ac5ac171",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/26df82db35f14acb3fe5.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_1",
+      "sha256": "6deb4f8ca61e778c423f04b674555c2482bb4b8c397a51894955f9508d9b8491",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-01.txt",
+      "locator": "Expanded region: Cello"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_5",
+      "sha256": "1e82ae6dadecb702fda95ee3d33648f637aa6f3b338c67331295fa7c3b4ee784",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-05.txt",
+      "locator": "Expanded region: Double Bass"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_8",
+      "sha256": "584600d497b975d690988b08c45448331b6666e1e22220c645b555f87a512790",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-08.txt",
+      "locator": "Expanded region: Harp"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_31",
+      "sha256": "3feacc3d480d46a2eac7f6551770d75dfd8efc54d40eba2385b4455992966291",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-31.txt",
+      "locator": "Expanded region: Viola"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_32",
+      "sha256": "3c79491dc21ad1a412157356e7369bbe13665bb7a466fe9ea78fb789defc2e17",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-32.txt",
+      "locator": "Expanded region: Violin"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-performance-voice/",
+      "sha256": "ec7cbb92089b1936931df01ec838b8f9aec88eda8e42fa74b3f50569196a2df0",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/fb4763de8adeb9d2d5f6.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-performance-winds-percussion/",
+      "sha256": "e53ea25df20e232d33ef32e0a2d0524c4d003def43f40567bc12a82bfb5ee7e9",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/77450745647b7071f10d.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_21",
+      "sha256": "6ff6a31fb84c4be10d955acb7541a613097b8e2f1413e6c75fe41d33063f79f5",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-21.txt",
+      "locator": "Expanded region: Percussion"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-musical-arts-in-performance-winds-percussion/",
+      "sha256": "c5f05f58ec35cb7680b00d8cc2c25532edd5d668bdcdda0095083fe5ba837d03",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/4e15f0005449625fd2ed.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-performing-arts-technology/",
+      "sha256": "e5f92c2164ee8dc064d5ba3f656b16c3d7ac254dbc503d765bc81d82bd39ab01",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/9347e9a30f908b59e38d.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-piano-performance/",
+      "sha256": "d6754a662a0822b1e5d038322e5b20225acc371429cc229c21a344a3a929710b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/f1c6df8023ef632a7839.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-science-in-sound-engineering/",
+      "sha256": "b7f8e97b361faaa1ff1c094512bb36c1b2e488f8ba402cc032522d9b8aa93210",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/c6ac23779e03fc7ce7b5.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-performance-strings/",
+      "sha256": "0a3b60ab37d65f38a02c149050c59d98c02a83cd273700a03a7d409b14d95d04",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/af391a14cfe3fe351c3d.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-theatre-arts/",
+      "sha256": "38e776776b7dfbc9fba98c1c9c4dbd1906865b8f447acf00500ebe569a0b6c1a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/84247943854b2cb690e5.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_24",
+      "sha256": "9b48471ec024f858272b7bb7e0106ab407d586ff48f9debcbab8e46f58acb37b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-24.txt",
+      "locator": "Expanded region: Theatre & Drama: Bachelor of Theatre Arts"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-design-production/",
+      "sha256": "9c35512508e6cab6d4eb2e679adfc4faea39dbe072bba43dfd95f65282cd6f1b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/19646121923e330db3c1.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_27",
+      "sha256": "be5993398934df1277d03a0763d27ab19b31f0b01e9ab854a7b0c6c1e3b1343f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-27.txt",
+      "locator": "Expanded region: Theatre & Drama: Design & Production"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-theatre-drama-acting/",
+      "sha256": "0049d5f1f7487964de6f844d848fc89494623b5831384e4ce0f03d3595adc703",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/b7124ac2865d6ceb528e.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_25",
+      "sha256": "06c35828ab593000971644052ee1ce936022cbfc56deccec634e162bc96b567d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-25.txt",
+      "locator": "Expanded region: Theatre & Drama: Acting"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-fine-arts-in-theatre-drama-directing/",
+      "sha256": "f51b281d535e1b6be5537e20ca8df0e7a3a8756c2e82d1569fec43d8cf34b312",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/a390cb6ea084289a178d.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/requirements-for-pre-screening-portfolios-auditions-interviews/#et_pb_accordion_item_26",
+      "sha256": "5c26cc5a710cb97efd6312e061064c4ac0c925c9e761ecb34b9cf1dcf32a11c5",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/smtd-agent/raw/selection-26.txt",
+      "locator": "Expanded region: Theatre & Drama: Directing"
+    },
+    {
+      "url": "https://smtd.umich.edu/degree/bachelor-of-music-in-performance-voice/",
+      "sha256": "6709ae79a2d7a0f812d56d9f105bfa9ce6a868236ba64c8754ae773fd3f75e9a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/349b648ea648a16d62c3.html",
+      "locator": "H1 / Curriculum"
+    },
+    {
+      "url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors-certification/undergraduate-elementary-teacher-education",
+      "sha256": "d3758bb85322c83f81ac7520789de91c01eaae1b811e1ba54ade7d33c729cfb8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-browser/000.txt",
+      "locator": null
+    },
+    {
+      "url": "https://marsal.umich.edu/academics-admissions/epp/slideroom",
+      "sha256": "108742bdcc570b009d30e693b3d555d6c5e23a2f54eb341f6f2c1dc800c2afa2",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-details-2026-09-13.txt",
+      "locator": "Teacher education block, lines 26–54"
+    },
+    {
+      "url": "https://marsal.umich.edu/academics-admissions/degrees/certification-bachelors/undergraduate-secondary-teacher-education",
+      "sha256": "27f36e25d6efcd07ef95b469d7d2d06021ea216372702c738a95ecab5e0e1a42",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-policies-2026-09-13.json",
+      "locator": "First official page block, lines 40–169, 243–288, 349–357"
+    },
+    {
+      "url": "https://marsal.umich.edu/academics-admissions/degrees/bachelors/learning-equity-and-problem-solving-public-good",
+      "sha256": "66ad6b99aee5653675eb4fce725f54198bf2b9c30fe216ec70100fe96ce7d333",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/education-art-agent/raw/leaps-expanded.txt",
+      "locator": null
+    },
+    {
+      "url": "https://marsal.umich.edu/academics-admissions/leaps",
+      "sha256": "bd996905a1faba5e2788db32746592be2e30d466959079c8280f6a9faa1ae68e",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-browser/002.txt",
+      "locator": null
+    },
+    {
+      "url": "https://marsal.umich.edu/academics-admissions/leaps/slideroom",
+      "sha256": "f22360ad02b1965d50bb5e58a9b4f5714c7b21fdd9b1f85af847d897db875629",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/education-art-agent/raw/leaps-video.txt",
+      "locator": null
+    },
+    {
+      "url": "https://admissions.umich.edu/apply/international-applicants/exams-visas",
+      "sha256": "c6213d348ed9d88adb6a84ccf3a33484e2daccb8634d9769bf688eea85df0a4a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/education-art-agent/raw/english.txt",
+      "locator": "General English Proficiency Score Ranges"
+    },
+    {
+      "url": "https://stamps.umich.edu/undergraduate-admissions/apply",
+      "sha256": "fabbe638bfa6eb0c0647037f5a1830a042363458c733aed05a374a085bacd05d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/education-art-agent/raw/stamps-ba-bfa-apply.txt",
+      "locator": "Expanded BFA/BA in Art & Design"
+    },
+    {
+      "url": "https://stamps.umich.edu/undergraduate-programs/ba",
+      "sha256": "69561188d4e55b61da0dab35514d138f2a02f9e8e48a3a30cd3840a28192635a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/nonlsa-browser/026.content.txt",
+      "locator": null
+    },
+    {
+      "url": "https://stamps.umich.edu/undergraduate-admissions/admissions-faq",
+      "sha256": "c90491fd0e0f29a154877479da28a28ae0ebdfdaee69337ca2645818938643af",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/education-art-agent/raw/stamps-faq.txt",
+      "locator": null
+    },
+    {
+      "url": "https://stamps.umich.edu/undergraduate-admissions/portfolio",
+      "sha256": "108742bdcc570b009d30e693b3d555d6c5e23a2f54eb341f6f2c1dc800c2afa2",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-details-2026-09-13.txt",
+      "locator": "Stamps Portfolio block, lines 188–223"
+    },
+    {
+      "url": "https://stamps.umich.edu/undergraduate-programs/bfa",
+      "sha256": "0391006ad0738a6cc9df647cb26b53322ad873c44255d80500daa875480858d1",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/nonlsa-browser/027.content.txt",
+      "locator": null
+    },
+    {
+      "url": "https://taubmancollege.umich.edu/academics/architecture/accreditation/",
+      "sha256": "1f284a0c1d6477fa26a50c9585cfe2856948a94908bcf75617d251f4154eca59",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/education-art-agent/raw/architecture-accreditation.txt",
+      "locator": null
+    },
+    {
+      "url": "https://taubmancollege.umich.edu/admissions/apply/bachelor-of-science-in-architecture-first-year/",
+      "sha256": "81ff8539fa48aaab8b6e9edf2c4604610ffae67869c5d673e435dd0e9c374052",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/nonlsa-browser/029.content.txt",
+      "locator": null
+    },
+    {
+      "url": "https://taubmancollege.umich.edu/academics/architecture/bachelor-of-science-in-architecture/degree-information/",
+      "sha256": "93dad7accc38938aa5cd843247800f813991ecef8ffe6f27712e459a96927499",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/education-art-agent/raw/architecture-degree.txt",
+      "locator": null
+    },
+    {
+      "url": "https://taubmancollege.umich.edu/academics/architecture/bachelor-of-science-in-architecture/",
+      "sha256": "2a7ea7175c13052c677ce68c79b87b5a4eea0aa45011e18105af9520fa4da7cc",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/education-art-agent/raw/architecture-overview.txt",
+      "locator": null
+    },
+    {
+      "url": "https://taubmancollege.umich.edu/wp-content/uploads/2026/08/DegreeRequirements2026-2027.pdf",
+      "sha256": "8e7a8b6295fab6559040861dd94cf5849a1736954cfb6f4893c0d06fc07a03f7",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/education-art-agent/raw/taubman-degree-2026-27.pdf",
+      "locator": "印刷14页，Urban Technology，已渲染目视"
+    },
+    {
+      "url": "https://sph.umich.edu/undergrad/apply/",
+      "sha256": "3980bb8300481c32b4f5ab41fa052d383087609fda4620fe13e990cf48c2677b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ph-apply.txt",
+      "locator": "Preferred Admissions / Cross-Campus / External Transfer"
+    },
+    {
+      "url": "https://sph.umich.edu/undergrad/career-outcomes.html",
+      "sha256": "ba05cf69172500f5a541c3a4d8c7e2da1a6bfbd0fb7f23369419ad4a386fc777",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/raw/web-core.json",
+      "locator": "Public Health Careers，L47–L69：2025届网页摘要与当前链接的完整PDF"
+    },
+    {
+      "url": "https://sph.umich.edu/undergrad/apply/campus-transfer.html",
+      "sha256": "a50d1ccba8de5d1e56926ee23eae05025aeca2bc47f7ab76936ef3ffd83149d1",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ph-cross-expanded.txt",
+      "locator": "Admission requirements / Step 1已展开截止 / Admission Criteria"
+    },
+    {
+      "url": "https://sph.umich.edu/undergrad/degrees/index.html",
+      "sha256": "dd40157033f3b9a779db1b22cdf342308d23312bab5944a488c9b3dc9ad659e6",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ph-degrees.txt",
+      "locator": "BA in Community and Global Public Health / BS in Public Health Sciences"
+    },
+    {
+      "url": "https://sph.umich.edu/undergrad/apply/external-transfer.html",
+      "sha256": "98e8878e1483c0ad6a737f11113754b0a9798eb903f8368ada4f79663f37cc05",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ph-external.txt",
+      "locator": "International Applicants / Application Timeline / pre-transfer advising"
+    },
+    {
+      "url": "https://sph.umich.edu/undergrad/apply/preferred-admissions.html",
+      "sha256": "bab660684fdf1ea4ec73cd9568a57426bcdd8afab33f02ecadca36de1700bd07",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ph-preferred.txt",
+      "locator": "Eligibility / Maintaining Preferred Admission Status / Sophomore confirmation"
+    },
+    {
+      "url": "https://sph.umich.edu/undergrad/apply/prerequisites.html",
+      "sha256": "f88428ad17e2cde175ca4e534972d9a9cf7a9bc4e1cdd188511dbb6dc6afdfcf",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ph-prereqs-expanded.txt",
+      "locator": "Prerequisites；54 credits；六项展开正文与成绩脚注"
+    },
+    {
+      "url": "https://sph.umich.edu/careers/pdf/2025/2025_CDO_report_UnderGrad_02.pdf",
+      "sha256": "0334e47d6ec49bfdfc9291560fee4aeefc9895c796f8229bb177c1c27222229c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/raw/ph-report2025.pdf",
+      "locator": "第1页Postgraduate outcomes图及底部方法脚注；已渲染图像核对"
+    },
+    {
+      "url": "https://sph.umich.edu/undergrad/degrees/degree-requirements.html",
+      "sha256": "9fcb45d6bc18085eab467e60fa6a47988b4207066c309e1243c9874f36f82e47",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ph-degree-requirements.txt",
+      "locator": "Fall 2026 applicability / Integrated Core / Major Specific Requirements / Health Equity / Culminating Experience"
+    },
+    {
+      "url": "https://si.umich.edu/programs/bachelor-science-information/how-do-i-apply-bachelor-science-information",
+      "sha256": "afae7fa61a1672e9c0b03e550ff342f83c2097b2774110d71ce6aae616c755d9",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/bsi-apply.txt",
+      "locator": "First-year / Sophomore / Transfer students；at least two years"
+    },
+    {
+      "url": "https://www.si.umich.edu/admissions-aid/apply/bachelor-science-information/cross-campus-transfer",
+      "sha256": "99ae859be5b7c51248640afe6cde58afa62af0fd0723eb010822c98eab3154a8",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/bsi-cross-canonical.txt",
+      "locator": "Requirements for admission / Prerequisite courses / Submitting your application"
+    },
+    {
+      "url": "https://si.umich.edu/programs/degree-programs/bachelor-science-information/bachelor-science-information-curriculum",
+      "sha256": "4da2cd17dcefb999b3b1505cb27b916dca76d3881cdd1ac665de607e37e1860a",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/bsi-curriculum.txt",
+      "locator": "Prerequisite courses / Core courses / Pathways of study；当前公开框架，具体入学届别计划另列"
+    },
+    {
+      "url": "https://www.si.umich.edu/admissions-aid/apply/bachelor-science-information/new-transfer-students-bsi",
+      "sha256": "b3faa342c30d3f415bd31abe3e2e262d54dba75ae5a1b893076e4b6cda70a64c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/bsi-transfer-canonical.txt",
+      "locator": "Transfer credits / Prerequisite courses / Application materials"
+    },
+    {
+      "url": "https://www.si.umich.edu/programs/degree-programs/bachelor-science-information",
+      "sha256": "8421acd2f0338a29c5e5bfa4052b31042639327d6cb0425475c938ce43b4a9f7",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/bsi-main.txt",
+      "locator": "Program info / Choose from two pathways"
+    },
+    {
+      "url": "https://www.si.umich.edu/admissions-aid/apply/bachelor-science-information/preferred-admissions",
+      "sha256": "d2a34cf78465324541685d318d36363c45d1cedee24d4678a758ac44c8296ba3",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/bsi-preferred-canonical.txt",
+      "locator": "How to apply / Academic standing / Credits / Prerequisite courses / Application materials"
+    },
+    {
+      "url": "https://www.si.umich.edu/student-experience/career-outcomes/2026-bsi-employment-report",
+      "sha256": "76089d4c0afc0b5f71aa988231e77ab494f8ffb7f1cf3de5fffa278e2692584c",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/bsi-report2026.txt",
+      "locator": "About this report / Average salary overall / Employment rate脚注"
+    },
+    {
+      "url": "https://fordschool.umich.edu/ba",
+      "sha256": "85a66f3eabb8b4fd6bf306c9fb66e75f997b331194f427e733000005f6c002ff",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ford-ba.txt",
+      "locator": "At a glance：Bachelor of Arts in Public Policy列；不引用minor列"
+    },
+    {
+      "url": "https://fordschool.umich.edu/ba/faqs",
+      "sha256": "78e21588f9ec90432c4af2bc9cfa031c8c22394af01c96e8fa0b5253d17ce005",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ford-faq.txt",
+      "locator": "Admissions：incoming first-year / 55 credit hours / other universities / GPA / AP credit；Curriculum：at least three terms"
+    },
+    {
+      "url": "https://fordschool.umich.edu/ba/major",
+      "sha256": "19f0eecc80e8ca6dd055a19a21c990265959ef4539bf6ab2c47b7155a9bfec49",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ford-major.txt",
+      "locator": "Degree requirements / Focus areas / Policy seminars"
+    },
+    {
+      "url": "https://fordschool.umich.edu/news/2025/policy-job-market-trends",
+      "sha256": "35e66454d051d777cb52f27d68d7c50e3b2bebf70a8f42eae101f36999364cfd",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/raw/web-ford-outcomes.json",
+      "locator": "2025-05-08文章L27第二图文字替代：Bachelors (classes of 22–24)；不是第一图Masters"
+    },
+    {
+      "url": "https://fordschool.umich.edu/application/ba/process",
+      "sha256": "2f875d92730e6638d23aca8cdb6507d7dc3483838a0092fbfac94cac08e91367",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/professional-agent/browser/ford-process.txt",
+      "locator": "Bachelor of Arts in public policy / Prerequisites / Apply online；不引用Minor部分"
+    },
+    {
+      "url": "https://www.kines.umich.edu/academics/applied-exercise-science",
+      "sha256": "012d5f187e956def98155ed33e38567dfba4d20d73cc85772cfab5dde14c37ce",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/70f96fa712e3936302ff.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://www.kines.umich.edu/academics/applied-exercise-science/undergraduate-program",
+      "sha256": "0e3e7fecfe4f639789ebeb0b18b777d9395cf41178c09d28191fdfec35c808f5",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/28f21d29153dde8c832d.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://www.kines.umich.edu/sites/default/files/2026-04/2025-2026%20Undergraduate%20Bulletin.pdf",
+      "sha256": "43b75eabc5edcadef6edac8275daaed06dc3c4c23f6a9789ea05e31845cb8b29",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/0874b0263dd7cc9e27b5.pdf",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://www.kines.umich.edu/admissions-aid/undergraduate/first-year",
+      "sha256": "fb8bb666b5bd9f9c588dc4d7cc1dbb256bfd66afd82234362e199e5048026ca9",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/e6bbb4a70a3d4a0715f3.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://www.kines.umich.edu/academics/movement-science/undergraduate/IONM",
+      "sha256": "800d6fc59913da4a1480859fcbd7a64cb8d7b6669ae3c768e03446e140792dcb",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/ae1068d8df976e7d7164.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://www.kines.umich.edu/academics/movement-science/undergraduate",
+      "sha256": "0cba1550087072d4dfc35b71694bebd39c3180c0fc62060e58326224c17babb5",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/50035a34ab68ca669443.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://www.kines.umich.edu/academics/movement-science",
+      "sha256": "b035d2932ced94d5ced8f38baa4beec7cd2cb5317265baa6163323232499d51b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/3e0fff52fa858fa2f079.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://www.kines.umich.edu/academics/sport-management/undergraduate",
+      "sha256": "a8371dd8a2e640804a687c3277c5b9773f5c933a2cc2360ca0709e69e47a3b90",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/7914c10c52896cdf94aa.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://www.kines.umich.edu/academics/sport-management",
+      "sha256": "5e887ea49f4e3414bf1ab9c72ad8b30a1767a41e8882d249bbde0f887b3309d9",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/0a51222a6b6dacd29f61.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/",
+      "sha256": "b488c0e7c3d6714b752c319f2393384185ff785255dc131ca4c206361c7d310d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/97a6e2589e1705fa3c12.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/admissions/",
+      "sha256": "3fc8607c24ce7fd1f7c43cd0c66591d12bf5f3039b851dea28aa666b4d788810",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/raw/a105b515d896c73b26df.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/curriculum/",
+      "sha256": "faf87cd1a313565b552a6892a730c9b3fefd26aa5c86b7301ac80b42cf29edfc",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/f2a25c5d7467d231d021.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://pharmacy.umich.edu/pharmacy-programs/bs-in-pharmaceutical-sciences/fast-track-to-pharmd/",
+      "sha256": "85c843796e09b909c5e77d95eab672f46f6932cf82e78ef1a9e9231deb158f13",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/followup/bb41afa9c85fbbace1bf.html",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://michiganross.umich.edu/undergraduate/bba/admissions/first-year-applicants",
+      "sha256": "5e2e59f2fdbdf9ff8d3cce972d017cf0ca4bbb4acf90127129239f949913eb85",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-browser/006.txt",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://michiganross.umich.edu/undergraduate/bba/curriculum/curriculum-by-year",
+      "sha256": "45bb896aaf202352732c6d37ee0d248d6d70969c530ad9bc8db5245df3505e0d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-four-degrees.txt",
+      "locator": "web公开全文，Ross课程块"
+    },
+    {
+      "url": "https://michiganross.umich.edu/undergraduate/bba/careers/employment-data",
+      "sha256": "480c4336224eec85e7b3a034b9dd0bb59fe847dcccca410213102e8f9ac977da",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-ross-method.txt",
+      "locator": "Job Offers / Acceptance / Base Salary及统计口径"
+    },
+    {
+      "url": "https://taubmancollege.umich.edu/admissions/apply/bachelor-of-science-in-urban-technology/",
+      "sha256": "6f171383760011e9b833dc97c50623b1a40d80b8c092551727d624de3dbe2e54",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-browser/009.txt",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://taubmancollege.umich.edu/academics/urban-and-regional-planning/bachelor-of-science-in-urban-technology/degree-information/",
+      "sha256": "f86d58e94a0e698bbc1f22cfe6686dc09ea6b0dc0e47419d2c23fa286b7e0bfc",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-browser/008.txt",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://taubmancollege.umich.edu/academics/urban-and-regional-planning/bachelor-of-science-in-urban-technology/",
+      "sha256": "1bbef3ba5e1b0be10cf5a3649e8c862a8854a95cbc3405d93ebec57d080010c4",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/nonlsa-browser/028.txt",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://www.michigan.gov/lara/-/media/Project/Websites/lara/bpl/Nursing/Licensing-Info-and-Forms/NCLEX-Score-Summaries/2025-NCLEX-Program-Summaries.pdf?hash=DA4B6851B99E676D8297E4C80B1CA22B&rev=fcd7705f5ca44f7abfe755c65003c748",
+      "sha256": "abd10dcee087493c6c9e5b135d598320bfef2f94d4c1dd483d79d9a41d997c3b",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-nclex2025.txt",
+      "locator": "公开PDF文字摘录；第1页期间与第102页Ann Arbor BS表；已在Chrome PDF阅读器目视102页数值"
+    },
+    {
+      "url": "https://nursing.umich.edu/academics/BSN",
+      "sha256": "b0e753b69ad0ef00a514e51e635994239557c0d82dcc9361c8492d7d90a17cc5",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-browser/018.txt",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://nursing.umich.edu/admissions-aid/admission-requirements/bachelor-science-nursing-bsn-first-year-entry",
+      "sha256": "358319112d3fc9290274c0726a555a97bee3418b9afd2272aa79e3162c11b10f",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-nursing-admissions.txt",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://nursing.umich.edu/program_plans/plan.php?id=36&year=2025",
+      "sha256": "6ab45c768273e262a122aff81927b054fe90e703884087251b75e44c5df6bb33",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-browser/021.txt",
+      "locator": "实际浏览器渲染课程表；2025入学示例"
+    },
+    {
+      "url": "https://dent.umich.edu/education/academic-programs/dental-hygiene-programs/undergraduate-program-bs",
+      "sha256": "45bb896aaf202352732c6d37ee0d248d6d70969c530ad9bc8db5245df3505e0d",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-four-degrees.txt",
+      "locator": "web公开全文，Dental Hygiene块"
+    },
+    {
+      "url": "https://dent.umich.edu/education/academic-programs/dental-hygiene-programs/undergraduate-program-bs/application-process",
+      "sha256": "a0d0c7d0878b3fe2c9f5313ed4304d6968ea0ae40a042be4c412fbdc35610275",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-dental-details.txt",
+      "locator": "web公开全文，Application Process块"
+    },
+    {
+      "url": "https://ssw.umich.edu/academic-programs/undergraduate/ba-casc",
+      "sha256": "13fbe93b3610009044f1e241555837c0a12cc4843eace23e45860bb0f5c06cad",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/nonlsa-browser/025.txt",
+      "locator": "当前公开正文"
+    },
+    {
+      "url": "https://dent.umich.edu/education/academic-programs/dental-hygiene-programs/degree-completion-bs",
+      "sha256": "a0d0c7d0878b3fe2c9f5313ed4304d6968ea0ae40a042be4c412fbdc35610275",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/root-web-dental-details.txt",
+      "locator": "web公开全文，Degree Completion块"
+    },
+    {
+      "url": "https://lsa.umich.edu/lsa/academics/majors-minors/biotechnology-and-bioenvironmental-sciences-maj.html",
+      "sha256": "fe50c1b490a39216e832f50ea320881fdde8a68da1e99479631552caaa8fc59e",
+      "raw_file": "scratch/full-catalog/michigan-enrichment/lsa-browser/013.txt",
+      "locator": "Current expanded requirements, ending before first collapsed historical/subplan block"
+    },
+    {
       "url": "https://admissions.umich.edu/academics-majors/majors-degrees",
-      "sha256": "7c5349187a2c49dc21fc3d8111322369415894e99678c1b6ee4308cc97756337",
-      "raw_file": "scratch/full-catalog/us-b/michigan/index.html",
-      "locator": "official undergraduate program listing"
-    },
-    {
-      "url": "https://stamps.umich.edu/undergraduate-programs",
-      "sha256": "7c5349187a2c49dc21fc3d8111322369415894e99678c1b6ee4308cc97756337",
-      "raw_file": "scratch/full-catalog/us-b/michigan/index.html",
-      "locator": "official undergraduate program listing"
-    },
-    {
-      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
       "sha256": "7c5349187a2c49dc21fc3d8111322369415894e99678c1b6ee4308cc97756337",
       "raw_file": "scratch/full-catalog/us-b/michigan/index.html",
       "locator": "official undergraduate program listing"

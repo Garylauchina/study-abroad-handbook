@@ -4,14 +4,14 @@
     {
       "url": "https://admission.yonsei.ac.kr/seoul/upload/guide/20260529144906YVFHLB.PDF",
       "sha256": "e2f657573b63677041d8910b36ff3619c03f5a443dcff44db29aae9b7259e642",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/spring2027.pdf",
-      "locator": "English pages1–2,11–12,26–28"
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/spring2027.pdf",
+      "locator": "PDF第46—47、66页；PDF第67页；PDF第37、46、49页；PDF第36、39页；PDF第63、67—68页；PDF第68页"
     },
     {
       "url": "https://www.yonsei.ac.kr/sites/en_sc/down/2026_fee1.pdf",
       "sha256": "8f4d1db0466ab3d2e17e89a8b66dd622812cec9d91cba9793b90cdfcf5661107",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/tuition2026.pdf",
-      "locator": "PDF page1"
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/tuition2026.pdf",
+      "locator": "PDF第1页GLC／GBED行"
     },
     {
       "url": "https://yonsei.ac.kr/en_sc/1849/subview.do",
@@ -22,8 +22,20 @@
     {
       "url": "https://devcms.yonsei.ac.kr/engkoreanlit/curriculum.do",
       "sha256": "3864d5748747990b584333dadbf64b9003399336f9d8fa55d4e6832805bea108",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-c6b1f14ccfd27c5223.html",
-      "locator": "undergraduate curriculum / course list"
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-c6b1f14ccfd27c.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://ycll.yonsei.ac.kr/yonseicll/department02-1.do",
+      "sha256": "b14c9d48875763a98451453e23323ea439f48e06e044efb2b5bd5151bab7ea36",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/chinese-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://devcms.yonsei.ac.kr/ysenglish_e/faculty.do",
+      "sha256": "89de2c5bc5b052f4f34785f75e1118dc8757ecf3cb7b4a773dc058669cb8b10c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/english-major.html",
+      "locator": "对应本科课程／专业介绍分节"
     },
     {
       "url": "https://ysgerman.yonsei.ac.kr/ysgerman/undergraduate/curriculum.do",
@@ -32,22 +44,388 @@
       "locator": "undergraduate curriculum / course list"
     },
     {
+      "url": "https://ysgerman.yonsei.ac.kr/ysgerman/introduction/process.do",
+      "sha256": "a6ce8efae23ce4f5463cb09d42ab134534b18bcc219c3e649d03e6c64e86b589",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-18021088b23b8c.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://ysgerman.yonsei.ac.kr/ysgerman/introduction/vision.do",
+      "sha256": "f0bb00fd7b1f96ddfd56bfa9d2ec79b1e22b640841c5552ec4a4b6b8396ef21f",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-eec2fceefe4890.html",
+      "locator": "职业／毕业资料分节"
+    },
+    {
       "url": "https://franys.yonsei.ac.kr/franys/subject/subject.do",
       "sha256": "74326920464189e2b89c68ca3d0a5929411bab516eaf7403a1904ecf1a24eb7d",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-340940f7b4cc6f2382.html",
       "locator": "undergraduate curriculum / course list"
     },
     {
+      "url": "https://franys.yonsei.ac.kr/franys/subject/curri.do",
+      "sha256": "b5acf1ec4a7f8ba8a7d0df36ba87566f7481fc48f9ced9f66d2553eea9a80427",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-e03d1189446156.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://rus.yonsei.ac.kr/russia/course.do",
+      "sha256": "c76113974b2f08099e51b20cd826b0760412074b1882ae1060ba054b948a884c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-4ad0338f376402.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://history.yonsei.ac.kr/histroy/03_dept-grad/course_dept_k.do",
+      "sha256": "e53dc546eb3729a96fda8cf0b5116b6a6f8dddb1a02834c4f99b66ffc9505c90",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/history-courses.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://history.yonsei.ac.kr/histroy/01_intro/career_search.do",
+      "sha256": "7025559caf471ca899447bd2e6261b7a0e876e18f84e6f3ea2bda4dedc168196",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-6b1b43af2f8190.html",
+      "locator": "职业／毕业资料分节"
+    },
+    {
+      "url": "https://philosophy.yonsei.ac.kr/cholhak/intro/greetings.do",
+      "sha256": "34c99b7a7afde1a149965ff48e8bb340b46c726bee452930820321869c02fb92",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/philosophy-intro.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "https://yslis.yonsei.ac.kr/doai/intro/greetings.do",
+      "sha256": "4f06c6c944b4cce3e5009b05aba8ba293666835f2dcab1021c9f74d044800484",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-ffe55fdfa02273.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://psychsci.yonsei.ac.kr/연세심리/졸업-후-진로",
+      "sha256": "f1a218b857f042a0c4c74e9ad21566c5c3ff17a1c61a63fdd6dfc0fd37ee4db2",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-99585cc8e5040c.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "https://cogsci.yonsei.ac.kr/undergraduate",
+      "sha256": "27c3c26a206ef135fec3beef87afc194588b7f5e2f22be3d4108fa8ae1b57ab8",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/cogsci-ug.html",
+      "locator": "对应本科课程／专业介绍分节；专业介绍；2027首尔国际专业表第46页"
+    },
+    {
       "url": "https://devcms.yonsei.ac.kr/economics_en/department/curriculum.do",
       "sha256": "78f224a93e577e7f18af44d03ed1bc5160aef7f41b5c080cdfca50fd4c0e3789",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-e426e8201af7b18b3c.html",
-      "locator": "undergraduate curriculum / course list"
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-e426e8201af7b1.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://devcms.yonsei.ac.kr/stat_en/education/process.do",
+      "sha256": "3a1b6d0f571a71b161f5a6b82c1a2294a4b1728439ee1beb067b9fc398b9868e",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-ada0d8da44febe.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://ysb.yonsei.ac.kr/contents.asp?mid=n03_04",
+      "sha256": "de0bd576084ccd1667bb74a1dd7dbeea1ae6757ebcb2e9dcb08907da3b03c4c4",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/business-curriculum.web.txt",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://math.yonsei.ac.kr/math/under_courses.do",
+      "sha256": "36b8e56139519bf7b3f56ce3cd22b98cceb33c3bedcf29df8ba64aaca7b35621",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/math-courses.html",
+      "locator": "本科专业流程图，红框为专业必修，2025年9月图片"
+    },
+    {
+      "url": "https://devcms.yonsei.ac.kr/_res/editor_image/2025/09/TLEOAWKXHgqTwWYbDcIo0.png",
+      "sha256": "3770136af19261b77b2e7a7a6ec9941685db7c38668a9c70d2607358066f89c2",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/math-flow.png",
+      "locator": "本科专业流程图，红框为专业必修，2025年9月图片"
     },
     {
       "url": "https://physics.yonsei.ac.kr/en/faculty/curriculum",
       "sha256": "56e759e3e671e61b4f48e7549617cde4b7eb56bb78b3578c056733a25905667a",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-63dae7ceda527cb2c5.html",
-      "locator": "undergraduate curriculum / course list"
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-63dae7ceda527c.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "http://science.yonsei.ac.kr/major/department",
+      "sha256": "f6f6f38a3663c30b6dc5d30ede76a7dd96907d5ed92d1c8f144699cdebd1adb1",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/science-undergrad.html",
+      "locator": "本科／化学分节"
+    },
+    {
+      "url": "https://geo.yonsei.ac.kr/en/index.php?hCode=INTRO_01_02",
+      "sha256": "b262dbbc6f940dbb6f85e8ba5635d196dcdd146263c305f0a091e0d912e0fbbb",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-909bcf247d8b11.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://astro.yonsei.ac.kr/galaxy/intro/undergrad_course.do",
+      "sha256": "590e5fe1fbec93c732070409f76f91b89c668714be2b9196943fe42b2943b6ae",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-1a6d825d8a73bd49cf.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://yatmos.github.io/eng/education/undergraduate/",
+      "sha256": "5bae80319c680bd5e95cf5074626915fff86f497e4502aad6028d8e8c2bb9a91",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/atmos-undergrad.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://chemeng.yonsei.ac.kr/?c=193",
+      "sha256": "6b246c37e48929a2fffb51bfe95e1f50d0ca18ec5c7433bbd1ad6dd40e79d92d",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/chemeng-ug.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://ee.yonsei.ac.kr/ee_en/education/under_course01.do",
+      "sha256": "cc917dcc9b9504a66194a116a9c4dadadfce479e921a7812973e985871670136",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-91a41d3cfb9a93.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://arch.yonsei.ac.kr/bachelor-of-architecture",
+      "sha256": "fefa258bfb175a5aae7d3c3a9619f56671ef6f8a9ea42881729ada883324f330",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/arch-0.web.txt",
+      "locator": "PDF第47页／英文第12页 Notes"
+    },
+    {
+      "url": "https://arch.yonsei.ac.kr/bs-in-architectural-engineering",
+      "sha256": "7232ede7398e07ff02e52f5e8f4972c4e5f2486a1eb74e488e0230fc4b4b05ec",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/arch-1.web.txt",
+      "locator": "PDF第47页／英文第12页 Notes"
+    },
+    {
+      "url": "https://urban.yonsei.ac.kr/urban/program/undergraduate_curriculum.do",
+      "sha256": "181921d06a3b6c5b34361f742a6a9b4668bff2f5512eb4fcc2f01fc3dc07c16e",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-bed77c2b5b399b.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://civil.yonsei.ac.kr/civil_en/education/f_3.do",
+      "sha256": "f71273a464f1699ebb3bf1089be5e54e05fe8fe2a3a64bdd023e6b6d2b9d0de1",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-92a755b92c8924.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://me.yonsei.ac.kr/me_en/faculty/intro.do",
+      "sha256": "4ccfb74086f9370e70f4e9efa46f5f7b5a7246273ea55f2006bda2df0f3f15e6",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-919a6cb9546b6b.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://bce.yonsei.ac.kr/mse/intro/intro.do",
+      "sha256": "bdba34d5add11a3bd27509d94c61478864c36aa7839aa1e6dc32496f104adcc2",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/materials-intro.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://ie.yonsei.ac.kr/sub03/sub01.php",
+      "sha256": "3e2334c2009c61659095b8cfe0883ddeee8beadc4272e08d3133482b778d7423",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/industrial-ug.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://system.yonsei.ac.kr/sub2_1_a.php",
+      "sha256": "e02b1da8c2ca656c80efbb306fe43fc6e54ec112f308f4097c1255bb145834f7",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/systemsemi-ug.html",
+      "locator": "对应本科课程／专业介绍分节；专业介绍；2027首尔国际专业表第46页"
+    },
+    {
+      "url": "https://dis.yonsei.ac.kr/?module=Html&action=SiteComp&sSubNo=6",
+      "sha256": "3f43ebb5b6ea9b7569b058b5929e7d0ea9fc355397e3a91058792f58b0d1ddc1",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-064bb089fcb519.html",
+      "locator": "对应本科课程／专业介绍分节；专业介绍；2027首尔国际专业表第46页"
+    },
+    {
+      "url": "https://systemsbiology.yonsei.ac.kr/l_system/Course_Outline.do",
+      "sha256": "ab0fa4b5216ba5049986a2fbe9cccbb41a80c6f906ba0630d8643929cba337a8",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/biology-courses.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://biochem.yonsei.ac.kr/biochem/department/subjects.do",
+      "sha256": "8c31056b3ed4ddf37fadc026ea4d121ad89c4fc588fc3220f67dc2624dc9ea97",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/biochem-courses.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://biotech.yonsei.ac.kr/biotech/undergraduate/under_course.do",
+      "sha256": "558df06535dfe7d753bf0192c4b3e4f005477bf58c3d4d2d4037c383002e4c11",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/biotech-courses.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://cais.yonsei.ac.kr/csai_en/educate/facultyCurri.do",
+      "sha256": "922b86861acd13f902a7ee606307f70a54fba1a3c3757a99bed3f22d8ae04501",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-13ea9e28446759.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://sit.yonsei.ac.kr/sit/undergraduate/courses.do",
+      "sha256": "95e374cf323fc07965f383b02b30779d0eee34fba3cbf6a1cb938c648cb0823b",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/sit-ee62bb28f898.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://sit.yonsei.ac.kr/sit/undergraduate/SST_major.do",
+      "sha256": "1f507903a93a90d4ece87c632c6768f0cada84e8c58ab401111e1792dd38a41b",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/sit-a4b7ff27d988.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "https://sit.yonsei.ac.kr/sit/SST_major1.do",
+      "sha256": "a1397bbf58f90e91bad80dad8b39c8ab2aba9193a23527406b75e1308f8e65ed",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/sit-2714e24b09f6.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "https://yonshin.yonsei.ac.kr/theology/department/introduce.do",
+      "sha256": "ff3e79b8eadeff5252fdf57bfb172aa41ea36cef910cc6b003dc0ab3b7cf4449",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/extra-e1b1f4665836aa.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "http://politics.yonsei.ac.kr/pagegenerater.asp?catalogid=politics&language=en&pagecode=en_gradu01",
+      "sha256": "4971414823c60bd3defe7f5228a12ce85685436156d533f1bfef43e6cdfd70ca",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/politics-undergrad.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://yupa.yonsei.ac.kr/yupa_en/index.do",
+      "sha256": "890c8b5d2fa3694d2a8e5bd7c6f7f626e6fca9349e18cc28c30cfbc88a633f65",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-e502596f0567bc.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "https://devcms.yonsei.ac.kr/welfareen/english/introduction.do",
+      "sha256": "5e8a0a92df5e5018d6c2cf52dcb07c88c1b93bcc601e40dbcab5bd1ba0ec3b6d",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-1eb46e63fd646f.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://sociology.yonsei.ac.kr/0401-php/",
+      "sha256": "b759e4c6e2b22b01cd809dbc86feecfc711c901bdeb83c3a9b59723e5434f142",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/sociology-courses.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://anthro.yonsei.ac.kr/anthro_eng/intro/intro.do",
+      "sha256": "27902f4821c1fdc10c21b790c20189d4918bbaa3ebeef489110d90748454b1d9",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-4ddfc63ff38146.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "https://devcms.yonsei.ac.kr/mcc_e/sosg.do",
+      "sha256": "a6e4d2f582cb347eadb09914eefa35102c36d7b77a7d69d91d5bd7e0ce613860",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-99d8920e933846.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://music.yonsei.ac.kr/music/intro/political_science.do",
+      "sha256": "360ad2d226016205b56c7fb9f62272371dabbbf29b20128451e99f93d91b282c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/extra-30b6c1b4b353e8.html",
+      "locator": "对应本科课程／专业介绍分节；专业介绍；2027首尔国际专业表第46页；职业／毕业资料分节"
+    },
+    {
+      "url": "https://music.yonsei.ac.kr/music/political_science02.do",
+      "sha256": "84a04ae0f74a1b737d22c0a45538f63d1998f0b315745e2236eb9e2303a3e4e2",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/extra-3ae9f973e26a66.html",
+      "locator": "对应本科课程／专业介绍分节；专业介绍；2027首尔国际专业表第46页"
+    },
+    {
+      "url": "https://music.yonsei.ac.kr/music/political_science203.do",
+      "sha256": "21985059952d6cea0bc0db325573f4040635bc40493a9693c77b64be2b306bea",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-77a97697610ac0.html",
+      "locator": "对应本科课程／专业介绍分节；专业介绍；2027首尔国际专业表第46页"
+    },
+    {
+      "url": "https://music.yonsei.ac.kr/music/political_science204.do",
+      "sha256": "34b807bf3d3dc1eda842451187470b09829063c8b34094f23c501902ee972b41",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-63a387dbcb8abf.html",
+      "locator": "对应本科课程／专业介绍分节；专业介绍；2027首尔国际专业表第46页"
+    },
+    {
+      "url": "https://music.yonsei.ac.kr/music/political_science205.do",
+      "sha256": "065872aeb8bf019bd83f2a4ae37fa79932a3adfd0c2abea6317043ab8865fc3a",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-dedeeb8b9afd16.html",
+      "locator": "对应本科课程／专业介绍分节；专业介绍；2027首尔国际专业表第46页"
+    },
+    {
+      "url": "https://che-en.yonsei.ac.kr/che_en/departments/clothing_under_sub.do",
+      "sha256": "08ac2604313030dabc49896b6a336523a03ae0b690c30cd42e73a3677075575c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-15938a677122d7.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://che-en.yonsei.ac.kr/che_en/departments/food_under_sub.do",
+      "sha256": "775899bca4c3dc641ebc31b522e126a082b531b25ce500d96476f1ef86671035",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-86750557215ae3.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://che-en.yonsei.ac.kr/che_en/interior/interior_under_sub.do",
+      "sha256": "f2d4cb4abe36bcef92aa6b4bc582d7ade0f18e42bcff4335add4b677be95ede7",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-f120d4d1329cf6.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://che-en.yonsei.ac.kr/che_en/child/child_under_sub.do",
+      "sha256": "7f7c2f920b6fc78d27c355a55a83d03321863b9398e74f7b48aa5bc1d3e6425c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/extra-1851c15dd72d42.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://che-en.yonsei.ac.kr/che_en/design/design_under_sub.do",
+      "sha256": "78d9653f1d135bf546316b3e73d575b7e21fea762cc0afb80c46816d8bb109e4",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/extra-545a8646f66554.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://eduyonsei.yonsei.ac.kr/edu_en/undergradu01.do",
+      "sha256": "01bdf774264117f135aecdad35d80b2e866a769f6e2bfea2770af4ca95b01557",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-eef95d9bdce306.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://yongei.yonsei.ac.kr/yses/edu/sports.do",
+      "sha256": "80b1d382740a2e41109d55de9af24cce0903a672b482fec139c59698abb5d8de",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/physical-education.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "https://sportindustrystudies.yonsei.ac.kr/ysis/college/college02.do",
+      "sha256": "30cbb08d9c4649fdd91b0d094d16212a3f5c4fac0f4c875362623b55a0529ddd",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-1563632f22ff2e.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://medicine.yonsei.ac.kr/medicine-en/admission/undergraduate.do",
+      "sha256": "21509b3497f30483144dd9e9cd2bac883e4def5841275aead7ee521250897e53",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/medicine-ug.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://medicine.yonsei.ac.kr/cms/etcResourceDown.do?site=%24cms%24LYUwJglgxhB2JA&key=%24cms%24MIEQCgTADBDMAEgNccJqrgfmvoBVrWsKgTA6ABwBMAzIA",
+      "sha256": "ba16139f7b654086480873a3a7e01de9b4b6b481b873fda6813f133acb27d8eb",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/medcur-f4b98b95f0.pdf",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://dentistry.yonsei.ac.kr/dentistry/education/grade.do",
+      "sha256": "06ca687c415dbdb73836ea8b4e076c7c0b4b45563da71349c9c4634336108b23",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/dentistry-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节；本科培养要求，非高中申请门槛"
+    },
+    {
+      "url": "https://nursingcollege.yonsei.ac.kr/nursing-en/education/undergraduate.do",
+      "sha256": "2d1434591d19ca173b96935b235ac65d82f328e791861c0b837b5b5db919129e",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/nursing-ug.html",
+      "locator": "ABSN段落；ABSN段落与紧随其后的YR1—4课程表；designed for students who have already obtained a bachelor’s degree in a non-nursing field；ABSN介绍，未列年度申请日程；ABSN介绍，未列费用"
+    },
+    {
+      "url": "https://pharmacy.yonsei.ac.kr/pharmacy/curriculum_2024.do",
+      "sha256": "841fe0553892f2ada2aebc231f0ceb448696e9680f0c677e43e60f3d742e5807",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/pharmacy-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节"
     },
     {
       "url": "https://mirae.yonsei.ac.kr/en_wj/2099/subview.do",
@@ -56,16 +434,244 @@
       "locator": "mirae-degrees:Wonju College of Nursing"
     },
     {
+      "url": "https://ywkll.yonsei.ac.kr/ywkll/course/basic.do",
+      "sha256": "302778d39a102954c523b516ce56fc824292a3bf913714298175d2ae8d2adbbe",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-e95d4e8b244cc6.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://admission.yonsei.ac.kr/mirae/upload/guide/20260721162712CKUQKF.PDF",
+      "sha256": "c63c55f2f1fafacc1a063fde2cfec37f591876496302c6e277b101ab80d75e30",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae2027.pdf",
+      "locator": "PDF第11页／印刷第8页招生表及脚注，已核图像；PDF第7—8、12页；PDF第7、12页，已核图像；PDF第4、13页；PDF第4页缴费安排"
+    },
+    {
       "url": "https://engys.yonsei.ac.kr/engys/undergraduate/curriculum_undergraduate_basic_sophomore.do",
       "sha256": "20cab94af9dde8928d717683c7593d7fd96ecba090d024281f78359b54cedc7b",
       "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-9e5eaad85b1cc768c7.html",
-      "locator": "undergraduate curriculum / course list"
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://yhc.yonsei.ac.kr/yhc/intro/intro.do",
+      "sha256": "f3b5e428a1d221df45a5c2a7404832dbe29504443dcb12c425e49bbc4f9f527a",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/extra-3146c45278e006.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "https://sofia.yonsei.ac.kr/sofia/intro/department.do",
+      "sha256": "ad7f012fad50e8159bab29a6d0963779fca2bd7c3ebb303309b6ac6b7ecf466c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/extra-a107b3ba69855c.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://sofia.yonsei.ac.kr/sofia/intro/course.do",
+      "sha256": "56ba9641568b0490b32cd9550d2b88ae5cc615a9babb86fa73f41a47034981bf",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-e08e1d241bb10b.html",
+      "locator": "职业／毕业资料分节"
+    },
+    {
+      "url": "https://ywis.yonsei.ac.kr/msb/intro/course.do",
+      "sha256": "9b2f11af55258093f7ebbd273920ba85a7ffc3de26d8f2ec3f0ca68c9af3e018",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-business-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://econ.yonsei.ac.kr/econ/course/curriculum01.do",
+      "sha256": "f6934c216929687ea1def69f60ecee99200b0f385e0f6f9a3da9ae19e890e23d",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-a6e3e2475866ad.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://gpad.yonsei.ac.kr/gpad/21INFO.do",
+      "sha256": "8f29324d6de29142a701b5b424d3a3a1625d8c1f43629e8d5be28be72fb8ee8c",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-16896dbfb7fa1cf01f.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://ir.yonsei.ac.kr/yir/education/2020copyunder_scholarshipp.do",
+      "sha256": "f5c68d27857e15882eb0c338adee9dcb307b7f2cfe7434d4064987c09197f748",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-55e6b677cee5e1.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://eic.yonsei.ac.kr/eic/intro/eic_new_plan4.do",
+      "sha256": "a8a55057b9542073573c4b9a7511f6ee02dde67c02ecf13e5ce55d1bfc4c1477",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-eic-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://ycms.yonsei.ac.kr/id/intro/industry.do",
+      "sha256": "9c1692d22a94f9435e7e8fa5d9cb4b62bd975d0e25207829f23a0111359bc9fe",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-b669b6560ce702.html",
+      "locator": "对应本科课程／专业介绍分节"
     },
     {
       "url": "https://vd.yonsei.ac.kr/vd/curriculum/bachelor.do",
       "sha256": "599d6684caebb210204f64d8a5014b3836aed99e6056f5bdaced12b5a2544a4e",
-      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/curriculum-40c46db711a260e61f.html",
-      "locator": "undergraduate curriculum / course list"
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-40c46db711a260.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://da.yonsei.ac.kr/da/curriculum/bachelor.do",
+      "sha256": "5cd1b80551b99e2f7bc8b409745ae76cce91e617937409d1a353d5fcb63d39fa",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-4067b5882a0ade.html",
+      "locator": "本科课程图：技术基础／深化／应用"
+    },
+    {
+      "url": "https://da.yonsei.ac.kr/_res/da/img/main/IMG_curri.png",
+      "sha256": "33d86e848c01269f35dfa68e9be7b75f3fd53890fdb2cfc8f71b40ff8abce2bc",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/digital-art-curric.png",
+      "locator": "本科课程图：技术基础／深化／应用"
+    },
+    {
+      "url": "https://phys.yonsei.ac.kr/ymphys/phys/basic.do",
+      "sha256": "742eb03388b528bcb79baf5fc7b544ce4a3b3b83d0868aa163078284361d9890",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-phys-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://chemistry.yonsei.ac.kr/chemistry/campus/courses01.do",
+      "sha256": "fc80069a7ed7cfc0e22342c603008dc373bd2e57797379bfc16cd29a4f653bb3",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-dc9a486ce70c18.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://bst.yonsei.ac.kr/ymbst21/under-grad/curriculum01.do",
+      "sha256": "1ccb7fec1038ae43a33d1705e6b4d7f38ecb6b9e3604e776f38fee50673e04fd",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-bst-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://pkg.yonsei.ac.kr/pkg/undergraduate/curriculum.do",
+      "sha256": "c40492bbcb5a0a1b258608b2ddebec289f5f0c65a14b61008ce025c860cdc94f",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-pkg-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://envi.yonsei.ac.kr/envi/life/1curriculum.do",
+      "sha256": "034aa175cd107d9af956a2e32c253b5547299bc7c9e8ae03b763bcf2f53152b6",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-e75fa5b63394d1.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://aisemi.yonsei.ac.kr/aisemi/AIsemi03.do",
+      "sha256": "079cd5748633f9b76d0859f3249dd989fa1e85fa630325727c1004bda4285c28",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/aisemi-roadmap.html",
+      "locator": "专业路线图图片：基础／融合／深化／应用"
+    },
+    {
+      "url": "https://aisemi.yonsei.ac.kr/_res/aisemi/img/%EC%A0%84%EA%B3%B5%EB%A1%9C%EB%93%9C_%EB%A7%B5.png",
+      "sha256": "34930cdb7f9cc619e3ffd0a40468a4d05800425563e9244a0a79d07e7888374c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/aisemi-roadmap-image.png",
+      "locator": "专业路线图图片：基础／融合／深化／应用"
+    },
+    {
+      "url": "https://sw.yonsei.ac.kr/introduce",
+      "sha256": "7e2c34701e1dfefc8ad0e24aaff16f6f6f7fe47090beb2605a21ab3b3c71e076",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/software-curl.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://infostat.yonsei.ac.kr/infostat/admission/class03.do",
+      "sha256": "ed45cd525c87ae5f4c7e37bba31eab0938aed5306f56cb2becbb583bcb69eb9f",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-55607b3ed54bd5.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://dhc.yonsei.ac.kr/dhc/education/under_course01.do",
+      "sha256": "c446cd08257b12d30afb429ef2a6e45894aabb2147be93014c9c77ee627c93db",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-b363959ce9def9.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://bme.yonsei.ac.kr/ymbme/undergrad/subject_bme.do",
+      "sha256": "11c8cdd572924510a1ef2e8fcde81e81ffb3505108ae2e6c1d06317009d30f5e",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-bme-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://white.yonsei.ac.kr/white/intro/course01.do",
+      "sha256": "d6784d9acb65b274ee07a2f42fc7fbfc620a2a75f029535ee615d70cd610aae8",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-420f24c8500fbc.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://bmls.yonsei.ac.kr/bmls/life/course.do",
+      "sha256": "b9a791e1d2da5a69f3cad70756d05d5e39d58b8efcbf235a806361e61518664c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-c0be461299b292.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://yspt.yonsei.ac.kr/yspt_n/undergraduate/subjects.do",
+      "sha256": "dad7d8270cc4b82732b703147ebd6214111feb95c0877b6d159cab6ca2b64f2e",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-pt-curriculum.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://ot.yonsei.ac.kr/ot/intro/occupational-therapy.do",
+      "sha256": "0949d2f04d782c896f83b0c409498a4778ee803d4b62b28fb35ecb26c6f4ee1a",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/extra-29ebc70a8bbd3c.html",
+      "locator": "对应本科课程／专业介绍分节；职业／毕业资料分节"
+    },
+    {
+      "url": "https://rad.yonsei.ac.kr/department/process.php",
+      "sha256": "97f68bc0721ef319182a2cdf167165b28bf7b04a56bb9b1100fe6bebc29a9594",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-7a3ed888415f40.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://ydh.yonsei.ac.kr/ydh/subjects.do",
+      "sha256": "d50b373b293a223b3da659162df2a67b8fd0997d092642beac8f344e6bb70782",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-201fa036895cff.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://hs.yonsei.ac.kr/hs/about/intro.do",
+      "sha256": "6b9499d15cd1df50b408ff30a380214f2c72bb734b2380e04ff9b1117561a990",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-9269969bc3e348.html",
+      "locator": "对应本科课程／专业介绍分节；项目介绍"
+    },
+    {
+      "url": "https://ywis.yonsei.ac.kr/ymged21/intro/new_plan4.do",
+      "sha256": "8c14d32c1c6eb22fe926b8f49ee4cc9bef401888170615df34d1f365cdf295d4",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/globalelite-curric.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://yssemi.yonsei.ac.kr/semisys/about/major_systemsemi.do",
+      "sha256": "ff88d3604526fbfa5209c6788ec7579ff774a806996094d14baa1cee23e8774c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-27876de5dd92c9.html",
+      "locator": "对应本科课程／专业介绍分节；项目介绍"
+    },
+    {
+      "url": "https://yssemi.yonsei.ac.kr/semisys/about/intro_greeting.do",
+      "sha256": "4a2a2c91b3c12e55b34db68b2680ebd76e6e939cb7e6a8e2169048c9a029b1f6",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/detail-19687044a3d0a7.html",
+      "locator": "对应本科课程／专业介绍分节；项目介绍"
+    },
+    {
+      "url": "https://medical.yonsei.ac.kr/medical/540/subview.do",
+      "sha256": "4a62d1645a873ba2dd10896d761ac805c4510db11050b0c2cda11cd8db9fe8a6",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-med-track.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://medical.yonsei.ac.kr/bbs/medical/2/11337/artclView.do",
+      "sha256": "a8110619f6b428bb44c456855edfe5406eb57c4d0c0ce0afdd83e62ff2172525",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-med-exam2026.html",
+      "locator": "职业／毕业资料分节"
+    },
+    {
+      "url": "https://www.kuksiwon.or.kr/notice/brd/m_51/view.do?company_cd=&company_nm=&etc1=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&seq=3765&srchFr=&srchTo=&srchTp=&srchWord=",
+      "sha256": "76fe33f463907c217dedd516b516f56dfbf1a102cd36b871e4062b95c6b6caf5",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/kuksiwon-exam2026.web.txt",
+      "locator": "职业／毕业资料分节"
+    },
+    {
+      "url": "https://nursing.yonsei.ac.kr/public/docs/2026학년도 교육과정표_2602.pdf",
+      "sha256": "068034aadd37ac82265b7ea313342feda33623f218fec14ec81dccbe4a1ca3a7",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/mirae-nursing2026.pdf",
+      "locator": "2026入学生课程表，第1页"
     },
     {
       "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_01_01",
@@ -74,10 +680,256 @@
       "locator": "UIC:Bio-Convergence (BC)"
     },
     {
+      "url": "https://uic.yonsei.ac.kr/about.php?mid=m01_01_01",
+      "sha256": "07ce0cd9cd2e14ff203d722e7e823397ea369435b1c63cae50a3c8cc83f33eb4",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-about.html",
+      "locator": "Overview；UIC Campuses"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/about.php?mid=m01_03",
+      "sha256": "2348049b8b8094a6f67fea0584739415511db3798862da93704bfafa4c9741a6",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-campuses.html",
+      "locator": "Overview；UIC Campuses"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/admission.php?mid=m04_02_02",
+      "sha256": "ff78722bc0554e3903eb18cbc947a8e692033119f0e646fbda0583ece8d30faf",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-admission-intl.html",
+      "locator": "Eligibility；Required Documents；For Academic Year 2027；Required Documents；Evaluation；Admissions Timeline；Application Fee；Fall Semester 2027 Second Round"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/admission.php?mid=m04_03",
+      "sha256": "7130b923878a402fe734098fa4c210363a8e735534bb5a2613e497fba2cade37",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/uic-fees.html",
+      "locator": "International students；Admission scholarship"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/career.php?mid=m06_01_01",
+      "sha256": "2019ffc87ca303fcfcb72b31e52278a9853738ea01d8d2f34840f43417b0cdee",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-career.html",
+      "locator": "Services"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_01&rid=1",
+      "sha256": "41950ecc13190e509d3486d8c0146d324d2b1c6e799aa2133cb0fa2db96c0839",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-degree-1.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_01_02",
+      "sha256": "af5f454f33e52dd401b8d2b3a91447ffe140405f85a281f401d941e3b02d7e73",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-090b3245969438ffff00.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_01&rid=2",
+      "sha256": "95680de7448b3919ae6104371f03fc95bff01f8fa17b4ec23473506ae9b1dc9c",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-degree-2.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_01_03",
+      "sha256": "3687c1a0199b58840a7f895fe52f6c8b523b14775dc5e8568e032106e03bb82b",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-8d248f9342869c815e67.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_01&rid=3",
+      "sha256": "ba37bd95ec65a8e3702bb9c33cb1c1dd4d9a8797b0fce6c4c99c9efd55c0954d",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-degree-3.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_01_04",
+      "sha256": "8d3841551e11518f82371e19646fcbb60dffff8de370a86a40887eab3f599b61",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-02303ec65e42a92be0ec.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_01&rid=4",
+      "sha256": "87ccd0d3cce1fb888e961109b7dd847d342093e957cd84413445dd65e2c00ace",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-degree-4.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_01_05",
+      "sha256": "b4624996fdf3110265bbe94af932de91d45e8b93eb88947a30d9dc2a3e39c5a9",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-f32f5fc7996fcb4d150b.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_01&rid=5",
+      "sha256": "eff4af47c7bcf4579415528d5acd5758151c11ce4c873ef78702d612ad9938ae",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-degree-5.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_01",
+      "sha256": "aca12795f9d37d8b74a9b0e2df70f659f027100f2c54df504e5555d26f7ed3a2",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-humanities-arts-and-social-sciences-division-hassd-.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_02&rid=7",
+      "sha256": "b9c5cac406895a244580262d696f2ac857b4dc6aa32364cea182648de8ada955",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req-hass-7.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_02",
+      "sha256": "d26070c92b5c0ba0a1317531a56ac965ad9503811f4f0b220287915551338f03",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-694cba5c4ce4c166ec13.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_02&rid=9",
+      "sha256": "0d2e81034e41c842cf41db8f895cefebb3275a2f581ba3c0928bd81fa5e55239",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req-hass-9.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_03",
+      "sha256": "747c7433235fb82da0520bc31049a10bc4680a617f3d2312b357f35900fa5cd6",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-0f4a779119f7ea103e71.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_02&rid=11",
+      "sha256": "1137d692b3995631bbf2dfbff49cf5183abfaae8a26cbb1d54f6e50983a0e57b",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req-hass-11.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_04",
+      "sha256": "a7c532810c6d56828859cd8a3cc4bd0dde98965a36ce2107ebac0f2cb2f0c95e",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-3e3994bd3edfadca625f.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_02&rid=13",
+      "sha256": "a9d8b6c80bc8e447473fb4daae35a632cd58df92032e0c8de159bce9a384ae23",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req-hass-13.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_05",
+      "sha256": "5e5be846b8c2fe19536b9aa6ba39cac66a47b8f6146eea44497d6d6fef6b6e7d",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-c3b7d8eac359b97950df.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_02&rid=15",
+      "sha256": "23e0617d90929bb951b4e8e17f62808915340349ee2ccb21c6a3ab3eec517235",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req-hass-15.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_06",
+      "sha256": "23a8d945aa9ef029799695b71a42a4f35795437f443a08b7fb10cafa894fadbf",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-6bdf52eed673df790698.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_02&rid=17",
+      "sha256": "3c9a08f0fe872157422ec213132533b0707bceb93a2d1280b0924dd91be6dbab",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req-hass-17.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_07",
+      "sha256": "faa9e6ae969a300274e1b88e763b0c61c14c188bfbf46efd98a1261ce48f5475",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-6fbc94f2bde35a616503.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_02&rid=19",
+      "sha256": "3e0bf9a951e2942b7665308911bda9149ce2afab14d50c126d0996cc7b4eafc9",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req-hass-19.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_08",
+      "sha256": "7279e049368ba29a0b830a0521987b18b0852483d544aae3d8e8eb0046993ee8",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-0b0e4eb5bffbbe8b8c2b.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_02&rid=21",
+      "sha256": "3b35014d4d9143e5499a8b202042a5cda7d06dcb86a33de693b13a663d78e18e",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req-hass-21.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_03_01",
+      "sha256": "ce4ca9a671306ce88a114d2b8fc1cf42eff3415d1eeedd04c4f192b52b536d6a",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-integrated-science-and-engineering-division-ised-.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_03&rid=23",
+      "sha256": "d14191fad7e5fc7a872c319e83bdee09faa9f1c6aaf5367755d8eee42e7b0d85",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req--ise-23.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_03_02",
+      "sha256": "cb39e38defc1f3f47a8e90d50062efd854a37b7d59208209465d0b92e93ae20a",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-d512d11e2f4ed62cd6a7.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_03&rid=25",
+      "sha256": "ea018b78e09a36f52806428824c2d93b0b50a6ed935ce96a7334a8afc2621540",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req--ise-25.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_03_03",
+      "sha256": "adcad1b60c4d19549aeb5be088e4a65a38798bf95febc33368f96d3ce588a5ad",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-0ef854e5519a65dfa1d7.html",
+      "locator": "对应本科课程／专业介绍分节"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/downloadfile.php?mid=m02_06_03&rid=27",
+      "sha256": "b9c3c066c706dae26733454a81121a175152749077cbb3856fd76ed6a81fe931",
+      "raw_file": "scratch/full-catalog/yonsei-enrichment/raw/uic-req--ise-27.pdf",
+      "locator": "PDF第2页，Major Graduation Requirements最新入学栏及脚注；已核图像"
+    },
+    {
       "url": "https://glc.yonsei.ac.kr/en/homeen/",
       "sha256": "d228ebcde2c7fe6d8ce4abf42e670ea608b05b10d28f6f34381391b3a8f47801",
       "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-global-leaders-college.html",
       "locator": "GLC:Applied Information Engineering"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/en/icm/",
+      "sha256": "fdc0c076c39a30dcf7b4d40157d323292270d14eb8a5ff745804d4c66542ac68",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-international-commerce.html",
+      "locator": "对应本科课程／专业介绍分节；课程表Year1—4；简章第50、63页；职业／毕业资料分节"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/krcem/",
+      "sha256": "e1c62012b8e5e455442898f6a96e7600d613b900cbb7793e712362ebeb74f67c",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-korean-language-culture-education.html",
+      "locator": "对应本科课程／专业介绍分节；课程表Year1—4；简章第50、63页；职业／毕业资料分节"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/cmm/",
+      "sha256": "42a66fb5f2b17bd51eef305c25bbbe7121f3ef7359dbaad8992976962820aa13",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-cultural-media.html",
+      "locator": "对应本科课程／专业介绍分节；课程表Year1—4；简章第50、63页；职业／毕业资料分节"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/bioliving/",
+      "sha256": "e18a4f4b0c82e5d3dc2de478a8b020e509def1972aa096e90304e3b6547564c9",
+      "raw_file": "scratch/full-catalog/asia-rest-enrichment/yonsei/raw/detail-ac99a0fda8ff186fd553.html",
+      "locator": "对应本科课程／专业介绍分节；课程表Year1—4；简章第50、63页；职业／毕业资料分节"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/aiem/",
+      "sha256": "a5696a56fb2c7411b7a55ec2c1e7a593130acf58db7b46e125cda6039efcce20",
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-applied-information-engineering.html",
+      "locator": "对应本科课程／专业介绍分节；课程表Year1—4；简章第50、63页；职业／毕业资料分节"
     }
   ]
 }
