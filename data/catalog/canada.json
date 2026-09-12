@@ -1,0 +1,87 @@
+{
+  "country": {
+    "id": "canada",
+    "name": "加拿大",
+    "name_en": "Canada",
+    "qs_location": "Canada"
+  },
+  "universities": [
+    {
+      "name_en": "McGill University",
+      "id": "mcgill",
+      "name": "麦吉尔大学",
+      "aliases": [
+        "McGill",
+        "麦基尔大学"
+      ],
+      "website": "https://www.mcgill.ca/",
+      "website_source_url": "https://www.mcgill.ca/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "McGill University",
+      "country_id": "canada",
+      "city": "Montreal",
+      "qs_rank": 30,
+      "qs_rank_display": "30",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Toronto",
+      "id": "toronto",
+      "name": "多伦多大学",
+      "aliases": [
+        "U of T",
+        "UofT",
+        "University of Toronto"
+      ],
+      "website": "https://www.utoronto.ca/",
+      "website_source_url": "https://www.utoronto.ca/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Toronto",
+      "country_id": "canada",
+      "city": "Toronto",
+      "qs_rank": 32,
+      "qs_rank_display": "32",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of British Columbia",
+      "id": "ubc",
+      "name": "英属哥伦比亚大学",
+      "aliases": [
+        "UBC",
+        "University of British Columbia",
+        "不列颠哥伦比亚大学"
+      ],
+      "website": "https://www.ubc.ca/",
+      "website_source_url": "https://www.ubc.ca/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of British Columbia",
+      "country_id": "canada",
+      "city": "Vancouver",
+      "qs_rank": 45,
+      "qs_rank_display": "=45",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Alberta",
+      "id": "alberta",
+      "name": "阿尔伯塔大学",
+      "aliases": [
+        "阿尔伯达大学",
+        "阿大",
+        "UAlberta",
+        "University of Alberta"
+      ],
+      "website": "https://www.ualberta.ca/en/index.html",
+      "website_source_url": "https://study.alberta.ca/plan-your-studies/universities-colleges-technical-institutes/universities/university-of-alberta/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Alberta",
+      "country_id": "canada",
+      "city": "Edmonton",
+      "qs_rank": 96,
+      "qs_rank_display": "96",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

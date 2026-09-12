@@ -1,0 +1,30 @@
+{
+  "country": {
+    "id": "italy",
+    "name": "意大利",
+    "name_en": "Italy",
+    "qs_location": "Italy"
+  },
+  "universities": [
+    {
+      "name_en": "Politecnico di Milano",
+      "id": "polimi",
+      "name": "米兰理工大学",
+      "aliases": [
+        "Polimi",
+        "Politecnico di Milano",
+        "Polytechnic University of Milan"
+      ],
+      "website": "https://www.polimi.it/en/",
+      "website_source_url": "https://www.polimi.it/en/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Politecnico di Milano",
+      "country_id": "italy",
+      "city": "Milan",
+      "qs_rank": 87,
+      "qs_rank_display": "=87",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

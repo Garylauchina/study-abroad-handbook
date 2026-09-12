@@ -1,0 +1,31 @@
+{
+  "country": {
+    "id": "argentina",
+    "name": "阿根廷",
+    "name_en": "Argentina",
+    "qs_location": "Argentina"
+  },
+  "universities": [
+    {
+      "name_en": "Universidad de Buenos Aires (UBA)",
+      "id": "uba",
+      "name": "布宜诺斯艾利斯大学",
+      "aliases": [
+        "布宜诺斯爱丽斯大学",
+        "UBA",
+        "Universidad de Buenos Aires",
+        "University of Buenos Aires"
+      ],
+      "website": "https://www.uba.ar/",
+      "website_source_url": "https://www.uba.ar/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Universidad de Buenos Aires (UBA)",
+      "country_id": "argentina",
+      "city": "Ciudad Autónoma de Bs. A.",
+      "qs_rank": 84,
+      "qs_rank_display": "84",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

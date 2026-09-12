@@ -51,36 +51,256 @@ extra:
 nav:
   - 大学与专业: index.md
   # CATALOG_NAV_START
-  - 英国:
-      - 大学列表: catalog/uk/index.md
-      - 谢菲尔德大学:
-          - 大学概览: catalog/uk/sheffield/index.md
-          - 计算机科学: catalog/uk/sheffield/sheffield-computer-science-bsc/index.md
-          - 经济学: catalog/uk/sheffield/sheffield-economics-bsc/index.md
-      - 曼彻斯特大学:
-          - 大学概览: catalog/uk/manchester/index.md
-          - 计算机科学: catalog/uk/manchester/manchester-computer-science-bsc/index.md
-          - 管理学: catalog/uk/manchester/manchester-management-bsc/index.md
-  - 澳大利亚:
-      - 大学列表: catalog/australia/index.md
-      - 蒙纳士大学:
-          - 大学概览: catalog/australia/monash/index.md
-          - 计算机科学学士: catalog/australia/monash/monash-computer-science/index.md
-          - 商学学士: catalog/australia/monash/monash-commerce/index.md
-      - 新南威尔士大学:
-          - 大学概览: catalog/australia/unsw/index.md
-          - 计算机科学理学学士: catalog/australia/unsw/unsw-computer-science/index.md
-          - 商学学士: catalog/australia/unsw/unsw-commerce/index.md
-  - 新加坡:
-      - 大学列表: catalog/singapore/index.md
-      - 新加坡国立大学:
-          - 大学概览: catalog/singapore/nus/index.md
-          - 计算机科学（荣誉）: catalog/singapore/nus/nus-computer-science/index.md
-          - 工商管理（荣誉）: catalog/singapore/nus/nus-business-administration/index.md
-      - 南洋理工大学:
-          - 大学概览: catalog/singapore/ntu/index.md
-          - 计算机科学（荣誉）: catalog/singapore/ntu/ntu-computer-science/index.md
-          - 商学（荣誉，单主修）: catalog/singapore/ntu/ntu-business/index.md
+  - 国家与地区:
+      - 全部国家和地区: catalog/index.md
+      - 英国:
+          - 大学列表: catalog/uk/index.md
+          - 帝国理工学院:
+              - 大学概览: catalog/uk/imperial/index.md
+          - 牛津大学:
+              - 大学概览: catalog/uk/oxford/index.md
+          - 剑桥大学:
+              - 大学概览: catalog/uk/cambridge/index.md
+          - 伦敦大学学院:
+              - 大学概览: catalog/uk/ucl/index.md
+          - 爱丁堡大学:
+              - 大学概览: catalog/uk/edinburgh/index.md
+          - 伦敦国王学院:
+              - 大学概览: catalog/uk/kcl/index.md
+          - 曼彻斯特大学:
+              - 大学概览: catalog/uk/manchester/index.md
+              - 计算机科学: catalog/uk/manchester/manchester-computer-science-bsc/index.md
+              - 管理学: catalog/uk/manchester/manchester-management-bsc/index.md
+          - 布里斯托大学:
+              - 大学概览: catalog/uk/bristol/index.md
+          - 伦敦政治经济学院:
+              - 大学概览: catalog/uk/lse/index.md
+          - 伯明翰大学:
+              - 大学概览: catalog/uk/birmingham/index.md
+          - 华威大学:
+              - 大学概览: catalog/uk/warwick/index.md
+          - 利兹大学:
+              - 大学概览: catalog/uk/leeds/index.md
+          - 格拉斯哥大学:
+              - 大学概览: catalog/uk/glasgow/index.md
+          - 谢菲尔德大学:
+              - 大学概览: catalog/uk/sheffield/index.md
+              - 计算机科学: catalog/uk/sheffield/sheffield-computer-science-bsc/index.md
+              - 经济学: catalog/uk/sheffield/sheffield-economics-bsc/index.md
+          - 杜伦大学:
+              - 大学概览: catalog/uk/durham/index.md
+          - 诺丁汉大学:
+              - 大学概览: catalog/uk/nottingham/index.md
+      - 澳大利亚:
+          - 大学列表: catalog/australia/index.md
+          - 新南威尔士大学:
+              - 大学概览: catalog/australia/unsw/index.md
+              - 商学学士: catalog/australia/unsw/unsw-commerce/index.md
+              - 计算机科学理学学士: catalog/australia/unsw/unsw-computer-science/index.md
+          - 墨尔本大学:
+              - 大学概览: catalog/australia/melbourne/index.md
+          - 悉尼大学:
+              - 大学概览: catalog/australia/sydney/index.md
+          - 澳大利亚国立大学:
+              - 大学概览: catalog/australia/anu/index.md
+          - 蒙纳士大学:
+              - 大学概览: catalog/australia/monash/index.md
+              - 商学学士: catalog/australia/monash/monash-commerce/index.md
+              - 计算机科学学士: catalog/australia/monash/monash-computer-science/index.md
+          - 昆士兰大学:
+              - 大学概览: catalog/australia/queensland/index.md
+          - 西澳大学:
+              - 大学概览: catalog/australia/uwa/index.md
+          - 阿德莱德大学:
+              - 大学概览: catalog/australia/adelaide-university/index.md
+          - 悉尼科技大学:
+              - 大学概览: catalog/australia/uts/index.md
+      - 新加坡:
+          - 大学列表: catalog/singapore/index.md
+          - 新加坡国立大学:
+              - 大学概览: catalog/singapore/nus/index.md
+              - 工商管理（荣誉）: catalog/singapore/nus/nus-business-administration/index.md
+              - 计算机科学（荣誉）: catalog/singapore/nus/nus-computer-science/index.md
+          - 南洋理工大学:
+              - 大学概览: catalog/singapore/ntu/index.md
+              - 商学（荣誉，单主修）: catalog/singapore/ntu/ntu-business/index.md
+              - 计算机科学（荣誉）: catalog/singapore/ntu/ntu-computer-science/index.md
+      - 美国:
+          - 大学列表: catalog/usa/index.md
+          - 麻省理工学院:
+              - 大学概览: catalog/usa/mit/index.md
+          - 斯坦福大学:
+              - 大学概览: catalog/usa/stanford/index.md
+          - 哈佛大学:
+              - 大学概览: catalog/usa/harvard/index.md
+          - 加州理工学院:
+              - 大学概览: catalog/usa/caltech/index.md
+          - 宾夕法尼亚大学:
+              - 大学概览: catalog/usa/upenn/index.md
+          - 康奈尔大学:
+              - 大学概览: catalog/usa/cornell/index.md
+          - 耶鲁大学:
+              - 大学概览: catalog/usa/yale/index.md
+          - 约翰斯·霍普金斯大学:
+              - 大学概览: catalog/usa/jhu/index.md
+          - 加利福尼亚大学伯克利分校:
+              - 大学概览: catalog/usa/berkeley/index.md
+          - 芝加哥大学:
+              - 大学概览: catalog/usa/uchicago/index.md
+          - 普林斯顿大学:
+              - 大学概览: catalog/usa/princeton/index.md
+          - 哥伦比亚大学:
+              - 大学概览: catalog/usa/columbia/index.md
+          - 西北大学（美国）:
+              - 大学概览: catalog/usa/northwestern/index.md
+          - 加利福尼亚大学洛杉矶分校:
+              - 大学概览: catalog/usa/ucla/index.md
+          - 密歇根大学安娜堡分校:
+              - 大学概览: catalog/usa/michigan/index.md
+          - 卡内基梅隆大学:
+              - 大学概览: catalog/usa/cmu/index.md
+          - 纽约大学:
+              - 大学概览: catalog/usa/nyu/index.md
+          - 布朗大学:
+              - 大学概览: catalog/usa/brown/index.md
+          - 杜克大学:
+              - 大学概览: catalog/usa/duke/index.md
+          - 得克萨斯大学奥斯汀分校:
+              - 大学概览: catalog/usa/ut-austin/index.md
+          - 伊利诺伊大学厄巴纳香槟分校:
+              - 大学概览: catalog/usa/uiuc/index.md
+          - 加利福尼亚大学圣迭戈分校:
+              - 大学概览: catalog/usa/ucsd/index.md
+          - 宾夕法尼亚州立大学:
+              - 大学概览: catalog/usa/penn-state/index.md
+          - 华盛顿大学:
+              - 大学概览: catalog/usa/washington/index.md
+          - 波士顿大学:
+              - 大学概览: catalog/usa/boston/index.md
+          - 普渡大学:
+              - 大学概览: catalog/usa/purdue/index.md
+      - 加拿大:
+          - 大学列表: catalog/canada/index.md
+          - 麦吉尔大学:
+              - 大学概览: catalog/canada/mcgill/index.md
+          - 多伦多大学:
+              - 大学概览: catalog/canada/toronto/index.md
+          - 英属哥伦比亚大学:
+              - 大学概览: catalog/canada/ubc/index.md
+          - 阿尔伯塔大学:
+              - 大学概览: catalog/canada/alberta/index.md
+      - 中国香港:
+          - 大学列表: catalog/hong-kong/index.md
+          - 香港大学:
+              - 大学概览: catalog/hong-kong/hku/index.md
+          - 香港中文大学:
+              - 大学概览: catalog/hong-kong/cuhk/index.md
+          - 香港科技大学:
+              - 大学概览: catalog/hong-kong/hkust/index.md
+          - 香港理工大学:
+              - 大学概览: catalog/hong-kong/polyu/index.md
+          - 香港城市大学:
+              - 大学概览: catalog/hong-kong/cityuhk/index.md
+      - 阿根廷:
+          - 大学列表: catalog/argentina/index.md
+          - 布宜诺斯艾利斯大学:
+              - 大学概览: catalog/argentina/uba/index.md
+      - 比利时:
+          - 大学列表: catalog/belgium/index.md
+          - 鲁汶大学:
+              - 大学概览: catalog/belgium/ku-leuven/index.md
+      - 丹麦:
+          - 大学列表: catalog/denmark/index.md
+          - 哥本哈根大学:
+              - 大学概览: catalog/denmark/copenhagen/index.md
+      - 法国:
+          - 大学列表: catalog/france/index.md
+          - 巴黎文理大学:
+              - 大学概览: catalog/france/psl/index.md
+          - 巴黎理工学院:
+              - 大学概览: catalog/france/ip-paris/index.md
+          - 索邦大学:
+              - 大学概览: catalog/france/sorbonne/index.md
+          - 巴黎萨克雷大学:
+              - 大学概览: catalog/france/paris-saclay/index.md
+      - 德国:
+          - 大学列表: catalog/germany/index.md
+          - 慕尼黑工业大学:
+              - 大学概览: catalog/germany/tum/index.md
+          - 慕尼黑大学:
+              - 大学概览: catalog/germany/lmu-munich/index.md
+          - 海德堡大学:
+              - 大学概览: catalog/germany/heidelberg/index.md
+          - 柏林自由大学:
+              - 大学概览: catalog/germany/fu-berlin/index.md
+      - 爱尔兰:
+          - 大学列表: catalog/ireland/index.md
+          - 都柏林圣三一大学:
+              - 大学概览: catalog/ireland/trinity-dublin/index.md
+          - 都柏林大学:
+              - 大学概览: catalog/ireland/ucd/index.md
+      - 意大利:
+          - 大学列表: catalog/italy/index.md
+          - 米兰理工大学:
+              - 大学概览: catalog/italy/polimi/index.md
+      - 日本:
+          - 大学列表: catalog/japan/index.md
+          - 东京大学:
+              - 大学概览: catalog/japan/tokyo/index.md
+          - 京都大学:
+              - 大学概览: catalog/japan/kyoto/index.md
+          - 大阪大学:
+              - 大学概览: catalog/japan/osaka/index.md
+          - 东京科学大学:
+              - 大学概览: catalog/japan/science-tokyo/index.md
+      - 马来西亚:
+          - 大学列表: catalog/malaysia/index.md
+          - 马来亚大学:
+              - 大学概览: catalog/malaysia/malaya/index.md
+      - 荷兰:
+          - 大学列表: catalog/netherlands/index.md
+          - 代尔夫特理工大学:
+              - 大学概览: catalog/netherlands/tu-delft/index.md
+          - 阿姆斯特丹大学:
+              - 大学概览: catalog/netherlands/amsterdam/index.md
+      - 新西兰:
+          - 大学列表: catalog/new-zealand/index.md
+          - 奥克兰大学:
+              - 大学概览: catalog/new-zealand/auckland/index.md
+      - 沙特阿拉伯:
+          - 大学列表: catalog/saudi-arabia/index.md
+          - 法赫德国王石油与矿业大学:
+              - 大学概览: catalog/saudi-arabia/kfupm/index.md
+      - 韩国:
+          - 大学列表: catalog/south-korea/index.md
+          - 首尔大学:
+              - 大学概览: catalog/south-korea/snu/index.md
+          - 延世大学:
+              - 大学概览: catalog/south-korea/yonsei/index.md
+          - 高丽大学:
+              - 大学概览: catalog/south-korea/korea-university/index.md
+          - 韩国科学技术院:
+              - 大学概览: catalog/south-korea/kaist/index.md
+      - 瑞典:
+          - 大学列表: catalog/sweden/index.md
+          - 隆德大学:
+              - 大学概览: catalog/sweden/lund/index.md
+          - 瑞典皇家理工学院:
+              - 大学概览: catalog/sweden/kth/index.md
+          - 乌普萨拉大学:
+              - 大学概览: catalog/sweden/uppsala/index.md
+      - 瑞士:
+          - 大学列表: catalog/switzerland/index.md
+          - 苏黎世联邦理工学院:
+              - 大学概览: catalog/switzerland/eth-zurich/index.md
+          - 洛桑联邦理工学院:
+              - 大学概览: catalog/switzerland/epfl/index.md
+          - 苏黎世大学:
+              - 大学概览: catalog/switzerland/uzh/index.md
+      - 中国台湾:
+          - 大学列表: catalog/taiwan/index.md
+          - 台湾大学:
+              - 大学概览: catalog/taiwan/ntu-taiwan/index.md
   # CATALOG_NAV_END
   - 申请工具:
       - 全程预算计算器: tools/budget.md

@@ -1,0 +1,67 @@
+{
+  "country": {
+    "id": "sweden",
+    "name": "瑞典",
+    "name_en": "Sweden",
+    "qs_location": "Sweden"
+  },
+  "universities": [
+    {
+      "name_en": "Lund University",
+      "id": "lund",
+      "name": "隆德大学",
+      "aliases": [
+        "Lund University",
+        "Lunds universitet"
+      ],
+      "website": "https://www.lunduniversity.lu.se/",
+      "website_source_url": "https://www.lunduniversity.lu.se/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Lund University",
+      "country_id": "sweden",
+      "city": "Lund",
+      "qs_rank": 71,
+      "qs_rank_display": "71",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "KTH Royal Institute of Technology",
+      "id": "kth",
+      "name": "瑞典皇家理工学院",
+      "aliases": [
+        "皇家理工学院",
+        "KTH",
+        "KTH Royal Institute of Technology",
+        "Kungliga Tekniska högskolan"
+      ],
+      "website": "https://www.kth.se/en",
+      "website_source_url": "https://www.kth.se/en",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "KTH Royal Institute of Technology",
+      "country_id": "sweden",
+      "city": "Stockholm",
+      "qs_rank": 82,
+      "qs_rank_display": "=82",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Uppsala University",
+      "id": "uppsala",
+      "name": "乌普萨拉大学",
+      "aliases": [
+        "Uppsala University",
+        "Uppsala universitet"
+      ],
+      "website": "https://www.uu.se/en",
+      "website_source_url": "https://www.uu.se/en",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Uppsala University",
+      "country_id": "sweden",
+      "city": "Uppsala",
+      "qs_rank": 87,
+      "qs_rank_display": "=87",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

@@ -13,30 +13,38 @@ hide:
 
 <p class="university-title-en">Nanyang Technological University</p><p class="university-location">新加坡 · 新加坡</p>
 
-<p class="university-aliases">常用名称或简称：NTU</p>
+<p class="university-aliases">常用名称或简称：NTU Singapore · Nanyang Technological University · 新加坡南洋理工大学 · NTU</p>
 
-<p><a href="https://www.ntu.edu.sg/">大学官方网站 ↗</a> · 已收录 2 个本科专业</p>
+<p class="university-ranking"><span class="qs-rank">QS 2027 · <strong>12</strong></span> <a href="https://www.topuniversities.com/qs-top-uni-wur">QS 官方榜单 ↗</a></p>
 
-## 选择具体专业
+排名口径：QS World University Rankings 2027（大学综合排名）；“=”表示并列。核验日期：2026-09-12。<a class="" href="/study-abroad-handbook/about/catalog-data/">查看范围与排名更正说明</a>
+
+<p><a class="md-button" href="https://www.ntu.edu.sg/">大学官方网站 ↗</a></p>
+
+## 专业与申请资料
+
+已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
 <div class="program-grid">
-<article class="program-card" data-program-id="ntu-computer-science">
-<div class="program-meta"><span>新加坡 · 新加坡</span><span>计算机</span></div>
-<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">南洋理工大学</a></p>
-<h3><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-science/">计算机科学（荣誉）</a></h3>
-<p class="program-english">Bachelor of Computing (Honours) in Computer Science</p>
-<p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
-<dl class="program-facts"><dt>入学</dt><dd>高考申请最低80%；数学／物理先修与英语另审</dd><dt>学费</dt><dd>2026：无补助费用待核；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>2025届：全职长期就业79.7%；税前月薪中位 S$5,500（全职长期受访者）</dd></dl>
-<a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-science/">查看条件、费用与去向 →</a>
-</article>
 <article class="program-card" data-program-id="ntu-business">
 <div class="program-meta"><span>新加坡 · 新加坡</span><span>商科</span></div>
 <p class="program-school"><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">南洋理工大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>12</strong></span>
 <h3><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business/">商学（荣誉，单主修）</a></h3>
 <p class="program-english">Bachelor of Business (Honours), Single Major</p>
 <p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>高考申请最低80%；数学先修、英语与面试另审</dd><dt>学费</dt><dd>2026：无补助 S$45,600／年；有条件补助 S$21,800／年</dd><dt>毕业</dt><dd>2025届旧三年制参考：全职长期就业71.8%；新四年制尚无毕业结果</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-business/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="ntu-computer-science">
+<div class="program-meta"><span>新加坡 · 新加坡</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/">南洋理工大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>12</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-science/">计算机科学（荣誉）</a></h3>
+<p class="program-english">Bachelor of Computing (Honours) in Computer Science</p>
+<p class="program-cohort">2026/27 入学 · 本科 · 4 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考申请最低80%；数学／物理先修与英语另审</dd><dt>学费</dt><dd>2026：无补助费用待核；有条件补助 S$21,400／年</dd><dt>毕业</dt><dd>2025届：全职长期就业79.7%；税前月薪中位 S$5,500（全职长期受访者）</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/singapore/ntu/ntu-computer-science/">查看条件、费用与去向 →</a>
 </article></div>
 
-入学条件与学费按下面每个项目的入学年度查看；毕业调查的统计年份和对象另行注明。
+大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

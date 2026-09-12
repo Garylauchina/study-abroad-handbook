@@ -1,0 +1,501 @@
+{
+  "country": {
+    "id": "usa",
+    "name": "美国",
+    "name_en": "United States",
+    "qs_location": "United States"
+  },
+  "universities": [
+    {
+      "name_en": "Massachusetts Institute of Technology (MIT)",
+      "id": "mit",
+      "name": "麻省理工学院",
+      "aliases": [
+        "MIT",
+        "Massachusetts Institute of Technology"
+      ],
+      "website": "https://www.mit.edu/",
+      "website_source_url": "https://www.mit.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Massachusetts Institute of Technology (MIT)",
+      "country_id": "usa",
+      "city": "Cambridge",
+      "qs_rank": 1,
+      "qs_rank_display": "1",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Stanford University",
+      "id": "stanford",
+      "name": "斯坦福大学",
+      "aliases": [
+        "Stanford",
+        "史丹福大学"
+      ],
+      "website": "https://www.stanford.edu/",
+      "website_source_url": "https://www.stanford.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Stanford University",
+      "country_id": "usa",
+      "city": "Stanford",
+      "qs_rank": 2,
+      "qs_rank_display": "=2",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Harvard University",
+      "id": "harvard",
+      "name": "哈佛大学",
+      "aliases": [
+        "Harvard"
+      ],
+      "website": "https://www.harvard.edu/",
+      "website_source_url": "https://www.harvard.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Harvard University",
+      "country_id": "usa",
+      "city": "Cambridge",
+      "qs_rank": 5,
+      "qs_rank_display": "5",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "California Institute of Technology (Caltech)",
+      "id": "caltech",
+      "name": "加州理工学院",
+      "aliases": [
+        "Caltech",
+        "California Institute of Technology"
+      ],
+      "website": "https://www.caltech.edu/",
+      "website_source_url": "https://www.caltech.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "California Institute of Technology (Caltech)",
+      "country_id": "usa",
+      "city": "Pasadena",
+      "qs_rank": 7,
+      "qs_rank_display": "7",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Pennsylvania",
+      "id": "upenn",
+      "name": "宾夕法尼亚大学",
+      "aliases": [
+        "UPenn",
+        "Penn",
+        "宾大",
+        "University of Pennsylvania"
+      ],
+      "website": "https://www.upenn.edu/",
+      "website_source_url": "https://www.upenn.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Pennsylvania",
+      "country_id": "usa",
+      "city": "Philadelphia",
+      "qs_rank": 15,
+      "qs_rank_display": "15",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Cornell University",
+      "id": "cornell",
+      "name": "康奈尔大学",
+      "aliases": [
+        "Cornell",
+        "康乃尔大学"
+      ],
+      "website": "https://www.cornell.edu/",
+      "website_source_url": "https://admissions.cornell.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Cornell University",
+      "country_id": "usa",
+      "city": "Ithaca",
+      "qs_rank": 16,
+      "qs_rank_display": "=16",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Yale University",
+      "id": "yale",
+      "name": "耶鲁大学",
+      "aliases": [
+        "Yale"
+      ],
+      "website": "https://www.yale.edu/",
+      "website_source_url": "https://www.yale.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Yale University",
+      "country_id": "usa",
+      "city": "New Haven",
+      "qs_rank": 16,
+      "qs_rank_display": "=16",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Johns Hopkins University",
+      "id": "jhu",
+      "name": "约翰斯·霍普金斯大学",
+      "aliases": [
+        "JHU",
+        "Johns Hopkins",
+        "约翰霍普金斯大学",
+        "约翰斯霍普金斯大学"
+      ],
+      "website": "https://www.jhu.edu/",
+      "website_source_url": "https://www.jhu.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Johns Hopkins University",
+      "country_id": "usa",
+      "city": "Baltimore",
+      "qs_rank": 20,
+      "qs_rank_display": "=20",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of California, Berkeley (UCB)",
+      "id": "berkeley",
+      "name": "加利福尼亚大学伯克利分校",
+      "aliases": [
+        "UC Berkeley",
+        "UCB",
+        "加州大学伯克利分校",
+        "伯克利"
+      ],
+      "website": "https://www.berkeley.edu/",
+      "website_source_url": "https://www.berkeley.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of California, Berkeley (UCB)",
+      "country_id": "usa",
+      "city": "Berkeley",
+      "qs_rank": 20,
+      "qs_rank_display": "=20",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Chicago",
+      "id": "uchicago",
+      "name": "芝加哥大学",
+      "aliases": [
+        "UChicago",
+        "University of Chicago"
+      ],
+      "website": "https://www.uchicago.edu/",
+      "website_source_url": "https://www.uchicago.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Chicago",
+      "country_id": "usa",
+      "city": "Chicago",
+      "qs_rank": 24,
+      "qs_rank_display": "24",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Princeton University",
+      "id": "princeton",
+      "name": "普林斯顿大学",
+      "aliases": [
+        "Princeton"
+      ],
+      "website": "https://www.princeton.edu/",
+      "website_source_url": "https://www.princeton.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Princeton University",
+      "country_id": "usa",
+      "city": "Princeton",
+      "qs_rank": 27,
+      "qs_rank_display": "27",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Columbia University",
+      "id": "columbia",
+      "name": "哥伦比亚大学",
+      "aliases": [
+        "Columbia",
+        "哥大"
+      ],
+      "website": "https://www.columbia.edu/",
+      "website_source_url": "https://www.columbia.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Columbia University",
+      "country_id": "usa",
+      "city": "New York City",
+      "qs_rank": 43,
+      "qs_rank_display": "=43",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Northwestern University",
+      "id": "northwestern",
+      "name": "西北大学（美国）",
+      "aliases": [
+        "Northwestern",
+        "Northwestern University",
+        "美国西北大学"
+      ],
+      "website": "https://www.northwestern.edu/",
+      "website_source_url": "https://www.northwestern.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Northwestern University",
+      "country_id": "usa",
+      "city": "Evanston",
+      "qs_rank": 45,
+      "qs_rank_display": "=45",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of California, Los Angeles (UCLA)",
+      "id": "ucla",
+      "name": "加利福尼亚大学洛杉矶分校",
+      "aliases": [
+        "UCLA",
+        "加州大学洛杉矶分校",
+        "University of California Los Angeles"
+      ],
+      "website": "https://www.ucla.edu/",
+      "website_source_url": "https://www.ucla.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of California, Los Angeles (UCLA)",
+      "country_id": "usa",
+      "city": "Los Angeles",
+      "qs_rank": 49,
+      "qs_rank_display": "49",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Michigan-Ann Arbor",
+      "id": "michigan",
+      "name": "密歇根大学安娜堡分校",
+      "aliases": [
+        "密歇根大学",
+        "密西根大学安娜堡分校",
+        "UMich",
+        "University of Michigan",
+        "UM Ann Arbor"
+      ],
+      "website": "https://umich.edu/",
+      "website_source_url": "https://umich.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Michigan-Ann Arbor",
+      "country_id": "usa",
+      "city": "Ann Arbor",
+      "qs_rank": 51,
+      "qs_rank_display": "51",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Carnegie Mellon University",
+      "id": "cmu",
+      "name": "卡内基梅隆大学",
+      "aliases": [
+        "卡内基·梅隆大学",
+        "CMU",
+        "Carnegie Mellon"
+      ],
+      "website": "https://www.cmu.edu/",
+      "website_source_url": "https://www.cmu.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Carnegie Mellon University",
+      "country_id": "usa",
+      "city": "Pittsburgh",
+      "qs_rank": 55,
+      "qs_rank_display": "55",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "New York University (NYU)",
+      "id": "nyu",
+      "name": "纽约大学",
+      "aliases": [
+        "NYU",
+        "New York University"
+      ],
+      "website": "https://www.nyu.edu/",
+      "website_source_url": "https://bulletins.nyu.edu/nyu/about/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "New York University (NYU)",
+      "country_id": "usa",
+      "city": "New York City",
+      "qs_rank": 58,
+      "qs_rank_display": "58",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Brown University",
+      "id": "brown",
+      "name": "布朗大学",
+      "aliases": [
+        "Brown",
+        "Brown University"
+      ],
+      "website": "https://www.brown.edu/",
+      "website_source_url": "https://www.brown.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Brown University",
+      "country_id": "usa",
+      "city": "Providence",
+      "qs_rank": 66,
+      "qs_rank_display": "66",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Duke University",
+      "id": "duke",
+      "name": "杜克大学",
+      "aliases": [
+        "Duke",
+        "Duke University"
+      ],
+      "website": "https://www.duke.edu/",
+      "website_source_url": "https://www.duke.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Duke University",
+      "country_id": "usa",
+      "city": "Durham",
+      "qs_rank": 70,
+      "qs_rank_display": "70",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Texas at Austin",
+      "id": "ut-austin",
+      "name": "得克萨斯大学奥斯汀分校",
+      "aliases": [
+        "德克萨斯大学奥斯汀分校",
+        "德州大学奥斯汀分校",
+        "UT Austin",
+        "University of Texas at Austin"
+      ],
+      "website": "https://www.utexas.edu/",
+      "website_source_url": "https://www.utexas.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Texas at Austin",
+      "country_id": "usa",
+      "city": "Austin",
+      "qs_rank": 72,
+      "qs_rank_display": "72",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Illinois Urbana-Champaign",
+      "id": "uiuc",
+      "name": "伊利诺伊大学厄巴纳香槟分校",
+      "aliases": [
+        "伊利诺伊大学香槟分校",
+        "伊利诺伊大学厄巴纳-香槟分校",
+        "UIUC",
+        "Illinois"
+      ],
+      "website": "https://illinois.edu/",
+      "website_source_url": "https://illinois.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Illinois Urbana-Champaign",
+      "country_id": "usa",
+      "city": "Champaign",
+      "qs_rank": 74,
+      "qs_rank_display": "74",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of California, San Diego (UCSD)",
+      "id": "ucsd",
+      "name": "加利福尼亚大学圣迭戈分校",
+      "aliases": [
+        "加州大学圣迭戈分校",
+        "加州大学圣地亚哥分校",
+        "UCSD",
+        "UC San Diego"
+      ],
+      "website": "https://ucsd.edu/",
+      "website_source_url": "https://ucsd.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of California, San Diego (UCSD)",
+      "country_id": "usa",
+      "city": "San Diego",
+      "qs_rank": 81,
+      "qs_rank_display": "81",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Pennsylvania State University",
+      "id": "penn-state",
+      "name": "宾夕法尼亚州立大学",
+      "aliases": [
+        "宾州州立大学",
+        "宾州州立",
+        "Penn State",
+        "PSU",
+        "Pennsylvania State University"
+      ],
+      "website": "https://www.psu.edu/",
+      "website_source_url": "https://www.psu.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Pennsylvania State University",
+      "country_id": "usa",
+      "city": "University Park",
+      "qs_rank": 92,
+      "qs_rank_display": "=92",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Washington",
+      "id": "washington",
+      "name": "华盛顿大学",
+      "aliases": [
+        "华盛顿大学西雅图",
+        "UW Seattle",
+        "University of Washington",
+        "U-Dub"
+      ],
+      "website": "https://www.washington.edu/",
+      "website_source_url": "https://www.washington.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Washington",
+      "country_id": "usa",
+      "city": "Seattle",
+      "qs_rank": 92,
+      "qs_rank_display": "=92",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Boston University",
+      "id": "boston",
+      "name": "波士顿大学",
+      "aliases": [
+        "BU",
+        "Boston University"
+      ],
+      "website": "https://www.bu.edu/",
+      "website_source_url": "https://www.bu.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Boston University",
+      "country_id": "usa",
+      "city": "Boston",
+      "qs_rank": 94,
+      "qs_rank_display": "94",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Purdue University",
+      "id": "purdue",
+      "name": "普渡大学",
+      "aliases": [
+        "普渡大学西拉法叶分校",
+        "Purdue",
+        "Purdue University",
+        "Purdue West Lafayette"
+      ],
+      "website": "https://www.purdue.edu/",
+      "website_source_url": "https://www.purdue.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Purdue University",
+      "country_id": "usa",
+      "city": "West Lafayette",
+      "qs_rank": 100,
+      "qs_rank_display": "=100",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

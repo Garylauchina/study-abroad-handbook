@@ -4,9 +4,31 @@ import json
 from pathlib import Path
 import posixpath
 import re
+import subprocess
 from urllib.parse import urlsplit, urlunsplit
 
 ATTR_URL = re.compile(r'(?P<attribute>\b(?:href|src|data-catalog-url))=(?P<quote>[\"\x27])(?P<url>.*?)(?P=quote)')
+
+
+def retain_previous_assets(root, paths, repository):
+    """Cached HTML must still find the public asset bytes from the preceding deploy.
+
+    HEAD covers a local dirty preview; HEAD^ covers a clean CI release checkout.
+    Only the explicitly configured public assets are read from Git.
+    """
+    for revision in ('HEAD', 'HEAD^'):
+        for name in paths:
+            url = urlsplit(name)
+            if url.scheme or url.netloc:
+                continue
+            result = subprocess.run(['git', 'show', f'{revision}:docs/{url.path}'], cwd=repository, capture_output=True)
+            if result.returncode:
+                continue  # A new asset or a first commit has no preceding version.
+            source = root / url.path
+            digest = hashlib.sha256(result.stdout).hexdigest()[:12]
+            previous = source.with_name(f'{source.stem}.{digest}{source.suffix}')
+            previous.parent.mkdir(parents=True, exist_ok=True)
+            previous.write_bytes(result.stdout)
 
 
 def on_post_build(config):
@@ -14,6 +36,7 @@ def on_post_build(config):
     site_url = urlsplit(config.site_url)
     paths = list(config.extra_css) + [str(script) for script in config.extra_javascript]
     paths.append('assets/data/catalog-index.json')
+    retain_previous_assets(root, paths, Path(__file__).resolve().parents[1])
     versions = {}
     for name in paths:
         url = urlsplit(name)

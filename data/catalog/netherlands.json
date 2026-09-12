@@ -1,0 +1,49 @@
+{
+  "country": {
+    "id": "netherlands",
+    "name": "荷兰",
+    "name_en": "Netherlands",
+    "qs_location": "Netherlands"
+  },
+  "universities": [
+    {
+      "name_en": "Delft University of Technology",
+      "id": "tu-delft",
+      "name": "代尔夫特理工大学",
+      "aliases": [
+        "TU Delft",
+        "Delft University of Technology",
+        "德尔夫特理工大学"
+      ],
+      "website": "https://www.tudelft.nl/",
+      "website_source_url": "https://research.tudelft.nl/en/organisations/delft-university-of-technology/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Delft University of Technology",
+      "country_id": "netherlands",
+      "city": "Delft",
+      "qs_rank": 48,
+      "qs_rank_display": "48",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Amsterdam",
+      "id": "amsterdam",
+      "name": "阿姆斯特丹大学",
+      "aliases": [
+        "阿大",
+        "UvA",
+        "University of Amsterdam"
+      ],
+      "website": "https://www.uva.nl/en/",
+      "website_source_url": "https://www.uva.nl/en/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Amsterdam",
+      "country_id": "netherlands",
+      "city": "Amsterdam",
+      "qs_rank": 60,
+      "qs_rank_display": "60",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

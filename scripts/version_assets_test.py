@@ -5,11 +5,35 @@ from pathlib import Path
 import tempfile
 from types import SimpleNamespace
 import unittest
+import subprocess
 
-from version_assets import on_post_build
+from version_assets import on_post_build, retain_previous_assets
 
 
 class VersionAssetsTest(unittest.TestCase):
+    def test_cached_html_assets_survive_a_clean_release_checkout(self):
+        with tempfile.TemporaryDirectory() as directory:
+            repo = Path(directory) / 'repo'
+            repo.mkdir()
+            def git(*args):
+                subprocess.run(['git', *args], cwd=repo, check=True, capture_output=True)
+            git('init')
+            name = 'assets/data/catalog-index.json'
+            source = repo / 'docs' / name
+            source.parent.mkdir(parents=True)
+            old = b'[{"id":"old-program"}]'
+            source.write_bytes(old)
+            git('add', 'docs')
+            git('-c', 'user.name=Fixture', '-c', 'user.email=fixture@example.invalid', 'commit', '-m', 'old release')
+            source.write_bytes(b'{"universities":[],"programs":[]}')
+            git('add', 'docs')
+            git('-c', 'user.name=Fixture', '-c', 'user.email=fixture@example.invalid', 'commit', '-m', 'new release')
+            built = Path(directory) / 'site'
+            retain_previous_assets(built, [name, 'assets/new.css'], repo)
+            old_url = f'assets/data/catalog-index.{hashlib.sha256(old).hexdigest()[:12]}.json'
+            self.assertEqual((built / old_url).read_bytes(), old)
+            self.assertFalse((built / 'assets/new.css').exists())
+
     def test_versioned_references_on_home_and_nested_pages(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

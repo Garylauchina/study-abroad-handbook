@@ -13,30 +13,38 @@ hide:
 
 <p class="university-title-en">Monash University</p><p class="university-location">澳大利亚 · 墨尔本（Clayton校区）</p>
 
-<p class="university-aliases">常用名称或简称：莫纳什大学</p>
+<p class="university-aliases">常用名称或简称：Monash · 蒙纳士大学 · 莫纳什大学</p>
 
-<p><a href="https://www.monash.edu/">大学官方网站 ↗</a> · 已收录 2 个本科专业</p>
+<p class="university-ranking"><span class="qs-rank">QS 2027 · <strong>31</strong></span> <a href="https://www.topuniversities.com/qs-top-uni-wur">QS 官方榜单 ↗</a></p>
 
-## 选择具体专业
+排名口径：QS World University Rankings 2027（大学综合排名）；“=”表示并列。核验日期：2026-09-12。<a class="" href="/study-abroad-handbook/about/catalog-data/">查看范围与排名更正说明</a>
+
+<p><a class="md-button" href="https://www.monash.edu/">大学官方网站 ↗</a></p>
+
+## 专业与申请资料
+
+已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
 <div class="program-grid">
-<article class="program-card" data-program-id="monash-computer-science">
-<div class="program-meta"><span>澳大利亚 · 墨尔本（Clayton校区）</span><span>计算机</span></div>
-<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/monash/">蒙纳士大学</a></p>
-<h3><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-computer-science/">计算机科学学士</a></h3>
-<p class="program-english">Bachelor of Computer Science</p>
-<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
-<dl class="program-facts"><dt>入学</dt><dd>高考总分70%＋数学60%；IELTS 6.5／单项6.0</dd><dt>学费</dt><dd>2027：A$58,940／年（48学分）</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率待补；已列培养方向</dd></dl>
-<a class="program-open" href="/study-abroad-handbook/catalog/australia/monash/monash-computer-science/">查看条件、费用与去向 →</a>
-</article>
 <article class="program-card" data-program-id="monash-commerce">
 <div class="program-meta"><span>澳大利亚 · 墨尔本（Clayton校区）</span><span>商科</span></div>
 <p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/monash/">蒙纳士大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>31</strong></span>
 <h3><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-commerce/">商学学士</a></h3>
 <p class="program-english">Bachelor of Commerce</p>
 <p class="program-cohort">2027 入学 · 本科 · 3 年</p>
 <dl class="program-facts"><dt>入学</dt><dd>高考总分70%＋数学60%；IELTS 6.5／单项6.0</dd><dt>学费</dt><dd>2026参考：A$55,900／年；2027费用待核</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率待补；已列培养方向</dd></dl>
 <a class="program-open" href="/study-abroad-handbook/catalog/australia/monash/monash-commerce/">查看条件、费用与去向 →</a>
+</article>
+<article class="program-card" data-program-id="monash-computer-science">
+<div class="program-meta"><span>澳大利亚 · 墨尔本（Clayton校区）</span><span>计算机</span></div>
+<p class="program-school"><a class="" href="/study-abroad-handbook/catalog/australia/monash/">蒙纳士大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>31</strong></span>
+<h3><a class="" href="/study-abroad-handbook/catalog/australia/monash/monash-computer-science/">计算机科学学士</a></h3>
+<p class="program-english">Bachelor of Computer Science</p>
+<p class="program-cohort">2027 入学 · 本科 · 3 年</p>
+<dl class="program-facts"><dt>入学</dt><dd>高考总分70%＋数学60%；IELTS 6.5／单项6.0</dd><dt>学费</dt><dd>2027：A$58,940／年（48学分）</dd><dt>毕业</dt><dd>本专业就业率、起薪、升学率待补；已列培养方向</dd></dl>
+<a class="program-open" href="/study-abroad-handbook/catalog/australia/monash/monash-computer-science/">查看条件、费用与去向 →</a>
 </article></div>
 
-入学条件与学费按下面每个项目的入学年度查看；毕业调查的统计年份和对象另行注明。
+大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

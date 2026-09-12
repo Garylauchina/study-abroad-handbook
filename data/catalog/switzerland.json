@@ -1,0 +1,67 @@
+{
+  "country": {
+    "id": "switzerland",
+    "name": "瑞士",
+    "name_en": "Switzerland",
+    "qs_location": "Switzerland"
+  },
+  "universities": [
+    {
+      "name_en": "ETH Zurich",
+      "id": "eth-zurich",
+      "name": "苏黎世联邦理工学院",
+      "aliases": [
+        "ETH",
+        "ETH Zurich",
+        "苏黎世联邦理工大学"
+      ],
+      "website": "https://ethz.ch/en.html",
+      "website_source_url": "https://ethz.ch/en.html",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "ETH Zurich",
+      "country_id": "switzerland",
+      "city": "Zürich",
+      "qs_rank": 8,
+      "qs_rank_display": "=8",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "EPFL – École polytechnique fédérale de Lausanne",
+      "id": "epfl",
+      "name": "洛桑联邦理工学院",
+      "aliases": [
+        "EPFL",
+        "洛桑联邦理工大学"
+      ],
+      "website": "https://www.epfl.ch/en/",
+      "website_source_url": "https://www.epfl.ch/en/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "EPFL – École polytechnique fédérale de Lausanne",
+      "country_id": "switzerland",
+      "city": "Lausanne",
+      "qs_rank": 22,
+      "qs_rank_display": "=22",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Zurich",
+      "id": "uzh",
+      "name": "苏黎世大学",
+      "aliases": [
+        "UZH",
+        "University of Zurich",
+        "Universität Zürich"
+      ],
+      "website": "https://www.uzh.ch/en.html",
+      "website_source_url": "https://www.uzh.ch/en.html",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Zurich",
+      "country_id": "switzerland",
+      "city": "Zürich",
+      "qs_rank": 98,
+      "qs_rank_display": "=98",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

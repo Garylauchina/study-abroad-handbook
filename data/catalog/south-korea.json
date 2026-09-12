@@ -1,0 +1,86 @@
+{
+  "country": {
+    "id": "south-korea",
+    "name": "韩国",
+    "name_en": "South Korea",
+    "qs_location": "South Korea"
+  },
+  "universities": [
+    {
+      "name_en": "Seoul National University",
+      "id": "snu",
+      "name": "首尔大学",
+      "aliases": [
+        "SNU",
+        "Seoul National University",
+        "首尔国立大学"
+      ],
+      "website": "https://en.snu.ac.kr/index.html",
+      "website_source_url": "https://en.snu.ac.kr/index.html",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Seoul National University",
+      "country_id": "south-korea",
+      "city": "Seoul",
+      "qs_rank": 38,
+      "qs_rank_display": "38",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Yonsei University",
+      "id": "yonsei",
+      "name": "延世大学",
+      "aliases": [
+        "Yonsei",
+        "연세대학교"
+      ],
+      "website": "https://yonsei.ac.kr/sites/en_sc/index.do",
+      "website_source_url": "https://yonsei.ac.kr/sites/en_sc/index.do",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Yonsei University",
+      "country_id": "south-korea",
+      "city": "Seoul",
+      "qs_rank": 42,
+      "qs_rank_display": "42",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Korea University",
+      "id": "korea-university",
+      "name": "高丽大学",
+      "aliases": [
+        "高大",
+        "Korea University",
+        "고려대학교"
+      ],
+      "website": "https://www.korea.ac.kr/en/index.do",
+      "website_source_url": "https://www.korea.ac.kr/en/index.do",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Korea University",
+      "country_id": "south-korea",
+      "city": "Seoul",
+      "qs_rank": 52,
+      "qs_rank_display": "=52",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "KAIST",
+      "id": "kaist",
+      "name": "韩国科学技术院",
+      "aliases": [
+        "韩国科学技术大学",
+        "KAIST",
+        "Korea Advanced Institute of Science and Technology"
+      ],
+      "website": "https://www.kaist.ac.kr/en/",
+      "website_source_url": "https://www.kaist.ac.kr/en/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "KAIST",
+      "country_id": "south-korea",
+      "city": "Daejeon",
+      "qs_rank": 65,
+      "qs_rank_display": "65",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

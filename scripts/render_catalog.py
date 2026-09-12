@@ -3,11 +3,13 @@ from pathlib import Path
 import argparse
 import html
 import json
+import hashlib
 import re
 from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = '/study-abroad-handbook/'
+RANKING = json.loads((ROOT / 'data/rankings/qs-2027.json').read_text())
 SECTIONS = [('overview', '专业说明'), ('admissions', '入学条件'), ('fees', '学费与费用'), ('outcomes', '毕业生情况')]
 
 def esc(value):
@@ -37,6 +39,17 @@ def load_catalog():
     cm, um = {c['id']: c for c in countries}, {u['id']: u for u in universities}
     for u in universities:
         assert u['country_id'] in cm and u['website'].startswith('https://')
+    ranked = {r['name_en']: r for r in RANKING['rows'] if r['location'] != 'China (Mainland)' and r['rank'] <= 100}
+    assert RANKING['edition'] == 2027 and len(RANKING['rows']) == 102
+    assert len({r['name_en'] for r in RANKING['rows']}) == 102
+    assert hashlib.sha256(json.dumps(RANKING['rows'], ensure_ascii=False, sort_keys=True, separators=(',', ':')).encode()).hexdigest() == RANKING['extracted_rows_sha256']
+    assert len(ranked) == 96 and len(universities) == len(ranked)
+    assert {u['qs_name_en'] for u in universities} == ranked.keys(), 'QS selection incomplete or contains extras'
+    for u in universities:
+        row = ranked[u['qs_name_en']]
+        assert u['qs_rank'] == row['rank'] and u['qs_rank_display'] == row['rank_display']
+        assert u['qs_year'] == 2027 and int(u['qs_rank_display'].lstrip('=')) == u['qs_rank']
+        assert cm[u['country_id']]['qs_location'] == row['location']
     for p in programs:
         assert p['university_id'] in um
         for key in ['name', 'name_en', 'degree', 'subject', 'intake', 'duration', 'entry_summary', 'tuition_summary', 'outcomes_summary', 'checked_at']:
@@ -65,10 +78,15 @@ def front(title, wide=False):
 def crumbs(items):
     return '<nav class="catalog-crumbs" aria-label="浏览路径">' + ' <span aria-hidden="true">/</span> '.join(link(p,t) if p is not None else f'<span aria-current="page">{esc(t)}</span>' for p,t in items) + '</nav>\n\n'
 
+def rank_badge(u, program=False):
+    label = '大学 QS 2027' if program else 'QS 2027'
+    return f'<span class="qs-rank">{label} · <strong>{esc(u["qs_rank_display"])}</strong></span>'
+
 def program_card(p, u, c):
     return f'''<article class="program-card" data-program-id="{p['id']}">
 <div class="program-meta"><span>{esc(c['name'])} · {esc(u['city'])}</span><span>{esc(p['subject'])}</span></div>
 <p class="program-school">{link(route(c['id'],u['id']), u['name'])}</p>
+{rank_badge(u, True)}
 <h3>{link(route(c['id'],u['id'],p['id']), p['name'])}</h3>
 <p class="program-english">{esc(p['name_en'])}</p>
 <p class="program-cohort">{esc(p['intake'])} 入学 · {esc(p['degree'])} · {esc(p['duration'])}</p>
@@ -78,51 +96,67 @@ def program_card(p, u, c):
 
 def university_card(u, c, programs):
     ps = [p for p in programs if p['university_id'] == u['id']]
-    return f'''<article class="university-card"><p class="catalog-eyebrow">{esc(u['city'])} · {len(ps)} 个已收录专业</p><h2>{link(route(c['id'], u['id']), u['name'])}</h2><p class="university-english">{esc(u['name_en'])}</p><ul>''' + ''.join(f'<li>{link(route(c["id"],u["id"],p["id"]),p["name"])}</li>' for p in ps) + f'</ul>{link(route(c["id"],u["id"]),"查看大学与全部专业 →","program-open")}</article>'
+    status = f'已收录 {len(ps)} 个专业详情' if ps else '专业详情待收录'
+    return f'''<article class="university-card" data-university-id="{u['id']}">{rank_badge(u)}<p class="catalog-eyebrow">{esc(c['name'])} · {esc(u['city'])}</p><h2>{link(route(c['id'], u['id']), u['name'])}</h2><p class="university-english">{esc(u['name_en'])}</p><p class="university-coverage">{status}</p>{link(route(c['id'],u['id']),"查看学校与专业入口 →","program-open")}</article>'''
 
 def generate():
     countries, universities, programs = load_catalog()
-    order = {'uk':0, 'australia':1, 'singapore':2}
-    countries.sort(key=lambda c: order.get(c['id'], 99))
+    order = {'uk':0, 'australia':1, 'singapore':2, 'usa':3, 'canada':4, 'hong-kong':5}
+    countries.sort(key=lambda c: (order.get(c['id'], 99), c['name_en']))
     cm, um = {c['id']:c for c in countries}, {u['id']:u for u in universities}
-    universities.sort(key=lambda u: order.get(u['country_id'],99))
-    programs.sort(key=lambda p: (order.get(um[p['university_id']]['country_id'],99), universities.index(um[p['university_id']])))
+    universities.sort(key=lambda u: (u['qs_rank'], u['name_en']))
+    programs.sort(key=lambda p: (um[p['university_id']]['qs_rank'], p['name_en']))
     outputs = {}
     cards = '\n'.join(program_card(p, um[p['university_id']], cm[um[p['university_id']]['country_id']]) for p in programs)
-    home = front('大学与专业查询', True)
-    home += '<div class="catalog-home">\n<p class="catalog-eyebrow">面向中国大陆学生的海外本科目录</p>\n\n# 查大学，找专业\n\n点击国家卡片，筛选下方专业；再次点击取消选择。也可以直接搜索学校或专业名称。\n\n'
+    home = front('QS 2027 大学与专业查询', True)
+    home += '<div class="catalog-home" markdown="1">\n<p class="catalog-eyebrow">面向中国大陆学生的海外本科目录 · QS 2027</p>\n\n# 查大学，找专业\n\n点击国家或地区，筛选下方大学与专业；再次点击取消选择。学校按 QS 2027 世界大学排名排列，保留并列名次。\n\n'
     home += '<div class="country-grid">\n'
-    for c in countries:
+    for i,c in enumerate(countries):
+        if i == 6:
+            home += f'</div><details class="country-more"><summary>更多国家与地区（{len(countries)-6}）</summary><div class="country-grid">'
         us = [u for u in universities if u['country_id'] == c['id']]
-        ps = [p for p in programs if p['university_id'] in {u['id'] for u in us}]
-        home += f'<a class="country-card country-{c["id"]}" data-country-filter="{c["id"]}" href="{BASE}{route(c["id"])}"><span class="country-en">{esc(c["name_en"])}</span><strong>{esc(c["name"])}</strong><span>{len(us)} 所大学 · {len(ps)} 个专业 <b aria-hidden="true">↗</b></span></a>\n'
-    home += '</div>\n\n<div id="program-finder" data-catalog-url="assets/data/catalog-index.json">\n<div class="finder-heading"><h2>直接找专业</h2><span>首批 {}</span></div>\n'.format(' · '.join([f'{len(countries)} 个国家',f'{len(universities)} 所大学',f'{len(programs)} 个专业']))
+        home += f'<a class="country-card country-{c["id"]}" data-country-filter="{c["id"]}" href="{BASE}{route(c["id"])}"><span class="country-en">{esc(c["name_en"])}</span><strong>{esc(c["name"])}</strong><span>{len(us)} 所大学 <b aria-hidden="true">↗</b></span></a>\n'
+    home += '</div>' + ('</details>' if len(countries)>6 else '')
+    home += '<div id="program-finder" data-catalog-url="assets/data/catalog-index.json">\n<div class="finder-heading"><h2>大学与专业资料库</h2><span>{} 个国家和地区 · {} 所大学 · {} 个专业详情</span></div>\n'.format(len(countries),len(universities),len(programs))
+    home += f'<div class="catalog-view-controls" role="group" aria-label="查看大学或专业" hidden><button type="button" data-catalog-view="universities" aria-pressed="true" aria-controls="catalog-results">大学 · {len(universities)}</button><button type="button" data-catalog-view="programs" aria-pressed="false" aria-controls="catalog-results">已收录专业 · {len(programs)}</button></div>'
     home += '''<form class="catalog-filters" role="search" aria-label="筛选大学与专业">
-<label class="catalog-query">搜索学校或专业<input id="catalog-query" name="q" type="search" placeholder="例如：计算机、NUS、曼彻斯特" autocomplete="off"></label>
-<label>国家<select id="catalog-country" name="country"><option value="">全部国家</option>'''
+<label class="catalog-query"><span id="catalog-query-label">搜索学校或专业</span><input id="catalog-query" name="q" type="search" placeholder="例如：MIT、香港大学" autocomplete="off"></label>
+<label>国家 / 地区<select id="catalog-country" name="country"><option value="">全部国家和地区</option>'''
     home += ''.join(f'<option value="{c["id"]}">{esc(c["name"])}</option>' for c in countries)
-    home += '</select></label><label>大学<select id="catalog-university" name="university"><option value="">全部大学</option>' + ''.join(f'<option value="{u["id"]}" data-country="{u["country_id"]}">{esc(u["name"])}</option>' for u in universities) + '</select></label><label>专业方向<select id="catalog-subject" name="subject"><option value="">全部方向</option>' + ''.join(f'<option value="{esc(s)}">{esc(s)}</option>' for s in sorted({p['subject'] for p in programs})) + '</select></label><button type="reset">清除筛选</button></form>\n'
-    home += '<noscript><style>.catalog-filters{display:none}</style><p>可通过国家入口和下面的专业链接直接浏览。启用 JavaScript 后可使用即时筛选。</p></noscript>'
-    home += f'<p class="catalog-status" id="catalog-status" role="status" aria-live="polite">显示全部 {len(programs)} 个专业。入学年度与费用币种见各项目。</p><p id="catalog-empty" hidden>没有匹配的已收录专业。可以减少筛选条件，或清除筛选查看全部项目。</p><div class="program-grid" id="catalog-results">{cards}</div>\n</div>\n\n'
-    home += '<div class="catalog-footnote"><strong>收录范围与数据口径</strong><p>目前为三个国家的本科项目首批目录，尚未覆盖全部大学与专业。不同项目的入学年可能不同；学费按国际生口径记录，毕业统计注明调查范围，缺少的数据会明确标出。资料核验：2026-09-12。</p>' + link('about/catalog-data/','查看数据说明') + ' · ' + link('tools/budget/','计算全程预算') + ' · ' + link('start/undergraduate/','申请准备指南') + '</div>\n</div>\n'
-    # Markdown needs markdown="1" only on containers containing Markdown headings.
-    home = home.replace('<div class="catalog-home">','<div class="catalog-home" markdown="1">')
+    home += '</select></label><label>大学<select id="catalog-university" name="university"><option value="">全部大学</option>' + ''.join(f'<option value="{u["id"]}" data-country="{u["country_id"]}">{esc(u["name"])}</option>' for u in universities) + '</select></label><label id="catalog-subject-label">专业方向<select id="catalog-subject" name="subject"><option value="">全部方向</option>' + ''.join(f'<option value="{esc(subject)}">{esc(subject)}</option>' for subject in sorted({p['subject'] for p in programs})) + '</select></label><button type="reset">清除筛选</button></form>\n'
+    home += '<noscript><style>.catalog-filters{display:none}</style><p>可通过国家入口和下面的大学、专业链接直接浏览。启用 JavaScript 后可使用即时筛选。</p></noscript>'
+    home += f'<p class="catalog-status" id="catalog-status" role="status" aria-live="polite">收录 QS 2027 前 100 名的 {len(universities)} 所非中国大陆大学，按原始名次排序；“=”表示并列。</p><p id="catalog-empty" hidden></p><div id="catalog-results"><section id="catalog-universities"><h3 class="catalog-list-title">大学清单</h3><div class="university-grid">'
+    home += '\n'.join(university_card(u,cm[u['country_id']],programs) for u in universities)
+    home += f'</div></section><section id="catalog-programs"><h3 class="catalog-list-title">已收录专业</h3><div class="program-grid">{cards}</div></section></div>\n</div>\n\n'
+    home += '<div class="catalog-footnote"><strong>收录范围与数据口径</strong><p>QS 2027 榜单名次不大于 100 的共有 102 所；剔除中国大陆 6 所后收录 96 所，保留中国香港和中国台湾。大学排名与专业排名不同；入榜不表示面向所有申请者开放本科招生。专业资料目前覆盖 6 所大学、12 个本科项目，其余标注待收录。核验：2026-09-12。</p>' + link('about/catalog-data/','排名来源与数据说明') + ' · ' + link('tools/budget/','计算全程预算') + ' · ' + link('start/undergraduate/','申请准备指南') + '</div>\n</div>\n'
     outputs['docs/index.md'] = home
+    directory = front('国家与地区', True) + '# 按国家与地区查大学\n\n收录 QS 2027 前 100 名的非中国大陆大学。选择所在地，查看大学排名与资料收录情况。\n\n<div class="country-grid">'
+    for c in countries:
+        count = sum(u['country_id'] == c['id'] for u in universities)
+        directory += f'<a class="country-card" href="{BASE}{route(c["id"])}"><span class="country-en">{esc(c["name_en"])}</span><strong>{esc(c["name"])}</strong><span>{count} 所大学</span></a>'
+    outputs['docs/catalog/index.md'] = directory + '</div>\n'
     index = []
     for c in countries:
         us = [u for u in universities if u['country_id'] == c['id']]
         body = front(c['name']+'大学与专业', True) + crumbs([('', '大学与专业'),(None,c['name'])])
-        body += f'# {c["name"]}大学与专业\n\n先选择大学，再进入专业查看入学条件、国际生学费和毕业生情况。当前收录 {len(us)} 所大学。\n\n<div class="university-grid">\n'
+        body += f'# {c["name"]}大学与专业\n\n先选择大学，再进入专业查看入学条件、国际生学费和毕业生情况。当前收录 {len(us)} 所 QS 2027 前 100 名大学；“=”表示并列。专业详情收录情况见学校卡片。\n\n<div class="university-grid">\n'
         body += '\n'.join(university_card(u,c,programs) for u in us) + '</div>\n\n'
-        body += link('?country='+c['id']+'#program-finder','筛选这个国家的全部专业 →','md-button') + '\n'
+        body += link('?country='+c['id']+'#program-finder','筛选这里的大学与专业 →','md-button') + '\n'
         outputs['docs/'+route(c['id'])+'index.md'] = body
         for u in us:
             ps = [p for p in programs if p['university_id']==u['id']]
             body = front(u['name'],True) + crumbs([('', '大学与专业'),(route(c['id']),c['name']),(None,u['name'])])
             body += f'# {u["name"]}\n\n<p class="university-title-en">{esc(u["name_en"])}</p><p class="university-location">{esc(c["name"])} · {esc(u["city"])}</p>\n\n'
             if u.get('aliases'): body += '<p class="university-aliases">常用名称或简称：' + esc(' · '.join(u['aliases'])) + '</p>\n\n'
-            body += f'<p><a href="{esc(u["website"])}">大学官方网站 ↗</a> · 已收录 {len(ps)} 个本科专业</p>\n\n## 选择具体专业\n\n<div class="program-grid">\n' + '\n'.join(program_card(p,u,c) for p in ps) + '</div>\n\n'
-            body += '入学条件与学费按下面每个项目的入学年度查看；毕业调查的统计年份和对象另行注明。\n'
+            body += f'<p class="university-ranking">{rank_badge(u)} <a href="{RANKING["source_url"]}">QS 官方榜单 ↗</a></p>\n\n'
+            body += '排名口径：QS World University Rankings 2027（大学综合排名）；“=”表示并列。核验日期：2026-09-12。' + link('about/catalog-data/','查看范围与排名更正说明') + '\n\n'
+            body += f'<p><a class="md-button" href="{esc(u["website"])}">大学官方网站 ↗</a></p>\n\n## 专业与申请资料\n\n'
+            if ps:
+                body += f'已收录 {len(ps)} 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。\n\n<div class="program-grid">\n' + '\n'.join(program_card(p,u,c) for p in ps) + '</div>\n\n'
+            else:
+                body += '目前已收录学校身份、所在地、QS 2027 排名及官网入口，**专业详情待收录**。可先从大学官网查找本科课程与国际生招生入口。\n\n'
+                body += '| 资料 | 当前状态 |\n| --- | --- |\n| 本科专业与学制 | 待按具体课程核验 |\n| 中国大陆学生入学条件 | 待核验；需区分高考、国际课程与其他资格 |\n| 国际生学费 | 待取得具体专业、入学年度和币种 |\n| 毕业生情况 | 待取得课程或学科的调查范围与年份 |\n\n'
+            body += '大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。\n'
             outputs['docs/'+route(c['id'],u['id'])+'index.md'] = body
             for p in ps:
                 body = front(u['name']+' · '+p['name']) + crumbs([('','大学与专业'),(route(c['id']),c['name']),(route(c['id'],u['id']),u['name']),(None,p['name'])])
@@ -140,9 +174,10 @@ def generate():
                     body += f'<div class="catalog-source" id="source-{s["id"]}"><span class="source-number">{i:02d}</span><div><a href="{esc(s["url"])}">{esc(s["title"])} ↗</a><p>{esc(s["supports"])}</p><small>{esc(urlsplit(s["url"]).netloc)} · 核验 {s["checked_at"]}</small></div></div>\n'
                 body += '\n' + link(route(c['id'],u['id']),'← 返回'+u['name']) + ' · ' + link('tools/budget/','用已确认费用计算全程预算') + '\n'
                 outputs['docs/'+route(c['id'],u['id'],p['id'])+'index.md'] = body
-                index.append({k:p[k] for k in ['id','university_id','name','name_en','degree','subject','intake','duration','entry_summary','tuition_summary','outcomes_summary']} | {'country_id':c['id'],'country_name':c['name'],'university_name':u['name'],'university_name_en':u['name_en'],'aliases':u.get('aliases',[]),'url':route(c['id'],u['id'],p['id'])})
-    outputs['docs/assets/data/catalog-index.json'] = json.dumps(index,ensure_ascii=False,indent=2)+'\n'
-    nav = []
+                index.append({k:p[k] for k in ['id','university_id','name','name_en','degree','subject','intake','duration','entry_summary','tuition_summary','outcomes_summary']} | {'qs_rank':u['qs_rank'],'qs_rank_display':u['qs_rank_display'],'country_id':c['id'],'country_name':c['name'],'university_name':u['name'],'university_name_en':u['name_en'],'aliases':u.get('aliases',[]),'url':route(c['id'],u['id'],p['id'])})
+    university_index = [u | {'country_name':cm[u['country_id']]['name'], 'program_count':sum(p['university_id']==u['id'] for p in programs), 'url':route(u['country_id'],u['id'])} for u in universities]
+    outputs['docs/assets/data/catalog-index.json'] = json.dumps({'universities':university_index,'programs':index,'ranking':{k:v for k,v in RANKING.items() if k!='rows'}},ensure_ascii=False,indent=2)+'\n'
+    nav = ['  - 全部国家和地区: catalog/index.md']
     for c in countries:
         nav.append(f'  - {c["name"]}:')
         nav.append(f'      - 大学列表: {route(c["id"])}index.md')
@@ -151,7 +186,7 @@ def generate():
             for p in [p for p in programs if p['university_id']==u['id']]:
                 nav.append(f'          - {p["name"]}: {route(c["id"],u["id"],p["id"])}index.md')
     config = (ROOT/'mkdocs.yml').read_text()
-    config = re.sub(r'  # CATALOG_NAV_START\n.*?  # CATALOG_NAV_END', '  # CATALOG_NAV_START\n'+'\n'.join(nav)+'\n  # CATALOG_NAV_END',config,flags=re.S)
+    config = re.sub(r'  # CATALOG_NAV_START\n.*?  # CATALOG_NAV_END', '  # CATALOG_NAV_START\n'+'  - 国家与地区:\n'+'\n'.join('    '+line for line in nav)+'\n  # CATALOG_NAV_END',config,flags=re.S)
     outputs['mkdocs.yml'] = config
     return outputs, (len(countries),len(universities),len(programs))
 

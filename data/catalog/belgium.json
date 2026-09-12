@@ -1,0 +1,31 @@
+{
+  "country": {
+    "id": "belgium",
+    "name": "比利时",
+    "name_en": "Belgium",
+    "qs_location": "Belgium"
+  },
+  "universities": [
+    {
+      "name_en": "KU Leuven",
+      "id": "ku-leuven",
+      "name": "鲁汶大学",
+      "aliases": [
+        "荷语鲁汶大学",
+        "鲁汶天主教大学",
+        "KU Leuven",
+        "Katholieke Universiteit Leuven"
+      ],
+      "website": "https://www.kuleuven.be/english/kuleuven/",
+      "website_source_url": "https://www.kuleuven.be/english/kuleuven/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "KU Leuven",
+      "country_id": "belgium",
+      "city": "Leuven",
+      "qs_rank": 59,
+      "qs_rank_display": "59",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

@@ -1,0 +1,91 @@
+{
+  "country": {
+    "id": "japan",
+    "name": "日本",
+    "name_en": "Japan",
+    "qs_location": "Japan"
+  },
+  "universities": [
+    {
+      "name_en": "The University of Tokyo",
+      "id": "tokyo",
+      "name": "东京大学",
+      "aliases": [
+        "UTokyo",
+        "University of Tokyo",
+        "东大"
+      ],
+      "website": "https://www.u-tokyo.ac.jp/en/",
+      "website_source_url": "https://www.u-tokyo.ac.jp/en/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Tokyo",
+      "country_id": "japan",
+      "city": "Tokyo",
+      "qs_rank": 39,
+      "qs_rank_display": "39",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Kyoto University",
+      "id": "kyoto",
+      "name": "京都大学",
+      "aliases": [
+        "京大",
+        "Kyoto University"
+      ],
+      "website": "https://www.kyoto-u.ac.jp/en",
+      "website_source_url": "https://www.kyoto-u.ac.jp/en",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Kyoto University",
+      "country_id": "japan",
+      "city": "Kyoto",
+      "qs_rank": 64,
+      "qs_rank_display": "64",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The University of Osaka",
+      "id": "osaka",
+      "name": "大阪大学",
+      "aliases": [
+        "阪大",
+        "UOsaka",
+        "The University of Osaka",
+        "Osaka University（原英文名）"
+      ],
+      "website": "https://www.osaka-u.ac.jp/en",
+      "website_source_url": "https://www.osaka-u.ac.jp/en/news/topics/2025/04/01001",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Osaka",
+      "country_id": "japan",
+      "city": "Osaka City",
+      "qs_rank": 95,
+      "qs_rank_display": "95",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Institute of Science Tokyo",
+      "id": "science-tokyo",
+      "name": "东京科学大学",
+      "aliases": [
+        "Science Tokyo",
+        "Institute of Science Tokyo",
+        "東京科学大学",
+        "东京工业大学（前身）",
+        "东京医科齿科大学（前身）",
+        "Tokyo Tech（前身）",
+        "TMDU（前身）"
+      ],
+      "website": "https://www.isct.ac.jp/en",
+      "website_source_url": "https://www.isct.ac.jp/en/001/about",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Institute of Science Tokyo",
+      "country_id": "japan",
+      "city": "Tokyo",
+      "qs_rank": 97,
+      "qs_rank_display": "=97",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

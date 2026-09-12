@@ -1,0 +1,108 @@
+{
+  "country": {
+    "id": "hong-kong",
+    "name": "中国香港",
+    "name_en": "Hong Kong",
+    "qs_location": "Hong Kong SAR"
+  },
+  "universities": [
+    {
+      "name_en": "The University of Hong Kong",
+      "id": "hku",
+      "name": "香港大学",
+      "aliases": [
+        "HKU",
+        "港大",
+        "University of Hong Kong"
+      ],
+      "website": "https://www.hku.hk/",
+      "website_source_url": "https://www.hku.hk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Hong Kong",
+      "country_id": "hong-kong",
+      "city": "Hong Kong",
+      "qs_rank": 11,
+      "qs_rank_display": "11",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The Chinese University of Hong Kong (CUHK)",
+      "id": "cuhk",
+      "name": "香港中文大学",
+      "aliases": [
+        "CUHK",
+        "港中文",
+        "Chinese University of Hong Kong"
+      ],
+      "website": "https://www.cuhk.edu.hk/english/",
+      "website_source_url": "https://www.cuhk.edu.hk/english/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The Chinese University of Hong Kong (CUHK)",
+      "country_id": "hong-kong",
+      "city": "Hong Kong",
+      "qs_rank": 18,
+      "qs_rank_display": "18",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The Hong Kong University of Science and Technology",
+      "id": "hkust",
+      "name": "香港科技大学",
+      "aliases": [
+        "HKUST",
+        "港科大",
+        "Hong Kong University of Science and Technology"
+      ],
+      "website": "https://hkust.edu.hk/",
+      "website_source_url": "https://hkust.edu.hk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The Hong Kong University of Science and Technology",
+      "country_id": "hong-kong",
+      "city": "Hong Kong",
+      "qs_rank": 33,
+      "qs_rank_display": "33",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The Hong Kong Polytechnic University",
+      "id": "polyu",
+      "name": "香港理工大学",
+      "aliases": [
+        "PolyU",
+        "港理工",
+        "Hong Kong Polytechnic University"
+      ],
+      "website": "https://www.polyu.edu.hk/",
+      "website_source_url": "https://www.polyu.edu.hk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The Hong Kong Polytechnic University",
+      "country_id": "hong-kong",
+      "city": "Hong Kong",
+      "qs_rank": 50,
+      "qs_rank_display": "50",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "City University of Hong Kong (CityUHK)",
+      "id": "cityuhk",
+      "name": "香港城市大学",
+      "aliases": [
+        "城大",
+        "香港城大",
+        "CityU",
+        "CityUHK",
+        "City University of Hong Kong"
+      ],
+      "website": "https://www.cityu.edu.hk/en/",
+      "website_source_url": "https://www.cityu.edu.hk/en/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "City University of Hong Kong (CityUHK)",
+      "country_id": "hong-kong",
+      "city": "Kowloon",
+      "qs_rank": 52,
+      "qs_rank_display": "=52",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

@@ -13,14 +13,23 @@ hide:
 
 <p class="university-title-en">University of Sheffield</p><p class="university-location">英国 · 谢菲尔德</p>
 
-<p><a href="https://sheffield.ac.uk/">大学官方网站 ↗</a> · 已收录 2 个本科专业</p>
+<p class="university-aliases">常用名称或简称：谢大 · University of Sheffield · Sheffield</p>
 
-## 选择具体专业
+<p class="university-ranking"><span class="qs-rank">QS 2027 · <strong>=82</strong></span> <a href="https://www.topuniversities.com/qs-top-uni-wur">QS 官方榜单 ↗</a></p>
+
+排名口径：QS World University Rankings 2027（大学综合排名）；“=”表示并列。核验日期：2026-09-12。<a class="" href="/study-abroad-handbook/about/catalog-data/">查看范围与排名更正说明</a>
+
+<p><a class="md-button" href="https://sheffield.ac.uk/">大学官方网站 ↗</a></p>
+
+## 专业与申请资料
+
+已收录 2 个本科专业。入学条件、学费和毕业调查范围按具体项目查看。
 
 <div class="program-grid">
 <article class="program-card" data-program-id="sheffield-computer-science-bsc">
 <div class="program-meta"><span>英国 · 谢菲尔德</span><span>计算机</span></div>
 <p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/">谢菲尔德大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=82</strong></span>
 <h3><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-computer-science-bsc/">计算机科学</a></h3>
 <p class="program-english">Computer Science BSc</p>
 <p class="program-cohort">2027 入学 · 本科 · 3 年</p>
@@ -30,6 +39,7 @@ hide:
 <article class="program-card" data-program-id="sheffield-economics-bsc">
 <div class="program-meta"><span>英国 · 谢菲尔德</span><span>商科</span></div>
 <p class="program-school"><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/">谢菲尔德大学</a></p>
+<span class="qs-rank">大学 QS 2027 · <strong>=82</strong></span>
 <h3><a class="" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-bsc/">经济学</a></h3>
 <p class="program-english">Economics BSc</p>
 <p class="program-cohort">2027 入学 · 本科 · 3 年</p>
@@ -37,4 +47,4 @@ hide:
 <a class="program-open" href="/study-abroad-handbook/catalog/uk/sheffield/sheffield-economics-bsc/">查看条件、费用与去向 →</a>
 </article></div>
 
-入学条件与学费按下面每个项目的入学年度查看；毕业调查的统计年份和对象另行注明。
+大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

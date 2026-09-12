@@ -2,24 +2,303 @@
   "country": {
     "id": "uk",
     "name": "英国",
-    "name_en": "United Kingdom"
+    "name_en": "United Kingdom",
+    "qs_location": "United Kingdom"
   },
   "universities": [
     {
-      "id": "sheffield",
-      "name": "谢菲尔德大学",
-      "name_en": "University of Sheffield",
-      "city": "谢菲尔德",
+      "name_en": "Imperial College London",
+      "id": "imperial",
+      "name": "帝国理工学院",
+      "aliases": [
+        "Imperial",
+        "ICL",
+        "伦敦帝国理工学院"
+      ],
+      "website": "https://www.imperial.ac.uk/",
+      "website_source_url": "https://www.imperial.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Imperial College London",
       "country_id": "uk",
-      "website": "https://sheffield.ac.uk/"
+      "city": "London",
+      "qs_rank": 2,
+      "qs_rank_display": "=2",
+      "qs_year": 2027
     },
     {
+      "name_en": "University of Oxford",
+      "id": "oxford",
+      "name": "牛津大学",
+      "aliases": [
+        "Oxford"
+      ],
+      "website": "https://www.ox.ac.uk/",
+      "website_source_url": "https://www.ox.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Oxford",
+      "country_id": "uk",
+      "city": "Oxford",
+      "qs_rank": 4,
+      "qs_rank_display": "4",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Cambridge",
+      "id": "cambridge",
+      "name": "剑桥大学",
+      "aliases": [
+        "Cambridge"
+      ],
+      "website": "https://www.cam.ac.uk/",
+      "website_source_url": "https://www.cam.ac.uk/about-this-site",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Cambridge",
+      "country_id": "uk",
+      "city": "Cambridge",
+      "qs_rank": 6,
+      "qs_rank_display": "6",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "UCL",
+      "id": "ucl",
+      "name": "伦敦大学学院",
+      "aliases": [
+        "UCL",
+        "University College London"
+      ],
+      "website": "https://www.ucl.ac.uk/",
+      "website_source_url": "https://www.ucl.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "UCL",
+      "country_id": "uk",
+      "city": "London",
+      "qs_rank": 8,
+      "qs_rank_display": "=8",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The University of Edinburgh",
+      "id": "edinburgh",
+      "name": "爱丁堡大学",
+      "aliases": [
+        "Edinburgh",
+        "University of Edinburgh"
+      ],
+      "website": "https://www.ed.ac.uk/",
+      "website_source_url": "https://www.ed.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Edinburgh",
+      "country_id": "uk",
+      "city": "Edinburgh",
+      "qs_rank": 35,
+      "qs_rank_display": "35",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "King's College London",
+      "id": "kcl",
+      "name": "伦敦国王学院",
+      "aliases": [
+        "KCL",
+        "King's College London",
+        "伦敦大学国王学院"
+      ],
+      "website": "https://www.kcl.ac.uk/",
+      "website_source_url": "https://www.kcl.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "King's College London",
+      "country_id": "uk",
+      "city": "London",
+      "qs_rank": 37,
+      "qs_rank_display": "37",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Manchester",
       "id": "manchester",
       "name": "曼彻斯特大学",
-      "name_en": "University of Manchester",
-      "city": "曼彻斯特",
+      "aliases": [
+        "Manchester",
+        "University of Manchester",
+        "曼大"
+      ],
+      "website": "https://www.manchester.ac.uk/",
+      "website_source_url": "https://www.manchester.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Manchester",
       "country_id": "uk",
-      "website": "https://www.manchester.ac.uk/"
+      "city": "曼彻斯特",
+      "qs_rank": 40,
+      "qs_rank_display": "=40",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Bristol",
+      "id": "bristol",
+      "name": "布里斯托大学",
+      "aliases": [
+        "布大",
+        "Bristol",
+        "University of Bristol"
+      ],
+      "website": "https://www.bristol.ac.uk/",
+      "website_source_url": "https://www.bristol.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Bristol",
+      "country_id": "uk",
+      "city": "Bristol",
+      "qs_rank": 57,
+      "qs_rank_display": "57",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The London School of Economics and Political Science (LSE)",
+      "id": "lse",
+      "name": "伦敦政治经济学院",
+      "aliases": [
+        "伦敦政经",
+        "LSE",
+        "London School of Economics"
+      ],
+      "website": "https://www.lse.ac.uk/",
+      "website_source_url": "https://www.lse.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The London School of Economics and Political Science (LSE)",
+      "country_id": "uk",
+      "city": "London",
+      "qs_rank": 62,
+      "qs_rank_display": "62",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Warwick",
+      "id": "warwick",
+      "name": "华威大学",
+      "aliases": [
+        "Warwick",
+        "University of Warwick"
+      ],
+      "website": "https://warwick.ac.uk/",
+      "website_source_url": "https://warwick.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Warwick",
+      "country_id": "uk",
+      "city": "England",
+      "qs_rank": 68,
+      "qs_rank_display": "=68",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Birmingham",
+      "id": "birmingham",
+      "name": "伯明翰大学",
+      "aliases": [
+        "University of Birmingham",
+        "Birmingham"
+      ],
+      "website": "https://www.birmingham.ac.uk/",
+      "website_source_url": "https://www.birmingham.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Birmingham",
+      "country_id": "uk",
+      "city": "Birmingham",
+      "qs_rank": 68,
+      "qs_rank_display": "=68",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Leeds",
+      "id": "leeds",
+      "name": "利兹大学",
+      "aliases": [
+        "University of Leeds",
+        "Leeds"
+      ],
+      "website": "https://www.leeds.ac.uk/",
+      "website_source_url": "https://www.leeds.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Leeds",
+      "country_id": "uk",
+      "city": "Leeds",
+      "qs_rank": 77,
+      "qs_rank_display": "=77",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Glasgow",
+      "id": "glasgow",
+      "name": "格拉斯哥大学",
+      "aliases": [
+        "格大",
+        "University of Glasgow",
+        "Glasgow"
+      ],
+      "website": "https://www.gla.ac.uk/",
+      "website_source_url": "https://www.gla.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Glasgow",
+      "country_id": "uk",
+      "city": "Glasgow",
+      "qs_rank": 80,
+      "qs_rank_display": "80",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Sheffield",
+      "id": "sheffield",
+      "name": "谢菲尔德大学",
+      "aliases": [
+        "谢大",
+        "University of Sheffield",
+        "Sheffield"
+      ],
+      "website": "https://sheffield.ac.uk/",
+      "website_source_url": "https://sheffield.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Sheffield",
+      "country_id": "uk",
+      "city": "谢菲尔德",
+      "qs_rank": 82,
+      "qs_rank_display": "=82",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Durham University",
+      "id": "durham",
+      "name": "杜伦大学",
+      "aliases": [
+        "达勒姆大学",
+        "Durham University",
+        "University of Durham"
+      ],
+      "website": "https://dur.ac.uk/",
+      "website_source_url": "https://dur.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Durham University",
+      "country_id": "uk",
+      "city": "Durham",
+      "qs_rank": 85,
+      "qs_rank_display": "85",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University of Nottingham",
+      "id": "nottingham",
+      "name": "诺丁汉大学",
+      "aliases": [
+        "University of Nottingham",
+        "Nottingham"
+      ],
+      "website": "https://www.nottingham.ac.uk/",
+      "website_source_url": "https://www.nottingham.ac.uk/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Nottingham",
+      "country_id": "uk",
+      "city": "Nottingham",
+      "qs_rank": 97,
+      "qs_rank_display": "=97",
+      "qs_year": 2027
     }
   ],
   "programs": [

@@ -1,0 +1,30 @@
+{
+  "country": {
+    "id": "new-zealand",
+    "name": "新西兰",
+    "name_en": "New Zealand",
+    "qs_location": "New Zealand"
+  },
+  "universities": [
+    {
+      "name_en": "The University of Auckland",
+      "id": "auckland",
+      "name": "奥克兰大学",
+      "aliases": [
+        "奥大",
+        "University of Auckland",
+        "Waipapa Taumata Rau"
+      ],
+      "website": "https://www.auckland.ac.nz/en.html",
+      "website_source_url": "https://www.auckland.ac.nz/en.html",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Auckland",
+      "country_id": "new-zealand",
+      "city": "Auckland",
+      "qs_rank": 67,
+      "qs_rank_display": "67",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

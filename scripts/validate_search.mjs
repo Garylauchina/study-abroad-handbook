@@ -53,6 +53,8 @@ for (const [query, route] of [
   ['预算', 'tools/budget/'], ['预算计算器', 'tools/budget/'],
   ['高考', 'destinations/uk/'], ['UCAS', 'destinations/uk/'], ['Sheffield', 'catalog/uk/sheffield/'],
   ['NUS', 'catalog/singapore/nus/'], ['南洋理工', 'catalog/singapore/ntu/'], ['Monash', 'catalog/australia/monash/'],
+  ['麻省理工', 'catalog/usa/mit/'], ['Purdue', 'catalog/usa/purdue/'],
+  ['东京科学', 'catalog/japan/science-tokyo/'], ['UCD', 'catalog/ireland/ucd/'],
 ]) {
   const response = await request({ type: 2, data: query, options: { suggest: true } }, 3);
   const locations = response.data.items.flat().map(item => item.location);

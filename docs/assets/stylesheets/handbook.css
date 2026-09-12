@@ -154,3 +154,47 @@
  .program-jumps { gap: .3rem; }
  .program-jumps a { padding: .3rem .5rem; }
 }
+
+/* QS school coverage keeps the country picker compact as destinations expand. */
+.catalog-home .country-grid { grid-template-columns: repeat(6,minmax(0,1fr)); gap: .6rem; margin: 1rem 0 .5rem; }
+.catalog-home .country-card { padding: .65rem .7rem; }
+.catalog-home .country-card strong { font-size: 1rem; }
+.catalog-home .country-card .country-en { font-size: .6rem; letter-spacing: 0; }
+.catalog-home .country-card > span:last-child { font-size: .67rem; }
+.catalog-home .country-card b { font-size: .65rem; }
+.md-typeset .country-more { border: 0; box-shadow: none; padding: 0; margin: 0 0 1.6rem; font-size: .76rem; }
+.md-typeset .country-more summary { background: transparent; color: #376d64; padding: .5rem 1.6rem; }
+.md-typeset .country-more summary::before { display: none; }
+.country-more .country-grid { margin: .4rem 0 .7rem; }
+.catalog-view-controls { display: flex; gap: .4rem; margin: .8rem 0; }
+.catalog-view-controls button { font: inherit; font-size: .8rem; cursor: pointer; padding: .45rem .9rem; border: 1px solid #b6c9c6; border-radius: .3rem; color: #315c57; }
+.catalog-view-controls button[aria-pressed="true"] { background: #285c51; border-color: #285c51; color: white; }
+.catalog-view-controls button:focus-visible { outline: 3px solid #157885; outline-offset: 3px; }
+.catalog-filters.university-filters { grid-template-columns: 2fr 1fr 1.3fr auto; }
+.catalog-list-title { font-size: .85rem; }
+.catalog-home .university-grid { grid-template-columns: repeat(3,minmax(0,1fr)); margin-top: .6rem; }
+.university-card { display: flex; flex-direction: column; min-width: 0; padding: 1rem; }
+.md-typeset .university-card h2 { font-size: 1.06rem; }
+.university-card .catalog-eyebrow { margin: .6rem 0 .2rem; font-size: .68rem; letter-spacing: 0; }
+.md-typeset .university-english { font-size: .7rem; overflow-wrap: anywhere; }
+.md-typeset .university-coverage { font-size: .7rem; color: #5c7278; margin: .1rem 0 .6rem; }
+.qs-rank { display: inline-flex; align-items: baseline; gap: .3rem; align-self: flex-start; padding: .15rem .45rem; border: 1px solid #cadcd3; border-radius: .2rem; font-size: .67rem; color: #305f4e; background: #eff6f1; font-variant-numeric: tabular-nums; }
+.qs-rank strong { font-size: .85rem; }
+.program-card .qs-rank { margin: .25rem 0; }
+.university-ranking { display: flex; align-items: center; flex-wrap: wrap; gap: .7rem; }
+.university-ranking .qs-rank { font-size: .9rem; }
+.university-ranking .qs-rank strong { font-size: 1.3rem; }
+[hidden] { display: none !important; }
+@media (max-width: 1100px) {
+ .catalog-home .country-grid { grid-template-columns: repeat(3,minmax(0,1fr)); }
+ .catalog-home .university-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+ .catalog-filters.university-filters { grid-template-columns: repeat(3,minmax(0,1fr)); }
+}
+@media (max-width: 650px) {
+ .catalog-home .country-card { padding: .65rem .5rem; }
+ .catalog-home .country-card .country-en { min-height: 2.8em; }
+ .catalog-home .country-grid { gap: .4rem; }
+ .catalog-home .university-grid { grid-template-columns: 1fr; }
+ .catalog-filters.university-filters { grid-template-columns: repeat(2,minmax(0,1fr)); }
+ .catalog-filters.university-filters .catalog-query { grid-column: 1 / -1; }
+}

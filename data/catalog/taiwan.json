@@ -1,0 +1,31 @@
+{
+  "country": {
+    "id": "taiwan",
+    "name": "中国台湾",
+    "name_en": "Taiwan",
+    "qs_location": "Taiwan"
+  },
+  "universities": [
+    {
+      "name_en": "National Taiwan University (NTU)",
+      "id": "ntu-taiwan",
+      "name": "台湾大学",
+      "aliases": [
+        "台大",
+        "国立台湾大学",
+        "National Taiwan University",
+        "NTU Taiwan"
+      ],
+      "website": "https://www.ntu.edu.tw/english/",
+      "website_source_url": "https://www.ntu.edu.tw/english/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "National Taiwan University (NTU)",
+      "country_id": "taiwan",
+      "city": "Taipei",
+      "qs_rank": 54,
+      "qs_rank_display": "54",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

@@ -2,30 +2,47 @@
   "country": {
     "id": "singapore",
     "name": "新加坡",
-    "name_en": "Singapore"
+    "name_en": "Singapore",
+    "qs_location": "Singapore"
   },
   "universities": [
     {
+      "name_en": "National University of Singapore",
       "id": "nus",
       "name": "新加坡国立大学",
-      "name_en": "National University of Singapore",
-      "city": "新加坡",
-      "country_id": "singapore",
-      "website": "https://www.nus.edu.sg/",
       "aliases": [
-        "NUS"
-      ]
+        "NUS",
+        "National University of Singapore"
+      ],
+      "website": "https://www.nus.edu.sg/",
+      "website_source_url": "https://www.nus.edu.sg/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "National University of Singapore (NUS)",
+      "country_id": "singapore",
+      "city": "新加坡",
+      "qs_rank": 10,
+      "qs_rank_display": "10",
+      "qs_year": 2027
     },
     {
+      "name_en": "Nanyang Technological University",
       "id": "ntu",
       "name": "南洋理工大学",
-      "name_en": "Nanyang Technological University",
-      "city": "新加坡",
-      "country_id": "singapore",
-      "website": "https://www.ntu.edu.sg/",
       "aliases": [
+        "NTU Singapore",
+        "Nanyang Technological University",
+        "新加坡南洋理工大学",
         "NTU"
-      ]
+      ],
+      "website": "https://www.ntu.edu.sg/",
+      "website_source_url": "https://www.ntu.edu.sg/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Nanyang Technological University, Singapore (NTU Singapore)",
+      "country_id": "singapore",
+      "city": "新加坡",
+      "qs_rank": 12,
+      "qs_rank_display": "12",
+      "qs_year": 2027
     }
   ],
   "programs": [

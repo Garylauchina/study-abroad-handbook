@@ -1,0 +1,29 @@
+{
+  "country": {
+    "id": "denmark",
+    "name": "丹麦",
+    "name_en": "Denmark",
+    "qs_location": "Denmark"
+  },
+  "universities": [
+    {
+      "name_en": "University of Copenhagen",
+      "id": "copenhagen",
+      "name": "哥本哈根大学",
+      "aliases": [
+        "University of Copenhagen",
+        "Københavns Universitet"
+      ],
+      "website": "https://www.ku.dk/en",
+      "website_source_url": "https://www.ku.dk/en",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University of Copenhagen",
+      "country_id": "denmark",
+      "city": "Copenhagen",
+      "qs_rank": 90,
+      "qs_rank_display": "=90",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

@@ -1,0 +1,88 @@
+{
+  "country": {
+    "id": "germany",
+    "name": "德国",
+    "name_en": "Germany",
+    "qs_location": "Germany"
+  },
+  "universities": [
+    {
+      "name_en": "Technical University of Munich",
+      "id": "tum",
+      "name": "慕尼黑工业大学",
+      "aliases": [
+        "TUM",
+        "慕尼黑理工大学",
+        "Technische Universität München"
+      ],
+      "website": "https://www.tum.de/en/",
+      "website_source_url": "https://www.tum.de/en/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Technical University of Munich",
+      "country_id": "germany",
+      "city": "Munich",
+      "qs_rank": 25,
+      "qs_rank_display": "25",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Ludwig-Maximilians-Universität München",
+      "id": "lmu-munich",
+      "name": "慕尼黑大学",
+      "aliases": [
+        "路德维希马克西米利安慕尼黑大学",
+        "LMU",
+        "LMU Munich",
+        "Ludwig Maximilian University of Munich"
+      ],
+      "website": "https://www.lmu.de/en/",
+      "website_source_url": "https://www.lmu.de/en/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Ludwig-Maximilians-Universität München",
+      "country_id": "germany",
+      "city": "Munich",
+      "qs_rank": 61,
+      "qs_rank_display": "61",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Universität Heidelberg",
+      "id": "heidelberg",
+      "name": "海德堡大学",
+      "aliases": [
+        "Heidelberg University",
+        "Universität Heidelberg",
+        "Ruprecht-Karls-Universität Heidelberg"
+      ],
+      "website": "https://www.uni-heidelberg.de/en",
+      "website_source_url": "https://www.uni-heidelberg.de/en",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Universität Heidelberg",
+      "country_id": "germany",
+      "city": "69117 Heidelberg",
+      "qs_rank": 86,
+      "qs_rank_display": "86",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Freie Universitaet Berlin",
+      "id": "fu-berlin",
+      "name": "柏林自由大学",
+      "aliases": [
+        "Free University of Berlin",
+        "Freie Universität Berlin",
+        "FU Berlin"
+      ],
+      "website": "https://www.fu-berlin.de/en/",
+      "website_source_url": "https://www.fu-berlin.de/en/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Freie Universitaet Berlin",
+      "country_id": "germany",
+      "city": "Berlin",
+      "qs_rank": 98,
+      "qs_rank_display": "=98",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

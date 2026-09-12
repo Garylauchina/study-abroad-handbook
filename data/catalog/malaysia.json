@@ -1,0 +1,31 @@
+{
+  "country": {
+    "id": "malaysia",
+    "name": "马来西亚",
+    "name_en": "Malaysia",
+    "qs_location": "Malaysia"
+  },
+  "universities": [
+    {
+      "name_en": "Universiti Malaya (UM)",
+      "id": "malaya",
+      "name": "马来亚大学",
+      "aliases": [
+        "马大",
+        "UM",
+        "University of Malaya",
+        "Universiti Malaya"
+      ],
+      "website": "https://www.um.edu.my/",
+      "website_source_url": "https://www.um.edu.my/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Universiti Malaya (UM)",
+      "country_id": "malaysia",
+      "city": "Kuala Lumpur",
+      "qs_rank": 56,
+      "qs_rank_display": "56",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}

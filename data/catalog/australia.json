@@ -2,30 +2,177 @@
   "country": {
     "id": "australia",
     "name": "澳大利亚",
-    "name_en": "Australia"
+    "name_en": "Australia",
+    "qs_location": "Australia"
   },
   "universities": [
     {
-      "id": "monash",
-      "name": "蒙纳士大学",
-      "name_en": "Monash University",
-      "city": "墨尔本（Clayton校区）",
-      "country_id": "australia",
-      "website": "https://www.monash.edu/",
-      "aliases": [
-        "莫纳什大学"
-      ]
-    },
-    {
+      "name_en": "UNSW Sydney",
       "id": "unsw",
       "name": "新南威尔士大学",
-      "name_en": "UNSW Sydney",
-      "city": "悉尼（Kensington校区）",
-      "country_id": "australia",
-      "website": "https://www.unsw.edu.au/",
       "aliases": [
-        "UNSW"
-      ]
+        "UNSW",
+        "UNSW Sydney",
+        "悉尼新南威尔士大学"
+      ],
+      "website": "https://www.unsw.edu.au/",
+      "website_source_url": "https://www.unsw.edu.au/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of New South Wales (UNSW Sydney)",
+      "country_id": "australia",
+      "city": "悉尼（Kensington校区）",
+      "qs_rank": 19,
+      "qs_rank_display": "19",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The University of Melbourne",
+      "id": "melbourne",
+      "name": "墨尔本大学",
+      "aliases": [
+        "University of Melbourne",
+        "UniMelb"
+      ],
+      "website": "https://www.unimelb.edu.au/",
+      "website_source_url": "https://www.unimelb.edu.au/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Melbourne",
+      "country_id": "australia",
+      "city": "Melbourne",
+      "qs_rank": 22,
+      "qs_rank_display": "=22",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The University of Sydney",
+      "id": "sydney",
+      "name": "悉尼大学",
+      "aliases": [
+        "USYD",
+        "University of Sydney"
+      ],
+      "website": "https://www.sydney.edu.au/",
+      "website_source_url": "https://www.sydney.edu.au/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Sydney",
+      "country_id": "australia",
+      "city": "Sydney",
+      "qs_rank": 28,
+      "qs_rank_display": "28",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Australian National University (ANU)",
+      "id": "anu",
+      "name": "澳大利亚国立大学",
+      "aliases": [
+        "ANU",
+        "Australian National University",
+        "澳洲国立大学"
+      ],
+      "website": "https://www.anu.edu.au/",
+      "website_source_url": "https://www.anu.edu.au/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Australian National University (ANU)",
+      "country_id": "australia",
+      "city": "Canberra",
+      "qs_rank": 29,
+      "qs_rank_display": "29",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Monash University",
+      "id": "monash",
+      "name": "蒙纳士大学",
+      "aliases": [
+        "Monash",
+        "蒙纳士大学",
+        "莫纳什大学"
+      ],
+      "website": "https://www.monash.edu/",
+      "website_source_url": "https://www.monash.edu/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Monash University",
+      "country_id": "australia",
+      "city": "墨尔本（Clayton校区）",
+      "qs_rank": 31,
+      "qs_rank_display": "31",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The University of Queensland",
+      "id": "queensland",
+      "name": "昆士兰大学",
+      "aliases": [
+        "UQ",
+        "University of Queensland"
+      ],
+      "website": "https://www.uq.edu.au/",
+      "website_source_url": "https://www.uq.edu.au/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Queensland",
+      "country_id": "australia",
+      "city": "Brisbane",
+      "qs_rank": 40,
+      "qs_rank_display": "=40",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The University of Western Australia",
+      "id": "uwa",
+      "name": "西澳大学",
+      "aliases": [
+        "UWA",
+        "University of Western Australia"
+      ],
+      "website": "https://www.uwa.edu.au/home",
+      "website_source_url": "https://www.uwa.edu.au/home",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Western Australia",
+      "country_id": "australia",
+      "city": "Perth",
+      "qs_rank": 77,
+      "qs_rank_display": "=77",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "Adelaide University",
+      "id": "adelaide-university",
+      "name": "阿德莱德大学",
+      "aliases": [
+        "新阿德莱德大学",
+        "Adelaide University",
+        "Tirkangkaku",
+        "University of Adelaide（前身）",
+        "University of South Australia（前身）"
+      ],
+      "website": "https://adelaide.edu.au/",
+      "website_source_url": "https://adelaide.edu.au/about/news/2026/a-bold-new-future-for-australian-higher-education-begins-today/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Adelaide University",
+      "country_id": "australia",
+      "city": "Adelaide",
+      "qs_rank": 79,
+      "qs_rank_display": "79",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "The University of Technology Sydney (UTS)",
+      "id": "uts",
+      "name": "悉尼科技大学",
+      "aliases": [
+        "UTS",
+        "University of Technology Sydney"
+      ],
+      "website": "https://www.uts.edu.au/",
+      "website_source_url": "https://www.uts.edu.au/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "The University of Technology Sydney (UTS)",
+      "country_id": "australia",
+      "city": "Sydney",
+      "qs_rank": 87,
+      "qs_rank_display": "=87",
+      "qs_year": 2027
     }
   ],
   "programs": [

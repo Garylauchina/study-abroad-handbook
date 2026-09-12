@@ -82,7 +82,19 @@ for term in ("预算", "高考", "Sheffield", "UCAS"):
     if term not in search_text:
         errors.append(f"Search text misses {term}")
 catalog = json.loads((ROOT / 'assets/data/catalog-index.json').read_text())
-for program in catalog:
+for university in catalog['universities']:
+    route = university['url']
+    path = ROOT / route / 'index.html'
+    if path not in pages or route not in locations:
+        errors.append(f"Catalog university page or search entry missing: {route}")
+        continue
+    body = ' '.join(''.join(pages[path].text).split())
+    for value in (university['name'], university['name_en'], f"QS 2027 · {university['qs_rank_display']}"):
+        if value not in body:
+            errors.append(f"University value missing in {route}: {value}")
+    if university['program_count'] == 0 and '专业详情待收录' not in body:
+        errors.append(f"Uncollected program coverage unclear: {route}")
+for program in catalog['programs']:
     route = program['url']
     path = ROOT / route / 'index.html'
     if path not in pages:

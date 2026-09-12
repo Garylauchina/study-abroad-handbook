@@ -1,0 +1,52 @@
+{
+  "country": {
+    "id": "ireland",
+    "name": "爱尔兰",
+    "name_en": "Ireland",
+    "qs_location": "Ireland"
+  },
+  "universities": [
+    {
+      "name_en": "Trinity College Dublin, The University of Dublin",
+      "id": "trinity-dublin",
+      "name": "都柏林圣三一大学",
+      "aliases": [
+        "都柏林圣三一学院",
+        "都柏林大学圣三一学院",
+        "TCD",
+        "Trinity College Dublin",
+        "University of Dublin"
+      ],
+      "website": "https://www.tcd.ie/",
+      "website_source_url": "https://www.tcd.ie/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "Trinity College Dublin, The University of Dublin",
+      "country_id": "ireland",
+      "city": "Dublin",
+      "qs_rank": 75,
+      "qs_rank_display": "75",
+      "qs_year": 2027
+    },
+    {
+      "name_en": "University College Dublin",
+      "id": "ucd",
+      "name": "都柏林大学",
+      "aliases": [
+        "都柏林大学学院",
+        "爱尔兰国立都柏林大学",
+        "UCD",
+        "University College Dublin"
+      ],
+      "website": "https://www.ucd.ie/",
+      "website_source_url": "https://www.ucd.ie/about-ucd/",
+      "checked_at": "2026-09-12",
+      "qs_name_en": "University College Dublin",
+      "country_id": "ireland",
+      "city": "Dublin",
+      "qs_rank": 100,
+      "qs_rank_display": "=100",
+      "qs_year": 2027
+    }
+  ],
+  "programs": []
+}
