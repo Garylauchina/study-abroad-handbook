@@ -1,5 +1,5 @@
 site_name: 海外大学留学手册
-site_description: 面向中国大陆学生及家长，从本科申请、项目比较到全程预算的实用留学手册。
+site_description: 面向中国大陆学生，按国家、大学和专业快速查询本科入学条件、国际生学费与毕业生情况。
 site_url: https://garylauchina.github.io/study-abroad-handbook/
 repo_url: https://github.com/Garylauchina/study-abroad-handbook
 repo_name: GitHub
@@ -14,6 +14,7 @@ theme:
     primary: custom
     accent: custom
   features:
+    - navigation.tabs
     - navigation.sections
     - navigation.top
     - navigation.footer
@@ -39,24 +40,57 @@ extra_css:
   - assets/stylesheets/handbook.css
 extra_javascript:
   - assets/javascripts/search-input.js
+  - path: assets/javascripts/catalog.mjs
+    type: module
   - path: assets/javascripts/budget.mjs
     type: module
 extra:
   generator: false
 nav:
-  - 手册首页: index.md
-  - 开始准备:
-      - 本科申请从这里开始: start/undergraduate.md
-      - 两个家庭的预算演练: start/cases.md
-  - 目的地样章:
-      - 英国本科申请: destinations/uk.md
-  - 工具与模板:
+  - 大学与专业: index.md
+  # CATALOG_NAV_START
+  - 英国:
+      - 大学列表: catalog/uk/index.md
+      - 谢菲尔德大学:
+          - 大学概览: catalog/uk/sheffield/index.md
+          - 计算机科学: catalog/uk/sheffield/sheffield-computer-science-bsc/index.md
+          - 经济学: catalog/uk/sheffield/sheffield-economics-bsc/index.md
+      - 曼彻斯特大学:
+          - 大学概览: catalog/uk/manchester/index.md
+          - 计算机科学: catalog/uk/manchester/manchester-computer-science-bsc/index.md
+          - 管理学: catalog/uk/manchester/manchester-management-bsc/index.md
+  - 澳大利亚:
+      - 大学列表: catalog/australia/index.md
+      - 蒙纳士大学:
+          - 大学概览: catalog/australia/monash/index.md
+          - 计算机科学学士: catalog/australia/monash/monash-computer-science/index.md
+          - 商学学士: catalog/australia/monash/monash-commerce/index.md
+      - 新南威尔士大学:
+          - 大学概览: catalog/australia/unsw/index.md
+          - 计算机科学理学学士: catalog/australia/unsw/unsw-computer-science/index.md
+          - 商学学士: catalog/australia/unsw/unsw-commerce/index.md
+  - 新加坡:
+      - 大学列表: catalog/singapore/index.md
+      - 新加坡国立大学:
+          - 大学概览: catalog/singapore/nus/index.md
+          - 计算机科学（荣誉）: catalog/singapore/nus/nus-computer-science/index.md
+          - 工商管理（荣誉）: catalog/singapore/nus/nus-business-administration/index.md
+      - 南洋理工大学:
+          - 大学概览: catalog/singapore/ntu/index.md
+          - 计算机科学（荣誉）: catalog/singapore/ntu/ntu-computer-science/index.md
+          - 商学（荣誉，单主修）: catalog/singapore/ntu/ntu-business/index.md
+  # CATALOG_NAV_END
+  - 申请工具:
       - 全程预算计算器: tools/budget.md
       - 预算填写指南: tools/budget-guide.md
       - 大学项目比较表: tools/compare.md
-  - 关于手册:
-      - 来源与核验范围: about/sources.md
-      - 推进路线与更新: about/roadmap.md
+      - 本科申请准备: start/undergraduate.md
+      - 英国申请指南: destinations/uk.md
+      - 家庭预算演练: start/cases.md
+  - 数据与更新:
+      - 目录数据说明: about/catalog-data.md
+      - 英国指南来源: about/sources.md
+      - 更新与收录范围: about/roadmap.md
 validation:
   nav:
     omitted_files: warn
