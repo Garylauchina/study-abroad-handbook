@@ -8,21 +8,3237 @@
       "locator": null
     },
     {
-      "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements",
-      "sha256": "5302ccd556019a409290d554f00ebd70fcc92522f1081bd780bd6ad6953244eb",
-      "raw_file": "scratch/full-catalog/australia-enrichment/melbourne/browser-english.html",
+      "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements/undergraduate-english-language-requirements",
+      "sha256": "bcffb515ac6a0c68eb6b89fc915c41ebbb0061b84c9b82c6a5dae8e6d6c58ec3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/undergraduate-english.html",
       "locator": null
     },
     {
       "url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
-      "sha256": "de501a45d999910eb3c12bdc6a12deb73b31f5f2722a0d56c0d5b252209421c3",
-      "raw_file": "scratch/full-catalog/australia-enrichment/melbourne/browser-apply.html",
+      "sha256": "05a299e83591100accd62f9e7461738336acd0446a3a3a8417bfbeab40265c09",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/international-apply-2027.html",
       "locator": null
     },
     {
-      "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
-      "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
-      "raw_file": "scratch/full-catalog/australia/melbourne/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/fees/",
+      "sha256": "b0e3eea4623d4a3b1aca1c2b2cf08b14a6f8fe9c1c6b1f6c4c7e854a44f3a099",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-arts-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/fees/",
+      "sha256": "34988b1a5826aaf5e655992e84095c3f66e80b55d48127297dbc0da7b625a928",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/arts-fees-international.html",
+      "locator": null
+    },
+    {
+      "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-undergraduate",
+      "sha256": "77a7cd1ec7921c2cd41fe0e7fd093f969eed3892530359b790d9477decfd4b04",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/excellence-scholarship.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/",
+      "sha256": "647064fb0673ae07e1af0c8ea6ce4d0d3fe9fbc897ae56e8380cf8c61bab082b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-agriculture-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-agriculture.json",
+      "sha256": "bfbd0ed68c33da72e49ca59cda01a9f433ade6de0302b179884786de00ccac8d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-agriculture.json",
+      "locator": null
+    },
+    {
+      "url": "https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment",
+      "sha256": "3cf027a232e661cbeeaf168a7ad6c8b4fe135a9facb09177f45743c8ad418c84",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/language-statement-expanded.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/entry-requirements/",
+      "sha256": "3df1c00807024c1cd04b3be378dde0874a61fab41cd998eb49fd99fef4233429",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-agriculture-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/how-to-apply/",
+      "sha256": "f315f655b7eff239c7ab0f1e0d5d5dec9d971ed560c554fc522284d1925835a3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-agriculture-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/fees/",
+      "sha256": "ec5bfe6d4eae9359b8c28b6cd75a3646934ed83e570aa4f4d5647deb1e300eb6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-agriculture-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/structure/",
+      "sha256": "da80f977a7b24ac203067f7fc9b902a9c6ad19efd62bea35881a90ad1b4724c6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-agriculture-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/career-outcomes/",
+      "sha256": "e48d0f8721cea86cb9c17de3acd0f5151360e023be14c8f439d55aa297246806",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-agriculture-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-economics/",
+      "sha256": "9c5771a77f1f38381d85ee03aff28614f363a61c2c8c4a45b93984a3525c0983",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-agricultural-economics-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/agricultural-economics.json",
+      "sha256": "bae492bd8c4a457d4132e5159e0ab21c3be99159fb3f6f9163b221d3c62d9b86",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-agricultural-economics.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-economics/structure/",
+      "sha256": "496757f8e94b93daf055e461da7f134a4bc33fa8d85b89c8304a19c754082bf2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-agricultural-economics-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-economics/career-outcomes/",
+      "sha256": "95cab6c047fdbf7a9df0b4c603afbcc98b8482dd18a902236a8936204469fb94",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-agricultural-economics-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/plant-and-soil-science/",
+      "sha256": "5d56accd5c4e669a7a9ca551bda23e951f9906cad4caaf8560e53711e96f3d9d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-plant-and-soil-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/plant-and-soil-science.json",
+      "sha256": "7a328b5b5a54eb014ca49dd33f832af32608d576f9442cca2b38432af8bcf898",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-plant-and-soil-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/plant-and-soil-science/structure/",
+      "sha256": "b1f2fbcbd51d7b47d00b97caaa5b5867af7de3823f4795550d5e2f483fcc93d5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-plant-and-soil-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/plant-and-soil-science/career-outcomes/",
+      "sha256": "bcd0cb75594b735c4de10f68680663d978a5f2362ef28b2a7be142d5eca0f4e2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-plant-and-soil-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/production-animal-science/",
+      "sha256": "98af447ac4fbabdb1fcd092eede3f205ba6e36875654a264096d32d70dbd82f4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-production-animal-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/production-animal-science.json",
+      "sha256": "8d1b38ccfef203b32066a633d4d479eb387a736098b4c5828f4313ce4c12ad01",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-production-animal-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/production-animal-science/structure/",
+      "sha256": "82520e75fbf0873e5e12ad679a07337f61a988316ec0e205d74660c2d34a839f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-production-animal-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/production-animal-science/career-outcomes/",
+      "sha256": "251fb179af215e7456247922244fdfb222d5b804a2faf0b7cfc75e699076973e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-production-animal-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/",
+      "sha256": "9590c4307d4a2a4229d45c2b6bfb1d5494a29abe1df0f60176b02a30e9a2b5d4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-arts-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-arts.json",
+      "sha256": "b7e61716cf5d92b6b1471913941e989391712c9cdfb60b5cac07d7dc9ecf7047",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-arts.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/entry-requirements/",
+      "sha256": "11a13e40a5a87366707e3738f931c9936a48d9da9ec06227938f1cf70d77983b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-arts-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/how-to-apply/",
+      "sha256": "69f54fd2330b175ee684590bbeb75af196fb4f2c52b168df15dc2f2871bd02da",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-arts-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/structure/",
+      "sha256": "4788106adf83aaa6cd9bfabf638a8cf7464cbbdba018941676d32f1360f5d74d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-arts-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/career-outcomes/",
+      "sha256": "adaa9ac09e1bf850f55f94fa6e51f2617c4c067c6499cc6634a866ffb430c4a3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-arts-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/ancient-world-studies/",
+      "sha256": "aefd236e290f76f760a697b9588e5c96494bebbd5d0ebdefe518eb6dea86138f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-ancient-world-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/ancient-world-studies.json",
+      "sha256": "aa42d24c6e8ad4c475a1bc7b520cc8bb34a608f7e05748db4df38e689b9fb038",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-ancient-world-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/ancient-world-studies/structure/",
+      "sha256": "4f9203474e4681d718cb612e73f33aa4506d0b5664ff5fd205064007e63b63fb",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-ancient-world-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/ancient-world-studies/career-outcomes/",
+      "sha256": "4ffedc93262c20e963b6c6536214e8dc6e483fce63967ce7b0f80f579c2f4925",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-ancient-world-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/anthropology/",
+      "sha256": "0dc2882f1f304307df85d26ae0fde6340e40ddf3e2ae399f613a979dfe53ffe6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-anthropology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/anthropology.json",
+      "sha256": "8acf4cbd847ce2e3c945a252734e678da916454bd2765f736180dc345d0091bf",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-anthropology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/anthropology/structure/",
+      "sha256": "efba27a87f8d67497a179a896a511e80763f5763277361c5a1e4b6796dd61077",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-anthropology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/anthropology/career-outcomes/",
+      "sha256": "613c7b1d06c18c1f8460ab8ff1f6982400c242b91a04c6d333daa80fda5ab5bf",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-anthropology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/arabic-studies/",
+      "sha256": "a32d63d201ccf81ef4a61922a17a076df2804db5dba7e740d3f82decfdb87096",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-arabic-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/arabic-studies.json",
+      "sha256": "60de242d2f6db003f3acb168b014dc0f01f2b04c8b6878a2e729cbf6dc29d404",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-arabic-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/arabic-studies/structure/",
+      "sha256": "aba737c8c4933b3aa7bf2968089323228e977187cb53e61038ed5e207ec2dcdb",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-arabic-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/arabic-studies/career-outcomes/",
+      "sha256": "8910303f098c2f30cccc31799f5413794c7a19f04fa34c86d7875fa0d156b8c4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-arabic-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/art-history/",
+      "sha256": "d0c92b0ebaccdf5026f3ebf14baf3d2eb600a999a0c4b1afb09efe252b3b560a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-art-history-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/art-history.json",
+      "sha256": "865ab70f21bd0d307788b37e3fe4ae9dda7ee423123cf4e1dd942eeda5e512d3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-art-history.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/art-history/structure/",
+      "sha256": "5a9e63a119eef01a5f427850f03a0af980ece3f7577b8a334f10688ed91bd236",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-art-history-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/art-history/career-outcomes/",
+      "sha256": "525e8cc08c0f2abeef3ac95927148f49b56b08d81ab19d3ed2b78c274a0ea6de",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-art-history-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/asian-studies/",
+      "sha256": "b4e9a345128fa415450217e506dc64288ddeab6120c066d9aae2add95d440b99",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-asian-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/asian-studies.json",
+      "sha256": "91c15f1d38a9ecba7d0d6454bebe744f50e8d50a5272caf85866b2684227f5a6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-asian-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/asian-studies/structure/",
+      "sha256": "e161160d3fbf181688189dda332976eb09004b8e2b196f2abfe617c17f8a1ccf",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-asian-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/asian-studies/career-outcomes/",
+      "sha256": "36ee20114be9c7949a4582be6f6d1462fc9a7f90695061b97514a351e26c7389",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-asian-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/chinese-studies/",
+      "sha256": "8724b883bd3f0f9aa72a8348781bb5704296fd325188e572d0f08f6e87d3df71",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-chinese-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/chinese-studies.json",
+      "sha256": "871a6b8770aeba152785e50913231efe0238827d1225bfe40ce013cf84af9b08",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-chinese-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/chinese-studies/structure/",
+      "sha256": "8a3ef21ffa1ac2fea858f72d9ed7ed61d30f129d164e287fd83b9c9a9bcba488",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-chinese-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/chinese-studies/career-outcomes/",
+      "sha256": "f818dd4fc45daecacd1a033b8fc448fb6ae2b1d08a613cc3ced3d8f0cfe42ad4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-chinese-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/classics-ancient-greek-and-latin/",
+      "sha256": "054c9d77f8d2e0b491609b9612a5e10ba7db898619ecd67a52b012dbc81d74c9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-classics-ancient-greek-and-latin-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/classics-ancient-greek-and-latin.json",
+      "sha256": "02d41b68c099e286a9ac9f2df03e037ee60f1dd4a83ddb1c6a24acd27f3574b1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-classics-ancient-greek-and-latin.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/classics-ancient-greek-and-latin/structure/",
+      "sha256": "ccbc11469bae1098ec2820c980c21894aac4f7b31bf03803997a8feabc444d86",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-classics-ancient-greek-and-latin-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/classics-ancient-greek-and-latin/career-outcomes/",
+      "sha256": "37e02c35a1b00ad703114b4b2070cc30c7af976179d9591b169cee93fcf981aa",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-classics-ancient-greek-and-latin-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/creative-writing/",
+      "sha256": "65ceb740551cb2118f9387d2a493711570eb54c5dbf9385a253c80cf3b531bcc",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-creative-writing-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/creative-writing.json",
+      "sha256": "16cf656bfd72a665feea89a038c036aee3675a12f18ac0a4bdb4672af840037e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-creative-writing.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/creative-writing/structure/",
+      "sha256": "7a96b78b187059c2ff59b742624cec4e7e2e5992344fd40cdf60de3acf35b0f2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-creative-writing-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/creative-writing/career-outcomes/",
+      "sha256": "5887fe48aa814297be5965f73b8ca8cf05e5eb2da6a2c16f5183125a6e33ed21",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-creative-writing-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/criminology/",
+      "sha256": "59428af0742a1e2ce5b49062986ff4dd9bdc16fa1370b6d9ff78957035af4c35",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-criminology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/criminology.json",
+      "sha256": "fa1eb6c3773a1779c2cc2ef13140e8ac58222f9f5734256e2652f14975d6f247",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-criminology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/criminology/structure/",
+      "sha256": "9a5f117f8ee95c69f1cec03d115b0ec426b6e490c4710d194e9a9e3e862da1f2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-criminology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/criminology/career-outcomes/",
+      "sha256": "3f8613d3abdf0f883d176c602bbd35fd8f5f5a8a997b79233f07eff023089ce5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-criminology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/economics/",
+      "sha256": "8b66bfe66097b0fa411c16c17e87d3d6d1cca83ac563cd6d0f6531a7bbab4e52",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-economics-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/economics.json",
+      "sha256": "ef5d18d303752c19d9b6749b0ba913ec97cedc30aaf89261466e7d9e1b2144af",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-economics.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/economics/structure/",
+      "sha256": "1d1a71e01a29d8f39f97ce0d70f19630dd2ee8c281c3c9a6598788957a80f0e1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-economics-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/economics/career-outcomes/",
+      "sha256": "96abdd02882b1d5c66f9e74bc82742fd7c2c21b83b779d4a9ee334a87b019cb9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-economics-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/english-and-theatre-studies/",
+      "sha256": "56a3c62bdedd8f19d387f568d3db05fd262ce64abd5eeed06986847e698e06a2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-english-and-theatre-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/english-and-theatre-studies.json",
+      "sha256": "978faf29f8381497d70799a9ce4635c18ad6f36eb7738751ed102c5cde31e11b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-english-and-theatre-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/english-and-theatre-studies/structure/",
+      "sha256": "ed9c062b58e12f14f25e5b7668b4af92d52635c2a753d18733649db3027eecff",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-english-and-theatre-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/english-and-theatre-studies/career-outcomes/",
+      "sha256": "4d0d56e213fdac05798fff43ee0731f7e2eee2897b640c679c4075174fe5e995",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-english-and-theatre-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/french-studies/",
+      "sha256": "f17d4a4e6902612436fce19d61160bca537869ca68f493642490f37c195fb3e3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-french-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/french-studies.json",
+      "sha256": "308522bc524bee23ea822841980adc9839c4117257a9b7d374f58a753127200f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-french-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/french-studies/structure/",
+      "sha256": "dd048aad31ae5b1018fccf04172b7cd779c422d835627d84e0183c8ef71ad057",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-french-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/french-studies/career-outcomes/",
+      "sha256": "ec00bc56dcfd738ec14d6e42172819275e3b4cc25e0f2cac7737829ef1c36c27",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-french-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/gender-studies/",
+      "sha256": "1dc6dc2fbd99c334977cd724ddbe885d5ca1581478d6232e03a6a5d4c01e5c36",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-gender-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/gender-studies.json",
+      "sha256": "a6d91ab90fd7ae56814656182d8b3911d6465e8af3a90ea3f7d1db1d63fd04ec",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-gender-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/gender-studies/structure/",
+      "sha256": "1200011df967215705602cbb44cac5d3087c6fa26154ff99edeb4a4ec1f1d091",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-gender-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/gender-studies/career-outcomes/",
+      "sha256": "c52047195862d18d788bd78147188e257f14156bc0d72c90b9a877327bee63ef",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-gender-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/geography/",
+      "sha256": "0a4766053b9c5db96f590b140b41defb4976808b9adef73e3b32964e38b4ff30",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-geography-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/geography.json",
+      "sha256": "0b69c5743c0f24c0cd271d56128cb97708c23937afe9c57628ddd5c879f9e85d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-geography.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/geography/structure/",
+      "sha256": "0dd4956ca8fa042255a1afb894e6cb5e309008932c42fccaccd419dae1617b7d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-geography-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/geography/career-outcomes/",
+      "sha256": "bf4688122c8300b09907b63096367fc9ca879546de3bdc12a0a5cc8ad26f91fd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-geography-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/german-studies/",
+      "sha256": "28d6401ae4748ad088af8b2503e97a55ab98af055bfe86317c38806b62398afd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-german-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/german-studies.json",
+      "sha256": "fd3ca292c000db99f7a3277f2fcbb7a45e9f6b6c99e0364534695b9d41fcd30b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-german-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/german-studies/structure/",
+      "sha256": "1bc608f876f0a519f64b9e49fef41c2b238aaf0b3a6d396a8b6dd8e4288dffc4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-german-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/german-studies/career-outcomes/",
+      "sha256": "46c4bb2169b9f5f3b8cc858ff3ebf487337194e98c404b5f4622da4dcf3c0748",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-german-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/hebrew-and-jewish-studies/",
+      "sha256": "a3e02fb75444503712e96299f73048faaaf4a56a066aae220d76ace5d5e7c302",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-hebrew-and-jewish-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/hebrew-and-jewish-studies.json",
+      "sha256": "df03a6d8607d4759ac280c3150baf93b77d88ac4873b2f5210f16e111fbe7d3f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-hebrew-and-jewish-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/hebrew-and-jewish-studies/structure/",
+      "sha256": "408710bff31fd0d5dc0d4e12191ddb507143df9c186b638ccaceb6a8473ee8e9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-hebrew-and-jewish-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/hebrew-and-jewish-studies/career-outcomes/",
+      "sha256": "a7cfae75fcd501b2615ef559e75b46cbbb4a6169b05b8f716b066e1e08307404",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-hebrew-and-jewish-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/history/",
+      "sha256": "65023bf89e0bd82148b427a10e17c8925c03b16e28e1c1f5c36d971d75cf4870",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-history-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/history.json",
+      "sha256": "9a3421c4fef0e2f79662aa3ff89882adca740be4076095bfef9cd985938d8aba",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-history.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/history/structure/",
+      "sha256": "4f40b265302563ea1752f0533ad55cc68e91c7b75c00b4819fc863189b560192",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-history-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/history/career-outcomes/",
+      "sha256": "557a7e0811ded7f286dea30c1f8cfbc42e159a6c1940753c8bda159bf7d397b5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-history-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/history-and-philosophy-of-science/",
+      "sha256": "35a8a4e5b35694e32d9269cc8744edf8dcaa078b70acbf15cee63588e062b28a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-history-and-philosophy-of-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/history-and-philosophy-of-science.json",
+      "sha256": "6d57aa2364d9884c10d6d17bbf503b8053924b22d1bd3c57ef758d7886514266",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-history-and-philosophy-of-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/history-and-philosophy-of-science/structure/",
+      "sha256": "89f9b9e5a969fc9813092a170ff5bbc29cb6bdedad2a5f677ad7d337dc229ba2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-history-and-philosophy-of-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/history-and-philosophy-of-science/career-outcomes/",
+      "sha256": "fbe0234c2af88f4c51fbbb90acdd10e49db412cbdb4122d59d56c8db80679ea1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-history-and-philosophy-of-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/indigenous-studies/",
+      "sha256": "cfd15634d32744d1dea2d48b6763536d68d5c26c9824028f1da0ac65386a7daf",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-indigenous-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/indigenous-studies.json",
+      "sha256": "cf5fec06450707617b8710b4f5e380632680e2b677afdf3351495c92bede1c2d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-indigenous-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/indigenous-studies/structure/",
+      "sha256": "acaf852bd032b6ee6b4f26005409ea689597e62a0b67a3571aca6b79770bce5d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-indigenous-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/indigenous-studies/career-outcomes/",
+      "sha256": "4a2f13c652a1f587dc8c2927fa44e1b9f8099734a983c099c937a1106074d2c5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-indigenous-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/indonesian-studies/",
+      "sha256": "1a1df1f6cc853a62ee1d2c090d8abbfcd213a7f6b16d0fb2a679ca504ac14b42",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-indonesian-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/indonesian-studies.json",
+      "sha256": "138267b9627d9d4238df98f80c3f5c854b6e1e610b8d84821ad3d165d6789334",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-indonesian-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/indonesian-studies/structure/",
+      "sha256": "1f0df34d9ca95bc8bdc75abd142a431206120b44cf73d6d2c403a3968fa8bb83",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-indonesian-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/indonesian-studies/career-outcomes/",
+      "sha256": "08a38461ade3ac9a9cd6939b346e910110d25abeae77211bf05704dc4661e259",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-indonesian-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/islamic-studies/",
+      "sha256": "470feeab291839425d2c8318ace164e47140ac6b2e2da24bce01fe39f691c3ee",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-islamic-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/islamic-studies.json",
+      "sha256": "64bc7702b5d59a808894322711a884b569d2979a8365f190dba2f3e9395fb747",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-islamic-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/islamic-studies/structure/",
+      "sha256": "58aefb469bee49fe92d5f81424784d86fea890bdcb20b998a62f06c7591043e0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-islamic-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/islamic-studies/career-outcomes/",
+      "sha256": "1db28f117396e727a6746943803061c2188131670dc8c925ea0512b1c7ba3ee7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-islamic-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/italian-studies/",
+      "sha256": "32152cd4cab9e5d4ae363aedcb17a16fce3519a78ac091e5bb03320f3aca0fb4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-italian-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/italian-studies.json",
+      "sha256": "ba56ea71eca9cb35dc4fcad93b6b9b2cdbff6457fb47db36c2e86715fc88d13e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-italian-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/italian-studies/structure/",
+      "sha256": "3ad59c26317a1ad8de15033a82d8ef45db5bb446c08d50759c65e3cfa5f4da82",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-italian-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/italian-studies/career-outcomes/",
+      "sha256": "200fece684539a6d7a499ba53dd76b4e29023b2f799990dd531da958c987cde8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-italian-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/japanese-studies/",
+      "sha256": "bc1c0b40c8b338f7d104a5fe93f5ae39174bca064c4aa9b515fe939760e0740c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-japanese-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/japanese-studies.json",
+      "sha256": "154258c34418a0ca095fc08b5f1eb1c5c26d110fa7fec3f46bc17bda4582934e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-japanese-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/japanese-studies/structure/",
+      "sha256": "6dd8906385715283252c5725856651bbab7cbf6d7783982f09cddcd92bd40bce",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-japanese-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/japanese-studies/career-outcomes/",
+      "sha256": "f1c26844cf91313c5b8677a0372050ff2952da02e555a8cea44dfa8cd8377112",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-japanese-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/korean-studies/",
+      "sha256": "fbcf20f5db4819de136953f41c0f98cd85b9aedce190ef96fc84903772e617ec",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-korean-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/korean-studies.json",
+      "sha256": "55f1571d7c8fbc9e301a9f88c1c357db25f5addb0de0bf5666aa50e7995ecdb2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-korean-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/korean-studies/structure/",
+      "sha256": "f73a7bcbef028be045ab980616ac169fc36349eed9e62ba6c356c9bb515eacc0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-korean-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/korean-studies/career-outcomes/",
+      "sha256": "95271e713cef67d87ed3ea64534f05bd552cec56ae2ee073155e8c24e806268a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-korean-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/linguistics-and-applied-linguistics/",
+      "sha256": "05335cc068aa97dd66f1f2311d5f48320f3000d2946355de41d8893314eaba89",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-linguistics-and-applied-linguistics-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/linguistics-and-applied-linguistics.json",
+      "sha256": "5a1d49258b927faeac2b3b65ab5fc14235871a38e4e04841dea8c22f191846e7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-linguistics-and-applied-linguistics.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/linguistics-and-applied-linguistics/structure/",
+      "sha256": "c1e81937bc32fd674124e142750094d7b59f04a4bb9dc7c8b2248ca865d39bb3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-linguistics-and-applied-linguistics-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/linguistics-and-applied-linguistics/career-outcomes/",
+      "sha256": "3002f20c2be33609b49df7fbecf85e1db13a94d8d7fd294440c6c14471e63c9f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-linguistics-and-applied-linguistics-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/media-and-communications/",
+      "sha256": "9c3d8142a74dbc2004a27a3c859ad8fd018f156148aff95b13f0b81bcd7283bf",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-media-and-communications-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/media-and-communications.json",
+      "sha256": "af848f3968e78e1cd782813d84a01e46f160b6bf525b79ec513d8b6ac975497b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-media-and-communications.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/media-and-communications/structure/",
+      "sha256": "95e67bf23c91f9d9e1c29b1d46060b5020ad0fdaf7a45976d98594565e43c107",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-media-and-communications-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/media-and-communications/career-outcomes/",
+      "sha256": "e0fbf77e56efbc230a834c3d85e4ac29a660fd675ec71d2685e5942e7472b545",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-media-and-communications-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/philosophy/",
+      "sha256": "feb9a8a462903646627d7dd3bd99260866cd84cc7379dbf82840ab2c4d73236e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-philosophy-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/philosophy.json",
+      "sha256": "1e273705478edd496c023bdf994b902007944edeb9ff5294d5cacffa038ae34f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-philosophy.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/philosophy/structure/",
+      "sha256": "68549b6ab3c608a61085bce93987edde2fccd7da668bfd74c42bf19b03e56a15",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-philosophy-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/philosophy/career-outcomes/",
+      "sha256": "ed3e4bfeff15f6412939d8f88fe2db7d7ad667ea68639bdff16aa357376bd1e2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-philosophy-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/politics-and-international-studies/",
+      "sha256": "df6f3e9492031913b46cec5403811b2d3c3aa5f27fc15b79859b85b491abc743",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-politics-and-international-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/politics-and-international-studies.json",
+      "sha256": "5a2d81a1791878735666ca1b688696531187031cfcb98268eafd600bee2e16e1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-politics-and-international-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/politics-and-international-studies/structure/",
+      "sha256": "50bc8fa56e2c373ba32de16d49748b8f507be95587b16508cf3a75e7c74eda21",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-politics-and-international-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/politics-and-international-studies/career-outcomes/",
+      "sha256": "c23e879a65648973d096c11e6d33fc4b35d5b77e7adb06b84519a415b4e76065",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-politics-and-international-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/psychology/",
+      "sha256": "6e513a85f34ed9147af5598cd7e518290aa8ed67d58fd35bd22ab4fd395b6a15",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-psychology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/psychology.json",
+      "sha256": "2eb8e5a096d23c8d88ce6ec986a169fa3d4ba65cdc0df568edb74180d750747c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-psychology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/psychology/structure/",
+      "sha256": "5891918f97778096e3d75f61c35919d12b14fc17a0e76f74e9321428bbcc8c9e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-psychology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/psychology/career-outcomes/",
+      "sha256": "3f7f5dcb06ed7fea3f60bb07c5bda9cf66eb84e10eddf182f35235d7288c079a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-psychology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/russian-studies/",
+      "sha256": "2f54470798050c4da2e4118ac2172d089fea6a0df42cdff714ce2cb87b429421",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-russian-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/russian-studies.json",
+      "sha256": "ac5fce0323c3ce3bdfe46df3d984795805d77e03287ec32db6ad38f801c45468",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-russian-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/russian-studies/structure/",
+      "sha256": "410c0549f809715a76d9c73f034dd0b4aeca82495aee99918924486bab9d6c09",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-russian-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/russian-studies/career-outcomes/",
+      "sha256": "36ad9eca09202703fcce336f8d1e8c9b13f447bd9260edeae2279b783a947f73",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-russian-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/screen-and-cultural-studies/",
+      "sha256": "58c5a30f2ff55cf3565e5ee460c51968a0336a670911fef2329a75a26b8d747f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-screen-and-cultural-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/screen-and-cultural-studies.json",
+      "sha256": "95adec7596c7941981fed349a800edf901459f6be2faa9efd29768f753045ee8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-screen-and-cultural-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/screen-and-cultural-studies/structure/",
+      "sha256": "28420928e1d44982a2e773af9a4b8308a1448c1b74f2cec41a18190d45eceafe",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-screen-and-cultural-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/screen-and-cultural-studies/career-outcomes/",
+      "sha256": "3c392d900424579e9f196d4f6b4539e8e3bf575d1fa842d397103bba30719534",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-screen-and-cultural-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/sociology/",
+      "sha256": "7afb6d30953c30ccdc4867b743cd8269dea0e79092a52d8bf1c8b9d24594a651",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-sociology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/sociology.json",
+      "sha256": "485d0c63577108ee7df3b14dabb724368382245648738fee4cd017a509f972d7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-sociology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/sociology/structure/",
+      "sha256": "ee6f0fca1760c61853ae9b13fdd7c23eab2fdf112a887a870488779a7a89eb67",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-sociology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/sociology/career-outcomes/",
+      "sha256": "a75d8afa1892f99eddb3840b4a8e67ea0ae5e0a5a4eeb68178368f02ef10c5b7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-sociology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/spanish-and-latin-american-studies/",
+      "sha256": "3632b7a471cfb6e1e9e6ba9e34f4bc24feb651e63019816e21711f1b8f903bb7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-spanish-and-latin-american-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/spanish-and-latin-american-studies.json",
+      "sha256": "8f081b2c3f9f239646b858c3191f07d68d0c5a8baf59e818272a350aaf7e8fb4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-spanish-and-latin-american-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/spanish-and-latin-american-studies/structure/",
+      "sha256": "6c0887ceb5d9ce242910bd4c29dc175f6f04d627e6f8ac067fc77fa6e0d3128b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-spanish-and-latin-american-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/spanish-and-latin-american-studies/career-outcomes/",
+      "sha256": "0e4324c2c18c79f132a6e2942f2292a37269265017643b7cea5a3abba2bf984e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-spanish-and-latin-american-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/",
+      "sha256": "c006d84274aacca8cc537e5450b54ad8d15ab59cc0e3e4818b898ec74cd5ec56",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-biomedicine-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-biomedicine.json",
+      "sha256": "d40b4a376bb593bbaf8f842ef0bb99ee9b6ec194d20a2b1112e20f2052af20de",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-biomedicine.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/structure/",
+      "sha256": "02a43c7e1e39b6f68e8cc1c9856b458eeae25ed68b0fddcc83ab7d462af0b7d5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-biomedicine-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/entry-requirements/",
+      "sha256": "c170b8d395f5ebcb5b4848a815d6b451365b09a57eaa1d5449529759c58ba6e4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-biomedicine-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/how-to-apply/",
+      "sha256": "e309f908616ae04b3c3d386ab58e8c8dc3ae22c9d54a4d95c089db5ea5bcf5cf",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-biomedicine-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/fees/",
+      "sha256": "8f6acacd193c878797cde4f4e0325878fc9b039cf77a91a05e6fa1bc67773f72",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-biomedicine-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/career-outcomes/",
+      "sha256": "4873ea47fc946a1336ca92707267cca17f7771182bfc161da518ccd041a40872",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-biomedicine-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/biochemistry-and-molecular-biology/",
+      "sha256": "138b6ae37fe093a2f21233952f430c7c8cf3be6a953494e92624429e1644b6bd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-biochemistry-and-molecular-biology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/biochemistry-and-molecular-biology.json",
+      "sha256": "d7f0a0e70e105ec1413913ebc1305c7185a8652656f45747581dee2ffc955a18",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-biochemistry-and-molecular-biology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/biochemistry-and-molecular-biology/structure/",
+      "sha256": "8082e61e9b7d7225e827b2e46ccd148a4258809ca1785aca6d2be2c6b2248f2f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-biochemistry-and-molecular-biology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/biochemistry-and-molecular-biology/career-outcomes/",
+      "sha256": "12d446a6c04b88d26f1310075f122a4b4350c282ef833fb1d14714ed6ed83599",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-biochemistry-and-molecular-biology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/biomedical-engineering-systems/",
+      "sha256": "50159e7fadb380ae0f15d41728d7bdad857a506296c9cfd3843634654c816f41",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-biomedical-engineering-systems-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/biomedical-engineering-systems.json",
+      "sha256": "6614b35fd6590981e23401508ec0debb7eb8a466fd3bd3292e1ec70cc812ee67",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-biomedical-engineering-systems.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/biomedical-engineering-systems/structure/",
+      "sha256": "d5d2d1465579b52d1fd264524e76c01e4a762edfaf9da0d9f086237a53874e2e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-biomedical-engineering-systems-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/biomedical-engineering-systems/career-outcomes/",
+      "sha256": "9ac43497bf5c2ddddc89ce7c7eb581b4a3b17c542620524ab36bb39de02312e8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-biomedical-engineering-systems-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/biotechnology/",
+      "sha256": "466e3eee3483281b71083415e831b09080b06f742ac63a526e85e69a0f2c1525",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-biotechnology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/biotechnology.json",
+      "sha256": "dd8991feb0209f03e5031a03d3635c28a3cd93102156e79d9ef7b4b44c1bd0d0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-biotechnology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/biotechnology/structure/",
+      "sha256": "86348610728c01e099b7a73f9d627e316365c19af99f4a74f2ebaf7ee0d0bef2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-biotechnology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/biotechnology/career-outcomes/",
+      "sha256": "a5ede777154b9d1ea450f948e016a0412f16d2b7b8b6137f4226c5475736a01a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-biotechnology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/cell-and-developmental-biology/",
+      "sha256": "bc9916a9bbb89a472f81dccd506186149589ddcc5584ec3d4617b2b803edeeef",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-cell-and-developmental-biology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/cell-and-developmental-biology.json",
+      "sha256": "34f32f1c50ae8f5a47b901c10395af3a7d381b07eee676cc6083f355682ee37f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-cell-and-developmental-biology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/cell-and-developmental-biology/structure/",
+      "sha256": "25da20d7650f3bc3942c22942c9d584ceb97bb7659da58580a44f357324fe6b2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-cell-and-developmental-biology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/cell-and-developmental-biology/career-outcomes/",
+      "sha256": "2ac11ea614ab4b38816d34d8d637d372ad6e1aac41e8b8a944477339770fbe79",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-cell-and-developmental-biology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/genetics/",
+      "sha256": "7dbbdfbdf3a1ba0e5bf994975edb47c935bb1fa725d09be72247534e86fe60b2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-genetics-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/genetics.json",
+      "sha256": "a3ecfd85b58ff65c9f12d312338729384cb95b61b7a01e204ad7477ee5202703",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-genetics.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/genetics/structure/",
+      "sha256": "e444d8ab76556da7486fe9d866df90805025a0a260d952e163a78d0e801fa774",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-genetics-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/genetics/career-outcomes/",
+      "sha256": "f6be3186a292bdd20bf88e03f5de8e59e2f06f4fd70ae8211346efbbd11dd9e9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-genetics-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/human-nutrition/",
+      "sha256": "56563cd488c4d1a8853c76e475b1414e6a4c8159d4591d421897213f5e5ed04d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-human-nutrition-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/human-nutrition.json",
+      "sha256": "abbab344304db1fdd4b842f4db4f5d17799193751dd31a44389eb23c10c3e5ba",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-human-nutrition.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/human-nutrition/structure/",
+      "sha256": "d1a91d0cf140ddf636ca1a0bc5ad3a25678503a8a2b5c4315927f49bb001470e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-human-nutrition-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/human-nutrition/career-outcomes/",
+      "sha256": "0ebe55bbc8ba1c629424471d04c623cad56d9aabf3911d5e0fffc261e0f47d60",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-human-nutrition-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/human-structure-and-function/",
+      "sha256": "56d51c0a89cbc1f3a8fbd9d7d6eb0b1a6e023aa87378c5e88065ed08e92f8a86",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-human-structure-and-function-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/human-structure-and-function.json",
+      "sha256": "48045cd282bd0c39058aff026005e7c5bb02d2f98a04f4e751810e655f14fd98",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-human-structure-and-function.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/human-structure-and-function/structure/",
+      "sha256": "5c46cf4a528f7e1851426978bff5af309f094e94c39d3753424b860d0ffabed7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-human-structure-and-function-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/human-structure-and-function/career-outcomes/",
+      "sha256": "a9a7eecb25cfda0805cc8b62ccc9ee78dfdf6969888186c041a10ac76ec14083",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-human-structure-and-function-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/immunology/",
+      "sha256": "df1ba179f8cfff1dfe606ebf467479d7971ce2e51f9d848089d3602fb1fea759",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-immunology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/immunology.json",
+      "sha256": "8394ef57d1afbb0bc78a0251e62a5a868aa2abaada02d51785b54ec317611754",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-immunology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/immunology/structure/",
+      "sha256": "830933932881541f45e8bd511d77a506ac2eb26ac7579cf0ea6416ebe7d0115d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-immunology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/immunology/career-outcomes/",
+      "sha256": "888e531ac41d833cc41c87f4bea74928532e1de8fafbea503de971ccb485ab77",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-immunology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/infection-and-immunity/",
+      "sha256": "81a7abca856da58aa3e864551a5a823a5dc8477917b4c56754e6bbbdcb98ccd3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-infection-and-immunity-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/infection-and-immunity.json",
+      "sha256": "348c77ef4244f0f1c857d3d18cd66f3406c1532e33b94cbba9e49d8bfbd7d58c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-infection-and-immunity.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/infection-and-immunity/structure/",
+      "sha256": "942601fb5ee28047a4ee9b26137acc5cde5600added87b187827c48c44864094",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-infection-and-immunity-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/infection-and-immunity/career-outcomes/",
+      "sha256": "7003564202f99ab3ff6111930660bae6a53cf05bc56047ac45d4f43950983b5e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-infection-and-immunity-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/microbiology/",
+      "sha256": "e477e5d80d8ababc0c15eef28e24f8aced4199b317058eb0098b577c919268bb",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-microbiology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/microbiology.json",
+      "sha256": "970b752d087daed271c6718e33732a5805e4bf9bb5084326b9bd164d9c523dfc",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-microbiology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/microbiology/structure/",
+      "sha256": "c02b5fa3e148484217d98195ca8c62891d6a3450061493ffa401904b4d62f1f0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-microbiology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/microbiology/career-outcomes/",
+      "sha256": "66dfcff1c2ee89a5b4d722c8ff83e2089bdebd72a504d9ea99fb3f467da1d1cb",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-microbiology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/neuroscience/",
+      "sha256": "b9504d9d1672942f494e5ed9abe45550ffe0200e68c7eb5aea637a5fd8ee4096",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-neuroscience-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/neuroscience.json",
+      "sha256": "5b3cfd89441f29399febe0ceb033fe780401d8e6c34d4310e6527795bb3687d2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-neuroscience.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/neuroscience/structure/",
+      "sha256": "4176a816c988d60a4c8a5345713da2ca9397b4b6a0b4cdd83a17f408d96ba02e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-neuroscience-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/neuroscience/career-outcomes/",
+      "sha256": "e1e0588316dea92a8f7e3f3fc9af9104ef757f3c6caaab9cab1bea2a3cdbbe3b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-neuroscience-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/pathology/",
+      "sha256": "41c2802c5adee5a7568bf313e32bc2b2e402d7cea9aa45214bfb85b8e223ffc6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-pathology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/pathology.json",
+      "sha256": "26804604afe893700517b83d2bd021c56b5cb3d7fc2b1652ecb4f805b4860050",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-pathology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/pathology/structure/",
+      "sha256": "fbdb895b6a15beb9866f8fd9812868548964aa6f6f9e82551c199bf4116af263",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-pathology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/pathology/career-outcomes/",
+      "sha256": "fab204aaf6fd8edb07b59ec478d5ff7a50eb1bd963a0a8c2012ad7e543e01063",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-pathology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/pharmacology/",
+      "sha256": "e1a819662b9db6a9803eb833cd97ef46188b99b61c88f8ee134a4b4d065f14e2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-pharmacology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/pharmacology.json",
+      "sha256": "acd8316f852888dca70373c7db9d7aa58861c348c0653e0bcfc43c12d6cb410c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-pharmacology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/pharmacology/structure/",
+      "sha256": "2b4aa544ef387e99c1705b07afcd0b7a6e18793c96a623bb1ad146de593a4c33",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-pharmacology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/pharmacology/career-outcomes/",
+      "sha256": "2baeedfd8befe81aebdbc47e57c6fd228dffc60752f1718609fa4216886a7419",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-pharmacology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/physiology/",
+      "sha256": "06fd780f79bb989ed47323c6afb1cb7a48e07eee424c4989a4bdd01273698024",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-physiology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/physiology.json",
+      "sha256": "4b1e4c36cf1e673849343ead866f59f94bd3eafa24a0ca3a4c7804e879e43850",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-physiology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/physiology/structure/",
+      "sha256": "cf51e99281741b81f9cdc6767a7f39f5096f8584740dbe729e4a9fc233f1e0ea",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-physiology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/physiology/career-outcomes/",
+      "sha256": "7bc2567d258f9d960ae0a64f9042543823ff3c5daa4762b1f74f67fd8ed375be",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-physiology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/public-health-and-epidemiology/",
+      "sha256": "dbe3d6570d73b0eddf0ed60c9cfd94bdf22ffb24ba6396b3d4704d164f6c0fab",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-public-health-and-epidemiology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/public-health-and-epidemiology.json",
+      "sha256": "58cc09520a07be387137889f4dffe0f3415e6bb9abfc71dcd8fe3b5c354d2781",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-public-health-and-epidemiology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/public-health-and-epidemiology/structure/",
+      "sha256": "0f55d8216ffbd0db7d478c89203ec618774ad29c884905640c61a1817bcd35de",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-public-health-and-epidemiology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/public-health-and-epidemiology/career-outcomes/",
+      "sha256": "4fa0547b94dd4af213baf80208f707868b017c3043782efc23cf9864ae48e586",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-public-health-and-epidemiology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/",
+      "sha256": "64c9cfb001f1bff6f8ce4412af48198035dcda614f1d93ec5bab471b69b12f78",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-commerce-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-commerce.json",
+      "sha256": "93b41a11445296d4904549d37a4066a1b05528d3e35ab0c51b42025ed244ac65",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-commerce.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/entry-requirements/",
+      "sha256": "0d8004c09cfadcf2b5933de2fae723dfaec0e8c3f2194cddc301258ccb71653d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-commerce-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/how-to-apply/",
+      "sha256": "29459780438fabaafe86b7c8c90183384913ec896cdf9c3015010897232b7e1f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-commerce-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/",
+      "sha256": "56d47b5ef7e1d6c9ca0598bd3825030fa2025a7bf74d3688504381b3684273b6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-commerce-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/",
+      "sha256": "94ab9e2263ad71e49581f2602efbe5350b9902a6426aecf9a8e1460951429875",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-commerce-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/career-outcomes/",
+      "sha256": "19ff456785ecd1d4ef71df8cff245e7a5dfea273287a495f7a459e08ce3ce427",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-commerce-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/accounting/",
+      "sha256": "d71cb0900e9254ecd10f64c7a31fd9bd766d1304ad5b9c5e4871748194721705",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-accounting-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/accounting.json",
+      "sha256": "b609c342a76c6b7dfd16ba01987eeadb6998c900c51d75075cf8daf88e27f34c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-accounting.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/accounting/structure/",
+      "sha256": "086c985c9511786e25b38c921d8ba47a38a87f51bf6e8b46d85f73e3a0e1c1c9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-accounting-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/accounting/career-outcomes/",
+      "sha256": "befe7957ec7211ed550b1c649198e6e4b69327d0a81b4433e86fda9de71ecaa3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-accounting-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/actuarial-studies/",
+      "sha256": "2f1ffa402e5769bfe70a21cd7b180bd7a26ad5b3af6a7d89d82e929ab6eab1fd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-actuarial-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/actuarial-studies.json",
+      "sha256": "3fff00750265afd402e294394aa0468ad022a24277dc36330d9c3cd70c7f67ab",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-actuarial-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/actuarial-studies/structure/",
+      "sha256": "b75a11d3cd97fbfa1d3665c9c00c4d97c9ef6bf101bf09c21d46bda9e0c86b20",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-actuarial-studies-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/actuarial-studies/career-outcomes/",
+      "sha256": "813b4ef446fef4fac25180f4e6db8af319c5b01390bb982eeb4f909f2954c0be",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-actuarial-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/business-analytics/",
+      "sha256": "10a3c4ca556fea55f41e1ecf9903a12ba388ccd9bd7591659cce9b626cf8b286",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-business-analytics-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/business-analytics.json",
+      "sha256": "bbf9eb74c32b958de86df1fa648b1bbad3342e2b8e640a4dff73c4a917031bec",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-business-analytics.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/business-analytics/structure/",
+      "sha256": "def22c1ab9e1fe069e1b5eaa0137d092ec2927ce4fb31d9cb45167b742a7a71c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-business-analytics-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/business-analytics/career-outcomes/",
+      "sha256": "e02356081ebe24b8660eb2195191042a5a3072e7de8d7a006016a0a9ef2bd315",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-business-analytics-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/finance/",
+      "sha256": "319f3f6a59569bb3b6c14b76c882217e149b4524d4890019119d941c198d5e51",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-finance-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/finance.json",
+      "sha256": "ca840154cbf35d570c6c40cc6a1c22bdfe4859a64b94278ad061fb9058059713",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-finance.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/finance/structure/",
+      "sha256": "74504a3eb2cc93fe12e87f18e48425c7e50b2dfe3fecec1d4d42a771df77629f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-finance-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/finance/career-outcomes/",
+      "sha256": "b69ce6309912990a20d43593c9adbaea60a76905369ed75c4b64767d195be9dd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-finance-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/management/",
+      "sha256": "516ac87e8daa311bea8bcfff7071baca1a18cc4be6df05c13f40e02abd7ab4e1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-management-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/management.json",
+      "sha256": "93c5ccc0e25c0c06dd8347740da39b3fb0192c7d72071d65d158a0cb5c7daad2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-management.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/management/structure/",
+      "sha256": "2b0054ef0f4524d2046216d516e9308b9c1b9baa47ebc33cbe5dc36c15835575",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-management-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/management/career-outcomes/",
+      "sha256": "575430e45b20258ec58b30ec405bc04ff4b64d0e09657c727ada27e7c9b9579f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-management-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/marketing/",
+      "sha256": "3492a2cea5b832971ee7c5e63e3c8bb848a469e940b4651bba0fd7cab316afbd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-marketing-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/marketing.json",
+      "sha256": "f70f242832a38e8469a818a0e3f3ee21f379812e925d273121d4d9e2e76ddff6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-marketing.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/marketing/structure/",
+      "sha256": "4ac8fb1943689c793a19e2aeda027bc2b6384745a7ecfef635129770eed40533",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-marketing-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/marketing/career-outcomes/",
+      "sha256": "23c6191081096b1aca35c8f41f46400e1cbf0dcc8881c4cada001d5e821a5ae5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-marketing-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/",
+      "sha256": "9897d080be72e598065329b6e811cfdb2dac72a7c1bf06ca104c024612dae75b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-design-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-design.json",
+      "sha256": "e90cd0accf4d3dc92ea5bb8a8eb2510bc7170b141e383125f2c2031ee9ed3bb4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-design.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/entry-requirements/",
+      "sha256": "75fcb1de05209bcb822dbfb2ff60cc9dc41d2641f51bcdd196e1351876573652",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-design-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/how-to-apply/",
+      "sha256": "e9a759af7c18ba66c59e8e96786e2803b2ed6579d1e5008d5e744c7acf14c1e6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-design-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/fees/",
+      "sha256": "c0e3d60a1964be472baf538e529118a4c21eb20a502a6f188719a2b714ca9633",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-design-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/structure/",
+      "sha256": "ea55610eba5e1b7d251d713d9441aa104df35a496e27ad69eb26f846188c50b1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-design-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/career-outcomes/",
+      "sha256": "46ab1bb2b57d6f0fb18a69e2e1daa252a19294a44eb414e9f65a8e1f0ea3d0bf",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-design-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/architecture/",
+      "sha256": "74424b4a9b2b9de13e817c532101130c8f41ef3c551106115f3d9e1c6105af1a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-architecture-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/architecture.json",
+      "sha256": "0e9f9448a0d4c982db487ae70e8836ca0df345505f799ad5a8282557957204d1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-architecture.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/architecture/structure/",
+      "sha256": "3c7f3e9f88780c191bf8687810e1ca01c1af61c3cea725784517b5ddb6c462a0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-architecture-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/architecture/career-outcomes/",
+      "sha256": "4b37a1c99f687c21fffebc740be53900a557fbb557f5bdf4053b3813e0e193bc",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-architecture-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/civil-engineering-systems/",
+      "sha256": "a864fac92fb4a5c84ba3d422d37cc18a733f5a21bcfc814fbef61503692037ac",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-civil-engineering-systems-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/civil-engineering-systems.json",
+      "sha256": "1b577d4acde91d9b911a58487ba516d663771b9b577b98e0c5dc4789711cd8f5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-civil-engineering-systems.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/civil-engineering-systems/structure/",
+      "sha256": "52322dd8287c9b715034e58f7228e1a52b6c02b9e696ccd4d2aef8984c48ebef",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-civil-engineering-systems-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/civil-engineering-systems/career-outcomes/",
+      "sha256": "2df573ec8a4a6b22f2233ffe4865f1cacbdbd369333050167afe26203e6c6e14",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-civil-engineering-systems-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/computing-and-software-systems/",
+      "sha256": "7bc7105376137d76c4f9203bf502bc9e486d58fc6f8d4026d7ad348d156e2d1c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-computing-and-software-systems-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/computing-and-software-systems.json",
+      "sha256": "21a206fb038aca5edf524f91f70965426cb0241897b6241daca269e8ce2941cd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-computing-and-software-systems.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/computing-and-software-systems/structure/",
+      "sha256": "3af9f5133207fa019ef54e6aa1896f2db65bff312d99540f66fa3528de97770b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-computing-and-software-systems-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/computing-and-software-systems/career-outcomes/",
+      "sha256": "704d5009bbfd02ba21cbf925a321c59afa1cdedb79c1368c10fb28318221f88b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-computing-and-software-systems-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/construction/",
+      "sha256": "7049fe68caae896f81aad31a93dcf5fbaca4179c9d0bdc497a80aec7947f4f6b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-construction-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/construction.json",
+      "sha256": "82ede1e4e4306b20360318c9354f35090efa70d689d43c83fa03f346bf4d09ea",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-construction.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/construction/structure/",
+      "sha256": "c100b37fecea8ff6dc43997493b16fd537cfc5bb247d698d2679e1a08c5d0552",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-construction-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/construction/career-outcomes/",
+      "sha256": "e25ee6ee02d13d933886067f45fbef89473cf68d91dd5434f8b671593743e650",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-construction-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/digital-infrastructure-engineering-systems/",
+      "sha256": "d56401984ec695de0faf9d31a20cd45d72405bd20d38f05d28986f0aafed8b21",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-digital-infrastructure-engineering-systems-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/digital-infrastructure-engineering-systems.json",
+      "sha256": "5dfb596d013c8671cab4eb44f27696c344f5240bfc37018bfec32682fec47851",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-digital-infrastructure-engineering-systems.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/digital-infrastructure-engineering-systems/structure/",
+      "sha256": "bbad969ab7f5ad443ff34bdbbf62d6016fe8c50262dc92f706a7f4c34ace29a6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-digital-infrastructure-engineering-systems-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/digital-infrastructure-engineering-systems/career-outcomes/",
+      "sha256": "d57884ca283527a21e8b62f9a3324a6dfe0533785eba24645ce30fb566ba02c3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-digital-infrastructure-engineering-systems-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/game-design/",
+      "sha256": "b721465d9a64db0d62e21e4895ad52afe6b5970da817214862b3e4961176e93e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-game-design-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/game-design.json",
+      "sha256": "83a45432f77013fc70abf1c05f2154ae3145a51d69c7da373c85de92ca4c4cce",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-game-design.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/game-design/structure/",
+      "sha256": "fd41dbd31c4eb02fe6ce314405495b58b276ccb5f6d3c31e597e284b97cf3b54",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-game-design-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/game-design/career-outcomes/",
+      "sha256": "31605a781043c2afdc1a006d522360880bf5a930d5fe3259ca1ebdf64fe42ea9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-game-design-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/graphic-design/",
+      "sha256": "091494065ca7882f4f0c565b06b40845e4ddebfc6aaf73316658c4f71a779d99",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-graphic-design-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/graphic-design.json",
+      "sha256": "5285fd170544c4f89b1bd3756537768c688351d851b141922ad6a72d6177cbd3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-graphic-design.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/graphic-design/structure/",
+      "sha256": "44ea93d54b2cba77902a42c503fc14500f103219cfa2a9fba6bc52b88c6b6021",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-graphic-design-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/graphic-design/career-outcomes/",
+      "sha256": "9ea4d17a44ace98b9406ae6bbda7446579138b6973ea606b1fde3b4534b3f8a8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-graphic-design-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/interior-design/",
+      "sha256": "cc5a93bde4948772ab31388227eb447ce0c8759e503035aa741e9b76cf67aaef",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-interior-design-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/interior-design.json",
+      "sha256": "5e90e0fa363c48f0c195403de27eb217353b7175eea03d63542072493b5142bb",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-interior-design.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/interior-design/structure/",
+      "sha256": "93cae6eea43b33bccd7821b1bd99413d9632733a31b186cdb8a2e3a8a170ab94",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-interior-design-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/interior-design/career-outcomes/",
+      "sha256": "8adde4662392666bfc14fb3934ad4571e55b051d08f79a6e39470e76d5792a4d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-interior-design-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/landscape-architecture/",
+      "sha256": "760d1bd3f0c51aef8eb90fc884f5afed34f0497f120bdd9d77faaa6231b318a9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-landscape-architecture-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/landscape-architecture.json",
+      "sha256": "95d882a3630f406adf1a68165757cc3f21080269caa6b910ed0ce3d9ef475db3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-landscape-architecture.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/landscape-architecture/structure/",
+      "sha256": "53a76d7c8b6348d30afb044f01519eb810d02d72deb6a744069c107a6680cdac",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-landscape-architecture-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/landscape-architecture/career-outcomes/",
+      "sha256": "1df9371a434299b4a4975a787545f70bd369f7200fbdbfbffc075ee5acdc85b0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-landscape-architecture-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mechanical-engineering-systems/",
+      "sha256": "1eb7950ac9dc4497f9c3e9e97d747a8c14c125a89eeb6917dde42c642a71bcf5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-mechanical-engineering-systems-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/mechanical-engineering-systems.json",
+      "sha256": "97fbd4701dc3d1ecd9912a3f360b4f9965df456c5b85f7a74ad720ece8c5c0ab",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-mechanical-engineering-systems.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mechanical-engineering-systems/structure/",
+      "sha256": "9b8550c734db6dd13b311c86e4d80520bf168b9176f2a894f42852c26c09306c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-mechanical-engineering-systems-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mechanical-engineering-systems/career-outcomes/",
+      "sha256": "1db158927d20aa912e5484c44dd139e4a3418559221cfac62da1b645097eea10",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-mechanical-engineering-systems-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/performance-design/",
+      "sha256": "8a2e49d4a3f4f06d269b1ff7ba8b34b0c25cf0623f763eb31ad81a2064274066",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-performance-design-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/performance-design.json",
+      "sha256": "a174b186f3f7c17b8fbeec8898aee422154099979b559c54b0badf78c5cdf4f1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-performance-design.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/performance-design/structure/",
+      "sha256": "768ed130d387289dc4aba487e1672b53c9fc282f977e75180fd476d9d8357869",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-performance-design-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/performance-design/career-outcomes/",
+      "sha256": "0723b44fcf3f654eef0d370c56508d045ad3e9be4347befffac60b76844ce156",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-performance-design-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/property/",
+      "sha256": "4c3271adcff684725ddcf127ebba65b40d96138a875609a7283efbf194a8c80f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-property-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/property.json",
+      "sha256": "760d109c797ee6b90b7d642972d3b2758d9e0c23a5f1090f0f9ece74aeb85311",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-property.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/property/structure/",
+      "sha256": "606b70bffad43c23f56dcc18a4cc503ab3ab8310f9bb16f4b6a26e21d72ab7df",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-property-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/property/career-outcomes/",
+      "sha256": "ba29c4916bed630c0a6ea9688a203eba7a5681703ce8fc22c4f3244429959379",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-property-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/urban-planning/",
+      "sha256": "1ad6f45dcc59bd2c98887c7aa6f56b232e777f0eb5889eb9ce3a8beaa1d5766d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-urban-planning-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/urban-planning.json",
+      "sha256": "c3e0698bc8d19229c9d45c1c28ca31addf04a9ff69e6392d8925dd8502f67251",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-urban-planning.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/urban-planning/structure/",
+      "sha256": "03e8b53bb8bcf76173395b2c56d8e014685f9b18cbfa466bc4d2e97f2e19d7d5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-urban-planning-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/urban-planning/career-outcomes/",
+      "sha256": "2d53681f9b942077603352d03bb9a6faa299dc648477c5c8aa8d5372cd43aa39",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-urban-planning-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/user-experience-design/",
+      "sha256": "ed92cbf9f4ce43c17f80a1ff6278f253d82036cf5025c38edbc59337d8a7b578",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-user-experience-design-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/user-experience-design.json",
+      "sha256": "e616db1a0ad5a0bafb8534677c7e182d463cbc56ca2e5499a3324b673f1a5b56",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-user-experience-design.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/user-experience-design/structure/",
+      "sha256": "23bce340c132a53fc6c30423bc2cefb324d4479afbc1f0c4781a74ba558d37dd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-user-experience-design-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/user-experience-design/career-outcomes/",
+      "sha256": "40192cffd15ee5e2e1405b14145e90fbf89e7c1b98bbd76d453efcd39a305b9d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-user-experience-design-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-acting.json",
+      "sha256": "df34dcfe980dba93f4584665d5e1f2669b590ded67c02e7fbfb7b4e93d95c385",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-fine-arts-acting.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-animation.json",
+      "sha256": "966cb5e70dead50cccf79814f1652a4b1ea7d480c82c83a5b99e082e2c41351b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-fine-arts-animation.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-dance.json",
+      "sha256": "04597631038641ab66f7ecf15e8bf05be8402984d7be86dcdcbb9ec332a8506e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-fine-arts-dance.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-film-and-television.json",
+      "sha256": "bc1a15f720628944b908ac1ccfa4f9d5d2530ad2fa15c383b6cf349102e5c848",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-fine-arts-film-and-television.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-music-theatre.json",
+      "sha256": "25a7a3d055659e15a4564ab6eeaec50454da87693b1cde63cbdd33d7b411dc10",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-fine-arts-music-theatre.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-production.json",
+      "sha256": "4481c0ae7d011fb81ef9e9b5493747b38461ebeb984400182794ca04367fe0d7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-fine-arts-production.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-screenwriting.json",
+      "sha256": "b31cceece72122eae0a3c609f142c3f6ba682f9f114d19144d02d974bf973ad9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-fine-arts-screenwriting.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-theatre.json",
+      "sha256": "049774a80c7b3988fbaf86bf06781e628a50f7ea6ade0bd2a9e41dea3f6042a8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-fine-arts-theatre.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-visual-art.json",
+      "sha256": "a2b0945b124200718007f4af888a9428f4605cf0c6a651de2e96d33ddf2a719a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-fine-arts-visual-art.json",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-acting-auditions-and-interviews",
+      "sha256": "a5cdb6c407b3c4523d410abdedeaf42ca189b5d344ac7c326d36e43ca6cb32c7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-fine-arts-acting.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-animation-auditions-and-interviews",
+      "sha256": "60a7c2af28155fc0d79d1303da2f0ef79118dfac8f633a03a4f7bcfb0901feb9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-fine-arts-animation.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-dance-auditions-and-interviews",
+      "sha256": "815bb9f6bc3eb07c4c50cbe4a5fdf493bb0ed4b5425327ef147b59c4e00839de",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-fine-arts-dance.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-film-and-television-auditions-and-interviews",
+      "sha256": "5cfe52feb9ecbef01069e934db4d4f8d444e49d041d219a6559287bb5be51644",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-fine-arts-film-and-television.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-music-theatre-auditions-and-interviews",
+      "sha256": "7b5ae13d46cc84c8446cfea1faab8a3a41d44b6a69dd56cfd98e6b358b3f11da",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-fine-arts-music-theatre.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-production-auditions-and-interviews",
+      "sha256": "c59b746f21cc488cdadb7a09eae7b228353a9f7e97072a89055c83a828bc54bd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-fine-arts-production.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-screenwriting-auditions-and-interviews",
+      "sha256": "755b21a89e1852bc62361578ece99aef457b16dc0aea1525fcd2238bd9a8dfca",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-fine-arts-screenwriting.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-theatre-auditions-and-interviews",
+      "sha256": "ce09ba275f4ad618b73f0b02bf908584ad6948c4d3f72a620182e809c1c5434a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-fine-arts-theatre.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-visual-art-auditions-and-interviews",
+      "sha256": "a912dc4a0814fc544d44ddd58b90867f38bf9ed137c5eb91fdc283e5bbc19ee0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-fine-arts-visual-art.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/fees/",
+      "sha256": "a2b9f7e1ed96799ebc33068d80edb1fea6c7c0a56a9bd8c14c676b543a998bf4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-acting-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/fees/",
+      "sha256": "c1f121798e86a287c5ad2ea1879297ca1cc9bdc5f1ba71f0c7a257528602cb5f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-animation-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/fees/",
+      "sha256": "b66371915f07b4e5947583e52972084618b5adf45c35bc2dcb4ef2e3f911a669",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-dance-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/fees/",
+      "sha256": "3607541f0fcb09c7e745b8c00ec256f2d9bf40bd975057157f84773a7813b5a5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-film-and-television-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/fees/",
+      "sha256": "364669e7e036c39e2e0b9caf3622f27229de407892608df2f40bfb919e81330f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-music-theatre-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/fees/",
+      "sha256": "1b1d834aab0783a34fbedd2907b0896d0d9427ae0f6f275b6252bdaf320533dd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-production-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/fees/",
+      "sha256": "3db354bed8b52fd2698a7a5e93ac8385c6c6381290db91dfda5c36319d248106",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-screenwriting-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/fees/",
+      "sha256": "8dfc7506a6f2df375d56b54a90af981b8cb2a5d78e42ff12b486f84fa38c3b70",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-theatre-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/fees/",
+      "sha256": "d9d3407549e65e51e3baa9172dec32cfc67a784c65d4097cc9439e9415ebb4eb",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-visual-art-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/career-outcomes/",
+      "sha256": "fae3c0f15cec8e8bd2232a8e21165896109b49f1a2ee59b8f245e731c9bfc5ac",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-acting-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/career-outcomes/",
+      "sha256": "d39b3e7cf762b1ff377290dfa6e6cd76d4c41ea499f3703009bd925998941dfa",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-animation-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/career-outcomes/",
+      "sha256": "c1fd042eae6a3aff9b9a3e6b1415c8b8d5d434f1ba89232df6d59a992f070941",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-dance-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/career-outcomes/",
+      "sha256": "119ecc2156a92ba01db0f1e7de344c93c77153f63376211d67c5090c4402821b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-film-and-television-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/career-outcomes/",
+      "sha256": "64511b7e2bcb129e1273ca8fe2e0bbddd84eea9027b1ed72d9aa1594a8a26c63",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-music-theatre-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/career-outcomes/",
+      "sha256": "f3a8ca4e44fab73ed24f79fbb115208058bd4b6ede2b3401e5f0409aa2745d20",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-production-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/career-outcomes/",
+      "sha256": "43df2211d8ba8cad342f8e4cf1d173886376ce0b5edf44be8725b7f5697168ab",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-screenwriting-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/career-outcomes/",
+      "sha256": "11262a7e34f8bcd7bcae4a7494798b678931b06b10027c98242d126fa2006743",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-theatre-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/career-outcomes/",
+      "sha256": "bf96e3dd13c87c7d527fd98a74e5ab2635794d360de986635387e1cb97ccc802",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-visual-art-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/",
+      "sha256": "2a5ee7b9551d4a0feccdd776b1cd87c97c52e68db0d4d29826fa44dce2555f49",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-acting-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/entry-requirements/",
+      "sha256": "f8ca0a86d409aa81694ee9deccde77ced6293a30165746e00310beb5a640ee87",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-acting-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/how-to-apply/",
+      "sha256": "a0583c5225eb776850a46cb226ef0ad2a3fd95562a09e31c9f1f836bfd91b46b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-acting-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/",
+      "sha256": "c814e9b5ca9b7b84ff5bcd1135a590d4c301b10a29c8866eade62aea02f09697",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-animation-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/entry-requirements/",
+      "sha256": "0ea6a77e593b45bdd9f1717ac4d55132d4b530294838f6862ca0bde3889b2076",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-animation-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/how-to-apply/",
+      "sha256": "aa0c124e1068730ec9f84c412ab213e494b67abd9a93ec52347c1ce6f37a6c7e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-animation-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/",
+      "sha256": "d3f49a9b9ca07423dd72bd95e8e9807a0d8e0ac1a730589f1aed3b96516b7441",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-dance-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/entry-requirements/",
+      "sha256": "8323285ecea920a1f7be49f8c8892f5496210590b5a0fcccd37e6555ab59a3e1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-dance-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/how-to-apply/",
+      "sha256": "d8246239132207bbe9b58b20834497b5f85f27422e1674e782f25fcfe839fa68",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-dance-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/",
+      "sha256": "fc8a4d258fa45a0d5b0a71f14a6dc274ac748c9d55b7642dd41712d885ebf048",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-film-and-television-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/entry-requirements/",
+      "sha256": "d32086dc89a8be021d940bb967eb5b14f34465617172daf6a2f8ba26fd36c9c8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-film-and-television-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/how-to-apply/",
+      "sha256": "154e7e8e065e31b617ac7913ef43d51c310538a05e299e7289a1d61b5e17049c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-film-and-television-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/",
+      "sha256": "005dafd001e0bcbd3c3383300562ced44e41a81e2f2ff51d0e6b83c0754e98d8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-music-theatre-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/entry-requirements/",
+      "sha256": "da9f600d457ceb057983e05d384b24ce40e3fda116576c97124db254ebf41278",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-music-theatre-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/how-to-apply/",
+      "sha256": "80f77db1b5d3fde9f9a5a845eed06faf30069e442c299c1aa3eb869b6aadacfc",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-music-theatre-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/",
+      "sha256": "aa86cd74d8dd0846ad553e0c1de9b2f5a9201e3bf123b18c92ccdd3612f1de6b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-production-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/entry-requirements/",
+      "sha256": "e59337e21be0e1ca01a8da1180ddb46a13a52999bf508aeb2ea66776eacbd4a8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-production-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/how-to-apply/",
+      "sha256": "3150acc7b286946ba6439facfcac4668c0a4be91e4bda392b99223117b9c87f9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-production-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/",
+      "sha256": "456b14e653d90d74c64a3fa4045ed21e310c73d740eff9b23142aa58b7023967",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-screenwriting-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/entry-requirements/",
+      "sha256": "a43b3d8128741e899cf58c5483cbcada633a45dfcc5da8ee1046eaf40bb3e3d3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-screenwriting-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/how-to-apply/",
+      "sha256": "c9b7810727d74bda85ff8fd18b3336fe0d68781c20a8d10483919d561c3e795c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-screenwriting-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/",
+      "sha256": "12c67084b8b69c6ce26c14646f3410c7704dcd3876aca8f13ceade15ec2dc558",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-theatre-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/entry-requirements/",
+      "sha256": "3be9fa93c1cf58c16655c9e68d9411fc51b3620b11a9d2a839ba13a5271e1764",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-theatre-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/how-to-apply/",
+      "sha256": "28c132750c6d888b39664a62c68a600a24e0806a8544db14d3bec9f2975c0d6d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-theatre-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/",
+      "sha256": "ffa2ba9f6145b41a0a926417e4ad9674ec5b547fc98211c54a8be149e0946aa8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-visual-art-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/entry-requirements/",
+      "sha256": "01e213c4388fee0b5d13c5e8ce33c28844dd45f0d517b47b64ecc161eaa2b3d6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-visual-art-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/how-to-apply/",
+      "sha256": "a6858cf0b12ca7711aeb2eaed6b4ed98fce4170c9c02581f72e97b13a568b38b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-fine-arts-visual-art-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-composition.json",
+      "sha256": "e0356a77151f92133350ecd1ab440b19b34712444d2a1b5ee571ae7754af0a77",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-music-composition.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-interactive-composition.json",
+      "sha256": "f7a3df79753d6365e0c24fb5585cae8d7d85a8ae9afe82c307722ff401eb9c6c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-music-interactive-composition.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-jazz-and-improvisation.json",
+      "sha256": "f95ddbd251b7af6c8dfc8abcf3e49d2b509be9a7948ff638951274ceb5fb2305",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-music-jazz-and-improvisation.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-musicology-and-ethnomusicology.json",
+      "sha256": "8542aa335c4635e00e7a26667224fd9554125c441f5702b1746666798b23132d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-music-musicology-and-ethnomusicology.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-music-studies.json",
+      "sha256": "d14be1a4c7c37c1c3390c4fc3a80e0f201832b445d88d2c85eedc9c716305b14",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-music-music-studies.json",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-performance.json",
+      "sha256": "e54df9af51df2867c5db650b4a95281c7688646f8ff95da4ffefb5b5d3f85aff",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-music-performance.json",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-musicology-and-ethnomusicology-auditions-and-interviews",
+      "sha256": "56ceaa8004433504e917b74ec51d5005606e9035532e1b25eb90264727ac4c06",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-music-musicology-and-ethnomusicology.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-music-studies-auditions-and-interviews",
+      "sha256": "41dc6454a85aec017d65c2c086b2fb5094c634d4f98271c29e4175b752d9db35",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-music-music-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-composition-auditions-and-interviews",
+      "sha256": "eb17c0b75b0bec9d2efcfc7fe57642ef0e09f040f1205ee01584122c2b2e78d8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-music-composition.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-interactive-composition-auditions-and-interviews",
+      "sha256": "8fea32757fbf3bfd15c32a8496130fc1752ddd5634e812935fb7ca11b193f119",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-music-interactive-composition.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-jazz-and-improvisation-auditions-and-interviews",
+      "sha256": "19f58ee8e04033217ca6aa3432f8471eb830feb11e4174da410c22ff04526d5c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-music-jazz-and-improvisation.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-performance-auditions-and-interviews",
+      "sha256": "5b4e68e3baa117a915ebb262ae89675bb29a45118a2e484006e60314e867b621",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/creative-bachelor-of-music-performance.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/fees/",
+      "sha256": "05eb3e1c650d0485784c19d9290e441e0791c6a0946c3dc4e72d25d732c81d45",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-composition-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/fees/",
+      "sha256": "c6f5bddac3e1643f0fd5b5298fa72ed239a08b05a2890015be3f1dcdaafa71d8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-interactive-composition-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/fees/",
+      "sha256": "fdff73b78abb464f49c8bd01ceaac9689aa511d899e70e4ffe227c4ff52140b3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-jazz-and-improvisation-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/fees/",
+      "sha256": "b3f6871fa9c0205e3f3f97330d64c7f6194f8be2979d45ae8440d693dc9d457f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-musicology-and-ethnomusicology-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/fees/",
+      "sha256": "8da3e2e123adc20770fc7960384b86f88cd293a35c40ba2e15c966efb73fd054",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-music-studies-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/fees/",
+      "sha256": "9eb44eb1601078f787b801133667eeffb063d5bb9e6f476a8c8b2e9b5cef15d5",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-performance-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/career-outcomes/",
+      "sha256": "6ee804a743d4b3ee419ed2d9ddb3affdc445b4bcbc52ca050aeae8cc1e44ebc6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-composition-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/career-outcomes/",
+      "sha256": "fbbfcc7c1c6f7bfbece37af84b752c99fe91397512d21764eab847fca7266fb1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-interactive-composition-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/career-outcomes/",
+      "sha256": "6890cf99819203920e52b6fed0325178cbee7f33c0994643eb551aa0d7638e49",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-jazz-and-improvisation-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/career-outcomes/",
+      "sha256": "e9f98e5ece37830d0d1d73b8c795a7a2183e0068005a76dd9f41a2231382b7dc",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-musicology-and-ethnomusicology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/career-outcomes/",
+      "sha256": "35035a7999f2bdac9e0be6f3fc8d4d5dc00b28ad94b38cd5e16e6dc6e6293d28",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-music-studies-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/career-outcomes/",
+      "sha256": "e0244c2b20629dc7c7bb975f2e690e3923e1859f0ed1fae2a8a50e6792f4327a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-performance-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/",
+      "sha256": "0344a284daf9311e5c6d99848563ee87fa7e4d27c14123680baa94f5a3367c8d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-composition-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/entry-requirements/",
+      "sha256": "84dc0a245b6fd5038929b724d832aac8115f1199bf41eb033bca40493c89ad0c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-composition-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/how-to-apply/",
+      "sha256": "f54bd0de03a4ea0d24d3285299261c142360735a880bf012f6e6d87c1ac48017",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-composition-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/",
+      "sha256": "65c755f6652b9f7521cb7c5000905297fe93227c0306053df664fb72cbc7a1b8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-interactive-composition-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/entry-requirements/",
+      "sha256": "0512321cfe3ef32d3df78ef348c7b7b3930afdf5af6e8d4961b3d937df556589",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-interactive-composition-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/how-to-apply/",
+      "sha256": "c0dca3cd1049c95e8ec03bd9a1d0ce32886a87fbfcb633e3c46a72ce791680b1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-interactive-composition-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/",
+      "sha256": "307bdc8eaf2a0bc8050eca1870bcb923844864bc98a275abe071e8908dbadaa2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-jazz-and-improvisation-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/entry-requirements/",
+      "sha256": "6370aad15399eb350b7778e8ef9a7ce4290a09c52fbcedcdd9bc62585a03eb05",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-jazz-and-improvisation-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/how-to-apply/",
+      "sha256": "695a96e90a06bd9e355f17a4fe9f1a5a4d566982a7c32d868aadc84eccc3683e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-jazz-and-improvisation-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/",
+      "sha256": "02ee293ec03c1f777d05256dbd5ed22a5024106d06755ec9d4b2a7ae0cc02c49",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-musicology-and-ethnomusicology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/entry-requirements/",
+      "sha256": "427e31ec4e62f57a2cb7cf37c49fb884b1128427be57a1c6e0efd2ca92401ebd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-musicology-and-ethnomusicology-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/how-to-apply/",
+      "sha256": "ffc6c20206c25345ca807759ece2755e9962cec04902a334ddba2209ef3288ad",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-musicology-and-ethnomusicology-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/",
+      "sha256": "f6df12d669668ac1ab09a2c754a4f196839e701c9afd2c61a94f0157c8116103",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-music-studies-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/entry-requirements/",
+      "sha256": "b0eefbf0a4d6adcad6c44403ed1e5460ac4402d22f30bcdde3008647cbeb8755",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-music-studies-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/how-to-apply/",
+      "sha256": "42fbcb98a2acb814ccd4592d900c0c710291d8b1bb5eb93130f038e04ef45c69",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-music-studies-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/",
+      "sha256": "47e166b74f1d85678d2de2bf8a9c387eaee13da256f14db344b7fb0e3abfebb6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-performance-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/entry-requirements/",
+      "sha256": "6dcb05857af3fe643c567e727188fc20edfe92a07fff4aacc0bd04c0a2ac6ade",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-performance-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/how-to-apply/",
+      "sha256": "4842699c4d4485f0d8b81ce55a285237c202de0e9ab2a87dabbe9f4ca33b6217",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-music-performance-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/",
+      "sha256": "e66100659c7989422d7e09f6b25204c4a369c98db6936964488a1bfb75f2ca15",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-oral-health-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-oral-health.json",
+      "sha256": "e3584482bea22641bcdc85b2612552c826b2c778deef509b6f701c807790f501",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-oral-health.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/entry-requirements/",
+      "sha256": "3c4124a4cc76bb3bf146470956da3eb93a5f5a7e177d37aaf2093fc936b5f834",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-oral-health-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/how-to-apply/",
+      "sha256": "46867fcb2d90a0f61211bd7529cd67de02c3294e76e9d6ec8f70487eb2c074b8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-oral-health-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/structure/",
+      "sha256": "dbf18e0cb2f3c8c446aafbb812a5f1d9afee56d26ef0b078d0ef549f8cfabc51",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-oral-health-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/fees/",
+      "sha256": "cb1c420a9ac47fb92ce6f0cb4c99a31fd4fb192be9f2785dd688eb68071738f3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-oral-health-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/career-outcomes/",
+      "sha256": "6614628b5de4666dcb802c71edea0223b5b90c9cff94b5d53ac9f5a782d792a8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-oral-health-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/",
+      "sha256": "337c8af72940b43a5ea63ad3306176cdbe38885e6c3a1289718c127a09d95089",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-science.json",
+      "sha256": "590be28e3e39714b6b7d4a4c640e01b348c9e867c1d54bd31fd5e4f71ae76e23",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/entry-requirements/",
+      "sha256": "1e9a66c6a73fbedc4fb71a1fc29e47f4450cb49cd02e8001dfe092ef2d88ef18",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/how-to-apply/",
+      "sha256": "7b1c45481ef8b92437d7058af548df1e605e09f82d1bdf9df6c50b69052a2e88",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/fees/",
+      "sha256": "52f614cd95c5ac932d9c614307e93f87ebc74505b9335da2a9f7f98254a3f5d3",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/",
+      "sha256": "d4cfa6d27bc2c6da7e624d55cd32cf8d4e0b83924f20cb21e7abdca85debe7ba",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/career-outcomes/",
+      "sha256": "7bb25dcb042381fe38e0a7ff1cd18cf4dc7f134cf9ac3035757fdd9d3187fef0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-science/",
+      "sha256": "615866526331f4faa418ad7affa6e58b0959e230f7167476ce6282e0eb783d33",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-agricultural-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/agricultural-science.json",
+      "sha256": "adc4773f86a3736fbe07898acafd426567fa659bedd69fd3561fbee31feb2a74",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-agricultural-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-science/structure/",
+      "sha256": "13528905d923cb6cbfe40eb329bf37f05c403d9fb30f6c56b710182434c5a90d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-agricultural-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-science/career-outcomes/",
+      "sha256": "42a556cb6f036d726b421048379bbbd80259ed2b15cd89c227bbb8439296995f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-agricultural-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/animal-health-and-disease/",
+      "sha256": "9d060f939825b296949ea3192d5c4926fa1722424ca63864c94db996889fce71",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-animal-health-and-disease-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/animal-health-and-disease.json",
+      "sha256": "d4aaec1e514879bd4c98d951fc4ddcb321fa5778aa6e96876e010133ce90dad4",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-animal-health-and-disease.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/animal-health-and-disease/structure/",
+      "sha256": "dfd7c214f6910a6d4706a9284512ae5ad751299be1f6bf21e54c7b972d77ac2a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-animal-health-and-disease-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/animal-health-and-disease/career-outcomes/",
+      "sha256": "f9ede87c71c4931fcfff1da7a6bf7380753c9c3fbf361a8584e149558e05a680",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-animal-health-and-disease-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/animal-science-and-management/",
+      "sha256": "940b0b8515d7f606564e67cb4661c57122a66c6424b52551ef473b7285d22c31",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-animal-science-and-management-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/animal-science-and-management.json",
+      "sha256": "c2bdcbf8291b75e737781ff4d34bfa62c9738d0e3675af597461b55b0b8d6e0a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-animal-science-and-management.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/animal-science-and-management/structure/",
+      "sha256": "7b20722f7403c74bda838ae0ac7d81db5d4724bb4be47c515b9eb04a3be9db59",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-animal-science-and-management-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/animal-science-and-management/career-outcomes/",
+      "sha256": "47e7aed2a58fa0bd3be317789c009e7244130b91512c59a0a58de7263f54cbdb",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-animal-science-and-management-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/chemical-engineering-systems/",
+      "sha256": "7408b60fc109a69036ea2a50490c9e2c28b8da0a05c557ace183fdbdb992d113",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-chemical-engineering-systems-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/chemical-engineering-systems.json",
+      "sha256": "a4aac032bffc12588b73847e5c2c02e5c9c3a7070aa315c9c860ee807231bd43",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-chemical-engineering-systems.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/chemical-engineering-systems/structure/",
+      "sha256": "9a9c92fd7094d9ae950c8aa21453575feb14ebdf657fef0136b18d4ff08a1685",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-chemical-engineering-systems-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/chemical-engineering-systems/career-outcomes/",
+      "sha256": "c78e16f48bbb64f0b60d582d160dc8db69762434ecc8887f411e27fbc57a4b5e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-chemical-engineering-systems-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/chemistry/",
+      "sha256": "f588741e501083ec907f76b87acdc33b111395f7a9c025324fb770f653862fd7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-chemistry-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/chemistry.json",
+      "sha256": "82e5b7166fa69759669b1415c942f53acb96cc33f9c95744c5babcd816da6f39",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-chemistry.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/chemistry/structure/",
+      "sha256": "1e6469cecbfbf5f6653322a04c267d1eca0139bd50db862286e6f8e24001e269",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-chemistry-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/chemistry/career-outcomes/",
+      "sha256": "cb03d7f33d17bacf8641a8786c67c9347a9f7c5e7300fd8d39b45cc9f4c2573f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-chemistry-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/climate-and-weather/",
+      "sha256": "40db7ffc6ee7f4e615f50822985074e00b4434e013139a20cc69f034de36ec0a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-climate-and-weather-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/climate-and-weather.json",
+      "sha256": "4483ad5f1dcbded5241e6710e2281d0facb47862e81d43e3170367b9276fa0d7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-climate-and-weather.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/climate-and-weather/structure/",
+      "sha256": "9560990fb8bf9bf87bce40724fcf06df9c327769a193549e160ab419e4262fe2",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-climate-and-weather-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/climate-and-weather/career-outcomes/",
+      "sha256": "8c103a334e927206a4beb3e62d0a225ad68ff487d3891258aba1fa8dc217c084",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-climate-and-weather-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/data-science/",
+      "sha256": "24be44e8ef79ab603b4f3e76cd55190618a16d86d85e9c61c04d836785300dcf",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-data-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/data-science.json",
+      "sha256": "fb3fea55de55571596dbec6ca68b59204374056f842bb1667070602d75843bed",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-data-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/data-science/structure/",
+      "sha256": "2f81788583aacfbd7246207b1eae81016738d1dd52928ad7a00e8b2f00fb46b7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-data-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/data-science/career-outcomes/",
+      "sha256": "bb1e38123da5b6c3a613fb9ca4bead52b68e669ecd1a98851ed00bc3ce381cec",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-data-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/ecology-and-evolutionary-biology/",
+      "sha256": "8bf17b2e3a26195564a999fc65227b4f56f133abf4ce15a2a59bfc7d10c90d43",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-ecology-and-evolutionary-biology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/ecology-and-evolutionary-biology.json",
+      "sha256": "63bf40a27c523f2ee48acb4681205284350334ef71400c5f49324d1d238dbc2b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-ecology-and-evolutionary-biology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/ecology-and-evolutionary-biology/structure/",
+      "sha256": "c1502492e50efba24850a37f12b46c113674471bbdf01af98eac1f64b909d5a8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-ecology-and-evolutionary-biology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/ecology-and-evolutionary-biology/career-outcomes/",
+      "sha256": "7492c4700c05ab9e7857f1a1a32e4138ec1e8c153cf15a80bd172eac0b3b6a5c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-ecology-and-evolutionary-biology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/ecosystem-science/",
+      "sha256": "c94d6e155189cfafe84777a0ccacee6c17b68b40529b95b5a1a77462d1bfe94a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-ecosystem-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/ecosystem-science.json",
+      "sha256": "3a573fb85ea14d832c5cde85ac849495d3c20577b1c1baf7638eeeaa3195f373",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-ecosystem-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/ecosystem-science/structure/",
+      "sha256": "71e0195adfd536f5d012f58f6f64579b0347847b64cb336c4190843294b3a3c6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-ecosystem-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/ecosystem-science/career-outcomes/",
+      "sha256": "46b1ad9f4ab588eeb23df9b4a3ab4be1563fddbc457b891f5298e094dcd9fc93",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-ecosystem-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/electrical-engineering-systems/",
+      "sha256": "d14fe0ff0b3307827c843438e88312b22706823a955a191b560952e85fef742d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-electrical-engineering-systems-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/electrical-engineering-systems.json",
+      "sha256": "53807a585f7154298f7c7b5efc6917ed9f49cc94fdbae2b024cf8a72bcb14516",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-electrical-engineering-systems.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/electrical-engineering-systems/structure/",
+      "sha256": "ac268a1c188206cc3f75d67fb6aac5070cac6c7277034ffd09948b75367a17dd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-electrical-engineering-systems-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/electrical-engineering-systems/career-outcomes/",
+      "sha256": "a370f4048b74b956dc8c8d333ec2e86823219608a5cf8ee3954561b6ee4d5282",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-electrical-engineering-systems-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-engineering-systems/",
+      "sha256": "f3a6f60f0367cc96b2f22f5e68cf4321ff2462fcd791d542e3dc04619c4e5d8e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-environmental-engineering-systems-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/environmental-engineering-systems.json",
+      "sha256": "0f7981ac4bc085b2ff5e6bc516d677e153599e1a07caaca04c75ef4fd8e0635c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-environmental-engineering-systems.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-engineering-systems/structure/",
+      "sha256": "8b4d95190e2b24132cfec50cd82f836a096e208da1aa2f46953bd40e5617d3a1",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-environmental-engineering-systems-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-engineering-systems/career-outcomes/",
+      "sha256": "691de150d34f544d1975c547f7945f3de121a8be5a4125b40f91a2c7cf3147d6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-environmental-engineering-systems-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-science/",
+      "sha256": "87fd6b6056de9fed79470e858c36f8d27c72baa58d2a17fe6e1d32bc64336ffd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-environmental-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/environmental-science.json",
+      "sha256": "e77632b637c9b10df3563f5371e437713583293ab65127f78539508b43405511",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-environmental-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-science/structure/",
+      "sha256": "96d574d44368ffc16427578c12abb4b00efb11381559c2b8bacbb47eaa6cfdac",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-environmental-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-science/career-outcomes/",
+      "sha256": "442511cff291ec4a9b9f4a64c6938df160d4db87d2f580d4bfd3622f173d68f9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-environmental-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/food-science/",
+      "sha256": "7bc467fa55d587fd0fe29486d932ea99002ae20cba05bd14c4dea43e0f485e27",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-food-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/food-science.json",
+      "sha256": "eeda8cf548d1f0bf1659749c0a293a03dacec5a28d5f2ebaf9a472e10a63bda6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-food-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/food-science/structure/",
+      "sha256": "e9dca74bb8956faf45f5951a384792d91ba95512809b738572ea47d1c1d0e306",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-food-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/food-science/career-outcomes/",
+      "sha256": "ed4a4641de1b51ef87039c5e9f50b024135ec8b718ff9e7780a202a79986640d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-food-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/geoscience/",
+      "sha256": "708391a60271724168f323c21d77f20ee83d873d55b2f24cd2ed61fa6455011b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-geoscience-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/geoscience.json",
+      "sha256": "d076be11147b7a4b99e2c8d3cbe2870643c64221ab71289ba22852b27dd1de35",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-geoscience.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/geoscience/structure/",
+      "sha256": "28684198814d73823eab3b9e40b92108919ba347ee9e41f05078581bd3c52ee8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-geoscience-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/geoscience/career-outcomes/",
+      "sha256": "a39d1e8fd72e39d72bd00dc30e23ae0e2cfbfb184c7a1806a51e1fdcf6637c7d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-geoscience-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/marine-biology/",
+      "sha256": "1b34fe2d28dbf2a28246939ee0496d96fe91fc754289a2f69367f227ac7d1b37",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-marine-biology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/marine-biology.json",
+      "sha256": "95ec0cf160086ec4de3bc6cdd8aff7b5c7eea38a35966f3793780f523caadbcd",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-marine-biology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/marine-biology/structure/",
+      "sha256": "4ff700172faeee21e1db567e1c38b81865c5671002b79c60df3c5f3438b8a7f7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-marine-biology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/marine-biology/career-outcomes/",
+      "sha256": "8dda2eb45dcb0eec70a91cc2bcf117f496d4e4a1f0be8f1becc6e5f4b759a8d6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-marine-biology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mathematical-physics/",
+      "sha256": "a31ca665515b112e698d4a45f273a68cc1c4d1c0c0dac5f38386489b08e103c7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-mathematical-physics-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/mathematical-physics.json",
+      "sha256": "fd5825c12d163f5ff159378402862d048d9cd48ddebde4ae6a25f4da25d7ab78",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-mathematical-physics.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mathematical-physics/structure/",
+      "sha256": "1aad51b0fc262ece423369cd38da4410f5d03c300ee41c65bf54f5e23ef8f29b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-mathematical-physics-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mathematical-physics/career-outcomes/",
+      "sha256": "6c2fe032dadac9f402d5a374fe3fd9dbbaefb1bfac5afecea5b02ac13ec08e49",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-mathematical-physics-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mechatronics-engineering-systems/",
+      "sha256": "173dcc51b0f46499ca30e2b8d589c740559850dd01aea6ab241a84f688aa680c",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-mechatronics-engineering-systems-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/mechatronics-engineering-systems.json",
+      "sha256": "80fd5e3d7a519604dc2c5dbc3c3fd6cb99d8d6576ed8e5eb94260740bf8c0ecb",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-mechatronics-engineering-systems.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mechatronics-engineering-systems/structure/",
+      "sha256": "bc2d048d5bb251e5758e1d097ae5e42aa4ffdd1ebb97d4dcfc032e1a619b48c7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-mechatronics-engineering-systems-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/mechatronics-engineering-systems/career-outcomes/",
+      "sha256": "b7280ee8e8c924a8204fa3a68d2d5aee2aee059999296308d99dabb211e80fa0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-mechatronics-engineering-systems-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/physics/",
+      "sha256": "a3901fa4b9a433fe64c275fa6fea1d80ed53eb5d819094b68c69fca4f8b0dfdc",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-physics-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/physics.json",
+      "sha256": "554a5d05ba665db67da18c095a67e83028c3e852c50aa76556dd881860244cc6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-physics.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/physics/structure/",
+      "sha256": "3dab9b51c5db5a5f6d7059ba12da2527f56201d9ba8bc1b8549f8669c15ca0ad",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-physics-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/physics/career-outcomes/",
+      "sha256": "290ec326b36249ca589134b611f7a2571f57b12b44c36895bedf726005db1a87",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-physics-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/plant-science/",
+      "sha256": "57b0038f1b66a0b935f2ebf85a3c53be4a70073777667c70051c9f628e93e099",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-plant-science-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/plant-science.json",
+      "sha256": "a8fade02d9ac617ed43fa53f198c60b9452f0604e528244dd88804e95d87d902",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-plant-science.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/plant-science/structure/",
+      "sha256": "ee7b19f5acd850a575fdfb1ea678759130d7a636474142c0f7469c0ac58b548e",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-plant-science-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/plant-science/career-outcomes/",
+      "sha256": "6302e3239b7c024c62f574d45f98e9654893c9c78db44896e9ddc79cf5fb268f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-plant-science-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/veterinary-bioscience/",
+      "sha256": "03dc598eae8ed7b59f9b2dcd7159996b6385589a4c4179652ab6f04c1d3eaadf",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-veterinary-bioscience-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/veterinary-bioscience.json",
+      "sha256": "31b9ebaea3ed9e8164657d8f197fbc9107cd644ff69450619c31845a6ce5c507",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-veterinary-bioscience.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/veterinary-bioscience/structure/",
+      "sha256": "d975140dd72c6f196576a101fba80b76395eb8e1338636632d23a98582f8b890",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-veterinary-bioscience-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/veterinary-bioscience/career-outcomes/",
+      "sha256": "484715f48823a1a2616c84128757fbd7e9e82e80cbbbbeac811473836f62a726",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-veterinary-bioscience-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/zoology/",
+      "sha256": "d631ffe1ec5ee149832b4e02a23f74c140dcc20dae9600034cf99dbbe6eff85f",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-zoology-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/zoology.json",
+      "sha256": "4229cb7bf85c89118075c2bfab4eb7d20d648b867003b7086e4a1bd91780ed5a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-zoology.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/zoology/structure/",
+      "sha256": "c61a6f6a6fafa22d04832b5b65324274823a2ad85d828df8428ab2b9eb47dbb0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-zoology-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/major/zoology/career-outcomes/",
+      "sha256": "4f01cb5b055fee54cbd4e5a6df9bd2cd410a437680a743260b0e074b13cd33a9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-zoology-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/",
+      "sha256": "33e4c5675fbfb4b93a8c1c2c18068dd7db963052544196d5b01c398c85b815b9",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-extended-overview.html",
+      "locator": null
+    },
+    {
+      "url": "https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-science-extended.json",
+      "sha256": "5f5faf8b185376a62a04bd702e29dd20f293d78036b9a102d359b10bcd856c12",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/offering-bachelor-of-science-extended.json",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/entry-requirements/",
+      "sha256": "a57dd67053b3bde8668e382f10caaf71f97ebab3acaf3ff1f002ad9565dd28a7",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-extended-entry-requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/how-to-apply/",
+      "sha256": "ccf667c42a18262539620315f1dab5ef05e1a466d1921e9c27c9697e79ff738a",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-extended-how-to-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/fees/",
+      "sha256": "f1d87febb5a04b6b2943b6669a6ce1bad8715c93584614faf9052ecec0f0b525",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-extended-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/structure/",
+      "sha256": "f15fef440043409d42eac4fb0b9f9fab04444d01ce2279b8eda13f080f4ed23d",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-extended-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/career-outcomes/",
+      "sha256": "a23a86cbac02ef048b0dcc0123a2f10b76368b1bf9017a87f6c819f04b0624f0",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/page-bachelor-of-science-extended-career-outcomes.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/lp/science/applied-mathematics-major",
+      "sha256": "fc512d702865ba5b9cb4593377706a090248578d8602ef1f36e753be5c036c33",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/new-applied-mathematics.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/lp/science/pure-mathematics",
+      "sha256": "b0ab1f73f621b76c6ff7d9ab923433dedc92b41f4243970e0435102731c74ee8",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/new-pure-mathematics.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/lp/science/mathematical-operations-research",
+      "sha256": "13ffb63a56bb075d5e5f4e4f0a235e86bfb41c983a882595eed8d8a311d0773b",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/new-mathematical-operations-research.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/lp/science/statistics-and-stochastic-processes",
+      "sha256": "ba48b9bb336884f0d45ff3270d214a931b795cc21eeba2e2349882e58edbe1e6",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/raw/new-statistics-and-stochastic-processes.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/lp/science/chemical-biology-and-therapeutics",
+      "sha256": "d99f52833cef71af5e8536b81cc5bc0a9c2cfa1cad166f2115729a44f9fc5c33",
+      "raw_file": "scratch/full-catalog/melbourne-enrichment/root-raw/chemical-biology.txt",
       "locator": null
     }
   ]

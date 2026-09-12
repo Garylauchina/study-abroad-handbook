@@ -23,151 +23,155 @@ hide:
 
 ## 专业与申请资料
 
-140 个专业条目 · 2 个含详细资料 · 10 个补有专业资料 · 128 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+144 个专业条目 · 2 个含详细资料 · 142 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=melbourne#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-accounting-11a0a1c993/">Accounting</a><small>Bachelor of Commerce — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-acting-63232e00e9/">Acting</a><small>Bachelor of Fine Arts — specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-actuarial-studies-af83830d47/">Actuarial Studies</a><small>Bachelor of Commerce — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-agricultural-economics-a5995f2f83/">Agricultural Economics</a><small>Bachelor of Agriculture — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-agricultural-science-4a0d4f020b/">Agricultural Science</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ancient-world-studies-6e37cf2c8d/">Ancient World Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-animal-health-and-disease-863bb8f76e/">Animal Health and Disease</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-animal-science-and-management-937126c00e/">Animal Science and Management</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-animation-e2e6c10d29/">Animation</a><small>Bachelor of Fine Arts — specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-anthropology-429a888709/">Anthropology</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-arabic-studies-c4cf9ca60f/">Arabic Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-architecture-935519269a/">Architecture</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-art-history-fbfe074184/">Art History</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-asian-studies-907b317013/">Asian Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-agriculture-deccdddb87/">Bachelor of Agriculture</a><small>Bachelor of Agriculture · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-arts-205f275e86/">Bachelor of Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-biomedicine-09baa08612/">Bachelor of Biomedicine</a><small>Bachelor of Biomedicine · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-commerce-0271fe4211/">Bachelor of Commerce</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-accounting-11a0a1c993/">会计（商科学士主修）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-acting-63232e00e9/">艺术学士（表演）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-actuarial-studies-af83830d47/">精算研究（商科学士主修）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-agricultural-economics-a5995f2f83/">农业经济学（农业学士主修）</a><small>Bachelor of Agriculture — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-agricultural-science-4a0d4f020b/">农业科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ancient-world-studies-6e37cf2c8d/">古代世界研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-animal-health-and-disease-863bb8f76e/">动物健康与疾病（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-animal-science-and-management-937126c00e/">动物科学与管理（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-animation-e2e6c10d29/">艺术学士（动画）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-anthropology-429a888709/">人类学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-applied-mathematics-bbb418818c/">应用数学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-arabic-studies-c4cf9ca60f/">阿拉伯语研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-architecture-935519269a/">建筑学（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-art-history-fbfe074184/">艺术史（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-asian-studies-907b317013/">亚洲研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-agriculture-deccdddb87/">农业学士</a><small>Bachelor of Agriculture · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-arts-205f275e86/">文学学士</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-biomedicine-09baa08612/">生物医学学士</a><small>Bachelor of Biomedicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-commerce-0271fe4211/">商科学士</a><small>Bachelor of Commerce · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economics/">商学学士·经济学主修</a><small>Bachelor of Commerce — Economics major · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-design-a0a4bbe173/">Bachelor of Design</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-fine-arts-253934e5fd/">Bachelor of Fine Arts</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-music-c75c758b1b/">Bachelor of Music</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-oral-health-be26303a2d/">Bachelor of Oral Health</a><small>Bachelor of Oral Health · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-science-dcf2900f46/">Bachelor of Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-science-extended-0b28e06b5d/">Bachelor of Science (Extended)</a><small>Bachelor of Science (Extended) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-design-a0a4bbe173/">设计学士</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-fine-arts-253934e5fd/">艺术学士（按方向选拔）</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-music-c75c758b1b/">音乐学士（按主修与选拔路径）</a><small>Bachelor of Music · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-oral-health-be26303a2d/">口腔健康学士</a><small>Bachelor of Oral Health · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-science-dcf2900f46/">理学学士</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-bachelor-of-science-extended-0b28e06b5d/">理学学士（原住民延伸课程）</a><small>Bachelor of Science (Extended) · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-software-systems/">理学学士·计算机与软件系统主修</a><small>Bachelor of Science — Computing and Software Systems major · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biochemistry-and-molecular-biology-f3f8223d25/">Biochemistry and Molecular Biology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biochemistry-and-molecular-biology-bcf582332e/">Biochemistry and Molecular Biology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biomedical-engineering-systems-277b4cfd25/">Biomedical Engineering Systems</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biomedical-engineering-systems-aeacce352c/">Biomedical Engineering Systems</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biotechnology-80d61e19a3/">Biotechnology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biotechnology-cb0ef7856e/">Biotechnology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-business-analytics-515feb1d35/">Business Analytics</a><small>Bachelor of Commerce — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-cell-and-developmental-biology-5b975b7b89/">Cell and Developmental Biology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-cell-and-developmental-biology-e2cc0dde99/">Cell and Developmental Biology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-chemical-engineering-systems-51a6c68568/">Chemical Engineering Systems</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-chemistry-39bd50b0a1/">Chemistry</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-chinese-studies-37a9584a84/">Chinese Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-civil-engineering-systems-59298439cc/">Civil Engineering Systems</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-civil-engineering-systems-d762534fb3/">Civil Engineering Systems</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-classics-ancient-greek-and-latin-29913a906e/">Classics (Ancient Greek and Latin)</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-climate-and-weather-ffd2acc341/">Climate and Weather</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-composition-91b30cae70/">Composition</a><small>Bachelor of Music — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-and-software-systems-0ab70bf08a/">Computing and Software Systems</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-construction-50b0f205e5/">Construction</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-creative-writing-6e1c76df76/">Creative Writing</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-criminology-1b87952ebc/">Criminology</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-dance-ce3d5802bb/">Dance</a><small>Bachelor of Fine Arts — specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-data-science-8424630e14/">Data Science</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-digital-infrastructure-engineering-systems-e39f18ec95/">Digital Infrastructure Engineering Systems</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-digital-infrastructure-engineering-systems-6c45a7f18b/">Digital Infrastructure Engineering Systems</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ecology-and-evolutionary-biology-a3e8ed72a6/">Ecology and Evolutionary Biology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economics-bd703d7588/">Economics</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ecosystem-science-8609f37400/">Ecosystem Science</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-electrical-engineering-systems-cd44227e06/">Electrical Engineering Systems</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-english-and-theatre-studies-de46bc6a03/">English and Theatre Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-environmental-engineering-systems-a445ed9dc9/">Environmental Engineering Systems</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-environmental-science-7c6c7c7405/">Environmental Science</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-film-and-television-8ce48c8dac/">Film and Television</a><small>Bachelor of Fine Arts — specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-finance-2e163d2188/">Finance</a><small>Bachelor of Commerce — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-food-science-38f7c49453/">Food Science</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-french-studies-039938a21c/">French Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-game-design-8fc550695b/">Game Design</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-gender-studies-02d6739c56/">Gender Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-genetics-d68ec905d1/">Genetics</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-genetics-4b672219ef/">Genetics</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-geography-1516f90aaa/">Geography</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-geography-50fc542a95/">Geography</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-geoscience-b1946e91b5/">Geoscience</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-german-studies-8405471df1/">German Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-graphic-design-37f1c279d0/">Graphic Design</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-hebrew-and-jewish-studies-8cffc7362d/">Hebrew and Jewish Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-history-90b06d3015/">History</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-history-and-philosophy-of-science-7da1122d83/">History and Philosophy of Science</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-nutrition-9112cdb3bd/">Human Nutrition</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-nutrition-666b201a2c/">Human Nutrition</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-structure-and-function-1bf61b39dc/">Human Structure and Function</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-structure-and-function-ce92baa615/">Human Structure and Function</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-immunology-f65c37ebe0/">Immunology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-immunology-616a3de825/">Immunology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-indigenous-studies-cc9877d2bd/">Indigenous Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-indonesian-studies-0f04ddb0f1/">Indonesian Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-infection-and-immunity-584e1b8011/">Infection and Immunity</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-infection-and-immunity-60859d410b/">Infection and Immunity</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-interactive-composition-a65c02f47e/">Interactive Composition</a><small>Bachelor of Music — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-interior-design-7a9bfab063/">Interior Design</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-islamic-studies-3c64efc5cd/">Islamic Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-italian-studies-a078d7db1f/">Italian Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-japanese-studies-2165d85728/">Japanese Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-jazz-and-improvisation-0cd3e337ca/">Jazz and Improvisation</a><small>Bachelor of Music — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-korean-studies-aca495b377/">Korean Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-landscape-architecture-e6f079b134/">Landscape Architecture</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-linguistics-and-applied-linguistics-986b81dbb4/">Linguistics and Applied Linguistics</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-management-a17ba01d9f/">Management</a><small>Bachelor of Commerce — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-marine-biology-f9f421a14c/">Marine Biology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-marketing-f232a24a26/">Marketing</a><small>Bachelor of Commerce — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mathematical-physics-3dfd0c2a9f/">Mathematical Physics</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mathematics-and-statistics-69ddb4bf22/">Mathematics and Statistics</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mechanical-engineering-systems-ec9a58fb8a/">Mechanical Engineering Systems</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mechanical-engineering-systems-2492d6e23a/">Mechanical Engineering Systems</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mechatronics-engineering-systems-f2cb5c7cf5/">Mechatronics Engineering Systems</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-media-and-communications-80436c9628/">Media and Communications</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-microbiology-d65dbdc6dc/">Microbiology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-microbiology-ec6aa84c2f/">Microbiology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-music-studies-2369b232d0/">Music Studies</a><small>Bachelor of Music — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-music-theatre-4f99c58a95/">Music Theatre</a><small>Bachelor of Fine Arts — specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-musicology-and-ethnomusicology-0221bdb8f9/">Musicology and Ethnomusicology</a><small>Bachelor of Music — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-neuroscience-208ed8221d/">Neuroscience</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-neuroscience-b7327db62e/">Neuroscience</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pathology-38edbee03d/">Pathology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pathology-7f9e2dceaf/">Pathology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-performance-0151629429/">Performance</a><small>Bachelor of Music — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-performance-design-ff9f7e9ac8/">Performance Design</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pharmacology-de2bde42e3/">Pharmacology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pharmacology-6f9e257ebf/">Pharmacology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-philosophy-1119bb7126/">Philosophy</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-physics-625505d69e/">Physics</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-physiology-07d6393d7f/">Physiology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-physiology-a7ab5f6a7d/">Physiology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-plant-science-5904f6b1f2/">Plant Science</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-plant-and-soil-science-50de164b90/">Plant and Soil Science</a><small>Bachelor of Agriculture — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-politics-and-international-studies-400f2930b3/">Politics and International Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-production-581afbcfba/">Production</a><small>Bachelor of Fine Arts — specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-production-animal-science-cd964edb8c/">Production Animal Science</a><small>Bachelor of Agriculture — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-property-4b8bb27d07/">Property</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-psychology-8e102511a6/">Psychology</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-psychology-fd0ae89404/">Psychology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-psychology-664aa2f8d7/">Psychology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-public-health-and-epidemiology-7ca7072636/">Public Health and Epidemiology</a><small>Bachelor of Biomedicine — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-russian-studies-c86f465440/">Russian Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-screen-and-cultural-studies-f5604298c2/">Screen and Cultural Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-screenwriting-a7a42315f3/">Screenwriting</a><small>Bachelor of Fine Arts — specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-sociology-30d5507538/">Sociology</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-spanish-and-latin-american-studies-e316e09ee9/">Spanish and Latin American Studies</a><small>Bachelor of Arts — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-theatre-fccf928b64/">Theatre</a><small>Bachelor of Fine Arts — specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-urban-planning-7e190b2429/">Urban Planning</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-user-experience-design-73d713a5ee/">User Experience Design</a><small>Bachelor of Design — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-veterinary-bioscience-267de13612/">Veterinary Bioscience</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-visual-art-8d2c0dcf61/">Visual Art</a><small>Bachelor of Fine Arts — specialisation · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-zoology-064846729d/">Zoology</a><small>Bachelor of Science — major · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biochemistry-and-molecular-biology-f3f8223d25/">生物化学与分子生物学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biochemistry-and-molecular-biology-bcf582332e/">生物化学与分子生物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biomedical-engineering-systems-277b4cfd25/">生物医学工程系统（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biomedical-engineering-systems-aeacce352c/">生物医学工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biotechnology-80d61e19a3/">生物技术（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-biotechnology-cb0ef7856e/">生物技术（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-business-analytics-515feb1d35/">商业分析（商科学士主修）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-cell-and-developmental-biology-5b975b7b89/">细胞与发育生物学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-cell-and-developmental-biology-e2cc0dde99/">细胞与发育生物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-chemical-biology-and-therapeutics-9e4399e609/">化学生物学与治疗学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-chemical-engineering-systems-51a6c68568/">化学工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-chemistry-39bd50b0a1/">化学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-chinese-studies-37a9584a84/">中文研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-civil-engineering-systems-59298439cc/">土木工程系统（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-civil-engineering-systems-d762534fb3/">土木工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-classics-ancient-greek-and-latin-29913a906e/">古典学（古希腊语与拉丁语）（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-climate-and-weather-ffd2acc341/">气候与天气（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-composition-91b30cae70/">音乐学士（作曲）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-computing-and-software-systems-0ab70bf08a/">计算与软件系统（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-construction-50b0f205e5/">建筑施工（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-creative-writing-6e1c76df76/">创意写作（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-criminology-1b87952ebc/">犯罪学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-dance-ce3d5802bb/">艺术学士（舞蹈）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-data-science-8424630e14/">数据科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-digital-infrastructure-engineering-systems-e39f18ec95/">数字基础设施工程系统（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-digital-infrastructure-engineering-systems-6c45a7f18b/">数字基础设施工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ecology-and-evolutionary-biology-a3e8ed72a6/">生态与进化生物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-economics-bd703d7588/">经济学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-ecosystem-science-8609f37400/">生态系统科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-electrical-engineering-systems-cd44227e06/">电气工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-english-and-theatre-studies-de46bc6a03/">英语与戏剧研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-environmental-engineering-systems-a445ed9dc9/">环境工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-environmental-science-7c6c7c7405/">环境科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-film-and-television-8ce48c8dac/">艺术学士（电影与电视）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-finance-2e163d2188/">金融学（商科学士主修）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-food-science-38f7c49453/">食品科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-french-studies-039938a21c/">法语研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-game-design-8fc550695b/">游戏设计（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-gender-studies-02d6739c56/">性别研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-genetics-d68ec905d1/">遗传学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-genetics-4b672219ef/">遗传学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-geography-1516f90aaa/">地理学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-geography-50fc542a95/">地理学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-geoscience-b1946e91b5/">地球科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-german-studies-8405471df1/">德语研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-graphic-design-37f1c279d0/">平面设计（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-hebrew-and-jewish-studies-8cffc7362d/">希伯来语与犹太研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-history-90b06d3015/">历史学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-history-and-philosophy-of-science-7da1122d83/">科学史与科学哲学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-nutrition-9112cdb3bd/">人体营养学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-nutrition-666b201a2c/">人体营养学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-structure-and-function-1bf61b39dc/">人体结构与功能（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-human-structure-and-function-ce92baa615/">人体结构与功能（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-immunology-f65c37ebe0/">免疫学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-immunology-616a3de825/">免疫学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-indigenous-studies-cc9877d2bd/">原住民研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-indonesian-studies-0f04ddb0f1/">印度尼西亚语研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-infection-and-immunity-584e1b8011/">感染与免疫（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-infection-and-immunity-60859d410b/">感染与免疫（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-interactive-composition-a65c02f47e/">音乐学士（互动媒体作曲）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-interior-design-7a9bfab063/">室内设计（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-islamic-studies-3c64efc5cd/">伊斯兰研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-italian-studies-a078d7db1f/">意大利语研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-japanese-studies-2165d85728/">日语研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-jazz-and-improvisation-0cd3e337ca/">音乐学士（爵士与即兴）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-korean-studies-aca495b377/">韩国研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-landscape-architecture-e6f079b134/">景观建筑（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-linguistics-and-applied-linguistics-986b81dbb4/">语言学与应用语言学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-management-a17ba01d9f/">管理学（商科学士主修）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-marine-biology-f9f421a14c/">海洋生物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-marketing-f232a24a26/">市场营销（商科学士主修）</a><small>Bachelor of Commerce — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mathematical-operations-research-86d4bada0b/">数理运筹学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mathematical-physics-3dfd0c2a9f/">数学物理（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mechanical-engineering-systems-ec9a58fb8a/">机械工程系统（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mechanical-engineering-systems-2492d6e23a/">机械工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-mechatronics-engineering-systems-f2cb5c7cf5/">机电一体化工程系统（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-media-and-communications-80436c9628/">媒体与传播（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-microbiology-d65dbdc6dc/">微生物学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-microbiology-ec6aa84c2f/">微生物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-music-studies-2369b232d0/">音乐学士（音乐研究综合方向）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-music-theatre-4f99c58a95/">艺术学士（音乐剧）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-musicology-and-ethnomusicology-0221bdb8f9/">音乐学士（音乐学与民族音乐学）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-neuroscience-208ed8221d/">神经科学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-neuroscience-b7327db62e/">神经科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pathology-38edbee03d/">病理学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pathology-7f9e2dceaf/">病理学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-performance-0151629429/">音乐学士（演奏与演唱）</a><small>Bachelor of Music — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-performance-design-ff9f7e9ac8/">演出设计（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pharmacology-de2bde42e3/">药理学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pharmacology-6f9e257ebf/">药理学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-philosophy-1119bb7126/">哲学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-physics-625505d69e/">物理学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-physiology-07d6393d7f/">生理学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-physiology-a7ab5f6a7d/">生理学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-plant-science-5904f6b1f2/">植物科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-plant-and-soil-science-50de164b90/">植物与土壤科学（农业学士主修）</a><small>Bachelor of Agriculture — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-politics-and-international-studies-400f2930b3/">政治与国际研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-production-581afbcfba/">艺术学士（舞台制作）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-production-animal-science-cd964edb8c/">生产动物科学（农业学士主修）</a><small>Bachelor of Agriculture — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-property-4b8bb27d07/">房地产（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-psychology-8e102511a6/">心理学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-psychology-fd0ae89404/">心理学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-psychology-664aa2f8d7/">心理学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-public-health-and-epidemiology-7ca7072636/">公共卫生与流行病学（生物医学学士主修）</a><small>Bachelor of Biomedicine — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-pure-mathematics-98ba9559ac/">纯数学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-russian-studies-c86f465440/">俄语研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-screen-and-cultural-studies-f5604298c2/">影视与文化研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-screenwriting-a7a42315f3/">艺术学士（编剧）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-sociology-30d5507538/">社会学（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-spanish-and-latin-american-studies-e316e09ee9/">西班牙语与拉丁美洲研究（文学学士主修）</a><small>Bachelor of Arts — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-statistics-and-stochastic-processes-d432f5f8c2/">统计与随机过程（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-theatre-fccf928b64/">艺术学士（戏剧创作与表演）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-urban-planning-7e190b2429/">城市规划（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-user-experience-design-73d713a5ee/">用户体验设计（设计学士主修）</a><small>Bachelor of Design — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-veterinary-bioscience-267de13612/">兽医生物科学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-visual-art-8d2c0dcf61/">艺术学士（视觉艺术）</a><small>Bachelor of Fine Arts — specialisation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/melbourne/melbourne-zoology-064846729d/">动物学（理学学士主修）</a><small>Bachelor of Science — major · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -178,21 +182,21 @@ hide:
 <p class="catalog-fact"><strong>大陆普高与高考：</strong>官网中国学生页面明确目前不接受高考直接入读本科。中国普通高中学生通常考虑Trinity College Foundation Studies；持认可IB、A-level等资格者可按该资格申请。预科录取不等于本科升读获保证。</p>
 <p class="fact-sources"><a href="#source-u-melbourne-profile-browser-china">官方依据</a></p>
 
-<p class="catalog-fact"><strong>英语分级：</strong>官网英语表Level1为IELTS总分6.5、四项6.0；另有更高等级和课程例外，必须按所选学位核实等级。本轮不把Level1视为全部本科的统一要求。</p>
-<p class="fact-sources"><a href="#source-u-melbourne-profile-browser-english">官方依据</a></p>
+<p class="catalog-fact"><strong>本科英语分组：</strong>官方本科英语表将农业、文学、生物医学、商科、设计、艺术、音乐和理学列为IELTS Academic总分6.5、四项各6.0；口腔健康为7.0、四项各7.0。原住民延伸或特殊入口须另核适用。测试替代与资格有效期按个人背景评估。</p>
+<p class="fact-sources"><a href="#source-u-melbourne-undergraduate-english">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>国际生申请渠道：</strong>在中国完成IB、A-level等国际资格通常可直申或经授权代理；澳洲Year12及在澳洲/新西兰读IB等类别，须按申请页和入学学期选择VTAC或直申。</p>
-<p class="fact-sources"><a href="#source-u-melbourne-profile-browser-apply">官方依据</a></p>
-
-<p class="catalog-fact"><strong>2027直接申请窗口：</strong>2027第一学期直申截止2026-11-30，第二学期截止2027-05-31；具体学位可能有附加选拔或不同日程，迟交是否接受由学校决定。截至核验日两截止尚未到。</p>
-<p class="fact-sources"><a href="#source-u-melbourne-profile-browser-apply">官方依据</a></p>
+<p class="catalog-fact"><strong>国际本科渠道与日期：</strong>在中国完成IB或其他认可海外资格者通常直申；澳洲Year12（境内外）及在澳洲/新西兰读IB者的年初批次走VTAC，年中批次直申。校级2027年初截止2026-11-30、年中截止2027-05-31；部分课程页却列年中2027-03-31，艺术音乐还有9月截止，应以课程说明核对，不能把通用日期当作各专业保证。</p>
+<p class="fact-sources"><a href="#source-u-melbourne-international-apply-2027">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>费用与资助待核范围：</strong>本轮校级原文尚未取得覆盖所有2027本科的准确国际年费区间，应按所属学位和选课核对。中国学生页介绍Melbourne Excellence Scholarship可有20%学费减免，但具体本科资格、成绩和课程排除项尚未逐条核定，不能预设获奖。</p>
-<p class="fact-sources"><a href="#source-u-melbourne-profile-browser-china">官方依据</a></p>
+<p class="catalog-fact"><strong>学费计算范围：</strong>国际本科按所读科目的学科费率与学分收费，课程页的首年和全程金额为估算，学费每年复核；全程估算一般已含估计涨幅。请查具体学位和年份，主修费用不应在学位费上重复加计。</p>
+<p class="fact-sources"><a href="#source-u-melbourne-page-bachelor-of-arts-fees">官方依据</a> · <a href="#source-u-melbourne-arts-fees-international">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027本科优秀奖学金：</strong>Melbourne International Excellence Scholarship为2027入学本科提供全课程20%学费减免，至少140个名额。须已获Overseas Fee本科录取，未有高等教育经历（Year12延伸学习除外），按课程入学成绩择优，申请课程后自动考虑；不能与其他学费减免或资助叠加。获奖者通常在课程录取后五个工作日内获通知，未获奖者不另通知，不应预设可获奖。</p>
+<p class="fact-sources"><a href="#source-u-melbourne-excellence-scholarship">官方依据</a></p>
 
 ### 毕业生情况
 
@@ -202,25 +206,573 @@ hide:
 ### 学校资料来源
 
 <div class="catalog-source" id="source-u-melbourne-profile-browser-china"><div><a href="https://study.unimelb.edu.au/connect-with-us/international/china">melbourne 官方资料：browser-china ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-melbourne-profile-browser-english"><div><a href="https://study.unimelb.edu.au/how-to-apply/english-language-requirements">melbourne 官方资料：browser-english ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-melbourne-profile-browser-apply"><div><a href="https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications">melbourne 官方资料：browser-apply ↗</a><p>本条校级事实及已核实适用范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-melbourne-undergraduate-english"><div><a href="https://study.unimelb.edu.au/how-to-apply/english-language-requirements/undergraduate-english-language-requirements">本科英语要求与课程分组 ↗</a><p>列明八类本科 IELTS 6.5 各项6.0、口腔健康7.0各项7.0；替代资格需另核</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-melbourne-international-apply-2027"><div><a href="https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications">国际本科申请渠道与2027通用日期 ↗</a><p>根据所读资格及地点区分VTAC与直申；通用截止及课程例外</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-melbourne-page-bachelor-of-arts-fees"><div><a href="https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/fees/">Bachelor of Arts — 费用 ↗</a><p>官网公开课程栏目；仅用于已列明内容与年度</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-melbourne-arts-fees-international"><div><a href="https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/fees/">文学学士国际费用公开说明 ↗</a><p>国际本科按科目计费及年度估算条件</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-melbourne-excellence-scholarship"><div><a href="https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-undergraduate">Melbourne International Excellence Scholarship (Undergraduate) ↗</a><p>2027本科20%学费减免、名额、选拔与不可叠加条件</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**官方目录仍在补齐**，共 140 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 144 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table</p>
 
-<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}}</p>
+<p><strong>对账方法：</strong>{&quot;pdf_pages&quot;: 24, &quot;complete_major_spread_pages&quot;: [12, 13], &quot;visual_review&quot;: true, &quot;group_counts&quot;: {&quot;Agriculture&quot;: 3, &quot;Arts&quot;: 33, &quot;Biomedicine&quot;: 16, &quot;Commerce&quot;: 7, &quot;Design&quot;: 14, &quot;Fine Arts&quot;: 9, &quot;Music&quot;: 6, &quot;Oral Health&quot;: 0, &quot;Science&quot;: 42}} 2026-09-13逐项核现有140身份及公开课程栏目；旧数学主修移至更正页，增加4个数学主修及Chemical Biology and Therapeutics。</p>
 
 <p><strong>排除项：</strong>Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256；Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies；Oral Health four curricular components explicitly not majors and are not separately counted；Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note</p>
 
 **尚未解决的目录缺口：**
 
-- Official Handbook and study finder returned access challenges; 2027 university brochure is complete for its listed mainstream entry degrees but cannot prove university-wide current honours/second-bachelor/restricted historic-program completeness
-- Separate honours programs and any additional Indigenous/extended pathways outside this guide await catalog reconciliation
-- Individual major URLs not obtained; PDF page locator is the verified official reference
+- 原2027指南与当前官网仍有Geoscience/Geology名称差异；当前理学学位结构已列Geology，其与旧Geoscience的年度及替代关系尚未核清。目录继续部分覆盖。
+- 9个艺术音乐方向只有2026费用参考；其他费用逐项区分所属学位和2027估算，内部主修不另算一份学费。
+- 课程2027年中截止03-31与学校国际总页05-31不一致，保留两者；艺术音乐采用专门选拔时间。
+- 本科后荣誉、后续职业学位的完整选拔与个人注册条件，以及按专业和国际生样本定义的毕业统计仍未全部核实。
 
 - [官方目录来源](https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-agriculture.json)
+- [官方目录来源](https://students.unimelb.edu.au/course-admin/academic-transcripts-and-statements/evidence-of-enrolment)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/entry-requirements/)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/english-language-requirements/undergraduate-english-language-requirements)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/how-to-apply/)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-agriculture/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-economics/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/agricultural-economics.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-economics/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-economics/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/plant-and-soil-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/plant-and-soil-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/plant-and-soil-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/plant-and-soil-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/production-animal-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/production-animal-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/production-animal-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/production-animal-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-arts.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/ancient-world-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/ancient-world-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/ancient-world-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/ancient-world-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/anthropology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/anthropology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/anthropology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/anthropology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/arabic-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/arabic-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/arabic-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/arabic-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/art-history/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/art-history.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/art-history/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/art-history/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/asian-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/asian-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/asian-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/asian-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/chinese-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/chinese-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/chinese-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/chinese-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/classics-ancient-greek-and-latin/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/classics-ancient-greek-and-latin.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/classics-ancient-greek-and-latin/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/classics-ancient-greek-and-latin/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/creative-writing/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/creative-writing.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/creative-writing/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/creative-writing/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/criminology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/criminology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/criminology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/criminology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/economics/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/economics.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/economics/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/economics/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/english-and-theatre-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/english-and-theatre-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/english-and-theatre-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/english-and-theatre-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/french-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/french-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/french-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/french-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/gender-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/gender-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/gender-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/gender-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/geography/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/geography.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/geography/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/geography/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/german-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/german-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/german-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/german-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/hebrew-and-jewish-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/hebrew-and-jewish-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/hebrew-and-jewish-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/hebrew-and-jewish-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/history/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/history.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/history/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/history/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/history-and-philosophy-of-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/history-and-philosophy-of-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/history-and-philosophy-of-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/history-and-philosophy-of-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/indigenous-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/indigenous-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/indigenous-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/indigenous-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/indonesian-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/indonesian-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/indonesian-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/indonesian-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/islamic-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/islamic-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/islamic-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/islamic-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/italian-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/italian-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/italian-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/italian-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/japanese-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/japanese-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/japanese-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/japanese-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/korean-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/korean-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/korean-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/korean-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/linguistics-and-applied-linguistics/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/linguistics-and-applied-linguistics.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/linguistics-and-applied-linguistics/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/linguistics-and-applied-linguistics/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/media-and-communications/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/media-and-communications.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/media-and-communications/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/media-and-communications/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/philosophy/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/philosophy.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/philosophy/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/philosophy/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/politics-and-international-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/politics-and-international-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/politics-and-international-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/politics-and-international-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/psychology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/psychology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/psychology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/psychology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/russian-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/russian-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/russian-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/russian-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/screen-and-cultural-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/screen-and-cultural-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/screen-and-cultural-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/screen-and-cultural-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/sociology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/sociology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/sociology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/sociology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/spanish-and-latin-american-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/spanish-and-latin-american-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/spanish-and-latin-american-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/spanish-and-latin-american-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-biomedicine.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-biomedicine/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/biochemistry-and-molecular-biology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/biochemistry-and-molecular-biology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/biochemistry-and-molecular-biology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/biochemistry-and-molecular-biology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/biomedical-engineering-systems/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/biomedical-engineering-systems.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/biomedical-engineering-systems/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/biomedical-engineering-systems/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/biotechnology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/biotechnology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/biotechnology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/biotechnology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/cell-and-developmental-biology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/cell-and-developmental-biology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/cell-and-developmental-biology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/cell-and-developmental-biology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/genetics/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/genetics.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/genetics/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/genetics/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/human-nutrition/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/human-nutrition.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/human-nutrition/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/human-nutrition/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/human-structure-and-function/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/human-structure-and-function.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/human-structure-and-function/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/human-structure-and-function/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/immunology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/immunology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/immunology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/immunology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/infection-and-immunity/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/infection-and-immunity.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/infection-and-immunity/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/infection-and-immunity/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/microbiology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/microbiology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/microbiology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/microbiology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/neuroscience/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/neuroscience.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/neuroscience/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/neuroscience/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/pathology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/pathology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/pathology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/pathology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/pharmacology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/pharmacology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/pharmacology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/pharmacology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/physiology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/physiology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/physiology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/physiology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/public-health-and-epidemiology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/public-health-and-epidemiology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/public-health-and-epidemiology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/public-health-and-epidemiology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-commerce.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-commerce/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/accounting/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/accounting.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/accounting/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/accounting/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/actuarial-studies/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/actuarial-studies.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/actuarial-studies/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/actuarial-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/business-analytics/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/business-analytics.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/business-analytics/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/business-analytics/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/finance/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/finance.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/finance/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/finance/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/management/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/management.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/management/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/management/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/marketing/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/marketing.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/marketing/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/marketing/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-design.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-design/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/architecture/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/architecture.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/architecture/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/architecture/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/civil-engineering-systems/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/civil-engineering-systems.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/civil-engineering-systems/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/civil-engineering-systems/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/computing-and-software-systems/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/computing-and-software-systems.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/computing-and-software-systems/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/computing-and-software-systems/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/construction/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/construction.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/construction/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/construction/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/digital-infrastructure-engineering-systems/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/digital-infrastructure-engineering-systems.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/digital-infrastructure-engineering-systems/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/digital-infrastructure-engineering-systems/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/game-design/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/game-design.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/game-design/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/game-design/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/graphic-design/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/graphic-design.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/graphic-design/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/graphic-design/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/interior-design/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/interior-design.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/interior-design/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/interior-design/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/landscape-architecture/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/landscape-architecture.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/landscape-architecture/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/landscape-architecture/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mechanical-engineering-systems/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/mechanical-engineering-systems.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mechanical-engineering-systems/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mechanical-engineering-systems/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/performance-design/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/performance-design.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/performance-design/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/performance-design/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/property/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/property.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/property/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/property/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/urban-planning/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/urban-planning.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/urban-planning/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/urban-planning/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/user-experience-design/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/user-experience-design.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/user-experience-design/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/user-experience-design/career-outcomes/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-acting.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-animation.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-dance.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-film-and-television.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-music-theatre.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-production.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-screenwriting.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-theatre.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-fine-arts-visual-art.json)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-acting-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-animation-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-dance-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-film-and-television-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-music-theatre-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-production-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-screenwriting-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-theatre-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-fine-arts-visual-art-auditions-and-interviews)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-acting/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-animation/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-dance/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-film-and-television/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-music-theatre/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-production/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-screenwriting/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-theatre/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-fine-arts-visual-art/how-to-apply/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-composition.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-interactive-composition.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-jazz-and-improvisation.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-musicology-and-ethnomusicology.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-music-studies.json)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-music-performance.json)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-musicology-and-ethnomusicology-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-music-studies-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-composition-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-interactive-composition-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-jazz-and-improvisation-auditions-and-interviews)
+- [官方目录来源](https://study.unimelb.edu.au/how-to-apply/auditions-and-interviews/bachelor-of-music-performance-auditions-and-interviews)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-composition/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-interactive-composition/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-jazz-and-improvisation/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-musicology-and-ethnomusicology/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-music-studies/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-music-performance/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-oral-health.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-oral-health/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/agricultural-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/agricultural-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/animal-health-and-disease/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/animal-health-and-disease.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/animal-health-and-disease/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/animal-health-and-disease/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/animal-science-and-management/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/animal-science-and-management.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/animal-science-and-management/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/animal-science-and-management/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/chemical-engineering-systems/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/chemical-engineering-systems.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/chemical-engineering-systems/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/chemical-engineering-systems/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/chemistry/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/chemistry.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/chemistry/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/chemistry/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/climate-and-weather/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/climate-and-weather.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/climate-and-weather/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/climate-and-weather/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/data-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/data-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/data-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/data-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/ecology-and-evolutionary-biology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/ecology-and-evolutionary-biology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/ecology-and-evolutionary-biology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/ecology-and-evolutionary-biology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/ecosystem-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/ecosystem-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/ecosystem-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/ecosystem-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/electrical-engineering-systems/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/electrical-engineering-systems.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/electrical-engineering-systems/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/electrical-engineering-systems/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-engineering-systems/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/environmental-engineering-systems.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-engineering-systems/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-engineering-systems/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/environmental-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/environmental-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/food-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/food-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/food-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/food-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/geoscience/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/geoscience.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/geoscience/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/geoscience/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/marine-biology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/marine-biology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/marine-biology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/marine-biology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mathematical-physics/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/mathematical-physics.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mathematical-physics/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mathematical-physics/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mathematics-and-statistics/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/mathematics-and-statistics.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mathematics-and-statistics/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mathematics-and-statistics/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mechatronics-engineering-systems/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/mechatronics-engineering-systems.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mechatronics-engineering-systems/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/mechatronics-engineering-systems/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/physics/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/physics.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/physics/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/physics/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/plant-science/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/plant-science.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/plant-science/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/plant-science/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/veterinary-bioscience/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/veterinary-bioscience.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/veterinary-bioscience/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/veterinary-bioscience/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/zoology/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/zoology.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/zoology/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/major/zoology/career-outcomes/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/)
+- [官方目录来源](https://study-data-api-production.herokuapp.com/api/v2/offerings/bachelor-of-science-extended.json)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/entry-requirements/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/how-to-apply/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/fees/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/structure/)
+- [官方目录来源](https://findacourse.study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science-extended/career-outcomes/)
+- [官方目录来源](https://study.unimelb.edu.au/lp/science/applied-mathematics-major)
+- [官方目录来源](https://study.unimelb.edu.au/lp/science/pure-mathematics)
+- [官方目录来源](https://study.unimelb.edu.au/lp/science/mathematical-operations-research)
+- [官方目录来源](https://study.unimelb.edu.au/lp/science/statistics-and-stochastic-processes)
+- [官方目录来源](https://study.unimelb.edu.au/lp/science/chemical-biology-and-therapeutics)
+- [官方目录来源](https://study.unimelb.edu.au/connect-with-us/international/china)
+- [官方目录来源](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-arts/fees/)
+- [官方目录来源](https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-undergraduate)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

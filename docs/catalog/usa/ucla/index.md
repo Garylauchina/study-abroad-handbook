@@ -23,152 +23,156 @@ hide:
 
 ## 专业与申请资料
 
-141 个专业条目 · 0 个含详细资料 · 0 个补有专业资料 · 141 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+145 个专业条目 · 0 个含详细资料 · 145 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ucla#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-aerospace-engineering-a059addd8d/">Aerospace Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-african-american-studies-4c1d1221c0/">African American Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-african-and-middle-eastern-studies-c489721ba1/">African and Middle Eastern Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-american-indian-studies-c69f6bbefa/">American Indian Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-american-literature-and-culture-238ad601e0/">American Literature and Culture</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-ancient-near-east-and-egyptology-2a8f58e63b/">Ancient Near East and Egyptology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-anthropology-00fe654f1a/">Anthropology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-anthropology-3b0d282d37/">Anthropology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-applied-linguistics-77ddce11b3/">Applied Linguistics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-applied-mathematics-ae749b56c5/">Applied Mathematics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-arabic-b5eb4fb8db/">Arabic</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-architectural-studies-47cde633c3/">Architectural Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-art-8d44bc0267/">Art</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-art-history-19f247303c/">Art History</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-american-studies-7c1b6646a4/">Asian American Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-humanities-054a6c0c3d/">Asian Humanities</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-languages-and-linguistics-30de54f4e9/">Asian Languages and Linguistics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-religions-b6de714313/">Asian Religions</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-studies-57803339b2/">Asian Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-astrophysics-44b4eb628b/">Astrophysics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-atmospheric-and-oceanic-sciences-5d3d064991/">Atmospheric and Oceanic Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-atmospheric-and-oceanic-sciences-mathematics-b801e43007/">Atmospheric and Oceanic Sciences/Mathematics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-biochemistry-d266310ce1/">Biochemistry</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-bioengineering-7c44dac9ef/">Bioengineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-biology-14f27cf6a8/">Biology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-biophysics-ead3f48c16/">Biophysics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-business-economics-e06988bf1b/">Business Economics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-central-and-east-european-languages-and-cultures-017742f440/">Central and East European Languages and Cultures</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chemical-engineering-555531189f/">Chemical Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chemistry-aca2a2ba83/">Chemistry</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chemistry-materials-science-c078a6dd0e/">Chemistry/Materials Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chicana-and-chicano-studies-0e933620d7/">Chicana and Chicano Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chinese-169cfa8cf7/">Chinese</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-civil-engineering-1b7949d1d3/">Civil Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-classical-civilization-cf8b462aa6/">Classical Civilization</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-climate-science-994877522a/">Climate Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-cognitive-science-e09e8c65b4/">Cognitive Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-communication-6b91a4043b/">Communication</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-comparative-literature-7c6de4b8b9/">Comparative Literature</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-computational-biology-cddd3c438b/">Computational Biology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-computer-engineering-cf86dc1f72/">Computer Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-computer-science-e3a368466d/">Computer Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-computer-science-and-engineering-2520206337/">Computer Science and Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-dance-9e7a6c41fe/">Dance</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-data-theory-397beb6bd9/">Data Theory</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-design-media-arts-6ee8ce9bfd/">Design|Media Arts</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-disability-studies-37d5a8ef9e/">Disability Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-earth-and-environmental-science-44a5fb0c09/">Earth and Environmental Science</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-ecology-behavior-and-evolution-ace6b3cfbb/">Ecology, Behavior, and Evolution</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-economics-d6a7d0b93d/">Economics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-education-and-social-transformation-02184d06ce/">Education and Social Transformation</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-electrical-engineering-bd962da9cd/">Electrical Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-engineering-geology-49518e5fbe/">Engineering Geology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-english-069052d1a8/">English</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-environmental-science-c7e3fa8ddd/">Environmental Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-ethnomusicology-6ffe84c9d6/">Ethnomusicology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-9e4d10dc91/">European Languages and Transcultural Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-with-french-and-fran-caca89964a/">European Languages and Transcultural Studies with French and Francophone</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-with-german-c27e5597f0/">European Languages and Transcultural Studies with German</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-with-italian-e8a6964f15/">European Languages and Transcultural Studies with Italian</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-with-scandinavian-6e14b08399/">European Languages and Transcultural Studies with Scandinavian</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-studies-3aa4eb9cf6/">European Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-film-and-television-ba367b1196/">Film and Television</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-financial-actuarial-mathematics-08148cdca3/">Financial Actuarial Mathematics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-gender-studies-6950b86ffd/">Gender Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-general-chemistry-c3a67ae1f6/">General Chemistry</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-geography-4d61be08e3/">Geography</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-geography-environmental-studies-15c22b435f/">Geography/Environmental Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-geology-c1ff2923cf/">Geology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-geophysics-41a3d4f5c5/">Geophysics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-global-jazz-studies-be6d5fbb8b/">Global Jazz Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-global-studies-7bca507b18/">Global Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-greek-2829c19ff5/">Greek</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-greek-and-latin-9fb9d1a127/">Greek and Latin</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-history-0651eef4ee/">History</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-human-biology-and-society-c82dafc44e/">Human Biology and Society</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-human-biology-and-society-e7afbfa87f/">Human Biology and Society</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-individual-field-of-concentration-in-arts-and-architecture-615ee3de1d/">Individual Field of Concentration in Arts and Architecture</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-individual-field-of-concentration-in-letters-and-science-6b665572e3/">Individual Field of Concentration in Letters and Science</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-individual-field-of-concentration-in-letters-and-science-2a49621fb1/">Individual Field of Concentration in Letters and Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-individual-field-of-concentration-in-theater-film-and-television-239d1848d9/">Individual Field of Concentration in Theater, Film, and Television</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-international-development-studies-1157b22a54/">International Development Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-iranian-studies-b21b25a078/">Iranian Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-japanese-e16c1092da/">Japanese</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-jewish-studies-0269132896/">Jewish Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-korean-c68eb9671f/">Korean</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-labor-studies-e84da9f77b/">Labor Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-latin-e62201fc59/">Latin</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-latin-american-studies-c0d3a27c2b/">Latin American Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-26e7336112/">Linguistics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-anthropology-a0ffb6f115/">Linguistics and Anthropology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-asian-languages-and-cultures-01148909bd/">Linguistics and Asian Languages and Cultures</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-computer-science-f966e5acc4/">Linguistics and Computer Science</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-english-79531c0910/">Linguistics and English</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-philosophy-efcd33f4e9/">Linguistics and Philosophy</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-psychology-f52e117341/">Linguistics and Psychology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-spanish-a1688c88f6/">Linguistics and Spanish</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-marine-biology-9d4b631533/">Marine Biology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-materials-engineering-5afe924578/">Materials Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-b8ed6e55a1/">Mathematics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-for-teaching-88b1566a4e/">Mathematics for Teaching</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-of-computation-b186306b96/">Mathematics of Computation</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-applied-science-44baf05fff/">Mathematics/Applied Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-economics-4618b46b2e/">Mathematics/Economics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mechanical-engineering-fc150c0cac/">Mechanical Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-microbiology-immunology-and-molecular-genetics-c4ce6b1f65/">Microbiology, Immunology, and Molecular Genetics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-middle-eastern-studies-d9ed38ba5a/">Middle Eastern Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-molecular-cell-and-developmental-biology-4d1a6dd8a2/">Molecular, Cell, and Developmental Biology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-7f72d2e6b4/">Music</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-composition-3ecf12023d/">Music Composition</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-education-5c9e544daa/">Music Education</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-history-and-industry-adf5a3c1c6/">Music History and Industry</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-industry-708ac3719f/">Music Industry</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-performance-0871c5f876/">Music Performance</a><small>BM · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-musicology-fcb37a421c/">Musicology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-neuroscience-0994fe2844/">Neuroscience</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-nordic-studies-b09c9c8c13/">Nordic Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-nursing-prelicensure-c101206bf6/">Nursing Prelicensure</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-philosophy-842c8527c6/">Philosophy</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-physics-594b3cf1cd/">Physics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-physics-88fd07e527/">Physics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-physiological-science-ee5e0f58ac/">Physiological Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-political-science-be58577ead/">Political Science</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-portuguese-and-brazilian-studies-dc608322e0/">Portuguese and Brazilian Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-psychobiology-f2f0c2ca7d/">Psychobiology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-psychology-83db882ef4/">Psychology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-public-affairs-eb25644b4d/">Public Affairs</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-public-health-58d423bfa6/">Public Health</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-public-health-ef1b5870f0/">Public Health</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-russian-language-and-literature-3777ece7b2/">Russian Language and Literature</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-russian-studies-dd3ac7c83b/">Russian Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-sociology-426f7305e2/">Sociology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-southeast-asian-studies-fbac911eea/">Southeast Asian Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-spanish-4fd3297826/">Spanish</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-spanish-and-community-and-culture-51839a94e5/">Spanish and Community and Culture</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-spanish-and-linguistics-df4a580f0f/">Spanish and Linguistics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-spanish-and-portuguese-875274d1c9/">Spanish and Portuguese</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-statistics-and-data-science-1de5a55191/">Statistics and Data Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-study-of-religion-cf5c061ee6/">Study of Religion</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-theater-98b8f38ccb/">Theater</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-world-arts-and-cultures-fa901f5d5a/">World Arts and Cultures</a><small>BA · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-aerospace-engineering-a059addd8d/">航空航天工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-african-american-studies-4c1d1221c0/">非裔美国人研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-african-and-middle-eastern-studies-c489721ba1/">非洲与中东研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-american-indian-studies-c69f6bbefa/">美洲原住民研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-american-literature-and-culture-238ad601e0/">美国文学与文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-ancient-near-east-and-egyptology-2a8f58e63b/">古代近东与埃及学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-anthropology-00fe654f1a/">人类学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-anthropology-3b0d282d37/">人类学（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-applied-linguistics-77ddce11b3/">应用语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-applied-mathematics-ae749b56c5/">应用数学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-arabic-b5eb4fb8db/">阿拉伯语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-architectural-studies-47cde633c3/">建筑研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-art-8d44bc0267/">艺术</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-art-history-19f247303c/">艺术史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-american-studies-7c1b6646a4/">亚裔美国人研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-humanities-054a6c0c3d/">亚洲人文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-languages-and-linguistics-30de54f4e9/">亚洲语言与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-religions-b6de714313/">亚洲宗教</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-asian-studies-57803339b2/">亚洲研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-astrophysics-44b4eb628b/">天体物理学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-atmospheric-and-oceanic-sciences-5d3d064991/">大气与海洋科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-atmospheric-and-oceanic-sciences-mathematics-b801e43007/">大气与海洋科学／数学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-biochemistry-d266310ce1/">生物化学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-bioengineering-7c44dac9ef/">生物工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-biology-14f27cf6a8/">生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-biophysics-ead3f48c16/">生物物理学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-business-economics-e06988bf1b/">商业经济学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-central-and-east-european-languages-and-cultures-017742f440/">中东欧语言与文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chemical-engineering-555531189f/">化学工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chemistry-aca2a2ba83/">化学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chemistry-materials-science-c078a6dd0e/">化学／材料科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chicana-and-chicano-studies-0e933620d7/">墨西哥裔美国人与中美洲研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-chinese-169cfa8cf7/">中文</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-civil-engineering-1b7949d1d3/">土木工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-classical-civilization-cf8b462aa6/">古典文明</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-climate-science-994877522a/">气候科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-cognitive-science-e09e8c65b4/">认知科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-communication-6b91a4043b/">传播学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-comparative-literature-7c6de4b8b9/">比较文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-computational-art-9c7edee95b/">计算艺术</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-computational-biology-cddd3c438b/">计算生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-computer-engineering-cf86dc1f72/">计算机工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-computer-science-e3a368466d/">计算机科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-computer-science-and-engineering-2520206337/">计算机科学与工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-dance-9e7a6c41fe/">舞蹈</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-data-theory-397beb6bd9/">数据理论</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-design-90c65e54e4/">设计</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-design-media-arts-6ee8ce9bfd/">设计与媒体艺术（旧综合学位）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-digital-humanities-f456d0fa10/">数字人文</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-disability-studies-37d5a8ef9e/">残障研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-earth-and-environmental-science-44a5fb0c09/">地球与环境科学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-ecology-behavior-and-evolution-ace6b3cfbb/">生态、行为与演化</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-economics-d6a7d0b93d/">经济学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-education-and-social-transformation-02184d06ce/">教育与社会变革</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-electrical-engineering-bd962da9cd/">电气工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-engineering-geology-49518e5fbe/">工程地质</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-english-069052d1a8/">英语文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-environmental-science-c7e3fa8ddd/">环境科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-ethnomusicology-6ffe84c9d6/">民族音乐学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-9e4d10dc91/">欧洲语言与跨文化研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-with-french-and-fran-caca89964a/">欧洲语言与跨文化研究：法语及法语区</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-with-german-c27e5597f0/">欧洲语言与跨文化研究：德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-with-italian-e8a6964f15/">欧洲语言与跨文化研究：意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-languages-and-transcultural-studies-with-scandinavian-6e14b08399/">欧洲语言与跨文化研究：斯堪的纳维亚</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-european-studies-3aa4eb9cf6/">欧洲研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-film-and-television-ba367b1196/">电影与电视</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-financial-actuarial-mathematics-08148cdca3/">金融与精算数学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-games-f36a449555/">游戏</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-gender-studies-6950b86ffd/">性别研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-general-chemistry-c3a67ae1f6/">普通化学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-geography-4d61be08e3/">地理学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-geography-environmental-studies-15c22b435f/">地理学／环境研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-geology-c1ff2923cf/">地质学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-geophysics-41a3d4f5c5/">地球物理学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-global-jazz-studies-be6d5fbb8b/">全球爵士乐研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-global-studies-7bca507b18/">全球研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-greek-2829c19ff5/">希腊语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-greek-and-latin-9fb9d1a127/">希腊语与拉丁语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-history-0651eef4ee/">历史学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-human-biology-and-society-c82dafc44e/">人类生物学与社会（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-human-biology-and-society-e7afbfa87f/">人类生物学与社会（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-individual-field-of-concentration-in-arts-and-architecture-615ee3de1d/">自拟专业领域（艺术与建筑学院文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-individual-field-of-concentration-in-letters-and-science-6b665572e3/">自拟专业领域（文理学院文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-individual-field-of-concentration-in-letters-and-science-2a49621fb1/">自拟专业领域（文理学院理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-individual-field-of-concentration-in-theater-film-and-television-239d1848d9/">自拟专业领域（戏剧电影电视学院文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-international-development-studies-1157b22a54/">国际发展研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-iranian-studies-b21b25a078/">伊朗研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-japanese-e16c1092da/">日语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-jewish-studies-0269132896/">犹太研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-korean-c68eb9671f/">韩语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-labor-studies-e84da9f77b/">劳工研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-latin-e62201fc59/">拉丁语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-latin-american-studies-c0d3a27c2b/">拉丁美洲研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-26e7336112/">语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-anthropology-a0ffb6f115/">语言学与人类学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-asian-languages-and-cultures-01148909bd/">语言学与亚洲语言文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-computer-science-f966e5acc4/">语言学与计算机科学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-english-79531c0910/">语言学与英语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-philosophy-efcd33f4e9/">语言学与哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-psychology-f52e117341/">语言学与心理学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-linguistics-and-spanish-a1688c88f6/">语言学与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-marine-biology-9d4b631533/">海洋生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-materials-engineering-5afe924578/">材料工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-b8ed6e55a1/">数学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-for-teaching-88b1566a4e/">数学教育</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-of-computation-b186306b96/">计算数学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-applied-science-44baf05fff/">数学／应用科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mathematics-economics-4618b46b2e/">数学／经济学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-mechanical-engineering-fc150c0cac/">机械工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-microbiology-immunology-and-molecular-genetics-c4ce6b1f65/">微生物、免疫与分子遗传学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-middle-eastern-studies-d9ed38ba5a/">中东研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-molecular-cell-and-developmental-biology-4d1a6dd8a2/">分子、细胞与发育生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-7f72d2e6b4/">音乐（文学学士；暂不接受申请）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-composition-3ecf12023d/">作曲</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-education-5c9e544daa/">音乐教育</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-history-and-industry-adf5a3c1c6/">音乐史与产业</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-industry-708ac3719f/">音乐产业</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-music-performance-0871c5f876/">音乐表演（音乐学士）</a><small>BM · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-musicology-fcb37a421c/">音乐学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-neuroscience-0994fe2844/">神经科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-nordic-studies-b09c9c8c13/">北欧研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-nursing-prelicensure-c101206bf6/">护理学（首次执照前理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-philosophy-842c8527c6/">哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-physics-594b3cf1cd/">物理学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-physics-88fd07e527/">物理学（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-physiological-science-ee5e0f58ac/">生理科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-political-science-be58577ead/">政治学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-portuguese-and-brazilian-studies-dc608322e0/">葡萄牙语与巴西研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-psychobiology-f2f0c2ca7d/">心理生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-psychology-83db882ef4/">心理学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-public-affairs-eb25644b4d/">公共事务</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-public-health-58d423bfa6/">公共卫生（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-public-health-ef1b5870f0/">公共卫生（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-russian-language-and-literature-3777ece7b2/">俄语语言与文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-russian-studies-dd3ac7c83b/">俄罗斯研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-sociology-426f7305e2/">社会学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-southeast-asian-studies-fbac911eea/">东南亚研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-spanish-4fd3297826/">西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-spanish-and-community-and-culture-51839a94e5/">西班牙语、社区与文化</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-spanish-and-linguistics-df4a580f0f/">西班牙语语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-spanish-and-portuguese-875274d1c9/">西班牙语与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-statistics-and-data-science-1de5a55191/">统计学与数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-study-of-religion-cf5c061ee6/">宗教研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-theater-98b8f38ccb/">戏剧</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucla/ucla-world-arts-and-cultures-fa901f5d5a/">世界艺术与文化</a><small>BA · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -176,51 +180,272 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>新生与第二学位限制：</strong>完成中学后尚未在大学常规学期注册者可按新生申请；已有学士学位者不获 UCLA 本科录取，不能隐瞒大学记录改按新生。转学生须满足独立的高年级转入资格。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-238bd940a08671">官方依据</a></p>
+<p class="catalog-fact"><strong>中国普高申请类别：</strong>完成中学且毕业后未在大学常规学期注册者可按新生申请；已有学士学位者不获UCLA第二本科录取。不能隐瞒大学经历改按新生。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-bd429339b6bfa6">官方依据</a></p>
 
-<p class="catalog-fact"><strong>中国普高与 A-level：</strong>UC中国说明要求按原记录申报初三至高三课程和成绩；A-level体系申请须至少5门IGCSE/GCSE/O-level及3门学术A-level。不同体系材料按相应分支提交，本轮未把这些资格改成中国高考最低分。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-1cf30aaae7d07f">官方依据</a></p>
+<p class="catalog-fact"><strong>中国学校记录与不同课程体系：</strong>中国国家课程须按原样自报9至12年级（初三至高三）全部课程和成绩；录取后提交高中毕业证明及初高中相关正式记录。英国课程体系按其5门IGCSE/GCSE/O-level及3门学术A-level规则，IB另按IB体系；不能按国籍混用资格。本轮未取得统一固定高考最低分。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-18c7be509c8cb8">官方依据</a></p>
 
-<p class="catalog-fact"><strong>英语与 SAT/ACT：</strong>UCLA不将SAT/ACT用于录取或奖学金评估。英语授课经历不满足豁免者须考英语；竞争力水平为新TOEFL5且小分5、旧TOEFL高于100且小分高于24、IELTS7.5或DET135。分数为竞争力描述，不应写成保证录取标准。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-238bd940a08671">官方依据</a></p>
+<p class="catalog-fact"><strong>英语要求及分数含义：</strong>全程英语中学可满足语言条件；非英语背景且英语授课不足3年须证明英语能力。竞争力参考：新版TOEFL总分及各项至少5；旧版总分高于100、各项高于24；IELTS至少7.5或DET至少135，不保证录取。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-bd429339b6bfa6">官方依据</a></p>
+
+<p class="catalog-fact"><strong>标准化考试与专业选择：</strong>UCLA不将SAT/ACT用于录取或奖学金评审。文理学院新生所选主修不影响录取机会；有独立补充申请的艺术、音乐、护理和戏剧影视专业须列为首选，预备主修则须入校后满足升段要求。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-bd429339b6bfa6">官方依据</a> · <a href="#source-u-UCLAE-03d2e180b05645">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学术准备的共同要求：</strong>官网列15门A–G大学预备课程，至少11门在高中最后一年开始前完成，并结合学校实际提供的课程进行整体评审；国际课程按UC的相应体系核认，不能把本校主修的大学课程当作高中先修。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-b3c91a2131b751">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>申请材料阶段：</strong>使用 UC 申请；课程及考试先准确自报，录取后再按清单提交学校记录、国家考试证书及译文。所读 UCLA 页未列2027截止日期，本轮不从其他UC校区直接推定其最终安排。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-238bd940a08671">官方依据</a></p>
+<p class="catalog-fact"><strong>2027秋季新生申请：</strong>UC申请于2026年8月1日开放，2026年10月1日至11月30日提交；UCLA只收秋季申请，不设EA或ED。专业补充材料使用自己的另行截止日。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-c9e23b2e2bffd6">官方依据</a> · <a href="#source-u-UCLAE-03d2e180b05645">官方依据</a></p>
+
+<p class="catalog-fact"><strong>2027录取后节点：</strong>UC列2027年3月1日至31日通知新生决定、5月1日前确认入学；正式最终成绩单7月1日、AP/IB成绩7月15日。初次申请以准确自报为主，录取后的学校记录须按要求附英文译文。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-c9e23b2e2bffd6">官方依据</a> · <a href="#source-u-UCLAE-bd429339b6bfa6">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语成绩递交：</strong>英语成绩最迟1月自报；TOEFL可在UC校区共享，IELTS／DET须逐校送分。入学前可能需ESL分级。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-bd429339b6bfa6">官方依据</a></p>
+
+<p class="catalog-fact"><strong>个人洞见题与推荐材料：</strong>新生从8题中回答4题，每题最多350词。普通申请不收推荐信、不安排入学面试，也不在初申收正式成绩单；指定专业补充申请可能另要推荐、作品集或试演。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-a4edfa79b3b4ac">官方依据</a> · <a href="#source-u-UCLAE-b3c91a2131b751">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>2026年7月更新的费用参考：</strong>九个月非居民本科预算：University Fees USD16,430另加非居民补充学费39,270；住校总预算84,770、校外公寓87,056，含表列保险3,885（合格保险可申请豁免）。该页为2026年7月更新参考，2027新生学费未独立取得。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-446c1628a5e653">官方依据</a></p>
+<p class="catalog-fact"><strong>2026—2027新入学非居民实际收费表：</strong>Registrar选择2026—2027、Annual、Undergraduate cohort 2026–27：基本学费USD14,202、非居民补充学费39,270；新生学费及必缴费用合计为60,117.69，含UCSHIP保险3,886.02及一次性文件费200.96。此为一学年费用，非每学分或全程价；不含住宿、书材等。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-59c00897cf29ca">官方依据</a></p>
 
-<p class="catalog-fact"><strong>国际本科资助：</strong>UCLA明确不向非美国公民／永久居民本科生提供奖学金或财务资助；须准备教育、生活与保险费用。国际页的财力证明示例与最新费用页预算不同，本轮采用费用页具体预算，不把旧示例当实付学费。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-238bd940a08671">官方依据</a></p>
+<p class="catalog-fact"><strong>入学届次与下一年度：</strong>本科收费按首次注册的入学届次，不按当前年级。2027—2028新生费本轮未取得；不能把2026年入学届次的金额当2027入学报价。网页费用仍可能调整；具体专业材料、实践或其他额外收费本轮未完整核实。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-59c00897cf29ca">官方依据</a></p>
+
+<p class="catalog-fact"><strong>生活预算为另一版本的估算：</strong>招生费用页标2026年7月更新，九个月非居民总预算：住校USD84,770、校外公寓87,056。该页采用University Fees16,430及保险3,885等预算数，与Registrar实收表有版本差异；两套金额不混加，亦非2027新生报价。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-ff45d34fd16c07">官方依据</a></p>
+
+<p class="catalog-fact"><strong>国际本科资助边界：</strong>UCLA称不向非美国公民／永久居民本科生提供奖学金或财务资助。本轮未核实中国新生例外奖项及2027条件，预算不预扣资助。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-bd429339b6bfa6">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>毕业调查覆盖范围：</strong>公开仪表板可选毕业学年2021—2022和2022—2023，结合First Destination Survey、Senior Survey及National Student Clearinghouse。就业为填问卷当时的状态，未补记之后找到的工作；继续教育核对毕业后一年内注册，不能当作统一“半年就业率”。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-1f5ed5a0797655">官方依据</a></p>
+
+<p class="catalog-fact"><strong>统计解读：</strong>Knowledge rate是学校有合理可验证去向资料的毕业生比例，并非就业率。少于10人的类别隐去或标星；本轮未取得每个主修及中国学生的可比薪资和就业率。学习目标与职业方向不替代毕业调查。</p>
+<p class="fact-sources"><a href="#source-u-UCLAE-1f5ed5a0797655">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-USBENR-238bd940a08671"><div><a href="https://admission.ucla.edu/apply/international-applicants">ucla 官方 international ↗</a><p>本条新生与第二学位限制及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-1cf30aaae7d07f"><div><a href="https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/freshman-requirements-country.html">ucla 官方 china ↗</a><p>本条中国普高与 A-level及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-446c1628a5e653"><div><a href="https://admission.ucla.edu/tuition-aid/tuition-fees">ucla 官方 tuition ↗</a><p>本条2026年7月更新的费用参考及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UCLAE-03d2e180b05645"><div><a href="https://admission.ucla.edu/apply/first-year">First-Year Applicants | UCLA Undergraduate Admission ↗</a><p>所引章节的专业身份、课程或适用政策；年度和范围见各事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UCLAE-18c7be509c8cb8"><div><a href="https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/freshman-requirements-country.html">First year: Additional information by country | UC Admissions ↗</a><p>所引章节的专业身份、课程或适用政策；年度和范围见各事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UCLAE-1f5ed5a0797655"><div><a href="https://public.tableau.ucla.edu/t/apb/views/FirstDestinationSurveyDashboard/Overview?%3Aembed=y&amp;%3AisGuestRedirectFromVizportal=y">Workbook: First Destination Survey Dashboard ↗</a><p>所引章节的专业身份、课程或适用政策；年度和范围见各事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UCLAE-59c00897cf29ca"><div><a href="https://sa.ucla.edu/RO/Fees/Public/public-fees#/?year=2026-2027&amp;term=Annual&amp;degree=Undergraduate%20cohort%202026-27">Annual and Term Student Fees | Registrar’s Office ↗</a><p>所引章节的专业身份、课程或适用政策；年度和范围见各事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UCLAE-a4edfa79b3b4ac"><div><a href="https://admission.ucla.edu/apply/personal-insight-questions">Personal Insight Questions | UCLA Undergraduate Admission ↗</a><p>所引章节的专业身份、课程或适用政策；年度和范围见各事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UCLAE-b3c91a2131b751"><div><a href="https://admission.ucla.edu/apply/first-year/first-year-requirements">First-Year Requirements | UCLA Undergraduate Admission ↗</a><p>所引章节的专业身份、课程或适用政策；年度和范围见各事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UCLAE-bd429339b6bfa6"><div><a href="https://admission.ucla.edu/apply/international-applicants">International Applicants | UCLA Undergraduate Admission ↗</a><p>所引章节的专业身份、课程或适用政策；年度和范围见各事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UCLAE-c9e23b2e2bffd6"><div><a href="https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html">Dates &amp; deadlines | UC Admissions ↗</a><p>所引章节的专业身份、课程或适用政策；年度和范围见各事实</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UCLAE-ff45d34fd16c07"><div><a href="https://admission.ucla.edu/tuition-aid/tuition-fees">Tuition and Fees | UCLA Undergraduate Admission ↗</a><p>所引章节的专业身份、课程或适用政策；年度和范围见各事实</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 141 项；这不是全字段详情的完成状态。
+**已完成所列官方目录范围的对账**，共 145 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>UCLA active undergraduate major-code registry; no other UC campus</p>
+<p><strong>统计范围：</strong>UCLA 2026—2027官方本科课程目录；不包含其他UC校区</p>
 
-<p><strong>对账方法：</strong>{&quot;pages&quot;: 1, &quot;table_rows&quot;: 178, &quot;pagination&quot;: &quot;one complete static tbody, no next-page links; all active and historical rows captured&quot;}</p>
+<p><strong>对账方法：</strong>官方本科筛选6页返回147行；仅合并title+code+URI完全相同的Computer Engineering和Data Theory各1重复，得到145独立课程页。保留141原ID及raw_key，新增4个BA。</p>
 
-<p><strong>排除项：</strong>Keep Active BA/BS/BM major codes, including individual concentrations and prelicensure nursing; exclude Pre-Major and all inactive/discontinued rows. Preserve separate degree and school variants.</p>
+<p><strong>排除项：</strong>排除minor、pre-major重复记录、独立研究生学位；保留自拟课程、内部转入及暂停项目并标明适用限制。</p>
 
 **尚未解决的目录缺口：**
 
-- The two active Public Health BS codes 0789 and 00J5 are retained in raw source; deduplicated as the same degree identity.
-- Admission availability for a future intake not asserted; some currently active registry majors have suspension notes on admissions list.
-- Individual Field school variants and BA/BS are separate records.
-- Duration and language not stated in the collected registry, left null.
+- 145是当前课程目录数量，不等于2027高中可直申专业数量；12条停招、校内或未确认入口隔离通用新生规则。
+- Public Health BS课程页0789与注册表00J5尚未取得第二套独立课程，代码差异保留于同一条。
+- 4种Individual Field须个别批准方案，没有统一课程表；多数专业实际毕业统计和2027—2028新生费用仍有缺口。
 
 - [官方目录来源](https://registrar.ucla.edu/faculty-staff/courses-and-programs/major-and-minor-codes/undergraduate-majors-and-premajors)
+- [官方目录来源](https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/freshman-requirements-country.html)
+- [官方目录来源](https://public.tableau.ucla.edu/t/apb/views/FirstDestinationSurveyDashboard/Overview?%3Aembed=y&%3AisGuestRedirectFromVizportal=y)
+- [官方目录来源](https://registrar.ucla.edu/registration-classes/graduation/declare-candidacy)
+- [官方目录来源](https://sa.ucla.edu/RO/Fees/Public/public-fees#/?year=2026-2027&term=Annual&degree=Undergraduate%20cohort%202026-27)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AerospaceEngineeringBS)
+- [官方目录来源](https://admission.ucla.edu/apply/international-applicants)
+- [官方目录来源](https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html)
+- [官方目录来源](https://registrar.ucla.edu/student-records/proof-of-enrollment)
+- [官方目录来源](https://newsroom.ucla.edu/ucla-fast-facts)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AfricanAmericanStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AfricanandMiddleEasternStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AmericanIndianStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AmericanLiteratureandCultureBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AncientNearEastandEgyptologyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AnthropologyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AnthropologyBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AppliedLinguisticsBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AppliedMathematicsBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ArabicBA)
+- [官方目录来源](https://admission.ucla.edu/apply/majors)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ArchitecturalStudiesBA)
+- [官方目录来源](https://www.aud.ucla.edu/admissions)
+- [官方目录来源](https://aud.ucla.edu/academics/undergraduate)
+- [官方目录来源](https://admission.ucla.edu/apply/supplemental-applications)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ArtBA)
+- [官方目录来源](https://www.art.ucla.edu/undergraduate-admissions/)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ArtHistoryBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AsianAmericanStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AsianHumanitiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AsianLanguagesandLinguisticsBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AsianReligionsBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AsianStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AstrophysicsBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AtmosphericandOceanicSciencesBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/AtmosphericandOceanicSciencesMathematicsBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/BiochemistryBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/BioengineeringBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/BiologyBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/BiophysicsBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/BusinessEconomicsBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/CentralandEastEuropeanLanguagesandCulturesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ChemicalEngineeringBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ChemistryBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ChemistryMaterialsScienceBS)
+- [官方目录来源](https://registrar.ucla.edu/)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ChicanaoandCentralAmericanStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ChineseBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/CivilEngineeringBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ClassicalCivilizationBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ClimateScienceBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/CognitiveScienceBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/CommunicationBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ComparativeLiteratureBA)
+- [官方目录来源](https://dma.ucla.edu/programs/computational-art)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ComputationalArtBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ComputationalBiologyBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ComputerEngineeringBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ComputerScienceandEngineeringBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ComputerScienceBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/DanceBA)
+- [官方目录来源](https://www.wacd.ucla.edu/programs/apply/undergraduate/dance)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/DataTheoryBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/DesignBA)
+- [官方目录来源](https://dma.ucla.edu/programs/design)
+- [官方目录来源](https://dma.ucla.edu/events/announcements/dma-launches-three-new-majors)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/DesignMediaArtsBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/DigitalHumanitiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/DisabilityStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EarthandEnvironmentalScienceBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EcologyBehaviorandEvolutionBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EconomicsBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EducationandSocialTransformationBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/ElectricalEngineeringBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EngineeringGeologyBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EnglishBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EnvironmentalScienceBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EthnomusicologyBA)
+- [官方目录来源](https://schoolofmusic.ucla.edu/admissions/undergraduate/ethnomusicology/)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithFrenchandFrancophoneBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithGermanBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithItalianBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithScandinavianBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/EuropeanStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/FilmandTelevisionBA)
+- [官方目录来源](https://www.tft.ucla.edu/programs/film-television-digital-media-ba/apply-to-film-television-digital-media-ba/)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/FinancialActuarialMathematicsBS)
+- [官方目录来源](https://dma.ucla.edu/programs/games)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GamesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GenderStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GeneralChemistryBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GeographyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GeographyEnvironmentalStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GeologyBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GeophysicsBS)
+- [官方目录来源](https://schoolofmusic.ucla.edu/admissions/undergraduate/global-jazz-studies/)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GlobalJazzStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GlobalStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GreekandLatinBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/GreekBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/HistoryBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/HumanBiologyandSocietyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/HumanBiologyandSocietyBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinArtsandArchitecture)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinLettersandScience)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinTheaterFilmandTelevision)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBSinLettersandScience)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/InternationalDevelopmentStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/IranianStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/JapaneseBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/JewishStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/KoreanBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LaborStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LatinAmericanStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LatinBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LinguisticsandAnthropologyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LinguisticsandAsianLanguagesandCulturesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LinguisticsandComputerScienceBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LinguisticsandEnglishBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LinguisticsandPhilosophyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LinguisticsandPsychologyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LinguisticsandSpanishBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/LinguisticsBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MarineBiologyBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MaterialsEngineeringBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MathematicsBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MathematicsforTeachingBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MathematicsofComputationBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MathematicsAppliedScienceBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MathematicsEconomicsBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MechanicalEngineeringBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MicrobiologyImmunologyandMolecularGeneticsBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MiddleEasternStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MolecularCellandDevelopmentalBiologyBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MusicBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MusicCompositionBA)
+- [官方目录来源](https://schoolofmusic.ucla.edu/admissions/undergraduate/composition/)
+- [官方目录来源](https://schoolofmusic.ucla.edu/admissions/undergraduate/music-education/)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MusicEducationBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MusicHistoryandIndustryBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MusicIndustryBA)
+- [官方目录来源](https://schoolofmusic.ucla.edu/admissions/undergraduate/music-industry-admissions/)
+- [官方目录来源](https://schoolofmusic.ucla.edu/admissions/undergraduate/music-performance/)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MusicPerformanceBM)
+- [官方目录来源](https://schoolofmusic.ucla.edu/admissions/undergraduate/musicology/)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/MusicologyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/NeuroscienceBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/NordicStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/NursingBSPrelicensure)
+- [官方目录来源](https://www.nursing.ucla.edu/programs-admissions/academic-programs/bachelor-of-science/apply)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PhilosophyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PhysicsBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PhysicsBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PhysiologicalScienceBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PoliticalScienceBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PortugueseandBrazilianStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PsychobiologyBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PsychologyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PublicAffairsBA)
+- [官方目录来源](https://luskin.ucla.edu/student-affairs/career-services/)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PublicHealthBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/PublicHealthBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/RussianLanguageandLiteratureBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/RussianStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/SociologyBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/SoutheastAsianStudiesBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/SpanishandCommunityandCultureBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/SpanishandLinguisticsBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/SpanishandPortugueseBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/SpanishBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/StatisticsandDataScienceBS)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/StudyofReligionBA)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/TheaterBA)
+- [官方目录来源](https://www.tft.ucla.edu/programs/theater-ba/apply-to-theater-ba/)
+- [官方目录来源](https://www.tft.ucla.edu/programs/theater-ba/)
+- [官方目录来源](https://www.wacd.ucla.edu/programs/apply/undergraduate/wac)
+- [官方目录来源](https://catalog.registrar.ucla.edu/major/2026/WorldArtsandCulturesBA)
+- [官方目录来源](https://admission.ucla.edu/apply/first-year)
+- [官方目录来源](https://admission.ucla.edu/apply/personal-insight-questions)
+- [官方目录来源](https://admission.ucla.edu/apply/first-year/first-year-requirements)
+- [官方目录来源](https://admission.ucla.edu/tuition-aid/tuition-fees)
+- [官方目录来源](https://catalog.registrar.ucla.edu/api/search/search-academic-items)
+- [官方目录来源](https://catalog.registrar.ucla.edu/api/search/search-academic-items)
+- [官方目录来源](https://catalog.registrar.ucla.edu/api/search/search-academic-items)
+- [官方目录来源](https://catalog.registrar.ucla.edu/api/search/search-academic-items)
+- [官方目录来源](https://catalog.registrar.ucla.edu/api/search/search-academic-items)
+- [官方目录来源](https://catalog.registrar.ucla.edu/api/search/search-academic-items)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

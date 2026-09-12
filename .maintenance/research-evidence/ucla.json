@@ -2,28 +2,1096 @@
   "university_id": "ucla",
   "sources": [
     {
-      "url": "https://admission.ucla.edu/apply/international-applicants",
-      "sha256": "be9d71472f206a0df4562f8399277bd3fa6a1e6c49067b3576fd8a61aea20ba3",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/ucla/raw/international.html",
-      "locator": "Academic Requirements"
+      "url": "https://admission.ucla.edu/apply/first-year",
+      "sha256": "cde2d84327c034cd1c74681e1d466c50b93cd09025426e715c319b771dff5e49",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-freshman.html",
+      "locator": "对应具名章节"
     },
     {
       "url": "https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/freshman-requirements-country.html",
       "sha256": "a72cbb402c38d0702d5f6e44952ab6778f2f13f60733cf24ddc5c310e26fcea7",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/ucla/raw/china.html",
-      "locator": "China / British system"
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-country.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://public.tableau.ucla.edu/t/apb/views/FirstDestinationSurveyDashboard/Overview?%3Aembed=y&%3AisGuestRedirectFromVizportal=y",
+      "sha256": "0fa8504b1514e79f6f7dd53646aacd1571af3a03026786d50e13750a0227f382",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-fds-dashboard-dom.html",
+      "locator": "Public rendered dashboard with Graduation Year filter expanded; 2021-22 and 2022-23 listed"
+    },
+    {
+      "url": "https://sa.ucla.edu/RO/Fees/Public/public-fees#/?year=2026-2027&term=Annual&degree=Undergraduate%20cohort%202026-27",
+      "sha256": "1634428d2ba3ceed46184b09d51eeff38d64ab93c94d6a3b3e4a68df7a71ece7",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-fees-2026-cohort-dom.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://admission.ucla.edu/apply/personal-insight-questions",
+      "sha256": "4e309516c554ca6d7ada3acb884a0eb87786a3f5a099860a6fc3721941643d97",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-piq.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://admission.ucla.edu/apply/first-year/first-year-requirements",
+      "sha256": "0d5b71b3b3e1834e91b2cd95d6caa5b755e32899327227ce65d34979c3d70428",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-firstyear-requirements.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://admission.ucla.edu/apply/international-applicants",
+      "sha256": "be9d71472f206a0df4562f8399277bd3fa6a1e6c49067b3576fd8a61aea20ba3",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-international.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html",
+      "sha256": "8d9221b4da074043b4dafbdb7ba87ddbc0e6dccac4a45b954036c84b8f37afb8",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-uc-dates.html",
+      "locator": "对应具名章节"
     },
     {
       "url": "https://admission.ucla.edu/tuition-aid/tuition-fees",
       "sha256": "32af2f683ddd0e3243ee302e3dc03f581b0e76170060689853d8d39cd2c16159",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/ucla/raw/tuition.html",
-      "locator": "Updated July2026 / Cost Per Academic Year"
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-fees.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://registrar.ucla.edu/registration-classes/graduation/declare-candidacy",
+      "sha256": "843c5d7a02605e3f57a464acd84b3afed88bbcf15b3062c6f27511c9d4741fb7",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-duration.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AerospaceEngineeringBS",
+      "sha256": "6e1e80defded27f8b313853fd29181946f9396d5975c3ba6f67cf400ad268b29",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AerospaceEngineeringBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://registrar.ucla.edu/student-records/proof-of-enrollment",
+      "sha256": "10ebd611eb7519879ce9132d4f8c94fc4526bd7d2272d0b20b143c61c8ebd82d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-language.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://newsroom.ucla.edu/ucla-fast-facts",
+      "sha256": "fd816534ba31d2aef86021ebf94529ab5dc20ace8b264261dd03e1a2d6b12899",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-campus.html",
+      "locator": "对应具名章节"
     },
     {
       "url": "https://registrar.ucla.edu/faculty-staff/courses-and-programs/major-and-minor-codes/undergraduate-majors-and-premajors",
       "sha256": "efa41c017a135f69250c78b03599a728694207ff1784db1b32e9a5fa08695a62",
       "raw_file": "scratch/full-catalog/us-b/ucla/registrar.html",
-      "locator": "official undergraduate program listing"
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AfricanAmericanStudiesBA",
+      "sha256": "1469dcb6e406d25818c43c408fdfd8f97dcfe8fbde02525273b1b6b2ae23ab5d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AfricanAmericanStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AfricanandMiddleEasternStudiesBA",
+      "sha256": "cb24d3a2ee4038f41d00ac9b1830b8e2b92bd0c488233585c38eb53e351c1349",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AfricanandMiddleEasternStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AmericanIndianStudiesBA",
+      "sha256": "5466823e8dd03ae4026315596a4f86bc5db17f96184b06dc12673f67b7efeeb6",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AmericanIndianStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AmericanLiteratureandCultureBA",
+      "sha256": "b690b52cd74430fe48e71a49c57092d8f2e9525a9ca8d0b9907ae4e52868a766",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AmericanLiteratureandCultureBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AncientNearEastandEgyptologyBA",
+      "sha256": "8372b508e7bf3f5eb3ce282224ef48011c6c891ca4f9592e0d8fb621ec81a138",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AncientNearEastandEgyptologyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AnthropologyBA",
+      "sha256": "b839a9a02b8b63431d761f91aeb35b6a5f960ec2e44df58bb86c5d2e3db8abf2",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AnthropologyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AnthropologyBS",
+      "sha256": "1969d2918359f0a14ff4f670cd6a285aa66b1489231adfe8929041ed15ce5f2c",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AnthropologyBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AppliedLinguisticsBA",
+      "sha256": "9fa83e7fc842bb6313578b658a3a1edc4c0d3b1b9d35d2776506a6eff984b660",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AppliedLinguisticsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AppliedMathematicsBS",
+      "sha256": "cdc5a16a3c9829192338ac081b92b922e380f2ccd6de967e2796e4c4aad3dc85",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AppliedMathematicsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ArabicBA",
+      "sha256": "4aaddc70d14c9587b35afa9ceecb577305eaaa5695a83bb775a65aa1bbe6bbd2",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ArabicBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://admission.ucla.edu/apply/majors",
+      "sha256": "22e748599fbc0df4cf836f3a2045e8149ad7858ea4f1bf8c5d256b6163dfb84a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-majors.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ArchitecturalStudiesBA",
+      "sha256": "1f35714bfff38d01363a438736b1377e8772c7cf3811a166617d629bd4afd22f",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ArchitecturalStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://www.aud.ucla.edu/admissions",
+      "sha256": "368bfd3008026bbfd7325d1a9e36db94264e093185fc1a22f28a7ba6039bbfbe",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-architecture-admission.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://aud.ucla.edu/academics/undergraduate",
+      "sha256": "1625e111aa2a7b1cfda35f303e833522db1543527a6e7981580e2b6605754010",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-architecture-specific.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://admission.ucla.edu/apply/supplemental-applications",
+      "sha256": "640bc7150cbe46f29c0711d7761b74f6017671048fc4cb50c1dc9da8acf5b7b3",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-supplements.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ArtBA",
+      "sha256": "071d0f1aa0a2afa3527eefff1288d90ee4251bd527324ec76da9faff14142c65",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ArtBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://www.art.ucla.edu/undergraduate-admissions/",
+      "sha256": "c06bfd2b622b019c30d1a6e936aa99b12434e3b2b5631095bb758b1ffdc400c3",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-art-specific.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ArtHistoryBA",
+      "sha256": "f3a7ea3f20cc8a60babdd749a8d28499a68946684b2275b5810a42b3c874c46c",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ArtHistoryBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AsianAmericanStudiesBA",
+      "sha256": "f43482c56f37e494ead785c4f745d3642441b2a0361b54082d45fd27d2f2d1b2",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AsianAmericanStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AsianHumanitiesBA",
+      "sha256": "25762bd823c3dcfaaac797c93dfee82448e1259f23673d0d9bc2e020ee28258e",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AsianHumanitiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AsianLanguagesandLinguisticsBA",
+      "sha256": "cde74b222b7fee416f53b0e503c2e17ff1348698a61df171c074e2c36b4a7fd9",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AsianLanguagesandLinguisticsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AsianReligionsBA",
+      "sha256": "c48d11aa7a7422f2816585659707a95ace5c9662a7edfd4bb41cecb11edaf96b",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AsianReligionsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AsianStudiesBA",
+      "sha256": "afe3707463419003ad781cf7c20b3ece8b50016f9d664d5e699564dc1ce18f94",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AsianStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AstrophysicsBS",
+      "sha256": "17f70eaebce60d8235a58344bb48be210d1b183540461be463ba1d23ec669a68",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AstrophysicsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AtmosphericandOceanicSciencesBS",
+      "sha256": "e42ad1762c9de060875555ba8613e87f95808b5c05db76bd69c5ac44020c2b7a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AtmosphericandOceanicSciencesBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/AtmosphericandOceanicSciencesMathematicsBS",
+      "sha256": "a36b4f51cdccbf89746fb7dcbd7e3a786ad1bee2347663e6363977f7ddac5930",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/AtmosphericandOceanicSciencesMathematicsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/BiochemistryBS",
+      "sha256": "f1fded355e1583229f18636b939884ddcac871b3ca51d1c8247d14bcdb376831",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/BiochemistryBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/BioengineeringBS",
+      "sha256": "e8431474e9f964ec3d6884530621f1a2afe91a574f98b54381ed7585cd46cf1b",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/BioengineeringBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/BiologyBS",
+      "sha256": "3aef9b4c633119d8656ac54cd910397fe846124d20484f015ed0ec24c4251911",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/BiologyBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/BiophysicsBS",
+      "sha256": "754a329c5cd462d5f0a0ce90da42135ecc57a1abe463c81d3ffafd7956b236c5",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/BiophysicsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/BusinessEconomicsBA",
+      "sha256": "9b14efe1fadc56ad43cc9c057f9fca525797ca1b9d7c4cf5fe709bc5d13b4254",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/BusinessEconomicsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/CentralandEastEuropeanLanguagesandCulturesBA",
+      "sha256": "8b8afb4fb55178658fe6f8106c5b9ce0e0b7358ffd631c80613ed922b5e73cdb",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/CentralandEastEuropeanLanguagesandCulturesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ChemicalEngineeringBS",
+      "sha256": "cd3f573c61050f24eb1639b145a6e78dfe64ce6847698993f70619440cb000bd",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ChemicalEngineeringBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ChemistryBS",
+      "sha256": "204fb15278f9bc50bc273bf4898624fb32dc13b56fba1c651797f27e586b13ec",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ChemistryBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ChemistryMaterialsScienceBS",
+      "sha256": "c5587d4f0a051464c32c98ef1f0dd2d0dc24486dadf593b1444f8168ed8872b5",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ChemistryMaterialsScienceBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://registrar.ucla.edu/",
+      "sha256": "4c3fc93ec0f44c9e0aa671d43e940567ec8bd798e7a7d7007bedfcc922f1adc5",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-registrar-home.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ChicanaoandCentralAmericanStudiesBA",
+      "sha256": "00e43a7b701c1aabdfe7265c76050d1879be5ba1f0f6f3aeb4fcf6902dafbd03",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ChicanaoandCentralAmericanStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ChineseBA",
+      "sha256": "ef8498ad5da29d046c1c14c6fde34ec59d53ad6bff73e243c389c0dd0be99adc",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ChineseBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/CivilEngineeringBS",
+      "sha256": "74d4c1a4e9a6f70d28f6e0211e14729c01b5e68ee8d20d487b259c53d774d1e6",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/CivilEngineeringBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ClassicalCivilizationBA",
+      "sha256": "0e878b293087456b1773f7eb1a1239797b29aad6eb4c9a7193315713949aec9c",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ClassicalCivilizationBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ClimateScienceBS",
+      "sha256": "f877ed2211ef30b1fe07d16a271d6ae80b61cb78d1711a09c24f13cb6d0a92da",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ClimateScienceBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/CognitiveScienceBS",
+      "sha256": "43555df9eb76965d82b365729fe4f7f011aa6a7fb2c475b04c686aaf0cebb36a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/CognitiveScienceBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/CommunicationBA",
+      "sha256": "8f7e715465406c8e80c01f339185df23027e2db6c38e9ac591ac7d49537e004b",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/CommunicationBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ComparativeLiteratureBA",
+      "sha256": "e95e34cb8944c86a4937d77e67863f4d8f204ab33c03aa355999ddefd1113f4b",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ComparativeLiteratureBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://dma.ucla.edu/programs/computational-art",
+      "sha256": "9fb8a8bcac230cc8a3c39fc1d491269d2369e4ed5e14a0ba9bd1f2ad91fb712a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/dma-computational-art.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ComputationalArtBA",
+      "sha256": "b6034847b2e933aefcdf8b7d1bec186d59b8e6eec8f5cd8583609a20d03446d1",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ComputationalArtBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ComputationalBiologyBS",
+      "sha256": "89815f7e7f33851823d5c04b8ed261fb426c452521f79b62887489dcc47b8481",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ComputationalBiologyBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ComputerEngineeringBS",
+      "sha256": "67075874b224b8e6a36924ff711dcb28a9a264ebe531e158841a9435033cdcff",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ComputerEngineeringBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ComputerScienceandEngineeringBS",
+      "sha256": "16b02837409dad8fadab217679efb14f5da1d15f6c7a06487ddd415b50271630",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ComputerScienceandEngineeringBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ComputerScienceBS",
+      "sha256": "f91e0a24986a93eb9744fed13de278e9614b70073e6605228f63fa2bcb0a25c0",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ComputerScienceBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/DanceBA",
+      "sha256": "b005626057346f226a1d82c5bec2ea70b5fb4b337ac1eadf3a4f4a20914b710a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/DanceBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://www.wacd.ucla.edu/programs/apply/undergraduate/dance",
+      "sha256": "add1cd19d4a193c7e8c86aff3772adc102b2795dbf910786379b244698caf6b6",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-dance-specific.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/DataTheoryBS",
+      "sha256": "0cf0ce873e1dc4d53fa94a6c1ac40fc7192c821eadb5882a01e268a4ab163cea",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/DataTheoryBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/DesignBA",
+      "sha256": "e0e99d5d3aa397d167de6590f11b20cc9506eff53b83988d7c587be1cff9b2d5",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/DesignBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://dma.ucla.edu/programs/design",
+      "sha256": "65f6cd5360ce61bee208b5892ebabab133d630b322f8be4f1016fba3114e1a0d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/dma-design.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://dma.ucla.edu/events/announcements/dma-launches-three-new-majors",
+      "sha256": "f47d7f31875bcf29c4677ceb281b0e3e528603ade0d74e337655ee4a80eb12f9",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/dma-announcement.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/DesignMediaArtsBA",
+      "sha256": "7be6c9f6face4799a45b96fffdd1f346374bf5b3fae0e32a7c9c894994148da6",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/DesignMediaArtsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/DigitalHumanitiesBA",
+      "sha256": "b722f2bbc8bb71536b77a223a58ab389d2a7cd5282d06b363d8de34a0929e763",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/DigitalHumanitiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/DisabilityStudiesBA",
+      "sha256": "3bb7874957864a5dad89bd4205fb7e1267eafecac07ed3624b7e7fc132438dad",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/DisabilityStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EarthandEnvironmentalScienceBA",
+      "sha256": "afa6ee56077090671d914b138c356c66e262cc0a38c8d4c7f36a242d7aa325ec",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EarthandEnvironmentalScienceBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EcologyBehaviorandEvolutionBS",
+      "sha256": "a02dd5b9adb6f93c1e3bf830c1cf1773ae455930da005c39b27b6fd8f95e282e",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EcologyBehaviorandEvolutionBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EconomicsBA",
+      "sha256": "aee655ecdc1ab2cd1b24099e18488652920ca094003f719052cfeefc7917c670",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EconomicsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EducationandSocialTransformationBA",
+      "sha256": "ac03f527ae133c9ff607bd2d91a27964d4a9c96fe9570e38efddd646c8302e0a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EducationandSocialTransformationBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/ElectricalEngineeringBS",
+      "sha256": "1d3ecb6d89f3ee9be2f2be819ed61ef2a31f52a27c100e9578ec9dbadfbec2d8",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/ElectricalEngineeringBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EngineeringGeologyBS",
+      "sha256": "cc61b5f801006e0b3106328d8a3c47c7118bd74a27a7b989297bf40ac9b0e6f5",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EngineeringGeologyBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EnglishBA",
+      "sha256": "e893cdb3f82f4159af3cceed01928dd3ca4f80638d625328ab448039e7a1afd6",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EnglishBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EnvironmentalScienceBS",
+      "sha256": "e393bee695953676b87f4afafb8cbbc8090bddaa4d510fab42cdc4bb7c089123",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EnvironmentalScienceBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EthnomusicologyBA",
+      "sha256": "5ae675f2d8bce36ad320acb41b4a93bd8a5f8b48df81753931c89666d9be5c76",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EthnomusicologyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://schoolofmusic.ucla.edu/admissions/undergraduate/ethnomusicology/",
+      "sha256": "9f563cdf25d6a2d0a3fde52ca72e15968c8a358cd0a2dc4b9e12d4f4e0583ee9",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-ethnomusicology.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudiesBA",
+      "sha256": "88caaae0c3ce0e1d27069601d199bf53f01f04e063f5afb2545c04ea10cad9c8",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EuropeanLanguagesandTransculturalStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithFrenchandFrancophoneBA",
+      "sha256": "8dd0ffe37bb59f7244ae67bfd30b8f8a03bed4f242dc0c485aa46a7905d6cd40",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EuropeanLanguagesandTransculturalStudieswithFrenchandFrancophoneBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithGermanBA",
+      "sha256": "e9eb58806909b35b1fe235c1504a9f7e9e80a82167bccb802083602515a5f448",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EuropeanLanguagesandTransculturalStudieswithGermanBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithItalianBA",
+      "sha256": "71d3a8126f5d1d956c28136c902afb966107c3471dc2db765605c05334ec3a46",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EuropeanLanguagesandTransculturalStudieswithItalianBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EuropeanLanguagesandTransculturalStudieswithScandinavianBA",
+      "sha256": "0f708bc500a17291bd98d04e15458fa24766ad839cf265f96929f3acd6346692",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EuropeanLanguagesandTransculturalStudieswithScandinavianBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/EuropeanStudiesBA",
+      "sha256": "d43f3ab22d919caf26b07a8766b7a79effdf853f1efdc4293785ffdd6bdb795d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/EuropeanStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/FilmandTelevisionBA",
+      "sha256": "467454bb494f6ede7fcc4001cda31466e11c760180db394db7b153f5fcf6656b",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/FilmandTelevisionBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://www.tft.ucla.edu/programs/film-television-digital-media-ba/apply-to-film-television-digital-media-ba/",
+      "sha256": "bcde34aafdb9ad133b41ad6340dc1730c6c72dc540741e28a129cdf1a7c87e68",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-film.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/FinancialActuarialMathematicsBS",
+      "sha256": "677a6e7c8c303da26a375a4af8a57b9fab8a80b68cafe9fd82613cb32f7a4667",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/FinancialActuarialMathematicsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://dma.ucla.edu/programs/games",
+      "sha256": "824ebb26ec2e0dd1153dea2607d93395db03d5a02336ef9dd202385c0ab0cefa",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/dma-games.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GamesBA",
+      "sha256": "e0d277064a65388999388c978044fba848066585c35f50127ac87708cbea72c6",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GamesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GenderStudiesBA",
+      "sha256": "85179c6d4a13caf118ce39a17a9c80b54314b195b36dd4a52c6f37705dec6ca8",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GenderStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GeneralChemistryBS",
+      "sha256": "e7a4d292b6eb2aa8122523517523278cc3caa8ac66ad06f69c54d74c47e6deb3",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GeneralChemistryBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GeographyBA",
+      "sha256": "79e6cf859bd5387347d795f92f64e5d22af4c32350e3110f4162e9d5bb524966",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GeographyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GeographyEnvironmentalStudiesBA",
+      "sha256": "0688ab5be4165b56622656759f2158f8f856091832f2f1252607a951ff1eefa4",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GeographyEnvironmentalStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GeologyBS",
+      "sha256": "cc0ba4e22018b7f5f66896023e50fde3bcdff9ae3fcb9ac54002c8d89ecf49c2",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GeologyBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GeophysicsBS",
+      "sha256": "8bffbdaa8394b46bbcb5612e2c9d96088c357b8eac35423345926f30b207599c",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GeophysicsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://schoolofmusic.ucla.edu/admissions/undergraduate/global-jazz-studies/",
+      "sha256": "3acc947ebf81789a9859439cb07eb387bf0f4916962749d22728cee0e013f5eb",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-global-jazz.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GlobalJazzStudiesBA",
+      "sha256": "e94b29e0e5121be64f2b7b7b92938dc5fdee06ce7515dfbb2dfaa1978f55507a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GlobalJazzStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GlobalStudiesBA",
+      "sha256": "7c4e3bf4259106cfcb081be4c7510989951299f5d1d85d35e1d919a91040027e",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GlobalStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GreekandLatinBA",
+      "sha256": "4a9cdaaa5ec8de991a7b144a9bdd67702527e613e21966bf912b088e0ac57751",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GreekandLatinBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/GreekBA",
+      "sha256": "d5b9c75e47cfbd2dd0b82e467ed3556d9134b780b7711eba0636727a115707a5",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/GreekBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/HistoryBA",
+      "sha256": "18cec75c3a4668eea093dda590367a5b0b7041d2da82e9cf1ff866e0880618f6",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/HistoryBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/HumanBiologyandSocietyBA",
+      "sha256": "fa1f97b33708102e4a4c0b4b0865ea394c3d6a704182cf662d32a6f7ea5c3f8a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/HumanBiologyandSocietyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/HumanBiologyandSocietyBS",
+      "sha256": "27c83b6656181f32af45f4ea85bc04bafba0377469213d9bb751bf6c223048fb",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/HumanBiologyandSocietyBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinArtsandArchitecture",
+      "sha256": "555b4bd1d081b82cc9f19584b7bc42b9bf422636af0099446009a4e9600af1f7",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/IndividualFieldofConcentrationBAinArtsandArchitecture.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinLettersandScience",
+      "sha256": "161206c08488b9330e6e20a1ca88c5b90779474d7770dc5e2e49a3864cde51c2",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/IndividualFieldofConcentrationBAinLettersandScience.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBAinTheaterFilmandTelevision",
+      "sha256": "fdbc24dfd0ecd33872524e1acdc78c2b735ed0a282842d2671e26d27288f0cc8",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/IndividualFieldofConcentrationBAinTheaterFilmandTelevision.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/IndividualFieldofConcentrationBSinLettersandScience",
+      "sha256": "350da460647ed7887e765aee03fa4db3d29c31758140cf03b9f23228809cdbaa",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/IndividualFieldofConcentrationBSinLettersandScience.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/InternationalDevelopmentStudiesBA",
+      "sha256": "c42a3d941ec524d02ab4888055cc2079ce58d37d5276d5243d7862a733dcb3ae",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/InternationalDevelopmentStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/IranianStudiesBA",
+      "sha256": "e4900e5755fd70eb8505d3dcbf8364092a9f983b69b58d72e7f214fcf482076b",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/IranianStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/JapaneseBA",
+      "sha256": "6ff385121e1e4a4cde38e4defa852711071908c9bd9df58f6b7c13efb972ff09",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/JapaneseBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/JewishStudiesBA",
+      "sha256": "776f31da0a406d781bc04d8eebffc0705140a0a888c644b51c5e625427ad161d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/JewishStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/KoreanBA",
+      "sha256": "b4ef22730306af35074ffde15ccd3ebcb420b6d0dd49060b13644928f5bc7974",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/KoreanBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LaborStudiesBA",
+      "sha256": "e57463d6b7eb468f6103683a3df6f8f758eda94119d29e182af0f6c45ba8af25",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LaborStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LatinAmericanStudiesBA",
+      "sha256": "c7ff9722f619274f63a216150ed453188337ecde9c6d4e3c355c72c522a36215",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LatinAmericanStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LatinBA",
+      "sha256": "41e83a44f32fb808f29ebf256c4cbcb3e991dc20362e8498d5543cfdcb829817",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LatinBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandAnthropologyBA",
+      "sha256": "f5ade4450b61f06d7b5fa008f405b97e081df7cdca34438e623deec79b6276fc",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LinguisticsandAnthropologyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandAsianLanguagesandCulturesBA",
+      "sha256": "fea22b3030f12b485ed02160f4bd01eb09a3410e50c3303b5e4d03ad824ed38e",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LinguisticsandAsianLanguagesandCulturesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandComputerScienceBA",
+      "sha256": "03a61ed01d12d8f9fbf38bf812da914cd0fb22d69f4a15083277c1172b59abc1",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LinguisticsandComputerScienceBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandEnglishBA",
+      "sha256": "5fa4bb498724da49f180b379db290d0f7537e5e2c3853de014aa6ef03cdb648f",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LinguisticsandEnglishBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandPhilosophyBA",
+      "sha256": "40fed8949b33341737d20b9b0903b430aa8b4ee4817fd5979f0a6c34c7ab07e8",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LinguisticsandPhilosophyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandPsychologyBA",
+      "sha256": "04ff180ffcfd701dac9b68c2257d1edb26350820a8194a538283ff6ae131fe4d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LinguisticsandPsychologyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsandSpanishBA",
+      "sha256": "bb9c12564b160dd857306ca56662030b1831632f9ac44cceb3a72c7a6819630d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LinguisticsandSpanishBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/LinguisticsBA",
+      "sha256": "4b8d55130e0aa95c191e6956fb43360786337f51a63df8eafc81b8a37b6e46fc",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/LinguisticsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MarineBiologyBS",
+      "sha256": "7077a380acd63c53e558a2d93c51a468887d949333ea0ce48666a9525a48e90d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MarineBiologyBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MaterialsEngineeringBS",
+      "sha256": "372b50332b49847dadd2e38e2fd75a61858c16765ab4e1a1d38588cf176ea5bd",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MaterialsEngineeringBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MathematicsBS",
+      "sha256": "1c00d5b0a84cdecfe91204f17b6807750e838cd61bef8699390e4d2e01ad03b1",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MathematicsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MathematicsforTeachingBS",
+      "sha256": "04f12729854bc7d6761c519f6c397b7d8ae38aca0c18b8ae4f8a5224ec4f1316",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MathematicsforTeachingBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MathematicsofComputationBS",
+      "sha256": "64fbbaae35f80508b7dafa12042fef4183180c64082d7ecd68256d4e5717d5f7",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MathematicsofComputationBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MathematicsAppliedScienceBS",
+      "sha256": "3aa4dac35120719bf344d6da00b307ebb8f0eab7aeff022ed8404514a4f01b56",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MathematicsAppliedScienceBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MathematicsEconomicsBS",
+      "sha256": "c4dab74019eb52755f5bdf0e7a0b3e2f5fc444bc192d485ebfd140cd65849613",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MathematicsEconomicsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MechanicalEngineeringBS",
+      "sha256": "c60ec6ec2104e8bee4a01e27993a76eb7e307a35b9d4a9fcd56252675226048c",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MechanicalEngineeringBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MicrobiologyImmunologyandMolecularGeneticsBS",
+      "sha256": "a5cdf720cd6e8a9f88b3a50c96a0facf6c51b5404727522aa927d28961524227",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MicrobiologyImmunologyandMolecularGeneticsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MiddleEasternStudiesBA",
+      "sha256": "c9a5e5547ca33fe32959fc612a294f42a5d77819a24e7143fb1a28efb9c8d445",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MiddleEasternStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MolecularCellandDevelopmentalBiologyBS",
+      "sha256": "1bfab31cea5a23c663ac6746b5f3b9306a27bc8eff7bec04d173c59772600abe",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MolecularCellandDevelopmentalBiologyBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MusicBA",
+      "sha256": "d765efb4520f2831a1c260735f1723ec73c288f6ce14b3d37f7c17d2e86612ff",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MusicBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MusicCompositionBA",
+      "sha256": "0e751fe5725d561e79953fec9cd53379f75e07bb08bf5b4143c69aa2463963df",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MusicCompositionBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://schoolofmusic.ucla.edu/admissions/undergraduate/composition/",
+      "sha256": "cd6bf0ec287493aa3605a526a8d20ab54c15ba40cfeba61d8a0934ce392d7590",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-composition.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://schoolofmusic.ucla.edu/admissions/undergraduate/music-education/",
+      "sha256": "c3de47c5d26f7e1b2ef1038bbbefea6c2232e1d7dcf38f6139a6cd4895851931",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-music-education.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MusicEducationBA",
+      "sha256": "862a0279b3ce2c674738bc77f7c862c13c0436f2305322d6a457f7efd8130b64",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MusicEducationBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MusicHistoryandIndustryBA",
+      "sha256": "1c69393d4dd6df926df4a5bb4ad717bb931710b72499f6c31047b967e95e3821",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MusicHistoryandIndustryBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MusicIndustryBA",
+      "sha256": "9ec4b27b60187d09141af4092538f381a144816d20e19f88ca35a6380df5a6c8",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MusicIndustryBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://schoolofmusic.ucla.edu/admissions/undergraduate/music-industry-admissions/",
+      "sha256": "8f18739df781503b64e0c092a2bfaf2a9c58bdab42a7037e917a382849cfd3e3",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-music-industry.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://schoolofmusic.ucla.edu/admissions/undergraduate/music-performance/",
+      "sha256": "67d4db9ab3da8bc1666ce1b8894dc8c73b49e81a87dec64759dc92e74de3b92d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-music-performance.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MusicPerformanceBM",
+      "sha256": "f6b47422b21dc9d333f817982498769346aafc626c3339a63011d9e94b13bd47",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MusicPerformanceBM.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://schoolofmusic.ucla.edu/admissions/undergraduate/musicology/",
+      "sha256": "a98a43f25b7fa212b095d968f5a0a2c596b960966de6a74ed2f18fbc4f1a6d81",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-musicology.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/MusicologyBA",
+      "sha256": "cde846d6f0d13f882efd21b93bf72fb5f68df3e67eb22b52a404315fe38d1ad6",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/MusicologyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/NeuroscienceBS",
+      "sha256": "cef0eceb722825eb04183df2116a6670d3b1ef3d898619560291ee1b152491e9",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/NeuroscienceBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/NordicStudiesBA",
+      "sha256": "f65de528f6ef38458ecdc3626b5f94cb551cbd957c8fea8e2a6ef48069d5f203",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/NordicStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/NursingBSPrelicensure",
+      "sha256": "f4b4f34400c0e49069481e5f6daa00940babe5c242a84a37e2b396c4670d71fe",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/NursingBSPrelicensure.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://www.nursing.ucla.edu/programs-admissions/academic-programs/bachelor-of-science/apply",
+      "sha256": "1aa242deac57b4cc0518406e64d1efa5bd3d80db1d595e862699195905bf9248",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-nursing.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PhilosophyBA",
+      "sha256": "14557e17a2be864cefc763529ae0114b3d82f543f17dd78f6c0a4d3373a6d65d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PhilosophyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PhysicsBA",
+      "sha256": "830bae603023c93c2b67625532fa5a1a8eb91223bc9eebd7fc807c82f139e4b6",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PhysicsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PhysicsBS",
+      "sha256": "0716058c5be547ea61ebe2e866f1b911694dd7d3aa073f6e1642f56581986393",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PhysicsBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PhysiologicalScienceBS",
+      "sha256": "ffe3fcc5766ab35be6ac5a4517ae0537deb8531c5fa287d4c6ba5d9185274126",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PhysiologicalScienceBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PoliticalScienceBA",
+      "sha256": "fd6fafc1d69ac415a2c9842d6187bbe4eb23623248e59583d6e06c0b58fab13a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PoliticalScienceBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PortugueseandBrazilianStudiesBA",
+      "sha256": "67b3a30836073eeb8683bcd587715164f4a4bb23b55a36d1a86731afa8bc2e6f",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PortugueseandBrazilianStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PsychobiologyBS",
+      "sha256": "0242f0a56720775eb1cbc5287cc1062f6f37179a4f73935974d7f0e601a7a344",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PsychobiologyBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PsychologyBA",
+      "sha256": "9dea1d4711febc354ca29f3f30af56cc6571cecd3195a949911ce619156379e7",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PsychologyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PublicAffairsBA",
+      "sha256": "5fc902738400153d499adf259a9459ed5d42594e7ebf8f177e394bc452733bcc",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PublicAffairsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://luskin.ucla.edu/student-affairs/career-services/",
+      "sha256": "c41cc31f83e17fc7cf7dcb00e84fa6b6ad175d2390ba7ec535a943e75426bdbf",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-luskin-careers.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PublicHealthBA",
+      "sha256": "5a9a16a7a3f7ea5a25f243d6db2fdcb8b773e8450654fbeaf3d2665909313e90",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PublicHealthBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/PublicHealthBS",
+      "sha256": "188ab10701d97902c4aeec41b13515ad2a9432bc8d39c485da38e36550d270e4",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/PublicHealthBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/RussianLanguageandLiteratureBA",
+      "sha256": "ec33cd3b424d87f873b53d7fb9b5c1fda54596d2d5841ed4ff6b10d9a59414a5",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/RussianLanguageandLiteratureBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/RussianStudiesBA",
+      "sha256": "02e415de08327ec702cf534bb23298ec984fbc153c4ef7bfc343db7fee9c66fd",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/RussianStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/SociologyBA",
+      "sha256": "379ac5a4c4c24153a9fb8c07024ea33d5fbe3c2ab4ea70eea47ea0fe771ad273",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/SociologyBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/SoutheastAsianStudiesBA",
+      "sha256": "af7937bab00a4f42e9370772e4119e19bd9b9caab0583e030508a8112eb6394b",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/SoutheastAsianStudiesBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/SpanishandCommunityandCultureBA",
+      "sha256": "9b0e7a0e91605b00619a6b30f0c46e1cc362fea90d652ff196a9841a65bf3517",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/SpanishandCommunityandCultureBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/SpanishandLinguisticsBA",
+      "sha256": "cca4cc3de5ce38649371d4688ea24e25f97e507f1abf3f748bfe3abe2983890a",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/SpanishandLinguisticsBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/SpanishandPortugueseBA",
+      "sha256": "d9a3e3df82833660b3b97a17c746ec3433e5144aff5c317b6ada43ca96da393b",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/SpanishandPortugueseBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/SpanishBA",
+      "sha256": "5c2d99bcbe2350cc615e98c996c476bb0d4519cf7e8def55ddc6621d886ab75d",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/SpanishBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/StatisticsandDataScienceBS",
+      "sha256": "2fc65f39cd6885aefbe9094e44026e4d5842f503e4a812ba185f7ee7131a1dfd",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/StatisticsandDataScienceBS.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/StudyofReligionBA",
+      "sha256": "569b9736a12c2a412be8997f9857191cb3ff7e770cd394454c83b9c4fcc0a9c7",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/StudyofReligionBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/TheaterBA",
+      "sha256": "b51105c5268bf3f5786850cb51b548cf31fb50f2e74e1f397cf226a869660d06",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/TheaterBA.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://www.tft.ucla.edu/programs/theater-ba/apply-to-theater-ba/",
+      "sha256": "d6801f8885f3c4ce3a0d88614298f2c0f1bfce68ad6d44517c4525569099b056",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-theater-apply.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://www.tft.ucla.edu/programs/theater-ba/",
+      "sha256": "076cd468aa39f6ffbcddd2e0b184afc7c5d9071d6d4c4f8652b2ace2e1c9cb35",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-theater.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://www.wacd.ucla.edu/programs/apply/undergraduate/wac",
+      "sha256": "d2290edb17c8b9fa58c4e2aa0beb7593e12b1d4baaf79bc927fb2e71e88e38fb",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/policy-wac-specific.html",
+      "locator": "对应具名章节"
+    },
+    {
+      "url": "https://catalog.registrar.ucla.edu/major/2026/WorldArtsandCulturesBA",
+      "sha256": "c3efd3384d7a5b6b81567a5fc431a6bec1cdc763860280d3df7d7d611d4d5ace",
+      "raw_file": "scratch/full-catalog/ucla-enrichment/raw/WorldArtsandCulturesBA.html",
+      "locator": "对应具名章节"
     }
   ]
 }

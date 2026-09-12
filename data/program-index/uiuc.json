@@ -1,11 +1,11 @@
 {
   "university_id": "uiuc",
-  "checked_at": "2026-09-12",
+  "checked_at": "2026-09-13",
   "coverage": {
-    "status": "complete",
-    "count": 177,
-    "scope": "University of Illinois Urbana-Champaign undergraduate catalog",
-    "method": "{\"pages\": 1, \"top_level_directory_rows\": 184, \"nested_concentration_rows\": 157, \"pagination\": \"Complete A-Z single HTML; letter links are anchors\"}",
+    "status": "partial",
+    "count": 169,
+    "scope": "UIUC 2026—2027官方A–Z本科目录顶层学位；含明确标注的内部／在线及历史入口",
+    "method": "A–Z184个顶层行与原177条对账，8个同URL同学位索引别名合并，保留169独立学位页。157内部方向有实际原文，149个当前候选尚待独立逐项整合，8个已暂停方向不作新入口。",
     "exclusions": "Include every top-level major with bachelor award; keep separately listed dual degree program. Exclude undeclared, cross-references, and nested concentration options from independent-major count while preserving all excluded rows.",
     "sources": [
       {
@@ -14,11 +14,1158 @@
         "bytes": 66732,
         "raw_file": "scratch/full-catalog/us-b/uiuc/index.html",
         "meta_file": "scratch/full-catalog/us-b/uiuc/index.source.json"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/accountancy-bs/",
+        "sha256": "e4e8bafafe200f4386abd8d5c2d5022b59ac858b3eba81b2922f0276b49c7a92",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/aeb9726260e476e283.html"
+      },
+      {
+        "url": "https://admissions.illinois.edu/first-year-requirements/",
+        "sha256": "93b61030a30b2d68feafbba46a078a87dc8c5eb85dcff7edad89f112cf209557",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/firstyear.html"
+      },
+      {
+        "url": "https://giesbusiness.illinois.edu/apply/admissions",
+        "sha256": "711599994ad7747ea741ec4778ee1eb2a5f18f0eeb4f35ddfaaedec2f4973686",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/gies-admit.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=BUS&TermCode=120268&TableType=1",
+        "sha256": "fb7df05de3517ed6198e6afe4368c6ffb63dbfe14b44d2f43c9b0caf0d3ea1a1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-bus.html"
+      },
+      {
+        "url": "https://success2023.web.illinois.edu/24-25-horizontal-report",
+        "sha256": "2900af367bf5e50188b7d0d6f6bb8b1e718231003c738f1701e42955f6074bd9",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/success-2425.html"
+      },
+      {
+        "url": "https://illinisuccess.illinois.edu/about-us/methods",
+        "sha256": "8c8ca1d1d46d43ddc31769a8c16d380dd445a273500d9ec4912d994968697ea2",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/success-methods.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/accountancy-data-science-bs/",
+        "sha256": "e3b8c4edba83ad21838da923fa9d3ae475da53d6882f94928b435fc48075629d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/22b634d9837ad34d61.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/actuarial-science-bslas/",
+        "sha256": "720502a0aed339878d3f2344caa32ce8542d5cb4308069aea9c54bca5be75e75",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/4cfe3a64d65cc4b9f1.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=BASE&TermCode=120268&TableType=1",
+        "sha256": "f5171d29a114043ccf082f369f3602f2315ec5a9ff3454c9e0a574e36a3aceb2",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-base.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/media/advertising-bs/",
+        "sha256": "5ca1fe9d4b857aaef94be1a0c0d20d81acc035b95e58911e2ef7b9fb10a980f9",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/69ffb02b767edafdf6.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=ADV&TermCode=120268&TableType=1",
+        "sha256": "e3041c3532240fc3fbf8aa9559cfe4be6e174f1c3da97893ca60c3310624a340",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-adv.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/aerospace-engineering-bs/",
+        "sha256": "f687137ab0b0cb999b8d5015d773d5fec9f86c3c35cd1f459d5e5152c3ed5a42",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/b5d74e2a3fdb90ad24.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=ENG&TermCode=120268&TableType=1",
+        "sha256": "ac22937b30d8b34b0b0e89515bd1340b5ae6ddb8e3b10117ee58ae797ad25e97",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-eng.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/african-american-studies-balas/",
+        "sha256": "db51aa4461f4077ec7acb5b18754098e4f09c95a5bdfee2d067ea760edc67447",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/cd4163939b26fc0a1b.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/",
+        "sha256": "55845ee7ced73e6bed7f657b1d7f2fafed9d48791e3d9d0bf7fa00a43f699bdf",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/7751a136d27fb7e600.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs-agricultural-engineering-agricultural-science-bsag/",
+        "sha256": "4f6ec917964885285697f1b2f67a69373a554b8a63790af154fd15bc9343d84c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d7a5ffdabab5bb7086.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/",
+        "sha256": "a052b9b800292542cba3ddbfb4889d3ac3fedf79a231199956f0c09fc1f9bcb9",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/ea72c1ab7f0b20fb18.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=ACE&TermCode=120268&TableType=1",
+        "sha256": "4eac3389177e531bb4d0cd95220d07ffcef4a31af2bfeb2ea59332d20e25d177",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-ace.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/",
+        "sha256": "637e53da11a875d695f98a29ae21f05aa6bff05573f54ae8955dbca01531f801",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/8849587df5f30cd86f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/agronomy-bs/",
+        "sha256": "379195f201910d199946a2fb1c7da1822b8aba40fe4853c3d4daa7bf07e66008",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/c810caa88a2046f196.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=ACES1&TermCode=120268&TableType=1",
+        "sha256": "b21234dd707fad47a9d3e95ed0ba7ba8d515a053b892b5659105fe64069feac2",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-aces1.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/",
+        "sha256": "c5f40f2186da47e6d9f51698694192daab70aa80fd8011a5c4e8145c4938c60f",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/6dba42970628a779a4.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=ACES2&TermCode=120268&TableType=1",
+        "sha256": "9e07acd68fb9295dffc139d8aa8a9e8dcae3986dadcdfa2de40548376a372f4c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-aces2.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/",
+        "sha256": "9e37b5aa1658d6e191c61eee26a25c35755a32d9dfdaec1a8cc5187b1eccda88",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/688866ce01ab32df1d.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/architectural-studies-bs/",
+        "sha256": "e341f1277dfdf000948f564b5886ab0a9d4b53b5eeffcd1512a10e81d49fef94",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/30613182b208ea7a5e.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=FAA&TermCode=120268&TableType=1",
+        "sha256": "f736aa2fe157452f5c62c88d1c2e2d46bc73fc2cc00511ce49feb25143921538",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-faa.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/art-art-history-bfa/",
+        "sha256": "9999d58420303c8358881f9766a8504753f6f7b9c1d7d46011f162e957c39aaa",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/40107045d9c093e8bb.html"
+      },
+      {
+        "url": "https://art.illinois.edu/programs-and-applying/admissions-funding/apply-to-an-undergraduate-program/freshman-admissions/",
+        "sha256": "964955bdd11a6685e3ba781c1696c3820bad98e469e6e2fd42b9ad820469dce0",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/art-admit.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/art-education-bfa/",
+        "sha256": "0851fc9e85f0dad6d4d25fffce3da2d55e5307dc0a78781649b00098b6c89812",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/266195b736edbb6439.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/art-history-balas/",
+        "sha256": "80e24251efc7168d68d41eb0f516759b53d011ebc1c587acbcb9e4d21aea52a1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/a7a14ce4d891ff0d3f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/asian-american-studies-balas/",
+        "sha256": "730dddd6c449536c0d0996d8ec5ca4e67e7d7a14bef6e9ea77e3566c6fde629a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/f820905534b1e0aa7f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/astronomy-bslas/",
+        "sha256": "58127321351f750177d59a08824fe342d7b10e13317a0f07415f62b7c5321ece",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/2e4fc0f6658f3b1749.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/astronomy-data-science-bslas/",
+        "sha256": "a31a1f2ffbf3955bb17e42692fa6af3912aa00a869cd042bdd2b21b46e6a8640",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/da1c5cc5913c403f60.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/astrophysics-bslas/",
+        "sha256": "65a0b2e7cdb508a5226144af26d95819ee9e17956f3d6d576657e46652e1d2c8",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/b602e538cf735b2fdb.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=APHYS&TermCode=120268&TableType=1",
+        "sha256": "123d4729a90598cdc5cf98cfc76b01ddcaedce4f378ff6dc42fa327d30408b73",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-aphys.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/atmospheric-sciences-bslas/",
+        "sha256": "4413913acb98695547f63b6e1bc7fa3adbca5984325d43fc71960af17c1a082e",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/30d9e0e5313184c65a.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/biochemistry-bs/",
+        "sha256": "47cd1a18bdb69678d2b405e33eee83b572fc0125687f3e106dc62afd779d1d17",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/4dffab8264275797be.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=CHEML&TermCode=120268&TableType=1",
+        "sha256": "19a450719a8f336a1e840e51d5b34e822da20f700a1315cb36d755cd4b16e090",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-cheml.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/bioengineering-bs/",
+        "sha256": "300563a33956476a6c975a5c7ed06f95169e0b922ca54b8c0b18545e2d41cbaa",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/64eddf7c179107d06e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/brain-cognitive-science-bslas/",
+        "sha256": "05288d293a11a513d61b9b6da5a7eab1a8518e8ac8b5b1b57ca177e51a9b7d86",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/93041999cdd50efb95.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/business-data-science-bs/",
+        "sha256": "1ea165840630f084e4974674c45a0ac01c0dfbb79ff13ad7b6e99c52a700f284",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/10e78d898a48fbe825.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-bs/",
+        "sha256": "b0695d8f5577b16369c0d48939b534816c6852ddf38c82adc2d3b91346895f8d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/73071acdd65b106815.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-data-science-bs/",
+        "sha256": "b8671f73b53b55681c1f502916316900f668fd3c5067ee071f5afa4b9a1088b2",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/4ee773623b9119a893.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/chemistry-bs/",
+        "sha256": "71ba2bbaa6f87aee381c54a0b05d313c40acf36bc25e8e14c110fe7b23a57ff9",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/7c08be7d264af7342e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/chemistry-bslas/",
+        "sha256": "d71c5c707018a23bc7ecc1ff0318ad11dc6d6b130403a9d4d4bfe82598663029",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/aa194f192099191b39.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/civil-engineering-bs/",
+        "sha256": "551eb439277777d67b991a578c5a11362736491b08fdd8e1446d74b3621cb0b6",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d830dca599ccee806d.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/classics-balas/",
+        "sha256": "29d0cd411960b96e07a93608bcf071c0aac175dd85cfbf1772d61a1beb01280d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/ee6c9e88746989b041.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/communication-balas/",
+        "sha256": "26301e83c04a275082e57b8d062171a68650c3540bd2950867ca83a104ede325",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/3bf03cbf9d9819c9b2.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/ahs/community-health-bs/",
+        "sha256": "787982a8e63449da78352d520d4399a19153d65af4e25096309c291bcab3f9ff",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/0e05a3aa7f25d0227c.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/",
+        "sha256": "655ade396875a49e20c998603b7fc72c16a787569044804e3d39b7862a1c3a69",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/a1e588a59aec92636a.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/comparative-literature/",
+        "sha256": "bbea30bb66347ab82477b6eb4a44951e83c7bfa3f1fb20ed962de5169f80522c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/169054ecf1f195d92b.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/world-literature/",
+        "sha256": "6ea8d435ded8a27b093dfb32fa082f2d0a6d5f59c2641549dd5ea2794f190663",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/651863ce71da119569.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-engineering-bs/",
+        "sha256": "9f42bfdddf06cf2fe8f4cbddc235f379f5624c6e88668370748f3027beed3f54",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/129840174acece1959.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/",
+        "sha256": "dd45a1cfc09a0689e130a348cc7d5a8310456bc11bdf674ac47529180e28974d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/19be56a8aab50595ac.html"
+      },
+      {
+        "url": "https://siebelschool.illinois.edu/admissions/undergraduate/transfer-students",
+        "sha256": "30f67a7665a7b25201e00994b38cc8d2dc83b97d3007a8711c4843e1cd1fcd45",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/cs-transfer.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_media/computer-science-advertising-bs/",
+        "sha256": "b2e4ec7aa09aa79b3b6c8f05d578a10bd4812123da0eb32bc84168e56152ec1a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/69e60fc87c63ff31fd.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/computer-science-animal-sciences-bs/",
+        "sha256": "06d04db7798e3f61bd1a901328ed80c95c29523de308ed852984df4cabb31820",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/656a28967e0aae7a11.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-anthropology-bslas/",
+        "sha256": "c888139dc7e6d06b9fb6e3c8026c978d07c23f2b9776f5503f4b0f1584c9c532",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/7cf529b39349d9b291.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-astronomy-bs/",
+        "sha256": "09c929ed97ec064bfc948a6868bd6092726ade30e5d4b845d564b9463b60424e",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/f61994f5cc0b44f4b4.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-bioengineering-bs/",
+        "sha256": "0ee9a24f6f9390d89edba69121dd81a4f650f680d5a51b5f374a6493a4921215",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/7daacc51482a7d7033.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-chemistry-bslas/",
+        "sha256": "04d11046039c55c22a79ea2b09efda9eb53ed6bac3a49c7d76c4b95e44c19947",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/5a1cf28f948c705f95.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/computer-science-crop-sciences-bs/",
+        "sha256": "e1dfc10bac533bac9bc7ef890781f8355e83714cdf112c12f2bf9ea30e74f686",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/f17d10b041a5e900d5.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-economics-bslas/",
+        "sha256": "4019acfd8a0b061219d5aabd022c11bd9de7644090a929b992bfe422ade2afa1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d34ef6cea910433809.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/",
+        "sha256": "b4dced58f40916de8189fbb7563743cf1a59d634aa75fcb2af3c3b1a90e68328",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/9555c448939c7ea3bb.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/learning-sciences/",
+        "sha256": "7253b15dc2a4198274d39c2a766581c026a3390334b7649bf1dac0121abd9226",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/4ed5d08ee2c17ab8db.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/secondary-education/",
+        "sha256": "77a6e1bd81908425004f23eb090c911ea8c90fb4a95e954d00496a0e5d5500e4",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/8b46c6bdcfd46af407.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-geography-geographic-information-science-bslas/",
+        "sha256": "3844bac050a44faf2ddecf6fd5a28d7f6fe29f452cec48ed2729b278b21b8d69",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d8765517fb526b0a5b.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-linguistics-bslas/",
+        "sha256": "87d2d9f62880880b119ac10e84a0a4c1e128e41fe849b509f5aa7e44a64cecd0",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/1dabfc842dea7d560b.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_faa/computer-science-music-bs/",
+        "sha256": "0c3f9c4b589fbaef269c16d517c17fced421456568b088fd6e6c9b99c9424786",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/731c5a5a5cdceff41e.html"
+      },
+      {
+        "url": "https://music.illinois.edu/admissions/undergraduate-programs-and-application/application-process/",
+        "sha256": "b4ab91aa1da722d0a20d1e820bc08c78133ad8c18ca0bebf282bd02b3b27245d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/music-admit.html"
+      },
+      {
+        "url": "https://music.illinois.edu/admissions/undergraduate-programs-and-application/application-process/undergraduate-applicant-important-dates/",
+        "sha256": "c452f68dac4cf6d1ca1d134d3b1f23fe547d9d4b145d52c4db6f7a298c02e5db",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/music-dates.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-philosophy-bslas/",
+        "sha256": "17aa42da5b3388c5135a50885866bb0b3585d755f1bef0530166394a10d0070b",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/9a34c39daa11574a87.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-physics-bs/",
+        "sha256": "acb019337ec14644f9ba9576d8a46701cd39dcbb8cd705e242a95d29c2d2bbc3",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/a611ffb5612bf5c548.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/creative-writing-balas/",
+        "sha256": "f48528b31d00f40401598e64d3d5b6b4bd056787b8e507a81ecb6e98c8e81d12",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/463bf19f702887585f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/",
+        "sha256": "cae72c1cba3509ee7dbe062bc9e4d91e62fe2684a390b9683eea40fb12b3316a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/5027a53f0fc3e20a9e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/dance-ba/",
+        "sha256": "c776c9b32fd14ad8ff02ca4da80ff668bff3029746ced4066db896e00527d14f",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/103d462b3f92700148.html"
+      },
+      {
+        "url": "https://dance.illinois.edu/programs-applying/undergraduate-programs/application-audition/",
+        "sha256": "739d9078d02f4be26f1ca56f564b98c36e60d0915f6c9fabeccdf51946337d9a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/dance-admit.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/ahs_faa/dance-ba-kinesiology-bs/",
+        "sha256": "9c25031db07ee66e68c9813340a0e608f63f91e23a22695d67750b1a8c4b7832",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/0528f61bdc199c7735.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/dance-bfa/",
+        "sha256": "fa1e55c5d08e4e3a0587cdbaa99623be03a8121bc1d6948500e04439932ee045",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/193a218e0f41e758a1.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/dietetics-nutrition-bs/",
+        "sha256": "85f34a7b30d99b1133d40998b3124341a7c7a95d4848fa30575953f20561331a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/e1485b8d9c100d7471.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/",
+        "sha256": "3ee689aae17cdf95b424a358328685bca950473a6bbdb0e7e835a9cb7a1619c1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/078a63c47644232147.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/earth-society-environmental-sustainability-bslas/",
+        "sha256": "5d5eb1e0245ecbb0fe09a316dec3acf21459b6906dd6c4e8a0d693612bcd22ad",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/27edc40337a9699b05.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/east-asian-languages-cultures-balas/",
+        "sha256": "cc01e12589977184677e59ff6824c2dc81f3b95b141223d27b48853edb96278a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/27d0363c40ebc6701b.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/econometrics-quantitative-economics-bslas/",
+        "sha256": "cee002c6e5ccf2cbd398925d757ae4869b008a0c65f68d8bb0a45d4d75fcb328",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/77434abd631a1e75d7.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=ECON&TermCode=120268&TableType=1",
+        "sha256": "a9766f42212a351abd88d23d4685cf9523616db56a8b9a10489e464ce72f9c77",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-econ.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/economics-balas/",
+        "sha256": "a8fd2106c736cc4740feb1dd26d5383945322c8be9d9accaaf482c7ea24f6a8a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d3672948070162a9e8.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/electrical-engineering-bs/",
+        "sha256": "26d8bb0b3c184515dfda927d9ac12eaf9fc1f4daf5f94e07ab40dd9822ebe8ab",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/235f24880be543a1c9.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/elementary-education-bs/",
+        "sha256": "102bd31a3bf7e0f3f040d2c3bbb27e4bba1b938ed3cba06b5d380c5442c3a358",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/a4bc7ad233f74bc0da.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/engineering-mechanics-bs/",
+        "sha256": "9b543c81e5a3a1cf05e5f440e9094a770b2644ebd330162b36016480179780eb",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/2ae10810d48a3f8622.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/",
+        "sha256": "b3a092662a275dff5f849696ae25278ca2e5ae7492e64f5276b15a661d3f0ac1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/2458ef66ec30d6d922.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/english-balas/",
+        "sha256": "7fc05e7a7bfa665993efee9cacf3a76dd242df4a6cd6ba73b8dc5ed3faf09e91",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/eecd26befcd5a0183d.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/english-balas/english/",
+        "sha256": "ebfcabbce5e935144d533b54290b62791fb4540342b510458da390c9b904c3a2",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/34cc6b744120138297.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/english-balas/english-teaching/",
+        "sha256": "70b7c41c818af91113fa4997192798c5f2f4a1b4866c264b51c4ab79e6021027",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/888296a65f5f997ae3.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/english-balas/english-topics/",
+        "sha256": "4f681d855339474e02b7de680b334db6c7a6e37d285d38973e9812d07990e9cb",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/6346a20085160d2bc1.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/environmental-engineering-bs/",
+        "sha256": "13e9e2c20f25dbf3852389223f6c246379a87363ba8beb64f2015f2ca338a820",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/40feda41177671592f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/environmental-sustainability-bslas/",
+        "sha256": "199385eba34fbcf7c2541a59c05bfe590197185045c43f98f797d6412dd47fe7",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/7052c6ca795b55a191.html"
+      },
+      {
+        "url": "https://registrar.illinois.edu/tuition-fees/tuition-fee-rates/tf-rates-term/ug-tuition-onl-2627/",
+        "sha256": "5966f83e5d3574ba77ea979f280ca0b808c18c31c2ed7f8a315b472d64670d9c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/online-rates-specific.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/finance-bs/",
+        "sha256": "5f5bd2c45fded0b44a4bf392476381a32117e0b87925362301641a29c45da9fc",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/bdee99bff3b5dec2d7.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/finance-data-science-bs/",
+        "sha256": "277d432a29be2f3131ecf2fc81c63cf98da1617741e1f243fef34dc1b6ffade9",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/1ea56854f6db3864fd.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/financial-planning-bs/",
+        "sha256": "c64c35d9966429fe7d684938be494ed45c8f4e67424f92cfeb45315636977688",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/c67c6c08453d1ffec9.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/fine-applied-arts-ba/",
+        "sha256": "a9d3f1c597f1161b603d12c0732bbd559610a34eb26f638a63bdfaef8e170f1c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/a00bc7bb4503025a8c.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/food-science-bs/",
+        "sha256": "6073bf018a6835a49fcce9a29b2bd7bc30a26b89d361b2ddefe8bb9ebb65b49f",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/073a59e8288dbb939e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/french-balas/",
+        "sha256": "27df4e2e312ba463b09926ce0762b1689ba14bd4a206543320d277a2dc7c57f8",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/3372cc23cd33fa8a88.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/french-balas/french-studies/",
+        "sha256": "5a25ceafe486d921f61ad9f811fb4381cb1f1970a59641ea03b2d1d560f3c876",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/ec0e544116e8b541b8.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/teaching-french-ba/",
+        "sha256": "d6d42680abb62860486ac8a5674b9f8966f602841926e12c7c7a0282dbb7c3c1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/f0630ce440ac281aac.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/gender-womens-studies-balas/",
+        "sha256": "d23bf201e2a7a0e2a3fd698f69e95785c16f4ba973c79802ac5c6f14a41d2bc6",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/f87ce428b50392b7c0.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-balas/",
+        "sha256": "17471551d75b52001085a3401120e03c4fdf0b0c3c0e986ff5467166a3679c73",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/a06205693d0b003c77.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-bslas/",
+        "sha256": "a9f5a49d02ff06bfd967ac651a48a26146d5cd9397a9e3fc798e1ca4b60168dc",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/6d8ecdca8fdb3e7a5e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/geology-bs/",
+        "sha256": "af505b2042ed4804ca7164ba9ab92bed4dc1239135ad04e8ea7723e282c1e231",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/8f21eae4af43a309c4.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/geology-bslas/",
+        "sha256": "0333b5a3fd2672e4e929e13d19e78f5b83842ec9a1526e115f40503ba165be56",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/5b2c0304e7eadb4f40.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/teaching-german-ba/",
+        "sha256": "7f576de4f339b08e7b91dc0bceaa025264325f99a4777c3461cfb0a2657b029a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/9bad4213a8bcabad84.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/",
+        "sha256": "ff869c4b23724fce44fad63ecc71dcb8f627eb6fc1aa7f4ca8e0c82d592f619a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/b0be1fcd400531a14c.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/german-business-commercial-studies/",
+        "sha256": "bb8a1a0e28be3ba472429649716b63e530b78c53e08e15bfd7910739eab7a1c5",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/e64bf957844e625535.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/german-studies/",
+        "sha256": "43d48648dad3262e73d4a1fb007d643bc6fe20b20ed453a17b6f8d1cddfef92f",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/f82fe7b7aaf873be56.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/scandinavian-studies/",
+        "sha256": "f109115dc8fff312e6d95fb4cdec70656b025a25cd4a30e730612d79d3bcf154",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/b15314a2617019c11f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/global-studies-balas/",
+        "sha256": "167cb1b0a9233199c733cb99f41beca1e735fb5283049a8d4037f3a765bc2b94",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/cefa9d64c3db0c76a5.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/graphic-design-bfa/",
+        "sha256": "88d09d6822af3b78db94d8d5212fb32026459d2acba13c19370f5edafd995e19",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/1c614619dc0f5f1a53.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/hip-hop-culture-arts-ba/",
+        "sha256": "c3f47bb072e9660d693b533dccef649068c203c29f7afd8521f3ca20d3980c25",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d09aaa84461f5eb379.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/history-balas/",
+        "sha256": "25529482a1abdc1edd15549cf13bf3dbf3df2eb0e38ae59cec5cc01e08453c52",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/35e9c12f61024b6d8f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/hospitality-management-bs/",
+        "sha256": "1b312155e25dc5c3c21e41bc5f8630c69d5c63a5ec0c0cf6f884e20160fceaa4",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d9aa26231f7429497d.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/human-development-family-studies-bs/",
+        "sha256": "dd30e763e2d810d8d3b15d6ec867c1659862270d63ff7ed2858211480d6bb39d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/3f2cc5d6da709ef3fb.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/immersive-interactive-theatre-ba/",
+        "sha256": "da32665400fb8a6e5ecddcb99f3592b5d95fe09bfc2e78ee4648bbad14503f2d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d8f63aa57da1bf1753.html"
+      },
+      {
+        "url": "https://theatre.illinois.edu/?page_id=4736",
+        "sha256": "8733db3aaac7a7e7f90cbf42f978bb6e52b7692aaaabbf013455c3ec5eed4c6d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/theatre-admit.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/individual-plans-study/",
+        "sha256": "0b62d10ad9f44c27fbc628635d7d4d5fcd92d1c3d9afdadcacc58f6297ae5816",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/760ee8c0c110c9a25b.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/industrial-design-bfa/",
+        "sha256": "1047e2cf104736f4b0573d5aa5eeb0596662df90ae0935d87759c1d6c0adaec8",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/df919e7f81c4e3a028.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/industrial-engineering-bs/",
+        "sha256": "c4e87872f31c91df773769595f55ed08344e7a8ed3b61ea71fdb3853664cf29a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/e796a35669e2d651fd.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-bs/",
+        "sha256": "2597dfcee2f3d9d99d0dc8fb7aafb895b75a636135f8ef3767c198d8504d6de0",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/3a1c4414c746f465b2.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=LIS&TermCode=120268&TableType=1",
+        "sha256": "feaac22c5d17d1d24aead158a5bd43c19ff28eea730f1aa2975e39e5c9b5a731",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-lis.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-data-science-bs/",
+        "sha256": "e1449a0a4dc2bd7306584421ce3120e0f1ff7fd556fdda244aab141fa9f3219e",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/a3f9c29c0fed5c7c8e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/information-systems-bs/",
+        "sha256": "3b8e9aeb8db9400a5c9ebfe6b88440edfcf65d87c48367a9e358bb8a58491555",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/4968f43a3e8549ad70.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/innovation-leadership-engineering-entrepreneurship-bs/",
+        "sha256": "53b03b766d14524f605e7ff66b557f8f3de6696675de5f061fbc5647e8d596aa",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/baa1b81282a16fa483.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/instrumental-music-bmus/",
+        "sha256": "93df1c888c80d7e046bdf17bee98a489f2128776df9dcb8e59224bfb9c62f641",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/2967171c69ddc4d2ad.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/",
+        "sha256": "5ff30ecc21550e4ec772fba5a00e6d872d667eae231d06a38ae65202826910b9",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/de6e40fb91c93449b9.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/",
+        "sha256": "c4d213670316b5d50c242ee3f8f5bb73615e90c26ae520fe3fca21f49c666f8a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/6475df83120c8ee710.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/",
+        "sha256": "1b141f2c8d7e5f50068b3d24d48332b371c1701da5a343bd66b8865b81680fa6",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/8aea16271e720c7155.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/jewish-studies/",
+        "sha256": "9a3064d97040711716fc8903398592ca520e6d1bcd7a1b8a5bc849b997aa5bf0",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/96297347f6392b7859.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/medieval-studies/",
+        "sha256": "54445bf0ad927d560868466ab8fb0b8a48fb53be5c3bf4b3e73b40215e550233",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/14468e0eecbaa1de45.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/italian-balas/",
+        "sha256": "1a1817aa21df4104bf1af26fd4e1db9b1b4721fc19c7c21aa68d8f54a2da283c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/italian-correct.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/jazz-performance-bmus/",
+        "sha256": "22516a1218b137915ab89fc2b30e9e0c63a8ac7ba87cff86b489f213673798d0",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/b76cb9d6638dab2f04.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/media/journalism-bs/",
+        "sha256": "1c208bd0cd2cb3ae4a9cef0744a7807690c02511731323ab7b22ea5d6c53d32f",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/33858ac328ec28165f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/",
+        "sha256": "65bf91b1c11776a18ac5f2f63a8e7f77fe80f5cd7346a6fe9b437bc18522ad61",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/db708913b5e957b40a.html"
+      },
+      {
+        "url": "https://cost.illinois.edu/Home/UgradBase?DiffCode=KINES&TermCode=120268&TableType=1",
+        "sha256": "50139ed56bf6a45b2e893762c7d8876297d12e94d883b97dac667643dff69120",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/rate-kines.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/landscape-architecture-bla/",
+        "sha256": "26dd140d16f07be01728bf533e50872d6f80c5241ef4d37ea3cd3baee3d9ae25",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/fb12de950cb628076d.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/latin-american-studies-balas/",
+        "sha256": "f51a5017c0545ba951c8bb6bd84603ae1b59a22cf81d6b2c2f6028e2dfb9b615",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/702f3061b63d9bd67e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/latina-latino-studies-balas/",
+        "sha256": "add64138c88882c643857206cdb50cd8cf9375a8592149c8ed20119e1fb009f1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/7e256975fb30a80137.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/",
+        "sha256": "cd0cd0ec8cb38ef37c72bd8a79a0713e30f827e43ac896b96896f67d31baf1f9",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/88e8b938a6e184308c.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/liberal-studies-bls/",
+        "sha256": "0be9e0b05534431008a10072cee179bb737ef77f65b268284a6f1689eef07219",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/c63a6e379e55e0dcbc.html"
+      },
+      {
+        "url": "https://lasonline.illinois.edu/programs/bls/admissions",
+        "sha256": "170cb57a6bfb37fce839e60b5a192638f09b0dad6d9cef139f448d3a717e8a71",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/bls-admit.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/linguistics-balas/",
+        "sha256": "5dac1dc8087822968671c98f37a3e6151d88a3d585e38f44640895b03e58fb40",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/66fa07737e2aa9e857.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/linguistics-teaching-english-second-language-tesl-balas/",
+        "sha256": "db9bdae49290188ad48ab66df76af9a158bd9f28143af4ce58ecd818db7299f1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/ba851713e25a887017.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/lyric-theatre-bma/",
+        "sha256": "f7d99d3a2feeb6b6d26c9dc51323c55e050cd4aee8f77cd24a00af9f6dda7cc4",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/71419fd26e14d5b4d1.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/management-business-bs/",
+        "sha256": "3139bda4bf5a825378544be0621eb1d8e5e8d3fd0a19cf8e82b7559f13f573c1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/c85ec5154bacbdc0a8.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/marketing-bs/",
+        "sha256": "b88574e09debc74bf34ba4b194a8293484c53144d7893d824e366f65b8d67cb9",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/93fc0e6ea16634a185.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-bs/",
+        "sha256": "ec63b9cc3cd75247757f8ccb5e4e05563b3fbf1e068429234832328a3ba36f41",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/691f84b618bc2750f6.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-data-science-bs/",
+        "sha256": "c9dc24601f7fef752cc1690b0eacf988c8d979c98eb8f75d439f08bcf89a4c39",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/8072d95d2d5fccb4dc.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/",
+        "sha256": "b1ab59b8aea5c4646cd8ee4054a2af901569239965837c1d8ef18f2f19f11bb3",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/62fc6ebb8bc0e22c5f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/",
+        "sha256": "64c2150c74aae16075815aab5c2ba942c70fe65d24c8c1d71fa0c8b09b49bb86",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/644d9f857623de91a7.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/mechanical-engineering-bs/",
+        "sha256": "a45366a4ff76ba536817353a8e65086d28d9cba5b5d5817a0bcd01f7a1f67988",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/e0ba075ab9715ae7f3.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/media/media-ba/",
+        "sha256": "336c8ec1849be18e6ac85a033d25f97ba642caef0a540fd3ae935614e3b232a0",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/f574783a46d75adcc0.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/media/media-cinema-studies-bs/",
+        "sha256": "499a58c03ea42d57fbb69b934a20e7c45261f2bb7126af6ad655ff1aca32361a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d698351d1177abf310.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/",
+        "sha256": "1bdf4ca24e12f140e56f9e81a596d66ce662b830e554c357c3957e39d28dc40c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/9ec6b43c9e9240ffb4.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-bslas/",
+        "sha256": "6772d210751beae0ae08c97d1a8fdcd6017a07db1761ad0bca07c120b8a471d5",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/8cdbafc738a592452f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-data-science-bslas/",
+        "sha256": "b980f4b9f65256d6c27724a37c276c15d3c017c71c4a1e628b28fa33d243315d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/8db7255a6957c4219b.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/music-ba/",
+        "sha256": "2aa6e5c1ea67e1aaa9c5f6dba9fb7da9b78354c2c46801c4e627445cd8bd120b",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/03cdad6967334df2e5.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/music-open-studies-bmus/",
+        "sha256": "e5e89bda35a2dd919d278412c9ea71cbc5bb5602702340e61fa902b74fb19c6e",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/32959822291b079e8e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/voice-bmus/",
+        "sha256": "5713df2b9f6e2e638e70ebcd61ca5f1b65c1d4734dca9955f5a5924d20c4b9b0",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/0fd2906a877620c853.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/music-composition-bmus/",
+        "sha256": "a006b0df796cbcd1f71b736c59ce13ccfaaa54ce2f5c6d2e5bfe960065d27f57",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/0a93bc8fb70834925d.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/music-education-bme/",
+        "sha256": "6a32af1e8725b0050415e8421495809eefc405e8495489c561f6f0c0210ff51b",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/12d0581c0ac7f559b1.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/musicology-bmus/",
+        "sha256": "d936edfb42181071a173631c0c99396b15f6e5e11f7d61016faafe326f6e0e69",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/cc6de5d4200d70730e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/",
+        "sha256": "3bf184e51b018566079466aac024cd99d783c6e74d16e7ed55e0a036c3413377",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/14ddabc0a0f0fef32b.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/neural-engineering-bs/",
+        "sha256": "c58526916314d90e1a01c785146c7ffb5fb9205e4e29a3c0dff06076456ee6cc",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/3cb042d2c58fcbd65c.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/neuroscience-bslas/",
+        "sha256": "90fd9ae5803455f3add28d350afba169699d6e35fd42bf06d7e583e920618cd5",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/36785f0c0703de8f04.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/",
+        "sha256": "712a060276179311878513fbbb3d478cf2e88b344c2cec33f8a9d7e93d708eae",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/dd838ee9030efa0b78.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-data-science-bs/",
+        "sha256": "7661f7611273ab69f31bc06cb6623d90737f28a31d97db11088cef5c1fa9666f",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/202696b169ed7aed83.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/nutrition-health-bs/",
+        "sha256": "9a4a3faf32726d6a8519c1cb368a046ee7e50f25c402aab11de1eeded01c7062",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/606d6d5fb24f836221.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/operations-management-bs/",
+        "sha256": "d14992ef33d1f5db1fa7ab7b7312d359744574d76082635b377d8bcfce9d1c51",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/e1db630ea99149421e.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/philosophy-balas/",
+        "sha256": "0b033c2325fa9503f3fd938c8eeea12305ed998477eba10a3795098ff92502fb",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/ab895f425302ac8adf.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/physics-bs/",
+        "sha256": "26d09dfb5edfa0bcafc9145ce79a164c3a9d78aeba00df36342c0795cc4408b6",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/895c04ff981dff78dd.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/plant-biotechnology-bs/",
+        "sha256": "d988ed806b24c0bf5fc6436395f6d5484f3aa3ada8afa399d8ba6c3bb85cc4f2",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/39a8a9b9b7716e84ef.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/",
+        "sha256": "62e9320823c06a53b46536f5ae306fb8f5acef2028484c6c23cf23037dea8585",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/ce59f6a3cd648ab103.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/citizen-politics/",
+        "sha256": "aeaacf74ddcb709ada703a2aa024b745b538466ae807075a3fff6d69a8874279",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/25537a0bb97c085daf.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/civic-leadership/",
+        "sha256": "806ee9e5dd462361841859b791325e8f6fdd775a72f3b8823223b738e5caf015",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/e93f64a130002d4736.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/general-political-science/",
+        "sha256": "25f82afd0930f789ee1316fda10d5004e08541d55c0010798cc692b091573e8a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/6ee629570ba9258770.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/international-relations/",
+        "sha256": "2aa30ea1f9d874b039dbda4a94dc912df5e9450da9ada467e611fa30b89b9f7e",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/be91d7f91f18404c89.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/law-power/",
+        "sha256": "58e9557e1cf682d18af89de5bb17d69c10843bf2f9ed2dd78c42653c6ecc1361",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/fc22aa8d6f766c0572.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/public-policy-democratic-institutions/",
+        "sha256": "52269788e4e68a68d499b3dfe2a6c3ef81438397eb90710088305af920dbc662",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/7ea20290443c3e5773.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/world-politics/",
+        "sha256": "a7ad524f51472d2634fd58dee1d04debe0262f84df0bf2dd9ba36dc5a0ed49e1",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/210686d3437fc80c21.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/portuguese-balas/",
+        "sha256": "00cba3172112d3bdbef7a20fc43a453b992d7d6683cb169b803c408e723ff50b",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/c5b4adf089376996af.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/",
+        "sha256": "b5beecee2fc9dc14f3ea0e091521e9d25549667ab0b086ca71710a7cd40c9761",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/28974b0dd6a00f320f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/ahs/public-health-bs/",
+        "sha256": "3bf2955d3b220fff03ffd6d646133b69ab60bbbf61bf028cc3665ce2a34afc7c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/54e0f7f93bc3f29e63.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/public-policy-law-bs/",
+        "sha256": "815c393e158524d716bd2c86c9cce4b33cfe03e003ce2d31b35a398785498cec",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/a7bcb3b4d4cdd71f84.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/",
+        "sha256": "0eea1e71829e6f9045de37eef0a0da8d8303d546140be1975173a016c29fc20e",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/81b54ab59c35da9246.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/religion-balas/",
+        "sha256": "fda7f825e5ef545c1502f0b774754383126324b9672eab6cde5aa856e216377b",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/472d9203f21720641d.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/russian-east-european-eurasian-studies-balas/",
+        "sha256": "412f1ec56f46d51ba87a6e8a95ce7db7ebbdb969201f88287b50153d85323251",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/43a55acc392facc8f2.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/",
+        "sha256": "d4e296d984c793b2e1c7d2f1b051689d9b18e7ebeaad76635aa0294e0548de02",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/010429f12851e786fa.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/mathematics/",
+        "sha256": "4699fbff16e6ccd4fac8db492b813098ec8bdb0fad665c3cad7ccd61a3371648",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/040f4a5b7f1d139cc9.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/",
+        "sha256": "3ee070fb6894c8a2d7518f5dded7b9271d67ccec3acfbdfe1c06d279d231707b",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/03de476249b81173c8.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/czech-studies/",
+        "sha256": "2e12d0721796caf578fd6c5f9b18ca6f7591ef83428f01ed9ac9aed6bd5cee4d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/cbb2314cceb7f5df52.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/polish-studies/",
+        "sha256": "c737ec6dfdd2f0b48453df24d040ddb260e77b7e51702f97a5a2c9b0bd7cbe6d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/b1057351f4b712cbe2.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/russian-language-literature-culture/",
+        "sha256": "49703ca669ed06c05b74fb993c6e7e706a09ffd8f29e687ecccc6fd61ea766bc",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/6b3271b2b06afb5132.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/south-slavic-studies/",
+        "sha256": "89507888e88a88aaf71157a1f6aafd9ae2065859493cc1fa6ee2cb25676e6ad6",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/97b7a33df1f566590f.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/ukranian-studies/",
+        "sha256": "c137f0180d4ca2392135b642050370e2092e876b7721d7125f01cb25c98df62e",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/directions/0212e80b0805bb121d.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/socw/social-work-bsw/",
+        "sha256": "82c76c39755b0410e05f1fff17d1da997f65a4830b1b5bfc9ea18de18c0e099a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/6e3ac14ad640d0ca60.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/sociology-balas/",
+        "sha256": "ade1a9608e4bf67c9ba5cadba89c2bd0700b96ed803bc63105f5cd9116312c5d",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/6af6b736c240a9d224.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/spanish-balas/",
+        "sha256": "0dc73c37ef57e70510b46200b9303ec481837ed04cde6a5c759e036ab7a29cdd",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/d6b9adf4481ba7191c.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/teaching-spanish-ba/",
+        "sha256": "66ce6eead69e60b4139c57a682637b54c678380645f700b0f1eceab24eba1751",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/7cd05aca01d19ad599.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/education/special-education-bs/",
+        "sha256": "8a2d7c282db127c0907624c85f4a00c2ef815847b6c9ea99d5a088f33ae18526",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/f3e0d5ee916b3620b9.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/",
+        "sha256": "6fb39352a025b505c4e6a26b531603d1e0c54ba23f8398bb27f4c5f871b4cec8",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/e02842792f4eeb60ee.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/media/sports-media-ba/",
+        "sha256": "f058edb02f171ed2bb7514d2c39f6f0f2d1b544a4ef2fe303d1721baad13cc40",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/bd6559decdb6ac372a.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/las/academic-units/stats/statistics-major/",
+        "sha256": "13460ad869ca4f41281ed05dcb5b2b5d4b7286595ef7cc015f23d22e76f5136a",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/f38d6fd574503440ed.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/eng_las/statistics-computer-science-bslas/",
+        "sha256": "cfa25635aedc375b29a9a851acc214dfb3448b18b193bf9b488a6fe071c5fcaa",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/35756d480dfeaf34b2.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/strategy-innovation-entrepreneurship-bs/",
+        "sha256": "88bd0f4547cd186c610e35c3ee804cf490b6ce3d60d7f8bda4b1e8efbbdb6a3c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/5cd24f67c024d31692.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-basa/",
+        "sha256": "865afc1489a1823bb0a803f7e96ebddc6443ca2b714e3946a83d28395ec0b49c",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/fb170b154452732635.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/",
+        "sha256": "cfeeecec3b9fb83ad55156ee5e411f00b85682e4c702c94a8b34f3cb2c1e2c98",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/41170b20c147789511.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/bus/supply-chain-bs/",
+        "sha256": "694d2b04d3fe3b8545f4c59e7816817e2adec7f1125b10459445c71654b1aaef",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/b245fe27c5805f2f71.html"
+      },
+      {
+        "url": "https://giesbusiness.illinois.edu/academics/majors-and-minors/supply-chain-management",
+        "sha256": "b7104cba72855c5687555ff7a0d1dd1764d5985fd89edef22244f38ddf9c9a68",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/supply-admit.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/aces/sustainability-food-environmental-systems-bs/",
+        "sha256": "b96ae23842e594b945d4ad5d9a4809bfbe046f82ba9d951ec2068cea3bc2e95e",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/af65ad7f12a5bd13b7.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/sustainable-design-bs/",
+        "sha256": "617251ecde09fc652aff06e27c1515f755577b83e2a33cad675221e5c6104f06",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/1eea30a613c1a2b567.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/engineering/systems-engineering-design-bs/",
+        "sha256": "9337d8c55c4fa0670a5da2d4eaee2f1a78b6cbc0225d0b60038591b4b97c37be",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/165ade00af360ee6cf.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/",
+        "sha256": "d132ecb7d432c1e7a584d7e85762e82803c8107ee284f5766dc81f28149592a0",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/b122868c81097adaf9.html"
+      },
+      {
+        "url": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/",
+        "sha256": "718e5946c26547cb9ed2bca5eda35e55ffa600b2a6bcef8c41fe92aeb7c84096",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/raw/c1401e9acafef8452f.html"
+      },
+      {
+        "url": "https://admissions.illinois.edu/international-requirements/",
+        "sha256": "6c7649a69c8e1e710651c2fb044ca087001a086f1dd3f22358778f95112dce37",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/requirements.html"
+      },
+      {
+        "url": "https://admissions.illinois.edu/china-application-help/",
+        "sha256": "1c9018fb2f2e4c72d5908e8da78217003aebe38e7ff8484ad28f51e174cec9d9",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/china.html"
+      },
+      {
+        "url": "https://www.admissions.illinois.edu/first-year-apply/",
+        "sha256": "3dadc0f72f0ab3bda951e5f6391fdc5196a5bf5610fe0e8e5cea467fedeb98ca",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/apply.html"
+      },
+      {
+        "url": "https://admissions.illinois.edu/first-year-dates/",
+        "sha256": "8fbacb16bf2545c67162f1f7ddd45ca881d2293de338f0974e85a91a766a3f6f",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/deadlines.html"
+      },
+      {
+        "url": "https://registrar.illinois.edu/ug-tuition-rates-2627/",
+        "sha256": "e8762a17ce72a412f5e2ffe354edc9f90d54b2a2d106f1818e1cac80a721b7c7",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/tuition-rates-2627.html"
+      },
+      {
+        "url": "https://www.cost.illinois.edu/Home/Cost/I/U/Compare/12/120268/120268",
+        "sha256": "1fa0cb9f9db96466231a93e6f0c17e483f238addf4fa60e668977ef4f73d1088",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/cost-intl-2627.html"
+      },
+      {
+        "url": "https://www.admissions.illinois.edu/financial-aid/",
+        "sha256": "8b02b1de5c791cdf01ee9661ad047efbced1e6a0dd33694facb5c4f7a09f3754",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/financial-aid.html"
+      },
+      {
+        "url": "https://www.admissions.illinois.edu/scholarships/",
+        "sha256": "b5958d5c806a7cbb44288eed989eaeee3b141d7893df1075d0df8aaf0e642b86",
+        "raw_file": "scratch/full-catalog/uiuc-enrichment/shared/scholarships.html"
       }
     ],
     "gaps": [
-      "Nested concentrations preserved separately, not treated as independent degrees.",
-      "Intake duration and language not inferred."
+      "149个当前内部方向有目录及课程原文，尚未全部拆为独立可查询条目；当前目录完整性保守标为部分。",
+      "2个暂停学位保留课程及历史毕业统计；3个在线完成和在校第二学位等不等于高中直接招生。",
+      "2027秋季全新收费组费率、双学位实际计费、未匹配专业的毕业调查及逐课程授课语言仍有缺口。",
+      "毕业统计对应137个分组；同名学位、方向或双学位有合并口径，不能称每条独立调查或全部中国学生结果。"
     ]
   },
   "programs": [
@@ -26,469 +1173,502 @@
       "name_en": "Accountancy",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/accountancy-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Accountancy, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-accountancy-55a3d94490"
+      "id": "uiuc-accountancy-55a3d94490",
+      "name": "会计学"
     },
     {
       "name_en": "Accountancy + Data Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/accountancy-data-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Accountancy + Data Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-accountancy-data-science-5f06cbff3a"
+      "id": "uiuc-accountancy-data-science-5f06cbff3a",
+      "name": "会计学与数据科学"
     },
     {
       "name_en": "Actuarial Science",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/actuarial-science-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Actuarial Science, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-actuarial-science-616c60d495"
+      "id": "uiuc-actuarial-science-616c60d495",
+      "name": "精算学"
     },
     {
       "name_en": "Advertising",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/media/advertising-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Advertising, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-advertising-670009185f"
+      "id": "uiuc-advertising-670009185f",
+      "name": "广告学"
     },
     {
       "name_en": "Aerospace Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/aerospace-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Aerospace Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-aerospace-engineering-c7566364ef"
+      "id": "uiuc-aerospace-engineering-c7566364ef",
+      "name": "航空航天工程"
     },
     {
       "name_en": "African American Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/african-american-studies-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "African American Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-african-american-studies-33f0a28333"
+      "id": "uiuc-african-american-studies-33f0a28333",
+      "name": "非裔美国人研究"
     },
     {
       "name_en": "Agricultural & Biological Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Agricultural & Biological Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-agricultural-biological-engineering-dc845cf8b6"
+      "id": "uiuc-agricultural-biological-engineering-dc845cf8b6",
+      "name": "农业与生物工程"
     },
     {
       "name_en": "Agricultural & Biological Engineering, BS and Agricultural & Biological Engineering, BSAG",
       "degree_label": "BS + BSAG",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs-agricultural-engineering-agricultural-science-bsag/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "5 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Agricultural & Biological Engineering, BS and Agricultural & Biological Engineering, BSAG",
       "entity_type": "dual bachelor program",
-      "id": "uiuc-agricultural-biological-engineering-bs-and-agricultural-biologica-374b1a90f7"
+      "id": "uiuc-agricultural-biological-engineering-bs-and-agricultural-biologica-374b1a90f7",
+      "name": "农业与生物工程（BS／BSAG 双学位）"
     },
     {
       "name_en": "Agricultural & Consumer Economics",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Agricultural & Consumer Economics, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-agricultural-consumer-economics-46a18688bc"
+      "id": "uiuc-agricultural-consumer-economics-46a18688bc",
+      "name": "农业与消费者经济学"
     },
     {
       "name_en": "Agricultural Leadership, Education, & Communications",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Agricultural Leadership, Education, & Communications, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-agricultural-leadership-education-communications-a41f06f88f"
+      "id": "uiuc-agricultural-leadership-education-communications-a41f06f88f",
+      "name": "农业领导、教育与传播"
     },
     {
       "name_en": "Agronomy",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/agronomy-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Agronomy, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-agronomy-7f15226466"
+      "id": "uiuc-agronomy-7f15226466",
+      "name": "农学"
     },
     {
       "name_en": "Animal Sciences",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Animal Sciences, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-animal-sciences-d653dd92d0"
+      "id": "uiuc-animal-sciences-d653dd92d0",
+      "name": "动物科学"
     },
     {
       "name_en": "Anthropology",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Anthropology, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-anthropology-c8aa6f81f4"
+      "id": "uiuc-anthropology-c8aa6f81f4",
+      "name": "人类学"
     },
     {
       "name_en": "Architectural Studies",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/architectural-studies-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Architectural Studies, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-architectural-studies-8b7717f353"
+      "id": "uiuc-architectural-studies-8b7717f353",
+      "name": "建筑研究"
     },
     {
       "name_en": "Art & Art History",
       "degree_label": "BFA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/art-art-history-bfa/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Art & Art History, BFA",
       "entity_type": "bachelor program",
-      "id": "uiuc-art-art-history-9dce0b3453"
+      "id": "uiuc-art-art-history-9dce0b3453",
+      "name": "艺术与艺术史"
     },
     {
       "name_en": "Art Education",
       "degree_label": "BFA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/art-education-bfa/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Art Education, BFA",
       "entity_type": "bachelor program",
-      "id": "uiuc-art-education-b3e787b233"
+      "id": "uiuc-art-education-b3e787b233",
+      "name": "艺术教育"
     },
     {
       "name_en": "Art History",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/art-history-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Art History, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-art-history-40a7599df2"
+      "id": "uiuc-art-history-40a7599df2",
+      "name": "艺术史"
     },
     {
       "name_en": "Asian American Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/asian-american-studies-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Asian American Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-asian-american-studies-ca428e1d92"
+      "id": "uiuc-asian-american-studies-ca428e1d92",
+      "name": "亚裔美国人研究"
     },
     {
       "name_en": "Astronomy",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/astronomy-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Astronomy, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-astronomy-50ef6b89b4"
+      "id": "uiuc-astronomy-50ef6b89b4",
+      "name": "天文学"
     },
     {
       "name_en": "Astronomy + Data Science",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/astronomy-data-science-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Astronomy + Data Science, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-astronomy-data-science-fa966556ac"
+      "id": "uiuc-astronomy-data-science-fa966556ac",
+      "name": "天文学与数据科学"
     },
     {
       "name_en": "Astrophysics",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/astrophysics-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Astrophysics, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-astrophysics-467fc0ce42"
+      "id": "uiuc-astrophysics-467fc0ce42",
+      "name": "天体物理学"
     },
     {
       "name_en": "Atmospheric Sciences",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/atmospheric-sciences-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Atmospheric Sciences, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-atmospheric-sciences-c6bae604b5"
+      "id": "uiuc-atmospheric-sciences-c6bae604b5",
+      "name": "大气科学"
     },
     {
       "name_en": "Biochemistry",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/biochemistry-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Biochemistry, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-biochemistry-ef895f9582"
+      "id": "uiuc-biochemistry-ef895f9582",
+      "name": "生物化学"
     },
     {
       "name_en": "Bioengineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/bioengineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Bioengineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-bioengineering-a89c1f1285"
+      "id": "uiuc-bioengineering-a89c1f1285",
+      "name": "生物工程"
     },
     {
       "name_en": "Brain & Cognitive Science",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/brain-cognitive-science-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Brain & Cognitive Science, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-brain-cognitive-science-c681b9492c"
+      "id": "uiuc-brain-cognitive-science-c681b9492c",
+      "name": "脑与认知科学"
     },
     {
       "name_en": "Business + Data Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/business-data-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Business + Data Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-business-data-science-a88ea69551"
+      "id": "uiuc-business-data-science-a88ea69551",
+      "name": "商科与数据科学"
     },
     {
       "name_en": "Chemical Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Chemical Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-chemical-engineering-f790996ae3"
+      "id": "uiuc-chemical-engineering-f790996ae3",
+      "name": "化学工程"
     },
     {
       "name_en": "Chemical Engineering + Data Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-data-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Chemical Engineering + Data Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-chemical-engineering-data-science-ba9fd1b827"
+      "id": "uiuc-chemical-engineering-data-science-ba9fd1b827",
+      "name": "化学工程与数据科学"
     },
     {
       "name_en": "Chemistry",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/chemistry-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Chemistry, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-chemistry-11f0606f35"
+      "id": "uiuc-chemistry-11f0606f35",
+      "name": "化学（专业型 BS）"
     },
     {
       "name_en": "Chemistry",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/chemistry-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Chemistry, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-chemistry-38bb19d63e"
+      "id": "uiuc-chemistry-38bb19d63e",
+      "name": "化学（BSLAS）"
     },
     {
       "name_en": "Civil Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/civil-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Civil Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-civil-engineering-d696e665f2"
+      "id": "uiuc-civil-engineering-d696e665f2",
+      "name": "土木工程"
     },
     {
       "name_en": "Classics",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/classics-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Classics, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-classics-bd58821b73"
+      "id": "uiuc-classics-bd58821b73",
+      "name": "古典学"
     },
     {
       "name_en": "Communication",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/communication-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Communication, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-communication-95723148f7"
+      "id": "uiuc-communication-95723148f7",
+      "name": "传播学"
     },
     {
       "name_en": "Community Health",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/ahs/community-health-bs/",
-      "intake": null,
+      "intake": "暂停招生；2027 春季起停收",
       "duration": null,
       "campus": null,
       "language": null,
@@ -496,167 +1676,180 @@
       "source_period": "2026-2027",
       "raw_key": "Community Health, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-community-health-55c1630a3c"
+      "id": "uiuc-community-health-55c1630a3c",
+      "status": "suspended",
+      "name": "社区健康（暂停招生的历史项目）"
     },
     {
       "name_en": "Comparative & World Literature",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Comparative & World Literature, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-comparative-world-literature-f5fad60852"
+      "id": "uiuc-comparative-world-literature-f5fad60852",
+      "name": "比较文学与世界文学"
     },
     {
       "name_en": "Computer Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/computer-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-engineering-01e41e9aea"
+      "id": "uiuc-computer-engineering-01e41e9aea",
+      "name": "计算机工程"
     },
     {
       "name_en": "Computer Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-8ff4e0100e"
+      "id": "uiuc-computer-science-8ff4e0100e",
+      "name": "计算机科学"
     },
     {
       "name_en": "Computer Science + Advertising",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_media/computer-science-advertising-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Advertising, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-advertising-4c7d6d8f9b"
+      "id": "uiuc-computer-science-advertising-4c7d6d8f9b",
+      "name": "计算机科学与广告学"
     },
     {
       "name_en": "Computer Science + Animal Sciences",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/computer-science-animal-sciences-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Animal Sciences, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-animal-sciences-b50b616987"
+      "id": "uiuc-computer-science-animal-sciences-b50b616987",
+      "name": "计算机科学与动物科学"
     },
     {
       "name_en": "Computer Science + Anthropology",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-anthropology-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Anthropology, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-anthropology-d639bd8644"
+      "id": "uiuc-computer-science-anthropology-d639bd8644",
+      "name": "计算机科学与人类学"
     },
     {
       "name_en": "Computer Science + Astronomy",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-astronomy-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Astronomy, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-astronomy-0aece923fd"
+      "id": "uiuc-computer-science-astronomy-0aece923fd",
+      "name": "计算机科学与天文学"
     },
     {
       "name_en": "Computer Science + Bioengineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-bioengineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Bioengineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-bioengineering-303ce3fce5"
+      "id": "uiuc-computer-science-bioengineering-303ce3fce5",
+      "name": "计算机科学与生物工程"
     },
     {
       "name_en": "Computer Science + Chemistry",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-chemistry-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Chemistry, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-chemistry-2cf843090f"
+      "id": "uiuc-computer-science-chemistry-2cf843090f",
+      "name": "计算机科学与化学"
     },
     {
       "name_en": "Computer Science + Crop Sciences",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/computer-science-crop-sciences-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Crop Sciences, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-crop-sciences-3c503f6204"
+      "id": "uiuc-computer-science-crop-sciences-3c503f6204",
+      "name": "计算机科学与作物科学"
     },
     {
       "name_en": "Computer Science + Economics",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-economics-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Economics, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-economics-7b1dc0b2ba"
+      "id": "uiuc-computer-science-economics-7b1dc0b2ba",
+      "name": "计算机科学与经济学"
     },
     {
       "name_en": "Computer Science + Education",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/",
-      "intake": null,
+      "intake": "2027秋季；特殊申请见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -664,293 +1857,315 @@
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Education, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-education-12d8497d41"
+      "id": "uiuc-computer-science-education-12d8497d41",
+      "name": "计算机科学与教育"
     },
     {
       "name_en": "Computer Science + Geography & Geographic Information Science",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-geography-geographic-information-science-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Geography & Geographic Information Science, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-geography-geographic-information-science-3dd6a40aeb"
+      "id": "uiuc-computer-science-geography-geographic-information-science-3dd6a40aeb",
+      "name": "计算机科学、地理与地理信息科学"
     },
     {
       "name_en": "Computer Science + Linguistics",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-linguistics-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Linguistics, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-linguistics-5245fb2d74"
+      "id": "uiuc-computer-science-linguistics-5245fb2d74",
+      "name": "计算机科学与语言学"
     },
     {
       "name_en": "Computer Science + Music",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_faa/computer-science-music-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Music, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-music-db532a7167"
+      "id": "uiuc-computer-science-music-db532a7167",
+      "name": "计算机科学与音乐"
     },
     {
       "name_en": "Computer Science + Philosophy",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-philosophy-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Philosophy, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-philosophy-0a31506b98"
+      "id": "uiuc-computer-science-philosophy-0a31506b98",
+      "name": "计算机科学与哲学"
     },
     {
       "name_en": "Computer Science + Physics",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-physics-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Computer Science + Physics, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-computer-science-physics-c03001cf27"
+      "id": "uiuc-computer-science-physics-c03001cf27",
+      "name": "计算机科学与物理学"
     },
     {
       "name_en": "Creative Writing",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/creative-writing-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Creative Writing, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-creative-writing-46de9cd21b"
+      "id": "uiuc-creative-writing-46de9cd21b",
+      "name": "创意写作"
     },
     {
       "name_en": "Crop Sciences",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Crop Sciences, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-crop-sciences-213f0214f2"
+      "id": "uiuc-crop-sciences-213f0214f2",
+      "name": "作物科学"
     },
     {
       "name_en": "Dance",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/dance-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Dance, BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-dance-affd9c70e5"
+      "id": "uiuc-dance-affd9c70e5",
+      "name": "舞蹈（BA）"
     },
     {
-      "name_en": "Dance",
-      "degree_label": "BA",
+      "name_en": "Dance and Kinesiology",
+      "degree_label": "BA + BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/ahs_faa/dance-ba-kinesiology-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
-      "raw_key": "Dance, BA & Kinesiology, BS (Dual Degree Program)",
+      "raw_key": "Dance, BA and Kinesiology, BS (Dual Degree)",
       "entity_type": "bachelor program",
-      "id": "uiuc-dance-deeb13b7c8"
+      "id": "uiuc-dance-deeb13b7c8",
+      "name": "舞蹈与运动机能学（BA／BS 双学位）"
     },
     {
       "name_en": "Dance",
       "degree_label": "BFA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/dance-bfa/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Dance, BFA",
       "entity_type": "bachelor program",
-      "id": "uiuc-dance-6341a0c133"
+      "id": "uiuc-dance-6341a0c133",
+      "name": "舞蹈（BFA）"
     },
     {
       "name_en": "Dietetics and Nutrition",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/dietetics-nutrition-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Dietetics and Nutrition, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-dietetics-and-nutrition-0c29d237b7"
+      "id": "uiuc-dietetics-and-nutrition-0c29d237b7",
+      "name": "膳食与营养学"
     },
     {
       "name_en": "Early Childhood Education",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Early Childhood Education, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-early-childhood-education-89f754ea39"
+      "id": "uiuc-early-childhood-education-89f754ea39",
+      "name": "幼儿教育"
     },
     {
       "name_en": "Earth, Society, & Environmental Sustainability",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/earth-society-environmental-sustainability-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "暂停招生；2027 春季起停收",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Earth, Society, & Environmental Sustainability, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-earth-society-environmental-sustainability-bfd33abd76"
+      "id": "uiuc-earth-society-environmental-sustainability-bfd33abd76",
+      "status": "suspended",
+      "name": "地球、社会与环境可持续性（暂停招生的历史项目）"
     },
     {
       "name_en": "East Asian Languages & Cultures",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/east-asian-languages-cultures-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "East Asian Languages & Cultures, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-east-asian-languages-cultures-b3fdccb463"
+      "id": "uiuc-east-asian-languages-cultures-b3fdccb463",
+      "name": "东亚语言与文化"
     },
     {
       "name_en": "Econometrics & Quantitative Economics",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/econometrics-quantitative-economics-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Econometrics & Quantitative Economics, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-econometrics-quantitative-economics-32a6f7660d"
+      "id": "uiuc-econometrics-quantitative-economics-32a6f7660d",
+      "name": "计量经济学与数量经济学"
     },
     {
       "name_en": "Economics",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/economics-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Economics, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-economics-d837bb2326"
+      "id": "uiuc-economics-d837bb2326",
+      "name": "经济学"
     },
     {
       "name_en": "Electrical Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/electrical-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Electrical Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-electrical-engineering-05ed836e37"
+      "id": "uiuc-electrical-engineering-05ed836e37",
+      "name": "电气工程"
     },
     {
       "name_en": "Elementary Education",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/education/elementary-education-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Elementary Education, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-elementary-education-943b1b83f1"
+      "id": "uiuc-elementary-education-943b1b83f1",
+      "name": "小学教育"
     },
     {
       "name_en": "Engineering Mechanics",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/engineering-mechanics-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Engineering Mechanics, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-engineering-mechanics-c965dc7329"
+      "id": "uiuc-engineering-mechanics-c965dc7329",
+      "name": "工程力学"
     },
     {
       "name_en": "Engineering Technology & Management for Agricultural Systems",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Engineering Technology & Management for Agricultural Systems, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-engineering-technology-management-for-agricultural-systems-1825a12650"
+      "id": "uiuc-engineering-technology-management-for-agricultural-systems-1825a12650",
+      "name": "农业系统工程技术与管理"
     },
     {
       "name_en": "English",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/english-balas/",
-      "intake": null,
+      "intake": "2027秋季；特殊申请见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -958,111 +2173,119 @@
       "source_period": "2026-2027",
       "raw_key": "English, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-english-eb99190475"
+      "id": "uiuc-english-eb99190475",
+      "name": "英语文学"
     },
     {
       "name_en": "Environmental Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/environmental-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Environmental Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-environmental-engineering-452bf1530a"
+      "id": "uiuc-environmental-engineering-452bf1530a",
+      "name": "环境工程"
     },
     {
       "name_en": "Environmental Sustainability",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/environmental-sustainability-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Environmental Sustainability, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-environmental-sustainability-f2468e6709"
+      "id": "uiuc-environmental-sustainability-f2468e6709",
+      "name": "环境可持续性"
     },
     {
       "name_en": "Finance",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/finance-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Finance, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-finance-3e5fe773ba"
+      "id": "uiuc-finance-3e5fe773ba",
+      "name": "金融学"
     },
     {
       "name_en": "Finance + Data Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/finance-data-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Finance + Data Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-finance-data-science-bdfa17331e"
+      "id": "uiuc-finance-data-science-bdfa17331e",
+      "name": "金融学与数据科学"
     },
     {
       "name_en": "Financial Planning",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/financial-planning-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "目录称 2027 春季起招生",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Financial Planning, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-financial-planning-e991fc5214"
+      "id": "uiuc-financial-planning-e991fc5214",
+      "name": "个人财务规划"
     },
     {
       "name_en": "Fine and Applied Arts",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/fine-applied-arts-ba/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
+      "intake": "2026—2027课程目录；具体入口见正文",
+      "duration": "按已修学分与个人计划确定",
+      "campus": "在线教学",
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Fine and Applied Arts, BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-fine-and-applied-arts-1e8a53b10f"
+      "id": "uiuc-fine-and-applied-arts-1e8a53b10f",
+      "name": "美术与应用艺术（在线学位完成项目）"
     },
     {
       "name_en": "Food Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/food-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Food Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-food-science-832d52acae"
+      "id": "uiuc-food-science-832d52acae",
+      "name": "食品科学"
     },
     {
       "name_en": "French",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/french-balas/",
-      "intake": null,
+      "intake": "2027秋季；特殊申请见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -1070,223 +2293,239 @@
       "source_period": "2026-2027",
       "raw_key": "French, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-french-0f03284edc"
+      "id": "uiuc-french-0f03284edc",
+      "name": "法语"
     },
     {
       "name_en": "French (Teaching)",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/teaching-french-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2026—2027课程目录；具体入口见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "French (Teaching), BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-french-teaching-0b305745c8"
+      "id": "uiuc-french-teaching-0b305745c8",
+      "name": "法语教学"
     },
     {
       "name_en": "Gender & Women's Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/gender-womens-studies-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Gender & Women's Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-gender-women-s-studies-2ad415b266"
+      "id": "uiuc-gender-women-s-studies-2ad415b266",
+      "name": "性别与妇女研究"
     },
     {
       "name_en": "Geography & Geographic Information Science",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Geography & Geographic Information Science, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-geography-geographic-information-science-0f53873b65"
+      "id": "uiuc-geography-geographic-information-science-0f53873b65",
+      "name": "地理与地理信息科学（BA）"
     },
     {
       "name_en": "Geography & Geographic Information Science",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Geography & Geographic Information Science, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-geography-geographic-information-science-314c122a78"
+      "id": "uiuc-geography-geographic-information-science-314c122a78",
+      "name": "地理与地理信息科学（BSLAS）"
     },
     {
       "name_en": "Geology",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/geology-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Geology, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-geology-d380bca50c"
+      "id": "uiuc-geology-d380bca50c",
+      "name": "地质学（专业型 BS）"
     },
     {
       "name_en": "Geology",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/geology-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Geology, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-geology-774cdde895"
+      "id": "uiuc-geology-774cdde895",
+      "name": "地质学（BSLAS）"
     },
     {
       "name_en": "German (Teaching)",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/teaching-german-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2026—2027课程目录；具体入口见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "German (Teaching), BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-german-teaching-1de3a60468"
+      "id": "uiuc-german-teaching-1de3a60468",
+      "name": "德语教学"
     },
     {
       "name_en": "Germanic Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Germanic Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-germanic-studies-64273911d6"
+      "id": "uiuc-germanic-studies-64273911d6",
+      "name": "日耳曼语言与文化研究"
     },
     {
       "name_en": "Global Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/global-studies-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Global Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-global-studies-4fe9be2dbb"
+      "id": "uiuc-global-studies-4fe9be2dbb",
+      "name": "全球研究"
     },
     {
       "name_en": "Graphic Design",
       "degree_label": "BFA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/graphic-design-bfa/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Graphic Design, BFA",
       "entity_type": "bachelor program",
-      "id": "uiuc-graphic-design-573182992d"
+      "id": "uiuc-graphic-design-573182992d",
+      "name": "平面设计"
     },
     {
       "name_en": "Hip Hop Culture and the Arts",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/hip-hop-culture-arts-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Hip Hop Culture and the Arts, BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-hip-hop-culture-and-the-arts-5605c73239"
+      "id": "uiuc-hip-hop-culture-and-the-arts-5605c73239",
+      "name": "嘻哈文化与艺术"
     },
     {
       "name_en": "History",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/history-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "History, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-history-7cfdb62f06"
+      "id": "uiuc-history-7cfdb62f06",
+      "name": "历史学"
     },
     {
       "name_en": "Hospitality Management",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/hospitality-management-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Hospitality Management, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-hospitality-management-46f344b913"
+      "id": "uiuc-hospitality-management-46f344b913",
+      "name": "酒店与餐旅管理"
     },
     {
       "name_en": "Human Development & Family Studies",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/human-development-family-studies-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Human Development & Family Studies, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-human-development-family-studies-b2f3bc973c"
+      "id": "uiuc-human-development-family-studies-b2f3bc973c",
+      "name": "人类发展与家庭研究"
     },
     {
       "name_en": "Immersive & Interactive Theatre",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/immersive-interactive-theatre-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Immersive & Interactive Theatre, BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-immersive-interactive-theatre-73e1111665"
+      "id": "uiuc-immersive-interactive-theatre-73e1111665",
+      "name": "沉浸式与互动戏剧"
     },
     {
       "name_en": "Individual Plans of Study",
-      "degree_label": "BALAS",
+      "degree_label": "BALAS or BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/individual-plans-study/",
-      "intake": null,
+      "intake": "2026—2027课程目录；具体入口见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -1294,41 +2533,45 @@
       "source_period": "2026-2027",
       "raw_key": "Individual Plans of Study, BALAS or BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-individual-plans-of-study-b7d3d3d3cd"
+      "id": "uiuc-individual-plans-of-study-b7d3d3d3cd",
+      "entry_route": "在校个别获批的定制学习方案",
+      "name": "个人定制学习计划（学位依批准方案）"
     },
     {
       "name_en": "Industrial Design",
       "degree_label": "BFA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/industrial-design-bfa/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Industrial Design, BFA",
       "entity_type": "bachelor program",
-      "id": "uiuc-industrial-design-38f5f54bb4"
+      "id": "uiuc-industrial-design-38f5f54bb4",
+      "name": "工业设计"
     },
     {
       "name_en": "Industrial Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/industrial-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Industrial Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-industrial-engineering-748869645b"
+      "id": "uiuc-industrial-engineering-748869645b",
+      "name": "工业工程"
     },
     {
       "name_en": "Information Sciences",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-bs/",
-      "intake": null,
+      "intake": "2027秋季；特殊申请见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -1336,41 +2579,44 @@
       "source_period": "2026-2027",
       "raw_key": "Information Sciences, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-information-sciences-851ba5e5f0"
+      "id": "uiuc-information-sciences-851ba5e5f0",
+      "name": "信息科学"
     },
     {
       "name_en": "Information Sciences + Data Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-data-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Information Sciences + Data Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-information-sciences-data-science-f0918593c3"
+      "id": "uiuc-information-sciences-data-science-f0918593c3",
+      "name": "信息科学与数据科学"
     },
     {
       "name_en": "Information Systems",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/information-systems-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Information Systems, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-information-systems-6d72e0f8be"
+      "id": "uiuc-information-systems-6d72e0f8be",
+      "name": "信息系统"
     },
     {
       "name_en": "Innovation, Leadership & Engineering Entrepreneurship",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/innovation-leadership-engineering-entrepreneurship-bs/",
-      "intake": null,
+      "intake": "2026—2027课程目录；具体入口见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -1378,55 +2624,60 @@
       "source_period": "2026-2027",
       "raw_key": "Innovation, Leadership & Engineering Entrepreneurship, BS (ILEE)",
       "entity_type": "bachelor program",
-      "id": "uiuc-innovation-leadership-engineering-entrepreneurship-1ad7036dff"
+      "id": "uiuc-innovation-leadership-engineering-entrepreneurship-1ad7036dff",
+      "entry_route": "符合资格在读学生的第二／双学士学位",
+      "name": "创新、领导与工程创业（第二学位）"
     },
     {
       "name_en": "Instrumental Music",
       "degree_label": "BMUS",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/instrumental-music-bmus/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Instrumental Music, BMUS",
       "entity_type": "bachelor program",
-      "id": "uiuc-instrumental-music-ce0e0c9af3"
+      "id": "uiuc-instrumental-music-ce0e0c9af3",
+      "name": "器乐表演"
     },
     {
       "name_en": "Integrative Biology",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Integrative Biology, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-integrative-biology-de9db885a7"
+      "id": "uiuc-integrative-biology-de9db885a7",
+      "name": "整合生物学"
     },
     {
       "name_en": "Interdisciplinary Health Sciences",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Interdisciplinary Health Sciences, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-interdisciplinary-health-sciences-7f361f6da3"
+      "id": "uiuc-interdisciplinary-health-sciences-7f361f6da3",
+      "name": "跨学科健康科学"
     },
     {
       "name_en": "Interdisciplinary Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/",
-      "intake": null,
+      "intake": "2027秋季；特殊申请见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -1434,13 +2685,14 @@
       "source_period": "2026-2027",
       "raw_key": "Interdisciplinary Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-interdisciplinary-studies-46fdc05791"
+      "id": "uiuc-interdisciplinary-studies-46fdc05791",
+      "name": "跨学科研究"
     },
     {
       "name_en": "Italian",
       "degree_label": "BALAS",
-      "official_url": "https://catalog.illinois.edu/undergraduate/",
-      "intake": null,
+      "official_url": "https://catalog.illinois.edu/undergraduate/las/italian-balas/",
+      "intake": "2027秋季；特殊申请见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -1448,601 +2700,599 @@
       "source_period": "2026-2027",
       "raw_key": "Italian, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-italian-2e0f6ac7d0"
+      "id": "uiuc-italian-2e0f6ac7d0",
+      "name": "意大利语与意大利研究"
     },
     {
       "name_en": "Jazz Performance",
       "degree_label": "BMUS",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/jazz-performance-bmus/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Jazz Performance, BMUS",
       "entity_type": "bachelor program",
-      "id": "uiuc-jazz-performance-26a6514c41"
+      "id": "uiuc-jazz-performance-26a6514c41",
+      "name": "爵士表演"
     },
     {
       "name_en": "Journalism",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/media/journalism-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Journalism, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-journalism-0660886439"
+      "id": "uiuc-journalism-0660886439",
+      "name": "新闻学"
     },
     {
       "name_en": "Kinesiology",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Kinesiology, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-kinesiology-fee455faca"
+      "id": "uiuc-kinesiology-fee455faca",
+      "name": "运动机能学"
     },
     {
       "name_en": "Landscape Architecture",
       "degree_label": "BLA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/landscape-architecture-bla/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Landscape Architecture, BLA",
       "entity_type": "bachelor program",
-      "id": "uiuc-landscape-architecture-072722627a"
+      "id": "uiuc-landscape-architecture-072722627a",
+      "name": "景观建筑学"
     },
     {
       "name_en": "Latin American Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/latin-american-studies-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Latin American Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-latin-american-studies-41b91d3fab"
+      "id": "uiuc-latin-american-studies-41b91d3fab",
+      "name": "拉丁美洲研究"
     },
     {
       "name_en": "Latina/Latino Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/latina-latino-studies-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Latina/Latino Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-latina-latino-studies-81be0cc12f"
+      "id": "uiuc-latina-latino-studies-81be0cc12f",
+      "name": "美国拉丁裔研究"
     },
     {
       "name_en": "Learning & Education Studies",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Learning & Education Studies, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-learning-education-studies-d530fb77f6"
+      "id": "uiuc-learning-education-studies-d530fb77f6",
+      "name": "学习与教育研究"
     },
     {
       "name_en": "Liberal Studies",
       "degree_label": "BLS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/liberal-studies-bls/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
+      "intake": "2026—2027课程目录；具体入口见正文",
+      "duration": "按已修学分与个人计划确定",
+      "campus": "在线教学",
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Liberal Studies, BLS",
       "entity_type": "bachelor program",
-      "id": "uiuc-liberal-studies-4da6ecebd5"
+      "id": "uiuc-liberal-studies-4da6ecebd5",
+      "name": "博雅研究（在线学位完成项目）"
     },
     {
       "name_en": "Linguistics",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/linguistics-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Linguistics, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-linguistics-c929e99a63"
+      "id": "uiuc-linguistics-c929e99a63",
+      "name": "语言学"
     },
     {
       "name_en": "Linguistics and Teaching English as a Second Language (TESL)",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/linguistics-teaching-english-second-language-tesl-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Linguistics and Teaching English as a Second Language (TESL), BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-linguistics-and-teaching-english-as-a-second-language-tesl-620ecaf219"
+      "id": "uiuc-linguistics-and-teaching-english-as-a-second-language-tesl-620ecaf219",
+      "name": "语言学与英语作为第二语言教学"
     },
     {
       "name_en": "Lyric Theatre",
       "degree_label": "BMA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/lyric-theatre-bma/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Lyric Theatre, BMA",
       "entity_type": "bachelor program",
-      "id": "uiuc-lyric-theatre-4d22f21c17"
+      "id": "uiuc-lyric-theatre-4d22f21c17",
+      "name": "抒情戏剧与音乐舞台艺术"
     },
     {
       "name_en": "Management",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/management-business-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Management, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-management-8ddda065fd"
+      "id": "uiuc-management-8ddda065fd",
+      "name": "管理学"
     },
     {
       "name_en": "Marketing",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/marketing-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Marketing, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-marketing-0d04fb9bad"
+      "id": "uiuc-marketing-0d04fb9bad",
+      "name": "市场营销"
     },
     {
       "name_en": "Materials Science & Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Materials Science & Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-materials-science-engineering-410c651dbc"
+      "id": "uiuc-materials-science-engineering-410c651dbc",
+      "name": "材料科学与工程"
     },
     {
       "name_en": "Materials Science & Engineering + Data Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-data-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Materials Science & Engineering + Data Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-materials-science-engineering-data-science-527acce06d"
+      "id": "uiuc-materials-science-engineering-data-science-527acce06d",
+      "name": "材料科学与工程及数据科学"
     },
     {
       "name_en": "Mathematics",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Mathematics, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-mathematics-65f4f53da0"
+      "id": "uiuc-mathematics-65f4f53da0",
+      "name": "数学"
     },
     {
       "name_en": "Mathematics & Computer Science",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Mathematics & Computer Science, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-mathematics-computer-science-14e266656f"
+      "id": "uiuc-mathematics-computer-science-14e266656f",
+      "name": "数学与计算机科学"
     },
     {
       "name_en": "Mechanical Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/mechanical-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Mechanical Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-mechanical-engineering-8582cf61ea"
+      "id": "uiuc-mechanical-engineering-8582cf61ea",
+      "name": "机械工程"
     },
     {
       "name_en": "Media",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/media/media-ba/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
+      "intake": "2026—2027课程目录；具体入口见正文",
+      "duration": "按已修学分与个人计划确定",
+      "campus": "在线教学",
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Media, BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-media-c5976ceff3"
+      "id": "uiuc-media-c5976ceff3",
+      "name": "传媒（在线学位完成项目）"
     },
     {
       "name_en": "Media & Cinema Studies",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/media/media-cinema-studies-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Media & Cinema Studies, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-media-cinema-studies-510ca213db"
+      "id": "uiuc-media-cinema-studies-510ca213db",
+      "name": "媒介与电影研究"
     },
     {
       "name_en": "Middle Grades Education",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Middle Grades Education, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-middle-grades-education-255fe7f508"
+      "id": "uiuc-middle-grades-education-255fe7f508",
+      "name": "初中阶段教育（五至八年级）"
     },
     {
       "name_en": "Molecular & Cellular Biology",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Molecular & Cellular Biology, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-molecular-cellular-biology-1448bb36e7"
+      "id": "uiuc-molecular-cellular-biology-1448bb36e7",
+      "name": "分子与细胞生物学"
     },
     {
       "name_en": "Molecular and Cellular Biology + Data Science",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-data-science-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Molecular and Cellular Biology + Data Science, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-molecular-and-cellular-biology-data-science-60cb6e035e"
+      "id": "uiuc-molecular-and-cellular-biology-data-science-60cb6e035e",
+      "name": "分子与细胞生物学及数据科学"
     },
     {
       "name_en": "Music",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/music-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Music, BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-music-4deb187df9"
-    },
-    {
-      "name_en": "Music - Computer Science & Music",
-      "degree_label": "BS",
-      "official_url": "https://catalog.illinois.edu/undergraduate/eng_faa/computer-science-music-bs/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
-      "source_period": "2026-2027",
-      "raw_key": "Music - Computer Science & Music, BS",
-      "entity_type": "bachelor program",
-      "id": "uiuc-music-computer-science-music-4b3027fb37"
-    },
-    {
-      "name_en": "Music - Instrumental Music",
-      "degree_label": "BMUS",
-      "official_url": "https://catalog.illinois.edu/undergraduate/faa/instrumental-music-bmus/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
-      "source_period": "2026-2027",
-      "raw_key": "Music - Instrumental Music, BMUS",
-      "entity_type": "bachelor program",
-      "id": "uiuc-music-instrumental-music-87398b4e7c"
-    },
-    {
-      "name_en": "Music - Jazz Performance",
-      "degree_label": "BMUS",
-      "official_url": "https://catalog.illinois.edu/undergraduate/faa/jazz-performance-bmus/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
-      "source_period": "2026-2027",
-      "raw_key": "Music - Jazz Performance, BMUS",
-      "entity_type": "bachelor program",
-      "id": "uiuc-music-jazz-performance-96a7885a3d"
+      "id": "uiuc-music-4deb187df9",
+      "name": "音乐（BA）"
     },
     {
       "name_en": "Music - Open Studies",
       "degree_label": "BMUS",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/music-open-studies-bmus/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Music - Open Studies, BMUS",
       "entity_type": "bachelor program",
-      "id": "uiuc-music-open-studies-6090c417b1"
+      "id": "uiuc-music-open-studies-6090c417b1",
+      "name": "音乐开放研究（BMUS）"
     },
     {
       "name_en": "Music - Voice",
       "degree_label": "BMUS",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/voice-bmus/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Music - Voice, BMUS",
       "entity_type": "bachelor program",
-      "id": "uiuc-music-voice-d8969ec7a3"
+      "id": "uiuc-music-voice-d8969ec7a3",
+      "name": "声乐表演"
     },
     {
       "name_en": "Music Composition",
       "degree_label": "BMUS",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/music-composition-bmus/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Music Composition, BMUS",
       "entity_type": "bachelor program",
-      "id": "uiuc-music-composition-6be722c775"
+      "id": "uiuc-music-composition-6be722c775",
+      "name": "音乐作曲"
     },
     {
       "name_en": "Music Education",
       "degree_label": "BME",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/music-education-bme/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Music Education, BME",
       "entity_type": "bachelor program",
-      "id": "uiuc-music-education-bb9e233cc3"
+      "id": "uiuc-music-education-bb9e233cc3",
+      "name": "音乐教育"
     },
     {
       "name_en": "Musicology",
       "degree_label": "BMUS",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/musicology-bmus/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Musicology, BMUS",
       "entity_type": "bachelor program",
-      "id": "uiuc-musicology-510a22f134"
+      "id": "uiuc-musicology-510a22f134",
+      "name": "音乐学（BMUS）"
     },
     {
       "name_en": "Natural Resources & Environmental Sciences",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Natural Resources & Environmental Sciences, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-natural-resources-environmental-sciences-f092fcb3e7"
+      "id": "uiuc-natural-resources-environmental-sciences-f092fcb3e7",
+      "name": "自然资源与环境科学"
     },
     {
       "name_en": "Neural Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/neural-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Neural Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-neural-engineering-55ba138bc9"
+      "id": "uiuc-neural-engineering-55ba138bc9",
+      "name": "神经工程"
     },
     {
       "name_en": "Neuroscience",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/neuroscience-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Neuroscience, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-neuroscience-eff2f96309"
+      "id": "uiuc-neuroscience-eff2f96309",
+      "name": "神经科学"
     },
     {
       "name_en": "Nuclear, Plasma, & Radiological Engineering",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Nuclear, Plasma, & Radiological Engineering, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-nuclear-plasma-radiological-engineering-bd4763cac0"
+      "id": "uiuc-nuclear-plasma-radiological-engineering-bd4763cac0",
+      "name": "核、等离子体与放射工程"
     },
     {
       "name_en": "Nuclear, Plasma, and Radiological Engineering + Data Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-data-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Nuclear, Plasma, and Radiological Engineering + Data Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-nuclear-plasma-and-radiological-engineering-data-science-c752de6206"
+      "id": "uiuc-nuclear-plasma-and-radiological-engineering-data-science-c752de6206",
+      "name": "核、等离子体与放射工程及数据科学"
     },
     {
       "name_en": "Nutrition and Health",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/nutrition-health-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Nutrition and Health, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-nutrition-and-health-8417692fde"
+      "id": "uiuc-nutrition-and-health-8417692fde",
+      "name": "营养与健康"
     },
     {
       "name_en": "Operations Management",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/operations-management-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Operations Management, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-operations-management-ee4f682308"
+      "id": "uiuc-operations-management-ee4f682308",
+      "name": "运营管理"
     },
     {
       "name_en": "Philosophy",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/philosophy-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Philosophy, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-philosophy-14a7963d7e"
+      "id": "uiuc-philosophy-14a7963d7e",
+      "name": "哲学"
     },
     {
       "name_en": "Physics",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/physics-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Physics, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-physics-5d797e7fdd"
+      "id": "uiuc-physics-5d797e7fdd",
+      "name": "物理学"
     },
     {
       "name_en": "Plant Biotechnology",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/plant-biotechnology-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Plant Biotechnology, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-plant-biotechnology-888897ac59"
+      "id": "uiuc-plant-biotechnology-888897ac59",
+      "name": "植物生物技术"
     },
     {
       "name_en": "Political Science",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/",
-      "intake": null,
+      "intake": "2027秋季；特殊申请见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -2050,125 +3300,134 @@
       "source_period": "2026-2027",
       "raw_key": "Political Science, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-political-science-cee58d2db4"
+      "id": "uiuc-political-science-cee58d2db4",
+      "name": "政治学"
     },
     {
       "name_en": "Portuguese",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/portuguese-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Portuguese, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-portuguese-26e2244459"
+      "id": "uiuc-portuguese-26e2244459",
+      "name": "葡萄牙语与葡语文化"
     },
     {
       "name_en": "Psychology",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Psychology, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-psychology-60a99b3771"
+      "id": "uiuc-psychology-60a99b3771",
+      "name": "心理学"
     },
     {
       "name_en": "Public Health",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/ahs/public-health-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Public Health, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-public-health-4f21e940d5"
+      "id": "uiuc-public-health-4f21e940d5",
+      "name": "公共卫生"
     },
     {
       "name_en": "Public Policy and Law",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/public-policy-law-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "目录称 2027 春季起招生",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Public Policy and Law, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-public-policy-and-law-36bd190815"
+      "id": "uiuc-public-policy-and-law-36bd190815",
+      "name": "公共政策与法律"
     },
     {
       "name_en": "Recreation, Sport & Tourism",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Recreation, Sport & Tourism, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-recreation-sport-tourism-1465214f52"
+      "id": "uiuc-recreation-sport-tourism-1465214f52",
+      "name": "休闲、体育与旅游"
     },
     {
       "name_en": "Religion",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/religion-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Religion, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-religion-065b6bc0bc"
+      "id": "uiuc-religion-065b6bc0bc",
+      "name": "宗教学"
     },
     {
       "name_en": "Russian, East European, & Eurasian Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/russian-east-european-eurasian-studies-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Russian, East European, & Eurasian Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-russian-east-european-eurasian-studies-da04232daa"
+      "id": "uiuc-russian-east-european-eurasian-studies-da04232daa",
+      "name": "俄罗斯、东欧与欧亚研究"
     },
     {
       "name_en": "Secondary Education",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Secondary Education, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-secondary-education-299aba90c6"
+      "id": "uiuc-secondary-education-299aba90c6",
+      "name": "中学教育（数学方向）"
     },
     {
       "name_en": "Slavic Studies",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/",
-      "intake": null,
+      "intake": "2027秋季；特殊申请见正文",
       "duration": null,
       "campus": null,
       "language": null,
@@ -2176,329 +3435,278 @@
       "source_period": "2026-2027",
       "raw_key": "Slavic Studies, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-slavic-studies-412e5a6608"
+      "id": "uiuc-slavic-studies-412e5a6608",
+      "name": "斯拉夫语言与文化研究"
     },
     {
       "name_en": "Social Work",
       "degree_label": "BSW",
       "official_url": "https://catalog.illinois.edu/undergraduate/socw/social-work-bsw/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
+      "campus": "Urbana 校园；另有 iBSW 完成路线",
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Social Work, BSW",
       "entity_type": "bachelor program",
-      "id": "uiuc-social-work-52e2930bf1"
+      "id": "uiuc-social-work-52e2930bf1",
+      "name": "社会工作"
     },
     {
       "name_en": "Sociology",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/sociology-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Sociology, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-sociology-bc2926e03f"
+      "id": "uiuc-sociology-bc2926e03f",
+      "name": "社会学"
     },
     {
       "name_en": "Spanish",
       "degree_label": "BALAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/spanish-balas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Spanish, BALAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-spanish-b30ba5267d"
+      "id": "uiuc-spanish-b30ba5267d",
+      "name": "西班牙语"
     },
     {
       "name_en": "Spanish (Teaching)",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/teaching-spanish-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2026—2027课程目录；具体入口见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Spanish (Teaching), BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-spanish-teaching-cae1cf9278"
+      "id": "uiuc-spanish-teaching-cae1cf9278",
+      "name": "西班牙语教学"
     },
     {
       "name_en": "Special Education",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/education/special-education-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Special Education, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-special-education-3c82f42b23"
+      "id": "uiuc-special-education-3c82f42b23",
+      "name": "特殊教育"
     },
     {
       "name_en": "Speech & Hearing Science",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Speech & Hearing Science, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-speech-hearing-science-80aa1db85c"
+      "id": "uiuc-speech-hearing-science-80aa1db85c",
+      "name": "言语与听力科学"
     },
     {
       "name_en": "Sports Media",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/media/sports-media-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Sports Media, BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-sports-media-11bf3676d6"
+      "id": "uiuc-sports-media-11bf3676d6",
+      "name": "体育传媒"
     },
     {
       "name_en": "Statistics",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/las/academic-units/stats/statistics-major/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Statistics, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-statistics-8306c879a8"
+      "id": "uiuc-statistics-8306c879a8",
+      "name": "统计学"
     },
     {
       "name_en": "Statistics & Computer Science",
       "degree_label": "BSLAS",
       "official_url": "https://catalog.illinois.edu/undergraduate/eng_las/statistics-computer-science-bslas/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Statistics & Computer Science, BSLAS",
       "entity_type": "bachelor program",
-      "id": "uiuc-statistics-computer-science-865c6c45a2"
+      "id": "uiuc-statistics-computer-science-865c6c45a2",
+      "name": "统计学与计算机科学"
     },
     {
       "name_en": "Strategy, Innovation and Entrepreneurship",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/strategy-innovation-entrepreneurship-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Strategy, Innovation and Entrepreneurship, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-strategy-innovation-and-entrepreneurship-120068efde"
+      "id": "uiuc-strategy-innovation-and-entrepreneurship-120068efde",
+      "name": "战略、创新与创业"
     },
     {
       "name_en": "Studio Art",
       "degree_label": "BASA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-basa/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Studio Art, BASA",
       "entity_type": "bachelor program",
-      "id": "uiuc-studio-art-06dc5ce09a"
+      "id": "uiuc-studio-art-06dc5ce09a",
+      "name": "工作室艺术（BASA）"
     },
     {
       "name_en": "Studio Art",
       "degree_label": "BFASA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Studio Art, BFASA",
       "entity_type": "bachelor program",
-      "id": "uiuc-studio-art-804f0f39ad"
+      "id": "uiuc-studio-art-804f0f39ad",
+      "name": "工作室艺术（BFASA）"
     },
     {
       "name_en": "Supply Chain Management",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/bus/supply-chain-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Supply Chain Management, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-supply-chain-management-ef5e79d6b9"
+      "id": "uiuc-supply-chain-management-ef5e79d6b9",
+      "name": "供应链管理"
     },
     {
       "name_en": "Sustainability in Food & Environmental Systems",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/aces/sustainability-food-environmental-systems-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Sustainability in Food & Environmental Systems, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-sustainability-in-food-environmental-systems-1c03c570ba"
+      "id": "uiuc-sustainability-in-food-environmental-systems-1c03c570ba",
+      "name": "食品与环境系统可持续性"
     },
     {
       "name_en": "Sustainable Design",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/sustainable-design-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Sustainable Design, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-sustainable-design-b34e83aeed"
+      "id": "uiuc-sustainable-design-b34e83aeed",
+      "name": "可持续设计"
     },
     {
       "name_en": "Systems Engineering and Design",
       "degree_label": "BS",
       "official_url": "https://catalog.illinois.edu/undergraduate/engineering/systems-engineering-design-bs/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Systems Engineering and Design, BS",
       "entity_type": "bachelor program",
-      "id": "uiuc-systems-engineering-and-design-0856aa7f9e"
-    },
-    {
-      "name_en": "Teaching - Middle Grades Education",
-      "degree_label": "BS",
-      "official_url": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
-      "source_period": "2026-2027",
-      "raw_key": "Teaching - Middle Grades Education, BS",
-      "entity_type": "bachelor program",
-      "id": "uiuc-teaching-middle-grades-education-83a62fe5b4"
-    },
-    {
-      "name_en": "Teaching of French",
-      "degree_label": "BA",
-      "official_url": "https://catalog.illinois.edu/undergraduate/las/teaching-french-ba/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
-      "source_period": "2026-2027",
-      "raw_key": "Teaching of French, BA",
-      "entity_type": "bachelor program",
-      "id": "uiuc-teaching-of-french-f1a7a1564d"
-    },
-    {
-      "name_en": "Teaching of German",
-      "degree_label": "BA",
-      "official_url": "https://catalog.illinois.edu/undergraduate/las/teaching-german-ba/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
-      "source_period": "2026-2027",
-      "raw_key": "Teaching of German, BA",
-      "entity_type": "bachelor program",
-      "id": "uiuc-teaching-of-german-918b053361"
-    },
-    {
-      "name_en": "Teaching of Spanish",
-      "degree_label": "BA",
-      "official_url": "https://catalog.illinois.edu/undergraduate/las/teaching-spanish-ba/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
-      "source_period": "2026-2027",
-      "raw_key": "Teaching of Spanish, BA",
-      "entity_type": "bachelor program",
-      "id": "uiuc-teaching-of-spanish-c83b9b447e"
+      "id": "uiuc-systems-engineering-and-design-0856aa7f9e",
+      "name": "系统工程与设计"
     },
     {
       "name_en": "Theatre",
       "degree_label": "BFA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Theatre, BFA",
       "entity_type": "bachelor program",
-      "id": "uiuc-theatre-34ee242e96"
+      "id": "uiuc-theatre-34ee242e96",
+      "name": "戏剧（BFA）"
     },
     {
       "name_en": "Urban Studies & Planning",
       "degree_label": "BA",
       "official_url": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/",
-      "intake": null,
-      "duration": null,
+      "intake": "2027秋季；特殊申请见正文",
+      "duration": "4 年示例安排",
       "campus": null,
       "language": null,
       "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
       "source_period": "2026-2027",
       "raw_key": "Urban Studies & Planning, BA",
       "entity_type": "bachelor program",
-      "id": "uiuc-urban-studies-planning-d2fa51621b"
-    },
-    {
-      "name_en": "Voice",
-      "degree_label": "BMUS",
-      "official_url": "https://catalog.illinois.edu/undergraduate/faa/voice-bmus/",
-      "intake": null,
-      "duration": null,
-      "campus": null,
-      "language": null,
-      "discovery_source_url": "https://catalog.illinois.edu/undergraduate/",
-      "source_period": "2026-2027",
-      "raw_key": "Voice, BMUS",
-      "entity_type": "bachelor program",
-      "id": "uiuc-voice-6976ad4fb5"
+      "id": "uiuc-urban-studies-planning-d2fa51621b",
+      "name": "城市研究与规划"
     }
   ]
 }

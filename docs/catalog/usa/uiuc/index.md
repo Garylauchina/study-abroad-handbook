@@ -23,188 +23,180 @@ hide:
 
 ## 专业与申请资料
 
-177 个专业条目 · 0 个含详细资料 · 44 个补有专业资料 · 133 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+169 个专业条目 · 0 个含详细资料 · 169 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=uiuc#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-accountancy-55a3d94490/">Accountancy</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-accountancy-data-science-5f06cbff3a/">Accountancy + Data Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-actuarial-science-616c60d495/">Actuarial Science</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-advertising-670009185f/">Advertising</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-aerospace-engineering-c7566364ef/">Aerospace Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-african-american-studies-33f0a28333/">African American Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-dc845cf8b6/">Agricultural &amp; Biological Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-bs-and-agricultural-biologica-374b1a90f7/">Agricultural &amp; Biological Engineering, BS and Agricultural &amp; Biological Engineering, BSAG</a><small>BS + BSAG · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-46a18688bc/">Agricultural &amp; Consumer Economics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-leadership-education-communications-a41f06f88f/">Agricultural Leadership, Education, &amp; Communications</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agronomy-7f15226466/">Agronomy</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-animal-sciences-d653dd92d0/">Animal Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-anthropology-c8aa6f81f4/">Anthropology</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-architectural-studies-8b7717f353/">Architectural Studies</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-art-art-history-9dce0b3453/">Art &amp; Art History</a><small>BFA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-art-education-b3e787b233/">Art Education</a><small>BFA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-art-history-40a7599df2/">Art History</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-asian-american-studies-ca428e1d92/">Asian American Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-astronomy-50ef6b89b4/">Astronomy</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-astronomy-data-science-fa966556ac/">Astronomy + Data Science</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-astrophysics-467fc0ce42/">Astrophysics</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-atmospheric-sciences-c6bae604b5/">Atmospheric Sciences</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-biochemistry-ef895f9582/">Biochemistry</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-bioengineering-a89c1f1285/">Bioengineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-brain-cognitive-science-c681b9492c/">Brain &amp; Cognitive Science</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-business-data-science-a88ea69551/">Business + Data Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemical-engineering-f790996ae3/">Chemical Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemical-engineering-data-science-ba9fd1b827/">Chemical Engineering + Data Science</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemistry-11f0606f35/">Chemistry</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemistry-38bb19d63e/">Chemistry</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-civil-engineering-d696e665f2/">Civil Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-classics-bd58821b73/">Classics</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-communication-95723148f7/">Communication</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-community-health-55c1630a3c/">Community Health</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-comparative-world-literature-f5fad60852/">Comparative &amp; World Literature</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-engineering-01e41e9aea/">Computer Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-8ff4e0100e/">Computer Science</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-advertising-4c7d6d8f9b/">Computer Science + Advertising</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-animal-sciences-b50b616987/">Computer Science + Animal Sciences</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-anthropology-d639bd8644/">Computer Science + Anthropology</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-astronomy-0aece923fd/">Computer Science + Astronomy</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-bioengineering-303ce3fce5/">Computer Science + Bioengineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-chemistry-2cf843090f/">Computer Science + Chemistry</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-crop-sciences-3c503f6204/">Computer Science + Crop Sciences</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-economics-7b1dc0b2ba/">Computer Science + Economics</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-education-12d8497d41/">Computer Science + Education</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-geography-geographic-information-science-3dd6a40aeb/">Computer Science + Geography &amp; Geographic Information Science</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-linguistics-5245fb2d74/">Computer Science + Linguistics</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-music-db532a7167/">Computer Science + Music</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-philosophy-0a31506b98/">Computer Science + Philosophy</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-physics-c03001cf27/">Computer Science + Physics</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-creative-writing-46de9cd21b/">Creative Writing</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-crop-sciences-213f0214f2/">Crop Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dance-affd9c70e5/">Dance</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dance-deeb13b7c8/">Dance</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dance-6341a0c133/">Dance</a><small>BFA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dietetics-and-nutrition-0c29d237b7/">Dietetics and Nutrition</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-early-childhood-education-89f754ea39/">Early Childhood Education</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-earth-society-environmental-sustainability-bfd33abd76/">Earth, Society, &amp; Environmental Sustainability</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-east-asian-languages-cultures-b3fdccb463/">East Asian Languages &amp; Cultures</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-econometrics-quantitative-economics-32a6f7660d/">Econometrics &amp; Quantitative Economics</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-economics-d837bb2326/">Economics</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-electrical-engineering-05ed836e37/">Electrical Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-elementary-education-943b1b83f1/">Elementary Education</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-mechanics-c965dc7329/">Engineering Mechanics</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-for-agricultural-systems-1825a12650/">Engineering Technology &amp; Management for Agricultural Systems</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-english-eb99190475/">English</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-environmental-engineering-452bf1530a/">Environmental Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-environmental-sustainability-f2468e6709/">Environmental Sustainability</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-finance-3e5fe773ba/">Finance</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-finance-data-science-bdfa17331e/">Finance + Data Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-financial-planning-e991fc5214/">Financial Planning</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-fine-and-applied-arts-1e8a53b10f/">Fine and Applied Arts</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-food-science-832d52acae/">Food Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-french-0f03284edc/">French</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-french-teaching-0b305745c8/">French (Teaching)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-gender-women-s-studies-2ad415b266/">Gender &amp; Women&#x27;s Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-science-0f53873b65/">Geography &amp; Geographic Information Science</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-science-314c122a78/">Geography &amp; Geographic Information Science</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-d380bca50c/">Geology</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-774cdde895/">Geology</a><small>BSLAS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-german-teaching-1de3a60468/">German (Teaching)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-germanic-studies-64273911d6/">Germanic Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-global-studies-4fe9be2dbb/">Global Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-graphic-design-573182992d/">Graphic Design</a><small>BFA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-hip-hop-culture-and-the-arts-5605c73239/">Hip Hop Culture and the Arts</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-history-7cfdb62f06/">History</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-hospitality-management-46f344b913/">Hospitality Management</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-human-development-family-studies-b2f3bc973c/">Human Development &amp; Family Studies</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-immersive-interactive-theatre-73e1111665/">Immersive &amp; Interactive Theatre</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-individual-plans-of-study-b7d3d3d3cd/">Individual Plans of Study</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-industrial-design-38f5f54bb4/">Industrial Design</a><small>BFA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-industrial-engineering-748869645b/">Industrial Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-information-sciences-851ba5e5f0/">Information Sciences</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-information-sciences-data-science-f0918593c3/">Information Sciences + Data Science</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-information-systems-6d72e0f8be/">Information Systems</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-innovation-leadership-engineering-entrepreneurship-1ad7036dff/">Innovation, Leadership &amp; Engineering Entrepreneurship</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-instrumental-music-ce0e0c9af3/">Instrumental Music</a><small>BMUS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-integrative-biology-de9db885a7/">Integrative Biology</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-7f361f6da3/">Interdisciplinary Health Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-studies-46fdc05791/">Interdisciplinary Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-italian-2e0f6ac7d0/">Italian</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-jazz-performance-26a6514c41/">Jazz Performance</a><small>BMUS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-journalism-0660886439/">Journalism</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-kinesiology-fee455faca/">Kinesiology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-landscape-architecture-072722627a/">Landscape Architecture</a><small>BLA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-latin-american-studies-41b91d3fab/">Latin American Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-latina-latino-studies-81be0cc12f/">Latina/Latino Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-learning-education-studies-d530fb77f6/">Learning &amp; Education Studies</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-liberal-studies-4da6ecebd5/">Liberal Studies</a><small>BLS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-linguistics-c929e99a63/">Linguistics</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-linguistics-and-teaching-english-as-a-second-language-tesl-620ecaf219/">Linguistics and Teaching English as a Second Language (TESL)</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-lyric-theatre-4d22f21c17/">Lyric Theatre</a><small>BMA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-management-8ddda065fd/">Management</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-marketing-0d04fb9bad/">Marketing</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-materials-science-engineering-410c651dbc/">Materials Science &amp; Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-materials-science-engineering-data-science-527acce06d/">Materials Science &amp; Engineering + Data Science</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-65f4f53da0/">Mathematics</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-computer-science-14e266656f/">Mathematics &amp; Computer Science</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mechanical-engineering-8582cf61ea/">Mechanical Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-media-c5976ceff3/">Media</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-media-cinema-studies-510ca213db/">Media &amp; Cinema Studies</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-255fe7f508/">Middle Grades Education</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-molecular-cellular-biology-1448bb36e7/">Molecular &amp; Cellular Biology</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-molecular-and-cellular-biology-data-science-60cb6e035e/">Molecular and Cellular Biology + Data Science</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-4deb187df9/">Music</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-computer-science-music-4b3027fb37/">Music - Computer Science &amp; Music</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-instrumental-music-87398b4e7c/">Music - Instrumental Music</a><small>BMUS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-jazz-performance-96a7885a3d/">Music - Jazz Performance</a><small>BMUS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-open-studies-6090c417b1/">Music - Open Studies</a><small>BMUS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-voice-d8969ec7a3/">Music - Voice</a><small>BMUS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-composition-6be722c775/">Music Composition</a><small>BMUS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-education-bb9e233cc3/">Music Education</a><small>BME · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-musicology-510a22f134/">Musicology</a><small>BMUS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-natural-resources-environmental-sciences-f092fcb3e7/">Natural Resources &amp; Environmental Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-neural-engineering-55ba138bc9/">Neural Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-neuroscience-eff2f96309/">Neuroscience</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-radiological-engineering-bd4763cac0/">Nuclear, Plasma, &amp; Radiological Engineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-and-radiological-engineering-data-science-c752de6206/">Nuclear, Plasma, and Radiological Engineering + Data Science</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nutrition-and-health-8417692fde/">Nutrition and Health</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-operations-management-ee4f682308/">Operations Management</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-philosophy-14a7963d7e/">Philosophy</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-physics-5d797e7fdd/">Physics</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-plant-biotechnology-888897ac59/">Plant Biotechnology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-cee58d2db4/">Political Science</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-portuguese-26e2244459/">Portuguese</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-60a99b3771/">Psychology</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-4f21e940d5/">Public Health</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-policy-and-law-36bd190815/">Public Policy and Law</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-recreation-sport-tourism-1465214f52/">Recreation, Sport &amp; Tourism</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-religion-065b6bc0bc/">Religion</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-russian-east-european-eurasian-studies-da04232daa/">Russian, East European, &amp; Eurasian Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-secondary-education-299aba90c6/">Secondary Education</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-slavic-studies-412e5a6608/">Slavic Studies</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-social-work-52e2930bf1/">Social Work</a><small>BSW · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sociology-bc2926e03f/">Sociology</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-spanish-b30ba5267d/">Spanish</a><small>BALAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-spanish-teaching-cae1cf9278/">Spanish (Teaching)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-special-education-3c82f42b23/">Special Education</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-speech-hearing-science-80aa1db85c/">Speech &amp; Hearing Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sports-media-11bf3676d6/">Sports Media</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-statistics-8306c879a8/">Statistics</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-statistics-computer-science-865c6c45a2/">Statistics &amp; Computer Science</a><small>BSLAS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-strategy-innovation-and-entrepreneurship-120068efde/">Strategy, Innovation and Entrepreneurship</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-06dc5ce09a/">Studio Art</a><small>BASA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-804f0f39ad/">Studio Art</a><small>BFASA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-supply-chain-management-ef5e79d6b9/">Supply Chain Management</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sustainability-in-food-environmental-systems-1c03c570ba/">Sustainability in Food &amp; Environmental Systems</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sustainable-design-b34e83aeed/">Sustainable Design</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-systems-engineering-and-design-0856aa7f9e/">Systems Engineering and Design</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-teaching-middle-grades-education-83a62fe5b4/">Teaching - Middle Grades Education</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-teaching-of-french-f1a7a1564d/">Teaching of French</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-teaching-of-german-918b053361/">Teaching of German</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-teaching-of-spanish-c83b9b447e/">Teaching of Spanish</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-34ee242e96/">Theatre</a><small>BFA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-urban-studies-planning-d2fa51621b/">Urban Studies &amp; Planning</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-voice-6976ad4fb5/">Voice</a><small>BMUS · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-accountancy-55a3d94490/">会计学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-accountancy-data-science-5f06cbff3a/">会计学与数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-actuarial-science-616c60d495/">精算学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-advertising-670009185f/">广告学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-aerospace-engineering-c7566364ef/">航空航天工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-african-american-studies-33f0a28333/">非裔美国人研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-dc845cf8b6/">农业与生物工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-biological-engineering-bs-and-agricultural-biologica-374b1a90f7/">农业与生物工程（BS／BSAG 双学位）</a><small>BS + BSAG · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-consumer-economics-46a18688bc/">农业与消费者经济学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agricultural-leadership-education-communications-a41f06f88f/">农业领导、教育与传播</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-agronomy-7f15226466/">农学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-animal-sciences-d653dd92d0/">动物科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-anthropology-c8aa6f81f4/">人类学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-architectural-studies-8b7717f353/">建筑研究</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-art-art-history-9dce0b3453/">艺术与艺术史</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-art-education-b3e787b233/">艺术教育</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-art-history-40a7599df2/">艺术史</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-asian-american-studies-ca428e1d92/">亚裔美国人研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-astronomy-50ef6b89b4/">天文学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-astronomy-data-science-fa966556ac/">天文学与数据科学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-astrophysics-467fc0ce42/">天体物理学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-atmospheric-sciences-c6bae604b5/">大气科学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-biochemistry-ef895f9582/">生物化学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-bioengineering-a89c1f1285/">生物工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-brain-cognitive-science-c681b9492c/">脑与认知科学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-business-data-science-a88ea69551/">商科与数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemical-engineering-f790996ae3/">化学工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemical-engineering-data-science-ba9fd1b827/">化学工程与数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemistry-11f0606f35/">化学（专业型 BS）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-chemistry-38bb19d63e/">化学（BSLAS）</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-civil-engineering-d696e665f2/">土木工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-classics-bd58821b73/">古典学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-communication-95723148f7/">传播学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-community-health-55c1630a3c/">社区健康（暂停招生的历史项目）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-comparative-world-literature-f5fad60852/">比较文学与世界文学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-engineering-01e41e9aea/">计算机工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-8ff4e0100e/">计算机科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-advertising-4c7d6d8f9b/">计算机科学与广告学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-animal-sciences-b50b616987/">计算机科学与动物科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-anthropology-d639bd8644/">计算机科学与人类学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-astronomy-0aece923fd/">计算机科学与天文学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-bioengineering-303ce3fce5/">计算机科学与生物工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-chemistry-2cf843090f/">计算机科学与化学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-crop-sciences-3c503f6204/">计算机科学与作物科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-economics-7b1dc0b2ba/">计算机科学与经济学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-education-12d8497d41/">计算机科学与教育</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-geography-geographic-information-science-3dd6a40aeb/">计算机科学、地理与地理信息科学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-linguistics-5245fb2d74/">计算机科学与语言学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-music-db532a7167/">计算机科学与音乐</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-philosophy-0a31506b98/">计算机科学与哲学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-computer-science-physics-c03001cf27/">计算机科学与物理学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-creative-writing-46de9cd21b/">创意写作</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-crop-sciences-213f0214f2/">作物科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dance-affd9c70e5/">舞蹈（BA）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dance-6341a0c133/">舞蹈（BFA）</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dance-deeb13b7c8/">舞蹈与运动机能学（BA／BS 双学位）</a><small>BA + BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-dietetics-and-nutrition-0c29d237b7/">膳食与营养学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-early-childhood-education-89f754ea39/">幼儿教育</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-earth-society-environmental-sustainability-bfd33abd76/">地球、社会与环境可持续性（暂停招生的历史项目）</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-east-asian-languages-cultures-b3fdccb463/">东亚语言与文化</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-econometrics-quantitative-economics-32a6f7660d/">计量经济学与数量经济学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-economics-d837bb2326/">经济学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-electrical-engineering-05ed836e37/">电气工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-elementary-education-943b1b83f1/">小学教育</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-mechanics-c965dc7329/">工程力学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-engineering-technology-management-for-agricultural-systems-1825a12650/">农业系统工程技术与管理</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-english-eb99190475/">英语文学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-environmental-engineering-452bf1530a/">环境工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-environmental-sustainability-f2468e6709/">环境可持续性</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-finance-3e5fe773ba/">金融学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-finance-data-science-bdfa17331e/">金融学与数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-financial-planning-e991fc5214/">个人财务规划</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-fine-and-applied-arts-1e8a53b10f/">美术与应用艺术（在线学位完成项目）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-food-science-832d52acae/">食品科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-french-0f03284edc/">法语</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-french-teaching-0b305745c8/">法语教学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-gender-women-s-studies-2ad415b266/">性别与妇女研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-science-0f53873b65/">地理与地理信息科学（BA）</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geography-geographic-information-science-314c122a78/">地理与地理信息科学（BSLAS）</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-d380bca50c/">地质学（专业型 BS）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-geology-774cdde895/">地质学（BSLAS）</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-german-teaching-1de3a60468/">德语教学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-germanic-studies-64273911d6/">日耳曼语言与文化研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-global-studies-4fe9be2dbb/">全球研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-graphic-design-573182992d/">平面设计</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-hip-hop-culture-and-the-arts-5605c73239/">嘻哈文化与艺术</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-history-7cfdb62f06/">历史学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-hospitality-management-46f344b913/">酒店与餐旅管理</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-human-development-family-studies-b2f3bc973c/">人类发展与家庭研究</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-immersive-interactive-theatre-73e1111665/">沉浸式与互动戏剧</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-individual-plans-of-study-b7d3d3d3cd/">个人定制学习计划（学位依批准方案）</a><small>BALAS or BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-industrial-design-38f5f54bb4/">工业设计</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-industrial-engineering-748869645b/">工业工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-information-sciences-851ba5e5f0/">信息科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-information-sciences-data-science-f0918593c3/">信息科学与数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-information-systems-6d72e0f8be/">信息系统</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-innovation-leadership-engineering-entrepreneurship-1ad7036dff/">创新、领导与工程创业（第二学位）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-instrumental-music-ce0e0c9af3/">器乐表演</a><small>BMUS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-integrative-biology-de9db885a7/">整合生物学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-health-sciences-7f361f6da3/">跨学科健康科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-interdisciplinary-studies-46fdc05791/">跨学科研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-italian-2e0f6ac7d0/">意大利语与意大利研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-jazz-performance-26a6514c41/">爵士表演</a><small>BMUS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-journalism-0660886439/">新闻学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-kinesiology-fee455faca/">运动机能学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-landscape-architecture-072722627a/">景观建筑学</a><small>BLA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-latin-american-studies-41b91d3fab/">拉丁美洲研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-latina-latino-studies-81be0cc12f/">美国拉丁裔研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-learning-education-studies-d530fb77f6/">学习与教育研究</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-liberal-studies-4da6ecebd5/">博雅研究（在线学位完成项目）</a><small>BLS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-linguistics-c929e99a63/">语言学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-linguistics-and-teaching-english-as-a-second-language-tesl-620ecaf219/">语言学与英语作为第二语言教学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-lyric-theatre-4d22f21c17/">抒情戏剧与音乐舞台艺术</a><small>BMA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-management-8ddda065fd/">管理学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-marketing-0d04fb9bad/">市场营销</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-materials-science-engineering-410c651dbc/">材料科学与工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-materials-science-engineering-data-science-527acce06d/">材料科学与工程及数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-65f4f53da0/">数学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mathematics-computer-science-14e266656f/">数学与计算机科学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-mechanical-engineering-8582cf61ea/">机械工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-media-c5976ceff3/">传媒（在线学位完成项目）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-media-cinema-studies-510ca213db/">媒介与电影研究</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-middle-grades-education-255fe7f508/">初中阶段教育（五至八年级）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-molecular-cellular-biology-1448bb36e7/">分子与细胞生物学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-molecular-and-cellular-biology-data-science-60cb6e035e/">分子与细胞生物学及数据科学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-4deb187df9/">音乐（BA）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-open-studies-6090c417b1/">音乐开放研究（BMUS）</a><small>BMUS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-voice-d8969ec7a3/">声乐表演</a><small>BMUS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-composition-6be722c775/">音乐作曲</a><small>BMUS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-music-education-bb9e233cc3/">音乐教育</a><small>BME · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-musicology-510a22f134/">音乐学（BMUS）</a><small>BMUS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-natural-resources-environmental-sciences-f092fcb3e7/">自然资源与环境科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-neural-engineering-55ba138bc9/">神经工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-neuroscience-eff2f96309/">神经科学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-radiological-engineering-bd4763cac0/">核、等离子体与放射工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nuclear-plasma-and-radiological-engineering-data-science-c752de6206/">核、等离子体与放射工程及数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-nutrition-and-health-8417692fde/">营养与健康</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-operations-management-ee4f682308/">运营管理</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-philosophy-14a7963d7e/">哲学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-physics-5d797e7fdd/">物理学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-plant-biotechnology-888897ac59/">植物生物技术</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-political-science-cee58d2db4/">政治学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-portuguese-26e2244459/">葡萄牙语与葡语文化</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-psychology-60a99b3771/">心理学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-health-4f21e940d5/">公共卫生</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-public-policy-and-law-36bd190815/">公共政策与法律</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-recreation-sport-tourism-1465214f52/">休闲、体育与旅游</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-religion-065b6bc0bc/">宗教学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-russian-east-european-eurasian-studies-da04232daa/">俄罗斯、东欧与欧亚研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-secondary-education-299aba90c6/">中学教育（数学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-slavic-studies-412e5a6608/">斯拉夫语言与文化研究</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-social-work-52e2930bf1/">社会工作</a><small>BSW · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sociology-bc2926e03f/">社会学</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-spanish-b30ba5267d/">西班牙语</a><small>BALAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-spanish-teaching-cae1cf9278/">西班牙语教学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-special-education-3c82f42b23/">特殊教育</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-speech-hearing-science-80aa1db85c/">言语与听力科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sports-media-11bf3676d6/">体育传媒</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-statistics-8306c879a8/">统计学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-statistics-computer-science-865c6c45a2/">统计学与计算机科学</a><small>BSLAS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-strategy-innovation-and-entrepreneurship-120068efde/">战略、创新与创业</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-06dc5ce09a/">工作室艺术（BASA）</a><small>BASA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-studio-art-804f0f39ad/">工作室艺术（BFASA）</a><small>BFASA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-supply-chain-management-ef5e79d6b9/">供应链管理</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sustainability-in-food-environmental-systems-1c03c570ba/">食品与环境系统可持续性</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-sustainable-design-b34e83aeed/">可持续设计</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-systems-engineering-and-design-0856aa7f9e/">系统工程与设计</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-theatre-34ee242e96/">戏剧（BFA）</a><small>BFA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/uiuc/uiuc-urban-studies-planning-d2fa51621b/">城市研究与规划</a><small>BA · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -212,48 +204,313 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>中国成绩申报：</strong>中国国家课程按原成绩单申报9–11年级课程与成绩，分数制选择相应量表，不自行换算成美国字母分；12年级在读科目仍须申报。若修GCSE/A-level按对应国际考试栏填写。此为材料申报规则，本轮未取得高考统一最低分。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-dce39bdfced822">官方依据</a></p>
+<p class="catalog-fact"><strong>大陆高中与国际课程申请身份：</strong>中国高中体系的首次本科申请通过国际新生流程自报课程、成绩及外部考试。中国体系填报指南分别说明普通高中、GCSE／O-Level 转 IB 等情况；本轮取得的现行页面没有可直接作为录取保证的高考总分、A-Level 等级或 IB 总分门槛。高中学科年限、英语与所选学院／专业要求分别审查。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-6c7649a69c8e1e71">官方依据</a> · <a href="#source-u-UIUC-1c9018fb2f2e4c72">官方依据</a></p>
 
-<p class="catalog-fact"><strong>英语证明：</strong>除在认可英语国家完成10–12年级者外，须提交 TOEFL、IELTS、DET或可用于整体选拔的SAT/ACT，成绩在预定入学期前2年内。该要求不能另行豁免；本页未列新生统一最低英语分数，本轮不估计。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-3bd84b40a3fc74">官方依据</a></p>
+<p class="catalog-fact"><strong>中国成绩填写：</strong>中国普通高中申请人在自报系统按指南填入九至十一年级课程实际成绩及满分，十二年级已完成课程填最终成绩，尚未完成的填在读。评分制选择 Other，并按指南建立 New Scale/Conversion；不要自行用一个平均分替代逐课程成绩。录取后决定入读才需要正式成绩单，申请时不提交官方成绩单供审理。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-1c9018fb2f2e4c72">官方依据</a> · <a href="#source-u-UIUC-6c7649a69c8e1e71">官方依据</a></p>
 
-<p class="catalog-fact"><strong>高中先修年限：</strong>英语4年；数学一般3年，特定理工、商科及跨学科专业至少3.5年且含三角学或更高；社会科学2年、实验科学2年、同一外语2年、其他认可学科学习2年。数学4年及多类学科4年为建议，不改写为统一硬性要求。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-8ea1f36d5901bb">官方依据</a></p>
+<p class="catalog-fact"><strong>高中先修科目：</strong>首次本科申请要求英语 4 年、数学 3 年或指定专业 3.5 年、社会科学 2 年、实验科学 2 年、同一非英语语言完成第二级（通常 2 年），另有 2 年灵活学术课程。数学、社会科学、实验科学及外语通常建议 4 年；一学期大学课程按一年高中课程计算。满足修课年限不等于获得录取。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-93b61030a30b2d68">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语能力：</strong>学校要求所有申请者证明英语能力。首次本科申请者若十至十二年级不是在认可的英语国家完成，须交 TOEFL、IELTS、Duolingo English Test、ACT 或 SAT 之一；不能豁免此项。考试须在入学前两年内；SAT／ACT 若用于英语能力也会用于整体录取审查。TOEFL Home Edition 页面当前明确接受 2027 秋季入学；本轮未取得可通用于全部专业的英语最低分，不自行估计。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-6c7649a69c8e1e71">官方依据</a></p>
+
+<p class="catalog-fact"><strong>SAT／ACT 与成绩证明：</strong>一般新生审查的 SAT／ACT 为可选，但英语能力条件须单独满足。自报最高总分及最高分项，学校不使用 SAT／ACT Superscoring，也不使用 TOEFL MyBest。语言成绩及其他官方证明按入读阶段要求补交。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-3dadc0f72f0ab3bd">官方依据</a> · <a href="#source-u-UIUC-6c7649a69c8e1e71">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>现行新生申请日程：</strong>9月1日开放；EA 11月1日，材料11月7日；RD 1月5日，材料1月11日，均为美国中部时间23:59。所读表未逐项标入学年，暂保留现行日程；国际要求页另明确部分测试接受规则为2027秋。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-d682fa754e0bb0">官方依据</a></p>
+<p class="catalog-fact"><strong>2027 秋季新生申请：</strong>通过 Common App 申请，随后完成 SRAR 课程成绩自报；可填第一志愿及可选第二志愿。当前申请费为 USD 75。官网艺术与舞蹈 2026–2027 周期页与校级日程对应：2026 年 9 月 1 日开放，Early Action 申请截止 11 月 1 日、材料 11 月 7 日；常规申请截止 2027 年 1 月 5 日、材料 1 月 11 日，校级截止为美国中部时间 23:59。艺术、音乐、舞蹈等额外材料另有日期。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-3dadc0f72f0ab3bd">官方依据</a> · <a href="#source-u-UIUC-8fbacb16bf2545c6">官方依据</a> · <a href="#source-u-UIUC-739d9078d02f4be2">官方依据</a></p>
+
+<p class="catalog-fact"><strong>录取回复时间与适用范围：</strong>校级日程列 Early Action 结果 1 月 29 日、常规结果 2 月 26 日，奖学金／荣誉项目最迟 4 月 1 日通知，入学确认 5 月 1 日。上述是首次本科申请流程；在线学位完成、校内第二学位、已暂停招生或另行选拔的路线须按专业说明办理。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-8fbacb16bf2545c6">官方依据</a> · <a href="#source-u-UIUC-739d9078d02f4be2">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>2026/27 国际本科费用范围：</strong>全日制国际生学费及费用 USD42,248–53,078／学年；连同住房餐食、书本及其他估计总额62,146–72,976。范围随专业等而变，只作为全校费用区间，未冒充任一本专业的实际费率；本轮未核各项国际生奖学金资格。</p>
-<p class="fact-sources"><a href="#source-u-USBENR-6e25ed510efafb">官方依据</a></p>
+<p class="catalog-fact"><strong>国际生学费年度：</strong>本轮核实的正式费表为 2026–2027 学年、2026 夏季至 2027 春季首次入读的收费组，设国际生专用列，不能用美国非本州居民列替代。各学院及专业的差别费率已放入专业记录；2027 秋季新入读所对应的 2027–2028 费率本轮尚未取得，因此这些数值只作较早收费组参考。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-e8762a17ce72a412">官方依据</a> · <a href="#source-u-UIUC-f5171d29a114043c">官方依据</a></p>
+
+<p class="catalog-fact"><strong>线下学习的其他预算：</strong>官方计算器对 2026 秋季入读、12 学分负荷国际本科生给出 2026 秋至 2027 春全年其他预算：学校费用 USD 5,278、食宿 USD 15,858、书籍用品 USD 1,200、其他开支 USD 2,840；学费另按专业相加。食宿等为估算且非全部由学校出账；不能当作 2027 秋季新生价格或在线项目账单。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-1fa0cb9f9db96466">官方依据</a></p>
+
+<p class="catalog-fact"><strong>资助边界：</strong>学校普通本科不向国际学生提供按经济需要评定的校级资助，国际生可查询有限的奖学金及其他资源。部分优秀生奖项随录取自动考虑，但须核对每项国籍、学院及资格限制；本轮没有取得适用于所有中国申请者的保底奖金额。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-8b02b1de5c791cdf">官方依据</a> · <a href="#source-u-UIUC-b5958d5c806a7cbb">官方依据</a></p>
+
+<p class="catalog-fact"><strong>部分生物学课程附加学费：</strong>2026—2027费表说明：2011秋及以后入读者，修MCB250、251、252、253或450时每门另收USD320；当学期已支付专业差别学费者除外。该附加费取决于实际选课和已付费率，不对全部专业一律加收。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-f5171d29a114043c">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>毕业调查范围：</strong>Illini Success 2024–2025 报告覆盖 2024 年 8 月、12 月及 2025 年 5 月本科毕业生；全校 8,903 人中掌握 5,790 人去向（65%），已知去向者 93% 落实首个去向。该指标包含就业、继续升学、志愿／服务，不等于就业率；报告未在各专业表中单列中国大陆或国际学生。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-2900af367bf5e501">官方依据</a> · <a href="#source-u-UIUC-8c8ca1d1d46d43dd">官方依据</a></p>
+
+<p class="catalog-fact"><strong>专业统计与薪资的限制：</strong>数据主要由毕业调查、学校资料及其他核验来源汇集；2025 年 5 月毕业者追踪约六个月，前一年 8 月及 12 月毕业者资料可收至 2025 年 11 月中旬。双专业／双学位者会计入相应多个专业，不能把专业人数相加。同学期取得学士及硕士者不在本科报告中。已知去向不足 10 人时通常不披露细分去向及薪资；薪资样本带星号时合并前一届与本届，不能当作单届数据。</p>
+<p class="fact-sources"><a href="#source-u-UIUC-8c8ca1d1d46d43dd">官方依据</a> · <a href="#source-u-UIUC-2900af367bf5e501">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-USBENR-dce39bdfced822"><div><a href="https://admissions.illinois.edu/china-application-help/">uiuc 官方 china ↗</a><p>本条中国成绩申报及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-3bd84b40a3fc74"><div><a href="https://admissions.illinois.edu/international-requirements/">uiuc 官方 requirements ↗</a><p>本条英语证明及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-8ea1f36d5901bb"><div><a href="https://admissions.illinois.edu/first-year-requirements/">uiuc 官方 firstyear ↗</a><p>本条高中先修年限及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-d682fa754e0bb0"><div><a href="https://admissions.illinois.edu/first-year-dates/">uiuc 官方 deadlines ↗</a><p>本条现行新生申请日程及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-USBENR-6e25ed510efafb"><div><a href="https://www.admissions.illinois.edu/tuition/">uiuc 官方 tuition ↗</a><p>本条2026/27 国际本科费用范围及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-6c7649a69c8e1e71"><div><a href="https://admissions.illinois.edu/international-requirements/">International Requirements | Undergraduate Admissions | Illinois ↗</a><p>大陆高中与国际课程申请身份；中国成绩填写；英语能力；SAT／ACT 与成绩证明</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-1c9018fb2f2e4c72"><div><a href="https://admissions.illinois.edu/china-application-help/">China – Application Help | Undergraduate Admissions | Illinois ↗</a><p>大陆高中与国际课程申请身份；中国成绩填写</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-93b61030a30b2d68"><div><a href="https://admissions.illinois.edu/first-year-requirements/">First-Year Requirements | Undergraduate Admissions | Illinois ↗</a><p>高中先修科目</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-3dadc0f72f0ab3bd"><div><a href="https://www.admissions.illinois.edu/first-year-apply/">How to Apply: First-Year | Undergraduate Admissions | Illinois ↗</a><p>SAT／ACT 与成绩证明；2027 秋季新生申请</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-8fbacb16bf2545c6"><div><a href="https://admissions.illinois.edu/first-year-dates/">First-Year Dates &amp; Deadlines | Undergraduate Admissions | Illinois ↗</a><p>2027 秋季新生申请；录取回复时间与适用范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-739d9078d02f4be2"><div><a href="https://dance.illinois.edu/programs-applying/undergraduate-programs/application-audition/">Application &amp; Audition - Department of Dance ↗</a><p>2027 秋季新生申请；录取回复时间与适用范围</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-e8762a17ce72a412"><div><a href="https://registrar.illinois.edu/ug-tuition-rates-2627/">2026-2027 Academic Year Undergrad Tuition Rates | Office of the Registrar | Illinois ↗</a><p>国际生学费年度</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-f5171d29a114043c"><div><a href="https://cost.illinois.edu/Home/UgradBase?DiffCode=BASE&amp;TermCode=120268&amp;TableType=1">Tuition and Cost of Attendance, University of Illinois at Urbana-Champaign ↗</a><p>国际生学费年度</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-1fa0cb9f9db96466"><div><a href="https://www.cost.illinois.edu/Home/Cost/I/U/Compare/12/120268/120268">Tuition and Cost of Attendance, University of Illinois at Urbana-Champaign ↗</a><p>线下学习的其他预算</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-8b02b1de5c791cdf"><div><a href="https://www.admissions.illinois.edu/financial-aid/">Financial Aid | Undergraduate Admissions | Illinois ↗</a><p>资助边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-b5958d5c806a7cbb"><div><a href="https://www.admissions.illinois.edu/scholarships/">Scholarships | Undergraduate Admissions | Illinois ↗</a><p>资助边界</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-2900af367bf5e501"><div><a href="https://success2023.web.illinois.edu/24-25-horizontal-report">24-25-horizontal-report | Illini Success | Illinois ↗</a><p>毕业调查范围；专业统计与薪资的限制</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-UIUC-8c8ca1d1d46d43dd"><div><a href="https://illinisuccess.illinois.edu/about-us/methods">Methods | Illini Success | Illinois ↗</a><p>毕业调查范围；专业统计与薪资的限制</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 177 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 169 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>University of Illinois Urbana-Champaign undergraduate catalog</p>
+<p><strong>统计范围：</strong>UIUC 2026—2027官方A–Z本科目录顶层学位；含明确标注的内部／在线及历史入口</p>
 
-<p><strong>对账方法：</strong>{&quot;pages&quot;: 1, &quot;top_level_directory_rows&quot;: 184, &quot;nested_concentration_rows&quot;: 157, &quot;pagination&quot;: &quot;Complete A-Z single HTML; letter links are anchors&quot;}</p>
+<p><strong>对账方法：</strong>A–Z184个顶层行与原177条对账，8个同URL同学位索引别名合并，保留169独立学位页。157内部方向有实际原文，149个当前候选尚待独立逐项整合，8个已暂停方向不作新入口。</p>
 
 <p><strong>排除项：</strong>Include every top-level major with bachelor award; keep separately listed dual degree program. Exclude undeclared, cross-references, and nested concentration options from independent-major count while preserving all excluded rows.</p>
 
 **尚未解决的目录缺口：**
 
-- Nested concentrations preserved separately, not treated as independent degrees.
-- Intake duration and language not inferred.
+- 149个当前内部方向有目录及课程原文，尚未全部拆为独立可查询条目；当前目录完整性保守标为部分。
+- 2个暂停学位保留课程及历史毕业统计；3个在线完成和在校第二学位等不等于高中直接招生。
+- 2027秋季全新收费组费率、双学位实际计费、未匹配专业的毕业调查及逐课程授课语言仍有缺口。
+- 毕业统计对应137个分组；同名学位、方向或双学位有合并口径，不能称每条独立调查或全部中国学生结果。
 
 - [官方目录来源](https://catalog.illinois.edu/undergraduate/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/accountancy-bs/)
+- [官方目录来源](https://admissions.illinois.edu/first-year-requirements/)
+- [官方目录来源](https://giesbusiness.illinois.edu/apply/admissions)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=BUS&TermCode=120268&TableType=1)
+- [官方目录来源](https://success2023.web.illinois.edu/24-25-horizontal-report)
+- [官方目录来源](https://illinisuccess.illinois.edu/about-us/methods)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/accountancy-data-science-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/actuarial-science-bslas/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=BASE&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/media/advertising-bs/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=ADV&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/aerospace-engineering-bs/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=ENG&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/african-american-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs-agricultural-engineering-agricultural-science-bsag/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=ACE&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/agronomy-bs/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=ACES1&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=ACES2&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/anthropology-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/architectural-studies-bs/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=FAA&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/art-art-history-bfa/)
+- [官方目录来源](https://art.illinois.edu/programs-and-applying/admissions-funding/apply-to-an-undergraduate-program/freshman-admissions/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/art-education-bfa/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/art-history-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/asian-american-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/astronomy-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/astronomy-data-science-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/astrophysics-bslas/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=APHYS&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/atmospheric-sciences-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/biochemistry-bs/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=CHEML&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/bioengineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/brain-cognitive-science-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/business-data-science-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/chemical-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/chemical-engineering-data-science-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/chemistry-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/chemistry-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/civil-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/classics-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/communication-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/community-health-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/comparative-literature/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/world-literature/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/computer-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/)
+- [官方目录来源](https://siebelschool.illinois.edu/admissions/undergraduate/transfer-students)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_media/computer-science-advertising-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/computer-science-animal-sciences-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_las/computer-science-anthropology-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_las/computer-science-astronomy-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/computer-science-bioengineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_las/computer-science-chemistry-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/computer-science-crop-sciences-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_las/computer-science-economics-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/learning-sciences/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/secondary-education/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_las/computer-science-geography-geographic-information-science-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_las/computer-science-linguistics-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_faa/computer-science-music-bs/)
+- [官方目录来源](https://music.illinois.edu/admissions/undergraduate-programs-and-application/application-process/)
+- [官方目录来源](https://music.illinois.edu/admissions/undergraduate-programs-and-application/application-process/undergraduate-applicant-important-dates/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_las/computer-science-philosophy-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/computer-science-physics-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/creative-writing-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/dance-ba/)
+- [官方目录来源](https://dance.illinois.edu/programs-applying/undergraduate-programs/application-audition/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs_faa/dance-ba-kinesiology-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/dance-bfa/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/dietetics-nutrition-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/earth-society-environmental-sustainability-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/east-asian-languages-cultures-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/econometrics-quantitative-economics-bslas/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=ECON&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/economics-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/electrical-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/elementary-education-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/engineering-mechanics-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/english-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/english-balas/english/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/english-balas/english-teaching/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/english-balas/english-topics/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/environmental-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/environmental-sustainability-bslas/)
+- [官方目录来源](https://registrar.illinois.edu/tuition-fees/tuition-fee-rates/tf-rates-term/ug-tuition-onl-2627/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/finance-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/finance-data-science-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/financial-planning-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/fine-applied-arts-ba/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/food-science-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/french-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/french-balas/french-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/teaching-french-ba/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/gender-womens-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geology-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/geology-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/teaching-german-ba/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/german-business-commercial-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/german-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/scandinavian-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/global-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/graphic-design-bfa/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/hip-hop-culture-arts-ba/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/history-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/hospitality-management-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/human-development-family-studies-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/immersive-interactive-theatre-ba/)
+- [官方目录来源](https://theatre.illinois.edu/?page_id=4736)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/individual-plans-study/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/industrial-design-bfa/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/industrial-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ischool/information-sciences-bs/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=LIS&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ischool/information-sciences-data-science-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/information-systems-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/innovation-leadership-engineering-entrepreneurship-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/instrumental-music-bmus/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/jewish-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/medieval-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/italian-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/jazz-performance-bmus/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/media/journalism-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/)
+- [官方目录来源](https://cost.illinois.edu/Home/UgradBase?DiffCode=KINES&TermCode=120268&TableType=1)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/landscape-architecture-bla/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/latin-american-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/latina-latino-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/liberal-studies-bls/)
+- [官方目录来源](https://lasonline.illinois.edu/programs/bls/admissions)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/linguistics-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/linguistics-teaching-english-second-language-tesl-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/lyric-theatre-bma/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/management-business-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/marketing-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-data-science-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/mechanical-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/media/media-ba/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/media/media-cinema-studies-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-data-science-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/music-ba/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/music-open-studies-bmus/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/voice-bmus/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/music-composition-bmus/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/music-education-bme/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/musicology-bmus/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/neural-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/neuroscience-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-data-science-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/nutrition-health-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/operations-management-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/philosophy-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/physics-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/plant-biotechnology-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/political-science-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/political-science-balas/citizen-politics/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/political-science-balas/civic-leadership/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/political-science-balas/general-political-science/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/political-science-balas/international-relations/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/political-science-balas/law-power/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/political-science-balas/public-policy-democratic-institutions/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/political-science-balas/world-politics/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/portuguese-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/psychology-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/public-health-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/public-policy-law-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/religion-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/russian-east-european-eurasian-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/mathematics/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/czech-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/polish-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/russian-language-literature-culture/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/south-slavic-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/ukranian-studies/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/socw/social-work-bsw/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/sociology-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/spanish-balas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/teaching-spanish-ba/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/education/special-education-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/media/sports-media-ba/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/las/academic-units/stats/statistics-major/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/eng_las/statistics-computer-science-bslas/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/strategy-innovation-entrepreneurship-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-basa/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/bus/supply-chain-bs/)
+- [官方目录来源](https://giesbusiness.illinois.edu/academics/majors-and-minors/supply-chain-management)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/aces/sustainability-food-environmental-systems-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/sustainable-design-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/engineering/systems-engineering-design-bs/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/)
+- [官方目录来源](https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/)
+- [官方目录来源](https://admissions.illinois.edu/international-requirements/)
+- [官方目录来源](https://admissions.illinois.edu/china-application-help/)
+- [官方目录来源](https://www.admissions.illinois.edu/first-year-apply/)
+- [官方目录来源](https://admissions.illinois.edu/first-year-dates/)
+- [官方目录来源](https://registrar.illinois.edu/ug-tuition-rates-2627/)
+- [官方目录来源](https://www.cost.illinois.edu/Home/Cost/I/U/Compare/12/120268/120268)
+- [官方目录来源](https://www.admissions.illinois.edu/financial-aid/)
+- [官方目录来源](https://www.admissions.illinois.edu/scholarships/)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。
