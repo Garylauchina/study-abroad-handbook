@@ -1,0 +1,558 @@
+{
+  "country": {
+    "id": "australia",
+    "name": "澳大利亚",
+    "name_en": "Australia"
+  },
+  "universities": [
+    {
+      "id": "monash",
+      "name": "蒙纳士大学",
+      "name_en": "Monash University",
+      "city": "墨尔本（Clayton校区）",
+      "country_id": "australia",
+      "website": "https://www.monash.edu/",
+      "aliases": [
+        "莫纳什大学"
+      ]
+    },
+    {
+      "id": "unsw",
+      "name": "新南威尔士大学",
+      "name_en": "UNSW Sydney",
+      "city": "悉尼（Kensington校区）",
+      "country_id": "australia",
+      "website": "https://www.unsw.edu.au/",
+      "aliases": [
+        "UNSW"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "monash-computer-science",
+      "university_id": "monash",
+      "name": "计算机科学学士",
+      "name_en": "Bachelor of Computer Science",
+      "degree": "本科",
+      "subject": "计算机",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "高考总分70%＋数学60%；IELTS 6.5／单项6.0",
+      "tuition_summary": "2027：A$58,940／年（48学分）",
+      "outcomes_summary": "本专业就业率、起薪、升学率待补；已列培养方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "项目与校区",
+            "text": "C2001；CRICOS 079336A。此条目指澳大利亚Clayton校区，通常全日制3年，2月或7月入学。",
+            "source_ids": [
+              "monash-computer-science-course"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "计算理论与数学基础，包含算法与软件、人工智能、网络安全、数据科学方向；课程提供与行业相关的实践和项目机会。",
+            "source_ids": [
+              "monash-computer-science-course"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国大陆高考路径",
+            "text": "2027高考总分要求70%，按考生所在省份满分折算；应提供省级考试机构出具的正式高考结果。还须满足最低年龄、英语及相关科目要求，达到总分不等于已获录取。",
+            "source_ids": [
+              "monash-computer-science-gaokao"
+            ]
+          },
+          {
+            "label": "数学要求",
+            "text": "高考数学须达到60%。2027高考资格表列明高考数学，表头要求相关科目通过线60%；星号进一步建议入学前巩固先备知识。学校说明须先达到科目成绩标准，推荐的在线Skills Analysis不替代这一成绩要求。",
+            "source_ids": [
+              "monash-computer-science-gaokao",
+              "monash-computer-science-math"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "Level A：IELTS Academic总分6.5，听、说、读、写各6.0；其他认可考试按对应表核对。",
+            "source_ids": [
+              "monash-computer-science-gaokao"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027国际学费",
+            "text": "A$58,940／48学分，48学分相当于标准一学年全日制课程量。费用按年调整；此数不包含生活费。",
+            "source_ids": [
+              "monash-computer-science-course"
+            ]
+          },
+          {
+            "label": "额外费用",
+            "text": "课程页提示部分学生另需缴Student Services and Amenities Fee。不要直接将首年学费乘3当作固定总报价。",
+            "source_ids": [
+              "monash-computer-science-course"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本专业数据缺口",
+            "text": "本次未取得按本专业、毕业届次及国际生身份分组且含样本口径的就业率、起薪或升学率。课程页列出的学习与职业方向属于培养说明，不是毕业生结果统计。",
+            "source_ids": [
+              "monash-computer-science-course"
+            ]
+          },
+          {
+            "label": "学习与职业衔接",
+            "text": "课程的算法、软件、AI、数据及安全方向可以帮助形成相应技术专长；所列方向和项目经历本身不代表毕业就业结果。",
+            "source_ids": [
+              "monash-computer-science-course"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "monash-computer-science-course",
+          "title": "Monash Bachelor of Computer Science 课程页面",
+          "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true",
+          "checked_at": "2026-09-12",
+          "supports": "课程名称、学制、Clayton校区、主修及培养方向。2027国际生学费及额外费用。"
+        },
+        {
+          "id": "monash-computer-science-gaokao",
+          "title": "Monash 2027 高考申请资格表（第2/4/8/9页）",
+          "url": "https://www.monash.edu/__data/assets/pdf_file/0019/3016081/Monash-Gaokao-Flyer-English.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027高考总分、数学科目说明、英语Level A及总分折算。"
+        },
+        {
+          "id": "monash-computer-science-math",
+          "title": "Monash：Prerequisite subjects and assumed knowledge",
+          "url": "https://www.monash.edu/study/courses/prerequisite-subjects-and-assumed-knowledge",
+          "checked_at": "2026-09-12",
+          "supports": "其他认可资格须完成相关数学/理科并达到要求成绩；后续在线Skills Analysis是建议活动。"
+        }
+      ],
+      "checked_at": "2026-09-12"
+    },
+    {
+      "id": "monash-commerce",
+      "university_id": "monash",
+      "name": "商学学士",
+      "name_en": "Bachelor of Commerce",
+      "degree": "本科",
+      "subject": "商科",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "高考总分70%＋数学60%；IELTS 6.5／单项6.0",
+      "tuition_summary": "2026参考：A$55,900／年；2027费用待核",
+      "outcomes_summary": "本专业就业率、起薪、升学率待补；已列培养方向",
+      "sections": {
+        "overview": [
+          {
+            "label": "项目与校区",
+            "text": "B2001；CRICOS 013382G。澳大利亚Clayton校区，通常全日制3年，2月或7月入学。",
+            "source_ids": [
+              "monash-commerce-guide"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "先建立商科与数量分析基础，再选择会计、经济、金融、商业分析或市场科学等主修方向。",
+            "source_ids": [
+              "monash-commerce-course",
+              "monash-commerce-guide"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国大陆高考路径",
+            "text": "2027高考总分要求70%，按考生所在省份满分折算；应提供省级考试机构出具的正式高考结果。还须满足最低年龄、英语及相关科目要求，达到总分不等于已获录取。",
+            "source_ids": [
+              "monash-commerce-gaokao"
+            ]
+          },
+          {
+            "label": "数学要求",
+            "text": "高考数学须达到60%。2027高考资格表列明高考数学，表头要求相关科目通过线60%；星号进一步建议入学前巩固先备知识。学校说明须先达到科目成绩标准，推荐的在线Skills Analysis不替代这一成绩要求。",
+            "source_ids": [
+              "monash-commerce-gaokao",
+              "monash-commerce-math"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "Level A：IELTS Academic总分6.5，听、说、读、写各6.0；其他认可考试按对应表核对。",
+            "source_ids": [
+              "monash-commerce-gaokao"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "已取得的2026参考学费",
+            "text": "A$55,900／48学分，约为标准一学年全日制课程量。虽然来源封面写2027，费用脚注明确是2026报价；此处不能当作2027确认学费。",
+            "source_ids": [
+              "monash-commerce-guide"
+            ]
+          },
+          {
+            "label": "2027费用缺口",
+            "text": "本次未取得B2001的2027国际生确认费用；国际生版课程页面获取失败，默认国内学生页面中的CSP或国内全费金额不适用于本条目。",
+            "source_ids": [
+              "monash-commerce-guide",
+              "monash-commerce-course"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本专业数据缺口",
+            "text": "本次未取得按本专业、毕业届次及国际生身份分组且含样本口径的就业率、起薪或升学率。课程页列出的学习与职业方向属于培养说明，不是毕业生结果统计。",
+            "source_ids": [
+              "monash-commerce-course"
+            ]
+          },
+          {
+            "label": "培养方向",
+            "text": "课程强调用数学和数据理解商业决策，可向会计、经济、金融、商业分析或管理等领域发展；这些是课程方向，不是就业分布统计。",
+            "source_ids": [
+              "monash-commerce-course"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "monash-commerce-course",
+          "title": "Monash Bachelor of Commerce 课程页面",
+          "url": "https://www.monash.edu/study/courses/find-a-course/commerce-b2001",
+          "checked_at": "2026-09-12",
+          "supports": "课程名称、学制、Clayton校区、主修及培养方向。仅使用公共项目介绍，不采用默认国内学生费用。"
+        },
+        {
+          "id": "monash-commerce-gaokao",
+          "title": "Monash 2027 高考申请资格表（第2/4/8/9页）",
+          "url": "https://www.monash.edu/__data/assets/pdf_file/0019/3016081/Monash-Gaokao-Flyer-English.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "2027高考总分、数学科目说明、英语Level A及总分折算。"
+        },
+        {
+          "id": "monash-commerce-guide",
+          "title": "Monash 2027国际本科指南，第20—21印刷页",
+          "url": "https://www.monash.edu/__data/assets/pdf_file/0005/3941744/undergraduate-international-course-guide.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "B2001校区、学制、方向；A$55,900及脚注注明其为2026费用。"
+        },
+        {
+          "id": "monash-commerce-math",
+          "title": "Monash：Prerequisite subjects and assumed knowledge",
+          "url": "https://www.monash.edu/study/courses/prerequisite-subjects-and-assumed-knowledge",
+          "checked_at": "2026-09-12",
+          "supports": "其他认可资格须完成相关数学/理科并达到要求成绩；后续在线Skills Analysis是建议活动。"
+        }
+      ],
+      "checked_at": "2026-09-12"
+    },
+    {
+      "id": "unsw-computer-science",
+      "university_id": "unsw",
+      "name": "计算机科学理学学士",
+      "name_en": "Bachelor of Science (Computer Science)",
+      "degree": "本科",
+      "subject": "计算机",
+      "intake": "2026",
+      "duration": "3 年",
+      "entry_summary": "2026高考参考75%；IELTS 6.5／单项6.0",
+      "tuition_summary": "2026首年指示学费：A$61,000",
+      "outcomes_summary": "本专业统计待补；附全校本土本科毕业3年后薪酬",
+      "sections": {
+        "overview": [
+          {
+            "label": "项目与校区",
+            "text": "项目代码／CRICOS：3778 / 015784F。悉尼Kensington校区，标准全日制3年、144 UOC。课程页列Term 1、2、3开学。",
+            "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          },
+          {
+            "label": "学制提醒",
+            "text": "大学2028年更换学期安排，2028年前不同入学批次的实际完成时间可能不同；应核对对应开学批次安排。",
+            "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "学习编程、算法、计算机系统与数据结构，可选择AI、数据库、网络、嵌入式系统、编程语言或安全工程方向；毕业年包括团队计算机科学项目。",
+            "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国大陆高考路径",
+            "text": "2026国际本科指南给出的高考参考要求为75%。指南按高考成绩百分比评估，并列出各省满分；满足最低值仍须符合英语及其他要求。本条不将2026标准外推为2027标准。",
+            "source_ids": [
+              "unsw-computer-science-guide"
+            ]
+          },
+          {
+            "label": "数学准备",
+            "text": "课程列出的assumed knowledge为Mathematics Extension 1，属于入学前应具备的数学知识背景。",
+            "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS Academic总分6.5，各单项至少6.0。通常考试须在入学前两年内完成，并按Term 1／2／3对应日期核算有效期。",
+            "source_ids": [
+              "unsw-computer-science-english"
+            ]
+          },
+          {
+            "label": "申请年度与名额",
+            "text": "本条目的高考表和学费为2026资料。课程页面已提示部分2026国际生批次满额，并表示2027申请已开放；不据此宣称本项目2026仍有名额。",
+            "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2026国际生首年学费",
+            "text": "A$61,000，为指示性首年学费，非澳大利亚本地生CSP费用。实际金额随选课、课程量和年度调整。",
+            "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          },
+          {
+            "label": "全学位费用口径",
+            "text": "官方还列全学位指示费用A$192,500；该数包含学费增长假设及每年约A$1,000学习相关成本，不应标为固定总学费，也不包含全部生活支出。",
+            "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "已获取的毕业生统计：全校本土本科",
+            "text": "UNSW引用2025 QILT GOS-L：本土本科毕业生在毕业约3年后的年薪中位数A$99,200。QILT薪酬指标对象为全职就业受访者；不是应届起薪，也不是本专业或国际学生的单独结果。",
+            "source_ids": [
+              "unsw-computer-science-outcomes",
+              "unsw-computer-science-qilt"
+            ]
+          },
+          {
+            "label": "本专业数据缺口",
+            "text": "本次未取得此学位按毕业届次、国籍分组的就业率、起薪、升学率或响应人数。校级薪酬样本不包括所有毕业生，不能据此推算中国学生就业概率。",
+            "source_ids": [
+              "unsw-computer-science-outcomes",
+              "unsw-computer-science-qilt"
+            ]
+          },
+          {
+            "label": "课程列出的职业方向",
+            "text": "课程列出的潜在岗位包括网络安全顾问、系统分析师、数据库管理员和游戏开发者。学校举出的企业去向案例不是毕业生比例，也不表示每位学生能取得这些职位。",
+            "source_ids": [
+              "unsw-computer-science-course"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "unsw-computer-science-course",
+          "title": "UNSW Bachelor of Science (Computer Science) 课程页面",
+          "url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science",
+          "checked_at": "2026-09-12",
+          "supports": "项目代码、Kensington校区、学制、学术背景、2026国际生指示费用及职业方向。"
+        },
+        {
+          "id": "unsw-computer-science-guide",
+          "title": "UNSW 2026国际本科指南，第76—81印刷页",
+          "url": "https://www.unsw.edu.au/content/dam/pdfs/future-students/2026-INT-UG-Guide.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "各资格入学参考表的高考列及中国资格说明；按2026版指南记录，不外推2027。"
+        },
+        {
+          "id": "unsw-computer-science-english",
+          "title": "UNSW 英语要求：本科 IELTS 对照表",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "工程本科与商科本科的IELTS要求和考试时间要求。"
+        },
+        {
+          "id": "unsw-computer-science-outcomes",
+          "title": "UNSW 官方毕业生情况：2025 QILT GOS-L",
+          "url": "https://www.unsw.edu.au/about-us/excellence/rankings-reputation",
+          "checked_at": "2026-09-12",
+          "supports": "全校本土本科毕业生、毕业后三年的薪酬中位数。"
+        },
+        {
+          "id": "unsw-computer-science-qilt",
+          "title": "QILT Graduate Outcomes Survey – Longitudinal：指标定义",
+          "url": "https://qilt.edu.au/surveys/graduate-outcomes-survey---longitudinal-(gos-l)",
+          "checked_at": "2026-09-12",
+          "supports": "GOS-L三年后调查和全职就业者年薪中位数定义。"
+        }
+      ],
+      "checked_at": "2026-09-12"
+    },
+    {
+      "id": "unsw-commerce",
+      "university_id": "unsw",
+      "name": "商学学士",
+      "name_en": "Bachelor of Commerce",
+      "degree": "本科",
+      "subject": "商科",
+      "intake": "2026",
+      "duration": "3 年",
+      "entry_summary": "2026高考参考80%；IELTS 7.0／单项6.0",
+      "tuition_summary": "2026首年指示学费：A$56,500",
+      "outcomes_summary": "本专业统计待补；附全校本土本科毕业3年后薪酬",
+      "sections": {
+        "overview": [
+          {
+            "label": "项目与校区",
+            "text": "项目代码／CRICOS：3502 / 001919M。悉尼Kensington校区，标准全日制3年、144 UOC。课程页列Term 1、2、3开学。",
+            "source_ids": [
+              "unsw-commerce-course"
+            ]
+          },
+          {
+            "label": "学制提醒",
+            "text": "大学2028年更换学期安排，2028年前不同入学批次的实际完成时间可能不同；应核对对应开学批次安排。",
+            "source_ids": [
+              "unsw-commerce-course"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "三年课程包含综合商科第一年、至少一个主修和选修。主修可选金融、会计、商业分析、营销等；须完成计学分的实习、竞赛或项目式实践课程之一。",
+            "source_ids": [
+              "unsw-commerce-course"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "中国大陆高考路径",
+            "text": "2026国际本科指南给出的高考参考要求为80%。指南按高考成绩百分比评估，并列出各省满分；满足最低值仍须符合英语及其他要求。本条不将2026标准外推为2027标准。",
+            "source_ids": [
+              "unsw-commerce-guide"
+            ]
+          },
+          {
+            "label": "数学准备",
+            "text": "课程列出的assumed knowledge为Mathematics Advanced，属于入学前应具备的数学知识背景。",
+            "source_ids": [
+              "unsw-commerce-course"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS Academic总分7.0，各单项至少6.0。通常考试须在入学前两年内完成，并按Term 1／2／3对应日期核算有效期。",
+            "source_ids": [
+              "unsw-commerce-english"
+            ]
+          },
+          {
+            "label": "申请年度与名额",
+            "text": "本条目的高考表和学费为2026资料。课程页面已提示部分2026国际生批次满额，并表示2027申请已开放；不据此宣称本项目2026仍有名额。",
+            "source_ids": [
+              "unsw-commerce-course"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2026国际生首年学费",
+            "text": "A$56,500，为指示性首年学费，非澳大利亚本地生CSP费用。实际金额随选课、课程量和年度调整。",
+            "source_ids": [
+              "unsw-commerce-course"
+            ]
+          },
+          {
+            "label": "全学位费用口径",
+            "text": "官方还列全学位指示费用A$180,500；该数包含学费增长假设及每年约A$1,000学习相关成本，不应标为固定总学费，也不包含全部生活支出。",
+            "source_ids": [
+              "unsw-commerce-course"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "已获取的毕业生统计：全校本土本科",
+            "text": "UNSW引用2025 QILT GOS-L：本土本科毕业生在毕业约3年后的年薪中位数A$99,200。QILT薪酬指标对象为全职就业受访者；不是应届起薪，也不是本专业或国际学生的单独结果。",
+            "source_ids": [
+              "unsw-commerce-outcomes",
+              "unsw-commerce-qilt"
+            ]
+          },
+          {
+            "label": "本专业数据缺口",
+            "text": "本次未取得此学位按毕业届次、国籍分组的就业率、起薪、升学率或响应人数。校级薪酬样本不包括所有毕业生，不能据此推算中国学生就业概率。",
+            "source_ids": [
+              "unsw-commerce-outcomes",
+              "unsw-commerce-qilt"
+            ]
+          },
+          {
+            "label": "课程列出的职业方向",
+            "text": "课程列出的潜在岗位包括会计／审计、商业分析、咨询、金融及市场相关工作。这是可探索的职业方向，不是毕业生就业率或薪酬统计。",
+            "source_ids": [
+              "unsw-commerce-course"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "unsw-commerce-course",
+          "title": "UNSW Bachelor of Commerce 课程页面",
+          "url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce?studentType=international",
+          "checked_at": "2026-09-12",
+          "supports": "项目代码、Kensington校区、学制、学术背景、2026国际生指示费用及职业方向。"
+        },
+        {
+          "id": "unsw-commerce-guide",
+          "title": "UNSW 2026国际本科指南，第76—81印刷页",
+          "url": "https://www.unsw.edu.au/content/dam/pdfs/future-students/2026-INT-UG-Guide.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "各资格入学参考表的高考列及中国资格说明；按2026版指南记录，不外推2027。"
+        },
+        {
+          "id": "unsw-commerce-english",
+          "title": "UNSW 英语要求：本科 IELTS 对照表",
+          "url": "https://www.unsw.edu.au/study/how-to-apply/english-language-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "工程本科与商科本科的IELTS要求和考试时间要求。"
+        },
+        {
+          "id": "unsw-commerce-outcomes",
+          "title": "UNSW 官方毕业生情况：2025 QILT GOS-L",
+          "url": "https://www.unsw.edu.au/about-us/excellence/rankings-reputation",
+          "checked_at": "2026-09-12",
+          "supports": "全校本土本科毕业生、毕业后三年的薪酬中位数。"
+        },
+        {
+          "id": "unsw-commerce-qilt",
+          "title": "QILT Graduate Outcomes Survey – Longitudinal：指标定义",
+          "url": "https://qilt.edu.au/surveys/graduate-outcomes-survey---longitudinal-(gos-l)",
+          "checked_at": "2026-09-12",
+          "supports": "GOS-L三年后调查和全职就业者年薪中位数定义。"
+        }
+      ],
+      "checked_at": "2026-09-12"
+    }
+  ]
+}

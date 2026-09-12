@@ -69,6 +69,22 @@ search_text = " ".join(d.get("text", "") for d in index["docs"])
 for term in ("预算", "高考", "Sheffield", "UCAS"):
     if term not in search_text:
         errors.append(f"Search text misses {term}")
+catalog = json.loads((ROOT / 'assets/data/catalog-index.json').read_text())
+for program in catalog:
+    route = program['url']
+    path = ROOT / route / 'index.html'
+    if path not in pages:
+        errors.append(f"Catalog misses program page {route}")
+        continue
+    if route not in locations:
+        errors.append(f"Full-text search misses catalog program {route}")
+    body = " ".join("".join(pages[path].text).split())
+    for field in ('name_en', 'intake', 'duration', 'tuition_summary'):
+        if " ".join(program[field].split()) not in body:
+            errors.append(f"Catalog rendered value lost in {route}: {field}")
+    for section in ('overview', 'admissions', 'fees', 'outcomes', 'sources'):
+        if section not in pages[path].ids:
+            errors.append(f"Catalog section missing in {route}: {section}")
 if errors:
     print("\n".join(errors))
     raise SystemExit(1)

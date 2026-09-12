@@ -33,8 +33,10 @@ jobs:
         run: python -m pip install -r requirements.lock.txt
       - name: Check source register
         run: python scripts/render_sources.py --check
-      - name: Verify budget calculations
-        run: node --test scripts/budget.test.mjs
+      - name: Check sourced catalog and generated pages
+        run: python scripts/render_catalog.py --check
+      - name: Verify budget and catalog behavior
+        run: node --test scripts/budget.test.mjs scripts/catalog.test.mjs
       - name: Build handbook
         run: mkdocs build --strict
       - name: Check links and search coverage

@@ -51,7 +51,8 @@ execute(workerUrl);
 await request({ type: 0, data: { ...index, options: { suggest: true } } }, 1);
 for (const [query, route] of [
   ['预算', 'tools/budget/'], ['预算计算器', 'tools/budget/'],
-  ['高考', 'destinations/uk/'], ['UCAS', 'destinations/uk/'], ['Sheffield', 'destinations/uk/'],
+  ['高考', 'destinations/uk/'], ['UCAS', 'destinations/uk/'], ['Sheffield', 'catalog/uk/sheffield/'],
+  ['NUS', 'catalog/singapore/nus/'], ['南洋理工', 'catalog/singapore/ntu/'], ['Monash', 'catalog/australia/monash/'],
 ]) {
   const response = await request({ type: 2, data: query, options: { suggest: true } }, 3);
   const locations = response.data.items.flat().map(item => item.location);

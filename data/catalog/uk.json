@@ -1,0 +1,596 @@
+{
+  "country": {
+    "id": "uk",
+    "name": "英国",
+    "name_en": "United Kingdom"
+  },
+  "universities": [
+    {
+      "id": "sheffield",
+      "name": "谢菲尔德大学",
+      "name_en": "University of Sheffield",
+      "city": "谢菲尔德",
+      "country_id": "uk",
+      "website": "https://sheffield.ac.uk/"
+    },
+    {
+      "id": "manchester",
+      "name": "曼彻斯特大学",
+      "name_en": "University of Manchester",
+      "city": "曼彻斯特",
+      "country_id": "uk",
+      "website": "https://www.manchester.ac.uk/"
+    }
+  ],
+  "programs": [
+    {
+      "id": "sheffield-computer-science-bsc",
+      "university_id": "sheffield",
+      "name": "计算机科学",
+      "name_en": "Computer Science BSc",
+      "degree": "本科",
+      "subject": "计算机",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "高考有直入路径；A-level A*AA / AAA，须满足数学等选科",
+      "tuition_summary": "2027 专业金额本次未取得",
+      "outcomes_summary": "2022/23届：60% 工作或升学 · 本课程 · 毕业后 15 个月",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与学制",
+            "text": "2027 年 9 月入学，UCAS G402，BSc，全日制 3 年；另加实习或海外学习年会改变总时长。",
+            "source_ids": [
+              "UK-SHE-CS-COURSE"
+            ]
+          },
+          {
+            "label": "学什么",
+            "text": "兼顾计算机理论与软件实践，涉及网络安全、深度学习、语音识别、密码学和机器人。",
+            "source_ids": [
+              "UK-SHE-CS-COURSE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考",
+            "text": "学校接受高考直入：AAA 及以上课程的校级总分要求为满分的至少 75%，还须满足专业先修单科要求。此规则未单列 2027 年；具体高考选科组合及本课程换算需向学校确认。仅有高中毕业证需认可预科。",
+            "source_ids": [
+              "UK-SHE-CHINA",
+              "UK-SHE-CS-COURSE"
+            ]
+          },
+          {
+            "label": "A-level 资格",
+            "text": "2027 标准要求为 A*AA（含数学），或 AAA（含数学和计算机科学）；这两条是不同的资格组合。",
+            "source_ids": [
+              "UK-SHE-CS-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS 总分 6.5，各单项不低于 6.0；学校也接受列明的其他等效英语资格。",
+            "source_ids": [
+              "UK-SHE-CS-COURSE"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027 国际生专业学费",
+            "text": "本次未从官方收费工具取得 G402 的准确金额。查询入口可以访问，但费用数据返回空结果；这不能解释成校方尚未公布。",
+            "source_ids": [
+              "UK-SHE-LOOKUP"
+            ]
+          },
+          {
+            "label": "校级范围参考",
+            "text": "2027/28 新入学国际生非医学、非牙医学本科年费范围为 £27,650–£34,670；这是校级区间，不是该专业报价，不能据此确定全程学费。",
+            "source_ids": [
+              "UK-SHE-FEES"
+            ]
+          },
+          {
+            "label": "后续年度",
+            "text": "校方说明：保持同一课程时，之后各年的学费与第一年相同；转专业、实习年及海外学习年另有规则。",
+            "source_ids": [
+              "UK-SHE-FEES"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本课程：工作或升学",
+            "text": "Discover Uni 的 G402 页面显示，2022/23 届在毕业后 15 个月工作和／或继续学习的比例为 60%；样本 20 人，回应率 70%。该合并指标包含升学，不能读成纯就业率。",
+            "source_ids": [
+              "UK-SHE-CS-OUTCOMES",
+              "UK-DU-METHODS"
+            ]
+          },
+          {
+            "label": "学科参考：毕业薪资",
+            "text": "该校全日制计算机科学学科的毕业后 15 个月年薪中位数为 £33,000；2021/22–2022/23 两届合并，薪资样本 15 人，页面回应率 70%。这是学科数据，不是 G402 单专业薪资。",
+            "source_ids": [
+              "UK-SHE-CS-OUTCOMES"
+            ]
+          },
+          {
+            "label": "如何理解",
+            "text": "以上是历史调查样本，未单列中国大陆学生；样本较小，不能据此推断个人就业概率或预计收入。毕业年、统计范围和是否包含升学应一起阅读。",
+            "source_ids": [
+              "UK-SHE-CS-OUTCOMES",
+              "UK-DU-METHODS"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-SHE-CS-COURSE",
+          "title": "Computer Science BSc — 2027/28",
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-bsc",
+          "checked_at": "2026-09-12",
+          "supports": "G402 三年全日制课程、课程方向、A-level 与英语要求"
+        },
+        {
+          "id": "UK-SHE-CHINA",
+          "title": "Sheffield 中国学历入学要求",
+          "url": "https://sheffield.ac.uk/international/entry-requirements/china",
+          "checked_at": "2026-09-12",
+          "supports": "校级高考直入、单科要求及普高毕业证预科路径；页面未标入学年度"
+        },
+        {
+          "id": "UK-SHE-FEES",
+          "title": "Sheffield 国际生本科收费规则",
+          "url": "https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28 校级收费范围及同课程固定学费规则；不是专业准确报价"
+        },
+        {
+          "id": "UK-SHE-LOOKUP",
+          "title": "Sheffield 本科学费查询工具",
+          "url": "https://tools.sheffield.ac.uk/fees/ug/",
+          "checked_at": "2026-09-12",
+          "supports": "专业收费查询入口；本次公开表格的数据请求返回空结果，未取得项目金额"
+        },
+        {
+          "id": "UK-SHE-CS-OUTCOMES",
+          "title": "Discover Uni — Sheffield Computer Science G402",
+          "url": "https://www.discoveruni.gov.uk/course-details/10007157/G402/Full-time/",
+          "checked_at": "2026-09-12",
+          "supports": "本课程 2022/23 就业或升学调查；另列计算机学科合并薪资、毕业年份及样本"
+        },
+        {
+          "id": "UK-DU-METHODS",
+          "title": "Discover Uni 数据口径",
+          "url": "https://www.discoveruni.gov.uk/about-our-data/",
+          "checked_at": "2026-09-12",
+          "supports": "毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果"
+        }
+      ],
+      "checked_at": "2026-09-12"
+    },
+    {
+      "id": "sheffield-economics-bsc",
+      "university_id": "sheffield",
+      "name": "经济学",
+      "name_en": "Economics BSc",
+      "degree": "本科",
+      "subject": "商科",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "高考有直入路径；A-level AAB，含数学",
+      "tuition_summary": "2027 专业金额本次未取得",
+      "outcomes_summary": "2022/23届：90% 工作或升学 · 本课程 · 毕业后 15 个月",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与学制",
+            "text": "2027 年 9 月入学，UCAS L101，BSc，全日制 3 年。",
+            "source_ids": [
+              "UK-SHE-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "学什么",
+            "text": "侧重数学、统计、计量经济学和经济分析方法；前两年与 Economics BA 共用核心课程，第三年走方法与理论方向。",
+            "source_ids": [
+              "UK-SHE-ECON-COURSE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考",
+            "text": "学校高考规则中，AAB–ABB 对应校级总分至少为满分的 70%；涉及数学等先修单科时，还需达到对应单科要求。此校级页未单列 2027 年，本课程单科换算须确认。仅有高中毕业证需认可预科。",
+            "source_ids": [
+              "UK-SHE-CHINA",
+              "UK-SHE-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "A-level 资格",
+            "text": "2027 标准要求 AAB，必须包含数学。",
+            "source_ids": [
+              "UK-SHE-ECON-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS 总分 6.5，各单项不低于 6.0；也可提交校方认可的其他英语资格。",
+            "source_ids": [
+              "UK-SHE-ECON-COURSE"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027 国际生专业学费",
+            "text": "本次未从官方收费工具取得 L101 的准确金额，尚不能形成项目学费报价。",
+            "source_ids": [
+              "UK-SHE-LOOKUP"
+            ]
+          },
+          {
+            "label": "校级范围参考",
+            "text": "2027/28 非医学、非牙医学国际生新生的本科年费范围为 £27,650–£34,670。该区间不是 L101 的准确金额。",
+            "source_ids": [
+              "UK-SHE-FEES"
+            ]
+          },
+          {
+            "label": "后续年度",
+            "text": "保持同一课程时学费固定；可选实习年、海外学习年及转专业的费用另行核对。",
+            "source_ids": [
+              "UK-SHE-FEES"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本课程：工作或升学",
+            "text": "2022/23 届在毕业后 15 个月工作和／或继续学习的比例为 90%；本课程样本 30 人，回应率 75%。包含继续升学，不是纯就业率。",
+            "source_ids": [
+              "UK-SHE-ECON-OUTCOMES",
+              "UK-DU-METHODS"
+            ]
+          },
+          {
+            "label": "学科参考：毕业薪资",
+            "text": "Sheffield 全日制经济学学科毕业后 15 个月年薪中位数为 £30,000；2022/23 届，薪资样本 50 人，回应率 65%。范围为校内经济学课程合并，不是 L101 独立薪资。",
+            "source_ids": [
+              "UK-SHE-ECON-OUTCOMES"
+            ]
+          },
+          {
+            "label": "统计边界",
+            "text": "上述数字未单列中国大陆学生。课程页列出的政府经济学、银行、保险、会计等毕业方向是职业实例，不能替代个人就业结果。",
+            "source_ids": [
+              "UK-SHE-ECON-COURSE",
+              "UK-SHE-ECON-OUTCOMES",
+              "UK-DU-METHODS"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-SHE-ECON-COURSE",
+          "title": "Economics BSc — 2027/28",
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-bsc",
+          "checked_at": "2026-09-12",
+          "supports": "L101 三年课程、数学先修、IELTS、课程内容及院系毕业方向"
+        },
+        {
+          "id": "UK-SHE-CHINA",
+          "title": "Sheffield 中国学历入学要求",
+          "url": "https://sheffield.ac.uk/international/entry-requirements/china",
+          "checked_at": "2026-09-12",
+          "supports": "校级高考直入、单科要求及普高毕业证预科路径；页面未标入学年度"
+        },
+        {
+          "id": "UK-SHE-FEES",
+          "title": "Sheffield 国际生本科收费规则",
+          "url": "https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas",
+          "checked_at": "2026-09-12",
+          "supports": "2027/28 校级收费范围及同课程固定学费规则；不是专业准确报价"
+        },
+        {
+          "id": "UK-SHE-LOOKUP",
+          "title": "Sheffield 本科学费查询工具",
+          "url": "https://tools.sheffield.ac.uk/fees/ug/",
+          "checked_at": "2026-09-12",
+          "supports": "专业收费查询入口；本次公开表格的数据请求返回空结果，未取得项目金额"
+        },
+        {
+          "id": "UK-SHE-ECON-OUTCOMES",
+          "title": "Discover Uni — Sheffield Economics L101",
+          "url": "https://www.discoveruni.gov.uk/course-details/10007157/L101/Full-time/",
+          "checked_at": "2026-09-12",
+          "supports": "本课程 2022/23 就业或升学与经济学学科薪资，含统计样本"
+        },
+        {
+          "id": "UK-DU-METHODS",
+          "title": "Discover Uni 数据口径",
+          "url": "https://www.discoveruni.gov.uk/about-our-data/",
+          "checked_at": "2026-09-12",
+          "supports": "毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果"
+        }
+      ],
+      "checked_at": "2026-09-12"
+    },
+    {
+      "id": "manchester-computer-science-bsc",
+      "university_id": "manchester",
+      "name": "计算机科学",
+      "name_en": "BSc Computer Science",
+      "degree": "本科",
+      "subject": "计算机",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "高考不直接入学；A-level A*AA，数学须 A*",
+      "tuition_summary": "2027 国际生学费尚未确定",
+      "outcomes_summary": "2022/23届：95% 工作或升学 · 本课程 · 毕业后 15 个月",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与学制",
+            "text": "2027 入学，UCAS G400，BSc，3 年。该记录对应三年正课，不含额外预科或实习年。",
+            "source_ids": [
+              "UK-MAN-CS-COURSE"
+            ]
+          },
+          {
+            "label": "学什么",
+            "text": "从编程、计算原理和计算机数学起步，进阶软件工程、算法、数据库及可选人工智能等方向，并包含个人或团队项目。",
+            "source_ids": [
+              "UK-MAN-CS-COURSE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考",
+            "text": "中国大陆资格页说明：完成普通高中的申请者需先完成大学认可预科，学校不接受高考直接入读本科。持 A-level、IB 等其他认可资格者按该资格及课程标准评估。",
+            "source_ids": [
+              "UK-MAN-CHINA",
+              "UK-MAN-CS-COURSE"
+            ]
+          },
+          {
+            "label": "A-level 资格",
+            "text": "2027 标准要求 A*AA，数学须 A*，另至少一门为计算机科学、进阶数学、生物、化学或物理；数学须有足够纯数学内容。",
+            "source_ids": [
+              "UK-MAN-CS-COURSE"
+            ]
+          },
+          {
+            "label": "指定预科路径",
+            "text": "NCUK International Foundation Year 或 INTO Manchester Science and Engineering 预科要求 A*AA：Technical Mathematics 为 A*，另含物理或进阶数学；Integrated Mathematics 不被接受。还审核预科前本地考试及完整学术背景，EAP／EAPPU 英语要求为 A。",
+            "source_ids": [
+              "UK-MAN-CS-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS 总分 6.5，所有单项不低于 6.5；有时效限制的英语成绩须在课程开始时仍有效。",
+            "source_ids": [
+              "UK-MAN-CS-COURSE"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027 国际生专业学费",
+            "text": "官方 2027 课程页明确表示学费尚未确定；页面展示的 2026 本地生收费不可当作国际生费用。本目录暂不填入项目金额。",
+            "source_ids": [
+              "UK-MAN-CS-COURSE"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本课程：工作或升学",
+            "text": "Discover Uni 三年 BSc Computer Science 页面：2022/23 届毕业后 15 个月工作和／或升学比例 95%；样本 20 人，回应率 85%。包括继续学习，不是纯就业率。",
+            "source_ids": [
+              "UK-MAN-CS-OUTCOMES",
+              "UK-DU-METHODS"
+            ]
+          },
+          {
+            "label": "学科参考：毕业薪资",
+            "text": "Manchester 全日制计算机科学学科毕业后 15 个月年薪中位数为 £40,000；2022/23 届，薪资样本 45 人，回应率 65%。这是学科聚合，不能当作 G400 单专业或中国学生的预期薪资。",
+            "source_ids": [
+              "UK-MAN-CS-OUTCOMES"
+            ]
+          },
+          {
+            "label": "可探索的职业",
+            "text": "课程页列举软件工程、人工智能、云计算、网络安全和数据分析等方向；这是职业方向说明，不代表对应岗位的实际录用比例。",
+            "source_ids": [
+              "UK-MAN-CS-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-MAN-CS-COURSE",
+          "title": "BSc Computer Science — 2027 entry",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00560/bsc-computer-science/",
+          "checked_at": "2026-09-12",
+          "supports": "G400 学制、课程、A-level、认可预科、英语及 2027 学费未定说明"
+        },
+        {
+          "id": "UK-MAN-CHINA",
+          "title": "Manchester 中国大陆申请者要求",
+          "url": "https://www.manchester.ac.uk/study/international/country-specific-information/china-mainland/",
+          "checked_at": "2026-09-12",
+          "supports": "大陆普通高中及高考申请者需认可预科；高考不直接用于本科入学"
+        },
+        {
+          "id": "UK-MAN-CS-OUTCOMES",
+          "title": "Discover Uni — Manchester Computer Science",
+          "url": "https://discoveruni.gov.uk/course-details/10007798/28/FullTime/",
+          "checked_at": "2026-09-12",
+          "supports": "三年 BSc Computer Science 的毕业调查与全日制计算机学科薪资"
+        },
+        {
+          "id": "UK-DU-METHODS",
+          "title": "Discover Uni 数据口径",
+          "url": "https://www.discoveruni.gov.uk/about-our-data/",
+          "checked_at": "2026-09-12",
+          "supports": "毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果"
+        }
+      ],
+      "checked_at": "2026-09-12"
+    },
+    {
+      "id": "manchester-management-bsc",
+      "university_id": "manchester",
+      "name": "管理学",
+      "name_en": "BSc Management",
+      "degree": "本科",
+      "subject": "商科",
+      "intake": "2027",
+      "duration": "3 年",
+      "entry_summary": "高考不直接入学；A-level AAA，另核对选科和数理基础",
+      "tuition_summary": "2027 未定；2026/27 参考 £33,100／年",
+      "outcomes_summary": "2021/22–2022/23届学科参考：86%工作或升学；本专业独立数据不足",
+      "sections": {
+        "overview": [
+          {
+            "label": "课程与学制",
+            "text": "2027 入学，UCAS N201，BSc，3 年。可学习广泛管理领域，或选择会计金融、人力资源、创新战略创业、国际商业经济、市场营销等方向。",
+            "source_ids": [
+              "UK-MAN-MGMT-COURSE"
+            ]
+          },
+          {
+            "label": "学习内容",
+            "text": "第一年包括会计、金融、经济、营销、工作心理学、组织与管理和定量方法；之后可选修，末年有论文或企业咨询项目等路径。",
+            "source_ids": [
+              "UK-MAN-MGMT-COURSE"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "大陆普高／高考",
+            "text": "仅完成大陆普高或高考者应先走学校认可预科；高考不直接用于本科入学。预科是否衔接本课程及具体升学条件需按认可项目确认。",
+            "source_ids": [
+              "UK-MAN-CHINA"
+            ]
+          },
+          {
+            "label": "A-level 资格",
+            "text": "2027 标准为 AAA。学校重视科目组合；数学＋进阶数学＋母语这三科组合不接受。须同时核对课程页列出的优先科目及同场考试要求。",
+            "source_ids": [
+              "UK-MAN-MGMT-COURSE"
+            ]
+          },
+          {
+            "label": "数理基础与 IB",
+            "text": "须具备相当于 GCSE／IGCSE 英语语言及数学 6/B 的基础。IB 标准为总分 36，三门 Higher Level 为 6、6、6。",
+            "source_ids": [
+              "UK-MAN-MGMT-COURSE"
+            ]
+          },
+          {
+            "label": "英语",
+            "text": "IELTS 总分 6.5，各单项不低于 6.0，或提交认可的等效资格；有时效限制的成绩须在开课时仍有效。",
+            "source_ids": [
+              "UK-MAN-MGMT-COURSE"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "2027 国际生专业学费",
+            "text": "2027 课程页明确表示学费尚未确定。申请与付款前需要当年度项目报价。",
+            "source_ids": [
+              "UK-MAN-MGMT-COURSE"
+            ]
+          },
+          {
+            "label": "2026/27 参考金额",
+            "text": "商学院官方收费页列 2026/27 国际生年费 £33,100，并注明之后年度可能每年上调最多 7%。这只是上一入学年度参考，不是 2027 的已公布报价，也不包括生活费。",
+            "source_ids": [
+              "UK-MAN-MGMT-FEES"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "本专业数据状态",
+            "text": "Discover Uni 表示不足以公布 Management 本课程的独立毕业去向，改用校内 Business and management 学科课程合并数据。",
+            "source_ids": [
+              "UK-MAN-MGMT-OUTCOMES"
+            ]
+          },
+          {
+            "label": "学科参考：工作或升学",
+            "text": "合并学科样本在毕业后 15 个月工作和／或继续学习的比例为 86%；2021/22–2022/23 两届，样本 265 人，回应率 50%。不能称为本专业就业率。",
+            "source_ids": [
+              "UK-MAN-MGMT-OUTCOMES",
+              "UK-DU-METHODS"
+            ]
+          },
+          {
+            "label": "学科参考：毕业薪资",
+            "text": "同校全日制 Business and management 学科毕业后 15 个月年薪中位数 £30,000；2021/22–2022/23 两届，薪资样本 130 人，回应率 50%。不是单专业或中国大陆毕业生的独立结果。",
+            "source_ids": [
+              "UK-MAN-MGMT-OUTCOMES"
+            ]
+          },
+          {
+            "label": "毕业岗位实例",
+            "text": "课程页列出的近届岗位实例包括审计培训生、人力资源分析员、互联网顾问和管理培训生；没有公布这些岗位各自的占比。",
+            "source_ids": [
+              "UK-MAN-MGMT-COURSE"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UK-MAN-MGMT-COURSE",
+          "title": "BSc Management — 2027 entry（完整课程页）",
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03519/bsc-management/all-content/",
+          "checked_at": "2026-09-12",
+          "supports": "N201 三年课程、A-level、选科限制、IB、GCSE 等效要求、IELTS 及 2027 学费未定"
+        },
+        {
+          "id": "UK-MAN-CHINA",
+          "title": "Manchester 中国大陆申请者要求",
+          "url": "https://www.manchester.ac.uk/study/international/country-specific-information/china-mainland/",
+          "checked_at": "2026-09-12",
+          "supports": "大陆普通高中及高考申请者需认可预科；高考不直接用于本科入学"
+        },
+        {
+          "id": "UK-MAN-MGMT-FEES",
+          "title": "Alliance Manchester Business School 本科收费",
+          "url": "https://www.alliancembs.manchester.ac.uk/study/undergraduate/fees-and-scholarships/",
+          "checked_at": "2026-09-12",
+          "supports": "仅供 2026/27 历史预算参考的国际生本科费用及后续涨费条款"
+        },
+        {
+          "id": "UK-MAN-MGMT-OUTCOMES",
+          "title": "Discover Uni — Manchester Management（三年）",
+          "url": "https://discoveruni.gov.uk/course-details/10007798/413/Full-time/",
+          "checked_at": "2026-09-12",
+          "supports": "课程单独数据不足；2021–23 商业与管理学科合并就业或升学及薪资"
+        },
+        {
+          "id": "UK-DU-METHODS",
+          "title": "Discover Uni 数据口径",
+          "url": "https://www.discoveruni.gov.uk/about-our-data/",
+          "checked_at": "2026-09-12",
+          "supports": "毕业后 15 个月、统计样本、学科合并与薪资中位数说明；历史样本不能等同个人未来结果"
+        }
+      ],
+      "checked_at": "2026-09-12"
+    }
+  ]
+}
