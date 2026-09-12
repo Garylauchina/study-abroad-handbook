@@ -57,7 +57,7 @@ Sheffield Computer Science BSc：2027-28、G402、3年全日制、9月开学。
 
 ### UK-005 · 已核实
 
-Sheffield 2027标准A-level门槛为A*AA含数学，或AAA含数学及计算机；IELTS6.5且每项6.0。
+Sheffield 2027标准A-level门槛为A\*AA含数学，或AAA含数学及计算机；IELTS6.5且每项6.0。
 
 - 官方来源：[Computer Science BSc](https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-bsc)；位置：Entry requirements > Standard offer; English language requirements。
 - 适用范围：该课程本科申请者，另须核对所持资格换算；年度：2027。
@@ -73,7 +73,7 @@ Manchester BSc Computer Science：2027入学、G400、三年。
 
 ### UK-007 · 已核实
 
-Manchester 2027标准A-level为A*AA，数学A*且另含至少一门指定理科；指定NCUK/INTO预科要求A*AA、Technical Mathematics为A*、另含物理或进阶数学；Integrated Mathematics不接受。 还要求优秀的预科前本地考试表现（尤其数学/物理），并按完整学术背景核查。
+Manchester 2027标准A-level为A\*AA，数学A\*且另含至少一门指定理科；指定NCUK/INTO预科要求A\*AA、Technical Mathematics为A\*、另含物理或进阶数学；Integrated Mathematics不接受。 还要求优秀的预科前本地考试表现（尤其数学/物理），并按完整学术背景核查。
 
 - 官方来源：[BSc Computer Science (2027 entry)](https://www.manchester.ac.uk/study/undergraduate/courses/2027/00560/bsc-computer-science/)；位置：Entry requirements > A-level; Other entry requirements > Foundation year。
 - 适用范围：A-level或指定NCUK/INTO预科申请者；年度：2027。

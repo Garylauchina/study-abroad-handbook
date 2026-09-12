@@ -14,7 +14,11 @@ class Page(HTMLParser):
         super().__init__()
         self.ids = set()
         self.links = []
+        self.text = []
         self.feed(source)
+
+    def handle_data(self, data):
+        self.text.append(data)
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
@@ -54,6 +58,9 @@ for path, page in pages.items():
             errors.append(f"{path.relative_to(ROOT)}: missing anchor {link}")
 
 index = json.loads((ROOT / "search/search_index.json").read_text())
+uk_text = "".join(pages[ROOT / "destinations/uk/index.html"].text)
+if "A-level 为 A*AA，其中数学 A*" not in uk_text:
+    errors.append("UK chapter: A-level grade asterisks were lost during Markdown rendering")
 locations = {doc["location"].split("#")[0] for doc in index["docs"]}
 for route in ("start/undergraduate/", "destinations/uk/", "tools/budget/", "tools/compare/"):
     if route not in locations:

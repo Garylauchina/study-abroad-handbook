@@ -36,7 +36,8 @@ def render():
         "[阅读英国样章](../destinations/uk.md) · [查看原始结构化记录](https://github.com/Garylauchina/study-abroad-handbook/blob/main/.maintenance/uk-sources.json)", "",
         "## 逐项记录", ""]
     for r in records:
-        lines += [f"### {r['id']} · {STATUS[r['status']]}", "", r["claim"], "",
+        claim = r["claim"].replace("*", "\\*")
+        lines += [f"### {r['id']} · {STATUS[r['status']]}", "", claim, "",
             f"- 官方来源：[{r['title']}]({r['url']})；位置：{r['location']}。",
             f"- 适用范围：{r['applicant_scope']}；年度：{r['intake_year']}。",
             f"- 限制或缺口：{r['limitations']}", ""]
