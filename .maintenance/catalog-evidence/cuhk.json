@@ -1,0 +1,53 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://admission.cuhk.edu.hk/programmes/list/",
+    "official_total": 99,
+    "official_total_unit": "programme/stream rows in 8 faculty tables",
+    "pagination_complete": true,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "faculty_tables": 8,
+        "rows": 99,
+        "pagination": "All faculty accordions contain full rows in original DOM; no pager"
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "Broad-based Science, Social Science and Computer Science & Engineering entries contain multiple majors; detailed pathways still need reconciliation.",
+      "Passport and senior-year restrictions are retained from row footnotes. Qualifications not inferred from English website."
+    ],
+    "raw_artifacts": [
+      "cuhk/raw/directory-dom.meta.json"
+    ],
+    "university_id": "cuhk",
+    "count": 84,
+    "checked_at": "2026-09-12",
+    "directory_enumeration_complete": true,
+    "status_counts": {
+      "listed_current": 84
+    },
+    "record_type_counts": {
+      "programme_or_stream": 84
+    },
+    "directory_count_is_not_independent_degree_count": true,
+    "deduplication": {
+      "raw_faculty_positions": 99,
+      "unique_programme_stream_codes": 84,
+      "duplicate_cross_faculty_positions": 15,
+      "rule": "Same programme code, title, URL and applicant flags repeated under multiple faculties merged."
+    }
+  },
+  "raw_sources": [
+    {
+      "url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "sha256": "27c2d33578d6c242baeadd2562aef9afb96bb2c717bb72e5813b6e2657241945",
+      "bytes": 810325,
+      "raw_file": "scratch/full-catalog/asia/cuhk/raw/directory-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cuhk/raw/directory-dom.meta.json"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "original_manifest": {
+    "university_id": "yale",
+    "status": "complete",
+    "count": 81,
+    "official_total": null,
+    "discovery_source_url": "https://catalog.yale.edu/ycps/majors-in-yale-college/",
+    "source_period": "2026-2027",
+    "scope": "All named Yale College majors; shared departmental URL may contain multiple majors",
+    "pagination_evidence": {
+      "type": "complete static HTML",
+      "selection": [
+        "Retain every list anchor explicitly labelled B.A. and/or B.S.",
+        "Do not deduplicate on departmental URL because Astronomy/Astrophysics and Classics variants share pages"
+      ],
+      "pagination_links": 0,
+      "full_document_saved": true
+    },
+    "filter_rules": [
+      "Retain every list anchor explicitly labelled B.A. and/or B.S.",
+      "Do not deduplicate on departmental URL because Astronomy/Astrophysics and Classics variants share pages"
+    ],
+    "gaps": [
+      "Combined B.A./B.S. variants remain in one row where the university list combines them"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://catalog.yale.edu/ycps/majors-in-yale-college/",
+      "sha256": "6ac45b9fb140178545bd1658abebf1071e0827a072ceba35bead16bfe2359725",
+      "bytes": 20449,
+      "raw_file": "scratch/full-catalog/us-a/yale/majors.html",
+      "meta_file": "scratch/full-catalog/us-a/yale/majors.meta.json"
+    }
+  ]
+}

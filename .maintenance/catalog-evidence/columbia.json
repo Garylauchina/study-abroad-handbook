@@ -1,0 +1,275 @@
+{
+  "original_manifest": {
+    "university_id": "columbia",
+    "status": "partial",
+    "count": 100,
+    "official_total": null,
+    "discovery_source_url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/",
+    "additional_discovery_sources": [
+      "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/",
+      "https://www.engineering.columbia.edu/academics/programs/undergraduate-programs"
+    ],
+    "source_period": "2026-2027 bulletin; engineering marketing page undated",
+    "scope": "Complete GS Major section plus Engineering bachelor-labelled departmental indexes, three explicitly named old-cohort IEOR majors and one coordinated BA/BS route. Columbia College not yet mapped separately.",
+    "pagination_evidence": {
+      "gs_majors": 79,
+      "engineering_undergraduate_indexes_read": 11,
+      "engineering_rows": 21,
+      "pagination": false,
+      "engineering_marketing_advertised_major_count": 17
+    },
+    "filter_rules": [
+      "GS: only Majors section, exclude minors, special programs and legacy concentrations",
+      "Engineering: read all 14 directory links; 11 have undergraduate program child indexes, select BS programs plus formal double major; retain old cohort majors separately with restrictions",
+      "Exclude BS/MS continuations, premedical/prelaw preparation, MD, JD and non-degree offerings",
+      "Combined BA/BS route retained independently as specifically named undergraduate program"
+    ],
+    "gaps": [
+      "Columbia College complete separate major list not obtained; major-declaration website returned HTTP403 in both HTTP and Chrome. Department names alone were not promoted to majors.",
+      "Barnard affiliated-college scope not reconciled within Columbia University inventory.",
+      "Engineering marketing page advertises 17 majors while the 2026-2027 bulletin now lists additional/new/old-cohort variants. Exact cross-source total reconciliation remains pending; catalog cohort labels are retained.",
+      "No claim of complete university-wide coverage."
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/biomedical-engineering/undergraduate-programs/",
+      "sha256": "68a549ae195606553b36cf962bb459ed0e723332b19a7eb9a839774e818992aa",
+      "bytes": 11937,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-biomedical-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-biomedical-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/chemical-engineering/undergraduate-programs/",
+      "sha256": "cc5ca836c2e1170422626e0614984fbcea2a0179b563993a37613e780e9860bd",
+      "bytes": 11452,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-chemical-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-chemical-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/",
+      "sha256": "636fb64d6333b48ff6899458e83654dfee6fb7fecb41d29e06abc47c18611a5d",
+      "bytes": 231265,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-applied-physics-applied-mathematics.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-applied-physics-applied-mathematics.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/materials-science-engineering-program/undergraduate-programs/",
+      "sha256": "df8825d4dbded15709d0f9141ff6735db4c120adddbc925289303ac24126f5b6",
+      "bytes": 11570,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-materials-science-engineering-program.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-materials-science-engineering-program.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/civil-engineering-engineering-mechanics/undergraduate-programs/",
+      "sha256": "9aeb5cba751f85f8e657459ddf3efc544ad4c9d6f94c6ce8ac9272927fc0b90f",
+      "bytes": 16534,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-civil-engineering-engineering-mechanics.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-civil-engineering-engineering-mechanics.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/mechanical-engineering/undergraduate-programs/",
+      "sha256": "24dea262e4309de083effb8d306da856c5b2d73a63534c01419368b372bce174",
+      "bytes": 11478,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-mechanical-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-mechanical-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/electrical-engineering/undergraduate-programs/",
+      "sha256": "3a077e0a725abd751b60307d7d64686fd18494c31d44a13939f602dacd44ce8a",
+      "bytes": 11986,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-electrical-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-electrical-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/majors-concentrations/",
+      "sha256": "dbea42927d43066197c5c5f706add9919b2518efc8d111c8170638847d662511",
+      "bytes": 94860,
+      "raw_file": "scratch/full-catalog/us-a/columbia/gs-majors.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/gs-majors.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/",
+      "sha256": "71c8ce8ceb368b99ff96fcea935970e83e159d47b4f0b2ca3739c26d10043ddb",
+      "bytes": 9204,
+      "raw_file": "scratch/full-catalog/us-a/columbia/engineering-undergraduate.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/engineering-undergraduate.meta.json"
+    },
+    {
+      "url": "https://www.engineering.columbia.edu/academics/programs/undergraduate-programs",
+      "sha256": "e08b25082f8ab6e7d4e8056bee5bc494d99d4554f4f77a08e6d6dccf18fbdcb6",
+      "bytes": 24777,
+      "raw_file": "scratch/full-catalog/us-a/columbia/engineering-majors-browser.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/engineering-majors-browser.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/requirements-degree-bachelor-arts/",
+      "sha256": "36bc39389ddd7618f5b20d85148f8fb3074032759ea7f55550b5d43b745c05ca",
+      "bytes": 66008,
+      "raw_file": "scratch/full-catalog/us-a/columbia/cc-requirements.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/cc-requirements.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/computer-engineering-program/",
+      "sha256": "c617cfb650dc88e99e03690e7cd696610d795741bcfd874b403e323bf41575cd",
+      "bytes": 15345,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-computer-engineering-program.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-computer-engineering-program.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/earth-environmental-engineering/undergraduate-programs/",
+      "sha256": "59daa9b9ac8d42f0030884d1bb3610772d71dc0a03b805b80b0b969e75559315",
+      "bytes": 11979,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-earth-environmental-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-earth-environmental-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/electrical-engineering/",
+      "sha256": "c5535e8d6ad602092195074bfbfeb6245dd6b146d08649154a3f9d9f59cb7564",
+      "bytes": 315749,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-electrical-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-electrical-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/computer-science/",
+      "sha256": "c4b257493913160b41a3e166104e801af26c0bc1269a00c762c7c05b4b3eebc8",
+      "bytes": 299108,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-computer-science.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-computer-science.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/mechanical-engineering/",
+      "sha256": "2ba877c058af92f9e0b34a0169712fe6fc1085bd2446f72952d14db2f5dff5ae",
+      "bytes": 254753,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-mechanical-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-mechanical-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/chemical-engineering/",
+      "sha256": "f628776054f45bfffd7b2b1b3f3f55c84229cc6a472e175a37e0523bea8e91b9",
+      "bytes": 182525,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-chemical-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-chemical-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-college/departments-instruction/",
+      "sha256": "3f2549ab8f918f27ce35c13415f7304c174818403e867ab8d98b05f3cf59d34c",
+      "bytes": 32176,
+      "raw_file": "scratch/full-catalog/us-a/columbia/departments.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/departments.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/",
+      "sha256": "f5e239acf6d100aab605d219d27af59891f5ee1030958ed746d579399d3e39e3",
+      "bytes": 11884,
+      "raw_file": "scratch/full-catalog/us-a/columbia/engineering-departments.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/engineering-departments.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/key-course-listings/",
+      "sha256": "56423f5880c17aa188748f59093931f7e25a7d48e687be8d9814cad68153a034",
+      "bytes": 28098,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-key-course-listings.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-key-course-listings.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/earth-environmental-engineering/",
+      "sha256": "4b8dd39e21b365cdf8029a75fbfd9fa872d3f6682840b06907394bc45a8e144b",
+      "bytes": 272766,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-earth-environmental-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-earth-environmental-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/biomedical-engineering/",
+      "sha256": "8d74f1d0907a9dc56eae60ce3648c390709805a65fb736f31015daac3dc447f0",
+      "bytes": 275102,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-biomedical-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-biomedical-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/industrial-engineering-operations-research/",
+      "sha256": "02711d7499deec4976a035661de53b6dfade66ad7bbe94b2a20e5eb7fd3eb835",
+      "bytes": 377450,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-industrial-engineering-operations-research.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-industrial-engineering-operations-research.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/civil-engineering-engineering-mechanics/",
+      "sha256": "65ba1574d6a983efadcf5fa06f291c3cdefcc47fe637f0fbf1c663addf29648e",
+      "bytes": 225756,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-civil-engineering-engineering-mechanics.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-civil-engineering-engineering-mechanics.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/engineering/",
+      "sha256": "72d1854be4b57785f5c6ee6decf55e84e70123d7f3ba3d3a1f815818e9afc814",
+      "bytes": 16894,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/computer-engineering-program/undergraduate-programs/",
+      "sha256": "cd702707e481f64802f474d50270a9c0dfdfa62ad883f0078fde5a389f3defb5",
+      "bytes": 14809,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-computer-engineering-program.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-computer-engineering-program.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/undergraduate-studies/undergraduate-programs/junior-senior-programs/",
+      "sha256": "e1a8c9bfec8db08bda35591cb38e42d5de95a228c937753fb3e3e73f6a310dfd",
+      "bytes": 17225,
+      "raw_file": "scratch/full-catalog/us-a/columbia/engineering-junior-senior.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/engineering-junior-senior.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/computer-science/undergraduate-programs/",
+      "sha256": "104c7ff006e17000b5d4034cf83c8ee0d28edc00ab3a077fae4f177962ff4df2",
+      "bytes": 15801,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-computer-science.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-computer-science.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/applied-physics-applied-mathematics/undergraduate-programs/",
+      "sha256": "afd494cff0979501174d88d2064a7a897d56bbc27419816131686a3021a031a8",
+      "bytes": 48357,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-applied-physics-applied-mathematics.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-applied-physics-applied-mathematics.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/data-science/",
+      "sha256": "5d19b78b0cda735e639f7151e6c7428099fd8b766cbdc653bee89f64f1f6630c",
+      "bytes": 11567,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-data-science.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-data-science.meta.json"
+    },
+    {
+      "url": "https://bulletin.engineering.columbia.edu/undergraduate-programs",
+      "sha256": "6d718262f26965c3885d8a6cdc34ae1a15ca4915139c91ea1babae836bd3d93c",
+      "bytes": 656153,
+      "raw_file": "scratch/full-catalog/us-a/columbia/engineering.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/engineering.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/industrial-engineering-operations-research/undergraduate-programs/",
+      "sha256": "62b607da38fe94f5a0f1d95e3f2a7d458020a3bc0fe22062a06cec1ae1eeba70",
+      "bytes": 21674,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-ug-industrial-engineering-operations-research.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-ug-industrial-engineering-operations-research.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/materials-science-engineering-program/",
+      "sha256": "1c7f0e7036a5c053b27f47ec5edbaee1c8af20f2433ded54603ab93f6c0c00c6",
+      "bytes": 76521,
+      "raw_file": "scratch/full-catalog/us-a/columbia/seas-dept-materials-science-engineering-program.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/seas-dept-materials-science-engineering-program.meta.json"
+    },
+    {
+      "url": "https://bulletin.columbia.edu/general-studies/degree-fulfillment/",
+      "sha256": "7254f0c323cb24b100ed1b3e023555c4cd9aed38fe8185c477b6b9515fbca575",
+      "bytes": 97077,
+      "raw_file": "scratch/full-catalog/us-a/columbia/gs-degree.html",
+      "meta_file": "scratch/full-catalog/us-a/columbia/gs-degree.meta.json"
+    }
+  ]
+}

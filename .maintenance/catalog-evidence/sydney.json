@@ -1,0 +1,1587 @@
+{
+  "original_manifest": {
+    "university_id": "sydney",
+    "status": "partial",
+    "count": 317,
+    "official_total": null,
+    "discovery_source_url": "https://www.sydney.edu.au/handbooks/",
+    "source_period": "2026 handbook",
+    "scope": "Nine faculty/shared undergraduate handbooks: bachelor entries, combined-entry awards, subject majors/programs, engineering streams/specialisations and music principal studies; restricted and internal exit bachelor entries retained.",
+    "pagination_evidence": {
+      "faculty_handbooks": 9,
+      "second_level_indexes": 23,
+      "subject_overviews_read": 154,
+      "pagination": "Static handbook trees; all discovered second-level indexes and all Science Table A / shared Table S subject overviews read. No numeric full-university bachelor/major total published in this evidence."
+    },
+    "filter_rules": "Exclude diplomas, standalone graduate degrees, minors, individual units and generic course support. Merge duplicate shared subject identities by name/type, retain parent-specific field choices. Semicolon-separated official degree variants split; combined degrees retained as one entry. Source-listed old or restricted paths retained; intake not inferred.",
+    "gaps": [
+      "All nine faculty first/second-level undergraduate trees were read, but complete reconciliation of every embedded honours field, historical/exit award and degree stream across individual course resolutions has not been demonstrated. Do not label this as a verified full university inventory.",
+      "Arts and science honours fields and some engineering disciplinary specialisations may require further per-resolution expansion. Degree-major compatibility is not exhaustively enumerated.",
+      "2026 handbook presence does not by itself prove that a course is open to new 2027 applicants."
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/geography/overview.html",
+      "sha256": "26652ce7ebb9f0f0543cd1c8a103989986f5476120c6d30b091dcb9524245f09",
+      "bytes": 24372,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-868df82af675.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-868df82af675.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/linguistics/overview.html",
+      "sha256": "c9ad737c72d5a76c12bcc9300d823959fad7a67691251bf936458362c485bbb6",
+      "bytes": 25659,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-7968717c26d6.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-7968717c26d6.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/neuroscience/overview.html",
+      "sha256": "70e54a5cbb781c478671e0c5e917008f76807bbbbdba84291347ea35ad3ce781",
+      "bytes": 25899,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-ac5b1cdd9e52.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-ac5b1cdd9e52.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/economics/overview.html",
+      "sha256": "7b01233a9dc26025fa7a915939bf51aabcc4d7236726fcad40623772a87f5224",
+      "bytes": 25503,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-d441fd4db314.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-d441fd4db314.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/geography/overview.html",
+      "sha256": "601b8d03393df4d33f17080e65cfc4c633a9d7943d520e2e5585f7ba7a2cf2fb",
+      "bytes": 23220,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-abca9bd31e16.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-abca9bd31e16.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/international-business/overview.html",
+      "sha256": "08e18e0f917ce313bd4608d646e2fbc5ef9c45238276072bc4de2057fe4f99fb",
+      "bytes": 23762,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-c4f63190c055.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-c4f63190c055.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/visual-arts/overview.html",
+      "sha256": "215cafbf8ef6b061aa43ac44dc69a0af016c2ccbac46cf5c8812c9b4357ed283",
+      "bytes": 23481,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-4a1406f488f6.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-4a1406f488f6.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/physical-activity-health/overview.html",
+      "sha256": "4c4835dc4dc5b29a940bd92530f1a99509977680aff6177da5768d0abbfb045f",
+      "bytes": 22664,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-e2ee39cd9fb2.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-e2ee39cd9fb2.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering/advanced-computing/course-resolutions.html",
+      "sha256": "389ae74659be37361500920f3c658f22f3d0ebe0baeb45b499209ea7f412477c",
+      "bytes": 46107,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-engineering-advanced-computing-course-resolutions.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-engineering-advanced-computing-course-resolutions.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/digital-music/overview.html",
+      "sha256": "bb44ede7d302e30d13b67f2cf5ae2b54b0ad335d5500f1bef9094b37d71a859a",
+      "bytes": 26364,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-eac658e3c5d8.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-eac658e3c5d8.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/finance/overview.html",
+      "sha256": "37ff563228acc6a548175a990684bac15033ce1eb0f0d666f14b3cecd7685f69",
+      "bytes": 25200,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-b167dec36a81.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-b167dec36a81.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/life-sciences/overview.html",
+      "sha256": "72dc93fd9838a300f22538125e6e59ec8537d239530fa53bc12ad64ca774dd7d",
+      "bytes": 23165,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-974c4f3bd4a2.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-974c4f3bd4a2.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/virology/overview.html",
+      "sha256": "ce00e25821cd424d4087f41c78d1a8d74d5767e924a6acf027917f9f4f994333",
+      "bytes": 23125,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-a29351dca8b0.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-a29351dca8b0.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/data-science/overview.html",
+      "sha256": "61681853da87f5afc7a70fb544b4f15f70d6b3ef55694a6a358195a3e52da140",
+      "bytes": 24500,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-c3603e7a4f67.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-c3603e7a4f67.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/american-studies/overview.html",
+      "sha256": "aeac10a4bd922848682074694a4145bac7d8184e859d3889b1ec0c4e6155646c",
+      "bytes": 24144,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-014c934b4225.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-014c934b4225.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/jewish-civilisation-thought-culture/overview.html",
+      "sha256": "669c3851b9c62aeddd753f5d3256fb68c5d0677fccfc66eeb99c069f98032ce8",
+      "bytes": 25820,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-b77b269a5bdf.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-b77b269a5bdf.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/soil-science-hydrology/overview.html",
+      "sha256": "c082b41b8a853ae74aff8c98d3534c040d6bcd0a41704fdfbd19c8acebc61fb0",
+      "bytes": 23503,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-0f83ede238a3.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-0f83ede238a3.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/digital-cultures/overview.html",
+      "sha256": "047b317c027703a786baec3ff7a1e4cfcb02249e94188968259d23459230687f",
+      "bytes": 24742,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-49c2f538da24.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-49c2f538da24.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/wildlife-conservation.html",
+      "sha256": "702f291c4c94176342b76ab4a26c3d5a17ab68039ef2c366bf2b7d0babdf35d0",
+      "bytes": 23655,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-6441308a044f.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-6441308a044f.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/history-philosophy-science/overview.html",
+      "sha256": "111619b2cb7aaebf2e6ec7b3b5e678e1dfbf0968971b286876fa12f5d021598b",
+      "bytes": 24021,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-a7f25689d213.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-a7f25689d213.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework.html",
+      "sha256": "e0c5526d7cab18a2d06bc737ff94448ac065637fac84a8dfcefe6b8dda76b915",
+      "bytes": 29164,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-medicine-health-coursework.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-medicine-health-coursework.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/honours.html",
+      "sha256": "e313ac6debd36d6153a059cd22723df4d211e1e87a903cb456a490b0c3221a5a",
+      "bytes": 20903,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-medicine-health-honours.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-medicine-health-honours.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/animal-production/overview.html",
+      "sha256": "7143f291b6adf773f31abf1512552eb99a3fa31c8f0bdad5a7ebc75f40484131",
+      "bytes": 23145,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-76012ae12caf.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-76012ae12caf.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/b-advanced-studies-honours.html",
+      "sha256": "8a0e0f53836ea7cb3ae3110714ac8b4862bdb721e5a9afa2c5d850bd2028e111",
+      "bytes": 24174,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-interdisciplinary-studies-b-advanced-studies-honours.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-interdisciplinary-studies-b-advanced-studies-honours.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/hebrew-modern/overview.html",
+      "sha256": "d9ae6cda99015a2f2ce99a41dc68ead480210b953d91b6053e2be911987fd53e",
+      "bytes": 26116,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-2b57dd8fb893.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-2b57dd8fb893.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/gender-studies/overview.html",
+      "sha256": "39f643e9090bc6c70e846cdec5aef81d1c6e1e8ef5ff438512eabd89095a814c",
+      "bytes": 25707,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-a754dd0973ff.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-a754dd0973ff.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/accounting/overview.html",
+      "sha256": "5556f9ad76954220df38ed0b679cd8afc23a077bde3134678f5b2881984d381d",
+      "bytes": 25104,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-a48fd070caca.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-a48fd070caca.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/physiology/overview.html",
+      "sha256": "0ced320176fe53dec36231018576334a6beb2a54a37b6397ee1b2ab011d25d72",
+      "bytes": 26862,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-ff0917b01ab7.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-ff0917b01ab7.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/honours/health-sciences-honours.html",
+      "sha256": "f517018756ac44d9f5e6bf2982a61d978713aa27c58804967e8e47574bac32b9",
+      "bytes": 29500,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-honours-health-sciences-honours.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-honours-health-sciences-honours.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/environmental-studies/overview.html",
+      "sha256": "db97eafa9fa3b059de648fca0c3e528a78f4e0d42a39f69eac54d85afc6ce1fd",
+      "bytes": 23810,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-1a7891a8641e.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-1a7891a8641e.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/law.html",
+      "sha256": "ce7890224af3c600575c4edea49b6ffad377fb9caf32d9ef29b3a7b1851766e7",
+      "bytes": 25862,
+      "raw_file": "scratch/full-catalog/australia/sydney/law.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/law.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/architecture/undergraduate.html",
+      "sha256": "d60c59ed3f2d8ed08bfaecaa7844a36954191881d80284132a361d92e4641e94",
+      "bytes": 22440,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-architecture-undergraduate.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-architecture-undergraduate.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/theatre-and-performance-studies/overview.html",
+      "sha256": "31357387faf2ef0eb6871dd78f0a8a713a69cbe13e27746da35ae3b1b47ccfc9",
+      "bytes": 25008,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-aaf58043fe16.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-aaf58043fe16.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science.html",
+      "sha256": "ceb23c948ed3414c8b9fe1e9944b99c400e6709a9d46e9f829374236b343dc75",
+      "bytes": 27205,
+      "raw_file": "scratch/full-catalog/australia/sydney/science.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/science.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/politics/overview.html",
+      "sha256": "211e8c8bf84c57d08fc71ab354fb667f1bb3be4e8fe454ffcd0f32f6150f62ee",
+      "bytes": 26094,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-31c29c78b61e.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-31c29c78b61e.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/study/study-options/undergraduate-courses/majors-and-minors.html",
+      "sha256": "2b92ed3c8925401be82c0028dad1585db38f06d5ba67d856704d9af80bc6b46a",
+      "bytes": 78327,
+      "raw_file": "scratch/full-catalog/australia/sydney/majors.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/majors.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/germanic-studies/overview.html",
+      "sha256": "7883b3f9748cfe8a9612e5a3691dadd015556c27f16b955ce8906620c7ababfb",
+      "bytes": 26493,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-6d7cae75415b.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-6d7cae75415b.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/architecture.html",
+      "sha256": "e28adcde8ebc2e8b04eebb715bf5328e2041b1b96a32586f674ad963e3d91636",
+      "bytes": 24492,
+      "raw_file": "scratch/full-catalog/australia/sydney/architecture.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/architecture.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/ecology-evolutionary-biology/overview.html",
+      "sha256": "3452edb1335a36dd7b73132a2346e728bf6882f779cee0357e03a46c82a8f177",
+      "bytes": 23176,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-f64014849dce.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-f64014849dce.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/anatomy-histology/overview.html",
+      "sha256": "46af95ca882d6868a796c388168aae854d2b16ecc71bb57a5f3241f87bd58427",
+      "bytes": 25295,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-3e147881a2a4.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-3e147881a2a4.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/chemistry/overview.html",
+      "sha256": "d036a2d3b8da391e71f38fb316d0f49ea70f15ec761546110ce8311c79229478",
+      "bytes": 24567,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-4ed83aa8cd6b.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-4ed83aa8cd6b.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/plant-science/overview.html",
+      "sha256": "6e1ecdab64adf428412c6094992883e85d1ed79a77ea587b497c4f04269b4d1b",
+      "bytes": 24107,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-f2bb2d685e37.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-f2bb2d685e37.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/marketing/overview.html",
+      "sha256": "cc56d54fa728d7da755f2d2e01cf37a05f1f282f1153876268f3935da31e9020",
+      "bytes": 23229,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-4291c3e79917.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-4291c3e79917.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/diversity-studies/overview.html",
+      "sha256": "33a13ea0e8b7f01a76aa3bd08b18ca503fa3beef19d19a5a48e3062466c71c4e",
+      "bytes": 24879,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-5c5111e48a9b.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-5c5111e48a9b.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/financial-mathematics-statistics/overview.html",
+      "sha256": "ca763d6aa4cd08b40803c97c913aee9982a7b04f01612aa9f128f8e87ffbacbc",
+      "bytes": 25055,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-de4c65f85a96.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-de4c65f85a96.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/mathematical-modelling-computation/overview.html",
+      "sha256": "3901defbf1fbe3cb85149bf0da421daa8b928eac7b6f984f067df811abc9a48b",
+      "bytes": 24800,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-8da90c4d4cd4.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-8da90c4d4cd4.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/exercise-physiology.html",
+      "sha256": "1acc1b14608da32e908ee97071a8de4398c8ac4d77612aa992f7a533cadffd5d",
+      "bytes": 24174,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-exercise-physiology.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-exercise-physiology.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/applied-medical-science/overview.html",
+      "sha256": "6be0503d7ed5fd48d6eb788fa848d3a0ee44d65c287ab1906af42dd87293f0d7",
+      "bytes": 23521,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-3863e0cd3d1d.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-3863e0cd3d1d.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/computer-science/overview.html",
+      "sha256": "b16c34047a0deea1bdd0c4e02f22eaa858d3f766437934e24c08c5319f900ce1",
+      "bytes": 25266,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-f9cdf3bf1f31.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-f9cdf3bf1f31.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/arts.html",
+      "sha256": "b65b779d4d80e11543eceba89e349b4cbaee499b8ebc8a6327e4cfa0a2923e71",
+      "bytes": 25610,
+      "raw_file": "scratch/full-catalog/australia/sydney/arts.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/arts.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/business-school/coursework/commerce-laws.html",
+      "sha256": "b98254e0c320b898ed77db3311df23b6baad948d253d57f975732066c8ff3eb9",
+      "bytes": 33501,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-commerce-laws.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-commerce-laws.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/nutrition-dietetics/overview.html",
+      "sha256": "acac238e51a2e4bb850908d74fe059516b9834c012ad0d022967ff95e7b0dc2b",
+      "bytes": 23423,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-bd5db71c2c53.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-bd5db71c2c53.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/socio-legal-studies/overview.html",
+      "sha256": "df3a79b2db672f96e4dbd6660bfe33e431daba030bdb8882475eab86f68406b0",
+      "bytes": 31065,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-0b053058c43c.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-0b053058c43c.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/management-leadership/overview.html",
+      "sha256": "e609fb13af0520e04b9c4b12ca41b380823401a4f0bf804798d5efd52bb42cd9",
+      "bytes": 23958,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-facff0de92e9.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-facff0de92e9.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/infectious-diseases/overview.html",
+      "sha256": "b5581f2b5c47e4e3c7a58796c62c912faa526091f4db60dd0338d08311304e23",
+      "bytes": 24361,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-c08b01ebb84b.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-c08b01ebb84b.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/arts/subject-areas.html",
+      "sha256": "7f0db7d184efe01f868445eb73cc1d0e57efb70216c51bba14fcbf5600d9b4b3",
+      "bytes": 49492,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-arts-subject-areas.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-arts-subject-areas.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a.html",
+      "sha256": "6807b4b186ad8722186d09a33b01dad9b5a504e888e85db955431652291eed76",
+      "bytes": 40452,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-science-table-a.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-science-table-a.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/innovation-entrepreneurship/overview.html",
+      "sha256": "e110fad10b480f6b83258c8707cc3791a58519ce090a6ad2990ec54d62dd0661",
+      "bytes": 24538,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-f3455d0df021.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-f3455d0df021.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/biology/overview.html",
+      "sha256": "b91b153b1480525468b820b70986baf440ed4fb6fdc6e19f77e16d770ce4e2eb",
+      "bytes": 24449,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-7ed9cbaad9d7.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-7ed9cbaad9d7.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/banking/overview.html",
+      "sha256": "9107fd1191ffc7f06f7c35abe6204b0fed3964f9e7b3bd9181da2d7b4194bd52",
+      "bytes": 23199,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-83fe84bd158a.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-83fe84bd158a.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/business-school/coursework/commerce-science.html",
+      "sha256": "8b04cb3678cf6c3973a67a7e6b1b4c11594048ccd834eb7c5134d08082be4a7e",
+      "bytes": 35780,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-commerce-science.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-commerce-science.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/mathematics/overview.html",
+      "sha256": "10013f6efb611f26c6341bdaca580e59fc59b4051664e4e0f245b0528e698a98",
+      "bytes": 25232,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-4117cdf8a10c.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-4117cdf8a10c.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s.html",
+      "sha256": "f6e1dff4fe95c40475bff5343b5c6a7c163b9d8ae70a80d885b66431b7854587",
+      "bytes": 24982,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-interdisciplinary-studies-table-s.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-interdisciplinary-studies-table-s.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/study/study-options/undergraduate-courses.html",
+      "sha256": "37d1a7f505d8b0e4c7740feca14865171894373aa1a57057ee46b64c33689eb3",
+      "bytes": 52257,
+      "raw_file": "scratch/full-catalog/australia/sydney/undergraduate.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/undergraduate.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/italian-studies/overview.html",
+      "sha256": "71a117421bc9ff9d86079f4083fee22e04bab35e3e15546352fa91e5858774dd",
+      "bytes": 25683,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-8009aa43e73f.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-8009aa43e73f.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/psychological-science/overview.html",
+      "sha256": "630ade0197922a151161bb0930cd91cfc8835173123ecb20d3cd44bc48091e12",
+      "bytes": 25148,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-7767117923fc.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-7767117923fc.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/art-history/overview.html",
+      "sha256": "d4ee674bd17d8b6e423381b6f5b837b210ade5845f70d833233dc090805cf258",
+      "bytes": 24199,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-89f0939aed9c.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-89f0939aed9c.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/double-degree.html",
+      "sha256": "8b4811193be3d76e1078918a9c1ede2b2367a1cba7b8887948ba754c199f9320",
+      "bytes": 21183,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-medicine-health-double-degree.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-medicine-health-double-degree.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/spanish-latin-american-studies/overview.html",
+      "sha256": "83950016ce4fed9ead7ca5ded53063cf017673a6d0d217a7061afcb55dc83894",
+      "bytes": 26884,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-9275e88626eb.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-9275e88626eb.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/korean-studies/overview.html",
+      "sha256": "7b308e0c52db178c99cfb2216894e75fb256f120686142759daada1c1350e243",
+      "bytes": 25598,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-ddec5454b2d2.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-ddec5454b2d2.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/law/undergraduate.html",
+      "sha256": "2a10a4f41f575c1f36e79d5b6032caae2a2d0540b9da8b9fa2293d5a71395210",
+      "bytes": 22161,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-law-undergraduate.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-law-undergraduate.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies.html",
+      "sha256": "b5d3fd4a130e1162119c996eb0c5d17837d5a6571fd90383df172354bec872b4",
+      "bytes": 27716,
+      "raw_file": "scratch/full-catalog/australia/sydney/interdisciplinary-studies.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/interdisciplinary-studies.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/immunology-pathology/overview.html",
+      "sha256": "188d5ef3f633bd2bf7402a535e979b97a6cd5fed0bead8203bd5bd778d628154",
+      "bytes": 23715,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-c439360fc4e5.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-c439360fc4e5.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/studies-religion/overview.html",
+      "sha256": "40085fc4678267d2f8f53a077fa850e7630c9862f718196f67d7d5b814ea05f3",
+      "bytes": 23839,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-3dfec3fdcaf9.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-3dfec3fdcaf9.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/data-science/overview.html",
+      "sha256": "ec70333dcaf4431c053546f98e7c15325bac86b58fb881fe778ed03624764e28",
+      "bytes": 24420,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-232c939cbda1.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-232c939cbda1.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/mathematical-modelling-computation/overview.html",
+      "sha256": "9d16cca8d0d99a6ec0531bdf516e53c89e4945b5f0890e58f8396edfa2cbbaa9",
+      "bytes": 23998,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-1e1f95730805.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-1e1f95730805.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/wildlife-conservation/overview.html",
+      "sha256": "659cfbc419a8793264289bc72d0971edf74fcd91e3063304007f7f0590b8965e",
+      "bytes": 24506,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-e7bf47fb5ac6.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-e7bf47fb5ac6.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/japanese-studies/overview.html",
+      "sha256": "878af3c0f7a960f8eee350b2d28e66f34d73142c7ebf8f2ed447e241adad7b86",
+      "bytes": 26372,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-fc0e2f6997c6.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-fc0e2f6997c6.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/oral-health.html",
+      "sha256": "8fccecd947517afba6ea759358acd7bed862349441671df16e4ccf6f99918eab",
+      "bytes": 27542,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-oral-health.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-oral-health.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/cultural-studies/overview.html",
+      "sha256": "d25dc5d0827fa6ddeb573626dc456224b0b10e4d4d46b8d1dabafd01b2403208",
+      "bytes": 27101,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-f31a70f40d15.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-f31a70f40d15.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/biochemistry-molecular-biology/overview.html",
+      "sha256": "4fb6036eccb9de113ae7854e6eaf8ea4d7d536b7488d1742b588b4d12508e3b3",
+      "bytes": 23864,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-cf5a5059d3d9.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-cf5a5059d3d9.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/film-studies/overview.html",
+      "sha256": "2663b2d7411eb865b8dfd482f705687dd3c28d0d0d302f11dbcc419158c77b78",
+      "bytes": 23243,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-8b47e663cb49.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-8b47e663cb49.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/econometrics/overview.html",
+      "sha256": "3291ed76874c176607998f1c5bb3a85c8e027ed078568cb0eb1a428c9146c4ca",
+      "bytes": 25179,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-52a80ee14fa6.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-52a80ee14fa6.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/microbiology/overview.html",
+      "sha256": "52e9cac9db663a47cfa2daf498eae42d76b7e2e04960b011335fd429f43f5f41",
+      "bytes": 23992,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-642dd32daf8f.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-642dd32daf8f.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/business-analytics/overview.html",
+      "sha256": "7d58daf721b5fc8c4f79f80e24fb045b155f2dfaee2a3b9dfe2dbf5b1b20f896",
+      "bytes": 24783,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-9c0a42163a66.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-9c0a42163a66.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/business-school.html",
+      "sha256": "94720188d40b8a8ef36f93562c5ccb07f24bf79c9fb60199b375348c8295dcd9",
+      "bytes": 24523,
+      "raw_file": "scratch/full-catalog/australia/sydney/business-school.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/business-school.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/pathology/overview.html",
+      "sha256": "e14334963bcf87ecf6a9060fef408f64ea88eb34e1bfdfbb1537ba404187de60",
+      "bytes": 22710,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-a5c99e5f46a2.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-a5c99e5f46a2.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/environmental-science/overview.html",
+      "sha256": "35bf354b5e2cd10a39c82c5520360522fbf9d056123727c67cd95055d7bbfcfe",
+      "bytes": 23992,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-4b25e33faca0.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-4b25e33faca0.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/honours/exercise-sport-science-honours.html",
+      "sha256": "23f3c0ccab4057af9785b2c75d30d4a490cefcc3400dea7e89ede3a9ccfb8689",
+      "bytes": 24067,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-honours-exercise-sport-science-honours.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-honours-exercise-sport-science-honours.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/pharmacology/overview.html",
+      "sha256": "66abb343169de293f00335cac9ef09cc2088a8d30a961eab76e24e8e37a2b33d",
+      "bytes": 23757,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-a414eb7e827b.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-a414eb7e827b.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/immunology-pathology/overview.html",
+      "sha256": "32987a6d1aa3a0448264e1e047d7fd1c5592762c0188ae2bd27ada20be158696",
+      "bytes": 25404,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-cdef6c49f556.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-cdef6c49f556.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/industrial-relations-human-resource-management/overview.html",
+      "sha256": "3304b2d6e1b5edb608e548c1b1c0ea56433ea97339b6e8dd4bbb8b5ab733d78d",
+      "bytes": 25372,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-ea3b90b2e43b.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-ea3b90b2e43b.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/physics/overview.html",
+      "sha256": "ce7f2b5553f784b5f9685e14dcdd7c6867e07f0f27b83469b998deb2df9b352f",
+      "bytes": 27013,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-14f52b08df68.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-14f52b08df68.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/indigenous-studies/overview.html",
+      "sha256": "43caf9deb779d7b8c02c3d81e8498b29b5a9ed3728ca2d367df1c1f12b421040",
+      "bytes": 23597,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-4232432be030.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-4232432be030.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/genetics-genomics/overview.html",
+      "sha256": "55cb3b51f28840c7e1343b9eb4e3ee2828e91b6fe82ca43a8adc7185c60da298",
+      "bytes": 23305,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-bdf1e836b590.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-bdf1e836b590.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/pharmacology/overview.html",
+      "sha256": "c096010a8e47367c6e1bf538ff6c1fe4fea9a352f6144b6ceb9ff9afec8a10e6",
+      "bytes": 23677,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-87e61d5994c8.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-87e61d5994c8.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/biomedicine-and-health.html",
+      "sha256": "9688dacc8b81c6b1ce077d8dc9281495151c34a67d46d6791a09f19e39f013c7",
+      "bytes": 25950,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-biomedicine-and-health.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-biomedicine-and-health.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/food-science/overview.html",
+      "sha256": "7be39e0c34c5b2fc90da2d3c0bc04a0437849d45927915142b5d74f2fce78c1f",
+      "bytes": 22748,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-09effff30ac3.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-09effff30ac3.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/high-performance-sport/overview.html",
+      "sha256": "daee5d35fb95f16cd26d1a459d74978be8fe7fd103acbfbeb7b2195aeb63c539",
+      "bytes": 22456,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-55b6fef15518.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-55b6fef15518.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering/advanced-computing/majors.html",
+      "sha256": "67c98f10fa9a39df98165b087dbef3fce1505b937936543a02506c669a4f87f8",
+      "bytes": 22904,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-engineering-advanced-computing-majors.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-engineering-advanced-computing-majors.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas.html",
+      "sha256": "7992a1acc9400d71eb35f7871447582e5d6ca33e7a5225a0c8251f612f9a18d6",
+      "bytes": 97231,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-interdisciplinary-studies-table-s-subject-areas.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-interdisciplinary-studies-table-s-subject-areas.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/medical-science/overview.html",
+      "sha256": "a008bc0bac3fad3b4ecb86c84132dd7f548df1da1192b560cb39e4dcc92cbc0b",
+      "bytes": 25091,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-3b1dd22c6c31.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-3b1dd22c6c31.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/animal-health-disease-welfare/overview.html",
+      "sha256": "61767e6a37e4df1dcfafcdc754bf94d839117c94d0bf96e2b0da6d992623cafe",
+      "bytes": 25549,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-317a2f8a4074.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-317a2f8a4074.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/sanskrit/overview.html",
+      "sha256": "889d3c3632ddacc1d9f74693ebe6d1c64c116f6d866d01c97f0b42d5557770a3",
+      "bytes": 22932,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-f9d55e5412b6.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-f9d55e5412b6.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/neuroscience/overview.html",
+      "sha256": "341fff2f76bcb589d8c6075123e625d6e885abc7a3fe910bae31cab2186639d6",
+      "bytes": 23799,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-692ff0de3d6c.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-692ff0de3d6c.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/food-science/overview.html",
+      "sha256": "9fe5b00e3891062378c3035e73d45a18f8c9b58cc7670faa1db8e35a89a7d020",
+      "bytes": 22829,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-9a27bee7e852.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-9a27bee7e852.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/history/overview.html",
+      "sha256": "d2898d8b08493b4d9b078ce970d1c7deb145ae76089cadf04ec76ae384ff73b2",
+      "bytes": 25057,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-2cb2da5452fd.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-2cb2da5452fd.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/project-management/overview.html",
+      "sha256": "c5e017cac31f03ac5ba8bf007bda70caeaa0e47c3cfe63f395688fe1fee22b3c",
+      "bytes": 22562,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-9d316898dd5f.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-9d316898dd5f.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/nursing-singapore.html",
+      "sha256": "4fd9bd242670744765def468938151ff101e9b4a288eee30223f87e99218cff3",
+      "bytes": 22661,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-nursing-singapore.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-nursing-singapore.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/financial-economics/overview.html",
+      "sha256": "b18e89c2d222edf20fb0b8704a69832d0c7e52bc66ff4819ca5c09591f46fe04",
+      "bytes": 26172,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-a4bff5d4b169.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-a4bff5d4b169.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/french-francophone-studies/overview.html",
+      "sha256": "562595d02e5a63d2e1b80142b69d2b5a4e5a90f6a8504a7b9d4ff3508d6a6cae",
+      "bytes": 26644,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-28b592d44b69.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-28b592d44b69.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/anthropology/overview.html",
+      "sha256": "91a0ac406347414ab350ed851b0dfff5f6b8ae4cd7e9bea9666fdde083094fa4",
+      "bytes": 34013,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-64d63f3425fe.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-64d63f3425fe.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/disability-participation/overview.html",
+      "sha256": "cc591d6de16ff68468fbe00fbdd7cca4d43c509603deea2b0b6874d19a1b99ba",
+      "bytes": 23378,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-b3c78e721016.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-b3c78e721016.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/nutrition-science/overview.html",
+      "sha256": "7db9f40460d3b48030ba1e9e007d4374ad5d508f5adcf891cdb5e1928efec22f",
+      "bytes": 22569,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-6c12e0aff7b7.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-6c12e0aff7b7.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/science-nursing.html",
+      "sha256": "cfc242e9bd75b5530fb87146a8d9764d07fdd234726f39bd141db89529aa6b3d",
+      "bytes": 26416,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-science-nursing.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-science-nursing.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/nursing-advanced-studies.html",
+      "sha256": "41539a24dbf03b225d90043af313467732a30f1329fcdeb502bff29af4ba280c",
+      "bytes": 29857,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-nursing-advanced-studies.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-nursing-advanced-studies.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/medicinal-chemistry/overview.html",
+      "sha256": "65ed48468626495baf85e86a725d284cecc91ca1d9bc6ada12aed799192d1526",
+      "bytes": 24264,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-9eab1014b06d.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-9eab1014b06d.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/archaeology/overview.html",
+      "sha256": "4ac4d4eec774af639165f71691cbf08a798136e4782dd9994c45cf30b832ae9d",
+      "bytes": 25520,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-f82a6448753e.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-f82a6448753e.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/software-development/overview.html",
+      "sha256": "1a271e4a0b941a78029a73c589cddea6caa1fb3ac628ef87b95d5bf3830e66b0",
+      "bytes": 24915,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-99250372a52a.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-99250372a52a.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/sociology/overview.html",
+      "sha256": "f8d178198d89abb76cf96c455715bd184c89a135db51d306ac095152f3bbb666",
+      "bytes": 26738,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-20536e33a4f9.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-20536e33a4f9.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/conservatorium.html",
+      "sha256": "d522c4856f248c2b66a87e2de2a98213d6d9b0126c91657f95d716c717f2eb00",
+      "bytes": 26561,
+      "raw_file": "scratch/full-catalog/australia/sydney/conservatorium.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/conservatorium.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/arts/coursework.html",
+      "sha256": "7a75bf2875666b62ace80eddb7a105a58508ed7f0b458fbc3d1235d804ef733a",
+      "bytes": 44311,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-arts-coursework.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-arts-coursework.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/software-development/overview.html",
+      "sha256": "56d0492ce91605dd90ddfd651653263f85fa2df1465829e9ba66978f8d08ffcc",
+      "bytes": 23200,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-e0a4b0302fa1.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-e0a4b0302fa1.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/chinese-studies/overview.html",
+      "sha256": "1d1b82d38bf3de01811b64d7e46ef2ef189a7b06a5aa5530476ef2cc51506927",
+      "bytes": 26795,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-1d9f31c46dcb.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-1d9f31c46dcb.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/business-school/coursework/commerce-arts.html",
+      "sha256": "85c67a0dc3b9660e29e6b9df6b3316bdb67bab6929f8bbeb51ec361e4b2effdb",
+      "bytes": 34673,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-commerce-arts.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-commerce-arts.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/business-information-systems/overview.html",
+      "sha256": "13b0194ed02f0f6bd3399878437dfd9abef3aa0410eb64520d6a708d64b20e72",
+      "bytes": 24271,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-595012092ee1.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-595012092ee1.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health.html",
+      "sha256": "f018742e9bc25306f5165a1d79e1f2734923b70b834918177d6114da61846577",
+      "bytes": 27196,
+      "raw_file": "scratch/full-catalog/australia/sydney/medicine-health.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/medicine-health.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/virology/overview.html",
+      "sha256": "ea4f682859118f74635ac5cdf80854285ec61a04cd73824c00f34560a6948723",
+      "bytes": 24547,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-de5e5bf8d0a4.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-de5e5bf8d0a4.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/urban-studies/overview.html",
+      "sha256": "ff9a0d997c4860823749799cd112557e9d12bd7f67e9722bbffc9e34e2e025ee",
+      "bytes": 24310,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-98fd20271fcc.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-98fd20271fcc.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/financial-mathematics-statistics/overview.html",
+      "sha256": "4f7ba7e7090b82b1d71e3862be356f58daf274e152b7dee0af9f455fbb48c015",
+      "bytes": 24974,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-f549ee60e65c.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-f549ee60e65c.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/business-law/overview.html",
+      "sha256": "8d0e3a217a30d0ec05e0ea5b7248dc12568297a875a4d0ec76f95497ba8f3c9f",
+      "bytes": 22823,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-ff09ec4d32f9.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-ff09ec4d32f9.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/pharmacy.html",
+      "sha256": "88a882dad1a95e135c6a2f35d67e153d7c54bac8dac59493309d13d2246ab46b",
+      "bytes": 22505,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-pharmacy.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-pharmacy.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/design/overview.html",
+      "sha256": "10044c06d85823fa9ab33a7632258d6a6525e15855ed907c84e51c10bbdc636c",
+      "bytes": 23927,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-14d1d872d7cf.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-14d1d872d7cf.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering/project-management/project-management-majors.html",
+      "sha256": "f9b649a7d49869a061618bbb4e08217e6465038660edcb48b2d46cc30e51cf5f",
+      "bytes": 23290,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-engineering-project-management-project-management-majors.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-engineering-project-management-project-management-majors.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/occupational-therapy.html",
+      "sha256": "4ca958588636b878b01308f43904c14f15d5deb557184b616053430165dd2bf1",
+      "bytes": 33069,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-occupational-therapy.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-occupational-therapy.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/computer-science/overview.html",
+      "sha256": "2323e888a3b34e1344fd327793821258786f213cf60a457e90e2cfd31a634378",
+      "bytes": 23949,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-f8043768d1bf.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-f8043768d1bf.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/advanced-diploma-foundation-studies.html",
+      "sha256": "189ba9911eea570af668c749ef3c19d03607ead20918dad5e9bf48f82f6b1fe2",
+      "bytes": 20016,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-interdisciplinary-studies-advanced-diploma-foundation-studies.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-interdisciplinary-studies-advanced-diploma-foundation-studies.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/conservatorium/undergraduate/bachelor-of-music.html",
+      "sha256": "93c72874aabc40c11ce555d6e5c055504968d149175c5ab4ca84213a437f0ec9",
+      "bytes": 51202,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-conservatorium-undergraduate-bachelor-of-music.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-conservatorium-undergraduate-bachelor-of-music.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/physics/overview.html",
+      "sha256": "9c783855d0a9649f4dca7a2f69a5919d2809bb2f3196d1e6cbacc67b803728ac",
+      "bytes": 25345,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-a8ce8dc0d6f8.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-a8ce8dc0d6f8.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering/advanced-computing.html",
+      "sha256": "d63736cbd1ec3f39a13204c7bec34372c1e51f438b4003f1f732ddf819f8d9a1",
+      "bytes": 21651,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-engineering-advanced-computing.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-engineering-advanced-computing.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/speech-pathology.html",
+      "sha256": "b0cbde4fa8e9877597802695f8dd1d28ab4fa904ff1d76f0bf9416f3803d0b96",
+      "bytes": 30731,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-speech-pathology.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-speech-pathology.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/geology-geophysics/overview.html",
+      "sha256": "eef0675cb3bdfbb35f00e60f913f8decd2ee1001011281bdfd9bceb727129e39",
+      "bytes": 25682,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-491b6c358303.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-491b6c358303.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/nutrition-science/overview.html",
+      "sha256": "bbbe042a1acb00bc53872a3d0858f5307db4e59c1c1706a3d879c75a3ad99a80",
+      "bytes": 23066,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-db2bbd512529.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-db2bbd512529.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/business-school/coursework/engineering-commerce.html",
+      "sha256": "8a4849dee1a578b59dbad236386f746fc26f51518ffa066bca72eeeb5addc8c4",
+      "bytes": 26927,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-engineering-commerce.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-engineering-commerce.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/applied-medical-science/overview.html",
+      "sha256": "5f624f25b9e4c5cd8b903a8dbf630c3378ca5ea5fce667cc1acef8dacee1f422",
+      "bytes": 25158,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-641efe14a3c3.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-641efe14a3c3.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/soil-science-hydrology/overview.html",
+      "sha256": "4ceb66fe88f259afa3cacd1ef90a0bf52589892fe07ed97ff25b7d0e365d3c18",
+      "bytes": 23573,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-e7b770cb6668.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-e7b770cb6668.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/honours.html",
+      "sha256": "e53cd3b9328d1eceb08fa7b6e5e32e049e7fad9dce888c5c3ba5c632d59c6e9b",
+      "bytes": 26434,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-science-honours.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-science-honours.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/psychological-science/overview.html",
+      "sha256": "ac5279a5ef056f270b8313440b536334bc61b8693b595534f842aa647ac11104",
+      "bytes": 26779,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-03316473d2d0.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-03316473d2d0.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/business-school/commerce-subject-areas.html",
+      "sha256": "ee0235c721fea7f9f94a9e43df2d85a189f61b9e5badeadec80fbb47f048c0c0",
+      "bytes": 28525,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-business-school-commerce-subject-areas.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-business-school-commerce-subject-areas.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/modern-greek-studies/overview.html",
+      "sha256": "f017f63bbe9abaccf34efa2677502aed07f8a05d495ffad6b978c7dee3c2d8d0",
+      "bytes": 25379,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-caf2db7c5cd3.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-caf2db7c5cd3.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/geology-geophysics/overview.html",
+      "sha256": "249db00c2476fdf70aecc07a5208567175719ab339e2bb76368d8c25ffda6763",
+      "bytes": 25749,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-b24464492e0f.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-b24464492e0f.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/conservatorium/undergraduate.html",
+      "sha256": "6113259eacd974c7a11e84f26a02437d9c279f7c3f939f6c3a22d60e63317b4a",
+      "bytes": 25343,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-conservatorium-undergraduate.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-conservatorium-undergraduate.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/history-philosophy-science/overview.html",
+      "sha256": "435e56d64cff3ded2e22b14fe14a51658667a0064babf62b15e750b264da87ea",
+      "bytes": 23955,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-13b619da3077.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-13b619da3077.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/marine-science/overview.html",
+      "sha256": "bc002a946b64dc225ea5b46f6aa3624c7f6bd77a1ccac63f93494586a171ff06",
+      "bytes": 23249,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-4f611cc78978.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-4f611cc78978.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/international-relations/overview.html",
+      "sha256": "d3e6967738709066d3bf0c96d5aac31baa904c06ab34abd76bdf7b3b104b199f",
+      "bytes": 26620,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-b2c1ea6c9ebf.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-b2c1ea6c9ebf.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/environmental-studies/overview.html",
+      "sha256": "1b9be4dca46add68b48b08c3830f6530bd380dbc1b3fa94ea84865e282fbf239",
+      "bytes": 23880,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-c1bb3688b5a5.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-c1bb3688b5a5.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/biology/overview.html",
+      "sha256": "e3cfc4e2d387f36d26e62903b584bcc6b043805a6c57e9e9a26c318eaa57a733",
+      "bytes": 24362,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-7ece68e5951e.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-7ece68e5951e.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/music/overview.html",
+      "sha256": "c18614ee32bf81c4d4ae25efd6a396928a7e12539449902f9233c0b2779a54da",
+      "bytes": 21816,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-8f87cf9b7d60.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-8f87cf9b7d60.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/statistics/overview.html",
+      "sha256": "236d1e3d927ec4841d383914271e7b441b6ea3093961eac4663020d65eb29c81",
+      "bytes": 24259,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-b058c09bec93.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-b058c09bec93.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/medicinal-chemistry/overview.html",
+      "sha256": "05bc139323616fada18db311e650cef2fe61f335832538ed4593f0dc9a60c043",
+      "bytes": 24191,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-a23b66ee3455.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-a23b66ee3455.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/",
+      "sha256": "227ca77e772f092512356cb6e5940f13ca8c0d28b685ad41705c7d9f301f9106",
+      "bytes": 23589,
+      "raw_file": "scratch/full-catalog/australia/sydney/handbook.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/handbook.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas.html",
+      "sha256": "41505de697a08a6789f55af5e2e11992425fd144895397cdec63956c838eab6d",
+      "bytes": 51712,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-science-table-a-subject-areas.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-science-table-a-subject-areas.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/arts-nursing.html",
+      "sha256": "853105b897c1431bbdfdbd9e7d9b46872d477c6b7a75f3faf2382075810dabb4",
+      "bytes": 24703,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-arts-nursing.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-arts-nursing.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering/engineering-honours/combined-course-resolutions.html",
+      "sha256": "c3327a57150a9017fcc98388b19612fc71b0ad56b6bae3484b8f540a620d2ddf",
+      "bytes": 56790,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-engineering-engineering-honours-combined-course-resolutions.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-engineering-engineering-honours-combined-course-resolutions.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/pharmacy-management.html",
+      "sha256": "7971efc9cdb023e40811f9279409fcc2932d221196c076fffd9274eef456fba0",
+      "bytes": 22852,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-pharmacy-management.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-pharmacy-management.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/computer-systems/overview.html",
+      "sha256": "cf727c0fa3fe127b2bd7ff2606fae129700432d01ab14b22d5d7184953475dfe",
+      "bytes": 22296,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-b20e3767ecad.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-b20e3767ecad.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/marine-science/overview.html",
+      "sha256": "fa7c07ef613a817e9f98889f0079bd63db7680fd2f71791c0585f8b14ef67d87",
+      "bytes": 23169,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-14e5182570af.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-14e5182570af.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/coursework.html",
+      "sha256": "b1d00da79088e81df3efeaddb63005543ff9775cfca220b5d49b821871e51aaf",
+      "bytes": 35252,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-science-coursework.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-science-coursework.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/economic-policy-analysis/overview.html",
+      "sha256": "7e96828dd5a0797a0d6e7a9af7d5db9b0e84b49301bc0852a87be474a1d57fc8",
+      "bytes": 22862,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-5ef3aea02207.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-5ef3aea02207.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering/engineering-honours/breadth-specialisations.html",
+      "sha256": "c6bef7f8c73cab0233f8809e793a8d9360ecb127f66c14fabf187a228f776469",
+      "bytes": 24333,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-engineering-engineering-honours-breadth-specialisations.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-engineering-engineering-honours-breadth-specialisations.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering/project-management.html",
+      "sha256": "3593deefad2b70474113bf6eaec2db7f3e5a78c39ae6d4f3d5d5a061d15e7ae8",
+      "bytes": 22436,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-engineering-project-management.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-engineering-project-management.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/ecology-evolutionary-biology/overview.html",
+      "sha256": "bb312895b8eb636fe2890a568596f7f7ea10e0726c0349b36739c22f726b1b76",
+      "bytes": 23112,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-d5a99acf892d.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-d5a99acf892d.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/anatomy-histology/overview.html",
+      "sha256": "49b3ec871cd439796cb549762cb7fe6c15ec0c82a9baddd6a97d3684abb693d0",
+      "bytes": 25024,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-7a80bb2e9d7e.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-7a80bb2e9d7e.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/international-comparative-literary-studies/overview.html",
+      "sha256": "b90e88b1ce359c762b8a730324216c9c63067c6fd447077679e747a6212117f3",
+      "bytes": 24514,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-7272d4d30d4f.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-7272d4d30d4f.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/indonesian-studies/overview.html",
+      "sha256": "23d922484c16cbd8650b07fcf33ed51f7a07b5a0d9a6f299d9aa3b95ad67c6bf",
+      "bytes": 26097,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-efc52b142ac7.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-efc52b142ac7.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/sustainability/overview.html",
+      "sha256": "dd8211181924130a562bdbd54de887da71c69ccc14bb443df32c0d00796a3bfe",
+      "bytes": 22328,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-284cdd89cd7d.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-284cdd89cd7d.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/advanced-coursework.html",
+      "sha256": "6d383b153d6bba925582b5ebcc7e1fb1c278cb8a2ee7bd80176dd2ddc41bb6a3",
+      "bytes": 26008,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-interdisciplinary-studies-advanced-coursework.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-interdisciplinary-studies-advanced-coursework.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/exercise-sport-science-advanced-studies.html",
+      "sha256": "253f2e8b87472e1aa16a974df275c99177bd1a7f7f56c05e08b036f9043faa35",
+      "bytes": 23351,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-exercise-sport-science-advanced-studies.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-exercise-sport-science-advanced-studies.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/overview.html",
+      "sha256": "6807b4b186ad8722186d09a33b01dad9b5a504e888e85db955431652291eed76",
+      "bytes": 40452,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-science-table-a-overview.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-science-table-a-overview.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/philosophy/overview.html",
+      "sha256": "939450231f84f31a7af69006eaaa08da3228c3a7853da92fd72ab0a62342500d",
+      "bytes": 25046,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-bf6338ed9a63.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-bf6338ed9a63.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/arabic-language-cultures/overview.html",
+      "sha256": "def047de538c68f8e9ca519ea054ee6872404496a935c3434adafd115665e205",
+      "bytes": 26688,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-0aab54137fb5.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-0aab54137fb5.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/ancient-history/overview.html",
+      "sha256": "b44c34cdcc3a53d4024181f71f2be1d1cd3fed9dcc7cc5fa1cf1618071428dc0",
+      "bytes": 25323,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-02bb03c34d12.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-02bb03c34d12.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/physiotherapy.html",
+      "sha256": "8ca692a76584a4419e7d0046256b82e1f9fcd3fe57c884ce9499a560a91ce527",
+      "bytes": 30533,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-physiotherapy.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-physiotherapy.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/etc.clientlibs/corporate-commons/clientlibs/corporate-search.a3987bc0cae020a184491765a993e907.js",
+      "sha256": "c157776bcd4b5af29177942810aab041fb53899049139750acc06e9a857a86a9",
+      "bytes": 948015,
+      "raw_file": "scratch/full-catalog/australia/sydney/search-js.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/search-js.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/statistics/overview.html",
+      "sha256": "31738db3e0b8a9c92c57f5fb009d5ea13fdf1cca7726f197c8499a32efe307b2",
+      "bytes": 24177,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-7efc7c4529f2.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-7efc7c4529f2.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/hearing-speech-communication/overview.html",
+      "sha256": "6f9945f2ee5985e6d2fc3dff890aae192e5e544152cdd258bb4025f0c3a5246d",
+      "bytes": 24256,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-1ac8a41c2c69.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-1ac8a41c2c69.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/mathematics/overview.html",
+      "sha256": "9f475adc9180e64bdd9c4b5509f52d0d899762378397022798dcd49afb556814",
+      "bytes": 24736,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-0847d8914600.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-0847d8914600.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/criminology/overview.html",
+      "sha256": "da7c1d2d3cae8999fb6f6ee38c350519df10bda9e7e1756c92a9ccc27599e568",
+      "bytes": 26397,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-b8254dd48716.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-b8254dd48716.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering/engineering-honours/streams.html",
+      "sha256": "22417430aa54960586bf0eaddd57e6d1fff378ec16f9dc8216ee1029687d5893",
+      "bytes": 28356,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-engineering-engineering-honours-streams.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-engineering-engineering-honours-streams.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/plant-science/overview.html",
+      "sha256": "ca053c65628ab01b2c8b6dd6b0962bb0c8cd94289b257cea5cf28c8018d29b21",
+      "bytes": 23631,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-ec505298a46d.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-ec505298a46d.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/european-studies/overview.html",
+      "sha256": "20872edd9a171765915171c35db5d168a3cf5181fe0314f5d84d5e807a882bc1",
+      "bytes": 25117,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-331255c2899e.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-331255c2899e.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/discrete-mathematics-algorithms/overview.html",
+      "sha256": "08397084298dfe380c110cd136efc0f83f9c1cce009cb3c2162531fdcd4051f3",
+      "bytes": 24526,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-3cebb41e786c.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-3cebb41e786c.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/immunology/overview.html",
+      "sha256": "fe704d99f697252dca4f27d15558a162df1c48d1444379120306a9a1733858da",
+      "bytes": 22820,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-4fcb5aa7ed38.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-4fcb5aa7ed38.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/honours/nursing-honours.html",
+      "sha256": "4c6ab26624471214bdfad1cd6604d2533b43683dc20b349e780c0e1c42f3a62e",
+      "bytes": 22460,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-honours-nursing-honours.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-honours-nursing-honours.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/microbiology/overview.html",
+      "sha256": "97277288553adfcdad25765fed623e12ce1533e7080af08e43bf5a17e8324a47",
+      "bytes": 24073,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-8b0bc52122ab.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-8b0bc52122ab.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/infectious-diseases/overview.html",
+      "sha256": "66fd1a20a5521df443e126786abb7392353cf0875b9faa296d806de33f93a388",
+      "bytes": 24433,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-d7cdc793352c.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-d7cdc793352c.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering/engineering-honours.html",
+      "sha256": "8e33076e973e2f6d25d2c44621178784d25a1126f85dde23698c9b5ca67833b2",
+      "bytes": 44013,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-engineering-engineering-honours.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-engineering-engineering-honours.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/latin/overview.html",
+      "sha256": "75043f1939b3153ab5dc30c8c5080ab1296c050a53daac2560c10a44b8ed034b",
+      "bytes": 26494,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-1a06e69c0a78.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-1a06e69c0a78.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/ancient-greek/overview.html",
+      "sha256": "01439b585661c60fe2ab84310772f825e6616f5cc5f016b3725af25b8059ff62",
+      "bytes": 26808,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-56c45e86cb31.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-56c45e86cb31.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/discrete-mathematics-algorithms/overview.html",
+      "sha256": "63e795cea85892a4e41824f5357f8a5e94b735f64aebb35aa71fc5d5ca261c7b",
+      "bytes": 24998,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-3bfa8e9c3997.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-3bfa8e9c3997.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/law/research.html",
+      "sha256": "64ed3fe2e8c6525843bc3ae4904db69b63646539447087d2d7e848613cfb5c12",
+      "bytes": 20360,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-law-research.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-law-research.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/physiology/overview.html",
+      "sha256": "711c69f0bd4f97d68cf3ce6423a75d57d3b2469268cfe88afce7380211e7436f",
+      "bytes": 25118,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-25556033b382.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-25556033b382.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/astrophysics/overview.html",
+      "sha256": "525428ad86c17ab58cd14fc736f52d25c4aeba68eacb4a1380c0d22eab68d059",
+      "bytes": 23408,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-e8738c67ab7a.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-e8738c67ab7a.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/english/overview.html",
+      "sha256": "cda2c53a5929b42c95f715b9fa6e991a54e62db775dcdf8e0d3cec83dbc18d11",
+      "bytes": 24503,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-d1c107378c75.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-d1c107378c75.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/asian-studies/overview.html",
+      "sha256": "cff047298f0626a533052de4d156fb55ab778390ecb11fae7519941f2805c167",
+      "bytes": 24320,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-64b00128af55.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-64b00128af55.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/diagnostic-radiography.html",
+      "sha256": "6f786e63d5d9a8d833de42bb8ab9929090b973e0dbe8ae10406bff1deb5edb4f",
+      "bytes": 31711,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-diagnostic-radiography.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-medicine-health-coursework-diagnostic-radiography.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/engineering.html",
+      "sha256": "29e815bd5258616e34c03ec2269a860885e778189607e13d0553a9d641cdb7f8",
+      "bytes": 24935,
+      "raw_file": "scratch/full-catalog/australia/sydney/engineering.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/engineering.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/business-school/coursework.html",
+      "sha256": "6a74ba15b94c49616f0ecdb09060834ace6991a77ab98c6e0100801ff75ca3d2",
+      "bytes": 22084,
+      "raw_file": "scratch/full-catalog/australia/sydney/index-business-school-coursework.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/index-business-school-coursework.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/wildlife-conservation/overview.html",
+      "sha256": "e10b0d1a3a5ddbda6cf388f15bb42b7ea5945811d3313948897c9d5f2ed7647c",
+      "bytes": 23656,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-d7eca3a93ca2.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-d7eca3a93ca2.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/health/overview.html",
+      "sha256": "4422f0895fdb974fcbd919a4a1fcb7c1f0b3e282817168d6eaa52a0e78631b4e",
+      "bytes": 22242,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-ad0ef57ae52f.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-ad0ef57ae52f.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/immunology/overview.html",
+      "sha256": "daef18e044f136c2ba8f03db319eaca30072e78254cc4fc06bdb78b1f69c9417",
+      "bytes": 23711,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-00f4551ad675.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-00f4551ad675.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/psychology/overview.html",
+      "sha256": "867ffc181b468722a89a43fec878fab6fe31bb542e3a57f051b1b00c8db9b08f",
+      "bytes": 25712,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-3339b7680b9a.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-3339b7680b9a.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/business-school/coursework/advanced-computing-commerce.html",
+      "sha256": "ccd5cae71a5dca0cf4d5ef9b5ce63188f642b4abcb7893a100cd6340030b688b",
+      "bytes": 26065,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-advanced-computing-commerce.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-advanced-computing-commerce.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/education/overview.html",
+      "sha256": "8ee50da99cb8e3a5c31750a5dd1b5ed808d7ee883c56803a2697989f0472dffc",
+      "bytes": 25292,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-b93fb4e3e2e8.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-b93fb4e3e2e8.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/chemistry/overview.html",
+      "sha256": "250f69bbdf48bc7f125c7f1e301868dac79e55fe5e27bbe719041792c6cc2269",
+      "bytes": 24483,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-c33139f6d1bb.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-c33139f6d1bb.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/biochemistry-molecular-biology/overview.html",
+      "sha256": "f16c4c1dfb7becf9d2ce6c41f4f3654b48a96c92c461d8787457da876bf850bc",
+      "bytes": 23802,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-7a8638fffa3e.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-7a8638fffa3e.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/genetics-genomics/overview.html",
+      "sha256": "4245a20d03e8f042534dc6120739d5da2cfaaf2251d387ef3812bf2b7ce58850",
+      "bytes": 23211,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-043bf2a7583a.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-043bf2a7583a.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/business-school/coursework/commerce.html",
+      "sha256": "8b1299722a98176e37955fe1f4dd64fb5df453bcef10fdc158bbb6b483d7f05a",
+      "bytes": 40016,
+      "raw_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-commerce.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/detail-business-school-coursework-commerce.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/home.html",
+      "sha256": "cc9c188b17f3b3060075ab9e8abce0617b7c20477c1413850fdaddbfef314200",
+      "bytes": 23590,
+      "raw_file": "scratch/full-catalog/australia/sydney/home.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/home.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/political-economy/overview.html",
+      "sha256": "c3972a74d6e6c4d4e045c45c248d31bf2582b5ab247a235599e0ed3a86b26bef",
+      "bytes": 29858,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-25a6a806eabd.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-25a6a806eabd.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/pathology/overview.html",
+      "sha256": "2c8c37879237c20e72199f166946e2e1cb79dae8f81207c8c5aed92a17a0751c",
+      "bytes": 23812,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-075ece8cdfe9.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-075ece8cdfe9.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/environmental-agricultural-resource-economics/overview.html",
+      "sha256": "d3901db23c2dca393e193db6f7157030806b5fb2b9a5c09407b176aa2ac217bc",
+      "bytes": 25508,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-6cd829b073c8.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-6cd829b073c8.meta.json"
+    },
+    {
+      "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/health/overview.html",
+      "sha256": "2566abd40585e3644815dd3fbc6c433b501a9cc95763676cdd0e1f243a988638",
+      "bytes": 23013,
+      "raw_file": "scratch/full-catalog/australia/sydney/subject-734c41682017.html",
+      "meta_file": "scratch/full-catalog/australia/sydney/subject-734c41682017.meta.json"
+    }
+  ]
+}

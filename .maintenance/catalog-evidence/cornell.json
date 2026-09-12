@@ -1,0 +1,36 @@
+{
+  "original_manifest": {
+    "university_id": "cornell",
+    "status": "complete",
+    "count": 90,
+    "official_total": null,
+    "discovery_source_url": "https://www.cornell.edu/academics/fields.cfm",
+    "source_period": "current Fields of Study list; linked catalog is 2026-2027",
+    "scope": "Entire official Undergraduate Majors table across all Cornell undergraduate colleges, 90 rows",
+    "pagination_evidence": {
+      "table_id": null,
+      "rows": 90,
+      "selected_rows": 90,
+      "pagination": false
+    },
+    "filter_rules": [
+      "Select only table captioned Undergraduate Majors; first cell program, second college",
+      "Exclude separate Undergraduate Minors and Graduate/Professional tables",
+      "Retain separately published BA/BS and college-coded variants; combined BA,BS stays combined when one published row"
+    ],
+    "gaps": [
+      "Catalog.cornell.edu raw HTTP presented a WAF challenge; the university-wide Fields of Study table provides complete official links and award codes and was archived successfully",
+      "Individual program tuition/requirements not part of this discovery stage"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.cornell.edu/academics/fields.cfm",
+      "sha256": "8cdba2b5ce6547f8559cc506904fa62d8782c89de2938409a530d5f34cba9163",
+      "bytes": 222945,
+      "raw_file": "scratch/full-catalog/us-a/cornell/fields.html",
+      "meta_file": "scratch/full-catalog/us-a/cornell/fields.meta.json"
+    }
+  ]
+}

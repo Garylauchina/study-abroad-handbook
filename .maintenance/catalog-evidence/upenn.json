@@ -1,0 +1,62 @@
+{
+  "original_manifest": {
+    "university_id": "upenn",
+    "status": "complete",
+    "count": 207,
+    "official_total": null,
+    "discovery_source_url": "https://catalog.upenn.edu/undergraduate/programs/",
+    "additional_discovery_sources": [
+      "https://catalog.upenn.edu/undergraduate/interdisciplinary/coordinated-dual-degree/"
+    ],
+    "source_period": "2026-2027",
+    "scope": "All explicitly bachelor-labeled undergraduate catalog A-Z entries, including named concentration variants and LPS BAAS, plus five coordinated undergraduate dual degrees",
+    "pagination_evidence": {
+      "az_program_links": 319,
+      "bachelor_labeled_entries": 202,
+      "coordinated_dual_degrees": 5,
+      "pagination": false,
+      "raw_dom_untruncated": true
+    },
+    "filter_rules": [
+      "Retain each A-Z entry with BA, BAS, BSE, BS, BSN, BFA or BAAS award suffix, including separately published tracks",
+      "Exclude minors, certificates, graduate/submatriculation continuations and generic advising categories",
+      "Retain paused Fine Arts BFA with eligibility note",
+      "Coordinated dual-degree page names five integrated two-bachelor programs; retain these but do not invent every possible uncoordinated double degree"
+    ],
+    "gaps": [
+      "A-Z granularity includes concentrations and is not a count of distinct university-wide degree subjects",
+      "Specific campus, delivery language and duration left null unless stated on read source"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/",
+      "sha256": "a7ff46abc9141086edffd3a8b8e7a83c5f971ac9db37971d267d87c391113265",
+      "bytes": 72245,
+      "raw_file": "scratch/full-catalog/us-a/upenn/programs-browser.html",
+      "meta_file": "scratch/full-catalog/us-a/upenn/programs-browser.meta.json"
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/interdisciplinary/",
+      "sha256": "2a763883468b7dfc8f00a85ea0cb5a1d7202016770dca682fe5257b139439037",
+      "bytes": 44012,
+      "raw_file": "scratch/full-catalog/us-a/upenn/interdisciplinary-browser.html",
+      "meta_file": "scratch/full-catalog/us-a/upenn/interdisciplinary-browser.meta.json"
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/interdisciplinary/coordinated-dual-degree/",
+      "sha256": "dfad621898a335c4ee271b4c68bcebf9ec2df5c9fc0628aa6c2017dfaf29425c",
+      "bytes": 41129,
+      "raw_file": "scratch/full-catalog/us-a/upenn/coordinated-dual-browser.html",
+      "meta_file": "scratch/full-catalog/us-a/upenn/coordinated-dual-browser.meta.json"
+    },
+    {
+      "url": "https://catalog.upenn.edu/undergraduate/programs/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "raw_file": "scratch/full-catalog/us-a/upenn/programs.html",
+      "meta_file": "scratch/full-catalog/us-a/upenn/programs.meta.json"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.birmingham.ac.uk/study/undergraduate/course-search",
+    "official_total": null,
+    "observed_source_count": 345,
+    "page_evidence": [
+      {
+        "default_pagination": "35 pages at 10/page",
+        "expanded_source": "https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true",
+        "pageSize": 500,
+        "received_cards": 345,
+        "next_button_present": false
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "completeness_scope": "All 345 result cards from official undergraduate filter; nondegree language preparation excluded; other unlabelled awards await classification.",
+    "excluded_count": 3,
+    "excluded_file": "birmingham/excluded.json",
+    "filter_rules": [
+      "Use exact undergraduate academicLevel ID emitted by official UI",
+      "pageSize=500 returns 345 cards with no remaining pagination",
+      "All subjects and study locations, including Dubai, intercalated and graduate-entry undergraduate programmes",
+      "Three non-bachelor standalone records separately excluded: pre-sessional English, Food Safety and Food Legislation CertHE, Professional Golf Studies FdSc. Foundation pathways attached to bachelor degrees are retained."
+    ],
+    "unresolved": [
+      {
+        "note": "Current directory presence is distinct from open admissions; entry year is not stated on search cards."
+      }
+    ],
+    "raw_artifacts": [
+      "birmingham/raw/directory-all-dom.meta.json"
+    ],
+    "university_id": "birmingham",
+    "count": 342,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true",
+      "sha256": "4c5950051ee207e378a28445eab160dd5552882b86dc236bb4f7c333d3ab2797",
+      "bytes": 1795188,
+      "raw_file": "scratch/full-catalog/uk/birmingham/raw/directory-all-dom.html",
+      "meta_file": "scratch/full-catalog/uk/birmingham/raw/directory-all-dom.meta.json"
+    }
+  ]
+}

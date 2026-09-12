@@ -1,0 +1,29 @@
+{
+  "university_id": "melbourne",
+  "sources": [
+    {
+      "url": "https://study.unimelb.edu.au/connect-with-us/international/china",
+      "sha256": "25363f5e4184d134f390d0e612d5bdcd41fbd0c568ae234f7276ae49c03d50e6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/melbourne/browser-china.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements",
+      "sha256": "5302ccd556019a409290d554f00ebd70fcc92522f1081bd780bd6ad6953244eb",
+      "raw_file": "scratch/full-catalog/australia-enrichment/melbourne/browser-english.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
+      "sha256": "de501a45d999910eb3c12bdc6a12deb73b31f5f2722a0d56c0d5b252209421c3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/melbourne/browser-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+      "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+      "raw_file": "scratch/full-catalog/australia/melbourne/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+      "locator": null
+    }
+  ]
+}

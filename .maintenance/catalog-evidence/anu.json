@@ -1,0 +1,99 @@
+{
+  "original_manifest": {
+    "university_id": "anu",
+    "status": "partial",
+    "count": 276,
+    "official_total": {
+      "programs-all": {
+        "declared_total": 98,
+        "returned_items": 98
+      },
+      "majors-all": {
+        "declared_total": 133,
+        "returned_items": 110
+      },
+      "specialisations-all": {
+        "declared_total": 157,
+        "returned_items": 125
+      }
+    },
+    "discovery_source_url": "https://programsandcourses.anu.edu.au/catalogue",
+    "source_period": "2027",
+    "scope": "Entire 2027 undergraduate program endpoint plus all undergraduate majors and specialisations from catalogue endpoints",
+    "pagination_evidence": {
+      "show_all": true,
+      "page_size": 1000,
+      "all_response_item_lengths_match_TotalCount": false,
+      "source_counts": {
+        "programs-all": {
+          "declared_total": 98,
+          "returned_items": 98
+        },
+        "majors-all": {
+          "declared_total": 133,
+          "returned_items": 110
+        },
+        "specialisations-all": {
+          "declared_total": 157,
+          "returned_items": 125
+        }
+      }
+    },
+    "filter_rules": [
+      "Program endpoint restricted by official undergraduate grouping; retain bachelor and published Flexible Double Degree pathways",
+      "Exclude diplomas/non-degree items",
+      "Major and specialisation endpoints: Career=Undergraduate; exclude postgraduate and minor endpoint",
+      "Do not enumerate hypothetical flexible double degree combinations; retain actual shared admissions pathways and degree components"
+    ],
+    "gaps": [
+      "Majors endpoint declares 133 but returns 110 and Specialisations declares 157 but returns 125 with ShowAll=true and PageSize=1000; A-Z endpoint is fully returned but count discrepancy remains unresolved, so university not complete",
+      "Major/degree compatibility inheritance pending; catalogue list establishes identity, not eligibility for a particular bachelor",
+      "Specialisation is clearly separate from degree-level award"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://programsandcourses.anu.edu.au/data/ProgramSearch/GetProgramsUnderGraduate?SelectedYear=2027&PageSize=1000&ShowAll=true",
+      "sha256": "5773218265562660a7f8db45f584c16ab052b96417390f6cc45ec0df3e785f7d",
+      "bytes": 58274,
+      "raw_file": "scratch/full-catalog/australia/anu/programs-all.html",
+      "meta_file": "scratch/full-catalog/australia/anu/programs-all.meta.json"
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/",
+      "sha256": "030473d1803f3c8ee2383a7962efd82944d61d759c80cbf84da0a8efb3a8a0eb",
+      "bytes": 17485,
+      "raw_file": "scratch/full-catalog/australia/anu/catalog.html",
+      "meta_file": "scratch/full-catalog/australia/anu/catalog.meta.json"
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/data/SpecialisationSearch/GetSpecialisations?SelectedYear=2027&PageSize=1000&ShowAll=true",
+      "sha256": "26231f8a13afb8ee89b42b84b4069ea33e35b4ddc4ee60b6dbe7ce5b32c103cf",
+      "bytes": 16419,
+      "raw_file": "scratch/full-catalog/australia/anu/specialisations-all.html",
+      "meta_file": "scratch/full-catalog/australia/anu/specialisations-all.meta.json"
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/data/MajorSearch/GetMajors?SelectedYear=2027&PageSize=1000&ShowAll=true",
+      "sha256": "a59a563f8e47be70d26dab026e65c77934c6abea2033d0cb9453eed6e2155903",
+      "bytes": 13842,
+      "raw_file": "scratch/full-catalog/australia/anu/majors-all.html",
+      "meta_file": "scratch/full-catalog/australia/anu/majors-all.meta.json"
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/catalogue",
+      "sha256": "2423b5d1ee518b2a8eba9126f95f5c994f130f56f42f627de9ffdde1455df116",
+      "bytes": 65594,
+      "raw_file": "scratch/full-catalog/australia/anu/catalogue.html",
+      "meta_file": "scratch/full-catalog/australia/anu/catalogue.meta.json"
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/Scripts/SearchResults/js?v=Eez2TqrTT_XPgjS3YDFtsHgLY7le0RKOeEsNbmINfrw1",
+      "sha256": "04cd2427790daa866350642287f9a2312fb64d3503a310c0d120a375aa9b16e7",
+      "bytes": 80748,
+      "raw_file": "scratch/full-catalog/australia/anu/search-js.html",
+      "meta_file": "scratch/full-catalog/australia/anu/search-js.meta.json"
+    }
+  ]
+}

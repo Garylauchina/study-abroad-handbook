@@ -1,0 +1,1835 @@
+{
+  "university_id": "leeds",
+  "sources": [
+    {
+      "url": "https://www.leeds.ac.uk/admissions-qualifications/21834/china",
+      "sha256": "2a1f960fa67025e5f94126193d931bf02df90ca592dfb3dd2f4f9152b8f66c61",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/china.html",
+      "locator": "Undergraduate"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f834/accounting-and-finance-bsc",
+      "sha256": "c74972ab3098627f32dadee342b7116a7f2c7c5416e76dbabfffabdd233766b2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-01a0cafacf3da8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/undergraduate-fees/doc/fee-assessment",
+      "sha256": "c4b6a4105a150dbc773f3736b9226e7f9262b916e728545cd65b4a3f46a30e9c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/fee-policy.html",
+      "locator": "Fee assessment"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k196/accounting-and-finance-professional-talent-track-degree-programme-bsc",
+      "sha256": "17c058dc3c6075a582e40f181ecf23df704c84986a018373567cf26fbc913c49",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5d365ae55484d4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f702/actuarial-mathematics-bsc",
+      "sha256": "0eb00a1ad9b74e14a9feeeed7fd6acd648f4d8cd13305d909ffe93f5f4e25ec2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-318068b6a20936.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g492/advanced-psychology-mpsyc-bsc",
+      "sha256": "6480a9a9aa372fefda71af72961f6f12aff35923c79fa1f2b723581b180d9a94",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-bfafa311bfe7b3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a225/aeronautical-and-aerospace-engineering-beng",
+      "sha256": "60e1dc40e6e976b2f458d5f5ed4b2c84cac91d173060eb59a44dbabcd3d3a130",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-c791dd04de5974.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f414/aeronautical-and-aerospace-engineering-meng-beng",
+      "sha256": "55a799402a022f01bc3a2a1993d0f258ea41f0eaa8bf60422bb812bdeb348de7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5034ca3cd85fe2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g662/aeronautical-and-aerospace-engineering-industrial-beng",
+      "sha256": "ea54136b772b4a7ab6cd195744a36f5fcb490805119127e06a65a64d0bf95030",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4ae6084ae4947f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g285/aeronautical-and-aerospace-engineering-industrial-meng-beng",
+      "sha256": "f1aec9209acebd64617278df79a1da97da6899dbd6e3322cf6dd6ddcabdb8e33",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-dd4688422dded3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i988/ancient-history-ba",
+      "sha256": "7b1c261f2f45a10fa0bf369798537d2d27b209ef44b9a49023536eb0ffa5b575",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9acc8450d24016.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g676/ancient-history-and-history-ba",
+      "sha256": "ecb22e903bda94c1ba63a237d2b2b747f105807515768cfce4125c03c0edc2a8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-02c414db198837.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g678/ancient-history-and-philosophy-ba",
+      "sha256": "1b4ed96e06f2119b29074e53bb0d763451ca461131bec2dc12dabd1be452229b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ba8e917df3c19b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a248/architectural-engineering-beng",
+      "sha256": "287b892d36e589638709e2a78ff67fd6da1da4e525fa7c0719da70d533d73242",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5a5401b42ec9d5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f416/architectural-engineering-meng-beng",
+      "sha256": "25e53967b2fae70f5ef6a7a86516110ae28b42ec0051daf6787026d8970b55b7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8e8ab40b155479.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i143/architectural-engineering-industrial-beng",
+      "sha256": "ea64bdd830f0b6887eec35a2bfe6a8357658b37fa151dc7a8faecb84ae546e57",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-adc535fdfc1f82.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g652/architectural-engineering-industrial-meng-beng",
+      "sha256": "ce08aa4d9d69091c4bb45992b86cab3c6c530f4d984bf97272d96bc057eb8a0c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f97503b325170b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g800/architecture-meng-beng",
+      "sha256": "7801d650c86ec9ba6f8809dac3145291a075c8f7853a374dfb7fcf3170a47605",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-da65d801830ab2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j930/architecture-march-meng",
+      "sha256": "e43919489510809f0eec8804334c15e7aa0f4fcd5be0ede74e87fb48b38b6cc7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9fe466d9549c7b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i870/architecture-industrial-meng-beng",
+      "sha256": "640896298383ea4c1ca7c25295b4d7925f87b30bf778ac64ba21716540cbd3f0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-087644cbeeb1b2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k126/architecture-industrial-march-meng",
+      "sha256": "963ea789a7fdc82948c3f5a0ff34b17855f37ab93816f2295591d6a7dc688ccd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2e224cb53902ea.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f254/art-and-design-ba",
+      "sha256": "ce57cdf9ed7019cf353f1af170720e39a1ebf29cf12eb2d9ac51d4363baf3841",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3db2c35e61b750.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g294/arts-and-humanities-with-foundation-year-ba",
+      "sha256": "193fe5083c59f40f2c197c09e497bb8d77fd79e2ca8c70de942210eef77823b6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3d4bc54cd77551.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j568/audiology-bsc",
+      "sha256": "6eba626ab7218f01e89cdf5281c6e691882282a0a85d62569f7da831e7fdfdb0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-43dc80226e5cc6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/4794/automotive-engineering-beng",
+      "sha256": "485b54d9bc2a425acd661622cfe61ad6d5dd70660b93fd7ad6719d4defcc9a78",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d5ea3302e702e2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f413/automotive-engineering-meng-beng",
+      "sha256": "45b65c3123feee11d4947b3cce33664799febafc91766b6afda694f3d843759c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4a085e4a24203b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i038/automotive-engineering-industrial-beng",
+      "sha256": "cfe6e1200706e36288caff88633738e645c1288a253eb51a1a93744cc1161ee2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ba956cf7d09ea8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g287/automotive-engineering-industrial-meng-beng",
+      "sha256": "9272db46fd11cc9606ec0574b442824d4b2c6379b36d4b382a73858e0762c0f7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3c6ff533839c2e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j054/bachelor-degree-with-integrated-international-foundation-year-arts-and-social-science-ba",
+      "sha256": "7a86373c2ce815d4932d457a1805f2eb6cf11d8c3a81e74c1361ad414c3ec492",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-91122c501b0405.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j055/bachelor-degree-with-integrated-international-foundation-year-business-ba",
+      "sha256": "7836390da9a6ce6cf49029e9cd618eedd9f518f42999b59b0edd361992d416d5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5543a5b9d6a4c8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j057/bachelor-degree-with-integrated-international-foundation-year-design-ba",
+      "sha256": "d0c3fba073fc70f806816faeb24fb01c56d759f9c81c78cbbec787abc57630f9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-52c1a646c32505.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j058/bachelor-degree-with-integrated-international-foundation-year-engineering-beng",
+      "sha256": "0fc11f034de6c932371d17a7d2df89c2aeebbd6ca2b8cee1beea9346a18cf3d5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-c8369d79b43e0a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j059/bachelor-degree-with-integrated-international-foundation-year-healthcare-bsc",
+      "sha256": "a0a092958694a2be8538a046ff5a8925d8d939e2ffe6d73d4cee7979f4942d10",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-55a7314d1f836f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j061/bachelor-degree-with-integrated-international-foundation-year-science-bsc",
+      "sha256": "38efbb4371c7ce2cb981ce74ce0e0e5b5107937ab4c23852903fcc4a57b46575",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-128d0add98e335.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g986/banking-and-finance-bsc",
+      "sha256": "77b400609c56cdc3f30a7ae8299f8a3336db382d10fe8edf20031000533cd193",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-fa3ab62df84e1d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3130/biochemistry-bsc",
+      "sha256": "dc16113f9398663c6e4c90c92d7643254b48e90d0f2987d700d961943fa276e5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-51d0f39b0ba8c7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g257/biochemistry-mbiol-bsc",
+      "sha256": "ee1855d44c20a19af8a9fc888159c9ba94ca55cfb8af2fe84e469dd146149006",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-202831ae7c04c6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/e997/biological-sciences-bsc",
+      "sha256": "e423b834cc0d643d9c4500f2e0f085a62189d771b2f146a5c2898731fd952f9d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-0468b69fca487a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g258/biological-sciences-mbiol-bsc",
+      "sha256": "dbc5f1cf2cfef78516be53f0d3848ae8cd4757935106b02c8c61ea063796a2eb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-59185b6a1e106c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g377/biological-sciences-biotechnology-with-enterprise-bsc",
+      "sha256": "255b51717eb646621f9111737b2f1376ca43983e96cd06ef19a18b979e11348e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-639c5adeff3898.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g378/biological-sciences-biotechnology-with-enterprise-mbiol-bsc",
+      "sha256": "b63766e895a49f1f5ac83d3f2e49848c54298968afadba25279c4e8a05a62611",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-60c53820e448e6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3165/biology-bsc",
+      "sha256": "6a6837662340d27dfb2d21c92d225074cf4b41cc390889449f864591820027e7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-721acb438c4b99.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g259/biology-mbiol-bsc",
+      "sha256": "9e7a4b06cd2519ff9cf251c3ee3cbf58ff79328088062eb94f268283b9fe8607",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e8575156b365a7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/4028/biology-and-history-and-philosophy-of-science-bsc",
+      "sha256": "2d18e2b788755eba3e3c5f11174ef034a64316021c59bc2edceebb09f9b1f234",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-50cb42896f3cbe.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j415/biomedical-sciences-bsc",
+      "sha256": "0186c479ce02f89a66d8b84854e960cbbc19311282c7e39c4b458c28ad1917a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d267ea64437428.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j416/biomedical-sciences-mbiol-bsc",
+      "sha256": "3b878d036bab02ddafe2b848287d649e3f73fdd35962aa68ea81fe00668de4b2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-583b539efc51b7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k239/business-and-intelligent-technologies-bsc",
+      "sha256": "5243e0afb768fbc4e36a9fa7767f162f5725a37d54e0c2b7465fdeac6a3e6e6a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-09825009e6eaad.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f835/business-economics-bsc",
+      "sha256": "e06542448d1a1121b14b85106fd9ca93881d764420593e18f569ebda28db1720",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-bc26c32b530a7e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i475/business-management-ba",
+      "sha256": "6a4ad9a2ef98740a815cccd8a59d90e0ec559c8d3e0f4f848e27b3585c35232a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-def6c224fc3646.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k251/business-management-and-human-resources-ba",
+      "sha256": "c87b538b7db89e0e9246b1d80a742bfc347bdd885021acad4ce120dc17ff5642",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-84db030e1d1dd5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i079/business-management-and-leadership-bsc",
+      "sha256": "1ce590d3d923f1e0d3d5a8b31a2d59ec13888191a5d7a3676034900dba8a0304",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1a13608883b8aa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i476/business-management-with-marketing-ba",
+      "sha256": "dffdc011b8dcb51acefc72f7510e1f13698e156c56d9b1adc71a700c79604801",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-995a8934f6e644.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g150/business-studies-with-foundation-year-bsc",
+      "sha256": "fbc550c62beaca36588949d1738e7028bf81f641d52e745e2d2075c821283ec0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5871ddea0dd23c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/4810/chemical-engineering-beng",
+      "sha256": "4e7756335a995563671e4ca498d8f852abeb330759476faaa54e408fa3b31bb7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-b4508d87f974f6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f463/chemical-engineering-meng-beng",
+      "sha256": "b49196c34ef20caa7e5251fdddb20faf2e71638c15361fe7bc1748080fa0be3f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f722fa8695abf8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g832/chemical-engineering-industrial-beng",
+      "sha256": "8bfc1ee436e44cd85a301f55f494f179c00b3ed39e61d15c5d157fbc28223af2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-7daed2a7f271e5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g702/chemical-engineering-industrial-meng-beng",
+      "sha256": "df4d0aa6a6f4437d894160eb73b7d3c572c8a4f5d543ae0f6f5133d5667ed5d0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-a5ca7df53b55fb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3220/chemistry-bsc",
+      "sha256": "262b090491014075de8cf50e4fe0dbe185afd7cd4dc4a9cbba238ab0789ff653",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e3a9fb61f6cbb9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f422/chemistry-mchem-bsc",
+      "sha256": "36140c076089e533445b088f0acb6b40d2eecffd9aebc69b4141b59f6db2411f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-58e71f87ab1df1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/4187/chemistry-and-mathematics-bsc",
+      "sha256": "83bd25d124e3a22c8866dd4a5fec7614a4f63db8262590688c93b5dc52dcdcdc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e8527882c9e1a7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i040/chemistry-and-mathematics-mchem-bsc",
+      "sha256": "e5127abcc5921965906734667fe3fd83fb34c8cf62b42e32f2fe6dfe1f40f9e4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-60699c6547402d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f423/chemistry-with-a-year-in-industry-mchem-bsc",
+      "sha256": "79c1bb54127124588880e713ae3fe71d49d3b92dcee7b0e0ed4fb09bcc81c232",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-c932780838db37.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k048/chemistry-with-artificial-intelligence-bsc",
+      "sha256": "7147c6a0ded661533723ae601f0be5052a1857d2c97edf716e76d8d3789fa8a4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-c4b480055bd1d5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k049/chemistry-with-artificial-intelligence-mchem-bsc",
+      "sha256": "9806fa977a1bfebf140eb935b17097f0ef1c5e452cf6d40c918ab31921a97db5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-895ff8f119daf8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k055/chemistry-with-artificial-intelligence-international-bsc",
+      "sha256": "9444cd03facbda9c51c760d1dedff0257a45b056d38cdf514cf9629387b32cc1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-fe2b759417f087.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k054/chemistry-with-artificial-intelligence-with-industrial-experience-bsc",
+      "sha256": "08c8fff810ea0f72cafa65f25bcb4860b2a57f9a0359ad101b7f960101c54e78",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8a31667733aae7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k057/chemistry-with-artificial-intelligence-with-industrial-experience-mchem-bsc",
+      "sha256": "688ba521146fb63598c8d5a7b4e58aca6dfd8c7fd24de1524da93e35d155eece",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6f58bf80b6201f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i114/chemistry-with-study-abroad-mchem-bsc",
+      "sha256": "5dff94e0e51596a3506dd60bcb0b5ee1d16664c72bfc012bd123cbd816b8e9f9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-19eb87566c9292.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j554/child-and-family-studies-ba",
+      "sha256": "5c5d6c1abb451ce96a402169279a9b476dc0c1a9a4e7a3ee0360e12926e7b3b9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-c0f95adcf28ff3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/115/childhood-studies-ba",
+      "sha256": "af241c156946a293c3e19b5680b0d3b015a3c4a9372a3ca2e1ec19fc526db39f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e07a58ff4b880e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/e315/chinese-modern-ba",
+      "sha256": "3214ec284803b999b4af478afb3b91e511c13dba4830bee716148f0519444b9e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-963541cc44463d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/4836/civil-and-environmental-engineering-beng",
+      "sha256": "cb1291e72b92c95176956978716214e8879ac3a3e48ecf69e1a1524d63d63312",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3f375def97c0c6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f443/civil-and-environmental-engineering-meng-beng",
+      "sha256": "bc5de4645a49fdeeaaaf78e6fca94896e4cdccabf5e1038c20c69230d541dba7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1c02a5ded13430.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i064/civil-and-environmental-engineering-industrial-beng",
+      "sha256": "51ed9323729972620a9a948829efc1c01c384a8015f9302f1c16b799e0aeef5a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f5849763a3f0d8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g839/civil-and-environmental-engineering-industrial-meng-beng",
+      "sha256": "15e30742f1c327afc3b7230c628373c4eb7e3cf9d05dda7ad50efae3521728b2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-429889cb9e4203.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a252/civil-and-structural-engineering-beng",
+      "sha256": "592d9926ea03b7817da69c859d3856d5e8b29a3870982d0e275dcb990fbfbb1f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-470dd4521cfc41.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f412/civil-and-structural-engineering-meng-beng",
+      "sha256": "64738cd71a735d0870afa5c111b708159337a5e4ae3e355f8c495be8d83febe1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8a0b28a35c8deb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i323/civil-and-structural-engineering-industrial-beng",
+      "sha256": "ab27764e651010de307be06cf1396551c744e6aa294d484dd6663230da0b6b13",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ac8671a4343246.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g653/civil-and-structural-engineering-industrial-meng-beng",
+      "sha256": "74d15728f9a8e68daee8d44d756274f82c9cd2c5e3affed5e94e121f535a1617",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-251f30228c21b2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i444/civil-engineering-beng",
+      "sha256": "82df320889e1a8a8cb90cb6af09db07bdbea5b69c3a107c91c8eed5b6e33d025",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e3449d942cc3bc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i445/civil-engineering-meng-beng",
+      "sha256": "e3b864b79b049079a863e4e96df2cca27711665e8c49bb0e1d7d22a409a38160",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-7e586d959c4fb3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j155/civil-engineering-industrial-beng",
+      "sha256": "f6f1007fad21e28ec771fae44bfa15b2348301a61bbe999cb0a2c919c6fc23a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d85dba104fb32f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j621/civil-engineering-industrial-meng-beng",
+      "sha256": "1fe382c93865ccc5998452339492d72128198608d853f3bbc92c3a22796445bb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1d164a5af3a113.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/0090/classical-civilisation-ba",
+      "sha256": "74cb9bde455acee035a49bac634eae7a883e93ea01445c2889022db6eb9bf066",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f664a8a41c4774.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/856/classical-literature-and-english-ba",
+      "sha256": "690121bdfbf746c674b70240ab638fe5a3a41fece737863faca979cbd66c8d24",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e7e48e0efb0523.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g199/communication-and-media-ba",
+      "sha256": "d97281ef20b317a414e7fa24ceb3c814de5f127f248e897d821d0a15d60d5417",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-564a8fcc5dcf0a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3260/computer-science-bsc",
+      "sha256": "820f4a779cf6bb5fc9d0a10636c29597e90f57f0b3811370d21d75bae118b32d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d3b7c20a127281.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f919/computer-science-meng-bsc",
+      "sha256": "83124492a3b84c4bd89d5c89ae9d1ff5bdd352ac982ad4bb0f4e22dca861700a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3a4483bd32c75e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k108/computer-science-artificial-intelligence-bsc",
+      "sha256": "deaaf6b7ba9015b2c52568cc48fd7824a94714c25bd993ed4c61c5b12778aa58",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-84ac5c938a00a7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j750/computer-science-artificial-intelligence-meng-bsc",
+      "sha256": "1bc0e107b9fd39f5bd5dc79433e8e9788f3e9d04c1393ea00bb8ffc2b920b845",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-59c7c4e133aa1b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k124/computer-science-artificial-intelligence-industrial-bsc",
+      "sha256": "3b06ea9829ad3c96639b6d791dd082fa7445b364534fd9e042e78e45ed0981f8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d064fe3d610e8a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i607/computer-science-artificial-intelligence-industrial-meng-bsc",
+      "sha256": "ebc493e1087cb4a696196422ef732b05845778c036d59016bd46915d97e91c71",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-52371e002332fe.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j751/computer-science-high-performance-graphics-and-games-engineering-meng-bsc",
+      "sha256": "a231979e355727dda225c55e8115814aa3e766037ae7d67d0b4391d258e78f2a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8a6a6641cdc672.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i698/computer-science-high-performance-graphics-and-games-engineering-industrial-meng-bsc",
+      "sha256": "1042a1e62c9ec4b3334eb187ca3e54b56896d1e4366cca1551dacf1c77d7d4bc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6e5f5b59c00d90.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3262/computer-science-industrial-bsc",
+      "sha256": "4c24b3f2278fdaa48b2d12b0bd0c1e765720a21f4e8534035fd68be7d01ea961",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8c1d7ad63a64f0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g098/computer-science-industrial-meng-bsc",
+      "sha256": "151ed1fea0ea959c1b0c895786d720560ffec845d0b516862a96aa887b6c8b6b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1a16e9f3d4cf7e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/e989/criminal-justice-and-criminology-ba",
+      "sha256": "948cf1956f512284def73ef9a4c62b872a29d93e79c86d651d7b6951ba7516c5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-33724fca224374.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g641/cultural-and-media-studies-ba",
+      "sha256": "53056a6880a53fec142b7bf40046180b785304c7f94464214c8c3cdbcb89d7a9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-669ab6c770f96c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j747/data-science-bsc",
+      "sha256": "034d34e28a844caa7f5575e3ad4c7f131d947435ca769481beaf6024932ca8e4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3f8fcaee7210ec.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i125/dental-hygiene-and-dental-therapy-bsc",
+      "sha256": "afd309226ef703f83bb40aa67d29792433ed0343cf740ead7cf6aabaf8bdcf3c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ac018666569520.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j926/dental-surgery-bchd",
+      "sha256": "d0afa80c0f6f2042e1e8e438dd7ac19e6daea5637a898f9e04671d103472ab80",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-eca05ea7619da3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i102/diagnostic-radiography-bsc",
+      "sha256": "04e4a424ca98df062fa3e9caf1b27768d6b390fb356ef5a8719c5f446431dab5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2e178873ec98f3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g856/digital-media-ba",
+      "sha256": "7963427e7bbc1f321a1f60cfa64f8d8e320edb8fb6ac8b4802a96a7dd24b5a17",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4e357feac1feb5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j762/east-asian-studies-ba",
+      "sha256": "0058ee4833821752f16d539489e41b5bc49478ff18bd85a7bfbd39d9822c9e63",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-24d19c82d6802e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i077/ecology-and-conservation-biology-bsc",
+      "sha256": "e55233b99e38fc222e3ec168852eda0626dfc5cef63efe305bf9364590f7682e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-90a6a2427dce1f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i078/ecology-and-conservation-biology-mbiol-bsc",
+      "sha256": "04b019b8b8fa351172747e6360317d5fda693542af49a099a38a4b13df87c1ad",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-7ea38e6a9307c1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f836/economics-bsc",
+      "sha256": "f1e44fd9ee29659ed8d52a891c890cafccd2e1ba5d7d165f4f05801618eddb0e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5e7090bc2dcf50.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g048/economics-and-finance-bsc",
+      "sha256": "624906347c01b6452fa330b4742cd091476d6b2b5dd777d11c9e0a155078e05b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-a7c1f0cd9875a9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/0930/economics-and-geography-ba",
+      "sha256": "9e5b865c46d36a063dae6d132669b5f91ac5197b76cfda41e3a107041604dbff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ebb360fd925c59.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/950/economics-and-history-ba",
+      "sha256": "23fc097b74c72da0c4779dd0253c2b52a525800648b1f1510ae3510704335e17",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-02c91464e90b0d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/4393/economics-and-mathematics-bsc",
+      "sha256": "944c43e6a5bf4f1dfd7cfb62e9ea227c7c17fde67e29029a7c41b97c52a6bf4d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9b8ee55ed8dec6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/1000/economics-and-politics-ba",
+      "sha256": "cc771dbdad8fcf0af9981f81a3b21cd5a9ad88099dde3497ef849e4266898c27",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-57b3ff50dd92d1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g971/education-ba",
+      "sha256": "c9f075f217928749d127c16d1033f24a9c90947fde159cc2a8ce56a3e5ecce28",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6dd36fe20be2d3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/5000/electronic-and-electrical-engineering-beng",
+      "sha256": "cb94cdd1129b62254201c35c7d066e9e41bf6e6660a97884d41ac9d544b93c1b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-21ba469de44004.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f456/electronic-and-electrical-engineering-meng-beng",
+      "sha256": "1b7ee4bbbcc77f05a047c073cbc18028a7e958e5489860c146bbe62e0a2c206a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-0d9af0bfc12561.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/e917/electronic-and-electrical-engineering-industrial-beng",
+      "sha256": "ec1ab6232091148707fff8a22e160210a154634cf3d7f6a92431d500092d0683",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-90d03a263bc43f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g539/electronic-and-electrical-engineering-industrial-meng-beng",
+      "sha256": "2cf787da8eb64106504db3447bccbaf9b58ca940c806d763affa920ab19abbac",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5776bd95831d9c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j749/electronics-and-computer-engineering-beng",
+      "sha256": "8f3736fa7c38b20a1bff6cae2f89f54ba30be4df0fe167393a2d8433dcf3f31f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-fa74788a48249e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j748/electronics-and-computer-engineering-meng-beng",
+      "sha256": "a96ebc203834e56ac44af5dad35bce4a9fe40ffef01ef23de7640904b12510cc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-a0d849f2c195e5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k000/electronics-and-computer-engineering-industrial-beng",
+      "sha256": "15e34f28119d4fcecbe8ad65320461ba2719eebbdcaef43db2a1beade75bc3f5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-925b52ef53d64a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k001/electronics-and-computer-engineering-industrial-meng-beng",
+      "sha256": "c01a070fadc3d9ba6a34497d8ff7a11748b08db050c778481004cbfd8960f247",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-deb0ec4aa61d33.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g674/english-and-comparative-literature-ba",
+      "sha256": "9fd94c205efd9f4caa2cefcd2f01c5bd9f49f7ec21d1b320d17727070cd9e66a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-c1fd48e2c2ecb1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g558/english-and-film-studies-ba",
+      "sha256": "2ae98ccfbe041067e7a3c7cefff0b1e86f66bd705a7e93f1afedfe59c42c0dbe",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8131928017c468.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/1100/english-and-history-ba",
+      "sha256": "bd6225d290f877ad8be942d37324883470076d4e041d7e3ed14cec723334f082",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2f3a36d518ee48.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/1150/english-and-music-ba",
+      "sha256": "ee972b1b80915d37ed45d56cbada868eab9de7914846c930796ab4aecf5892c4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-839d3a4f8f7625.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/1160/english-and-philosophy-ba",
+      "sha256": "d741aee7689f7831d029c9deef83f4f5aec45d1266787217061fe7eff7fe2950",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-24d409191d76a3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/1220/english-and-sociology-ba",
+      "sha256": "00ac282919c6078c5f8e3cc2e8cbd0167fc7429229c887b6ef6a26da93efe910",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-0f916e8883085c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g326/english-language-and-linguistics-ba",
+      "sha256": "a7c3b8bd9d1873c03d4e682dfe9ac159bf76640e7cb51e15e47486493b20e35e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-b557c266a2b316.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/290/english-language-and-literature-ba",
+      "sha256": "fc98a7348901c3fb203662f85bfd80b0538e5bdd97a9737f87aa721815ee69e1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8d63ceace61cf5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g153/english-literature-ba",
+      "sha256": "f3328d27d750f3ebca8f4ae3917eb05a7289775028fc8457ff42680cb6dd3390",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2c02e630730eab.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i438/english-literature-with-creative-writing-ba",
+      "sha256": "f8a2e09cb828fabd41e140dbdf499b5ba73155193be8330a28c9d34297da7fbe",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-b178cea46c81cf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j854/english-theatre-and-performance-ba",
+      "sha256": "e2ca188bb5ff6a74756e3cc0c3369c3a3e53657811cf89a18d98e138b60d2b52",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-eeff2db3d8098d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a467/environment-and-business-ba",
+      "sha256": "7353e8a0c7a8957797ec7f9b86794b2749984e689133811cd8e433e5ce531190",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3fd7b2cce695a7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j931/environmental-geoscience-bsc",
+      "sha256": "c3a29b8495f869a8b7a5bcd0a197fe2c1fc6e92fa14b00456c71e51b0b61eb03",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-0ef0b4d63c4ef6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3314/environmental-science-bsc",
+      "sha256": "a81f4feacb31b3692ac4d6dc466a67a972e3b6123a75d52d9ded14be18f64fcc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2cb1cebb8c42bb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j389/fashion-design-innovation-ba",
+      "sha256": "98c673d6d927d1c6a8d457d3435772b82c24c44eefe5f4eb70417124a038bf2e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-bfe289ee265b52.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g186/fashion-marketing-ba",
+      "sha256": "1bdfb0e5c331417d8bf702e5c503e220363fd882ea82eae893ad4a67ea117408",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-418d6a09644f01.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j392/film-studies-ba",
+      "sha256": "8c7cdc58422ebced1dd47abaed043a643a48a67d92452df80b2616e87d824c1e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2cfb6a9f35f997.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g619/film-photography-and-media-ba",
+      "sha256": "65f2ccb1620e1a206a70b8c8c3b66121358f5f80b79f8824fd2a4de0be620daa",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d48bbd3924bd64.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g139/financial-mathematics-bsc",
+      "sha256": "819f22c0ee96978eb9da393f2c6be14869cfdb4395fd6edde699ff37350a9383",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-66a3ebb5e05c06.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/e134/fine-art-ba",
+      "sha256": "d33ab70b50a54ae5016aece13cfdc5f62e1f4ac67af58d482033a00734c92233",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2f56e0f53de110.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g644/fine-art-with-contemporary-cultural-theory-ba",
+      "sha256": "38625fe51d5c9551cc66b401ef4f6f271650ddc991a877ba312e2329cc4261f8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-51a321c970ce08.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g642/fine-art-with-history-of-art-ba",
+      "sha256": "206e033a85464dc8b66bc7434e83308487a2fdea16a7b70f12f0243bf54c8e2c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-385ac4933ad388.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i254/food-science-msci-bsc",
+      "sha256": "b998158f41dd551105649a06930e528387195cb0fa9c207ef777bb75d6ab333b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-0f23ddf85db668.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3335/food-science-bsc",
+      "sha256": "e448c5b64e768c41aa2ad6ba419b8d59603089871e1194bb088a6f8da6d3221b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-aa94e11cc28403.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g414/food-science-and-nutrition-bsc",
+      "sha256": "dea3b2a182d170892893128d017f7762a7e45ed0a5d96fdaa84f7543eefa1d1a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e29fb2bbf71373.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i256/food-science-and-nutrition-msci-bsc",
+      "sha256": "936d0fc8b7bb1064916e522929f0d5103f5a49bc166b3b59df15ba21a2e84431",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-a80fe91d834eb8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/315/french-ba",
+      "sha256": "47b5797af3e5b7f2b45cad811e4bf430127b50e284ca2da46f12fec59bd5703f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-73c079ef25a00f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i900/gateway-year-to-medicine-mbchb",
+      "sha256": "816e646d02cd136921b61ec9432724a5462cefbbb04d9e6371b2b196e16519c1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-547bfaacd68ed5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3360/genetics-bsc",
+      "sha256": "07e831914a0efb5c7ab84ffd59b3d4ad964923e0b8aafd1a1d304d8d5588b1ab",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-08abaa4b217513.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g261/genetics-mbiol-bsc",
+      "sha256": "b82251dca5f4c3e5422381b8e70ab4ea69e19bcafdd707677de10dae9052a133",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-35627168916860.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3380/geography-bsc",
+      "sha256": "f2190a336f3b3bd9a6667146e92163e2144d27570e2b436a3affbcfd01360565",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6e2f2612802b8b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/0330/geography-ba",
+      "sha256": "71cd491ef87151f0f90842d7a1b97af50df86f906721132acce595802b946e06",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-eac2edc8005826.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i073/geography-with-environmental-mathematics-bsc",
+      "sha256": "42bafd32d558241fc6e7e5749c8fe70505d4e11c35247d52a8c3206134df8d8f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4f5194d42a5786.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g864/geography-with-transport-studies-ba",
+      "sha256": "5adb9bee7cfe170955feb1978b0c57f15dc1ff98669665dd9424509d9bd6528b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-755ee1ae238086.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i683/geology-bsc",
+      "sha256": "c09fd9dbef4fe620fd1b18fe1f75fe538f0b2c31beccf09c503bfc3ff8b74727",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-c9ab7f862876b0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j932/geophysical-and-atmospheric-sciences-bsc",
+      "sha256": "819ec4ba7f73195d76ca729b4158c4b54bf733082c0d6b6a5ff5674f788c9f65",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4b030dd7fe87af.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/340/german-ba",
+      "sha256": "7d5aa0f4c296b0a7fcf188843144058943e7edc0d969ebb6c626d676c3925911",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8c1547e801aa0e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i991/global-creative-industries-ba",
+      "sha256": "8406bc7da250e94cd2167bc41721067b5c9d8ecf767fa4fe48d4caeacd17bb63",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6d52aa366752fc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k039/global-development-ba",
+      "sha256": "15a42268f19ae944ef732ff35c3949264bb641c48fed7941075302fb772dead3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6433737893beb5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j760/graphic-and-communication-design-ba",
+      "sha256": "3a58dac3b6cb04814fc11493676a3ecffdcb408748df5670a9250c4eab53e1c9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-cc8156ecac0e33.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i104/healthcare-science-cardiac-physiology-bsc",
+      "sha256": "440019f20ca135125ddbea881e83337eba0704ac3a750fed91109fb596bb7885",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-87715881724e4e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/370/history-ba",
+      "sha256": "90514c8c841806950829fe0c937c54c0047ec0983e84cfea300d11489777f32a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-bfc9ddb5039803.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/1630/history-and-philosophy-ba",
+      "sha256": "c56762e1125eaf2ee198aa238c0b92e0765cd22f3aa2c3481a45641495f4107e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6313d4bcd5e677.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/1690/history-and-sociology-ba",
+      "sha256": "f690753f1a37e247ee18c64d7bddec2dabe0772fcdf1760d2c913e3abd82de01",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-70fb5ce7403ce9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/380/history-of-art-ba",
+      "sha256": "82180feec77134c6af53dec3b10faef8db38fd4c7c078c27d6f8691619cbd538",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2167e72f1eac56.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g645/history-of-art-with-cultural-studies-ba",
+      "sha256": "ae6a82394c8d01f14c26b89fddd903aef02e9e8e2973290132aa97bf7be8d9b5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1638d92c2aecc4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3430/interdisciplinary-science-with-foundation-year-bsc",
+      "sha256": "f96485dd54a5c2997205cb94ff5f3e2f1a495790952f322ca7f38e773543dd16",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d94ae299fcbf67.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g193/interdisciplinary-studies-with-preparation-for-higher-education-ba",
+      "sha256": "3e50534081b20edd7ecad3d24ff20fcc9ab436570c7ee13bd5f42a8234c2c572",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1c9a82a36e96c6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f831/international-business-bsc",
+      "sha256": "d8d2df9b7eb57316e797a611c08af293192869e7fa7ce16c5baa42f721f41bfd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-606fa7aa783981.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f833/international-business-and-finance-bsc",
+      "sha256": "930b8b10f1084bd613a334e82b418fe1118e816bf75814a4b0627f4fcd1057bc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8e0d99be9ea1b7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g295/international-business-and-marketing-bsc",
+      "sha256": "272929acda5450753ceea73e595f71cde08ec67494678c3755057167c0ea1d60",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9ad57fa2faa356.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/410/international-history-and-politics-ba",
+      "sha256": "c4dd2c4bfe70a10cb6937b88ca01a8f46e1478e9375358536a06324060827d73",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-89930ebb036b6d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a753/international-relations-ba",
+      "sha256": "d1ba7c6334ceab5e471967437981de3fe331147f8d4a7f4470d7bce97c601e0a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ad68cf2691b8c6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j556/islamic-middle-eastern-and-north-african-studies-ba",
+      "sha256": "f266de1f4ad7f6cb484f465d41272045b9470ca13b20219144246b7f9d27e3b8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-34cb3405d460e0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/417/japanese-ba",
+      "sha256": "07cddada4c9c12c0fa65e049aececa3d6b73e6a2a04fc412650b6bf7b9c1bb54",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-29a1f1baf1e0e7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j925/journalism-ba",
+      "sha256": "0feaf8db7ce869ad96d1995b8f0a94e3e099a05fe7835e0a7ba5f5dd74ee8058",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-fade07131332c9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3010/law-llb",
+      "sha256": "31a831ca58f9f5290c574c7bcce4ea6fc6739065871bc7c44785385a73128130",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-41a9c6263e99fa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j771/law-graduate-programme-llb",
+      "sha256": "84e6fc92fd58b2060a34f9098ef3d704e5b69da4c8e8686512a902067d22b3fb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3473527ff948a6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g602/law-with-french-law-llb",
+      "sha256": "e04010828dff3fdf7136e079b29a88cca9b585d9c97dab82a216c8c4d62f3753",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ad5b12fb44af1b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g946/law-with-german-law-llb",
+      "sha256": "f8c3b1739884200b1eea377a4736661e854782387b99e0a0da99526320733b34",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-59247fe5afbeda.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g947/law-with-hispanic-law-llb",
+      "sha256": "30d4677374c1cc8cd1aa7648f1c66594ae15d5518d8d138afc8863107aa4aa92",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-790920aa542ae6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j553/learning-and-teaching-with-send-ba",
+      "sha256": "75fa6791e859b5ba640bedbd90cf81925146575f1d7c5db380852b6d20938e7f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6e09ce7f929074.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g809/liberal-arts-ba",
+      "sha256": "95898cf62d859ca282f7d191d9f21f862966c23ebe0b4149c17e77c8d2b96ef3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3dbfcbd73175f8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j769/linguistics-ba",
+      "sha256": "12f5913fa8ab864afcf955fd4603826d7330e82c7d0655b012c25fad20cfb015",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d3d789dad5ce35.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k047/marketing-bsc",
+      "sha256": "27939911c30cbb6010c76e9a3546dbae84ca2283b204a72f968fb1606bbd8d1c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4ab1f80dcfea95.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i984/materials-science-and-engineering-beng",
+      "sha256": "9b352f3ac1df79d143b9eea25951a123f596e263e8edeb36605ba5396b228a07",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1809f5688f980a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i981/materials-science-and-engineering-meng-beng",
+      "sha256": "f018c6a98db9f93e656fddba8d30f1efd56abe46095f849c47c35bcb1f00828b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9f6cea1e6452e0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j999/materials-science-and-engineering-industrial-meng-beng",
+      "sha256": "a6509fdeb437b41548e1e173a5dc130dfce2ab495007bb492f8b67417d7fef8c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8388566e4d8762.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j955/materials-science-and-engineering-industrial-beng",
+      "sha256": "61ef295f10ed9635b12e1807a8150b42aa8dadc349386ff34985873831dc6b53",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-a394c995f9f75d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3440/mathematics-bsc",
+      "sha256": "485da2e3a7602bb64de3af4e5c2cfaf73937a2161208cbf2fbbdd34549b5d270",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f326b711106621.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f417/mathematics-mmath-bsc",
+      "sha256": "a7d836693c43853c634385f384288a334637e11223b8929149df9cdb1271e907",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ec39e1496a7bb2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j645/mathematics-and-music-bsc",
+      "sha256": "4586d03cab4e21c1b0c37e5e5ef18db6a5b5bda17549e28d11edafc21316b298",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-23a6d4b0a314a0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/4586/mathematics-and-philosophy-bsc",
+      "sha256": "260e4e3a63a0abf59dc64b009564dade694d74118981a1cb2ae1df57bef3c3f5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2b641f7851bdc0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k279/mathematics-and-physics-bsc",
+      "sha256": "b8d9a7c446226651a89317a4a9ecf510fc16dc5066ab874e4c360f74f4f825c4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-94f87df1f812fc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/4627/mathematics-and-statistics-bsc",
+      "sha256": "b933f7926fb60f8017cb800a42586ccbab36f7387e26dc937ea2834241b7dc10",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3f3a015552b822.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/5200/mechanical-engineering-beng",
+      "sha256": "202efefebdfbead2c62555c0e1daca577997fb66b079b24303f872fa03203172",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-058a5ddc7bc272.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f411/mechanical-engineering-meng-beng",
+      "sha256": "026f4edbb29d4f0d104bdf7d846a557b4e89b7851531a98df924731758f0b30b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-7e063e8477301c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g894/mechanical-engineering-industrial-beng",
+      "sha256": "e8cec983611653cc41d381836b0df03b32b335ccaaf0d1fd6f5e51b466124daf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-b10de67705389a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g289/mechanical-engineering-industrial-meng-beng",
+      "sha256": "e2bd6894328588addc5373c89ac046ef15f11f53229d4bcb2230c609401c8d0d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d8399fe96106bf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j914/mechatronics-and-robotics-engineering-beng",
+      "sha256": "fdee4448049efe9e9676d2c9fb301650b0b2766feda449ee8e911043484bf3a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-71d898fb49f4c3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j915/mechatronics-and-robotics-engineering-meng-beng",
+      "sha256": "c7ae5d2aa6de1b636aca2f266255d2b53bc0db652fa9ed161a69bbb1604fe3f1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-dc16ba49163e3d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k003/mechatronics-and-robotics-engineering-industrial-beng",
+      "sha256": "84b9a2adf91ebd1dad27a64fbe343bab9680aefe8b32d3392acb4989140dd8bd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e6eb75491622b3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k002/mechatronics-and-robotics-engineering-industrial-meng-beng",
+      "sha256": "dc1571cf71158c270ce0ea61801e30ef1c1f8a2ae272216d6e00e0d6eb4e4ae5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-16bb166dfcb935.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a239/medical-engineering-beng",
+      "sha256": "1896afe8f600eca8a92c4381d11e514edb0d90eed9141cf44ab26c3b67570c6c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2f4ad4e25a1947.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f447/medical-engineering-meng-beng",
+      "sha256": "c6c6fb7cb886955a6999e7c75122c13040b9df68b139a9f644f2f6ecbd06538d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-55a33e74c56e54.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g931/medical-engineering-industrial-beng",
+      "sha256": "cce5de1a52f55591c8d08507f619d6e7fbc3b7bbc2d87f23de1964576172fb17",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f41bb68598f464.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g342/medical-engineering-industrial-meng-beng",
+      "sha256": "fd4d4f53d81bb4d87ee3c256ef090cc41b806a6063b6dedcb9109d4bb3eae328",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5a3f602cb13f6c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3497/medicinal-chemistry-bsc",
+      "sha256": "04f8794f9e75602069f943aa4cc1c7a267216199ae42cf733f753f3a3f799d00",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-b247f499946e99.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f428/medicinal-chemistry-mchem-bsc",
+      "sha256": "d024ee1306f0652878487be3ee79ec29fcffb22bb7f3d4c67ba5c18f93ce46c5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e6424f9d75ca87.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f429/medicinal-chemistry-with-a-year-in-industry-mchem-bsc",
+      "sha256": "8749b5c618d5bfff89af6816881b04fe3bf117263dc61b337daecde2a54161a2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d9ef8b528ccd1c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i208/medicinal-chemistry-with-study-abroad-mchem-bsc",
+      "sha256": "4141b928d2194b7a7e98661d43da5e7f59daff9253447438d75ed3e16608f660",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-fc336d0731b608.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/5580/medicine-and-surgery-mbchb",
+      "sha256": "dd2983204a98fc48f30b1f8b2fa6df07c4c25d98a4d7221a76a7c091d01d0a49",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-566ab26e2f42cf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3500/microbiology-bsc",
+      "sha256": "a065abb28b6fa9957aa64ceff1c6017326f1e98d892eefa540c46c0101609fa4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-60ad0e18428121.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g266/microbiology-mbiol-bsc",
+      "sha256": "18202702bb6e07bbab44f7e82f708154e0646358789eca0fc08331653b39c85c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-73dcb71f30ee83.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/h824/midwifery-blended-learning-bsc",
+      "sha256": "54c1c84b92a21bd4eec490dd4ebca0bafe141abf24196b823ca5a136cd0a3ab0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9fadf33943b20e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j036/modern-languages-ba",
+      "sha256": "86abbbb6be78cf9597ece2c2c080462af826f8743defc833d0f4f32466c9d95b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-0977a46f13f588.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j037/modern-languages-and-business-ba",
+      "sha256": "a691f4943fec48873fce2201eb1f3b00a35b3609f0f1cbe34ab97073bdb39ccb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e5667663e22ad5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j038/modern-languages-and-economics-ba",
+      "sha256": "034a0540b3d93bac2d7e3a70108e49e785ebe15665765bc5c8399b40626afc79",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2ab9c23d63b0fe.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j039/modern-languages-and-english-ba",
+      "sha256": "e55854533364e08bd84e7505c73233d296b34522c151450043f3138bfe22e0fb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d05de545c837ca.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j040/modern-languages-and-film-studies-ba",
+      "sha256": "1573174f2b028fbaf0ad6f82a95a2ac0a238ea8afd8000a8bd924ee28cdecf2d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9ba124e7c4ecd3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j041/modern-languages-and-history-ba",
+      "sha256": "4d3040e8c4389d11650d50094055eef7564b22dcf466746ef38a545fada63b59",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5988d7ad891c55.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j042/modern-languages-and-international-relations-ba",
+      "sha256": "b264e6d7fceb2b836093de26a6d8e04938906f91eb2317a2db6d048263cd8842",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-451b2a71dbfc0d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j043/modern-languages-and-linguistics-ba",
+      "sha256": "9c8647a0f50208942488ae97b3d317968781e2869054d0057fbaec6e7394ac9b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f1e6a7ff9c3db1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j044/modern-languages-and-philosophy-ba",
+      "sha256": "f52157ed565bec8b281459f7808805dd249d4dc580274826ae71e363bed7d652",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9a486122f1ee06.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j045/modern-languages-and-politics-ba",
+      "sha256": "98e164647a06bba4a53f02caefb7b220728338ece7512f1f00229b56911e7638",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-eaf9b4642c8496.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a004/music-ba",
+      "sha256": "f12ecd258d4978ef0a62123c85cd39b45357cab8d58074cb61af829d5b8c0ab7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-714e5ffaa6b224.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j772/music-performance-bmus",
+      "sha256": "902c0f99c8c66c18c02db25f31ac859e379e7fe9019a6187c845e32aa43b08b3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-7aedab5d4b17ee.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i566/music-and-music-psychology-ba",
+      "sha256": "72e633756b384c232493c5c9b78fad0ff068e5d18e92f7064e396c3b6efcd9bb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8fada7ab20cf6a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j543/music-and-music-technology-ba",
+      "sha256": "b54b77297021c9c1d4143e26c290c5890667701b0e7fcd84991a1ca4b10889ad",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6f5453b03da27e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g549/music-with-enterprise-ba",
+      "sha256": "413f2f8e2c6c259dfc819e5b78ee0366287db2d8ebaf64d73dc2d94acd13b387",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ea14f13ea98546.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a617/music-multimedia-and-electronics-bsc",
+      "sha256": "dbc2bc2c3c38609ddb7db31f867f3142bf6058e2122c9fcbd05d0c76defa6433",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-aa2c3980f2c3a8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f068/natural-sciences-bsc",
+      "sha256": "412e673a1f02bac52ad1ad1fdc1e8c0500f71cec457cb02c07d2c916fc27c432",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-a4b63b05171688.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f440/natural-sciences-bsc-mnatsc",
+      "sha256": "9cd4dd2694bae84dde154f6f09e3bf3b697d98262790c3734a1e0af7520fb468",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-87525c49ce781e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g218/natural-sciences-international-bsc",
+      "sha256": "3085210a870ce7fb65826eb8df49589e1a2d2ef35458b45df293fc73b0ee9d28",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-a708feecd04778.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j071/natural-sciences-international-mnatsc-bsc",
+      "sha256": "b468430f0ca103f9f797b36fc9d1ef6e63db03f3b6e0540e2ab59a0e491682f0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-a71fc65acbf10d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i676/natural-sciences-with-industrial-experience-bsc",
+      "sha256": "55dc37d675900235c4f4a580d6215f9501c810a4dd226d6193513fcedf3a0757",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5524691799a3d8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i039/natural-sciences-with-industrial-experience-mnatsc-bsc",
+      "sha256": "1f7acfdf718a2bf637476249d19e10ce997e0803b42df469026a99803ad71451",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6b7d65b0d91ab1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3539/neuroscience-bsc",
+      "sha256": "72c1644d0c55b537f496e7ef970ecd07f043673072a2df2a5fb384100dee6d9c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-120b0e6b63ca7c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g269/neuroscience-mbiol-bsc",
+      "sha256": "415b1014b7a649a4812d73ab54c53f94f63833b40095c6740fe3d61ea803a7a8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-be1599f4d07277.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/h820/nursing-adult-bsc",
+      "sha256": "ed2d5c8da2443ee1b9651091b3e1702df8fe5c924c001f5875673718d12b6da5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-65ed59dbc4c06a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/h819/nursing-child-bsc",
+      "sha256": "5648aa03032a724908280bf2cb8ab0d56edd0a370eb614fde7d265804880f2e6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ce6bebbd962b66.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/h818/nursing-mental-health-bsc",
+      "sha256": "f83a44c7bf6c939ce67a905bf566d60e604c77de43a4ec49314858e22451f043",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-17a222dc01f201.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/ap06/nursing-associate-apprenticeship-fd",
+      "sha256": "7dcb85147acc3f557f122a8a66e24a31561649b71a2225ca2c0b106bdb61470c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-b4762407683a93.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f666/nutrition-bsc",
+      "sha256": "e6dbd4149ef151fab445d8122ec00bab3e6d383b9a24c65530bd3e7c56b68542",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-32e21f6e64e7c9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i258/nutrition-msci-bsc",
+      "sha256": "e48136fa502c5fa48e786c234f35882c506ed664728a45de6c78de3dad6a2a6a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-762784e0289b91.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3560/pharmacology-bsc",
+      "sha256": "9dcf31d7f543bd526aacf13458360975f91396bd3b5d3ba3761fe97e0bba55ed",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9905788c1321f7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g270/pharmacology-mbiol-bsc",
+      "sha256": "9a31b62370c6e1466131318a0dde12afc6ecfa4234e2470da06b9f81ac26558b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1f9ed7a6ab5e8e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/510/philosophy-ba",
+      "sha256": "d234b4dda295761b947d4c600a8e8ee1ff190d19c2b7919793a64197315f711e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f933acb19b2a8a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/2120/philosophy-and-politics-ba",
+      "sha256": "a2368197ea6e9d042bdc336c9526534cf3d77a009c1c98a5ebdf18352f3e7d34",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-539b93e4dcfa71.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g184/philosophy-ethics-and-religion-ba",
+      "sha256": "175777f9bd1c5e3c7a55fab14293ce1fa66e06f591a23ee723639128ff873d60",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-7a3614bea1ce3c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g460/philosophy-politics-and-economics-ba",
+      "sha256": "8cca328b8dfc7d652bed08869568cff72833a3cc7014fa4ba3ea68b056d1f7cd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e3dca000a356a4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g075/philosophy-psychology-and-scientific-thought-ba",
+      "sha256": "a781e9164972f769d101ceb98d23f0d0e085bfe28671210556d331e82ddd856e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8182f87537ebb2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3580/physics-bsc",
+      "sha256": "d6180aac1052dfa769687c2dda575f583b0ed92e8def234051db292618600468",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-b040026d29b26b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f332/physics-mphys-bsc",
+      "sha256": "5ceac9595b67d6a921b12f281f6741769bb0e1429ca8fa534bc77602d593fd74",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-22f45dac06a092.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3631/physics-industrial-bsc",
+      "sha256": "81c35eb6a5c7a741b82ac4c9664776d59a26ad576b68006a1492a50edb3978e9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1741528722225d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g512/physics-industrial-mphys-bsc",
+      "sha256": "bcca4cabcd15344a0d8e7a48dc63cff446cc40503b346b479ccc06956f066f3f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4a15def4779990.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g976/physics-international-bsc",
+      "sha256": "352410ed96aeb0cbc4792008f37276ae3deb98c40ec2cc70ecb9e75b9c5d18ef",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-2b2e47a083d0e6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g380/physics-international-mphys-bsc",
+      "sha256": "e17a6961f47051a9fa1cc5a265d7d000a95a8a5ee8b3bbf48869cae3c3127fd3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3d42e7ff169d2e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k050/physics-with-artificial-intelligence-bsc",
+      "sha256": "cbdab4b8303413405d3963c2f5b7d5ecfc536db9d560cf28d0db7318e3a9a252",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-64262a9e11ebf1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k051/physics-with-artificial-intelligence-mphys-bsc",
+      "sha256": "c34b0b714b34bce9d8b1927c22e130a5d00038992dc761e2deb707404e7d35f3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-043a004fad6517.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k060/physics-with-artificial-intelligence-industrial-mphys-bsc",
+      "sha256": "efb71117cb481591739d90f529489984a67b0177392f9a00e045583c9577d4d5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5806faf763ac93.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k058/physics-with-artificial-intelligence-industrial-bsc",
+      "sha256": "117d6714fafa2ccc490aaeb20c362bacf0ab626f5d6f7af3e7a0a58540dfcde5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e485e3437e89fc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k059/physics-with-artificial-intelligence-international-bsc",
+      "sha256": "eae366f4672d93ce1ed4d1bc1e2c23415e618f4e12003d70a7d40eeb0ce53fcd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ee0ba88f0112ee.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k061/physics-with-artificial-intelligence-international-mphys-bsc",
+      "sha256": "d41330870ba3d295d15b64ea3f8a1a246d5cc5120a523b34ba16f6717120dcd2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9b6c0c199af39a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3600/physics-with-astrophysics-bsc",
+      "sha256": "ae7a9faf379460e62a0fecbf5e14aae04bbbabd5f5be68192c1852c5e5c688d4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-75e0b2fdd57248.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f334/physics-with-astrophysics-mphys-bsc",
+      "sha256": "0b5f170ad7eb52cf6079d72983f1daec78c6451aed2a1572747b05a7b60907c7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-835f26f0d6eb6d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3632/physics-with-astrophysics-industrial-bsc",
+      "sha256": "29465d6ad4ce6331fb05fe3355d2c793cc161946357b02347919f6049dd138a4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-cc73e403d6dca9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i587/physics-with-astrophysics-industrial-mphys-bsc",
+      "sha256": "d0ed0465c191aef69a9e64da827633af0821661aab3e08db78e856d7f0707fa1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-04d505df3a0657.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g977/physics-with-astrophysics-international-bsc",
+      "sha256": "c0e8696a0b36dbcbc966679db7bcd77e34cdf5def4073ee040e9e3b565b3e157",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-df4100505bc35b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g381/physics-with-astrophysics-international-mphys-bsc",
+      "sha256": "c3baf5d2f8ae4688124f90fdada0e80a284715abc05f968d0609dd926ac1f892",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-782572b07be646.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f552/politics-ba",
+      "sha256": "384220bee62826a0224ec1dd263950b42c37bdb2443ee92ceca339b0009ae954",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-185d805878fc31.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/k052/primary-education-with-qualified-teacher-status-5-11-ba",
+      "sha256": "bf7f291e0fde15934d5b1ce0130f3ba6d354cf895fd1bf414de2f27e18af8b62",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-ba70f918593144.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a602/product-design-bsc",
+      "sha256": "cb82a6c45d6bbb5886536bca8af3e61d1cdf83057ba5a4c12d6dd2e1c00c0a0a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e42c507038879d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g893/product-design-industrial-bsc",
+      "sha256": "8efd5e9f7a3fc9760c255398f0a6cd137003ee8e86d8955d3f99016267250708",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4b9d5fb99bd742.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g835/professional-studies-ba",
+      "sha256": "941bdc118d56a5fd2b7a03570dec8e4e06dc05d42a143f83bbbcf6368b4b181c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-15c343932413c7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3670/psychology-bsc",
+      "sha256": "9b24861facb5769139593e96be7502afe99d4b1fc55b55e34779433c68f2e617",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-a2f460df091e48.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i427/psychology-with-education-bsc",
+      "sha256": "d553fc029c8bf8ffebbd9cb9300d9a284301dc5dbcfde078bddfef241066d8ec",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-1b28e7bf6a57f8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j939/religion-theology-and-society-ba",
+      "sha256": "2b97b8bd754513bba8b5cc76531d0b222be0d8c27a0055d65dd6392014933b74",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-e0955c1b277512.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j441/social-and-political-sciences-bsc",
+      "sha256": "d41d1f4ab12c7078c3deaca0aee36d0ca1124c41c33794a235cff70587f8b537",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-14403dc1c2220c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j476/social-policy-sociology-crime-bsc",
+      "sha256": "e34c5a0b3438031b74caad04d76ea8465d05597fc8fa06fe9ac856dcd6e5363c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-25f740b978506f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a926/social-science-foundation-year-ba",
+      "sha256": "6b050a4d92ef4111aa5cae62bc7ae5fba9de9431bd5cee61bf531175a4d9b5e9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9bcd0d6f4f0ddc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/h810/social-work-ba",
+      "sha256": "69909f7119bde7292124d0b1b166152e6b609dd71eda43b45db4c39bd8253fb3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-262cbe28a79138.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/580/sociology-ba",
+      "sha256": "85f2c5fa14fe6b1e2824964fd2af4593974dcab8445891003ed326742bdd85a7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-629a1f92056c93.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f044/spanish-ba",
+      "sha256": "b27df3bd7b02e22f57f1ce09870e99042709fc4734c986401c736f8dec44bea5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-01d9bdcf5957fc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f881/spanish-portuguese-and-latin-american-studies-ba",
+      "sha256": "10e79cf02f4d75eec98d7e04457e70e63b59e650957d44df2126c0885e3fc786",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d3e626d8ca5a7c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f003/sport-and-exercise-sciences-bsc",
+      "sha256": "25ec5427fd75e6c40109dec27489dc17eb86c3bd802c91bf0826388713dbc905",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f1f803650e0a56.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/a962/sports-science-in-relation-to-medicine-bsc",
+      "sha256": "70e43d893f779bc3ad42081676b815aeab99d2ff316df9df92f15b91efdce262",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-de6ce6e0b3cffe.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g521/studies-in-science-with-foundation-year-bsc",
+      "sha256": "ccc57407c6616f639e5b944c90c5726b5183f5fbfc822f4166c3811cda246420",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-baf06a9f68efaa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g004/sustainability-and-environmental-management-bsc",
+      "sha256": "85e6b50654585d6cab0552cf276d2d61961caa28c806916d1dca7dd9586f5bf9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-9efb91e3e8671e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j391/sustainable-fashion-ba",
+      "sha256": "d6d9cabb36ed85d673120719e8ef0076d47ac6a27d03dc1faaab37e5f1dad6bc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-f119d8a8f2d94f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/j761/textile-innovation-and-sustainability-bsc",
+      "sha256": "38c561c2e626c8b1962cb6b98d60e5595edcd06216aae387fe72ae8a47896d80",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-3a2ad5f4af7f53.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f007/theatre-and-performance-ba",
+      "sha256": "bba8b01ed4b71e68f5fcb021707ed4dfa360be7e0627890eca5f96f7a6f8e10a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4b3e2191078af5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/i264/theatre-and-performance-with-enterprise-ba",
+      "sha256": "3e594b1f28fc0c678c85df77eba547ab1358c2fc9c893622676b0ba6c333068b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-d4a149ca865593.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3686/theoretical-physics-bsc",
+      "sha256": "e3e6dc7acfdab5f73ef8defda22ae3a08842b61b4fb79039bad3e9f9a4445c31",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-17eb456f1feb53.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/f400/theoretical-physics-mphys-bsc",
+      "sha256": "ecb1973f79c1677200fd24e7697d50d723e76fa10c26a369129ae9d5dfa60a28",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-8572ba51cba7f6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g959/theoretical-physics-industrial-bsc",
+      "sha256": "7ca16e4c69b9ce4db9303497d47e1f62c2444f0308ba94bc9f43d0248c611836",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-05d7996b25460c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g898/theoretical-physics-industrial-mphys-bsc",
+      "sha256": "aaf4bbb1c28e4f6597e1c5a047ed2db03c1204473bf3d3056f3742b8808414b0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-4e9ea3449d1908.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g978/theoretical-physics-international-bsc",
+      "sha256": "ac05707443771d8fc5767cd3d89c7460f168f5bcd2e90ebb8439fcdddab843e8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5fef5a2e4ecc8a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g383/theoretical-physics-international-mphys-bsc",
+      "sha256": "6d18a2b212c32ce3205441bcff7f23fdba10f1d9eea66ed33ee8c1eb0c900689",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-dfbadc93177c93.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/3690/zoology-bsc",
+      "sha256": "a459a8ddcd69a1ae291f60e6d6a305571ea2630d009f18f62a861c353762c5d7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-6bfd7b178553ab.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/g273/zoology-mbiol-bsc",
+      "sha256": "1652dfc9cda2b34220cea5e4967b405bd8c0aba21942e30de5af3b1f6e79dcdd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-5bb422d5e79a81.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/e057/zoology-in-relation-to-medicine-and-veterinary-science-bsc",
+      "sha256": "fd47b0348e4c722b4625a076ba99e00f8397ef0212bc6a408e50d405420a574b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/leeds/raw/course-28a5d805f00969.html",
+      "locator": "See each fact extraction_locator"
+    }
+  ]
+}

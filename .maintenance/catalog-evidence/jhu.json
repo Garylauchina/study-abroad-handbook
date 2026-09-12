@@ -1,0 +1,43 @@
+{
+  "original_manifest": {
+    "university_id": "jhu",
+    "status": "complete",
+    "count": 76,
+    "official_total": {
+      "all_catalog_cards": 605,
+      "bachelor_tagged_cards": 89,
+      "excluded_continuation_combinations": 13
+    },
+    "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+    "source_period": "2026-2027",
+    "scope": "All bachelor-tagged records in university-wide catalogue including Peabody dance/music",
+    "pagination_evidence": {
+      "type": "complete static HTML",
+      "selection": [
+        "Scan entire isotope HTML list, select explicit Bachelor keyword",
+        "Exclude master continuation combinations when corresponding undergraduate major already exists; keep Direct Matriculation and Peabody-Homewood independent double-degree entry",
+        "Exclude all minor/certificate/graduate/MD/JD entries"
+      ],
+      "pagination_links": 0,
+      "full_document_saved": true
+    },
+    "filter_rules": [
+      "Scan entire isotope HTML list, select explicit Bachelor keyword",
+      "Exclude master continuation combinations when corresponding undergraduate major already exists; keep Direct Matriculation and Peabody-Homewood independent double-degree entry",
+      "Exclude all minor/certificate/graduate/MD/JD entries"
+    ],
+    "gaps": [
+      "Performance-general and individual-instrument bachelor catalog records both retained as published; raw codes distinguish them"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://e-catalogue.jhu.edu/programs/",
+      "sha256": "30c805313e57e6b2012eacd71e42c4126c1e68d8003958e95d037e96f1a95606",
+      "bytes": 908415,
+      "raw_file": "scratch/full-catalog/us-a/jhu/programs.html",
+      "meta_file": "scratch/full-catalog/us-a/jhu/programs.meta.json"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "original_manifest": {
+    "university_id": "harvard",
+    "status": "complete",
+    "count": 52,
+    "official_total": {
+      "college_named_concentrations": 50,
+      "additional_special_pathway": 1,
+      "extension_bachelor_degree": 1
+    },
+    "discovery_source_url": "https://college.harvard.edu/academics/liberal-arts-sciences/concentrations",
+    "source_period": "current list; Extension page specifies 2026-2027",
+    "scope": "50 College concentrations, special concentration pathway, plus separately admitted Extension ALB degree",
+    "pagination_evidence": {
+      "type": "complete static HTML",
+      "selection": [
+        "All 50 li.c-accordion-item entries, preserve degree labels",
+        "Exclude secondary fields/minors",
+        "Extension subject fields are optional within ALB and not counted as distinct bachelor degrees"
+      ],
+      "pagination_links": 0,
+      "full_document_saved": true
+    },
+    "filter_rules": [
+      "All 50 li.c-accordion-item entries, preserve degree labels",
+      "Exclude secondary fields/minors",
+      "Extension subject fields are optional within ALB and not counted as distinct bachelor degrees"
+    ],
+    "gaps": [
+      "Concentration names are current but their descriptions include older example courses; no academic year assigned to the College list",
+      "A/B science variants retained in one row when the source combines them"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://extension.harvard.edu/academics/programs/bachelor-of-liberal-arts-degree-program/",
+      "sha256": "34c6f801adc02dff9a15f3cc90abb0d0d8ff7e800ac8f03f43b517f43c8d6950",
+      "bytes": 219335,
+      "raw_file": "scratch/full-catalog/us-a/harvard/extension.html",
+      "meta_file": "scratch/full-catalog/us-a/harvard/extension.meta.json"
+    },
+    {
+      "url": "https://college.harvard.edu/academics/liberal-arts-sciences/concentrations",
+      "sha256": "7230f3bc2163f4f7e6df43d041111d79585c9c634173bc3157bd18b76882ebde",
+      "bytes": 596566,
+      "raw_file": "scratch/full-catalog/us-a/harvard/concentrations.html",
+      "meta_file": "scratch/full-catalog/us-a/harvard/concentrations.meta.json"
+    }
+  ]
+}

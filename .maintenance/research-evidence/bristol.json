@@ -1,0 +1,1631 @@
+{
+  "university_id": "bristol",
+  "sources": [
+    {
+      "url": "https://www.bristol.ac.uk/international/countries/china.html",
+      "sha256": "212fa2478213e7d67c8bd27e7e7daffd0634f630634d87719ad2c0db92786983",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/china.html",
+      "locator": "Undergraduate applicants"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-accounting-and-finance/",
+      "sha256": "7375ff6b05b58fd9512d3222e83d0c106011d91e5d892ad2f798fd2e177ebae3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4dd2e8376da58f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-accounting-and-finance-with-professional-placement/",
+      "sha256": "79898fccaab2fe87904df7a1d5948d38c9019200a38b1e5e03742da47ec088d8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-0657426bef181b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-accounting-and-finance-with-study-abroad/",
+      "sha256": "9d5782115b3f0e1a4120f8717ebfa7e4469f6a90cb65669ccfc7c06ed6347426",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-7df1fc2a9d1660.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-accounting-and-management/",
+      "sha256": "23a0bb442c16a1da2911c4e073ce6c7c9200d566dfb54c955dd3bf39d2e83afb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-735fb20837196f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-accounting-and-management-with-professional-placement/",
+      "sha256": "d3fd32bdfddfcf09302ceff9f9e7ef783b4c9bf9d53524f65e55fdc497b31f4d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-9a2d923a21ec03.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-accounting-and-management-with-study-abroad/",
+      "sha256": "c45fe9c955c12074f65dc80a9efd4ff582b49d69a3c440c6d4b18837c603b4c4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-12754cb0bfaf44.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/msci-accounting-with-innovation/",
+      "sha256": "f4da6bb898f1ac3c99d76f3e65d1eae4effd54d3f98bdacaa0a63acdca1e0f49",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f38ab12c4d02c7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/aerospace/beng-aerospace-engineering/",
+      "sha256": "fad1efffb6cdb62cc25e6f9b477c9b050a50a9e3e2af44e9f408e9dd1201f72c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-b567843852de70.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/aerospace/meng-aerospace-engineering/",
+      "sha256": "d60f8b0ff112369a1d6559b04ed20b416a7337a30f7d1b5f1bcb92cd18be9fae",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d147666c8a7429.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/aerospace/meng-aerospace-engineering-with-study-abroad/",
+      "sha256": "f7b992f8f9fc37b8fd4852c4c0ac7a39528b01b2f2030aa757167997e1defe95",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-aea84befd0ce2c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/aerospace/beng-aerospace-engineering-with-a-year-in-industry/",
+      "sha256": "8acb27446f66cff44f5104c39e547800d0e9724676fa8d93470d16e53498108a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-ee6e279cd1803e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/aerospace/meng-aerospace-engineering-with-a-year-in-industry/",
+      "sha256": "20cfe08e050e2b2986ac06ee3eac15804f448eac908307246b0f49116e44c608",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e1bb2971652a94.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/ancient-history/ba-ancient-history/",
+      "sha256": "555e9baddceb372c5ee0175190299790896d77b4b7673df3384ef964b6b82e39",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-97e51dcac187de.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/anthropology/ba-anthropology/",
+      "sha256": "cbb9d9eee9c6075d37c6196970dc8479b2911bdf4d4d1e2ef629e3509d253e3e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e79142eec75b77.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/marts-anthropology-with-innovation/",
+      "sha256": "dc8017ec713a8c73c0b90566e8f7c231232be2a2895bec01fc497fa2aedd4592",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-ffb215cd8ce058.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/anatomy/bsc-applied-anatomy/",
+      "sha256": "4f65f4e96f9d9cab986f47f2fc00d849dd6e0a56fde3637228cfcfe73c868621",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c41d59c2e83bf4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/anatomy/msci-applied-anatomy/",
+      "sha256": "c22bf45df3d4a753f54ab52c95c72a9e888d62122c02acdccbe01d58fa169ea0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-98983d089ff2db.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/anthropology/ba-archaeology-and-anthropology/",
+      "sha256": "da9b10342f4390494af6dd7a1119789ded2de0622545094f7189c59fe973227c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-18eb4c8a76a8ec.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/artificial-intelligence/beng-artificial-intelligence/",
+      "sha256": "d75e73fae118df8b351cd71d675acc9c0ccee648e6370c8914271251ccc55d43",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-14129f3a585ed4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/classical-studies/ba-classical-studies/",
+      "sha256": "e89da1147f65b8da4656bafa7e5b85b5bb25b3e2201eb10e08f0ede7eafaf753",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-fca920765cd0ff.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/classics/ba-classics/",
+      "sha256": "da89140989ed90dce6edd343216ea41f74868cdac8b0f1c29acc8b5d0b60ffe9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-b1f89ab6285f78.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-comparative-literatures-and-cultures-and-modern-languages/",
+      "sha256": "d5472c86b30c47c04a2f172610254a13f77e40e310ae9814945962aa32facb86",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e35fe7b8fc4980.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/comparative-literatures-cultures/ba-comparative-literatures-and-cultures/",
+      "sha256": "95791e110aa1e1af506056c2945335cc1503eb5d61b04c6f540ed52479a9b94e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a02a9e0facbeda.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/ba-economics/",
+      "sha256": "c1910bb9570f607ed1a3d4997095cd38a58ad07ae9e0d3cb372068bb2a53b051",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-553d9f3aa452da.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/english/ba-english-and-classical-studies/",
+      "sha256": "68285724e46040f581827576a9e6696af5d5543da4a4f5b27659b7d5796a3ffb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-96d56100ff8812.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/english/ba-english-and-history/",
+      "sha256": "eb2492623b94012e5ac505e7872fcdc08018b431c8fc3a15ef7d09326e94a692",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-fc9fde7814a303.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-english-and-modern-languages/",
+      "sha256": "9d1206a55fe54f20b11e89176210761ee00a492d237383b84d7ec39e90f9e641",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-86be3a3937a90a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/english/ba-english-and-philosophy/",
+      "sha256": "7aeb0c2bc2e7cae606e4d2648dee58a011c301b1dab79cc0f1fecc7731d7e655",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-819ffa21e514ff.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/english/ba-english-with-study-abroad/",
+      "sha256": "c7a6562fb3f543dbe564a2fe3c10c4f84df33c6c33f612f03de3b85e6de826da",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-6d3067cdc580fc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/english/ba-english/",
+      "sha256": "c8df3caa1558ec6c9a01b365eb6ca209b42a6b1a55513a27821873fd824e9955",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-36c6d859479b60.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/search/",
+      "sha256": "0b3fb52ef774a6f8094c2f2da4a5afcc889370ffae3a7a400fb968ad6b60d16e",
+      "raw_file": "scratch/full-catalog/uk/bristol/raw/directory-0.html",
+      "locator": "https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/bsc-environmental-geoscience"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-film-and-modern-languages/",
+      "sha256": "197bb892d40b42a3ac2b39820a0e2f5d83b8a3b510726c4bebec25fb23879b55",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-54a74b3a829d28.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/film-television/ba-film-and-television/",
+      "sha256": "5dac72b752cfcf29e80191261fd3d654cf7adf21520cebf95ba7dc844e225669",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a48f7926f42983.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-history-and-modern-languages/",
+      "sha256": "8b30db733918349b2be6fcfc35a75e2b222996cae612445e3ad03c56fa30d014",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8381da7dfe45ba.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-history-of-art-and-modern-languages/",
+      "sha256": "57f4b04f92cd45f8e190b3f342cba90c2fa7f49eb75c00c3df143a7abf02fcf4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4c31f70ad76e24.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/history-art/ba-history-of-art/",
+      "sha256": "bf8f0b441cfba7583e48573ed7be42dde4534addf23a350c660bef8f7083bbf3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-9f19dd6279baba.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/history/ba-history-with-study-abroad/",
+      "sha256": "522ac60eb2442a05e4962fc086902bd8d7ec90292d7b52b951c92749cb947361",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-023751a3d27979.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/history/ba-history/",
+      "sha256": "cd659d2adfbb38e13065a58b96451167be13513740b0c4b7f4115fd5b2a27935",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8cf926579ade7f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-international-business-management-and-modern-languages/",
+      "sha256": "7bc27f0ec9f73ec0e35131dacc0d22fbb7eb6aaacb18a016274bb2a34990c7c7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-2c73c06d1ea451.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/liberal-arts/ba-liberal-arts/",
+      "sha256": "85dc63c58d59406983978243dce7550e1f402e7c6f1cc66fc16b40f0a3f0bdb3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-45364c28247396.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-modern-languages/",
+      "sha256": "3b8f30cf561d27ac31c010118796132315e4ce2c3c2bc6355722e8cf3f26ca13",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-746de46c13c082.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-music-and-modern-languages/",
+      "sha256": "9191c33207e52fd125ae7aabd8c41dc4239d50fb139c3c7c872ee0ae8a8f82b3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-59f3619147802c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/music/ba-music/",
+      "sha256": "be832bfa6836e8c6b9d0bd3668006a4da8656aad6de193a327e3a51e07c10586",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d9b8cdbb01eb85.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-philosophy-and-modern-languages/",
+      "sha256": "884a7a1c46fcc75d80cdffec00eb1684cfbccd6504ab26bb38ff191b7c0f091b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-92b337512a51aa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/ba-philosophy-and-theology/",
+      "sha256": "7fd05635f43b6ad3f0567022f6a70d95c46795f12fb748cb1a19f6c8768e1c93",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-7efe983a8b1f0f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/ba-philosophy/",
+      "sha256": "b978519761e53d3af96c271a31ea8aee08ac48bad641baeb10c8ec2aa7a809d3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c5cae50fe5c261.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-politics-and-modern-languages/",
+      "sha256": "726b8a961c626c851ee677fba3c9f249855665ee4ed21355146bead8e1dcc584",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-6c86553525415d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/ba-politics-philosophy-and-economics/",
+      "sha256": "5dd3c84481c8f953f90cf257c4b92923834d64a174f18a05d245a5e64b76964b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-ef28db17197f4f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/religion-theology/ba-religion-and-theology-with-study-abroad/",
+      "sha256": "47179a47725c9f51554f68d095375b4bec1a6687fe84e40e85e8f86bff34fb1a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4d5ae3b84fee11.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/religion-theology/ba-religion-and-theology/",
+      "sha256": "8770f766930e54265188e9700d60460213a4f21feefa233850bf6287a0a392ae",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8a634ec2f77b86.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/theatre/ba-theatre-and-english/",
+      "sha256": "b287444910a74217cc5dec79d65665c14fa26f64dcf2ecce00a0506478300b22",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-034ae2061132a7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/theatre/ba-theatre-and-film/",
+      "sha256": "786214de0c68b002b30f1bee327643e7a96d044c58f292b1f32d2899545c4248",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a3876abc289474.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/modern-languages/ba-theatre-and-modern-languages/",
+      "sha256": "9e35879a7c963153b115ea7813ea9c85784b9cb8ffb80f93f151fc14f7408cc8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-2ee134fa9c56b1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/theatre/ba-theatre-and-performance-studies/",
+      "sha256": "6e4d4f48d5b328917c95d153227be815219bd1cda8e9541ed59a3777a3f85c74",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d0622926bd28cc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/dental-hygiene/bdh-dental-hygiene/",
+      "sha256": "74be5820c95c8a240500b3e79b0611b1f87ec43285e2b756fddcf385ea443f32",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-cc4a2ef826571d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/dentistry/bds-dentistry/",
+      "sha256": "793c36bdcf8f47d9d8ca094b3274286a43765d1576e1149a0e8ee31021e28c7f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8f6e8a86940528.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/dentistry/bds-gateway-to-dentistry/",
+      "sha256": "2c94707d2c2ab3e9917868905fd552e63d12a6588dda622e057a2155ee08a329",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-27e45bc12e435d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/dental-therapy/bdt-dental-therapy/",
+      "sha256": "f217d41c0dafea8309c066fc80d29de4571129f6d685101644812724aa13eaea",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-5aab71c4d33e2f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/civil-engineering/beng-civil-engineering-with-a-year-in-industry/",
+      "sha256": "d099687bc279af859caf98ca205b5fca2666ffc08215baf7f11255b509f88d8a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c72c4c1fb4044c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/civil-engineering/beng-civil-engineering/",
+      "sha256": "37e14331acaf0ce58b73e0d3a0b535f1d5df54654323e1bbce1f98432cbb5111",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8fe3d6a9c417c5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/design-engineering/beng-design-engineering-with-a-year-in-industry/",
+      "sha256": "da61ad0b962f4b2dac765bce0b190a72fe3461ce3ee791ed7cfdf8fc6c1bb4e7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d6b9e075a082d9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/design-engineering/beng-design-engineering/",
+      "sha256": "dcebc28e3371f17f989662cb5407edad9bd3d9eb93cf8b31c56f8a2cafe22ccc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-70490f12027e41.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/electrical-electronic-engineering/beng-electrical-and-electronic-engineering-with-a-year-in-industry/",
+      "sha256": "e71361331e221d5f323f13d36bbaa99ba934a33d84ad0cfcdb97a7c6d66e238c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f612edecd648a0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/electrical-electronic-engineering/beng-electrical-and-electronic-engineering//",
+      "sha256": "8ae59b6c72b07cedde579c67e4de84663037fd244d9b85a7ddc0d782578fa725",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-90505787bb4b36.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/engineering-maths/beng-engineering-mathematics-with-a-year-in-industry/",
+      "sha256": "35a1ca3cd36d1c154b6e92ae087891f684f2d78f4db682de0b8ea8d88906ac33",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-3f8f7b8bc61170.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/engineering-maths/beng-engineering-mathematics/",
+      "sha256": "fbc284ccdb3f67dcd7ab8dba90c4e30ff0c5f42be88058950f58028d2212cc38",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d8a88a9ba0f3c1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/mechanical-engineering/beng-mechanical-engineering-with-a-year-in-industry/",
+      "sha256": "92b1c7ed236f905e3d7dda4aff2c40e574cc41672ab876e10a6d0c7efd51ee96",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-071cb69f4f8b50.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/mechanical-engineering/beng-mechanical-engineering/",
+      "sha256": "e6c906b66cf49d1121e852ae0c5aeb0ff36c5309536b894372d88e1094de6185",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-33428852a8cc10.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/electrical-electronic-engineering/beng-mechanical-and-electrical-engineering-with-a-year-in-industry/",
+      "sha256": "00d9b504db7352004b832138151fb74d6fd828bc239267d2840be65b4eae88de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e3ad9935c5504a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/electrical-electronic-engineering/beng-mechanical-and-electrical-engineering/",
+      "sha256": "1a465dd196089b868b58b2004a55eee9e4babd7b15ecccb5bb5f998c2cccf593",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-17e55ed641c7bb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biochemistry/bsc-biochemistry-with-medical-biochemistry/",
+      "sha256": "229a2535ce37c99725422c2f6339690946470ebd01c57b622c97cec3eff74e4e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-3e5206397d2f03.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biochemistry/bsc-biochemistry-with-molecular-biology-and-biotechnology/",
+      "sha256": "78626ae1fcdd50f238d8a8bcb470a5ec41ecb479493ba137b28f97a724747636",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-5b5ed18b8ac25e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biochemistry/bsc-biochemistry-with-study-in-industry/",
+      "sha256": "3e22e868c1986dfe3c5408e900d54cb536da52143538153ea73775ea047406dd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-725e87c360d7a8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biochemistry/bsc-biochemistry/",
+      "sha256": "68477336df954b82c2b90854110744ea1c4e362cf5a0990cccdac3ed61a40b46",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-02ae00d5e3933a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/bsc-biology-with-professional-placement/",
+      "sha256": "2b28e37e383824d09842926cb05c660afac52314f254a776f79fe6b0ca81158f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f7fb676301d54c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/bsc-biology/",
+      "sha256": "e1f2361fdf5d618500ec87a4306ea0d23d41490e936f22826d79c740c30df784",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f12993d0d3f2f9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biomedical-sciences/bsc-biomedical-sciences-with-study-in-industry/",
+      "sha256": "c06f6091410eaa58c4e601c19caf23d8349ede2062b60d4f6883be93b641d2f9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-338ad22184bc46.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biomedical-sciences/bsc-biomedical-sciences/",
+      "sha256": "00eb895c4e8f51ea6078c063f7dff9122f84e5852d4b3b6b372ac7f2156a6117",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-69141b5cf8a8e2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-business-analytics/",
+      "sha256": "f706d4f6bb837c5837a7ae9bbaa415e4aeaed3daeb00127c1acc15a19b7551a9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-eb9beb2e1a9dbe.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-business-and-management-with-study-abroad-in-a-modern-language/",
+      "sha256": "0659f6f402e3c8c7edd4fbd4f92b85c03cfe52996487f68761bb2db30d53137d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-26a83c076c8e8d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-business-and-management-with-study-abroad/",
+      "sha256": "acc8ff19d5732ac272a5314f5185b22c4d25728096c4fb15aeff29329f7bba9c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f897e65cc433b5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-business-and-management/",
+      "sha256": "0729421e5113aa57e151e8ef209f23f1a3e6b05d53116346128c3d06f69e65e0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-6ca5edc7353ba3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/bsc-cancer-biology-and-immunology-with-study-in-industry/",
+      "sha256": "ce02573cb11934ab5e0864146c8823552bda13c59e8e9c53f937de318ba2dc03",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-492af7057f8bd8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/bsc-cancer-biology-and-immunology/",
+      "sha256": "82f6641568b58d8ece405d8913fc2d3c55c982807918d2e0acd4c8d595c88f0a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f63bf702370700.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/bsc-cellular-and-molecular-medicine-with-study-in-industry/",
+      "sha256": "8275251dea13e379c082ac62a8899ec503c99df6972f974c2dc5ceee71724d28",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-24de67a00c9660.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/bsc-cellular-and-molecular-medicine/",
+      "sha256": "8316fde17624dcf4b775899a12df845604d093424434f1cc668cfedda4b12c63",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-13bcf358781e97.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemical-physics/bsc-chemical-physics/",
+      "sha256": "2c4ca9ccfa48467d3a2c2f83e9963effa5e0b22c6c7e5c98ed77f064006c20bc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8675e3f8634a17.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemistry-with-computing/bsc-chemistry-with-computing/",
+      "sha256": "0965ba55e26a1660ea365c87670aa5fe0baa865952acc80c841affdda68286bc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8c127cf94c227e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemistry/bsc-chemistry/",
+      "sha256": "22e9ef1e92ab40a075fc119fd427b25d647deb50dece9d30c4589bddfc818e1c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f193aca0ce80db.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/childhood-studies/bsc-childhood-studies-with-study-abroad/",
+      "sha256": "489f4de9909e7fc9807b1e1e861ba4206ab0570e456bfc025a433ff3fceb9915",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-17976966231ebc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/childhood-studies/bsc-childhood-studies/",
+      "sha256": "463798139a5763f2867efd39cb5fdb15d3290ef330eb2172ba3eaa6cf4b50224",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c16e797f2f7883.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/computer-science/bsc-computer-science-with-artificial-intelligence/",
+      "sha256": "afc43d9d1d06df079991eb8a49476b081bbe7c029e5501f60e648ffab8b1de51",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d95957a2536e61.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/computer-science/bsc-computer-science/",
+      "sha256": "f9325b065359a6ed7ef0c9f330e268440b748d32cfbab883d312458e31b04db9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-bf70e6e765521f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/criminology/bsc-criminology-with-study-abroad/",
+      "sha256": "f1d95e2b77619ab1f14d9ef0ed158552ed1d94c2f12a1ac5d089d063d035c2f0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a7b653935a3b2d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/criminology/bsc-criminology/",
+      "sha256": "aa303c74158bb553d79af9ddb696ad73c7a661c425af63989b2b8008a138fe55",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-1d099a18dffd01.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/bsc-data-science-with-a-year-in-industry/",
+      "sha256": "bab469bb79828f499a51d026c60ba3c5d6c735e70113feb59d1af35760a6da54",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a391276a066583.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/bsc-data-science/",
+      "sha256": "8baf1423a8412b72555c312256c06a14ca6d3b41509878b057707de59c679700",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4bd80f4364b4f6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting-with-study-abroad/",
+      "sha256": "1ec3b87472f3ff26ae7b51497cffc04a769a1df6b39e735f1981ce8be28b069e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a40a4a40d5e9b3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting/",
+      "sha256": "2e64a84232a0d574681eb02d583757b163fce09770e47833535e85c543b91064",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-6c412433731ba5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-data-science/",
+      "sha256": "62d1b181c4767d98ec761cb17143e10d744d73b4b74c68f84119244d4a49ff65",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-3420693d7d3ff8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-econometrics-with-study-abroad/",
+      "sha256": "db5c8ab218f291a997e9fe5cfdf62e3c41028aae9db3c677e3e72ce73727c65c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d07960ba150f94.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-econometrics/",
+      "sha256": "4e24b5eee793787187a2ecf1c2d928ffab6318a24e87226abdd537148d1ffbc7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-1f2ece3bdf33bd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-finance-with-study-abroad/",
+      "sha256": "4a463c05bb79e3126340bb77ecbd9274053b4125efc6e11261fa2439df1cb860",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-469b822d85766d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-finance/",
+      "sha256": "835fa88c5c2cdb2808b39ae270684b16adfd6a6a57814325b259740586a05c1e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c429b8cb0b70de.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-economics-and-management-with-study-abroad/",
+      "sha256": "b19061701a74039cd3afd0f94f881760a3c36419128d3446e145dadfc52ec46a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-7a0cdf4334e8b5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-economics-and-management/",
+      "sha256": "b1d2af3f18a8cd256158d9a275439cbc8a684666f52b4eead04b7ad58c87ad0e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d18f8c2625446f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-mathematics/",
+      "sha256": "5a60a3527400d25c89dbed226eb050d41e7e9e2156407620ec0cd6ed898687ee",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4ea61fbdc92b33.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-politics-with-study-abroad/",
+      "sha256": "c1a95fa46549c212630d1abf86dd0d76e3fe86d6498d9fd2a4d19c18db459b57",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-26937157b1db43.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-politics/",
+      "sha256": "484c67c4f4de2a5ffb70262d18ae1369d7846d6ebb0d426dc935c08aa4429236",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-49c3de07651097.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-with-study-abroad-in-a-modern-language/",
+      "sha256": "23e2b9169cd443d37930ea95b36794cd5933be32e0b145f84f7f4ae1b22d3304",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-b039482c6bec2e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-with-study-abroad/",
+      "sha256": "d7db9515a6edf9e78340d3e6bd6ffdcdaca0358050fc77445a0566777b93ed91",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-27f57b1b992f11.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics/",
+      "sha256": "79fa65225306a96986d187e52e0d255a6273f0829656eb0ef9b0f7a13e448f87",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-ee76061e048b97.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/education/bsc-education-studies-with-study-abroad/",
+      "sha256": "b3dc923d850e9a0968bf6178258caabaacca6f9ca1cc71920bfdc59f403e1171",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-20b8d93af46e52.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/education/bsc-education-studies/",
+      "sha256": "d8480c4b433895f4e5cf2a3f2814c54e68ffebaa19507b7796f51d6773d671ea",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-0ad2dca51ac1c5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-finance/",
+      "sha256": "88044cd06accbf76a3ddce8b92581bdac2148f8a03984f56e7c29f76f2da83ba",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-6b11718cd09bd8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geography/bsc-geography-with-study-abroad-in-a-modern-language/",
+      "sha256": "df0ce844e983e3555664bf690f0e0c9ad41f434ec950ac65e86b60fa029cb3b7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d2a33effa77cd7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geography/bsc-geography-with-study-abroad/",
+      "sha256": "5fc77bc7142c9827e1dc7ac8c0bae6d90da22988017bb22b898cd80f18bc0892",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-7d8f44a84bc153.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geography/bsc-geography/",
+      "sha256": "d8d51683547692048cf4fd746c7e199269a8fc7be1bf591e07f7bed8500344f9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-25d548cb94c552.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geology/bsc-geology/",
+      "sha256": "b2caa8b885efe9890c2f50432fff268bd89a7a5eb79ca479b4d710ffc30df828",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d20b228c285bc1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/international-business-management/bsc-international-business-management-with-study-abroad-in-a-modern-language/",
+      "sha256": "af0e53018f661c41e74a170e6e677e7a021ab3a8af8b547e21cff4145832ac53",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e11f10a5ef12b9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/international-business-management/bsc-international-business-management-with-study-abroad/",
+      "sha256": "2b720f2400c9b5b3ed54a73fe6c8ef6b0bd48ec188420361287df94be8ec24a2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-31b450dced1ca2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/international-business-management/bsc-international-business-management/",
+      "sha256": "0071bceb7107c829a8a85b14786e9c9438275ae34ff7d42f5011e22aae5585af",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a8d75e38826c61.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/social-policy/bsc-international-social-and-public-policy-with-study-abroad/",
+      "sha256": "0f91777ee0f368d5d97bf7209d39fbbf4aa8f645a7c0b95e8516bcfd999e4d52",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4180eeebc3cf30.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/social-policy/bsc-international-social-and-public-policy/",
+      "sha256": "ef1d0c163cba54e5c4fc85fb0552874b8556d520cf98bd720b2823430bd5a639",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-cf7bd756691b62.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/marketing/bsc-marketing-with-study-abroad-in-a-modern-language/",
+      "sha256": "e04d067f21dda45ebf7e3a4ba876ca18230d6fef75b4c70f838eaaefd098f58b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-bbe64acfdf1c6f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/marketing/bsc-marketing-with-study-abroad/",
+      "sha256": "41a6c8cf4e4d769de2d3f676df89f06e6a4daa2b1d7ad7ef4203bb271ae0801d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-01444d62f11c84.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/marketing/bsc-marketing/",
+      "sha256": "9b9f55d6317a494fe5dfe7ec120f0538d447a44cff03febf487270c763790a62",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a9edb3d75a474f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/computer-science/bsc-mathematics-and-computer-science/",
+      "sha256": "114b5c801dc033e371b16ae97cc78ae8ca27e1cb3aa75bf53c7544d2da83907a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-1940ecdbdc324d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/bsc-mathematics-and-philosophy/",
+      "sha256": "565a42c393a1915e78fc177431f6c7235678c021819dd72a910f3d98363b80dd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-ca0ea52c7098eb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/bsc-mathematics-and-physics/",
+      "sha256": "eb61706e60513328269f588c1ac40300d18e86d3ee8d8650115b11ef0ca8f98f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-dcbe3d214c992f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/bsc-mathematics-with-statistics-for-finance/",
+      "sha256": "08738c20b86ca86f2023ef50dd798bb2bf61f6e781ca28c75aafeda0d53876e2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c15e0f59204bc4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/bsc-mathematics-with-statistics/",
+      "sha256": "dcb871c64d886b2d52724b4ca042b50b91583e8ff44543e7ad3191415435b0dd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-b803a7752f19dd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/bsc-mathematics-with-study-abroad-in-a-modern-language/",
+      "sha256": "28cb000ab09a2c2dd8998eab9155c8b238b35ce207ca5420846753b830153f33",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-609542e11e503a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/bsc-mathematics/",
+      "sha256": "0fdb6269acaf6c66a9108c4dfdb24be6f56ed4ebbdb05829bbab356f5e370259",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8adfd046805484.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/bsc-medical-microbiology-with-study-in-industry/",
+      "sha256": "7cb2594fce0e32b7d25b2acccd8920468dc070504d25a271728fa0f483de1640",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-5f4a88f73dac7b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/bsc-medical-microbiology/",
+      "sha256": "1fc589a321694a0d0d1286f089dfb00a2ed2fd1fead0b631beae07ef5839d586",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c5d03461dcc2b7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/neuroscience/bsc-neuroscience-with-study-in-industry/",
+      "sha256": "e491c384414e9a6d3abc5a0694c4bcac9820a2d539513da81281f48f3f1228e8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-03bca6a6b2c79b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/neuroscience/bsc-neuroscience/",
+      "sha256": "5cfee13b7eb4171302b19d0d0cf7636a3fd52bdfaa065c644a4c01d1a457e251",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-7ba55609c6be8e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/palaeontology-evolution/bsc-palaeontology-and-evolution/",
+      "sha256": "24bb06cbb0196df72459907c1c5887c1f11037cef9ac089d6cd5eedf8fe53c3e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-08f50666dc4da6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/pharmacology/bsc-pharmacology-with-study-in-industry/",
+      "sha256": "97124ee9e84a624e44925349ed3ae11b0a73ce8e394e07d7e0811f03df76d81d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c8ec18912caa85.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/pharmacology/bsc-pharmacology/",
+      "sha256": "2838931bf45242adddb30a7fb72e91c14f9760fdaaadec46a90c3da19e3af826",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-afe01512054d51.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/bsc-philosophy-and-economics-with-study-abroad/",
+      "sha256": "71d83d22fd08444e6f5c03af4f5e881fb78b3612672e5b3b36e046ca51569495",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-df29852e26f372.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/bsc-philosophy-and-economics/",
+      "sha256": "0b70bc4d3c2c27724291d035d70c155c76ba59dddd45a505a8e1828de3e0c4cc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-3db2fecbcd89fe.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/bsc-philosophy-and-politics/",
+      "sha256": "6dae3c8a17b9067ebd68f1c4fccab2d69675d318262dbc0a34863de60ac3a73d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-b26606341edc78.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/bsc-physics-and-philosophy/",
+      "sha256": "0f712812e81e55eecf76446d54eae1b462635c4adc0845d8a233bf55dc7e686d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-3384d4a5266ea7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/bsc-physics-with-astrophysics/",
+      "sha256": "7427118a34d1180efd0de5af004aedf87a1f801ce0e93390de65d142772fd360",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f4ef1b79511079.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics-computing/bsc-physics-with-computing/",
+      "sha256": "cdb60a8fa81adb313b5db2a7f2815e78f3f5e30f9eae017c749180e3f956f2ac",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-ddecbfa643d2ac.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/bsc-physics/",
+      "sha256": "048b54e9f9102a51e266db897e113a01f1f677b699ee2c4f41062918d06bc389",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-1393b8f6ab81a6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physiology/bsc-physiological-science-with-study-in-industry/",
+      "sha256": "3ac4828150a47be1d318405dda8c0ca88c2982133b1becbaf975e13f09efe910",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a6ad3dc0517042.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physiology/bsc-physiological-science/",
+      "sha256": "cf062e0b8a0f2db4d9df882c6ecf959600400a647a0ce2f5f51eafaad818c8e3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-06852d116f22b1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/bsc-plant-sciences-with-professional-placement/",
+      "sha256": "be52539759fb718e01f1134bd772ae1c7f4b91237dd68b9ac82e4283eb4df8f5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c889a615e73539.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/bsc-plant-sciences/",
+      "sha256": "fa946dd3367b7f7ef09268aba1129c5e9662a9ac7059dfaebb5c4410d490cca0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8233f6c6ab3a35.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/politics-international-relations/bsc-politics-and-international-relations-with-study-abroad/",
+      "sha256": "e7ad5ce76b1ffa11b6217885728446bb15a9039ea7b9b778eaf4808bbecccb98",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e402a330760081.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/politics-international-relations/bsc-politics-and-international-relations/",
+      "sha256": "41ea72f17dd0cfbf14e6d8a059a7c72bd3a6ea9e950a38e4ebb33d1d45dc2702",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-1a4835a84604af.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/politics-international-relations/bsc-politics-and-sociology/",
+      "sha256": "7c6fdc918929135f854e1dd75185b1af9ddb84d05e76eb00436e586c0e8d9d9d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-102114d02864d8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/education/bsc-psychology-in-education-with-study-abroad/",
+      "sha256": "c798d0c430168eeb02564a37bebc525a878c4d7ce938f764aa68e339daf71519",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-0cad3611728a27.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/education/bsc-psychology-in-education/",
+      "sha256": "78c0a3c6a39d31a68b61c0ddeeecb486d8f69c8823099d9fcfbca0d3a945d816",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-0b541ac656f75c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/psychology/bsc-psychology/",
+      "sha256": "360f91ed8b673295939d1972cb14e684eb872ec846f7c4a9c0c49cc0a95e7b74",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4f63df07c5d123.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/social-policy/bsc-social-policy-and-politics/",
+      "sha256": "f49fcc7978a20780920f03857f3c8f3ccf4a142568a09b45aacb19e927d37623",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-28c925bca2ef33.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/social-policy/bsc-social-policy-and-sociology/",
+      "sha256": "8edeb1a036ebaedc8846d94dcab5ddf37c05dae531f9e4dfcb714a514a010861",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-3665edc37beab9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/social-policy/bsc-social-policy-with-criminology/",
+      "sha256": "b7bc5c00bdf95fd76b1d877c94a3e709cb04bcd5c46211618bf871ed7f75f928",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-7fa23cd5abbc15.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/social-policy/bsc-social-policy-with-study-abroad/",
+      "sha256": "61ad7a37f1cd24c1a364b079b27f7eac5d2e655ec7f11dc0fc0c3d46b481c2e1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-769db3b33fb52d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/social-policy/bsc-social-policy/",
+      "sha256": "96b9214256b36a4fc1c708f570a60ff195a13024edfa016f68644a03f46effc4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-db15e2ee1c81c2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/sociology/bsc-sociology-and-philosophy/",
+      "sha256": "cf6776fffcfd77f5400f65e2a0733273db73d55d3d5717152efd99c9d8e87760",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-2d14217c09e535.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/sociology/bsc-sociology-with-study-abroad/",
+      "sha256": "6fb15dd070efb177d1b6f78b10293a1de18c3239a8a27b2a6534910277628501",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-da226bb013062f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/sociology/bsc-sociology/",
+      "sha256": "a2075f2563d384b1013e1869715abab3e24649185f5df292cbe66e4bc9e797c7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-94355144beb66d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/vet-nursing/bsc-veterinary-nursing-and-companion-animal-behaviour/",
+      "sha256": "745f4c86a03a82a9ef9d0ef6e39fcda5953eac76d24a7253f48073f0c4a045c1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e018a976f001bf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/bsc-virology-and-immunology-with-study-in-industry/",
+      "sha256": "02e34512fc08a17f52043571114f622a19ac86fc2687b584d5d1e4f25e8ba2a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-af1fc1a189fe5a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/bsc-virology-and-immunology/",
+      "sha256": "574a05491e37b6e66946336935f35cf345121673bc0383830f67dcd24382d98c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-31dc978d40fc54.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/bsc-zoology-with-a-professional-placement/",
+      "sha256": "90500313cd6256f05789a0013eff0f50918f8e639b030bd6fcac9d6094dfbdff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-9c3cd882a1cc67.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/bsc-zoology/",
+      "sha256": "d3e41770f7b7bfa6af8402b1500ca1bc12bab19ee5cc8aabad8c244e0c26df1c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-20cb776b12f88c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/vet-science/bvsc-gateway-to-veterinary-science/",
+      "sha256": "1a7a6fd1b2c7dd139a0ccbbef3184ba7842daedc45a5aba9c1d558426b4607f7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-fbd1bf755e9388.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/vet-science/bvsc-veterinary-science/",
+      "sha256": "638e52dec71784f9387e7a4a16d4eb0247e8656e2cf4d3cc30eb75bfaf7d13bd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-1972093f727603.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/vet-science/bvsc-veterinary-science-accelerated-graduate-entry/",
+      "sha256": "ef6f5e6e18e6525cd3effff887cf74e1ce6052d5fa56d16dd4dcfa6f5f7a6957",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-1e2837a9d5e7d8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biochemistry/msci-biochemistry/",
+      "sha256": "ac000833a98920a929e165ebf4f25b950cc64162f149a92fd2f78e0c8730cd38",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-651faa1d334dbe.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biochemistry/msci-biochemistry-with-medical-biochemistry/",
+      "sha256": "f6532d83e48ab3cfe8fb09f2696de3ab8c2803c6395033c9052f6be640fd010f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-59a3b30499b310.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biochemistry/msci-biochemistry-with-molecular-biology-and-biotechnology/",
+      "sha256": "e6f708bcd6d4e2f3bb700f72914f00ef5772b03b0accebf685e58f9dd65cf87c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-1b8cfbf2632683.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/msci-biology/",
+      "sha256": "e6ef9fc367f17ce3b2760160e0d6aed4d2f8dd83e9fa2b3075fb7ee856e662f3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-2b56c805ca016f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/msci-biology-with-professional-placement/",
+      "sha256": "301a3c26b875a393914327b1c920e1536314420cb33aa2d0d7b7ba8fb0a976ff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-97dc2369edc7cd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/msci-business-and-management-with-innovation/",
+      "sha256": "f13da421329e2f7e96895ae00af14e3bce5e7a0de7b586142b73c2c43853e8e6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-149466561a0de1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/msci-cancer-biology-and-immunology/",
+      "sha256": "33d5c2cb19a3a2acf9dfae5a1faaef0c1f93aee5a1d54848d7d09bad66b1483b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-67cb5cb7540c64.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/msci-cellular-and-molecular-medicine/",
+      "sha256": "64dc80db0ff4d3b2268228066289e171efa542de165817a511cf68888c436fde",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4fff08ef5ba9da.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/dental-nursing/certhe-dental-nursing/",
+      "sha256": "6fbe54fd7b206687e27633f0b976da6559f4ecfce264d02f225f8035af33c4cf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-88250f46dcf33d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/foundation-years/certhe-foundation-in-arts-and-social-sciences/",
+      "sha256": "95397f81503da38cfaff059833cf5d2466632c84a3148f613ddaadf98e14aafc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-9497fab6fd124f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/foundation-years/certhe-foundation-in-science-engineering-and-mathematics/",
+      "sha256": "1dd2090ea01f2d5e4ebfee2d40b3586075c1c377af8069f1d5cfa4e29707b3e4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-76b841b42181bb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemical-physics/msci-chemical-physics/",
+      "sha256": "472b7d623c59f2012bf2a5110f739ce77a61b783305235d357a7b4051ec15d82",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a338c2c12948c6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemical-physics/msci-chemical-physics-with-industrial-experience/",
+      "sha256": "f65ec36e715780eca413a1ad0a4c13abea4317aabc32dfc3bcc5ce826b3aa763",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-691ae8e9ba5dd9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemistry/msci-chemistry/",
+      "sha256": "d88c889d4f9f651e3afe6177d5d3d5c26552a570fc61ed345983990fbe457b19",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e33ddb0aaae3f6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemistry-with-computing/msci-chemistry-with-computing/",
+      "sha256": "deb9fef712ea636f9e729b8ea16765251143be049328eb7655a188ff86c0b78f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c75e62be96051b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemistry/msci-chemistry-with-industrial-experience/",
+      "sha256": "d96efd9b79b23dd48679ac5e80c7b18fb66ca9bc6d00d796a52097df7ca1ec37",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-131dcab31b2ada.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemistry/msci-chemistry-with-study-abroad/",
+      "sha256": "2593791132c72df98a5dc01dd6ae1758a22e44ab19dc5b916c8074ae49cefc1e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-3f77e5b926a249.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/chemistry/msci-chemistry-with-study-abroad-in-a-modern-language/",
+      "sha256": "786c37f6708ebcd406d84a53fc10377266a56a06a50c84814957dbeee71270b8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-916538c1ce21f0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/civil-engineering/meng-civil-engineering/",
+      "sha256": "f6e9ba78c5d0973dfaef3039f6fff070f2751ca778cd7a20591eded6da570973",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-2e7f6637a2513f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/civil-engineering/meng-civil-engineering-with-study-abroad/",
+      "sha256": "57c76b84adf71f4e9d746e69551e85b604cf14e4c5bfcaacd5598caae38e2181",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-622781e33aff43.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/civil-engineering/meng-civil-engineering-with-a-year-in-industry/",
+      "sha256": "a52536195613a0617d15563d1698adebcaa53957731e587fd5fa378d05b7ba27",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-2b287728667f9e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/computer-science/meng-computer-science/",
+      "sha256": "c5ae24642dbe62344c64cac4fa87c55f921a3340d6be2077c3e04e59f364439b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f919f62d30122a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/computer-science/meng-computer-science-with-artificial-intelligence/",
+      "sha256": "8734be110e4af2c372ae01c5296fbec2f2d741d466db1e845a0ff3da068a83a9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f557cf8c851fc8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/computer-science/meng-computer-science-with-artificial-intelligence-with-study-abroad/",
+      "sha256": "8959b2b18e482a9ddd0f9816548f2a1c468397f056ea641b2affca73684f7470",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c23fed74729425.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/meng-computer-science-with-innovation/",
+      "sha256": "7379de7beaa47000685a77843a60de337c488a7720665210d64fd9d42206cbde",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-34e765315d514f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/computer-science/meng-computer-science-with-study-abroad/",
+      "sha256": "62232dfaf692eb515a970059dea953c6e5a76e32dbbc3ad7599e658a48df89c3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-0a4693f48e8a1f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/design-engineering/meng-design-engineering/",
+      "sha256": "672b61ae5b77ec1d93f53a9a032ef3f46785b06707c6dcd49be3067c9b31e48a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a88f5a5a486ab7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/design-engineering/meng-design-engineering-with-a-year-in-industry/",
+      "sha256": "c8626975370608581658d1f3438f649f454fa36f8b704f6abe47f387cc871945",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-69ff8a9da168a4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/msci-design-with-innovation/",
+      "sha256": "577b50309018dea3f2752a1890053ed8084666f67fa84a0306c3d7cb8095b48d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4c398639475bf6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/msci-economics-with-innovation/",
+      "sha256": "a17885430c79af2b1df10887cdf9fa50b7a964499303d595f9d87e5bc993a94a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e226aa64f8a277.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/electrical-electronic-engineering/meng-electrical-and-electronic-engineering/",
+      "sha256": "016ce2723d18aec4405e486708557d8de911624766349184b90befb819113b63",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-75ab36916bcc99.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/electrical-electronic-engineering/meng-electrical-and-electronic-engineering-with-study-abroad/",
+      "sha256": "236036907aa6f37746db6d4f3dc65230f277a3be92ac0afae3ab546c5272673e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f0277f6c1b7587.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/electrical-electronic-engineering/meng-electrical-and-electronic-engineering-with-a-year-in-industry/",
+      "sha256": "93e6b3cffc67e5653207652e6377637393fad1a677c2f1c345ca44a3fc9733e4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-05d4165c620c20.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/engineering-maths/meng-engineering-mathematics/",
+      "sha256": "319eca5ad763205be69688186a7a31cb7015a0ed400bf2e4ab9198292a845848",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-80ecb33ad396e7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/engineering-maths/meng-engineering-mathematics-with-study-abroad/",
+      "sha256": "e96bde46f2dc46af407f4df42843a0006b239aede07cf5f984396249bfaaa15e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-534e7e5cb5d95c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/engineering-maths/meng-engineering-mathematics-with-a-year-in-industry/",
+      "sha256": "8a5b3d1c716cd2e38f9d0c8f92e672434c1cb9c7e864f24bd5aef8e25601b4fb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-364f863fb0d38b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/msci-environmental-geoscience/",
+      "sha256": "6f96595b55b5a913da91baad4e32e697615005f30663d8aec9be4b2bbb1f8eba",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-b2fe526e25954e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geoscience/msci-environmental-geoscience-with-study-abroad/",
+      "sha256": "c82079a32f6883dcf019c37f25bf1b7f9b6f3eb954fc71922c21478faeb6cf3b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8152d2ec3e0dfe.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/marts-film-and-television-with-innovation/",
+      "sha256": "1763b42bd752782ab125413c5c9598f127fa8133d439181073c039e69293e0e3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-96b92d591957c1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/msci-finance-with-innovation/",
+      "sha256": "02d64d3ea5cf2d354c97f9ca384f7bd0815eb0e3a1f6c663d1326ead32ec846b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-dc0ff1a579c416.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/medicine/mb-chb-gateway-to-medicine/",
+      "sha256": "16dda0b31dda5becacd5796f9676b17a4a914104f677ad77fad8355e72b0ac99",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-024ea97a46c3c2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/msci-geography-with-innovation/",
+      "sha256": "9e0ec2aa728f4fa17d6e91af056c2925217668841edb4f8f1f04897f734c9046",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-77f2d2dd610969.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geology/msci-geology/",
+      "sha256": "c850823e6797b051230df1f75770587b9f65f357ed8665f22fdff6541d07253d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-5503116a3efdfb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/geology/msci-geology-with-study-abroad/",
+      "sha256": "fd26f014b7b9fa007fd01f8240bdcb05807c05783a1c5a62691d78ac0ea50400",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-0e235446de942b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/marts-history-with-innovation/",
+      "sha256": "95344f91c90c19f8d463d1fe77bfd307f891124a545cfdcf037747c2300c2d51",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-2e516e9fd83a54.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/international-foundation-programme/international-foundation-programme-arts-law-and-social-sciences/",
+      "sha256": "66fd29e664f6affa9abb8e22d470522564973e6344bb29260011a47aeb277f19",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-9334fb1dc08a03.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/international-foundation-programme/international-foundation-programme-business-and-economics/",
+      "sha256": "ea495f27943f478095da3fa7090429882c540d8eb72b2fae7bbdf9a7f921c485",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-489043169ff692.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/international-foundation-programme/international-foundation-programme-science-technology-engineering-and-mathematics/",
+      "sha256": "f5d5751d63dc448e2604682086e2ab85265ff25b9a90d2a1d53ffe660f01f20d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e1bdbb7d04ca03.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/international-foundation-programme/international-foundation-programme-for-dentistry/",
+      "sha256": "b1df14ed8c097e7fabade404b4c8eb3fcc9336d055c9d4f94f8d4df59e831586",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-bd943e2457b7f3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/dentistry/international-foundation-programme-for-dentistry/",
+      "sha256": "6480153944eaea1a2f1c246674ccdafd8593c201b20b778a5cd16ca9d8f15b29",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a299c644184517.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/international-foundation-programme/international-foundation-programme-for-medicine/",
+      "sha256": "d177e340f50334b1d6b9211e2099f48791c4661e03d7481104789fab1305753a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-44c380c60e2a30.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/medicine/international-foundation-programme-for-medicine/",
+      "sha256": "6c9e2d9cd7a00fe493b9ddd04d473666eedaaa564329ba2c3665697267cd468e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-dfd81cdbfe2b0f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/law/llb-law-and-modern-languages/",
+      "sha256": "37237e5effdcd6b7c5fa964e573fe1b3cac3b52efdcd68df84fcf602c81540e3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8a72933e7a3c33.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/law/llb-law-with-study-abroad/",
+      "sha256": "76ffc7e5185dd71dffc03077f6cdac3db2e573295d6ff608023f1ee22adacfdd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c866b470fdc11d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/law/llb-law-with-study-in-continental-europe/",
+      "sha256": "5623044d2e8b3e2900b21989401fbd029f8d53a8defc77cdbe6ae8ed0da6a548",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-22b4a808587f3d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/law/llb-law/",
+      "sha256": "0ec7c78ba18fc412a8076aedb8ddad27fb11e1e39a95213fcfd778fba5e68c10",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-04f25d25b2b73f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/liberal-arts/mlibarts-liberal-arts-with-study-abroad/",
+      "sha256": "0734b5448bdfa974628971a9442bf5687cb52618e8a690ca0241a25ba3a857ca",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-82d6d9a5fdea83.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/marts-music-with-innovation/",
+      "sha256": "cf8d424a0fa048c26687e7449f310d522fc8fe2a46adbe9e60f6f959691b61b0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-15935047f9a12c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/marts-theatre-with-innovation/",
+      "sha256": "4e4f653467c0db0f5b619665bf16eb1f53a2ba29b83c44e8943a28bfe71c32c6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-7a1ecd07b1d9d0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/medicine/mb-chb-medicine/",
+      "sha256": "2fcc530d88e99ddd13b6574da821f13f4cf5439f54fdf3f64fbe97b743ae0319",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f4cfb9811b4db8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/computer-science/meng-mathematics-and-computer-science/",
+      "sha256": "6fa22513fcf9e34ed23eebd8e60d0731107daf757b97e3cf01733a5de82b52cb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-d9872e315418cb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/mechanical-engineering/meng-mechanical-engineering-with-study-abroad/",
+      "sha256": "83097381d522f04d70796b2e0d5192e2687238fc6707e4748b96d09ae63a1517",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e49bb53b51a80a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/mechanical-engineering/meng-mechanical-engineering-with-a-year-in-industry/",
+      "sha256": "0f0d48b76d0118edef5cf69f03351d67e35ed7eb217e7d6636d512bce9b65563",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-447c62475e9f5f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/mechanical-engineering/meng-mechanical-engineering/",
+      "sha256": "1e9246918fdcc5069a74e2acbc6183715fe25c6339e3bc888c74c016cd667961",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a22974c71a6881.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/electrical-electronic-engineering/meng-mechanical-and-electrical-engineering-with-a-year-in-industry/",
+      "sha256": "aea41724f3d0ec897336ded66c068a3f7bbc70fab86841494504eb0f08b28093",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f48abb3294bd79.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/electrical-electronic-engineering/meng-mechanical-and-electrical-engineering/",
+      "sha256": "12c00a4431af8b6c3ff10deb87e45bf2bcbe009a663106cd75e5c347c30bd9b8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-0bdef7c935a0a7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/msci-mathematics-and-philosophy/",
+      "sha256": "e03592153e200a9d31b12249f90cd6539e5e4d06554263909638d01a377ee251",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-94d15a482b0c85.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/msci-mathematics-and-physics/",
+      "sha256": "7d494a9ca996df3a7a12a8161108651f4f9aa49aef216174fdd5c84de7cb0cde",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c89d43011a24f8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/msci-mathematics-with-statistics/",
+      "sha256": "e62a37342f202fb54debc57fcae39e381ec3d667a1e269ac923aab6b047c21c8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-928fdff7be01b8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/msci-mathematics-with-study-abroad-in-a-modern-language/",
+      "sha256": "761c59318b17e679d476a2491b646548efa446e1e2c45a38a2dfe74487ca8365",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-dcd56404161815.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/msci-mathematics-with-study-abroad/",
+      "sha256": "2957303fa36e912ff4cc22d2c69255a0f5dc07f2e323bcfee6338ad28edc67b6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c0dbe5a000f8b3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/maths/msci-mathematics/",
+      "sha256": "89119b014e01cc51711a4936e3633ef5648d7a4f5419dfb090a17e8160f0b48e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4e22f11d649fa5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/msci-medical-microbiology/",
+      "sha256": "e3a991e6fba3168da83ba8f9592f07f27aad19b13a50b01d1ce00c882ca4a243",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-2188d81cc17d90.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/neuroscience/msci-neuroscience/",
+      "sha256": "964a817e13ad178e4d671ae1efc55e5a75ac29b2cc8193a96e7af1e8f2a52603",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-5ba3f235acd5d1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/palaeontology-evolution/msci-palaeontology-and-evolution/",
+      "sha256": "0e14cb548ce0172e49ac9cb4b8edcc9295e46a8fd9e7f9f0dc8c8b55f84efb3d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-95ab266c2452a4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/pharmacology/msci-pharmacology/",
+      "sha256": "935d5986a31de6e21491f43cf956175e60cdebcc40b94f4a796bc768f7adc055",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-802e46b5ec3f52.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/msci-physics-and-philosophy/",
+      "sha256": "976d87b5745517b0f91a563d7b3a22177c528558256b2e17559fbf1ada54ca60",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-55cc202de85bcc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/msci-physics-with-astrophysics/",
+      "sha256": "d631fc245e90f7574c1d00ca3e0ebfd6eefb13d137e1dcce15baaa26e81e406c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-7ee1fb56d4332d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics-computing/msci-physics-with-computing-with-industrial-experience/",
+      "sha256": "97997424f3599cdf81e760523bdec1b046cd022d0fdc4466727de114eb374a19",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-12480f8e6a9fbc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics-computing/msci-physics-with-computing/",
+      "sha256": "563befbc8d996897c449db766467d29cd1e55182001051004a3f27bf06f55cf0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-23e15b665021ad.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/msci-physics-with-industrial-experience/",
+      "sha256": "3956abb53d5077daae9ba21140e2f14652ebc97661c6246a86a889e4f6a6cac3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-50aca62f3e2010.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/msci-physics-with-innovation/",
+      "sha256": "3854a0e962495dbbb1dd09fd80d54cfc34b8a8b27b929b3ee503aed4ae70cfa5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-77242a7436c659.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/msci-physics-with-international-experience/",
+      "sha256": "228922e3861dc3748def24b5781267ad8f4a31b806580252a5622e034e067cd4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8e78dbaf6fd0c0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/msci-physics-with-study-abroad-in-a-modern-language/",
+      "sha256": "b2d63e587a41c3cea81dc2390f08426ee1c75900b46a23b8738f1e8ee2717edf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-f87efcf068a8fc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/msci-physics/",
+      "sha256": "5f5b133a387ada9e8a39581024c3cf4e392db362a28072827831328940d837ad",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-b31462d6992660.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physiology/msci-physiological-science/",
+      "sha256": "8bc3420fe4bf36ce141ca671bd06e2d30276250141bf98ddaf1561fd8ca0e05b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-c953f4eaebee0a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/msci-plant-sciences-with-professional-placement/",
+      "sha256": "870f5b0d088a249fea291c02c94bedd720218cc5b63be5aca250221fccbe44f4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-79f94b2fa57dd3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/msci-plant-sciences/",
+      "sha256": "03019944ee7919d619ccb1fe9085e89ea223839c70926d81ecb6e326e22c7b77",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-e146132d0cb1e9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/neuroscience/msci-psychology-and-neuroscience/",
+      "sha256": "8d27f11261ba6b5b454b10d0eedab2340358834ff7f16610cad2c127fb54c112",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4994e7a062f807.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/innovation/msci-psychology-with-innovation/",
+      "sha256": "9150a2623e34b8c73f294dcfb701f952fffda55cb3df3e63c00ca70d35872b2b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-7e6c27e3fdffaa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/physics/msci-theoretical-physics/",
+      "sha256": "cae81825e15c6a96c16f3470bbe3c295c06dacfc5b8f1d45499e7e3d9d95c4c9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4d61998f40466a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/cellular-molecular/msci-virology-and-immunology/",
+      "sha256": "7738b6bbe14d54992e8dbec003a483b47f82ebfcdf8b2b0fad5d152210a10fed",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-8d6b5bbb770d8d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/msci-zoology-with-a-professional-placement/",
+      "sha256": "14ea8cc4de27b9bd27596c9f75f58c9e628f54ea31f65166d377d7a9b4bb9c31",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-4422ca8b64378c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/2027/biological-sciences/msci-zoology/",
+      "sha256": "d8f08ec08649f7e406eae65339d8e103ca461ad3fdde6912ffe9c69fee08649a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/bristol/raw/course-a22fe6a2c2aeaf.html",
+      "locator": "See each fact extraction_locator"
+    }
+  ]
+}

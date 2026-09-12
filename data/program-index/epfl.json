@@ -1,0 +1,191 @@
+{
+  "university_id": "epfl",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "complete",
+    "count": 13,
+    "scope": "EPFL官方Bachelor目录列出的全部13个本科专业。",
+    "method": "单页按5个学院列出13个本科课程链接，无分页；13个课程页全部归档。",
+    "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
+    "sources": [
+      {
+        "url": "https://www.epfl.ch/education/bachelor/programs/",
+        "sha256": "a84840f549c4ccf5d81bc8a483ce8766226868f4be3ac829afca58a4f88e9644",
+        "raw_file": "scratch/full-catalog/root/epfl.html",
+        "bytes": 105387
+      }
+    ],
+    "gaps": []
+  },
+  "programs": [
+    {
+      "name_en": "Architecture",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/architecture/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/architecture/",
+      "id": "epfl-architecture-3ecfcc40c8"
+    },
+    {
+      "name_en": "Chemistry and Chemical Engineering",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/chemistry-and-chemical-engineering/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/chemistry-and-chemical-engineering/",
+      "id": "epfl-chemistry-and-chemical-engineering-eb3a64bfda"
+    },
+    {
+      "name_en": "Civil Engineering",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/",
+      "id": "epfl-civil-engineering-21ab809923"
+    },
+    {
+      "name_en": "Communication Systems",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "id": "epfl-communication-systems-2a3c1e23e8"
+    },
+    {
+      "name_en": "Computer Science",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/computer-science/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/computer-science/",
+      "id": "epfl-computer-science-f50dd1f536"
+    },
+    {
+      "name_en": "Electrical and Electronic Engineering",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/electrical-and-electronic-engineering/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/electrical-and-electronic-engineering/",
+      "id": "epfl-electrical-and-electronic-engineering-990f7360b2"
+    },
+    {
+      "name_en": "Environmental Sciences and Engineering",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/",
+      "id": "epfl-environmental-sciences-and-engineering-e172fe3fda"
+    },
+    {
+      "name_en": "Life Sciences Engineering",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/",
+      "id": "epfl-life-sciences-engineering-ba4884f974"
+    },
+    {
+      "name_en": "Materials Science and Engineering",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/",
+      "id": "epfl-materials-science-and-engineering-ef601d78d5"
+    },
+    {
+      "name_en": "Mathematics",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/mathematics/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/mathematics/",
+      "id": "epfl-mathematics-6e59668f3b"
+    },
+    {
+      "name_en": "Mechanical Engineering",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/",
+      "id": "epfl-mechanical-engineering-8a715270ad"
+    },
+    {
+      "name_en": "Microengineering",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/microengineering/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/microengineering/",
+      "id": "epfl-microengineering-66b5207340"
+    },
+    {
+      "name_en": "Physics",
+      "degree_label": "Bachelor",
+      "official_url": "https://www.epfl.ch/education/bachelor/programs/physics/",
+      "discovery_source_url": "https://www.epfl.ch/education/bachelor/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": "通常3年（180 ECTS）",
+      "campus": null,
+      "language": null,
+      "raw_key": "https://www.epfl.ch/education/bachelor/programs/physics/",
+      "id": "epfl-physics-3c3e614ebd"
+    }
+  ]
+}

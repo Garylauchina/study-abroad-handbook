@@ -1,0 +1,215 @@
+{
+  "university_id": "uts",
+  "programs": [
+    {
+      "university_id": "uts",
+      "raw_key": "C10235",
+      "name_en": "Bachelor of Accounting",
+      "official_url": "https://coursehandbook.uts.edu.au/course/2027/C10235",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "sections": {
+        "overview": [
+          {
+            "label": "培养学分",
+            "text": "2027手册规定本目录条目完成150 学分。这是学位总学分。",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          },
+          {
+            "label": "标准全日制学制",
+            "text": "3 年；学位内方向通常随所属学位完成，若本页没有单独学制不得外推。",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          },
+          {
+            "label": "手册所列校区",
+            "text": "City campus。跨校区和海外合作版本应按本条对应的课程页核对申请身份。",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          },
+          {
+            "label": "课程组成",
+            "text": "官方结构表列出：Major：48 学分；Core：54 学分；Options：48 学分。各部分可能含替代/选修关系，不能把嵌套部分重复相加。",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          },
+          {
+            "label": "结构表中的学习单元示例",
+            "text": "包括Marketing and Customer Value（24109）、Australian Corporate Environment（22157）、会计, Business and Society（22208）；这些示例可能属于必修、选修或替代选择，须按完整结构表选课。",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          },
+          {
+            "label": "授课语言",
+            "text": "English",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "特殊选拔",
+            "text": "手册列特殊申请/选拔安排，可能有独立截止；不能把校级普通国际生流程视为本课程全部要求。",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "专业申请窗口缺口",
+            "text": "本轮未完成本条国际新生、内部选专业或荣誉研究申请窗口的逐项复核；校级日程仅在对应申请类别适用。",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本条费用缺口",
+            "text": "本轮未取得本条在该手册年度、相应校区及国际生身份下可直接引用的课程报价；学位内方向不应另加一份完整学位学费。",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果口径",
+            "text": "本轮未取得本条按毕业届次、国际生/中国学生范围及响应人数定义的就业率或薪酬统计；课程介绍中的就业潜力或职业名称不能替代毕业调查。",
+            "source_ids": [
+              "uts-handbook-C10235-2027"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "uts-handbook-C10235-2027",
+          "title": "uts 2027 官方手册：Bachelor of Accounting",
+          "url": "https://coursehandbook.uts.edu.au/course/2027/C10235",
+          "checked_at": "2026-09-12",
+          "supports": "课程学分、学习结构、明确列出的学习单元/学制/校区及本轮核验缺口；不采用内部备注或未呈现语言占位字段",
+          "raw_sha256": "4b0bdf333f94b3e66c95b3d5f64ea1ba329220e5c77e1b90934eb2658bd5d062",
+          "sha256": "4b0bdf333f94b3e66c95b3d5f64ea1ba329220e5c77e1b90934eb2658bd5d062"
+        }
+      ],
+      "display_fields": {
+        "duration": "3 年",
+        "campus": "City campus",
+        "language": "English"
+      },
+      "enrichment_status": "partial",
+      "verified_structured_fields": [
+        "credit_points",
+        "duration",
+        "campus",
+        "curriculum_structure",
+        "unit_examples"
+      ],
+      "inventory_id": "uts-bachelor-of-accounting-06f5767be4"
+    }
+  ],
+  "profile": {
+    "university_id": "uts",
+    "checked_at": "2026-09-12",
+    "scope": "澳大利亚校区国际本科通用规则；不替代专业、主修、荣誉研究或特定身份入口的附加条件。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "大陆资格与年度边界",
+          "text": "大学2026国际本科中文摘要列中国高考及其他资格的课程对照。该文件标题明确2026，不能把其中专业分数、学费或开学安排外推至2027；本轮尚未完成全表课程代码逐行对应。",
+          "source_ids": [
+            "uts-profile-ug-china-table"
+          ]
+        },
+        {
+          "label": "英语：普通本科与例外",
+          "text": "多数本科课程IELTS Academic最低总分6.5、写作6.0；不是四个单项统一6.0。教育、护理等课程另设更高分数/考试时间规则，联合课程取两部分中较高要求。",
+          "source_ids": [
+            "uts-profile-english"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "国际申请与材料",
+          "text": "国际申请需核实学术及英语条件，提交成绩和课程要求的材料，可由官方代理协助。课程有独立选拔或身份限制时，以该课程规则为准。",
+          "source_ids": [
+            "uts-profile-apply"
+          ]
+        },
+        {
+          "label": "通用截止及年别范围",
+          "text": "当前国际申请页按申请者所在地列通用月日：澳洲境外秋季入学11月30日、春季4月30日、夏季8月30日；境内分别1月15日、5月31日、9月30日。页面该表未单独标每一入学年，不能把它视为所有2027专业均开放的确认；课程早截止和特殊选拔须另核。",
+          "source_ids": [
+            "uts-profile-apply"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "国际学费与申请费",
+          "text": "学费按课程和年度不同，通常每个教学期预缴；国际申请费A$100不退，当前UTS学生申请第二学位或UTS College在读衔接者有页面规定豁免。本轮未取得全部2027本科统一费用区间；2026中文表须保留其原年别。",
+          "source_ids": [
+            "uts-profile-fees"
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "label": "结果统计缺口",
+          "text": "本轮未取得完整覆盖本科专业、明确毕业届次及国际生分组的就业调查。部分手册宣传就业数字缺少本轮核实的分母和样本，未写成课程就业率。",
+          "source_ids": [
+            "uts-profile-apply"
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "uts-profile-ug-china-table",
+        "title": "uts 官方资料：ug-china-table",
+        "url": "https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table-china.pdf",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "f825732592d4b22eff330d5c64259e558cb1f75d35ebd9670ea6da6cee12ddef",
+        "sha256": "f825732592d4b22eff330d5c64259e558cb1f75d35ebd9670ea6da6cee12ddef"
+      },
+      {
+        "id": "uts-profile-english",
+        "title": "uts 官方资料：english",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/eligibility/english-language-requirements",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "a564f26b1fbd1593a626474fe47e661db7b279404a3ff39cde7fe9e83290cf63",
+        "sha256": "a564f26b1fbd1593a626474fe47e661db7b279404a3ff39cde7fe9e83290cf63"
+      },
+      {
+        "id": "uts-profile-apply",
+        "title": "uts 官方资料：apply",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "8856dd3830356c697a939265f77b236029cfda6a2a08e9719231d23b79b93dd3",
+        "sha256": "8856dd3830356c697a939265f77b236029cfda6a2a08e9719231d23b79b93dd3"
+      },
+      {
+        "id": "uts-profile-fees",
+        "title": "uts 官方资料：fees",
+        "url": "https://www.uts.edu.au/for-students/admissions-entry/fees-costs/international-fees",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "d4092771a7dbf654ddff13c5bba05e4b0799fc1f946d8e8c22907a7ee1e3289b",
+        "sha256": "d4092771a7dbf654ddff13c5bba05e4b0799fc1f946d8e8c22907a7ee1e3289b"
+      }
+    ]
+  }
+}

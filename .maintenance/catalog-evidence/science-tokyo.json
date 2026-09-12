@@ -1,0 +1,66 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.isct.ac.jp/en/011/education/departments",
+    "official_total": null,
+    "official_total_unit": "undergraduate departments/programmes across both science-engineering and medical-dental sectors",
+    "pagination_complete": true,
+    "provably_complete": true,
+    "page_evidence": [
+      {
+        "source": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+        "included": 17
+      },
+      {
+        "source": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-md",
+        "included": 6
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "Three explicit graduate-only fields excluded from science/engineering directory.",
+      "Schools/faculties are not silently split into research laboratories; enrolment routes and intake year remain unverified at this stage."
+    ],
+    "raw_artifacts": [
+      "science-tokyo/raw/departments.meta.json",
+      "science-tokyo/raw/directory.meta.json",
+      "science-tokyo/raw/science-engineering.meta.json"
+    ],
+    "university_id": "science-tokyo",
+    "count": 23,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 23
+    },
+    "record_type_counts": {
+      "undergraduate_department": 17,
+      "medical_dental_undergraduate_programme": 6
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-se",
+      "sha256": "4027f0a5e77c95169deb5602c881a8b08eb686f4614b02a71548cf91a7894cb5",
+      "bytes": 70430,
+      "raw_file": "scratch/full-catalog/asia/science-tokyo/raw/science-engineering.html",
+      "meta_file": "scratch/full-catalog/asia/science-tokyo/raw/science-engineering.meta.json"
+    },
+    {
+      "url": "https://www.isct.ac.jp/en/011/education/departments",
+      "sha256": "1ab878d9f8a009b566bcc60fe599a40ded935546f2c9d845c3969199c44468b9",
+      "bytes": 48291,
+      "raw_file": "scratch/full-catalog/asia/science-tokyo/raw/departments.html",
+      "meta_file": "scratch/full-catalog/asia/science-tokyo/raw/departments.meta.json"
+    },
+    {
+      "url": "https://www.isct.ac.jp/en/001/education/departments/undergraduate-md",
+      "sha256": "fe4bf6a08a8760fcd016cf0a71ecab66a31312f383ed91c9c2311bc1f51ee454",
+      "bytes": 48618,
+      "raw_file": "scratch/full-catalog/asia/science-tokyo/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/science-tokyo/raw/directory.meta.json"
+    }
+  ]
+}

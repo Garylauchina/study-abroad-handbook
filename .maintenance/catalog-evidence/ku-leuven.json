@@ -1,0 +1,43 @@
+{
+  "original_manifest": {
+    "university_id": "ku-leuven",
+    "checked_at": "2026-09-12",
+    "final_count": 79,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "official_count": 883,
+    "directory_scope": "KU Leuven institution50000050 only; all883qualifications from2026–27catalogue, filtered to79academic bachelor qualifications across official university campuses and explicitly named joint qualifications.",
+    "pagination_evidence": "Public programme guide API returns hits.total.value=883 relation=eq,883hits with size1000; request uses exact UI institution/inProgramguide/ID-prefix filters.",
+    "filtering_rules": "Keep academic/professional/advanced bachelor qualifications, exclude masters, doctoral, bridging/preparatory/nondegree/certificates.79qualification entries retain all published programme variant IDs in programme_variants; no association-wide unrelated colleges.",
+    "can_prove_complete": true,
+    "gaps": [
+      "This is the official programme guide and includes teach-out qualifications; explicit closure banners retained. Campus variants are preserved within their qualification rather than turned into extra independent degrees. Duration null because API stage counts are not stated elapsed years."
+    ],
+    "source_urls": [
+      "https://www.kuleuven.be/opleidingen/",
+      "https://onderwijsaanbod.kuleuven.be/api/pg2026/_search"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/api/pg2026/_search",
+      "sha256": "959253fd4355245141eea8e3945ef3d97aaeb2239da1900c639160280c85a476",
+      "bytes": 102923941,
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.json",
+      "meta_file": "scratch/full-catalog/europe/ku-leuven/catalog-api.source.json"
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/build/assets/app-yLXNBOFh.js",
+      "sha256": "c6dd4730fbe275f5bdf8d5e5782f76067d7066859dfe183fd10a69948b638f2b",
+      "bytes": 449004,
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/app-script.html",
+      "meta_file": "scratch/full-catalog/europe/ku-leuven/app-script.source.json"
+    },
+    {
+      "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n",
+      "sha256": "f55ec2e25cccb316a1cd5f2871ee8dc72bacb41a6881c38cb1efbae20b8153cd",
+      "bytes": 24719,
+      "raw_file": "scratch/full-catalog/europe/ku-leuven/index.html",
+      "meta_file": "scratch/full-catalog/europe/ku-leuven/index.source.json"
+    }
+  ]
+}

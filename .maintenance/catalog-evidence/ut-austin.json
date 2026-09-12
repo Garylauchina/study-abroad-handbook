@@ -1,0 +1,36 @@
+{
+  "original_manifest": {
+    "university_id": "ut-austin",
+    "checked_at": "2026-09-12",
+    "final_count": 161,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "The University of Texas at Austin undergraduate degree programs, including named dual and integrated undergraduate pathways",
+    "directory_urls": [
+      "https://catalog.utexas.edu/undergraduate/degree-programs/"
+    ],
+    "official_published_count": null,
+    "page_coverage": {
+      "pages": 1,
+      "major_award_rows": 214,
+      "tables": 19,
+      "pagination": "One complete page with Overview, Dual Degree, Integrated Degree and Degrees tabs; all tab HTML read"
+    },
+    "filter_rules": "Keep bachelor-bearing Major(s)/Degree(s) rows; split separate award variants; preserve named dual and integrated pathways; exclude PharmD-only and graduate bridge-only entries. Deduplicate repeated joint-school entries.",
+    "excluded_count": 70,
+    "can_prove_complete": true,
+    "completeness_basis": "All bachelor-bearing entries in official degree tables and explicit interinstitutional bachelor/master pathway.",
+    "gaps": [
+      "The full official major wording is retained; specialization examples inside parentheses are not automatically expanded into new degrees.",
+      "No programme-specific admissions availability is implied."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/degree-programs/",
+      "sha256": "5b79d59f93ff7c74d13919fcd557b2597a65418d02a393beca5a3ac33930d3bd",
+      "bytes": 196346,
+      "raw_file": "scratch/full-catalog/us-b/ut-austin/index.html",
+      "meta_file": "scratch/full-catalog/us-b/ut-austin/index.source.json"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "original_manifest": {
+    "university_id": "alberta",
+    "checked_at": "2026-09-12",
+    "count": 351,
+    "status": "partial",
+    "scope": "官方本科项目搜索目录的主修、荣誉、Co-op、After Degree和专项方向；保留三校区身份。",
+    "method": "15页完整对账：14×24+18=354，按项目URL去重；逐卡检查已停止招生文字，保留仅停止高中直申的转学/第二学位路径。",
+    "sources": [
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "a23c57e28f1653a9de69aa780a544d56a46d3bd9aa4476734b4078e24e96b961",
+        "raw_file": "alberta-results-1.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "72d442fc0ada7f86436aedcad0b4ef2559b51313bfd70434bb326668e4b75ce6",
+        "raw_file": "alberta-results-2.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "3fe0c3b0517a746badbe87eb76174b8fbaceb94213b35297c10621d1f25a3bb5",
+        "raw_file": "alberta-results-3.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "a3289ba5a36fc0f4e6847e17c8f9abfd65125ba2b199d9c7b47eccc88f0d80b8",
+        "raw_file": "alberta-results-4.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "bb8736390aa0a382e6cc84be581e7bf96376c19441ca3834a78dc264eccd7910",
+        "raw_file": "alberta-results-5.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "4dd7a6ff369d44c35ee189f04fa4f6a7bff6098ba7630c6fd16542ae408d38db",
+        "raw_file": "alberta-results-6.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "d81018539b85444cec1e04aaafd9deec9f4c15446dc246a8ce83d5dc92f21d02",
+        "raw_file": "alberta-results-7.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "1bb8beb784a18e55f66ea9c2d14f3c6c1c0f7a6dcfeb9f188bf050295054a336",
+        "raw_file": "alberta-results-8.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "6608fbd5cc9e0aad596446dca88ec1d7e4408d5f48c0147e4797ba27609b194a",
+        "raw_file": "alberta-results-9.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "f36b3e73fb4f2d837ac462922e0730feb4974af065e63fab4a2f00a71e167efb",
+        "raw_file": "alberta-results-10.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "affe2f52379c79cd835f021e79a9405083b14cb292b232fef90bb82c901b8a79",
+        "raw_file": "alberta-results-11.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "0d56682a766b49831dde3ab3da96c072ee70c5581b31227b2abd09970cc99e73",
+        "raw_file": "alberta-results-12.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "47401ec0d97bf92597f37466186cf4b0cb6dedb3a639fc95414fbe1d265be66c",
+        "raw_file": "alberta-results-13.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "b5a183935672b70d414c2164b6f0f3a9ebfb560caf5b9df3f11cb81104491800",
+        "raw_file": "alberta-results-14.json"
+      },
+      {
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+        "sha256": "a2a64bb4e3770cd6cd0b072a6823968ee97767c47db4d40d8b805f6ee83d8d68",
+        "raw_file": "alberta-results-15.json"
+      }
+    ],
+    "exclusions": "排除 3 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [
+      {
+        "name": "Second Languages - Other",
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-education-in-secondary-education-second-languages-other.html",
+        "reason": "explicitly no longer accepting applications"
+      },
+      {
+        "name": "Second Languages - Other",
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-education-in-secondary-education-after-degree-second-languages-other.html",
+        "reason": "explicitly no longer accepting applications"
+      },
+      {
+        "name": "Foundational/Qualifying Year",
+        "url": "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+        "reason": "qualifying year is not a distinct degree major"
+      }
+    ],
+    "gaps": [
+      "官方卡片摘录可能省略停招信息，尚需逐个项目正文复核；学院新学位与搜索索引同步性尚待交叉检查。"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "a23c57e28f1653a9de69aa780a544d56a46d3bd9aa4476734b4078e24e96b961",
+      "raw_file": "scratch/full-catalog/root/alberta-results-1.json",
+      "bytes": 55580
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "72d442fc0ada7f86436aedcad0b4ef2559b51313bfd70434bb326668e4b75ce6",
+      "raw_file": "scratch/full-catalog/root/alberta-results-2.json",
+      "bytes": 56329
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "3fe0c3b0517a746badbe87eb76174b8fbaceb94213b35297c10621d1f25a3bb5",
+      "raw_file": "scratch/full-catalog/root/alberta-results-3.json",
+      "bytes": 57051
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "a3289ba5a36fc0f4e6847e17c8f9abfd65125ba2b199d9c7b47eccc88f0d80b8",
+      "raw_file": "scratch/full-catalog/root/alberta-results-4.json",
+      "bytes": 58316
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "bb8736390aa0a382e6cc84be581e7bf96376c19441ca3834a78dc264eccd7910",
+      "raw_file": "scratch/full-catalog/root/alberta-results-5.json",
+      "bytes": 57435
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "4dd7a6ff369d44c35ee189f04fa4f6a7bff6098ba7630c6fd16542ae408d38db",
+      "raw_file": "scratch/full-catalog/root/alberta-results-6.json",
+      "bytes": 57039
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "d81018539b85444cec1e04aaafd9deec9f4c15446dc246a8ce83d5dc92f21d02",
+      "raw_file": "scratch/full-catalog/root/alberta-results-7.json",
+      "bytes": 57210
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "1bb8beb784a18e55f66ea9c2d14f3c6c1c0f7a6dcfeb9f188bf050295054a336",
+      "raw_file": "scratch/full-catalog/root/alberta-results-8.json",
+      "bytes": 52762
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "6608fbd5cc9e0aad596446dca88ec1d7e4408d5f48c0147e4797ba27609b194a",
+      "raw_file": "scratch/full-catalog/root/alberta-results-9.json",
+      "bytes": 56650
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "f36b3e73fb4f2d837ac462922e0730feb4974af065e63fab4a2f00a71e167efb",
+      "raw_file": "scratch/full-catalog/root/alberta-results-10.json",
+      "bytes": 55133
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "affe2f52379c79cd835f021e79a9405083b14cb292b232fef90bb82c901b8a79",
+      "raw_file": "scratch/full-catalog/root/alberta-results-11.json",
+      "bytes": 55247
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "0d56682a766b49831dde3ab3da96c072ee70c5581b31227b2abd09970cc99e73",
+      "raw_file": "scratch/full-catalog/root/alberta-results-12.json",
+      "bytes": 57365
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "47401ec0d97bf92597f37466186cf4b0cb6dedb3a639fc95414fbe1d265be66c",
+      "raw_file": "scratch/full-catalog/root/alberta-results-13.json",
+      "bytes": 56415
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "b5a183935672b70d414c2164b6f0f3a9ebfb560caf5b9df3f11cb81104491800",
+      "raw_file": "scratch/full-catalog/root/alberta-results-14.json",
+      "bytes": 57948
+    },
+    {
+      "url": "https://www.ualberta.ca/en/undergraduate-programs/index.html",
+      "sha256": "a2a64bb4e3770cd6cd0b072a6823968ee97767c47db4d40d8b805f6ee83d8d68",
+      "raw_file": "scratch/full-catalog/root/alberta-results-15.json",
+      "bytes": 44265
+    }
+  ]
+}

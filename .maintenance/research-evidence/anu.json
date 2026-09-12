@@ -1,0 +1,593 @@
+{
+  "university_id": "anu",
+  "sources": [
+    {
+      "url": "https://study.anu.edu.au/apply/international-applications/indicative-entry-requirement/china-gao-kao",
+      "sha256": "d555ad10c1c27aa923cbe80b3c990a6a65921ac14e4de16902d2e754c7638109",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/gaokao.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.anu.edu.au/apply/english-language-requirements",
+      "sha256": "0ddb3c99251fa46c53f3bff78a576ef2aee06c7b4b42bea33a6ec73d648bf3d7",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/english.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.anu.edu.au/apply/international-applications",
+      "sha256": "81d0fad8f4938ad3e4f191568d70d8a7521d1ce2799a69d22ee7baab21682462",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.anu.edu.au/students/program-administration/fees-payments/international-tuition-fees",
+      "sha256": "f3ae702d6de565fe1ad52b827f0015c3be9c8dd2477f997933138907ac027097",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.anu.edu.au/scholarships",
+      "sha256": "c660e1aa6077b4d2e5a90c0e1bedd7d20de48ad0caf53fd124ab32738ddaad5b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/scholarships.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/4050FDD",
+      "sha256": "af3492f00b97c275b1c5399d8cf9e88cb1b6022cd69ca78520df13acfcb78593",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-4050FDD.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BACCT",
+      "sha256": "9c1cac3984a909919a2c75a6c024a38c1932874b1c89fe9d76af7b2548e4c28e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BACCT.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HACCT",
+      "sha256": "2c032dd9470a6ad39c72ce193afe7db7cd1715d170d383561a4491ba68a5c8a3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HACCT.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BACTS",
+      "sha256": "472aa641417a9bedc71fd0a5885f81c24b7316ecdc2379a7bf8f1df32cb59a75",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BACTS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HACTS",
+      "sha256": "5b5c2b1252193344fd775d367cc4375f40045cffbc12efd1d2eef874e6c943b0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HACTS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/AACOM",
+      "sha256": "5b491079cbb4186d3086c08ab9a0980354ad60880487fd2dd82bb452fa9f3e09",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-AACOM.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/AACRD",
+      "sha256": "ceb8a599ee3a0da502e67b2caf73e2ab261897502451aad1a0bc39ec32e1a4bc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-AACRD.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BADAN",
+      "sha256": "28928e6f888cb28606a1ff1753232cb2497ddc032d4af91e581111c5321236d0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BADAN.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HADAN",
+      "sha256": "3624997351c74cf8ada20e068f5c7edf4e79f06da544fadae74be84317e1355f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HADAN.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HAPRC",
+      "sha256": "b0b2411b2dccf0079d71547a421bc2736a399bfa778e29791c7acafd946ef2d4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HAPRC.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HAHCR",
+      "sha256": "39d5bfa873a6d337889207786b25cf6606994837084a1b508e11a303c45aac95",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HAHCR.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BARTS",
+      "sha256": "26ad871d25d6a2cba635c27c158e71e4fadc81c7e33f5705eaa6ced0c00db91d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BARTS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HARTS",
+      "sha256": "3ebc1b4492a0b34935c6d8d2530ba746663aba6ed3855b780b1d205fab20583d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HARTS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HART2",
+      "sha256": "fa811c79bfffc7a54a8abc1e5a1148669f83d3bb205a32f3420b58e7f2512ef9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HART2.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BARTY",
+      "sha256": "6275d0650a39a805268766f31887ab9aeb0eaba1f75d8baf7adab1f624b1cfd1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BARTY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BAPAF",
+      "sha256": "c9ccd2be9df1ed034f3fe34ae8b83561ee7080009c5f34da469a5c35c1a9e225",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BAPAF.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BAPAR",
+      "sha256": "f27c92003db72a21f2cae8ef4994c751c580e3a9f1bcae9c77310362755ceafa",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BAPAR.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BASIA",
+      "sha256": "c488fa697d13ebb14beb1b728dddcc450ae80a5838a01eb797cc7ffa8e5431d4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BASIA.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HASIA",
+      "sha256": "22afffc1bf70231d923f636b33409d002c0c704eae25ed880cd32d326b4837fa",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HASIA.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BASY",
+      "sha256": "54efc29681a4614e2915e8a9047ae427956e70e4337dcdbd1317d3ac764f610e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BASY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BBIOT",
+      "sha256": "087bca09dbdc2007b5cb614fc2fa4cdfb5d981989fe82d20aaae44f8f1a5fbe5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BBIOT.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HBIOT",
+      "sha256": "f6a57aa48d2aec5a392a43d107347886f3f36c4dc92e5f39194464004e4d838a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HBIOT.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BBUSA",
+      "sha256": "d3930de476e3889eeb36ee0193a4c225fbd104cadcf40095368c645fdd356c8c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BBUSA.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HBUSA",
+      "sha256": "20359f170981f6f37185c9593abff62a36d6ffe597db12d43624bf3725f495b4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HBUSA.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BBISY",
+      "sha256": "7fbde1bc59074a66cc080f1c2cc21f504874cc7a7344840b5d0839fef17e296c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BBISY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HBISY",
+      "sha256": "af172858e657ad81755012f09d0a51507a3e6f7010d209f341a35006b0572020",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HBISY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HCLAS",
+      "sha256": "260bf2d8cb761ba1f21c7ecb6edcbc76cc3af301eeeb84d511738a1f840c0011",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HCLAS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BCOMM",
+      "sha256": "5b72cbc319f4ac5b263ca494d3b6d08de87555fcfa4f133a7e29678c4cc67d83",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BCOMM.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HCOMM",
+      "sha256": "df6fe3a30f482fd73bb7e786af2c016cf21f63d6942295719fc36b902be5920c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HCOMM.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BCOMP",
+      "sha256": "a080a11e05f61896cc03ccf28de5a69749242014d2e25ffc35ed1aa9de2198a8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BCOMP.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HCOMP",
+      "sha256": "83cef6e778c83e6ff1038d46056a05c3aea7088d3836b5e58769619a4adba0e9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HCOMP.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BCRIM",
+      "sha256": "d6e2c8fe6dfb0bd257fadb7fc670c1ece049b9fbddd4ab91bdcef741433da006",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BCRIM.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HCRIM",
+      "sha256": "63a04cd1654f6dd03c5580970acfff74fb948c4d59bbc833ff77f21a8d7ce1ad",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HCRIM.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BDESN",
+      "sha256": "8564c1911ad8ac13514156c97ad7ea78b455ec33a06c77bc98e00bed0f3b80d8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BDESN.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HDESN",
+      "sha256": "468abbdc6021ee699dbddaf91b6b130656b742ec47b9f7a490d0750db911c1b1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HDESN.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HDEVS",
+      "sha256": "9d2d32944310fadee5bdbc72889f461fd97134e1a4e649f59e8a8141a511afc3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HDEVS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BDEVY",
+      "sha256": "e8a6e4571042d7c1b4b17197828522822284bd2dfb6b97d8dce1ee99a141fa29",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BDEVY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BECON",
+      "sha256": "083db302a2bd236a1f893ddee5d4e15e8c03b990e3252daf762da96b5edd299d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BECON.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HECON",
+      "sha256": "1a78f188914f82b2b0ec0799f4c8ffff85be82c5760709b57aaccd11ed9d8ac9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HECON.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/AENGI",
+      "sha256": "0a24674d641c29acb5485fd06a24f7d60fd9d89ac4fad97aab37f1a3990eca6a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-AENGI.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/AENSE",
+      "sha256": "e9d60a578d49a447871d53caeab7e9827b255587b1414f4fd2d4ebe688e2923c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-AENSE.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/AENRD",
+      "sha256": "f7521f065267ffa88aad2276d944bbb805797da52fefb19d78dd9b89fecf80b9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-AENRD.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BENSU",
+      "sha256": "103c24d1a55d42d2ecbbd3ffd79cc79bc3f19b78b394508f9dcc898f7e92b94a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BENSU.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HENSU",
+      "sha256": "43bfb7c505a85be387955f53c32b2ba2f82532dd11f7e2ea1b681592e0204bca",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HENSU.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BFINN",
+      "sha256": "ccbd4808582444e5393fd4135072e8d586fdfaf46f8cbc6335dfa3ac2dee16eb",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BFINN.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HFINN",
+      "sha256": "c2706800d7d6771b1f33b44b00ddef1329d55814a2cd5bd2212e16023e5d4a04",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HFINN.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/AFEST",
+      "sha256": "8e302e1fd5565b3687f51f6111bf3d7f5cd5899f418e477392a3b70bdde7933f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-AFEST.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HGENE",
+      "sha256": "4a1c57f248ed7d6dc847f0b6a3c43541f8f8ba1a260a3b103654864a6161e1c7",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HGENE.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BHLTH",
+      "sha256": "47a85d4dc7d1c9b10e1f8481cfe63c15b6f4673cc5f95397623b0c57b66a01aa",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BHLTH.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HHLTH",
+      "sha256": "ec9e24377608249e00b9723dbd1b77c1e2f6e10afea60c665aa6cabd5a7c3619",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HHLTH.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BINBS",
+      "sha256": "a24ef38e52c15562ab498174c03b7b3ace2c9b36ab4e1f7f290752764ec20984",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BINBS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HINBS",
+      "sha256": "333de920a5a2bcd677d4d635589da1ddb3c2ae87b1ffea8da5ab74d284b4292b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HINBS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BIR",
+      "sha256": "3c4c947e4c99b755551c4d3f6367b0defb8277d6b5e724742a5f0dcd90e96237",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BIR.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HIR",
+      "sha256": "10a0dbec57d8e0af67ef09b620fe9e99064242ad4766a90579b03b0f1224325d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HIR.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BIRY",
+      "sha256": "e51e127096f58e1d7e610601d89aa843bd8617e3c89902db2a0191ee4c97ee55",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BIRY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BINSS",
+      "sha256": "015d23bcb3bd9f278a0f7dde1937ce44f2f1f74d0f6bcf3765d7c4517bf5b834",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BINSS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HINSS",
+      "sha256": "00bd6bf2861ef2b9744cd6b5caec06f3f5d28bb9e7060446bdc932c8702fa791",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HINSS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BINSY",
+      "sha256": "658dec8df5fcc7a334799421fe6bae96fcff005ae23855673d891237fbe8887a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BINSY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BLANG",
+      "sha256": "7e239b1b86f8dfd870bb4bc86906f19202f57d77650fef320640fd07956a0365",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BLANG.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HLANG",
+      "sha256": "1d431aede821aaac09e7250b5b95bda51597efd83dd3480d4bf3ff126bab2f00",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HLANG.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BLANY",
+      "sha256": "5f3db09a124d2f1862ba59e26549f2f7d91f244dfeb9c6da4cd7264b9604dc2e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BLANY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/ALLB",
+      "sha256": "e5251b25e003c5710f5e3e2b860235eb2b2e78a72d678225e5b273980b546f5e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-ALLB.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BMASC",
+      "sha256": "5cc3e72295d65415e9debd347465c0d9f368747349ea907c4440f27b861c393e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BMASC.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HMASC",
+      "sha256": "0ba42c5bb94d66639eef5133d47a6d3ca5648de22b598178af2ad2dae2261b8a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HMASC.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BMEDS",
+      "sha256": "22afb3be5ca680f356412450c996119f311c46f8263f5493b49c8e780dcd2c0c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BMEDS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HMEDS",
+      "sha256": "3546aa16271e15e772bef2cbbbadab84919a9df4ac8d1a4a5888d010d3cac170",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HMEDS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BMUSI",
+      "sha256": "28e736c0337473d0a08574b86fbadb03fe84a9d46302ed6e2530cee72db58f30",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BMUSI.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HMUSI",
+      "sha256": "d27b9aaf2b2e0f703b3608e7985baae5e29c894bc0595cda72a8e1296daed438",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HMUSI.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BPAST",
+      "sha256": "6d58477d88cd71f08a68bfc999de15e1b376b7b9516ff931d7db7901683d6a43",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BPAST.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HPAST",
+      "sha256": "fe1c7a05ae58da23b81e39701b3754123e2bba8b7fce129eca8f59ba1831f184",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HPAST.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/APHSC",
+      "sha256": "aa70b8a947ddf43538f01e8c090050e2f1c71306304d8a730c32d2a43b4368a4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-APHSC.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/AHUSS",
+      "sha256": "de875c7a936ca6395ec54b37e422df2400198724b56281e4e20d520cbeb4da6b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-AHUSS.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BPNP",
+      "sha256": "cee4f031c4fa9c2ce3919225588edf713433f9004a129decef6f022fa9457bb3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BPNP.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BPLSC",
+      "sha256": "98af0910a52ba160e7c8c52b93c4a592a543622b618ab72e28527f6667749bdc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BPLSC.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HPLSC",
+      "sha256": "6ec24c5b09e7946d63a97bab29807f77b12ac4fd066b4d24bc3f5181a782ac70",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HPLSC.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BPPE",
+      "sha256": "3f15a042bde5adfdda7f3a0a20f16613fb1a093c8a46fd5fdfee52a19ecc4de2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BPPE.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HPPE",
+      "sha256": "3e412cfb74607fd9284724b8a37e764cf9ad911ee719018b7c6ac6ae3f0ab787",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HPPE.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BPPOL",
+      "sha256": "639aabc9a0f9241275c7ec9e56273c9740025e113d856c6fd5d16740e288c744",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BPPOL.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HPPOL",
+      "sha256": "e276a745e92082d08be5db81370db46269d886d745303ef8b31e5e33de852c2c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HPPOL.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BSC",
+      "sha256": "ff8ad1b940f422a5924d3098bb1ad47345b48aecf1cc00c36aa9678bdaadd8b1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BSC.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/ASCAD",
+      "sha256": "2cc4617c4269eb5510084eb200d120bb45391ebd5b7b727629b57bf236f00396",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-ASCAD.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HSC",
+      "sha256": "ec32cfd3ea53a6099394c6a1aa99210f9d6015559a33079a5c7bfb18209e8540",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HSC.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BSPSY",
+      "sha256": "3956ecc9a7c083851fed3f02b62309a25730dc0e80cd234fe7ed3f5f14b00291",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BSPSY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HSPSY",
+      "sha256": "64bed8bfcbc278adbb4a50648245f72612351a8d2102f38155f3bebd87ebfffc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HSPSY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BSCY",
+      "sha256": "bbf21aebe09555adbd98372faced9b48be617942de6a6addb3dca5b983c95b5e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BSCY.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BSTAT",
+      "sha256": "3d1c484b4e0cbf04c95c60d7f236e8fa2520ec476083e2df0a88ba7fc1349161",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BSTAT.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HSTAT",
+      "sha256": "656674b6f8e21ddef6e45ec478470974bc4fb476794d6c800fb642e5e5d0bed8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HSTAT.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/BVART",
+      "sha256": "8dcb44f4de826353fbbbf467b846ec4c6460565dbd7fbe706932a45776dc1bda",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-BVART.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/HVART",
+      "sha256": "69025c5a4378aeea2372baceb8c2bc48db699a7b278af1cbad8d24d80094d8db",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-HVART.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/4850FDD",
+      "sha256": "61efb1cac9e2402fc5bb6cbf8716140616f691773caea4e24bde252d2422d65b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-4850FDD.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/4855FDD",
+      "sha256": "425ce4514fc231f5fbaf6d3fa2d7a9851912a36002fb08bb8848f69db8640611",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-4855FDD.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/4350FDD",
+      "sha256": "cd5e1c77d7a79ebd08c479d32bfa6926d4b45e1d965743fa8e61d0c4932e97cb",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-4350FDD.html",
+      "locator": null
+    },
+    {
+      "url": "https://programsandcourses.anu.edu.au/2027/program/4569FDD",
+      "sha256": "03cde0e2e0944f354cbe0e59ae9bbcc2985af08e2f0c80b79bc1a22c2ee0fcaa",
+      "raw_file": "scratch/full-catalog/australia-enrichment/anu/detail-4569FDD.html",
+      "locator": null
+    }
+  ]
+}

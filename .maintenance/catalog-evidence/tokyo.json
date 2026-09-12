@@ -1,0 +1,186 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.u-tokyo.ac.jp/en/academics/faculties.html",
+    "official_total": 10,
+    "official_total_unit": "faculties with departments/majors",
+    "pagination_complete": true,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/cas.html",
+        "records": 15,
+        "award_text": "Bachelor of Liberal Arts"
+      },
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/facultyofagriculture.html",
+        "records": 15,
+        "award_text": "Applied Life Sciences Course, Environmental and Resource Sciences Course: Bachelor of Agriculture Veterinary Medical Sciences Course: Bachelor of Veterinary Medicine"
+      },
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/facultyofeconomics.html",
+        "records": 3,
+        "award_text": "Bachelor of Economics"
+      },
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/facultyofeducation.html",
+        "records": 4,
+        "award_text": "Bachelor of Education"
+      },
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/facultyofengineering.html",
+        "records": 16,
+        "award_text": "Bachelor of Engineering"
+      },
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/facultyoflaw.html",
+        "records": 3,
+        "award_text": "Bachelor of Laws"
+      },
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/facultyofletters.html",
+        "records": 27,
+        "award_text": "Bachelor of Arts"
+      },
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/facultyofmedicine.html",
+        "records": 2,
+        "award_text": "School of Medicine: Bachelor of Medicine School of Integrated Health Sciences: Bachelor of Health Sciences"
+      },
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/facultyofpharm.html",
+        "records": 2,
+        "award_text": "Bachelor of Pharmaceutical Sciences Bachelor of Pharmacy"
+      },
+      {
+        "faculty_page": "https://www.u-tokyo.ac.jp/en/academics/facultyofscience.html",
+        "records": 10,
+        "award_text": "Bachelor of Science"
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "All 10 faculty pages acquired; exact named department/major leaves retained.",
+      "Cross-disciplinary add-ons are excluded; PEAK two English degrees are explicitly marked retiring with last intake 2026 and excluded from future availability.",
+      "New College of Design and all proposed future courses require separate confirmed programme/intake capture; no future course inferred.",
+      "Education includes one explicitly named parent department and three named majors; hierarchical entries are retained and identified, not four unrelated admission degrees.",
+      "Education includes one explicitly named parent department and three named majors; hierarchical entries are retained and identified, not four unrelated admission degrees.",
+      "Education includes one explicitly named parent department and three named majors; hierarchical entries are retained and identified, not four unrelated admission degrees."
+    ],
+    "raw_artifacts": [
+      "tokyo/raw/cas.meta.json",
+      "tokyo/raw/directory.meta.json",
+      "tokyo/raw/facultyofagriculture.meta.json",
+      "tokyo/raw/facultyofeconomics.meta.json",
+      "tokyo/raw/facultyofeducation.meta.json",
+      "tokyo/raw/facultyofengineering.meta.json",
+      "tokyo/raw/facultyoflaw.meta.json",
+      "tokyo/raw/facultyofletters.meta.json",
+      "tokyo/raw/facultyofmedicine-retry.meta.json",
+      "tokyo/raw/facultyofpharm.meta.json",
+      "tokyo/raw/facultyofscience.meta.json",
+      "tokyo/raw/peak.meta.json"
+    ],
+    "university_id": "tokyo",
+    "count": 97,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 95,
+      "retiring_last_intake_2026": 2
+    },
+    "record_type_counts": {
+      "undergraduate_department_or_major": 94,
+      "undergraduate_parent_department": 1,
+      "undergraduate_school_programme": 2
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyofscience.html",
+      "sha256": "5b02195d8162c85c3ccaad4493afeb091d04857cb30c907c6d86b3bcf5ea1c47",
+      "bytes": 42774,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/facultyofscience.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/facultyofscience.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyofpharm.html",
+      "sha256": "fcccd6de9a9d323a8788441528b79e29e5d37f9c95fe9bbd5b069b3a903ef8c1",
+      "bytes": 42583,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/facultyofpharm.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/facultyofpharm.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyofengineering.html",
+      "sha256": "8e2cc9585971c3cbf0c8b0f77508193557f10a28c6400d5a1058257eab2d9cd7",
+      "bytes": 42738,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/facultyofengineering.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/facultyofengineering.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyofeconomics.html",
+      "sha256": "b02064ed03929e5964856cb2f43ce3397f6431908200c6cfa51a464dd13ee812",
+      "bytes": 41837,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/facultyofeconomics.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/facultyofeconomics.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/faculties.html",
+      "sha256": "f75971b925015a9bb88ecc762b6c20f7df8df6c2aac52f30f38eb83ea67bb725",
+      "bytes": 39883,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/directory.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyoflaw.html",
+      "sha256": "edacb1b20c27f841bff69548a33c2c12970ef4185da814b386efd312ba78df63",
+      "bytes": 41167,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/facultyoflaw.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/facultyoflaw.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyofletters.html",
+      "sha256": "e85b01aa68242a062a356c432ca9936e1e496ab4c789b32fecc5e805b3acc02f",
+      "bytes": 42577,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/facultyofletters.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/facultyofletters.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyofmedicine.html",
+      "sha256": "302cae8b82101a32415a1d7052955e3cc96a429837b98f0bec891c0c2bc3d5be",
+      "bytes": 44290,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/facultyofmedicine-retry.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/facultyofmedicine-retry.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyofagriculture.html",
+      "sha256": "ff2d8daf6037d48159e9abfd41b17793ec2feb70608a68cd1a77544c7c8882d1",
+      "bytes": 43935,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/facultyofagriculture.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/facultyofagriculture.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/facultyofeducation.html",
+      "sha256": "448793d4bee8a755e80f0c2587ba1e7a518cd5ce1d61f06177efc4df139ee111",
+      "bytes": 42555,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/facultyofeducation.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/facultyofeducation.meta.json"
+    },
+    {
+      "url": "https://www.u-tokyo.ac.jp/en/academics/cas.html",
+      "sha256": "e0d9aebebd45671f84cd3eb6c94bd150e032fdc67dc99a7e6a7163299ed8d3d8",
+      "bytes": 49566,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/cas.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/cas.meta.json"
+    },
+    {
+      "url": "https://www.peak.c.u-tokyo.ac.jp/",
+      "sha256": "7fb79f1b725e2adb6cf2136d6fb88ac23d08b1781de28d9809b8ca0136a90904",
+      "bytes": 25027,
+      "raw_file": "scratch/full-catalog/asia/tokyo/raw/peak.html",
+      "meta_file": "scratch/full-catalog/asia/tokyo/raw/peak.meta.json"
+    }
+  ]
+}

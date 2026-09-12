@@ -1,0 +1,284 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://yonsei.ac.kr/en_sc/1849/subview.do",
+    "official_total": null,
+    "official_total_unit": "both campus directories, departments plus unexpanded faculty groups",
+    "pagination_complete": false,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Liberal Arts",
+        "listed_subentries": 11
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Commerce and Economics",
+        "listed_subentries": 2
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "School of Business",
+        "listed_subentries": 1
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Science",
+        "listed_subentries": 7
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Engineering",
+        "listed_subentries": 13
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Life Science and Biotechnology",
+        "listed_subentries": 3
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Computing",
+        "listed_subentries": 8
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Theology",
+        "listed_subentries": 1
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Social Sciences",
+        "listed_subentries": 6
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Music",
+        "listed_subentries": 5
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Human Ecology",
+        "listed_subentries": 5
+      },
+      {
+        "campus": "Seoul / International campuses (programme campus unverified)",
+        "faculty": "College of Educational Sciences",
+        "listed_subentries": 3
+      },
+      {
+        "campus": "MIRAE Campus",
+        "faculty": "College of Humanities & Social Sciences Convergence",
+        "listed_subentries": 12
+      },
+      {
+        "campus": "MIRAE Campus",
+        "faculty": "College of Science and Technology Convergence",
+        "listed_subentries": 6
+      },
+      {
+        "campus": "MIRAE Campus",
+        "faculty": "College of Software and Digital Healthcare Convergence",
+        "listed_subentries": 11
+      },
+      {
+        "UIC_majors": 16,
+        "GLC_majors": 5
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "Official undergraduate directory contains some faculty/research listings without individual programme links. These are marked listed_level_requires_verification; independent bachelor status is not established.",
+      "Medical/health colleges and some MIRAE groups need award/major expansion; see unresolved-groups.json.",
+      "Before-2021 MIRAE directory is intentionally not mixed with current From-2021 listing."
+    ],
+    "raw_artifacts": [
+      "yonsei/raw/degrees.meta.json",
+      "yonsei/raw/detail-applied-information-engineering.meta.json",
+      "yonsei/raw/detail-cultural-media.meta.json",
+      "yonsei/raw/detail-department-of-integrated-science-and-engineering.meta.json",
+      "yonsei/raw/detail-humanities-arts-and-social-sciences-division-hassd-.meta.json",
+      "yonsei/raw/detail-integrated-science-and-engineering-division-ised-.meta.json",
+      "yonsei/raw/detail-international-commerce.meta.json",
+      "yonsei/raw/detail-korean-language-culture-education.meta.json",
+      "yonsei/raw/detail-underwood-division-ud-.meta.json",
+      "yonsei/raw/group-college-of-dentistry.meta.json",
+      "yonsei/raw/group-college-of-medicine.meta.json",
+      "yonsei/raw/group-college-of-nursing.meta.json",
+      "yonsei/raw/group-college-of-pharmacy.meta.json",
+      "yonsei/raw/group-global-elite-division.meta.json",
+      "yonsei/raw/group-global-leaders-college.meta.json",
+      "yonsei/raw/group-underwood-international-college-uic-.meta.json",
+      "yonsei/raw/group-wonju-college-of-medicine.meta.json",
+      "yonsei/raw/group-wonju-college-of-nursing.meta.json",
+      "yonsei/raw/home.meta.json",
+      "yonsei/raw/mirae-degrees.meta.json",
+      "yonsei/raw/mirae-home.meta.json"
+    ],
+    "university_id": "yonsei",
+    "count": 123,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 117,
+      "listed_level_requires_verification": 6
+    },
+    "record_type_counts": {
+      "listed_department_or_major": 94,
+      "undergraduate_faculty_group": 8,
+      "undergraduate_major": 21
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "http://medical.yonsei.ac.kr/",
+      "sha256": "fc4165c57c72fbd5259adc89a9a44b4c338d563ef6aa18da58003aa3b193758b",
+      "bytes": 852,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-wonju-college-of-medicine.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/group-wonju-college-of-medicine.meta.json"
+    },
+    {
+      "url": "https://dentistry.yonsei.ac.kr/dentistry-en/index.do",
+      "sha256": "09d4aee5fe231512da307ed8ef0a924dc611f09355e9a76ca7e3d9e6b954ec10",
+      "bytes": 39497,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-college-of-dentistry.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/group-college-of-dentistry.meta.json"
+    },
+    {
+      "url": "https://nursing.yonsei.ac.kr/",
+      "sha256": "640332284dce1efc4dc54915df1807f7625fd4d34193d49ac96022760a05633d",
+      "bytes": 65782,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-wonju-college-of-nursing.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/group-wonju-college-of-nursing.meta.json"
+    },
+    {
+      "url": "https://nursingcollege.yonsei.ac.kr/nursing-en/index.do",
+      "sha256": "26585c2cdabe0e1d080a9eee61e00844f56610059c1f328b318213b69f551e9b",
+      "bytes": 39908,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-college-of-nursing.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/group-college-of-nursing.meta.json"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/en/icm/",
+      "sha256": "fdc0c076c39a30dcf7b4d40157d323292270d14eb8a5ff745804d4c66542ac68",
+      "bytes": 201936,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-international-commerce.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/detail-international-commerce.meta.json"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_01_01",
+      "sha256": "5ef94fd532f1c062c4d8d6782dba8d201ed34061ee728e1c8bfc0fb5649beffa",
+      "bytes": 68089,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-underwood-division-ud-.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/detail-underwood-division-ud-.meta.json"
+    },
+    {
+      "url": "https://medicine.yonsei.ac.kr/medicine-en/index.do",
+      "sha256": "819c056903c214abb7d7665665718700ed33cc872d3038ef241181889228b9f3",
+      "bytes": 49236,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-college-of-medicine.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/group-college-of-medicine.meta.json"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/main/main.php",
+      "sha256": "0848479c4d172840c1b75c9815a9f9e735ce1c5278e754a7f32f345c93da90ce",
+      "bytes": 77739,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-underwood-international-college-uic-.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/group-underwood-international-college-uic-.meta.json"
+    },
+    {
+      "url": "https://mirae.yonsei.ac.kr/en_wj/2099/subview.do",
+      "sha256": "6c5eed6547947c1e51f05bdb8cde247adad43352cb85266843acf9b9122397df",
+      "bytes": 121982,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/mirae-degrees.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/mirae-degrees.meta.json"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/krcem/",
+      "sha256": "e1c62012b8e5e455442898f6a96e7600d613b900cbb7793e712362ebeb74f67c",
+      "bytes": 191670,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-korean-language-culture-education.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/detail-korean-language-culture-education.meta.json"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/aiem/",
+      "sha256": "a5696a56fb2c7411b7a55ec2c1e7a593130acf58db7b46e125cda6039efcce20",
+      "bytes": 200398,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-applied-information-engineering.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/detail-applied-information-engineering.meta.json"
+    },
+    {
+      "url": "http://pharmacy.yonsei.ac.kr/",
+      "sha256": "0f74440cac1e093807219e3d16491a39441eb624d3c903ae2db80ee47e72dc18",
+      "bytes": 60883,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-college-of-pharmacy.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/group-college-of-pharmacy.meta.json"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/cmm/",
+      "sha256": "42a66fb5f2b17bd51eef305c25bbbe7121f3ef7359dbaad8992976962820aa13",
+      "bytes": 193048,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-cultural-media.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/detail-cultural-media.meta.json"
+    },
+    {
+      "url": "http://ged.yonsei.ac.kr/en",
+      "sha256": "f1f04037d937c7e3c5b7e2f2cd8b3d2396fd748de4ea9f4c8617183ae0848de1",
+      "bytes": 16676,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-global-elite-division.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/group-global-elite-division.meta.json"
+    },
+    {
+      "url": "https://mirae.yonsei.ac.kr/sites/en_wj/index.do",
+      "sha256": "bc3903520e618f7d708776ca420f64840ac09d868994f77b74c7857f9d3613db",
+      "bytes": 66779,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/mirae-home.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/mirae-home.meta.json"
+    },
+    {
+      "url": "https://glc.yonsei.ac.kr/en/homeen/",
+      "sha256": "d228ebcde2c7fe6d8ce4abf42e670ea608b05b10d28f6f34381391b3a8f47801",
+      "bytes": 204469,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/group-global-leaders-college.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/group-global-leaders-college.meta.json"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_02_01",
+      "sha256": "aca12795f9d37d8b74a9b0e2df70f659f027100f2c54df504e5555d26f7ed3a2",
+      "bytes": 74293,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-humanities-arts-and-social-sciences-division-hassd-.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/detail-humanities-arts-and-social-sciences-division-hassd-.meta.json"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/graduate.php?mid=m03_02",
+      "sha256": "196e1d4e24c425558a43455d080b2a87c83ec1a920638a8ebc039f3ec9fbf3ff",
+      "bytes": 59895,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-department-of-integrated-science-and-engineering.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/detail-department-of-integrated-science-and-engineering.meta.json"
+    },
+    {
+      "url": "https://uic.yonsei.ac.kr/undergraduate.php?mid=m02_03_01",
+      "sha256": "ce4ca9a671306ce88a114d2b8fc1cf42eff3415d1eeedd04c4f192b52b536d6a",
+      "bytes": 63943,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/detail-integrated-science-and-engineering-division-ised-.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/detail-integrated-science-and-engineering-division-ised-.meta.json"
+    },
+    {
+      "url": "https://yonsei.ac.kr/sites/en_sc/index.do",
+      "sha256": "dad0f0863de394e85359ab2c5ada00228a2cef02120281cd356e15d346732cae",
+      "bytes": 94082,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/home.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/home.meta.json"
+    },
+    {
+      "url": "https://yonsei.ac.kr/en_sc/1849/subview.do",
+      "sha256": "50ba0b5d1ea59608c41f18a2e65dc970fc02b15332c9cc3089f5d6042cc85b24",
+      "bytes": 221540,
+      "raw_file": "scratch/full-catalog/asia/yonsei/raw/degrees.html",
+      "meta_file": "scratch/full-catalog/asia/yonsei/raw/degrees.meta.json"
+    }
+  ]
+}

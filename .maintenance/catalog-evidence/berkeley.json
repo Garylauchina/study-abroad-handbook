@@ -1,0 +1,55 @@
+{
+  "original_manifest": {
+    "university_id": "berkeley",
+    "status": "complete",
+    "count": 114,
+    "official_total": {
+      "all_active_public_undergraduate_records": 239,
+      "bachelor_records": 114
+    },
+    "discovery_source_url": "https://undergraduate.catalog.berkeley.edu/programs",
+    "source_period": "2026-2027",
+    "scope": "All active publicly displayed bachelor programs in official 2026-2027 Undergraduate Catalog; named joint majors retained",
+    "pagination_evidence": {
+      "returned_records": 239,
+      "listLength": 239,
+      "skip": 0,
+      "limit": 500,
+      "complete": true,
+      "request_saved": "berkeley/program-search-all.meta.json",
+      "settings_saved": "berkeley/settings-decoded.json"
+    },
+    "filter_rules": [
+      "Exact official public, Active, Undergraduate catalogue filters",
+      "Only degreeDesignation Bachelor of Arts or Bachelor of Science; minors excluded",
+      "One non-degree Major - UG Specialization entry excluded"
+    ],
+    "gaps": [
+      "Index does not state duration, campus or teaching language; fields left null"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://guide.berkeley.edu/undergraduate/degree-programs/",
+      "sha256": "6720f3d16dd2eeb33cb864b2aabba1c4affaca7a43a06f0969cf3a6b2b2125e0",
+      "bytes": 209526,
+      "raw_file": "scratch/full-catalog/us-a/berkeley/degree-programs.html",
+      "meta_file": "scratch/full-catalog/us-a/berkeley/degree-programs.meta.json"
+    },
+    {
+      "url": "https://app.coursedog.com/api/v1/cm/ucberkeley_peoplesoft/programs/search/%24filters?catalogId=hMSTjIplK6VX5nnJn7ZE&skip=0&limit=1000&sortBy=name&effectiveDatesRange=2027-05-24%2C2027-05-24",
+      "sha256": "c35087c21b0fa33391897ec0f10bd7765525da7350c3ff9cd08b1b8be4cb6140",
+      "bytes": 28823096,
+      "raw_file": "scratch/full-catalog/us-a/berkeley/program-search-all.json",
+      "meta_file": "scratch/full-catalog/us-a/berkeley/program-search-all.meta.json"
+    },
+    {
+      "url": "https://undergraduate.catalog.berkeley.edu/programs",
+      "sha256": "af1136c44d2e43f365af36171f12bbdb2e729df4b4707637eced36c031a2a283",
+      "bytes": 1396563,
+      "raw_file": "scratch/full-catalog/us-a/berkeley/programs.html",
+      "meta_file": "scratch/full-catalog/us-a/berkeley/programs.meta.json"
+    }
+  ]
+}

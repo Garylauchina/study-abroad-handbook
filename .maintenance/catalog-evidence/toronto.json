@@ -1,0 +1,341 @@
+{
+  "original_manifest": {
+    "university_id": "toronto",
+    "checked_at": "2026-09-12",
+    "count": 316,
+    "status": "partial",
+    "scope": "大学本科招生目录三校区的 Major、Specialist、Professional、Second-Entry 项目；相同专业不同校区分别保留。",
+    "method": "完整静态目录378张课程卡，排除仅Minor与Artist Diploma，按名称、学位、校区识别。",
+    "sources": [
+      {
+        "url": "https://www.utoronto.ca/academics/undergraduate-programs",
+        "sha256": "85c543add0d960545c9f5970a7bf939af94985da693cb31e034a105093ede98d",
+        "raw_file": "toronto.html"
+      }
+    ],
+    "exclusions": "排除 62 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [
+      {
+        "name": "African Studies",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Aging and Society",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Anthropology (Arts)",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Applied Climatology",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Applied Data Science",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Applied Statistics",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Artist Diploma (Music)",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Asian Canadian Studies",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Astronomy and Astrophysics",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Biomedical Communications",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Biomedical Ethics",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Business German",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Business, Science and Entrepreneurship",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Chinese Language and Culture",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Christianity and Education",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Classical Studies",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Creative Writing",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Creative Writing",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Creativity and Society",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Critical Migration Studies",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Culture, Creativity and Cities",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Digital Humanities",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Education and Society",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Education Studies",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "English and Chinese Translation",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "English Language Linguistics",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Environment and Behaviour",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Environment and Energy",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Environmental Anthropology",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Environmental Economics",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Environmental Law and Policy",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Ethics, Law and Society",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Film Studies",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Food Studies",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "French Language",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "French Studies",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Functional French",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Game Studies",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Geographic Information Science",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "German Studies in English",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Global Leadership",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Global Leadership",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Health Humanities",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Italian Culture and Communication Studies",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Italian Language and Culture",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Latin American and Caribbean Studies",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Material Culture and Semiotics",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Media Studies",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Medical Anthropology",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Music History and Culture",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Natural Sciences and Environmental Management",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Philosophy of Science",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Science, Technology and Society",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Slavic and East European Literature in Translation",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "South Asian Humanities",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "South Asian Studies",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Sustainability",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Urban Public Policy and Governance",
+        "campus": "Scarborough campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Visual Culture",
+        "campus": "Mississauga campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Visual Studies (Arts)",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Writing and Rhetoric",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      },
+      {
+        "name": "Yiddish, Al and Malka Green Program in",
+        "campus": "St. George campus",
+        "reason": "minor-only or non-degree diploma"
+      }
+    ],
+    "gaps": [
+      "需与各院校历交叉核对第二学历和本科后专业课程，中央招生目录不能独立证明所有院系学位变体齐全。"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.utoronto.ca/academics/undergraduate-programs",
+      "sha256": "85c543add0d960545c9f5970a7bf939af94985da693cb31e034a105093ede98d",
+      "raw_file": "scratch/full-catalog/root/toronto.html",
+      "bytes": 618346
+    }
+  ]
+}

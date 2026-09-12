@@ -1,5 +1,6 @@
 """Check built internal links, anchors, assets and search coverage."""
 from html.parser import HTMLParser
+from functools import lru_cache
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 import json
@@ -8,6 +9,14 @@ import sys
 
 BASE = "/study-abroad-handbook/"
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else "site").resolve()
+
+
+@lru_cache(maxsize=None)
+def resolve_target(path):
+    """Shared navigation/assets occur on thousands of pages; resolve each path once."""
+    if path.is_dir():
+        path /= 'index.html'
+    return path.resolve()
 
 
 class Page(HTMLParser):
@@ -36,6 +45,10 @@ class Page(HTMLParser):
 
 pages = {p.resolve(): Page(p.read_text()) for p in ROOT.rglob("*.html")}
 errors = []
+site_bytes = sum(p.stat().st_size for p in ROOT.rglob('*') if p.is_file())
+# Leave headroom below GitHub Pages' 1 GB published-site limit.
+if site_bytes >= 950_000_000:
+    errors.append(f'Published site exceeds the 950 MB release budget: {site_bytes} bytes')
 manifest = json.loads((ROOT / 'assets/asset-manifest.json').read_text())
 for source, versioned in manifest.items():
     original = (ROOT / source).read_bytes()
@@ -58,9 +71,7 @@ for path, page in pages.items():
             continue
         else:
             target = path.parent / target_path if target_path else path
-        if target.is_dir():
-            target /= "index.html"
-        target = target.resolve()
+        target = resolve_target(target)
         if target.is_relative_to(ROOT) and target.relative_to(ROOT).as_posix() in manifest:
             errors.append(f"{path.relative_to(ROOT)}: unversioned asset can serve stale content: {link}")
         checked += 1
@@ -112,4 +123,4 @@ for program in catalog['programs']:
 if errors:
     print("\n".join(errors))
     raise SystemExit(1)
-print(f"Validated {len(pages)} HTML pages, {checked} internal references and {len(index['docs'])} search entries")
+print(f"Validated {len(pages)} HTML pages, {checked} internal references and {len(index['docs'])} search entries; site {site_bytes / 1_000_000:.1f} MB")

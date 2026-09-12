@@ -1,0 +1,35 @@
+{
+  "original_manifest": {
+    "university_id": "boston",
+    "checked_at": "2026-09-12",
+    "final_count": 194,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "Boston University academic degree-program index, including Metropolitan College bachelor completion routes; no inferred overseas campus extension",
+    "directory_urls": [
+      "https://www.bu.edu/academics/degree-programs/"
+    ],
+    "official_published_count": null,
+    "page_coverage": {
+      "pages": 1,
+      "unique_award_links": 850,
+      "pagination": "Full A-Z HTML, every degree hyperlink checked even when a row combines BA, minor and graduate awards"
+    },
+    "filter_rules": "Include BA/BS/BFA/BMus/BLS-bearing degree links and named integrated pathways; exclude minor, certificate and graduate/professional-only hyperlinks.",
+    "excluded_count": 656,
+    "can_prove_complete": true,
+    "completeness_basis": "Complete bachelor-bearing degree links across entire official A-Z index.",
+    "gaps": [
+      "Catalog academic year not explicitly printed in collected A-Z page; source_period remains current directory with collection date.",
+      "Specializations explicitly listed as separate bachelor links are retained as distinct directory identities."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.bu.edu/academics/degree-programs/",
+      "sha256": "0c62636ffd799fb927dc0baed49c1ebb3a6082df74b2248a4969ba42ecc625d6",
+      "bytes": 189088,
+      "raw_file": "scratch/full-catalog/us-b/boston/index.html",
+      "meta_file": "scratch/full-catalog/us-b/boston/index.source.json"
+    }
+  ]
+}

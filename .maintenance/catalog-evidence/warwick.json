@@ -1,0 +1,59 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://warwick.ac.uk/study/undergraduate/courses/",
+    "official_total": 196,
+    "official_total_unit": "public API items before the official Visibility: Hidden filter",
+    "excluded_count": 4,
+    "excluded_file": "warwick/excluded.json",
+    "page_evidence": [
+      {
+        "api_items": 196,
+        "visible_items": 192,
+        "API_pagination": "No paging: API returns entire items array; UI paginates/filter this downloaded array",
+        "api_lastUpdated": 1783507470558
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "completeness_scope": "Full visible official undergraduate directory data, applying the exact official Visibility: Hidden rule.",
+    "filter_rules": [
+      "Mirror official JS: exclude Visibility: Hidden category",
+      "No keyword/subject/qualification filter; preserve separate variants"
+    ],
+    "unresolved": [
+      "Presence in directory does not prove applications remain open.",
+      "Special entry routes not exhaustively classified at directory phase."
+    ],
+    "raw_artifacts": [
+      "warwick/raw/directory-0.meta.json",
+      "warwick/raw/directory-api.meta.json",
+      "warwick/raw/search-js.meta.json"
+    ],
+    "university_id": "warwick",
+    "count": 192,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/",
+      "sha256": "424c3ba17c437c49ae09bff8c9a8ac383ffcd187ebe9e58d438e4a39c7609406",
+      "bytes": 60743,
+      "raw_file": "scratch/full-catalog/uk/warwick/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/warwick/raw/directory-0.meta.json"
+    },
+    {
+      "url": "https://sitebuilder.warwick.ac.uk/sitebuilder2/api/dataentry/entries.json?page=%2Fstudy%2Fundergraduate%2Fcourses%2Fcourse-list",
+      "sha256": "bb496cceaf0e0299f243770c63d1ae2231632532f0eba13865e5ac5be52d3c47",
+      "bytes": 630476,
+      "raw_file": "scratch/full-catalog/uk/warwick/raw/directory-api.html",
+      "meta_file": "scratch/full-catalog/uk/warwick/raw/directory-api.meta.json"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/course-search.js",
+      "sha256": "05d03adc9897d8ebda2ddfde861683225334a555e04ed9e26b30c082d4044323",
+      "bytes": 42719,
+      "raw_file": "scratch/full-catalog/uk/warwick/raw/search-js.html",
+      "meta_file": "scratch/full-catalog/uk/warwick/raw/search-js.meta.json"
+    }
+  ]
+}

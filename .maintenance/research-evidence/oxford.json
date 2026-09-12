@@ -1,0 +1,23 @@
+{
+  "university_id": "oxford",
+  "sources": [
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/admissions-requirements/international-qualifications",
+      "sha256": "a936fe6f6defac8ef88bf91ab363ead4f22f93bf8b72ffee4645a941b8782828",
+      "raw_file": "scratch/full-catalog/uk-enrichment/oxford/raw/china-official-web-excerpt.txt",
+      "locator": "China; official web tool source lines 552–557"
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z",
+      "sha256": "e7febaa16161a495407d08a64e299c5b9c4d606e1b5d31e66cb74ec371bb402c",
+      "raw_file": "scratch/full-catalog/uk/oxford/raw/directory-dom.html",
+      "locator": "Theology and Religion"
+    }
+  ]
+}

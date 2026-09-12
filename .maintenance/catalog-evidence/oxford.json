@@ -1,0 +1,42 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z",
+    "official_total": null,
+    "page_evidence": [
+      {
+        "page": "single A–Z table",
+        "count": 52,
+        "first": "Archaeology and Anthropology",
+        "last": "Theology and Religion",
+        "paging": null
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": false,
+    "completeness_scope": "Entire published A–Z entry list captured; combined Maths/Statistics and foundation entry groups still require expansion before claiming every independent degree.",
+    "filter_rules": [
+      "All official A–Z table course links only; no subject guessing or arbitrary joint combinations",
+      "Retain graduate entry medicine; distinguish foundation pathways",
+      "Do not assume BA for science courses or entry year without individual source"
+    ],
+    "unresolved": [
+      "Official A–Z uses some joint/common entry pages and does not state award or duration; course-level key-fact expansion pending.",
+      "Current listing is not a claim that every application remains open."
+    ],
+    "raw_artifacts": [
+      "oxford/raw/directory-dom.meta.json"
+    ],
+    "university_id": "oxford",
+    "count": 52,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/undergraduate-course-listing-a-z",
+      "sha256": "e7febaa16161a495407d08a64e299c5b9c4d606e1b5d31e66cb74ec371bb402c",
+      "bytes": 338150,
+      "raw_file": "scratch/full-catalog/uk/oxford/raw/directory-dom.html",
+      "meta_file": "scratch/full-catalog/uk/oxford/raw/directory-dom.meta.json"
+    }
+  ]
+}

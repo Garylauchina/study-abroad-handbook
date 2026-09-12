@@ -1,0 +1,1754 @@
+{
+  "original_manifest": {
+    "university_id": "unsw",
+    "status": "complete",
+    "count": 550,
+    "official_total": {
+      "all_career_programs": 651,
+      "all_career_fields": 786
+    },
+    "discovery_source_url": "https://www.handbook.unsw.edu.au/search",
+    "source_period": "2027",
+    "scope": "All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields; UTS stream mapping remains pending",
+    "pagination_evidence": {
+      "course": {
+        "total": 651,
+        "pages": [
+          0,
+          100,
+          200,
+          300,
+          400,
+          500,
+          600
+        ],
+        "unique_uris": 651
+      },
+      "aos": {
+        "total": 786,
+        "pages": [
+          0,
+          100,
+          200,
+          300,
+          400,
+          500,
+          600,
+          700
+        ],
+        "unique_uris": 786
+      },
+      "all_pages_fetched": true,
+      "unsw_selected_major_honours_count": 352
+    },
+    "filter_rules": [
+      "Public Courseloop API endpoint and POST schema read from official frontend JavaScript",
+      "Filter implementationYear to official current_year; request all pages of 100 and assert row count equals API total",
+      "Program: official Undergraduate line; UNSW additionally confirm bachelor award in every full program page; Monash/UTS bachelor title prefix",
+      "UNSW fields: explicit level=major or honours plus studyLevelValue=ugrd; Monash explicit undergraduate field categories; UTS Major with Undergraduate or Unrestricted career",
+      "No minor, individual subject, diploma, certificate or standalone postgraduate degree promoted to bachelor",
+      "Keep restricted/offshore/ADFA fields where published; no applicant-nationality exclusion"
+    ],
+    "gaps": [
+      "Parent-degree/major compatibility inheritance pending; field records are not independent awards",
+      "Duration/campus/language omitted unless explicit in read source"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3502",
+      "sha256": "f028068f2317328a6c84279b5ab7eedddceed9153fe521cfa2e2b1527ee12894",
+      "bytes": 524170,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3502.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3502.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3734",
+      "sha256": "c45d5c82e605b41bb4dec19ab5a1ba53729584b32717207dd4acc57155fef9a3",
+      "bytes": 509859,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3734.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3734.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4787",
+      "sha256": "d92d52af2c120317f9a9dbd2c33af6fad5ed422fa45f1f4e28dd6cb04f45a555",
+      "bytes": 586951,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4787.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4787.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "e14867a17ffd12eba74c0ff959eb347929356af34216c8d8f2c4036b98c12ec8",
+      "bytes": 25867,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-probe.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-probe.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4502",
+      "sha256": "cfc16efa179da4a897f7a409599f5e027ed256acfc8802c1dcd7ddca1a750032",
+      "bytes": 365087,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4502.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4502.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3787",
+      "sha256": "0b2befe0b207757262637f6e5bd8185210a351a435170d1cb9b45019120593ff",
+      "bytes": 405175,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3787.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3787.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3793",
+      "sha256": "f4a8ab6ffe1f73e1873b713027ab1978222f22744e397b8a364b64768acca33c",
+      "bytes": 400206,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3793.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3793.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4516",
+      "sha256": "a385ee91a4cc7d026b5a2a4d3ac474c2e4849f275954fd6af88b5f228788b5e4",
+      "bytes": 367176,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4516.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4516.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "c102c9b261de72afb98158db851ca39ef65da8849644f2676cd411e7d9381b9a",
+      "bytes": 25384,
+      "raw_file": "scratch/full-catalog/australia/unsw/course-page-500.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/course-page-500.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4046",
+      "sha256": "0568b444879180f445766ccbcf94d0bb4088597d8579df628ba7e9ff4ceb6b78",
+      "bytes": 437879,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4046.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4046.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4877",
+      "sha256": "f46814bbeb3c7134525ef6cf1f5f589ff31e1688ccbfae92a24b6f4e83af0aa7",
+      "bytes": 555565,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4877.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4877.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3584",
+      "sha256": "a0d515abb1923e124be3cce96196edad5e849814eab55c08651f25586333bda8",
+      "bytes": 546959,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3584.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3584.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4471",
+      "sha256": "b6a7b212ba26dc38fb3f546826f652b02554def03ff44efbbfe1097cf5eb6353",
+      "bytes": 461607,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4471.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4471.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3856",
+      "sha256": "e72568e793024bae8a60e03f320c62ab42794b6e50c505a678588f23e0e83e47",
+      "bytes": 495168,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3856.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3856.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4701",
+      "sha256": "062e60f437fcfc757c1f958eca94fc58f6a94ad950fdecb111298161ba1b9e8f",
+      "bytes": 591107,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4701.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4701.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4067",
+      "sha256": "265be44955d14fb0cf82b18e7ddef9722188fd33459e9e2907ee82471ef68472",
+      "bytes": 414273,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4067.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4067.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3523",
+      "sha256": "0e537f26dd3fc6cc606e7b924832a0ed7502ceaaab826be70724e68932736efe",
+      "bytes": 561859,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3523.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3523.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4523",
+      "sha256": "6b933953b8dfd34f61f039695429e3b7aa53270a416fa9f53a8d2a288ebd650a",
+      "bytes": 388161,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4523.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4523.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "3a296c89dbaad344c05cbcd7be05e4a7b1a36d588bdfd19960cc3e538fab4ea6",
+      "bytes": 26128,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-page-600.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-page-600.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3739",
+      "sha256": "3e9b68b1946ac73eedc89a8f5798d0855f2a1faa1d3be0cf2447577d94241cc7",
+      "bytes": 473794,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3739.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3739.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3928",
+      "sha256": "c07511611afa684e5f28e2d470f2bfb3e01dec68205e51b7b0dd7ae9e2ccb68a",
+      "bytes": 419906,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3928.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3928.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/565-26a758d7f9ab0798.js",
+      "sha256": "330e3b49d382ff71b23c5bd5c4d6771e902c4cf254d2e3ab28d4531cd51495c4",
+      "bytes": 243895,
+      "raw_file": "scratch/full-catalog/australia/unsw/565-26a758d7f9ab0798-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/565-26a758d7f9ab0798-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4427",
+      "sha256": "a5eb1b518cfa37349c9605574227b75800014ff5d2d33cb76e03240c8a1c1b61",
+      "bytes": 426501,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4427.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4427.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3341",
+      "sha256": "73114ea11d7b9825abd725debcd8722d4a8297f03771ee78417472d05b32d984",
+      "bytes": 566372,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3341.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3341.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3776",
+      "sha256": "e44201c1277b11bc4f3e1467225626bdc3aa529d057293dfeb1daf953036c29a",
+      "bytes": 406121,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3776.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3776.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3892",
+      "sha256": "9a1867fb37c44884b2086e8dabf9ed28b7d213894d499b35bd7371c716440189",
+      "bytes": 412002,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3892.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3892.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3589",
+      "sha256": "d9e762e75905e3e23de6708db26891392d56d5547b2a0fda1bd221693dc292c9",
+      "bytes": 531963,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3589.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3589.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4406",
+      "sha256": "f20639b147d07396b9b42a1c268b767721c6734702b93d2e451c81b9d4e4a804",
+      "bytes": 406948,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4406.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4406.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3835",
+      "sha256": "290bbb6027a6120e732a781e2b80b0a37ae75da96fe3bf714793d42e84071747",
+      "bytes": 522368,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3835.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3835.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3554",
+      "sha256": "fb0e4d47ea4bde7933d59330f8a3f593522f776d8d1638e60f679bc6cbe44616",
+      "bytes": 495373,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3554.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3554.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3762",
+      "sha256": "b90614e768be0168de1d83e63be604fa4fdb9174f002247bb3e6300d001e9828",
+      "bytes": 534393,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3762.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3762.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3707",
+      "sha256": "e7f4d9ec63e9d269c1bcd703b0947e85b6cfc299b459ad6107cd4fcdc6b33cc3",
+      "bytes": 468733,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3707.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3707.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3899",
+      "sha256": "22c41b835540d0b08c55b9a25b207d826c62d214cf5cbc5e68a7c7b644e9d1a5",
+      "bytes": 424714,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3899.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3899.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3061",
+      "sha256": "3d32a9f3a3403baaf75da931c3563172fe7c957cd99251fe9b83637bb2bd3bf1",
+      "bytes": 382022,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3061.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3061.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3133",
+      "sha256": "880a16a1466adf08ab7ab99a67c9af26a721419b370a8803ab88cac8cb670053",
+      "bytes": 369497,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3133.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3133.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4525",
+      "sha256": "98bf37cbdc3b9c9191cfd23832c151142a8b53f8e6fe87a427573faa20d01fcd",
+      "bytes": 368342,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4525.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4525.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3781",
+      "sha256": "7e09518e44c9879b82fb39bac85c19865bdf9e7643d4a72eed14cf0a99ec9d5a",
+      "bytes": 456622,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3781.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3781.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4504",
+      "sha256": "88343042ff63c76c941d3f25ea5a2f6855417601f91a90839b7702854f1ba685",
+      "bytes": 411858,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4504.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4504.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3923",
+      "sha256": "15f7319eaca50d2409608a4de3d3a1e93b261cc52497cd20cbfef7b36b5bacc5",
+      "bytes": 554998,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3923.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3923.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3959",
+      "sha256": "b45055ffdd04b50ee66f7b8f676a0783e7edeb094786c8ad381eb5612dcdccf0",
+      "bytes": 439766,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3959.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3959.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3674",
+      "sha256": "4beceabdc05be0663c86ea9088c7e2f508c9956110b9c6829203716683adfc00",
+      "bytes": 452120,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3674.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3674.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3732",
+      "sha256": "ce1e7366b7fff39b03cf506102bf1273f980e75df40c780e20a527be72a90e8b",
+      "bytes": 486730,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3732.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3732.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "b3c45e58be09d7b2e783b35f8c5ac59c5f713418275c71a0fd2b4102835ded02",
+      "bytes": 26808,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-major-honours-200.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-major-honours-200.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4795",
+      "sha256": "301632e2b336ef00c8f24bd9326c49679ec5636f7036130eec3c9a16a6232162",
+      "bytes": 584375,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4795.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4795.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4510",
+      "sha256": "7b578776d67992247b8a8cdec6738bc555f30be8a34055668208c5ff738aa536",
+      "bytes": 368556,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4510.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4510.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3795",
+      "sha256": "08f87a6900295431b0489c1055cca75817617f27851336d1ca4fafc71b193519",
+      "bytes": 438914,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3795.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3795.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4770",
+      "sha256": "609ff6c4d9741a9e116df5bf5599c99c88892afe94fe848cfbb368ee240fd59a",
+      "bytes": 710798,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4770.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4770.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3961",
+      "sha256": "a4ac061951974a00710295be9661f88e39a96bd23539c5a05a9ae31af9efea61",
+      "bytes": 483987,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3961.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3961.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4400",
+      "sha256": "efccc24120fa2848dcbae0733cb923aa1e78a25d2f2a7651601e1d1c867bf86f",
+      "bytes": 419253,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4400.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4400.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3894",
+      "sha256": "440bb4f98a115d7d8ab8e25b759f9fa0021fd502dc1a41dacfb1dbefc0510bd4",
+      "bytes": 402431,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3894.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3894.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/framework-07a0b15db5e3acbf.js",
+      "sha256": "108ee77cb2efe58582b4b6b5a943bc3ef8219062eea991ebccfb6d60062f2140",
+      "bytes": 148904,
+      "raw_file": "scratch/full-catalog/australia/unsw/framework-07a0b15db5e3acbf-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/framework-07a0b15db5e3acbf-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/7001",
+      "sha256": "067682b568ca21487ce5bc3c31ddff3c06f59321eac0276cdf845059a5b15462",
+      "bytes": 488428,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-7001.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-7001.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4528",
+      "sha256": "e5706e52903273b6589b3635a142db2b9211bc1839b2a850dc42309834e88803",
+      "bytes": 377975,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4528.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4528.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3764",
+      "sha256": "317763347e9bdd567f0cb9aab9fcbd99905517ddcc35043eabdf5779234b532a",
+      "bytes": 504560,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3764.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3764.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/762-cbaafc25253f70f2.js",
+      "sha256": "730fe7a23c2c5f31b79db6a9872ea27fa870b70c80e4a86493bc7fd1c29360e7",
+      "bytes": 14562,
+      "raw_file": "scratch/full-catalog/australia/unsw/762-cbaafc25253f70f2-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/762-cbaafc25253f70f2-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4509",
+      "sha256": "bc4f7e937b0d69f73a9772314da9742bd9f0aa06453b4f55f8e011534b89776d",
+      "bytes": 375289,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4509.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4509.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3435",
+      "sha256": "7dca5e100afac9ad4480cfc3fe18b55685c85f38ea3f0dbb551494b579b101ff",
+      "bytes": 437004,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3435.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3435.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3573",
+      "sha256": "6517a8b491b5e9555bfbb9a229790709972293eca1510816d390b39331ac6609",
+      "bytes": 563864,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3573.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3573.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "4c3c45a8b263f84e6aa53d7dcffca3476e59e918f28b18a43100e1cf2d9eef52",
+      "bytes": 25702,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-page-300.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-page-300.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/webpack-97315bcce2b0a320.js",
+      "sha256": "a2cada8498029db27949221430bd34420f1f2d5dca90fe209bcc59c4bf56920f",
+      "bytes": 3893,
+      "raw_file": "scratch/full-catalog/australia/unsw/webpack-97315bcce2b0a320-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/webpack-97315bcce2b0a320-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3798",
+      "sha256": "716cfea65daecc9c354ae0214319d5d04ab1b87dd833e1de18b6b495923238ad",
+      "bytes": 452870,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3798.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3798.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4721",
+      "sha256": "1a07051ec182ca1210f96d7ec2c191d7caeb6b1ed79074b426ccdd3abc34129e",
+      "bytes": 591397,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4721.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4721.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4517",
+      "sha256": "baa0cb07c2c0f881d92deb03819ba3a4a5b726ba74bd696ffd06e7e480d7f6bc",
+      "bytes": 379395,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4517.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4517.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3792",
+      "sha256": "e3b660020a239d1c3c25d8d0ec54b2f96e16c323b29a205377d4ceb44c092133",
+      "bytes": 376406,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3792.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3792.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/230-71a192c493fc8fc2.js",
+      "sha256": "5c0839cfc37f68dd5d6738e387443fa1203954f5b6c004454d3c9096e4883c78",
+      "bytes": 10131,
+      "raw_file": "scratch/full-catalog/australia/unsw/230-71a192c493fc8fc2-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/230-71a192c493fc8fc2-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3997",
+      "sha256": "3cabdce0dee9a1a909aafbfe0de2f8ccc1bdf0b40444ddb1496cc181a77487c8",
+      "bytes": 689192,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3997.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3997.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4053",
+      "sha256": "51002dc325ae396627da395868fb7e488b62c63f97bc58cd48c1304e6f1f9db6",
+      "bytes": 488914,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4053.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4053.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3673",
+      "sha256": "f7357d56a422180b6cbbea282f81da22eff04aee29ee15918e790040adea36be",
+      "bytes": 423783,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3673.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3673.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3053",
+      "sha256": "6aa955fc929b0260a001aec24fa005f975782be3ee2b9cddbce3688c7ed0f3ef",
+      "bytes": 452004,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3053.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3053.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3786",
+      "sha256": "7b9159636e8c94f39db465fec58d8f76ac714879660cfb2b9f69fe3aefc62d2f",
+      "bytes": 555521,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3786.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3786.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3924",
+      "sha256": "3d92cd98fff37a0a6969d960cf466209b5163ea0feffdb154563572c6a8e77f6",
+      "bytes": 532678,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3924.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3924.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4072",
+      "sha256": "1ce524e3ec41cd63cef2ec9743d61eea0bfcd7bd271be77fcd6db64ac7b151c8",
+      "bytes": 420044,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4072.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4072.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3558",
+      "sha256": "9a08340a1a51489921f86ec82da784e20ef876f459421c728a723a0c2659a92e",
+      "bytes": 534383,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3558.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3558.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3134",
+      "sha256": "925999492c3e010ccf9fa9089ef18286de9e6696eff7075d5219c06e6d4be4ae",
+      "bytes": 488725,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3134.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3134.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4522",
+      "sha256": "03eda3ba2c2f7bea75a54f7c0b1a390bb9f89153098e02e04b8208d919a6c727",
+      "bytes": 383290,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4522.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4522.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3911",
+      "sha256": "75724f88d5aff2ca713958c7095f6d3f14caf16aaf0da8a2ea0ba87247fa7b82",
+      "bytes": 394170,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3911.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3911.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "03eb43ccc9e76062984cb8f8cb7425f7fa774dacf2cebe17471642e89d6cbc02",
+      "bytes": 25926,
+      "raw_file": "scratch/full-catalog/australia/unsw/course-page-300.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/course-page-300.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "7e2451b45a2ec3335c4e61dab5bbfe9ab1177af241ec2d8c2903c976ca192ff0",
+      "bytes": 25958,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-major-honours-100.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-major-honours-100.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3947",
+      "sha256": "c2c8fdb1e87715868bb70ec40ea23d4b38e344afae41580ffce9fc9d8d3f6333",
+      "bytes": 611173,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3947.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3947.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3738",
+      "sha256": "38bb312b7d92dc47afeddefdaf3ca39012457a0c12dc90b3b76dc8b4f525ee2f",
+      "bytes": 400243,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3738.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3738.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3574",
+      "sha256": "698c095453d0f8c5753414cbd2a664b075947b20ede45348597a0f91def2e5b7",
+      "bytes": 503611,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3574.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3574.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4763",
+      "sha256": "6d71d23d2133e1dc763e4122881ff5630c538e5c2d87dcddf32eee7b89c24424",
+      "bytes": 601004,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4763.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4763.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/7006",
+      "sha256": "74a9e39f4267b4aab04c0d3cd1621c625a107d0d9ac906d6eb45f6ad7fed6900",
+      "bytes": 386248,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-7006.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-7006.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3777",
+      "sha256": "a4b93727cd4e25984be24a9a6d4871543ef56481260ed6c12f77430495452d88",
+      "bytes": 423019,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3777.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3777.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3893",
+      "sha256": "1bb7f94b240b9c2384149f77313b1beaa86cd3205033586ce704db6e7727e241",
+      "bytes": 405603,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3893.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3893.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3588",
+      "sha256": "32551f0120b899dfb3bb363ac6ed195898324a955d2bbb36e4f82bc591a74509",
+      "bytes": 490122,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3588.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3588.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/7012",
+      "sha256": "987a101b821a00deedddfedf182699cf83c0c8185bc1c120fcc001a551f6c57d",
+      "bytes": 362146,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-7012.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-7012.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/473-4592d69d344902ef.js",
+      "sha256": "e1387e82a516088517ec1fcf3338fa64eed96f61be89bee0a9ce9a83d06eb327",
+      "bytes": 60765,
+      "raw_file": "scratch/full-catalog/australia/unsw/473-4592d69d344902ef-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/473-4592d69d344902ef-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3132",
+      "sha256": "33ba37feb71bedfdfe6dcc293d8359ab22597e455b6fce9b86db1f52abbeb253",
+      "bytes": 381395,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3132.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3132.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3768",
+      "sha256": "ac4065a657e384394008a40d4dc38c90c70dd71bd002e3e8a6be35527c34ce91",
+      "bytes": 373291,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3768.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3768.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3597",
+      "sha256": "a40ef5bc0fbb4a56eea3ab30a0d078ce283208cf7b29ab0b6b921778d160e0f8",
+      "bytes": 477290,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3597.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3597.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4418",
+      "sha256": "bc5990a6f12e9a49bf2f4c099aa0c62d0d5aa30be0faaf873c3d8674f2ef5b1e",
+      "bytes": 380047,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4418.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4418.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3979",
+      "sha256": "ced1e82a99a9e2e7bce1b6fb1abb5e1ee79a9479a0eea6e96b687ef939680a3a",
+      "bytes": 448019,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3979.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3979.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3181",
+      "sha256": "69c9630a8b03079cb7efd4479cf5866f64fe0611e0f9fb031bd8ae06662b6703",
+      "bytes": 414112,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3181.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3181.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3462",
+      "sha256": "600669aac60e87fcd30a46887033cc268eb491f1f37f1187bb77b1abd5960e3f",
+      "bytes": 474686,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3462.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3462.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3706",
+      "sha256": "535a8474c9e7e9212d174350b3e3610cad26ef833397f0be25ef18e00e07c6ba",
+      "bytes": 424459,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3706.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3706.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/7019",
+      "sha256": "fa2503b4b4b6cfaaf5b2de194b48ca0a40a225dfe0296a2809246fe9bca4d421",
+      "bytes": 362444,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-7019.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-7019.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3256",
+      "sha256": "520bd4a1d702928c758bf5db8a333e711c8b0aa6666b549e62c089f5045b5c61",
+      "bytes": 419462,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3256.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3256.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4706",
+      "sha256": "7bebd1fefcdf32c95ac52b26b2df11d4153a1861574383718c85f87185903712",
+      "bytes": 590338,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4706.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4706.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4511",
+      "sha256": "6108c973bd8044394d527ddf31697c552480e0f823ec05fab5d01ab1b9715b53",
+      "bytes": 375318,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4511.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4511.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4505",
+      "sha256": "a0276fd0488d5f0f5a47b99459d974eb9b69323edc760e4f837fc6024931bda9",
+      "bytes": 370781,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4505.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4505.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3922",
+      "sha256": "38ddaf8ad829fbc37f959b96b8a7c23f216c7034f008f19d3287a341e044c1d6",
+      "bytes": 506837,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3922.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3922.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4733",
+      "sha256": "5a95304e77ae7be174664e6b5da142631ffd0967cf232d1099a8d43c47e4e661",
+      "bytes": 662225,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4733.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4733.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3325",
+      "sha256": "44663852888bdb58837e8af666f3ee65742658377e44a6c25385a03f51d98f7f",
+      "bytes": 493636,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3325.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3325.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/375-ec4469ba74f78b43.js",
+      "sha256": "3209bb68d7e7a902706e8e1d02df5c76620ef3d102861d721d134aa439788177",
+      "bytes": 18617,
+      "raw_file": "scratch/full-catalog/australia/unsw/375-ec4469ba74f78b43-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/375-ec4469ba74f78b43-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3733",
+      "sha256": "56fcf0d92a173234c1f8639e78fb58b119702a86f23606a61a0a5b8f4db11ce1",
+      "bytes": 557420,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3733.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3733.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3991",
+      "sha256": "ee08e338a1643a01ef73279dff1e4c25c96b0f9f9d9b30a4b6784c8e0a4fc249",
+      "bytes": 471557,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3991.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3991.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3765",
+      "sha256": "6f629d88f367ac33708f37e7776b5b199256a4de12fa33e4196b88e781a8e17e",
+      "bytes": 576236,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3765.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3765.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4529",
+      "sha256": "e3765f5b107b8d119394868c63b1989b6e7e9a58469f344b479d6031cac4e832",
+      "bytes": 381050,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4529.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4529.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "24d198a8e593e0ece753f57cca8cc2146a61e8c1b2ceab5e12c5880ea1151f66",
+      "bytes": 26357,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-page-500.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-page-500.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3529",
+      "sha256": "ca748ee270907fc896e50336a7862848abb6daf86d8e1826aba1ce2e991670b8",
+      "bytes": 639248,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3529.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3529.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3895",
+      "sha256": "dd7f6219375799d84ba93eb0e176af892fb16de737f122d939ddcb5ee05d6af3",
+      "bytes": 423845,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3895.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3895.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3346",
+      "sha256": "55b627d2b1b7f0a2b7ba25f7122871764d9d44653fc7b4d170389638cba10037",
+      "bytes": 382181,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3346.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3346.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3566",
+      "sha256": "7158a1feccfc748b1b4fdc4218300a7d50100e6af8cf81743b228c45624992b2",
+      "bytes": 557440,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3566.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3566.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3799",
+      "sha256": "5bfb7043f27f580714852f9ff146e70f664958be9e06aaa85460161b593b4cf5",
+      "bytes": 453773,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3799.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3799.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "588e1179bff185c75e84a6488af1ba002c61d32b88deb9473d8ebe697f2984e9",
+      "bytes": 13624,
+      "raw_file": "scratch/full-catalog/australia/unsw/course-page-600.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/course-page-600.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4508",
+      "sha256": "a3d781174f61bc08fbd01ce0ec02dd4dba316745df2426fb33d8c7984b2ad712",
+      "bytes": 373255,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4508.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4508.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4744",
+      "sha256": "bea63885d5a8790a545d8964f66c4081c9f02c1cef7aa9d726a5174c137dd4ed",
+      "bytes": 602265,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4744.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4744.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3955",
+      "sha256": "483cb598e8da91d80192484d938eff034e89de05c83cd3be70f53ad0ae142182",
+      "bytes": 494416,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3955.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3955.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4058",
+      "sha256": "9c32420943e1cad61addc11d5be62d3d07fb090fc23017fbae1b72abf01d7477",
+      "bytes": 447993,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4058.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4058.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3586",
+      "sha256": "0bf21db1fd82783adb12042e4609431ed3e30cd9bc29df4ece337e468c641709",
+      "bytes": 467586,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3586.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3586.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4473",
+      "sha256": "7099c65ae003e7257e490deaed23814885870dcd8eb03d15ecfd5161b11dda21",
+      "bytes": 447138,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4473.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4473.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3779",
+      "sha256": "919c1f40382811e7300bcb9d4c403b1dcea5be5a0d352d8c306e4237719dedd7",
+      "bytes": 384362,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3779.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3779.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3409",
+      "sha256": "f418d11c879168adbc12b11192198d1288b372967a2fea103286c34839612a30",
+      "bytes": 524169,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3409.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3409.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "88ad967c20fa034f4a5d9cc520d5c8a8321c5ad4864742b62225da47c2405196",
+      "bytes": 26208,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-major-honours-0.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-major-honours-0.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "47ca21fe878de266eaa8d5300b2094779e7697821201bfdfdbbef3a9a658e832",
+      "bytes": 26050,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-page-200.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-page-200.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3521",
+      "sha256": "a371720a7eb62382e2415353a17c4d419ff06aa4270844401290fb9344bf1050",
+      "bytes": 522157,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3521.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3521.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4071",
+      "sha256": "96ba3bd6304fd9d519eaf374afb8408ea7a405454507f3c0742bd764f5b8a5ae",
+      "bytes": 410383,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4071.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4071.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4717",
+      "sha256": "f74e53976e8ad574d56d097ea9fcc9efc7ce3fff2f957249e8d092ec70677e11",
+      "bytes": 425555,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4717.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4717.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4521",
+      "sha256": "e201ba71fc3d07dc2b9271bdcf5ef5890bc579d02f564e369719172b620ddc91",
+      "bytes": 386644,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4521.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4521.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3736",
+      "sha256": "beaf066a7ec91b302a23759cf22a5fd0ce0dbff00620fc99454683b045d6e528",
+      "bytes": 627156,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3736.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3736.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4500",
+      "sha256": "3aaf019222bccee578b2c1e1572ff5d02e695317cef9a6fdeaa5859103f86987",
+      "bytes": 411593,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4500.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4500.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "66399d0cbfc2a15a44fc6bb0ada9ac26fef0a247c6014e55d3644cca64f85a44",
+      "bytes": 25119,
+      "raw_file": "scratch/full-catalog/australia/unsw/course-page-100.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/course-page-100.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3785",
+      "sha256": "1225f018e95ddf0544ea370443c3e4aab1ffaf9bec992510a521482ef5004e97",
+      "bytes": 398653,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3785.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3785.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4722",
+      "sha256": "e5bfdb22444ab189e3463c253a2d3da4c4a8cdee1625bebd14a481ef3ca9aa63",
+      "bytes": 587758,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4722.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4722.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3949",
+      "sha256": "6b498ccf3314d776a20216a7ccc32a8447679317d38502541cbba1eb4f086ef7",
+      "bytes": 535013,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3949.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3949.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3980",
+      "sha256": "494d5a860b0d4bf751397cff6dd3d884137f38d919683ccfab381d5bc0c7100f",
+      "bytes": 425068,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3980.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3980.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4875",
+      "sha256": "aa63fb04fe808e29c968488a8f6bbc834b6e17c49e1b0fcfc97c95fda1ea0ae1",
+      "bytes": 671553,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4875.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4875.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3632",
+      "sha256": "c386b96e286c23539716b18fba561478e020239e8f26f37c5b141b7f2004add5",
+      "bytes": 444754,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3632.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3632.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3774",
+      "sha256": "fc0942c30482f9f2a582e7d14dfe863bb75493a589c6a0fe3f1e4456e7c0b8e2",
+      "bytes": 371695,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3774.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3774.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3890",
+      "sha256": "f2f6affd6ba6a60dd59629e6ce036a991ed87c7d35947737d4af541d351963c5",
+      "bytes": 425299,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3890.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3890.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3362",
+      "sha256": "1405bc7923cf823619025c1cf83cada700051cea646ac2ddfa83d6f867c13d02",
+      "bytes": 422281,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3362.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3362.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3965",
+      "sha256": "a41729e8fa214d5e17fc76a49ff8217048edf955389073642a7c0c7b30ba9f4d",
+      "bytes": 435480,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3965.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3965.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4068",
+      "sha256": "fc1e22f99352067c0239c7d02b68ee76eb9ba12b341fd85b0cce6512032e2ed5",
+      "bytes": 415303,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4068.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4068.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3154",
+      "sha256": "284478a27d6f79f3de39af29e883472e073fae61b2471c9bc475c4755b00d367",
+      "bytes": 608731,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3154.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3154.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4410",
+      "sha256": "4bca7d83060cda827283d1da772cebaa96b8ea414664297c166322f5a54de055",
+      "bytes": 415938,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4410.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4410.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/7005",
+      "sha256": "de8c69fd1db854acdc92e68a57e1e28ba2aad9c34bae6cf270b84ec1c95ea6c7",
+      "bytes": 431198,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-7005.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-7005.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "dacf126d077d3ba3882c5631683e4c86dcc7f54f49700772946768bf87b904d3",
+      "bytes": 13534,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-major-honours-300.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-major-honours-300.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3999",
+      "sha256": "f513e16b8dfe72df4255ed75eb94320b5a08f90a3e4559b5fdcf616faf1ea7d3",
+      "bytes": 446674,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3999.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3999.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4519",
+      "sha256": "1b52aaf2485f3ff22d913832c85d28f0a56ab864463ab29f462a12955e9ad5f2",
+      "bytes": 368112,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4519.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4519.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4033",
+      "sha256": "4432f2153accc8898afa4b7651a98a7ad52a856699388d6c2eca2c7428d24e38",
+      "bytes": 432429,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4033.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4033.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3563",
+      "sha256": "1f96b4aa9da668af1791f7f6b9f82d53a8ba340bb880e908ef9494e459f65b3a",
+      "bytes": 578941,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3563.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3563.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4755",
+      "sha256": "11d1730dcc948ecce19d4347b4d33ff14ef73621972977c5ed0202d125180561",
+      "bytes": 611301,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4755.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4755.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3343",
+      "sha256": "a08d808cc2c39d12a169064de487d81890f808b7e88fb0521bcd14e3e815079d",
+      "bytes": 494928,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3343.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3343.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3783",
+      "sha256": "f18cec60d2e10d696642deac14aa2729449fc36785eb703d82ca5c59dab423a4",
+      "bytes": 459497,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3783.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3783.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3921",
+      "sha256": "cca6ce3ffd65b82b0162d059814fae36fc5e959455604317428a4195b3ed6435",
+      "bytes": 528380,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3921.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3921.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4056",
+      "sha256": "1b8a864d59a5ce8b25254b2abb2e628836e2ff4d03a901262dffcb82bc7517c9",
+      "bytes": 480748,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4056.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4056.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3381",
+      "sha256": "30a51f2092d3c2cff675624eff808a29c8398c1a110d3c19d3411278422f462e",
+      "bytes": 432827,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3381.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3381.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4797",
+      "sha256": "7d35afbacc2b308c6448894d2f53787b54113cd665af0caec3630ce41554b2e7",
+      "bytes": 603066,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4797.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4797.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4873",
+      "sha256": "cba2d6f2e85e7d87bc861bd3eee3a06baccf8e40cc1ad4d38641471684f2811e",
+      "bytes": 583565,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4873.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4873.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3332",
+      "sha256": "161448f02f28aa1d3413df82ebd1d8d2f5a460090d07f4ffa10e05a46b3f32cc",
+      "bytes": 405532,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3332.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3332.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4512",
+      "sha256": "ef9165cf7e76327bc697a3333f6effb5e8df12111b10aa9b8a3e317bf000ada5",
+      "bytes": 367684,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4512.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4512.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3131",
+      "sha256": "200615e7384836202b2e790a542da3ad69f77db79c0f942361761d8ea204d77e",
+      "bytes": 411156,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3131.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3131.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4527",
+      "sha256": "9dd64fb2a5a32f95c6fffe104304f6e00ef086068f9492d8aa1b90fbdefee124",
+      "bytes": 378371,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4527.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4527.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3182",
+      "sha256": "49c1f4ef620afd69eb562b389700e52c5ba18a9a58a6123e955448960855d5fb",
+      "bytes": 410240,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3182.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3182.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4484",
+      "sha256": "1bd9a01a5414d2fd52a376810f178dfe284cea5d40a70c08f99d7c4dc20cc5dc",
+      "bytes": 431395,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4484.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4484.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3956",
+      "sha256": "79baf7a9ad20e94f28a14858d450fd8e9d74391dc8b6b6e772338bb2fd273db5",
+      "bytes": 475710,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3956.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3956.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "88f2244f60c49ca5c6b4df24a19726888e8f7c852a1a8c2b61a24550ae33eb35",
+      "bytes": 22253,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-page-700.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-page-700.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3345",
+      "sha256": "d2f18caa6687c4795308e7ac3eac5f40b56a98f5cc5defa3e2f86bccdcaac944",
+      "bytes": 522030,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3345.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3345.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3565",
+      "sha256": "adea75d337c87b71f0f12898ee2db6488ca183d7f7247d83a1b6ca327c044605",
+      "bytes": 427741,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3565.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3565.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4490",
+      "sha256": "fed8eea953460471aef3508d3414f56216c253bb92871f0774e81f684c563bb2",
+      "bytes": 415457,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4490.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4490.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3478",
+      "sha256": "5b0f266f565157fc0e221c81322bab875018a67d0b8558c9fd625e6c36a487ad",
+      "bytes": 429756,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3478.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3478.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/search?ct=aos&level=major&studyLevelValue=ugrd",
+      "sha256": "643d0178172380ffacbb3347dab650b4ea65ce777b030bc1761ab8daef1700c1",
+      "bytes": 444989,
+      "raw_file": "scratch/full-catalog/australia/unsw/search.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/search.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3896",
+      "sha256": "fbe821f6229a38f9a1400ba13f18c9fcc292653e2f9f0bfa96bd807835c67090",
+      "bytes": 401067,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3896.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3896.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4825",
+      "sha256": "6e64c2c3c0e903d379c5d837d6dbf785a6479b6dde5ae59b9982984f2d72ecbe",
+      "bytes": 452578,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4825.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4825.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4831",
+      "sha256": "c5b5d6b5c8f86368eb007c7b65d69a38f810d05716b08cf61ef29bca8dd73081",
+      "bytes": 460822,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4831.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4831.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "d16015cce0d037b08202793446d25e91b255b04a882f42dfeff21681f7fd0aa7",
+      "bytes": 24998,
+      "raw_file": "scratch/full-catalog/australia/unsw/course-page-400.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/course-page-400.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3599",
+      "sha256": "75eafc9e1fbe4392f246aa6a22acb7e20cc675beaf19bef37e62001695abc800",
+      "bytes": 482100,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3599.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3599.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/7003",
+      "sha256": "81fb3d5efa9cc2f1ecc422e75b05ea4c34906229bd9dc713e2e09f399856fa6c",
+      "bytes": 392423,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-7003.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-7003.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3831",
+      "sha256": "e1976f9e46e18924b90f6cb6c92326d73ee8be2650d8acf8a143114b7b764e59",
+      "bytes": 442478,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3831.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3831.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/",
+      "sha256": "5cc647d4f9cc450f7340a2b1bf9822a2af328c6bc529f02d85d53161def559d6",
+      "bytes": 505958,
+      "raw_file": "scratch/full-catalog/australia/unsw/handbook.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/handbook.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3593",
+      "sha256": "aceda105730a5ceacb21806f02b88abf21154c3a8f4a7db908b2bd594cefc268",
+      "bytes": 617969,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3593.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3593.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4520",
+      "sha256": "0551bfebe0ae6d7c12c98cb4faccf6b9d436ab0d2e3a999726080f0dc8d2009e",
+      "bytes": 388445,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4520.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4520.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4702",
+      "sha256": "037960141c5b8b9f06169a9f6fab4752f60dc4060e0af144360ff6902eb80481",
+      "bytes": 415872,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4702.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4702.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4472",
+      "sha256": "407f1da42fbb1fda64857e720faba86b9aa966971f0de603ba0b25b4897b0ae2",
+      "bytes": 456065,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4472.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4472.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3587",
+      "sha256": "52be6fa8ddb789d24bae91aab084a9cdae54b4f0b1665b06a0b0fd1fb4bb10a7",
+      "bytes": 449038,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3587.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3587.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3778",
+      "sha256": "32c73d36ce90045ce1e22ec6e14696b30af4552e4491aab088aed2f8343ebe2c",
+      "bytes": 406581,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3778.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3778.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4515",
+      "sha256": "5ae6dc253098e9f99319b6413f2134e9a5500c3ed268191c8a0c4eaade7e70b7",
+      "bytes": 376053,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4515.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4515.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "9e138f7964296105a80c83aa5783b7056356fb9e78619a7d31e99ade77fabbcb",
+      "bytes": 26663,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-page-400.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-page-400.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3948",
+      "sha256": "9c3109d3c8ab0180662c42e9985a8c32eff8dfbf0e12d3d105dad7e12044086a",
+      "bytes": 590770,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3948.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3948.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3981",
+      "sha256": "4e8bc7d49ca4e8be1cc067f09ffc086a7a3366338a3235e8d7eff0a73d8609a1",
+      "bytes": 436082,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3981.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3981.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4045",
+      "sha256": "876ccf8edd3253b9f9b73cb79115b8648e01c4c5244f3c775f5b7fb3822cae5f",
+      "bytes": 494526,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4045.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4045.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/pages/index-347d72f051a4c781.js",
+      "sha256": "bb98064824a9472a4831afdf8ddaea9f37da9391aade88b5279bddd74984cc2d",
+      "bytes": 2433,
+      "raw_file": "scratch/full-catalog/australia/unsw/index-347d72f051a4c781-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/index-347d72f051a4c781-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/main-f4d60b82bf826dcc.js",
+      "sha256": "98b3ddaa1b18f411f12f72229b7ecccf5495047785570ca295aa16258839bb9b",
+      "bytes": 138573,
+      "raw_file": "scratch/full-catalog/australia/unsw/main-f4d60b82bf826dcc-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/main-f4d60b82bf826dcc-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3671",
+      "sha256": "8edc064a41333bfe3e2e3979e9df11358dd6fd80da596dfda2661fad37411246",
+      "bytes": 513381,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3671.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3671.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3737",
+      "sha256": "ab5763cd95acfbd204e8ef04d87aade183a18392e645cf1e71ce62ed8511438e",
+      "bytes": 581016,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3737.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3737.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3784",
+      "sha256": "2e0cac5d13f2ddec81a39de92346cd3a2ee7231fbc142c6abbfcf1498ea4bfc3",
+      "bytes": 485053,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3784.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3784.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4501",
+      "sha256": "7a9b62db7777348a19dbcd0404e413338ca7e589ae76faf789b2c6c6ed99593d",
+      "bytes": 376159,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4501.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4501.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4737",
+      "sha256": "75e2fa7184da6e985591a15cb7da546775d1670ec67379b723559e45f6b50f93",
+      "bytes": 630444,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4737.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4737.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3970",
+      "sha256": "01457ba448ec8f0d53ca4b972d1a8e474632325e4fc544db7ba11e3fbdf89d9e",
+      "bytes": 591174,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3970.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3970.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/pages/_app-778c08eaf7edc579.js",
+      "sha256": "389bb83efac14cd44b9d3d94ab51bedd62b600fdb7e174094f46a0142683d9ed",
+      "bytes": 732619,
+      "raw_file": "scratch/full-catalog/australia/unsw/-app-778c08eaf7edc579-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/-app-778c08eaf7edc579-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3761",
+      "sha256": "ce90f663bce3f067c7da8263080981d395bb59b79b8af653505a68c0450fc301",
+      "bytes": 480169,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3761.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3761.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/7004",
+      "sha256": "704251eb9684d7966d6bbc6425fe9497b63a455a5f64a0ab3f2ef09741e1b5dc",
+      "bytes": 417913,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-7004.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-7004.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3775",
+      "sha256": "2625cd5cfb4043dc798e7f13f8a3b510d6fc70af152bf3cdea7a3e50cce8bf14",
+      "bytes": 423061,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3775.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3775.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3543",
+      "sha256": "2024734ea5a584e42ecb1130a507eae5c5e1db42417b8557e07b2a2938dd0eb0",
+      "bytes": 495635,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3543.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3543.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3891",
+      "sha256": "6ded72961114922dc4c41f48b1c4e7b488b9e92f84d3891c388ce56272c19f60",
+      "bytes": 405147,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3891.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3891.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3964",
+      "sha256": "fea4a0069095186fb2c03e800b9af526a85497b603b9c56ed81ffe5411054354",
+      "bytes": 436796,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3964.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3964.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3155",
+      "sha256": "b9edccd9ff19c605c51bf0bc2cbd9bacba74afddc814947da6b41cb395a246ff",
+      "bytes": 513800,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3155.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3155.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/pages/search-e882f92230f0d8e3.js",
+      "sha256": "241fd659e023bdd0de793f5037ccfe78ea3a8394815389fa33175b7e8dbb369c",
+      "bytes": 72707,
+      "raw_file": "scratch/full-catalog/australia/unsw/search-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/search-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4405",
+      "sha256": "1b52e49be8893ebddfb6faef5920428874e62f3c289fbc5f8efd0b55a4d5ddd4",
+      "bytes": 433403,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4405.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4405.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4518",
+      "sha256": "34e5b0832e5b9ac63ea1f7d0fcd52aa0af4ce1ef49dad59c593392cd0a98dbed",
+      "bytes": 398481,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4518.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4518.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3342",
+      "sha256": "d14d4021290efaa13b22e1c77440678f4289fb556b302d46be598dfce000045f",
+      "bytes": 491284,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3342.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3342.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4430",
+      "sha256": "7e6fb106db804d0e06fa8046d58249a83d6ca1278a4928e335beff3fd5f020b9",
+      "bytes": 420369,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4430.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4430.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3998",
+      "sha256": "7fd6fd8b8d4976bc69a329a7a1d94d775df98c0f7b7faf00c98b2ae18b826d2c",
+      "bytes": 633413,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3998.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3998.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3789",
+      "sha256": "b3a0d902208548911b70df4b917f30d4970c163478e6b354eee0b5f2729a5d90",
+      "bytes": 533074,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3789.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3789.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4513",
+      "sha256": "d56e83c7b670a35fbef045cf59e7d3383a466519fc382efe6fe32a3bc1637b02",
+      "bytes": 387110,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4513.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4513.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3782",
+      "sha256": "485c71820084e6185e3d341bb65249ece4e42991a7c0af3da015ae9aa8c3bf44",
+      "bytes": 512513,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3782.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3782.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3261",
+      "sha256": "958c480d3a488fc2bfe7767a50a75a8444d1444f68d9e806308abbf42bfd2e7f",
+      "bytes": 406357,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3261.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3261.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/6114",
+      "sha256": "ad5fab869050b577cef28d9795b4daeec2ea8905838b153e56621ef57c54f5f5",
+      "bytes": 365095,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-6114.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-6114.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4782",
+      "sha256": "6199d3382eb6cecde167ad76651ee82571c71cba29534b5655fd3cd02fe3a544",
+      "bytes": 638131,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4782.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4782.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4526",
+      "sha256": "605fefa9eb99f3bf8c3b8b5dc80330b9a9b94955b15edc9669c9a4d5ab4d4293",
+      "bytes": 378055,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4526.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4526.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4076",
+      "sha256": "df17657cf9f614774680ca311debd41891dedd75749017147b606206b59b15bc",
+      "bytes": 566590,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4076.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4076.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4474",
+      "sha256": "d20413c4ae6f2fff6623e1eefb57762585f03f4804ea7cc7f3bbb61d147c7dd0",
+      "bytes": 457933,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4474.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4474.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "8efe83a97b76c68714c5d4d7bdf3fddceaae2aac0e3f5f6b2c5571f166ee00c9",
+      "bytes": 24239,
+      "raw_file": "scratch/full-catalog/australia/unsw/course-probe.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/course-probe.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3805",
+      "sha256": "7890e2db5b57fda288f02736cc83b0d004f4c5be7e539814e7e0e484d60d7baa",
+      "bytes": 418351,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3805.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3805.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3344",
+      "sha256": "25a4908dfbe7e8b32b676e546d27ff14e93ee5ff6a9a7194b6da0360211286e1",
+      "bytes": 576499,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3344.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3344.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3422",
+      "sha256": "8e07ad18215ea3dca727cea6393c1a1ae274fba5bb89b291a15b8983ff1eb9ec",
+      "bytes": 424483,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3422.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3422.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4034",
+      "sha256": "fc5191abb4033240f7f7175d0a3794240621a8823d6d23906fcb2c03736aea89",
+      "bytes": 459266,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4034.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4034.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3564",
+      "sha256": "bbe730d0131a8fd97f06adb56d16a28db0b4244bd1cda0b43bb6adfd0af99963",
+      "bytes": 501730,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3564.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3564.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "ba91a53756334e86cbc511f8d214083a6275c8253171848b1a2c2dcbf0ac4d49",
+      "bytes": 26983,
+      "raw_file": "scratch/full-catalog/australia/unsw/course-page-200.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/course-page-200.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js",
+      "sha256": "e903cec1d59e0157bcc7e4ac883ae6f866babb60e4aa01b9485aa096b9722200",
+      "bytes": 91381,
+      "raw_file": "scratch/full-catalog/australia/unsw/polyfills-78c92fac7aa8fdd8-js.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/polyfills-78c92fac7aa8fdd8-js.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3598",
+      "sha256": "25e989cca6c5caf0c9376f78f6f2c612925ce8f3d9be06719e29300c114d440f",
+      "bytes": 598819,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3598.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3598.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3767",
+      "sha256": "dccfa26ae1a0b915a7077ddaf0c88c748903e335a37d91f0a3b27a4179c37917",
+      "bytes": 558478,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3767.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3767.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4830",
+      "sha256": "3ebf6ce5596d673433b0b67a35277106caa6b82774355a4d745daa65ede99c03",
+      "bytes": 463319,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-4830.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-4830.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3417",
+      "sha256": "825ebef8c4cd3382181f3ea2a2612f85675fb0eeb3c5a38a10699d441f0a8f31",
+      "bytes": 373379,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3417.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3417.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/7002",
+      "sha256": "b8688cffd7dc365cfcedb05cbf529cd674c27f7fb6ee8536ec97418e5dc0e210",
+      "bytes": 400406,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-7002.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-7002.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3962",
+      "sha256": "f75d36d82b6094c6ae84a27624ac848fa60148019dc11523ea13d9a8ad5300b0",
+      "bytes": 571079,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3962.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3962.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/7016",
+      "sha256": "0b42c0947b302ea63c3d173bac52e1c8f35196789b6d857c8412c79b72b9b883",
+      "bytes": 359724,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-7016.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-7016.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3635",
+      "sha256": "feb05da432ffbdcf2b8cfd71438c5a53a2d6bba253a0296d9d05c0ece1328c2c",
+      "bytes": 516486,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3635.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3635.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/api/search/search-academic-items",
+      "sha256": "c7e14be19a202358da4eccb66ef59714362e3cbdaf1e5f6daf22b6cefbef3f99",
+      "bytes": 26482,
+      "raw_file": "scratch/full-catalog/australia/unsw/aos-page-100.json",
+      "meta_file": "scratch/full-catalog/australia/unsw/aos-page-100.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3773",
+      "sha256": "77e0f1019f08b146b3c8b3bd1184ae9ae22519f2e3e151f9f2b8c746cbce54a0",
+      "bytes": 405553,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3773.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3773.meta.json"
+    },
+    {
+      "url": "https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3897",
+      "sha256": "e1d0da626b3b208a526242088c2d693075bcdbfafe81a8a65d20663e7f39dd7f",
+      "bytes": 415434,
+      "raw_file": "scratch/full-catalog/australia/unsw/program-3897.html",
+      "meta_file": "scratch/full-catalog/australia/unsw/program-3897.meta.json"
+    }
+  ]
+}

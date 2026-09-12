@@ -1,0 +1,98 @@
+{
+  "original_manifest": {
+    "university_id": "adelaide-university",
+    "status": "complete",
+    "count": 324,
+    "official_total": 324,
+    "discovery_source_url": "https://adelaide.edu.au/search/",
+    "source_period": "Year as explicitly given in each public search result",
+    "scope": "Entire public degree finder filtered Study type=Degree and Level of study=Undergraduate, every bachelor degree / named major / combined degree entry",
+    "pagination_evidence": {
+      "totalMatching": 324,
+      "retrieved_rows": 324,
+      "page_starts": [
+        1,
+        101,
+        201,
+        301
+      ],
+      "all_counts_match": true
+    },
+    "filter_rules": [
+      "Funnelback endpoint and filter toggle URLs obtained from official page and public search result facets",
+      "Do not use old University of Adelaide directory after institutional merger",
+      "Filter bachelor titles; exclude certificates/diplomas/nondegree courses",
+      "Deduplicate by official degree code and explicitly reported year; retain major-specific pages and distinct delivery/admissions modes if code differs"
+    ],
+    "gaps": [
+      "Search catalogue records establish identity; future year is not inferred when absent",
+      "Named specialisations embedded within pages but not separately indexed remain subject to later structural reconciliation"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://adelaide.edu.au/etc.clientlibs/adelaideuniversity/clientlibs/clientlib-website.lc-191e35573647e71e239aa5b512c7dd0e-lc.min.js",
+      "sha256": "34354cadc690404c79e20909a2247791930bc8c5eefec0e3ac04ef6bbba108cd",
+      "bytes": 1343471,
+      "raw_file": "scratch/full-catalog/australia/adelaide-university/website-js.html",
+      "meta_file": "scratch/full-catalog/australia/adelaide-university/website-js.meta.json"
+    },
+    {
+      "url": "https://uosa-search.funnelback.squiz.cloud/s/search.html?f.Tabs%7Ctype=Degrees+%26+Courses&form=json&num_ranks=100&profile=site-search&query=%21showall&collection=uosa~sp-aem-prod&f.Study+type%7CstudyType=Degree&f.Level+of+study%7CstudyLevel=Undergraduate&start_rank=101",
+      "sha256": "13d4782c8c80c978153ba41667594f3e2aa5bf57037ee52d1e697e6296e22e4a",
+      "bytes": 597697,
+      "raw_file": "scratch/full-catalog/australia/adelaide-university/degree-ug-101.html",
+      "meta_file": "scratch/full-catalog/australia/adelaide-university/degree-ug-101.meta.json"
+    },
+    {
+      "url": "https://uosa-search.funnelback.squiz.cloud/s/search.html?f.Tabs%7Ctype=Degrees+%26+Courses&form=json&num_ranks=100&profile=site-search&query=%21showall&collection=uosa~sp-aem-prod&f.Study+type%7CstudyType=Degree&f.Level+of+study%7CstudyLevel=Undergraduate&start_rank=201",
+      "sha256": "30f893ab97ceb754aaf25b8ab5d28a0489fd7d86be572a4613918f730103c43d",
+      "bytes": 610636,
+      "raw_file": "scratch/full-catalog/australia/adelaide-university/degree-ug-201.html",
+      "meta_file": "scratch/full-catalog/australia/adelaide-university/degree-ug-201.meta.json"
+    },
+    {
+      "url": "https://adelaide.edu.au/study/",
+      "sha256": "ebed0ff8f0ae0c6255f64fdb3dd3916319093563bb6468ffdec10ae24dca32a7",
+      "bytes": 323155,
+      "raw_file": "scratch/full-catalog/australia/adelaide-university/study.html",
+      "meta_file": "scratch/full-catalog/australia/adelaide-university/study.meta.json"
+    },
+    {
+      "url": "https://uosa-search.funnelback.squiz.cloud/s/search.html?profile=site-search&collection=uosa~sp-aem-prod&form=json&query=%21showall&num_ranks=100&f.Tabs%7Ctype=Degrees%20%26%20Courses",
+      "sha256": "0fd0e473848c48e469c8969f97c05922cc0f0056cdffd36f0eccd729680e83b8",
+      "bytes": 630173,
+      "raw_file": "scratch/full-catalog/australia/adelaide-university/search-api.html",
+      "meta_file": "scratch/full-catalog/australia/adelaide-university/search-api.meta.json"
+    },
+    {
+      "url": "https://adelaide.edu.au/search/?collection=uosa~sp-aem-prod&profile=site-search&f.Tabs%7Ctype=Degrees%20%26%20Courses&query=",
+      "sha256": "c0470e4822474749e2949f3786da2df4f57309f0778fc3aa53db814d04aae590",
+      "bytes": 134413,
+      "raw_file": "scratch/full-catalog/australia/adelaide-university/search.html",
+      "meta_file": "scratch/full-catalog/australia/adelaide-university/search.meta.json"
+    },
+    {
+      "url": "https://uosa-search.funnelback.squiz.cloud/s/search.html?f.Tabs%7Ctype=Degrees+%26+Courses&form=json&num_ranks=100&profile=site-search&query=%21showall&collection=uosa~sp-aem-prod&f.Study+type%7CstudyType=Degree&f.Level+of+study%7CstudyLevel=Undergraduate",
+      "sha256": "179681e023e4f2adb67b6838a2389d901c0799d3c01348da25201f2baf1d0bf4",
+      "bytes": 601968,
+      "raw_file": "scratch/full-catalog/australia/adelaide-university/degree-ug-1.html",
+      "meta_file": "scratch/full-catalog/australia/adelaide-university/degree-ug-1.meta.json"
+    },
+    {
+      "url": "https://uosa-search.funnelback.squiz.cloud/s/search.html?f.Tabs%7Ctype=Degrees+%26+Courses&form=json&num_ranks=100&profile=site-search&query=%21showall&collection=uosa~sp-aem-prod&f.Study+type%7CstudyType=Degree&f.Level+of+study%7CstudyLevel=Undergraduate&start_rank=301",
+      "sha256": "38e5f360f1183092d365a811efba76b2ae323dbd84f994955ce1f189a119c277",
+      "bytes": 169676,
+      "raw_file": "scratch/full-catalog/australia/adelaide-university/degree-ug-301.html",
+      "meta_file": "scratch/full-catalog/australia/adelaide-university/degree-ug-301.meta.json"
+    },
+    {
+      "url": "https://adelaide.edu.au/",
+      "sha256": "e3e0e1810899804675151df7b80e7755c456ae6df1b9b4ca14962ec9fe104224",
+      "bytes": 222309,
+      "raw_file": "scratch/full-catalog/australia/adelaide-university/home.html",
+      "meta_file": "scratch/full-catalog/australia/adelaide-university/home.meta.json"
+    }
+  ]
+}

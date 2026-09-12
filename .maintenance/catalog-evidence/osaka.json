@@ -1,0 +1,220 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.osaka-u.ac.jp/en/schools/",
+    "official_total": 11,
+    "official_total_unit": "undergraduate schools; departmental major lists expanded where available",
+    "pagination_complete": false,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "school": "School of Letters",
+        "source": "https://www.let.osaka-u.ac.jp/en",
+        "raw_positions": 20,
+        "raw_page_available": true
+      },
+      {
+        "school": "School of Human Sciences",
+        "source": "https://www.hus.osaka-u.ac.jp/en/",
+        "raw_positions": 9,
+        "raw_page_available": true
+      },
+      {
+        "school": "School of Foreign Studies",
+        "source": "https://www.sfs.osaka-u.ac.jp/en/",
+        "raw_positions": 25,
+        "raw_page_available": true
+      },
+      {
+        "school": "School of Law",
+        "source": "http://www.law.osaka-u.ac.jp/en/",
+        "raw_positions": 1,
+        "raw_page_available": true
+      },
+      {
+        "school": "School of Economics",
+        "source": "https://www.econ.osaka-u.ac.jp/en/",
+        "raw_positions": 1,
+        "raw_page_available": false
+      },
+      {
+        "school": "School of Science",
+        "source": "https://www.sci.osaka-u.ac.jp/en/",
+        "raw_positions": 4,
+        "raw_page_available": true
+      },
+      {
+        "school": "Faculty of Medicine",
+        "source": "https://www.med.osaka-u.ac.jp/eng/",
+        "raw_positions": 1,
+        "raw_page_available": false
+      },
+      {
+        "school": "School of Dentistry",
+        "source": "https://global.dent.osaka-u.ac.jp/",
+        "raw_positions": 1,
+        "raw_page_available": true
+      },
+      {
+        "school": "School of Pharmaceutical Sciences",
+        "source": "https://www.phs.osaka-u.ac.jp/en/",
+        "raw_positions": 1,
+        "raw_page_available": true
+      },
+      {
+        "school": "School of Engineering",
+        "source": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/",
+        "raw_positions": 5,
+        "raw_page_available": true
+      },
+      {
+        "school": "School of Engineering Science",
+        "source": "https://www.es.osaka-u.ac.jp/en/",
+        "raw_positions": 8,
+        "raw_page_available": true
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "All 11 undergraduate schools anchored to official university directory and bachelor-award table. Medicine and Economics department pages could not be retrieved; kept explicit faculty/award groups.",
+      "Foreign Studies all 25 majors, Letters 20 majors, Science four departments, Engineering five divisions, Engineering Science four departments and Human Sciences four broad divisions plus English route collected.",
+      "Law, Medicine, Dentistry, Pharmacy and broad engineering divisions need further programme/track expansion. Research laboratories were not presented as independent bachelor degrees."
+    ],
+    "raw_artifacts": [
+      "osaka/raw/degrees.meta.json",
+      "osaka/raw/directory.meta.json",
+      "osaka/raw/engineering-departments.meta.json",
+      "osaka/raw/engineering-divisions.meta.json",
+      "osaka/raw/law-retry.meta.json",
+      "osaka/raw/school-0.meta.json",
+      "osaka/raw/school-1.meta.json",
+      "osaka/raw/school-10.meta.json",
+      "osaka/raw/school-11.meta.json",
+      "osaka/raw/school-2.meta.json",
+      "osaka/raw/school-3.meta.json",
+      "osaka/raw/school-4.meta.json",
+      "osaka/raw/school-6.meta.json",
+      "osaka/raw/school-8.meta.json",
+      "osaka/raw/school-9.meta.json"
+    ],
+    "university_id": "osaka",
+    "count": 68,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 68
+    },
+    "record_type_counts": {
+      "undergraduate_major_or_department": 68
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.phs.osaka-u.ac.jp/en/",
+      "sha256": "e195ddce74cf05e3d03f2f40be1b9429dc8791b375e3c0fecca0d20f9cb4422e",
+      "bytes": 9561,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-9.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-9.meta.json"
+    },
+    {
+      "url": "http://www.law.osaka-u.ac.jp/en/",
+      "sha256": "1c5528e4e4e98da3ceabd606218a2fa2f457d2d1983f3a41ed85bf090224060e",
+      "bytes": 3210,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-4.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-4.meta.json"
+    },
+    {
+      "url": "https://www.hus.osaka-u.ac.jp/en/",
+      "sha256": "1165297c43c76856173d337fcae26c55d859a56672b9ab5037cfa1f065445f77",
+      "bytes": 35299,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-2.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-2.meta.json"
+    },
+    {
+      "url": "https://global.dent.osaka-u.ac.jp/",
+      "sha256": "841faf2f160a09094dd36e73544e33c1d618881da6d4c61d8df68d906763a83a",
+      "bytes": 95430,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-8.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-8.meta.json"
+    },
+    {
+      "url": "https://www.eng.osaka-u.ac.jp/en/outline/message/",
+      "sha256": "1d7b870722162957008c6f175e0028b84a8120f36fc9da37695612c3de40503e",
+      "bytes": 60002,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/engineering-departments.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/engineering-departments.meta.json"
+    },
+    {
+      "url": "https://www.sfs.osaka-u.ac.jp/en/",
+      "sha256": "172f1cd1175aee950682c89eed863bfd1a7f31581e803bc7db23972ef11f0fb3",
+      "bytes": 34678,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-3.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-3.meta.json"
+    },
+    {
+      "url": "https://www.osaka-u.ac.jp/en/schools",
+      "sha256": "1040bb91a7e8dc458889c251c339684d4a5d81629ffd4e7182d107b403c1e3eb",
+      "bytes": 131479,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/directory.meta.json"
+    },
+    {
+      "url": "https://www.sci.osaka-u.ac.jp/en/",
+      "sha256": "da1a20892e6bea0ec90b410dc380589a40178b223c14ab723e321e7f9b7e9c21",
+      "bytes": 65516,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-6.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-6.meta.json"
+    },
+    {
+      "url": "https://www.es.osaka-u.ac.jp/en/",
+      "sha256": "35f9da3d589137673a00afffb6023d03f3091c54cb231f00eecc01b098af18aa",
+      "bytes": 19740,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-11.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-11.meta.json"
+    },
+    {
+      "url": "https://www.law.osaka-u.ac.jp/en/",
+      "sha256": "1c5528e4e4e98da3ceabd606218a2fa2f457d2d1983f3a41ed85bf090224060e",
+      "bytes": 3210,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/law-retry.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/law-retry.meta.json"
+    },
+    {
+      "url": "https://www.eng.osaka-u.ac.jp/en/school/ug_divisions/",
+      "sha256": "77cf845d8eb6cd0f69a7699a89fd3faabafa8a9aed65819e18bed35c55d130d1",
+      "bytes": 47264,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/engineering-divisions.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/engineering-divisions.meta.json"
+    },
+    {
+      "url": "https://www.osaka-u.ac.jp/en/schools/faculty/faculty_purpose",
+      "sha256": "0cc3ffa94ea80d236721a4d95efaf7f12a1305c1a0df17444122589a4997f86b",
+      "bytes": 115613,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-0.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-0.meta.json"
+    },
+    {
+      "url": "https://www.eng.osaka-u.ac.jp/en/",
+      "sha256": "9bb34f6bfce2721bfc736680bf97ccf84b994e8ea4645dd7845baee7112c4356",
+      "bytes": 61940,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-10.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-10.meta.json"
+    },
+    {
+      "url": "https://www.osaka-u.ac.jp/en/education/announcement/main/academic_degree",
+      "sha256": "597649c743924cc0f5b46dd33edecc06babac1aca55aa9f0d9ed7a2687e3d7fa",
+      "bytes": 157922,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/degrees.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/degrees.meta.json"
+    },
+    {
+      "url": "https://www.let.osaka-u.ac.jp/en",
+      "sha256": "bcf8446acd5bc8019971b29513fab08c004cf188ac6b6bda20a2cafed896ed02",
+      "bytes": 40762,
+      "raw_file": "scratch/full-catalog/asia/osaka/raw/school-1.html",
+      "meta_file": "scratch/full-catalog/asia/osaka/raw/school-1.meta.json"
+    }
+  ]
+}

@@ -1,0 +1,1216 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.gla.ac.uk/undergraduate/degrees/",
+    "official_total": null,
+    "official_group_count": 144,
+    "page_evidence": [
+      {
+        "directory": "single A–Z",
+        "groups": 144,
+        "detail_pages_fetched": 144,
+        "raw_degree_rows": 1208,
+        "deduplicated_by_UCAS": 718,
+        "duplicate_cross_subject_references": 490,
+        "pages_without_UCAS_table": 19,
+        "unparsed_UCAS_rows": [
+          {
+            "url": "https://www.gla.ac.uk/undergraduate/degrees/environmental-geoscience-faster-route/",
+            "text": "Environmental Geoscience (faster route): (3 years)"
+          },
+          {
+            "url": "https://www.gla.ac.uk/undergraduate/degrees/geography-faster-route/",
+            "text": "Geography (faster route): (3 years)"
+          },
+          {
+            "url": "https://www.gla.ac.uk/undergraduate/degrees/geology-faster-route/",
+            "text": "Geology (faster route): (3 years)"
+          },
+          {
+            "url": "https://www.gla.ac.uk/undergraduate/degrees/mechanical-engineering-sit/",
+            "text": "Mechanical Engineering (SIT): (0 years)"
+          }
+        ]
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": false,
+    "completeness_scope": "All 144 official A–Z subject pages read; all explicit Degrees and UCAS codes rows expanded, including joint combinations; same UCAS code across subject pages consolidated.",
+    "filter_rules": [
+      "All official A–Z courses, including partnerships abroad and graduate-entry degrees",
+      "Expand exact named programme rows with UCAS code and qualification heading; do not enumerate arbitrary subject combinations",
+      "Remove duplicate cross-references by UCAS code, preserve additional_discovery_urls"
+    ],
+    "unresolved": [
+      "Some international partner and other programme pages have no Degrees and UCAS codes table; they are retained as official entries with exact award labels, not arbitrarily split. See unresolved-groups.json.",
+      "Presence in directory does not prove every application remains open.",
+      "A–Z has 144 link positions: 142 programme/subject pages plus two subject-filter shortcuts, which are excluded. Four degree rows omit UCAS codes and are retained with page-based identifiers."
+    ],
+    "raw_artifacts": [
+      "glasgow/raw/course-000.meta.json",
+      "glasgow/raw/course-001.meta.json",
+      "glasgow/raw/course-002.meta.json",
+      "glasgow/raw/course-003.meta.json",
+      "glasgow/raw/course-004.meta.json",
+      "glasgow/raw/course-005.meta.json",
+      "glasgow/raw/course-006.meta.json",
+      "glasgow/raw/course-007.meta.json",
+      "glasgow/raw/course-008.meta.json",
+      "glasgow/raw/course-009.meta.json",
+      "glasgow/raw/course-010.meta.json",
+      "glasgow/raw/course-011.meta.json",
+      "glasgow/raw/course-012.meta.json",
+      "glasgow/raw/course-013.meta.json",
+      "glasgow/raw/course-014.meta.json",
+      "glasgow/raw/course-015.meta.json",
+      "glasgow/raw/course-016.meta.json",
+      "glasgow/raw/course-017.meta.json",
+      "glasgow/raw/course-018.meta.json",
+      "glasgow/raw/course-019.meta.json",
+      "glasgow/raw/course-020.meta.json",
+      "glasgow/raw/course-021.meta.json",
+      "glasgow/raw/course-022.meta.json",
+      "glasgow/raw/course-023.meta.json",
+      "glasgow/raw/course-024.meta.json",
+      "glasgow/raw/course-025.meta.json",
+      "glasgow/raw/course-026.meta.json",
+      "glasgow/raw/course-027.meta.json",
+      "glasgow/raw/course-028.meta.json",
+      "glasgow/raw/course-029.meta.json",
+      "glasgow/raw/course-030.meta.json",
+      "glasgow/raw/course-031.meta.json",
+      "glasgow/raw/course-032.meta.json",
+      "glasgow/raw/course-033.meta.json",
+      "glasgow/raw/course-034.meta.json",
+      "glasgow/raw/course-035.meta.json",
+      "glasgow/raw/course-036.meta.json",
+      "glasgow/raw/course-037.meta.json",
+      "glasgow/raw/course-038.meta.json",
+      "glasgow/raw/course-039.meta.json",
+      "glasgow/raw/course-040.meta.json",
+      "glasgow/raw/course-041.meta.json",
+      "glasgow/raw/course-042.meta.json",
+      "glasgow/raw/course-043.meta.json",
+      "glasgow/raw/course-044.meta.json",
+      "glasgow/raw/course-045.meta.json",
+      "glasgow/raw/course-046.meta.json",
+      "glasgow/raw/course-047.meta.json",
+      "glasgow/raw/course-048.meta.json",
+      "glasgow/raw/course-049.meta.json",
+      "glasgow/raw/course-050.meta.json",
+      "glasgow/raw/course-051.meta.json",
+      "glasgow/raw/course-052.meta.json",
+      "glasgow/raw/course-053.meta.json",
+      "glasgow/raw/course-054.meta.json",
+      "glasgow/raw/course-055.meta.json",
+      "glasgow/raw/course-056.meta.json",
+      "glasgow/raw/course-057.meta.json",
+      "glasgow/raw/course-058.meta.json",
+      "glasgow/raw/course-059.meta.json",
+      "glasgow/raw/course-060.meta.json",
+      "glasgow/raw/course-061.meta.json",
+      "glasgow/raw/course-062.meta.json",
+      "glasgow/raw/course-063.meta.json",
+      "glasgow/raw/course-064.meta.json",
+      "glasgow/raw/course-065.meta.json",
+      "glasgow/raw/course-066.meta.json",
+      "glasgow/raw/course-067.meta.json",
+      "glasgow/raw/course-068.meta.json",
+      "glasgow/raw/course-069.meta.json",
+      "glasgow/raw/course-070.meta.json",
+      "glasgow/raw/course-071.meta.json",
+      "glasgow/raw/course-072.meta.json",
+      "glasgow/raw/course-073.meta.json",
+      "glasgow/raw/course-074.meta.json",
+      "glasgow/raw/course-075.meta.json",
+      "glasgow/raw/course-076.meta.json",
+      "glasgow/raw/course-077.meta.json",
+      "glasgow/raw/course-078.meta.json",
+      "glasgow/raw/course-079.meta.json",
+      "glasgow/raw/course-080.meta.json",
+      "glasgow/raw/course-081.meta.json",
+      "glasgow/raw/course-082.meta.json",
+      "glasgow/raw/course-083.meta.json",
+      "glasgow/raw/course-084.meta.json",
+      "glasgow/raw/course-085.meta.json",
+      "glasgow/raw/course-086.meta.json",
+      "glasgow/raw/course-087.meta.json",
+      "glasgow/raw/course-088.meta.json",
+      "glasgow/raw/course-089.meta.json",
+      "glasgow/raw/course-090.meta.json",
+      "glasgow/raw/course-091.meta.json",
+      "glasgow/raw/course-092.meta.json",
+      "glasgow/raw/course-093.meta.json",
+      "glasgow/raw/course-094.meta.json",
+      "glasgow/raw/course-095.meta.json",
+      "glasgow/raw/course-096.meta.json",
+      "glasgow/raw/course-097.meta.json",
+      "glasgow/raw/course-098.meta.json",
+      "glasgow/raw/course-099.meta.json",
+      "glasgow/raw/course-100.meta.json",
+      "glasgow/raw/course-101.meta.json",
+      "glasgow/raw/course-102.meta.json",
+      "glasgow/raw/course-103.meta.json",
+      "glasgow/raw/course-104.meta.json",
+      "glasgow/raw/course-105.meta.json",
+      "glasgow/raw/course-106.meta.json",
+      "glasgow/raw/course-107.meta.json",
+      "glasgow/raw/course-108.meta.json",
+      "glasgow/raw/course-109.meta.json",
+      "glasgow/raw/course-110.meta.json",
+      "glasgow/raw/course-111.meta.json",
+      "glasgow/raw/course-112.meta.json",
+      "glasgow/raw/course-113.meta.json",
+      "glasgow/raw/course-114.meta.json",
+      "glasgow/raw/course-115.meta.json",
+      "glasgow/raw/course-116.meta.json",
+      "glasgow/raw/course-117.meta.json",
+      "glasgow/raw/course-118.meta.json",
+      "glasgow/raw/course-119.meta.json",
+      "glasgow/raw/course-120.meta.json",
+      "glasgow/raw/course-121.meta.json",
+      "glasgow/raw/course-122.meta.json",
+      "glasgow/raw/course-123.meta.json",
+      "glasgow/raw/course-124.meta.json",
+      "glasgow/raw/course-125.meta.json",
+      "glasgow/raw/course-126.meta.json",
+      "glasgow/raw/course-127.meta.json",
+      "glasgow/raw/course-128.meta.json",
+      "glasgow/raw/course-129.meta.json",
+      "glasgow/raw/course-130.meta.json",
+      "glasgow/raw/course-131.meta.json",
+      "glasgow/raw/course-132.meta.json",
+      "glasgow/raw/course-133.meta.json",
+      "glasgow/raw/course-134.meta.json",
+      "glasgow/raw/course-135.meta.json",
+      "glasgow/raw/course-136.meta.json",
+      "glasgow/raw/course-137.meta.json",
+      "glasgow/raw/course-138.meta.json",
+      "glasgow/raw/course-139.meta.json",
+      "glasgow/raw/course-140.meta.json",
+      "glasgow/raw/course-141.meta.json",
+      "glasgow/raw/course-142.meta.json",
+      "glasgow/raw/course-143.meta.json",
+      "glasgow/raw/directory-0.meta.json"
+    ],
+    "university_id": "glasgow",
+    "count": 718,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/physics-with-astrophysics-faster-route/",
+      "sha256": "8f1890626b68efbf3238ecc047257df1cb1666127f8dea612f47c7d0ee909fe2",
+      "bytes": 78410,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-112.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-112.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/eee-microelectronics-uestc/",
+      "sha256": "71eda29f41fc56b9fbd31111511ec65bcb72a9c3bcaf3ae4045952c722cfc05d",
+      "bytes": 49575,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-054.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-054.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/mathematics/",
+      "sha256": "4236ae10a0d2ab136a7b63bcde8cc02055b8b172958b1b087bda22ad37372884",
+      "bytes": 239054,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-089.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-089.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/computing-science-sit/",
+      "sha256": "f31040d5b39cfa1630cb67fe403da3bc2f641afe3c1643151d50b792dfc8a0f7",
+      "bytes": 43026,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-040.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-040.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/nursingsit/",
+      "sha256": "6293dd802b2b7c8c841fe76c96ccf0677778792b9919064321e12dc20511eb3b",
+      "bytes": 41170,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-106.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-106.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/environmentalsciencesustainability/",
+      "sha256": "2233ceb37745152d110fcebebc19b7a3a0959dd671f368a29c374f8945d87ade",
+      "bytes": 105879,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-061.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-061.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/softwareengineering/",
+      "sha256": "aa8fad28f2d476496a79fd317c44b3fbafca0c86a4a2544b209358bea9b897ea",
+      "bytes": 106894,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-127.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-127.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/sport-exercise-science/",
+      "sha256": "a1a5b8993202b322653aecd926ec47eab07f2828d959abc00c70e141e17e7838",
+      "bytes": 107148,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-133.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-133.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/greek/",
+      "sha256": "229f6ecd316e2a6e7c899cb2934cc7bea30c5f547dfa9ebfa49d15cf8aa73925",
+      "bytes": 139417,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-075.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-075.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/environmentalgeoscience/",
+      "sha256": "d17d7b97a210cdcb7c3c7aa4439b40fedae34a1f1bd04ae29535a32e6260a4d1",
+      "bytes": 106411,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-059.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-059.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/mathematics-and-statistics-zuel/",
+      "sha256": "2657eb1fa1380a05caee79428737fa4388e5f05ed985c77ab05367bb09f398cf",
+      "bytes": 59010,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-090.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-090.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/chemistrymedicinal/",
+      "sha256": "d64aa8958e38a50c974004764f06abd941378317d076a1cabada3b1f3d07e47f",
+      "bytes": 103485,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-023.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-023.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/computingscience/",
+      "sha256": "257bed84fb3a51ef55d0343ed6044772f19f7678000896c83ed686654dc4f473",
+      "bytes": 166792,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-037.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-037.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/liberal-arts/",
+      "sha256": "2fd3b2c95615755c6253f77aeafde6f9a29edb1e26ce5ddf6ed2a191e296b0cd",
+      "bytes": 109274,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-084.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-084.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/businessmanagement/",
+      "sha256": "e8c2048263214651baace0924b354dad7c71de5e46d6ea16cf111e838e41aa4e",
+      "bytes": 184222,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-016.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-016.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/humanbiology/",
+      "sha256": "c4e4a4fd59944b0a47d55ddb179115d686eaf521e94a94d674336d8d669625d3",
+      "bytes": 113098,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-078.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-078.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/accountingstatistics/",
+      "sha256": "02b0699672c659264d82303371ee032e8c859fe6e580cb76cba88a3caae86efa",
+      "bytes": 103846,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-002.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-002.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/scotslaw/",
+      "sha256": "d19f0cda7f7edd5f7c47fa6fcf1bec185ac6d70128946555a1d5f4d31fc042fe",
+      "bytes": 139331,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-121.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-121.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/gaelic/",
+      "sha256": "4780cef2405ef5d97048c8d58838f7a8b438fb02069441d97389e77cf131bf4f",
+      "bytes": 156735,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-067.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-067.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/artificial-intelligence/",
+      "sha256": "997a37bd99b510608e2a5ed25ab1f5df0cf623e05146474270f7fc29d9ff3c5e",
+      "bytes": 102867,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-009.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-009.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/german/",
+      "sha256": "078412e2ae4b0b47af73dc94cbb5ac0d902fbe6e760164b52943cb145a0c56d0",
+      "bytes": 188819,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-073.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-073.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/statistics-double-degree-with-the-university-of-bo/",
+      "sha256": "bc7ff7501a2edafb5f8b9fcc4bf7a8d47fa6ecd4dc00aa5635e9c7fce48e3489",
+      "bytes": 64768,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-135.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-135.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/civilengineering/",
+      "sha256": "9494bad854418e1db842667440866b6e889cfe39c6199820bbd955437560c7e7",
+      "bytes": 114085,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-028.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-028.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/eee-uestc/",
+      "sha256": "20148a0a6ffde4829aaaff6869bb5f5e98846efeb3ed1721ad0ce385db6739ee",
+      "bytes": 45171,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-052.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-052.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/portuguese/",
+      "sha256": "dc546167191e8b07efc7bb3fc8f8259856ea2031fde90557d2363015307a24e4",
+      "bytes": 196659,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-114.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-114.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/microbiology/",
+      "sha256": "b2233fb4885391072c93c76dba56f1bcca9118b591d923f1b14be39d88cf4dc3",
+      "bytes": 107863,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-100.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-100.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+      "sha256": "fb5e0b380131370606fcbe702a8929d3dcf841b6c30b1b44536f93c835b90ee5",
+      "bytes": 181160,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-046.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-046.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/astronomy/",
+      "sha256": "08036ef25294309b458c57a3362407e5004e138c2cbc9db7f7db6e58ea941a9b",
+      "bytes": 111469,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-010.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-010.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/aeronautical-engineering-in-partnership-tianjin/",
+      "sha256": "975797dd32962568d3c7b874dff15d47f2ea9cb92b2daa2baf3b81bf4ae8e3f6",
+      "bytes": 62275,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-004.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-004.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/veterinarymedicine/",
+      "sha256": "11eb08411e22278ace7e3fa826b0cc005aaf0ea4b721a006b6b2bd7ee37ed610",
+      "bytes": 114623,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-142.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-142.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/?subject=teaching&location=all&date=all",
+      "sha256": "db4da202b4e87f0a3243be4acd95365fe399148cd557735952425d169de53720",
+      "bytes": 81214,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-138.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-138.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/chemistry-work-placement/",
+      "sha256": "cc88a40c55ea480685cee91d17dc0aa87cc48e237519cbca6b7325770424401e",
+      "bytes": 73481,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-025.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-025.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/robotics-artificial-intelligence/",
+      "sha256": "749c8fe059c8ff4579a8f3a36e3363a2254ddf71564e3ae5fcde9188d2026296",
+      "bytes": 111749,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-119.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-119.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/mechanicalengineeringwithaeronautics/",
+      "sha256": "282df34b4bef0f891ddfb05554689245ae4934d4b8c6f212f2756197609afce3",
+      "bytes": 113220,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-096.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-096.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/latin/",
+      "sha256": "39b06c0c96652855fb2a279ff6f155ed69cf133ade0f35bf59a77d5b4849c4c6",
+      "bytes": 172183,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-082.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-082.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/classics/",
+      "sha256": "2fc13befc9731b2f6b755ada93913208e12937976bf481f04fc09c061012101f",
+      "bytes": 179467,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-031.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-031.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/pharmacology/",
+      "sha256": "e111baca434ed82e113408ab1c8afbdb452686ca76c74f8216062311692ce50d",
+      "bytes": 106113,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-107.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-107.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/materialschemistry/",
+      "sha256": "b24bb52475e034ec0a24dad1c76d6f00f573da94232ea44c79ecabac203fb821",
+      "bytes": 101574,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-088.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-088.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/creativeartsindustries/",
+      "sha256": "2f239e893d3d204ab44ea8a9276d8814b07fce80f302b198157733853daf151a",
+      "bytes": 104054,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-041.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-041.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/electronicswithmusic/",
+      "sha256": "b062577e16d696bff66c73e89b15a349e60b3deb55c7dfea45965745c43987ad",
+      "bytes": 109691,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-055.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-055.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/politics/",
+      "sha256": "ed25f982a92cc0c42866eec0d765df8f7e4e4177f969edaa83dbed5dffeb89b7",
+      "bytes": 217024,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-113.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-113.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/global-sustainable-development/",
+      "sha256": "0ee95f2268f6a082e4b708331c76b8f281b0fb96da0ee06ee0147cbd4f16521c",
+      "bytes": 89188,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-074.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-074.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/spanish/",
+      "sha256": "b3ecd904a82b8d645a8f86d297c6f6fa317a3b1b78c78015ca01a821e0f6de01",
+      "bytes": 197826,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-132.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-132.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/sociology/",
+      "sha256": "2d688ffd3490bef74bdee8b9c869a9290ed77b441e57e0c23f452ea95aa361ac",
+      "bytes": 177663,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-126.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-126.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/environmental-geoscience-faster-route/",
+      "sha256": "d4fa5a494c2e0255a0a24751efe3f986eff2faba6967d7e76dbbc28f46cac722",
+      "bytes": 69585,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-060.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-060.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/comparativeliterature/",
+      "sha256": "4624276f6a1b055792a234107feb76673fd95cf45e25dcbc4cc96f9460073ac8",
+      "bytes": 167975,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-036.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-036.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/machine-learning-mathematics-statistics/",
+      "sha256": "bce1bb398ac9396502968d267a0b105a025c6d3ee925a652e0331ac66b9897c3",
+      "bytes": 104816,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-085.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-085.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/englishliterature/",
+      "sha256": "e7480e2ece318bb5a72a6266b360872cec8c83d2f78245090b38cf3eb536a4c6",
+      "bytes": 221368,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-058.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-058.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/mathematics-faster-route/",
+      "sha256": "2d85746ec03dab26f8e2d0d69f1f5f6dc868faf1f09ed0ae9469fa9659d5d741",
+      "bytes": 95308,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-091.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-091.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/chemistry/",
+      "sha256": "cc767b9edd0def6b541bb80398862c3892bceccaa9229ce1706838337400c3c4",
+      "bytes": 111084,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-022.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-022.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/immunology/",
+      "sha256": "37e6e020ca2f1ffb8f7c68d8b97b777e4088489a75b5e564209ab97e18d91442",
+      "bytes": 109292,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-079.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-079.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/aeronauticalengineering/",
+      "sha256": "45ea357712863a6550c18cd0e8472b36217d271b0d1b059db17d10c52a17f801",
+      "bytes": 113506,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-003.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-003.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/businesseconomics/",
+      "sha256": "84836a535d4356596798875eff3c611c9f7b4d6743435198930615731a689c2a",
+      "bytes": 110933,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-017.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-017.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/archaeology/",
+      "sha256": "aa3332eebea2dfdc179386540e90b4b1cdd0a9cff2a4111ac18d36b83b5e0520",
+      "bytes": 190661,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-008.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-008.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/statistics/",
+      "sha256": "707f175c5e554292490aff70c45080d767fa70c2073c990c94e9792a8527c19f",
+      "bytes": 126133,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-134.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-134.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/geology-faster-route/",
+      "sha256": "e08da2ddeb5d94288612e812927123f0870c15b2e78f2077b220e86df290c533",
+      "bytes": 68379,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-072.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-072.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/french/",
+      "sha256": "a65406abaa409a4b0fe7c97f4ac2ccd0d0f13a0975bcd0b496c538adcc754089",
+      "bytes": 207821,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-066.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-066.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/russian/",
+      "sha256": "4e177f29f80a70783c0252c6b97c517886b7176854359638b5ab80e67245099a",
+      "bytes": 163951,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-120.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-120.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/education/",
+      "sha256": "e3410df8b33e52d5c8e2b88e0f1e4575bdeb3901d329bd42ea6a51abc9a3b489",
+      "bytes": 91469,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-047.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-047.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/molecularcellularbiology/",
+      "sha256": "7ca6b4a9f7f511f8f4e21b16afc77a21dec2a615c14e8e69647534d79fd0b0e1",
+      "bytes": 109766,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-101.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-101.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/civil-engineering-indonesia/",
+      "sha256": "43fd7ceff4518ff17dd4909ac1b26da36f9adb7d399cec8a7035289dd6a96374",
+      "bytes": 55732,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-029.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-029.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/primaryeducationtq/",
+      "sha256": "b4b00f0849b6f4ccb2821079bd453c17912d56f874d847a996dd8baa6b664f51",
+      "bytes": 102905,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-115.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-115.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/electronics-electrical-engineering-ie-uestc/",
+      "sha256": "75bcfbf4c92d4a854995c7bcf9fd5453b46f3aed3425b084679afb8c570f01cb",
+      "bytes": 49470,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-053.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-053.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/zoology/",
+      "sha256": "5117570655b7a1a1c99006fdfd9e0b7b7d6ef15046b445c2b95c24107fe3e905",
+      "bytes": 109027,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-143.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-143.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/aerospacesystems/",
+      "sha256": "103f96f37e47198f218fe145b476be16bccb85d77e67203334c21eab45e5dab2",
+      "bytes": 112388,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-005.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-005.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/theatrestudies/",
+      "sha256": "37e53506cb2251380e3b307c3461e712c3c19827e512b54a8ec682021ab0506e",
+      "bytes": 193066,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-139.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-139.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/biochemistry/",
+      "sha256": "c56f3ab81640169d1125b5a544a19a78d4276bc7f266398751f6cdff4f0f8d3c",
+      "bytes": 107168,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-011.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-011.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/?subject=law&location=all&date=all",
+      "sha256": "db4da202b4e87f0a3243be4acd95365fe399148cd557735952425d169de53720",
+      "bytes": 81214,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-083.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-083.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/civilengineeringwitharchitecture/",
+      "sha256": "7ac5525b104db54e09c4711da4b082a02f0278a1cbd1dc0f5fea5fe2f14be170",
+      "bytes": 108822,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-030.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-030.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/chemistry-with-medicinal-chemistry-work-placement/",
+      "sha256": "2dc6e5ddcb1951d99511d660f193e9f3a86b05dde18003daf934c7e738ff21ad",
+      "bytes": 74397,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-024.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-024.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/mechatronics/",
+      "sha256": "2c150c28f6c6cc9a48e505f8df8d4082f899728912339c1bf18088b3508b3706",
+      "bytes": 116309,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-097.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-097.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/quantitativemethods/",
+      "sha256": "894fa2dafcd1e4b64c71b3e70e71d3739787d0c1ee06caa3da197c8988fc0cc4",
+      "bytes": 111545,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-118.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-118.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/celticstudies/",
+      "sha256": "14181396667f646431c72e5b0f6d68e80d620bc3839ed470347efe4d5f454b7d",
+      "bytes": 151554,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-019.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-019.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/finance/",
+      "sha256": "a4fbbe385093fb73f0d32066bb735fe6ad60436c66d475bbad72c7f4e5017565",
+      "bytes": 92494,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-063.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-063.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/publicpolicy/",
+      "sha256": "8d98effab80764642af816f7624d3200739a89e5ed51825a731bd22669142c2d",
+      "bytes": 167420,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-125.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-125.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/software-engineering-in-partnership-with-upes/",
+      "sha256": "24d43de6a2cfb666418aaced305b7f405c8061f94009c2044ae4570c773dc464",
+      "bytes": 49947,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-131.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-131.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/historyofart/",
+      "sha256": "d9ee8186ba68585cbbe3e415b612d605de44b961eec28d27fee792ab4e5db946",
+      "bytes": 197307,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-077.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-077.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/physics-faster-route/",
+      "sha256": "4e9df37bb878e62ae8f42f1e545b9b02563347fefccd5866f01e3e97cb8d3b02",
+      "bytes": 82363,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-110.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-110.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/energy-engineering/",
+      "sha256": "1e7432b12ab5b0e704c50159eae02ee902b6a9d93500cb339382a07ea02c1824",
+      "bytes": 79112,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-056.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-056.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/computing-science-faster-route/",
+      "sha256": "2dc19b01167c99be1757ab64fa56a4af9d13bbcbae3bd76daec1a7cfefb303a1",
+      "bytes": 100353,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-038.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-038.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/creative-writing/",
+      "sha256": "10bd0c0a9457ece8023d6bf18c96de3b10acc2c6fac3372f00bc2f7443927fe5",
+      "bytes": 75605,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-042.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-042.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/neuroscience/",
+      "sha256": "afddc891abb4cef2165a8deb9a0db0f04ec11226a2ff7f5ee6847a0c9ad0e1fa",
+      "bytes": 106939,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-104.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-104.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/biomedical-engineering-in-partnership-with-kmitl/",
+      "sha256": "0983ca74a79d1ea3a9b3706cab053451b6e310dfe208c202f385245a9b52eb3c",
+      "bytes": 62363,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-014.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-014.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/software-engineering-faster-route/",
+      "sha256": "ee90270f16edec6e814625cd8a5f166c854eeada97f8df41c32447ae9a222f55",
+      "bytes": 106589,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-128.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-128.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/accountancy/",
+      "sha256": "06ed72ba6a700d99cbf7cc8192e45de5c3d1b1c017738e9a5eec2d4266e9d661",
+      "bytes": 111851,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-000.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-000.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/mathematicsstatistics-faster-route/",
+      "sha256": "602f379af39845475be6bad22ed1216023265afb7a698c30a4b706c689a2008c",
+      "bytes": 89598,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-092.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-092.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/chemicalphysics/",
+      "sha256": "75095bc0eee0ce3d7e2fb04c7785c8beecdca2594f7e6d4c8c1f05d06db37b7c",
+      "bytes": 102385,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-021.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-021.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/communitydevelopment/",
+      "sha256": "81cacf955987b09e5c9eb64e754b0ac3b1efe919e8a5030fb59dd6e7724350c2",
+      "bytes": 86209,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-035.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-035.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/",
+      "sha256": "db4da202b4e87f0a3243be4acd95365fe399148cd557735952425d169de53720",
+      "bytes": 81214,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/directory-0.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/physics/",
+      "sha256": "855b7ae5c62c01dcd9daa953bbff6e4f37580ac32b514ab4d0fb534827466b1e",
+      "bytes": 135566,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-109.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-109.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/marinefreshwaterbiology/",
+      "sha256": "232a7eda7ac2d0a2ec24806918dd32cbdacd45a5c36feddc97ab8d675042416d",
+      "bytes": 108548,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-086.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-086.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/medicine/",
+      "sha256": "b0aeb26a95422f2180552f22ab4247be969b3da62101757b6806d18024b34555",
+      "bytes": 98975,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-099.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-099.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/electronics-electrical-engineering-indonesia/",
+      "sha256": "5587b8bf151e9aaae26bd08325df877638a7f0a2b5a710a7b040705ee632b215",
+      "bytes": 57276,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-050.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-050.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/productdesignengineering/",
+      "sha256": "7071c9be9a15c51750f483477ae181c688c957a839ce4d4a0801931b55b60c90",
+      "bytes": 94029,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-116.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-116.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/musicma/",
+      "sha256": "7691f77b0a71f5b50b378a4b666593ae8344fb1bf288bd35ddd7f4a4537b3bb6",
+      "bytes": 201131,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-102.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-102.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/digitalmedia/",
+      "sha256": "c01a7b4fed664a13c647ad4be82d02fc48d6918a035e990c263a81d7287f9399",
+      "bytes": 181750,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-044.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-044.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/scottishhistory/",
+      "sha256": "2a74ef11fdcf27d0953be09c73cb32746d6b9a4450a35a9806c6a76c273593e1",
+      "bytes": 179262,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-123.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-123.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/financestatistics/",
+      "sha256": "a5ca7760fb2f20456e7fd7116375ff33fb48dd60d7ccc6af0baebee730ebb4c9",
+      "bytes": 98864,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-065.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-065.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/geology/",
+      "sha256": "83cab38f07641b303cc021a58d19393c561572475a9b2b49f02722b6486ef592",
+      "bytes": 101179,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-071.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-071.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/statistics-in-partnership-with-zuel/",
+      "sha256": "11607a6bdef0eb823ff55e1afd01b22d20f84d9a6e00cf33c00dacc98ef800bf",
+      "bytes": 59749,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-137.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-137.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/chinese/",
+      "sha256": "3f9149278a24c4ad9a03b6a0d735f90b9023f799586f0e34d0f6561a61865faa",
+      "bytes": 84321,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-027.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-027.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/mechanicalengineering/",
+      "sha256": "9403cf39fa83028bab6587e16e500672d4b9f493b1aa039b1991761d6d547ed0",
+      "bytes": 115612,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-094.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-094.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/electronics/",
+      "sha256": "ee3a7964516f3116715bf663316ddd4df7f5b43aa26445d95122386894adc3ff",
+      "bytes": 112808,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-049.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-049.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/internationalrelations/",
+      "sha256": "690875f114f4fe850297be31e0839ce80fbda81faeef67e23f493fa7b00e7e68",
+      "bytes": 122056,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-080.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-080.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/commonlawgraduateentry/",
+      "sha256": "2c5cfb751a4046aa2787f5960b08d1d6fb1ab9aab4225aa46b0d897c513d48f0",
+      "bytes": 84430,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-033.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-033.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/genetics/",
+      "sha256": "55d6ea87be905163a3ffb27164d9585fbf6acc4b5c211229c73f6906f7830473",
+      "bytes": 108602,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-068.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-068.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/biological-sciences/",
+      "sha256": "93c4e05bcca5bd2b3cc55fa7e93cb59e24ca2b49daa37ce1b66dccd25ee65a2c",
+      "bytes": 77019,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-012.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-012.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/anatomy/",
+      "sha256": "9b90fb89821b5665951662bd6b5c76f6dd6bfc2e47883b8322f566d91940e05b",
+      "bytes": 111919,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-006.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-006.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/theologyreligiousstudies/",
+      "sha256": "2dd7e5fec955635144eaaa528fee6dc70e7a02c70c6138c9f912abd75f37cb4e",
+      "bytes": 216766,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-140.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-140.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/history/",
+      "sha256": "dd062d97144db0519070ae1b09dd91d9033bd8bec09591807b0fcb45e259b8fd",
+      "bytes": 227582,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-076.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-076.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/software-engineering-in-partnership-with-kmitl/",
+      "sha256": "3a25b13193d02a42d0402ac4315018531bd86aa20db881893b16a1e11160cbf9",
+      "bytes": 62027,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-130.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-130.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/celticcivilisation/",
+      "sha256": "3fea31b1bf42a1d9cedb2c66d18e446f08376198ee2d45c9e3cc3fc8e93f01eb",
+      "bytes": 154071,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-018.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-018.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/scottishliterature/",
+      "sha256": "57356a339a724b9e98c1d1251ea496c491afc26ad27509bed60e48476af07b4d",
+      "bytes": 175170,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-124.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-124.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/filmtelevisionstudies/",
+      "sha256": "3526c0afd34c116773f4dd60effd7aed45f7a1f4b63b313584c4a70665baf3a5",
+      "bytes": 170007,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-062.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-062.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/computing-science-in-partnership-with-upes/",
+      "sha256": "6c8d1b33e62cb28d641dc3721e3d34f46ca5a00698b60a437f29a10d6406e3a3",
+      "bytes": 47675,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-039.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-039.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/nursing/",
+      "sha256": "c31890670b17d30b13b3c0117d4b6c2b86b66aa3a0d26068ecd55978ac156a9c",
+      "bytes": 90088,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-105.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-105.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/dentistry/",
+      "sha256": "8adb7cebe69f7f5b3d3ea183ee8f3468c33ea0d33a0d406e311aa3d1c779f252",
+      "bytes": 86874,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-043.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-043.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/englishlanguage/",
+      "sha256": "10f80fee3d60a89338f6804e8ee731948ff4a86e693b54bc742b02c52f502be0",
+      "bytes": 198232,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-057.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-057.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/physicswithastrophysics/",
+      "sha256": "057d11f0f257f90ba8913de9b9a51b6724a98b1c711393f680a1d173131f46d2",
+      "bytes": 107557,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-111.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-111.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/accountingmathematics/",
+      "sha256": "d99b438223978ef6809706ffb7b602856154fac2f9d39e47c273d0bde164ce35",
+      "bytes": 101117,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-001.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-001.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/biomedical-engineering-in-partnership-with-tianjin/",
+      "sha256": "ea8f0478b7b7a605c6330e6964ce7b681bb5368a9620d63ffeeca216d3c54aee",
+      "bytes": 59481,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-015.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-015.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/softwareengineeringgraduateapprenticeship/",
+      "sha256": "f9d32e97d2801b8d5d777573130fbea85474391098c5c407ad16995b7a98b051",
+      "bytes": 68390,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-129.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-129.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/communication-culture-technology/",
+      "sha256": "80df7308c5c471782971a50ea4ebb256d1d5fc3b28e6ba6df5a9c74d6e154709",
+      "bytes": 75064,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-034.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-034.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/materials-chemistry-work-placement/",
+      "sha256": "819f48a82115aff7a84431bd5c2f01db6e4946e4aec257550e7dedc5381614da",
+      "bytes": 73525,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-087.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-087.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/philosophy/",
+      "sha256": "65b034cd78f15ce8d300821bb343e34d53986564afe02b5517b3daa393995645",
+      "bytes": 213256,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-108.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-108.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/mechanicaldesignengineering/",
+      "sha256": "5255a418086b0e794d7d91cc8904dc78373cf85e2db7d3efc4227e33110b7367",
+      "bytes": 114986,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-093.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-093.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/centraleasteuropeanstudies/",
+      "sha256": "e9bfa67eedf31efaf723e6dad0932665bc68593262b6866e5aaa2b0551162dba",
+      "bytes": 171248,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-020.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-020.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/economicsocialhistory/",
+      "sha256": "2d418098b78ab8321ca02755a0f5c6dcb276e41eae707ec7d8a3f46062f72bd1",
+      "bytes": 159543,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-045.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-045.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/musicbmus/",
+      "sha256": "cb331cfc8b18bc151cce89b70931d362e8c33c68365977a044c76392c0e94bc2",
+      "bytes": 103063,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-103.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-103.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/psychology/",
+      "sha256": "8ec3885c4273e9e656a67dfa889766339e740c7424e19aeed1962939c9eb6f62",
+      "bytes": 201695,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-117.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-117.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/gateway-to-medical-studies/",
+      "sha256": "24334db54d63b2ce30278b0888c157e78d8f0cafd2a1cdf4d1ecabd9411e6f92",
+      "bytes": 72483,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-098.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-098.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/electronics-electrical-engineering-in-partnership/",
+      "sha256": "8a7145dfa912c80f64e37e180665f8cce4869a629086778551b328ac0df0a455",
+      "bytes": 61769,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-051.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-051.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/statistics-faster-route/",
+      "sha256": "6f8bb80b0cd765e22951bb76b5d7a4115e695d719e731e4c62707befc979519e",
+      "bytes": 91033,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-136.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-136.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/geography-faster-route/",
+      "sha256": "2fc83ed782c5e696dd3259857c1116d3c8272021b48c27d5c31657e8751f721b",
+      "bytes": 69295,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-070.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-070.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/financemathematics/",
+      "sha256": "724f5cb4a07e4cea598128b6422aabfeed530d62632272e21b7ad56e9a462515",
+      "bytes": 101260,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-064.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-064.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/scotslawgraduateentry/",
+      "sha256": "e966d5789ed12f11f35f1a5f31b2ec0f30e0483ec3989a1b22739233bca3fee0",
+      "bytes": 84576,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-122.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-122.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/electronicsoftwareengineering/",
+      "sha256": "df0cb05cca94fb06ec051ec39d94356cf0cf0d4eadc91a4da86aa50670305a85",
+      "bytes": 116157,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-048.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-048.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/italian/",
+      "sha256": "a8efae0c80d3b4ca8761a2e5cae842e96b2fdc2ce9db5bc4d86c8926e6d5fa40",
+      "bytes": 172310,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-081.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-081.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/commonlaw/",
+      "sha256": "dd6931a77fea7647253e7b31de33da2a144efb4fd669c919258cf7e464f0a0f2",
+      "bytes": 137952,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-032.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-032.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/childhoodpractice/",
+      "sha256": "e027316270453251e35d753d84a28f126eb655307fb3e756c7171903070f5686",
+      "bytes": 78575,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-026.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-026.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/mechanical-engineering-sit/",
+      "sha256": "b9848c027bb529b8d40b4c71abc2ed9499c0acb1d6815180e636dae531ed3023",
+      "bytes": 46017,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-095.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-095.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/veterinarybiosciences/",
+      "sha256": "65d3ed905b30655d2bc7c64a8f85c2b2137671f9dd7e14f22b2da5403e501a8e",
+      "bytes": 96045,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-141.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-141.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/ancienthistory/",
+      "sha256": "37c64714a2af3250e3566f1096eef1a11a357adbba26b0ba3906ec390fb6bdf1",
+      "bytes": 133092,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-007.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-007.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/geography/",
+      "sha256": "40f6cf335477ce15dfd404f9b4b75c5032609db6cc42f75abbb49a6e12810e3f",
+      "bytes": 204911,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-069.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-069.meta.json"
+    },
+    {
+      "url": "https://www.gla.ac.uk/undergraduate/degrees/biomedicalengineering/",
+      "sha256": "8dbee7339f6ec770320cc56ece6fc5bccd7e3d7f956ea838b8d588c4a7799e1e",
+      "bytes": 122545,
+      "raw_file": "scratch/full-catalog/uk/glasgow/raw/course-013.html",
+      "meta_file": "scratch/full-catalog/uk/glasgow/raw/course-013.meta.json"
+    }
+  ]
+}

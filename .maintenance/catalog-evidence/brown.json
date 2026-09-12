@@ -1,0 +1,661 @@
+{
+  "original_manifest": {
+    "university_id": "brown",
+    "checked_at": "2026-09-12",
+    "final_count": 107,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "Brown undergraduate College concentrations; every AB/ScB variant explicitly shown",
+    "directory_urls": [
+      "https://bulletin.brown.edu/the-college/concentrations/",
+      "https://www.brown.edu/undergraduate-programs"
+    ],
+    "official_published_count": "88 named concentrations in 2026-27 Bulletin",
+    "page_coverage": {
+      "pages": 90,
+      "bulletin_concentrations": 88,
+      "detail_pages_read": 88,
+      "finder_cards": 97,
+      "pagination": "Complete single-page Bulletin concentration index and all 88 linked pages; complete finder cards (no subsequent pages)"
+    },
+    "filter_rules": "Current Bulletin 88 concentrations control scope; split all A.B. and Sc.B. labels from official finder, and read new Computational Chemistry degree from current Bulletin. Exclude certificates and 4 finder entries absent from current Bulletin.",
+    "excluded_count": 10,
+    "can_prove_complete": true,
+    "completeness_basis": "All 88 current Bulletin concentrations reconciled to explicit award variants.",
+    "gaps": [
+      "Four older/general-finder concentrations not in current Bulletin are documented in exclusions; their historical availability is not asserted.",
+      "Flexible multiple-concentration and Brown/RISD/PLME admission routes do not generate Cartesian-product fabricated majors."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/rels/",
+      "sha256": "ccef24ec3dde37dfdcba802489d5ba72a832c6d77b32d2a76aecd9c1d0f3ba27",
+      "bytes": 19668,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-9640c5ced1b6.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-9640c5ced1b6.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/iapa/",
+      "sha256": "edfc7394564aa1fa3ddf3401a66436121c8d1c14dde59b643b1d49bdbb89a29f",
+      "bytes": 51697,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-ce6a7bafd3bb.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-ce6a7bafd3bb.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/enph/",
+      "sha256": "c3d86e5798f44e1c1c795950052096e846e6ded3462bbdad9396c65cd27a7d66",
+      "bytes": 27208,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-1030553aef0d.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-1030553aef0d.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/engl/",
+      "sha256": "8e4836050d38ad0f4f60069a3d5a1aabbd5cdd270b3cc9dd30a8453b70e5e6ee",
+      "bytes": 69836,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-325c4a69c27b.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-325c4a69c27b.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/bds/",
+      "sha256": "5f1844c7fb6d7ac8b698de6101617f08320f7bf205386aae675cd6a225b4eb6b",
+      "bytes": 36657,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-67a3cb33fcb5.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-67a3cb33fcb5.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/pols/",
+      "sha256": "b421fc6dc5b786afd16445594957c753dc1757316e1c9613010a3cb5cafc0c08",
+      "bytes": 19907,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-c3860bac0e9e.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-c3860bac0e9e.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/neur/",
+      "sha256": "60fa313f64285b29a28e14ba42fd4b695f772f42fb3a8000b4e76cae5c04a5ed",
+      "bytes": 50258,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-c9dd2c6d4c5c.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-c9dd2c6d4c5c.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/eveg/",
+      "sha256": "0aa782467defaee964bd56d64302d2596a03874c93546680f035ae45a48cbf63",
+      "bytes": 49538,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-3c46bf0de3d2.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-3c46bf0de3d2.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/biol/",
+      "sha256": "9acd64dabebb9437161395b3969a73f147dd446260ef4821d4ea479a31dcccb3",
+      "bytes": 81373,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-21fe369c5992.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-21fe369c5992.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/csec/",
+      "sha256": "df4042bfbaa8e88f5771e2aff511545c5850af71d2f7d0d2d1fa094f07b0df30",
+      "bytes": 52006,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-be8cb76941b8.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-be8cb76941b8.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/phys/",
+      "sha256": "a9cb0975977009e68979ae334496f80b392406a06e832dc77d86967694d58be0",
+      "bytes": 67169,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-3e8faa4f52a8.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-3e8faa4f52a8.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/musc/",
+      "sha256": "9afd544eb79be20a1e02e0ddc8a83597f8a12e3be6064ad42ac95e25d58008f9",
+      "bytes": 24295,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-524a69126943.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-524a69126943.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/dese/",
+      "sha256": "60e1a5f5f7800255e65564492cf1729ab0f9c4219b6e1f8c939c0295f91ac89d",
+      "bytes": 42901,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-6835ec07e8e5.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-6835ec07e8e5.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/enbi/",
+      "sha256": "f19341ef849c449627bbbd5db2d681f9a96580776c732703daddd31c9eca739a",
+      "bytes": 35249,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-10bc8121e016.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-10bc8121e016.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/east/",
+      "sha256": "b9ab3b92e7d89eb424370e24dc6bf2dd409f9f880f335993fe2000a6dd92d86b",
+      "bytes": 36149,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-08a45964676f.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-08a45964676f.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ecb/",
+      "sha256": "6dedb89e92f3b72204bd7a43ef71bd67e1e3e4afedbf61bcf09080ed7418807c",
+      "bytes": 37019,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-6865ee7d8fb2.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-6865ee7d8fb2.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/comp/",
+      "sha256": "0fe304df206e4d56957c4d92ff295853d4754158647a1bba250465d868b2be2c",
+      "bytes": 41299,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-d2e2a7bf7181.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-d2e2a7bf7181.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cccp/",
+      "sha256": "c58786c138e1d25b58d3d44cf39d8c56846910efd688c4ef7a4739bac48a7c9e",
+      "bytes": 25037,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-3586048f0c53.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-3586048f0c53.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/envs/",
+      "sha256": "7ff34117f59f57c92ca20cfcaab7d8b3cfdbabfba07a1268e44fcbab4922b455",
+      "bytes": 156051,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-1c5bdd0ebc8c.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-1c5bdd0ebc8c.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/eleg/",
+      "sha256": "14351dd830d3601fbcefc0e8d294515f8b5e7ef721c271ac5096ad4eaaf1de03",
+      "bytes": 56748,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-c409da390fa9.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-c409da390fa9.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/egya/",
+      "sha256": "1117df2fa19281a61d3716edffb5150c0859708e638d85d0dfeb37601b2a3d17",
+      "bytes": 50254,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-b238546b9fee.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-b238546b9fee.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/sar/",
+      "sha256": "7770144918b2c47801df34e86aef9f97a9ddc82208f993bfb4cc5f8aef52b3b6",
+      "bytes": 38723,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-4799f4c8b8b9.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-4799f4c8b8b9.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/stat/",
+      "sha256": "18813c32bd9270dca481f53f4dc1f5e6acb5fa0f5f79e28ecf2526619216320b",
+      "bytes": 39698,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-75e3ff16e9f6.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-75e3ff16e9f6.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/econ/",
+      "sha256": "bb3fe1b9d1bce28fc3bc3eb2f6c287a1d9793176263343399f31e999b951f5c3",
+      "bytes": 55209,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-f44b513fbd71.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-f44b513fbd71.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/macs/",
+      "sha256": "57ea81a57cabf71155246e69159627ebcbf4b0625d5fbd671d96a2afec784846",
+      "bytes": 23326,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-c1a98e52136f.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-c1a98e52136f.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/biop/",
+      "sha256": "3e80dc971571ba5834f3c0f0058ce1d8dd838f95b62db66779e7822125794f16",
+      "bytes": 19852,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-3f0cbabdefa6.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-3f0cbabdefa6.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/apmc/",
+      "sha256": "9b978e09f3fff13a1fef9fbf479d5e69f07c877e134cf6cca4ee4f97c6f565ed",
+      "bytes": 45340,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-fb54ad19b1d1.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-fb54ad19b1d1.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/afri/",
+      "sha256": "f3ca09de9a47bd4ac8e3c3e5c6dde97cf5ab0ea6aa840663273bdda2335f77a8",
+      "bytes": 17648,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-8366fc3dae28.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-8366fc3dae28.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/engn/",
+      "sha256": "6085781a5c639a0d02a6e86ef1ff941448e8897f9e0af679a56071bc2c645c90",
+      "bytes": 39504,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-c3b0e3b294d2.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-c3b0e3b294d2.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/astr/",
+      "sha256": "e383a177c4af836f6e8a669e320ad7bf24cc9cff8b3c33cc07ee5072860677da",
+      "bytes": 22861,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-3be71a57d34f.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-3be71a57d34f.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/anth/",
+      "sha256": "0c4feb3b850a42a0a0fe146f68c747872d59bfb591aaaa2a24d03e4f1e93ec46",
+      "bytes": 56882,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-94187504c58e.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-94187504c58e.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/math/",
+      "sha256": "6857b2ca3fdb658602c2c54c37d05273700d710cca28450cd65b411a7437dbd1",
+      "bytes": 26284,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-0ddd49164d25.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-0ddd49164d25.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mcmd/",
+      "sha256": "2bd7495304777fce8094c0dec8519d71cd139b390705fb7514abf7f87db144b3",
+      "bytes": 25811,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-4e585190f0d7.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-4e585190f0d7.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ctmp/",
+      "sha256": "2266adb6c0b7f7f38c6de467291b206f32b441e549d830782af79656beecf1dc",
+      "bytes": 47868,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-420c0068b54c.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-420c0068b54c.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/bchm/",
+      "sha256": "d883d06ca12f0d408081f4fa9ad3a8592a1d4c25db373c0aab3160c735e3e024",
+      "bytes": 67840,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-b6e660e9713c.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-b6e660e9713c.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ital/",
+      "sha256": "f3d584d40b7b474d91b00634fe9448abad032c6d0f931344268b8c5e3754dbc9",
+      "bytes": 33212,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-54cc6c5994e5.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-54cc6c5994e5.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/colt/",
+      "sha256": "62f82ed352ab79f00835c4f3f7d9e6eb85a181590d7b07cde79245df2cfbba0f",
+      "bytes": 98762,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-62682640e14c.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-62682640e14c.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/juds/",
+      "sha256": "3b06d5a8b3d22e9d3baa0b6dc21aff0d8a8a204e770ac35618c0e822faf45ed3",
+      "bytes": 20043,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-ec43370c201a.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-ec43370c201a.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/clas/",
+      "sha256": "efd1335217b95252d918f409e870641d0eb28b293ac80dc5a83f5724a599d23c",
+      "bytes": 113142,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-3d3aa3a8ee01.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-3d3aa3a8ee01.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/phil/",
+      "sha256": "fb07fc8265294f91e0e8da97eaa3437836928371430898ba9552e02883f1ee74",
+      "bytes": 22186,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-56b500067736.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-56b500067736.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/urbn/",
+      "sha256": "ddacbc7e6587e501a5a44343126504d229fcd8f41221b5a079068a17988722d0",
+      "bytes": 49886,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-4d3a62cbb15b.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-4d3a62cbb15b.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/hiaa/",
+      "sha256": "663643a70efe76861876401a38647c484d3e39506b755b56555d3cf95e6c2284",
+      "bytes": 45760,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-d513fc58477c.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-d513fc58477c.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/csbi/",
+      "sha256": "037c4be5e617061763bd1c7eae7a51275d749ee5c85df50040f2f83291739dd9",
+      "bytes": 72665,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-a6a0e32014a0.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-a6a0e32014a0.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/hist/",
+      "sha256": "5853f5cc205cd0f13dd336a7f6590b848549eb33f6f3469fa7e5a1b0f36c896f",
+      "bytes": 107086,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-a18532165d55.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-a18532165d55.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/lita/",
+      "sha256": "54d2f46d8bc327b4629bb805bad86b6c3613cdd03fbdb7b2894cf2bf815678df",
+      "bytes": 17936,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-4376ff81ea60.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-4376ff81ea60.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/apme/",
+      "sha256": "acb10aaf3eb3c3793af9b9293275d6389624ee94f51dfd6f9144dbc5b28dde95",
+      "bytes": 120739,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-0da51cf84f67.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-0da51cf84f67.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/coeg/",
+      "sha256": "bc071817b885f69c5884355b8a4bb3098d57077b705f5d108c4728bce2fc2f32",
+      "bytes": 68909,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-4f66fe1107a1.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-4f66fe1107a1.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ling/",
+      "sha256": "8fc6cc460102a265f404c6ac18c63058aebeeaf7646fd0cf9b8567aa7be8bed2",
+      "bytes": 52489,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-54b0465d891e.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-54b0465d891e.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/educ/",
+      "sha256": "b850c808191dcfda35b4b77601c23ad1efe1f261e9dc5654810160db2f0dc77d",
+      "bytes": 25917,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-52480c8c1c73.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-52480c8c1c73.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/aran/",
+      "sha256": "5ec4321de2d283066e23db6ddcc2884f28347c4c2ee80b07942b5edaf8ea8084",
+      "bytes": 42561,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-22b2613038ee.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-22b2613038ee.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/maeg/",
+      "sha256": "14b3195ecbd2d904934a288f27e26e1ff45e4d09f2e74e96adde2cb879984d5d",
+      "bytes": 48238,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-f4aa3da4c2fe.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-f4aa3da4c2fe.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/ffs/",
+      "sha256": "18ee665e32f4d7756a2293574bddd1f53c1595b08801e6d152a7ba1b7b37ac47",
+      "bytes": 34387,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-d56f0aeed4c6.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-d56f0aeed4c6.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/gmst/",
+      "sha256": "c82b33741a89064be2b1f59bd00b8788e7e248c103fd9a147471f6cfefa4244d",
+      "bytes": 44527,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-c43bc259903e.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-c43bc259903e.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mdvc/",
+      "sha256": "25e6b33675a79b2f4e579fa755df9b5aacc7e6a01e1e1381c0a5fb714d1504ec",
+      "bytes": 48363,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-906004c5bfc2.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-906004c5bfc2.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/chph/",
+      "sha256": "884a9c348fbf6c1d8e35e63c28fda455a80b33e3e19fb9bd14369fa358b90e90",
+      "bytes": 19990,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-353320d3c361.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-353320d3c361.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cogn/",
+      "sha256": "2d5ed7385cffb896a328760a20ef8847e8591b886d331784e89bac0d6f007c24",
+      "bytes": 46757,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-f4f8065e7a10.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-f4f8065e7a10.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/pubh/",
+      "sha256": "8c11f2b91d6e3dfcf78d5dd937041f209183719dcfb7d65bd5c9a57d235bb507",
+      "bytes": 44321,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-bd894f02ebbd.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-bd894f02ebbd.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/hslc/",
+      "sha256": "e0c9ac6781b148270cdf3982946e4ceaf92624c15c84ae6bf8335015a5474e2c",
+      "bytes": 28421,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-85a6bffb75bf.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-85a6bffb75bf.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cneu/",
+      "sha256": "3e7a958514aa276b44233317f98bc58d6913fec27dc2377c69db047cd89f414e",
+      "bytes": 40824,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-84a1b44c4254.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-84a1b44c4254.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/arct/",
+      "sha256": "64e222ab12c24cf30f5a6a1ba50ad5e797bdde81e177d6d78197436e6b1f26a7",
+      "bytes": 40272,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-696e4508c409.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-696e4508c409.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/eps/",
+      "sha256": "75b53b1720be8a754c6899c49fcbbb0ff2ca8018e68874179495e457daf353ef",
+      "bytes": 28215,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-923940ca6969.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-923940ca6969.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/sast/",
+      "sha256": "f3aa9093cd5fbf6057f1fb6eb002beb578451ddb58d08326afff811804a6190d",
+      "bytes": 36361,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-90d3edc1002d.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-90d3edc1002d.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/visa/",
+      "sha256": "b5ad3b6d3758b99d1a8414d4c5c1b09f911fb19945d467404442ffbaa40f192b",
+      "bytes": 17266,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-33659d6cb3f4.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-33659d6cb3f4.source.json"
+    },
+    {
+      "url": "https://www.brown.edu/undergraduate-programs",
+      "sha256": "87bc83d9912f55d76891ecc2584879ed07d53af9affaf8d614a96a2a1d81d321",
+      "bytes": 416065,
+      "raw_file": "scratch/full-catalog/us-b/brown/finder.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/finder.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/gcec/",
+      "sha256": "06b0743f1edc39ebb5233dfc5fc72197638e87714aa383844861ff74c0bc037d",
+      "bytes": 32715,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-823d93194737.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-823d93194737.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/sts/",
+      "sha256": "3a14c0a443188745de501faadcdddde3ccadf97349899220966dd5c514c94c97",
+      "bytes": 16002,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-fd890c266dbf.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-fd890c266dbf.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/indp/",
+      "sha256": "3b9ad4d5158bfde1a06915da01ec63a9965c47218d998b471a1ef824d06c8f08",
+      "bytes": 12103,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-c30e8acba385.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-c30e8acba385.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mtec/",
+      "sha256": "021de11d5fe0c4ecd3659c5cdc20dc4030bed61359b8c1492efcc1b8d74429fb",
+      "bytes": 33138,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-d72e8926be40.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-d72e8926be40.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cheg/",
+      "sha256": "b910d2e17a293ad0663b9a0c566ca8147ab5da42390b8fe7a1f2326bc9dbe4c0",
+      "bytes": 42076,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-ffae53814140.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-ffae53814140.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/apma/",
+      "sha256": "4c6e335592d7a3571ec36e887c78e0598ed7463e58c1c89afdeac86759de011c",
+      "bytes": 59881,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-0215e8ed3d55.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-0215e8ed3d55.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/cogs/",
+      "sha256": "a0ce892ce37fe18115c08122275599f5e71ea68ea075a03c730981d2afad5cc8",
+      "bytes": 47387,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-333e879645b4.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-333e879645b4.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/lacs/",
+      "sha256": "39f1586a7721160d2cb07c30b29b6246a8a2c48e55b79d257605edaf2f1ae04e",
+      "bytes": 27753,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-5fae5b94494e.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-5fae5b94494e.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/apmb/",
+      "sha256": "28a0737cca1436d3180fac230a37af43006b20ff12389bf507d5fc3222484865",
+      "bytes": 42065,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-af4a30dfa087.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-af4a30dfa087.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/nais/",
+      "sha256": "cb5f461563e184b521ccbcf5810db45c0d5781943f3ee54e7416e6730581150d",
+      "bytes": 21597,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-e6a1ddf286e8.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-e6a1ddf286e8.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/pobr/",
+      "sha256": "e8f0c0a82273882771e99c203f2cd4cf0027c6518eab358df02a0f84c9fb2507",
+      "bytes": 15302,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-8ae5704b5d26.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-8ae5704b5d26.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/psyc/",
+      "sha256": "5b649462da5c45b5fc36906fb6e0584334aa2dc5da95236b815472fc89a80ad1",
+      "bytes": 36123,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-a40a790f2ffc.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-a40a790f2ffc.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/",
+      "sha256": "8122ae072bb3040e1c1e3b5f59e8cd08b675933206d832ce93736aa8871d701c",
+      "bytes": 17653,
+      "raw_file": "scratch/full-catalog/us-b/brown/index.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/index.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/emow/",
+      "sha256": "8d0e2e7902881613782c4ec6c82646e9fe3992055d748a372774de94b1b03ad8",
+      "bytes": 32180,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-ff3a6ccc1e45.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-ff3a6ccc1e45.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mceg/",
+      "sha256": "d9285b8e520911a11b3112e5eb41e70502b237700bfe9c5de93dfbe2217a838c",
+      "bytes": 52607,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-cf79f0e928c2.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-cf79f0e928c2.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/amst/",
+      "sha256": "1955c2734999fa486b9ce1fd40c10e1092fb806bc8a99f834f9b19293a52a7ec",
+      "bytes": 16079,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-fee1fa4d8884.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-fee1fa4d8884.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/slav/",
+      "sha256": "9ae6338da4592426d69ec2248d35be827ec9a7caa24c3fcb9e6ce96c13727e87",
+      "bytes": 28352,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-4613983abf54.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-4613983abf54.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/gnss/",
+      "sha256": "449fa4b5632f219a4731cfc390b11cee72e66d229d09ee9eed24f09eb441f2ed",
+      "bytes": 14021,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-c3d6045a19f1.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-c3d6045a19f1.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/mide/",
+      "sha256": "17c890f20a61b053ea6402278a047272b5acc6ad27050344f9537a7ffb791b66",
+      "bytes": 55060,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-597796b556b8.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-597796b556b8.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/hhbi/",
+      "sha256": "4a58d462f441240cd80aa0af1995002e1df820c913f1d12217ed04a19c229c90",
+      "bytes": 26417,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-3899a45ad56f.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-3899a45ad56f.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/taps/",
+      "sha256": "ac28bc016d39c32ab85ab288aab1bd3482748a80a5a1da02d0e3fd31462c5d91",
+      "bytes": 42948,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-26724348b25b.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-26724348b25b.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/phph/",
+      "sha256": "20f118d12de0ee8bfc58c3626e92c9a1f27eaf51d136ac9e16e196b08c43363e",
+      "bytes": 29651,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-89561c6beaf9.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-89561c6beaf9.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/soc/",
+      "sha256": "2a58ce1bd0a8e65826c35c2d716bafc9ab915bde737e6ef502f9e0a8d3ab4aab",
+      "bytes": 32129,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-a444c459b3d5.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-a444c459b3d5.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/eths/",
+      "sha256": "2176e9b8c8a598a4255b9e10f30f67706848070f3cfc328e58aeb3936ad6ed79",
+      "bytes": 16091,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-cbfded1a62f0.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-cbfded1a62f0.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/chem/",
+      "sha256": "66fb9968567f0f284de5c9053e95d6c875a4124cce6845e87ff24a487f33a2b5",
+      "bytes": 46470,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-f7597ba259a9.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-f7597ba259a9.source.json"
+    },
+    {
+      "url": "https://bulletin.brown.edu/the-college/concentrations/gpcp/",
+      "sha256": "8d17ff75be812d5d1a9507f597e7834733326160907f6444f4c14104f4a8da11",
+      "bytes": 44476,
+      "raw_file": "scratch/full-catalog/us-b/brown/detail-cc33084f0168.html",
+      "meta_file": "scratch/full-catalog/us-b/brown/detail-cc33084f0168.source.json"
+    }
+  ]
+}

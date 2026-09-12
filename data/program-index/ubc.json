@@ -1,0 +1,3179 @@
+{
+  "university_id": "ubc",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "partial",
+    "count": 192,
+    "scope": "UBC本科招生目录Vancouver/Okanagan全部本科专业及目录列出的本科后专业学位；同页多个学位暂按官方专业页面为一条。",
+    "method": "网页完整programsListData公开JSON含197项，按degrees字段过滤并保留官方专业ID；不按页面首屏计数。",
+    "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
+    "sources": [
+      {
+        "url": "https://you.ubc.ca/programs/",
+        "sha256": "948b180a8b6d899414df45932b166b4c5c9aaad447c2f57a632f25923bdc9b2d",
+        "raw_file": "scratch/full-catalog/root/ubc.html",
+        "bytes": 1592754
+      }
+    ],
+    "gaps": [
+      "需把同一专业页面下的不同学位/校区逐项拆开；本科后专业学位尚需核对层次和申请身份。"
+    ]
+  },
+  "programs": [
+    {
+      "name_en": "Ancient Mediterranean and Near Eastern Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/ancient-mediterranean-near-eastern-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "149486",
+      "official_topics": [
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-ancient-mediterranean-and-near-eastern-studies-80d8fca3c1"
+    },
+    {
+      "name_en": "Anthropology",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/anthropology-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "552361",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-anthropology-fd513109b8"
+    },
+    {
+      "name_en": "Anthropology",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/anthropology-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "543",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-anthropology-12c3f4a1b4"
+    },
+    {
+      "name_en": "Applied Animal Biology",
+      "degree_label": "Bachelor of Science in Applied Biology",
+      "official_url": "https://you.ubc.ca/programs/applied-animal-biology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "545",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-applied-animal-biology-14da95b660"
+    },
+    {
+      "name_en": "Archaeology",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/archaeology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "539",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-archaeology-22550f6636"
+    },
+    {
+      "name_en": "Architecture, Landscape Architecture, and Urbanism",
+      "degree_label": "Bachelor of Design in Architecture, Landscape Architecture, and Urbanism",
+      "official_url": "https://you.ubc.ca/programs/architecture-landscape-architecture-and-urbanism/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "549241",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-architecture-landscape-architecture-and-urbanism-ab6d177efb"
+    },
+    {
+      "name_en": "Art History",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/art-history/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "557",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-art-history-d4d7a7e94f"
+    },
+    {
+      "name_en": "Art History and Visual Culture",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/art-history-visual-culture/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "555",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-art-history-and-visual-culture-b9b6ca738f"
+    },
+    {
+      "name_en": "Asian Area Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/asian-area-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "552362",
+      "official_topics": [
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-asian-area-studies-2a3616967f"
+    },
+    {
+      "name_en": "Asian Language and Culture",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/asian-language-culture/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "561",
+      "official_topics": [
+        "languages-and-linguistics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-asian-language-and-culture-0b2280a108"
+    },
+    {
+      "name_en": "Astronomy",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/astronomy/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "552202",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-astronomy-1e71ab8933"
+    },
+    {
+      "name_en": "Atmospheric Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/atmospheric-science/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "565",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-atmospheric-science-d7b8acf37a"
+    },
+    {
+      "name_en": "Bachelor + Master of Management Dual Degree",
+      "degree_label": "Bachelor of Applied Science (Engineering) / Bachelor of Arts / Bachelor of Commerce / Bachelor of Fine Arts / Bachelor of Health and Exercise Sciences (Kinesiology) / Bachelor of Media Studies / Bachelor of Science / Master of Management",
+      "official_url": "https://you.ubc.ca/programs/master-management-dual-degree-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "567446",
+      "official_topics": [
+        "business-and-economics"
+      ],
+      "id": "ubc-bachelor-master-of-management-dual-degree-395bfd99fa"
+    },
+    {
+      "name_en": "Bachelor + Master of Management Dual Degree",
+      "degree_label": "Bachelor of Arts / Bachelor of Fine Arts / Bachelor of Kinesiology / Bachelor of Media Studies / Bachelor of Music / Bachelor of Science / Bachelor of Science in Applied Biology / Bachelor of Science in Food and Resource Economics / Bachelor of Science in Food, Nutrition, and Health / Bachelor of Science in Global Resource Systems / Bachelor of Science in Wood Products Processing / Master of Management",
+      "official_url": "https://you.ubc.ca/programs/master-management-dual-degree/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "144977",
+      "official_topics": [
+        "business-and-economics"
+      ],
+      "id": "ubc-bachelor-master-of-management-dual-degree-1a6d8f3bca"
+    },
+    {
+      "name_en": "Biochemistry",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/biochemistry/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "571",
+      "official_topics": [
+        "health-and-life-sciences",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-biochemistry-08fff198c7"
+    },
+    {
+      "name_en": "Biochemistry and Molecular Biology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/biochemistry-molecular-biology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "569",
+      "official_topics": [
+        "health-and-life-sciences",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-biochemistry-and-molecular-biology-94246d0427"
+    },
+    {
+      "name_en": "Bioeconomy Sciences and Technology",
+      "degree_label": "Bachelor of Science in Natural Resources",
+      "official_url": "https://you.ubc.ca/programs/bioeconomy-sciences-technology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "560275",
+      "official_topics": [
+        "business-and-economics",
+        "earth-environment-and-sustainability",
+        "engineering-and-technology",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-bioeconomy-sciences-and-technology-544397d919"
+    },
+    {
+      "name_en": "Biology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/biology-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "573",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-biology-9bbed50c78"
+    },
+    {
+      "name_en": "Biology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/biology-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "575",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-biology-dee4db0286"
+    },
+    {
+      "name_en": "Biomedical Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/biomedical-engineering/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "560541",
+      "official_topics": [
+        "engineering-and-technology",
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-biomedical-engineering-d63fdd7c3e"
+    },
+    {
+      "name_en": "Biophysics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/biophysics/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "577",
+      "official_topics": [
+        "health-and-life-sciences",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-biophysics-662b80aac9"
+    },
+    {
+      "name_en": "Biotechnology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/biotechnology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "579",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-biotechnology-be29f993cc"
+    },
+    {
+      "name_en": "Business and Computer Science",
+      "degree_label": "Bachelor of Commerce",
+      "official_url": "https://you.ubc.ca/programs/business-computer-science/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "581",
+      "official_topics": [
+        "business-and-economics"
+      ],
+      "id": "ubc-business-and-computer-science-24f6afb8f5"
+    },
+    {
+      "name_en": "Business and Markets",
+      "degree_label": "Bachelor of Science in Food and Resource Economics",
+      "official_url": "https://you.ubc.ca/programs/business-and-markets/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "570973",
+      "official_topics": [
+        "business-and-economics",
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-business-and-markets-49cd8096d9"
+    },
+    {
+      "name_en": "Canadian Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/canadian-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "589",
+      "official_topics": [
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-canadian-studies-32157837ae"
+    },
+    {
+      "name_en": "Cellular, Anatomical, and Physiological Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/cellular-anatomical-physiological-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "945",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-cellular-anatomical-and-physiological-sciences-277d8d788f"
+    },
+    {
+      "name_en": "Chemical and Biological Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/chemical-biological-engineering/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "593",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-chemical-and-biological-engineering-a065e08604"
+    },
+    {
+      "name_en": "Chemical Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/chemical-engineering/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "83801",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-chemical-engineering-96f60406ae"
+    },
+    {
+      "name_en": "Chemistry",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/chemistry-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "595",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-chemistry-cf52b63024"
+    },
+    {
+      "name_en": "Chemistry",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/chemistry-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "597",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-chemistry-e288e2ee28"
+    },
+    {
+      "name_en": "Cinema Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/cinema-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "693",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-cinema-studies-ac90eeaf49"
+    },
+    {
+      "name_en": "Civil Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/civil-engineering-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "599",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-civil-engineering-c312a0f6cb"
+    },
+    {
+      "name_en": "Civil Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/civil-engineering-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "601",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-civil-engineering-256ce380dd"
+    },
+    {
+      "name_en": "Cognitive Systems (BA)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/cognitive-systems-ba/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "607",
+      "official_topics": [
+        "languages-and-linguistics"
+      ],
+      "id": "ubc-cognitive-systems-ba-e3d3561d38"
+    },
+    {
+      "name_en": "Cognitive Systems (BSc)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/cognitive-systems-bsc/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "609",
+      "official_topics": [
+        "engineering-and-technology",
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-cognitive-systems-bsc-b0cc1137ab"
+    },
+    {
+      "name_en": "Combined Major in Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/science-combined-major/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "979",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-combined-major-in-science-669d7aca5d"
+    },
+    {
+      "name_en": "Combined Majors in Statistics",
+      "degree_label": "Bachelor of Arts / Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/statistics-combined-majors/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "161502",
+      "official_topics": [
+        "business-and-economics",
+        "engineering-and-technology",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-combined-majors-in-statistics-86d167c371"
+    },
+    {
+      "name_en": "Commerce",
+      "degree_label": "Bachelor of Commerce",
+      "official_url": "https://you.ubc.ca/programs/commerce-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "827",
+      "official_topics": [
+        "business-and-economics"
+      ],
+      "id": "ubc-commerce-4df2f72374"
+    },
+    {
+      "name_en": "Commerce",
+      "degree_label": "Bachelor of Commerce",
+      "official_url": "https://you.ubc.ca/programs/commerce/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "551378",
+      "official_topics": [
+        "business-and-economics"
+      ],
+      "id": "ubc-commerce-691090826b"
+    },
+    {
+      "name_en": "Computer Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/computer-engineering-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "570546",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-computer-engineering-2ff37eb8f1"
+    },
+    {
+      "name_en": "Computer Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/computer-engineering/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "615",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-computer-engineering-48f5ab7f79"
+    },
+    {
+      "name_en": "Computer Science (BA)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/computer-science-okanagan-ba/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "617",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-computer-science-ba-3bf2633d80"
+    },
+    {
+      "name_en": "Computer Science (BA)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/computer-science-vancouver-ba/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "621",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-computer-science-ba-103d772315"
+    },
+    {
+      "name_en": "Computer Science (BSc)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/computer-science-okanagan-bsc/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "619",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-computer-science-bsc-79dee3796e"
+    },
+    {
+      "name_en": "Computer Science (BSc)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/computer-science-vancouver-bsc/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "623",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-computer-science-bsc-52a00c8ed5"
+    },
+    {
+      "name_en": "Conservation",
+      "degree_label": "Bachelor of Science in Natural Resources",
+      "official_url": "https://you.ubc.ca/programs/conservation/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "905",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-conservation-90530694b6"
+    },
+    {
+      "name_en": "Creative Writing",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/creative-writing-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "627",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-creative-writing-15f66cfad0"
+    },
+    {
+      "name_en": "Creative Writing",
+      "degree_label": "Bachelor of Fine Arts",
+      "official_url": "https://you.ubc.ca/programs/creative-writing-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "629",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-creative-writing-d6568c5c8a"
+    },
+    {
+      "name_en": "Cultural Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/cultural-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "633",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-cultural-studies-dcb5a40200"
+    },
+    {
+      "name_en": "Data Analytics",
+      "degree_label": "Bachelor of Science in Food and Resource Economics",
+      "official_url": "https://you.ubc.ca/programs/data-analytics/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "570977",
+      "official_topics": [
+        "business-and-economics",
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-data-analytics-5e79f0357e"
+    },
+    {
+      "name_en": "Data Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/data-science/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "546580",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-data-science-1dbc3aa9dd"
+    },
+    {
+      "name_en": "Data Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/data-science-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "577276",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-data-science-ef44b047ac"
+    },
+    {
+      "name_en": "Dental Hygiene",
+      "degree_label": "Bachelor of Dental Science",
+      "official_url": "https://you.ubc.ca/programs/dental-hygiene/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "637",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-dental-hygiene-fe6c590c10"
+    },
+    {
+      "name_en": "Dentistry",
+      "degree_label": "Doctor of Dental Medicine",
+      "official_url": "https://you.ubc.ca/programs/dentistry/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "639",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "entry_note": "目录中列出的本科后专业课程；不能按高中毕业直接入读理解，前置大学学习及申请者身份条件尚待逐项核实。",
+      "id": "ubc-dentistry-75cd218912"
+    },
+    {
+      "name_en": "Dietetics",
+      "degree_label": "Bachelor of Science in Food, Nutrition, and Health",
+      "official_url": "https://you.ubc.ca/programs/dietetics/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "641",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-dietetics-06de86c31e"
+    },
+    {
+      "name_en": "Earth and Environmental Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/earth-environmental-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "645",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-earth-and-environmental-sciences-0b520d501d"
+    },
+    {
+      "name_en": "Earth and Ocean Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/earth-ocean-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "647",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-earth-and-ocean-sciences-2fee9426bc"
+    },
+    {
+      "name_en": "Ecology, Evolution, and Conservation Biology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/ecology-evolution-conservation-biology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "649",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-ecology-evolution-and-conservation-biology-80c0bd21aa"
+    },
+    {
+      "name_en": "Economics",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/economics-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "655",
+      "official_topics": [
+        "business-and-economics"
+      ],
+      "id": "ubc-economics-85cb3d1a0c"
+    },
+    {
+      "name_en": "Economics (BA)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/economics-okanagan-ba/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "651",
+      "official_topics": [
+        "business-and-economics"
+      ],
+      "id": "ubc-economics-ba-53fc592094"
+    },
+    {
+      "name_en": "Economics (BSc)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/economics-okanagan-bsc/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "653",
+      "official_topics": [
+        "business-and-economics"
+      ],
+      "id": "ubc-economics-bsc-ee3b4b1e5d"
+    },
+    {
+      "name_en": "Education: Elementary and Middle Years",
+      "degree_label": "Bachelor of Education",
+      "official_url": "https://you.ubc.ca/programs/education-elementary-middle-years/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "869",
+      "official_topics": [
+        "education"
+      ],
+      "id": "ubc-education-elementary-and-middle-years-311189094d"
+    },
+    {
+      "name_en": "Education: Indigenous Teacher Education Program (NITEP)",
+      "degree_label": "Bachelor of Education",
+      "official_url": "https://you.ubc.ca/programs/education-nitep/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "901",
+      "official_topics": [
+        "education"
+      ],
+      "id": "ubc-education-indigenous-teacher-education-program-nitep-88df80f973"
+    },
+    {
+      "name_en": "Education: International Baccalaureate",
+      "degree_label": "Bachelor of Education",
+      "official_url": "https://you.ubc.ca/programs/education-ib/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "546362",
+      "official_topics": [
+        "education"
+      ],
+      "id": "ubc-education-international-baccalaureate-56fd02f389"
+    },
+    {
+      "name_en": "Education: Secondary",
+      "degree_label": "Bachelor of Education",
+      "official_url": "https://you.ubc.ca/programs/education-secondary/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "985",
+      "official_topics": [
+        "education"
+      ],
+      "id": "ubc-education-secondary-bd3813ea5a"
+    },
+    {
+      "name_en": "Education: Teaching Adolescents",
+      "degree_label": "Bachelor of Education",
+      "official_url": "https://you.ubc.ca/programs/education-teaching-adolescents/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "546555",
+      "official_topics": [
+        "education"
+      ],
+      "id": "ubc-education-teaching-adolescents-211c18fa93"
+    },
+    {
+      "name_en": "Education: Teaching Children",
+      "degree_label": "Bachelor of Education",
+      "official_url": "https://you.ubc.ca/programs/education-teaching-children/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "657",
+      "official_topics": [
+        "education"
+      ],
+      "id": "ubc-education-teaching-children-a381cbba5d"
+    },
+    {
+      "name_en": "Education: West Kootenay Teacher Education Program (WKTEP)",
+      "degree_label": "Bachelor of Education",
+      "official_url": "https://you.ubc.ca/programs/education-wktep/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1035",
+      "official_topics": [
+        "education"
+      ],
+      "id": "ubc-education-west-kootenay-teacher-education-program-wktep-ff092f5686"
+    },
+    {
+      "name_en": "Electrical Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/electrical-engineering-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "661",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-electrical-engineering-7435e4e2e0"
+    },
+    {
+      "name_en": "Electrical Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/electrical-engineering-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "663",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-electrical-engineering-77e41198da"
+    },
+    {
+      "name_en": "Engineering Physics",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/engineering-physics/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "667",
+      "official_topics": [
+        "engineering-and-technology",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-engineering-physics-2002f07e7a"
+    },
+    {
+      "name_en": "English",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/english-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "669",
+      "official_topics": [
+        "languages-and-linguistics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-english-528ce2cabc"
+    },
+    {
+      "name_en": "English",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/english-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "671",
+      "official_topics": [
+        "languages-and-linguistics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-english-9fefa79c99"
+    },
+    {
+      "name_en": "Environmental Chemistry",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/environmental-chemistry/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "679",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-environmental-chemistry-3a8b283cfe"
+    },
+    {
+      "name_en": "Environmental Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/engineering-environmental/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "562723",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "engineering-and-technology"
+      ],
+      "id": "ubc-environmental-engineering-897eadb799"
+    },
+    {
+      "name_en": "Environmental Engineering (joint UNBC/UBC)",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/environmental-engineering-joint-unbc-ubc/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "683",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "engineering-and-technology"
+      ],
+      "id": "ubc-environmental-engineering-joint-unbc-ubc-f179653777"
+    },
+    {
+      "name_en": "Environmental Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/environmental-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "685",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-environmental-sciences-4ce0ed1b85"
+    },
+    {
+      "name_en": "Film Production",
+      "degree_label": "Bachelor of Fine Arts",
+      "official_url": "https://you.ubc.ca/programs/film-production/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "691",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-film-production-b8e3115680"
+    },
+    {
+      "name_en": "First Nations and Endangered Languages",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/first-nations-endangered-languages/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "697",
+      "official_topics": [
+        "languages-and-linguistics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-first-nations-and-endangered-languages-758d37a05a"
+    },
+    {
+      "name_en": "First Nations and Indigenous Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/first-nations-indigenous-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "699",
+      "official_topics": [
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-first-nations-and-indigenous-studies-b9f6f85306"
+    },
+    {
+      "name_en": "Food and Nutritional Sciences",
+      "degree_label": "Bachelor of Science in Food, Nutrition, and Health",
+      "official_url": "https://you.ubc.ca/programs/food-nutritional-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "703",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-food-and-nutritional-sciences-96362171f1"
+    },
+    {
+      "name_en": "Food Science",
+      "degree_label": "Bachelor of Science in Food, Nutrition, and Health",
+      "official_url": "https://you.ubc.ca/programs/food-science/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "552201",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-food-science-f283a3c1e0"
+    },
+    {
+      "name_en": "Food, Nutrition, and Health",
+      "degree_label": "Bachelor of Science in Food, Nutrition, and Health",
+      "official_url": "https://you.ubc.ca/programs/food-nutrition-and-health/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "709",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-food-nutrition-and-health-d1381b52c2"
+    },
+    {
+      "name_en": "Forest Management",
+      "degree_label": "Bachelor of Science in Natural Resources",
+      "official_url": "https://you.ubc.ca/programs/forest-management/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "569489",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "engineering-and-technology"
+      ],
+      "id": "ubc-forest-management-948b3d5178"
+    },
+    {
+      "name_en": "Forest Operations",
+      "degree_label": "Bachelor of Science in Natural Resources",
+      "official_url": "https://you.ubc.ca/programs/forest-operations/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "711",
+      "official_topics": [
+        "business-and-economics",
+        "earth-environment-and-sustainability",
+        "engineering-and-technology"
+      ],
+      "id": "ubc-forest-operations-600750349c"
+    },
+    {
+      "name_en": "Forest Sciences",
+      "degree_label": "Bachelor of Science in Natural Resources",
+      "official_url": "https://you.ubc.ca/programs/forest-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "715",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-forest-sciences-95f3233a62"
+    },
+    {
+      "name_en": "French",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/french-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "719",
+      "official_topics": [
+        "languages-and-linguistics"
+      ],
+      "id": "ubc-french-9e4e9b08fe"
+    },
+    {
+      "name_en": "French",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/french-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "721",
+      "official_topics": [
+        "languages-and-linguistics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-french-aa82c4a8fb"
+    },
+    {
+      "name_en": "Freshwater Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/freshwater-science/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "725",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-freshwater-science-0fc2e0f712"
+    },
+    {
+      "name_en": "Gender, Race, Sexuality, and Social Justice",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/gender-race-sexuality-social-justice/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1037",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-gender-race-sexuality-and-social-justice-3e93f2dc87"
+    },
+    {
+      "name_en": "Gender, Women and Sexuality Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/gender-women-sexuality-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "729",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-gender-women-and-sexuality-studies-2d821ffeac"
+    },
+    {
+      "name_en": "General Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/general-science/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "733",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-general-science-72918ad283"
+    },
+    {
+      "name_en": "General Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/general-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "737",
+      "official_topics": [
+        "business-and-economics",
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences",
+        "history-law-and-politics",
+        "languages-and-linguistics",
+        "media-and-fine-arts",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-general-studies-78e3995def"
+    },
+    {
+      "name_en": "Geographical Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/geographical-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "739",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-geographical-sciences-f36c1df062"
+    },
+    {
+      "name_en": "Geography",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/geography/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "741",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-geography-3bbdd51bc2"
+    },
+    {
+      "name_en": "Geography: Environment and Sustainability",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/geo-environment-sustainability/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "743",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-geography-environment-and-sustainability-8cece06c1a"
+    },
+    {
+      "name_en": "Geography: Human Geography",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/human-geography/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "745",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-geography-human-geography-987303d03b"
+    },
+    {
+      "name_en": "Geological Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/geological-engineering/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "747",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-geological-engineering-24b724769f"
+    },
+    {
+      "name_en": "Geology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/geology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "749",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-geology-9ad8f8b8de"
+    },
+    {
+      "name_en": "Geophysics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/geophysics/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "751",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-geophysics-8fb59050fb"
+    },
+    {
+      "name_en": "German",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/german/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "753",
+      "official_topics": [
+        "languages-and-linguistics"
+      ],
+      "id": "ubc-german-de29cc05ba"
+    },
+    {
+      "name_en": "Global Resource Systems",
+      "degree_label": "Bachelor of Science in Global Resource Systems",
+      "official_url": "https://you.ubc.ca/programs/global-resource-systems/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "757",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-global-resource-systems-8ed84cd843"
+    },
+    {
+      "name_en": "Health and Exercise Sciences (Kinesiology)",
+      "degree_label": "Bachelor of Health and Exercise Sciences (Kinesiology)",
+      "official_url": "https://you.ubc.ca/programs/health-and-exercise-sciences-kinesiology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "566880",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-health-and-exercise-sciences-kinesiology-737a2b5c97"
+    },
+    {
+      "name_en": "History",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/history-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "765",
+      "official_topics": [
+        "history-law-and-politics"
+      ],
+      "id": "ubc-history-a8443c5b2a"
+    },
+    {
+      "name_en": "History",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/history-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "767",
+      "official_topics": [
+        "history-law-and-politics"
+      ],
+      "id": "ubc-history-2a7f42a02a"
+    },
+    {
+      "name_en": "Indigenous Land Stewardship",
+      "degree_label": "Bachelor of Indigenous Land Stewardship",
+      "official_url": "https://you.ubc.ca/programs/indigenous-land-stewardship/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "569692",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-indigenous-land-stewardship-81b09f93a4"
+    },
+    {
+      "name_en": "Indigenous Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/indigenous-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "777",
+      "official_topics": [
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-indigenous-studies-2ca9214f87"
+    },
+    {
+      "name_en": "Integrated Computer Science",
+      "degree_label": "Bachelor of Computer Science",
+      "official_url": "https://you.ubc.ca/programs/integrated-computer-science/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "779",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "entry_note": "本科第二学位路径；前置学位、先修课程和具体申请要求尚待核实。",
+      "id": "ubc-integrated-computer-science-fd8865c139"
+    },
+    {
+      "name_en": "Integrated Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/integrated-engineering/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "781",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-integrated-engineering-193ba6c2e7"
+    },
+    {
+      "name_en": "Integrated Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/integrated-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "783",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-integrated-sciences-0e2ebebfb8"
+    },
+    {
+      "name_en": "Interdisciplinary Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/interdisciplinary-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "787",
+      "official_topics": [
+        "business-and-economics",
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences",
+        "history-law-and-politics",
+        "languages-and-linguistics",
+        "media-and-fine-arts",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-interdisciplinary-studies-64fe441871"
+    },
+    {
+      "name_en": "International Economics",
+      "degree_label": "Bachelor of International Economics",
+      "official_url": "https://you.ubc.ca/programs/international-economics/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "791",
+      "official_topics": [
+        "business-and-economics"
+      ],
+      "id": "ubc-international-economics-42b8f36cd7"
+    },
+    {
+      "name_en": "International Relations",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/international-relations-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "793",
+      "official_topics": [
+        "history-law-and-politics"
+      ],
+      "id": "ubc-international-relations-f97d187b23"
+    },
+    {
+      "name_en": "International Relations",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/international-relations-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "795",
+      "official_topics": [
+        "history-law-and-politics"
+      ],
+      "id": "ubc-international-relations-9d05dbe66a"
+    },
+    {
+      "name_en": "Kinesiology: Multidisciplinary Science",
+      "degree_label": "Bachelor of Kinesiology",
+      "official_url": "https://you.ubc.ca/programs/kinesiology-multidisciplinary-science/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "805",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-kinesiology-multidisciplinary-science-32fb7d4644"
+    },
+    {
+      "name_en": "Kinesiology: Neuromechanical and Physiological Sciences",
+      "degree_label": "Bachelor of Kinesiology",
+      "official_url": "https://you.ubc.ca/programs/kinesiology-neuromechanical-physiological-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "807",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-kinesiology-neuromechanical-and-physiological-sciences-e761c7674b"
+    },
+    {
+      "name_en": "Kinesiology: Social and Behavioural Sciences",
+      "degree_label": "Bachelor of Kinesiology",
+      "official_url": "https://you.ubc.ca/programs/kinesiology-social-behavioural-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "809",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-kinesiology-social-and-behavioural-sciences-0c673fda45"
+    },
+    {
+      "name_en": "Languages",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/languages/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "717",
+      "official_topics": [
+        "languages-and-linguistics"
+      ],
+      "id": "ubc-languages-8a209088a9"
+    },
+    {
+      "name_en": "Latin American Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/latin-american-studies-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "817",
+      "official_topics": [
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-latin-american-studies-741f770015"
+    },
+    {
+      "name_en": "Law",
+      "degree_label": "Juris Doctor",
+      "official_url": "https://you.ubc.ca/programs/law/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "819",
+      "official_topics": [
+        "history-law-and-politics"
+      ],
+      "entry_note": "目录中列出的本科后专业课程；不能按高中毕业直接入读理解，前置大学学习及申请者身份条件尚待逐项核实。",
+      "id": "ubc-law-5093015d41"
+    },
+    {
+      "name_en": "Linguistics",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/linguistics/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "823",
+      "official_topics": [
+        "languages-and-linguistics"
+      ],
+      "id": "ubc-linguistics-ed9326884a"
+    },
+    {
+      "name_en": "Manufacturing Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/manufacturing-engineering-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "560623",
+      "official_topics": [
+        "business-and-economics",
+        "engineering-and-technology"
+      ],
+      "id": "ubc-manufacturing-engineering-808ef8e696"
+    },
+    {
+      "name_en": "Manufacturing Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/manufacturing-engineering-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "560625",
+      "official_topics": [
+        "business-and-economics",
+        "engineering-and-technology"
+      ],
+      "id": "ubc-manufacturing-engineering-147f7a740c"
+    },
+    {
+      "name_en": "Materials Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/materials-engineering/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "831",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-materials-engineering-32b983d62f"
+    },
+    {
+      "name_en": "Mathematical Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/mathematical-sciences-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "835",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-mathematical-sciences-eedbe5054e"
+    },
+    {
+      "name_en": "Mathematics (BA)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/mathematics-okanagan-ba/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "841",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-mathematics-ba-ac286fa8c7"
+    },
+    {
+      "name_en": "Mathematics (BA)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/mathematics-vancouver-ba/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "845",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-mathematics-ba-41bf794629"
+    },
+    {
+      "name_en": "Mathematics (BSc)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/mathematics-okanagan-bsc/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "843",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-mathematics-bsc-191c2cc589"
+    },
+    {
+      "name_en": "Mathematics (BSc)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/mathematics-vancouver-bsc/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "847",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-mathematics-bsc-58bc330063"
+    },
+    {
+      "name_en": "Mathematics and Economics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/mathematics-economics/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "837",
+      "official_topics": [
+        "business-and-economics",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-mathematics-and-economics-9321f5e2db"
+    },
+    {
+      "name_en": "Mechanical Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/mechanical-engineering-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "851",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-mechanical-engineering-da1a9e3d2f"
+    },
+    {
+      "name_en": "Mechanical Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/mechanical-engineering-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "853",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-mechanical-engineering-f8430796e6"
+    },
+    {
+      "name_en": "Media Studies",
+      "degree_label": "Bachelor of Media Studies",
+      "official_url": "https://you.ubc.ca/programs/media-studies-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "530436",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-media-studies-92b275f8f9"
+    },
+    {
+      "name_en": "Media Studies",
+      "degree_label": "Bachelor of Media Studies",
+      "official_url": "https://you.ubc.ca/programs/media-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "149747",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-media-studies-5476588167"
+    },
+    {
+      "name_en": "Medical Laboratory Science",
+      "degree_label": "Bachelor of Medical Laboratory Science",
+      "official_url": "https://you.ubc.ca/programs/medical-laboratory-science/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "552197",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-medical-laboratory-science-82f29f1daf"
+    },
+    {
+      "name_en": "Medicine",
+      "degree_label": "Doctor of Medicine",
+      "official_url": "https://you.ubc.ca/programs/medicine/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan / Vancouver",
+      "language": null,
+      "raw_key": "555222",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "entry_note": "目录中列出的本科后专业课程；不能按高中毕业直接入读理解，前置大学学习及申请者身份条件尚待逐项核实。",
+      "id": "ubc-medicine-fb590083ee"
+    },
+    {
+      "name_en": "Medieval Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/medieval-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "863",
+      "official_topics": [
+        "history-law-and-politics"
+      ],
+      "id": "ubc-medieval-studies-3b1e18da4c"
+    },
+    {
+      "name_en": "Microbiology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/microbiology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "867",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-microbiology-61be15504c"
+    },
+    {
+      "name_en": "Microbiology and Immunology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/microbiology-immunology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "865",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-microbiology-and-immunology-28ac3a311d"
+    },
+    {
+      "name_en": "Midwifery",
+      "degree_label": "Bachelor of Midwifery",
+      "official_url": "https://you.ubc.ca/programs/midwifery/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "871",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-midwifery-03cbf85468"
+    },
+    {
+      "name_en": "Mining Engineering",
+      "degree_label": "Bachelor of Applied Science (Engineering)",
+      "official_url": "https://you.ubc.ca/programs/mining-engineering/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "875",
+      "official_topics": [
+        "engineering-and-technology"
+      ],
+      "id": "ubc-mining-engineering-ed138619a6"
+    },
+    {
+      "name_en": "Modern European Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/modern-european-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "877",
+      "official_topics": [
+        "history-law-and-politics",
+        "languages-and-linguistics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-modern-european-studies-1f245b1a20"
+    },
+    {
+      "name_en": "Museum Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/museum-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "883",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-museum-studies-aac236c669"
+    },
+    {
+      "name_en": "Music",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/music/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "893",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-music-2603cf4a2c"
+    },
+    {
+      "name_en": "Music: Advanced Performance",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://you.ubc.ca/programs/music-advanced-performance/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "885",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-music-advanced-performance-37913ab897"
+    },
+    {
+      "name_en": "Music: Composition",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://you.ubc.ca/programs/music-composition/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "887",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-music-composition-c92a4ff34c"
+    },
+    {
+      "name_en": "Music: General Studies",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://you.ubc.ca/programs/music-general-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "889",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-music-general-studies-662f38e73f"
+    },
+    {
+      "name_en": "Music: Scholarship",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://you.ubc.ca/programs/music-scholarship/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "891",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-music-scholarship-5a76e2b545"
+    },
+    {
+      "name_en": "Neuroscience",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/neuroscience/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "568741",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-neuroscience-20176ee35e"
+    },
+    {
+      "name_en": "NłeɁkepmx Language Fluency",
+      "degree_label": "Bachelor of NłeɁkepmx Language Fluency",
+      "official_url": "https://you.ubc.ca/programs/nle%c9%82kepmx-language-fluency/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "570630",
+      "official_topics": [
+        "languages-and-linguistics"
+      ],
+      "id": "ubc-n-e-kepmx-language-fluency-3ca46a623f"
+    },
+    {
+      "name_en": "Nsyilxcn Language Fluency",
+      "degree_label": "Bachelor of Nsyilxcn Language Fluency",
+      "official_url": "https://you.ubc.ca/programs/nsyilxcn-language-fluency/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "564963",
+      "official_topics": [
+        "languages-and-linguistics"
+      ],
+      "id": "ubc-nsyilxcn-language-fluency-456f9c1020"
+    },
+    {
+      "name_en": "Nursing",
+      "degree_label": "Bachelor of Science in Nursing",
+      "official_url": "https://you.ubc.ca/programs/nursing-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "911",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-nursing-1e169b9b33"
+    },
+    {
+      "name_en": "Nursing",
+      "degree_label": "Bachelor of Science in Nursing",
+      "official_url": "https://you.ubc.ca/programs/nursing-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "913",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-nursing-3cc7967631"
+    },
+    {
+      "name_en": "Nutritional Sciences",
+      "degree_label": "Bachelor of Science in Food, Nutrition, and Health",
+      "official_url": "https://you.ubc.ca/programs/nutritional-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "915",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-nutritional-sciences-f063d53768"
+    },
+    {
+      "name_en": "Oceanography",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/oceanography/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "921",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-oceanography-04d1165eac"
+    },
+    {
+      "name_en": "Pharmaceutical Sciences",
+      "degree_label": "Bachelor of Pharmaceutical Sciences",
+      "official_url": "https://you.ubc.ca/programs/pharmaceutical-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "561295",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-pharmaceutical-sciences-27224ab69e"
+    },
+    {
+      "name_en": "Pharmacology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/pharmacology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "927",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-pharmacology-f94bb6f949"
+    },
+    {
+      "name_en": "Pharmacy",
+      "degree_label": "Doctor of Pharmacy",
+      "official_url": "https://you.ubc.ca/programs/pharmacy/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "929",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "entry_note": "目录中列出的本科后专业课程；不能按高中毕业直接入读理解，前置大学学习及申请者身份条件尚待逐项核实。",
+      "id": "ubc-pharmacy-52b1ec012e"
+    },
+    {
+      "name_en": "Philosophy",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/philosophy-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "933",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-philosophy-d2e5f08d47"
+    },
+    {
+      "name_en": "Philosophy",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/philosophy-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "931",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-philosophy-f3b4b4591e"
+    },
+    {
+      "name_en": "Philosophy, Politics, and Economics",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/philosophy-politics-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "935",
+      "official_topics": [
+        "business-and-economics",
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-philosophy-politics-and-economics-4c058a5913"
+    },
+    {
+      "name_en": "Physics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/physics-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "941",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-physics-0f335ceb3c"
+    },
+    {
+      "name_en": "Physics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/physics-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "943",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-physics-5707ddadc4"
+    },
+    {
+      "name_en": "Political Science",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/political-science-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "947",
+      "official_topics": [
+        "history-law-and-politics"
+      ],
+      "id": "ubc-political-science-671567afad"
+    },
+    {
+      "name_en": "Political Science",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/political-science-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "949",
+      "official_topics": [
+        "history-law-and-politics"
+      ],
+      "id": "ubc-political-science-c8d0acc2a5"
+    },
+    {
+      "name_en": "Psychology",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/psychology-vancouver-ba/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "957",
+      "official_topics": [
+        "health-and-life-sciences",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-psychology-2e7abc1dc6"
+    },
+    {
+      "name_en": "Psychology (BA)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/psychology-okanagan-ba/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "953",
+      "official_topics": [
+        "health-and-life-sciences",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-psychology-ba-1190064317"
+    },
+    {
+      "name_en": "Psychology (BSc)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/psychology-okanagan-bsc/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "955",
+      "official_topics": [
+        "health-and-life-sciences",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-psychology-bsc-205bd9d4fd"
+    },
+    {
+      "name_en": "Religion",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/religion/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "967",
+      "official_topics": [
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-religion-955ae2c71f"
+    },
+    {
+      "name_en": "Romance Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/romance-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "971",
+      "official_topics": [
+        "languages-and-linguistics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-romance-studies-90cfd36506"
+    },
+    {
+      "name_en": "Secwépemc Language Fluency",
+      "degree_label": "Bachelor of Secwépemc Language Fluency",
+      "official_url": "https://you.ubc.ca/programs/secwepemc-language-fluency/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "578091",
+      "official_topics": [],
+      "id": "ubc-secwe-pemc-language-fluency-6b89dbfc0f"
+    },
+    {
+      "name_en": "Social Work",
+      "degree_label": "Bachelor of Social Work",
+      "official_url": "https://you.ubc.ca/programs/social-work/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "989",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-social-work-f530da863f"
+    },
+    {
+      "name_en": "Sociology",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/sociology-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "991",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-sociology-653c0b1e6a"
+    },
+    {
+      "name_en": "Sociology",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/sociology-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "993",
+      "official_topics": [
+        "people-culture-and-society"
+      ],
+      "id": "ubc-sociology-4fd3f99e16"
+    },
+    {
+      "name_en": "Spanish",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/spanish-hispanic-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "997",
+      "official_topics": [
+        "languages-and-linguistics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-spanish-d8e13158d2"
+    },
+    {
+      "name_en": "Speech Sciences",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/speech-sciences/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "999",
+      "official_topics": [
+        "health-and-life-sciences",
+        "languages-and-linguistics"
+      ],
+      "id": "ubc-speech-sciences-4e0a7ea052"
+    },
+    {
+      "name_en": "St’át’imc Language Fluency",
+      "degree_label": "Bachelor of St’át’imc Language Fluency",
+      "official_url": "https://you.ubc.ca/programs/statimc-language-fluency/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "570641",
+      "official_topics": [
+        "languages-and-linguistics"
+      ],
+      "id": "ubc-st-t-imc-language-fluency-3c4d2eabb7"
+    },
+    {
+      "name_en": "Statistics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/statistics-okanagan/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "1001",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-statistics-1149a2e597"
+    },
+    {
+      "name_en": "Statistics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/statistics-vancouver/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1003",
+      "official_topics": [
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-statistics-7ccc5e803b"
+    },
+    {
+      "name_en": "Sustainability",
+      "degree_label": "Bachelor of Sustainability",
+      "official_url": "https://you.ubc.ca/programs/sustainability/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "566514",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-sustainability-f7464c41e2"
+    },
+    {
+      "name_en": "Sustainable Agriculture and Environment",
+      "degree_label": "Bachelor of Science in Applied Biology",
+      "official_url": "https://you.ubc.ca/programs/sustainable-agriculture-environment/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "555107",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-sustainable-agriculture-and-environment-219cbd0474"
+    },
+    {
+      "name_en": "Theatre Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/theatre/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1009",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-theatre-studies-d64cc517f8"
+    },
+    {
+      "name_en": "Theatre: Acting",
+      "degree_label": "Bachelor of Fine Arts",
+      "official_url": "https://you.ubc.ca/programs/theatre-acting/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1013",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-theatre-acting-8bca0a9042"
+    },
+    {
+      "name_en": "Theatre: Design and Production",
+      "degree_label": "Bachelor of Fine Arts",
+      "official_url": "https://you.ubc.ca/programs/theatre-design-production/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1015",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-theatre-design-and-production-bfd441a9a7"
+    },
+    {
+      "name_en": "United States Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/united-states-studies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1021",
+      "official_topics": [
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-united-states-studies-2d9067b7f4"
+    },
+    {
+      "name_en": "Urban Forestry",
+      "degree_label": "Bachelor of Urban Forestry",
+      "official_url": "https://you.ubc.ca/programs/urban-forestry/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "341396",
+      "official_topics": [
+        "earth-environment-and-sustainability",
+        "health-and-life-sciences",
+        "history-law-and-politics",
+        "people-culture-and-society"
+      ],
+      "id": "ubc-urban-forestry-72f0d55be0"
+    },
+    {
+      "name_en": "Urban Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/urbanstudies/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "568680",
+      "official_topics": [
+        "earth-environment-and-sustainability"
+      ],
+      "id": "ubc-urban-studies-5602478876"
+    },
+    {
+      "name_en": "Visual Art (BA)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://you.ubc.ca/programs/visual-art-ba/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1029",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-visual-art-ba-fade5a04ab"
+    },
+    {
+      "name_en": "Visual Art (BFA)",
+      "degree_label": "Bachelor of Fine Arts",
+      "official_url": "https://you.ubc.ca/programs/visual-art-bfa/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1031",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-visual-art-bfa-0819357a21"
+    },
+    {
+      "name_en": "Visual Arts (BFA)",
+      "degree_label": "Bachelor of Fine Arts",
+      "official_url": "https://you.ubc.ca/programs/visual-arts/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "1027",
+      "official_topics": [
+        "media-and-fine-arts"
+      ],
+      "id": "ubc-visual-arts-bfa-c27e06962b"
+    },
+    {
+      "name_en": "Wood Products",
+      "degree_label": "Bachelor of Science in Natural Resources",
+      "official_url": "https://you.ubc.ca/programs/wood-products/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Vancouver",
+      "language": null,
+      "raw_key": "1039",
+      "official_topics": [
+        "business-and-economics",
+        "earth-environment-and-sustainability",
+        "engineering-and-technology",
+        "math-chemistry-and-physics"
+      ],
+      "id": "ubc-wood-products-209a0f638d"
+    },
+    {
+      "name_en": "Zoology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://you.ubc.ca/programs/zoology/",
+      "discovery_source_url": "https://you.ubc.ca/programs/",
+      "source_period": "官网当前目录；未标明确入学年度，核对于2026-09-12",
+      "intake": null,
+      "duration": null,
+      "campus": "Okanagan",
+      "language": null,
+      "raw_key": "1043",
+      "official_topics": [
+        "health-and-life-sciences"
+      ],
+      "id": "ubc-zoology-53da66c270"
+    }
+  ]
+}

@@ -1,0 +1,1173 @@
+{
+  "university_id": "sydney",
+  "programs": [
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-587d4a851e55c953",
+      "name_en": "Biology",
+      "official_url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/biology/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "从分子、细胞到个体、种群和生态系统研究生命；基础包括生命周期、结构功能、代谢与呼吸，进化贯穿理解生物变化。",
+            "source_ids": [
+              "sydney-overview-sydney-587d4a851e55c953"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-587d4a851e55c953"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-587d4a851e55c953"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-587d4a851e55c953"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-587d4a851e55c953"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-587d4a851e55c953"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-587d4a851e55c953",
+          "title": "sydney 官方课程说明：Biology",
+          "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/biology/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "e3cfc4e2d387f36d26e62903b584bcc6b043805a6c57e9e9a26c318eaa57a733",
+          "sha256": "e3cfc4e2d387f36d26e62903b584bcc6b043805a6c57e9e9a26c318eaa57a733"
+        }
+      ],
+      "inventory_id": "sydney-biology-07652b596b"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-61bcdfd4cc98ba11",
+      "name_en": "Chemistry",
+      "official_url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/chemistry/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "学习分子结构与化学变化，以及它们在生命、光合作用、绿色能源、新材料和纳米技术中的作用；有标准及高阶学习单元。",
+            "source_ids": [
+              "sydney-overview-sydney-61bcdfd4cc98ba11"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-61bcdfd4cc98ba11"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-61bcdfd4cc98ba11"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-61bcdfd4cc98ba11"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-61bcdfd4cc98ba11"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-61bcdfd4cc98ba11"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-61bcdfd4cc98ba11",
+          "title": "sydney 官方课程说明：Chemistry",
+          "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/chemistry/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "250f69bbdf48bc7f125c7f1e301868dac79e55fe5e27bbe719041792c6cc2269",
+          "sha256": "250f69bbdf48bc7f125c7f1e301868dac79e55fe5e27bbe719041792c6cc2269"
+        }
+      ],
+      "inventory_id": "sydney-chemistry-1236e35022"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-7227bd9985a39af8",
+      "name_en": "Computer Science",
+      "official_url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/computer-science/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "学习计算的基本概念、有效解决问题的方法及将方案表达为软件；介绍标准与高阶学习单元。网页提醒应核对数学先备知识和数学支持路径，不能把assumed knowledge误写成统一硬性高考科目门槛。",
+            "source_ids": [
+              "sydney-overview-sydney-7227bd9985a39af8"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-7227bd9985a39af8"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-7227bd9985a39af8"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-7227bd9985a39af8"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-7227bd9985a39af8"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-7227bd9985a39af8"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-7227bd9985a39af8",
+          "title": "sydney 官方课程说明：Computer Science",
+          "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/computer-science/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "b16c34047a0deea1bdd0c4e02f22eaa858d3f766437934e24c08c5319f900ce1",
+          "sha256": "b16c34047a0deea1bdd0c4e02f22eaa858d3f766437934e24c08c5319f900ce1"
+        }
+      ],
+      "inventory_id": "sydney-computer-science-3476f2d0db"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-e10d45b036dedd30",
+      "name_en": "Data Science",
+      "official_url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/data-science/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "由数学统计与计算机学科共同提供，结合统计和计算方法管理、理解和分析数据，并从数据中提取知识；有标准及高阶学习单元。",
+            "source_ids": [
+              "sydney-overview-sydney-e10d45b036dedd30"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-e10d45b036dedd30"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-e10d45b036dedd30"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-e10d45b036dedd30"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-e10d45b036dedd30"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-e10d45b036dedd30"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-e10d45b036dedd30",
+          "title": "sydney 官方课程说明：Data Science",
+          "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/data-science/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "ec70333dcaf4431c053546f98e7c15325bac86b58fb881fe778ed03624764e28",
+          "sha256": "ec70333dcaf4431c053546f98e7c15325bac86b58fb881fe778ed03624764e28"
+        }
+      ],
+      "inventory_id": "sydney-data-science-e6d5263fef"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-b9412ddfec773e7e",
+      "name_en": "Environmental Studies",
+      "official_url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/environmental-studies/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "结合社会与自然科学，研究环境管理的治理、法律、伦理、经济与政策背景，涵盖可持续性、环境评估、能源和发展。",
+            "source_ids": [
+              "sydney-overview-sydney-b9412ddfec773e7e"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-b9412ddfec773e7e"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-b9412ddfec773e7e"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-b9412ddfec773e7e"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-b9412ddfec773e7e"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-b9412ddfec773e7e"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-b9412ddfec773e7e",
+          "title": "sydney 官方课程说明：Environmental Studies",
+          "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/environmental-studies/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "db97eafa9fa3b059de648fca0c3e528a78f4e0d42a39f69eac54d85afc6ce1fd",
+          "sha256": "db97eafa9fa3b059de648fca0c3e528a78f4e0d42a39f69eac54d85afc6ce1fd"
+        }
+      ],
+      "inventory_id": "sydney-environmental-studies-860eb47b32"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-e69fb622b794e376",
+      "name_en": "Mathematics",
+      "official_url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/mathematics/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "早期学习抽象代数、向量及多变量微积分、形式证明与分析；高年级可在纯数学和应用数学中选择进一步方向。",
+            "source_ids": [
+              "sydney-overview-sydney-e69fb622b794e376"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-e69fb622b794e376"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-e69fb622b794e376"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-e69fb622b794e376"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-e69fb622b794e376"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-e69fb622b794e376"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-e69fb622b794e376",
+          "title": "sydney 官方课程说明：Mathematics",
+          "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/mathematics/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "10013f6efb611f26c6341bdaca580e59fc59b4051664e4e0f245b0528e698a98",
+          "sha256": "10013f6efb611f26c6341bdaca580e59fc59b4051664e4e0f245b0528e698a98"
+        }
+      ],
+      "inventory_id": "sydney-mathematics-2caf9cb075"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-82a8447000f5759a",
+      "name_en": "Physics",
+      "official_url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/physics/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "研究电磁、相对论和量子等基本规律及相关技术；大部分学习单元有标准与高阶版本，网页提示核对数学先备知识及支持路径。",
+            "source_ids": [
+              "sydney-overview-sydney-82a8447000f5759a"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-82a8447000f5759a"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-82a8447000f5759a"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-82a8447000f5759a"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-82a8447000f5759a"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-82a8447000f5759a"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-82a8447000f5759a",
+          "title": "sydney 官方课程说明：Physics",
+          "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/physics/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "ce7f2b5553f784b5f9685e14dcdd7c6867e07f0f27b83469b998deb2df9b352f",
+          "sha256": "ce7f2b5553f784b5f9685e14dcdd7c6867e07f0f27b83469b998deb2df9b352f"
+        }
+      ],
+      "inventory_id": "sydney-physics-5bb5a06e7a"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-f408d61793d24508",
+      "name_en": "Psychology",
+      "official_url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/psychology/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "以科学方法研究心理现象，包含脑与行为、学习、知觉、行为与认知神经科学和发展心理学；部分学习单元设高阶版本。",
+            "source_ids": [
+              "sydney-overview-sydney-f408d61793d24508"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内program学习组合，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-f408d61793d24508"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-f408d61793d24508"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-f408d61793d24508"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-f408d61793d24508"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-f408d61793d24508"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-f408d61793d24508",
+          "title": "sydney 官方课程说明：Psychology",
+          "url": "https://www.sydney.edu.au/handbooks/science/table-a/subject-areas/psychology/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "867ffc181b468722a89a43fec878fab6fe31bb542e3a57f051b1b00c8db9b08f",
+          "sha256": "867ffc181b468722a89a43fec878fab6fe31bb542e3a57f051b1b00c8db9b08f"
+        }
+      ],
+      "inventory_id": "sydney-psychology-1bc13e3c74"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-d797d7267bdff1bf",
+      "name_en": "Chinese Studies",
+      "official_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/chinese-studies/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "结合现代与古典汉语以及中国社会文化；课程按初级、中级和高级语言能力分层，并结合课堂、课外交流和境外学习活动。中文母语者应按已有能力选择层级。",
+            "source_ids": [
+              "sydney-overview-sydney-d797d7267bdff1bf"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-d797d7267bdff1bf"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-d797d7267bdff1bf"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-d797d7267bdff1bf"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-d797d7267bdff1bf"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-d797d7267bdff1bf"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-d797d7267bdff1bf",
+          "title": "sydney 官方课程说明：Chinese Studies",
+          "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/chinese-studies/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "1d1b82d38bf3de01811b64d7e46ef2ef189a7b06a5aa5530476ef2cc51506927",
+          "sha256": "1d1b82d38bf3de01811b64d7e46ef2ef189a7b06a5aa5530476ef2cc51506927"
+        }
+      ],
+      "inventory_id": "sydney-chinese-studies-2ad1534f04"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-9dfdb3c5c12969f6",
+      "name_en": "Economics",
+      "official_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/economics/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "先建立微观与宏观经济学基础，随后可侧重金融市场、应用经济政策或经济理论；培养经济金融数据分析和政策评估能力。",
+            "source_ids": [
+              "sydney-overview-sydney-9dfdb3c5c12969f6"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-9dfdb3c5c12969f6"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "数学建议基础",
+            "text": "专业假定具备相当于NSW HSC Mathematics Advanced Band4的数学基础；不足者强烈建议在微观经济学导论之前或同时读经济学定量方法。此处是assumed knowledge，不把它当大陆高考统一硬性条件。",
+            "source_ids": [
+              "sydney-overview-sydney-9dfdb3c5c12969f6"
+            ]
+          },
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-9dfdb3c5c12969f6"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-9dfdb3c5c12969f6"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-9dfdb3c5c12969f6"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-9dfdb3c5c12969f6"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-9dfdb3c5c12969f6",
+          "title": "sydney 官方课程说明：Economics",
+          "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/economics/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "7b01233a9dc26025fa7a915939bf51aabcc4d7236726fcad40623772a87f5224",
+          "sha256": "7b01233a9dc26025fa7a915939bf51aabcc4d7236726fcad40623772a87f5224"
+        }
+      ],
+      "inventory_id": "sydney-economics-0caa9d3092"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-152bcad7d921ba32",
+      "name_en": "English",
+      "official_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/english/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "研究从中世纪到当代的小说、电影、诗歌与戏剧，可接触英美澳及世界文学、创作、文学理论、文化与语言研究，学习文本分析。",
+            "source_ids": [
+              "sydney-overview-sydney-152bcad7d921ba32"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-152bcad7d921ba32"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-152bcad7d921ba32"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-152bcad7d921ba32"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-152bcad7d921ba32"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-152bcad7d921ba32"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-152bcad7d921ba32",
+          "title": "sydney 官方课程说明：English",
+          "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/english/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "cda2c53a5929b42c95f715b9fa6e991a54e62db775dcdf8e0d3cec83dbc18d11",
+          "sha256": "cda2c53a5929b42c95f715b9fa6e991a54e62db775dcdf8e0d3cec83dbc18d11"
+        }
+      ],
+      "inventory_id": "sydney-english-72a94e7346"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-386102d9413e35aa",
+      "name_en": "History",
+      "official_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/history/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "从中世纪到当代、不同地区和跨国主题研究历史；通过证据解读、历史语境分析和论证写作逐步进阶，基础阶段含历史工作坊。",
+            "source_ids": [
+              "sydney-overview-sydney-386102d9413e35aa"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-386102d9413e35aa"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-386102d9413e35aa"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-386102d9413e35aa"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-386102d9413e35aa"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-386102d9413e35aa"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-386102d9413e35aa",
+          "title": "sydney 官方课程说明：History",
+          "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/history/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "d2898d8b08493b4d9b078ce970d1c7deb145ae76089cadf04ec76ae384ff73b2",
+          "sha256": "d2898d8b08493b4d9b078ce970d1c7deb145ae76089cadf04ec76ae384ff73b2"
+        }
+      ],
+      "inventory_id": "sydney-history-49c2ffa618"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-6c7a1b2052909199",
+      "name_en": "Philosophy",
+      "official_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/philosophy/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "研究伦理、知识、实在、逻辑和社会政治等基本问题，训练论证、批判思考和清晰表达；学校兼有分析与欧陆、历史与当代哲学方向。",
+            "source_ids": [
+              "sydney-overview-sydney-6c7a1b2052909199"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-6c7a1b2052909199"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-6c7a1b2052909199"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-6c7a1b2052909199"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-6c7a1b2052909199"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-6c7a1b2052909199"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-6c7a1b2052909199",
+          "title": "sydney 官方课程说明：Philosophy",
+          "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/philosophy/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "939450231f84f31a7af69006eaaa08da3228c3a7853da92fd72ab0a62342500d",
+          "sha256": "939450231f84f31a7af69006eaaa08da3228c3a7853da92fd72ab0a62342500d"
+        }
+      ],
+      "inventory_id": "sydney-philosophy-2065e933b4"
+    },
+    {
+      "university_id": "sydney",
+      "raw_key": "sydney-2efd3d430470363e",
+      "name_en": "Political Economy",
+      "official_url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/political-economy/overview.html",
+      "checked_at": "2026-09-12",
+      "source_period": "2026 handbook",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容",
+            "text": "分析经济、社会和政治利益之间的关系，涵盖全球化、国际金融贸易、发展与不平等、经济周期及能源环境等议题。",
+            "source_ids": [
+              "sydney-overview-sydney-2efd3d430470363e"
+            ]
+          },
+          {
+            "label": "目录层级",
+            "text": "本条属于学位内主修，不是独立学士学位；总学制、校区与授课语言本轮应按所属学位进一步核实。",
+            "source_ids": [
+              "sydney-overview-sydney-2efd3d430470363e"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学边界",
+            "text": "本轮学习方向说明不等于所属学位的入学资格；中国高考、英语和单元先修须按学位与本专业表逐项核对。",
+            "source_ids": [
+              "sydney-overview-sydney-2efd3d430470363e"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请或内部选专业",
+            "text": "主修通常随所属学位申请及内部选课确定；本轮未核实本条2027国际新生/内部选专业的独立截止，不套用另一学位申请日期。",
+            "source_ids": [
+              "sydney-overview-sydney-2efd3d430470363e"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "费用边界",
+            "text": "本轮未核实本方向2027所属学位的国际费用，不将该主修另算一份完整学位学费。",
+            "source_ids": [
+              "sydney-overview-sydney-2efd3d430470363e"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业介绍和调查分开",
+            "text": "本轮未取得本主修按毕业届次、国际生/中国学生及样本人数定义的就业率或薪酬。培养能力和可选职业不构成就业承诺。",
+            "source_ids": [
+              "sydney-overview-sydney-2efd3d430470363e"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "sydney-overview-sydney-2efd3d430470363e",
+          "title": "sydney 官方课程说明：Political Economy",
+          "url": "https://www.sydney.edu.au/handbooks/interdisciplinary-studies/table-s/subject-areas/political-economy/overview.html",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "c3972a74d6e6c4d4e045c45c248d31bf2582b5ab247a235599e0ed3a86b26bef",
+          "sha256": "c3972a74d6e6c4d4e045c45c248d31bf2582b5ab247a235599e0ed3a86b26bef"
+        }
+      ],
+      "inventory_id": "sydney-political-economy-7c526b0895"
+    }
+  ],
+  "profile": {
+    "university_id": "sydney",
+    "checked_at": "2026-09-12",
+    "scope": "澳大利亚校区国际本科通用规则；不替代专业、主修、荣誉研究或特定身份入口的附加条件。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "高考和国际课程按项目核对",
+          "text": "2027国际招生指南给出各本科项目的中国高考百分比及IB/A-level等资格对照；不存在全校统一高考线。部分专业另有先修、面试或非学术条件，须同时符合。",
+          "source_ids": [
+            "sydney-profile-common-sydney-advanced-computing-guide2027"
+          ]
+        },
+        {
+          "label": "英语要求与有效期",
+          "text": "本科英语门槛按学位不同；英语考试在开学时通常不得超过两年。除考试外，部分学历或科目可满足要求，需按官网政策评估，不能凭中国境内英语授课经历自行判断豁免。",
+          "source_ids": [
+            "sydney-profile-common-sydney-advanced-computing-language"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "国际本科申请渠道",
+          "text": "中国境内高考或国际课程资格通常经课程入口直申或授权代理；当前澳洲Year12（境内外）及在澳洲完成IB者经UAC。学历/英语/身份证明及翻译认证按页面要求提交。",
+          "source_ids": [
+            "sydney-profile-common-sydney-advanced-computing-apply"
+          ]
+        },
+        {
+          "label": "2027通用日期的范围",
+          "text": "当前国际本科通用规则第一学期申请截止12月1日、第二学期5月29日；换算2027入学为2026-12-01和2027-05-29。课程可因满额提前关闭或设特殊截止，页面通用月日不是实时开放名额保证。",
+          "source_ids": [
+            "sydney-profile-common-sydney-advanced-computing-dates"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "2027费用口径",
+          "text": "2027国际指南按学位列首年标准1 EFTSL指示学费；金额依课程而异且后续可涨价，不能用单一专业数值代表全校。本轮未逐项审定全部本科国际费用，生活、住宿及适用OSHC另计。",
+          "source_ids": [
+            "sydney-profile-common-sydney-advanced-computing-guide2027"
+          ]
+        },
+        {
+          "label": "本科全额奖学金条件",
+          "text": "Academic Excellence Scholarship可覆盖合资格单一本科学位最多4年的学费及SSAF，须另申竞争，要求完成中学且通常无既往大学学习；国籍和课程多样性也参与评选。每学期SAM至少65等续领要求须满足，不能视为中国申请者保证获奖；2027各轮尚待逐项核实。",
+          "source_ids": [
+            "sydney-profile-common-sydney-advanced-computing-scholarship"
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "label": "毕业统计缺口",
+          "text": "本轮未取得覆盖本科专业、明确毕业届次、响应人数及国际生/中国国籍范围的就业率和薪酬调查。不能用院校声誉或专业培养预期替代毕业结果。",
+          "source_ids": [
+            "sydney-profile-common-sydney-advanced-computing-guide2027"
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "sydney-profile-common-sydney-advanced-computing-guide2027",
+        "title": "sydney 官方资料：common-sydney-advanced-computing-guide2027",
+        "url": "https://www.sydney.edu.au/content/dam/corporate/documents/study/how-to-apply/international-admission-guide.pdf.coredownload.pdf",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "bb850ce1acc52800c2ee250233eb48ec58c8e1719c85c2d7373824c8eec198d1",
+        "sha256": "bb850ce1acc52800c2ee250233eb48ec58c8e1719c85c2d7373824c8eec198d1"
+      },
+      {
+        "id": "sydney-profile-common-sydney-advanced-computing-language",
+        "title": "sydney 官方资料：common-sydney-advanced-computing-language",
+        "url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students/english-language-requirements.html",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "2dba341abda2aa9fee7858f3e2f17b5b1fd2aee4312dd38de6dd49c9b1d0f7f3",
+        "sha256": "2dba341abda2aa9fee7858f3e2f17b5b1fd2aee4312dd38de6dd49c9b1d0f7f3"
+      },
+      {
+        "id": "sydney-profile-common-sydney-advanced-computing-apply",
+        "title": "sydney 官方资料：common-sydney-advanced-computing-apply",
+        "url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students.html",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "21946f13fc7c8cdaf10b100db756bfd1897192686366f8fdc9cb352f7a66d16d",
+        "sha256": "21946f13fc7c8cdaf10b100db756bfd1897192686366f8fdc9cb352f7a66d16d"
+      },
+      {
+        "id": "sydney-profile-common-sydney-advanced-computing-dates",
+        "title": "sydney 官方资料：common-sydney-advanced-computing-dates",
+        "url": "https://www.sydney.edu.au/study/applying/application-dates.html",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "c164b057d2903b91bd59fc3d96e8d8fb85c16686e39a75049d92aa5ad5e57919",
+        "sha256": "c164b057d2903b91bd59fc3d96e8d8fb85c16686e39a75049d92aa5ad5e57919"
+      },
+      {
+        "id": "sydney-profile-common-sydney-advanced-computing-scholarship",
+        "title": "sydney 官方资料：common-sydney-advanced-computing-scholarship",
+        "url": "https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "d087b28724b7f32be0db7f77d617e72ec2f928e0aeef9271f8825e549a763f5a",
+        "sha256": "d087b28724b7f32be0db7f77d617e72ec2f928e0aeef9271f8825e549a763f5a"
+      }
+    ]
+  }
+}

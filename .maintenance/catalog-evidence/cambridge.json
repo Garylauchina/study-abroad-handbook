@@ -1,0 +1,42 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.undergraduate.study.cam.ac.uk/courses",
+    "official_total": null,
+    "observed_directory_count": 33,
+    "page_evidence": [
+      {
+        "page": "single complete A–Z",
+        "count": 33,
+        "first": "Anglo-Saxon, Norse, and Celtic, BA (Hons)",
+        "last": "Veterinary Medicine, VetMB",
+        "pagination_links_found": 0
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "completeness_scope": "Published official A–Z directory; not proof that every application remains open.",
+    "filter_rules": [
+      "All subjects, no search keyword or subject filters",
+      "Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed",
+      "Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards"
+    ],
+    "unresolved": [
+      "Directory has 33 course-level admissions entries. Subject pathways within broad entry courses are not fabricated as separate admissions programmes. Award alternatives on the same official entry page remain combined."
+    ],
+    "raw_artifacts": [
+      "cambridge/raw/directory-0.meta.json"
+    ],
+    "university_id": "cambridge",
+    "count": 33,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses",
+      "sha256": "f528bde84aa2c1a96e5abcbf1921395dc74134791187e911b1f9cd6388bef308",
+      "bytes": 81766,
+      "raw_file": "scratch/full-catalog/uk/cambridge/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/cambridge/raw/directory-0.meta.json"
+    }
+  ]
+}

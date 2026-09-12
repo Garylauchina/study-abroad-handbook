@@ -1,0 +1,41 @@
+{
+  "original_manifest": {
+    "university_id": "princeton",
+    "status": "complete",
+    "count": 36,
+    "official_total": null,
+    "discovery_source_url": "https://www.princeton.edu/academics/areas-of-study?degree=All",
+    "source_period": "current official Areas of Study; academic year not stated",
+    "scope": "All Areas of Study entries explicitly offering AB and/or BSE; degree variants combined when the university combines them",
+    "pagination_evidence": {
+      "all_accordion_records": 103,
+      "bachelor_records": 36,
+      "pagination": false
+    },
+    "filter_rules": [
+      "Retain rows with explicit A.B. or B.S.E. label in Degrees, Certificates & Minors",
+      "Exclude minor-only, language-only and graduate-only fields",
+      "Use official linked View Courses detail URL rather than legacy non-HTTPS Undergraduate Announcement links"
+    ],
+    "gaps": [
+      "Undergraduate Announcement host blocked direct HTTP; degree identity verified against complete university-wide official list and admissions degree page"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://admission.princeton.edu/academics/degrees-departments",
+      "sha256": "ddf2a5ff11b6643834bd7072817ce8ba5168875885c413e748dbac8fa350301b",
+      "bytes": 129367,
+      "raw_file": "scratch/full-catalog/us-a/princeton/admission-degrees.html",
+      "meta_file": "scratch/full-catalog/us-a/princeton/admission-degrees.meta.json"
+    },
+    {
+      "url": "https://www.princeton.edu/academics/areas-of-study?degree=All",
+      "sha256": "bd2f07a1b25ae7d1fdf76476b7c1b7307dfe9cf48d900dfed49dbe3a102a815f",
+      "bytes": 197640,
+      "raw_file": "scratch/full-catalog/us-a/princeton/areas.html",
+      "meta_file": "scratch/full-catalog/us-a/princeton/areas.meta.json"
+    }
+  ]
+}

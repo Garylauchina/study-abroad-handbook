@@ -1,0 +1,174 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.kcl.ac.uk/study/undergraduate/courses",
+    "official_total": 148,
+    "page_evidence": [
+      {
+        "pageCount": 10,
+        "pageIndex": 0,
+        "pageSize": 15,
+        "totalCount": 148
+      },
+      {
+        "pageCount": 10,
+        "pageIndex": 1,
+        "pageSize": 15,
+        "totalCount": 148
+      },
+      {
+        "pageCount": 10,
+        "pageIndex": 2,
+        "pageSize": 15,
+        "totalCount": 148
+      },
+      {
+        "pageCount": 10,
+        "pageIndex": 3,
+        "pageSize": 15,
+        "totalCount": 148
+      },
+      {
+        "pageCount": 10,
+        "pageIndex": 4,
+        "pageSize": 15,
+        "totalCount": 148
+      },
+      {
+        "pageCount": 10,
+        "pageIndex": 5,
+        "pageSize": 15,
+        "totalCount": 148
+      },
+      {
+        "pageCount": 10,
+        "pageIndex": 6,
+        "pageSize": 15,
+        "totalCount": 148
+      },
+      {
+        "pageCount": 10,
+        "pageIndex": 7,
+        "pageSize": 15,
+        "totalCount": 148
+      },
+      {
+        "pageCount": 10,
+        "pageIndex": 8,
+        "pageSize": 15,
+        "totalCount": 148
+      },
+      {
+        "pageCount": 10,
+        "pageIndex": 9,
+        "pageSize": 15,
+        "totalCount": 148
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": false,
+    "filter_rules": [
+      "Unfiltered undergraduate A–Z; 10 pages of 15, pageIndex=0..9",
+      "Parse embedded public server-rendered listing records, not hidden browser state",
+      "Keep intercalated and graduate-entry undergraduate degrees with route notes"
+    ],
+    "unresolved": [
+      "Directory cards do not state entry year; no automatic assumption of 2027.",
+      "Course presence is not confirmation that applications remain open.",
+      "All 148 official result positions across 10 pages were read, but only 147 unique course IDs were returned. Electronic Engineering BEng (db5d7926-b4e1-4dd3-8af7-70530b98f9e2) occurs on both pageIndex=2 and pageIndex=3; one potential missing distinct course cannot be ruled out."
+    ],
+    "raw_artifacts": [
+      "kcl/raw/directory-0.meta.json",
+      "kcl/raw/directory-1.meta.json",
+      "kcl/raw/directory-2.meta.json",
+      "kcl/raw/directory-3.meta.json",
+      "kcl/raw/directory-4.meta.json",
+      "kcl/raw/directory-5.meta.json",
+      "kcl/raw/directory-6.meta.json",
+      "kcl/raw/directory-7.meta.json",
+      "kcl/raw/directory-8.meta.json",
+      "kcl/raw/directory-9.meta.json"
+    ],
+    "university_id": "kcl",
+    "count": 147,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=2",
+      "sha256": "0edc341b8144a6faa3567f1aa1afb417e56e592b084707d3a71e779177a8af68",
+      "bytes": 794579,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-2.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-2.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=9",
+      "sha256": "23635991d954541bd5de8650642c8508c99ab24dd45b772de869d4187e81bfd3",
+      "bytes": 786901,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-9.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-9.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=4",
+      "sha256": "e6cb2723b5b43336c1eb9e8a143035ec8cf58721e6505583645706bbf46a8d39",
+      "bytes": 793514,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-4.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-4.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=3",
+      "sha256": "d65b4710dcc9b655bdb1ee68c5e8c9b31ea96425d338dba6e51b167de9709bf2",
+      "bytes": 793877,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-3.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-3.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=8",
+      "sha256": "5326bf527b9f9bf856b11020d4e0d8ea3f3831a2c9c4773b26f5b3757db0af3e",
+      "bytes": 791889,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-8.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-8.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=5",
+      "sha256": "c670099c83846f96156ccdeb95b5ee1f41231e8b48e1f454dbaa361ff548634f",
+      "bytes": 794609,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-5.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-5.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageSize=500",
+      "sha256": "9fd1678bd80ef990aa27ff8094e834b465add644f2b2d8bc4d8f5ca7c3adfe1d",
+      "bytes": 793460,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/page-all-test.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/page-all-test.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses",
+      "sha256": "63105e083ca63ec749171e1ae1a7aec3478b2968b45effce853994078383de39",
+      "bytes": 793423,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-0.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=6",
+      "sha256": "d3f7e32396312d37e16dbcd6302673fd585db679c7551992e566e297c10b674d",
+      "bytes": 793753,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-6.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-6.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=1",
+      "sha256": "0a7149a65d13af6a121926e20810904decf2121cf37fde3e9b54b3ddf8838a49",
+      "bytes": 792975,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-1.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-1.meta.json"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses?pageIndex=7",
+      "sha256": "55d18e9f8b0c16c0c5bbdb05384d89b44cc9c803ea9ee3cb6aceb5d78692d936",
+      "bytes": 794388,
+      "raw_file": "scratch/full-catalog/uk/kcl/raw/directory-7.html",
+      "meta_file": "scratch/full-catalog/uk/kcl/raw/directory-7.meta.json"
+    }
+  ]
+}

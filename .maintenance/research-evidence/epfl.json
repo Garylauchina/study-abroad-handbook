@@ -1,0 +1,125 @@
+{
+  "university_id": "epfl",
+  "sources": [
+    {
+      "url": "https://www.swissuniversities.ch/en/topics/studying/admission-to-universities/countries-1",
+      "sha256": "2c5a65b1703b008f0442d2912de8152b564d5251755de10926266b57e46ba8f1",
+      "raw_file": "scratch/full-catalog/root/swiss-countries.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/",
+      "sha256": "3dcef7dc112a3783188fc4fd8eb5f228c5209bb79f6fc3e0055be4ff3bc03f17",
+      "raw_file": "scratch/full-catalog/root/epfl-admissions.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/admission/wp-content/uploads/2019/01/Conditions-CMS.pdf",
+      "sha256": "2151bfbe2e89ad46f000f7691441a1debb42b21be5871238f407618eef09d267",
+      "raw_file": "scratch/full-catalog/root/epfl-cms.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/how-to-apply/",
+      "sha256": "c6642a3e6da4b6ff7effa3685280c7004d6d727cead079e430f5c7695641f032",
+      "raw_file": "scratch/full-catalog/root/epfl-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application/admission-examination/",
+      "sha256": "942bf5f0e4aa478df426cf4464fb752ed986deb12196d6459b17ba0c989ee566",
+      "raw_file": "scratch/full-catalog/root/epfl-exam.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/studies/en/rules-and-procedures/study-taxes/tuition-fee-other-fees/",
+      "sha256": "db3fe92d5312a3479b2de62c912c1683f2fcab5a201cb0d2a6a68fcdf5bf8c4f",
+      "raw_file": "scratch/full-catalog/root/epfl-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/",
+      "sha256": "a84840f549c4ccf5d81bc8a483ce8766226868f4be3ac829afca58a4f88e9644",
+      "raw_file": "scratch/full-catalog/root/epfl.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/architecture/",
+      "sha256": "41fce2a870374dce7a1130d650ba0c1219b663ebad3b274f624b8848b9ecac8e",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-01.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/chemistry-and-chemical-engineering/",
+      "sha256": "e905f97a514bd6e31c145d9bbb845751fbd5bbb90a6655d0b2e5d5abe57d06fc",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-02.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/civil-engineering/",
+      "sha256": "c7733675fa8dc7f12365ef32aee7327d3acae3864a3f2eac3d638c8ad89a99bf",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-03.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/communication-systems/",
+      "sha256": "9f836aa13f2743d1be2aa549747e5d3a29e6769ab663e6ada991e6d8f92ffc3b",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-04.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/computer-science/",
+      "sha256": "6be98a79f21140a2a1eaed8411f8a957983def58f8fe884a66d323c004ff3ff4",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-05.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/electrical-and-electronic-engineering/",
+      "sha256": "cd3eb44f472692b5dcd0c0172beaa268ebc430b342b6f60f5351a7bf70c9a7c1",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-06.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/environmental-sciences-and-engineering/",
+      "sha256": "b4086ab9c554591ea975f39ae09bfd03dbe9f232e96eb6690748a70d8e567c1c",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-07.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/life-sciences-engineering/",
+      "sha256": "7f8cc5f5d50bbe6324655b42ff1ddf58790c120450e7f850ae0ffb155cce97aa",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-08.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/materials-science-and-engineering/",
+      "sha256": "85f8ad80bf04dd5fb361ca7e9bcdf59e313a2edbbe34180c99921f0d17aabb77",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-09.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/mathematics/",
+      "sha256": "796a4e633d5137c2bf53a7e900ba12b311374350a1fc60109a98a865bf1c61ff",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-10.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/",
+      "sha256": "f39ac840c927e7639df69a695d5a95e5aa6c0e4358818d101cd24362cd596aad",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-11.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/microengineering/",
+      "sha256": "63dc17bacf2f54a10ebb7135d74cb1592cd93665cecebd2644ce407b82eb034b",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-12.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/physics/",
+      "sha256": "2745c05190c8e9dbc0bbff981cec54d731ce55556de163b65f3410d5b364d3bf",
+      "raw_file": "scratch/full-catalog/root/epfl-detail-13.html",
+      "locator": null
+    }
+  ]
+}

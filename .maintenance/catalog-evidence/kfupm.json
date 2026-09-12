@@ -1,0 +1,30 @@
+{
+  "original_manifest": {
+    "university_id": "kfupm",
+    "checked_at": "2026-09-12",
+    "count": 54,
+    "status": "partial",
+    "scope": "KFUPM Undergraduate Bulletin全部本科专业及独立Internship/Summer Training项目变体。",
+    "method": "单页54个/program?program_id本科课程链接，无分页；每个独立program_id保留。",
+    "sources": [
+      {
+        "url": "https://bulletin.kfupm.edu.sa/programs/undergraduate-programs/",
+        "sha256": "f26ddaef486306c961b697018fe2c895b4b827f5b29603ba68fd1637e7ba3332",
+        "raw_file": "kfupm.html"
+      }
+    ],
+    "exclusions": "排除 0 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [],
+    "gaps": [
+      "尚需将独立本科Concentration目录与54个主专业/实习变体对齐，不能把每个CX方向都当作独立学位。"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://bulletin.kfupm.edu.sa/programs/undergraduate-programs/",
+      "sha256": "f26ddaef486306c961b697018fe2c895b4b827f5b29603ba68fd1637e7ba3332",
+      "raw_file": "scratch/full-catalog/root/kfupm.html",
+      "bytes": 29365
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "university_id": "uzh",
+  "sources": [
+    {
+      "url": "https://www.swissuniversities.ch/en/topics/studying/admission-to-universities/countries-1",
+      "sha256": "2c5a65b1703b008f0442d2912de8152b564d5251755de10926266b57e46ba8f1",
+      "raw_file": "scratch/full-catalog/root/swiss-countries.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/en/studies/application/bachelor.html",
+      "sha256": "9d602aa9da30913774c3d15d16545dad5fc2336a374db3e4a49d3084461f2576",
+      "raw_file": "scratch/full-catalog/root/uzh-admissions.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/en/studies/application/languagerequirements.html",
+      "sha256": "6912526dab6122fad748cab1fb6a2363a32a9fa0cd1defec7f2fb159e0e3e100",
+      "raw_file": "scratch/full-catalog/root/uzh-language.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/en/studies/application/deadlines.html",
+      "sha256": "8695271a52bc498fe35173e87a81a82c908c19e3467823be51c4e1861ce9c1e7",
+      "raw_file": "scratch/full-catalog/root/uzh-deadlines.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/en/studies/application/fees.html",
+      "sha256": "b9fe0f0ae955af17df3bf0a267ef87eb954ad2db0164969679345680afc73e61",
+      "raw_file": "scratch/full-catalog/root/uzh-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/Angewandte-Mathematik-und-Machine-Learning.html",
+      "sha256": "2ac09498e987de47ff3f467dcb9f40bb2b5b1edb149410e3ab110e5c9d961b1e",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-00.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/archeologies.html",
+      "sha256": "f62d75aab89a3fab2d29f0cbb307e5082c73cb0cfeaea6f3dd453f46cedd75f7",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-01.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/astronomy_astrophysics.html",
+      "sha256": "b1d5a1e6d0ff40aad8b1ca18f202f26659c8981fc6d4db6d68ec7253bf0ef383",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-02.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/Bachelor-Sustainability.html",
+      "sha256": "a46391fd73fcbb1bedfa714aa24f0170899f4326029094db1e830e0ede4fa4b6",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-03.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/BAES.html",
+      "sha256": "d23b22c9e179f791c3f838f922f6d4ee3248939ff0a7f59bf2a058c55ff67e2f",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-04.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/business.html",
+      "sha256": "2991983808d34548656254bbfd25485b1494901edf3aabe00f3c534396b862fd",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-05.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/biochemistry.html",
+      "sha256": "06afb37a62b49960a2fae313d05b5d69d0f5cecf837109c48b2bff246274f310",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-06.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/biodiversity.html",
+      "sha256": "7b2637f4d3a7a455845478c3ac141616a88791640a6e7ee31c622921177c4a3f",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-07.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/biology.html",
+      "sha256": "6c05b65234650964145d79a6f2a71b6e0d207d5599cd3de0b75229dc61271849",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-08.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/biomedicine.html",
+      "sha256": "67e48f0d30e1f8a2805c647a149f529a331938dfaad3bebd2047d3b10f38a1b7",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-09.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/chemistry.html",
+      "sha256": "911fc42c81cfa5010996df2ec8371171cb59986b1aac02e0febe44b0fb5f90b0",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-10.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/chiropractic_medicine.html",
+      "sha256": "b38a74b62c2d9cb098b0291a50149aff6e5dbf251e1881b3f201803875a1ff9f",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-11.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/en/studies/application/medicine/bachelor.html",
+      "sha256": "9bb37db86fdf647f68e8a42f6b431c91b3e476d29ab362b2a6bfcdfe32677c22",
+      "raw_file": "scratch/full-catalog/root/uzh-medicine.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/computerlinguistics_language_technology.html",
+      "sha256": "6d1cd8a8972f01ad0500f100ff51a1f0bf9213ae5949bcf9a61d87bfca5a6940",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-12.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/german_language_literature.html",
+      "sha256": "849987b7a104fdad19e97ebc14e8c1562dd3c000c776b2d4b6b5665389d990f5",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-13.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/english_language_literature.html",
+      "sha256": "65c99ad032e63cb5693ef581646f7d2be8328002b94371996bb9b0ddc9e130d1",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-14.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/earth_system_science.html",
+      "sha256": "d429737f956217d4100ba9907ca82e091216fff402459ff5dfc831374e8eaf4d",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-15.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/education_science.html",
+      "sha256": "61f1505343cfb912f84db79a4e0b74ae659a03cf422ae187aeb6bdce7d5997c2",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-16.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/ethnology.html",
+      "sha256": "7e1739e38f39077904df32c014aa08b55aa54b5635ab2c0385a910f913f3d5d2",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-17.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/scientific_discipline_pedagogics_psychology.html",
+      "sha256": "d697f20fcadaa8bc2b970d0d818a8e6b60e0e1b6c40c424ec0c80f647c2d8089",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-18.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/film_studies.html",
+      "sha256": "a16bae1b461f06dead62747b301ebb04958f0f76aac5d6d88d4f1df66eef9ce2",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-19.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/finance.html",
+      "sha256": "a9b3c7422a1ae268f1b552058afaabaab6238c6936597197fc5548d9da7a946f",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-20.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/french_language_literature_studies.html",
+      "sha256": "c09b378fc630ae164ac5b88e65e33bf3c726aaa7b39b77f827eaeeaa82f42cf1",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-21.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/geography.html",
+      "sha256": "a390239f10e77ccfdf9733f69257f073bc644d173a79add30ef3e14d8284a502",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-22.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/history.html",
+      "sha256": "c866e461eeecf3c67b501c72afd591440eb5a2a161263621c91025202656d2e6",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-23.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/greek_philology.html",
+      "sha256": "dd99c7e7284fef98630f9391b6a95c3da0c9f598343436cbd82a8af44df5ce7e",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-24.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/medicine.html",
+      "sha256": "c3793d7bb7e0ea179179039ffc16b1501723034e31bc1374816f7fab9adb1a5d",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-25.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/indology.html",
+      "sha256": "c9bee032499dd5e13a4490830b7924f917148d920d899a2fcc1ddfd46b41dbca",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-26.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/informatics_sciences.html",
+      "sha256": "b80bf4889ac82b75e954e45adbf286f240682dba5bb5c8a711b9b22707d16b45",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-27.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/italian_language_literature.html",
+      "sha256": "9733b7caa265236911dc97abe2c432180f3ab552a5bcfe89d084cc913d1f3386",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-28.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/japanology.html",
+      "sha256": "4002f61101014cbb0b3b481af87ab8e851f5b0b09706ecde7b331de6d30ac56c",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-29.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/communication_media_studies.html",
+      "sha256": "9b98850ead2d91e4bcebc45f5e8888b93f944c988cfb6e6b929676599597bbdf",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-30.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/art_history.html",
+      "sha256": "b27cc5ace6c2b120c3da722b91e9ffb008b1c71395c89643510e447c6a3af311",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-31.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/latin_philology.html",
+      "sha256": "ce0826c6aa9d134697983624aa6fa75c995a265d36af94dc914aa0ab3971153a",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-32.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/mathematics.html",
+      "sha256": "f3d28b0e2b407e1419d151efc428a8cabac7b99992cfc209129c7cfe8e085e44",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-33.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/musicology.html",
+      "sha256": "7219453ca47e7137afb2311b0757795e4c0c4366d39c03c2ba1f4341f1ab72ab",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-34.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/near-and-middle-eastern-studies.html",
+      "sha256": "6868495a463a4257700ae233bb3aa4cb7b7b51b47e45acd000d3fc98c2f1dc4f",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-35.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/eastern_european_studies.html",
+      "sha256": "4ee6d9631a85597c88d7afe002e89aef6fa11f36bc085a4e5b24e6ba9ca69a77",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-36.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/philosophy.html",
+      "sha256": "8179231bdb76806ed13de2e4a16d9258c0463485f95591499cb9fb49762e8f88",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-37.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/physics.html",
+      "sha256": "9328fb4a47f866a4180ea800e6ca66b23da271a79f179bafe2455d651ea4f428",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-38.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/political_science.html",
+      "sha256": "e750475198925a573bc72cfc79d1e988a3a4a144096960aff01c270a2c24eb13",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-39.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/popular_culture_studies.html",
+      "sha256": "5338feac701772e134493d61d97926c97862bc8822eebe34f213bfba9a5f2093",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-40.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/psychology.html",
+      "sha256": "995c69eab37a3e60690eb69fcfec7fb2f052179375fe8bf82febc4e99a8f7e94",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-41.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/law.html",
+      "sha256": "40ce4ba0fede94de9a488092350e797ceb6d63c1020170f84d0297c20c724351",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-42.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/religious_studies.html",
+      "sha256": "1d65d657d5ffc5996812beb2f880efd0edbdae121b333ae60175010556d1ab44",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-43.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/Religious-Studies-and-Theology.html",
+      "sha256": "210b9d2cc776fef2d174766e41251a80bed1655a06dfc42da05f367d07d9dca4",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-44.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/sinology.html",
+      "sha256": "201a1fd79c1a9cbd6446bbd14755f7fb4bd3d1667be9fe176842612ba7e10019",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-45.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/scandinavian-studies.html",
+      "sha256": "8d47bd9199f361f1cb1646ee28362221c378b1ca8cfa2571213ac333674b230e",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-46.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/slavic_linguistics_and_literary_studies.html",
+      "sha256": "9f53a9e9b232f7d71466b694c4d46fa64af1d3e40d26d067fec3963935063d2d",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-47.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/software_systems.html",
+      "sha256": "a81b53281cfc0fa8b3688cf302062e37e6f7bb5db0cdb40bd7e42c2225eda90b",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-48.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/social_studies.html",
+      "sha256": "634d7499b6b956640948e63a4edb5e2df4e4963251d384eb7740cfa5583f44bc",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-49.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/spanish_portuguese_language_literature_studies.html",
+      "sha256": "f4638533f7f04c5604219c3a321e22981440d53008012d79cee919860509d6c9",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-51.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/theology.html",
+      "sha256": "568644bdb1fd809fad2439d6df8af0eec1f220028c84fadf2bd900e5ba613b33",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-52.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/comparative_romance_linguistics.html",
+      "sha256": "b9c15d2c37735219171fe5991e7ddef966f52c92ea3ed7e7fbd7ea91485a9386",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-53.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/comparative_language_science.html",
+      "sha256": "4eff29e92a95b57152f244e966b5e0c5d05c1c0245989670ccfec8bc89cb240d",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-54.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/veterinary_medicine.html",
+      "sha256": "340069ac195288eea6363ce1f200de95061bedc99c2d889488e9ed566c70a6ef",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-55.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/economics.html",
+      "sha256": "7db73c81ec763ad399fd6bb406329242c73f683ebc2971c7cad58990fa95642e",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-56.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/business_chemistry.html",
+      "sha256": "fc8e23e3bbcdbeb36b039e615d42410f2a87565bd60e0e72d4ddafd91837d72d",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-57.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/information_systems.html",
+      "sha256": "124e780b831727ddd5ff818655b46aa043e0407be5e3b94edb9995a863218635",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-58.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor/dentistry.html",
+      "sha256": "078ce1c6e0a5a9fd31b03ec36c362712eafc4075bb75d1ee1ffd76d0c1de2a6c",
+      "raw_file": "scratch/full-catalog/root/uzh-detail-59.html",
+      "locator": null
+    }
+  ]
+}

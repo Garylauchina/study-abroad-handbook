@@ -1,0 +1,47 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+    "official_total": 10,
+    "official_total_unit": "faculties; 22 listed departments/entry fields",
+    "pagination_complete": true,
+    "provably_complete": true,
+    "page_evidence": [
+      {
+        "pages": 1,
+        "faculty_count": 10,
+        "department_entries": 22,
+        "pagination": "Single complete table; no pagination"
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "Department-level enumeration; subject pathways inside broad departments are not yet expanded.",
+      "Mainstream, iUP and other international admission routes are not interchangeable; language and route not inferred."
+    ],
+    "raw_artifacts": [
+      "kyoto/raw/directory.meta.json"
+    ],
+    "university_id": "kyoto",
+    "count": 22,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 22
+    },
+    "record_type_counts": {
+      "undergraduate_department": 22
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/undergraduate-degree-programs/faculties2",
+      "sha256": "828cba372e5b0cab0af678c6a32ac379912b5d303017f98fcbec7f6170e13d34",
+      "bytes": 47051,
+      "raw_file": "scratch/full-catalog/asia/kyoto/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/kyoto/raw/directory.meta.json"
+    }
+  ]
+}

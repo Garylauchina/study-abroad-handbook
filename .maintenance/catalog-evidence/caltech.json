@@ -1,0 +1,45 @@
+{
+  "original_manifest": {
+    "university_id": "caltech",
+    "status": "complete",
+    "count": 26,
+    "official_total": null,
+    "discovery_source_url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/",
+    "source_period": "2025-2026",
+    "scope": "All bachelor options under Graduation Requirements, All Options",
+    "pagination_evidence": {
+      "type": "complete static HTML",
+      "selection": [
+        "Select all Option/Option and Minor links from undergraduate graduation-requirements navigation",
+        "Exclude Minor-only, general core, courses and graduate options"
+      ],
+      "pagination_links": 0,
+      "full_document_saved": true
+    },
+    "filter_rules": [
+      "Select all Option/Option and Minor links from undergraduate graduation-requirements navigation",
+      "Exclude Minor-only, general core, courses and graduate options"
+    ],
+    "gaps": [
+      "Current official catalog resolves to 2025-2026, published March 21 2025; 2026-2027 edition not obtained",
+      "Admissions list separately names Environmental Science and Engineering Chemistry/Physics paths, whereas formal catalog lists one ESE option; preserve option-level granularity"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.catalog.caltech.edu/current/information-for-undergraduate-students/graduation-requirements-all-options/",
+      "sha256": "135e151cc9d6e48d89999197152fe56a98e159ab168a249d6a5baab0923ca767",
+      "bytes": 186439,
+      "raw_file": "scratch/full-catalog/us-a/caltech/requirements.html",
+      "meta_file": "scratch/full-catalog/us-a/caltech/requirements.meta.json"
+    },
+    {
+      "url": "https://www.admissions.caltech.edu/why-caltech/academics/majors-minors",
+      "sha256": "008fabcb7d97bb55af3932f5d584bfa32aa86cf46b2bb0bae5f9a81293aac8f6",
+      "bytes": 243438,
+      "raw_file": "scratch/full-catalog/us-a/caltech/majors-minors.html",
+      "meta_file": "scratch/full-catalog/us-a/caltech/majors-minors.meta.json"
+    }
+  ]
+}

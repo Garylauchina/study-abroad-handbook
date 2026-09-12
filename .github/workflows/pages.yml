@@ -39,6 +39,8 @@ jobs:
         run: python scripts/render_catalog.py --check
       - name: Verify budget and catalog behavior
         run: node --test scripts/budget.test.mjs scripts/catalog.test.mjs
+      - name: Verify research sources and special application paths
+        run: python scripts/catalog_research_test.py
       - name: Verify asset versioning
         run: python scripts/version_assets_test.py
       - name: Build handbook

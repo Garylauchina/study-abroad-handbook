@@ -1,0 +1,977 @@
+{
+  "university_id": "queensland",
+  "sources": [
+    {
+      "url": "https://study.uq.edu.au/admissions/undergraduate/review-entry-requirements",
+      "sha256": "543a6b83adb02e4980ca5ddd0c280dfc48d3394c3736dd88c40e2716d6201af0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/admissions/english-language-requirements",
+      "sha256": "c28308eeccfc47ed3c529a531e1a936eaa0d7a3b53c6aca32dfe47a660d11ed9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/english.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/admissions/undergraduate/submit-your-application",
+      "sha256": "966adc5ffe20cb6bb3c231e8b6484e5e06327098ab7862a5c30128758529a532",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/submit.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/admissions/undergraduate/review-fees-and-financial-support",
+      "sha256": "108f246493a7fccb55e4c53a87fdd7d7d18120a8d8661ea57e36b09f3f02c9bb",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-advanced-business-honours-2139",
+      "sha256": "902f3fd68feae0dbc1555af1524a35ed772adf1bf94b5fd6fb6b0c7ca45cead2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-advanced-business-honours-2139.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-advanced-finance-and-economics-honours-2140",
+      "sha256": "fd6e04c6d19c36445da857a4d57f3db0189fe89f2f6bef02281dbf0673b9fc07",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-advanced-finance-and-economics-honours-2140.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-advanced-humanities-honours-2414",
+      "sha256": "3ba1ed42c663d5b5ed07e56cab4c3a40982c72d9f3cc0aed20e0b67464c3c4fc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-advanced-humanities-honours-2414.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-advanced-science-honours-2516",
+      "sha256": "87829d70f25a794cf4e70b339070d8e8c1ab0e591c008a205231307710a27005",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-advanced-science-honours-2516.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-agribusiness-2007",
+      "sha256": "9221b3296f8db1b05ae2bcf050ff1d92a0f4da28ca4fdad3f04c5428e5d7f63c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-agribusiness-2007.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-agribusiness-agricultural-science-2584",
+      "sha256": "b8eb05d5a2310b9b830ac6d60b619dfc4303f31280e4377c3c33173319088076",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-agribusiness-agricultural-science-2584.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-agricultural-science-2583",
+      "sha256": "b5b4755eac528dc238f025edbc88b5c24e7f57400685dbb043639c2586614e72",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-agricultural-science-2583.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-agricultural-science-honours-2450",
+      "sha256": "8b1268486ba8948bc4ba3609cd57d435f16e42814571bf0bacec3a579920712a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-agricultural-science-honours-2450.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-architectural-design-2550",
+      "sha256": "832ed81f240c364b83d7ebe0f46abf54fdf0ff5e75c461763727a9b0c874529b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-architectural-design-2550.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-arts-2000",
+      "sha256": "320d4bf71b199d5f1be23b4e24757b915a444a57e3a83f3c26f97bdf48512680",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-arts-2000.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-arts-education-secondary-2066",
+      "sha256": "16e54bb32716380568a528d7a5016ca5a0a7abebbbd61e039f063e60be98633e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-arts-education-secondary-2066.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-arts-laws-honours-2142",
+      "sha256": "e9cb9cd6e1c4917cc78ba1059b040d0a9cc90587da5f0ed2a9fcf378f6ab1432",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-arts-laws-honours-2142.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-arts-social-science-2505",
+      "sha256": "8f00f1d7211afad34de0104f6c5ed52bc85397d7c467b47ae6d82073fa84b65c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-arts-social-science-2505.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-arts-tourism-hospitality-and-event-management-2474",
+      "sha256": "038bfe24fca11ab14dcac2942d74246609a1fcd43c7ad4bfd7a762d14abf2930",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-arts-tourism-hospitality-and-event-management-2474.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-arts-honours-2052",
+      "sha256": "2be2715a931b916d6184ae5c11bc0c55ee1a66b2be628a50626bacc0549334bf",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-arts-honours-2052.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-biomedical-science-2546",
+      "sha256": "b767d1a145e078924200bd8235413ed4412bf3a4ea2f3985c98094a3bee0ab51",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-biomedical-science-2546.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-biomedical-science-science-2547",
+      "sha256": "ad1b45805679e1e5be007d6c7268ebe3303b62bcfe1745edcb26b3afce3d5dbd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-biomedical-science-science-2547.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-biomedical-science-honours-2423",
+      "sha256": "cbed0aa5229fa2b75ca80d1359e00ac5dbe061b8fa74f9919ff281ac37624cf6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-biomedical-science-honours-2423.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-biotechnology-2456",
+      "sha256": "780527a1c49aa69fedceeec765295ef82f11853aacb2142376a141bb06e70ae0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-biotechnology-2456.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-biotechnology-honours-2457",
+      "sha256": "10169ec4f0696489532126d15942735cf35899eace6e6a1a060b06659605ca56",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-biotechnology-honours-2457.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-built-environment-and-design-honours-2581",
+      "sha256": "30d01abfcc2caec6b53e027aebc883ae5a09e095fa1c2deff74e1e866f7d7a3c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-built-environment-and-design-honours-2581.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-business-management-2171",
+      "sha256": "37f4de5d4486bd4eacc5ce1d0011366455e29aff7435006a540fe8c3fa02d856",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-business-management-2171.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-arts-2175",
+      "sha256": "12d791fd55da52646d64f33cac7524335381bd8300185ba49327a6663e2550b4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-arts-2175.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-commerce-2180",
+      "sha256": "650195b62b789d138736fb870832836633f4fbdd7babc2bd09d047ebe429fc1c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-commerce-2180.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-communication-2509",
+      "sha256": "39c01bbdf39bebb1240c77c503c95a6707a1508e629b3bc2c62e7560edcb26dc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-communication-2509.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-design-2554",
+      "sha256": "15328cf271dd0974de1e5c91030db00a55a206f8d4b7667d5dfee6dd13461d36",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-design-2554.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-business-management-diploma-languages-2543",
+      "sha256": "a43acd95ce83a87d8b3fad272ace02f9741a79e3ecf2fc1deb6193e2b2e6a52d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-business-management-diploma-languages-2543.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-economics-2181",
+      "sha256": "3901ea03b3e8f5584b1f8f63e0353116d20527c2d3359d2a083f40f31ffaa228",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-economics-2181.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-education-secondary-2298",
+      "sha256": "63722072dce3f3a5f2f074b96c72a69fd1cef3725718a9ebd800a65d21cc5901",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-education-secondary-2298.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-information-technology-2571",
+      "sha256": "56b73ebc71fdb7b494087be5d424eacef4be57a004d60667674b25485a391449",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-information-technology-2571.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-journalism-2510",
+      "sha256": "7c2b8b3a678332162b16ed87df3a27703f62eba879b3f90b9a7ae3cda7093da1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-journalism-2510.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-laws-honours-2334",
+      "sha256": "a2ed3a923ece24cf76c2613474b864442e4babee0c487f57a5b087c0d9c2ede9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-laws-honours-2334.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-science-2335",
+      "sha256": "d39f5527ba6d93662f74fe64014df1a48607531d2911dd76b6cad66167b04851",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-science-2335.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-business-management-tourism-hospitality-and-event-management-2475",
+      "sha256": "6847009fc3654861ce76ce56072fe568bee50ec09697d0838b7c8f197b6d2b83",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-business-management-tourism-hospitality-and-event-management-2475.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-business-management-honours-2129",
+      "sha256": "c543dbe528d5e1e7e9e46839d1bb842585c217c12f4373af3442b2a4ae293ab6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-business-management-honours-2129.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-clinical-exercise-physiology-honours-2413",
+      "sha256": "7cc7c2cd894ec0608e6474de275e07fdbc6a7e910b2c944253b64fefee0e7479",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-clinical-exercise-physiology-honours-2413.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-commerce-2336",
+      "sha256": "f7be606043435781841f763b9c7196e92133d79c1236254a542c296e80e14b52",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-commerce-2336.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-commerce-arts-2337",
+      "sha256": "08eb6b6305be04372027f84aeb322e77e1cd1ce8fc1976f948051c3a41f70f2f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-commerce-arts-2337.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-commerce-diploma-languages-2542",
+      "sha256": "04d895e8969bdea8c9933da7e4eb9e55d6ec334ed88d7144bcdf9b80cc8fe116",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-commerce-diploma-languages-2542.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-commerce-economics-2338",
+      "sha256": "2e96aa4f6fb00e1b9cfbac0af11a2ebb1b2e644c4ce4fa0a1ebb92b9713f68dd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-commerce-economics-2338.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-commerce-information-technology-2572",
+      "sha256": "3230505bbb3212334bb8bfd3104f4f653342bb2bead5947de655c72090a4e674",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-commerce-information-technology-2572.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-commerce-laws-honours-2465",
+      "sha256": "ecf083f65c2d2c903663b77caf1f58f49e91b1568e582b97dfaec6b9e6643861",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-commerce-laws-honours-2465.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-commerce-science-2466",
+      "sha256": "28494491434f556136d834a108e002e3c3461e373522b9e9195bb79f7d4ee957",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-commerce-science-2466.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-commerce-honours-2131",
+      "sha256": "5713dbfaaa3c871ff74d9917baa3b93589dcbcc9d0cbc0ec6f9c371831dcda1c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-commerce-honours-2131.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-communication-2507",
+      "sha256": "00fdc1d8824197736585052fe3bb56e9a50dae163ae56e14f0e0b8434a8007a7",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-communication-2507.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-communication-arts-2504",
+      "sha256": "59a3f43024e87fee2ef7dd9e7650381adb8fa5c764c2487a1f56f1e074b6d347",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-communication-arts-2504.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-communication-journalism-2558",
+      "sha256": "984aa769475f3df8ed3e7445ac7ccc77dc8584a68b39ad35af2e190f2dd13afc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-communication-journalism-2558.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-computer-science-2559",
+      "sha256": "757ff402c5483591fcec6599604e380275f0f7e7de87a42574137d312e15f10a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-computer-science-2559.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-computer-science-arts-2562",
+      "sha256": "b5bdd0137bb41ed70b9b039e310adc098f48e1d88d5bb60f8714d70c8d71abfd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-computer-science-arts-2562.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-computer-science-business-management-2563",
+      "sha256": "2c0ec74673e1be42a9a23a874dd74b7d434abc4772842d43200485c878bd36a6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-computer-science-business-management-2563.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-computer-science-commerce-2564",
+      "sha256": "07d51621dcc25ba8281390daee4634bd8d0106e21fa3f885aeb03c797cc7a401",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-computer-science-commerce-2564.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-computer-science-economics-2565",
+      "sha256": "0270a2b9e7ea304510b8973cdbf3715c91aa0be21a8692f5a63214c411f247c8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-computer-science-economics-2565.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-computer-science-laws-honours-2568",
+      "sha256": "e05474f5d91aef665cdf48cfaf429b5e2677b5a1e3226ef2f0235aecd2d8ff9a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-computer-science-laws-honours-2568.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-computer-science-master-cyber-security-2560",
+      "sha256": "dfb01f7fb14f7a3716e7c5e5c0b8fb3f829e9190e75c1ef01bd81b0c011d4083",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-computer-science-master-cyber-security-2560.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-computer-science-master-data-science-2561",
+      "sha256": "89825f22780f514ff0ca0dbf76b57764c8d28da6525ff95b88a97d43b776d6cb",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-computer-science-master-data-science-2561.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-computer-science-science-2566",
+      "sha256": "4dd3d37fb8bce82e34542723ad9d88b0a93bfc6e89ec7d53300480f1efcd76f6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-computer-science-science-2566.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-computer-science-honours-2452",
+      "sha256": "6b7fce4184b634c41cab7f8d6db6b6d889943979137ca1a85e3d2443b02b56b9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-computer-science-honours-2452.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-criminology-and-criminal-justice-2519",
+      "sha256": "c52e92b694d7232edac9044a4dc1fec0767af8601a43df1b6e07bdd77a3fac92",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-criminology-and-criminal-justice-2519.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-criminology-and-criminal-justice-honours-2520",
+      "sha256": "4d8c6543abd4fb449952153f1ca69d29921625d3452ba8273e3dd6adf4aadc3d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-criminology-and-criminal-justice-honours-2520.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-criminology-and-criminal-justice-arts-2521",
+      "sha256": "070e14854ab7e9f932a5006bc4bcb6639706a68fd0b942d9f39a3628c1eb3701",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-criminology-and-criminal-justice-arts-2521.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-dental-science-honours-2367",
+      "sha256": "025ce3d3201728450a9874c3ebf1b48bd89312cf2641a1d68a350376018781ee",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-dental-science-honours-2367.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-design-2551",
+      "sha256": "86360fc2c5af6e1e91f32c8a7450b34ea6637e4f5d685e071ba70c19a2c8075f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-design-2551.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-economics-2467",
+      "sha256": "7c1d6973f903a922928727f13735f0150df87c54cac87db1c99ea66329923fbc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-economics-2467.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-economics-arts-2468",
+      "sha256": "3f0fd76bc72b30f36a1c18edbe85538da029a5d20edd6e8c63deae293e9b0220",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-economics-arts-2468.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-economics-laws-honours-2469",
+      "sha256": "a51de80becfe821d635d17ce32bb75b9c68c8a741223074314a5ca2e51d68d70",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-economics-laws-honours-2469.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-economics-science-2470",
+      "sha256": "aa12a707916c0f7a54f18b29f676ce0cd385ac73a8c702c8dc75c5dff3124745",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-economics-science-2470.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-economics-honours-2132",
+      "sha256": "0cb6f4fb98f54e58aa2b4796fb719ddda30e4b7ceb9de6509540295ddd234fc1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-economics-honours-2132.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-education-primary-2306",
+      "sha256": "82444ac0b62efd8cfcc06c85e79046e8d3f145f283895d703ec4d2e9e4325e4c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-education-primary-2306.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-education-primary-honours-2380",
+      "sha256": "404cb764e3d94fbf22b977517c3b106ea82cc9f028084d6a9e6f68d1cfce5005",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-education-primary-honours-2380.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-education-secondary-2312",
+      "sha256": "0ea91da073d4cd4a5e694648bd782bab61043d1f8f1e3c765d702133740f97b6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-education-secondary-2312.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-engineering-honours-2455",
+      "sha256": "430675f60d6257d23a25717a4d68728c1946e68558cfc241d153c0bc4992f568",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-engineering-honours-2455.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-arts-2485",
+      "sha256": "06f2de38cfdea2a211e3372575c4532ff478ed5a198bd6d12a5d41c341baf078",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-arts-2485.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-biotechnology-2486",
+      "sha256": "e13c4db7c6aff24d9f4244eb1f1fe9e6d92606b0943dbf9b420f2e67346db0a2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-biotechnology-2486.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-business-management-2487",
+      "sha256": "7c86aa63eae39a422b673fd4aa9ff97335c81996e056b32a8945282a3a0146d1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-business-management-2487.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-commerce-2488",
+      "sha256": "7bb58945df921585e9d65a5d40ee10e310ffc31dc37bdac44a53b789d01a6edd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-commerce-2488.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-computer-science-2569",
+      "sha256": "a12c86c7eb8e868a4970212798c6b26d0272d5801b87d395f2b2b1815724091f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-computer-science-2569.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-design-2556",
+      "sha256": "0e120c5b453a43169d938b6fd7d35882649c6949559452976df8dfc642fc7705",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-design-2556.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-engineering-honours-diploma-languages-2544",
+      "sha256": "d282bebbfa9c206ae68c581ef903ee1d5bd1a9a57f632ba9079cd0b352bb94d8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-engineering-honours-diploma-languages-2544.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-economics-2490",
+      "sha256": "a0bda8107016f96fac3bb5e05580da29750c7016cd22151ec3c2740849d263cb",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-economics-2490.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-information-technology-2575",
+      "sha256": "cd5f052bb40ed424e472bff7eb0e369f2f365eababbca532e8ac911513c97b7b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-information-technology-2575.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-mathematics-2492",
+      "sha256": "e606753e48e86c41b465430b7cdb0e02c81f9ac94fcc6b0c080202d438712282",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-mathematics-2492.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-engineering-honours-science-2493",
+      "sha256": "cf3b98d6c06ea94077d9227cbe3965e84df7c5007fa3a63f91fa8fcf1cdcf578",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-engineering-honours-science-2493.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-engineering-honours-and-master-engineering-2350",
+      "sha256": "27fe1805a97dc12e10206ac3b732e18e65364a922c5cfe44d3273d0f2928ebae",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-engineering-honours-and-master-engineering-2350.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-environmental-management-honours-2376",
+      "sha256": "527d879b600cac7ee567229284825cb7ca30b4746a3485462b411b6c64850072",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-environmental-management-honours-2376.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-exercise-and-sport-sciences-honours-2371",
+      "sha256": "e516aa1a875a07db0b947a5bfba6676350a3bcdc0b9e67e678290dc702b18f8d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-exercise-and-sport-sciences-honours-2371.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-health-sciences-2252",
+      "sha256": "8add3ead5bff6e0791ab893bd0f64552db7df538e5a732120ad5de56ed2e1421",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-health-sciences-2252.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-health-sciences-honours-2253",
+      "sha256": "a68d5b6463e44ac32c6c352c6b9c1d9621c26e057ea7f42b09bf039acfc88d17",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-health-sciences-honours-2253.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-health-sport-and-physical-education-honours-2372",
+      "sha256": "5e2b548276003e70f57da357fe7056c23d0406bfb3bcb3d80b3347d82d3199fd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-health-sport-and-physical-education-honours-2372.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-human-movement-nutrition-sci-tourism-hospitality-event-mgmt-2528",
+      "sha256": "66742a69bd758fff89164876a7f972777d8e59eb7abd82425249492c2a9d1b4f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-human-movement-nutrition-sci-tourism-hospitality-event-mgmt-2528.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-human-movement-and-nutrition-sciences-2525",
+      "sha256": "9514f29202f25d7b08cbb75aebb770ebcc89931c67658a0abee42cbac6ff4bfc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-human-movement-and-nutrition-sciences-2525.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-human-movement-and-nutrition-sciences-arts-2526",
+      "sha256": "bf4d5d0775aac580fa0b2e7e65f805e0c6c568f7a438b3ecff3a3b74d6186cce",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-human-movement-and-nutrition-sciences-arts-2526.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-human-movement-and-nutrition-sciences-business-management-2527",
+      "sha256": "70968f2a1a9ba534aeb305aa58313048e45ebb35d543d6def709ef9f04954aee",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-human-movement-and-nutrition-sciences-business-management-2527.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-human-movement-and-nutrition-sciences-diploma-languages-2576",
+      "sha256": "b61b0cb8fbfe189946a5e3b04c740d24227b076c8e2e98f95cd9e4b2f9d69a4f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-human-movement-and-nutrition-sciences-diploma-languages-2576.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-human-movement-and-nutrition-sciences-information-technology-2573",
+      "sha256": "9bcdabc122ef6ec823974c7d472f35b5dab401b0a99146be8918e4beb97ec0db",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-human-movement-and-nutrition-sciences-information-technology-2573.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-human-movement-and-nutrition-sciences-journalism-2529",
+      "sha256": "a6bbff273d42a97edd26f7b2bccec18e50bb8c1f58f5c42f2ca2274e24281378",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-human-movement-and-nutrition-sciences-journalism-2529.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-human-movement-and-nutrition-sciences-science-2532",
+      "sha256": "ed1d7c6f9e410fd25f12d2274424542473cdecd5c4c7ea0accbb2d2fbcaded6c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-human-movement-and-nutrition-sciences-science-2532.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-human-movement-and-nutrition-sciences-honours-2530",
+      "sha256": "73c27c2c371ec45f0e09531175eaeaac8454bf068ef3e9be059e43c5684901a6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-human-movement-and-nutrition-sciences-honours-2530.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-humanities-laws-honours-2511",
+      "sha256": "b741a7218215317bc7ad8bd3a20836c4f1e93c79c8c5a1a9d3ffe5c7965ed82a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-humanities-laws-honours-2511.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-information-technology-2570",
+      "sha256": "75dc09580836055a12d17d417a185b47cc9fccfe754bbb1bf85fc0672cdcc58e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-information-technology-2570.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-information-technology-arts-2574",
+      "sha256": "ddd3a4be8555c1ef6194dd57acf7f28e799ebe1b5445d7d66850df6841f42002",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-information-technology-arts-2574.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-information-technology-design-2555",
+      "sha256": "6f52bd6138e0e7bda9d53280e88ad5d3c6e8378c6fec0021cc9a09621ea3b9bd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-information-technology-design-2555.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-information-technology-honours-2235",
+      "sha256": "d38a5128ecb386affb67de28ba4a6eab94f8aa4e994bd7b2b4ee24213d1ecde8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-information-technology-honours-2235.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-international-studies-2316",
+      "sha256": "30547331912cf13d45232dab6f15168b277eee8ffcc37117a4596a143737384e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-international-studies-2316.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-journalism-2040",
+      "sha256": "ab319bb8bd4589c4087e2a6a710bd71c193eec0a3ccf72de2549054cd0f4c4e8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-journalism-2040.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-journalism-arts-2102",
+      "sha256": "4bf234ea1929871fe4bc4ea421c7519297fcfe1ec5a23c015b7cfb98a438b42c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-journalism-arts-2102.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-journalism-laws-honours-2512",
+      "sha256": "60292007bc48f713d93ca8ea509f73d3670b021e7422abeb4f479036431aa629",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-journalism-laws-honours-2512.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-laws-honours-2471",
+      "sha256": "f3e4ad611b2045b6147e670e6ed4b87bd0f97c13c30db0361533bcbaff8f4465",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-laws-honours-2471.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-mathematics-2460",
+      "sha256": "cdab75333cc8bb874aedb86a83178e2fb744a291e4b58af276cdef903a469281",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-mathematics-2460.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-mathematics-arts-2503",
+      "sha256": "ec4b5aafadf613ea27b22500560dd7588a6651e8c66a37b932e58ebe870df1cd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-mathematics-arts-2503.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-mathematics-business-management-2500",
+      "sha256": "9e5df3390fa790c8a52e87e6ac050abaa95b24d80b13843570035634800a741d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-mathematics-business-management-2500.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-mathematics-commerce-2499",
+      "sha256": "f3becc0e9c24573c02ca8c00dc9a17ea0ebecba1c755b99547b5588ed528f1d2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-mathematics-commerce-2499.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-mathematics-computer-science-2567",
+      "sha256": "cc03395f1459d286f4b00c326935137d5e2a3adb6781103945605ae9e824c501",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-mathematics-computer-science-2567.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-mathematics-economics-2498",
+      "sha256": "7ab8d2ad251774a0384a369c8dd905ccafa85116ac636a50f6fc4bd87497490a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-mathematics-economics-2498.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-mathematics-education-secondary-2501",
+      "sha256": "4ed8c5f30a436ca6062860094f4f56797756cc99ca85b29453660f93d9c30741",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-mathematics-education-secondary-2501.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-mathematics-master-data-science-2557",
+      "sha256": "2ad0cc6ef9704e8342242c72470320db72aac71404bdb307b153d0a3222c9ac7",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-mathematics-master-data-science-2557.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-mathematics-science-2502",
+      "sha256": "cabe33d70f71812ffcf8a833774743a36bde9f4830a2d7cf0e25bae776d31a2c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-mathematics-science-2502.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-mathematics-honours-2421",
+      "sha256": "4284b9d46863d59b0ade877f0d14de0eaee8186653be7d25bd1c5b69c3e20e0f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-mathematics-honours-2421.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-medical-science-doctor-medicine-2578",
+      "sha256": "e53d0f7ba5aeb62231b3862c224b0d0533d6de6d596884e2e8213cb29da15608",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-medical-science-doctor-medicine-2578.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-midwifery-2261",
+      "sha256": "25c7880a4f3f6ea92300507142834577645f0358a6efd2c2e212b4c5adb8fcf5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-midwifery-2261.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-midwifery-honours-2266",
+      "sha256": "80876dd4a7fe2e87f887e097bf583efa37eb1abc7c68bc5474fa03eb967edba6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-midwifery-honours-2266.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-music-2535",
+      "sha256": "4f4dd526a771d23c73d3ba784e60685f8640a4f3ac8348f9d08315286275a4fc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-music-2535.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-music-arts-2537",
+      "sha256": "119f7fb9228f6ebafeb5dab4903c17fe14fbe81aea46b963e41817a0ab167e79",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-music-arts-2537.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-music-business-management-2549",
+      "sha256": "ceae2db55e6fa682fc911552df79b9192a4be781158bdb8623e942d879d2a9ec",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-music-business-management-2549.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-music-education-secondary-2539",
+      "sha256": "35a6c2b8f82d8503f77c2bbf6c2cd7891f6c41c969c8554d6d78f32ca2fcb3cd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-music-education-secondary-2539.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-music-mathematics-2548",
+      "sha256": "ab51d9977542a4457dedd39047bad00fb2dbc99467e9f29483e75aef97ac6cbf",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-music-mathematics-2548.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-music-science-2538",
+      "sha256": "9737c4f335d5cc89a0628251e3f399c43bd3ae9373f92e85010ed953644bb047",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-music-science-2538.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-music-honours-2536",
+      "sha256": "ea05e494487aa0dc954b15e639254c0d4dc23b6cd451d9ef3b3a524104e17a7e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-music-honours-2536.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-music-diploma-languages-2545",
+      "sha256": "3659c329547cde89ab77bc6856d4897c98d6c5fcf7d9d1e50545ce5675675e37",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-music-diploma-languages-2545.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-nursing-2241",
+      "sha256": "648b9fdc6f9020c1a25e6363fb401ae111f25cee7f9cd68cb551af010eb025db",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-nursing-2241.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-nursing-midwifery-2290",
+      "sha256": "88ff5e09678355eb02c9d69309c787c0801ee6e143528b1207e165339cd08673",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-nursing-midwifery-2290.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-nursing-honours-2243",
+      "sha256": "76cf3c3e5f268b3177a345d53bd3203624f31e8f8df6c0b90d5084a660e76700",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-nursing-honours-2243.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-nutrition-sciences-master-dietetics-studies-2534",
+      "sha256": "43d8cb00a65b7e41581de29d9fa40f1241948e78c5dd1f84be5298e78f20339b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-nutrition-sciences-master-dietetics-studies-2534.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-occupational-therapy-honours-2368",
+      "sha256": "537817222d8befdbe1be3a46e44673c505d7f92b8a1da847f8587dd13ecbf2a3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-occupational-therapy-honours-2368.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-pharmaceutics-and-therapeutic-science-doctor-pharmacy-2577",
+      "sha256": "499b85e30789bae04ee88a433e5c4f241e74687371a35480eeeb56e56a0af448",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-pharmaceutics-and-therapeutic-science-doctor-pharmacy-2577.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-pharmacy-honours-2373",
+      "sha256": "6489279587c88de4a9143396db59ef521de15ecfa281de8b88d2fdc05d6367dd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-pharmacy-honours-2373.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-physiotherapy-honours-2369",
+      "sha256": "cde3e857e6dd8ce37bfcc170fe317a0fbf0d7bb617b4fcc23bc0aa5f81be6551",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-physiotherapy-honours-2369.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-politics-philosophy-and-economics-honours-2522",
+      "sha256": "b66fbbff9278cd9dfec5ef7fee038716a70e4415cf4f4410ef8df6e900d0a993",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-politics-philosophy-and-economics-honours-2522.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-psychological-science-honours-2379",
+      "sha256": "2256328437acbf55493da91bf5e2bd63e6ae0fc4d854fa6ed8a827f0d5ee7f20",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-psychological-science-honours-2379.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-science-2461",
+      "sha256": "98ce71b499a109bee69f33b105d2e5c1099f00e8bd581ed1885400bde4435978",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-science-2461.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-science-arts-2478",
+      "sha256": "c925770d9346e0cbe90df76aa7306e7d13a2575ff58f220f488ac231779b784a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-science-arts-2478.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-science-education-secondary-2479",
+      "sha256": "ed4e8b2c17e32f07d980f8b929df79e375b5b04ff5bd1ac51e01401cfd3e35f1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-science-education-secondary-2479.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-science-journalism-2496",
+      "sha256": "7b25fa933610ed08d6593ef4904002547ab5f99dc87cdabf72bac82b0073d5d1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-science-journalism-2496.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelors-science-laws-honours-2472",
+      "sha256": "3c2a32aa16b0935fa272f56fc08e5dae1c6b10554e1a236f799acbea7547d185",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelors-science-laws-honours-2472.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-science-honours-2031",
+      "sha256": "cad572d394a7ef83ee40d5ad6963ce7c1936595831067e5de15802b04f7903e1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-science-honours-2031.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-science-honours-gatton-2354",
+      "sha256": "6419035b8ea217245cb1828ecaf1e1156fbf055a4524b51b72aef75aad95f91a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-science-honours-gatton-2354.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-social-science-2506",
+      "sha256": "707da6b797e057524709ea0c6e790737a7e9fb6bc82c547702fe87a806045c97",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-social-science-2506.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-social-science-honours-2033",
+      "sha256": "d257d34fde0e892fa537a4a0372825553246480c0d33b9cc86355f0aa54337fc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-social-science-honours-2033.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-social-work-2540",
+      "sha256": "d5fe05caf8a34747cbc900e301758adc16881ccf21952d7861ea78b73f18186e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-social-work-2540.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-social-work-honours-2382",
+      "sha256": "cec2a90260d3ccd6317ca1eb720d29e860aa790aa6f53e61b9c3a1fe8612e2b1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-social-work-honours-2382.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-speech-pathology-honours-2370",
+      "sha256": "8b20e85e80264ae9fbc633179e6aab4ed898e8f70395b7c9f92f3d03c1e4b629",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-speech-pathology-honours-2370.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-tourism-hospitality-and-event-management-2473",
+      "sha256": "0f2326b558faeabb592659f39f075a3ce88647f6bff906b0ad35d41f2c22e215",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-tourism-hospitality-and-event-management-2473.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-urban-planning-2580",
+      "sha256": "4d081447d1fb3651efc3795f808eb390ee2a12cf989d0d3d6970fe529f34a06b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-urban-planning-2580.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-urban-planning-honours-2553",
+      "sha256": "58b4630c5cbdcb9aa3a4ecbb1ecdc92b89f590f0d1ba409487bb16992c994c59",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-urban-planning-honours-2553.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-veterinary-science-honours-2378",
+      "sha256": "d41c7fcf077e2311a72da3e704cf47af40ffffe9a33c6c7d90296d37e12bac06",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-veterinary-science-honours-2378.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-veterinary-technology-2387",
+      "sha256": "a9f4ef94fab6f24b83cb751cd01ab53c57528c52a16c3dbdb218b058bef7482e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-veterinary-technology-2387.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-veterinary-technology-honours-2422",
+      "sha256": "736a1fa713557bbf708dbf71568f5487a568921cd277cc9befd272e2bcd5efac",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-veterinary-technology-honours-2422.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-wildlife-science-2582",
+      "sha256": "c1eaa0be7d000f7a8feedeadb6baf6cc898d165312e7c4506ee012c24e76e25d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-wildlife-science-2582.html",
+      "locator": null
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs/bachelor-wildlife-science-honours-2419",
+      "sha256": "d7ddfe70d5e7fcd2abe8aeafd6eebda7a4860ac911672d4f4291162a78a920d4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/queensland/detail-bachelor-wildlife-science-honours-2419.html",
+      "locator": null
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.korea.ac.kr/en/1037/subview.do",
+    "official_total": null,
+    "official_total_unit": "Seoul campus department list",
+    "pagination_complete": true,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "tables": 19,
+        "rows": 70
+      },
+      {
+        "source": "https://sejong.korea.ac.kr/eng/10288/subview.do",
+        "records": 2
+      },
+      {
+        "source": "https://sejong.korea.ac.kr/eng/10289/subview.do",
+        "records": 7
+      },
+      {
+        "source": "https://sejong.korea.ac.kr/eng/10290/subview.do",
+        "records": 5
+      },
+      {
+        "source": "https://sejong.korea.ac.kr/eng/10291/subview.do",
+        "records": 5
+      },
+      {
+        "source": "https://sejong.korea.ac.kr/eng/10292/subview.do",
+        "records": 1
+      },
+      {
+        "source": "https://sejong.korea.ac.kr/eng/10287/subview.do",
+        "records": 14
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "Both Seoul and all six Sejong undergraduate faculty/division pages read. Contract programme nationality/employment restrictions are not yet checked.",
+      "Sejong German Studies explicitly marked course shut down; retained as discontinued, not current.",
+      "Advanced Convergence Pharmaceutical Sciences has no programme link and its undergraduate level is unresolved; not counted as a confirmed bachelor route.",
+      "One empty right-hand table cell in International Studies was excluded; three explicitly named divisions remain."
+    ],
+    "raw_artifacts": [
+      "korea-university/raw/directory.meta.json",
+      "korea-university/raw/schools.meta.json",
+      "korea-university/raw/sejong-10288.meta.json",
+      "korea-university/raw/sejong-10289.meta.json",
+      "korea-university/raw/sejong-10290.meta.json",
+      "korea-university/raw/sejong-10291.meta.json",
+      "korea-university/raw/sejong-10292.meta.json",
+      "korea-university/raw/sejong.meta.json"
+    ],
+    "university_id": "korea-university",
+    "count": 101,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 99,
+      "listed_level_requires_verification": 1,
+      "discontinued": 1
+    },
+    "record_type_counts": {
+      "undergraduate_department_or_school": 67,
+      "undergraduate_department_or_major": 33,
+      "undergraduate_division": 1
+    },
+    "directory_count_is_not_independent_degree_count": true,
+    "empty_layout_cells_excluded": 1
+  },
+  "raw_sources": [
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10292/subview.do",
+      "sha256": "78c3988c47bf37b5a668b006578384aceeb763dbb8e494438c6dcbd5ffba7b5b",
+      "bytes": 56418,
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10292.html",
+      "meta_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10292.meta.json"
+    },
+    {
+      "url": "https://www.korea.ac.kr/en/index.do",
+      "sha256": "a10cb21502c22628e4b142d03177e1836031097f7cce6bae375703ea7ce25ea0",
+      "bytes": 82551,
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/korea-university/raw/directory.meta.json"
+    },
+    {
+      "url": "https://www.korea.ac.kr/en/1037/subview.do",
+      "sha256": "2b4c1f7b1533e5763afefc6493225747a12f5f70f5386c12479c073d06020829",
+      "bytes": 86014,
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/schools.html",
+      "meta_file": "scratch/full-catalog/asia/korea-university/raw/schools.meta.json"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10290/subview.do",
+      "sha256": "5c0392eb4762b27cdd77e6464d8d71e4fd66a5f63365d1da1c48cbdb63a32cab",
+      "bytes": 59834,
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10290.html",
+      "meta_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10290.meta.json"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10287/subview.do",
+      "sha256": "6d4e0cae8374e5af6828a4aa751c28b85a0ef7aa6ffcda7440862f730eac4fef",
+      "bytes": 58059,
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong.html",
+      "meta_file": "scratch/full-catalog/asia/korea-university/raw/sejong.meta.json"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10289/subview.do",
+      "sha256": "d8cf82517f6f778dd639aa4a894fdf0cac6a367e540c292aaf3de74cc32d8864",
+      "bytes": 66159,
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10289.html",
+      "meta_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10289.meta.json"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10291/subview.do",
+      "sha256": "3306f718a7cb95bd206993e22ab893116ad31974ba442b17abb53de7b8a0aaf2",
+      "bytes": 68145,
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10291.html",
+      "meta_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10291.meta.json"
+    },
+    {
+      "url": "https://sejong.korea.ac.kr/eng/10288/subview.do",
+      "sha256": "1b8258a69fc62ca5042f4f47b90f7af6fa12981a144a5904c807c2e358eebb33",
+      "bytes": 57463,
+      "raw_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10288.html",
+      "meta_file": "scratch/full-catalog/asia/korea-university/raw/sejong-10288.meta.json"
+    }
+  ]
+}

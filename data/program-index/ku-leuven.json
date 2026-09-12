@@ -1,0 +1,2454 @@
+{
+  "university_id": "ku-leuven",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "complete",
+    "count": 79,
+    "scope": "本科官方目录；条目类型及排除规则见证据记录。",
+    "method": "Public programme guide API returns hits.total.value=883 relation=eq,883hits with size1000; request uses exact UI institution/inProgramguide/ID-prefix filters.",
+    "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
+    "sources": [
+      {
+        "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n",
+        "sha256": "f55ec2e25cccb316a1cd5f2871ee8dc72bacb41a6881c38cb1efbae20b8153cd",
+        "bytes": 24719,
+        "raw_file": "scratch/full-catalog/europe/ku-leuven/index.html",
+        "meta_file": "scratch/full-catalog/europe/ku-leuven/index.source.json"
+      }
+    ],
+    "gaps": [
+      "This is the official programme guide and includes teach-out qualifications; explicit closure banners retained. Campus variants are preserved within their qualification rather than turned into extra independent degrees. Duration null because API stage counts are not stated elapsed years."
+    ]
+  },
+  "programs": [
+    {
+      "name_en": "Bachelor of  Business Economics (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074159",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074159",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de toegepaste economische wetenschappen (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "51547470",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Business Economics (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Bedrijfseconomen hebben een diepgaand inzicht in de werking en het management van een bedrijf of organisatie. Je bestudeert alle aspecten van het bedrijfsleven en je verdiept je in de wiskundige modellen die complexe bedrijfssituaties helpen structureren.",
+      "id": "ku-leuven-bachelor-of-business-economics-kortrijk-df7f83477a"
+    },
+    {
+      "name_en": "Bachelor of Applied Language Studies (Antwerp)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51230582",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Antwerp",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51230582",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de toegepaste taalkunde (Antwerpen)",
+      "programme_variants": [
+        {
+          "id": "57417572",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Antwerp",
+          "name": "Bachelor of Applied Language Studies (Antwerp)"
+        },
+        {
+          "id": "58453225",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Antwerp",
+          "name": "Bachelor of Applied Linguistics for students coming from Kortrijk: Dutch and 1 Foreign Language with Business Studies (Antwerp)"
+        },
+        {
+          "id": "54045656",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Antwerp",
+          "name": "Bachelor of Applied Language Studies for students coming from Kortrijk: Dutch and 2 Foreign Languages (Antwerpen)"
+        }
+      ],
+      "catalogue_notice_original": "Taal verbindt mensen en overbrugt culturen. Hoe je ze inzet en gebruikt, bepaalt hoe effectief je communiceert en welke indruk je bij je gesprekspartners, je luisteraars of je lezers nalaat. Je leert de talen die je kiest, op een professioneel niveau begrijpen en gebruiken, en je duikt dieper in de culturen die ermee verweven zijn.",
+      "id": "ku-leuven-bachelor-of-applied-language-studies-antwerp-7bcef21e5c"
+    },
+    {
+      "name_en": "Bachelor of Applied Language Studies (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51854588",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51854588",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de toegepaste taalkunde (Brussel)",
+      "programme_variants": [
+        {
+          "id": "58897587",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Applied Language Studies (Programme for students started in 2026-2027 or later) (Brussels)"
+        },
+        {
+          "id": "57393789",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Applied Language Studies (Programme for students started before 2025-2026) (Brussels)"
+        }
+      ],
+      "catalogue_notice_original": "Taal verbindt mensen en overbrugt culturen. Hoe je ze inzet en gebruikt, bepaalt hoe effectief je communiceert en welke indruk je bij je gesprekspartners, je luisteraars of je lezers nalaat. Je leert talen op een professioneel niveau begrijpen en gebruiken, en je duikt dieper in de culturen die ermee verweven zijn.",
+      "id": "ku-leuven-bachelor-of-applied-language-studies-brussels-0158a586df"
+    },
+    {
+      "name_en": "Bachelor of Archaeology (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074168",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074168",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de archeologie (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51004622",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Archaeology (Leuven)"
+        },
+        {
+          "id": "56322111",
+          "credits": "88",
+          "stages": "02",
+          "campus": "Leuven",
+          "name": "Bachelor of Archaeology (Abridged programme) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Als archeoloog leg je het verleden bloot. Je duikt in (pre-)historische periodes en onderzoekt aan de hand van materiële bronnen hoe mensen leefden en hoe ze hun samenlevingen organiseerden. Ook veldwerk krijg je snel in de vingers.",
+      "id": "ku-leuven-bachelor-of-archaeology-leuven-ef2253e8f7"
+    },
+    {
+      "name_en": "Bachelor of Architecture (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51522830",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51522830",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de architectuur (Brussel)",
+      "programme_variants": [
+        {
+          "id": "51523035",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Architecture (Brussels)"
+        }
+      ],
+      "catalogue_notice_original": "Architecten geven vorm aan onze hedendaagse cultuur en maatschappij. Ze bepalen mee hoe mensen leven, werken en wonen. In deze opleiding leer je ontwerpen en creatief denken, maar maak je ook kennis met bouwtechnische aspecten, cultuurtheoretische perspectieven, management, historische en sociologische situering.",
+      "id": "ku-leuven-bachelor-of-architecture-brussels-c5764dccb2"
+    },
+    {
+      "name_en": "Bachelor of Architecture (Ghent)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51522834",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Ghent",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51522834",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de architectuur (Gent)",
+      "programme_variants": [
+        {
+          "id": "51523046",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Ghent",
+          "name": "Bachelor of Architecture (Ghent)"
+        }
+      ],
+      "catalogue_notice_original": "Architecten geven vorm aan onze hedendaagse cultuur en maatschappij. Ze bepalen mee hoe mensen leven, werken en wonen. In deze opleiding leer je ontwerpen en creatief denken, maar maak je ook kennis met bouwtechnische aspecten, cultuurtheoretische perspectieven, management, historische en sociologische situering.",
+      "id": "ku-leuven-bachelor-of-architecture-ghent-de3989f809"
+    },
+    {
+      "name_en": "Bachelor of Art History (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074169",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074169",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de kunstwetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016756",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Art History (Leuven)"
+        },
+        {
+          "id": "58406011",
+          "credits": "58",
+          "stages": "01",
+          "campus": "Leuven",
+          "name": "Abridged Programme Bachelor of Art History (Programme for students started in 2025-2026 or later) (Leuven)"
+        },
+        {
+          "id": "58408435",
+          "credits": "58",
+          "stages": "01",
+          "campus": "Leuven",
+          "name": "Abridged Programme Bachelor of Art History (Programme for students started in 2025-2026 or later) (Leuven)"
+        },
+        {
+          "id": "53588625",
+          "credits": "75",
+          "stages": "02",
+          "campus": "Leuven",
+          "name": "Bachelor of Art History (Abridged Programme) (Programme for students started before 2025-2026) (Leuven)"
+        },
+        {
+          "id": "54541861",
+          "credits": "113",
+          "stages": "02",
+          "campus": "Leuven",
+          "name": "Bachelor of Art History (Abridged Programme) (Programme for students started before 2025-2026) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Zijn kunst en wetenschap elkaars muze? Kunst maakt de wereld mooier, boeiender en verrassender. Kunst moet je verzamelen en tonen, onderhouden en restaureren, onderwijzen en duiden aan een breed publiek. Je bekijkt kunst vanuit een wetenschappelijke invalshoek en verdiept je in de westerse kunstgeschiedenis in al haar aspecten.",
+      "id": "ku-leuven-bachelor-of-art-history-leuven-c06349d592"
+    },
+    {
+      "name_en": "Bachelor of Biochemistry and Biotechnology (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074206",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074206",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de biochemie en de biotechnologie (Leuven)",
+      "programme_variants": [
+        {
+          "id": "57400723",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Biochemistry and Biotechnology (Leuven)"
+        },
+        {
+          "id": "51016672",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Biochemistry and Biotechnology (Programme for students started before 2023-2024) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Kun je een plant maken die nooit ziek wordt … of erfelijke ziektes beïnvloeden? Biochemie bestudeert de kleinste objecten die het leven definiëren: biomoleculen. Biotechnologie zet die kennis dan weer in om zelf levende systemen te bouwen, bestaande biosystemen aan te passen en zo concrete oplossingen biedt voor voedselvoorziening, energie of gezondheidszorg.",
+      "id": "ku-leuven-bachelor-of-biochemistry-and-biotechnology-leuven-e68976467d"
+    },
+    {
+      "name_en": "Bachelor of Bioengineering Technology (Geel)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51236201",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Geel",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51236201",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de biowetenschappen (Geel)",
+      "programme_variants": [
+        {
+          "id": "51260630",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Geel",
+          "name": "Bachelor of Bioengineering Technology (Geel)"
+        }
+      ],
+      "catalogue_notice_original": "Als industrieel ingenieur in de biowetenschappen zijn natuur en leefmilieu je biotoop. Tijdens de opleiding verdiep je je in biodomeinen zoals voeding, milieu, land- en tuinbouw en dierenwelzijn. Je zet je wetenschappelijke kennis en hands-on mentaliteit in om de wereld duurzamer, groener en leefbaarder te maken.",
+      "id": "ku-leuven-bachelor-of-bioengineering-technology-geel-043882eadb"
+    },
+    {
+      "name_en": "Bachelor of Biology (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50269003",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50269003",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de biologie (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "57430961",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Biology (Kortrijk)"
+        },
+        {
+          "id": "55030465",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Biology (Programme for students started before 2023-2024) (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Als bioloog neem je alle vormen van het leven onder de loep: van minuscule micro-organismes tot enorme ecosystemen en alle complexe interacties ertussen. Zo kom je tot het besef dat leven en evolutie onlosmakelijk verbonden zijn. Met die kennis kun je inspelen op de actuele noden van ons milieu in een duurzame maatschappij.",
+      "id": "ku-leuven-bachelor-of-biology-kortrijk-38e4326b0d"
+    },
+    {
+      "name_en": "Bachelor of Biology (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074215",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074215",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de biologie (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51017038",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Biology (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Als bioloog neem je alle vormen van het leven onder de loep: van minuscule micro-organismes tot enorme ecosystemen en alle complexe interacties ertussen. Zo kom je tot het besef dat leven en evolutie onlosmakelijk verbonden zijn. Met die kennis kun je inspelen op de actuele noden van ons milieu in een duurzame maatschappij.",
+      "id": "ku-leuven-bachelor-of-biology-leuven-16106505a9"
+    },
+    {
+      "name_en": "Bachelor of Biomedical Sciences (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074174",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074174",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de biomedische wetenschappen (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "55030342",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Biomedical Sciences (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "In de opleiding biomedische wetenschappen leer je alles over het menselijk lichaam. Je leert hoe het lichaam van een gezond mens functioneert, van moleculair niveau tot het hele organisme. Daarnaast leer je hoe ziekten ontstaan en hoe je deze kan voorkomen.",
+      "id": "ku-leuven-bachelor-of-biomedical-sciences-kortrijk-cf9214485e"
+    },
+    {
+      "name_en": "Bachelor of Biomedical Sciences (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074173",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074173",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de biomedische wetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "54895439",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Biomedical Sciences (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "In de opleiding biomedische wetenschappen leer je alles over het menselijk lichaam. Je leert hoe het lichaam van een gezond mens functioneert, van moleculair niveau tot het hele organisme. Daarnaast leer je hoe ziekten ontstaan en hoe je deze kan voorkomen.",
+      "id": "ku-leuven-bachelor-of-biomedical-sciences-leuven-5c653fc560"
+    },
+    {
+      "name_en": "Bachelor of Bioscience Engineering (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074221",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074221",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de bio-ingenieurswetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "56127707",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Bioscience Engineering (Leuven)"
+        },
+        {
+          "id": "55021327",
+          "credits": "60",
+          "stages": "01",
+          "campus": "Leuven",
+          "name": "Bachelor of Bioscience Engineering (Abridged Programme) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Bio-ingenieurs vinden met hun brede blik complete oplossingen voor complexe, maatschappelijke uitdagingen zoals duurzame landbouw, klimaat, gezonde voeding, hernieuwbare energie. Je bestudeert mens, dier, plant en micro-organismes en hun interactie met de omgeving en wordt expert in biologie, chemie en technologie.",
+      "id": "ku-leuven-bachelor-of-bioscience-engineering-leuven-31b4218dd8"
+    },
+    {
+      "name_en": "Bachelor of Business Administration (Antwerp)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51230579",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Antwerp",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51230579",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de handelswetenschappen (Antwerpen)",
+      "programme_variants": [
+        {
+          "id": "53257975",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Antwerp",
+          "name": "Bachelor of Business Administration (Antwerp)"
+        }
+      ],
+      "catalogue_notice_original": "Globalisering, wijzigend consumentengedrag, nieuwe regelgeving: bedrijven opereren in een wereld van verandering. Je bestudeert de basisconcepten, modellen en technieken uit de bedrijfswetenschappen.",
+      "id": "ku-leuven-bachelor-of-business-administration-antwerp-66ee3db4cf"
+    },
+    {
+      "name_en": "Bachelor of Business Administration (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_51854602",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "English",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51854602",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor of Business Administration (Brussels)",
+      "programme_variants": [
+        {
+          "id": "53266472",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Business Administration (Brussels)"
+        },
+        {
+          "id": "54128120",
+          "credits": "242",
+          "stages": "04",
+          "campus": "Brussels",
+          "name": "Bachelor of Business Administration: Double Degree Kedge (incoming) (KU Leuven et al) (Brussels, Talence)"
+        },
+        {
+          "id": "57410233",
+          "credits": "240",
+          "stages": "04",
+          "campus": "Brussels",
+          "name": "Bachelor of Business Administration: Double Degree Galway (outgoing) (KU Leuven et al) (Brussels, Galway)"
+        }
+      ],
+      "catalogue_notice_original": "Business administrators apply core concepts and economic models within social, legal, and political contexts to understand and manage organisations. Graduates play a key role in shaping companies’ strategies and operations.",
+      "id": "ku-leuven-bachelor-of-business-administration-brussels-ab28bd87c4"
+    },
+    {
+      "name_en": "Bachelor of Business Administration (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51854581",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51854581",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de handelswetenschappen (Brussel)",
+      "programme_variants": [
+        {
+          "id": "53255937",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Business Administration (Brussels)"
+        }
+      ],
+      "catalogue_notice_original": "Globalisering, wijzigend consumentengedrag, nieuwe regelgeving: bedrijven opereren in een wereld van verandering. Je bestudeert de basisconcepten, modellen en technieken uit de bedrijfswetenschappen.",
+      "id": "ku-leuven-bachelor-of-business-administration-brussels-cdae02ab07"
+    },
+    {
+      "name_en": "Bachelor of Business and Information Systems Engineering (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074157",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074157",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor handelsingenieur in de beleidsinformatica (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51551302",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Business and Information Systems Engineering (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Handelsingenieurs (in de beleidsinformatica) combineren het technologisch inzicht van een ingenieur met de ondernemingsblik van een econoom. Je ontdekt hoe een bedrijf functioneert, krijgt inzicht in bedrijfs- en technologische processen, en leert bedrijfsactiviteiten analytisch bekijken en optimaliseren vanuit verschillende invalshoeken.",
+      "id": "ku-leuven-bachelor-of-business-and-information-systems-engineering-leuven-2aa5cca5de"
+    },
+    {
+      "name_en": "Bachelor of Business Economics (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074158",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074158",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de toegepaste economische wetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51545071",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Business Economics (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Bedrijfseconomen hebben een diepgaand inzicht in de werking en het management van een bedrijf of organisatie. Je bestudeert alle aspecten van het bedrijfsleven en je verdiept je in de wiskundige modellen die complexe bedrijfssituaties helpen structureren.",
+      "id": "ku-leuven-bachelor-of-business-economics-leuven-431715b68f"
+    },
+    {
+      "name_en": "Bachelor of Business Engineering (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_52873652",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "52873652",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor handelsingenieur (Brussel)",
+      "programme_variants": [
+        {
+          "id": "52874138",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Business Engineering (Programme for students started before 2022-2023) (Brussels)"
+        }
+      ],
+      "catalogue_notice_original": "De bachelor handelsingenieur in Brussel wordt enkel aangeboden voor studenten die al in een vorig academiejaar startten met deze opleiding. Nieuwe inschrijvingen zijn niet meer mogelijk .",
+      "entry_route": "Teach-out/existing-students-only notice in official catalogue; new enrolments are closed. See original notice.",
+      "id": "ku-leuven-bachelor-of-business-engineering-brussels-891d2a99e2"
+    },
+    {
+      "name_en": "Bachelor of Business Engineering (KU Leuven et al) (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_54763668",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "English",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "54763668",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor of Business Engineering (KU Leuven et al) (Brussels)",
+      "programme_variants": [
+        {
+          "id": "54764298",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Business Engineering (KU Leuven et al) (Brussels)"
+        }
+      ],
+      "catalogue_notice_original": "Business engineers use technology to help companies navigate constant industry change. Beyond understanding business, they create analytical tools, making them indispensable experts with a strong scientific foundation in any organisation facing transformation.",
+      "entry_route": "Joint institutional qualification; KU Leuven catalogue scope includes the named partner/campus.",
+      "id": "ku-leuven-bachelor-of-business-engineering-ku-leuven-et-al-brussels-702d08cee4"
+    },
+    {
+      "name_en": "Bachelor of Business Engineering (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074165",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074165",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor handelsingenieur (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51549860",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Business Engineering (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Handelsingenieurs combineren het technologisch inzicht van een ingenieur met de ondernemingsblik van een econoom. Je ontdekt hoe een bedrijf functioneert, krijgt inzicht in bedrijfs- en technologische processen, en leert bedrijfsactiviteiten analytisch bekijken en optimaliseren vanuit verschillende invalshoeken.",
+      "id": "ku-leuven-bachelor-of-business-engineering-leuven-b7ef134528"
+    },
+    {
+      "name_en": "Bachelor of Chemistry (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50293725",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50293725",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de chemie (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "57926888",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Chemistry (Programme for students started in 2024-2025 or later) (Kortrijk)"
+        },
+        {
+          "id": "57431639",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Chemistry (Programme for students started in 2023-2024) (Kortrijk)"
+        },
+        {
+          "id": "55030483",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Chemistry (Programme for students started before 2023-2024) (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Chemie vind je overal om je heen, in de technologie die je dagelijks gebruikt tot medicatie die levens redt. De bachelor chemie neemt je mee in de wondere wereld van atomen, moleculen en materie. Je leert nieuwe stoffen ontwerpen die ons comfort, onze gezondheid en het milieu ten goede komen.",
+      "id": "ku-leuven-bachelor-of-chemistry-kortrijk-abb679477d"
+    },
+    {
+      "name_en": "Bachelor of Chemistry (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268998",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268998",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de chemie (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016906",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Chemistry (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Chemie vind je overal om je heen, in de technologie die je dagelijks gebruikt tot medicatie die levens redt. De bachelor chemie neemt je mee in de wondere wereld van atomen, moleculen en materie. Je leert nieuwe stoffen ontwerpen die ons comfort, onze gezondheid en het milieu ten goede komen.",
+      "id": "ku-leuven-bachelor-of-chemistry-leuven-e314bde2ee"
+    },
+    {
+      "name_en": "Bachelor of Communication Science (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268966",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268966",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de communicatiewetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "56821295",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Communication Science (Programme for students started in 2022-2023 or later) (Leuven)"
+        },
+        {
+          "id": "51016895",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Communication Science (Programme for students started before 2022-2023) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Communicatiewetenschappen staan centraal in het begrijpen van onze informatiemaatschappij. In deze opleiding leer je communicatie effectief inzetten, maatschappelijk relevante thema’s aanpakken en kritisch én innovatief denken in een wereld vol verandering.",
+      "id": "ku-leuven-bachelor-of-communication-science-leuven-af96d16f9d"
+    },
+    {
+      "name_en": "Bachelor of Criminology (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268928",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268928",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de criminologische wetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016674",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Criminology (Leuven)"
+        },
+        {
+          "id": "51016955",
+          "credits": "130",
+          "stages": "02",
+          "campus": "Leuven",
+          "name": "Bachelor of Criminology (Abridged Programme) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Criminologen voelen de polsslag van de maatschappij. Hoe komen conflictsituaties, grensoverschrijdend en schadelijk gedrag tot stand, en hoe ga je om met daders en slachtoffers? Je combineert theoretische vakken over criminologie met onder meer sociologie, psychologie en recht.",
+      "id": "ku-leuven-bachelor-of-criminology-leuven-43545e5ec7"
+    },
+    {
+      "name_en": "Bachelor of Dentistry (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074201",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074201",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de tandheelkunde (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016761",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Dentistry (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Tandheelkunde was vroeger vooral gericht op het restaureren van tanden of op het verwijderen ervan bij vergaande aantasting. De moderne tandheelkunde is zowel curatief (genezend) als preventief (voorkomend). De opleiding tandheelkunde aan KU Leuven vormt je niet alleen tot tandarts, maar ook tot mondarts met een totaalaanpak van de patiënt in zijn medische problematiek.",
+      "id": "ku-leuven-bachelor-of-dentistry-leuven-a1e5852f81"
+    },
+    {
+      "name_en": "Bachelor of Economics (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074164",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074164",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de economische wetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016746",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Economics (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "De econoom stelt fundamentele vragen over de economie en de samenleving: hoe verminderen we ongelijkheid, hoe stimuleren we economische groei? Je zoekt naar antwoorden door basisconcepten en wiskundige en economische modellen in een ruime maatschappelijke, juridische, politieke en sociale context te plaatsen.",
+      "id": "ku-leuven-bachelor-of-economics-leuven-d927f5387c"
+    },
+    {
+      "name_en": "Bachelor of Educational Sciences (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074161",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074161",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de pedagogische wetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "58401671",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Educational Sciences (Programme for students started in 2025-2026 of later) (Leuven)"
+        },
+        {
+          "id": "54008948",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Educational Sciences (Programme for students started before 2025-2026) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Mensen ontwikkelen zich een leven lang in de klas en op het werk, alleen of in groep, maar leren en ontwikkelen loopt niet altijd van een leien dakje. Als pedagoog neem je opvoeding, onderwijs en vorming onder de loep, en leer je ondersteunen waar nodig.",
+      "id": "ku-leuven-bachelor-of-educational-sciences-leuven-6831d257d8"
+    },
+    {
+      "name_en": "Bachelor of Engineering (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50362492",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50362492",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de ingenieurswetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "57861104",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Engineering (Programme for students started in 2024-2025 or later) (Leuven)"
+        },
+        {
+          "id": "55036830",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Engineering (Programme for students started before 2024-2025) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Burgerlijk ingenieurs gebruiken wetenschap en technologie om het dagelijkse leven aangenamer, en onze maatschappij efficiënter en duurzamer te maken. Je vertrekt van een vergaande wiskundige, wetenschappelijke en technische basis om met innovatieve ontwerpen maatschappelijke problemen aan te pakken.",
+      "id": "ku-leuven-bachelor-of-engineering-leuven-7f631cc0b8"
+    },
+    {
+      "name_en": "Bachelor of Engineering Technology (Bruges)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51917072",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Bruges",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51917072",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de industriële wetenschappen (Brugge)",
+      "programme_variants": [
+        {
+          "id": "55557940",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Bruges",
+          "name": "Bachelor of Engineering Technology (Bruges)"
+        }
+      ],
+      "catalogue_notice_original": "Als industrieel ingenieur vorm je de brug tussen idee en praktijk. Op basis van een grondige kennis van wiskunde, wetenschappen en technologievertaal je je theoretische inzichten naar praktische toepassingen en verbeterde ontwerpen. Zo bied je oplossingen voor actuele maatschappelijke uitdagingen.",
+      "id": "ku-leuven-bachelor-of-engineering-technology-bruges-bdf4f675a9"
+    },
+    {
+      "name_en": "Bachelor of Engineering Technology (Geel)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51236207",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Geel",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51236207",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de industriële wetenschappen (Geel)",
+      "programme_variants": [
+        {
+          "id": "55509358",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Geel",
+          "name": "Bachelor of Engineering Technology (Geel)"
+        }
+      ],
+      "catalogue_notice_original": "Als industrieel ingenieur vorm je de brug tussen idee en praktijk. Op basis van een grondige kennis van wiskunde, wetenschappen en technologie vertaal je je theoretische inzichten naar praktische toepassingen en verbeterde ontwerpen. Zo bied je oplossingen voor actuele maatschappelijke uitdagingen.",
+      "id": "ku-leuven-bachelor-of-engineering-technology-geel-28acb0b8e4"
+    },
+    {
+      "name_en": "Bachelor of Engineering Technology (Ghent)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51600575",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Ghent",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51600575",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de industriële wetenschappen (Gent)",
+      "programme_variants": [
+        {
+          "id": "55557822",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Ghent",
+          "name": "Bachelor of Engineering Technology (Ghent)"
+        }
+      ],
+      "catalogue_notice_original": "Als industrieel ingenieur vorm je de brug tussen idee en praktijk. Op basis van een grondige kennis van wiskunde, wetenschappen en technologie vertaal je je theoretische inzichten naar praktische toepassingen en verbeterde ontwerpen. Zo bied je oplossingen voor actuele maatschappelijke uitdagingen.",
+      "id": "ku-leuven-bachelor-of-engineering-technology-ghent-01aabec6fd"
+    },
+    {
+      "name_en": "Bachelor of Engineering Technology (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_51601481",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "English",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51601481",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor of Engineering Technology (Leuven)",
+      "programme_variants": [
+        {
+          "id": "55554488",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Engineering Technology (Leuven)"
+        },
+        {
+          "id": "55561129",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Engineering Technology, 2+2 Module (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "This bachelor’s programme will teach you to tackle technological challenges in a critical and methodical way. You will acquire a broad scientific basis, and get the opportunity to put your knowledge into practice.",
+      "id": "ku-leuven-bachelor-of-engineering-technology-leuven-b40b108794"
+    },
+    {
+      "name_en": "Bachelor of Engineering Technology (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51601254",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51601254",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de industriële wetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "55503774",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Engineering Technology (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Als industrieel ingenieur vorm je de brug tussen idee en praktijk. Op basis van een grondige kennis van wiskunde, wetenschappen en technologievertaal je je theoretische inzichten naar praktische toepassingen en verbeterde ontwerpen. Zo bied je oplossingen voor actuele maatschappelijke uitdagingen.",
+      "id": "ku-leuven-bachelor-of-engineering-technology-leuven-d559bcd4ea"
+    },
+    {
+      "name_en": "Bachelor of Engineering Technology (Sint-Katelijne-Waver)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51844737",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Sint-Katelijne-Waver",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51844737",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de industriële wetenschappen (Sint-Katelijne-Waver)",
+      "programme_variants": [
+        {
+          "id": "55509088",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Sint-Katelijne-Waver",
+          "name": "Bachelor of Engineering Technology (Sint-Katelijne-Waver)"
+        }
+      ],
+      "catalogue_notice_original": "Als industrieel ingenieur vorm je de brug tussen idee en praktijk. Op basis van een grondige kennis van wiskunde, wetenschappen en technologievertaal je je theoretische inzichten naar praktische toepassingen en verbeterde ontwerpen. Zo bied je oplossingen voor actuele maatschappelijke uitdagingen.",
+      "id": "ku-leuven-bachelor-of-engineering-technology-sint-katelijne-waver-1923bc2673"
+    },
+    {
+      "name_en": "Bachelor of Engineering Technology (UHasselt) (Diepenbeek)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_52440374",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Diepenbeek",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "52440374",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de industriële wetenschappen (i.s.m. UHasselt) (Diepenbeek)",
+      "programme_variants": [
+        {
+          "id": "52440375",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Diepenbeek",
+          "name": "Bachelor of Engineering Technology (UHasselt) (Diepenbeek)"
+        }
+      ],
+      "catalogue_notice_original": "Als industrieel ingenieur vorm je de brug tussen idee en praktijk. Op basis van een grondige kennis van wiskunde, wetenschappen en technologievertaal je je theoretische inzichten naar praktische toepassingen en verbeterde ontwerpen. Zo bied je oplossingen voor actuele maatschappelijke uitdagingen.",
+      "id": "ku-leuven-bachelor-of-engineering-technology-uhasselt-diepenbeek-8bba40b1a3"
+    },
+    {
+      "name_en": "Bachelor of Engineering: Architecture (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074214",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074214",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de ingenieurswetenschappen: architectuur (Leuven)",
+      "programme_variants": [
+        {
+          "id": "57859583",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Engineering: Architecture (Programme for students started in 2024-2025 or later) (Leuven)"
+        },
+        {
+          "id": "56161657",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Engineering: Architecture (Programme for students started before 2024-2025) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Wonen en werken is een ingewikkeld samenspel van sociale en culturele, technologische en economische, ecologische en ethische factoren. In de opleiding verdiep je je zowel in exacte en bouwtechnische wetenschappen als in mens- en architectuurwetenschappen. Ontwerpen vormt de rode draad.",
+      "id": "ku-leuven-bachelor-of-engineering-architecture-leuven-2a2f247b70"
+    },
+    {
+      "name_en": "Bachelor of Environment, Health and Safety Management (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51854593",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51854593",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in het milieu- en preventiemanagement (Brussel)",
+      "programme_variants": [
+        {
+          "id": "53613012",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Environment, Health and Safety Management (Programme for students started before 2023-2024) (Brussels)"
+        }
+      ],
+      "catalogue_notice_original": "De Faculteit Economie en Bedrijfswetenschappen (FEB) bekijkt momenteel de positionering van de bachelor in het milieu- en preventiemanagement. De opleiding ondergaat daarbij een grondige hervorming die een goede afstemming op de andere FEB-opleidingen en aansluiting bij het internationale karakter van de campus beoogt. Vanaf academiejaar 2023-2024 zijn nieuwe inschrijvingen niet meer mogelijk.",
+      "entry_route": "Teach-out/existing-students-only notice in official catalogue; new enrolments are closed. See original notice.",
+      "id": "ku-leuven-bachelor-of-environment-health-and-safety-management-brussels-2e2241b99e"
+    },
+    {
+      "name_en": "Bachelor of European Studies (KU Leuven et al) (Bologna, Krakow, Leuven, Madrid)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_56359369",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "English",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "56359369",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor of European Studies (KU Leuven et al) (Bologna, Krakow, Leuven, Madrid)",
+      "programme_variants": [
+        {
+          "id": "58880980",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of European Studies (Programme for students started in 2026-2027 or later) (KU Leuven et al) (Bologna, Krakow, Leuven, Madrid)"
+        },
+        {
+          "id": "58415826",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of European Studies (Programme for students started in 2025-2026) (KU Leuven et al) (Bologna, Krakow, Leuven, Madrid)"
+        },
+        {
+          "id": "56359574",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of European Studies (Programme for students started before 2025-2026) (KU Leuven et al) (Bologna, Krakow, Leuven, Madrid)"
+        }
+      ],
+      "catalogue_notice_original": "To understand Europe, you have to experience Europe, and the joint Bachelor of European Studies makes that your reality. Study across up to three leading European universities and join classmates from over all of Europe and beyond. This truly international programme combines politics, law, history, economics, and culture, while offering unique perspectives on Europe and the world.",
+      "entry_route": "Joint institutional qualification; KU Leuven catalogue scope includes the named partner/campus.",
+      "id": "ku-leuven-bachelor-of-european-studies-ku-leuven-et-al-bologna-krakow-leuve-76fc1136b9"
+    },
+    {
+      "name_en": "Bachelor of Geography (Programme for students started before 2024-2025) (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074216",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074216",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de geografie (programma voor studenten gestart vóór 2024-2025) (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016769",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Geography (Programme for students started before 2024-2025) (Leuven)"
+        }
+      ],
+      "id": "ku-leuven-bachelor-of-geography-programme-for-students-started-before-2024-bcb9860bf5"
+    },
+    {
+      "name_en": "Bachelor of Geology (Programme for students started before 2024-2025) (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074205",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074205",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de geologie (programma voor studenten gestart vóór 2024-2025) (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016768",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Geology  (Programme for students started before 2024-2025) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Maak kennis met al de facetten van planeet Aarde, de interacties en de geschiedenis. Met deze opleiding kun je bijdragen aan oplossingen voor problemen van nu en later: klimaatverandering, duurzame energie, schaarste aan natuurlijke grondstoffen.",
+      "id": "ku-leuven-bachelor-of-geology-programme-for-students-started-before-2024-20-1492d261c0"
+    },
+    {
+      "name_en": "Bachelor of Geosciences (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_57665012",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "57665012",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de geowetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "57665454",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Geosciences (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Geowetenschappers bekijken de fragiele relatie tussen mens en natuur met een kritisch oog en slaan de brug tussen sociale wetenschappen en natuurwetenschappen. Je bestudeert het systeem aarde als een geheel en bestudeert de manier waarop de onder- en bovengrond en de atmosfeer zich hebben gevormd, en hoe we daarmee omgaan in onze manier van wonen, onze vraag naar grondstoffen of onze omgang met klimaatverandering.",
+      "id": "ku-leuven-bachelor-of-geosciences-leuven-3c968b3776"
+    },
+    {
+      "name_en": "Bachelor of History (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268977",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268977",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de geschiedenis (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "51016898",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Kortrijk",
+          "name": "Bachelor of History (Kortrijk)"
+        },
+        {
+          "id": "55023158",
+          "credits": "56",
+          "stages": "01",
+          "campus": "Kortrijk",
+          "name": "Bachelor of History (Abridged Programme) (Kortijk)"
+        },
+        {
+          "id": "55023429",
+          "credits": "53",
+          "stages": "01",
+          "campus": "Kortrijk",
+          "name": "Bachelor of History (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Geschiedenis maakt je nieuwsgierig naar de wereld van vroeger en nu: het geeft je de achtergrond om de maatschappij vandaag te vatten. Je ontdekt wat historische bronnen vertellen over het verleden en hoe je ze kunt analyseren en interpreteren. Schrijf jij binnenkort zelf geschiedenis?",
+      "id": "ku-leuven-bachelor-of-history-kortrijk-9dde5e8716"
+    },
+    {
+      "name_en": "Bachelor of History (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268976",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268976",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de geschiedenis (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016897",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of History (Leuven)"
+        },
+        {
+          "id": "51012827",
+          "credits": "58",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of History (Abridged Programme) (Leuven)"
+        },
+        {
+          "id": "52411382",
+          "credits": "55",
+          "stages": "01",
+          "campus": "Leuven",
+          "name": "Bachelor of History (Abridged Programme) (Leuven) "
+        }
+      ],
+      "catalogue_notice_original": "Geschiedenis maakt je nieuwsgierig naar de wereld van vroeger en nu: het geeft je de achtergrond om de maatschappij vandaag te vatten. Je ontdekt wat historische bronnen vertellen over het verleden en hoe je ze kunt analyseren en interpreteren. Schrijf jij binnenkort zelf geschiedenis?",
+      "id": "ku-leuven-bachelor-of-history-leuven-94d668be96"
+    },
+    {
+      "name_en": "Bachelor of Informatics (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268900",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268900",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de informatica (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "58410182",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Informatics (Programme for students started in 2025-2026 or later) (Kortrijk)"
+        },
+        {
+          "id": "56858679",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Informatics (Programme for students started before 2025-2026) (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Als informaticus neem je het voortouw in een razendsnel digitaliserende wereld.  Wiskunde en fysica vormen de basis om besturingssystemen, computernetwerken en complexe softwaresystemen te ontwerpen.",
+      "id": "ku-leuven-bachelor-of-informatics-kortrijk-850f61b969"
+    },
+    {
+      "name_en": "Bachelor of Informatics (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074217",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074217",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de informatica (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016742",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Informatics (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Als informaticus neem je het voortouw in een razendsnel digitaliserende wereld.  Wiskunde en fysica vormen de basis om besturingssystemen, computernetwerken en complexe softwaresystemen te ontwerpen.",
+      "id": "ku-leuven-bachelor-of-informatics-leuven-f64876a5c7"
+    },
+    {
+      "name_en": "Bachelor of Instructional Sciences (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50311045",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50311045",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de onderwijskunde (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "54560021",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Instructional Sciences (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Onderwijskunde heeft heel wat in petto: het is de enige opleiding in Vlaanderen die psychologie en pedagogische wetenschappen combineert. Je ontwikkelt je tot een brede gedragswetenschapper met kennis van psychologie en pedagogische wetenschappen. Emotie, motivatie, opvoeding, onderwijs, ontwikkeling: het komt allemaal aan bod.",
+      "id": "ku-leuven-bachelor-of-instructional-sciences-kortrijk-f3dd9bd924"
+    },
+    {
+      "name_en": "Bachelor of Interior Architecture (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51522831",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51522831",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de interieurarchitectuur (Brussel)",
+      "programme_variants": [
+        {
+          "id": "51523036",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Interior Architecture (Brussels)"
+        }
+      ],
+      "catalogue_notice_original": "Interieurarchitectuur heeft oog voor de samenhang tussen mens en ruimte, met aandacht voor cultuur en geschiedenis, techniek en filosofie. Ontwerpen, verkennen en daaruit inzichten putten, is de kern van de opleiding. Stapsgewijs leer je ontwerpen inzetten als instrument voor ontwerpmatig onderzoek.",
+      "id": "ku-leuven-bachelor-of-interior-architecture-brussels-1ca5de94ba"
+    },
+    {
+      "name_en": "Bachelor of Interior Architecture (Ghent)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51522835",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Ghent",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51522835",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de interieurarchitectuur (Gent)",
+      "programme_variants": [
+        {
+          "id": "51523047",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Ghent",
+          "name": "Bachelor of Interior Architecture (Ghent)"
+        }
+      ],
+      "catalogue_notice_original": "Interieurarchitectuur heeft oog voor de samenhang tussen mens en ruimte, met aandacht voor cultuur en geschiedenis, techniek en filosofie. Ontwerpen, verkennen en daaruit inzichten putten, is de kern van de opleiding. Stapsgewijs leer je ontwerpen inzetten als instrument voor ontwerpmatig onderzoek.",
+      "id": "ku-leuven-bachelor-of-interior-architecture-ghent-c81dd52b91"
+    },
+    {
+      "name_en": "Bachelor of Language and Area Studies: Arabic and Islamic Studies (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268980",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268980",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de taal- en regiostudies: arabistiek en islamkunde (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016900",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Language and Area Studies: Arabic and Islamic Studies (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Het Midden-Oosten is razend actueel. Je bestudeert de Arabische taal samen met de cultuur en de geschiedenis van de regio. Je verwerft inzicht in de religieuze, politieke en sociaal-economische context.",
+      "id": "ku-leuven-bachelor-of-language-and-area-studies-arabic-and-islamic-studies-380de8b4ba"
+    },
+    {
+      "name_en": "Bachelor of Language and Area Studies: Chinese Studies (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268981",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268981",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de taal- en regiostudies: Chinese studies (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016901",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Language and Area Studies: Chinese Studies (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Hoe groter de rol van China in de wereld wordt, hoe belangrijker het is om het land op alle vlakken te begrijpen. Je bestudeert eerst en vooral het modern en het klassiek Chinees, maar je maakt ook kennis met de geschiedenis, de cultuur, de politiek en de economie van China vroeger en nu.",
+      "id": "ku-leuven-bachelor-of-language-and-area-studies-chinese-studies-leuven-64b9a76b7a"
+    },
+    {
+      "name_en": "Bachelor of Language and Area Studies: Japanese Studies (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268982",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268982",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de taal- en regiostudies: Japanse studies (Leuven)",
+      "programme_variants": [
+        {
+          "id": "58909640",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Language and Area Studies: Japanese Studies (Programme for students started in 2026-2027 or later) (Leuven)"
+        },
+        {
+          "id": "51016902",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Language and Area Studies: Japanese Studies (Programme for students started before 2026-2027) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Wie Japans kent en Japan begrijpt, opent meteen ook de deur naar andere Aziatische talen en culturen. Je bestudeert de Japanse taal en regio, de samenleving vroeger en nu, de politiek en economie, cultuur en filosofie.",
+      "id": "ku-leuven-bachelor-of-language-and-area-studies-japanese-studies-leuven-f516e73ac9"
+    },
+    {
+      "name_en": "Bachelor of Laws (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51861758",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51861758",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de rechten (Brussel)",
+      "programme_variants": [
+        {
+          "id": "51863523",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Laws (Brussels)"
+        },
+        {
+          "id": "51863524",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Laws - Bilingual Programme with FUSL (No new enrollments as from 2025-2026)  (Brussels)"
+        },
+        {
+          "id": "51887307",
+          "credits": "122",
+          "stages": "02",
+          "campus": "Brussels",
+          "name": "Bachelor of Laws (Abridged Programme) (Brussels)"
+        }
+      ],
+      "catalogue_notice_original": "Recht gaat over de afspraken die we met elkaar maken om het samenleven in goede banen te leiden. Ongeveer elk aspect van ons leven vind je terug in het recht, van milieu en gezondheid, over democratie, tot handel en zelfs de dood. Wie rechten studeert, bestudeert het volle leven.",
+      "id": "ku-leuven-bachelor-of-laws-brussels-2e991ebd96"
+    },
+    {
+      "name_en": "Bachelor of Laws (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268920",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268920",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de rechten (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "51956754",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Laws (Kortrijk)"
+        },
+        {
+          "id": "51016986",
+          "credits": "123",
+          "stages": "01",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Laws (Abridged Programme) (Kortrijk)"
+        },
+        {
+          "id": "51963039",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Laws (Programme for students working their way through university) (Kortrijk)"
+        },
+        {
+          "id": "51970452",
+          "credits": "123",
+          "stages": "02",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Laws (Abridged programme for students working their way through university) (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Recht gaat over de afspraken die we met elkaar maken om het samenleven in goede banen te leiden. Ongeveer elk aspect van ons leven vind je terug in het recht, van milieu en gezondheid, over democratie, tot handel en zelfs de dood. Wie rechten studeert, bestudeert het volle leven.",
+      "id": "ku-leuven-bachelor-of-laws-kortrijk-d9e82cd57c"
+    },
+    {
+      "name_en": "Bachelor of Laws (KU Leuven et al) (Hasselt)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_52243355",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Hasselt",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "52243355",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de rechten (KU Leuven e.a.) (Hasselt)",
+      "programme_variants": [
+        {
+          "id": "52249652",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Hasselt",
+          "name": "Bachelor of Laws (KU Leuven et al) (Hasselt)"
+        }
+      ],
+      "catalogue_notice_original": "Recht gaat over de afspraken die we met elkaar maken om het samenleven in goede banen te leiden. Ongeveer elk aspect van ons leven vind je terug in het recht, van milieu en gezondheid, over democratie, tot handel en zelfs de dood. Wie rechten studeert, bestudeert het volle leven.",
+      "entry_route": "Joint institutional qualification; KU Leuven catalogue scope includes the named partner/campus.",
+      "id": "ku-leuven-bachelor-of-laws-ku-leuven-et-al-hasselt-54d7c63796"
+    },
+    {
+      "name_en": "Bachelor of Laws (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268918",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268918",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de rechten (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51936089",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Laws (Leuven)"
+        },
+        {
+          "id": "51951979",
+          "credits": "123",
+          "stages": "02",
+          "campus": "Leuven",
+          "name": "Bachelor of Laws (Abridged Programme) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Recht gaat over de afspraken die we met elkaar maken om het samenleven in goede banen te leiden. Ongeveer elk aspect van ons leven vind je terug in het recht, van milieu en gezondheid, over democratie, tot handel en zelfs de dood. Wie rechten studeert, bestudeert het volle leven.",
+      "id": "ku-leuven-bachelor-of-laws-leuven-e887ccda5a"
+    },
+    {
+      "name_en": "Bachelor of Laws (Trilingual: Dutch, French and English) (KU Leuven et al) (Brussels)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_57662264",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "English",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "57662264",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor of Laws (Trilingual: Dutch, French and English) (KU Leuven et al) (Brussels)",
+      "programme_variants": [
+        {
+          "id": "57662723",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Bachelor of Laws (Trilingual: Dutch, French and English) (KU Leuven et al) (Brussels)"
+        }
+      ],
+      "catalogue_notice_original": "Recht gaat over regels die de samenleving in goede banen leiden. In deze opleiding ontdek je de verschillende rechtstakken en leer je de verhouding kennen tussen het internationale, Europese, federale en Vlaamse recht. This programme is taught in Dutch, French and English. You need a good understanding of all three of these languages. Recht gaat over regels die de samenleving in goede banen leiden. In deze opleiding* ontdek je de verschillende rechtstakken en leer je de verhouding kennen tussen het internationale, Europese, federale en Vlaamse recht. *This programme is taught in Dutch, French and English. You need a good understanding of all three of these languages.",
+      "entry_route": "Joint institutional qualification; KU Leuven catalogue scope includes the named partner/campus.",
+      "id": "ku-leuven-bachelor-of-laws-trilingual-dutch-french-and-english-ku-leuven-et-2e2d4a2dfa"
+    },
+    {
+      "name_en": "Bachelor of Linguistics and Literature (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074167",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074167",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de taal- en letterkunde (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "58908780",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Linguistics and Literature (Programme for students started in 2026-2027 or later) (Kortrijk)"
+        },
+        {
+          "id": "57362562",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Linguistics and Literature (Programme for students started before 2026-2027) (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Enkel door taal kunnen we elkaar begrijpen, een maatschappij opbouwen, AI ontwikkelen en onze verbeelding verrijken. Om de mechanismes achter taal te doorgronden, leer je talen grondig mondeling en schriftelijk beheersen en taalkundig analyseren. Daarnaast verdiep je je in de cultuur en literatuur van je gekozen talen, van vroeger tot nu.",
+      "id": "ku-leuven-bachelor-of-linguistics-and-literature-kortrijk-2b3e3a74d0"
+    },
+    {
+      "name_en": "Bachelor of Linguistics and Literature (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074166",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074166",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de taal- en letterkunde (Leuven)",
+      "programme_variants": [
+        {
+          "id": "58884863",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Linguistics and Literature (Programme for students started in 2026-2027 or later) (Leuven)"
+        },
+        {
+          "id": "56145753",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Linguistics and Literature (Programme for students started before 2026-2027) (Leuven)"
+        },
+        {
+          "id": "51009897",
+          "credits": "56",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Linguistics and Literature (third language) (Leuven)"
+        },
+        {
+          "id": "51228340",
+          "credits": "113",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Linguistics and Literature (Abridged Programme for Professional Bachelors of Education: Secondary Education) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Enkel door taal kunnen we elkaar begrijpen, een maatschappij opbouwen, AI ontwikkelen en onze verbeelding verrijken. Om de mechanismes achter taal te doorgronden, leer je talen grondig mondeling en schriftelijk beheersen en taalkundig analyseren. Daarnaast verdiep je je in de cultuur en literatuur van je gekozen talen, van vroeger tot nu.",
+      "id": "ku-leuven-bachelor-of-linguistics-and-literature-leuven-cb951249ef"
+    },
+    {
+      "name_en": "Bachelor of Mathematics (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268995",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268995",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de wiskunde (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "57916683",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Mathematics (Programme for students started in 2024-2025 or later) (Kortrijk)"
+        },
+        {
+          "id": "55032059",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Mathematics (Programme for students started before 2024-2025) (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Onlinebankgegevens beschermen, een complex netwerk zoals Facebook beschrijven, uitzoeken hoe AI-webpagina's rangschikt? Wiskunde biedt vaak het antwoord. Je leert abstract denken, correct redeneren en analyseren en je kennis toepassen via de drie pijlers van de wiskunde: algebra, analyse en meetkunde.",
+      "id": "ku-leuven-bachelor-of-mathematics-kortrijk-91f102b76b"
+    },
+    {
+      "name_en": "Bachelor of Mathematics (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074219",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074219",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de wiskunde (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016765",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Mathematics (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Onlinebankgegevens beschermen, een complex netwerk zoals Facebook beschrijven, uitzoeken hoe AI-webpagina's rangschikt? Wiskunde biedt vaak het antwoord. Je leert abstract denken, correct redeneren en analyseren en je kennis toepassen via de drie pijlers van de wiskunde: algebra, analyse en meetkunde.",
+      "id": "ku-leuven-bachelor-of-mathematics-leuven-4421d382ad"
+    },
+    {
+      "name_en": "Bachelor of Medicine (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074172",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074172",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de geneeskunde (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "57364406",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Medicine"
+        }
+      ],
+      "catalogue_notice_original": "De opleiding geneeskunde bereidt je voor om arts te worden, waarbij je ook een brede blik zal krijgen op de gezondheidszorg in al zijn facetten. Tijdens de opleiding vullen theoretisch inzicht, klinisch onderwijs, vaardigheidslessen en stages elkaar aan tijdens zes intensieve opleidingsfases.",
+      "id": "ku-leuven-bachelor-of-medicine-kortrijk-5e44542f27"
+    },
+    {
+      "name_en": "Bachelor of Medicine (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074171",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074171",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de geneeskunde (Leuven)",
+      "programme_variants": [
+        {
+          "id": "57359677",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Medicine (Programme for students started in 2023-2024 or later) (Leuven)"
+        },
+        {
+          "id": "51974242",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Medicine (Programme for students started before 2023-2024) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "De opleiding geneeskunde bereidt je voor om arts te worden, waarbij je ook een brede blik zal krijgen op de gezondheidszorg in al zijn facetten. Tijdens de opleiding vullen theoretisch inzicht, klinisch onderwijs, vaardigheidslessen en stages elkaar aan tijdens zes intensieve opleidingsfases.",
+      "id": "ku-leuven-bachelor-of-medicine-leuven-78e117b64e"
+    },
+    {
+      "name_en": "Bachelor of Musicology (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50309651",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50309651",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de musicologie (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016910",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Musicology (Leuven)"
+        },
+        {
+          "id": "51012935",
+          "credits": "64",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Musicology (Abridged Programme for Academic Masters) (Leuven)"
+        },
+        {
+          "id": "50468160",
+          "credits": "61",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Musicology (Abridged Programme for Bachelors/Masters of Music) (Leuven)"
+        },
+        {
+          "id": "51012937",
+          "credits": "91",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Musicology (Abridged Programme for Academic Bachelors in Humanities and Social Sciences) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Musicologie bestudeert muziek in al haar diversiteit, als kunstvorm, maar ook als maatschappelijk en cultureel fenomeen. Je analyseert muziek uit verschillende periodes, van verschillende genres en van over heel de wereld.",
+      "id": "ku-leuven-bachelor-of-musicology-leuven-ed5ab2770f"
+    },
+    {
+      "name_en": "Bachelor of Pharmaceutical Sciences (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074202",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074202",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de farmaceutische wetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "57399409",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Pharmaceutical Sciences (Programme for students started in 2023-2024 or later) (Leuven)"
+        },
+        {
+          "id": "51016977",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Pharmaceutical Sciences (Programme for students started before 2023-2024) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Geneesmiddelen zijn een onmisbare pijler van de gezondheidszorg. In deze opleiding ontwikkel je je tot een echte geneesmiddelenexpert. Je bestudeert zowel de ontwikkeling van het geneesmiddel als het gebruik door de patiënt. Zo kun jij jouw duurzame en zorgzame bijdrage leveren aan de gezondheidszorg van morgen.",
+      "id": "ku-leuven-bachelor-of-pharmaceutical-sciences-leuven-15eaa82152"
+    },
+    {
+      "name_en": "Bachelor of Philosophy (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_50311099",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "English",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50311099",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor of Philosophy (Leuven)",
+      "programme_variants": [
+        {
+          "id": "55540651",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Philosophy (Leuven)"
+        },
+        {
+          "id": "56178987",
+          "credits": "102",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Philosophy (Abridged Programme of 102 ECTS) (Leuven)"
+        },
+        {
+          "id": "50841972",
+          "credits": "63",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Philosophy (Abridged Programme of 63 ECTS) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Philosophising begins with wonder, about human kind, truth and perception, life and death, good and evil, sense and nonsense, and much more. You not only study the history of philosophy, but also participate in social debate through scientifically based arguments. Graduates find themselves in business, government, politics or the sociocultural sector.",
+      "id": "ku-leuven-bachelor-of-philosophy-leuven-70603af8bf"
+    },
+    {
+      "name_en": "Bachelor of Philosophy (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268974",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268974",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de wijsbegeerte (Leuven)",
+      "programme_variants": [
+        {
+          "id": "55540411",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Philosophy (Leuven)"
+        },
+        {
+          "id": "50459918",
+          "credits": "102",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Philosophy (Abridged Programme) (Leuven)"
+        },
+        {
+          "id": "50666693",
+          "credits": "63",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Philosophy (Abridged Programme) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Filosoferen begint met verwondering over mens, waarheid en waarneming, leven en dood, goed en kwaad, zin en onzin. Je bestudeert niet alleen de geschiedenis van de filosofie, maar leert ook teksten doorgronden en analyseren, kritische vragen stellen, filosoferen en argumenteren.",
+      "id": "ku-leuven-bachelor-of-philosophy-leuven-b2de016151"
+    },
+    {
+      "name_en": "Bachelor of Physical Education and Movement Sciences (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074203",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074203",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de lichamelijke opvoeding en de bewegingswetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "58387539",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Physical Education and Movement Sciences (Programme for students started in 2025-2026 or later) (Leuven)"
+        },
+        {
+          "id": "51899043",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Physical Education and Movement Sciences (Programme for students started before 2025-2026) (Leuven)"
+        },
+        {
+          "id": "51016952",
+          "credits": "92",
+          "stages": "02",
+          "campus": "Leuven",
+          "name": "Bachelor of Physical Education and Movement Sciences (Abridged Programme) (No new enrollments as from 2025-2026) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Beweging wordt steeds belangrijker in het kader van de gezondheidsbevordering. Word jij de specialist die menselijke beweging actief benadert vanuit een wetenschappelijk oogpunt? Je ontwikkelt een brede theoretische basis én de nodige fysieke vaardigheden.",
+      "id": "ku-leuven-bachelor-of-physical-education-and-movement-sciences-leuven-c327e0ce85"
+    },
+    {
+      "name_en": "Bachelor of Physics (Kortrijk)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268997",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Kortrijk",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268997",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de fysica (Kortrijk)",
+      "programme_variants": [
+        {
+          "id": "57917132",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Physics (Programme for students started in 2024-2025 or later) (Kortrijk)"
+        },
+        {
+          "id": "55030795",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Kortrijk",
+          "name": "Bachelor of Physics (Programme for students started before 2024-2025) (Kortrijk)"
+        }
+      ],
+      "catalogue_notice_original": "Fysica gaat op zoek naar de basiswetten van de natuur door een voortdurende wisselwerking tussen theorie en experiment. Om complexe materie om te zetten in overzichtelijke modellen maak je gebruik van wiskunde. Ook de basiswetten van de fysica en sterrenkunde hebben binnenkort geen geheimen meer voor jou.",
+      "id": "ku-leuven-bachelor-of-physics-kortrijk-8983e61ba5"
+    },
+    {
+      "name_en": "Bachelor of Physics (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074218",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074218",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de fysica (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016766",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Physics (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Fysica gaat op zoek naar de basiswetten van de natuur door een voortdurende wisselwerking tussen theorie en experiment. Om complexe materie om te zetten in overzichtelijke modellen maak je gebruik van wiskunde. Ook de basiswetten van de fysica en sterrenkunde hebben binnenkort geen geheimen meer voor jou.",
+      "id": "ku-leuven-bachelor-of-physics-leuven-ffcbb902df"
+    },
+    {
+      "name_en": "Bachelor of Political Science and Sociology (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50268971",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50268971",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de politieke wetenschappen en de sociologie (Leuven)",
+      "programme_variants": [
+        {
+          "id": "56829140",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Political Science and Sociology (Programme for students started in 2020-2021 or later)(Leuven)"
+        },
+        {
+          "id": "51016894",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Political Science and Sociology (Programme for students started before 2022-2023) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "In deze vernieuwde bacheloropleiding benader je maatschappelijke en politieke vraagstukken vanuit een wetenschappelijk perspectief. Je ontwikkelt je tot een kritische, veelzijdige politieke wetenschapper of socioloog. Vanaf het eerste jaar maak je een keuze tussen twee afstudeerrichtingen: politieke wetenschappen of sociologie.",
+      "id": "ku-leuven-bachelor-of-political-science-and-sociology-leuven-758bb787e7"
+    },
+    {
+      "name_en": "Bachelor of Psychology (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074160",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074160",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de psychologie (Leuven)",
+      "programme_variants": [
+        {
+          "id": "57398664",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Psychology (Programme for students started in 2023-2024 or later) (Leuven)"
+        },
+        {
+          "id": "51016751",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Psychology (programme for students started before 2023-2024) (Leuven)"
+        },
+        {
+          "id": "51017020",
+          "credits": "58",
+          "stages": "01",
+          "campus": "Leuven",
+          "name": "Bachelor of Psychology (Abridged Programme) (Leuven)"
+        },
+        {
+          "id": "55593935",
+          "credits": "123",
+          "stages": "02",
+          "campus": "Leuven",
+          "name": "Bachelor of Psychology (Abridged Programme) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Menselijk gedrag stellen we zelf en observeren we continu bij anderen: geen wonder dat het ons allemaal bezighoudt. Als psycholoog wil je uitzoeken waarom mensen bepaald gedrag vertonen: wat motiveert hen, hoe maken mensen keuzes, waar komen hun emoties vandaan, hoe gedragen zij zich in groep en hoe verklaar je individuele verschillen?",
+      "id": "ku-leuven-bachelor-of-psychology-leuven-d172653d32"
+    },
+    {
+      "name_en": "Bachelor of Rehabilitation Sciences and Physiotherapy (Bruges)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_51917052",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Bruges",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "51917052",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de revalidatiewetenschappen en de kinesitherapie (Brugge)",
+      "programme_variants": [
+        {
+          "id": "58394555",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Bruges",
+          "name": "Bachelor of Rehabilitation Sciences and Physiotherapy (Programme for students started in 2025-2026 or later) (Bruges)"
+        },
+        {
+          "id": "53245865",
+          "credits": "180",
+          "stages": "02",
+          "campus": "Bruges",
+          "name": "Bachelor of Rehabilitation Sciences and Physiotherapy (Programme for students started before 2025-2026) (Bruges)"
+        }
+      ],
+      "catalogue_notice_original": "Kinesitherapie betekent letterlijk: geneeswijze door te bewegen. Om bewegingsproblemen na een ongeval, ziekte of beperking te analyseren en te behandelen, heb je niet alleen anatomie, celbiologie, natuurkunde en chemie nodig, maar zeker ook de vaardigheden die je inoefent via rollenspelen en stages.",
+      "id": "ku-leuven-bachelor-of-rehabilitation-sciences-and-physiotherapy-bruges-a551adb1ec"
+    },
+    {
+      "name_en": "Bachelor of Rehabilitation Sciences and Physiotherapy (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074204",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074204",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de revalidatiewetenschappen en de kinesitherapie (Leuven)",
+      "programme_variants": [
+        {
+          "id": "58394070",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Rehabilitation Sciences and Physiotherapy (Programme for students started in 2025-2026 or later) (Leuven)"
+        },
+        {
+          "id": "53243842",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Rehabilitation Sciences and Physiotherapy (Programme for students started before 2025-2026) (Leuven)"
+        },
+        {
+          "id": "51017006",
+          "credits": "97",
+          "stages": "02",
+          "campus": "Leuven",
+          "name": "Bachelor of Rehabilitation Sciences and Physiotherapy for Bachelors of Physical Education and Movement Sciences (Abridged Programme) (Leuven)"
+        },
+        {
+          "id": "53246134",
+          "credits": "87",
+          "stages": "02",
+          "campus": "Leuven",
+          "name": "Bachelor of Rehabilitation Sciences and Physiotherapy for Masters of (Teaching) Physical Education, Movement and Sport Sciences 120 ECTS (Abridged Programme) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Kinesitherapie betekent letterlijk: geneeswijze door te bewegen. Om bewegingsproblemen na een ongeval, ziekte of beperking te analyseren en te behandelen, heb je niet alleen anatomie, celbiologie, natuurkunde en chemie nodig, maar zeker ook de vaardigheden die je inoefent via rollenspelen en stages.",
+      "id": "ku-leuven-bachelor-of-rehabilitation-sciences-and-physiotherapy-leuven-9c03613e09"
+    },
+    {
+      "name_en": "Bachelor of Speech Language Pathology and Audiology Sciences (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074200",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074200",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de logopedische en audiologische wetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "54073028",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Speech Language Pathology and Audiology Sciences (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "De bachelor in logopedische en audiologische wetenschappen geeft je een vorming in de multidisciplinaire wetenschappen die het intermenselijke communicatiegedrag bestuderen. Je leert problemen op het vlak van stem, spraak, taal, slikken, gehoor en evenwicht bij kinderen en volwassenen voorkomen, onderzoeken en behandelen.",
+      "id": "ku-leuven-bachelor-of-speech-language-pathology-and-audiology-sciences-leuv-be7d2460e4"
+    },
+    {
+      "name_en": "Bachelor of Theology and Religious Studies (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/n/CQ_50074162",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "Dutch",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074162",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor in de theologie en de religiewetenschappen (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016744",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Theology and Religious Studies (Leuven)"
+        },
+        {
+          "id": "55562675",
+          "credits": "60",
+          "stages": "01",
+          "campus": "Leuven",
+          "name": "Bachelor of Theology and Religious Studies (Abridged Programme) (Programme for students started as from 2020-2021) (Leuven)"
+        },
+        {
+          "id": "55566921",
+          "credits": "60",
+          "stages": "01",
+          "campus": "Leuven",
+          "name": "Bachelor of Theology and Religious Studies (Abridged Programme) Programme for students started as from 2020-2021) (Leuven)"
+        },
+        {
+          "id": "55561731",
+          "credits": "90",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Theology and Religious Studies (Abridged Programme) (Programme for students started as from 2020-2021) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Vanuit geloof en spiritualiteit geven mensen betekenis aan hun leven, overal ter wereld, vroeger en nu. Je bestudeert de christelijke traditie vanuit verschillende invalshoeken en je verdiept je in de andere wereldgodsdiensten.",
+      "id": "ku-leuven-bachelor-of-theology-and-religious-studies-leuven-10cd23e778"
+    },
+    {
+      "name_en": "Bachelor of Theology and Religious Studies (Leuven)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_50074163",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Leuven",
+      "language": "English",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "50074163",
+      "entity_type": "bachelor qualification",
+      "name_original": "Bachelor of Theology and Religious Studies (Leuven)",
+      "programme_variants": [
+        {
+          "id": "51016745",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Leuven",
+          "name": "Bachelor of Theology and Religious Studies (Leuven)"
+        },
+        {
+          "id": "50531920",
+          "credits": "120",
+          "stages": "00",
+          "campus": "Leuven",
+          "name": "Bachelor of Theology and Religious Studies (Abridged Programme) (Leuven)"
+        }
+      ],
+      "catalogue_notice_original": "Faith and spirituality lend meaning to people’s lives all over the world, in the past, present and future. You will study world religions such as Christianity as well as major philosophical movements. Upon graduation, theologians and religious scientists choose teaching or follow a path as ethical advisers, pastors or highly valued collaborators in cultural associations.",
+      "id": "ku-leuven-bachelor-of-theology-and-religious-studies-leuven-d522a92b48"
+    },
+    {
+      "name_en": "Joint Bachelor in Sustainability (KU Leuven et al) (Brussels, Helsinki, Krakow, Madrid, Paris, Zurich)",
+      "degree_label": "Academic Bachelor's",
+      "official_url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_58364589",
+      "intake": "2026/27",
+      "duration": null,
+      "campus": "Brussels",
+      "language": "English",
+      "discovery_source_url": "https://www.kuleuven.be/opleidingen/",
+      "source_period": "2026–2027 official programme guide",
+      "raw_key": "58364589",
+      "entity_type": "bachelor qualification",
+      "name_original": "Joint Bachelor in Sustainability (KU Leuven et al) (Brussels, Helsinki, Krakow, Madrid, Paris, Zurich)",
+      "programme_variants": [
+        {
+          "id": "58365132",
+          "credits": "180",
+          "stages": "03",
+          "campus": "Brussels",
+          "name": "Joint Bachelor in Sustainability (KU Leuven et al) (Brussels, Helsinki, Krakow, Madrid, Paris, Zurich)"
+        }
+      ],
+      "catalogue_notice_original": "Climatic changes affecting the world today require an education sufficient to meet the challenge. This programme gives students the tools they need to tackle the toughest challenges in biology, urbanism, economics and more. Students study at multiple universities in the UNA Europa alliance to gain a unrivalled perspective on the many potential approaches to global sustainability issues.",
+      "entry_route": "Joint institutional qualification; KU Leuven catalogue scope includes the named partner/campus.",
+      "id": "ku-leuven-joint-bachelor-in-sustainability-ku-leuven-et-al-brussels-helsink-810fb981f7"
+    }
+  ]
+}

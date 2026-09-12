@@ -1,0 +1,52 @@
+{
+  "original_manifest": {
+    "university_id": "cmu",
+    "checked_at": "2026-09-12",
+    "final_count": 91,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "Carnegie Mellon Pittsburgh main undergraduate catalog; Qatar excluded",
+    "directory_urls": [
+      "https://coursecatalog.web.cmu.edu/programs/",
+      "https://coursecatalog.web.cmu.edu/degreesoffered/"
+    ],
+    "official_published_count": null,
+    "page_coverage": {
+      "pages": 1,
+      "directory_entries": 194,
+      "pagination": "All A-Z entries in one static catalog HTML, no further page links"
+    },
+    "filter_rules": "Keep named bachelor degrees, splitting BA/BS alternatives. Keep additional majors with explicit non-standalone route; exclude all minors and Qatar items. Additional majors are not standalone degrees.",
+    "excluded_count": 106,
+    "additional_major_count": 17,
+    "standalone_bachelor_count": 74,
+    "can_prove_complete": true,
+    "completeness_basis": "Entire official Programs A-Z, including additional majors omitted from degrees-only table.",
+    "gaps": [
+      "Some joint programs are listed with mirrored names by administering departments (Economics/Mathematical Sciences; Biological Sciences/Psychology); raw identifiers and URLs preserve these distinct catalog listings.",
+      "Additional majors must not be described as independent bachelor degrees."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://coursecatalog.web.cmu.edu/programs/",
+      "sha256": "2684a5b7755359d9b367610b1476dfe07dfc114ed4d33a70e7cc8b915650a41b",
+      "bytes": 120250,
+      "raw_file": "scratch/full-catalog/us-b/cmu/catalog.html",
+      "meta_file": "scratch/full-catalog/us-b/cmu/catalog.source.json"
+    },
+    {
+      "url": "https://coursecatalog.web.cmu.edu/degreesoffered/",
+      "sha256": "34c5fbf8fadf9b6613debc351a28a0ac30f5a14a6e2c4aa13e08f33eb45ba678",
+      "bytes": 113138,
+      "raw_file": "scratch/full-catalog/us-b/cmu/degrees.html",
+      "meta_file": "scratch/full-catalog/us-b/cmu/degrees.source.json"
+    },
+    {
+      "url": "https://www.cmu.edu/admission/majors-programs/undergraduate-program-finder",
+      "sha256": "0a84a810bb1bf65a32e3215507ea5e2a2825b656096c86b8b8ea4d083aba6dc0",
+      "bytes": 192006,
+      "raw_file": "scratch/full-catalog/us-b/cmu/index.html",
+      "meta_file": "scratch/full-catalog/us-b/cmu/index.source.json"
+    }
+  ]
+}

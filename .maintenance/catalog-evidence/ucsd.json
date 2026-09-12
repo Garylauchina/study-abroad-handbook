@@ -1,0 +1,44 @@
+{
+  "original_manifest": {
+    "university_id": "ucsd",
+    "checked_at": "2026-09-12",
+    "final_count": 178,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "UC San Diego undergraduate majors; all undergraduate colleges, not extension; college-specific individual-major eligibility retained",
+    "directory_urls": [
+      "https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html",
+      "https://catalog.ucsd.edu/undergraduate/degrees-offered/index.html"
+    ],
+    "official_published_count": null,
+    "page_coverage": {
+      "pages": 2,
+      "student_list_program_lines": 180,
+      "pagination": "Complete single-page A-Z student directory plus full 2026-27 degrees table; student page updated 2026-06-12 controls current major identity"
+    },
+    "filter_rules": "Extract all bachelor-bearing named lines, split BA/BS, retain named consecutive bachelor/master programs, named specializations and paused majors with explicit route flags. For International Studies missing awards in student list use explicit BA/BA-MIA catalog rows. Merge cross-listed same program/award.",
+    "excluded_count": 6,
+    "can_prove_complete": true,
+    "completeness_basis": "All named bachelor and consecutive-degree lines in complete June 2026 official student-major list; catalog supplies omitted International Studies award notation.",
+    "gaps": [
+      "The 2026-27 Degrees Offered table and newer student list differ: student list adds Astronomy, Environmental Anthropology, Artificial Intelligence and other identities and changes Physics/Psychology details. The current student list controls; superseded-only catalog names are not automatically added as separate current degrees.",
+      "Standalone major count differs from credential/specialization rows; named specializations are explicitly flagged.",
+      "Paused German, Italian and Global South majors retained with dates; no future reopening inferred."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html",
+      "sha256": "6e1e9deb60ad1ef486dcf294f1566aba2a7b5b20d7a5ef33175fd037eeffe239",
+      "bytes": 45585,
+      "raw_file": "scratch/full-catalog/us-b/ucsd/advising.html",
+      "meta_file": "scratch/full-catalog/us-b/ucsd/advising.source.json"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/undergraduate/degrees-offered/index.html",
+      "sha256": "d5df42ef38f9a20dc884b9c495e972a7f189e8b4a764c3521610fa0ace258f6b",
+      "bytes": 43148,
+      "raw_file": "scratch/full-catalog/us-b/ucsd/index.html",
+      "meta_file": "scratch/full-catalog/us-b/ucsd/index.source.json"
+    }
+  ]
+}

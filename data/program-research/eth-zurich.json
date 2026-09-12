@@ -1,0 +1,1481 @@
+{
+  "university_id": "eth-zurich",
+  "programs": [
+    {
+      "inventory_id": "eth-zurich-architecture-d86c39a829",
+      "raw_key": "Architecture",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "建筑学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "以设计与建造为核心，结合科学技术、人文社科和数学；毕业还须完成六个月建筑领域工作实践。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "建筑事务所、建设企业、公共管理，以及设计、艺术和文化领域。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Architecture",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/architecture.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "2bceb222956d67b175771ebbc177842cea8a50653cf8e33172a743071de7acdd",
+          "sha256": "2bceb222956d67b175771ebbc177842cea8a50653cf8e33172a743071de7acdd"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Architecture",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/architecture.html"
+    },
+    {
+      "inventory_id": "eth-zurich-civil-engineering-066b1b7655",
+      "raw_key": "Civil Engineering",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "土木工程",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "学习数学、力学、计算机与自然科学，进而接触岩土、结构、交通、水利、材料等，包含项目、野外课程和本科论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "工程咨询、建设企业、政府机构、能源与交通企业及研究教育。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Civil Engineering",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/civil-engineering.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "9f1ff422ef6757ebe819f6fc97cc5950bce37ac7189f8885c66a1ee79ce7c1c1",
+          "sha256": "9f1ff422ef6757ebe819f6fc97cc5950bce37ac7189f8885c66a1ee79ce7c1c1"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Civil Engineering",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/civil-engineering.html"
+    },
+    {
+      "inventory_id": "eth-zurich-environmental-engineering-981c5ff779",
+      "raw_key": "Environmental Engineering",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "环境工程",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "以数理和工程基础研究水、空气、土壤与资源管理，包含项目、实验、野外活动及本科论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "环境工程咨询、公用事业、政府、研究及风险管理相关岗位。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Environmental Engineering",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/environmental-engineering.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "7c276a035e1d04748870ce4438a2f3239d6da4e0954a24473febd2c668cc0dfc",
+          "sha256": "7c276a035e1d04748870ce4438a2f3239d6da4e0954a24473febd2c668cc0dfc"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Environmental Engineering",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/environmental-engineering.html"
+    },
+    {
+      "inventory_id": "eth-zurich-geospatial-engineering-a6d98fbce0",
+      "raw_key": "Geospatial Engineering",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "地理空间工程",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "学习数学、计算机、物理与机器学习，以及测量、空间数据、地图和空间交通系统；从第二学期起有项目训练。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "工程与测绘、信息系统、公共管理和研究；后续硕士可涉及地理信息或空间发展。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Geospatial Engineering",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/geospatial-engineering.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "bb66c4c96957e0d4f1048e68e7212f2c4e4978f58208ea240c5403b8e5b02f38",
+          "sha256": "bb66c4c96957e0d4f1048e68e7212f2c4e4978f58208ea240c5403b8e5b02f38"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Geospatial Engineering",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/geospatial-engineering.html"
+    },
+    {
+      "inventory_id": "eth-zurich-electrical-engineering-and-information-technology-2b53788477",
+      "raw_key": "Electrical Engineering and Information Technology",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "电气工程与信息技术",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "前两年学习数学、物理、计算机及电路、信号、半导体等基础；第三年开展方向课程、选修及本科论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "信息、电子、能源、生物医学技术等行业的研发、工程与咨询。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Electrical Engineering and Information Technology",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/electrical-engineering-and-information-technology.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "501f5b95655a7a80bc366d7e0be178a24d6cfbcb04604d3c250d49810e16bd05",
+          "sha256": "501f5b95655a7a80bc366d7e0be178a24d6cfbcb04604d3c250d49810e16bd05"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Electrical Engineering and Information Technology",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/electrical-engineering-and-information-technology.html"
+    },
+    {
+      "inventory_id": "eth-zurich-computer-science-facb766f4e",
+      "raw_key": "Computer Science",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "计算机科学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "第一年以数学、编程和算法为基础，第二年接触系统、理论与计算方法，第三年选择重点方向并完成本科论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "计算机技术可用于科研、公共管理、医疗、交通、环境与金融等领域。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Computer Science",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/computer-science.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "7dc10766bf4153b62d103900ee6ab41b0498fc480f0149d5dda1f985692f89b7",
+          "sha256": "7dc10766bf4153b62d103900ee6ab41b0498fc480f0149d5dda1f985692f89b7"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Computer Science",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/computer-science.html"
+    },
+    {
+      "inventory_id": "eth-zurich-mechanical-engineering-8959fd767e",
+      "raw_key": "Mechanical Engineering",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "机械工程",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "前四学期为数理、计算机与工程基础，第五至第六学期有重点项目、选修和论文，涉及设计、控制、热力学及制造。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "产品开发与生产、质量与风险管理，以及机器人、医疗技术或能源工程。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Mechanical Engineering",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/mechanical-engineering.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "3ff17da14b20502343dfa0e3dc6df018c2ef0de77b37c7e862a98242b462c0cc",
+          "sha256": "3ff17da14b20502343dfa0e3dc6df018c2ef0de77b37c7e862a98242b462c0cc"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Mechanical Engineering",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/mechanical-engineering.html"
+    },
+    {
+      "inventory_id": "eth-zurich-materials-science-878b792fba",
+      "raw_key": "Materials Science",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "材料科学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "结合数学、物理、化学、计算机与材料学，学习热力学、力学、晶体学、材料制备和性能，包含工程项目、实验及论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "材料研发、制造、检测及产品全生命周期分析。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Materials Science",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/materials-science.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "1deeb278bb1448864dd0ad8cfbc6ae6fea93d44d3da1ac04d4118469b4d3329f",
+          "sha256": "1deeb278bb1448864dd0ad8cfbc6ae6fea93d44d3da1ac04d4118469b4d3329f"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Materials Science",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/materials-science.html"
+    },
+    {
+      "inventory_id": "eth-zurich-biology-77d2ff956f",
+      "raw_key": "Biology",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "生物学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "首年强化自然科学基础，随后学习核心生物学并逐步选择模块，覆盖细胞、分子、系统、微生物、植物和遗传等领域。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "研究、教学、制药、农业和环境相关领域；官网部分博士升学描述针对硕士毕业者，不能当本科升学率。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Biology",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/biology.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "48807acb3a4d48745dc65354bcd4560d9d0119139c807d230cf88d53394e0a8c",
+          "sha256": "48807acb3a4d48745dc65354bcd4560d9d0119139c807d230cf88d53394e0a8c"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Biology",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/biology.html"
+    },
+    {
+      "inventory_id": "eth-zurich-biochemistry-chemical-biology-dbb3c77461",
+      "raw_key": "Biochemistry – Chemical Biology",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "生物化学与化学生物学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "结合化学、生物化学、分子生物学和物理原理，重视反应机制和实验训练，第三年设集中实验模块。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "大学研究机构、化工、制药、生物技术与生物医学研发。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Biochemistry – Chemical Biology",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/biochemistry-chemicalbiology.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "f25b79f88fdab482d4e5e1d87571dccb4e73b852c1c7c1a8586e3f0d96947f01",
+          "sha256": "f25b79f88fdab482d4e5e1d87571dccb4e73b852c1c7c1a8586e3f0d96947f01"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Biochemistry – Chemical Biology",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/biochemistry-chemicalbiology.html"
+    },
+    {
+      "inventory_id": "eth-zurich-chemistry-eddd776149",
+      "raw_key": "Chemistry",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "化学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "前两年与化学工程共享化学、数理和实验基础；第三年继续深入分析、无机、有机与物理化学并选择课程。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "化学研究、分析、环境与安全、质量管理或知识产权相关领域。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Chemistry",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/bachelor-chemistry-chemical-and-bioengineering.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "cd8630651c35b8413efb80ec3059a2bda1cb0d281ab60b6deb92f15f19077fcb",
+          "sha256": "cd8630651c35b8413efb80ec3059a2bda1cb0d281ab60b6deb92f15f19077fcb"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Chemistry",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/bachelor-chemistry-chemical-and-bioengineering.html"
+    },
+    {
+      "inventory_id": "eth-zurich-chemical-engineering-c6a365e821",
+      "raw_key": "Chemical Engineering",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "化学工程",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "前两年与化学共享基础，第三年突出工程科学、过程建模和案例研究；它与化学是两个本科项目。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "化工、制药、食品与材料生产中的过程开发、设计和生产管理。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Chemical Engineering",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/bachelor-chemistry-chemical-and-bioengineering.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "cd8630651c35b8413efb80ec3059a2bda1cb0d281ab60b6deb92f15f19077fcb",
+          "sha256": "cd8630651c35b8413efb80ec3059a2bda1cb0d281ab60b6deb92f15f19077fcb"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Chemical Engineering",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/bachelor-chemistry-chemical-and-bioengineering.html"
+    },
+    {
+      "inventory_id": "eth-zurich-computational-sciences-and-engineering-8e32f47ca1",
+      "raw_key": "Computational Sciences and Engineering",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "计算科学与工程",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "结合数学、物理、计算机与工程问题，后续设核心课程、专业方向、案例研究和本科论文，重点是计算模拟。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "工业或大学研究机构中利用计算方法解决科学与工程问题。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Computational Sciences and Engineering",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/computational-science-and-engineering.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "9f45e8792d8552dd34d649c04b55d60ee7012c7ca97c2956dfb0eeafd3468786",
+          "sha256": "9f45e8792d8552dd34d649c04b55d60ee7012c7ca97c2956dfb0eeafd3468786"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Computational Sciences and Engineering",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/computational-science-and-engineering.html"
+    },
+    {
+      "inventory_id": "eth-zurich-interdisciplinary-sciences-b45f56a33f",
+      "raw_key": "Interdisciplinary Sciences",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "跨学科自然科学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "设物理化学与生物化学物理两类学习方向；以数学和自然科学为基础，逐步加入跨学科选修、实验和本科论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "研究机构、制药化工、仪器和制造企业，以及技术咨询。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Interdisciplinary Sciences",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/interdisciplinary-sciences.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "91166595107fe08acb973947fbd6d5db799208904832a496ff60236ac4ffbc51",
+          "sha256": "91166595107fe08acb973947fbd6d5db799208904832a496ff60236ac4ffbc51"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Interdisciplinary Sciences",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/interdisciplinary-sciences.html"
+    },
+    {
+      "inventory_id": "eth-zurich-mathematics-7eb086ccf5",
+      "raw_key": "Mathematics",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "数学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "第一年内容与物理高度相近，学习分析、线性代数和数值方法；后续包含代数、拓扑、概率统计、研讨课和本科论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "研究教学、保险、银行、软件开发与公共统计。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Mathematics",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/mathematics.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "fa7e8994802fb1bf6d5d12f0dde74cbde6447c6c4b57be7e9e3ca145a83ba9c5",
+          "sha256": "fa7e8994802fb1bf6d5d12f0dde74cbde6447c6c4b57be7e9e3ca145a83ba9c5"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Mathematics",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/mathematics.html"
+    },
+    {
+      "inventory_id": "eth-zurich-pharmaceutical-sciences-4ed4e6e3b9",
+      "raw_key": "Pharmaceutical Sciences",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "药学科学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "前两年为自然科学与实验，第三年学习药物分析、药物化学、微生物、毒理和免疫；本科阶段须完成三周药房实习及急救课程。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "药品研究、咨询和药房相关职业路径；本科课程介绍不能视为已经取得药师执业资格。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Pharmaceutical Sciences",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/pharmaceutical-sciences.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "6a6fb6ad1b3c49a1c40109a0264f6fe8209c8d77924b242749011182ec2f4210",
+          "sha256": "6a6fb6ad1b3c49a1c40109a0264f6fe8209c8d77924b242749011182ec2f4210"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Pharmaceutical Sciences",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/pharmaceutical-sciences.html"
+    },
+    {
+      "inventory_id": "eth-zurich-physics-dc4efb5de9",
+      "raw_key": "Physics",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "物理学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "从数学和物理基础进入实验与理论物理，包含实验课、第三年选修及学期论文或专题研讨。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "公共或工业研究实验室，以及需要物理和定量分析能力的技术领域。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Physics",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/physics.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "214ff2e4302a760977723806a6ecdb7b8213cc6322715aa477a6796c483381cd",
+          "sha256": "214ff2e4302a760977723806a6ecdb7b8213cc6322715aa477a6796c483381cd"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Physics",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/physics.html"
+    },
+    {
+      "inventory_id": "eth-zurich-agricultural-sciences-2fdf585d01",
+      "raw_key": "Agricultural Sciences",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "农业科学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "先学习自然科学与农业基础，第四学期后安排十周农场实习，第三年加强研究方法并完成本科论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "食品系统相关企业、公共管理、研究、咨询和发展合作。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Agricultural Sciences",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/agricultural-sciences.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "02c57086aebb44fd4bdbd1f615a20679d0c411875541b427eb2204e93837cb33",
+          "sha256": "02c57086aebb44fd4bdbd1f615a20679d0c411875541b427eb2204e93837cb33"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Agricultural Sciences",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/agricultural-sciences.html"
+    },
+    {
+      "inventory_id": "eth-zurich-food-science-and-nutrition-5242e318ca",
+      "raw_key": "Food Science and Nutrition",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "食品科学与营养",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "从自然科学与社会科学基础进入营养、食品化学、加工、毒理和经济，包含实验、考察及本科论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "食品工业、公共机构、国际组织、商贸服务与发展合作。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Food Science and Nutrition",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/food-science.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "960c820b2fcffcba76911aa1c2344d1942aae40c88447d0ed845a7a677290858",
+          "sha256": "960c820b2fcffcba76911aa1c2344d1942aae40c88447d0ed845a7a677290858"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Food Science and Nutrition",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/food-science.html"
+    },
+    {
+      "inventory_id": "eth-zurich-earth-and-climate-sciences-45b48b5523",
+      "raw_key": "Earth and Climate Sciences",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "地球与气候科学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "前两年为数理、自然科学和地球科学；第三年在“地质与地球物理”及“气候与水”两个主修中选择，含野外研究和论文。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "水、矿产与能源资源，自然灾害防治，以及工程和环境咨询。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Earth and Climate Sciences",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/earth-and-climate-sciences.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "001856765608efe8e8b2d00635606fe13923ebc0e97b3a37e0a8e7a4c3c20871",
+          "sha256": "001856765608efe8e8b2d00635606fe13923ebc0e97b3a37e0a8e7a4c3c20871"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Earth and Climate Sciences",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/earth-and-climate-sciences.html"
+    },
+    {
+      "inventory_id": "eth-zurich-environmental-sciences-58f1cefb56",
+      "raw_key": "Environmental Sciences",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "环境科学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "先学习数理、自然科学、环境系统及法律经济；第三年有大气与气候、生物地球化学、人类环境系统、环境生物学、森林与景观五个方向。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "环境规划、公共管理、保险金融、环境咨询、国际合作与研究。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Environmental Sciences",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/environmental-sciences.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "243bb6ddcf4f3bd9b8263279c37cce1f636cf6534655d55193bb2e18a54769af",
+          "sha256": "243bb6ddcf4f3bd9b8263279c37cce1f636cf6534655d55193bb2e18a54769af"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Environmental Sciences",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/environmental-sciences.html"
+    },
+    {
+      "inventory_id": "eth-zurich-health-sciences-and-technology-2c0a272bf0",
+      "raw_key": "Health Sciences and Technology",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "健康科学与技术",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "中国高中学历通常涉及入学考试；须核对资格年度和语言要求。",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "以自然科学与工程为基础，可重点学习人体运动与体育、神经科学、分子健康、医学工程，包含实验与选修。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "生物医药和医疗技术研发、制造与市场相关工作，以及健康政策、保险和研究；该项目不是临床医师资格课程。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Health Sciences and Technology",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/health-sciences-and-technology.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "e3a97c58e33a88fc39f4183e87ab791d0bb795b6b3a58c538356e738ba364567",
+          "sha256": "e3a97c58e33a88fc39f4183e87ab791d0bb795b6b3a58c538356e738ba364567"
+        }
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Health Sciences and Technology",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/health-sciences-and-technology.html"
+    },
+    {
+      "inventory_id": "eth-zurich-human-medicine-b8767d96a5",
+      "raw_key": "Human Medicine",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "人类医学",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "通常限瑞士护照或瑞士定居许可持有人；法定例外另核",
+        "tuition_summary": "当前第二组 CHF 2,190／学期；按身份定组",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "六学期完成180 ECTS的医学学士，结合基础医学、自然科学、工程、数字医疗、影像和临床研究；本科结束前须完成四周医疗照护实习。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "本科可进入巴塞尔、卢加诺或苏黎世等合作大学的医学硕士；完成六年学位后仍须瑞士联邦医学文凭和规定的毕业后训练才能临床执业。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "身份和语言限制",
+            "text": "通常只对持瑞士护照或瑞士定居许可者开放，法定例外见校方链接的瑞士法规；须达到德语 C1。普通中国大陆高中生不能只凭高中毕业或高考成绩按一般ETH路径直接申请医学。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "专属医学申请",
+            "text": "通过 Swissuniversities 集中申请，须在相关学年的2月15日前递交，并参加规定的医学能力测试；该页面未单列2027批次，不能把一般本科3月31日截止日用于医学。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Human Medicine",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/human-medicine.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "be2d204c8096588acf183f27ac0d01aa5727e1a236f7a4a8d80f5090d7a5f5ad",
+          "sha256": "be2d204c8096588acf183f27ac0d01aa5727e1a236f7a4a8d80f5090d7a5f5ad"
+        }
+      ],
+      "excluded_school_sections": [
+        "admissions",
+        "applications"
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Human Medicine",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/human-medicine.html"
+    },
+    {
+      "inventory_id": "eth-zurich-public-policy-professional-officer-f38f58d207",
+      "raw_key": "Public Policy (Professional Officer)",
+      "checked_at": "2026-09-12",
+      "display_fields": {
+        "name": "公共政策（职业军官）",
+        "duration": "通常3年；180 ECTS",
+        "language": "主要为德语，部分高年级课程为英语",
+        "entry_summary": "限瑞士军队雇用的职业军官候选人，另需军事及学历资格",
+        "tuition_summary": "军队雇用与培训项目；个人费用安排待核实",
+        "outcomes_summary": "官方职业方向已补；本科就业率与薪资调查待核实"
+      },
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与课程结构",
+            "text": "六学期180 ECTS，由ETH与军事学院联合教学，涉及政治、法律、经济、军事心理、历史与领导力；还含九周实践模块和32周后续军事训练。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "官方职业方向与继续教育（非毕业调查）",
+            "text": "培养瑞士军队职业军官，学生受训期间由瑞士国防部门雇用；不是普通国际学生的公共政策本科通道。",
+            "source_ids": [
+              "program"
+            ]
+          },
+          {
+            "label": "调查数据边界",
+            "text": "本次核对的项目介绍没有提供可用于比较的本科就业率与薪资统计。上列为学校描述的职业领域或学习路径，不能当成已实现的毕业结果。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "职业军官身份与学历",
+            "text": "只有瑞士军队雇用的职业军官候选人可以注册；军事条件包括中尉资格、完成实践军役并通过选拔评估。学术条件包括认可的 Matura，或职业/专门 Matura 加合格的大学入学补充考试。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "受训期间身份",
+            "text": "官网明确学生受训期间由瑞士联邦国防部门雇用；项目页没有公布可以直接套给普通中国国际生的个人收费方案。",
+            "source_ids": [
+              "program"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "program",
+          "title": "ETH 官方本科项目：Public Policy (Professional Officer)",
+          "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/management-and-social-sciences/public-policy.html",
+          "checked_at": "2026-09-12",
+          "supports": "本科课程结构、实践安排、官方职业方向或后续学位路径",
+          "raw_sha256": "fd1776239a0021ff353fec47b8e284442918577c7ac63f049cdb641e94a9e035",
+          "sha256": "fd1776239a0021ff353fec47b8e284442918577c7ac63f049cdb641e94a9e035"
+        }
+      ],
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "university_id": "eth-zurich",
+      "name_en": "Public Policy (Professional Officer)",
+      "official_url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/management-and-social-sciences/public-policy.html"
+    }
+  ],
+  "profile": {
+    "checked_at": "2026-09-12",
+    "sections": {
+      "admissions": [
+        {
+          "label": "中国普通高中学历路径（2026/27资格表）",
+          "text": "Swissuniversities 对中国 Gaozhong 资格要求高中最后三年覆盖母语、第二语言、数学、自然科学、人文社科及一门合规选修。ETH 要求高中毕业证、认可中国大学同一申请学科的录取证明，并通过精简入学考试；不符合该组合时适用综合入学考试。此表注明 2026/27，不能视作 2027/28 已公布的最终资格规则；医学和军职项目另有限制。",
+          "source_ids": [
+            "china"
+          ]
+        },
+        {
+          "label": "德语证明",
+          "text": "本科以德语为主，部分高年级课程使用英语。需要提供德语证明的申请者须在申请截止日（3月31日）前满足认可证书与分数要求；一般 C1 证书的时效为申请期开始前两年以内，Goethe/ÖSD C2 通常为五年。是否获豁免按语言页面的具体条件判断。",
+          "source_ids": [
+            "language"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "2027申请批次的考试路径",
+          "text": "2026年12月1日至2027年3月31日申请；需考试者在2027年9月15日至10月15日报考，2028年1月17日至27日考试，合格后课程于2028年9月18日开始。普通中国高中申请者不能据“2027申请”推定“2027入学”。",
+          "source_ids": [
+            "dates27"
+          ]
+        },
+        {
+          "label": "2026申请批次（申请已截止）",
+          "text": "该批次申请于2026年3月31日结束；考试报名为2026年9月15日至10月15日，考试为2027年1月18日至28日，合格后的入学日为2027年9月20日。只适用于此前已按该批次完成申请的人。",
+          "source_ids": [
+            "dates26"
+          ]
+        },
+        {
+          "label": "申请程序",
+          "text": "通过 ETH 的 eApply 系统提交本科申请；一次只能申请一个本科项目，本科仅秋季开学。须按所用资格和语言规则备齐材料，录取办公室审核后决定有无入学考试要求。医学使用另外的集中申请安排。",
+          "source_ids": [
+            "apply"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "学费分组（自2025年秋季实施）",
+          "text": "不满足第一组资格的学生为第二组，学费 CHF 2,190／学期。第一组为 CHF 730／学期，资格取决于瑞士/列支敦士登国籍、取得升学资格时的居住情况，以及指定的 EU/EFTA、家庭团聚或保护身份条件。不能只按“中国国籍”判定，学校在录取时确定分组。",
+          "source_ids": [
+            "fees"
+          ]
+        },
+        {
+          "label": "预算边界",
+          "text": "上述是学费，不含另收的学期费用、住宿、保险和生活支出，也不是未来年度不变价承诺。按两个学期计算，第二组当前学费为 CHF 4,380／学年（手册据学期价格计算）。",
+          "source_ids": [
+            "fees"
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "label": "本科毕业与继续深造",
+          "text": "ETH 本科通常为三年、180 ECTS，毕业后可申请继续攻读硕士。学校说明硕士阶段才提供通常所需的完整专业训练；医学和军职资格须按其专属规定另行判断。这是学位结构说明，不是本科毕业生就业调查。",
+          "source_ids": [
+            "structure"
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "china",
+        "title": "Swissuniversities：中国学历入学要求（2026/27）",
+        "url": "https://www.swissuniversities.ch/en/topics/studying/admission-to-universities/countries-1",
+        "checked_at": "2026-09-12",
+        "supports": "中国高中资格及ETH精简/综合考试路径，资格适用学年",
+        "raw_sha256": "2c5a65b1703b008f0442d2912de8152b564d5251755de10926266b57e46ba8f1",
+        "sha256": "2c5a65b1703b008f0442d2912de8152b564d5251755de10926266b57e46ba8f1"
+      },
+      {
+        "id": "language",
+        "title": "ETH：非瑞士学历申请者语言要求",
+        "url": "https://ethz.ch/en/studium/bachelor/bewerbung/auslaendische-reifezeugnisse/sprachanforderungen.html",
+        "checked_at": "2026-09-12",
+        "supports": "德语证明、证书认可和时效，申请截止日",
+        "raw_sha256": "3cccef6115904aefe8a920e2112d1fea6ebc57fe579200b3e0ab1ccae14d8625",
+        "sha256": "3cccef6115904aefe8a920e2112d1fea6ebc57fe579200b3e0ab1ccae14d8625"
+      },
+      {
+        "id": "dates27",
+        "title": "ETH：2027申请批次需入学考试时间表",
+        "url": "https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/dates/_jcr_content/par/table_1322192949_cop_1566530997.tableComp.json",
+        "checked_at": "2026-09-12",
+        "supports": "2027申请、2028考试与实际开学时间",
+        "raw_sha256": "a8678ff5a3568ddfc8ad0f2f15cd742792d6a799ef2ff4ba6f4ea6d292032f92",
+        "sha256": "a8678ff5a3568ddfc8ad0f2f15cd742792d6a799ef2ff4ba6f4ea6d292032f92"
+      },
+      {
+        "id": "dates26",
+        "title": "ETH：2026申请批次需入学考试时间表",
+        "url": "https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/dates/_jcr_content/par/table_1322192949_cop.tableComp.json",
+        "checked_at": "2026-09-12",
+        "supports": "已截止申请批次及2027考试、开学时间",
+        "raw_sha256": "379b51e2f8431cd47fe04f53697c19de1ac7852cb4a44d77342a1ec27280b718",
+        "sha256": "379b51e2f8431cd47fe04f53697c19de1ac7852cb4a44d77342a1ec27280b718"
+      },
+      {
+        "id": "apply",
+        "title": "ETH：非瑞士学历本科申请程序",
+        "url": "https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/how-to-apply.html",
+        "checked_at": "2026-09-12",
+        "supports": "eApply、单一专业与秋季申请",
+        "raw_sha256": "706b86730b134f068e6849eb69d503a60f47131081758457351e127e697caf8a",
+        "sha256": "706b86730b134f068e6849eb69d503a60f47131081758457351e127e697caf8a"
+      },
+      {
+        "id": "fees",
+        "title": "ETH：学费与分组",
+        "url": "https://ethz.ch/students/en/studies/financial/tuition-fees.html",
+        "checked_at": "2026-09-12",
+        "supports": "CHF730/2190每学期、实施时间与分组资格",
+        "raw_sha256": "ae51325c9608255f9f061ce3abad4352baae652b23c48c2185ab62a9bfde6682",
+        "sha256": "ae51325c9608255f9f061ce3abad4352baae652b23c48c2185ab62a9bfde6682"
+      },
+      {
+        "id": "structure",
+        "title": "ETH：本科学位结构",
+        "url": "https://ethz.ch/en/studies/bachelor/prospective-students/features-of-eth-studies/programme-structure.html",
+        "checked_at": "2026-09-12",
+        "supports": "学制、ECTS、Bachelor与Master阶段边界",
+        "raw_sha256": "42f488e9fd7c67840a57a71dcf1c1385cb36d8ebee287ff14f3c29bbd21ceb74",
+        "sha256": "42f488e9fd7c67840a57a71dcf1c1385cb36d8ebee287ff14f3c29bbd21ceb74"
+      }
+    ],
+    "university_id": "eth-zurich"
+  }
+}

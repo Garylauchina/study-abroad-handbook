@@ -1,0 +1,60 @@
+{
+  "original_manifest": {
+    "university_id": "ubc",
+    "checked_at": "2026-09-12",
+    "count": 192,
+    "status": "partial",
+    "scope": "UBC本科招生目录Vancouver/Okanagan全部本科专业及目录列出的本科后专业学位；同页多个学位暂按官方专业页面为一条。",
+    "method": "网页完整programsListData公开JSON含197项，按degrees字段过滤并保留官方专业ID；不按页面首屏计数。",
+    "sources": [
+      {
+        "url": "https://you.ubc.ca/programs/",
+        "sha256": "948b180a8b6d899414df45932b166b4c5c9aaad447c2f57a632f25923bdc9b2d",
+        "raw_file": "ubc.html"
+      }
+    ],
+    "exclusions": "排除 5 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [
+      {
+        "name": "Architecture",
+        "degrees": [
+          "master-of-architecture"
+        ],
+        "reason": "non-bachelor pathway or standalone postgraduate degree"
+      },
+      {
+        "name": "Journalism",
+        "degrees": [
+          "master-of-journalism"
+        ],
+        "reason": "non-bachelor pathway or standalone postgraduate degree"
+      },
+      {
+        "name": "Vantage One: Applied Science (Engineering)",
+        "degrees": [],
+        "reason": "non-bachelor pathway or standalone postgraduate degree"
+      },
+      {
+        "name": "Vantage One: Arts",
+        "degrees": [],
+        "reason": "non-bachelor pathway or standalone postgraduate degree"
+      },
+      {
+        "name": "Vantage One: Science",
+        "degrees": [],
+        "reason": "non-bachelor pathway or standalone postgraduate degree"
+      }
+    ],
+    "gaps": [
+      "需把同一专业页面下的不同学位/校区逐项拆开；本科后专业学位尚需核对层次和申请身份。"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://you.ubc.ca/programs/",
+      "sha256": "948b180a8b6d899414df45932b166b4c5c9aaad447c2f57a632f25923bdc9b2d",
+      "raw_file": "scratch/full-catalog/root/ubc.html",
+      "bytes": 1592754
+    }
+  ]
+}

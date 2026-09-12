@@ -1,0 +1,56 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://prog-crs.hkust.edu.hk/ugprog",
+    "official_total": 71,
+    "official_total_unit": "all published programme and requirement links",
+    "pagination_complete": true,
+    "provably_complete": true,
+    "page_evidence": [
+      {
+        "pages": 1,
+        "programme_links": 71,
+        "excluded": 24,
+        "pagination": "All programme links embedded in initial HTML; filters are local."
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "School-based admissions and transfer to majors require route-level checks. Extended-major add-ons are preserved in exclusions rather than fabricated as independent awards.",
+      "Directory academic year is 2026-27; no automatic 2027 entry assumption."
+    ],
+    "raw_artifacts": [
+      "hkust/raw/admissions.meta.json",
+      "hkust/raw/directory.meta.json"
+    ],
+    "university_id": "hkust",
+    "count": 47,
+    "checked_at": "2026-09-12",
+    "directory_enumeration_complete": true,
+    "status_counts": {
+      "listed_current": 47
+    },
+    "record_type_counts": {
+      "degree_major_or_combined_degree": 47
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://prog-crs.hkust.edu.hk/ugprog",
+      "sha256": "7c7f4d78f38c81f7326b2641c7b14a158d9220008c41605edc4d3245023c0eac",
+      "bytes": 53707,
+      "raw_file": "scratch/full-catalog/asia/hkust/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/hkust/raw/directory.meta.json"
+    },
+    {
+      "url": "https://www.join.hkust.edu.hk/our-programs",
+      "sha256": "7d2b1b6b93b2ac580657552b249714ef34a04d62a5488eb410921ae58888d98f",
+      "bytes": 104761,
+      "raw_file": "scratch/full-catalog/asia/hkust/raw/admissions.html",
+      "meta_file": "scratch/full-catalog/asia/hkust/raw/admissions.meta.json"
+    }
+  ]
+}

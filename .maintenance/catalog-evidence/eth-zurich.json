@@ -1,0 +1,61 @@
+{
+  "original_manifest": {
+    "university_id": "eth-zurich",
+    "checked_at": "2026-09-12",
+    "count": 24,
+    "status": "complete",
+    "scope": "ETH完整Bachelor目录；含Human Medicine及有军职限制的Public Policy；Chemistry与Chemical Engineering分为两项。",
+    "method": "静态目录23个专业页面逐一取得原文；化学共用页面明确列两个独立本科课程，拆分后24项。",
+    "sources": [
+      {
+        "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes.html",
+        "sha256": "81819b5315c7cf7aa6083f17177e710706b44611667e529dffd692c6fbf205b2",
+        "raw_file": "eth-zurich.html"
+      },
+      {
+        "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/bachelor-chemistry-chemical-and-bioengineering.html",
+        "sha256": "cd8630651c35b8413efb80ec3059a2bda1cb0d281ab60b6deb92f15f19077fcb",
+        "raw_file": "eth-zurich-detail-10.html"
+      },
+      {
+        "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/human-medicine.html",
+        "sha256": "be2d204c8096588acf183f27ac0d01aa5727e1a236f7a4a8d80f5090d7a5f5ad",
+        "raw_file": "eth-zurich-detail-21.html"
+      },
+      {
+        "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/management-and-social-sciences/public-policy.html",
+        "sha256": "fd1776239a0021ff353fec47b8e284442918577c7ac63f049cdb641e94a9e035",
+        "raw_file": "eth-zurich-detail-22.html"
+      }
+    ],
+    "exclusions": "排除 0 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [],
+    "gaps": []
+  },
+  "raw_sources": [
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes.html",
+      "sha256": "81819b5315c7cf7aa6083f17177e710706b44611667e529dffd692c6fbf205b2",
+      "raw_file": "scratch/full-catalog/root/eth-zurich.html",
+      "bytes": 59059
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/bachelor-chemistry-chemical-and-bioengineering.html",
+      "sha256": "cd8630651c35b8413efb80ec3059a2bda1cb0d281ab60b6deb92f15f19077fcb",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-10.html",
+      "bytes": 59133
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/human-medicine.html",
+      "sha256": "be2d204c8096588acf183f27ac0d01aa5727e1a236f7a4a8d80f5090d7a5f5ad",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-21.html",
+      "bytes": 58708
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/management-and-social-sciences/public-policy.html",
+      "sha256": "fd1776239a0021ff353fec47b8e284442918577c7ac63f049cdb641e94a9e035",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-22.html",
+      "bytes": 51699
+    }
+  ]
+}

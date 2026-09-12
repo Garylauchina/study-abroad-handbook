@@ -1,0 +1,551 @@
+{
+  "original_manifest": {
+    "university_id": "paris-saclay",
+    "status": "partial",
+    "count": 286,
+    "official_total": {
+      "central_programmes": 57,
+      "central_by_type": {
+        "index": 19,
+        "but": 7,
+        "professional": 18,
+        "double": 13
+      },
+      "evry_licence": 20,
+      "evry_but": 8,
+      "evry_lp": 12
+    },
+    "discovery_source_url": "https://www.universite-paris-saclay.fr/formation/licence",
+    "source_period": "Central current directory; Evry2026-2027; UVSQ current four domain lists",
+    "scope": "Paris-Saclay central Licence/BUT/LP/LDD and terminal-year branches, healthcare first-cycle degrees, Evry Licence/BUT/LP and genuine curriculum paths, UVSQ four licence domains and BUT list.",
+    "pagination_evidence": "Four central lists are static and fully read:19 Licence,7 BUT,18 LP,13 LDD. Central child pages read except explicitly recorded timeout; all L3/BUT3/LP3 cards from fetched pages retained. Evry three full static sitemap trees read:20 Licence,8 BUT,12 LP. UVSQ all4 domain list pages read and URL-deduplicated. No unvisited pagination in these captured lists.",
+    "filter_rules": "Exclude Master/DU/DEUST and individual UE/ELP/average/competency blocks. Ordinary L1/L2 curriculum stages stored under parent; terminal L3/BUT3/LP3 branches retained as specialisations. Member identities preserved with provider rather than claiming every provider row is a separate university-wide award.",
+    "gaps": [
+      "Cross-member award identity and operational perimeter between the Paris-Saclay central, Evry and UVSQ catalogues remain unresolved; equivalent names across providers may be delivery variants of one award. Whole-institution completeness cannot yet be claimed.",
+      "UVSQ embedded branch and healthcare catalogues, some IUT terminal specialisations, and a complete paramedical/medical member perimeter require further reading.",
+      "Central unread detail URLs: https://www.universite-paris-saclay.fr/formation/licence/sciences-et-technologies. Catalogue existence is still evidenced by the complete parent list.",
+      "Current directory presence does not prove a course is open to mainland-China school-leavers; restricted admissions and post-L2 routes are retained."
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/ldd-physique-chimie",
+      "sha256": "4725c20b90dd19abac5e0520b1a9d29fb2166178e26be7555ed2df19244c6eee",
+      "bytes": 94378,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-ldd-physique-chimie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-ldd-physique-chimie.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/techniques-de-commercialisation",
+      "sha256": "f32fa11571b65e400786ebe9661a2017ef817bb2f17673b13567879e1126ecda",
+      "bytes": 99730,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-techniques-de-commercialisation.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-but-techniques-de-commercialisation.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/informatique",
+      "sha256": "6b7ca3c91305f59ed1c87bce5195df7d67cb1cedb07ec30a1362b7701d6b7cdb",
+      "bytes": 93431,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-informatique.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-informatique.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-physique-et-sciences-pour-lingenieur",
+      "sha256": "8351ff9f273e772058797ac7bfca40405e3290c07b2cafcc3d95a8785b14bf78",
+      "bytes": 98573,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-mathematiques-physique-et-sciences-pour-lingenieur.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-mathematiques-physique-et-sciences-pour-lingenieur.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-de-la-terre",
+      "sha256": "4b00b0f1498fd0de45f666ef5e032f40de4c534eac98f50cba8999b5633415e8",
+      "bytes": 95392,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sciences-de-la-terre.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sciences-de-la-terre.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/amenagement-paysager-conception-gestion-entretien",
+      "sha256": "139e161eae29bb122951c93f38f6f863a969b853551ef3a0e73507a09e7fbc59",
+      "bytes": 94326,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-amenagement-paysager-conception-gestion-entretien.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-amenagement-paysager-conception-gestion-entretien.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-lelectronique-communication-systemes-embarques",
+      "sha256": "6dbed9dd00a17f715732c02875c0eaf3fe8ee384f8417d5bc2b9c1119ba11b91",
+      "bytes": 92093,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-lelectronique-communication-systemes-embarques.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-lelectronique-communication-systemes-embarques.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-lindustrie-industrie-aeronautique",
+      "sha256": "0db4f0ed9a132392cf4a55b26a8ae6e05cf6aecf51ec3817c47483d57062a937",
+      "bytes": 90628,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-lindustrie-industrie-aeronautique.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-lindustrie-industrie-aeronautique.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence",
+      "sha256": "aeefc08b9013fd32726f38959ced0b6b83fd26e24812c82d2af7b2870ec66043",
+      "bytes": 84818,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/index.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/index.meta.json"
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-professionnelle-DP.html",
+      "sha256": "fc49d37ce84fbdc44305a832e7c7b64f16ae51aa54b8d2dc8f71b43c05a912ae",
+      "bytes": 34579,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/evry-lp.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/evry-lp.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome",
+      "sha256": "fd19b06d6a51ce20d91980cb8760cee112c78fcae2cc8e401b12c604ab861716",
+      "bytes": 81135,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/double.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/double.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-de-la-vie",
+      "sha256": "ca03a0d5e44502e13768bd986ea00e118d5783b6b0d0b50b2bcc3cfb5eaaeb63",
+      "bytes": 101490,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sciences-de-la-vie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sciences-de-la-vie.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/qualite-hygiene-securite-sante-environnement",
+      "sha256": "1fe2de8929cdf2f4b2b537c44ea302ba5b25f2f07cf9ee2926fa7a68ffa6f481",
+      "bytes": 97839,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-qualite-hygiene-securite-sante-environnement.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-qualite-hygiene-securite-sante-environnement.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/protection-et-valorisation-du-patrimoine-historique-et-culturel",
+      "sha256": "44d9b282892272d26783efadfe3ecfde88ad0b6d8b9966e3138f4269e4e81052",
+      "bytes": 91212,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-protection-et-valorisation-du-patrimoine-historique-et-culturel.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-protection-et-valorisation-du-patrimoine-historique-et-culturel.meta.json"
+    },
+    {
+      "url": "https://www.medecine.universite-paris-saclay.fr/formations/formations-paramedicales/formation-en-sciences-infirmieres",
+      "sha256": "dfb4e0df3b104fa01462536d179564036da191f39a60124791e669fcbc2e067a",
+      "bytes": 65231,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/nursing.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/nursing.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/informatique",
+      "sha256": "d54041a62a5d77e5a6e2bece520576e42c8fa4269f5882960e5d760149e0b356",
+      "bytes": 94175,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-informatique.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-but-informatique.meta.json"
+    },
+    {
+      "url": "https://www.uvsq.fr/les-licences-du-domaine-sciences-humaines-et-sociales",
+      "sha256": "3b0a558b7c336ea8776241f7baa43b89135ec31f8d034b0d6c1494daec48197f",
+      "bytes": 143402,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-licences-du-domaine-sciences-humaines-et-sociales.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-licences-du-domaine-sciences-humaines-et-sociales.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/sociologie-science-politique",
+      "sha256": "967c74e12a129eda68d158b3656d9a295ec64eaf7342e3a5fe223966e73a51c9",
+      "bytes": 95744,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-sociologie-science-politique.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-sociologie-science-politique.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/informatique-mathematiques",
+      "sha256": "ce56fabc55553015c0986f1012df034395f602765744a50906aead208ce1a7b0",
+      "bytes": 96680,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-informatique-mathematiques.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-informatique-mathematiques.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/chimie",
+      "sha256": "28c5e9c884949edba1466c7e2c427f4b57a305e5418a04d4c87ab990dfb23054",
+      "bytes": 97834,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-chimie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-chimie.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/professorat-des-ecoles",
+      "sha256": "b0332519d2028e85230c7b5ce917faba18d8616626bdfc53634d78baab269a79",
+      "bytes": 90385,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professorat-des-ecoles.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professorat-des-ecoles.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/industries-pharmaceutiques-cosmetologiques-et-de-sante-gestion-production-et-valorisation",
+      "sha256": "0fe2659328a19803b5eb70a21695d56310d3c6ad26419c0f84774e4f5871cdcf",
+      "bytes": 94269,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-industries-pharmaceutiques-cosmetologiques-et-de-sante-gestion-production-et-valorisation.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-industries-pharmaceutiques-cosmetologiques-et-de-sante-gestion-production-et-valorisation.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/maintenance-et-technologie-electronique-instrumentation",
+      "sha256": "ab2d6676d47beba15bb64a18d24e56cbbf4f8a3807e008e75211607bb1276431",
+      "bytes": 93178,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-maintenance-et-technologie-electronique-instrumentation.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-maintenance-et-technologie-electronique-instrumentation.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but",
+      "sha256": "90dcc9d752d1a7aecd62f60d1ba728b82064d6bd2803d1218a30b6267d399830",
+      "bytes": 75579,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/but.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/but.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/bio-industries-et-biotechnologies",
+      "sha256": "1ca1fcd1cd928b04f3118217697f7891fed6c801860f3f6715a826c844bfe9c2",
+      "bytes": 95170,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-bio-industries-et-biotechnologies.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-bio-industries-et-biotechnologies.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/genie-mecanique-et-productique",
+      "sha256": "35f3289cedc1951c5e17ce472082c1bfc87e504750135d01659a30e3210abe44",
+      "bytes": 99067,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-genie-mecanique-et-productique.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-but-genie-mecanique-et-productique.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/droit",
+      "sha256": "6d3e29f61fb4494702aa6e94594615060f0ef95a2e14e13ab2d9de131563307c",
+      "bytes": 97959,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-droit.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-droit.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/chimie",
+      "sha256": "53b225d66c40fddceedcc84add8640d498d3dd8ad3570cbe6c5084caa1a54544",
+      "bytes": 95991,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-chimie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-but-chimie.meta.json"
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027.html",
+      "sha256": "656a87d95baaf41460e613a941582564825110ada420c53f3afaa8f63963eb72",
+      "bytes": 38641,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/evry-index.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/evry-index.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/etudes-de-sante",
+      "sha256": "8f165b6999d5e977db1f36486801afbfe1cdaafe3b3b462722605758e342c3d7",
+      "bytes": 79059,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/health.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/health.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/informatique-sciences-de-la-vie",
+      "sha256": "cdd5a75ddd50b1c21667364181b23881b0ba372bd94a7313cd1b315dfc40ef6a",
+      "bytes": 93398,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-informatique-sciences-de-la-vie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-informatique-sciences-de-la-vie.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/sciences-de-la-terre-et-sciences-physique",
+      "sha256": "2dc6cff8a4011c0eb41da64e7a46553b0aa5d0d54450bdc1fc2b9abb52163d1b",
+      "bytes": 94017,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-sciences-de-la-terre-et-sciences-physique.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-sciences-de-la-terre-et-sciences-physique.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/techniques-du-son-et-de-limage",
+      "sha256": "b4173ba9d34078aa115c399fcc09d51ffa0eecc9e5bd2fd7687fbdf036d80292",
+      "bytes": 95190,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-techniques-du-son-et-de-limage.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-techniques-du-son-et-de-limage.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/droit-economie",
+      "sha256": "abe9375e6d558a80df214f70f4f3d3a9352722479399426c26338481d08c1795",
+      "bytes": 92108,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-droit-economie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-droit-economie.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle",
+      "sha256": "309d777573b941d017d3444eaf5f26479341b113c80ba949bcca7b62ba096e58",
+      "bytes": 85817,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/professional.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/professional.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/ldd-chimie-sciences-de-la-vie",
+      "sha256": "a5c261234dcf25e497dcb7319b703485b1a5fc082fe0ead08b23b52a755d2ace",
+      "bytes": 98273,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-ldd-chimie-sciences-de-la-vie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-ldd-chimie-sciences-de-la-vie.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/histoire",
+      "sha256": "a61a9d4722875d2897fb060e9c3fb6363a8eda828d957a948efbdfb22eee15d7",
+      "bytes": 100674,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-histoire.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-histoire.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/technico-commercial",
+      "sha256": "4d5ce547f607add1c256d2cbf1be151cfc719173f4465ab0857f654e59799a2d",
+      "bytes": 91057,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-technico-commercial.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-technico-commercial.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-la-forme",
+      "sha256": "f18cfb804c4c8c35cc3ccccdc9c9448b1715bcd633d062f005e050fc31253744",
+      "bytes": 91931,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-la-forme.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-la-forme.meta.json"
+    },
+    {
+      "url": "https://www.uvsq.fr/les-formations-par-diplomes",
+      "sha256": "7622aef9b7639caf7d22fdec048d5e03089c74330a1a258ca96f2297f970dced",
+      "bytes": 148270,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/uvsq-index.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/uvsq-index.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/mesures-physiques",
+      "sha256": "4193e25d4ddc51c1ae38d871fcd982d4883491cf1b0e9b9d329a65470130534e",
+      "bytes": 95704,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-mesures-physiques.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-but-mesures-physiques.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-education-et-motricite",
+      "sha256": "e32523a757ba8c766ea20fcdf9b6f90a546ee091fcbc25c9f43e135bc328a9db",
+      "bytes": 94265,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-education-et-motricite.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-education-et-motricite.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/administration-economique-et-sociale",
+      "sha256": "58b54f42ec0ba9d9f3d16b984026ed922753b138b91940de8e3e84e06250f656",
+      "bytes": 99467,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-administration-economique-et-sociale.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-administration-economique-et-sociale.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie",
+      "sha256": "82ca3a634050c8ec1990772659867705cc11f820c5fc1bf845229bb5fbd04520",
+      "bytes": 93960,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-mathematiques-sciences-de-la-vie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-mathematiques-sciences-de-la-vie.meta.json"
+    },
+    {
+      "url": "https://www.uvsq.fr/les-licences-du-domaine-droit-economie-gestion",
+      "sha256": "a1fd3c193dc4785496f395643e0d5262fdec346516393499d7f88a2e746cee72",
+      "bytes": 149163,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-licences-du-domaine-droit-economie-gestion.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-licences-du-domaine-droit-economie-gestion.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/genie-electrique-et-informatique-industrielle",
+      "sha256": "85f73d4e8ae496786efed94d6895dc7af6b2d788f269683576942cfda18da00c",
+      "bytes": 94944,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-genie-electrique-et-informatique-industrielle.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-but-genie-electrique-et-informatique-industrielle.meta.json"
+    },
+    {
+      "url": "https://www.uvsq.fr/les-licences",
+      "sha256": "121012486bb8d23b13640bc282f0b7e671150ee72edabe9fde48364d46586bd7",
+      "bytes": 144703,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/uvsq-licence.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/uvsq-licence.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-des-reseaux-informatiques-et-telecommunications",
+      "sha256": "c491ea2a016effdd9100c25bf1d8745aff1d196c1e76c75a25b0f436fb625b7d",
+      "bytes": 94853,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-des-administrations-et-collectivites-territoriales",
+      "sha256": "aafe08bdb5b6ee584813b621ef4d455ba4b65a8af67e550f7801afa9b7cfc4bf",
+      "bytes": 93655,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-des-administrations-et-collectivites-territoriales.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-des-administrations-et-collectivites-territoriales.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-la-protection-et-de-la-gestion-de-lenvironnement",
+      "sha256": "9e50fb64101c82e0cba871c761f54a9acb64b8ca69feb41a363bada82fcb688b",
+      "bytes": 93623,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-la-protection-et-de-la-gestion-de-lenvironnement.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-la-protection-et-de-la-gestion-de-lenvironnement.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-management-du-sport",
+      "sha256": "ebb8d76ba27960fe5f72f88059a84c3d25697e2b777d4c12f95768750833cf77",
+      "bytes": 94517,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-management-du-sport.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-management-du-sport.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/mathematiques",
+      "sha256": "ba62368952e5c7179d673d1269749e167787d3b20d86d152fc0050efe4445236",
+      "bytes": 93331,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-mathematiques.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-mathematiques.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sociologie",
+      "sha256": "3b370502ace84f4c73fdac6f22c350b328e0cb5376ffc922696d5d251ea264ff",
+      "bytes": 94538,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sociologie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sociologie.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/langues-etrangeres-appliquees",
+      "sha256": "5c1967ee381d42a39a91a66f6809148ba6b22c92b10e538c718bc190ca57ee57",
+      "bytes": 92903,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-langues-etrangeres-appliquees.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-langues-etrangeres-appliquees.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-entrainement-sportif",
+      "sha256": "50b9fe77b4514a50f06cb90873285022218da6507b807dee677c311f47834622",
+      "bytes": 94681,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-entrainement-sportif.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-entrainement-sportif.meta.json"
+    },
+    {
+      "url": "https://www.uvsq.fr/les-but",
+      "sha256": "e6b0323c16d385b37870dae510ddb4a353a98ab194b140128abe8d78c6c514dc",
+      "bytes": 147320,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-but.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-but.meta.json"
+    },
+    {
+      "url": "https://www.uvsq.fr/les-licences-du-domaine-science-technologie-sante",
+      "sha256": "25cc04391d382c8214aa7bff664c11f05b83d715b7c6c8543b9a32da414a9680",
+      "bytes": 149751,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-licences-du-domaine-science-technologie-sante.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-licences-du-domaine-science-technologie-sante.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/but/gestion-des-entreprises-et-des-administrations",
+      "sha256": "cc8f16b6dabb8873a66a6b2a8f46a0f9354138c10c956769027ac59b68b8aec9",
+      "bytes": 98663,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-but-gestion-des-entreprises-et-des-administrations.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-but-gestion-des-entreprises-et-des-administrations.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/staps-sciences-pour-lingenieur",
+      "sha256": "e8c1cf9d1b736bd49fd5f0be1dc85bb926052758adc3d6bcd86999c533ceb7a3",
+      "bytes": 93851,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-staps-sciences-pour-lingenieur.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-staps-sciences-pour-lingenieur.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/systemes-automatises-reseaux-et-informatique-industrielle",
+      "sha256": "836e620336c8b0524d3202d597955203b8342467efee786d6a4bf084581c3180",
+      "bytes": 93058,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-systemes-automatises-reseaux-et-informatique-industrielle.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-systemes-automatises-reseaux-et-informatique-industrielle.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/droit-informatique",
+      "sha256": "3c0f7631bfcf51b45f58b6456681bc440950a1364ae8dd52ea311f2974cc08f0",
+      "bytes": 94259,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-droit-informatique.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-droit-informatique.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/economie-mathematiques",
+      "sha256": "a7c296c9e14b70f4ffa4d5ff1849b6555731c9c7bc77a7b71b9999090cdd1915",
+      "bytes": 94450,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-economie-mathematiques.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-economie-mathematiques.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/staps-activite-physique-adaptee-sante",
+      "sha256": "5d0310911d1a5312e7e86f828c56c124aa1426c4e7a12e1c227c564a384a5d54",
+      "bytes": 94245,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-activite-physique-adaptee-sante.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-staps-activite-physique-adaptee-sante.meta.json"
+    },
+    {
+      "url": "https://www.uvsq.fr/les-licences-du-domaine-arts-lettres-langues",
+      "sha256": "5f9b7ca5e708818c46b2c053f3d32dec5778fc1c053dd88d524887ffe8721d4a",
+      "bytes": 144408,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-licences-du-domaine-arts-lettres-langues.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/uvsq-les-licences-du-domaine-arts-lettres-langues.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/economie-et-gestion",
+      "sha256": "336f03aec181cda602ea711c0c2d748f9eda56937f08337c3a64d04a72f3f234",
+      "bytes": 94029,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-economie-et-gestion.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-economie-et-gestion.meta.json"
+    },
+    {
+      "url": "https://www.medecine.universite-paris-saclay.fr/formations/formations-paramedicales",
+      "sha256": "0fcc4cdedb236a60c3910d60d26d4e791124f8c7051a6524b198b1787c34163f",
+      "bytes": 65742,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/paramedical.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/paramedical.meta.json"
+    },
+    {
+      "url": "https://formations.univ-evry.fr/fr/catalogue-2026-2027/licence-XA.html",
+      "sha256": "04fa5d62e2266708be0182df2da5dcc33a1f1090f16d05a1267b8d3b1dd71a9a",
+      "bytes": 63453,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/evry-licence.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/evry-licence.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/optique-professionnelle",
+      "sha256": "93794632d3e1efe6fe6185a41ae1f27696865578fafe35ed5821eb85fca4dc89",
+      "bytes": 92050,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-optique-professionnelle.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-optique-professionnelle.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/physique",
+      "sha256": "979554f730ea15016ac3555ad97bc2449974a3f922a39ed9338a7d7dd0e8a8fc",
+      "bytes": 96016,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-physique.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-physique.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/metiers-de-lelectricite-et-de-lenergie",
+      "sha256": "368296dd4d5e643e73a9c82c701f0faccc5b079fb0f01169c7a620fc0921d548",
+      "bytes": 93886,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-lelectricite-et-de-lenergie.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-metiers-de-lelectricite-et-de-lenergie.meta.json"
+    },
+    {
+      "url": "https://www.uvsq.fr/la-medecine-sante",
+      "sha256": "fb9445a53935f3b25ec169524ac9f2d518dcadda6dc443509f37ca4fad972f4f",
+      "bytes": 144741,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/uvsq-la-medecine-sante.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/uvsq-la-medecine-sante.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-professionnelle/energie-et-propulsion",
+      "sha256": "89799434d5508467e48f18d45dc69007ced92d81a566bf1f1ca3e6db0cb021ad",
+      "bytes": 91186,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-energie-et-propulsion.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-professionnelle-energie-et-propulsion.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence-double-diplome/droit-sciences-et-innovation",
+      "sha256": "a5cd819d981a49323290678268529fb502893ab70794c5644ea1b1cd4448128f",
+      "bytes": 94439,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-droit-sciences-et-innovation.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-double-diplome-droit-sciences-et-innovation.meta.json"
+    },
+    {
+      "url": "https://www.universite-paris-saclay.fr/formation/licence/sciences-enseignement-mediation",
+      "sha256": "f197a65b437fd67bb428ece494b9c275a230e96f86e874747304fd31f359bb9e",
+      "bytes": 91476,
+      "raw_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sciences-enseignement-mediation.html",
+      "meta_file": "scratch/full-catalog/france/paris-saclay/degree-licence-sciences-enseignement-mediation.meta.json"
+    }
+  ]
+}

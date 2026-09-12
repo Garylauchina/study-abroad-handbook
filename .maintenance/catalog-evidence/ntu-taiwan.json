@@ -1,0 +1,46 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.ntu.edu.tw/english/academics/academics.html",
+    "official_total": 61,
+    "official_total_unit": "departments (official structural count; special bachelor programmes additional)",
+    "pagination_complete": false,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "pages": 1,
+        "explicit_department_count": 50,
+        "special_programmes_additional": true
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "University-wide structure states 61 departments but includes clinical/graduate units; structural count is not asserted equal to undergraduate degree total.",
+      "Mainland applicant admission policy and second-degree routes require separate checking; catalogue presence is not application eligibility."
+    ],
+    "raw_artifacts": [
+      "ntu-taiwan/raw/directory.meta.json"
+    ],
+    "university_id": "ntu-taiwan",
+    "count": 62,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 62
+    },
+    "record_type_counts": {
+      "department_or_explicit_undergraduate_programme": 62
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.ntu.edu.tw/english/academics/academics.html",
+      "sha256": "ecb0a0b52ccb9d374791b5b1f2e9554d33be6f3c0bc78a86bf4e4aa191cd8116",
+      "bytes": 262750,
+      "raw_file": "scratch/full-catalog/asia/ntu-taiwan/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/ntu-taiwan/raw/directory.meta.json"
+    }
+  ]
+}

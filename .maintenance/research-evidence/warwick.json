@@ -1,0 +1,1169 @@
+{
+  "university_id": "warwick",
+  "sources": [
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ug-international-qualifications/",
+      "sha256": "996ee4d448eabde550a010269509052bce856432e331cf543ab0be23a9fb2be7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/qualifications.html",
+      "locator": "China, Mainland (CN)"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/apply/language/",
+      "sha256": "0284107ec312ab8cbd5f6b777678360cd18966e6c529c54574aa9c10a648c6c5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/english-undergraduate.html",
+      "locator": "English Language Requirements for all applicants"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-accounting-finance",
+      "sha256": "ca69c699367e7f42195dcb72d886c448ec134d79c30a87a9bef6abb884feaf46",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-306340d7b09341.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-accounting-finance-foundation-year",
+      "sha256": "32c4cb6ad2c001e2dcaa9f8c678275ac776e64a800f0479e18a4af0da6970fab",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e4185fd657f52c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-accounting-finance-placement-year",
+      "sha256": "0f2fb98152928b0d6d0f84990f6b33f14a6a9dd1f6eb0cb0d53bd0b7ff52389a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-1cde8a5cc02303.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-ancient-history-classical-archaeology",
+      "sha256": "3a9e0cdba082f4139ce4f92e4fc879dd1300de4890b1188c069bd167e6d2a339",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-9c6d6fa9f16945.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-ancient-history-classical-archaeology-part-time",
+      "sha256": "0ca737fe6aed8f90af2988c2142807e79f06ba2242f29ee0ac013076b5b954f0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-3b4ae483fd8e3c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-ancient-history-classical-archaeology-study-in-europe",
+      "sha256": "6b254bac45e591796d0b7d80883750f120573fd8850caa96cf207e44ca5875a0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-866ef4d3c022e4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-automotive-engineering",
+      "sha256": "ef7274f7265febc4b8adb62524c200c7e360c109d6bdd9ec3c642950229a246b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-90a6c65e852c27.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-automotive-engineering",
+      "sha256": "e743398cd79841ca713a3a69b2df5ebe9f053f920e316429928196a380ae5d07",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-25a9d9f76563fc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-biochemistry",
+      "sha256": "7b21f83d005ac4d30b373c31fc90ec760f7b8ae699a508486021ea7d2ceed40d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-2c9f00bb528c42.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mbio-biochemistry",
+      "sha256": "9729383d18077d4fc80bea99b6965f827d62b25bac034943250bf0fb9c643a6f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-8e5a0eefc3d76f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mbio-biochemistry-industrial-placement",
+      "sha256": "b21c0ca8cfb1c097ee9d69510a12949b9fefc753d5c432132c8fcb6c1b9e7858",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-3898cf845bc16c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-biochemistry-placement-year",
+      "sha256": "1e5d95d99647df023fd6e5a1aa0cb68bfcd62fd2659c3571425658ecf47f497a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-12c5f5f86c9775.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-biological-sciences",
+      "sha256": "7a950af27cfe747f1b02bc9b2fdd8fe9f784d99c5475b7bdffe6ada874342268",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-018f6f2f94e8da.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mbio-biological-sciences",
+      "sha256": "ee6c5f8d2505f64b2bfe5c01981da10c212922f15807cc291d6eb10d58317c06",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-01e9a8e9b8a074.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mbio-biological-sciences-industrial-placement",
+      "sha256": "5ccb7694f3a8c670c609685723076819e850e914a6589a978bfdb7b042b44703",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-d171955fe5937a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-biological-sciences-placement-year",
+      "sha256": "51f99c8c83123f7204a172810abd431be9e5dae69987c76d05bd09ca1691deff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-5997f9ea6140b8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mbio-biomedical-sciences",
+      "sha256": "4ed9f236e094ed929bc03bd948f8e6f4141738c44950d097aaf6c989d60f21ab",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-bcb1cdaa9ba617.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-biomedical-sciences",
+      "sha256": "c4fc9547931f5aa4649254935cd4f109c2de91d637e6f522c0c38664c8daeab6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-b15fc5850a90ca.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mbio-biomedical-sciences-industrial-placement",
+      "sha256": "9161a92adc515f335e434e6dba923710a4b497abe5c36aaed7b39935f27610f5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-c877f307c8d466.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-biomedical-sciences-placement-year",
+      "sha256": "f4cc06e353596fde147bc3726461f6391afc91e71903787242479130a86284ee",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-91334695e2d0bf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-biomedical-systems-engineering",
+      "sha256": "4a6889588d1a5b8a8e5e7c50cc4cb8c124f2049dd613ca5768c2869a3a44fdfc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-81dc012290afd5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-biomedical-systems-engineering",
+      "sha256": "e091f6e6a612c24b0c8546fc912a940901c042f62ea2c97acb4924ec612e357b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-1e51c56b2e4593.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management",
+      "sha256": "9dacc240f00804692a3a15526e1107431b6787f83161c7dc3bc7e2e2d13970ba",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-46cc2138008e0a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management-foundation-year",
+      "sha256": "6d5529337d1895e2f6196ae9f912dfeeeaf2768151d2fe25148d12949bc4e765",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-f81ba3411ed152.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management-marketing",
+      "sha256": "dfca89f60ee405681893c56abaa7bb80e3416c045fe7c76e94bf002a74bda419",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-9076344c7216c3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management-marketing-placement-year",
+      "sha256": "9f6256d206859ac108ef413dad140e6b1e22661f8ba20d0bcdcf0b3bfe4b2571",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-242a6a13951ce1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management-placement-year",
+      "sha256": "da4af065f116966eefca8f8e4b8c118432ea0e7a46149a911138cf1e8656b49c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-54d1078fc48e26.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-chemistry",
+      "sha256": "21f8e1ee894bf43ad6d0442ca22b081d46ba9c62c3be472978af821d974154f3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-d157c4f0cb4d44.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mchem-chemistry",
+      "sha256": "315b0bf71d6e99826515199eed6a575fe84a96f6ef301c52a735abc799dfaccb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-32975f92aa28b1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mchem-chemistry-industrial-placement",
+      "sha256": "b229ab536884c74590a7a541fff4f68f6261b08eea30c36c2614c8c902eb3857",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-417d88736dafab.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mchem-chemistry-international-placement",
+      "sha256": "13be766b63aea781982f7a1d71334a5b439836ffb4778761b671d1bc6edba5fa",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-37ae672c1c4811.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-chemistry-medicinal",
+      "sha256": "2363a39608254c0e21fc904dd11248bc5a97275506fd56a18990144bea4d9df0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-647ae1fe501a58.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mchem-chemistry-medicinal",
+      "sha256": "90cc34fe4085519a0b3b5dab024e7296a27b0b1cf0d563b6073a996ee7303448",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-b10ca14ec38ad4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-child-and-family-mental-health",
+      "sha256": "61d29323baf106d5572c21b621241c8b2af96e1ae22ea1692e33e07bfcff8890",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-f0a6582c1d25d8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-civil-engineering",
+      "sha256": "61483931d6b06d9b2f2645a3101bdc472864e87ac6d5378d229ece26ea0675d7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-deebbdac97afce.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-civil-engineering",
+      "sha256": "7e36b79c5c77263211478fb9fd03cc9930ce3afe4ea11b971debbdeb6c5283f1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-cd00ce0141aaf2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-classical-civilisation",
+      "sha256": "d7c931d14cda9e9d4db8e32d9c6141b1c3b3201fb3df99ef622598e8a0c4d07f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-1204cf514ef5f2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-classical-civilisation-part-time",
+      "sha256": "4fd16e92507436d6a11e7104a116c644ca10e7d72df4ca60bdc333b90c6b893d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-27558b47e1c85f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-classical-civilisation-study-in-europe",
+      "sha256": "aca44a89078f579dd124550a22e8abb7081dd0c049d00c15f429d947704e612b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-4f8c0101903ae9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-classics-ancient-greek-study-in-europe",
+      "sha256": "eaea865215f565370e0280fed83090c3e30b7f41989af63f50089cab2b2d3126",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-5f9f384b46565b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-classics-english",
+      "sha256": "7ce54c7afd767319150abb19017c4f23b284fa66df85884f6596d41de56f07a5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-c1f0c8cc88f96a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-classics",
+      "sha256": "7a50fa594c1bbdd34aa66db6a0b7b9323ae263023d750415ae45687d108e6ea9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-bd380e97b768aa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-classics-part-time",
+      "sha256": "02788049657f6c1cc6bec933704493eec17ef7a444d6a900845b752676021211",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-d4a34cfacad60a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-classics-latin-study-in-europe",
+      "sha256": "d43047b284f092531cbe35f863f4251d4fac73c511bc018df6c6f8d198bcec7b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e3ea1244f22eac.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-computer-science",
+      "sha256": "50a9529c5956113e1ceabf7bb6971be077fb43f79f6d10ac0620ade64d7d63fb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-1473a4178b1314.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-computer-science",
+      "sha256": "b11f0af7db178b0792ef93dfedb4c0f877e6da92936854b1b38c7b83aba33976",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e5216e4c2a7af9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-computer-science-business",
+      "sha256": "7f9ac0bbb624d165d9b9587a1d9da10a26396da86e1f6de60db8e5f31127b445",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-b8856a2bfa3332.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-computer-systems-engineering",
+      "sha256": "72a0564d5d9b9641fef310f6fed575cd370f6391c5ef7fa4498d98a62d23c53e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-92d741bd05220b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-computer-systems-engineering",
+      "sha256": "9ed44aa1c9949ecc03f214c96d7495d91fd84c8a1931a6b552be9ba90f8a0ccf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-6974c598d25f45.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-counselling-psychotherapeutic-relationship",
+      "sha256": "d6a386a9bc2fc5a7497fa55af54a0fb1d3f119f2925e7f279135bc31a6f95f9f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-9b075c08f94e1b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-cyber-security",
+      "sha256": "8594500bd08510242848be507fb745329d1eed8bd8ec11c1eae6ac4a36c7823a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-f827dd51e19dfc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-data-science",
+      "sha256": "1cc6d1c3e2470c54e3d053a2734c43287ada734ac34d5ecc88cfcaa836127c5e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-201cb2c22d7488.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/msci-data-science",
+      "sha256": "8814e1cb2bcd07e7c0d3ac58dbe67a155f19553890c19ecc04aaa90f8de0c1ba",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-cece9387321a35.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-design-global-sustainable-development",
+      "sha256": "cbca25e764ca27a9eb0ee12fd54d4e2a24326539de8fe8a9742a567942d8ea59",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e611676e7205bf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-design-for-sustainable-innovation",
+      "sha256": "774f8efd0f866eb319d8224507ac30c42e04735b33143f776069fc73ae99409e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-dc75a866c6a097.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-digital-futures-artificial-intelligence-society",
+      "sha256": "4289333d19d7fdf0cc79dd4de45bed7f5a095a6648815e3e0f4cf90f25f52736",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-1c70706cb38d68.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-discrete-mathematics",
+      "sha256": "61627dee77124826c63c50a80d711e4d93f7e365864f19a6d537c2da5841463c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-f2bc0f4b22110f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-discrete-mathematics",
+      "sha256": "b42222ab8da240b774a5a533d14c183e035756367823a715e2e767ec13a4d938",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-901a21854ea4d9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-early-childhood",
+      "sha256": "ce85fd4bf28f9efd04f0d1db26b7a86e27413a567b28316c60bccb51e55dc24a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-b188f2d9683c1e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics-management",
+      "sha256": "4981227b1bb8cf41ba76b2723a8e3a7a40e64f9f95b25f6cbf26521f61fdaa3c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-a3b4554eacb1af.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics",
+      "sha256": "3e4c0661664550a2e64f0f923850751ea2b9da541ad28be4d7aa03a9683df013",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-7b75424a86c565.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-economics-politics-international-studies",
+      "sha256": "0e668d84bc06aad10de9bbf2c207787d7f9c30a6546bab822df1ed4d5180919b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-5578204c3c8a8e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-economics-psychology-philosophy",
+      "sha256": "ec79bea4d2dcaca1a9b9711fc5a23b89081679b3d434711a5ca89c5f4173491d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-9fd089ad38430f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-economic-studies-global-sustainable-development",
+      "sha256": "f48d77c96e8845d261a0a3d2a3c63da2d709e6bf3ebd2d2996754c27fa29c549",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-0617ab74ba95bc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-education",
+      "sha256": "6cb8834c90e64cfe2ebec0c92c7102d0d3085b48555f48a45ad4f67ed8464917",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e6fa5d8412fba4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-education-studies-global-sustainable-development",
+      "sha256": "ba93f68afd2eaa1ccbe321382a860cef7cdd3f2087419cbec54f2aa5af30d531",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-18453d6076223e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-electrical-electronic-engineering",
+      "sha256": "1c039f0e3f5d4028e67ffdc4d4d82db7a68ce57b8e0cdd445ffab7f3da54ddd9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-b4259f0fb0bd3c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-electrical-electronic-engineering",
+      "sha256": "54bf5863674cf9cd33e16f1d39e01781489c84da51a1c395eb8378c838073641",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-47bef4ced0d218.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-engineering",
+      "sha256": "a1f0fafce3059567157475dc7aa3273d4c96311d942e0fb54327819f59c6aeda",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-558c339b47def2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-engineering-business-management",
+      "sha256": "705d33f07bcd5b87dc2367753a9c7c06a2be10f88dbc8e0a997bfcee6cfd93d4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-43277b9898b273.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-engineering",
+      "sha256": "85688becbbc340b3351f4b27b0088b447cba384a1df4c2d6d80dc370ae1bdb69",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-0198d8e78e1880.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-classical-civilisation",
+      "sha256": "27ab1e1acb8c332706a78590ff9ba8f773dc9b6ace5da349e7c17e2a3c533892",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-4ff28b85b57d08.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-cultural-studies-part-time",
+      "sha256": "095c2a0d6d19a75c771afe11390a2a98fc3e86434a7468db7d3c43ef0756a01b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-397b60dfb213ea.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-french",
+      "sha256": "5f496adb089497767ecec37ffc061b0c231eeccf10caa3246ef7d5b69a2abae2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-55f9c287f4b7c0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-german",
+      "sha256": "fde69553e63e2dcd26e66ed682f64e6b25d15e7e8b785395c3fc18f9eb6f8b45",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-563ce11a5a31a1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-hispanic-studies",
+      "sha256": "e543391cf3b7eff520aae9a8ebd620a271b358bc0eab9e1c4b9907b941179045",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-ae27f854c35d62.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-history",
+      "sha256": "1dff114bde9ef4152e9a9d19f3b48707e8bd7382100a32e8aa0cc9be064daa0e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-39b524d84d23e1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-italian",
+      "sha256": "bd03d05582827826eede44c9cf38c50528f9d4d68a3ed02c351020ef8eeb83b7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-deab91a42c4c62.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-theatre-studies",
+      "sha256": "a2102eadf4f925042132c7beda0f0230cc7cd7a7b21dd7cfb6cc1d372cdb5f44",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-6b56cf82e8574f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-language-linguistics",
+      "sha256": "7e190fb02b0d8a2b3228be28ea86766c698becc38dcba9a3ea4f6abfc3e7cd8b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-9666abf5386436.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-literature-creative-writing",
+      "sha256": "4989737bc64ddf40727af060a62140d2a74d035385e10d90b1fd816151253582",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-7a3d8e72f0439a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-english-literature",
+      "sha256": "d47d3b4909ed32ad1b4386bfc06f6fcc028908841dfa74c20c4716d4776f748d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-deb52f8b1aed23.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-film-literature",
+      "sha256": "bc45201dcd18e337c3e82b936df727d74d15bd595ea16c05ec42ad17e3976a32",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-daea8ff69316d9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-film-studies",
+      "sha256": "7b7f2af4181cfca24cf277dd978615f1bddc60b8ae3441bf3fe3f873e2c92f32",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-8824d915f3829a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-french-economics",
+      "sha256": "a9e6cc883224adb2b696ef440f42d63a02016ad0a433c7daa6ba266675c1f864",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-47cc3329a7ce28.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-french-history",
+      "sha256": "a40470df1438cbb624b3eb779dd06a640656a5fa29fd2085358c3b37e6f4cffa",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-c0e1b8dd8bba03.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-french-theatre-studies",
+      "sha256": "bb85a393dd5c7ce51654e4903c0c350c8e58422bc6e1932f0d01118bc85279d3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-90da81eefd33b0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-french-studies",
+      "sha256": "4ef55448ee2f289deebffd8ee0870046c3c7dca29d2295b83e4fa930d3b2a780",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-185aa84cc38625.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-german-economics",
+      "sha256": "10a3ca07af1dbce78717b32cb122ab234a41af4653ac7e8301e29870ed6109a0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-3ebf78a161f197.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-german-history",
+      "sha256": "50a0e785e1df0699bfab8621971c3c1a12ec91ec01034bafc04fd0fa600f0826",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-59b0a36b4edacc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-german-theatre",
+      "sha256": "4c78b5e9c40848334eab557a3a72077500a940f8fd2eed95f49eef2c2399b828",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-eedf00d1affe7d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-german-studies",
+      "sha256": "cb0671c0a689ccc5ac91904f1034237b62cbcdaa0cb8dfce6356e5cf87afba94",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-d6a0f2ef52e771.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-global-politics",
+      "sha256": "abdc900512def58db36e793f1b4d33a8e4a660b00d552fb6185e0c2844deb17c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-81dc1058d66783.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-global-sustainable-development-business-studies",
+      "sha256": "b00194a5926f128ae785e0cb8a04b3ff7378f7b532539ee3f66ee542c434fc29",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-55ef3c45d01bac.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-global-sustainable-development",
+      "sha256": "67b147a7d2e8609e7b3dcd39763e901357727ac5267d1da362536a2744b3983b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-4edc90bdb6661a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-health-medical-sciences",
+      "sha256": "25dcaa8ffc3dd73b89a494502f3ab5207ad32d43655ad7d38530a144eea8e759",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-345016ba9d32b5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-hispanic-studies-economics",
+      "sha256": "73cffd0771247b9705be7790a74525d11177136ddef0b6b6d6b89dd1a9398d1d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-6ed7f3cadfcbf7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-hispanic-studies-global-sustainable-development",
+      "sha256": "e2be97efc88e651bf091bd51d55a70ae47827500100fa2b3303526c21afe2a55",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-bfd0a1c64269da.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-hispanic-studies-history",
+      "sha256": "23501c313a9f01858226dfa750feadf16e89767ddfbda26ee067a52df03785f2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-60288fbe0d9f09.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-hispanic-studies-theatre-studies",
+      "sha256": "259890182472c16011791550bac533abff1c845694eed3f091f654bdddbd72d1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-00a1d0df28b9d9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-hispanic-studies",
+      "sha256": "00472ce1847d547686dff38128a5c5e899ced8186ebb2eb52e9d927557caa1e8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-67ed4517490a39.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-history-global-sustainable-development",
+      "sha256": "cce3425087858765cb770c2106413c36253e2b78ccd48aca93410d0c67467698",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-9a66c2567d1c15.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-history-italian",
+      "sha256": "99bf5647d54b4b6331c43cf3d393d84a3de5e75c8a9c9a00d1b66aacbc360a9e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e89db530fadfc3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-history-philosophy",
+      "sha256": "b7a79fc80f2593ee7aeb5dcd28be0bff905e9c0cc6921190e87a7ec4264302c5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-ec177b197a71c9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-history-politics",
+      "sha256": "3dd022e41b4b851d563c47ec1946eaae5224be0b8d1ee86f6b388b957a00790f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-094cbe927c8c81.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-history-sociology",
+      "sha256": "86d3785737bf7395c2d91d10ed41b8cd629160cb6a0f33a5d732ea19187cc1b5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-7a82c4b13390bd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-history",
+      "sha256": "afd8e84f0e878ae41b0c13b752ae38a8a635dd12eb4393ad9493e7cee13d7200",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-4c31d0b9056459.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-history-art",
+      "sha256": "8e0b9cf2867ab66326f2dd35d6878d293873a63643b76f6d79c24a6977483f86",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-4fc2ec9b738f3c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-history-art-italian",
+      "sha256": "6b3ee59c8b30635631a949c7a2921eccd0f60e7f65e41a6a0571ba4352dfd802",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-cda744e84f6eae.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-history-part-time",
+      "sha256": "e39498f1d3c5f9ff187efa276d402d03740683bd6824a9fec8fd69bd9e117902",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-97cf743494841d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-human-social-political-sciences",
+      "sha256": "c2283efcb24f5293f6c32982fef0cc6f071924c5b2e29118d9ef1fd8001df720",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-42e4e3d903a330.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-integrated-natural-sciences",
+      "sha256": "9d5d82f74ed2361da4c4f80d5dd4a55125d4784b9ed3a58ac92df3b7e711ce43",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-3abd724d65f9c1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/msci-integrated-natural-sciences",
+      "sha256": "5458935f3559f0dc33164fd2f87dbd88a695d7a61d9bf5e778bf2715d0dff0c2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-6c941421c1934d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-international-business-management",
+      "sha256": "dfba21ccade274e3324bbf5496820652288440fb8da74abc1fa46903fcc56ca7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-93b87ee3f9eab7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-international-business-management-foundation-year",
+      "sha256": "d0ea22eef906655202425102fe067a683ac941f70308cf0c810539b4acfc08af",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-30c6a27e191b5a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-international-business-management-marketing",
+      "sha256": "7480f65294d6ef6b8873d6d1916bb1e05d4baaeb6dc2c6f86cfb9e891b0d9b51",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-6d5433fb8f0665.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-italian-classics",
+      "sha256": "596ade004c958e8a81498cc540584f964fc7eedfba251b9f517ad61b78ec9244",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-7b7316bbe9bf57.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-italian-economics",
+      "sha256": "95e3846bd92a17eac36a9aa02d55f9d6ab664235c6ec2cab26d95ffc30d7d82a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-856e5d63ba310c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-italian-theatre-studies",
+      "sha256": "3cffba4a0980dce8b422432dce726f8bbc203c9e5ecd999d16190aa4fe7b4778",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-49b4d41a693a95.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-italian-studies",
+      "sha256": "da0666efe23340380aa673d77801828eede3e11bc7fbbae632de6d8dc454b3e0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-84ee7ea99fc3bd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/llb-law-4-years",
+      "sha256": "cf92100f1456f9588eecfa24d0cc9423bbc68002e66b4bf0bbb7603551662fc7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-1fc1a5bcb57a3a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-law-sociology",
+      "sha256": "c9556f6ab146b95da42fb4acae02adb2077819613ab3e74f720777b49bfbf00d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-d878ee49be62c7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/llb-law",
+      "sha256": "c55a1a94ab0d9882f0cfd42aac4cc2a11d66cba2bff691a4a8f38de34018bc44",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-0991b941faf46f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/llb-law-french",
+      "sha256": "03ef60be1b750fe87b64388c8312fd359ae81c161c8e9b91bcb9bdac5625050c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-09ed96eb30fd16.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/llb-law-german",
+      "sha256": "c874a8126054c01fbd95766988e25ab9918bc4dce11add341ac8a2230b22dcac",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-109286b5979d89.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-law-humanities",
+      "sha256": "c50735315b034773d70ccafa15b4ae65e6bb33c3710d9bb34c0f836731b07466",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-35fe573e582688.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/llb-law-study-abroad-english",
+      "sha256": "eae741627427cda63ea622a444f8e595f5f059e0ab2676aaea14a11688993d19",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-7b976ccbff0b6d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-liberal-arts-sciences",
+      "sha256": "0dd3e0b5bac9fcdedcf0b3aff17332f0b728fb0d2798a38061c1993404a8df02",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-d02da2d892b905.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-liberal-arts",
+      "sha256": "dc6009e639513067d6137b15d1f12bbb0dcbde525f02d54bcd49975375f9e20f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-0105a32794ee75.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-life-sciences-global-sustainable-development",
+      "sha256": "92229972e1caefe9402ea43493691ce676e4b71b1f33678bc1fe115efeebba28",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-3f41e291bc6f06.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-linguistics-with-modern-language-intercalated-year",
+      "sha256": "3a7eadf93df18cc89d9bd8590a8a80a60d0078c014e013c801d9f16bacff7807",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-d52c9bd2c506dc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-manufacturing-mechanical-engineering",
+      "sha256": "597e09a028bf9c3bcd083ea615c76677128beda7c73dd6cf3666d5a9ef0fd27e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-dbb3de2d512cd9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-manufacturing-mechanical-engineering",
+      "sha256": "8411d256733272959d589aac803c2d44c7519d5e564d4cec55e69d9742f2b3bf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-1c133ff60e0cd6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-mathematics-philosophy",
+      "sha256": "9a0a256e6e16c54806f0724907d88abf64acc879d79b3b254b32982aa659d770",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e1166ef56da864.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-mathematics-physics",
+      "sha256": "3b636b9ed6d3b2270a264192f118d3f57fb550af69c963c530416d3f3f859d9f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-8e27605dc95ddc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mmathphys-mathematics-physics",
+      "sha256": "176460bbe6e25726d3bc848cbae2d10327a4b94c9d428b253f4d18a0995fad0f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e98a26130e2dda.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-mathematics-statistics",
+      "sha256": "36ebe69e27bae84067b7391b406249946b97cabd5f455fb3a618b9565c30a672",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-99b6238702b56c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mmathstat-mathematics-statistics",
+      "sha256": "ca945dbdf5c71f0b3a2580fbf0296c6a426b53cb3f78196ae57045d184d4c57a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-375c426d9f00fa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-mathematics",
+      "sha256": "9af67981c95a90b99a8ac330387253869a1cc647d017988a05677774528a5589",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-bd5387e524e967.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mmath-mathematics",
+      "sha256": "1a5b2bf4a12bf0d13b2f2344b39d86c2b272336f3c0b6639f7e9e69ad870a817",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-ce797794a972f5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-mechanical-engineering",
+      "sha256": "5aecaed2d0f642671c03633308e2bf5e224aec2b6a632e511afcdeaf48007033",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-ad67e466ea4eea.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-mechanical-engineering",
+      "sha256": "1b84e95a91ba93461e8ed595e9c892b6d332d3fdac7c08d7c0b8108ada327a0a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-45e15b63347f99.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-media-creative",
+      "sha256": "fd090013b39d2d0f421daf38af0e93c04f302b42aa0da0c36098f472bd4df913",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-5ade2b3045d7d6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-modern-languages-economics",
+      "sha256": "97d15065ab0f45e631754835e4e682eaef40bcbd183b6d408594df04c6791226",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-b4f3f6a8344d9d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-modern-languages-and-linguistics",
+      "sha256": "2464ecca979f9d5179f88d193b4a7369f95dfc5e88a6a0208ab087c58afad4a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-1235dd52b60f1d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-modern-languages",
+      "sha256": "e49a61ee1fe591c21cb37b1ad5a7ddb286295354f9969cff78f58e7d90cae626",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-37de7a9f466331.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-modern-languages-with-linguistics",
+      "sha256": "c5b6e9f99eb4b660f533be6c2fd60dd21313af36ee8dc5f1a4131f8511815a38",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-2ee91ddb3f04b7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-modern-languages-translation-transcultural-studies",
+      "sha256": "4230f742db399529ae161a6018a9b33b68b74a4b12b4145a9f0fe077b05b211e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-ad8765a805e630.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-morse",
+      "sha256": "e2949c2c0499ca3f689b0c57ba8961d58e03f83df3c6979fd701e68d7b2c0b40",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-f3352944107e64.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mmorse-morse",
+      "sha256": "731dd32dbcb709af87a07240eff5485d0c06d39237fbdbd0c79be9110654daaf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-8e69c1ca8c9ec1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-neuroscience",
+      "sha256": "71bf2f485ddca2de2eea79358d12286b59dabbbaa494243543b129a773b67928",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-4dd6b24fd7ae8c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mbio-neuroscience",
+      "sha256": "ba28bf7cbbbfd0755f355dab42b2800f257809583c8c0ddc4342f1094db00189",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-7994d705fb9dc3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mbio-neuroscience-industrial-placement",
+      "sha256": "8009a1666301fe4bfea5f6653438074791313f3042835380f5eb981d2d783451",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-c1e818e4c11d34.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-neuroscience-placement-year",
+      "sha256": "bec1f2790471df61115f754bf13ec2ade48c30a37cb1deb5be3755b96e0d87fe",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e5e2bbc4359553.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-philosophy-global-sustainable-development",
+      "sha256": "b93fb09042e3bfd3af8ac221df47b9d25c37dea15c08b4187e1b57c66aeee2a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-35db07b8ac27e4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-philosophy-literature",
+      "sha256": "d5ce2d35198dbfa00d75607710d67d6118025c3095187514eb412e4d37fb44c6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-a7aafb501aa0ef.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-philosophy-politics",
+      "sha256": "44d4e493c14004f88414baa42bf5cda6883044d4c07b743bfc41ebe97b3738b5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-efa45156febb6f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-philosophy",
+      "sha256": "d685a6cee7e98b9579e5b9e02b63dc4eac9dfa90c6f3e8908df3640d0f583e52",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-822fbbecc1ff76.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-philosophy-literature-classics",
+      "sha256": "a0556185a3ea332c03a72d3ddc0119957784260b873a130baf89d942a2d27697",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e44c2bd41ecba7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-philosophy-politics-economics",
+      "sha256": "86ff7c555016269ec89848f9f4d011eed1d4fc3e5e1c2a573bceabd0b8ca72f6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-1aaa336c94aca2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-philosophy-psychology",
+      "sha256": "0a2b95bb0c9755e21215cd389b8e157a98bf5b219d0f8d3e1ed1d1e295288fa1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-e3330d732a8761.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-physics",
+      "sha256": "288a91ed1b3622f2d112c723bb6c953a9b9e54e51ba0ca6b6b5d8a1ee00c5c99",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-11167dfa9643f1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mphys-physics",
+      "sha256": "7abcf765b0bfadad02aece7bcd44d3385d69fabe2dd68398ef226782f90d877a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-337efeea4ada65.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-physics-astrophysics",
+      "sha256": "51784635cc1d062d87ea7ebe39e36334521479eb615c0173e874a3aae4eec2ef",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-5300482e6f43c2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/mphys-physics-astrophysics",
+      "sha256": "bc910482663da520e6e0429e781f9be2878b3bf6555b5518fbd6d685a2bf2bef",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-acf7001f91d049.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics-international-studies",
+      "sha256": "a4b6e6d167b520d65ed94448bc317fac99afb56c0caf5ad5c6ed3669add2aa07",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-42d0691b96b268.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics-international-studies-chinese",
+      "sha256": "5368a5fa29316a040bb9d0114112d39be94df36fdff3c5f793c55c08a6c76494",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-a5ce759b1c8eff.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics-sociology",
+      "sha256": "49d372cc5ef9407308ff667a75d8b18fd550358235bd904b87e2b6618c6bbe12",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-29d032cdc22ac4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics",
+      "sha256": "bfe3e1f1a81426d9faa8d9e29c12c54c893937a3b22153f7359a96c54da44d22",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-74da620570655f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics-international-studies-french",
+      "sha256": "959ad385269c83717d11561eff9244abde2ea763d6b6ecbdb18f2b752c33bd83",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-aadfa7abd9a812.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics-international-studies-german",
+      "sha256": "ef8aeffcfe73fcc1846a88291286c2d43c6b69ba3e811effadefe4d33b981390",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-904b29a1b0fe1a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-politics-international-studies-global-sustainable-development",
+      "sha256": "0039e6753453d9ca5529cd1c1801964266614c3bbcce945db0d881a73f959a44",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-2a94a8dcb839e8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics-international-studies-hispanic-studies",
+      "sha256": "53ae1aea69c6fedb06afe5a4a3776ffc6838027c38bb0960f92f516d15c57637",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-2b25d662c448b2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics-international-studies-italian",
+      "sha256": "75fb1aab5f131c741466edeb9d3f545eec790f20bad327fbac7226904553bc59",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-f7b949a6b18b1f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-politics-philosophy-law",
+      "sha256": "0a8843bb7691588e00a2bfd2bbd17c2244e5798dd7e37521a92bf81eec3f5804",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-8d25f8a6ef0215.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-professional-and-intercultural-communication-intercalated-year",
+      "sha256": "1312d9aff2c74bce6ad3565b4a4d31d228dfb99885d1b9568c078f701119908b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-94622e6af8a091.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-psychology-global-sustainable-development",
+      "sha256": "ffd3f262ac36732a6a7cc4b9751cc237f444f701477f4770d067ed9a851cbdc3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-f112a588f09d20.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-psychology",
+      "sha256": "1a29464cfcb00831a14941ab3f43568f9fd90d084f25be6d788c7efba1330f51",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-5539559e069532.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-psychology-education",
+      "sha256": "d598e1e2df9385cf276963d8a027adf025a59e62372e21342aac54ecef7785e9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-5a96941de5370b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-psychology-linguistics",
+      "sha256": "b0e755b30885558bdd05ea8d0d24fc3675d0e9da63d71d8bebb2f96e58c4dfff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-079a4f3e96e200.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-robotics-engineering-artificial-intelligence",
+      "sha256": "86814bf5d696264e6838f2e5811cfd8cd68525016ec601f0436d7538a1be987a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-cc586d1f80f7e9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-social-sciences-with-data-science",
+      "sha256": "501108a36516269e171e8adfc84f5c9b46b90c7c8278a5f4947d3e95a037de20",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-ae0aeea38e8242.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-social-work",
+      "sha256": "b862baba83a7c227451adcc456c9d617a8d77015851e38b8c76ddaab7724b5e9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-fc3430ad4c734a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-sociology-criminology",
+      "sha256": "c072d0c4715d327435d3f31a3c555466b3a1f0f88728b4b7592f21f062c58890",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-287aaeb47fa579.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-sociology-global-sustainable-development",
+      "sha256": "d4c602673f718f9099bc155f48de2a0495ea021050576eb6fd68c2c23db5a5ef",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-0fa1acda5b6c58.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-sociology",
+      "sha256": "17e08a9b5620db41f40bda28c13f71810671fc06751eac71dd85f49d015c4bbe",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-40a40fe0ec71d3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/beng-systems-engineering",
+      "sha256": "489b87da61603050b83a63c5ba6f081bb7282c5b7cd07044fb0f56e8d47f5924",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-7ceb31f7c32c1d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/meng-systems-engineering",
+      "sha256": "08dbf12a3698f3c6e8fac6198e619b66e80970c68691257bbb918a3c6b7c44ec",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-c456f7ac2c35e4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-theatre-performance-studies-global-sustainable-development",
+      "sha256": "125e319d3e89eac78a591b561fe1643768a87a20ae0d5de7137f05bd85c5f602",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-d2420ae9889c54.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-theatre-performance-studies",
+      "sha256": "6c2834ba63d9f4315cd40452552455f14695186fac099fff1ccb01175b0d06d0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/warwick/raw/course-63baff049c3bb2.html",
+      "locator": "See each fact extraction_locator"
+    }
+  ]
+}

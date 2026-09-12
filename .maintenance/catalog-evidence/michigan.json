@@ -1,0 +1,54 @@
+{
+  "original_manifest": {
+    "university_id": "michigan",
+    "checked_at": "2026-09-12",
+    "final_count": 140,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "University of Michigan Ann Arbor undergraduate admissions A-Z; excludes Flint and Dearborn",
+    "official_published_count": "Admissions index: 156 table rows including sub-majors and repeated joint-school entries; SMTD expanded degree list: 29 named bachelor awards",
+    "directory_urls": [
+      "https://admissions.umich.edu/academics-majors/majors-degrees",
+      "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "https://stamps.umich.edu/undergraduate-programs"
+    ],
+    "page_coverage": {
+      "pages": 3,
+      "index_rows": 156,
+      "pagination": "All A-W tables read in one rendered admissions page; alphabet jump links are not pagination. All 16 SMTD accordion sections loaded and archived."
+    },
+    "filter_rules": "Exclude explicit sub-majors and certificate from independent-degree count, preserving them in submajors/excluded files. Replace broad SMTD and Stamps discipline listings with named awards. Merge same joint major repeated under two colleges. Keep second-entry/continuing-student majors.",
+    "excluded_count": 28,
+    "replaced_broad_count": 18,
+    "can_prove_complete": false,
+    "completeness_basis": "Complete admissions A-Z major identity list plus full SMTD and Stamps awards. Degree-label variants outside those schools are not all explicit in the admissions index.",
+    "gaps": [
+      "For majors whose award is not printed in the directory degree_label is null; BA/BS options must not be inferred. Therefore completeness of all degree variants across every school is not yet proven.",
+      "Stamps general Dual/Joint Degree is a route, not a named fixed-degree program; broad route remains in archived source.",
+      "Sub-majors retained separately, not counted as independent bachelor programs.",
+      "All intake, duration and language fields are null where directory does not state them."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://stamps.umich.edu/undergraduate-programs",
+      "sha256": "3076b3111353d6f2c5331abf8ad23b21b41275e45347a9cde6f172d461a227c9",
+      "bytes": 108675,
+      "raw_file": "scratch/full-catalog/us-b/michigan/stamps.html",
+      "meta_file": "scratch/full-catalog/us-b/michigan/stamps.source.json"
+    },
+    {
+      "url": "https://smtd.umich.edu/admissions/undergraduate/undergraduate-degrees-minors/",
+      "sha256": "5fdcf60760449072f7e2145ed39e920b5ad72342c23258d78ae28b581225f4bc",
+      "bytes": 302651,
+      "raw_file": "scratch/full-catalog/us-b/michigan/smtd.html",
+      "meta_file": "scratch/full-catalog/us-b/michigan/smtd.source.json"
+    },
+    {
+      "url": "https://admissions.umich.edu/academics-majors/majors-degrees",
+      "sha256": "7c5349187a2c49dc21fc3d8111322369415894e99678c1b6ee4308cc97756337",
+      "bytes": 212713,
+      "raw_file": "scratch/full-catalog/us-b/michigan/index.html",
+      "meta_file": "scratch/full-catalog/us-b/michigan/index.source.json"
+    }
+  ]
+}

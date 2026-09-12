@@ -1,0 +1,173 @@
+{
+  "original_manifest": {
+    "university_id": "uts",
+    "status": "partial",
+    "count": 358,
+    "official_total": {
+      "all_career_programs": 444,
+      "all_career_fields": 957
+    },
+    "discovery_source_url": "https://coursehandbook.uts.edu.au/search",
+    "source_period": "2027",
+    "scope": "All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields; UTS stream mapping remains pending",
+    "pagination_evidence": {
+      "course": {
+        "total": 444,
+        "pages": [
+          0,
+          100,
+          200,
+          300,
+          400
+        ],
+        "unique_uris": 444
+      },
+      "aos": {
+        "total": 957,
+        "pages": [
+          0,
+          100,
+          200,
+          300,
+          400,
+          500,
+          600,
+          700,
+          800,
+          900
+        ],
+        "unique_uris": 955
+      },
+      "all_pages_fetched": true,
+      "unsw_selected_major_honours_count": null
+    },
+    "filter_rules": [
+      "Public Courseloop API endpoint and POST schema read from official frontend JavaScript",
+      "Filter implementationYear to official current_year; request all pages of 100 and assert row count equals API total",
+      "Program: official Undergraduate line; UNSW additionally confirm bachelor award in every full program page; Monash/UTS bachelor title prefix",
+      "UNSW fields: explicit level=major or honours plus studyLevelValue=ugrd; Monash explicit undergraduate field categories; UTS Major with Undergraduate or Unrestricted career",
+      "No minor, individual subject, diploma, certificate or standalone postgraduate degree promoted to bachelor",
+      "Keep restricted/offshore/ADFA fields where published; no applicant-nationality exclusion"
+    ],
+    "gaps": [
+      "Parent-degree/major compatibility inheritance pending; field records are not independent awards",
+      "Duration/campus/language omitted unless explicit in read source",
+      "Stream and Sub-major categories excluded from major inventory because these also contain curriculum building blocks; named stream/degree-specialisation mapping still requires separate reconciliation"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "ca14fce83fae21fe63b15da2ba55c8b24305a595c06ccf6cf1afea75566d2ae3",
+      "bytes": 15320,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-probe.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-probe.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "0599d5e603cf7c01d3d3fabe0034697ef2306b98dfbe7b3f4993710c73d7c712",
+      "bytes": 14748,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-page-600.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-page-600.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "39d0d24b9c41006a605f7363a4e4da418789f23f56d13f251c470ab6883ac45a",
+      "bytes": 14914,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-page-300.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-page-300.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "2c647b8a2c858319b174e440773918c2a3c5f48b18e45d817c3d378cdb2666e0",
+      "bytes": 15971,
+      "raw_file": "scratch/full-catalog/australia/uts/course-page-300.json",
+      "meta_file": "scratch/full-catalog/australia/uts/course-page-300.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "b88d4d2b4689b7876686502340550e73644ac1d9b6e654a962161d8b3e79b541",
+      "bytes": 8787,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-page-900.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-page-900.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "d349fe75659fbe230527fcd26b35796aa456b5b6029990afe923ad47f9f6ca94",
+      "bytes": 15218,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-page-500.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-page-500.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "4dbc112c540e4f1deeb41c58d1b2157cacc735bb10a8a72045f69a78083c96e1",
+      "bytes": 15017,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-page-200.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-page-200.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "2d64245252fdcb0a7b6a46044cc2b3628a2cf3e4e052c2dfa9f343dccb54b667",
+      "bytes": 16865,
+      "raw_file": "scratch/full-catalog/australia/uts/course-page-100.json",
+      "meta_file": "scratch/full-catalog/australia/uts/course-page-100.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "582feb27b6b7a2bf5ee67f2609595342548edb47f897ad950371eec675f1ddf6",
+      "bytes": 14815,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-page-700.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-page-700.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "fee5fe1f2855eb5a86ebeaff0997a641c7675408637ed463b4d88a3e566e02e6",
+      "bytes": 7237,
+      "raw_file": "scratch/full-catalog/australia/uts/course-page-400.json",
+      "meta_file": "scratch/full-catalog/australia/uts/course-page-400.meta.json"
+    },
+    {
+      "url": "https://handbook.uts.edu.au/",
+      "sha256": "a5207536d4e13f9ab08c92f93cc1de62318d2b86ef42bd4254c2754a0de973df",
+      "bytes": 197692,
+      "raw_file": "scratch/full-catalog/australia/uts/handbook.html",
+      "meta_file": "scratch/full-catalog/australia/uts/handbook.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "34a2648ca174db2ffd585d4924b54f61ea10b4bdb9a786c3b5e9240de6148b63",
+      "bytes": 14900,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-page-400.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-page-400.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "9a75327b1222dddf6809eec251ff52c86cd08b1404af3519c43181f5b3af5193",
+      "bytes": 15499,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-page-800.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-page-800.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "d461863b9843887f2b9db10ed367be1151376aeee7994b9ee5772635dcc93b10",
+      "bytes": 18435,
+      "raw_file": "scratch/full-catalog/australia/uts/course-probe.json",
+      "meta_file": "scratch/full-catalog/australia/uts/course-probe.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "12c2a3c93dcb173649df9e12293d827fbb9282c6a0d3c607082f47dba7c190f3",
+      "bytes": 16751,
+      "raw_file": "scratch/full-catalog/australia/uts/course-page-200.json",
+      "meta_file": "scratch/full-catalog/australia/uts/course-page-200.meta.json"
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/api/search/search-academic-items",
+      "sha256": "2574fd34f5312c10b6e7f4de19804f0791735dd1c2ea39af91d4b54e2ca6abfb",
+      "bytes": 14836,
+      "raw_file": "scratch/full-catalog/australia/uts/aos-page-100.json",
+      "meta_file": "scratch/full-catalog/australia/uts/aos-page-100.meta.json"
+    }
+  ]
+}

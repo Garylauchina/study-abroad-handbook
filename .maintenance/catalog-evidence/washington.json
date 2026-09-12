@@ -1,0 +1,1229 @@
+{
+  "original_manifest": {
+    "university_id": "washington",
+    "checked_at": "2026-09-12",
+    "final_count": 229,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "University of Washington Seattle General Catalog only; excludes Bothell and Tacoma",
+    "directory_urls": [
+      "https://www.washington.edu/students/gencat/degree_programs.html"
+    ],
+    "official_published_count": null,
+    "page_coverage": {
+      "index_pages": 1,
+      "discovered_links_including_fragment_routes": 170,
+      "unique_department_page_urls": 160,
+      "pages_read": 170,
+      "formal_bachelor_parent_programs": 114,
+      "pagination": "Every /gencat/program/S/ departmental and school link in complete Seattle degree index fetched; duplicate credential UUIDs across repeated/fragment URLs deduplicated."
+    },
+    "filter_rules": "Read all departments including graduate-only units. Keep formal h4 credential headings beginning Bachelor, including second-degree/professional bachelor credentials and explicitly named credential options; exclude non-bachelor credentials. Named options are flagged separately.",
+    "excluded_count": 804,
+    "can_prove_complete": true,
+    "completeness_basis": "Every bachelor credential UUID from every program page linked by Seattle official degree index; option variants retained without pretending each is a separately titled award.",
+    "gaps": [
+      "Credential count includes separately headed official options/majors within the same award; parent_program and entity_type make these distinguishable.",
+      "Current official catalog does not print one academic year on captured program pages; not labeled as a verified future intake.",
+      "Clinical Health Services and degree-completion routes remain subject to their specific entry restrictions."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ComputerScience-210.html",
+      "sha256": "fc3d2161078c3418088eaecbd3bbd243272e71fd2a9c46b973e45ffa40c02010",
+      "bytes": 29150,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-c66f407164e1.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-c66f407164e1.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Business-300.html",
+      "sha256": "ce351833db7c7dc173e61f9d94a3b0b844d3739d8dd227f5a2652186565f41e9",
+      "bytes": 98099,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-fb1aaa381bbf.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/RealEstate-54.html",
+      "sha256": "5cedf15f666d9fc0f76027fea975334ce2bd28984b45f1d6ceeb48cd7eb4a269",
+      "bytes": 32580,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b6cbeb401e24.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-b6cbeb401e24.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/anesth.html",
+      "sha256": "e5a827fab52bb84429e44a1c9348905f2b0efe042497355632447fd5a6fe59c1",
+      "bytes": 15479,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-9671bf8bc84b.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-9671bf8bc84b.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_nursing.html",
+      "sha256": "9554615860d679a95fcff0fbc1b7d3c215cc2ed485dc95fe12330fddc2ed1808",
+      "bytes": 16056,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-8e054e73cf40.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-8e054e73cf40.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MaterialsScienceandEngineering-423.html",
+      "sha256": "d67ca19dd41495fb55212e2367b8167a8b46aef34cb1b13ba201d1380be9465b",
+      "bytes": 55953,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-32c8d0968264.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-32c8d0968264.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SchoolofAquaticandFisherySciences-1078.html",
+      "sha256": "5122a331b51276643272176791826c30eca6c4ed9e4cf451cac1cd703073f05c",
+      "bytes": 37175,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-18c5f90086e2.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-18c5f90086e2.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/RehabilitationMedicine-928.html",
+      "sha256": "1ca1a9410b28d578af03399a730003d95c8930c45821c66084d6b6ffaa76e0f0",
+      "bytes": 30524,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-5484802dd87b.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-5484802dd87b.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Biology-112.html",
+      "sha256": "38617840faebe1f41da6fd6515b544a935c18e28410dbab65ce41668ded9c4b6",
+      "bytes": 38737,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-318c744e69ab.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-318c744e69ab.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Neuroscience-650.html",
+      "sha256": "cf9323cc295c76c665926291f16a750a9c0198bc7523ab2ecdad48793d8725c2",
+      "bytes": 18610,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-f8c17a844423.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-f8c17a844423.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ProgramontheEnvironment-1070.html",
+      "sha256": "a8e8d8e206945dfb79817720bf76d89145f84f2653dc3d08c1a362c73f62a1fc",
+      "bytes": 30634,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d85f2ec0e3a3.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-d85f2ec0e3a3.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Accounting-301.html",
+      "sha256": "24115243af45f6bd37c322b059910c942979078096db908a26aa5e7bb291afba",
+      "bytes": 19361,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4672593854eb.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-4672593854eb.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_information.html",
+      "sha256": "4d5ee0a222f33588e37b54caa8a1b993ea3a7d9bdb11c54ce6ddea00c94925f3",
+      "bytes": 18086,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-2e09385935bf.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-2e09385935bf.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_public_health.html",
+      "sha256": "f0ae5ab6024b081ae871491d90fb547815cf9cbc56ab216f045981cc49a34ecb",
+      "bytes": 17615,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fe0a06577e2b.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-fe0a06577e2b.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/college_built_environments.html",
+      "sha256": "70e1fe361d7981a792af095ed2fa985fc63fc916650d4a4e9e2fd3ff89a13a08",
+      "bytes": 16730,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-c1da022df08c.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-c1da022df08c.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html",
+      "sha256": "c79d75212b1be67be398f5300ff62d3fa03ea84a156982ae804e131782b3d93c",
+      "bytes": 125453,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-aaf494cc3df4.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-aaf494cc3df4.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Communication-1035.html",
+      "sha256": "2ec72b3148d9d70671bd0ec36843b7a3a6db1a5565fcfd4f5d3a48419cd3782d",
+      "bytes": 42189,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b49591201e25.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-b49591201e25.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/GeneralStudies-185.html",
+      "sha256": "6891773369f8aeac63362290c442667fd98a2b083e7df8920cf9dd2923fd7068",
+      "bytes": 36053,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-cc4ed645cf0e.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-cc4ed645cf0e.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SchoolofMarineandEnvironmentalAffairs-1071.html",
+      "sha256": "5984a5a620997be78f8ca2def81fd660ce082060e116aad45b34d425b182ca78",
+      "bytes": 20690,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-cb417efd065c.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-cb417efd065c.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/InterdisciplinaryPublicCriticalRaceScholarshipGroup-1081.html",
+      "sha256": "e05134b283f82c21c984cc23db6bebaf87d7726d0097cc5c3f887e0c754facb7",
+      "bytes": 17751,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-39b53cffc10d.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-39b53cffc10d.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SocialWork-779.html",
+      "sha256": "ed7e53b3506ae4a3c1839e82197af01d537a6b22ec2a4756a420a2449badb22f",
+      "bytes": 47516,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7ea0ba23e37a.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7ea0ba23e37a.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/GeneralStudies-185.html",
+      "sha256": "6891773369f8aeac63362290c442667fd98a2b083e7df8920cf9dd2923fd7068",
+      "bytes": 36053,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b4403b9b1107.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-b4403b9b1107.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Microbiology(Medicine)-916.html",
+      "sha256": "679f6adb91eaab57860ba7a3b9eaa4d50b0f8244b2ee2d0692bd726507927bf9",
+      "bytes": 24082,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-950a22962394.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-950a22962394.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AmericanIndianStudies-1015.html",
+      "sha256": "e4818dbd9d838c2162e24b68053303589313c70b228e9d9388f92feb148611ad",
+      "bytes": 28904,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a3fe88dab6fb.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-a3fe88dab6fb.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/NavalScience-1127.html",
+      "sha256": "077060906a5aa8d99e270875ccd185938b3648dbab5430fd1dfc75bcf580375c",
+      "bytes": 18286,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-8443e1f36779.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-8443e1f36779.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AmericanEthnicStudies-100.html",
+      "sha256": "8c94b06a074040168552f892b3c866bd9da924b17a087e6c7d4e925b44ebeb3d",
+      "bytes": 20646,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-15db8b1f1655.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-15db8b1f1655.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/peds.html",
+      "sha256": "7f7a8172fb7097a79a7e3f529da976705430aaf940e0f5767f1b6a3c56e370ad",
+      "bytes": 15247,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a5bacf88b7f2.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-a5bacf88b7f2.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Gender,Women,andSexualityStudies-298.html",
+      "sha256": "923e542b9479f10df87a067d9fec7bf68026b1b85a1f392c25723f1752ab304b",
+      "bytes": 33631,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-33960a91f9fc.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-33960a91f9fc.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/TextualandDigitalStudies-1110.html",
+      "sha256": "e295c3e5a14be8884f969c77968cb122e58b56f1fc240056b5475a239cf36450",
+      "bytes": 18804,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7702787e92e9.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7702787e92e9.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/CenterforStudiesinDemographyandEcology-1049.html",
+      "sha256": "f60b2e811edab8d462da0bfa2ab35a892c6dcd5b39b81f82c32fa14a2b0c0363",
+      "bytes": 16914,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7504b8623ce.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-a7504b8623ce.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/HealthMetricsSciences-1120.html",
+      "sha256": "6275e0059ed6e312d06df93befc5cf883ffe2b7d4438dd2c60d1facd35cc529d",
+      "bytes": 19410,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a577848acde8.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-a577848acde8.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SlavicLanguagesandLiteratures-163.html",
+      "sha256": "fc073959c7ee6b741d9dc89aec95b69332b4b093007b46ff6e3774019609b70c",
+      "bytes": 46436,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-42d3a2fb3410.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-42d3a2fb3410.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/college_arts_sciences.html",
+      "sha256": "615aca6b12112fca307b6e5e93e9b97263491354c134afec70ebfcfe607d86d9",
+      "bytes": 23182,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-62e7de63b69d.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-62e7de63b69d.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/college_environment.html",
+      "sha256": "5ff4970276ac116c3166ed3a8abf55a5e2d7b0bbcd61fa7eca919f93d8542968",
+      "bytes": 18831,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-47e2431a8f04.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-47e2431a8f04.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AerospaceStudies-1125.html",
+      "sha256": "829a4cea2fb739762672a24cf22c2f603011c2f0f2b05290efd8825161e23f6b",
+      "bytes": 19797,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-84a851b2b1a7.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-84a851b2b1a7.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/IndustrialandSystemsEngineering-418.html",
+      "sha256": "19876f9241d9413a261e99247444c3ceedfb8a632ac5480fd038115a7335e74e",
+      "bytes": 51417,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0f9899421008.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-0f9899421008.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Periodontics-826.html",
+      "sha256": "f1887a4e75abce49498c2a8e995c61b297286485ed73d2d733aa5a454e60a07e",
+      "bytes": 18119,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-93294208dbfa.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-93294208dbfa.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AppliedandComputationalMathSciences-994.html",
+      "sha256": "9e20c21065b90c0430a48308e9d9d63c9ef12e21b3879e5a1e4b25929071f808",
+      "bytes": 39929,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4885e760e8ea.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-4885e760e8ea.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/DepartmentofPharmacy-610.html",
+      "sha256": "e034932e40b0b492c82cb6bfa9ad797b1ac0d2ed71738e98abd1753644f06c6b",
+      "bytes": 22728,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fe3827797579.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-fe3827797579.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Classics-118.html",
+      "sha256": "4212d525882023842ac54756909d378ee2354a188a6b086722f513fd3d86df19",
+      "bytes": 45976,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-10b300129145.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-10b300129145.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Pharmaceutics-614.html",
+      "sha256": "7c38140df4c271f754a0fc9f83bd77cb3c25b7ef91d27968281bbd843456c01f",
+      "bytes": 23044,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-717fbc263bca.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-717fbc263bca.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AppliedMathematics-208.html",
+      "sha256": "1ff4a5c4e8dddb9f97796a233be4e617c257afa55e5cbd47a6f0a4db8c50d790",
+      "bytes": 77385,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-480ff7def8e0.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-480ff7def8e0.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Dentistry-805.html",
+      "sha256": "7fe588643659f46b58874fb97cc69cf137a11570bd9b9d823790ed0630255c3e",
+      "bytes": 21026,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fdf04ec42bdd.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-fdf04ec42bdd.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/UrbanDesignandPlanning-50.html",
+      "sha256": "ae29be04a315ae4a67f1b7e38a453bd3bcc598554af39c7875df635dd570b74a",
+      "bytes": 40016,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e7dfea866d57.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-e7dfea866d57.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/NeurobiologyandBiophysics-1131.html",
+      "sha256": "ca282a0bb67111762f3d40a09c18f40eb5355938ff2e224ed19a6768ad07db42",
+      "bytes": 18449,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-5e8e3e6b4c40.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-5e8e3e6b4c40.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SchoolofEnvironmentalandForestScience-1069.html",
+      "sha256": "90e4e87954b660db5be3c88bab2d4821e85e161d279dc30ed395f6b279226997",
+      "bytes": 64092,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-457e56bb3d3f.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-457e56bb3d3f.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/GlobalHealth-1058.html",
+      "sha256": "3eed7d1ea51691e9ec07c2dd6cab1a512c73d082144875b678a91e412a601f71",
+      "bytes": 36706,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b972ddeef46c.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-b972ddeef46c.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/BuiltEnvironments-1051.html",
+      "sha256": "3d85f5308bbcf68a2e37377c2fca788339ee28ac303962d8c3953376824df997",
+      "bytes": 23054,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-6728d4182f5e.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-6728d4182f5e.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ProgramonClimateChange-1079.html",
+      "sha256": "196488c0883c03a01e2207bef4bec65ebefba069fe28c158f85d28c649714286",
+      "bytes": 21929,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-198bfbd29cc2.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-198bfbd29cc2.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/TheInformationSchool-671.html",
+      "sha256": "aead38693fc50344fa2b0674cc6932e8a2821c6d3dd69fd49dcf0d2783751fa6",
+      "bytes": 79394,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ce8def9fc4c6.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-ce8def9fc4c6.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SpanishandPortugueseStudies-1103.html",
+      "sha256": "5e455c6ffcd9ae8ef93a19b5bef615e915f93128adb026396d16ca7b76d8cd96",
+      "bytes": 35648,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-be21849aa019.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-be21849aa019.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MechanicalEngineering-419.html",
+      "sha256": "942bba20cbc885f2832615b7b32427c100085f7db32736504318f49e0198bffb",
+      "bytes": 71257,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7365bef7b104.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7365bef7b104.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/InterdisciplinaryInternationalHumanitarianResponseGroup-1124.html",
+      "sha256": "b9cdf8ac00c7c52c77f02bee57a59f9e80bb8505a32c444da8ac0424a99a6266",
+      "bytes": 20582,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ea70eccecd02.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-ea70eccecd02.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/UndergraduateAcademicAffairs-1115.html#program-UG-LEAD-MINOR",
+      "sha256": "7560c82fede185822f6809a796517de535299ffedad8912756cc178b0dfabee2",
+      "bytes": 21110,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-992e2788b89d.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-992e2788b89d.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_social_work.html",
+      "sha256": "1b5c912b6a6275043fe80ab13ab50c83a8ab5d4e6ced0d5cf0f5ecec0b142c1e",
+      "bytes": 17136,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-1ca5095430ec.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-1ca5095430ec.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/StatisticalGenetics-1038.html",
+      "sha256": "29defc3adc56df12287f24c4029f218d2235fbdfb91fcd83426e07a1a47a6217",
+      "bytes": 17316,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-18c31a34523f.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-18c31a34523f.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Music-217.html",
+      "sha256": "ece32004d6c0e6690131531aa5be6baac4d2c7470f9cc2598538acc85209fd42",
+      "bytes": 172867,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-d4dd102a6c1e.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/HumanCenteredDesignandEngineering-438.html",
+      "sha256": "2b8b8e1cb3e2a7fd0eab3a63bfc939a02c0b4b7573e2a539143e7aa387dfc093",
+      "bytes": 50453,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-c6306f1a7b6c.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-c6306f1a7b6c.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Physics-239.html",
+      "sha256": "3c71d3adbd81ff8e381a94e602127703f0b1b3cfd4d68cec31c77f83844ec174",
+      "bytes": 53682,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7798732199ef.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7798732199ef.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Psychology-262.html",
+      "sha256": "a9fb9ce049ae66f417e8e9422be57ffc10f8c0a4e8cfe53a5172ab631aece6df",
+      "bytes": 35766,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-314bfe42f823.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-314bfe42f823.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AtmosphericandClimateScience-1067.html",
+      "sha256": "547b66c4fda185687e23ccb6e9e819e424ca11ec3f755aa8f972d3c8483f38d4",
+      "bytes": 43627,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-482403ff8b54.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-482403ff8b54.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ComparativeMedicine-904.html",
+      "sha256": "e10fe18645f3c8113822da65831deaa064858bbbea7ad37450d0665a6c90316e",
+      "bytes": 16805,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7eb0f5d6197e.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7eb0f5d6197e.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MarineBiology-1062.html",
+      "sha256": "30364063665566796efc250d6f364420010d3c6d39923fe2cb9224a06b628182",
+      "bytes": 19146,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-14b788910004.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-14b788910004.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ComparativeHistoryofIdeas-202.html",
+      "sha256": "53eedf7279d0fc6831bf764f4f4357108e15ebe4c3ceef41187e830490ab35fe",
+      "bytes": 24993,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0e815c39b054.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-0e815c39b054.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Biochemistry-908.html",
+      "sha256": "0b37d17ac884224f9f5bfc6f3a8810c274e25b18fbbf23b0bd0846d8ec543ee0",
+      "bytes": 19493,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-be64db0db7ca.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-be64db0db7ca.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AsianLanguagesandLiterature-144.html",
+      "sha256": "d1f79bc6726db4e10dd20040a7cc8b5dfd0e322c65e4d81bb3e31e91f9fe2529",
+      "bytes": 71309,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0959744dd544.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-0959744dd544.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/college_engineering.html",
+      "sha256": "e16e91e7f3ae90beedbce8f2e7edf11ceb2097518390adc898b0dae496ee0a6c",
+      "bytes": 28754,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-43c70791c280.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-43c70791c280.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/FamilyMedicine-949.html",
+      "sha256": "0f49d9a2bf6558620b4ae3f6e29bd5403b76c46c7970fe738c40e2378bb5bb80",
+      "bytes": 21978,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ce4b72a7a808.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-ce4b72a7a808.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/CollegeofEducation-351.html",
+      "sha256": "2157caa8a5893455693eca13c029cd20706833f399eebd0003e29c4dd56b3f09",
+      "bytes": 179529,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-a7d296124c4e.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Economics-135.html",
+      "sha256": "671eb8e2a6753506b2a60e47e0791181220266cf35af3a5eb7c8250ebd844ef1",
+      "bytes": 51933,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-28c2f20cbffc.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-28c2f20cbffc.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/CivilandEnvironmentalEngineering-403.html",
+      "sha256": "adbd0e6c3ff1cd06e4f9e5904dd046813140c6254819f65f2d2f336f28301a0e",
+      "bytes": 71515,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bb71d672e1d2.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-bb71d672e1d2.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Linguistics-203.html",
+      "sha256": "ff466134d3874bf32e751f25cb911eb6fa96aa97baa2ede271a97a348b710bea",
+      "bytes": 35401,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-05024422e0c5.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-05024422e0c5.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Science,TechnologyandSocietyStudies-1096.html",
+      "sha256": "cc73cbaa41fc97340c4f212d0a4c48504fa37820fd9ee1d0b17e6b2d2f17fae7",
+      "bytes": 17639,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-020bb95c55c5.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-020bb95c55c5.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/college_education.html",
+      "sha256": "25f016f2ee7f0b67cf36f4ff3845c75e7fba7bd95ee743e64f3a10cd92d3f2da",
+      "bytes": 18814,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3b8d8dbad5e6.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-3b8d8dbad5e6.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Astronomy-107.html",
+      "sha256": "0408146a74144f5f765b8531d46fe891ce7f3dc7ef30a4e1e67f271064a5e7a2",
+      "bytes": 33361,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-71820d0f9c43.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-71820d0f9c43.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Surgery-941.html",
+      "sha256": "7c9db0a6fb9780333f73aafd8b94cdf7843ef00609cdcd364a77fec47f28c7da",
+      "bytes": 17808,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a83b70df1cad.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-a83b70df1cad.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ChemicalEngineering-402.html",
+      "sha256": "efdb1810b897623c9433694b8f91abd83482ae93b8892502c9cb9366cda00718",
+      "bytes": 54538,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-fac2bf41d3f2.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-fac2bf41d3f2.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Engineering-412.html",
+      "sha256": "85e5b09a50122cdd7c3c495758861abdb6becf102e10cba868ced09e25a604ad",
+      "bytes": 44229,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-be63a5e2c3b8.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-be63a5e2c3b8.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/pbsci.html",
+      "sha256": "4395b2dec788cd557425f74b62c0d82dfbbd9b4bb4d83f8bfe581eb494d23303",
+      "bytes": 15324,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-2e17e9ecb2ae.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-2e17e9ecb2ae.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Statistics-294.html",
+      "sha256": "be3197fec7165df310cab6d5cacffe9a1fc87e931f94d5d5d6c8fb68b522b821",
+      "bytes": 46103,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-41152ca6e004.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-41152ca6e004.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Biostatistics-700.html",
+      "sha256": "6bb0235bbae274c9b3174d66fea9ff5ef15a04c9572c37e09a7be310d826692f",
+      "bytes": 21770,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-1e7f0927391d.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-1e7f0927391d.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Orthodontics-821.html",
+      "sha256": "e255ab0b1e87b4d7d0b2a27931c7f9c3908ba9e91a42b960657d500a68a092df",
+      "bytes": 17654,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-5462194f3741.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-5462194f3741.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/IndividualPhDProgram-690.html",
+      "sha256": "6672f87a277ce0f9a2b0d9356c68090a696d6195ef9ad99d852fab604397fd45",
+      "bytes": 17294,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-41f087b5063c.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-41f087b5063c.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/GenomeSciences-1040.html",
+      "sha256": "3c3d8c82794cf4eaacffccb2843271d39b6f1da7f074c31caaee24dbeb2ac83f",
+      "bytes": 21679,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3395d8b971fd.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-3395d8b971fd.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/otohn.html",
+      "sha256": "bcea7bbcdcfcfe6b00a6784f2e649f65859a3a7842a3d1e2a8da4529d098b3fd",
+      "bytes": 15085,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e2bc7dc414fa.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-e2bc7dc414fa.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/OralMedicine-817.html",
+      "sha256": "f660f628edb5100cbf7b70bef60e27905d2e8e8b03242977c543f1c322654816",
+      "bytes": 17725,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3c892e92c3ca.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-3c892e92c3ca.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Law,Societies,andJustice-1057.html",
+      "sha256": "e85df0b5b9ab7249b288b3994c9b2be2bf7287f08e2e00ded6e06031a3d8082f",
+      "bytes": 30655,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-58373118e8b8.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-58373118e8b8.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/GermanStudies-192.html",
+      "sha256": "b7441d021befd36d90a5b19d00bc7c86eaeee37735f6dc6749ac1b53ffcc888c",
+      "bytes": 37756,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ef1670f7548a.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-ef1670f7548a.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/CollegeoftheEnvironmentSpecialPrograms-1072.html",
+      "sha256": "4cfed8bfd340449ddee18c7cf3e6b4532045ff52e20357f715ccb9dccf2b1d67",
+      "bytes": 22768,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3986c5dec0f5.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-3986c5dec0f5.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ElectricalandComputerEngineering-410.html",
+      "sha256": "14b2ec6b3c7c404c0f72d10ff595d94a406352e62d6b935f77dcb08905943579",
+      "bytes": 45646,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-28c7ed8dbdbb.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-28c7ed8dbdbb.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Sociology-293.html",
+      "sha256": "7309ffe181405e8a155a766d2b0339cb07f321dc240d4c95d30ca1391ce2143c",
+      "bytes": 25916,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7578554b5a25.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7578554b5a25.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/UndergraduateAcademicAffairs-1115.html#program-UG-DATASC-MINOR",
+      "sha256": "7560c82fede185822f6809a796517de535299ffedad8912756cc178b0dfabee2",
+      "bytes": 21110,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7bc2258c3a7f.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7bc2258c3a7f.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SecondLanguageStudies-1087.html",
+      "sha256": "c2baa9444e50d20e887863909cb5c18bbc0363483835f6b23468c2f19ce1cb91",
+      "bytes": 17963,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-00d54601aeed.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-00d54601aeed.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_business.html",
+      "sha256": "5f8b52d33b91e0117598fa65d21b0b94e97054bf2791b87e0dc37c087e6dc695",
+      "bytes": 15669,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ec31ffd3a73a.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-ec31ffd3a73a.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/GeneralStudies-185.html",
+      "sha256": "6891773369f8aeac63362290c442667fd98a2b083e7df8920cf9dd2923fd7068",
+      "bytes": 36053,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-396697535682.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-396697535682.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/HealthSystemsandPopulationHealth-706.html",
+      "sha256": "b03adeef0b438f9c0d07e488566dd7ee2bd5ec85554044437389eed2c278e473",
+      "bytes": 29683,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-89f2889d75ce.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-89f2889d75ce.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MolecularandCellularBiology-669.html",
+      "sha256": "d6dbd6e65dbdd17623a0e5bc7aa0e8827b03df1cd706f65590def5f757ddd2b4",
+      "bytes": 21363,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d00cd4c5c174.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-d00cd4c5c174.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Microbiology-216.html",
+      "sha256": "c36682faec8a3c09dd007b86ed0125591cee81f3ae228959bfdb1f178a3d5aa5",
+      "bytes": 29786,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-6001842547b5.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-6001842547b5.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/orthp.html",
+      "sha256": "8d6fa4d838512a51ed39f166332511988697b33fb0df2dd282bde3c5e74b043f",
+      "bytes": 15321,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-67dd8dec2eba.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-67dd8dec2eba.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MilitaryScience-1126.html",
+      "sha256": "697e12dc445f652499148448f28731e261c50c66761894004ded377d8896e79c",
+      "bytes": 19637,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-feaca67b30ca.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-feaca67b30ca.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Drama-134.html",
+      "sha256": "dc18c275fcbbfe54f7b62daebe8c7295539243dbc135ac430a10bb9005ed27fa",
+      "bytes": 45618,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-9ee3a672a342.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-9ee3a672a342.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ronc.html",
+      "sha256": "daa339f7d3634d99d9a2f1f0b4001f5793f3c3645cc511f0f19a20b570d41516",
+      "bytes": 15416,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-61c479145c8b.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-61c479145c8b.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Bioengineering-745.html",
+      "sha256": "9d725e057c8bd288cc69a462661ed5f4307ce45b846a714c75a1b322b5cc8e4f",
+      "bytes": 56045,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7869cdfe650e.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7869cdfe650e.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Anthropology-102.html",
+      "sha256": "923c24e0a4365583765fcc83f49010d16f758d85b0eab8b708ee5f516bc85de8",
+      "bytes": 70816,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-508dc192227f.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Philosophy-221.html",
+      "sha256": "4b7970c6d356ad63d74bc0bc27b516c1d9355b6aa6c6949f710b372356b40ba0",
+      "bytes": 47868,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4177193bb857.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-4177193bb857.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/English-136.html",
+      "sha256": "747a93b9270da97f501ca72788f75ea64f16df8fb919bc45614356c33ba8601c",
+      "bytes": 46577,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b93ad5a66de8.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-b93ad5a66de8.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/PoliticalScience-244.html",
+      "sha256": "0af5979c59cb348f676798e66abb699ddf5df81ccc2bc5d04b71842e2ee008c3",
+      "bytes": 43791,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e30645ee250c.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-e30645ee250c.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ScandinavianStudies-281.html",
+      "sha256": "5bc7d6a9544b9c2f75d34df99ab078036eaf11f0dc4b003a7a55361c9e1bfb5b",
+      "bytes": 63606,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b5e25344c517.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-b5e25344c517.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Chemistry-117.html",
+      "sha256": "fcd0f0364ebc4dd624a2684955c7a3de38b4fd1582d154d603183c7587e8efc5",
+      "bytes": 58196,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-debb34504fa8.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-debb34504fa8.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Mathematics-206.html",
+      "sha256": "a19f70f4234d9c7a9f8f8d9726e7332be59020d821f30f3e6e600919224e627b",
+      "bytes": 41838,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a9f173184d64.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-a9f173184d64.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MedicinalChemistry-612.html",
+      "sha256": "510002134812de150cfa9c2fd6c51f1805a436ab8dddc433aa5fd6c7b08bcaba",
+      "bytes": 19053,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0a0e30d05b85.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-0a0e30d05b85.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/InterdisciplinaryGraduatePrograminNeuroscience-1107.html",
+      "sha256": "9c13eb2bbc6313c680826de507dbb472570f22c8a855804fa84f18dba0acebd9",
+      "bytes": 17318,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e1fabc955627.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-e1fabc955627.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/DigitalArtsandExperimentalMedia-1039.html",
+      "sha256": "73b3d31f4610de967097e1d8e9553f531d480f3bace5b483ad13c90057f5daf1",
+      "bytes": 21664,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-676f403b20a6.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-676f403b20a6.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/History-193.html",
+      "sha256": "09799eecefa86bc24e5c259e6dd549f3c402f600850e8caa377b7a8f19fe48fa",
+      "bytes": 48721,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-774bcf2ec0c9.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-774bcf2ec0c9.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Art+ArtHistory+Design-105.html",
+      "sha256": "192a82f4de9bf1e2446a47dcc7085848da7b51287a9e5dbc63a8a4682b779905",
+      "bytes": 50621,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0784f55c5536.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-0784f55c5536.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Architecture-51.html",
+      "sha256": "ba88a3af202842f70eda0d690752eaec74ee5511d3cb7a905b53d51d0ede889a",
+      "bytes": 50763,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-21c0fce4156d.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-21c0fce4156d.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_medicine.html",
+      "sha256": "6d932c7c41d42b816f2de3d6c0a1bb7f9bfd00259eafe829c67d4c3b0100a626",
+      "bytes": 37817,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-aa9f47cdc2df.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-aa9f47cdc2df.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MarineBiology-1112.html",
+      "sha256": "977113b827c358b95d47d85cd9bfd73c4ab3bdfcc1e2f25f9944f3767b8d9e1a",
+      "bytes": 26409,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-a8a80d164d3a.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-a8a80d164d3a.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Dance-133.html",
+      "sha256": "c57cb46f786f373f294c8f424178b845558f2aaef79deceace690df41b062985",
+      "bytes": 26338,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-852612e6cf13.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-852612e6cf13.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_dentistry.html",
+      "sha256": "69dd59a1f52857c2b18b5a3864ab9aba330569408f154ffe92d549f94b313dbc",
+      "bytes": 24011,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-c19c8330ee13.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-c19c8330ee13.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/PublicPolicyandGovernance-770.html",
+      "sha256": "a5c53913994417f7707ca4c61188387f443167e368918ee7234ff17f113ab987",
+      "bytes": 45523,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-f1ff38dc8ed8.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-f1ff38dc8ed8.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/LaboratoryMedicineandPathology-1123.html",
+      "sha256": "64ca2b997693b159dc4fabd5973e94d537f6899d9994e0c014def44206941269",
+      "bytes": 36857,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4201a28b8fc2.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-4201a28b8fc2.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/BioethicsandHumanities-929.html",
+      "sha256": "9d3e6d92f5665adbbebd4e6330468231863bffbc9a2ae812fcd394d4d710320e",
+      "bytes": 21628,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-57cc2b4a9819.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-57cc2b4a9819.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ConstructionManagement-52.html",
+      "sha256": "a64efac45ed893000dde1bc1da4aeb0ede5113d16ead06134d9209a19e50a5ef",
+      "bytes": 39225,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-38dcadb7f03e.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-38dcadb7f03e.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/neurl.html",
+      "sha256": "ae7c0c9b9856f7782adce350675631d640ca87abfff196ddb5bb8887806b0283",
+      "bytes": 15277,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-abee3ceb0c22.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-abee3ceb0c22.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/neurs.html",
+      "sha256": "728375bf2709dd878e3e951800485a0b863ac597b527b6581e86b9760f2595c9",
+      "bytes": 16138,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-edf14f8a1bc5.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-edf14f8a1bc5.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Epidemiology-704.html",
+      "sha256": "d5a66852a8a19708cabb6b3ee4a1a70607e295be050e6232e738d7ce5261ff1a",
+      "bytes": 38819,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-9e2fa1fced7f.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-9e2fa1fced7f.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_pharmacy.html",
+      "sha256": "48d1f02e50d054abc2b92dcd0ee75d694529ac673ae156985d951f421a0625e8",
+      "bytes": 21512,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-ccd817b53828.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-ccd817b53828.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_law.html",
+      "sha256": "9db5e5d5e1b0c2298f2a00060b72a44a6d1ab0b5ad541294a1bef94c20d4c8be",
+      "bytes": 20455,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-f182110f38f0.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-f182110f38f0.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ComputerScienceandEngineering-406.html",
+      "sha256": "2f90dbd6430ca6cc00d31e2fb903658e6df512cc613907e7072afc590a834e21",
+      "bytes": 45046,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7a245c9554bb.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7a245c9554bb.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SchoolofPublicHealth-715.html",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "bytes": 102648,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-77440883af1a.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-77440883af1a.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/GeneralStudies-185.html",
+      "sha256": "6891773369f8aeac63362290c442667fd98a2b083e7df8920cf9dd2923fd7068",
+      "bytes": 36053,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d0497766f16f.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-d0497766f16f.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Endodontics-808.html",
+      "sha256": "a8224921dc9704c662adeac072b14405caa6df54d6c785edcd443394596cec40",
+      "bytes": 17760,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-945146b2c338.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-945146b2c338.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/EnvironmentalandOccupationalHealthSciences-702.html",
+      "sha256": "5c09587300cf3658c381697004d6b73bdfc6bc04ea188d94c9fa9049683d0fa9",
+      "bytes": 48491,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-f5d5a05d9ee2.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-f5d5a05d9ee2.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SchoolofLaw-852.html",
+      "sha256": "8b6709ae2979827a5ff26017104e8b998ae38937c9ef1afa921afd6601a0a8f4",
+      "bytes": 27583,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-7fe9184cf887.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-7fe9184cf887.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ophth.html",
+      "sha256": "71a05b95fbdd6ad8ed93e7bddfd99c4afc1fccdd2fee0340dfb4b8269897cd76",
+      "bytes": 16071,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b98eb8ee4958.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-b98eb8ee4958.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Education,Learning,andSociety-1059.html",
+      "sha256": "ab18347861259fdf5f3cff655760adcf5721f87d448c5534760e8b037ab8c11a",
+      "bytes": 19974,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4d8f850e51d3.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-4d8f850e51d3.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/OralHealthSciences-1084.html",
+      "sha256": "aa3ec8b57416678bb3dbbbc71c926ed5bc84593d3143f6022f5cbeaf5cdce3c2",
+      "bytes": 20230,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-b92c3e6846a8.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-b92c3e6846a8.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/DisabilityStudies-1111.html",
+      "sha256": "0aa7be97f90dcb9cfd7e3291e0f2ebfa01e0b721db59a2c0aaef7a0e53c5613a",
+      "bytes": 20504,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-29bf7e321f31.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-29bf7e321f31.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SchoolofPublicHealth-715.html",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "bytes": 102648,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d342f8be9e91.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-d342f8be9e91.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SchoolofPublicHealth-715.html",
+      "sha256": "3bf1df59e4e2ebb72698c72ef47dedfef03177fc1a733c110b251158d24a474b",
+      "bytes": 102648,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-d384c6506c2b.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Biology-112.html",
+      "sha256": "38617840faebe1f41da6fd6515b544a935c18e28410dbab65ce41668ded9c4b6",
+      "bytes": 38737,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-8cd9fb9ddaf4.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-8cd9fb9ddaf4.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/degree_programs.html",
+      "sha256": "1b629114e7669895bf975315db81adaf6dca42884e24556b0be96c1f67285ba6",
+      "bytes": 31315,
+      "raw_file": "scratch/full-catalog/us-b/washington/index.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/index.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Geography-188.html",
+      "sha256": "9acdbeb197991e95301b0667cfaf433e10a2e727c5219215363154beea5b0c5c",
+      "bytes": 43395,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e6016f9bd705.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-e6016f9bd705.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/AeronauticsandAstronautics-400.html",
+      "sha256": "a1b40c196c20b3d67bdd42461b1af51e3343d5438302c5476481da9d938bb750",
+      "bytes": 63106,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-609aec50a72c.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-609aec50a72c.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/radgy.html",
+      "sha256": "58c8323a1436cbc679f2e4b240178da2cf43a3756f7e6156ace323b0463cb253",
+      "bytes": 15751,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0162ab3f9966.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-0162ab3f9966.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/urol.html",
+      "sha256": "50f2e355bbf196fc1a8924148241aeb39964c35c2d3bc4453c9e1a4872ab7b53",
+      "bytes": 15564,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-305efcd011ee.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-305efcd011ee.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/school_public_policy_governance.html",
+      "sha256": "afd4d18380c4d944fe830ac8742ce737c8e6c3528517c3a615bcc4fdc254f646",
+      "bytes": 16380,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-f0610a8cf9b9.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-f0610a8cf9b9.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MiddleEasternLanguagesandCultures-123.html",
+      "sha256": "baae77bf64eca5e2925125c5d281c7818c06a8323847118628873ec29fe6d3cc",
+      "bytes": 47550,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-056f198f7bab.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-056f198f7bab.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Immunology-927.html",
+      "sha256": "c951603ab16d0766ff34c37648d0ca57c8f1b3f6ea2b02139dfefcf13c004315",
+      "bytes": 18972,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-9f1831437e85.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-9f1831437e85.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/LandscapeArchitecture-53.html",
+      "sha256": "d764c49ae4acb88f8f7f0bbd65e618dd091bbc2590e669af6b491d88c68b153d",
+      "bytes": 40805,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-1be70f9325df.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-1be70f9325df.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/honors.html",
+      "sha256": "5f94a5d89f3cb2f896c00429f100c11c463418d8db8ad404d549112703af65be",
+      "bytes": 18947,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-51cc7a0938e3.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-51cc7a0938e3.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/MolecularEngineeringandSciences-1095.html",
+      "sha256": "b4f3b32d16f8065cc3dc373c8ff8b69bc626c50e9982c969ac6d1f3b520440dc",
+      "bytes": 20506,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-41232969b594.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-41232969b594.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/FrenchandItalianStudies-1102.html",
+      "sha256": "1a23f53fb7498ad7bd918a0facddae1bf3c0147496a657129b7d6fb09144b418",
+      "bytes": 38341,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-42b83cb0b044.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-42b83cb0b044.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SchoolofOceanography-1077.html",
+      "sha256": "de2e3960a87792673486e45170a0a7ea55354fd4a121e9fed05315462c3308e2",
+      "bytes": 34836,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-91aa85076176.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-91aa85076176.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/IntegratedSocialSciences-125.html",
+      "sha256": "76d5f43ab262a5ed339f543fed68b44b7539cc8a96212696cd45f189bdd44f98",
+      "bytes": 24580,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bcc9d479686d.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-bcc9d479686d.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/RestorativeDentistry-835.html",
+      "sha256": "66ba8a65a63d02313dcd493957bc038a6eb3bf66a77df0d9a6e06714e6c89ebf",
+      "bytes": 18084,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-dc25157fcf16.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-dc25157fcf16.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/BiomedicalInformaticsandMedicalEducation-918.html",
+      "sha256": "c7448120a8a99492020b8183486517060baa7eaf87b090eab70ab7821b756d45",
+      "bytes": 24376,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3b559460ad65.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-3b559460ad65.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/EarthandSpaceSciences-1068.html",
+      "sha256": "390ebb2362bf572fdb00b9278ba1b55547cf4ebb9cf706666657c908a4b84400",
+      "bytes": 44748,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-3987bc7a2916.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-3987bc7a2916.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Nursing-552.html",
+      "sha256": "4d23af44a286c44fa7fa985958516f8670d7d0c2186aefc3dcfd41a781753a7d",
+      "bytes": 71186,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-0b34ee2c0ca7.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-0b34ee2c0ca7.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/SpeechandHearingSciences-296.html",
+      "sha256": "7172167c0a0671e34d155634585f0bb82de6f904579b875d275880c343c983ca",
+      "bytes": 49109,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4fb66200d567.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-4fb66200d567.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/obgyn.html",
+      "sha256": "fba1174fd8d534c009d285fc2d257f085bcc8083910060a8c35c88660de9c5cd",
+      "bytes": 14913,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bf91b86ce8cd.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-bf91b86ce8cd.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/DepartmentofMedicine-1122.html",
+      "sha256": "50feae64674545e2ab31963683202159fefff856b622d97301ee0fc22988603b",
+      "bytes": 16977,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-4e8eeee7c9a4.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-4e8eeee7c9a4.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ProgramonClimateChange-1079.html",
+      "sha256": "196488c0883c03a01e2207bef4bec65ebefba069fe28c158f85d28c649714286",
+      "bytes": 21929,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-99fb7b5bee9a.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-99fb7b5bee9a.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/ComputationalMolecularBiology-1065.html",
+      "sha256": "c01bb1aafe3180ad596af2ed42beabf04ab9a1bcc9033cda858ae0288636d7eb",
+      "bytes": 17016,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-d5d4d3c43be0.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-d5d4d3c43be0.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/CinemaandMediaStudies-132.html",
+      "sha256": "d1bb853d8904cae6e6d8b3b0d8901e24b677a3ff814b1eeed8a34cc348b2600b",
+      "bytes": 45179,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-e1843141755e.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-e1843141755e.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Astrobiology-1048.html",
+      "sha256": "6f80ff31589ca9f25971a90a46e1c046d810223bd6e0107f006ca9e38aac353d",
+      "bytes": 17722,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-c17df8b0c34b.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-c17df8b0c34b.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Pharmacology-926.html",
+      "sha256": "cad59f2172e6cb2118346fdb73f2a742f622c307391cc59574dce4106ade988a",
+      "bytes": 18221,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-821ad9af8234.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-821ad9af8234.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Philosophy-221.html",
+      "sha256": "4b7970c6d356ad63d74bc0bc27b516c1d9355b6aa6c6949f710b372356b40ba0",
+      "bytes": 47868,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-2fbdb60436bf.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-2fbdb60436bf.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/Neuroscience-1018.html",
+      "sha256": "6a9d7bdb86e524896419f60b80260b7fb23977cf36c6f6c00810caf107762287",
+      "bytes": 23277,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-1663c07d88d5.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-1663c07d88d5.source.json"
+    },
+    {
+      "url": "https://www.washington.edu/students/gencat/program/S/JacksonSchoolofInternationalStudies-190.html",
+      "sha256": "c79d75212b1be67be398f5300ff62d3fa03ea84a156982ae804e131782b3d93c",
+      "bytes": 125453,
+      "raw_file": "scratch/full-catalog/us-b/washington/detail-bdf6b10c15fd.html",
+      "meta_file": "scratch/full-catalog/us-b/washington/detail-bdf6b10c15fd.source.json"
+    }
+  ]
+}

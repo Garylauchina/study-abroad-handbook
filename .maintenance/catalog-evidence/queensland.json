@@ -1,0 +1,679 @@
+{
+  "original_manifest": {
+    "university_id": "queensland",
+    "status": "complete",
+    "count": 1891,
+    "official_total": null,
+    "discovery_source_url": "https://study.uq.edu.au/study-options/programs",
+    "source_period": "Current finder without explicit intake year",
+    "scope": "All six undergraduate program pages and all 86 undergraduate field-of-study pages; preserve distinct major-parent degree identities",
+    "pagination_evidence": {
+      "program_pages": 6,
+      "field_pages": 86,
+      "fetched_all_linked_pages": true,
+      "raw_cards": {
+        "program": 161,
+        "major": 2564
+      },
+      "selected_unique_field_names": 146,
+      "selected_degree_parent_count": 98,
+      "degree_parent_x_field_x_type_duplicates": 0
+    },
+    "filter_rules": [
+      "Program cards beginning Bachelor retained; diplomas excluded",
+      "Field cards with Major, Extended Major, Specialisation or Dual Major retained; Minor and other non-major labels excluded",
+      "Each unique official child URL retained, including same named major available within multiple different single/dual bachelor degrees"
+    ],
+    "gaps": [
+      "Finder period undated; no unsupported 2027 intake assertion",
+      "Record count includes degree-by-major combinations published individually, not number of unique subjects"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=4",
+      "sha256": "09a2626917f860c0a628067c0f5df32721d2b5f274539adf9ca2951f6ecf3e56",
+      "bytes": 176615,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-4.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-4.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=78",
+      "sha256": "ef1deeccdc849320e06b83fb7dbd350d33c278da168cde677ce9dd1027a5e570",
+      "bytes": 176378,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-78.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-78.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=16",
+      "sha256": "a7719e5e14e8d83649b100bc589dec8d584deef5ac404b19c9e4f64b0f595e33",
+      "bytes": 177311,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-16.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-16.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=84",
+      "sha256": "05236b19d6c6dd3d28200f85a434b6c4307655aefc66daf535d8aeb40da168ad",
+      "bytes": 175294,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-84.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-84.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=37",
+      "sha256": "da5a9c6d3ea139bd18b52c1bec3a2b0a26987298b7b78882be25163c0eafc127",
+      "bytes": 176483,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-37.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-37.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=23",
+      "sha256": "28f12fd8afbaba775fa0726ec72ea6bedcdda4ad8f199a615ef697f0b1995639",
+      "bytes": 176363,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-23.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-23.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=59",
+      "sha256": "de6b4a882a239ab13bb2a3545cd2e854e6f63a04dbc1b0a1b6a5893791057ec2",
+      "bytes": 175959,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-59.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-59.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=9",
+      "sha256": "002b27ba5f646799735321f8cea2992afd5dad9f3274f3a3b9e50f5aa042cd52",
+      "bytes": 178274,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-9.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-9.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=75",
+      "sha256": "08342500b492833d0a0c91c3bc4349404c2fe8a1cbb884f64bcf881ef8b8f4a3",
+      "bytes": 177642,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-75.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-75.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=61",
+      "sha256": "d254492e3f2c0974ac9cb735bdbafd8ddb556e9a9961cf836dead9a814298895",
+      "bytes": 177743,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-61.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-61.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?type=program&level%5BUndergraduate%5D=Undergraduate&page=2",
+      "sha256": "d0bbf20533a10bea0d62fd3d246773d1afe1a95c04c5aaa6cf86a6116ff8abe0",
+      "bytes": 184584,
+      "raw_file": "scratch/full-catalog/australia/queensland/programs-2.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/programs-2.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=40",
+      "sha256": "51e3eaced807d317b58afa516b8a6955a043dcaa6b7fe533395646ebffbf4557",
+      "bytes": 177665,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-40.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-40.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=54",
+      "sha256": "35e3e78fdb5052e2399db89d78c78a19fc48861e2560a792d6b38ccd4d6914de",
+      "bytes": 177320,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-54.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-54.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=31",
+      "sha256": "299e4d19fd52f533a4f7051f605a20770dedebaacfd80e9f1075c7c0b33c7f36",
+      "bytes": 177803,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-31.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-31.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=82",
+      "sha256": "50ed92c77b5986df52132fb1cf1e6e6fc60bcaa6e674b81b51ed65d237ec16c5",
+      "bytes": 177528,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-82.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-82.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major",
+      "sha256": "c4f2976412372eb7a463a3cf75e2e5fb2509424421776cbaf7ac96aae8d5650a",
+      "bytes": 177891,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=25",
+      "sha256": "9495af29ccaab512e40756723c204a00898e09efa1edb8cc59f1fd02fb19d7ef",
+      "bytes": 176374,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-25.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-25.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=2",
+      "sha256": "e992afb26ce79be2544d45e6c5edcc68b3c187d43ae5cc543f08302d493251ae",
+      "bytes": 176597,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-2.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-2.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=10",
+      "sha256": "33d912536ffcf9a74584cc919e6b674933a6506924eccd29b3bffd3d7a1c2510",
+      "bytes": 177139,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-10.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-10.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=46",
+      "sha256": "544811ada1ef40ce38f2d8303ea9e4e5d391800b9976cbad6f4ea2ce024943c2",
+      "bytes": 176401,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-46.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-46.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=52",
+      "sha256": "037c32ed120f869ede81128d0f1e50b8dd32d33ce7739af0482f966802e333c9",
+      "bytes": 177246,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-52.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-52.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=28",
+      "sha256": "33b414ba3a019fdb7c6a1eda16a77282cb24b39508a765047f42d579d81f0973",
+      "bytes": 177228,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-28.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-28.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=73",
+      "sha256": "26da3a85925470ac7eea4017fe4c10240e4d5079443391f158c295f0e00464a2",
+      "bytes": 176446,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-73.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-73.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?type=program&level%5BUndergraduate%5D=Undergraduate&page=4",
+      "sha256": "660b25e6ed39d7372e3e5bf35d276a7154e6ed0f3bb73ac91ff3755b840ed908",
+      "bytes": 183118,
+      "raw_file": "scratch/full-catalog/australia/queensland/programs-4.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/programs-4.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=67",
+      "sha256": "ccf4724861c27d40ff767412dfb7682b223266197003bea51609cd6a3e9d76e3",
+      "bytes": 175775,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-67.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-67.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=17",
+      "sha256": "d329e13a0214b4cbb394ae8c4d5c3b89f6c0e785fdc71e9b5b6277669ad7dfaf",
+      "bytes": 175697,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-17.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-17.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=5",
+      "sha256": "c516682f09fcf7d46f0c332dd76d18232613740f737e38ac22e41ec22aec61d0",
+      "bytes": 177340,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-5.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-5.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=79",
+      "sha256": "72bdfbc88cb1e525ace6814040035b53a8fbe783dbceb4e019c03f030307666f",
+      "bytes": 176821,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-79.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-79.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=22",
+      "sha256": "8a3e971549b4c7d625652f4e77341ff9535cf2dd86b21ed9747914e964079bf8",
+      "bytes": 176891,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-22.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-22.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=58",
+      "sha256": "4f1bd703bda535f5c5090fa87ef2e817c9db00a41c719476297db91cec098e9c",
+      "bytes": 178161,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-58.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-58.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=85",
+      "sha256": "d3000cebd034b7dbd7dc06c17a68000184a16cce62767c478aea2e749dbec024",
+      "bytes": 163957,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-85.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-85.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=36",
+      "sha256": "64c00f5ec9bc53831ff2c44a305bf7c6b61f5e06ea297cb31b55154ed37c97b4",
+      "bytes": 175819,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-36.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-36.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=60",
+      "sha256": "dab1b2225f9faec4369a6f1571f3d16750a19d7ce14852aad9426ced5f060a6d",
+      "bytes": 177868,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-60.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-60.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?type=program&level%5BUndergraduate%5D=Undergraduate&page=3",
+      "sha256": "61e7d5170a928347f7072889dd9aee05f5acca825144343a341c0f6e50ccb2b5",
+      "bytes": 184787,
+      "raw_file": "scratch/full-catalog/australia/queensland/programs-3.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/programs-3.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=8",
+      "sha256": "15bf411bda49b52191e90307e1ad55ec0b1bddc0743e9e501836fb315d3f20a4",
+      "bytes": 176715,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-8.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-8.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=74",
+      "sha256": "60653ec575146bc34bf91bc6801973e58a94f1c41b5e8c9508899242476f7273",
+      "bytes": 176929,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-74.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-74.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=55",
+      "sha256": "09e5172da9fd28324199191cc80ff829c90bba2862a8a7692133562bea4837fa",
+      "bytes": 177862,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-55.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-55.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=program",
+      "sha256": "142e42a59031cd92ea9705e0a335873b7de0f41d675baee3565158c093310257",
+      "bytes": 183684,
+      "raw_file": "scratch/full-catalog/australia/queensland/programs.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/programs.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=41",
+      "sha256": "19370b03cc87117d1de388004f0b7e697e2333b19d7459015f736fd7e107984e",
+      "bytes": 176487,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-41.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-41.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=24",
+      "sha256": "c8f059c936b39e10b8613f517566a3feadb14d5bd18e583f7b58bb2b5f46d253",
+      "bytes": 176497,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-24.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-24.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=30",
+      "sha256": "0986c0e31e13a03c10a6fa0fe429ea9b31048dc0b1c8c995898038e291d20354",
+      "bytes": 176700,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-30.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-30.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=83",
+      "sha256": "65a7fed1015722288ee53d7dd3abe011789f156e0a1f068c7ea76df2ea7dc3e0",
+      "bytes": 177925,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-83.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-83.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=11",
+      "sha256": "f232a815053f3d5e29a0bd9635383078fb0346afd0f228d9bb83455b8c143883",
+      "bytes": 177232,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-11.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-11.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=3",
+      "sha256": "b71ce4e97003e237d05f6ba1b69589fa720ac87c696ecb7b099a80d79e4d2f04",
+      "bytes": 177025,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-3.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-3.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=53",
+      "sha256": "fd91305548b550db82468825f17e4cc71e6d4759e1a69f58133a2cbec79cc1f9",
+      "bytes": 175821,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-53.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-53.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=29",
+      "sha256": "241f4a6c6c1e953c6524aab11bb8139df07f2bd498a8ad24be755d31fc746780",
+      "bytes": 178255,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-29.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-29.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=47",
+      "sha256": "23f6a1376b96d30e859fe0b8fe9521db9bbd259f2d57931cd289eab690b7a60d",
+      "bytes": 179216,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-47.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-47.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?type=program&level%5BUndergraduate%5D=Undergraduate&page=5",
+      "sha256": "2324af7d528636ae642d0384a3907e435b95cd010a50000944d8d63f26b74054",
+      "bytes": 164589,
+      "raw_file": "scratch/full-catalog/australia/queensland/programs-5.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/programs-5.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=66",
+      "sha256": "92f2dfddc08719e2be810d780f28e652ab80b57c70a34a919fd467a48715ad23",
+      "bytes": 177001,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-66.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-66.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=72",
+      "sha256": "4d45e62fc490d5010c511f0486d5c5f16d550e4faf8615f39f83ed9c8d1bcbfa",
+      "bytes": 175907,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-72.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-72.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=35",
+      "sha256": "6fdc36f1ef44ba7a295566a4478478f8e5698ea74ad1472a51dcbf357d383475",
+      "bytes": 177181,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-35.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-35.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=21",
+      "sha256": "4e3031890b049c6838a23406ba25e75502a21f8ade4a27d71434ee2d021c7e5d",
+      "bytes": 177472,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-21.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-21.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=6",
+      "sha256": "90fb8faf383b74d840323605f2f8a8008d39013c60562f31ad1d057184377ccc",
+      "bytes": 176897,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-6.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-6.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=14",
+      "sha256": "a44a4f39fa055030fd0ad4b04c5eb21365e9cb5f92bcffbbe26e97dadc3f72ea",
+      "bytes": 177971,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-14.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-14.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=42",
+      "sha256": "6319337fce5fa4f469544fa245f595afa2c9bdad25461d16ca6d3026bf690d45",
+      "bytes": 175688,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-42.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-42.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=38",
+      "sha256": "adc68a67b00926a4c02dc3aab203526b7fa02159afd7de397f7abad37af7b464",
+      "bytes": 176971,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-38.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-38.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=56",
+      "sha256": "257b5cea6a7ea1a389c46ce08c9146460e141ac0362557c54cf1badfd350a703",
+      "bytes": 176153,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-56.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-56.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=77",
+      "sha256": "00501c4fff35a2442f8a9bcf505fc0ccffd2e8f9b8b2107476376a16af3e46a1",
+      "bytes": 176653,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-77.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-77.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=63",
+      "sha256": "0ea789c8d1bf7c0a960d9df6851c0b46ed87d71c4862c0f9902c7efe9ee4e6a0",
+      "bytes": 176735,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-63.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-63.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=19",
+      "sha256": "4254c24d72f9e7bb0a5ee18abf96226e7e5d9343c0e3afc7adb03f218b003c9f",
+      "bytes": 179551,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-19.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-19.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=12",
+      "sha256": "707ebeb5a1291fe359a1b276e615442e304f08caa58a0a468dff1590157ed07f",
+      "bytes": 176626,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-12.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-12.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=68",
+      "sha256": "341de40ba7f9771e63784b85657f169e56cdd9440bdd9d532f046f9357ea1cc3",
+      "bytes": 175954,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-68.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-68.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=33",
+      "sha256": "d48661e3d2a5ac6a923fb8adce4bcb73b11ffeee25c415be32a52b6e86a7bded",
+      "bytes": 177300,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-33.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-33.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=49",
+      "sha256": "47a319b1f8d0c5f54a8c836c75f67f3c5208d3931039ff32b56a41d90a075363",
+      "bytes": 176064,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-49.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-49.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=80",
+      "sha256": "6279ec9c88fe5e97d5eca540eb556b21ae4751f6eca1715f1e6e8427734bc274",
+      "bytes": 175845,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-80.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-80.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=27",
+      "sha256": "2a783e44295f4254267c9714629629039de842552599f62eb450a45430a9d0ee",
+      "bytes": 177734,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-27.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-27.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=71",
+      "sha256": "05938e8d2427a9b8b07e67cdceae66d2dace4e975af5caf03d6c4eefa4df430a",
+      "bytes": 177923,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-71.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-71.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=65",
+      "sha256": "feceb1f0cce95033d864bb662ce72dfb7425513f439a0f361117c6b1211e496d",
+      "bytes": 177812,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-65.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-65.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=44",
+      "sha256": "0073e001184e90c7774865cbb336a106a6047fb62dffc3dddbe2d5407909b62b",
+      "bytes": 176494,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-44.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-44.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=50",
+      "sha256": "eb2d142b4e5a6b8d7ac08ed355e78354867f50d63daf4a2beec43e0b6f6687ad",
+      "bytes": 176230,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-50.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-50.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=20",
+      "sha256": "b4e1f8af1b84690b6db4dededaef6c4d22b791671d28729f5f828472e757e59b",
+      "bytes": 177878,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-20.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-20.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=34",
+      "sha256": "589908b4cb8eef66b713cb2c04a1e01ba69164ebba36474b34817bc70873f52a",
+      "bytes": 177272,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-34.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-34.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=15",
+      "sha256": "2851cb3fd9bee0ca687fabbb53de7d6cceb0bc528b3753f9011fb4df517b2c16",
+      "bytes": 177318,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-15.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-15.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=7",
+      "sha256": "eb5007c054a1ced70a95983efbecda57c2b192f7fc9e6f8549377b6de644b751",
+      "bytes": 176149,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-7.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-7.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=57",
+      "sha256": "3c56dc990f3efe64bc33e94f3f49fe3bb619559a1b42562b3418efd31c8d532e",
+      "bytes": 176922,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-57.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-57.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=43",
+      "sha256": "425437b6d3909ecaee684a6c269eee662c0edd0845c09aa732b236f9eddaee7c",
+      "bytes": 176803,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-43.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-43.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=39",
+      "sha256": "5ba174d3ab323a38cfd5c33d83fe1368467c879d909cd05c5fc54c9a7500ab35",
+      "bytes": 175762,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-39.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-39.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=62",
+      "sha256": "666d9ed8420d533786bbab1b5bb7714829d61e0b4b32b60b448cd7e3598b38da",
+      "bytes": 176533,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-62.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-62.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=18",
+      "sha256": "f53e0dd68e12b656cb0f7b6f793dfc89fd63cb991723b3ff097c4fb08186609c",
+      "bytes": 176260,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-18.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-18.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?type=program&level%5BUndergraduate%5D=Undergraduate&page=1",
+      "sha256": "2d4d36930aa9fe73b99734c14f1685e6e2b3982970f8a9515514b20236249eb4",
+      "bytes": 184552,
+      "raw_file": "scratch/full-catalog/australia/queensland/programs-1.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/programs-1.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=76",
+      "sha256": "c76459293939b15f6eb225bbdcb53f4f7a5e3d4a97796881aab1c275e6e8a681",
+      "bytes": 176445,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-76.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-76.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=13",
+      "sha256": "00624c7177db5564a9fc9aa2b659f56a23d16998e47d0a644b1bf8b01b876472",
+      "bytes": 178176,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-13.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-13.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=69",
+      "sha256": "9a2f37713b162ffc6b60c3a903f5dc0ee81904e277010f62a97666549e93b96d",
+      "bytes": 176313,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-69.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-69.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=1",
+      "sha256": "a6c948775379719b933fa494330898702981f30a7a4ad9da0d02b08c05a6793d",
+      "bytes": 176507,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-1.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-1.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=26",
+      "sha256": "a2f20046e1277aa3f66ebd1e50d9bc62f3cb981d41df04705a2313ea3543092f",
+      "bytes": 176029,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-26.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-26.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=32",
+      "sha256": "4d425640fa279cb859ce3d764cb2583a1773c89b81e08b503f0f82f06e7b5de2",
+      "bytes": 176810,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-32.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-32.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=48",
+      "sha256": "c0492c9e09d77fcf910b778bda9ffcb858074c3422c2b373c78acf45108aa8aa",
+      "bytes": 178132,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-48.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-48.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=81",
+      "sha256": "cffc810ee612881660476e99fb62a3ef851c3cd23dcd515ed24ae39ce876240c",
+      "bytes": 178516,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-81.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-81.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=64",
+      "sha256": "bb11a68ff165a9c59fa707a632f1541f8040c4062d005f13a3c164d7fefb1098",
+      "bytes": 176428,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-64.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-64.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=70",
+      "sha256": "d3fbda09883727fa6c014d87807d49a1abfae7d5155e5721eb87734719593519",
+      "bytes": 176664,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-70.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-70.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=51",
+      "sha256": "ae9ed65eda283246da335044873a3e1e7a49b22e58d01abde77ea78dcb3b4971",
+      "bytes": 176977,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-51.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-51.meta.json"
+    },
+    {
+      "url": "https://study.uq.edu.au/study-options/programs?level%5BUndergraduate%5D=Undergraduate&type=major&page=45",
+      "sha256": "bb77b46bfd3a1db989ff2420fc130005250cab16647e6955353e16cc3c844a85",
+      "bytes": 176737,
+      "raw_file": "scratch/full-catalog/australia/queensland/majors-45.html",
+      "meta_file": "scratch/full-catalog/australia/queensland/majors-45.meta.json"
+    }
+  ]
+}

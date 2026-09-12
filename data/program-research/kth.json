@@ -1,0 +1,2393 @@
+{
+  "university_id": "kth",
+  "programs": [
+    {
+      "university_id": "kth",
+      "raw_key": "TCOMK",
+      "name_en": "Bachelor's Programme in Information and Communication Technology",
+      "official_url": "https://www.kth.se/utbildning/kandidatutbildning/informations-och-kommunikationsteknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "以英语学习现代信息与通信技术，课程介绍强调国际环境及气候友好型技术应用。",
+            "source_ids": [
+              "kth-TCOMK"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Teknologie kandidat；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-TCOMK"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          },
+          {
+            "label": "授课语言",
+            "text": "英语授课。",
+            "source_ids": [
+              "kth-TCOMK"
+            ],
+            "evidence_location": "bachelorsDegreeDescription: Undervisningspråk"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本项目英语及中国数理",
+            "text": "英语例为IELTS总分6.5且单项不低于5.5；中国高中不满足本项目Mathematics 4/Physics 2，可提交大学相关课程审核。",
+            "source_ids": [
+              "kth-ict-entry"
+            ],
+            "evidence_location": "English proficiency; China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "本项目国际学费",
+            "text": "现列非EU/EEA/瑞士完整项目学费SEK 423,000，另申请费SEK 900；未单列2027费表，学校不提供本项目本科奖学金。",
+            "source_ids": [
+              "kth-ict-fees"
+            ],
+            "evidence_location": "Tuition fees; Scholarships"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TCOMK",
+          "title": "Bachelor's Programme in Information and Communication Technology",
+          "url": "https://www.kth.se/utbildning/kandidatutbildning/informations-och-kommunikationsteknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TCOMK",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-ict-entry",
+          "title": "KTH ICT entry requirements",
+          "url": "https://www.kth.se/en/studies/bachelor/entry-requirements-for-information-and-communication-technology-1.450313",
+          "checked_at": "2026-09-12",
+          "supports": "ICT英语、数理先修及中国高中补足路径",
+          "raw_sha256": "2e52470b05558d8bf21bf02c014a7a240295087ea11173c1f51cd032dc0cb16c",
+          "sha256": "2e52470b05558d8bf21bf02c014a7a240295087ea11173c1f51cd032dc0cb16c"
+        },
+        {
+          "id": "kth-ict-fees",
+          "title": "KTH Application and tuition fees for bachelors",
+          "url": "https://www.kth.se/en/studies/bachelor/information-communication-technology/fees-1.646274",
+          "checked_at": "2026-09-12",
+          "supports": "非EU/EEA/瑞士费用、ICT金额和本科奖学金范围",
+          "raw_sha256": "b46a202b14c1f89d231c48d95df6abb6c44e4271256b738c86f02b604160c14f",
+          "sha256": "b46a202b14c1f89d231c48d95df6abb6c44e4271256b738c86f02b604160c14f"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Campus",
+        "language": "英语",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-bachelor-s-programme-in-information-and-communication-technology-320234e5cf"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TFAFK",
+      "name_en": "Bachelor's Programme in Property Development and Agency",
+      "official_url": "https://www.kth.se/utbildning/kandidatutbildning/fastighetsutveckling-fastighetsformedling",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合房地产法律、经济、建筑技术、管理和地学，面向房地产中介、管理与开发。",
+            "source_ids": [
+              "kth-TFAFK"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Teknologie kandidat；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-TFAFK"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "房地产学士先修涉及Mathematics 3c及物理、化学，或以Natural Science 2替代物理化学组合；外国课程须认可同等。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TFAFK",
+          "title": "Bachelor's Programme in Property Development and Agency",
+          "url": "https://www.kth.se/utbildning/kandidatutbildning/fastighetsutveckling-fastighetsformedling",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TFAFK",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-bachelor-s-programme-in-property-development-and-agency-a4c2b2b274"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TFOFK",
+      "name_en": "Bachelor's Programme in Real Estate and Finance",
+      "official_url": "https://www.kth.se/utbildning/kandidatutbildning/fastighet-finans",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合经济、法律和管理，关注金融部门在房地产及可持续城市建设中的作用。",
+            "source_ids": [
+              "kth-TFOFK"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Teknologie kandidat；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-TFOFK"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "房地产学士先修涉及Mathematics 3c及物理、化学，或以Natural Science 2替代物理化学组合；外国课程须认可同等。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TFOFK",
+          "title": "Bachelor's Programme in Real Estate and Finance",
+          "url": "https://www.kth.se/utbildning/kandidatutbildning/fastighet-finans",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TFOFK",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-bachelor-s-programme-in-real-estate-and-finance-be724a7a84"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "ARKIT",
+      "name_en": "Degree Programme in Architecture",
+      "official_url": "https://www.kth.se/utbildning/arkitekt/arkitektutbildning",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合艺术、结构和技术能力设计室内、建筑、城市与景观；以项目学习建筑理论、历史和技术。",
+            "source_ids": [
+              "kth-ARKIT"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Arkitekt；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-ARKIT"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "建筑先修涉及Mathematics 3b/3c、Natural Science 2（或物理加化学组合）和Social Studies 1b等瑞典课程或认可同等。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-ARKIT",
+          "title": "Degree Programme in Architecture",
+          "url": "https://www.kth.se/utbildning/arkitekt/arkitektutbildning",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=ARKIT",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-degree-programme-in-architecture-4733f021af"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CBIOT",
+      "name_en": "Degree Programme in Biotechnology",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/bioteknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合生命科学、化学与工程，研究医学、食品及燃料供应中的可持续技术解决方案。",
+            "source_ids": [
+              "kth-CBIOT"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CBIOT"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CBIOT",
+          "title": "Degree Programme in Biotechnology",
+          "url": "https://www.kth.se/utbildning/civilingenjor/bioteknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CBIOT",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-biotechnology-9316f8cb1d"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TIKED",
+      "name_en": "Degree Programme in Chemical Engineering",
+      "official_url": "https://www.kth.se/utbildning/hogskoleingenjor/kemiteknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合化学、化学工程与环境保护，面向药品、食品、水、环境和能源领域。",
+            "source_ids": [
+              "kth-TIKED"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Högskoleingenjör；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-TIKED"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 3c、Chemistry 1或认可同等；外国资格的对应程度需审核。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TIKED",
+          "title": "Degree Programme in Chemical Engineering",
+          "url": "https://www.kth.se/utbildning/hogskoleingenjor/kemiteknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TIKED",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-chemical-engineering-1a6f16da22"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CSAMH",
+      "name_en": "Degree Programme in Civil Engineering and Urban Management",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/samhallsbyggnad",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "学习规划、建设、发展和管理可持续社会，课程允许形成不同个性化方向。",
+            "source_ids": [
+              "kth-CSAMH"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-CSAMH"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CSAMH",
+          "title": "Degree Programme in Civil Engineering and Urban Management",
+          "url": "https://www.kth.se/utbildning/civilingenjor/samhallsbyggnad",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CSAMH",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-degree-programme-in-civil-engineering-and-urban-management-e54df243b2"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TIDAB",
+      "name_en": "Degree Programme in Computer Engineering",
+      "official_url": "https://www.kth.se/utbildning/hogskoleingenjor/datateknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "学习云服务、互联产品和软件开发，面向数字化技术应用。",
+            "source_ids": [
+              "kth-TIDAB"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Högskoleingenjör；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-TIDAB"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 3c、Chemistry 1或认可同等；外国资格的对应程度需审核。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TIDAB",
+          "title": "Degree Programme in Computer Engineering",
+          "url": "https://www.kth.se/utbildning/hogskoleingenjor/datateknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TIDAB",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-degree-programme-in-computer-engineering-ca604c5955"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TIDSD",
+      "name_en": "Degree Programme in Computer Engineering – Systems Development and Digital Infrastructure",
+      "official_url": "https://www.kth.se/utbildning/hogskoleingenjor/datateknik-systemutveckling-digital-infrastruktur",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "学习应用、系统和网络开发，可向全栈、后端或网络方向深化，并通过项目积累实践。",
+            "source_ids": [
+              "kth-TIDSD"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Högskoleingenjör；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Flemingsberg；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-TIDSD"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 3c、Chemistry 1或认可同等；外国资格的对应程度需审核。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TIDSD",
+          "title": "Degree Programme in Computer Engineering – Systems Development and Digital Infrastructure",
+          "url": "https://www.kth.se/utbildning/hogskoleingenjor/datateknik-systemutveckling-digital-infrastruktur",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TIDSD",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Flemingsberg",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-computer-engineering-systems-development-and-ac74451b00"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CDATE",
+      "name_en": "Degree Programme in Computer Science and Engineering",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/datateknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "建立计算机科学和软件构建基础，用于不同社会领域的数字化开发与管理。",
+            "source_ids": [
+              "kth-CDATE"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-CDATE"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CDATE",
+          "title": "Degree Programme in Computer Science and Engineering",
+          "url": "https://www.kth.se/utbildning/civilingenjor/datateknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CDATE",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-degree-programme-in-computer-science-and-engineering-898e9cfb31"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TIBYH",
+      "name_en": "Degree Programme in Constructional Engineering and Design",
+      "official_url": "https://www.kth.se/utbildning/hogskoleingenjor/byggteknik-design",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "建立建筑行业的广泛基础，学习建筑设计、建筑与土木工程及建设经济。",
+            "source_ids": [
+              "kth-TIBYH"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Högskoleingenjör；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-TIBYH"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 3c、Chemistry 1或认可同等；外国资格的对应程度需审核。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TIBYH",
+          "title": "Degree Programme in Constructional Engineering and Design",
+          "url": "https://www.kth.se/utbildning/hogskoleingenjor/byggteknik-design",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TIBYH",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-constructional-engineering-and-design-4331853089"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CDEPR",
+      "name_en": "Degree Programme in Design and Product Realisation",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/design-produktframtagning",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合工业设计和工程，学习从消费品到车辆的完整产品开发过程。",
+            "source_ids": [
+              "kth-CDEPR"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CDEPR"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CDEPR",
+          "title": "Degree Programme in Design and Product Realisation",
+          "url": "https://www.kth.se/utbildning/civilingenjor/design-produktframtagning",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CDEPR",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-design-and-product-realisation-e0d018cd53"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CELTE",
+      "name_en": "Degree Programme in Electrical Engineering",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/elektroteknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "研究电气工程及其在数据驱动、电气化社会中的应用，具体课程组成见官方学科分布。",
+            "source_ids": [
+              "kth-CELTE"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-CELTE"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CELTE",
+          "title": "Degree Programme in Electrical Engineering",
+          "url": "https://www.kth.se/utbildning/civilingenjor/elektroteknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CELTE",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-degree-programme-in-electrical-engineering-721c24f022"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TIELA",
+      "name_en": "Degree Programme in Electrical Engineering",
+      "official_url": "https://www.kth.se/utbildning/hogskoleingenjor/elektroteknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "以电与磁为基础学习现代电子技术，最后一年可选电力或嵌入式系统与计算机网络。",
+            "source_ids": [
+              "kth-TIELA"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Högskoleingenjör；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Flemingsberg；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-TIELA"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 3c、Chemistry 1或认可同等；外国资格的对应程度需审核。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TIELA",
+          "title": "Degree Programme in Electrical Engineering",
+          "url": "https://www.kth.se/utbildning/hogskoleingenjor/elektroteknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TIELA",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Flemingsberg",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-degree-programme-in-electrical-engineering-34d5ccc518"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CENMI",
+      "name_en": "Degree Programme in Energy and Environment",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/energimiljo",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "将环境与工程结合，运用技术解决可持续发展问题，可形成技术专长或跨学科路径。",
+            "source_ids": [
+              "kth-CENMI"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CENMI"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CENMI",
+          "title": "Degree Programme in Energy and Environment",
+          "url": "https://www.kth.se/utbildning/civilingenjor/energimiljo",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CENMI",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-energy-and-environment-cefc9bdaff"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TITEH",
+      "name_en": "Degree Programme in Engineering and Economics",
+      "official_url": "https://www.kth.se/utbildning/hogskoleingenjor/teknik-ekonomi",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "春季开放入口，先学一学期企业经济，再选择计算机、电气、化学或医疗技术等工程方向。",
+            "source_ids": [
+              "kth-TITEH"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Högskoleingenjör；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Flemingsberg；目录年度：VT27/HT27。",
+            "source_ids": [
+              "kth-TITEH"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 3c、Chemistry 1或认可同等；外国资格的对应程度需审核。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TITEH",
+          "title": "Degree Programme in Engineering and Economics",
+          "url": "https://www.kth.se/utbildning/hogskoleingenjor/teknik-ekonomi",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TITEH",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Flemingsberg",
+        "intake": "VT27/HT27"
+      },
+      "inventory_id": "kth-degree-programme-in-engineering-and-economics-34ea5df123"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CTKEM",
+      "name_en": "Degree Programme in Engineering Chemistry",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/teknisk-kemi",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合化学与大规模工业技术，处理材料、药品、环境和能源等工程问题。",
+            "source_ids": [
+              "kth-CTKEM"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CTKEM"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CTKEM",
+          "title": "Degree Programme in Engineering Chemistry",
+          "url": "https://www.kth.se/utbildning/civilingenjor/teknisk-kemi",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CTKEM",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-engineering-chemistry-3597c9708e"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CTMAT",
+      "name_en": "Degree Programme in Engineering Mathematics",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/teknisk-matematik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "建立数学和编程基础，将其用于人工智能等不同技术领域。",
+            "source_ids": [
+              "kth-CTMAT"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CTMAT"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CTMAT",
+          "title": "Degree Programme in Engineering Mathematics",
+          "url": "https://www.kth.se/utbildning/civilingenjor/teknisk-matematik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CTMAT",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-engineering-mathematics-5950838a3d"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CTFYS",
+      "name_en": "Degree Programme in Engineering Physics",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/teknisk-fysik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "建立广泛自然科学和工程基础，并提供多个后续专业化方向。",
+            "source_ids": [
+              "kth-CTFYS"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CTFYS"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CTFYS",
+          "title": "Degree Programme in Engineering Physics",
+          "url": "https://www.kth.se/utbildning/civilingenjor/teknisk-fysik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CTFYS",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-engineering-physics-7cd17715d5"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TINTE",
+      "name_en": "Degree Programme in Industrial Engineering",
+      "official_url": "https://www.kth.se/utbildning/hogskoleingenjor/industriell-teknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "与企业合作学习数字化和可持续工业生产，设置可持续生产与工业系统可靠性两个选修重点。",
+            "source_ids": [
+              "kth-TINTE"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Högskoleingenjör；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Campus, viss andel företagsbaserad undervisning；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-TINTE"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 3c、Chemistry 1或认可同等；外国资格的对应程度需审核。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TINTE",
+          "title": "Degree Programme in Industrial Engineering",
+          "url": "https://www.kth.se/utbildning/hogskoleingenjor/industriell-teknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TINTE",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Campus, viss andel företagsbaserad undervisning",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-industrial-engineering-e8bfda8489"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CINEK",
+      "name_en": "Degree Programme in Industrial Engineering and Management",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/industriell-ekonomi",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合工程和经济，研究技术商业化与可持续创新；可选计算机、能源、产品生产或应用数学方向。",
+            "source_ids": [
+              "kth-CINEK"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CINEK"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CINEK",
+          "title": "Degree Programme in Industrial Engineering and Management",
+          "url": "https://www.kth.se/utbildning/civilingenjor/industriell-ekonomi",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CINEK",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-industrial-engineering-and-management-c894e3e703"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CITEH",
+      "name_en": "Degree Programme in Industrial Technology and Sustainability",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/industriell-teknik-hallbarhet",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合技术、自然科学、生产、物流和维护，研究工业制造中的可持续生产。",
+            "source_ids": [
+              "kth-CITEH"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CITEH"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CITEH",
+          "title": "Degree Programme in Industrial Technology and Sustainability",
+          "url": "https://www.kth.se/utbildning/civilingenjor/industriell-teknik-hallbarhet",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CITEH",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-industrial-technology-and-sustainability-6a84dd645d"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CINTE",
+      "name_en": "Degree Programme in Information and Communication Technology",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/informationsteknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "学习电子、计算机、网络与软件，技术可用于游戏、金融、车辆、传统IT和公共部门。",
+            "source_ids": [
+              "kth-CINTE"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-CINTE"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CINTE",
+          "title": "Degree Programme in Information and Communication Technology",
+          "url": "https://www.kth.se/utbildning/civilingenjor/informationsteknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CINTE",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-degree-programme-in-information-and-communication-technology-87a42c425b"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CMATD",
+      "name_en": "Degree Programme in Materials Design and Engineering",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/materialdesign",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合材料相关知识，研究面向可持续生产与消费的新材料及既有材料改进。",
+            "source_ids": [
+              "kth-CMATD"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CMATD"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CMATD",
+          "title": "Degree Programme in Materials Design and Engineering",
+          "url": "https://www.kth.se/utbildning/civilingenjor/materialdesign",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CMATD",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-materials-design-and-engineering-9b354a5657"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CMAST",
+      "name_en": "Degree Programme in Mechanical Engineering",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/maskinteknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "学习可持续且数字化的产品和系统开发，结合工业4.0相关机械工程技术，并提供语言方向选择。",
+            "source_ids": [
+              "kth-CMAST"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CMAST"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CMAST",
+          "title": "Degree Programme in Mechanical Engineering",
+          "url": "https://www.kth.se/utbildning/civilingenjor/maskinteknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CMAST",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-mechanical-engineering-cb356ea27b"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CMETE",
+      "name_en": "Degree Programme in Media Technology",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/medieteknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "将数学、编程、戏剧叙事、可视化和声音技术结合，研究未来媒体的开发与运营。",
+            "source_ids": [
+              "kth-CMETE"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-CMETE"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CMETE",
+          "title": "Degree Programme in Media Technology",
+          "url": "https://www.kth.se/utbildning/civilingenjor/medieteknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CMETE",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-degree-programme-in-media-technology-fb2779d14e"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CMEDT",
+      "name_en": "Degree Programme in Medical Engineering",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/medicinsk-teknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合计算机、电气、物理、医学和健康，开发与人体互动的医疗及运动相关技术。",
+            "source_ids": [
+              "kth-CMEDT"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus, KTH Flemingsberg；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CMEDT"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CMEDT",
+          "title": "Degree Programme in Medical Engineering",
+          "url": "https://www.kth.se/utbildning/civilingenjor/medicinsk-teknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CMEDT",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus, KTH Flemingsberg",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-medical-engineering-2b18089e4c"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "TIMEL",
+      "name_en": "Degree Programme in Medical Technology",
+      "official_url": "https://www.kth.se/utbildning/hogskoleingenjor/medicinsk-teknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "与Karolinska Institutet合作，将计算机、电气技术与解剖、生理知识相结合，连接工业与医疗服务。",
+            "source_ids": [
+              "kth-TIMEL"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Högskoleingenjör；标准学制：3 år heltid, 180 högskolepoäng；校区：KTH Flemingsberg；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-TIMEL"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 3c、Chemistry 1或认可同等；外国资格的对应程度需审核。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-TIMEL",
+          "title": "Degree Programme in Medical Technology",
+          "url": "https://www.kth.se/utbildning/hogskoleingenjor/medicinsk-teknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=TIMEL",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "3 år heltid, 180 högskolepoäng",
+        "campus": "KTH Flemingsberg",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-medical-technology-adde381172"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CFATE",
+      "name_en": "Degree Programme in Vehicle Engineering",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/farkostteknik",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "建立自然科学和工程基础，研究满足未来可持续交通需求的运载工具和系统。",
+            "source_ids": [
+              "kth-CFATE"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, kandidat, master；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT27/VT28。",
+            "source_ids": [
+              "kth-CFATE"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CFATE",
+          "title": "Degree Programme in Vehicle Engineering",
+          "url": "https://www.kth.se/utbildning/civilingenjor/farkostteknik",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CFATE",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT27/VT28"
+      },
+      "inventory_id": "kth-degree-programme-in-vehicle-engineering-f91d4edccf"
+    },
+    {
+      "university_id": "kth",
+      "raw_key": "CLGYM",
+      "name_en": "Master of Science in Engineering and in Education",
+      "official_url": "https://www.kth.se/utbildning/civilingenjor/civing-larare",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "kth",
+      "sections": {
+        "overview": [
+          {
+            "label": "学习内容与路径",
+            "text": "结合工程和高中教师培养，在数学之外选择物理、化学或技术相关方向；保留其双重培养身份。",
+            "source_ids": [
+              "kth-CLGYM"
+            ],
+            "evidence_location": "programDescription; bachelorsDegreeDescription"
+          },
+          {
+            "label": "学位、学制与地点",
+            "text": "学位/培养类别：Civilingenjör, ämneslärare；标准学制：5 år heltid, 300 högskolepoäng；校区：KTH Campus；目录年度：HT26/VT27。",
+            "source_ids": [
+              "kth-CLGYM"
+            ],
+            "evidence_location": "koppsProgram; levelTitle; campus"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "学位类别先修",
+            "text": "该工程学位类别现行先修为瑞典Physics 2、Mathematics 4、Chemistry 1或认可同等；外国课程须审核对应程度，不能直接把高考科目名称等同。",
+            "source_ids": [
+              "kth-school-entry"
+            ],
+            "evidence_location": "Särskild behörighet till KTH:s utbildningsprogram"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "kth-CLGYM",
+          "title": "Master of Science in Engineering and in Education",
+          "url": "https://www.kth.se/utbildning/civilingenjor/civing-larare",
+          "checked_at": "2026-09-12",
+          "supports": "官方完整目录内的专业简介、学科分布与学位结构",
+          "location": "index.html embedded programme data: programCode=CLGYM",
+          "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+          "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+        },
+        {
+          "id": "kth-school-entry",
+          "title": "KTH Grundläggande och särskild behörighet",
+          "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+          "checked_at": "2026-09-12",
+          "supports": "按学位类别的先修要求与语言范围",
+          "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+          "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+        }
+      ],
+      "gaps": [
+        "本专业就业率、薪资及调查样本本轮未核实。",
+        "除已列项目事实外，2027独有入学材料、费用及时间仍需复核。",
+        "本轮未取得本专业完整授课语言字段及准确国际学费；不可只根据网页语言判断。"
+      ],
+      "display_fields": {
+        "duration": "5 år heltid, 300 högskolepoäng",
+        "campus": "KTH Campus",
+        "intake": "HT26/VT27"
+      },
+      "inventory_id": "kth-master-of-science-in-engineering-and-in-education-5a632a9d21"
+    }
+  ],
+  "profile": {
+    "university_id": "kth",
+    "checked_at": "2026-09-12",
+    "scope": "同校共用：大陆学历、非欧盟/欧洲经济区/瑞士申请者。区分英语ICT与瑞语/综合工程培养及首轮、次轮申请。",
+    "sections": {
+      "overview": [],
+      "admissions": [
+        {
+          "label": "大陆学历的一般资格",
+          "text": "中国高中、中专和职高可满足一般中等教育资格；提交毕业证、三年成绩和/或会考、身份文件。仅满足general entry仍须符合本专业先修；大学成绩不能替代高中学历材料。",
+          "source_ids": [
+            "kth-sweden-china"
+          ],
+          "evidence_location": "Meeting general entry requirements; What about university records"
+        },
+        {
+          "label": "语言与翻译",
+          "text": "中国高中英语学习本身不满足英语要求；需认可考试或符合规定的大学学习经历。纯中文材料需正式英语或瑞典语译文。纯英语项目免瑞典语，其他语言要求按项目核查。",
+          "source_ids": [
+            "kth-sweden-china",
+            "kth-school-entry"
+          ],
+          "evidence_location": "English requirement; Translation; Grundläggande behörighet"
+        },
+        {
+          "label": "中国ICT数理条件",
+          "text": "英语ICT要求相当于Mathematics 4和Physics 2；官方China条目明确中国高中教育不满足这两个层级，可由大学数学和物理课程补足并经审核。该条不能改写为高考数理及格即可。",
+          "source_ids": [
+            "kth-ict-entry"
+          ],
+          "evidence_location": "Country-specific requirements > China"
+        },
+        {
+          "label": "竞争选拔",
+          "text": "具备一般及专业资格不保证录取；名额不足时学校通过成绩、考试或项目特别方式进行选拔。",
+          "source_ids": [
+            "kth-school-selection"
+          ],
+          "evidence_location": "Antagning och urval"
+        }
+      ],
+      "applications": [
+        {
+          "label": "申请渠道和志愿顺序",
+          "text": "通过Antagning.se或相应UniversityAdmissions入口申请并排列专业顺序，按要求上传资格材料；最终可申请项目取决于具体轮次。",
+          "source_ids": [
+            "kth-school-application"
+          ],
+          "evidence_location": "Så söker du > Anmälan"
+        },
+        {
+          "label": "2027秋季国际首轮",
+          "text": "2026年10月16日开放；2027年1月15日申请及排序截止，2月1日补件/申请费/费用豁免证明截止；本科结果4月8日公布。只适用于该轮实际开放的项目。",
+          "source_ids": [
+            "kth-sweden-dates2027"
+          ],
+          "evidence_location": "First admissions round table"
+        },
+        {
+          "label": "2027秋季次轮与瑞语项目",
+          "text": "次轮3月15日开放、4月15日申请截止、6月21日通常补件截止、7月9日结果；瑞语项目均在该轮可选。官方提示需办理居留的非EU/EEA申请者通常来不及办妥，不应把次轮作为稳妥国际入学计划。",
+          "source_ids": [
+            "kth-sweden-dates2027"
+          ],
+          "evidence_location": "Second admissions round table and warning"
+        }
+      ],
+      "fees": [
+        {
+          "label": "中国新生与项目费用",
+          "text": "非EU/EEA/瑞士公民一般缴申请费及学费，具体居留身份可有例外。ICT页面现列完整项目SEK 423,000、申请费SEK 900；该页未单列2027收费承诺，不能用ICT金额代表其他工程或建筑项目。",
+          "source_ids": [
+            "kth-ict-fees"
+          ],
+          "evidence_location": "Who is required; Tuition fees; Application fee"
+        },
+        {
+          "label": "资助与年度缺口",
+          "text": "ICT官方页明确学校不提供本科奖学金；费用按学期预付。其他项目准确2026/27及2027国际费率本轮未逐项核实。申请费日期应使用中央2027日历，不能沿用旧费用页的“1月底”。",
+          "source_ids": [
+            "kth-ict-fees",
+            "kth-sweden-dates2027"
+          ],
+          "evidence_location": "Scholarships; How to pay; First round fee deadline"
+        }
+      ],
+      "outcomes": [
+        {
+          "label": "职业方向边界",
+          "text": "目录介绍技术应用与职业方向，本轮未核实具有明确本科届次和样本的专业就业率/薪资；五年综合工程项目不能拿三年本科调查直接比较。",
+          "source_ids": [
+            "kth-policy-catalogue"
+          ],
+          "evidence_location": "Official degree catalogue; no graduate outcome figures asserted"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "kth-sweden-china",
+        "title": "University Admissions: China (Mainland), bachelors",
+        "url": "https://www.universityadmissions.se/en/apply-to-bachelors/provide-application-documents-bachelors/country-instructions/china-mainland/",
+        "checked_at": "2026-09-12",
+        "supports": "中国资格、材料、英语与翻译",
+        "raw_sha256": "cb02c3553be9a76848e98925241bf1a7f5d7bbe5640db9b3d08906808bce7bc7",
+        "sha256": "cb02c3553be9a76848e98925241bf1a7f5d7bbe5640db9b3d08906808bce7bc7"
+      },
+      {
+        "id": "kth-sweden-dates2027",
+        "title": "University Admissions: Autumn 2027 dates",
+        "url": "https://www.universityadmissions.se/en/key-dates-and-deadlines/autumn-semester-dates/",
+        "checked_at": "2026-09-12",
+        "supports": "首轮及次轮2027日期",
+        "raw_sha256": "746089c10cc3ae5e1ecd84eda582719d6338bedaefe949eceba6d53268b5c1e9",
+        "sha256": "746089c10cc3ae5e1ecd84eda582719d6338bedaefe949eceba6d53268b5c1e9"
+      },
+      {
+        "id": "kth-school-entry",
+        "title": "KTH Grundläggande och särskild behörighet",
+        "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/behorighet",
+        "checked_at": "2026-09-12",
+        "supports": "按学位类别的先修要求与语言范围",
+        "raw_sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a",
+        "sha256": "bea1e66312ca7dae914fd416db2e4b02877c68e761dbe3618e0c408cbdf35b1a"
+      },
+      {
+        "id": "kth-school-application",
+        "title": "KTH Så söker du till KTH",
+        "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet",
+        "checked_at": "2026-09-12",
+        "supports": "申请渠道与排序",
+        "raw_sha256": "ea966618c691f32c0a466651ebe1ba4fbe468510241aeb51f38f840ac9ff2ea2",
+        "sha256": "ea966618c691f32c0a466651ebe1ba4fbe468510241aeb51f38f840ac9ff2ea2"
+      },
+      {
+        "id": "kth-school-selection",
+        "title": "KTH Antagning och urval",
+        "url": "https://www.kth.se/utbildning/anmalan-antagning-behorighet/antagning",
+        "checked_at": "2026-09-12",
+        "supports": "达到资格仍可能选拔",
+        "raw_sha256": "99ebdd8006b3c6d649b98450dc24c379c3bb66cc98cdd455d7d5340520600089",
+        "sha256": "99ebdd8006b3c6d649b98450dc24c379c3bb66cc98cdd455d7d5340520600089"
+      },
+      {
+        "id": "kth-ict-entry",
+        "title": "KTH ICT entry requirements",
+        "url": "https://www.kth.se/en/studies/bachelor/entry-requirements-for-information-and-communication-technology-1.450313",
+        "checked_at": "2026-09-12",
+        "supports": "ICT英语、数理先修及中国高中补足路径",
+        "raw_sha256": "2e52470b05558d8bf21bf02c014a7a240295087ea11173c1f51cd032dc0cb16c",
+        "sha256": "2e52470b05558d8bf21bf02c014a7a240295087ea11173c1f51cd032dc0cb16c"
+      },
+      {
+        "id": "kth-ict-fees",
+        "title": "KTH Application and tuition fees for bachelors",
+        "url": "https://www.kth.se/en/studies/bachelor/information-communication-technology/fees-1.646274",
+        "checked_at": "2026-09-12",
+        "supports": "非EU/EEA/瑞士费用、ICT金额和本科奖学金范围",
+        "raw_sha256": "b46a202b14c1f89d231c48d95df6abb6c44e4271256b738c86f02b604160c14f",
+        "sha256": "b46a202b14c1f89d231c48d95df6abb6c44e4271256b738c86f02b604160c14f"
+      },
+      {
+        "id": "kth-policy-catalogue",
+        "title": "Official undergraduate catalogue",
+        "url": "https://www.kth.se/utbildning/hitta",
+        "checked_at": "2026-09-12",
+        "supports": "课程范围、学位及培养描述；没有就业调查口径",
+        "raw_sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+        "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475"
+      }
+    ]
+  }
+}

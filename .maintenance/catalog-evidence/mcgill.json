@@ -1,0 +1,2933 @@
+{
+  "original_manifest": {
+    "university_id": "mcgill",
+    "checked_at": "2026-09-12",
+    "count": 392,
+    "status": "partial",
+    "scope": "2026–2027本科及专业学位校历中可识别学位名称的正式专业、主修、荣誉、联合荣誉组件与专项方向。",
+    "method": "完整A–Z共1396节点；读取167个本科院系programs节点并合并校历导航的605个含本科/专业学位标签条目，按URL去重后排除辅修、基础年及聚合入口。",
+    "sources": [
+      {
+        "url": "https://coursecatalogue.mcgill.ca/azindex/",
+        "sha256": "618b170615a2556f731ce482421a77bf0a79f7e77385328ce3941cef720feb0a",
+        "raw_file": "mcgill-az.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/anatomy-cell-biology/",
+        "sha256": "0ba0cb00719f05ff39f970ce8ec75006e505e4a09c6084a027912e84c7e1a5e0",
+        "raw_file": "mcgill-dept-000.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/anthropology/",
+        "sha256": "6aaffa565094518db5dce08c8f65ef832e71fedcf8068c79c8c09530944e7fff",
+        "raw_file": "mcgill-dept-001.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/anthropology/",
+        "sha256": "208f2840567e5cd470893c04bad2a78f9c882072e424f8b484319a126a64ca8d",
+        "raw_file": "mcgill-dept-002.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/",
+        "sha256": "c41389fd02f5aa41fc80a9bd8e3bc21b4dc21866fae0847306196b39f3f13082",
+        "raw_file": "mcgill-dept-003.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/art-history-communication-studies/",
+        "sha256": "6feb3d3a7b3c5dd424988c475cb9601790b2de7a219e7f71059f7da51f908277",
+        "raw_file": "mcgill-dept-004.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/art-history-communication-studies/",
+        "sha256": "eb9edf8e56df460b43638d573429b4ea29080cd4aef305e0d1d8027f7415e1a6",
+        "raw_file": "mcgill-dept-005.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/atmospheric-oceanic-sciences/",
+        "sha256": "565bbe96f225434617bf8008dd9dfedb0cfc0638752d597af27f1d5a3c4b7f9c",
+        "raw_file": "mcgill-dept-006.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/",
+        "sha256": "c7ca56465b18d28918af6117f240a472a3846ec1a61322ae7b7fca28fcabf46c",
+        "raw_file": "mcgill-dept-007.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/bachelor-arts-science-interfaculty-programs/",
+        "sha256": "a4c8dd1ecbcb9d388364cd93c3f51f0f8946d945c6ac9acc826cd7aae5b373f7",
+        "raw_file": "mcgill-dept-008.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/ba-faculty-program-environment/",
+        "sha256": "0e1b7e5f9a1417484bd42b2b69450c949342856addf76b2f03fd3ea43d2a9185",
+        "raw_file": "mcgill-dept-009.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/credit-structure-general-management-program-concentrations/",
+        "sha256": "dacda3c342c9cdcce4636a5eab64fb5a975d6b55f788489564a10f804eb3f6fd",
+        "raw_file": "mcgill-dept-010.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/credit-structure-major-honours/",
+        "sha256": "237403c412088fdaa123cd20506fec14ba9dd6c916b865504befe13de27a4996",
+        "raw_file": "mcgill-dept-011.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/",
+        "sha256": "28c08e64ae91f7f1324b6b7db574ccb9aa70eb0282b64e7adacab98fe27102b5",
+        "raw_file": "mcgill-dept-012.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/",
+        "sha256": "9c6ab02c5733f1bcf61ecff00673c9a28b623fd271c8ee5429c6d7eef6ccaff7",
+        "raw_file": "mcgill-dept-013.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/bioengineering/",
+        "sha256": "531a99cde9cb2b6e4bd97703a63084f46ccbf8fa4b5a300d64903b6d5e27623c",
+        "raw_file": "mcgill-dept-014.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/biology/",
+        "sha256": "0f92ac5fb58fba20f1f79b3fc749382c3acddc983d410c9ffa39a5bdc52da1ea",
+        "raw_file": "mcgill-dept-015.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/",
+        "sha256": "c63f17a5fcdcaaeacbc53bce1f06aa2d80fa5ba76702517ac8df8b676d4e403e",
+        "raw_file": "mcgill-dept-016.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biotechnology/",
+        "sha256": "da464d3be7a0a38eb4feab48542f043eb368ccd5c6d9ce9ce98450210ce9121f",
+        "raw_file": "mcgill-dept-017.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/",
+        "sha256": "a513096116dd8988252cab62019ddf9e41eddeb2ef39bcdf57c1755ed0fd5616",
+        "raw_file": "mcgill-dept-018.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/",
+        "sha256": "b674b0f1b158a2dddfbdba2889d27de7805514c9d236255a8dae71d354d1b073",
+        "raw_file": "mcgill-dept-019.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/",
+        "sha256": "fd683ea6d7919feeffbac32d883eb70f351f555a7d5c83d76df8908c1ba11d33",
+        "raw_file": "mcgill-dept-020.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/",
+        "sha256": "8d085035ad6bb61b6b6854e69ff7f53e37a5f4ef8210701e66a851c9271500fd",
+        "raw_file": "mcgill-dept-021.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/",
+        "sha256": "5ec70d997ce1b8665ada1ad0f95ffa5fdf13e72b3fa0e3e95a1b03e8a39596b5",
+        "raw_file": "mcgill-dept-022.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/",
+        "sha256": "65c8fbfedc00b1b5c502fcc290addf2e97915bafbbe8982ec051d20049695cb6",
+        "raw_file": "mcgill-dept-023.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/",
+        "sha256": "eadb3e37397bf0e92b32d593c9fdad27361044132001c23faa39365e3a427629",
+        "raw_file": "mcgill-dept-024.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/",
+        "sha256": "933ba067ce12e0d0d3c08048f1225866a12f941f7263b90a798f919b3ae78153",
+        "raw_file": "mcgill-dept-025.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/chemical-engineering/",
+        "sha256": "02e718c28edd3b253224a51823abd8dbdb35936759a27ef71f329def90d0057d",
+        "raw_file": "mcgill-dept-026.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/chemistry/",
+        "sha256": "43f30ee401cd038faa42e6f58597963d46d6a69683cdb6a0e26c998cdc7f271a",
+        "raw_file": "mcgill-dept-027.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/",
+        "sha256": "8e096ad180107b687d0c9c0d30afb2f5c024887fb559a1a123bd1ea684d3af88",
+        "raw_file": "mcgill-dept-028.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/civil-engineering/",
+        "sha256": "d4a16b26d678b939b8ea514a59468683748805659440b6e88e662116ff126919",
+        "raw_file": "mcgill-dept-029.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/experimental-medicine/",
+        "sha256": "f8ac97a3a9d61b97e7728c6ae402273058dc2cd4c9af0ef8ff234e50203b8005",
+        "raw_file": "mcgill-dept-030.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/cognitive-science/",
+        "sha256": "4ac551241da23fb2fed11794ff84f8790185fc13bde70840933a9efb61eb5386",
+        "raw_file": "mcgill-dept-031.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/cognitive-science/",
+        "sha256": "46b5d620a98f3716d53c136bc2e1c28159bb73ad9bd484d7a6ddf9213ae543d5",
+        "raw_file": "mcgill-dept-032.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/cognitive-science/",
+        "sha256": "e74c4a3a4b2a612d23541a4b4d19b60326c4968d97c023997f0fbceba6b5275c",
+        "raw_file": "mcgill-dept-033.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/computer-science/",
+        "sha256": "99df7cb843976ba6edd12b81fad78dfcee3d589298bb6ccc140cd084dd264a35",
+        "raw_file": "mcgill-dept-034.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/computer-science/",
+        "sha256": "309c7c4a3f05bf4fef03a387e226922fed845d898e6b839646a5503e51b684bd",
+        "raw_file": "mcgill-dept-035.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/",
+        "sha256": "41991c7224606d03098e272e539e9c6ba3bc0de18c3829085a29cb36e432965b",
+        "raw_file": "mcgill-dept-036.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/",
+        "sha256": "b4dd0e27fb9c99ee8852971bbbb1e220ef9807d4b832ad3be17ccd03ed7a276b",
+        "raw_file": "mcgill-dept-037.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/animal-science/",
+        "sha256": "52c5dd9d4498c1c05235c05c0b67e26fc9b77906f130da97982752ce571ec28d",
+        "raw_file": "mcgill-dept-038.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/bioresource-engineering/",
+        "sha256": "468d82746b94725db5d50f3ca82f092354b7dc1bf99b3c0eeb81273b56b41f36",
+        "raw_file": "mcgill-dept-039.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/",
+        "sha256": "3ea24b3eecf73db3e68fc83474646ecc637937c51e579115e7884b868467c00a",
+        "raw_file": "mcgill-dept-040.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/",
+        "sha256": "fd8cdff6a2a934be65287b7e86502292a32465fc6bb7056e5788083331dcd9ed",
+        "raw_file": "mcgill-dept-041.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/",
+        "sha256": "ba9b406c8b62bee93944bed759039de1f8587e138bb8d05d3ed98177a3d9f9e4",
+        "raw_file": "mcgill-dept-042.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/",
+        "sha256": "b5f2df9acaaaa56b684027a0dbb85ff5ba1b82fde3156a83899e032b043491d8",
+        "raw_file": "mcgill-dept-043.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/",
+        "sha256": "61211eb924f309064a5d100a353a5c85a6b443b94643e0a363978591c025735b",
+        "raw_file": "mcgill-dept-044.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/diploma-environment/",
+        "sha256": "a53bf1597656d0b4b1e08fad1c1bad4c33da57610ca0dee700e82aa90b150df5",
+        "raw_file": "mcgill-dept-045.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/earth-planetary-sciences/",
+        "sha256": "dfc479881ef46948cfe48559260f09c4465ffca8bda370c064d962681a074020",
+        "raw_file": "mcgill-dept-046.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-planetary-sciences/",
+        "sha256": "446944ee92d8c21492057297dddeaff848bcf41d8b4b30fd75b62fd5628826ec",
+        "raw_file": "mcgill-dept-047.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/earth-system-science/",
+        "sha256": "1759c28b6fc3033162b7687f73ac5aeb2de7d25b839ae320e117db5e6d317673",
+        "raw_file": "mcgill-dept-048.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-system-science/",
+        "sha256": "7e9e945a72237edb0b286b2e69ba46649e13cff4b41afc8d4493bedf92678aeb",
+        "raw_file": "mcgill-dept-049.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/east-asian-studies/",
+        "sha256": "ece6576fdc90ff9d06c0265d5714238b15edb8dc08ca82bab6dd317c6db734d0",
+        "raw_file": "mcgill-dept-050.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/east-asian-studies/",
+        "sha256": "18138b54c5ff23d2d97cddcdbf554e9f208ed7ded6ff918a33c3a4a223853691",
+        "raw_file": "mcgill-dept-051.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/economics/",
+        "sha256": "1d99795e743435e4d41053d1dbcb851468275516bd5cc13e706c3addea967cf5",
+        "raw_file": "mcgill-dept-052.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/economics/",
+        "sha256": "f9b772d1e11e9399366413aa5fad92e841516d4180feabc99658d6fd77409be5",
+        "raw_file": "mcgill-dept-053.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/educational-psychology/",
+        "sha256": "33e6499760109f9ef755f4901d68cc0a7f1bcca680408fa7ad8c5d433450a431",
+        "raw_file": "mcgill-dept-054.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/education-arts-students/",
+        "sha256": "fb8d1ef8f1e40336e5a3681a46e237c6470dc8d3a797a434416b5c118f81c0a6",
+        "raw_file": "mcgill-dept-055.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/",
+        "sha256": "47c73e051e737bbaf9c8cf862afcd867086563e745e1944bf946f53375b41ac7",
+        "raw_file": "mcgill-dept-056.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/other-programs/",
+        "sha256": "948a5916cd853a68c2bcfc7ec5f0138416c87a62579bb25e2388a2877bd5b590",
+        "raw_file": "mcgill-dept-057.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/",
+        "sha256": "a1914cdcc107add35652927ea014a024c7fcb71039f0fd21aa99d50bf0e2f46b",
+        "raw_file": "mcgill-dept-058.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/",
+        "sha256": "8f6c274eaa373e09ff832c2c3007df57e4fe47028d4475f8083bd4c732a6b16f",
+        "raw_file": "mcgill-dept-059.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/entrepreneurship-science-students/",
+        "sha256": "c1d6247b02667e249550752a6804af8293e7acaafa895039c999c6b8eb9209d4",
+        "raw_file": "mcgill-dept-060.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/environment/",
+        "sha256": "113ab3b9eee38588c349ad1202a91d114b4a7a39c473b4c55df34b6613206406",
+        "raw_file": "mcgill-dept-061.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/environment/",
+        "sha256": "5f45f4128bab9ea00311ad5a5404eb80431897976e061dde42748d65cea93ef1",
+        "raw_file": "mcgill-dept-062.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/environment/",
+        "sha256": "0fc53f3be80a1bbd437da5905a7c815c0cdcbb99289b3570b2974ca45dafefe3",
+        "raw_file": "mcgill-dept-063.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/internship-program/",
+        "sha256": "7c95e06d5dfc0f739905acad183a30279660ec4ae186755fcf646b633bbdd0b3",
+        "raw_file": "mcgill-dept-064.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/farm-management-technology/",
+        "sha256": "0f07e20886657710fe020a023bf90ac81217d5298e8b1a780658753c3015eebc",
+        "raw_file": "mcgill-dept-065.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/field-studies/",
+        "sha256": "63d0d33626553c4b43520d21a6018ec77e572089ddcff694175ceb01b0826719",
+        "raw_file": "mcgill-dept-066.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/field-study/",
+        "sha256": "f945fdda83576684d6a4c3c185db221f663f2c3234b30c8e9946d9d8bed02f71",
+        "raw_file": "mcgill-dept-067.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/field-study/",
+        "sha256": "ea5e288582cbefd36e9708a2ea70b13d4233bbbfdb1c089dd46be8b231becdcf",
+        "raw_file": "mcgill-dept-068.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/first-year-seminars/",
+        "sha256": "773871c3becd6ee9be2f22f63c73c8506a285e65c9b877a2449bb0fea6581d96",
+        "raw_file": "mcgill-dept-069.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/",
+        "sha256": "9efae69cf42c3a6c8f3d1ed4c4eaa66142f28eb0910493f67f4785eeb259e6d6",
+        "raw_file": "mcgill-dept-070.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/120-credit-foundation-course-distribution/",
+        "sha256": "623e3121803fbbc461b29448d52ecd226c20128286cc2ea4aebc5b8b3dc4463c",
+        "raw_file": "mcgill-dept-071.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/french-language-centre/",
+        "sha256": "5c4c30f0ad47273b048ea97b9af5789b118c9a29680ee2bd3b26e61a7e9e0efe",
+        "raw_file": "mcgill-dept-072.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/gender-sexuality-feminist-studies/",
+        "sha256": "f356bbb74a6a88c176439b595f20a78ac3594324dc896830bedb3b1a959392ee",
+        "raw_file": "mcgill-dept-073.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/gender-sexuality-feminist-studies/",
+        "sha256": "87d788268c80376eed39b39638310bfa8aa5ce71bc63fefe2cb92a82a1213a11",
+        "raw_file": "mcgill-dept-074.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/general-science/",
+        "sha256": "4640dfeee82ad5845459afb670d1cfe902c76b863af7787e2d7d226d53e22aee",
+        "raw_file": "mcgill-dept-075.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/",
+        "sha256": "34e74b9830b40c0ae55aa72d1069667fa70e6a38ecab1ec7d9f4e398b53be255",
+        "raw_file": "mcgill-dept-076.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/",
+        "sha256": "52491ffae261692c4c64ef9f868f9d0ef6b13b4a05e3d7bc4c68752d58c0c9d1",
+        "raw_file": "mcgill-dept-077.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/",
+        "sha256": "4bdba079488c97dda8c5ba695c44dbde0b5f5281a8bda483659807c42d2dcbd9",
+        "raw_file": "mcgill-dept-078.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/global-engineering/",
+        "sha256": "028ecc4aff38f0803441c4fb8f3b0ee2000e93dbbe1d74eb48f50f10ba7cbf39",
+        "raw_file": "mcgill-dept-079.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/",
+        "sha256": "7d8c8f4fe59eb733479e218031db69d79703cd09afa139932edb182ed5d5518e",
+        "raw_file": "mcgill-dept-080.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/history-classical-studies/",
+        "sha256": "b3060ec35878ac019fab633a4befe352418f01657e60ef04aecadb9bfa562eb8",
+        "raw_file": "mcgill-dept-081.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/honours/",
+        "sha256": "8768462c91076c3a7658ba7bd2385dcf57e24fd5ddab73da9980d6da80e8a440",
+        "raw_file": "mcgill-dept-082.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/honours-law-bcl-jd/",
+        "sha256": "d747aec5e86ca304891dc6b7bf8985445250cafd05ee13ad86caa2ac283c951a",
+        "raw_file": "mcgill-dept-083.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/honours-program-environment/",
+        "sha256": "684980f0178f9568d6466c446f6a09ead7161e4fbfa230c2bfda4462814093ee",
+        "raw_file": "mcgill-dept-084.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/immunology/",
+        "sha256": "ecebc7dfa765c000457a1828af93777c55bf2f547dbd9a8b456e1b5efd0848b2",
+        "raw_file": "mcgill-dept-085.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/information-studies/",
+        "sha256": "1a6640ac25a30a529621c179eea1f1db90e8bebe48ad62ad4f0fe31fd9f25293",
+        "raw_file": "mcgill-dept-086.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/",
+        "sha256": "bb171e8fd3f8220726d8aa67004018ab326f400ed85ccb05c4af670a2af67835",
+        "raw_file": "mcgill-dept-087.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/",
+        "sha256": "1fbb46d61bc85f269cc5da218de697c811740c940ab0ca9bdfe51f0d9a5ff1bf",
+        "raw_file": "mcgill-dept-088.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/institute-study-canada/",
+        "sha256": "d4e28512ca5a8649ef93d9cd5a15c70f940e9f0e0f61c1692a36086a82b0dbf8",
+        "raw_file": "mcgill-dept-089.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/",
+        "sha256": "83ec0ff1db7bed4fb632d9a0e20f9001bbd290d32e6e31ce0ad074704bb1e905",
+        "raw_file": "mcgill-dept-090.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/parasitology/",
+        "sha256": "c4377c5e6cb8208c5bfb56bdd83ed59048d009ef246b379b75d88222f2dd2a93",
+        "raw_file": "mcgill-dept-091.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/interdisciplinary-life-sciences/",
+        "sha256": "fa2a5e1b7c6a1c244fa7e0d5ab4afa504e35849b56459f30d026e6e5bd21d94a",
+        "raw_file": "mcgill-dept-092.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/interdisciplinary-life-sciences-minor/",
+        "sha256": "8a59e962532be7e8d95212d2bdf937782765acd294bf2e306e0cb0949e4266e4",
+        "raw_file": "mcgill-dept-093.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/international-development/",
+        "sha256": "fb08052f3e76b07e1574b58da4dbe43c3288abe3e4a9428a9f02a7d5a91f6b30",
+        "raw_file": "mcgill-dept-094.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/international-development/",
+        "sha256": "53de5a50dee9402a6501e0e3e299a943bb286553c803221b00dee3d3a8169e26",
+        "raw_file": "mcgill-dept-095.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/",
+        "sha256": "c7f12b3fc47199a79f608eb4f6e3320627f595f5f0ec1324280313c45a54d292",
+        "raw_file": "mcgill-dept-096.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/jewish-studies/",
+        "sha256": "2295e5c85baa0912cefb5c02a63b6c54ec5c1072102c1021ae6e35cd0c71f5f3",
+        "raw_file": "mcgill-dept-097.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/",
+        "sha256": "c72bd719b8f9e4728cec19bda5a91173d16b04201bbb80608284aa2f69c6be82",
+        "raw_file": "mcgill-dept-098.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/kinesiology-science-students/",
+        "sha256": "38a9673489de09a34f627835f5ae1f819b19960954f2b2653d7fe532502a72fb",
+        "raw_file": "mcgill-dept-099.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/",
+        "sha256": "44094c62ad2b23843c63ed1c6a6631c48564057e288e5dcc9844f367817eb7fc",
+        "raw_file": "mcgill-dept-100.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/",
+        "sha256": "d95ccff36ade1b1af1cc936825b7e580346cac85745d32f1feeab42949e8eca4",
+        "raw_file": "mcgill-dept-101.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-management-non-thesis-general-management-joint-bcljd-mba/",
+        "sha256": "cb00e8b1d2805bb147667a99946d1ea8b13f836a259d4ece4fc0e068ea830f96",
+        "raw_file": "mcgill-dept-102.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-social-work-non-thesis-joint-bcljd-msw/",
+        "sha256": "89ff3d8c80687a3a3a0db900117c646bd7d3ce4fdcd543d72b2cea5ef2b34b94",
+        "raw_file": "mcgill-dept-103.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-bcl-jd/",
+        "sha256": "e7efbbbb6c0fcc07acabdb0813f55d64329c0feba49b7c28b58a96b810fa756d",
+        "raw_file": "mcgill-dept-104.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-bcl-jd-minor/",
+        "sha256": "d33863ef0b0391e1cb2cfe579d6f05d35bccd6caf836eccee570e85077b5c8bf",
+        "raw_file": "mcgill-dept-105.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/",
+        "sha256": "39146d7ddfe06c1d841aea3a943190b72ebac34a5a817d6bdb62e9fc2a21c499",
+        "raw_file": "mcgill-dept-106.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/",
+        "sha256": "8a776b12239269ab9558cb055b1cb46e3f50df824acc751df357be8203230db6",
+        "raw_file": "mcgill-dept-107.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/litteratures-langue-francaise-traduction-creation/",
+        "sha256": "bec311f1ac443ffd9b27cb1949d8224ae48f1aaf9d82af89c645c12fb7824833",
+        "raw_file": "mcgill-dept-108.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/french-language-literature/",
+        "sha256": "2d66b60c648e1a2d0b38df4e4cea28737c6c8d8cc0fd2e7a5b097334449c7a37",
+        "raw_file": "mcgill-dept-109.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-commercial-negotiation-dispute-resolution-bcl-jd/",
+        "sha256": "95a7bbb9231c0ed0c690d8a67abc60fd3b30fd8143ec1085589999fb8b2b8ef3",
+        "raw_file": "mcgill-dept-110.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-major-international-human-rights-development-bcl-jd/",
+        "sha256": "fd745c6c8e38a50d3aa13f7c586e97aacb0b425d79cc3ab2eb745d9bbe799a71",
+        "raw_file": "mcgill-dept-111.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/major-environment-bsc/",
+        "sha256": "ed04218ca5ffcb6b18ac4d5370cfa4419bb02fa60a0cedcddc9ff88249a152ac",
+        "raw_file": "mcgill-dept-112.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/",
+        "sha256": "0985655bf30e5a32425df6cfe91bbd39075d1e80d890697ad88de6877219bc2b",
+        "raw_file": "mcgill-dept-113.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/",
+        "sha256": "d7a8760cab011ab540742216b1e6f1a37db1f20bae760d1171f1f2ec2d5711ce",
+        "raw_file": "mcgill-dept-114.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/management-core/",
+        "sha256": "03283adc85f2fea492625f4bb5e1e1b9b217d87a7abe53eff53b473e6bb7cee2",
+        "raw_file": "mcgill-dept-115.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/management-arts-students/",
+        "sha256": "76a1f786db6c8dd157c93d708945003f61ec78976a4ecd8b94a279f5539e0b37",
+        "raw_file": "mcgill-dept-116.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/management-science-students/",
+        "sha256": "307003a4842bc3c2adbae6af83bab1da8a3f3c36168064d657b9c74c80f117ba",
+        "raw_file": "mcgill-dept-117.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/",
+        "sha256": "28b44bb1ac0a0b7b78c29c29a5e4b8509d6910a4b6d6d50fb6c9726d2642f970",
+        "raw_file": "mcgill-dept-118.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/mathematics-statistics/",
+        "sha256": "42bfee77e45ef5b25eeb2811dcb339cc108a29b555b26ba31a86803f21af7c77",
+        "raw_file": "mcgill-dept-119.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/",
+        "sha256": "d8e52622ebc77f9dcabb70d6c548696fd2311eab4b72c14f13ec0b40578d0c32",
+        "raw_file": "mcgill-dept-120.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/writing-centre/",
+        "sha256": "8ae6e3975d5efb46e923ff4fab763ab19bb0fc3ccf66c1b0ec38c113fd1685b1",
+        "raw_file": "mcgill-dept-121.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mechanical-engineering/",
+        "sha256": "9405f4161430171aba98f41b8610f7ddf0b9ada5170c4fbf23ee9543aa79cb4d",
+        "raw_file": "mcgill-dept-122.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/microbiology-immunology/",
+        "sha256": "3cb58ab24029803548c7122229512666208e7341ec9750565d1a6bf1084d0173",
+        "raw_file": "mcgill-dept-123.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mining-materials-engineering/",
+        "sha256": "e6221cbb9c24fc9778a3ff77b20b82093708fa22864c700008a454d42f5bd0dc",
+        "raw_file": "mcgill-dept-124.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/minor-environment/",
+        "sha256": "e94448b00e71dbcfdfc2767bdad50a521fe0ac565160950140d2b196fe5f93e7",
+        "raw_file": "mcgill-dept-125.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/minors-management-non-management-students/",
+        "sha256": "42f38698c6d63ae587e142ec34c8a3e97fe1ea1a42b72f2a875128f9123772d1",
+        "raw_file": "mcgill-dept-126.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/",
+        "sha256": "70a909254ffe6c0751d9e57553ad8da80dbc2c3868b8c066d0b09415e9da8f12",
+        "raw_file": "mcgill-dept-127.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/minor-programs/",
+        "sha256": "7c0e958c163332b4d3a650c817ee747c8fefeea3e902a81030ca29fe94ac0d0b",
+        "raw_file": "mcgill-dept-128.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/minors-management-students/",
+        "sha256": "f51ac2b874adaf11f90e2d7ef6c040a73c2b13f29b2913efe97dd86459008e11",
+        "raw_file": "mcgill-dept-129.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/music/",
+        "sha256": "a2b54add8fbc2c82e41d2a8d34b131539f6ae04e535320210267bb6b387d6514",
+        "raw_file": "mcgill-dept-130.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/music-science-students/",
+        "sha256": "cfd6515010ba612506cbaa7cc4ebf1b506efd3756497003f8b397a7ef77ac996",
+        "raw_file": "mcgill-dept-131.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neurology-neurosurgery/",
+        "sha256": "f9b93c596ceca174d6d5b5ec32fb65f23a15964fb105910180bbae12aa5e3606",
+        "raw_file": "mcgill-dept-132.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/",
+        "sha256": "9180e4418e976199234114d18271dc8e896999887688486ed044105e57ab4a64",
+        "raw_file": "mcgill-dept-133.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/neuroscience/",
+        "sha256": "a6767f826eb974020fd321e89bf7a2a9b30a1d1e9cddac237936d57ec2215738",
+        "raw_file": "mcgill-dept-134.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/nutrition/",
+        "sha256": "18c5234afe03127af1b1cf6a40e83b7f50af468ca0740ed6534c6d6ce7c428fd",
+        "raw_file": "mcgill-dept-135.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/pathology/",
+        "sha256": "4302ee1f33628587a13ce25c36cbfb638f80f36d935abc222d8a6e87780c2de3",
+        "raw_file": "mcgill-dept-136.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/pharmacology-therapeutics/",
+        "sha256": "166f8f83fd5d3eb8feb590f3e7cb110152f5623423c3cf899ffb26fb5f8dd068",
+        "raw_file": "mcgill-dept-137.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/",
+        "sha256": "fde904a1c8d2fe2efe2537a63cb011adb917e752f6d29a0060a2a98ff1b8228a",
+        "raw_file": "mcgill-dept-138.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/philosophy/",
+        "sha256": "8a5c1dbac3f50f5cc1a31d259fb9dfc507439e9b9b88b3ef3d520270d7f13034",
+        "raw_file": "mcgill-dept-139.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/physics/",
+        "sha256": "d60ca208abeb5fa16834b4e3eaadddd4c01fc42b8c723e7c92c62810d8e004e6",
+        "raw_file": "mcgill-dept-140.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/",
+        "sha256": "53cde12e3d95e19537b8369ca7267a1e80979fad12c7dc555e169b1bc9547d9d",
+        "raw_file": "mcgill-dept-141.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/",
+        "sha256": "4f9dea901f3a134e7538b77dbe648930a5a2d133bc5a8d02aee0bc99b47c122e",
+        "raw_file": "mcgill-dept-142.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/political-science/",
+        "sha256": "59e563fdc5684e77a4cd2cf5b9055b97736fdc9b23cf644746b50c41fb5cfe9a",
+        "raw_file": "mcgill-dept-143.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/political-science/",
+        "sha256": "826c5fcc4e8d90a56569e81fd5db47b6f99ebba13149d884a85783a3b74142b5",
+        "raw_file": "mcgill-dept-144.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/population-global-health/",
+        "sha256": "7eb103083f76ecce4588c9852d24b17473d53fb9df8a9d3a94de50c2ce4d0c3d",
+        "raw_file": "mcgill-dept-145.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/medicine-health-sciences/professional/programs/",
+        "sha256": "595755f788b12904e91064e54da2bfe25f33a7431dd3d87c7a752a6d97a06e9b",
+        "raw_file": "mcgill-dept-146.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychiatry/",
+        "sha256": "d36ab977935b97aace87d4ff35bf6df81e95aca478323253fdbc2f53f828dcce",
+        "raw_file": "mcgill-dept-147.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/",
+        "sha256": "c46d63bd75c8f277ac6e55d528306485bde05ac3c55aabf44dca85dd5ee353fc",
+        "raw_file": "mcgill-dept-148.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/",
+        "sha256": "2ee0e56a542c0095d9cfe88926e512bf8e1d94d30a59d286abbd7f2c46eca1aa",
+        "raw_file": "mcgill-dept-149.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/",
+        "sha256": "ab2d53adb063e91fb30c4ce5e07e1312bfc3b43b6a42ffb084ba96632a2a469b",
+        "raw_file": "mcgill-dept-150.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/redpath-museum/",
+        "sha256": "2012831e1b4cd8e479874cbb84d803a93076313d39678a799b061d47759c572e",
+        "raw_file": "mcgill-dept-151.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/redpath-museum/",
+        "sha256": "6b8e742d3fc07a183753e5d7effa1aaeba09d78edb18942116f0a600466420db",
+        "raw_file": "mcgill-dept-152.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/",
+        "sha256": "9eb246d326e56eb4bcd8ad578dcfdd834f908f661f68e7a102a629e5f212e6b4",
+        "raw_file": "mcgill-dept-153.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/religious-studies/",
+        "sha256": "5cc3bc72e8cbf1baee238a732fc6f36af6e356fa8d1a0e9660d8f942d259e1c0",
+        "raw_file": "mcgill-dept-154.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/human-nutrition/",
+        "sha256": "8352827390383444d61a013ab1d8bebaedc1b1cb0177b73442b0c864c2575cbd",
+        "raw_file": "mcgill-dept-155.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/science-arts-students/",
+        "sha256": "457c8f1235ea4bbbb0bc3d0f746c69785be7e9cb49bdb239fde4a4f7f6887c5b",
+        "raw_file": "mcgill-dept-156.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/science-mathematics-teachers/",
+        "sha256": "35cf452bd3fff80bafb4d52ca990a4ef244286c4bc2bf3235a0da72487452b90",
+        "raw_file": "mcgill-dept-157.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/social-studies-medicine/",
+        "sha256": "0e1fbc3f70034e20db73b6d0e82c76e36c5c2fbdb1f5762ae730786403a61167",
+        "raw_file": "mcgill-dept-158.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/social-studies-medicine/",
+        "sha256": "746a48b61876a3db78de54d8786cb3f7c28b62fa14fad5f2a815d4d8f60ea4c9",
+        "raw_file": "mcgill-dept-159.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/social-work/",
+        "sha256": "80b7e90c0ee00c77a4c5d73331bf1be9fd3ebe5e73f0fc8495440f30c3428ddb",
+        "raw_file": "mcgill-dept-160.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/sociology/",
+        "sha256": "234c02d9f2d0e33d2f44c610a68a526cbe73c5369f06dcfa461cd2a74852cb10",
+        "raw_file": "mcgill-dept-161.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/sociology/",
+        "sha256": "d8d603727d6e201d63b91f237ccf14bac8de7938abdee96c957bd7f1825d38e1",
+        "raw_file": "mcgill-dept-162.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/sustainability-science-society/",
+        "sha256": "facd15e939b2a4c03a2f243d78acb76dd1372edc0a628b8b11044528c4ecab9c",
+        "raw_file": "mcgill-dept-163.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/sustainability-engineering-design/",
+        "sha256": "a32e6e3a35b574619f5eb225fb6ebb51ef32d2153bea45a49419fd6cd5b78783",
+        "raw_file": "mcgill-dept-164.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/overview/programs/",
+        "sha256": "a1cb1ac721ef87137320b4d7bfd58b04b44244014470ddbf88d54e7050e8e360",
+        "raw_file": "mcgill-dept-165.html"
+      },
+      {
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/urban-planning/",
+        "sha256": "afec198bb998fcbaeb3ef43b98366dda256d26cfc6db93af5fa0808c005fd8e3",
+        "raw_file": "mcgill-dept-166.html"
+      }
+    ],
+    "exclusions": "排除 213 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [
+      {
+        "name": "Foundation Program (B.Sc.(Ag.Env.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-bsc-agenvsc/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Foundation Program (B.Eng.(Bioresource))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-beng-bioresource/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Foundation Program (B.Sc.(F.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-bsc-fsc/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Foundation Program (B.Sc.(Nutr.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-bscnutrsc/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Foundation Program Concurrent (B.Sc. (F.Sc.)) and (B.Sc. (Nutr.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/foundation-program-concurrent-bsc-fsc-nutrsc/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Human Nutrition Minor (B.Sc.(Ag.Env.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/human-nutrition/human-nutrition-minor-bsc-agenvsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Agricultural Economics Minor (B.Sc.(Ag.Env.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/agricultural-economics-minor-bsc-agenvsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Ecological Agriculture Minor (B.Sc.(Ag.Env.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/ecological-agriculture-minor-bsc-agenvsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Agricultural Production Minor (B.Sc.(Ag.Env.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/agricultural-production-minor-bsc-agenvsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Agricultural Engineering Minor (B.Eng (Bioresource))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/minor-programs/agricultural-engineering-minor-beng-bioresource/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Animal Biology and Health Minor (B.Eng. (Bioresource))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/bioresource-engineering/animal-health-biology-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Ecological Engineering Minor (B.Eng. (Bioresource))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/minor-programs/ecological-engineering-minor-beng-bioresource/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Environmental Engineering Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/minor-programs/environmental-engineering-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Food Process Engineering Minor (B.Eng. (Bioresource))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/minor-programs/food-process-engineering-minor-beng-bioresource/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "International Agriculture Minor (B.Sc.(Ag.Env.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/minor-programs/international-agriculture-minor-bsc-agenvsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "One Health Minor (B.Sc.(Ag.Env.Sc.))",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/minor-programs/one-health-minor-bsc-agenvsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Foundation Program - French (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/degree-requirements/about-program/foundation-program-french-ba/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Foundation Program - General (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/degree-requirements/about-program/foundation-program-general-ba/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Anthropology Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/anthropology/anthropology-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Art History Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/art-history-communication-studies/art-history-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Computer Science Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/computer-science/computer-science-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Computer Science Supplementary Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/computer-science/computer-science-supplementary-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "East Asian Language and Literature Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/east-asian-studies/east-asian-language-literature-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "East Asian Cultural Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/east-asian-studies/east-asian-cultural-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "East Asian Language Supplementary Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/east-asian-studies/east-asian-language-supplementary-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Economics Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/economics/economics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Education for Arts Students Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/education-arts-students/education-arts-students-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Educational Psychology Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/educational-psychology/educational-psychology-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "English - Literature Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-literature-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "English - Drama and Theatre Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-drama-theatre-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "English - Cultural Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/english-cultural-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Medieval Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/medieval-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "World Cinemas Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/world-cinemas-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Gender, Sexuality, Feminist, and Social Justice Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/gender-sexuality-feminist-studies/gender-sexuality-feminist-social-justice-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geography Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geography (Urban Studies) Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/geography-urban-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "GIS and Remote Sensing Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/gis-remote-sensing-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Health Geography Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/health-geography-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "History Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/history-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Classics Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/classics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "South Asian Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/south-asian-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "African Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/african-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Arabic Language Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/arabic-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Persian Language Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/persian-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Turkish Language Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/turkish-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Urdu Language Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/urdu-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "World Islamic and Middle East Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/world-islamic-middle-east-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Canadian Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/canadian-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Indigenous Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/indigenous-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Quebec Studies & Community-Engaged Learning Minor Concentration (B.A.) / La concentration Mineure en Études sur le Québec et apprentissage par engagement communautaire (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/quebec-studies-community-engaged-learning-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "International Development Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/international-development/international-development-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Jewish Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/jewish-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "European Literature and Culture Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/european-literature-culture-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "German Language Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/german-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "German Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/german-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Hispanic Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/hispanic-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Italian Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/italian-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Latin American and Caribbean Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/latin-american-caribbean-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Russian Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/russian-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Russian Culture Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/russian-culture-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Linguistics Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/linguistics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Baccalauréat ès Arts (B.A.) - Concentration mineure Langue et littérature françaises - Études et pratiques littéraires",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/litteratures-langue-francaise-traduction-creation/langue-et-litterature-francaises-etudes-et-pratiques-litteraires-concentration-mineure/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Baccalauréat ès Arts (B.A.) - Concentration mineure Langue & littérature françaises - Langue française",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/litteratures-langue-francaise-traduction-creation/langue-litterature-francaises-langue-francaise-concentration-mineure/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Baccalauréat ès Arts (B.A.) - Concentration mineure Langue et litt. françaises - Traduction",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/litteratures-langue-francaise-traduction-creation/langue-et-litt-francaises-traduction-concentration-mineure/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Mathematics Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/mathematics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Statistics Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/statistics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Philosophy Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/philosophy-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "History and Philosophy of Science Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/history-philosophy-science-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Political Science Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/political-science/political-science-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Behavioural Science Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/behavioural-science-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Psychology Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/psychology-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Religious Studies Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/religious-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Science for Arts Students Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/science-arts-students/science-arts-students-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Social Studies of Medicine Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/social-studies-medicine/social-studies-medicine-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Sociology Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/sociology/sociology-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Foundation Program (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/overview-programs-offered/basc-foundation-year-program/foundation-year-program-basc/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Anthropology Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/anthropology/anthropology-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Art History Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/art-history-communication-studies/art-history-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Communication Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/art-history-communication-studies/communication-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Atmospheric Science Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/atmospheric-oceanic-sciences/atmospheric-science-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Biology - Cell/Molecular Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/biology/biology-cell-molecular-minor-concentration-basc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Biology - Organismal Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/biology/biology-organismal-minor-concentration-basc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Chemistry Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/chemistry/chemistry-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Cognitive Science Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/cognitive-science/cognitive-science-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Computer Science Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/computer-science/computer-science-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Computer Science Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/computer-science/computer-science-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geochemistry Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/earth-planetary-sciences/geochemistry-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geology Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/earth-planetary-sciences/geology-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Earth System Science Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/earth-system-science/earth-system-science-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "East Asian Cultural Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/east-asian-studies/east-asian-cultural-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "East Asian Language and Literature Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/east-asian-studies/east-asian-language-literature-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "East Asian Language Concentration Supplementary Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/east-asian-studies/east-asian-language-concentration-supplementary-minor-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Economics Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/economics/economics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "English - Cultural Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-cultural-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "English - Drama and Theatre Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-drama-theatre-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "English - Literature Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/english-literature-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Medieval Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/medieval-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "World Cinemas Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/world-cinemas-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Environment Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/environment/environment-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Environment Minor (B.Sc.(Ag.Env.Sc.)) or (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/environment/environment-minor-bscagenvsc-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Field Studies Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/field-study/field-studies-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Gender, Sexuality, Feminist, & Social Justice Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/gender-sexuality-feminist-studies/gender-sexuality-feminist-social-justice-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geography Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/geography-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geography (Urban Studies) Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/geography-urban-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "GIS & Remote Sensing Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/gis-remote-sensing-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Health Geography Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/health-geography-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geography Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/geography-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "GIS & Remote Sensing Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/gis-remote-sensing-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Classics Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/history-classical-studies/classics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "History Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/history-classical-studies/history-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "South Asian Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/history-classical-studies/south-asian-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Canadian Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/institute-study-canada/canadian-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Indigenous Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/institute-study-canada/indigenous-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Quebec Studies and Community-Engaged Learning Minor Concentration/Études sur le Québec et apprentissage par engagement communautaire La concentration Mineure (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/institute-study-canada/quebec-studies-community-engaged-learning-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Interdisciplinary Life Sciences Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/interdisciplinary-life-sciences-minor/interdisciplinary-life-sciences-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "International Development Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/international-development/international-development-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "African Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/african-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Arabic Language Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/arabic-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Persian Language Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/persian-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Turkish Language Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/turkish-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Urdu Language Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/urdu-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "World Islamic and Middle East Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/world-islamic-middle-east-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Jewish Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/jewish-studies/jewish-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Concentration mineure Langue & littérature françaises - Langue française(B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/french-language-literature/langue-litterature-francaises-concentration-mineure-/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Concentration mineure Langue et litt. françaises - Traduction (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/french-language-literature/langue-et-litt-francaises-traduction-concentration-mineure/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Concentration mineure Langue et littérature françaises - Études et pratiques littéraires (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/french-language-literature/langue-et-litterature-francaises-etudes-et-pratiques-litteraires-concentration-mineure/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "European Literature and Culture Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/european-literature-culture-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "German Language Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/german-language-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "German Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/german-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Hispanic Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/hispanic-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Italian Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/italian-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Latin American & Caribbean Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/latin-american-caribbean-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Russian Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/russian-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Russian Culture Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/russian-culture-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Linguistics Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/linguistics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Mathematics Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/mathematics-statistics/mathematics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Statistics Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/mathematics-statistics/statistics-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Mathematics Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/mathematics-statistics/mathematics-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Statistics Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/mathematics-statistics/statistics-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Neuroscience Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/neuroscience/neuroscience-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "History and Philosophy of Science Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/philosophy/history-philosophy-science-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Philosophy Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/philosophy/philosophy-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Physics Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/physics/physics-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Political Science Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/political-science/political-science-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Psychology Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Psychology Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/psychology-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Religious Studies Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/religious-studies/religious-studies-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Natural History Minor (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/redpath-museum/natural-history-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Social Studies of Medicine Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/social-studies-medicine/social-studies-medicine-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Sociology Minor Concentration (B.A. & Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/sociology/sociology-minor-concentration-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Dental Preparatory (Dent-P) (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/dentistry/professional/dentistry-programs/dental-preparatory-bs/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Kinesiology Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/kinesiology-physical-education/kinesiology-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Aerospace Engineering Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/aerospace-engineering-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Applied Artificial Intelligence Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/applied-artificial-intelligence-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Arts Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/arts-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Biomedical Engineering Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/biomedical-engineering-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Biotechnology Minor (for Engineering Students) (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/biotechnology-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Chemistry Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/chemistry-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Computer Science Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/computer-science-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Construction Engineering and Management Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/construction-engineering-management-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Economics Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/economics-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Environmental Engineering Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/environmental-engineering-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Materials Engineering Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/materials-engineering-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Mathematics Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/mathematics-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Mining Engineering Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/mining-engineering-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Nanotechnology Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/nanotechnology-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Physics Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/physics-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Software Engineering Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/software-engineering-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Technological Entrepreneurship Minor (B.Eng.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/technological-entrepreneurship-minor-beng/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Environment Minor (B.Sc.(Ag.Env.Sc.)) or (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/minor-environment/environment-concentration-minor-bscagenvsc-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Environment Minor Concentration (B.A.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/minor-environment/environment-minor-ba/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Bachelor of Arts and Science (B.A. & Sc.) - Interfaculty Programs",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/bachelor-arts-science-interfaculty-programs/",
+        "reason": "Programme grouping overview; constituent named programmes separately retained"
+      },
+      {
+        "name": "Law (B.C.L./J.D.) (with Minor)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-bcl-jd-minor/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Applied Performance Sciences Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/applied-performance-sciences-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Composition Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/composition-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Music Entrepreneurship Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/music-entrepreneurship-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Music History Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/music-history-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Music Pedagogy Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/music-pedagogy-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Musical Science and Technology Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/musical-science-technology-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Music Theory Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/music-theory-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Conducting Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/conducting-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Early Music Performance Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/early-music-performance-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Jazz Arranging and Composition Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/jazz-arranging-composition-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Jazz Performance Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/jazz-performance-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Foundation Program (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/overview-programs-offered/sci-foundation-program/foundation-year/",
+        "reason": "Preparatory/foundation curriculum, not separate undergraduate degree major"
+      },
+      {
+        "name": "Atmospheric Science Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/atmospheric-science-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Biology Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/biology-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Biotechnology (for Science Students) Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biotechnology/biotechnology-science-students-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Chemical Engineering Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemical-engineering-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Chemistry Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/chemistry-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Cognitive Science Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/cognitive-science/cognitive-science-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Computer Science Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/computer-science-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geology Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-planetary-sciences/geology-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geochemistry Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-planetary-sciences/geochemistry-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Earth System Science Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-system-science/earth-system-science-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Entrepreneurship for Science Students Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/entrepreneurship-science-students/entrepreneurship-science-students-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Field Studies Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/field-study/field-studies-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "General Science Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/general-science/general-science-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Geography Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/geography-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "GIS and Remote Sensing Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/gis-remote-sensing-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Interdisciplinary Life Sciences Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/interdisciplinary-life-sciences/interdisciplinary-life-sciences-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Management (For Non-Management Students) Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/management-science-students/management-non-students-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Data Science Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/data-science-minor/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Mathematics Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/mathematics-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Statistics Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/statistics-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Neuroscience Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/neuroscience-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Pharmacology Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/pharmacology-therapeutics/pharmacology-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Physics Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/physics-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Electrical Engineering Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/electrical-engineering-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Psychology Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/psychology-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Natural History Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/redpath-museum/natural-history-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Education for Science Students Minor (B.Sc.)",
+        "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/science-mathematics-teachers/education-science-students-minor-bsc/",
+        "reason": "Minor-only credential/component"
+      },
+      {
+        "name": "Musical Science and Technology Minor (B.Mus.)",
+        "url": "https://coursecatalogue.mcgill.cahttps://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/musical-science-technology-minor-bmus/",
+        "reason": "Minor-only credential/component"
+      }
+    ],
+    "gaps": [
+      "目录中的独立方向和联合荣誉组件不等于独立学位数；尚需逐学院核对停招状态、遗漏的无学位标签节点及Second Degree限制。"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://coursecatalogue.mcgill.ca/azindex/",
+      "sha256": "618b170615a2556f731ce482421a77bf0a79f7e77385328ce3941cef720feb0a",
+      "raw_file": "scratch/full-catalog/root/mcgill-az.html",
+      "bytes": 200543
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/anatomy-cell-biology/",
+      "sha256": "0ba0cb00719f05ff39f970ce8ec75006e505e4a09c6084a027912e84c7e1a5e0",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-000.html",
+      "bytes": 476671
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/anthropology/",
+      "sha256": "6aaffa565094518db5dce08c8f65ef832e71fedcf8068c79c8c09530944e7fff",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-001.html",
+      "bytes": 478278
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/anthropology/",
+      "sha256": "208f2840567e5cd470893c04bad2a78f9c882072e424f8b484319a126a64ca8d",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-002.html",
+      "bytes": 477902
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/architecture/",
+      "sha256": "c41389fd02f5aa41fc80a9bd8e3bc21b4dc21866fae0847306196b39f3f13082",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-003.html",
+      "bytes": 479258
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/art-history-communication-studies/",
+      "sha256": "6feb3d3a7b3c5dd424988c475cb9601790b2de7a219e7f71059f7da51f908277",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-004.html",
+      "bytes": 477410
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/art-history-communication-studies/",
+      "sha256": "eb9edf8e56df460b43638d573429b4ea29080cd4aef305e0d1d8027f7415e1a6",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-005.html",
+      "bytes": 477402
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/atmospheric-oceanic-sciences/",
+      "sha256": "565bbe96f225434617bf8008dd9dfedb0cfc0638752d597af27f1d5a3c4b7f9c",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-006.html",
+      "bytes": 476750
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/atmospheric-oceanic-sciences/",
+      "sha256": "c7ca56465b18d28918af6117f240a472a3846ec1a61322ae7b7fca28fcabf46c",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-007.html",
+      "bytes": 479591
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/bachelor-arts-science-interfaculty-programs/",
+      "sha256": "a4c8dd1ecbcb9d388364cd93c3f51f0f8946d945c6ac9acc826cd7aae5b373f7",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-008.html",
+      "bytes": 475516
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/ba-faculty-program-environment/",
+      "sha256": "0e1b7e5f9a1417484bd42b2b69450c949342856addf76b2f03fd3ea43d2a9185",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-009.html",
+      "bytes": 476031
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/credit-structure-general-management-program-concentrations/",
+      "sha256": "dacda3c342c9cdcce4636a5eab64fb5a975d6b55f788489564a10f804eb3f6fd",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-010.html",
+      "bytes": 474779
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/credit-structure-major-honours/",
+      "sha256": "237403c412088fdaa123cd20506fec14ba9dd6c916b865504befe13de27a4996",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-011.html",
+      "bytes": 480515
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/",
+      "sha256": "28c08e64ae91f7f1324b6b7db574ccb9aa70eb0282b64e7adacab98fe27102b5",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-012.html",
+      "bytes": 472325
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biochemistry/",
+      "sha256": "9c6ab02c5733f1bcf61ecff00673c9a28b623fd271c8ee5429c6d7eef6ccaff7",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-013.html",
+      "bytes": 482300
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/bioengineering/",
+      "sha256": "531a99cde9cb2b6e4bd97703a63084f46ccbf8fa4b5a300d64903b6d5e27623c",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-014.html",
+      "bytes": 475420
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/biology/",
+      "sha256": "0f92ac5fb58fba20f1f79b3fc749382c3acddc983d410c9ffa39a5bdc52da1ea",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-015.html",
+      "bytes": 579804
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biology/",
+      "sha256": "c63f17a5fcdcaaeacbc53bce1f06aa2d80fa5ba76702517ac8df8b676d4e403e",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-016.html",
+      "bytes": 581383
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/biotechnology/",
+      "sha256": "da464d3be7a0a38eb4feab48542f043eb368ccd5c6d9ce9ce98450210ce9121f",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-017.html",
+      "bytes": 477151
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/",
+      "sha256": "a513096116dd8988252cab62019ddf9e41eddeb2ef39bcdf57c1755ed0fd5616",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-018.html",
+      "bytes": 476684
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/",
+      "sha256": "b674b0f1b158a2dddfbdba2889d27de7805514c9d236255a8dae71d354d1b073",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-019.html",
+      "bytes": 490959
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/",
+      "sha256": "fd683ea6d7919feeffbac32d883eb70f351f555a7d5c83d76df8908c1ba11d33",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-020.html",
+      "bytes": 475675
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/",
+      "sha256": "8d085035ad6bb61b6b6854e69ff7f53e37a5f4ef8210701e66a851c9271500fd",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-021.html",
+      "bytes": 477967
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/",
+      "sha256": "5ec70d997ce1b8665ada1ad0f95ffa5fdf13e72b3fa0e3e95a1b03e8a39596b5",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-022.html",
+      "bytes": 502991
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/",
+      "sha256": "65c8fbfedc00b1b5c502fcc290addf2e97915bafbbe8982ec051d20049695cb6",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-023.html",
+      "bytes": 502457
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/",
+      "sha256": "eadb3e37397bf0e92b32d593c9fdad27361044132001c23faa39365e3a427629",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-024.html",
+      "bytes": 482974
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/",
+      "sha256": "933ba067ce12e0d0d3c08048f1225866a12f941f7263b90a798f919b3ae78153",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-025.html",
+      "bytes": 472120
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/chemical-engineering/",
+      "sha256": "02e718c28edd3b253224a51823abd8dbdb35936759a27ef71f329def90d0057d",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-026.html",
+      "bytes": 483935
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/chemistry/",
+      "sha256": "43f30ee401cd038faa42e6f58597963d46d6a69683cdb6a0e26c998cdc7f271a",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-027.html",
+      "bytes": 479227
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/chemistry/",
+      "sha256": "8e096ad180107b687d0c9c0d30afb2f5c024887fb559a1a123bd1ea684d3af88",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-028.html",
+      "bytes": 479428
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/civil-engineering/",
+      "sha256": "d4a16b26d678b939b8ea514a59468683748805659440b6e88e662116ff126919",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-029.html",
+      "bytes": 477761
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/experimental-medicine/",
+      "sha256": "f8ac97a3a9d61b97e7728c6ae402273058dc2cd4c9af0ef8ff234e50203b8005",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-030.html",
+      "bytes": 485772
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/cognitive-science/",
+      "sha256": "4ac551241da23fb2fed11794ff84f8790185fc13bde70840933a9efb61eb5386",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-031.html",
+      "bytes": 475255
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/cognitive-science/",
+      "sha256": "46b5d620a98f3716d53c136bc2e1c28159bb73ad9bd484d7a6ddf9213ae543d5",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-032.html",
+      "bytes": 471577
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/cognitive-science/",
+      "sha256": "e74c4a3a4b2a612d23541a4b4d19b60326c4968d97c023997f0fbceba6b5275c",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-033.html",
+      "bytes": 477403
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/computer-science/",
+      "sha256": "99df7cb843976ba6edd12b81fad78dfcee3d589298bb6ccc140cd084dd264a35",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-034.html",
+      "bytes": 477503
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/computer-science/",
+      "sha256": "309c7c4a3f05bf4fef03a387e226922fed845d898e6b839646a5503e51b684bd",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-035.html",
+      "bytes": 485292
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/computer-science/",
+      "sha256": "41991c7224606d03098e272e539e9c6ba3bc0de18c3829085a29cb36e432965b",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-036.html",
+      "bytes": 487034
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/concentrations/",
+      "sha256": "b4dd0e27fb9c99ee8852971bbbb1e220ef9807d4b832ad3be17ccd03ed7a276b",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-037.html",
+      "bytes": 477252
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/animal-science/",
+      "sha256": "52c5dd9d4498c1c05235c05c0b67e26fc9b77906f130da97982752ce571ec28d",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-038.html",
+      "bytes": 476241
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/bioresource-engineering/",
+      "sha256": "468d82746b94725db5d50f3ca82f092354b7dc1bf99b3c0eeb81273b56b41f36",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-039.html",
+      "bytes": 481547
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/food-science-agricultural-chemistry/",
+      "sha256": "3ea24b3eecf73db3e68fc83474646ecc637937c51e579115e7884b868467c00a",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-040.html",
+      "bytes": 478179
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/music-research/",
+      "sha256": "fd8cdff6a2a934be65287b7e86502292a32465fc6bb7056e5788083331dcd9ed",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-041.html",
+      "bytes": 480022
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/natural-resource-sciences/",
+      "sha256": "ba9b406c8b62bee93944bed759039de1f8587e138bb8d05d3ed98177a3d9f9e4",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-042.html",
+      "bytes": 479929
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/music/programs/performance/",
+      "sha256": "b5f2df9acaaaa56b684027a0dbb85ff5ba1b82fde3156a83899e032b043491d8",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-043.html",
+      "bytes": 477617
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/plant-science/",
+      "sha256": "61211eb924f309064a5d100a353a5c85a6b443b94643e0a363978591c025735b",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-044.html",
+      "bytes": 476910
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/diploma-environment/",
+      "sha256": "a53bf1597656d0b4b1e08fad1c1bad4c33da57610ca0dee700e82aa90b150df5",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-045.html",
+      "bytes": 475523
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/earth-planetary-sciences/",
+      "sha256": "dfc479881ef46948cfe48559260f09c4465ffca8bda370c064d962681a074020",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-046.html",
+      "bytes": 480683
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-planetary-sciences/",
+      "sha256": "446944ee92d8c21492057297dddeaff848bcf41d8b4b30fd75b62fd5628826ec",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-047.html",
+      "bytes": 481752
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/earth-system-science/",
+      "sha256": "1759c28b6fc3033162b7687f73ac5aeb2de7d25b839ae320e117db5e6d317673",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-048.html",
+      "bytes": 476936
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/earth-system-science/",
+      "sha256": "7e9e945a72237edb0b286b2e69ba46649e13cff4b41afc8d4493bedf92678aeb",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-049.html",
+      "bytes": 477170
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/east-asian-studies/",
+      "sha256": "ece6576fdc90ff9d06c0265d5714238b15edb8dc08ca82bab6dd317c6db734d0",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-050.html",
+      "bytes": 477712
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/east-asian-studies/",
+      "sha256": "18138b54c5ff23d2d97cddcdbf554e9f208ed7ded6ff918a33c3a4a223853691",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-051.html",
+      "bytes": 477724
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/economics/",
+      "sha256": "1d99795e743435e4d41053d1dbcb851468275516bd5cc13e706c3addea967cf5",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-052.html",
+      "bytes": 478712
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/economics/",
+      "sha256": "f9b772d1e11e9399366413aa5fad92e841516d4180feabc99658d6fd77409be5",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-053.html",
+      "bytes": 477113
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/educational-psychology/",
+      "sha256": "33e6499760109f9ef755f4901d68cc0a7f1bcca680408fa7ad8c5d433450a431",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-054.html",
+      "bytes": 476358
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/education-arts-students/",
+      "sha256": "fb8d1ef8f1e40336e5a3681a46e237c6470dc8d3a797a434416b5c118f81c0a6",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-055.html",
+      "bytes": 475789
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/electrical-computer-engineering/",
+      "sha256": "47c73e051e737bbaf9c8cf862afcd867086563e745e1944bf946f53375b41ac7",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-056.html",
+      "bytes": 476276
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/other-programs/",
+      "sha256": "948a5916cd853a68c2bcfc7ec5f0138416c87a62579bb25e2388a2877bd5b590",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-057.html",
+      "bytes": 475043
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/english/",
+      "sha256": "a1914cdcc107add35652927ea014a024c7fcb71039f0fd21aa99d50bf0e2f46b",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-058.html",
+      "bytes": 481487
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/english/",
+      "sha256": "8f6c274eaa373e09ff832c2c3007df57e4fe47028d4475f8083bd4c732a6b16f",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-059.html",
+      "bytes": 479573
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/entrepreneurship-science-students/",
+      "sha256": "c1d6247b02667e249550752a6804af8293e7acaafa895039c999c6b8eb9209d4",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-060.html",
+      "bytes": 474101
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/environment/",
+      "sha256": "113ab3b9eee38588c349ad1202a91d114b4a7a39c473b4c55df34b6613206406",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-061.html",
+      "bytes": 471904
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/environment/",
+      "sha256": "5f45f4128bab9ea00311ad5a5404eb80431897976e061dde42748d65cea93ef1",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-062.html",
+      "bytes": 472388
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/environment/",
+      "sha256": "0fc53f3be80a1bbd437da5905a7c815c0cdcbb99289b3570b2974ca45dafefe3",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-063.html",
+      "bytes": 475904
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/internship-program/",
+      "sha256": "7c95e06d5dfc0f739905acad183a30279660ec4ae186755fcf646b633bbdd0b3",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-064.html",
+      "bytes": 472150
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/farm-management-technology/",
+      "sha256": "0f07e20886657710fe020a023bf90ac81217d5298e8b1a780658753c3015eebc",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-065.html",
+      "bytes": 484101
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/field-studies/",
+      "sha256": "63d0d33626553c4b43520d21a6018ec77e572089ddcff694175ceb01b0826719",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-066.html",
+      "bytes": 473453
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/field-study/",
+      "sha256": "f945fdda83576684d6a4c3c185db221f663f2c3234b30c8e9946d9d8bed02f71",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-067.html",
+      "bytes": 473816
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/field-study/",
+      "sha256": "ea5e288582cbefd36e9708a2ea70b13d4233bbbfdb1c089dd46be8b231becdcf",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-068.html",
+      "bytes": 473888
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/first-year-seminars/",
+      "sha256": "773871c3becd6ee9be2f22f63c73c8506a285e65c9b877a2449bb0fea6581d96",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-069.html",
+      "bytes": 486475
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/foundation/",
+      "sha256": "9efae69cf42c3a6c8f3d1ed4c4eaa66142f28eb0910493f67f4785eeb259e6d6",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-070.html",
+      "bytes": 476347
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/120-credit-foundation-course-distribution/",
+      "sha256": "623e3121803fbbc461b29448d52ecd226c20128286cc2ea4aebc5b8b3dc4463c",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-071.html",
+      "bytes": 481614
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/french-language-centre/",
+      "sha256": "5c4c30f0ad47273b048ea97b9af5789b118c9a29680ee2bd3b26e61a7e9e0efe",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-072.html",
+      "bytes": 476184
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/gender-sexuality-feminist-studies/",
+      "sha256": "f356bbb74a6a88c176439b595f20a78ac3594324dc896830bedb3b1a959392ee",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-073.html",
+      "bytes": 476665
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/gender-sexuality-feminist-studies/",
+      "sha256": "87d788268c80376eed39b39638310bfa8aa5ce71bc63fefe2cb92a82a1213a11",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-074.html",
+      "bytes": 476568
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/general-science/",
+      "sha256": "4640dfeee82ad5845459afb670d1cfe902c76b863af7787e2d7d226d53e22aee",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-075.html",
+      "bytes": 474318
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/geography/",
+      "sha256": "34e74b9830b40c0ae55aa72d1069667fa70e6a38ecab1ec7d9f4e398b53be255",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-076.html",
+      "bytes": 481542
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/geography/",
+      "sha256": "52491ffae261692c4c64ef9f868f9d0ef6b13b4a05e3d7bc4c68752d58c0c9d1",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-077.html",
+      "bytes": 482097
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/geography/",
+      "sha256": "4bdba079488c97dda8c5ba695c44dbde0b5f5281a8bda483659807c42d2dcbd9",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-078.html",
+      "bytes": 481015
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/global-engineering/",
+      "sha256": "028ecc4aff38f0803441c4fb8f3b0ee2000e93dbbe1d74eb48f50f10ba7cbf39",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-079.html",
+      "bytes": 475565
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/history-classical-studies/",
+      "sha256": "7d8c8f4fe59eb733479e218031db69d79703cd09afa139932edb182ed5d5518e",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-080.html",
+      "bytes": 481433
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/history-classical-studies/",
+      "sha256": "b3060ec35878ac019fab633a4befe352418f01657e60ef04aecadb9bfa562eb8",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-081.html",
+      "bytes": 480525
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/honours/",
+      "sha256": "8768462c91076c3a7658ba7bd2385dcf57e24fd5ddab73da9980d6da80e8a440",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-082.html",
+      "bytes": 475855
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/honours-law-bcl-jd/",
+      "sha256": "d747aec5e86ca304891dc6b7bf8985445250cafd05ee13ad86caa2ac283c951a",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-083.html",
+      "bytes": 551716
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/honours-program-environment/",
+      "sha256": "684980f0178f9568d6466c446f6a09ead7161e4fbfa230c2bfda4462814093ee",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-084.html",
+      "bytes": 475848
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/immunology/",
+      "sha256": "ecebc7dfa765c000457a1828af93777c55bf2f547dbd9a8b456e1b5efd0848b2",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-085.html",
+      "bytes": 476092
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/information-studies/",
+      "sha256": "1a6640ac25a30a529621c179eea1f1db90e8bebe48ad62ad4f0fe31fd9f25293",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-086.html",
+      "bytes": 475812
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/world-islamic-middle-east-studies/",
+      "sha256": "bb171e8fd3f8220726d8aa67004018ab326f400ed85ccb05c4af670a2af67835",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-087.html",
+      "bytes": 480501
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/institute-study/",
+      "sha256": "1fbb46d61bc85f269cc5da218de697c811740c940ab0ca9bdfe51f0d9a5ff1bf",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-088.html",
+      "bytes": 485190
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/institute-study-canada/",
+      "sha256": "d4e28512ca5a8649ef93d9cd5a15c70f940e9f0e0f61c1692a36086a82b0dbf8",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-089.html",
+      "bytes": 485157
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/islamic-studies/",
+      "sha256": "83ec0ff1db7bed4fb632d9a0e20f9001bbd290d32e6e31ce0ad074704bb1e905",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-090.html",
+      "bytes": 480166
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/parasitology/",
+      "sha256": "c4377c5e6cb8208c5bfb56bdd83ed59048d009ef246b379b75d88222f2dd2a93",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-091.html",
+      "bytes": 474504
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/interdisciplinary-life-sciences/",
+      "sha256": "fa2a5e1b7c6a1c244fa7e0d5ab4afa504e35849b56459f30d026e6e5bd21d94a",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-092.html",
+      "bytes": 474906
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/interdisciplinary-life-sciences-minor/",
+      "sha256": "8a59e962532be7e8d95212d2bdf937782765acd294bf2e306e0cb0949e4266e4",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-093.html",
+      "bytes": 475085
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/international-development/",
+      "sha256": "fb08052f3e76b07e1574b58da4dbe43c3288abe3e4a9428a9f02a7d5a91f6b30",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-094.html",
+      "bytes": 477367
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/international-development/",
+      "sha256": "53de5a50dee9402a6501e0e3e299a943bb286553c803221b00dee3d3a8169e26",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-095.html",
+      "bytes": 477249
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/jewish-studies/",
+      "sha256": "c7f12b3fc47199a79f608eb4f6e3320627f595f5f0ec1324280313c45a54d292",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-096.html",
+      "bytes": 477327
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/jewish-studies/",
+      "sha256": "2295e5c85baa0912cefb5c02a63b6c54ec5c1072102c1021ae6e35cd0c71f5f3",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-097.html",
+      "bytes": 476077
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/joint-honours-component/",
+      "sha256": "c72bd719b8f9e4728cec19bda5a91173d16b04201bbb80608284aa2f69c6be82",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-098.html",
+      "bytes": 475137
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/kinesiology-science-students/",
+      "sha256": "38a9673489de09a34f627835f5ae1f819b19960954f2b2653d7fe532502a72fb",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-099.html",
+      "bytes": 475211
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/languages-literatures-cultures/",
+      "sha256": "44094c62ad2b23843c63ed1c6a6631c48564057e288e5dcc9844f367817eb7fc",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-100.html",
+      "bytes": 495713
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/languages-literatures-cultures/",
+      "sha256": "d95ccff36ade1b1af1cc936825b7e580346cac85745d32f1feeab42949e8eca4",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-101.html",
+      "bytes": 492896
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-management-non-thesis-general-management-joint-bcljd-mba/",
+      "sha256": "cb00e8b1d2805bb147667a99946d1ea8b13f836a259d4ece4fc0e068ea830f96",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-102.html",
+      "bytes": 563898
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-social-work-non-thesis-joint-bcljd-msw/",
+      "sha256": "89ff3d8c80687a3a3a0db900117c646bd7d3ce4fdcd543d72b2cea5ef2b34b94",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-103.html",
+      "bytes": 554518
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-bcl-jd/",
+      "sha256": "e7efbbbb6c0fcc07acabdb0813f55d64329c0feba49b7c28b58a96b810fa756d",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-104.html",
+      "bytes": 549301
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/law-bcl-jd-minor/",
+      "sha256": "d33863ef0b0391e1cb2cfe579d6f05d35bccd6caf836eccee570e85077b5c8bf",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-105.html",
+      "bytes": 549944
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/linguistics/",
+      "sha256": "39146d7ddfe06c1d841aea3a943190b72ebac34a5a817d6bdb62e9fc2a21c499",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-106.html",
+      "bytes": 477053
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/linguistics/",
+      "sha256": "8a776b12239269ab9558cb055b1cb46e3f50df824acc751df357be8203230db6",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-107.html",
+      "bytes": 476664
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/litteratures-langue-francaise-traduction-creation/",
+      "sha256": "bec311f1ac443ffd9b27cb1949d8224ae48f1aaf9d82af89c645c12fb7824833",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-108.html",
+      "bytes": 478960
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/french-language-literature/",
+      "sha256": "2d66b60c648e1a2d0b38df4e4cea28737c6c8d8cc0fd2e7a5b097334449c7a37",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-109.html",
+      "bytes": 478747
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-commercial-negotiation-dispute-resolution-bcl-jd/",
+      "sha256": "95a7bbb9231c0ed0c690d8a67abc60fd3b30fd8143ec1085589999fb8b2b8ef3",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-110.html",
+      "bytes": 530967
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/law/programs/major-concentration-law-major-international-human-rights-development-bcl-jd/",
+      "sha256": "fd745c6c8e38a50d3aa13f7c586e97aacb0b425d79cc3ab2eb745d9bbe799a71",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-111.html",
+      "bytes": 531662
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/major-environment-bsc/",
+      "sha256": "ed04218ca5ffcb6b18ac4d5370cfa4419bb02fa60a0cedcddc9ff88249a152ac",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-112.html",
+      "bytes": 475854
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/environment-bscagenvsc-bsc/",
+      "sha256": "0985655bf30e5a32425df6cfe91bbd39075d1e80d890697ad88de6877219bc2b",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-113.html",
+      "bytes": 477707
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/majors/",
+      "sha256": "d7a8760cab011ab540742216b1e6f1a37db1f20bae760d1171f1f2ec2d5711ce",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-114.html",
+      "bytes": 475988
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/management-core/",
+      "sha256": "03283adc85f2fea492625f4bb5e1e1b9b217d87a7abe53eff53b473e6bb7cee2",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-115.html",
+      "bytes": 486333
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/management-arts-students/",
+      "sha256": "76a1f786db6c8dd157c93d708945003f61ec78976a4ecd8b94a279f5539e0b37",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-116.html",
+      "bytes": 471556
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/management-science-students/",
+      "sha256": "307003a4842bc3c2adbae6af83bab1da8a3f3c36168064d657b9c74c80f117ba",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-117.html",
+      "bytes": 474547
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/mathematics-statistics/",
+      "sha256": "28b44bb1ac0a0b7b78c29c29a5e4b8509d6910a4b6d6d50fb6c9726d2642f970",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-118.html",
+      "bytes": 478016
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/mathematics-statistics/",
+      "sha256": "42bfee77e45ef5b25eeb2811dcb339cc108a29b555b26ba31a86803f21af7c77",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-119.html",
+      "bytes": 481416
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/mathematics-statistics/",
+      "sha256": "d8e52622ebc77f9dcabb70d6c548696fd2311eab4b72c14f13ec0b40578d0c32",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-120.html",
+      "bytes": 483210
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/writing-centre/",
+      "sha256": "8ae6e3975d5efb46e923ff4fab763ab19bb0fc3ccf66c1b0ec38c113fd1685b1",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-121.html",
+      "bytes": 501805
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mechanical-engineering/",
+      "sha256": "9405f4161430171aba98f41b8610f7ddf0b9ada5170c4fbf23ee9543aa79cb4d",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-122.html",
+      "bytes": 477795
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/microbiology-immunology/",
+      "sha256": "3cb58ab24029803548c7122229512666208e7341ec9750565d1a6bf1084d0173",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-123.html",
+      "bytes": 479439
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/mining-materials-engineering/",
+      "sha256": "e6221cbb9c24fc9778a3ff77b20b82093708fa22864c700008a454d42f5bd0dc",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-124.html",
+      "bytes": 482183
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/environment/programs/minor-environment/",
+      "sha256": "e94448b00e71dbcfdfc2767bdad50a521fe0ac565160950140d2b196fe5f93e7",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-125.html",
+      "bytes": 475400
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/minors-management-non-management-students/",
+      "sha256": "42f38698c6d63ae587e142ec34c8a3e97fe1ea1a42b72f2a875128f9123772d1",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-126.html",
+      "bytes": 473746
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/minor-programs/",
+      "sha256": "70a909254ffe6c0751d9e57553ad8da80dbc2c3868b8c066d0b09415e9da8f12",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-127.html",
+      "bytes": 491430
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/minor-programs/",
+      "sha256": "7c0e958c163332b4d3a650c817ee747c8fefeea3e902a81030ca29fe94ac0d0b",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-128.html",
+      "bytes": 475966
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/management/programs/minors-management-students/",
+      "sha256": "f51ac2b874adaf11f90e2d7ef6c040a73c2b13f29b2913efe97dd86459008e11",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-129.html",
+      "bytes": 475070
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/music/",
+      "sha256": "a2b54add8fbc2c82e41d2a8d34b131539f6ae04e535320210267bb6b387d6514",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-130.html",
+      "bytes": 476133
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/music-science-students/",
+      "sha256": "cfd6515010ba612506cbaa7cc4ebf1b506efd3756497003f8b397a7ef77ac996",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-131.html",
+      "bytes": 475774
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neurology-neurosurgery/",
+      "sha256": "f9b93c596ceca174d6d5b5ec32fb65f23a15964fb105910180bbae12aa5e3606",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-132.html",
+      "bytes": 474498
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/neuroscience/",
+      "sha256": "9180e4418e976199234114d18271dc8e896999887688486ed044105e57ab4a64",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-133.html",
+      "bytes": 477365
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/neuroscience/",
+      "sha256": "a6767f826eb974020fd321e89bf7a2a9b30a1d1e9cddac237936d57ec2215738",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-134.html",
+      "bytes": 475906
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/nutrition/",
+      "sha256": "18c5234afe03127af1b1cf6a40e83b7f50af468ca0740ed6534c6d6ce7c428fd",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-135.html",
+      "bytes": 473981
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/pathology/",
+      "sha256": "4302ee1f33628587a13ce25c36cbfb638f80f36d935abc222d8a6e87780c2de3",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-136.html",
+      "bytes": 476509
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/pharmacology-therapeutics/",
+      "sha256": "166f8f83fd5d3eb8feb590f3e7cb110152f5623423c3cf899ffb26fb5f8dd068",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-137.html",
+      "bytes": 476957
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/philosophy/",
+      "sha256": "fde904a1c8d2fe2efe2537a63cb011adb917e752f6d29a0060a2a98ff1b8228a",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-138.html",
+      "bytes": 478890
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/philosophy/",
+      "sha256": "8a5c1dbac3f50f5cc1a31d259fb9dfc507439e9b9b88b3ef3d520270d7f13034",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-139.html",
+      "bytes": 478009
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/physics/",
+      "sha256": "d60ca208abeb5fa16834b4e3eaadddd4c01fc42b8c723e7c92c62810d8e004e6",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-140.html",
+      "bytes": 480214
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physics/",
+      "sha256": "53cde12e3d95e19537b8369ca7267a1e80979fad12c7dc555e169b1bc9547d9d",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-141.html",
+      "bytes": 482137
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/physiology/",
+      "sha256": "4f9dea901f3a134e7538b77dbe648930a5a2d133bc5a8d02aee0bc99b47c122e",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-142.html",
+      "bytes": 478980
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/political-science/",
+      "sha256": "59e563fdc5684e77a4cd2cf5b9055b97736fdc9b23cf644746b50c41fb5cfe9a",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-143.html",
+      "bytes": 477815
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/political-science/",
+      "sha256": "826c5fcc4e8d90a56569e81fd5db47b6f99ebba13149d884a85783a3b74142b5",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-144.html",
+      "bytes": 477784
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/population-global-health/",
+      "sha256": "7eb103083f76ecce4588c9852d24b17473d53fb9df8a9d3a94de50c2ce4d0c3d",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-145.html",
+      "bytes": 486744
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/medicine-health-sciences/professional/programs/",
+      "sha256": "595755f788b12904e91064e54da2bfe25f33a7431dd3d87c7a752a6d97a06e9b",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-146.html",
+      "bytes": 471287
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychiatry/",
+      "sha256": "d36ab977935b97aace87d4ff35bf6df81e95aca478323253fdbc2f53f828dcce",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-147.html",
+      "bytes": 479376
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/psychology/",
+      "sha256": "c46d63bd75c8f277ac6e55d528306485bde05ac3c55aabf44dca85dd5ee353fc",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-148.html",
+      "bytes": 477547
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/psychology/",
+      "sha256": "2ee0e56a542c0095d9cfe88926e512bf8e1d94d30a59d286abbd7f2c46eca1aa",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-149.html",
+      "bytes": 475716
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/psychology/",
+      "sha256": "ab2d53adb063e91fb30c4ce5e07e1312bfc3b43b6a42ffb084ba96632a2a469b",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-150.html",
+      "bytes": 483871
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/redpath-museum/",
+      "sha256": "2012831e1b4cd8e479874cbb84d803a93076313d39678a799b061d47759c572e",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-151.html",
+      "bytes": 478768
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/redpath-museum/",
+      "sha256": "6b8e742d3fc07a183753e5d7effa1aaeba09d78edb18942116f0a600466420db",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-152.html",
+      "bytes": 478587
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/religious-studies/",
+      "sha256": "9eb246d326e56eb4bcd8ad578dcfdd834f908f661f68e7a102a629e5f212e6b4",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-153.html",
+      "bytes": 503269
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/religious-studies/",
+      "sha256": "5cc3bc72e8cbf1baee238a732fc6f36af6e356fa8d1a0e9660d8f942d259e1c0",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-154.html",
+      "bytes": 501360
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/agri-env-sci/programs/human-nutrition/",
+      "sha256": "8352827390383444d61a013ab1d8bebaedc1b1cb0177b73442b0c864c2575cbd",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-155.html",
+      "bytes": 480416
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/science-arts-students/",
+      "sha256": "457c8f1235ea4bbbb0bc3d0f746c69785be7e9cb49bdb239fde4a4f7f6887c5b",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-156.html",
+      "bytes": 475398
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/science/programs/science-mathematics-teachers/",
+      "sha256": "35cf452bd3fff80bafb4d52ca990a4ef244286c4bc2bf3235a0da72487452b90",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-157.html",
+      "bytes": 475975
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/social-studies-medicine/",
+      "sha256": "0e1fbc3f70034e20db73b6d0e82c76e36c5c2fbdb1f5762ae730786403a61167",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-158.html",
+      "bytes": 475789
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/social-studies-medicine/",
+      "sha256": "746a48b61876a3db78de54d8786cb3f7c28b62fa14fad5f2a815d4d8f60ea4c9",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-159.html",
+      "bytes": 475886
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/social-work/",
+      "sha256": "80b7e90c0ee00c77a4c5d73331bf1be9fd3ebe5e73f0fc8495440f30c3428ddb",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-160.html",
+      "bytes": 478677
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts/programs/sociology/",
+      "sha256": "234c02d9f2d0e33d2f44c610a68a526cbe73c5369f06dcfa461cd2a74852cb10",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-161.html",
+      "bytes": 477201
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/sociology/",
+      "sha256": "d8d603727d6e201d63b91f237ccf14bac8de7938abdee96c957bd7f1825d38e1",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-162.html",
+      "bytes": 477195
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/arts-science/programs/sustainability-science-society/",
+      "sha256": "facd15e939b2a4c03a2f243d78acb76dd1372edc0a628b8b11044528c4ecab9c",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-163.html",
+      "bytes": 476859
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/sustainability-engineering-design/",
+      "sha256": "a32e6e3a35b574619f5eb225fb6ebb51ef32d2153bea45a49419fd6cd5b78783",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-164.html",
+      "bytes": 484366
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/education/overview/programs/",
+      "sha256": "a1cb1ac721ef87137320b4d7bfd58b04b44244014470ddbf88d54e7050e8e360",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-165.html",
+      "bytes": 487052
+    },
+    {
+      "url": "https://coursecatalogue.mcgill.ca/en/undergraduate/engineering/programs/urban-planning/",
+      "sha256": "afec198bb998fcbaeb3ef43b98366dda256d26cfc6db93af5fa0808c005fd8e3",
+      "raw_file": "scratch/full-catalog/root/mcgill-dept-166.html",
+      "bytes": 492328
+    }
+  ]
+}

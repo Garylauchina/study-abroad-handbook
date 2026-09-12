@@ -1,0 +1,45 @@
+{
+  "original_manifest": {
+    "university_id": "ucla",
+    "checked_at": "2026-09-12",
+    "final_count": 141,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "UCLA active undergraduate major-code registry; no other UC campus",
+    "official_published_count": "Registrar introduction says 141 majors; live table yields 142 active degree-code rows; two Public Health BS administrative codes denote one named degree, so 141 unique degree identities remain.",
+    "directory_urls": [
+      "https://registrar.ucla.edu/faculty-staff/courses-and-programs/major-and-minor-codes/undergraduate-majors-and-premajors",
+      "https://admission.ucla.edu/apply/majors"
+    ],
+    "page_coverage": {
+      "pages": 1,
+      "table_rows": 178,
+      "pagination": "one complete static tbody, no next-page links; all active and historical rows captured"
+    },
+    "filter_rules": "Keep Active BA/BS/BM major codes, including individual concentrations and prelicensure nursing; exclude Pre-Major and all inactive/discontinued rows. Preserve separate degree and school variants.",
+    "excluded_count": 36,
+    "can_prove_complete": true,
+    "completeness_basis": "Complete active entries within registrar administrative registry; count differs from prose marketing count and is not a count of first-year application choices.",
+    "gaps": [
+      "The two active Public Health BS codes 0789 and 00J5 are retained in raw source; deduplicated as the same degree identity.",
+      "Admission availability for a future intake not asserted; some currently active registry majors have suspension notes on admissions list.",
+      "Individual Field school variants and BA/BS are separate records.",
+      "Duration and language not stated in the collected registry, left null."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://registrar.ucla.edu/faculty-staff/courses-and-programs/major-and-minor-codes/undergraduate-majors-and-premajors",
+      "sha256": "efa41c017a135f69250c78b03599a728694207ff1784db1b32e9a5fa08695a62",
+      "bytes": 39381,
+      "raw_file": "scratch/full-catalog/us-b/ucla/registrar.html",
+      "meta_file": "scratch/full-catalog/us-b/ucla/registrar.source.json"
+    },
+    {
+      "url": "https://admission.ucla.edu/apply/majors",
+      "sha256": "22e748599fbc0df4cf836f3a2045e8149ad7858ea4f1bf8c5d256b6163dfb84a",
+      "bytes": 70031,
+      "raw_file": "scratch/full-catalog/us-b/ucla/index.html",
+      "meta_file": "scratch/full-catalog/us-b/ucla/index.source.json"
+    }
+  ]
+}

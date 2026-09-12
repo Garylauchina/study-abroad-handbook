@@ -1,0 +1,1373 @@
+{
+  "original_manifest": {
+    "university_id": "purdue",
+    "checked_at": "2026-09-12",
+    "final_count": 165,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "Purdue University official admissions directory for West Lafayette and Indianapolis; each record carries explicit location from its program Quick Facts; excludes other Purdue system institutions",
+    "directory_urls": [
+      "https://admissions.purdue.edu/academics/majors/"
+    ],
+    "official_published_count": "170 directory cards before excluding exploratory/pre-professional routes; first page displays Showing 170 majors",
+    "page_coverage": {
+      "pages": 11,
+      "page_card_counts": [
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        10
+      ],
+      "unique_program_details": 170,
+      "detail_pages_read": 170,
+      "pagination": "GET ?paged=1..11 complete; total 170 unique URLs equals published count; final page10 records. Initial public POST API redirected, so all official GET pages were used instead."
+    },
+    "filter_rules": "Read Degree and Location(s) in each of 170 program pages. Keep every named bachelor major and split Anthropology BA/BS. Exclude six exploratory/pre-professional/first-year entry routes even where template Degree field says bachelor. Landscape Architecture pre-entry route is attached to the actual major.",
+    "excluded_count": 6,
+    "can_prove_complete": true,
+    "completeness_basis": "All 170 directory cards reconciled with 170 program Quick Facts pages; excluded non-degree routes have their own raw page evidence.",
+    "gaps": [
+      "This is the official undergraduate admissions directory; it does not independently enumerate every internal second-degree route or optional joint-degree combination unless listed as its own major card.",
+      "No claim that an Indianapolis program is physically offered in West Lafayette; campus is explicit per record.",
+      "Duration and language not inferred."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://admissions.purdue.edu/majors/agribusiness/",
+      "sha256": "ca53f97cc8d5afd8067dd87e558a001446ed8b6fd987078f669b6bcd84e9d394",
+      "bytes": 118351,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e954c86449fe.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e954c86449fe.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/construction-engineering/",
+      "sha256": "9b9539d77ff3ce4e1d8008530731e087d609cf9b52f26027960ddf3c59d5cf18",
+      "bytes": 118563,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-d43017decfbf.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-d43017decfbf.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/geology-and-geophysics/",
+      "sha256": "ac62f80bf2f932e14b948253bdf9a7a8cbba5b55298ba2276fc835a5573a0413",
+      "bytes": 105227,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-7bb7e915c507.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-7bb7e915c507.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/environmental-geosciences/",
+      "sha256": "ac276976d9040dbeae4f7a997e9c24c88c00ba4a18c043172a995e4d6aa41605",
+      "bytes": 105636,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-3afdaf42acbc.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-3afdaf42acbc.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/physics-applied/",
+      "sha256": "b69b72dd2a97c655d76fc461ce110c303fbaea42263cac3799866bf619645472",
+      "bytes": 106296,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-8df428e4948f.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-8df428e4948f.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/mechatronics-engineering-technology/",
+      "sha256": "38648d9c96155d59b5675ac6ac8575eb9c5a3087bbc239b252a0f9ca7501dfa6",
+      "bytes": 111726,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b54f43379df1.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b54f43379df1.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/social-studies-education/",
+      "sha256": "af414f1e5ba802ae83f01f797d0fb235b69d7f7348f9e774c4dd8a2893a118bf",
+      "bytes": 103490,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-04d08245fd49.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-04d08245fd49.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/agricultural-engineering/",
+      "sha256": "abdfe531e4ae769e5a2274445d2faec1b3795b88fb53b5d4f9637f6b21496171",
+      "bytes": 114024,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-8964f0fcea9e.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-8964f0fcea9e.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/hospitality-and-tourism-management/",
+      "sha256": "2212c865c0d0265064cd72f2149758ffbff679fc85a9ccbcd75c6a98a5560327",
+      "bytes": 100020,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-70990844229f.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-70990844229f.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/organizational-behavior-and-human-resource-management/",
+      "sha256": "0f0761e3f5ee94b3c9de2fd62c7da832f68b5d18a1482b26cd9b92091907f401",
+      "bytes": 110546,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-fb1f9288a096.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-fb1f9288a096.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/theatre/",
+      "sha256": "1053011010fe43ff2170a89260dbb9ad0ffa9f3745db716376c7790a58135ea5",
+      "bytes": 119763,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-c56a486d2df1.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-c56a486d2df1.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/robotics-engineering-technology/",
+      "sha256": "0e4f799b50df61edf6af2c81ca215e039136eb92b08dd8148dbb75c624d6842a",
+      "bytes": 111383,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-32ef33c6848d.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-32ef33c6848d.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/aquatic-sciences/",
+      "sha256": "4564f415650cd2604f35c496f47330881a267fde859224a30fae416a2c4eb105",
+      "bytes": 111282,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-96ed728dced2.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-96ed728dced2.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/motorsports-engineering/",
+      "sha256": "421957d7279065de8eb6ea7e5395243c24fa191981dd9a46f7b631c58633d177",
+      "bytes": 116895,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-6f9778c09bcc.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-6f9778c09bcc.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/wp-content/themes/purdue-home-theme/build/blocks/post-grid/frontend.js?ver=7a034189cf1bd3d78505",
+      "sha256": "c96bf1e6868de0c1b0dc23c8ac7c397563737a53743f3f0f9e184e130f423c1c",
+      "bytes": 6287,
+      "raw_file": "scratch/full-catalog/us-b/purdue/grid-script.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/grid-script.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/landscape-architecture/",
+      "sha256": "0465e5bdcc3c03e3fdee22786781d9890755e23c8a23d9d776cebfa042949754",
+      "bytes": 112865,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-42c5cbde0a37.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-42c5cbde0a37.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/crop-soil-agroecosystem-sciences/",
+      "sha256": "9e98c6a46cff7b24cdab4fc523f79be0d234dc48af3ab8c04ad489fd8c530a0f",
+      "bytes": 104627,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-3cafe24f55e2.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-3cafe24f55e2.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/7/",
+      "sha256": "bbc11f9c978038c47a6e94edb152ca491b991d4b08597f957526b68f05c28fc0",
+      "bytes": 153467,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-7.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-7.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/computing-infrastructure-network-engineering-technology/",
+      "sha256": "c0478e8d6a095c71162832e8d0edbedb40af85d43d457d6869ba488778c21955",
+      "bytes": 110726,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-4825dde09203.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-4825dde09203.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/aeronautical-astronautical-engineering/",
+      "sha256": "6fcaa01b6bd9ea9fdfe7bd40e2b589a65f7b15f003e45ebfa4e6f426fdf5c60f",
+      "bytes": 122413,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b3042d36b039.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b3042d36b039.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/marketing/",
+      "sha256": "6da832e72a9db69a6aed4d7f97dcb10fc058794d0d2e5c3b159b318502df029e",
+      "bytes": 115999,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-7a3aa451d2ee.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-7a3aa451d2ee.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/insect-biology/",
+      "sha256": "f6bc85f17e8b0c685feb627bd5b68bb24cf681240abacb048493a3bec62951a3",
+      "bytes": 115424,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-f456e3874161.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-f456e3874161.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/brain-and-behavioral-sciences/",
+      "sha256": "cf4beb6eae703a2141b798a6370c86c1a6add8ea23ad36cbbbaadfa9a891ae23",
+      "bytes": 106023,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-6126b8cb9ec3.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-6126b8cb9ec3.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/chemical-biology-and-biochemistry/",
+      "sha256": "c71ab54807788adc389a3737d4d375089bd917a162e70b4a90389e8d0124a1e2",
+      "bytes": 105473,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-66b806c69ce1.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-66b806c69ce1.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/computer-science/",
+      "sha256": "a8071ac2745a3a700e3a8175ae03500083e321a680c7bb8a10fe18a4838373cd",
+      "bytes": 110703,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-a0af2c445e76.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-a0af2c445e76.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/integrated-studio-arts/",
+      "sha256": "b44870371d5870d3d5412e230b2b3085d525f95dfcb97463c2c600cf19e37882",
+      "bytes": 116576,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-01ae175c5a89.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-01ae175c5a89.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/exploratory-studies/",
+      "sha256": "7407cdbb9af56248b16ae57fddf85a5cd4568a287631958e8d4a59fe104f92ad",
+      "bytes": 110495,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-9436461b6502.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-9436461b6502.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/medical-laboratory-sciences/",
+      "sha256": "341692cad70a944104cde60e5f56d98aa45e9f66600c45978d438fecf8e07f7a",
+      "bytes": 107473,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-28d01f16df1c.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-28d01f16df1c.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/general-management/",
+      "sha256": "19d4e1501efd09063cf01e8889a72a8b62c7259e96ff4666c932801e7b66399d",
+      "bytes": 115473,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-a977a98cc537.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-a977a98cc537.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/virtual-design-construction/",
+      "sha256": "6c3e6e873fb232513b8792ba8821555a1030eef732abca62390ad840142054be",
+      "bytes": 107302,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-9db2516c0711.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-9db2516c0711.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/engineering-first-year/",
+      "sha256": "9549908d19bcc32973ceb85d338730c1ac6032f971b29526c22045f55d92c2ad",
+      "bytes": 109363,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-c22c51d94be0.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-c22c51d94be0.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/selling-sales-management/",
+      "sha256": "8e6f7a1fa1c608f426b3eacc7102f4168a5056b786638e972947c301681ae4b5",
+      "bytes": 104643,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-1f6a92b48c22.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-1f6a92b48c22.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/genetics/",
+      "sha256": "c65c4a48669cdc90cca7a59bfa32ad3f18fb1034b6de33efa2fa7ded4c90407b",
+      "bytes": 104819,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-aa63c0ec07af.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-aa63c0ec07af.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/special-education-mild-intense-intervention-p-12/",
+      "sha256": "fec3cae3ff523639605052e39e167ed7088270c9576537a048b35736d83febf6",
+      "bytes": 103441,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-d223d553f5f0.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-d223d553f5f0.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/wp-json/purdue-home/v1/post-select/",
+      "sha256": "0ab17728a3336b1be0eaa1fa6a79e44aa6374fcd3f7f83c4060242836c3a704c",
+      "bytes": 35646,
+      "raw_file": "scratch/full-catalog/us-b/purdue/api-page-3.response.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/api-page-3.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/integrated-science-and-business-applied-statistics/",
+      "sha256": "fdaec7ffd79ea5293d8c9ebec9d4b76ac270f1721e36222dd445cee75ce09cc6",
+      "bytes": 105993,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-565ad7dccf40.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-565ad7dccf40.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/sales-and-marketing/",
+      "sha256": "9218880c611e2fb20d1f1eade1ff2e24bce1f91a98f30213a3b49e3263dd3865",
+      "bytes": 110733,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-88c8a53b4229.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-88c8a53b4229.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/2/",
+      "sha256": "4d36b393f3800c4a600bdaf33123d14829535c3200f0ab1b3c5ccd0493ece399",
+      "bytes": 153574,
+      "raw_file": "scratch/full-catalog/us-b/purdue/test-paged.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/test-paged.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/english-education/",
+      "sha256": "cba8dc397bcd0437391306448800deeeb4409b1bc15e51a30e61325254fe667f",
+      "bytes": 103146,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-ba889c225389.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-ba889c225389.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/electrical-engineering-technology/",
+      "sha256": "cea81f79a87cb8dbce2c1f9f8a44f76d07fb56916afcb83cd3e3a4ce039f192a",
+      "bytes": 107296,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-6628427f95da.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-6628427f95da.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/health-and-disease/",
+      "sha256": "deddc304f8cdf5ca348ca391f0cbc529b2494252f83d9644f18b594ac946ee39",
+      "bytes": 104978,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-3396c7c57cff.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-3396c7c57cff.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/construction-management/",
+      "sha256": "057258557766097444502605efbcf3eb5f0e5de776d4f4ce2d7f8186c869c5a2",
+      "bytes": 115072,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-00ea2d1939c6.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-00ea2d1939c6.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/visual-communication-design/",
+      "sha256": "16fc8f80edc83df43bfb5189870dea7c44cefb0e97527df290996ec5296782bf",
+      "bytes": 108986,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-50b0dfd3d4b5.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-50b0dfd3d4b5.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/biomolecular-design/",
+      "sha256": "94013ef33c511a5da65bf9593a0ed32d3eaaab12151b63f572e6e9fab9b6c95d",
+      "bytes": 105467,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-fa2c23709ed8.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-fa2c23709ed8.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/farm-management/",
+      "sha256": "2d3c7bf0ba66fb2db43fa4e6803ede2c6f3384c0583e05861385d9351c78f2f9",
+      "bytes": 111192,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-255ae9a64a17.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-255ae9a64a17.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/computer-engineering-technology/",
+      "sha256": "732aacc3d7b0131731af0838eb5f5e0102571209ac6ce22dc821fd1d7d4e8aae",
+      "bytes": 105715,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-5af3a9b249c0.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-5af3a9b249c0.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/biomedical-health-sciences/",
+      "sha256": "2e77eb9e3b4e82b96aaab207bbf6aec90c23b6758871e9e3140b3f741863430a",
+      "bytes": 113096,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-8ce840b13876.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-8ce840b13876.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/public-health/",
+      "sha256": "02ebe8c3e7d51d76ee90178f83f15b9d63eecfae273a7b017f434def36830033",
+      "bytes": 112094,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-0015071103de.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-0015071103de.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/environmental-ecological-engineering/",
+      "sha256": "964fca8435aea5fc27067337c601192006e61dd2f0d149a65d7b68bd6b457571",
+      "bytes": 122499,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-9bac8dace6cf.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-9bac8dace6cf.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/computer-engineering/",
+      "sha256": "0465e8bd101abe7ff99c3039bed14a8e45eb951dcd012272b6f59315c7e7c1c4",
+      "bytes": 115009,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-30039050b742.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-30039050b742.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/2/",
+      "sha256": "4d36b393f3800c4a600bdaf33123d14829535c3200f0ab1b3c5ccd0493ece399",
+      "bytes": 153574,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-2.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-2.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/economics-college-of-liberal-arts/",
+      "sha256": "420e9c4e01f087dbb95a7b84fd3023ddb5485b41be384bb9c50115d2c142e6ac",
+      "bytes": 108434,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-aed39eb51fd0.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-aed39eb51fd0.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/wildlife/",
+      "sha256": "4bd95f38c56c0a488295eb3acc4d0b7e0bad9588d9276ea9f5edd97347980332",
+      "bytes": 108390,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-da48678149cd.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-da48678149cd.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/aviation-management/",
+      "sha256": "476340d753c7cc0cd8d377e6b0c6ab0f69b3c417c32f155f2b524006fd46b241",
+      "bytes": 109421,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b83f290f08f5.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b83f290f08f5.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/biomedical-engineering/",
+      "sha256": "07bbf0cb1137955f316835faf9dbeca59f10230d8a736fa61e3cbefc5283d1ea",
+      "bytes": 115260,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-f84153ffc674.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-f84153ffc674.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/turf-management-and-science/",
+      "sha256": "131b6e9c657d086835aa5736db39ed82b5a1ebef67ea1ce202a506366b0c8777",
+      "bytes": 111628,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-7a89b022fade.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-7a89b022fade.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/11/",
+      "sha256": "4d2f1cd25075b43a5744e7a3dbbe888880ea58f3743680a5dd4c3f2ccfc78df7",
+      "bytes": 148992,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-11.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-11.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/nursing/",
+      "sha256": "7b64ed8d25ae74e4948f815142c7ee7fc872bc571b984b2b115a8502f46abbdd",
+      "bytes": 115335,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-604279e45b24.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-604279e45b24.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/early-childhood-education-and-exceptional-needs/",
+      "sha256": "90545e005ad76bab00da3ee33fcf3a693fa8ba3eaf1a7ef00ead759bc583f965",
+      "bytes": 107572,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-3d5db6225f7b.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-3d5db6225f7b.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/finance/",
+      "sha256": "a8bab625dbf099808615469ce718920955f802f9ee9019d2cab1513dcbcb11d0",
+      "bytes": 113428,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-d00319b09a4e.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-d00319b09a4e.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/multidisciplinary-technology/",
+      "sha256": "f526454d92385a582bfa1d02a37939aa9ffb1261f904dc516bd9a522fd303036",
+      "bytes": 105284,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-abe23dca15e2.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-abe23dca15e2.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/interior-design/",
+      "sha256": "c39246098bc2d781ae5a5c5b53fb7a9f1c39886db409b03c43cebe88f8704ede",
+      "bytes": 110838,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-0688747f6ee2.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-0688747f6ee2.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/cell-molecular-and-developmental-biology/",
+      "sha256": "4886423622a7049e91e8499dd00b25e10e85567e1ff3e942d6fa66a061e2725d",
+      "bytes": 105716,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-1bf4a99cbaf1.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-1bf4a99cbaf1.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/mathematics-applied/",
+      "sha256": "71e722982e30bbf540beaf793cad9a2f505a7eee7ff376f55caba97392e6b057",
+      "bytes": 105457,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-60a02d06e165.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-60a02d06e165.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/film-and-video/",
+      "sha256": "e94aabf12ba52a568f14a272179d5be532bec1c91b3fc9f3da46cd8a2fa44e90",
+      "bytes": 112918,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-5ec66c8f13a9.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-5ec66c8f13a9.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/nutrition-science/",
+      "sha256": "73eabe1fa53d691600a9b0badb82358e0dfe157e6ac702f8e0c568b72f70e6d2",
+      "bytes": 111858,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-ac14b2fd4ab1.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-ac14b2fd4ab1.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/world-languages-and-cultures/",
+      "sha256": "b0fa7b61fbda73ee089ba40a74474d7aaa397c98cab66b66afa97c29c9133010",
+      "bytes": 109140,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-4525793b1940.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-4525793b1940.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/professional-writing/",
+      "sha256": "99b5e4fca0a8f49472076639906daea1239942d775f3b6723a41a40a8f7272ef",
+      "bytes": 114790,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-337d9a0dc991.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-337d9a0dc991.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/game-development/",
+      "sha256": "8e216bc70fc353a399c02b42f7aa710b283768782e1cf8b64bb5280790f5528a",
+      "bytes": 111288,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e44f10c97aee.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e44f10c97aee.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/8/",
+      "sha256": "da8cee4d56600ff15af381b8e4a3df4399b97695eedc7264777fac7947dc0973",
+      "bytes": 153806,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-8.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-8.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/studio-arts-and-technology/",
+      "sha256": "8f80832583a6f1b0d1f0c44ff07598b98e884e416504afebd90f0185cfce56df",
+      "bytes": 108719,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-8ef3d0b76269.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-8ef3d0b76269.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/english/",
+      "sha256": "6f462712f94b5025a85628e0b8c33db2085eea2e178f5da9afeb68dbae424017",
+      "bytes": 112975,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-36973e166245.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-36973e166245.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/computer-and-information-technology/",
+      "sha256": "a6bdc91fdc57e303d2734d67c82911dfe4e38730dcba5d325c2158f28924055a",
+      "bytes": 111524,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-a1f0ffc7d4a4.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-a1f0ffc7d4a4.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/wp-json/purdue-home/v1/post-select/",
+      "sha256": "6e2a64ecb6e51077e464848db8a470305a9404804591de0532766f9d987efaf3",
+      "bytes": 35646,
+      "raw_file": "scratch/full-catalog/us-b/purdue/api-page-5.response.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/api-page-5.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/economics-school-of-business/",
+      "sha256": "819525df34bb5791686ae2cb4face908012d509b4676784c712cc390869c9778",
+      "bytes": 115892,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-3a6e367fe62f.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-3a6e367fe62f.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/sociology/",
+      "sha256": "3e9b27e6e662bfc9108a1b7ee8b9d457ba8c1f9edbb65e991a3ca2e4f93a3142",
+      "bytes": 108520,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-399ebe1643c4.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-399ebe1643c4.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/interior-architecture/",
+      "sha256": "53888af351b951eccc6b54d190159e2f59ea6e90fbad895c486fe59eb9c6f396",
+      "bytes": 111703,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b844f8f48dee.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b844f8f48dee.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/mechanical-engineering/",
+      "sha256": "c8dd4b59f967ca92eab8655c6d31002e8327b685d41d929e0c902b73a305e547",
+      "bytes": 122598,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-c5014972f4e8.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-c5014972f4e8.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/accounting/",
+      "sha256": "e79f12896bcf9ae8c6dfbd3f7d13bc0394cb93e6ffab524de681123847c4b596",
+      "bytes": 115444,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-5739d3ab0dcc.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-5739d3ab0dcc.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/physics/",
+      "sha256": "0ad447303b493f88e9039aaeb4916c793a7226001adc4453def5176b5020fb32",
+      "bytes": 105304,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-3c0750441a56.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-3c0750441a56.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/linguistics/",
+      "sha256": "0b32da188b53977189b96f0c4dc7fe17622cbb010e09b992a383d7da3976035f",
+      "bytes": 110259,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-5e78a7ba0392.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-5e78a7ba0392.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/communication/",
+      "sha256": "055be3095c90be1bd0d5a97ab3e2feb105c18d269b39d94331418ca8efa795fa",
+      "bytes": 121082,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-2b84dc8c04c7.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-2b84dc8c04c7.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/sustainable-food-and-farming-systems/",
+      "sha256": "ddef81b2d11e1615af543ea5da2cbe7a4ed49e94ed16bba94c5b01e766e9ec29",
+      "bytes": 112893,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-24072e11e761.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-24072e11e761.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/interdisciplinary-studies/",
+      "sha256": "c91881b8ed349b12c1de1849b77f418ed9df8f6b2b685585de5108fc6ad8f97d",
+      "bytes": 111611,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-909bacec5fd1.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-909bacec5fd1.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/?alpha=B",
+      "sha256": "0ee239bd7487fe0b36589d3296bf85329fac019b1d46eea3467d61ef5dba91f5",
+      "bytes": 148185,
+      "raw_file": "scratch/full-catalog/us-b/purdue/test-alpha.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/test-alpha.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/developmental-and-family-science/",
+      "sha256": "acca888a19029cabbd341e5c9266ce39d321c6e2840fc2acc75472aeaa83a081",
+      "bytes": 112143,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-a3bc96d69afe.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-a3bc96d69afe.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/philosophy/",
+      "sha256": "997b3e880c26eb9759d2d976c55e9a9611c4b29540759914ea3ebbeddc5a4ba5",
+      "bytes": 117101,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-454be9e3ca40.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-454be9e3ca40.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/anthropology/",
+      "sha256": "bc10c48ccbe9809645dd2c5bfd8d9f5997bc9b5413915453c9a3d43931cefaa2",
+      "bytes": 120089,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-0e35f4d50ab2.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-0e35f4d50ab2.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/data-analytics-technologies-and-applications/",
+      "sha256": "b1af150e29266388472b331ec1c06d090c696e6e5364e5923fb5b7a0f96c8c40",
+      "bytes": 111649,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-4b1a4a2e6b74.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-4b1a4a2e6b74.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/horticulture/",
+      "sha256": "3a43e6dddc4a0fc5c3a625b8e18cf7afe05e9aaefbab149852f38f587b6e911d",
+      "bytes": 111591,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-1d9a3cc8a8fa.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-1d9a3cc8a8fa.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/industrial-design/",
+      "sha256": "188fbea7a0cb27d4aa9f81b104224a2102059a97210d1c80a9508ff2354ac85a",
+      "bytes": 109346,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e714e988a860.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e714e988a860.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/interdisciplinary-performance/",
+      "sha256": "08edf591f8f55a7f181063c7e419d004090066aef8a358905198a4852985ec1f",
+      "bytes": 109304,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-0185506e4d38.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-0185506e4d38.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/quantitative-business-economics/",
+      "sha256": "c2e404ac69580d70023d259621b430b26146f3d111a5cbde78fae2aa0061ed05",
+      "bytes": 109623,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b42bc2652318.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b42bc2652318.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/nutrition-dietetics-nutrition-fitness-health/",
+      "sha256": "e14e0bc7f7ff308c45224869126096ab28cb13403f2ef0009924fb1e7d396951",
+      "bytes": 112632,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-237abf053f29.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-237abf053f29.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/4/",
+      "sha256": "065ec874a3202835c64d2a5b2c11f11c898248c0bc89607c36e338d075d8261a",
+      "bytes": 153694,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-4.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-4.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/occupational-environmental-health-sciences/",
+      "sha256": "05dcc1b9d54c6614dac785d6f0bcbd455a0c1a0cc5ad5288462aede594fe30e1",
+      "bytes": 114812,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-f599e62ce819.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-f599e62ce819.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/chemistry/",
+      "sha256": "9abc9b1e9023aaa368cc7971b0f4d3e220b52bd1d4b0be71c65470c2a5fb2cdc",
+      "bytes": 105165,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-9c371845737d.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-9c371845737d.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/animal-sciences/",
+      "sha256": "bbe6b9164991604d34eea02ab147afc4aa269b4bf8a5a7cefaf27d865a862fc2",
+      "bytes": 115007,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-37be1c08b546.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-37be1c08b546.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/statistics-applied/",
+      "sha256": "621b46e9b39ade6c31b8cd825466238a9926dfbf09a6f36d7157d14d66dc1f2a",
+      "bytes": 106317,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e587ea4196f5.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e587ea4196f5.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/industrial-engineering-technology/",
+      "sha256": "510ac46d9d5bc282d8ce5b9b4b807fcb7408fff4f7c78028fc07fd6d10eca026",
+      "bytes": 107268,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-98a4484739c5.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-98a4484739c5.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/nutrition-dietetics/",
+      "sha256": "7bdcd251cb1ff3abad18b90de23da2f05e131c5cf35034330c7a36ce9bec0f9c",
+      "bytes": 105296,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-376561ba60c7.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-376561ba60c7.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/biochemistry/",
+      "sha256": "8a9b5c6393f8d26f67e031d6e719b27dc84ec3ec756fc91f7a3c935f4348b90a",
+      "bytes": 115859,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-8c8dc0ce8f87.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-8c8dc0ce8f87.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/materials-engineering/",
+      "sha256": "116ba9e239af2dd02bd1d94aa4a6dd34cb8496f8de4166c59853bdc06ef8bff4",
+      "bytes": 109779,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-0cee3f16fdc9.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-0cee3f16fdc9.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/supply-chain-and-operations-management/",
+      "sha256": "d46916e20a510a1b6202b23d096b7b20f0630d891dfb221ad582526e45574051",
+      "bytes": 114353,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-a7e9a1f08dae.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-a7e9a1f08dae.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/3/",
+      "sha256": "1c6d6e7024622220f935c0c3b539ddfd0b13a38ea9a9b3fbf8788296f76c06b2",
+      "bytes": 153609,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-3.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-3.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/creative-writing/",
+      "sha256": "a8545d94c8ffc349678eb7d15840aaf21c9de3f90d80e958d4c15d352437bd0b",
+      "bytes": 112293,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-2e4080bede03.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-2e4080bede03.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/interdisciplinary-engineering-studies/",
+      "sha256": "4718fb0a951f900ed730399043f012a9bfc023ae4e5aa7d9c80e44a1618dd328",
+      "bytes": 110984,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-6c4f7a78dafb.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-6c4f7a78dafb.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/plant-studies-exploratory/",
+      "sha256": "4dc094543435c70fe50ee3bb8d135f23566ec7f2a2fe3cf125f58caffe0b6312",
+      "bytes": 105057,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-286c563b2223.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-286c563b2223.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/environmental-and-natural-resources-engineering/",
+      "sha256": "aa69cb4b61eaceed2fe60b503126a729d4fa742a7b02f92e69b26d8631f52afa",
+      "bytes": 115726,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-35aea2be99e5.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-35aea2be99e5.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/cybersecurity/",
+      "sha256": "26bce703f53fced9971e58166ae424ae59045cd5eeab4a7c7f61b80331cb0d81",
+      "bytes": 111504,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-5565e8aa056b.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-5565e8aa056b.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/animation-and-visual-effects/",
+      "sha256": "6aec14ca2b76f3f4bc76b11a2b12b62769d8082e0b1615a23c4e85c361a902be",
+      "bytes": 111564,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e22aaa7f8ea0.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e22aaa7f8ea0.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/financial-counseling-planning/",
+      "sha256": "3cd754d6abcd8865a99bbe8df027a5ed35edf220a22d3d5014ef20616dbfff66",
+      "bytes": 99547,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-dcfb2fb1ae9f.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-dcfb2fb1ae9f.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/mathematics-statistics/",
+      "sha256": "c1f4d6ba69d1093022c2c228f84d3191fea75d32975d255689775c29b74f23df",
+      "bytes": 105341,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-8bfbb12b6afc.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-8bfbb12b6afc.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/data-science/",
+      "sha256": "bc5f9069792dd9f5f59d067f867396bb0c1c28b3c2d20978f9805a94c27e08d7",
+      "bytes": 105987,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-32e5409f3f32.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-32e5409f3f32.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/sound-for-the-performing-arts/",
+      "sha256": "77cc0309610a4a0be02ae9b728c5ecb43ae01e716cc0566c86e3cfca27704139",
+      "bytes": 109371,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-eb3131599276.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-eb3131599276.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/psychological-sciences/",
+      "sha256": "c441b875364c7a38a508ca3b48ef3cd4e7981029c40e58826d9ba156be9c140f",
+      "bytes": 105129,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b41e441d2ed6.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b41e441d2ed6.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/human-resource-development/",
+      "sha256": "31e5668afd706c57315226ee420274c2096b37a1cedb83f615a0ea1674bd0b7a",
+      "bytes": 115575,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-df38d065267d.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-df38d065267d.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/pre-professional/",
+      "sha256": "60a4c21c9a302250bc9789e692172f0bdfff165eb50553ed5535e62124cad43c",
+      "bytes": 103518,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-9aff28138bc2.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-9aff28138bc2.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/actuarial-science/",
+      "sha256": "99258661c011805a82aa93a6f521e30d6084772d93e84a89155149b1088b1195",
+      "bytes": 106310,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-f119e94d7101.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-f119e94d7101.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/science-education/",
+      "sha256": "37f840d78ba42317a1a5ac01746befcbec53bcf8bcd25926d5f733ddef4c0bd3",
+      "bytes": 106817,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b61a7f6d4dfd.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b61a7f6d4dfd.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/design-studies/",
+      "sha256": "635ca5b97311999ee1b1957a238636bf57d9c7143eb5fb50a03f2b098b6c78ff",
+      "bytes": 108655,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-eb7a62664aae.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-eb7a62664aae.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/organizational-leadership/",
+      "sha256": "253d1c7bcd067699c21f398ca86a6300f6f82f28e0ba6202d0db4f99c4a2e704",
+      "bytes": 109926,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-4314824a7cf0.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-4314824a7cf0.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/pre-veterinary-medicine/",
+      "sha256": "347b3708c0ea362ca2d17465cf524b049e73e7d5facbd463ab14c38cae1b0849",
+      "bytes": 105634,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-8e1bdbc9f41b.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-8e1bdbc9f41b.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/human-services/",
+      "sha256": "b6d88c64b5b49dc0420418c4479f92fcf6c05b494f69bc736ba0adec515e25a9",
+      "bytes": 112063,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-74c982b5e8c6.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-74c982b5e8c6.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/cognitive-science/",
+      "sha256": "23bfa50fa91b7fbe6662576ac8197526b1157a296a2bf31d7087bc9bb6243e92",
+      "bytes": 116199,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-dbde5cd396ea.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-dbde5cd396ea.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/agricultural-economics/",
+      "sha256": "49fc31a9da0b11e13224b222ff6c7acaa8ec30cf1cdd6c18fd2ff10b72b57a05",
+      "bytes": 117706,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-8b3c088760a3.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-8b3c088760a3.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/neurobiology-and-physiology/",
+      "sha256": "f5ce484d07b321e7665433cc2b7820d4b5c5554aee4136b6fb2f52972bbddfee",
+      "bytes": 105396,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-75151322b5c3.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-75151322b5c3.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/integrated-business-and-engineering/",
+      "sha256": "db87fe47e9ddb3fae89bb05f9e5af972ce294d7b54500fb0a366925557f1989e",
+      "bytes": 120632,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-f0bac279544d.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-f0bac279544d.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/artificial-intelligence/",
+      "sha256": "6bc3b7d51cc608cfabe381cd79490a6a42289889f07bfc1aa102193f8d2b55a4",
+      "bytes": 119404,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-8fcf8adf2644.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-8fcf8adf2644.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/family-and-consumer-sciences-education/",
+      "sha256": "612bad774affbbb4104e71be1e74a11f70a79c8df62fe7de7561a979b649c86f",
+      "bytes": 105944,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-edfe2afac738.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-edfe2afac738.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/biology/",
+      "sha256": "54f1c44dfb170827cb049a56efe35acd30cb90eb8015c8491d20e92e25a29ba2",
+      "bytes": 105366,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-0a6fd1b316dd.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-0a6fd1b316dd.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/wp-json/purdue-home/v1/post-select/",
+      "sha256": "336a1bb49acd1e167c02ecda67e4327f64512abda7d72442ce94543a92912cc0",
+      "bytes": 35646,
+      "raw_file": "scratch/full-catalog/us-b/purdue/api-page-2.response.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/api-page-2.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/ux-design/",
+      "sha256": "cc77beded5322cb9f6439fc92412eb59c1c492c5e1a9ad403e3da36b08ce0b43",
+      "bytes": 111416,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-a0ccd15ba39f.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-a0ccd15ba39f.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/biological-engineering/",
+      "sha256": "c04711b0bb600ac5ad82983859bfc97aeb358ac30cff310b5af62e164bdc84a2",
+      "bytes": 110071,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-32b37f9a74f3.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-32b37f9a74f3.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/agricultural-engineering-technology-management/",
+      "sha256": "6a2d5cccd17f60dc64564c639156d8a551319fe8b7d66fe22eb9aebece404c2f",
+      "bytes": 111747,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-3a88c821b358.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-3a88c821b358.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/astrophysics/",
+      "sha256": "b55a3438de067a67b85dc921d5b0ae3af4e9b0a743ee4abffd7b7bcb8a76327a",
+      "bytes": 105291,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-9d84a3cae7c9.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-9d84a3cae7c9.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/general-education-curriculum-and-instruction-non-licensure/",
+      "sha256": "9aa39b044e5eb211f0dc96495331c5684d8db04279bf62020b5f3d995e9d6cb3",
+      "bytes": 102982,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e89cc4eb6ab9.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e89cc4eb6ab9.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/6/",
+      "sha256": "fc249d48bf87c34abd23074398001b77e8f372b150f74a4e279adf90ec125240",
+      "bytes": 153779,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-6.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-6.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/agricultural-education/",
+      "sha256": "155b295b8561e0b1cb5511dc06422227412bba9a5c65b23aed16029e555014a8",
+      "bytes": 111398,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-f11cdacfee7a.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-f11cdacfee7a.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/mathematics/",
+      "sha256": "6632ddef9ea74a2fa0ee20b874837f98ae31ec49aff9e04dbe825de37a387f07",
+      "bytes": 105792,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b7bf4fb6d3ea.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b7bf4fb6d3ea.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/food-science/",
+      "sha256": "ed7c93f5bf6f0accf4e90cbd2b60b69fcca7dbdf03fea420a1632f298eae6afb",
+      "bytes": 111778,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-f0e2b947ec9f.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-f0e2b947ec9f.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/veterinary-technology/",
+      "sha256": "0c4698429700325ed8505438bad854a56be71ebd492a3a012c657cc4e60d368b",
+      "bytes": 121273,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-6d02f236f793.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-6d02f236f793.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/mathematics-education/",
+      "sha256": "6167a69b1f9f69d351c85ab6635d1a30b5c5302ead5d53164dafaaca594e2722",
+      "bytes": 105359,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-9e78e3e16d9d.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-9e78e3e16d9d.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/plant-genetics-breeding-and-biotechnology/",
+      "sha256": "50da46e39fa87b450ec094ff10476de785a87479c14e82fc445211964dd7d125",
+      "bytes": 104805,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-cf73f28c5da5.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-cf73f28c5da5.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/chemistry-american-chemical-society/",
+      "sha256": "e6972204ad0b7dee28ef141ed6a3697eb4b9ad5fb973984dbd00e92f53595d24",
+      "bytes": 105859,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-6684a02bc713.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-6684a02bc713.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/inclusion-dual-license-special-and-elementary-education/",
+      "sha256": "a0bfcb8cd0188505b6e0a1bed27954456edbcddd09d6be960a0e7f43c15caa81",
+      "bytes": 103497,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-fdaa05809112.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-fdaa05809112.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/2/?alpha=A",
+      "sha256": "87f6fd7b4ea3f80480f0a407d4add4e6f365149b15f60587b670e76bfaa64754",
+      "bytes": 142992,
+      "raw_file": "scratch/full-catalog/us-b/purdue/test-alpha-paged.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/test-alpha-paged.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/biochemistry-chemistry/",
+      "sha256": "87dedb4c791dd51d75574306dc42977203422834ec05667e9bdcd7766cf179bd",
+      "bytes": 105205,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-3462b0b63cfc.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-3462b0b63cfc.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/mechanical-engineering-technology/",
+      "sha256": "991f608f89a501a72ba87b2bcc2758c12a8a31a56759206e0b48b5f0bf9d5588",
+      "bytes": 114680,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b164ec0667ac.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b164ec0667ac.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/5/",
+      "sha256": "f6021d87131aff3cffbe4a780735616c991eeb6d0a9db711c02cfdde873d72b3",
+      "bytes": 153593,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-5.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-5.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/flight-professional-flight-technology/",
+      "sha256": "b7c45280fe4385ac8aa725de9c2d899bcdfb1cb1d615e1c5657dcf018627670d",
+      "bytes": 118050,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b2f8694c5575.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b2f8694c5575.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/digital-criminology/",
+      "sha256": "9fe4109db7e1088d17c118b0311089fa2f91efdedcfb8ea24c8b76fcdb025ddf",
+      "bytes": 109974,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-502d3e97d211.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-502d3e97d211.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/multidisciplinary-engineering/",
+      "sha256": "2d3e1697f0e6bb2ef647ad6538e51c3639a8cdefd33b0b7c67441052b5172f03",
+      "bytes": 112546,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-4dad5903060a.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-4dad5903060a.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/chemical-engineering/",
+      "sha256": "551de5b4dc148bffeabf52f5bf7eeb78fec9bf197cbf6475e3c918b625ab5d9f",
+      "bytes": 109461,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-cc24aa36720e.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-cc24aa36720e.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/history/",
+      "sha256": "ba8925a9adf20dc7c2e32c1ea33a3c99cc683b0b43746caa41fb2ea6e5d9ec82",
+      "bytes": 115315,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-f5801e5f464d.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-f5801e5f464d.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/statistics-with-mathematics-option/",
+      "sha256": "6baad13d422ae6b0c15104b2ab82ca14856dd8ce1666497c513596c29df130c1",
+      "bytes": 106396,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-2a8514315896.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-2a8514315896.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/unmanned-aerial-systems/",
+      "sha256": "74cf92e973b8520d8e5509cbc735d88458d36d4556ef3d12bd6ea7718154603e",
+      "bytes": 110790,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e1dff7f458d4.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e1dff7f458d4.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/general-education-educational-studies-non-licensure/",
+      "sha256": "36e2890808d7ed5c92db6b8be4084f1caf3899e24340bc10f018db35bde43678",
+      "bytes": 103568,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e0ab49835caf.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e0ab49835caf.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/industrial-engineering/",
+      "sha256": "ddfb54e3b3c67b5f439d4a4e0ffdfcc98fe68294156d1b0bba7d1e4b10d99660",
+      "bytes": 110907,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e1aeee9c4671.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e1aeee9c4671.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/wp-json/purdue-home/v1/post-select/",
+      "sha256": "e31461182c8a84dc93deabdf6135e35a487357eb2e3416b20eec14873b3f1288",
+      "bytes": 35646,
+      "raw_file": "scratch/full-catalog/us-b/purdue/api-page-1.response.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/api-page-1.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/forestry/",
+      "sha256": "5b540df5a4b14cdff33626ec8e25d9722c91def2f32b7246958d1fa629d09eed",
+      "bytes": 109682,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-bc1bae055cea.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-bc1bae055cea.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/artificial-intelligence-science/",
+      "sha256": "86459f984c7592f10edc68c8d94dc6434894e150c2cd3200cdca38081ff9fa1c",
+      "bytes": 105673,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-883b717ac697.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-883b717ac697.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/electrical-engineering/",
+      "sha256": "09139fdb29390ed706582f48880a5edbb262526b7a8f641ac5acb80abee11439",
+      "bytes": 114785,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-212b1c991f85.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-212b1c991f85.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/",
+      "sha256": "24c4d1d359ea39a0cb6e6c613c7593c4a6cc0e86228bccabeaa24f2ba54f622f",
+      "bytes": 153360,
+      "raw_file": "scratch/full-catalog/us-b/purdue/index.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/index.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/business-analytics-and-information-management/",
+      "sha256": "f7495e2dc9d15ac0dd06b163e4c4273997b11c0ef52d843c679ed5fd3ced6933",
+      "bytes": 113555,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-f466bdc281ac.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-f466bdc281ac.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/music/",
+      "sha256": "b16401a54e5bad47223807d60a13bb61822866714e25f2a1b5aefdb4b32be80c",
+      "bytes": 117025,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-37eef01098c3.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-37eef01098c3.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/web-programming-and-design/",
+      "sha256": "8c7521e1a98953c4a67e88860c7f198c659b8262d4e254040c235a43ddb78355",
+      "bytes": 106824,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-dacd519f5fed.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-dacd519f5fed.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/9/",
+      "sha256": "1fa154b81757ea530bce4a7448352be98b849b8b4c3db521be2f03d90f1d268a",
+      "bytes": 153470,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-9.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-9.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/pharmaceutical-sciences/",
+      "sha256": "d5368de87e8ee2a27dd2ac95c56a98404b673e384046fa4f0e4468b6f6dfc0c3",
+      "bytes": 128754,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-01788a688c98.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-01788a688c98.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/wp-json/purdue-home/v1/post-select/",
+      "sha256": "5b43a533fa97d509408732e4cf6974ed8f693f089e9fa476841988dc98c051aa",
+      "bytes": 35646,
+      "raw_file": "scratch/full-catalog/us-b/purdue/api-page-4.response.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/api-page-4.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/aeronautical-engineering-technology/",
+      "sha256": "a6fb56a87fd7789af6c58de43dd0e26072cf4c8e5dd81f69f6b20b1ae3cead34",
+      "bytes": 111716,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e677e1fb2b4a.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e677e1fb2b4a.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/design-and-construction-integration/",
+      "sha256": "55af0ed8f70d16db0a25b5fe34f5077507c3c39afb9ed964399f36d4b2bb9a37",
+      "bytes": 106913,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-bd5258d8e1f5.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-bd5258d8e1f5.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/ecology-evolution-and-environmental-sciences/",
+      "sha256": "404695f6024fc1d9fa889acd57babfe957854d3b6ed28b71cd0e376b34fd822b",
+      "bytes": 105734,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-ea34c1c0e43e.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-ea34c1c0e43e.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/themed-entertainment-design/",
+      "sha256": "a9c1bb7a628ce1d8c3169a5b59c60f886a7814eabf72ccd9267ead05be8b1877",
+      "bytes": 112361,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-ae93e767ebac.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-ae93e767ebac.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/radiological-health-sciences/",
+      "sha256": "6ffa7541305d7e5a49093cbb7003412391e428f74128b21a00310ae556aba971",
+      "bytes": 113514,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-4c7bbd3559fd.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-4c7bbd3559fd.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/exploratory-premed/",
+      "sha256": "0e4012a43c5a1a4385f215ec8d62263bd00b12d0b938b552cc118f25bd511294",
+      "bytes": 108007,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-1e828d80dd70.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-1e828d80dd70.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/natural-resources-and-environmental-science/",
+      "sha256": "567646bc3056b8a8892d1cb2f2a4ff20c37fb500797b2dbac36adece7ab6c699",
+      "bytes": 109209,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-b783956ea82b.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-b783956ea82b.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/speech-language-hearing-sciences/",
+      "sha256": "6577cea46301424a5c2a608654d6b519a17747250cdd2b6b5a932957caeb1878",
+      "bytes": 112214,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-c2d054a46a78.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-c2d054a46a78.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/industrial-microbiology-and-biotechnology/",
+      "sha256": "05be21bcc53b0292b75c9a13e13c00ffef35ab01fd4c1a0a2cceeb1bcb86810a",
+      "bytes": 106906,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-c26db6c17f40.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-c26db6c17f40.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/planetary-sciences/",
+      "sha256": "fb8bb388d166f8819d08855a749f5d7f09165e0369ff316ebcd9b1e7c88d934a",
+      "bytes": 105215,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-39ac98bbaeb7.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-39ac98bbaeb7.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/kinesiology/",
+      "sha256": "45f669b06f85903c33d2c47c2d08d40320aa1c8400787ffe6fc555240d518735",
+      "bytes": 111835,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-e95697e48d73.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-e95697e48d73.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/political-science/",
+      "sha256": "8814b5dc7701cbe46f8d85346c03dd1b60f7a0937faca425587e0e5b119ff0a0",
+      "bytes": 112157,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-2a61b416f813.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-2a61b416f813.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/academics/majors/page/10/",
+      "sha256": "073b9e220fed2126bafdb713325636f0fe975c843ffecc009b234751674aa0ad",
+      "bytes": 153709,
+      "raw_file": "scratch/full-catalog/us-b/purdue/page-10.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/page-10.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/civil-engineering/",
+      "sha256": "423a51f7506d1a4bcb8aff2d389449bdec41d4fbda49c4b1c3565a8e15cc0e1c",
+      "bytes": 118725,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-fcda65c3588c.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-fcda65c3588c.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/elementary-education/",
+      "sha256": "f2a251422628ac30ce3f22c5c6a708edc3ac05c416316ec79ffb45c25ef288ee",
+      "bytes": 102756,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-a32cd514e596.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-a32cd514e596.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/history-of-science-technology-and-medicine/",
+      "sha256": "1c7ea4ffca86fa79fb654b65166f118114c04842b5806daf71951e84356171dd",
+      "bytes": 110359,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-7d1095e603e1.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-7d1095e603e1.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/law-and-society-criminology/",
+      "sha256": "9572fc95da1c89b0b4935da7d5d6e5ea587c7bdca4a513e82186cf8d87267ece",
+      "bytes": 117110,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-670454a94821.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-670454a94821.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/plant-science/",
+      "sha256": "89234e78e49e86d713d3b0928bb675d26df8275c0332adc59805ce9b7ff784c2",
+      "bytes": 110202,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-0e43fa553e2c.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-0e43fa553e2c.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/atmospheric-science/",
+      "sha256": "94e50e57c8653a0516a51a4639da52f21c199240db3146cd877f6b7f3b2ead56",
+      "bytes": 105361,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-a51479d996ee.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-a51479d996ee.source.json"
+    },
+    {
+      "url": "https://admissions.purdue.edu/majors/nuclear-engineering/",
+      "sha256": "49f6b481ef488eb443573f0cace8f029bbeb98de1b3e1658a46dd6c998f69a4d",
+      "bytes": 109569,
+      "raw_file": "scratch/full-catalog/us-b/purdue/detail-9c1a62b54f0f.html",
+      "meta_file": "scratch/full-catalog/us-b/purdue/detail-9c1a62b54f0f.source.json"
+    }
+  ]
+}

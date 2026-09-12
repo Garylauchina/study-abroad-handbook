@@ -1,0 +1,333 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes",
+    "official_total": 241,
+    "official_total_unit": "result positions across 5 applicant-category filters",
+    "pagination_complete": false,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "filter": "prog_detail_jps",
+        "pages": [
+          {
+            "page": 0,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0"
+          },
+          {
+            "page": 1,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1"
+          },
+          {
+            "page": 2,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2"
+          },
+          {
+            "page": 3,
+            "count": 1,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=3"
+          }
+        ],
+        "completion": "pagination exhausted"
+      },
+      {
+        "filter": "prog_detail_nj",
+        "pages": [
+          {
+            "page": 0,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=0"
+          },
+          {
+            "page": 1,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=1"
+          },
+          {
+            "page": 2,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=2"
+          },
+          {
+            "page": 3,
+            "count": 1,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=3"
+          }
+        ],
+        "completion": "pagination exhausted"
+      },
+      {
+        "filter": "prog_detail_njh",
+        "pages": [
+          {
+            "page": 0,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0"
+          },
+          {
+            "page": 1,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1"
+          },
+          {
+            "page": 2,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2"
+          },
+          {
+            "page": 3,
+            "count": 12,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3"
+          }
+        ],
+        "completion": "pagination exhausted"
+      },
+      {
+        "filter": "prog_detail_international",
+        "pages": [
+          {
+            "page": 0,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=0"
+          },
+          {
+            "page": 1,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=1"
+          },
+          {
+            "page": 2,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=2"
+          },
+          {
+            "page": 3,
+            "count": 1,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=3"
+          }
+        ],
+        "completion": "pagination exhausted"
+      },
+      {
+        "filter": "prog_detail_jee",
+        "pages": [
+          {
+            "page": 0,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=0"
+          },
+          {
+            "page": 1,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=1"
+          },
+          {
+            "page": 2,
+            "count": 15,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=2"
+          },
+          {
+            "page": 3,
+            "count": 1,
+            "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=3"
+          }
+        ],
+        "completion": "pagination exhausted"
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "All five route-filter pagers exhausted (46/46/57/46/46 positions). Identical title/year coalesced across applicant routes.",
+      "Schemes contain named majors in parentheses; these are not arbitrarily split before checking official award-level detail.",
+      "Senior-year-only records retained separately from Year 1; applicant-route URLs preserved.",
+      "Current directory cards state Sept 2026, not 2027."
+    ],
+    "raw_artifacts": [
+      "polyu/raw/directory.meta.json",
+      "polyu/raw/prog_detail_international-0.meta.json",
+      "polyu/raw/prog_detail_international-1.meta.json",
+      "polyu/raw/prog_detail_international-2.meta.json",
+      "polyu/raw/prog_detail_international-3.meta.json",
+      "polyu/raw/prog_detail_jee-0.meta.json",
+      "polyu/raw/prog_detail_jee-1.meta.json",
+      "polyu/raw/prog_detail_jee-2.meta.json",
+      "polyu/raw/prog_detail_jee-3.meta.json",
+      "polyu/raw/prog_detail_jps-0.meta.json",
+      "polyu/raw/prog_detail_jps-1.meta.json",
+      "polyu/raw/prog_detail_jps-2.meta.json",
+      "polyu/raw/prog_detail_jps-3.meta.json",
+      "polyu/raw/prog_detail_nj-0.meta.json",
+      "polyu/raw/prog_detail_nj-1.meta.json",
+      "polyu/raw/prog_detail_nj-2.meta.json",
+      "polyu/raw/prog_detail_nj-3.meta.json",
+      "polyu/raw/prog_detail_njh-0.meta.json",
+      "polyu/raw/prog_detail_njh-1.meta.json",
+      "polyu/raw/prog_detail_njh-2.meta.json",
+      "polyu/raw/prog_detail_njh-3.meta.json"
+    ],
+    "university_id": "polyu",
+    "count": 109,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 109
+    },
+    "record_type_counts": {
+      "scheme_or_programme": 109
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "sha256": "68ad159d675891ca4425d915d4e166eea647faf0ec8e66b9391d187ea534ba97",
+      "bytes": 80884,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-1.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-1.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=1",
+      "sha256": "3475ee8ab8710869c14f57bd09e61973b108e9459809319d08f4c100bdca2300",
+      "bytes": 83974,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-1.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-1.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=0",
+      "sha256": "5973908d675372a1a612900d5f62b0a49a2b525783ffaf8b22e47fd96ea99f9a",
+      "bytes": 82252,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-0.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-0.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "sha256": "5f59ba34e816915fd8b2e23ee438b2999915a5646bba6b3d6f54f11da2347aa6",
+      "bytes": 83288,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-0.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-0.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=1",
+      "sha256": "d939d6d582957e85693410887813d8182c5bf1b0b6df397a60161ea5fc52af57",
+      "bytes": 83910,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-1.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-1.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "sha256": "cee4fbd0fdf172a9c41e029b7a66154db2f8756c80ada35bfd87c4d922e14b2e",
+      "bytes": 80092,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-0.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-0.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=0",
+      "sha256": "ebcd844e12aa370a8982d1c0c4b3e21dcfa762c3659682289797e90b5d00e291",
+      "bytes": 83152,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-0.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-0.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=1",
+      "sha256": "afb39badbf940bb00f8b83e0ac54f5e4e960e2ab95eec82cdfb208fd50a22ae6",
+      "bytes": 83059,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-1.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-1.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "sha256": "077af5e2e7fd952365559a1599bfeaa35f9ee7cf05c5bd905ddab016dc12d08d",
+      "bytes": 82229,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-1.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-1.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=0",
+      "sha256": "e6dc19e8ae0bc251710acd7c8fe730c1d3a1aa4246a5c811eeff5d614d674850",
+      "bytes": 83089,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-0.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-0.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes",
+      "sha256": "a8e09c5e50fb025d31e0d74e805b00dfb8d60819edf66523aed61d10fc0cedcd",
+      "bytes": 80029,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/directory.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=3",
+      "sha256": "4d1f5afbf4ed4e1180e3f5b303e3048a33a6cc6d0e0eff1975dcfab82d149fe2",
+      "bytes": 68734,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-3.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-3.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=3",
+      "sha256": "6616bdfda05527f1987e770a8f95efb6a5f39477d0bb25aa0ca56f8e1e52d0f0",
+      "bytes": 68519,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-3.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-3.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "sha256": "36ca41c4ed15bc56eb42c4b90362d63110d10ef0cf662ffee9683928e3de876e",
+      "bytes": 83244,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-2.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-2.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=2",
+      "sha256": "1460e8a6686a3890d60731cee5db9e524f90f4ee52ca0b248f493aa2cf323ffe",
+      "bytes": 82197,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-2.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-2.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=3",
+      "sha256": "482ab9e1f9d7d3aefc58cf8195b2b62caacd2500aaf7c9c849df9d6a30f92114",
+      "bytes": 68720,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-3.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-3.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=2",
+      "sha256": "c6e02c0719ad2fb945cd6df7bae1eb47a0869df01b16e08fd1f769387c4f8794",
+      "bytes": 83123,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-2.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-2.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "sha256": "2e2cfb44a8cd583726c5ef9c1d6f0f71df592c958f4faf04553908f392d7316f",
+      "bytes": 80038,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-2.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-2.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "sha256": "82e4d0b2101a0b23d363a5aa0c9ca10bfcd432727d5333766b27bd2a1255a68d",
+      "bytes": 79707,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-3.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-3.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=3",
+      "sha256": "035d4bebf0706fba64376f4ee04e31557589ad011ad443d34bfddde15b99d6a5",
+      "bytes": 68663,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-3.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-3.meta.json"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=2",
+      "sha256": "ee4e337edb4a484b7c43cd479a6731595cb59d51741f9b6f9e972d6ff949708b",
+      "bytes": 83066,
+      "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-2.html",
+      "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-2.meta.json"
+    }
+  ]
+}

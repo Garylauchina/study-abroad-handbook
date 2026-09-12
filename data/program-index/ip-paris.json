@@ -1,0 +1,92 @@
+{
+  "university_id": "ip-paris",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "complete",
+    "count": 4,
+    "scope": "IP Paris central Undergraduate Programs directory: École Polytechnique Bachelor of Science and three explicitly named double specialisations.",
+    "method": "Education > Undergraduate Programs has exactly one degree link, Bachelor of Science; full degree page read and all three double specialisations listed. Static pages, no pagination.",
+    "exclusions": "Undergraduate bachelor degrees and named specialisations only; member-school graduate engineering, MSc and doctoral awards are not misclassified as bachelors.",
+    "sources": [
+      {
+        "url": "https://www.ip-paris.fr/en/education/undergraduate-programs",
+        "sha256": "0723f41fc1c244d8fa6a9c187fee3e3d5d747ee632acf6b856e230a04ba576ec",
+        "bytes": 73131,
+        "raw_file": "scratch/full-catalog/france/ip-paris/undergraduate.html",
+        "meta_file": "scratch/full-catalog/france/ip-paris/undergraduate.meta.json"
+      }
+    ],
+    "gaps": [
+      "Intake year is not stated on the central page. This is complete for the central published undergraduate directory; separate member-school catalogue changes need future monitoring."
+    ]
+  },
+  "programs": [
+    {
+      "name_en": "Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "intake": null,
+      "duration": "3 years",
+      "campus": null,
+      "language": "English",
+      "discovery_source_url": "https://www.ip-paris.fr/en/education/undergraduate-programs",
+      "source_period": "Current official undergraduate directory, checked 2026-09-12",
+      "raw_key": "ip-paris-2f7f68fb5c91",
+      "record_type": "degree",
+      "awarding_member": "École Polytechnique",
+      "checked_at": "2026-09-12",
+      "id": "ip-paris-bachelor-of-science-f165a14cde"
+    },
+    {
+      "name_en": "Mathematics and Physics",
+      "degree_label": "Bachelor of Science — double specialisation",
+      "official_url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "intake": null,
+      "duration": "3 years",
+      "campus": null,
+      "language": "English",
+      "discovery_source_url": "https://www.ip-paris.fr/en/education/undergraduate-programs",
+      "source_period": "Current official undergraduate directory, checked 2026-09-12",
+      "raw_key": "ip-paris-f474086e7e72",
+      "record_type": "double_specialisation",
+      "awarding_member": "École Polytechnique",
+      "checked_at": "2026-09-12",
+      "parent_degree_label": "Bachelor of Science",
+      "id": "ip-paris-mathematics-and-physics-64582f1af7"
+    },
+    {
+      "name_en": "Mathematics and Computer Science",
+      "degree_label": "Bachelor of Science — double specialisation",
+      "official_url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "intake": null,
+      "duration": "3 years",
+      "campus": null,
+      "language": "English",
+      "discovery_source_url": "https://www.ip-paris.fr/en/education/undergraduate-programs",
+      "source_period": "Current official undergraduate directory, checked 2026-09-12",
+      "raw_key": "ip-paris-b355e8db347d",
+      "record_type": "double_specialisation",
+      "awarding_member": "École Polytechnique",
+      "checked_at": "2026-09-12",
+      "parent_degree_label": "Bachelor of Science",
+      "id": "ip-paris-mathematics-and-computer-science-1c98e8a849"
+    },
+    {
+      "name_en": "Mathematics and Economics",
+      "degree_label": "Bachelor of Science — double specialisation",
+      "official_url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "intake": null,
+      "duration": "3 years",
+      "campus": null,
+      "language": "English",
+      "discovery_source_url": "https://www.ip-paris.fr/en/education/undergraduate-programs",
+      "source_period": "Current official undergraduate directory, checked 2026-09-12",
+      "raw_key": "ip-paris-28c9a75c3e0b",
+      "record_type": "double_specialisation",
+      "awarding_member": "École Polytechnique",
+      "checked_at": "2026-09-12",
+      "parent_degree_label": "Bachelor of Science",
+      "id": "ip-paris-mathematics-and-economics-f5ecf79918"
+    }
+  ]
+}

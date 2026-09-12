@@ -1,0 +1,911 @@
+{
+  "university_id": "kcl",
+  "sources": [
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/entry-requirements",
+      "sha256": "821a36d07a7bca09c09cef5f73d54d6b50ef2677e92e1d6148be74bfeb008dc8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/qualifications.html",
+      "locator": "International Baccalaureate"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/english-language-requirements",
+      "sha256": "2f493d3979db93dc1b3793e055bdde787674d9d1cf572e9f7c8f916f162492ec",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/english-undergraduate.html",
+      "locator": "2026/27 academic year"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc",
+      "sha256": "7d62d22f9f0b70d8aae8bfe462f4d9d222448b38b3323bcd66cd050df05df559",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-41b4414f0a0f48.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-with-year-in-industry-bsc",
+      "sha256": "4920518ff6daaf9e52a4774c120d691d0544596bc7e3676e615259c35dbd3d58",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-cde080cbb0577f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc",
+      "sha256": "282fa16284c5d57b34411ff28866943446df0069b9b7c446d6ef625fdbdb3805",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-f556e542d04eb8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-ibsc",
+      "sha256": "d1aa674e2604ba997caa1a7da4562d2915f657ae6b16db936e5c10f01f679a86",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-72ba64bb323009.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba",
+      "sha256": "4a1b5388bd2647b0df9f0093feaeb449fe03fb0b180ef9dcaeacedf67cc96540",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-2e0ad7ac7ddc3e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci",
+      "sha256": "601c3882ea8eee5c40b8c6597efefbe5cf91786f4cc16de9fb7aefb4d2114482",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d8e0b6e81dba61.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc",
+      "sha256": "7613de2f4e211f37a230926261d0304f012e09e2ec7f20d9f49110b25a30a68b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-04a4cd62f68c12.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-and-philosophy",
+      "sha256": "344a0dd2ae9e7aa9e9484adf42dadc1248548f8aa7465316f66e4731b5b8300f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-f1bedb82bbcef3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc",
+      "sha256": "ebdf715f77d6fccbcd0aafc878b885ba20c3a79bf9fd8c14bd209407072b0937",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-56ad79715d0b19.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc",
+      "sha256": "d744b686300da80f875b0f9b7172dc582e3d721dcc4f4807bdc81c9c499b5558",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-f5a50adbaa40de.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng",
+      "sha256": "8e953b3d3c45c33ba7420f24966aed024cbd8a1c9b47b01d7a1bd21214be848d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-575b11d7b411ee.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng",
+      "sha256": "b93b82fe5614dcb9f0bc55ce91ac6e04103d03a00fa63692e5f3d4c30fa4a5ef",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-9ff0442cdf3880.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc",
+      "sha256": "6280bccf61d3cdd337e729310d125a70d44570d0406f86140ef1d38121846b1d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-5b404b7428176b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc",
+      "sha256": "e8e223f975bda385470c75af2f876c5a7e640f0b459800b6c9b2c9ed4c64dae7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-2c9464d0b0aff1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-with-year-in-industry-bsc",
+      "sha256": "b17611b0c708828340925853600860ecea267c988a949093b97667bd2c2ca64c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-f09286a7c07508.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/cardiovascular-medicine-ibsc",
+      "sha256": "88a343d9088de7e8d5147562d1d3bfda20ec2b940a0a391d2e14c947e53c4cf8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-bb09ded5ee5a66.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci",
+      "sha256": "c1b314724903b0ac06b8a80a8f9a417ae4093112803008d2a1fcec18777a8944",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-0854a34d965a8a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc",
+      "sha256": "6320410eccdfc70318703010b3c461b317b3a48f22c28c063bc361d36b540c61",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-7cefa026edefad.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci",
+      "sha256": "b501c7bf25ec1ada717649c229ee8361e6b7330a61433440675cddf7acc9b8e1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-fc6874c95559f6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc",
+      "sha256": "9df3952aa52f23459f2141b283a027a39c89eb3aba15897d78424dda29c71e9b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-4fb587b8bb2256.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci",
+      "sha256": "b06f109d5a1c5024040f6dbd5f6901ce7cd779b1e517800b3a86c9fadc0f75a9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-2458760eff2172.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc",
+      "sha256": "90d08baf1aa1e5858feb2eb38824bd1b721a53087a929f0c412d5241b0a167dc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-0b8a16cb390432.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci",
+      "sha256": "ec47765115b20098ad893b7de3665b47abf561be4820dbaf07cc3aec16102b4e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-8125b3b7218c34.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry",
+      "sha256": "91e001e32af20d8639287183605a51f9e1b64d17a8c8ea8d3a4e4cdc5ccaa076",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-5e7d419ccd01b4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba",
+      "sha256": "435994c78a08a8155f7838baa65226e5df05ace7143b4ef0333f48463876788d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-090b3df636a493.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba",
+      "sha256": "034fa6b9129277571f16a8af32fa3aa7a1f5d38a43f17240055e69d108ca8424",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-3cef7cddf84a44.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba",
+      "sha256": "b4aac9c395f260c2cb9a8bc0a7cd3893dc35b9c31ec6e37ad5934383a2571bd4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-b5ef7a2f437a78.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba",
+      "sha256": "0b83591727cf3b1999e987af6475faec509125fe0ee477f4fc6ef94eae46304d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-091621d1c4af40.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc",
+      "sha256": "e56e75d1405c2088eafb6b2e3ec5824b79413f819bbb17995b03b5f98429591f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-a575d6146c7b62.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci",
+      "sha256": "ed22ec996733692e70c0c5fd9ebd07b452df04cfa0f8465441aa1751b173ed7d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-5f9e3c14bb10e7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc",
+      "sha256": "beaa89c9fd85129ac60d891229d40bc21d95197383a08ae2f7ace377ce15d704",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-17d0692586fb9e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc",
+      "sha256": "b5d3ec02a3f1fd09db7a72eb7448aee7a7c555e4a69a873c399b1b984edaa9e4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-1699dbfb08ea42.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc",
+      "sha256": "77c3d15631ef8c2063c105af1004e858582913476516daafc209463b16a7933d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-501ebfef3ecd35.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba",
+      "sha256": "a9e5466458009478b123138a8064ec52b51dc2802af61d192ebaebb52b3d3d22",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-7fc02e4fffe22a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc",
+      "sha256": "a78778e1654a9147f8a6b34caed6f941d02933e41946a1091130e4e7c98dcfc5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-463ad533a1bdc8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-with-year-in-industry-bsc",
+      "sha256": "7fe9333a596af3c24a5f587da60c784cb98c02dbbcac1061a1bce144cedb1246",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-0fdbd11a82e431.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc",
+      "sha256": "3b897c17377a00c94c673e0d48ea1fa4885a52baaa59aca80e6f2305609081e2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-b5226983bde9d3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds",
+      "sha256": "f291fe5f9815f484ddb2544fc2e8569a9d16ab6fb5778b979e03170ea5712a9b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-86a2a41935fdfd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds",
+      "sha256": "5d63b2c100e5c8cd77307497146c94d71133687a018c2fdd9e98783158a1a208",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d8ff9e4db65827.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds",
+      "sha256": "c556505820b63abcb933f42bf87acbc7856d61d831713c71f0110fc0b12b4f35",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-60be73e9580658.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba",
+      "sha256": "93c1d072fe7db634579f85a783b1ae3bf2d9e15f892d5a9192bafa8cc9417d87",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-7227e62044140c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc",
+      "sha256": "c2b7324765220599242460b59a7ce4607f7c40e320bc7a329473a45ab41a92c4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-55c264b6af35a6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc",
+      "sha256": "f70023eef5f010e398ea6caabc8f46c1e066366be507576011976a13b5f87425",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-920753376ec326.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-with-year-in-industry-bsc",
+      "sha256": "e57c675b374978ed453a3ba6d28673946395d99e46114e1a828b09417b646837",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-31bd9b96a162f7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng",
+      "sha256": "ac650166945458e77600be86f56dcbc1b80d7c38b762da3eefa49cd3c4ddab44",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-7960eba7c36649.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-ba",
+      "sha256": "4f6fd3a1e5e7fe882555b7b1ac6efaf96e7b332e5231676351c20441f302ca5b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-12392d60b37a2a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba",
+      "sha256": "9e1532400ddcde81993b83ed53dcb3dbbde6eb9344da75bea963ddee5adb74df",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-9acbe5d099ddb5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba",
+      "sha256": "5b9b28d6dbf09efce543de45c18fedaf612a5e085c2422f844cce19d3142c800",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-cadda6944a83d4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb",
+      "sha256": "8adcb9545d9807330aac9b7bf3eb25af237956020741d215cb0cd6cbbb137e94",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d3ed74b198bc68.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb",
+      "sha256": "19bec0d2508d8832b0c85335d6e2ea5501eb539e059533719dd77b26ccf4d54e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-e9571fbc6441e5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd",
+      "sha256": "9902077edf0be636debbac0b61ec2e23b15b4069bf898cced1ecf93ae80118a4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-afe30a63dc88da.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb",
+      "sha256": "2d6183085853f47509f84d1d32f0bdd1756fd099ddded96733ee0358acee27d1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-a8e4a3a4874051.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-creative-writing",
+      "sha256": "1bd292811bad03fdb183116e4f5afdc5a38b1e90733ad46c3b9fcbbee6b0140a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-6038797baf39e7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba",
+      "sha256": "02a9fab9aa1ba19e80cdecc690959aa6a3de40558b0801535c53116d21266495",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-4da41a629f0e26.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds",
+      "sha256": "b4355fe1ef4b3e3ef53672c4a8135b5d90cb4a908b94b2d27ce7edd77a471c75",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-919201f3b7088b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/environmental-science-msci",
+      "sha256": "3ecbddb8cf09a9c8266bb13e5cc41b9ae984736f22f53956b2e10e56988f482a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-676e80507b6b86.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba",
+      "sha256": "0ec33f7bf6340703af73f4cf1a83c1535e178c04cba2afc7a5b712bee43bff73",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-da8e92d868593d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba",
+      "sha256": "1e347b1efe592fcb330ca496a3e9dd13df6e2b18dd5f351c3dae7ab2146a6270",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-822f2d6d7c4b6e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba",
+      "sha256": "6888fd0e207d181c98186579c7f1a3dd3dda46da31a2d2a83ad6ef6e1efc024e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-4fb6effcb732c8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs",
+      "sha256": "d6fc4913b319668c67ab8849c0407fba532b27c6c7e4123886fe99cf1d0d2664",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-39b94730f0e7a0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba",
+      "sha256": "40c2d5a4bbd6be686115f54dbd81362671734660fbda97b8a5d65fad4c473862",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-5deabadb7eb42e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng",
+      "sha256": "2c71afbd590a61c843c1561f9a81fcb5aa3ac49fbbc13306411339d0abb20b60",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-67ae1d5d044896.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng",
+      "sha256": "c56e99ce53a55943aa273466ae83e4e2e8154505cb7d2a146c3e1fee3cad3736",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d8423aebae5a75.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba",
+      "sha256": "400a9aea7bc625519cc77700b3d63e481c7ab4ea6c0737ae7a405d26d74c188b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-77c8a35eb6f51a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc",
+      "sha256": "b2036e5ef0e64bcc53c980e3fdbc619b4fa83fc35edeaf2ee50f8624be7e38ff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-e3bc80c6480a44.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-ibsc",
+      "sha256": "79e7b8d2512e55e99a93be69eccd211a74a858b6bd877c963c9088dacc84441e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-e007dee50481a3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc",
+      "sha256": "4aa57be19f3812d2019f110bbb8204212a6dde377cb5411fa87215d969781201",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-aa3acffed89a90.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba",
+      "sha256": "b502d1a3456bf7f1dfa886307e32573212e29644cc5c0c13bb227c0b0033b0c6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-dc1f5d0b830fd6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/global-media-and-languages",
+      "sha256": "2fb999b4281eddc53fce696eb90a5943bdab61af0a0f20c1c0f3449e406a84c0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d95eaea46e9a5f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs",
+      "sha256": "bd63d13fe45d0a883679f5538e832de5595c6ae5f7b7790773a8746a0d8e3e99",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-ddd7e4071a277b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/graduate-entry-medicine-programme-university-of-portsmouth-campus",
+      "sha256": "69b218ad86901ae39591880796aff9f2797e1ab855671199761f02b523080434",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-9db4d121b4899b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-entry-medicine-mbbs",
+      "sha256": "652fcd5dc50a4c754661ca4a7b1c5ba7f88789eea92e10f3bf85b483498863d5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-bba0bfa605cb8a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/healthcare-genetics-and-genomics-ibsc",
+      "sha256": "aefd4724a17c92cf73bfe005e8e78b8baa6ffb2b8ed1cbfa39c10d67b39a8f10",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-63fd2dd0445fe4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-ba",
+      "sha256": "d4dada0b895518494ae3ec3c381ff77630c21cd1c097a573b3cfb67a0a055189",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-6c45f573c63c19.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations",
+      "sha256": "df4d6fe9820f33c01e42a5460ab2e335a0deec9054e00407b44b789f3c564828",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-b2c2144a2e510a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba",
+      "sha256": "3cec30cb518753bdcd1209a931b30fc36371525a7fd488f81bd08b1850997793",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-17aac3ab7fb351.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy",
+      "sha256": "d578ac7f7c57065a4ddb4b877435478d3a349d53d6438982ca07dc106d720d51",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-f4682bba0f81a2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-business-analytics-and-management-bsc",
+      "sha256": "486066b87021d98bdd944cbbf066957014c1b459fcf9b8d4035f3d193671959d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-53814c9237e8bd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba",
+      "sha256": "3a682bcd585e0e7526ebe125a9676dd499bfae469ed989135209628bddb324a5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-bac1a0b913167a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc",
+      "sha256": "aa1e7151bb3621ac9396f7ce448da5c32c3cf7fda1f23e252b10db60247b8ef7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-4f863073f9742f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba",
+      "sha256": "2abfffa5e4f31b488ea97e430d288b1643540c0caf581471cef3b4ca92d44ad5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-da119cea4b7eb5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-llb",
+      "sha256": "f5780e5f95c5f1d86c60bfb7f594db05f93ce365a309a9f2d8350dccc47667b7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-6386b482565b49.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/law-with-criminology-llb",
+      "sha256": "01a8e95bab4492fe77fb970c947c97034b77e2c46425749809adbfd1d435d267",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-90346583be0ced.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba",
+      "sha256": "ad165e5a50ea1b147a8ab0f6802bd2dd1c3ccc5ff39db100e1b315736f02e3ab",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-16f3914e7ed40b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba",
+      "sha256": "7db21e67c243e7e01a4b8198404199def77df36d3330484c84bf35c2891de301",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-c24a25cacc3866.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing",
+      "sha256": "45e6cd127c25b1d2cdefc44814618df7aec6969503a1a0a236d73d666b66a9d9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-03f24c3541c10c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/marketing-with-year-in-industry-bsc",
+      "sha256": "96756e3eda0d353ab3d659e05bea5c21c28456cf1f6163d5b786a0ea6c68900c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-e2f471be3e7e06.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/master-of-nursing-dual-award-with-registration-as-an-adult-nurse-and-a-mental-health-nurse",
+      "sha256": "e38c28dc30d8956108d83cbf8ea67748161b66250a84829c807d7da02cfd35b6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-eba1fd64512df5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc",
+      "sha256": "415cc01a7fb0d2ae3ab4f6a4ecec6e2a420a1c377d2320127745c85e4c8d8c19",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-94e7d70e25c056.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci",
+      "sha256": "9a6a6f767cb2bd47be4607d83279577747d9d260ddde30048955ab2146bdfa19",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-1dec66da86a8fc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc",
+      "sha256": "046b5a7bdc6f8b5fca60f57ce80bec9014b787e38de836876226486860322251",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-eb58c19ea10aec.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc",
+      "sha256": "16eaf98ac8e4ee168872344d6d36854e36b52b9b6360d3d8c17d63c65928e0f4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-6e3057bf7e3894.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry",
+      "sha256": "2a81d569eff05815468a0e54610e1f9f106293279ac1e08d7319385b2005688a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-edf66d7dd4bafb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc",
+      "sha256": "4cb408ce4b1f951177d08cd45242346fedae8de7ee6be9fa2f02b31d8ffa651c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-271b5aecff4cf7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc",
+      "sha256": "84ebbee642ba18e3f0ec80140252481de7e7e31955e532e7426957a2448b6f7f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-41e57216a4954e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci",
+      "sha256": "3d94801ac8c8232da9348fd25a288ab63bd4efac451fb05d033d76c32d43980b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-261ed13f8882ba.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc",
+      "sha256": "28e1f78fb8c0ff08452961631929ba5830198aa5f9db59ddb84525979211c912",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-0bc8e1fd41794a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc",
+      "sha256": "82d52cba370f99eed380fcbd7b1ca3926bbd1d278ce84eab04fdb0e0dc9d4eb9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-fbd9f3c3fe1bbb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs",
+      "sha256": "adc16a77a1de723979ae61624d35de1f3870d87ebf2b9b23897185e122efd9ce",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-07e88d86428a1c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc",
+      "sha256": "bf2db38ef9703cc030491c9f2e0fad2d889eb0e578bfd556f9135723430e6a02",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-32ad24ddff8da4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba",
+      "sha256": "c9add8e73f78a4f6f9a2175892b9af0e07c75c208064c80782a540663c8425f1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-3712bd35efb21f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc",
+      "sha256": "09a615fcbd1ef18a4395609bee051a863c4236afb3a8d611c090f373d1149fd5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-3b4d156447ff58.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus",
+      "sha256": "d507c9ec9ca00e7bca640df7792d238d657e620c627dc79e2b9472e0acdeee7b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-b36491be21c938.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci",
+      "sha256": "46c5cbe4e0442b38abe408393be97fb42a834dff97184db751bcb115ef34ca9d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-b4c78cf1fc815c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences",
+      "sha256": "60bebe3db67e7b1367324b0f153d6869abfa52f823f87ec4021878c6bf471c4a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-3d1e716a61a37d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry",
+      "sha256": "99650b3f08f3612195a9c1a35f98434c99ee1fc4f8409a900d006bfd343f5740",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-1d95fff579eb3c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc",
+      "sha256": "0430856ff12b14da436a564af73f2281d89e04686c4dd99fd7c40963c74e5a66",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-92e5d01646ca1f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-ibsc",
+      "sha256": "10904d388ff04042f53c5a16f8249be8197b6e440a049a8f93659758dd8b9122",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-1a971358ded00f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc",
+      "sha256": "ae4e57e90cc2044cfe8aff95b3c5c28e64f5238650a25580569f79d4f0d71cd4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-5cff93311c116a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc",
+      "sha256": "c86e5e9c94363e7d3e4999e5addb4150742c9ddd1b01c6b0a7f30652007681ff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-ce24a8f8346f29.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-msc",
+      "sha256": "e6de342fff217cde7a0f324d33ed46f95a4cb6e2ff2f2e3023ddbefebea6f83d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-7f77f3124eb6d4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc",
+      "sha256": "7acc4daff9db548fedc0f4501900e3fb90d2303959f450ecdd9aea9b1ff2b8d3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-95a691dc213ceb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-msc",
+      "sha256": "b74361017a89e9b5cbeea09560d49bbf07cf89fde6d2dd4e2161a0489a17bd2d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-3aa09293a32c48.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc",
+      "sha256": "abc5b0e4ad4c62f3ea71681db3aa7a9e08777353323cb0b8590b9e6c9db82290",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-cf0a45cf172481.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc",
+      "sha256": "a32b9b553ccbe956bf9c3fde7fd5a2b3d5179eaed49b87aa480abb93fb293f2c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-2f70ae296f4f79.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc",
+      "sha256": "cab0d85bd3e8388188756062994dd10e30795c1fc7d3757522c8bd167fef67d3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-134cb4584b84e9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm",
+      "sha256": "4c12135f603c7ed49f8d37b2cba2bf3752e93782a543464dc4013cd85e441bf2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-abaf0a876fe374.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba",
+      "sha256": "196b56782c48e076c4f19d01ca62fefdb8b5847bc6cb9b2da203eccf6f798358",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-f1bd99a5e46f5c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba",
+      "sha256": "7f6107e934ebc2d8bb909ae394b4c6f610108818a3c3a614d46a1af05705b4ad",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-c2591509bb3c0c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc",
+      "sha256": "097c6cf500945951582a4690d339ef1bf8b802f08d5253fbe7f0fce2b37f67cf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-bfb202e051bdd5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci",
+      "sha256": "893f2682906107e24622426247789036b12befbf14ff3a5d097c4ff6eb51de55",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-2ffe2c984e0ac4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc",
+      "sha256": "aa5f6c65c99188e66ceb43e2eed8cb189e9b53fc7959e7653f002655d6463c38",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-7954773583505c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci",
+      "sha256": "4168257426d3233932025ffee21a9b4c9697e8e8ec3b314677451e1c1778c11a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-8ba4659203cf5f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc",
+      "sha256": "914a1b14ffc800ba4a7eb22fec081e3a3e81161b9dd3ce5e88b5742f7b2140c1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-db6d0c168d3e4d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci",
+      "sha256": "96f5ca23b6894a78f078de26ae426c72ac0b3bb2496389747e7907cffac25204",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-a541efc6a2a484.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc",
+      "sha256": "fbfeb6b0326b5ac6ab26baf5a441db5da18ef2010e5dfb045a3f8b9e5b7af15a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-8082166a567a45.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci",
+      "sha256": "a14109296b8ceae1b8941e87edcbf0f98b81586f9bddfc676a04725fd57aee10",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-fa52b1df69c981.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc",
+      "sha256": "db6a241fc6285e9a490bbed74b1cdaef2b451eb755981b5fc38070721e77b43f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-688699030288f0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc",
+      "sha256": "3cf108d90328f506474ca011ead9252ade91a90cd7a05241d0e8790e1384eacc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-8c19e937e53fdc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc",
+      "sha256": "e7740af47ae5f524b46aeee6df3cb362a4a70c9e08bcffbab28b097d86e51572",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-ad21cbe29c65e1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc",
+      "sha256": "027c2f2cc0d5a2d54da69fbaefc004edc9c51d654c1d2379cfec6f10ddd24590",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-55310da311a675.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc",
+      "sha256": "e89d6ecf0e13a6a26d9a1a39cc2b305ebd82297940b7ae7f3dc5b3d4206efed0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-4d1fdf2cadae3b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-international-affairs-ba",
+      "sha256": "86e1516987509af93b77877301866abf7c21f4a9ae284f7b2ad5e5336646c17f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-bc4da326c1444f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb",
+      "sha256": "29ec6e577bb8bab1f8f7027f58000ce8fac979a61b8657305218cc14c70f8403",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-ca8cbb2e525eb5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/primary-care-ibsc",
+      "sha256": "8a65cdcfaacae0cdc872efead45431f8d75b935b7b002d19e45fe441726451ee",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d7e25f83fa5e89.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc",
+      "sha256": "d93f4ee52cd8c7226677b2ff7df4e467e1cd018a91c0f9b16fce04fccb5168b1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-798a96cc7b76ef.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology",
+      "sha256": "0db2fc0a08dd01bbe944b8df1d122394f93d29f5a02f5cf9bb835c1e6f13eb37",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-fdc9021fcc49af.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/quantitative-mathematics-bsc",
+      "sha256": "09ec81b82c5a0da241aae0c27882f19a99c814c378147d56a70291dce6c4159a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-3d13f8ab63866d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/regenerative-medicine-and-innovation-technology-ibsc",
+      "sha256": "df05dc882291eaeb1a5c6df1b0df90670b0217f72b44b4d4b178509dc3765cb7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-90f110bf6773cb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba",
+      "sha256": "b2694cb53fd9c28d306e10afec9eb0c7332b2316f5adc21088e801232056fced",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-e4c76d911cc8b9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba",
+      "sha256": "19fd17beb3121597437a01f329b5eaf783793abbdde929576671906516e9753b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-d4dd93790d3abb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-bsc",
+      "sha256": "b78847821dcaa37a1f68c9be1527fa501563e6b84a73349b7a070cc5cd286894",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-6c831cdf11163d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba",
+      "sha256": "a63a609dc13de8610d8a45ebe90b6f84d7ac8139370bd672c85ff6d5fed9dc3e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-62eef2f3be49d0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc",
+      "sha256": "aaeea71c42cf275a17f8ee78abfc9c50de6336d4d127bbec27aabb598d16d155",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-b1a767bca13018.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba",
+      "sha256": "a1ada00a2a0c6470e1ca2b934e387b7711034a702427571b11e7eff95ed5f35a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-5e021d5e8468a7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba",
+      "sha256": "02df7d7d1de805d43a908478ebe81de3a5213f4876318f65930e86a312a3261d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-45f34ddcea609c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/womens-health-ibsc",
+      "sha256": "eb7abcc69127836d13ee13b1d5d926aeca1069593082686433168de9aba3f781",
+      "raw_file": "scratch/full-catalog/uk-enrichment/kcl/raw/course-3073fcadf3de3f.html",
+      "locator": "See each fact extraction_locator"
+    }
+  ]
+}

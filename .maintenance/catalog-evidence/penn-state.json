@@ -1,0 +1,35 @@
+{
+  "original_manifest": {
+    "university_id": "penn-state",
+    "checked_at": "2026-09-12",
+    "final_count": 178,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "Penn State bachelor programs whose degree-completion campus includes University Park; no automatic inclusion of other campuses or World Campus",
+    "directory_urls": [
+      "https://bulletins.psu.edu/programs/"
+    ],
+    "official_published_count": "More than 160 majors across the University (not a University Park bachelor count)",
+    "page_coverage": {
+      "pages": 1,
+      "unique_directory_records": 756,
+      "pagination": "Complete A-Z static CourseLeaf program tiles, duplicate list view deduplicated"
+    },
+    "filter_rules": "Require Baccalaureate Degree and exact University Park campus keyword; retain different BA/BS awards and administrative college programs; exclude other completion campuses, minors, certificates and associates.",
+    "excluded_count": 578,
+    "can_prove_complete": true,
+    "completeness_basis": "All University Park baccalaureate tiles in full university directory included; campus means where degree can be completed, not merely started.",
+    "gaps": [
+      "A campus-specific closure announcement in source applies to named other campuses, not to this University Park subset.",
+      "Individual options within a single major are not separate awards unless listed as separate directory programs."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://bulletins.psu.edu/programs/",
+      "sha256": "2aeeb01a617bc381fec0076b3ce837b519acc8c6e106034edeeffb2c6b14f670",
+      "bytes": 822050,
+      "raw_file": "scratch/full-catalog/us-b/penn-state/index.html",
+      "meta_file": "scratch/full-catalog/us-b/penn-state/index.source.json"
+    }
+  ]
+}

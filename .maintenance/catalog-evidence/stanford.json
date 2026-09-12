@@ -1,0 +1,108 @@
+{
+  "original_manifest": {
+    "university_id": "stanford",
+    "status": "complete",
+    "count": 73,
+    "official_total": {
+      "all_catalog_program_records": 355,
+      "bachelor_degree_records": 73
+    },
+    "discovery_source_url": "https://bulletin.stanford.edu/programs",
+    "source_period": "2026-2027",
+    "scope": "Every public BA/BS record in active AY26-27 Stanford Bulletin, including individually designed major and separately catalogued Engineering BS subplans; BA/BS variants retain separate records",
+    "pagination_evidence": {
+      "endpoint": "Public Coursedog search endpoint discovered in official frontend JS",
+      "catalogId": "s1KuGHRiFO9tNyicMDbi",
+      "effectiveDatesRange": "2026-08-01,2026-08-01",
+      "skip": 0,
+      "limit": 500,
+      "listLength": 355,
+      "returned_records": 355,
+      "complete": true,
+      "request_saved": "stanford/program-search-all.meta.json"
+    },
+    "filter_rules": [
+      "Use the same public-display filter as official programs page",
+      "Retain degreeDesignation BA - Bachelor of Arts or BS - Bachelor of Science",
+      "Exclude MIN, PMN, IHN with no bachelor degree, graduate MA/MS/PhD, MD/JD and all non-bachelor professional credentials",
+      "Preserve separate BA/BS offerings and named ENGR BS subplan records; do not equate count to unique subject names"
+    ],
+    "gaps": [
+      "Null duration/campus/language were not explicitly populated in source; do not inherit assumptions",
+      "An active-catalog record is not a guarantee a new applicant may declare it; any detected retirement restriction is preserved in eligibility_note"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://majors.stanford.edu/majors/text-only-lists-majors-and-offerings",
+      "sha256": "6b842cfd2235b846009b03dcf6c222fe3dad5643cb6d621d4c9d1d4359a9a9d5",
+      "bytes": 47097,
+      "raw_file": "scratch/full-catalog/us-a/stanford/text-only.html",
+      "meta_file": "scratch/full-catalog/us-a/stanford/text-only.meta.json"
+    },
+    {
+      "url": "https://app.coursedog.com/api/v1/cm/stanford/programs/search/%24filters?catalogId=s1KuGHRiFO9tNyicMDbi&skip=0&limit=1000&sortBy=name&effectiveDatesRange=2026-08-01%2C2026-08-01",
+      "sha256": "7d3eb481a4a6102b8a8a40d798dba8669c4ea1ee7a0e320307507e1f03876dda",
+      "bytes": 7919506,
+      "raw_file": "scratch/full-catalog/us-a/stanford/program-search-all.json",
+      "meta_file": "scratch/full-catalog/us-a/stanford/program-search-all.meta.json"
+    },
+    {
+      "url": "https://majors.stanford.edu/opportunities/computer-science",
+      "sha256": "c2f32ff82c04e8a7d3d80a7ba1906d6660b8d6c08910328463ecec5133210d92",
+      "bytes": 26220,
+      "raw_file": "scratch/full-catalog/us-a/stanford/computer-science.html",
+      "meta_file": "scratch/full-catalog/us-a/stanford/computer-science.meta.json"
+    },
+    {
+      "url": "https://majors.stanford.edu/majors",
+      "sha256": "0a3206e1533edab7f48f702145240e346bc64f8072a3aa9be46b2cd0be4365f1",
+      "bytes": 114382,
+      "raw_file": "scratch/full-catalog/us-a/stanford/majors.html",
+      "meta_file": "scratch/full-catalog/us-a/stanford/majors.meta.json"
+    },
+    {
+      "url": "https://static.catalog.prod.coursedog.com/485790c/_nuxt/DzBkg8Ks.js",
+      "sha256": "d7fef27b59ba3a29014c7c53eab85323c49fc1189089ed4922d0cdb5b94ea386",
+      "bytes": 83,
+      "raw_file": "scratch/full-catalog/us-a/stanford/DzBkg8Ks.js.html",
+      "meta_file": "scratch/full-catalog/us-a/stanford/DzBkg8Ks.js.meta.json"
+    },
+    {
+      "url": "https://static.catalog.prod.coursedog.com/485790c/_nuxt/CMEP-lqq.js",
+      "sha256": "1c3f7c2594f1c3f1951eae6da304bb31e4403e7486aa97edbb84db66bd693898",
+      "bytes": 7645,
+      "raw_file": "scratch/full-catalog/us-a/stanford/program-index-js.html",
+      "meta_file": "scratch/full-catalog/us-a/stanford/program-index-js.meta.json"
+    },
+    {
+      "url": "https://static.catalog.prod.coursedog.com/485790c/_nuxt/IEUAnhBk.js",
+      "sha256": "40bc043ae40c4bf6da758026348aace5464e6e94103828bba31afa2c2d8780f0",
+      "bytes": 4129,
+      "raw_file": "scratch/full-catalog/us-a/stanford/IEUAnhBk.js.html",
+      "meta_file": "scratch/full-catalog/us-a/stanford/IEUAnhBk.js.meta.json"
+    },
+    {
+      "url": "https://static.catalog.prod.coursedog.com/485790c/_nuxt/C6NFU5Kr.js",
+      "sha256": "1536f856a789ab48cc21940412e92197e4258adc32b3c63a1156a5ad168af9b5",
+      "bytes": 773068,
+      "raw_file": "scratch/full-catalog/us-a/stanford/app-js.html",
+      "meta_file": "scratch/full-catalog/us-a/stanford/app-js.meta.json"
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs",
+      "sha256": "dfb7f0f0e6b8bf65c4e08d63c02eb5bfa71a392708f44dc135e394ff21d8b373",
+      "bytes": 2269257,
+      "raw_file": "scratch/full-catalog/us-a/stanford/bulletin-programs.html",
+      "meta_file": "scratch/full-catalog/us-a/stanford/bulletin-programs.meta.json"
+    },
+    {
+      "url": "https://static.catalog.prod.coursedog.com/485790c/_nuxt/BfmausaM.js",
+      "sha256": "a66ed2b7a99a5e1fa03fc0bea5f1af5ab413c18bb3fec9032a921cadc4ad3b15",
+      "bytes": 1648,
+      "raw_file": "scratch/full-catalog/us-a/stanford/program-service-js.html",
+      "meta_file": "scratch/full-catalog/us-a/stanford/program-service-js.meta.json"
+    }
+  ]
+}

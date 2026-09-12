@@ -1,0 +1,50 @@
+{
+  "original_manifest": {
+    "university_id": "duke",
+    "checked_at": "2026-09-12",
+    "final_count": 72,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "Duke Durham Trinity/Pratt 2026-27 undergraduate programs; Kunshan separate; ending ABSN recorded as excluded",
+    "directory_urls": [
+      "https://undergraduate.bulletins.duke.edu/allprograms/all",
+      "https://nursing.duke.edu/news/duke-university-school-nursing-announces-launch-masters-entry-program"
+    ],
+    "official_published_count": null,
+    "page_coverage": {
+      "pages": 1,
+      "bachelors_subpage_links": 73,
+      "pagination": "Complete Bachelor’s Programs HTML subpage in public __NUXT_DATA__; all A-Z links extracted (not only visible menu). Minors/certificates subpages read for exclusions."
+    },
+    "filter_rules": "Keep named AB/BS/BSE/AB2 entries, exclude Duke Kunshan separate-campus route, all minors/certificates and closed ABSN. AB2 retained with additional-major label.",
+    "excluded_count": 86,
+    "can_prove_complete": true,
+    "completeness_basis": "All current 2026-27 Bachelor’s Programs subpage entries in Durham scope; School of Nursing bachelor closure checked separately.",
+    "gaps": [
+      "Global Health AB2 is a co-major, not an independent bachelor degree.",
+      "General individually designed curricula are not enumerated as fabricated combinations."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/allprograms/all",
+      "sha256": "808c582a8195ea2f687cd4fbaeb4e89610f0b0b23f7b483fa6835cc3d014ed36",
+      "bytes": 609111,
+      "raw_file": "scratch/full-catalog/us-b/duke/programs.html",
+      "meta_file": "scratch/full-catalog/us-b/duke/programs.source.json"
+    },
+    {
+      "url": "https://undergraduate.bulletins.duke.edu/",
+      "sha256": "aeb222ebe0168fb0280798e26c4d03f804cca2c77afa3673230c272895385de1",
+      "bytes": 541307,
+      "raw_file": "scratch/full-catalog/us-b/duke/index.html",
+      "meta_file": "scratch/full-catalog/us-b/duke/index.source.json"
+    },
+    {
+      "url": "https://nursing.duke.edu/news/duke-university-school-nursing-announces-launch-masters-entry-program",
+      "sha256": "8c809e89e614926a64751dc36020fe8180bb478879136c1ed43c43d474ab7689",
+      "bytes": 87292,
+      "raw_file": "scratch/full-catalog/us-b/duke/nursing-status.html",
+      "meta_file": "scratch/full-catalog/us-b/duke/nursing-status.source.json"
+    }
+  ]
+}

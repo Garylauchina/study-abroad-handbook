@@ -1,0 +1,427 @@
+{
+  "original_manifest": {
+    "university_id": "mit",
+    "status": "complete",
+    "count": 55,
+    "official_total": null,
+    "discovery_source_url": "https://catalog.mit.edu/degree-charts/",
+    "source_period": "current catalog; academic year not explicitly displayed",
+    "scope": "All entries in Undergraduate Degree Charts; includes second-major-only STS",
+    "pagination_evidence": {
+      "type": "single static page",
+      "undergraduate_links_before_dedup": 58,
+      "unique_degree_chart_links": 55,
+      "detail_pages_read": 55,
+      "duplicate_school_cross_listings": 3,
+      "next_page_links": 0
+    },
+    "filter_rules": [
+      "Only #undergraduatedegreestextcontainer links beginning /degree-charts/",
+      "Exclude General Institute Requirements and entire graduate tab",
+      "Deduplicate identical chart URL across schools; retain distinct course codes"
+    ],
+    "gaps": [],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://catalog.mit.edu/degree-charts/engineering-aeronautics-astronautics-course-16-eng/",
+      "sha256": "0771a38680beba3698e2f0b0dc1a624431a69374fbd1d47314d9dfeda912e378",
+      "bytes": 79304,
+      "raw_file": "scratch/full-catalog/us-a/mit/17d2b18b7e51753f.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/17d2b18b7e51753f.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/global-studies-languages-course-21g/",
+      "sha256": "c71393aeb953e2364fff7f63e94fd5b91201fe9a99eabf558734a0bb55bf3c03",
+      "bytes": 123881,
+      "raw_file": "scratch/full-catalog/us-a/mit/dc70cb58e847e4c3.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/dc70cb58e847e4c3.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/political-science-course-17/",
+      "sha256": "804cdb5912e8cd03854466888376489c4418bd5937f2f803f5893a43247d07db",
+      "bytes": 94358,
+      "raw_file": "scratch/full-catalog/us-a/mit/4ccb56bee790ec6e.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/4ccb56bee790ec6e.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/writing-course-21w/",
+      "sha256": "b4a28b8570dcddbf73b13c2b31de1d7f94e6b0c78dc4932c62faf39d0723c9e3",
+      "bytes": 75039,
+      "raw_file": "scratch/full-catalog/us-a/mit/df1efddde8a9c86a.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/df1efddde8a9c86a.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/computation-cognition-6-9/",
+      "sha256": "a65303081271e19a62ee6d2482097f1fe0977ee74e484a687cd10d83c48aaa66",
+      "bytes": 96790,
+      "raw_file": "scratch/full-catalog/us-a/mit/142273beedb20891.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/142273beedb20891.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/chemistry-biology-course-5-7/",
+      "sha256": "17076698de2b554a8db5211da45e4d2e2853e946a19c77588b9fcabb744562f5",
+      "bytes": 88209,
+      "raw_file": "scratch/full-catalog/us-a/mit/3f000a66c6e2e06f.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/3f000a66c6e2e06f.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/architecture-course-4-b/",
+      "sha256": "fa1b4d6e1a0f34209b8508eb5a4fdaad2f7e5cfcc0f4515cc3b9cd7c270a3ae4",
+      "bytes": 87098,
+      "raw_file": "scratch/full-catalog/us-a/mit/4fa0a9f818e21431.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/4fa0a9f818e21431.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/mathematics-computer-science-course-18-c/",
+      "sha256": "96e610e96a7b6de1d86ec8fc07fde218964d5f5f9558d38dde608c8cf641a4eb",
+      "bytes": 87273,
+      "raw_file": "scratch/full-catalog/us-a/mit/bd4858e104b1acea.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/bd4858e104b1acea.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/humanities-science-course-21s/",
+      "sha256": "ae7b0cc910fb958edcf7c2cd3911755362d37568b15cb899a82369be2298097d",
+      "bytes": 108204,
+      "raw_file": "scratch/full-catalog/us-a/mit/0c2557dd3a17077f.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/0c2557dd3a17077f.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/theater-arts-course-21t/",
+      "sha256": "62d5b85b3e0aa66c77ddfb10c8b05ff241aa19f0a4a689bebf16315d10b77d6f",
+      "bytes": 74904,
+      "raw_file": "scratch/full-catalog/us-a/mit/76e941350b3daaea.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/76e941350b3daaea.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/architecture-course-4/",
+      "sha256": "324153ccd507aab017a2b90764123b90086fa3b0e8113f971bc9e6b0dc04dc22",
+      "bytes": 84266,
+      "raw_file": "scratch/full-catalog/us-a/mit/architecture.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/architecture.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/computer-science-molecular-biology-course-6-7/",
+      "sha256": "00ac7bf283b49e099a3b7bd29505fbdd9f5d83ec5615a4434ccbed5322fa0b34",
+      "bytes": 93360,
+      "raw_file": "scratch/full-catalog/us-a/mit/58ebceb06cddc36d.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/58ebceb06cddc36d.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/philosophy-course-24-1/",
+      "sha256": "6c82628fdd21767966e3990f465d6f8db54827c6a16da1fd1e871710dfd4a505",
+      "bytes": 85080,
+      "raw_file": "scratch/full-catalog/us-a/mit/907d4a0b0303f0d4.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/907d4a0b0303f0d4.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/climate-system-science-engineering-course-1-12/",
+      "sha256": "1273855085bf38bbfd7fbe8f90c4d8b745d6333cf47c7f4571ccc54eae5acc0e",
+      "bytes": 119765,
+      "raw_file": "scratch/full-catalog/us-a/mit/2189b5ccab6ad8e4.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/2189b5ccab6ad8e4.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/management-course-15-1/",
+      "sha256": "435fb9a6e2e152334b418f75e69e73d98ec58cb76278a513b0b8581d4c86c6b3",
+      "bytes": 77223,
+      "raw_file": "scratch/full-catalog/us-a/mit/eb6fdc284eeee5e2.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/eb6fdc284eeee5e2.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/chemistry-course-5/",
+      "sha256": "7ee44b27b5cd15e7ee920b986e227aeebcf10e5148a14c3f27ee9f20ccf31c2d",
+      "bytes": 96968,
+      "raw_file": "scratch/full-catalog/us-a/mit/849a6f525ee0e5c2.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/849a6f525ee0e5c2.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/computer-science-economics-data-science-course-6-14/",
+      "sha256": "3268a71a41037062999fe47f0556cdf18616468b98036320d684a3222fd4aab8",
+      "bytes": 87711,
+      "raw_file": "scratch/full-catalog/us-a/mit/1b5658840f91ea41.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/1b5658840f91ea41.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/comparative-media-studies-cms/",
+      "sha256": "0ebb263c10a619327e3746b4b597bae5f7983d4c71747986a9f79086bbac8161",
+      "bytes": 79424,
+      "raw_file": "scratch/full-catalog/us-a/mit/c5f10b94c96d657b.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/c5f10b94c96d657b.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/business-analytics-course-15-2/",
+      "sha256": "aa027cefbad181519f7699f1959cc5022a1d4b36737e4ac3012ff01f207dd755",
+      "bytes": 84892,
+      "raw_file": "scratch/full-catalog/us-a/mit/d069ba7ac315f9bb.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/d069ba7ac315f9bb.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/engineering-chemical-engineering-course-10-eng/",
+      "sha256": "415651377f4bff181eb5ba45f71585f3e0d35ab80efbb1df36226271b2a51658",
+      "bytes": 90020,
+      "raw_file": "scratch/full-catalog/us-a/mit/a1930d060e8d8210.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/a1930d060e8d8210.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2-a/",
+      "sha256": "ec445307e281c6d24673fa98eacda16c7dd52ec47f3c41a43b6246e9109f77cc",
+      "bytes": 76280,
+      "raw_file": "scratch/full-catalog/us-a/mit/bb67896aa8570fe2.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/bb67896aa8570fe2.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/planning-course-11/",
+      "sha256": "987a9cb9500bd772dc710703f7b9dfe21c5fd25c52e8e4f4fb793a227dbcb4e6",
+      "bytes": 75245,
+      "raw_file": "scratch/full-catalog/us-a/mit/64fae81a751ff600.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/64fae81a751ff600.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/finance-course-15-3/",
+      "sha256": "a55a2e2fb951671a9b0328f69e276d2f799ef9f2beb700f683c2c5ad569e3a81",
+      "bytes": 80760,
+      "raw_file": "scratch/full-catalog/us-a/mit/930be0acc285f0e7.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/930be0acc285f0e7.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/economics-course-14/",
+      "sha256": "528305640c48920703bb8e459bf5595c6a5b237ea25de22ab75a789f479aebb9",
+      "bytes": 87300,
+      "raw_file": "scratch/full-catalog/us-a/mit/3d206ca1ea8c9092.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/3d206ca1ea8c9092.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/mathematical-economics-course-14-2/",
+      "sha256": "4ef0b4fcba3e0d214b292c740d2d63f57496137e68b6167c80a21e106597f4bd",
+      "bytes": 87000,
+      "raw_file": "scratch/full-catalog/us-a/mit/8db987e8b8b3eb55.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/8db987e8b8b3eb55.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/architecture-course-4/",
+      "sha256": "324153ccd507aab017a2b90764123b90086fa3b0e8113f971bc9e6b0dc04dc22",
+      "bytes": 84266,
+      "raw_file": "scratch/full-catalog/us-a/mit/e9ab71472d3382aa.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/e9ab71472d3382aa.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/chemical-engineering-course-10/",
+      "sha256": "b9963d33812f231780d14b97f39fcd1d50914df10a97391235b1f4a272a92f43",
+      "bytes": 84564,
+      "raw_file": "scratch/full-catalog/us-a/mit/58bd30f1f116d5e8.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/58bd30f1f116d5e8.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/chemical-biological-engineering-course-10-b/",
+      "sha256": "4b8f74d54c72011bbfb552abd469bdd56d8d5a743eaa522fc8f67d30020f1508",
+      "bytes": 82069,
+      "raw_file": "scratch/full-catalog/us-a/mit/94f4ba42eea83221.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/94f4ba42eea83221.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/humanities-course-21/",
+      "sha256": "45976b65fe90471339c8a6444f053c40dd049375b3d9b1fa99f4ffb9dac69e6e",
+      "bytes": 81734,
+      "raw_file": "scratch/full-catalog/us-a/mit/54860c153bdb3c64.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/54860c153bdb3c64.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/mathematics-course-18/",
+      "sha256": "5089bf46631bcc49cdeadaec295e6042816e56563fbb5532b346a2b4b321abd6",
+      "bytes": 86847,
+      "raw_file": "scratch/full-catalog/us-a/mit/f8cacdf33e825537.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/f8cacdf33e825537.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/music-course-21m/",
+      "sha256": "ce17fdadbd5bb6cd7bfe357b95b0d5205ed297fe0a7842b6bba70b887f3edf3a",
+      "bytes": 79110,
+      "raw_file": "scratch/full-catalog/us-a/mit/3e33f683c6f9abfe.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/3e33f683c6f9abfe.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/aerospace-engineering-course-16/",
+      "sha256": "116bf03cea8ee246de5c45824b7d84ff93003c4061535f152fcd5172059734ed",
+      "bytes": 84378,
+      "raw_file": "scratch/full-catalog/us-a/mit/a5bd52cd5758cb68.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/a5bd52cd5758cb68.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/physics-course-8/",
+      "sha256": "c1d877e0a5d75148ddf479122ac71ae4cce6c281d8f468501e90f323f55ab8fc",
+      "bytes": 89797,
+      "raw_file": "scratch/full-catalog/us-a/mit/c842fb7a7495df50.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/c842fb7a7495df50.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/",
+      "sha256": "d2c2d88cade3199629be4bc88ece897e65352c03dd0be055b006a1ec149a6327",
+      "bytes": 80282,
+      "raw_file": "scratch/full-catalog/us-a/mit/26ed0d09f9d7b22f.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/26ed0d09f9d7b22f.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/archaeology-materials-course-3-c/",
+      "sha256": "3166de0d8efdf9890c1316d8251a4687bcb5b94b16aaee5f9e342179b003e921",
+      "bytes": 80400,
+      "raw_file": "scratch/full-catalog/us-a/mit/90d15c07f55d067f.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/90d15c07f55d067f.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/chemical-engineering-course-10-c/",
+      "sha256": "41a8701eb5f506073ac2e843f182134e45821fd7f0e20ff196345a951cc33581",
+      "bytes": 80125,
+      "raw_file": "scratch/full-catalog/us-a/mit/3c1f8b9334e777fd.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/3c1f8b9334e777fd.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/anthropology-course-21a/",
+      "sha256": "23b9a4fb49cea192296781eff2d907c36d1abb3294888307dcad06d682c6c462",
+      "bytes": 73817,
+      "raw_file": "scratch/full-catalog/us-a/mit/844e64be47395b0e.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/844e64be47395b0e.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/literature-course-21l/",
+      "sha256": "1122b92dec0ded1206b5d76561dabbeb3289de453d8047f8ffcbe49b6f74635f",
+      "bytes": 118362,
+      "raw_file": "scratch/full-catalog/us-a/mit/e44baae78284ea7a.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/e44baae78284ea7a.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/",
+      "sha256": "18ab2760471538d5f58db1aef392f531864c70a730a9be04c1dd61bd562bed2b",
+      "bytes": 81664,
+      "raw_file": "scratch/full-catalog/us-a/mit/degree-charts.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/degree-charts.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/science-technology-society-sts/",
+      "sha256": "7e3eb41a5aa08502f1c66e3bc9b999f00dace65a42b93ce4d34c1589c87b784b",
+      "bytes": 76890,
+      "raw_file": "scratch/full-catalog/us-a/mit/ed6f79a70ab8fec1.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/ed6f79a70ab8fec1.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/humanities-engineering-course-21e/",
+      "sha256": "0cb4738f6a01adbe1e1efce6f7ca1c478cf28c093554e5d58a9d100daad07c0a",
+      "bytes": 107890,
+      "raw_file": "scratch/full-catalog/us-a/mit/b84be0e3b51f599f.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/b84be0e3b51f599f.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/biological-engineering-course-20/",
+      "sha256": "de7a0784ab063ad074a72e9413638ff8bca739d0ddef7f0f20746d00959ecebf",
+      "bytes": 76054,
+      "raw_file": "scratch/full-catalog/us-a/mit/8ad0e48e958d29cf.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/8ad0e48e958d29cf.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/history-course-21h/",
+      "sha256": "aeb67f283f9bb0d37cef3c51b3a28bb639a18db7d6a9cd31d1076059bef245fa",
+      "bytes": 73466,
+      "raw_file": "scratch/full-catalog/us-a/mit/60bdba162a974f73.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/60bdba162a974f73.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/artifical-intelligence-decision-making-course-6-4/",
+      "sha256": "d8cbe3319e9dc64b7c58a7190290ef29ba6358b09854b70b46cbbc0ce60ec7f3",
+      "bytes": 91711,
+      "raw_file": "scratch/full-catalog/us-a/mit/4de07b5a8c9d72b5.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/4de07b5a8c9d72b5.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/",
+      "sha256": "2739b2f18a777fd14f254ea293a1bd90e70b270023349df5696b4e3d3f92201b",
+      "bytes": 88448,
+      "raw_file": "scratch/full-catalog/us-a/mit/4685d679847d6b11.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/4685d679847d6b11.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/engineering-nuclear-science-engineering-course-22-eng/",
+      "sha256": "e22a9b92149454f01be59ca1936dbbf06452a0ab81c29221c941d7e3f9174360",
+      "bytes": 81251,
+      "raw_file": "scratch/full-catalog/us-a/mit/640cf79f5efbfa73.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/640cf79f5efbfa73.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/linguistics-philosophy-course-24-2/",
+      "sha256": "95772587e4fb74aa4dd12ac6e6982868a86e0883635053234fecb4f9417c5c21",
+      "bytes": 94708,
+      "raw_file": "scratch/full-catalog/us-a/mit/8bbd2b307323ec1c.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/8bbd2b307323ec1c.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/",
+      "sha256": "f883f5118a480b6dcee61e6b98d0727a4e0c3a4068655b9570e514e60f0eadf5",
+      "bytes": 81582,
+      "raw_file": "scratch/full-catalog/us-a/mit/ee6935f8b71d6e0c.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/ee6935f8b71d6e0c.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/urban-science-planning-computer-science-11-6",
+      "sha256": "9f24489ab0e5ae12c3463ecf1ba2b0299491e79570d36eeeab9703b908100ef4",
+      "bytes": 102162,
+      "raw_file": "scratch/full-catalog/us-a/mit/e6625a56b859bc32.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/e6625a56b859bc32.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/",
+      "sha256": "63e5794c256ebe5492faad1dc2304ab7d58ee326aff6321f62af0326acdd6256",
+      "bytes": 84793,
+      "raw_file": "scratch/full-catalog/us-a/mit/dfbff49a4b5a85ca.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/dfbff49a4b5a85ca.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/biology-course-7/",
+      "sha256": "e270ea55df5bd6ec48df5269778951261369ecf56c1da9bab09f37d806e4cde6",
+      "bytes": 84305,
+      "raw_file": "scratch/full-catalog/us-a/mit/c26861b5ef0dcf06.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/c26861b5ef0dcf06.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/brain-cognitive-sciences-course-9/",
+      "sha256": "432e4ea1c793e43fb26add85924e0e3d6513e30537f3284b43958a75d472768a",
+      "bytes": 88527,
+      "raw_file": "scratch/full-catalog/us-a/mit/5588acf9eb7a0db6.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/5588acf9eb7a0db6.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3/",
+      "sha256": "3931c4f86e41435b8094af51fc40e3184e9afab2a8d6aa17441f9b2687387813",
+      "bytes": 86212,
+      "raw_file": "scratch/full-catalog/us-a/mit/6e4a97e5ba855f35.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/6e4a97e5ba855f35.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/earth-atmospheric-planetary-sciences-course-12/",
+      "sha256": "bdd5c5408fa6cc38b37fbe909829cfc2212ca856f481dafbaeb79ba589e9f267",
+      "bytes": 110724,
+      "raw_file": "scratch/full-catalog/us-a/mit/2a77b25851cdc446.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/2a77b25851cdc446.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/mechanical-ocean-engineering-course-2-oe/",
+      "sha256": "b88a549cc9d1263c4648e6e5ef032bba7137dea64826cfc89f5af20974540170",
+      "bytes": 78298,
+      "raw_file": "scratch/full-catalog/us-a/mit/255f5eb77ef87ea1.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/255f5eb77ef87ea1.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/electrical-engineering-computing-course-6-5/",
+      "sha256": "a4a98ca600fdc360ec09c956909c8df42899044e52c7482d343b8814735ee689",
+      "bytes": 77665,
+      "raw_file": "scratch/full-catalog/us-a/mit/2d7c025da748e73b.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/2d7c025da748e73b.meta.json"
+    },
+    {
+      "url": "https://catalog.mit.edu/degree-charts/materials-science-engineering-course-3-a/",
+      "sha256": "09c754e81e12dccaa5ca10ba84517f3542f3b15bd7fcb5adfde8b292e53135cf",
+      "bytes": 92698,
+      "raw_file": "scratch/full-catalog/us-a/mit/d0911fbfa6d1eef7.html",
+      "meta_file": "scratch/full-catalog/us-a/mit/d0911fbfa6d1eef7.meta.json"
+    }
+  ]
+}

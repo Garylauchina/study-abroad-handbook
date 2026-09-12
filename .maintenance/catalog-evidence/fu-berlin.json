@@ -1,0 +1,34 @@
+{
+  "original_manifest": {
+    "university_id": "fu-berlin",
+    "checked_at": "2026-09-12",
+    "final_count": 85,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "directory_scope": "Complete official undergraduate list including mono bachelors, state examinations, combination bachelor main subjects, teacher-training main subjects and joint Charité first-entry programmes.",
+    "pagination_evidence": "All subject sections present on one complete static HTML page; no result pagination. Minor lists captured separately for exclusions.",
+    "filtering_rules": "Exclude both 60/30LP and teacher-training minor lists, non-degree supporting skills courses; retain named published concentrations and joint Charité degrees, explicitly identify combinations.",
+    "can_prove_complete": true,
+    "gaps": [
+      "Some combined and Charité bachelor entries do not state precise BA/BSc abbreviation in this complete overview; degree_label remains Bachelor. No Cartesian combinations invented."
+    ],
+    "source_urls": [
+      "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/index.html"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.fu-berlin.de/en/studium/studienangebot/grundstaendige/index.html",
+      "sha256": "d2c5d54ecdef499c699c631b037f99da2c8314466766d4aa75cd80e49113a32e",
+      "bytes": 72430,
+      "raw_file": "scratch/full-catalog/europe/fu-berlin/english.html",
+      "meta_file": "scratch/full-catalog/europe/fu-berlin/english.source.json"
+    },
+    {
+      "url": "https://www.fu-berlin.de/studium/studienangebot/grundstaendige/index.html",
+      "sha256": "ce9b2a938b1636f3d467057f9b4def8d8d20570c1d05c09046248b35caedf947",
+      "bytes": 73531,
+      "raw_file": "scratch/full-catalog/europe/fu-berlin/index.html",
+      "meta_file": "scratch/full-catalog/europe/fu-berlin/index.source.json"
+    }
+  ]
+}

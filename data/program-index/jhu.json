@@ -1,0 +1,1549 @@
+{
+  "university_id": "jhu",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "complete",
+    "count": 76,
+    "scope": "All bachelor-tagged records in university-wide catalogue including Peabody dance/music",
+    "method": "{\"type\": \"complete static HTML\", \"selection\": [\"Scan entire isotope HTML list, select explicit Bachelor keyword\", \"Exclude master continuation combinations when corresponding undergraduate major already exists; keep Direct Matriculation and Peabody-Homewood independent double-degree entry\", \"Exclude all minor/certificate/graduate/MD/JD entries\"], \"pagination_links\": 0, \"full_document_saved\": true}",
+    "exclusions": "Scan entire isotope HTML list, select explicit Bachelor keyword；Exclude master continuation combinations when corresponding undergraduate major already exists; keep Direct Matriculation and Peabody-Homewood independent double-degree entry；Exclude all minor/certificate/graduate/MD/JD entries",
+    "sources": [
+      {
+        "url": "https://e-catalogue.jhu.edu/programs/",
+        "sha256": "30c805313e57e6b2012eacd71e42c4126c1e68d8003958e95d037e96f1a95606",
+        "bytes": 908415,
+        "raw_file": "scratch/full-catalog/us-a/jhu/programs.html",
+        "meta_file": "scratch/full-catalog/us-a/jhu/programs.meta.json"
+      }
+    ],
+    "gaps": [
+      "Performance-general and individual-instrument bachelor catalog records both retained as published; raw codes distinguish them"
+    ]
+  },
+  "programs": [
+    {
+      "name_en": "Africana Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/africana-studies/africana-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/africana-studies/africana-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-africana-studies-bachelor-of-arts-33b000c289"
+    },
+    {
+      "name_en": "Anthropology, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/anthropology/anthropology-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/anthropology/anthropology-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-anthropology-bachelor-of-arts-8c5dabb2eb"
+    },
+    {
+      "name_en": "Applied Mathematics and Statistics, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/applied-mathematics-statistics/applied-mathematics-statistics-bachelors-degrees/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/applied-mathematics-statistics/applied-mathematics-statistics-bachelors-degrees",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-applied-mathematics-and-statistics-bachelor-of-arts-e59858ed61"
+    },
+    {
+      "name_en": "Applied Mathematics and Statistics, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/applied-mathematics-statistics/applied-mathematics-statistics-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/applied-mathematics-statistics/applied-mathematics-statistics-bs",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-applied-mathematics-and-statistics-bachelor-of-science-81851b5e8f"
+    },
+    {
+      "name_en": "Archaeology, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/archaeology-ugrad-major/archaeology-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/archaeology-ugrad-major/archaeology-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-archaeology-bachelor-of-arts-c26c20fc2e"
+    },
+    {
+      "name_en": "Bachelor of Fine Arts in Dance",
+      "degree_label": "Bachelor of Fine Arts",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/dance-bachelor-fine-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/dance-bachelor-fine-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-fine-arts-in-dance-414454878b"
+    },
+    {
+      "name_en": "Bachelor of Music in Composition",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/composition-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/composition-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-composition-16af93fb9b"
+    },
+    {
+      "name_en": "Bachelor of Music in Hip Hop",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/hip-hop-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/hip-hop-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-hip-hop-e6d027e0a8"
+    },
+    {
+      "name_en": "Bachelor of Music in Jazz Performance",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/jazz-performance-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/jazz-performance-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-jazz-performance-ca8fd9bcd7"
+    },
+    {
+      "name_en": "Bachelor of Music in Music Education",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/bachelor-music-degree/bachelor-music-education/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/bachelor-music-degree/bachelor-music-education",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-music-education-988be9df24"
+    },
+    {
+      "name_en": "Bachelor of Music in Music for New Media",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/music-new-media-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/music-new-media-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-music-for-new-media-8b931cc047"
+    },
+    {
+      "name_en": "Bachelor of Music in Performance",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/performance-general-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/performance-general-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-performance-c5fc35168d"
+    },
+    {
+      "name_en": "Bachelor of Music in Performance - Computer Music",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/computer-music-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/computer-music-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-performance-computer-music-5fa6cb2a80"
+    },
+    {
+      "name_en": "Bachelor of Music in Performance - Guitar",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/guitar-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/guitar-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-performance-guitar-973b685034"
+    },
+    {
+      "name_en": "Bachelor of Music in Performance - Harpsichord",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/harpsichord-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/harpsichord-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-performance-harpsichord-6dc181699d"
+    },
+    {
+      "name_en": "Bachelor of Music in Performance - Historical Performance",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/historical-performance-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/historical-performance-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-performance-historical-performance-ec080119c8"
+    },
+    {
+      "name_en": "Bachelor of Music in Performance - Orchestral Instruments",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/orchestral-instruments-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/orchestral-instruments-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-performance-orchestral-instruments-60a514ef9b"
+    },
+    {
+      "name_en": "Bachelor of Music in Performance - Organ",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/organ-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/organ-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-performance-organ-eeb78f759c"
+    },
+    {
+      "name_en": "Bachelor of Music in Performance - Piano",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/piano-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/piano-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-performance-piano-4e7aac9304"
+    },
+    {
+      "name_en": "Bachelor of Music in Performance - Voice",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/degree-diploma-programs/voice-bachelor-music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/degree-diploma-programs/voice-bachelor-music",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-performance-voice-e19d3aaed2"
+    },
+    {
+      "name_en": "Bachelor of Music in Recording Arts & Sciences",
+      "degree_label": "Bachelor of Music",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/bachelor-music-degree/bachelor-music-recording-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/bachelor-music-degree/bachelor-music-recording-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "id": "jhu-bachelor-of-music-in-recording-arts-sciences-1d5a5a7900"
+    },
+    {
+      "name_en": "Behavioral Biology, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/behavioral-biology/behavioral-biology-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/behavioral-biology/behavioral-biology-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-behavioral-biology-bachelor-of-arts-120c622014"
+    },
+    {
+      "name_en": "Biology, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/biology/biology-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/biology/biology-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-biology-bachelor-of-arts-12167be3d6"
+    },
+    {
+      "name_en": "Biomedical Engineering, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/biomedical-engineering/biomedical-engineering-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/biomedical-engineering/biomedical-engineering-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-biomedical-engineering-bachelor-of-science-d829adceb7"
+    },
+    {
+      "name_en": "Biophysics, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/biophysics/biophysics-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/biophysics/biophysics-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-biophysics-bachelor-of-science-8c59bd477d"
+    },
+    {
+      "name_en": "Chemical and Biomolecular Engineering, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/chemical-biomolecular-engineering/chemical-biomolecular-engineering-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/chemical-biomolecular-engineering/chemical-biomolecular-engineering-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-chemical-and-biomolecular-engineering-bachelor-of-science-dad7067f2c"
+    },
+    {
+      "name_en": "Chemistry, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/chemistry/chemistry-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/chemistry/chemistry-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-chemistry-bachelor-of-science-2e20b87398"
+    },
+    {
+      "name_en": "Civil Engineering, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/civil-engineering/civil-engineering-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/civil-engineering/civil-engineering-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-civil-engineering-bachelor-of-science-e1dd83afec"
+    },
+    {
+      "name_en": "Classics, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/classics/classics-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/classics/classics-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-classics-bachelor-of-arts-64d1017e39"
+    },
+    {
+      "name_en": "Cognitive Science, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/cognitive-science/cognitive-science-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/cognitive-science/cognitive-science-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-cognitive-science-bachelor-of-arts-999aa4bfcd"
+    },
+    {
+      "name_en": "Computer Engineering, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/computer-engineering-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/computer-engineering-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-computer-engineering-bachelor-of-science-25813cc83b"
+    },
+    {
+      "name_en": "Computer Science, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/computer-science-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/computer-science/computer-science-ba",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-computer-science-bachelor-of-arts-831ba543b3"
+    },
+    {
+      "name_en": "Computer Science, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/computer-science-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/computer-science/computer-science-bs",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-computer-science-bachelor-of-science-41dccbe5ac"
+    },
+    {
+      "name_en": "Critical Diaspora Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/chloe-center/critical-diaspora-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/chloe-center/critical-diaspora-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-critical-diaspora-studies-bachelor-of-arts-638857f92f"
+    },
+    {
+      "name_en": "Direct Matriculation: International Studies B.A./M.A. Program with the Paul H. Nitze School of Advanced International Studies (SAIS)",
+      "degree_label": "Bachelor undergraduate combined entry",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/international-studies/ba-ma-sais/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/international-studies/ba-ma-sais",
+      "source_tags": [
+        "Bachelor's",
+        "Master's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "School of Advanced International Studies",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs) School of Advanced International Studies",
+      "entry_route": "Direct-matriculation undergraduate/graduate combined entry",
+      "id": "jhu-direct-matriculation-international-studies-b-a-m-a-program-with-t-8ac6ec0cc5"
+    },
+    {
+      "name_en": "Earth and Planetary Sciences, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/earth-planetary-science/earth-planetary-sciences-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/earth-planetary-science/earth-planetary-sciences-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-earth-and-planetary-sciences-bachelor-of-arts-05ec9a8f37"
+    },
+    {
+      "name_en": "East Asian Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/east-asian-studies/east-asian-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/east-asian-studies/east-asian-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-east-asian-studies-bachelor-of-arts-1820b422a9"
+    },
+    {
+      "name_en": "Economics, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/economics/economics-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/economics/economics-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-economics-bachelor-of-arts-fa74f48b35"
+    },
+    {
+      "name_en": "Electrical Engineering, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/electrical-engineering-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/electrical-engineering-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-electrical-engineering-bachelor-of-science-28b5f0d9ca"
+    },
+    {
+      "name_en": "Engineering Mechanics, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/mechanical-engineering/engineering-mechanics-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/mechanical-engineering/engineering-mechanics-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-engineering-mechanics-bachelor-of-science-12caff0081"
+    },
+    {
+      "name_en": "English, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/english/english-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/english/english-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-english-bachelor-of-arts-2d7076eb0f"
+    },
+    {
+      "name_en": "Environmental Engineering, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/environmental-health-engineering/environmental-engineering-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/environmental-health-engineering/environmental-engineering-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-environmental-engineering-bachelor-of-science-9c1e4a4513"
+    },
+    {
+      "name_en": "Environmental Science, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/earth-planetary-science/environmental-science-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/earth-planetary-science/environmental-science-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-environmental-science-bachelor-of-science-78410d848e"
+    },
+    {
+      "name_en": "Environmental Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/earth-planetary-science/environmental-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/earth-planetary-science/environmental-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-environmental-studies-bachelor-of-arts-d4fbf07e9f"
+    },
+    {
+      "name_en": "Film and Media Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/film-media-studies/film-media-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/film-media-studies/film-media-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-film-and-media-studies-bachelor-of-arts-3f648d602c"
+    },
+    {
+      "name_en": "French, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/french-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/french-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-french-bachelor-of-arts-232f7b9584"
+    },
+    {
+      "name_en": "General Engineering, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/general-engineering/general-engineering-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/general-engineering/general-engineering-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-general-engineering-bachelor-of-arts-0ca6dbe436"
+    },
+    {
+      "name_en": "German, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/german-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/german-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-german-bachelor-of-arts-5a86f3900a"
+    },
+    {
+      "name_en": "History of Art, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/history-art-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/history-art-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-history-of-art-bachelor-of-arts-0bfe50a4fc"
+    },
+    {
+      "name_en": "History of Science, Medicine, and Technology, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/history-science-technology/history-science-medicine-technology-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/history-science-technology/history-science-medicine-technology-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-history-of-science-medicine-and-technology-bachelor-of-arts-276dff404f"
+    },
+    {
+      "name_en": "History, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/history/history-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/history/history-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-history-bachelor-of-arts-5dad565136"
+    },
+    {
+      "name_en": "Interdisciplinary Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/interdisciplinary-studies/interdisciplinary-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/interdisciplinary-studies/interdisciplinary-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-interdisciplinary-studies-bachelor-of-arts-9b69cd5ce8"
+    },
+    {
+      "name_en": "International Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/international-studies/international-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/international-studies/international-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-international-studies-bachelor-of-arts-2b6b8594c4"
+    },
+    {
+      "name_en": "Italian, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/italian-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/italian-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-italian-bachelor-of-arts-8ba2f60162"
+    },
+    {
+      "name_en": "Latin American, Caribbean, and Latinx Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/program-latin-american-caribbean-latinx-studies/latin-american-caribbean-latinx-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/program-latin-american-caribbean-latinx-studies/latin-american-caribbean-latinx-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-latin-american-caribbean-and-latinx-studies-bachelor-of-arts-67ffbd2d10"
+    },
+    {
+      "name_en": "Materials Science and Engineering, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/materials-science-engineering/materials-engineering-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/materials-science-engineering/materials-engineering-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-materials-science-and-engineering-bachelor-of-science-fcba7c881c"
+    },
+    {
+      "name_en": "Mathematics, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/mathematics/mathematics-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/mathematics/mathematics-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-mathematics-bachelor-of-arts-d751d32481"
+    },
+    {
+      "name_en": "Mechanical Engineering, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/mechanical-engineering/mechanical-engineering-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/mechanical-engineering/mechanical-engineering-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-mechanical-engineering-bachelor-of-science-219f06c72a"
+    },
+    {
+      "name_en": "Medicine, Science, and the Humanities, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/medicine-science-humanities/medicine-science-humanities-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/medicine-science-humanities/medicine-science-humanities-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-medicine-science-and-the-humanities-bachelor-of-arts-cb18782d99"
+    },
+    {
+      "name_en": "Molecular and Cellular Biology, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/biology/molecular-cellular-biology-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/biology/molecular-cellular-biology-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-molecular-and-cellular-biology-bachelor-of-science-5c53aab6cd"
+    },
+    {
+      "name_en": "Moral and Political Economy, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/center-economy-society/moral-political-economy-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/center-economy-society/moral-political-economy-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-moral-and-political-economy-bachelor-of-arts-2677df795c"
+    },
+    {
+      "name_en": "Natural Sciences Area, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/natural-sciences-area/natural-sciences-area-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/natural-sciences-area/natural-sciences-area-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-natural-sciences-area-bachelor-of-arts-1cda172f9a"
+    },
+    {
+      "name_en": "Near Eastern Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/near-eastern-studies/near-eastern-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/near-eastern-studies/near-eastern-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-near-eastern-studies-bachelor-of-arts-a85cdb553b"
+    },
+    {
+      "name_en": "Neuroscience, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/neuroscience/neuroscience-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/neuroscience/neuroscience-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-neuroscience-bachelor-of-science-39d44f7029"
+    },
+    {
+      "name_en": "Peabody-Homewood Double Degree Program",
+      "degree_label": "Bachelor undergraduate combined entry",
+      "official_url": "https://e-catalogue.jhu.edu/peabody/bachelor-music-degree/combined-degree-programs/peabody-homewood-double-degree-program/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "peabody/bachelor-music-degree/combined-degree-programs/peabody-homewood-double-degree-program",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Peabody Institute",
+        "In-person"
+      ],
+      "school": "Peabody Institute",
+      "entry_route": "Peabody–Homewood undergraduate double-degree route",
+      "id": "jhu-peabody-homewood-double-degree-program-596ea915ca"
+    },
+    {
+      "name_en": "Philosophy, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/philosophy/philosophy-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/philosophy/philosophy-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-philosophy-bachelor-of-arts-8fb11c4947"
+    },
+    {
+      "name_en": "Physics, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/physics-astronomy/physics-astronomy-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/physics-astronomy/physics-astronomy-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-physics-bachelor-of-arts-59bfe3bad1"
+    },
+    {
+      "name_en": "Physics, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/physics-astronomy/physics-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/physics-astronomy/physics-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-physics-bachelor-of-science-5a4f8e12cd"
+    },
+    {
+      "name_en": "Political Science, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/political-science/political-science-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/political-science/political-science-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-political-science-bachelor-of-arts-6879d797c1"
+    },
+    {
+      "name_en": "Psychology, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/psychological-brain-science/psychology-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/psychological-brain-science/psychology-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-psychology-bachelor-of-arts-572c86b664"
+    },
+    {
+      "name_en": "Public Health Studies, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/public-health-studies/public-health-studies-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/public-health-studies/public-health-studies-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-public-health-studies-bachelor-of-arts-ee02a93bd0"
+    },
+    {
+      "name_en": "Romance Languages, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/romance-languages-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/romance-languages-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-romance-languages-bachelor-of-arts-02934b1bb8"
+    },
+    {
+      "name_en": "Sociology, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/sociology/sociology-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/sociology/sociology-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-sociology-bachelor-of-arts-6037fbc88b"
+    },
+    {
+      "name_en": "Spanish, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/spanish-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/modern-languages-literatures/spanish-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-spanish-bachelor-of-arts-9e632967e9"
+    },
+    {
+      "name_en": "Systems Engineering, Bachelor of Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/civil-engineering/systems-engineering-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "engineering/full-time-residential-programs/degree-programs/civil-engineering/systems-engineering-bachelor-science",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Whiting School of Engineering (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Whiting School of Engineering (Full Time, On Campus Programs)",
+      "id": "jhu-systems-engineering-bachelor-of-science-2d523cc971"
+    },
+    {
+      "name_en": "Writing Seminars, Bachelor of Arts",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://e-catalogue.jhu.edu/arts-sciences/full-time-residential-programs/degree-programs/writing-seminars/writing-seminars-bachelor-arts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://e-catalogue.jhu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "arts-sciences/full-time-residential-programs/degree-programs/writing-seminars/writing-seminars-bachelor-arts",
+      "source_tags": [
+        "Bachelor's",
+        "Full-time",
+        "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+        "In-person"
+      ],
+      "school": "Krieger School of Arts and Sciences (Full Time, On Campus Programs)",
+      "id": "jhu-writing-seminars-bachelor-of-arts-daee04bc3b"
+    }
+  ]
+}

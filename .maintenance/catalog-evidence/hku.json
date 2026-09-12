@@ -1,0 +1,211 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://admissions.hku.hk/programmes/undergraduate-programmes",
+    "official_total": 135,
+    "official_total_unit": "programme/major directory cards",
+    "pagination_complete": true,
+    "provably_complete": true,
+    "page_evidence": [
+      {
+        "page": 0,
+        "cards": 10
+      },
+      {
+        "page": 1,
+        "cards": 10
+      },
+      {
+        "page": 2,
+        "cards": 10
+      },
+      {
+        "page": 3,
+        "cards": 10
+      },
+      {
+        "page": 4,
+        "cards": 10
+      },
+      {
+        "page": 5,
+        "cards": 10
+      },
+      {
+        "page": 6,
+        "cards": 10
+      },
+      {
+        "page": 7,
+        "cards": 10
+      },
+      {
+        "page": 8,
+        "cards": 10
+      },
+      {
+        "page": 9,
+        "cards": 10
+      },
+      {
+        "page": 10,
+        "cards": 10
+      },
+      {
+        "page": 11,
+        "cards": 10
+      },
+      {
+        "page": 12,
+        "cards": 10
+      },
+      {
+        "page": 13,
+        "cards": 5
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "Several named majors share an admissions code and URL (for example BA 6054); retained by exact title and marked named_major, not claimed to be distinct direct-entry degrees.",
+      "Current directory does not state entry year.",
+      "Mainland eligibility and application-open status require later applicant-route review."
+    ],
+    "raw_artifacts": [
+      "hku/raw/directory.meta.json",
+      "hku/raw/page-0.meta.json",
+      "hku/raw/page-1.meta.json",
+      "hku/raw/page-10.meta.json",
+      "hku/raw/page-11.meta.json",
+      "hku/raw/page-12.meta.json",
+      "hku/raw/page-13.meta.json",
+      "hku/raw/page-2.meta.json",
+      "hku/raw/page-3.meta.json",
+      "hku/raw/page-4.meta.json",
+      "hku/raw/page-5.meta.json",
+      "hku/raw/page-6.meta.json",
+      "hku/raw/page-7.meta.json",
+      "hku/raw/page-8.meta.json",
+      "hku/raw/page-9.meta.json"
+    ],
+    "university_id": "hku",
+    "count": 135,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 135
+    },
+    "record_type_counts": {
+      "degree_or_admission_programme": 57,
+      "named_major": 78
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=6",
+      "sha256": "6a6a9015de97b971d15f8878c3b8f0a9dec830f939beffd244edfd9d2bcbf550",
+      "bytes": 150629,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-6.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-6.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=10",
+      "sha256": "6f9684c4852b4739a6ee8117a36a382f561b525a05db8c828941de03eef82494",
+      "bytes": 150998,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-10.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-10.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=0",
+      "sha256": "092d1e8f2f79145a268363da2ed0e2c24e182dad8f194362b6443af148ff9c8f",
+      "bytes": 149815,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-0.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-0.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=7",
+      "sha256": "619ca457068945acd6b78caf0fba20a7b20e881b499f08359a26223832b30483",
+      "bytes": 151508,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-7.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-7.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=11",
+      "sha256": "198200bc81a38f09639c4aa8ca5b0102ebac4ab3a1a115e3f2ccf8fed85a817a",
+      "bytes": 163976,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-11.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-11.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=1",
+      "sha256": "c2acd68d532f7fea2858475ac4b5ecf1a96b69e307c60a7cdbc030ba419440d3",
+      "bytes": 150092,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-1.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-1.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes",
+      "sha256": "c2d61422e3327cf41c0347f3016ea2121b17bd6bb4ee07033ac9e9e333c76d50",
+      "bytes": 149579,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/directory.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=12",
+      "sha256": "d0c9ec2ae8b17f3f14e9434cf7fcb93cd7e165a086d7e184befc03b0ace409c9",
+      "bytes": 150701,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-12.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-12.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=4",
+      "sha256": "47380983e6f798ac5ae20c9deb495741977f36eec8709ca5380ce5af36de07e2",
+      "bytes": 150997,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-4.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-4.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=9",
+      "sha256": "31199301f17284090923d4b7980b4b81a9a38eb8760aa0ab78b01ba7f0a4ccbf",
+      "bytes": 150802,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-9.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-9.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=2",
+      "sha256": "7a0f9fc327227ada7755e86c16c6668349adaea69134d3a84276a715ca8d48c4",
+      "bytes": 150376,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-2.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-2.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=13",
+      "sha256": "e6fadf1dcece42825b60196ca585421dcf0f668f1fed7b578b8ca5a8b7a35d64",
+      "bytes": 141558,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-13.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-13.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=5",
+      "sha256": "b9ea750e0965cf6397fb87b29d52b5db8a90bec075107d3d4214a4ce5bee4c71",
+      "bytes": 151200,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-5.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-5.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=8",
+      "sha256": "0b306d8a17e00e72ed5b3c1ee2ea373dea590569a725115915fe111f751557b7",
+      "bytes": 151285,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-8.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-8.meta.json"
+    },
+    {
+      "url": "https://admissions.hku.hk/programmes/undergraduate-programmes?page=3",
+      "sha256": "a7f9ea1e1a1f5835848bd0dad8756c36b630ec3400a278cc03ea7d956d7b6a29",
+      "bytes": 151375,
+      "raw_file": "scratch/full-catalog/asia/hku/raw/page-3.html",
+      "meta_file": "scratch/full-catalog/asia/hku/raw/page-3.meta.json"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+    "official_total": 17,
+    "official_total_unit": "departments described on admissions page (school entry additional)",
+    "pagination_complete": false,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "named_department_entries": 17,
+        "school_level_entries": 1
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "Admissions page includes School of AI heading but does not enumerate its current individual degree routes; newer AI reorganisation needs reconciliation with undergraduate-specific current catalogue.",
+      "Freshman guide has stale English copy (Chemical/Biomolecular Engineering mistranslated as Biological Sciences); admissions names retained verbatim with original source typo Matematical Sciences."
+    ],
+    "raw_artifacts": [
+      "kaist/raw/directory.meta.json",
+      "kaist/raw/freshman.meta.json"
+    ],
+    "university_id": "kaist",
+    "count": 18,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 18
+    },
+    "record_type_counts": {
+      "undergraduate_major": 17,
+      "undergraduate_school": 1
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://admission.kaist.ac.kr/intl-undergraduate/before/sub01",
+      "sha256": "f373a13783da9e2ed9861afb03c42e1e2065278aaae6e90aad13badc145948b3",
+      "bytes": 47299,
+      "raw_file": "scratch/full-catalog/asia/kaist/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/kaist/raw/directory.meta.json"
+    },
+    {
+      "url": "https://freshman.kaist.ac.kr/en/page/sub/en_sub_0302.do",
+      "sha256": "9d4003963ccaf15f2753c576015ee850195e1239b93d1be2e4da7489b8da51ad",
+      "bytes": 88337,
+      "raw_file": "scratch/full-catalog/asia/kaist/raw/freshman.html",
+      "meta_file": "scratch/full-catalog/asia/kaist/raw/freshman.meta.json"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "university_id": "monash",
+  "sources": [
+    {
+      "url": "https://www.monash.edu/admissions/apply/international-ug",
+      "sha256": "73e5a2acf4a985380ee7c41c4146401d04e3e7fd9e3b46b7070ebaf22d3a6e5b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.monash.edu/admissions/entry-requirements/english-language",
+      "sha256": "23e2f95fb869aef48a8b3af3af420d1f8d14f2674435f047ed6cccd20ab911b6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-english.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.monash.edu/students/admin/dates/summary-dates",
+      "sha256": "25e515a12199c55a6f758c2ca01941101a9dfa67126cbf99a4563d8b7a67d88a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-calendar.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true",
+      "sha256": "34de51974195e3b4a0adfe3d1763d8328f3a29e29ef510476ff496260807e539",
+      "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-cs-international.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770",
+      "sha256": "de2cbb9576626d1d6057e985fc213adcfcbaa434b5d3583a0876c5412897d8d9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/monash/browser-scholarship.html",
+      "locator": null
+    },
+    {
+      "url": "https://handbook.monash.edu/2026/courses/B2029",
+      "sha256": "b4fa451489a24d5b3d543983c71c746fbff32526c77bb4c2b89d94be56b08de3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/monash/detail-B2029.html",
+      "locator": null
+    }
+  ]
+}

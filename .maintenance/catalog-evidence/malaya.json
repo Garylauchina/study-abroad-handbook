@@ -1,0 +1,253 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://study.um.edu.my/undergraduate-faculties",
+    "official_total": 80,
+    "official_total_unit": "bachelor degrees stated on general programmes page",
+    "pagination_complete": true,
+    "provably_complete": true,
+    "page_evidence": [
+      {
+        "faculty_page": "academy-of-islamic-studies-courses",
+        "links": 7
+      },
+      {
+        "faculty_page": "faculty-arts-social-science-courses",
+        "links": 12
+      },
+      {
+        "faculty_page": "faculty-of-built-environment",
+        "links": 5
+      },
+      {
+        "faculty_page": "faculty-of-business-and-economic",
+        "links": 4
+      },
+      {
+        "faculty_page": "faculty-of-computer-science",
+        "links": 6
+      },
+      {
+        "faculty_page": "faculty-of-creative-arts",
+        "links": 4
+      },
+      {
+        "faculty_page": "faculty-of-dentistry",
+        "links": 1
+      },
+      {
+        "faculty_page": "faculty-of-education",
+        "links": 3
+      },
+      {
+        "faculty_page": "faculty-of-engineering",
+        "links": 5
+      },
+      {
+        "faculty_page": "faculty-of-languages-and-linguistics",
+        "links": 9
+      },
+      {
+        "faculty_page": "faculty-of-law",
+        "links": 2
+      },
+      {
+        "faculty_page": "faculty-of-medicine",
+        "links": 2
+      },
+      {
+        "faculty_page": "faculty-of-nursing",
+        "links": 1
+      },
+      {
+        "faculty_page": "faculty-of-pharmacy",
+        "links": 1
+      },
+      {
+        "faculty_page": "faculty-of-science",
+        "links": 12
+      },
+      {
+        "faculty_page": "faculty-of-sports-and-exercise-science",
+        "links": 2
+      },
+      {
+        "faculty_page": "malay-studies-courses",
+        "links": 4
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "General programmes page states 80 bachelor degrees; extracted faculty-list totals are reconciled explicitly, not assumed equal.",
+      "Faculty index updated 24 Jun 2026; course intakes/admissions-open status not given on these lists."
+    ],
+    "raw_artifacts": [
+      "malaya/raw/academy-of-islamic-studies-courses.meta.json",
+      "malaya/raw/directory.meta.json",
+      "malaya/raw/faculties.meta.json",
+      "malaya/raw/faculty-arts-social-science-courses.meta.json",
+      "malaya/raw/faculty-of-built-environment.meta.json",
+      "malaya/raw/faculty-of-business-and-economic.meta.json",
+      "malaya/raw/faculty-of-computer-science.meta.json",
+      "malaya/raw/faculty-of-creative-arts.meta.json",
+      "malaya/raw/faculty-of-dentistry.meta.json",
+      "malaya/raw/faculty-of-education.meta.json",
+      "malaya/raw/faculty-of-engineering.meta.json",
+      "malaya/raw/faculty-of-languages-and-linguistics.meta.json",
+      "malaya/raw/faculty-of-law.meta.json",
+      "malaya/raw/faculty-of-medicine.meta.json",
+      "malaya/raw/faculty-of-nursing.meta.json",
+      "malaya/raw/faculty-of-pharmacy.meta.json",
+      "malaya/raw/faculty-of-science.meta.json",
+      "malaya/raw/faculty-of-sports-and-exercise-science.meta.json",
+      "malaya/raw/malay-studies-courses.meta.json"
+    ],
+    "university_id": "malaya",
+    "count": 80,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 80
+    },
+    "record_type_counts": {
+      "bachelor_degree": 80
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://study.um.edu.my/malay-studies-courses",
+      "sha256": "ad01272b5bd4ee0a6bd4430668e05fbed206cf86164298bc46d18dcf420a608c",
+      "bytes": 14880,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/malay-studies-courses.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/malay-studies-courses.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-education",
+      "sha256": "6aee6709491e9f48443ef91b2af26f711628c94e18597d8154e4b3c2c0acf26b",
+      "bytes": 14524,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-education.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-education.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-medicine",
+      "sha256": "41a1ff952ba29a8b9831fb643ba43701ad91e8cf92d6bef0128ec827e05942dc",
+      "bytes": 14266,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-medicine.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-medicine.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-business-and-economic",
+      "sha256": "70903a7735290634823d77131d84859c1061f3130af946db76639a3baf66b06e",
+      "bytes": 14804,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-business-and-economic.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-business-and-economic.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-creative-arts",
+      "sha256": "911878a5732cb8aa0a9023f81f6f2ab26c2248a30ff2594c2c286a4518fc3478",
+      "bytes": 14716,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-creative-arts.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-creative-arts.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-engineering",
+      "sha256": "b927211606d86eada027276249b8f1a977b3e21265a0bcd6c86367566e10373f",
+      "bytes": 15080,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-engineering.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-engineering.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/programmes",
+      "sha256": "75842df4bb67d6c83fe738375d88f1e2fa16ed9dc8b7812c79da86540a22dc71",
+      "bytes": 26253,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/directory.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-pharmacy",
+      "sha256": "c32c775b2182b5df140568c9f055566e2b5d08751b9480f44e071a6626a5448d",
+      "bytes": 13970,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-pharmacy.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-pharmacy.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-arts-social-science-courses",
+      "sha256": "f1257ccf60afe1d0a7997354b2604011cae11ba566500ee6f17d1818731c0985",
+      "bytes": 17055,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-arts-social-science-courses.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-arts-social-science-courses.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-law",
+      "sha256": "43dcff9cf068ace128ef5245cd3b8d3235b0f5182dc4893e7747292592009513",
+      "bytes": 14164,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-law.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-law.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-built-environment",
+      "sha256": "c865580da4457671917f13925a313eb28be5691731c304c14da57eb847d030c5",
+      "bytes": 15101,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-built-environment.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-built-environment.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-computer-science",
+      "sha256": "1b1d100d6fe3c987e0440f00f26c92f01cd561d3d507032254eb034e0d7569be",
+      "bytes": 15577,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-computer-science.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-computer-science.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-science",
+      "sha256": "e0206c3a48f3060e48eab7f31004b55d2b7b2af73fb096673fa484568c752c4a",
+      "bytes": 17062,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-science.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-science.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-languages-and-linguistics",
+      "sha256": "3adf568839f18d696da6613b288a523b9ee71bfb11c78be631e72f61321f0ce3",
+      "bytes": 16453,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-languages-and-linguistics.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-languages-and-linguistics.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/undergraduate-faculties",
+      "sha256": "01ec01f3f209d08c506f98958fe28a4e1cf15eb28bd4ba71c25c62e3911c3f7b",
+      "bytes": 22083,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculties.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculties.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-sports-and-exercise-science",
+      "sha256": "5c35163e0906c15169610f28e7951e7b6046994b04d209d7f861f8af164d3a61",
+      "bytes": 14355,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-sports-and-exercise-science.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-sports-and-exercise-science.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-nursing",
+      "sha256": "814378ce5e056ea8152229d6de178d0705eaa8b2dd13dd73458bcf9a8e162c12",
+      "bytes": 13958,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-nursing.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-nursing.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/faculty-of-dentistry",
+      "sha256": "98c039aca2325e1ec808a892f24ae12b98f632599d025ea2e460aea17a1cc7eb",
+      "bytes": 14103,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-dentistry.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/faculty-of-dentistry.meta.json"
+    },
+    {
+      "url": "https://study.um.edu.my/academy-of-islamic-studies-courses",
+      "sha256": "5c966cba37c4dcb955cfb0e8197a155e177253914035d2cc338a13f31912c8ea",
+      "bytes": 15656,
+      "raw_file": "scratch/full-catalog/asia/malaya/raw/academy-of-islamic-studies-courses.html",
+      "meta_file": "scratch/full-catalog/asia/malaya/raw/academy-of-islamic-studies-courses.meta.json"
+    }
+  ]
+}

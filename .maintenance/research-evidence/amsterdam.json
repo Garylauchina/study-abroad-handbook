@@ -1,0 +1,431 @@
+{
+  "university_id": "amsterdam",
+  "sources": [
+    {
+      "url": "https://www.uva.nl/en/education/admissions/bachelors/applying-for-a-degree-programme.html",
+      "sha256": "d1fdd19d4d56902edb45bd9055a70d9e18b73134f40888bacf867ae8afce3b29",
+      "raw_file": "scratch/full-catalog/europe-enrichment/amsterdam/admission.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/en/education/fees-and-funding/tuition-fees/tuition-fees.html",
+      "sha256": "d518977f403ffc60ffed8ff8b21dc7f447e70fe4a72fb03961d158446b655b6c",
+      "raw_file": "scratch/full-catalog/europe-enrichment/amsterdam/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/en/education/admissions/bachelors/entry-requirements-for-international-qualifications.html",
+      "sha256": "e51aa3e2daf5a24463ed92f285fb3866d46bf2910c2b815d4ab1db329579511d",
+      "raw_file": "scratch/full-catalog/europe-enrichment/amsterdam/diploma.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/webfiles/1779862044324/includes/diploma-finder/country_data.js",
+      "sha256": "2bd8d592b211e5318037fc45d6cca7013ed505cdd779c78220bfc5097d44016e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/amsterdam/diploma-country-data.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/en/programmes/bachelors/business-administration/application-and-admission/faq/faq.html",
+      "sha256": "474b9ef006cb2909eac514cd4b12e41b77671b3a4210bc10909038fdd1fbb98b",
+      "raw_file": "scratch/full-catalog/europe-enrichment/amsterdam/business2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/_restapi/list-json?uuid=2705d57f-b5ee-497a-8608-1ab2cd8094d3&mount=5d341896-07a6-4e97-861a-0b5a326a7b93",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/actuarial-science/actuarial-science.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/arabische-taal-en-cultuur/arabische-taal-en-cultuur.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/archeologie/archeologie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/kunstmatige-intelligentie/kunstmatige-intelligentie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/biologie/biologie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/bio-medische-wetenschappen/bio%E2%80%93medische-wetenschappen.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/business-administration-bedrijfskunde/business-administration-bedrijfskunde.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/business-analytics/business-analytics.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/beta-gamma/beta-gamma.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/cognition-language-and-communication/cognition-language-and-communication.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/communicatiewetenschap/communicatiewetenschap.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/computational-social-science-data-en-sociale-wetenschap/computational-social-science-data-en-sociale-wetenschap.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/culturele-antropologie-en-ontwikkelingssociologie/antropologie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/duitslandstudies/duitslandstudies.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/econometrics-and-data-science/econometrics-and-data-science.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/economics-business-economics/economics-business-economics.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/english-language-and-culture/english-language-and-culture.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/europese-studies/europese-studies.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/filosofie/filosofie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/fiscaal-recht/fiscaal-recht.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/fiscale-economie/fiscale-economie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/franse-taal-en-cultuur/franse-taal-en-cultuur.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/future-planet-studies/future-planet-studies.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/geneeskunde/geneeskunde.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/geschiedenis/geschiedenis.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/global-arts-culture-and-politics/global-arts-culture-and-politics.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/griekse-en-latijnse-taal-en-cultuur/griekse-en-latijnse-taal-en-cultuur.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/hebreeuwse-taal-en-cultuur/hebreeuwse-taal-en-cultuur.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/informatica/informatica.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/informatiekunde/informatiekunde.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/interdisciplinaire-sociale-wetenschap/interdisciplinaire-sociale-wetenschap.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/italiaanse-taal-en-cultuur/italie-studies.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/kunstgeschiedenis/kunstgeschiedenis.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/liberal-arts-and-sciences/liberal-arts-and-sciences.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/linguistics-taalwetenschap/linguistics.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/literary-and-cultural-analysis/lca.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/media-and-information/media-and-information.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/media-en-cultuur/media-en-cultuur.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/medische-informatiekunde/medische-informatiekunde.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/muziekwetenschap/muziekwetenschap.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/natuur--en-sterrenkunde/natuur--en-sterrenkunde.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/nederlandse-taal-en-cultuur/nederlandse-taal-en-cultuur.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/nieuwgriekse-taal-en-cultuur/nieuwgriekse-taal-en-cultuur.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/onderwijswetenschappen/onderwijswetenschappen.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/oudheidwetenschappen/oudheidwetenschappen.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/pedagogische-wetenschappen/pedagogische-wetenschappen-test.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/pedagogische-wetenschappen/pedagogische-wetenschappen.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/politicologie/politicologie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/politics-psychology-law-and-economics/politics-psychology-law-and-economics.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/psychobiologie/psychobiologie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/psychologie/psychologie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/rechtsgeleerdheid/rechtsgeleerdheid.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/religiewetenschappen/religiewetenschappen.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/scandinavische-talen-en-culturen/scandinavie-studies.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/scheikunde/scheikunde.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/science-technology-and-innovation/science-technology-and-innovation.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/sign-language-linguistics-taalwetenschap/sign-language-linguistics-taalwetenschap.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/slavische-talen-en-culturen/russische-en-slavische-studies.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/sociale-geografie-en-planologie/sociale-geografie-en-planologie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/sociologie/sociologie.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/spaanse-en-latijns-amerikaanse-studies/spaanse-en-latijns-amerikaanse-studies.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/tandheelkunde/tandheelkunde.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/theaterwetenschap/theaterwetenschap.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/universitaire-pabo-van-amsterdam/universitaire-pabo-van-amsterdam.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/wiskunde/wiskunde.html",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "locator": null
+    }
+  ]
+}

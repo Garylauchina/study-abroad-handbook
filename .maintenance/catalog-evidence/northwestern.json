@@ -1,0 +1,85 @@
+{
+  "original_manifest": {
+    "university_id": "northwestern",
+    "status": "complete",
+    "count": 117,
+    "official_total": null,
+    "discovery_source_url": "https://catalogs.northwestern.edu/undergraduate/programs-az/",
+    "additional_discovery_sources": [
+      "https://catalogs.northwestern.edu/sps/programs-az/",
+      "https://www.qatar.northwestern.edu/academics/undergraduate/"
+    ],
+    "source_period": "2026-2027 main/SPS; Qatar current undated",
+    "scope": "All bachelor-major and degree entries in main undergraduate A-Z, all SPS undergraduate degree variants, and both Qatar degrees",
+    "pagination_evidence": {
+      "main_az_links": 220,
+      "main_selected": 94,
+      "sps_degree_entries": 21,
+      "qatar_degree_entries": 2,
+      "pagination": false
+    },
+    "filter_rules": [
+      "Main A-Z: explicit Major or Degree labels, plus Secondary Teaching confirmed by degree page",
+      "Retain adjunct/second majors including ISP/MMSS and AI second-major variants",
+      "Exclude minors, certificates, courses, advising-only categories and combined BA/MS continuation entries",
+      "SPS undergraduate tab: retain explicit BPhil/BSGS/BS award rows; exclude parent subject duplicate links",
+      "Qatar index names two BS programmes, both detail pages read"
+    ],
+    "gaps": [
+      "For many main-campus major rows index omits exact award name; degree_label explicitly marks school-level award inheritance pending",
+      "Main-campus and SPS durations/languages left null because index does not state them"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://catalogs.northwestern.edu/sps/programs-az/",
+      "sha256": "1644c3dd2de22d0ec2994585ecf66dbe7dd5b4ffbf34c884310b20675d1abfc1",
+      "bytes": 218155,
+      "raw_file": "scratch/full-catalog/us-a/northwestern/sps-programs.html",
+      "meta_file": "scratch/full-catalog/us-a/northwestern/sps-programs.meta.json"
+    },
+    {
+      "url": "https://www.qatar.northwestern.edu/academics/undergraduate/bs-communication.html",
+      "sha256": "48eae38ea0923d5252c568d1c5bd5ea3ace45c494f29f1113d81f9a274b6c693",
+      "bytes": 152050,
+      "raw_file": "scratch/full-catalog/us-a/northwestern/bs-communication.html",
+      "meta_file": "scratch/full-catalog/us-a/northwestern/bs-communication.meta.json"
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/programs-az/",
+      "sha256": "9dd9761d875d9a8accf52b4e69aba7ed038e72b8daa9bfbb3c9b7cc16fc427b3",
+      "bytes": 212642,
+      "raw_file": "scratch/full-catalog/us-a/northwestern/programs.html",
+      "meta_file": "scratch/full-catalog/us-a/northwestern/programs.meta.json"
+    },
+    {
+      "url": "https://www.qatar.northwestern.edu/academics/undergraduate/",
+      "sha256": "db4b0a6018e1efe3c18206c6c1c6f907a52e966acdd260a2d671d18febccd046",
+      "bytes": 155133,
+      "raw_file": "scratch/full-catalog/us-a/northwestern/qatar.html",
+      "meta_file": "scratch/full-catalog/us-a/northwestern/qatar.meta.json"
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/undergraduate/education-social-policy/secondary-teaching/",
+      "sha256": "5db2b6cd0f125a0977f89f5a949a6dcf29c1793f3b92f130385d20eb6cce5467",
+      "bytes": 337209,
+      "raw_file": "scratch/full-catalog/us-a/northwestern/secondary-teaching.html",
+      "meta_file": "scratch/full-catalog/us-a/northwestern/secondary-teaching.meta.json"
+    },
+    {
+      "url": "https://catalogs.northwestern.edu/sps/",
+      "sha256": "d0a8a9230965ecd3bb3f839198598c5b6084a1fd70f37cbadc40c598e7a1681a",
+      "bytes": 183759,
+      "raw_file": "scratch/full-catalog/us-a/northwestern/sps.html",
+      "meta_file": "scratch/full-catalog/us-a/northwestern/sps.meta.json"
+    },
+    {
+      "url": "https://www.qatar.northwestern.edu/academics/undergraduate/bs-journalism.html",
+      "sha256": "4de360334b9d919f8d45041e28dc94d7ee5b43c610e61a87cf12ff6396d9b20c",
+      "bytes": 156678,
+      "raw_file": "scratch/full-catalog/us-a/northwestern/bs-journalism.html",
+      "meta_file": "scratch/full-catalog/us-a/northwestern/bs-journalism.meta.json"
+    }
+  ]
+}

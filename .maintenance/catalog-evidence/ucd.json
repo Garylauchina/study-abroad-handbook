@@ -1,0 +1,1968 @@
+{
+  "original_manifest": {
+    "university_id": "ucd",
+    "checked_at": "2026-09-12",
+    "final_count": 151,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "official_count": 133,
+    "directory_scope": "All133prospective-student undergraduate A–Z subjects/programmes, degree variants expanded using each official UCD hub route panel. Dublin prospective programme scope; separate current-student archive includes overseas/China-joint/old-programme versions and is not merged as main-campus offerings.",
+    "pagination_evidence": "All133li[data-az-id] from complete static A–Z page captured. Alldetailredirects followed; six obsolete keyword/major redirects checked against current official hub replacements. Separate current-student programme list raw captured for scope comparison.",
+    "filtering_rules": "Keep bachelors and undergraduate integrated/graduate-entry medical/veterinary routes. Exclude diploma-only exit; retain explicitly described mature-student BBS continuation. Distinct awards retained; multiple entry routes tosameaward preserved in entry_routes.",
+    "can_prove_complete": false,
+    "gaps": [
+      "Complete within prospective A–Z and published current detail award routes; cannot prove exhaustive overseas/China-joint/teach-out catalogue identities or all old current-student degree-code versions from this main prospective directory."
+    ],
+    "source_urls": [
+      "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSEUGPROGS"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-structural-engineering-with-architecture",
+      "sha256": "155da1de311c4189e427aec0c275a7360b310ab3776d5887aa4e991d7dafd8de",
+      "bytes": 172,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836433.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836433.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CSSC&KEYWORD=computer%20science%20data%20science",
+      "sha256": "7b5b613704d904b822606661759e5ffc8c47bf51904ef6bd646e9d49c5a4da94",
+      "bytes": 106031,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836242-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836242-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ELJ1&KEYWORD=ba%20spanish",
+      "sha256": "c80f7592d6d8c12d5ef3dbaa7eb3bb37485a279b45282c45aa1a0b3b4306b744",
+      "bytes": 184699,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836428-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836428-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=HPS1&KEYWORD=ba%20history%20politics",
+      "sha256": "c32d8d3201c079146c1ed36b210ccf66dee174096764bb681cafb263a3684727",
+      "bytes": 325474,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836322-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836322-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=financial-mathematics",
+      "sha256": "075b406cf28362e3089a67e2fc62e658a6c20a20331de6feece492b96edb6110",
+      "bytes": 149,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836304.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836304.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-art-history",
+      "sha256": "8f006c5c7e4ac7c8e87c918c8d35bd942a7fedd43672cab06a05e445d2b1ac4c",
+      "bytes": 142,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836216.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836216.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NUS1&KEYWORD=bsc%20engineering",
+      "sha256": "8e5306e9f1a678e04ba4b829a00b7e1422cc52af24dfa14f9a7819c5453ca535",
+      "bytes": 160859,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836289-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836289-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ISS3&KEYWORD=ba%20irish%20language%20culture",
+      "sha256": "b0ffdf1586fc78f61b1fdf1784bb660ec301b3e5da15954f85f03a44aa78f658",
+      "bytes": 126289,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836203-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836203-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-german",
+      "sha256": "f8af288b072bff5bc6bf0a14209e52f540b97824cefbabca92f3101e49156ed7",
+      "bytes": 137,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836318.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836318.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-electrical-engineering",
+      "sha256": "40593589fface3f7a7d33417e30a72dd3d01a349d57d03ff6f3bd1117681cd62",
+      "bytes": 154,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836287.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836287.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ANS1&KEYWORD=bagrsc%20animal%20science",
+      "sha256": "be892076fc7ab78a95aa85c52dc9e98a9cc8e1c1f5c65de8f9d21e78227f836a",
+      "bytes": 185684,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836206-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836206-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcl-law-with-politics",
+      "sha256": "0c117f1b47a83aeb97b0ab2953d9e0be78ff163c11ffeb43f46c59d4c55c2b30",
+      "bytes": 149,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836346.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836346.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=chemistry-mathematics-education",
+      "sha256": "a38ee47a64a53ba91919d9829f9f9d83d53796c1a09f4b65e41ce4d31949ad07",
+      "bytes": 159,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836224.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836224.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ICC4&KEYWORD=bsc%20information%20communication%20studies",
+      "sha256": "c81f76e002322491614d770e2a09b022696e1475bc7975ae3cf81e310459a11c",
+      "bytes": 155966,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836327-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836327-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MMC7&KEYWORD=applied%20mathematics%20education",
+      "sha256": "6f66a35b5a34275c9b974432e3318495b81d43d2a8ec499a9f924f6135434ec8",
+      "bytes": 207368,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836209-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836209-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=EMS1&KEYWORD=bsc%20economics%20maths%20statistics",
+      "sha256": "efb981e3ae9cae31360f8490417a89655bc69a2936b3711970dd9752954e64dc",
+      "bytes": 243545,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836283-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836283-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-civil-engineering",
+      "sha256": "86bebca24e21045c10d67902fd00f7fd89618ccfe8e20674413af2254798ed78",
+      "bytes": 149,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836231.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836231.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-horticulture",
+      "sha256": "9c50b253698d8de61918525b0a4a208caaa1df7319c0f66e7a8e26950d3b74d1",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836323.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836323.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-computer-science",
+      "sha256": "f09dd07159d6ebda63b554f7a5f8aac548ce1d9f7de4b42373e4434e3550ca6d",
+      "bytes": 148,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836241.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836241.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-biomedical-health-and-life-sciences",
+      "sha256": "eda56e2eef6319f8179cdee13f926a44616d70f4d485ada8624550dcb7d25940",
+      "bytes": 167,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836197.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836197.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=IFJ1&KEYWORD=ba%20irish%20folklore",
+      "sha256": "aa0bf8f08743b64f085747619bf80c74c0afccc6c27d03f98e64836883bb28c5",
+      "bytes": 175090,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836328-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836328-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=medicine",
+      "sha256": "e80abf493966a808b1045c9c1304405d177b1cb26daf7408c1ccea7faac5fe34",
+      "bytes": 136,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836380.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836380.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NVS1&KEYWORD=bsc%20civil%20engineering",
+      "sha256": "cd7c166018cf09ae72d5fce242590d8239687a321d825349d33b25c7f605e19e",
+      "bytes": 187693,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836231-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836231-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=MCJ1&p_tag=COURSE",
+      "sha256": "4052fe0020af52211d4d729a848a0889b68192f8aec2c4fc6a689467fcb352fd",
+      "bytes": 105851,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836385-canonical.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836385-canonical.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSEUGPROGS",
+      "sha256": "509e8d7f91606071983cc5222c6874f560da978c4f5e60cea6549435b5ec62b0",
+      "bytes": 106556,
+      "raw_file": "scratch/full-catalog/europe/ucd/undergraduate-program-list.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/undergraduate-program-list.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MMC8&KEYWORD=biology%20mathematics%20education",
+      "sha256": "d5bbd21dbd18490529a4f711a184e67e43bed214ef587275ed131173639d7a9a",
+      "bytes": 248110,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836194-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836194-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=RCS1&p_tag=COURSE",
+      "sha256": "e1dcccc0c4c43d3b479f4ebc0b959b0e4a17ba1d66fbe44ddace0d5776abb771",
+      "bytes": 105851,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836230-canonical.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836230-canonical.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-psychology",
+      "sha256": "7c2a5efda3e178de17f0e1ad55ac637112bdf42a323f3bf02bf9f4fc4a1e4a55",
+      "bytes": 142,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836414.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836414.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=physiology",
+      "sha256": "594fd0c711e46886685b4ea6cd94ed750c2978c0e3c0febd43b57023d68ea7ab",
+      "bytes": 138,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836408.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836408.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=EDS3&KEYWORD=bed%20education%20with%20gaeilge%20modern%20languages",
+      "sha256": "d579d3322a53557525c031314d0e5c6f1d30d343cb6464d0364abfc13811d79e",
+      "bytes": 167182,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836286-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836286-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-irish-language-culture",
+      "sha256": "25984bd0efeeb7bc396ca22f0e518940dd9061659e528ecd068d9b2e6ef16d13",
+      "bytes": 153,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836203.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836203.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsocsc-social-policy-sociology",
+      "sha256": "0cd3eb4d429aba6f883d5739e22fc744517ab30e3654d421ba49ed61b114aa57",
+      "bytes": 158,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836426.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836426.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?AUDIENCE=&MAJR=MCC2&p_tag=COURSE",
+      "sha256": "9e85e5c46fd5a808b4200a9808ca204e8f970bdd3312591d28ce26bb2513e8a6",
+      "bytes": 134667,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836385-current.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836385-current.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CAS2&KEYWORD=ba%20classics%20english%20history",
+      "sha256": "3496b0af03bb1b9fe6c5506cf13fb5efb2d165b0ce8860ffb9ac25f25dada966",
+      "bytes": 377099,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836234-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836234-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SOJ1&KEYWORD=bsc%20sociology",
+      "sha256": "ffef20f147378451b5f06eb5780d83ce841fdac86125525e638cf8148202fcaf",
+      "bytes": 188601,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836427-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836427-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-european-studies",
+      "sha256": "bee3d82998244fb48acbc6f88cec9b87c69f3538f136e0b33c9930f4ee9bf147",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836297.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836297.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=plant-biology",
+      "sha256": "ed13d67ec25627b136d01fe2a1859f08e1f3e08283e15db3228cb9a123022010",
+      "bytes": 141,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836411.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836411.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=RDJ1&KEYWORD=ba%20drama%20studies",
+      "sha256": "ae605e8feb5b6bac48ecc066fbd9b6c0b1878308df10dea31c73461294769771",
+      "bytes": 167114,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836267-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836267-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ENS5&KEYWORD=ba%20english%20literature",
+      "sha256": "8fbc75b873efe4f39d1aacb2d06bc2f6617742cd8dc766b830080d3d746c383d",
+      "bytes": 250533,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836294-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836294-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-mechanical-engineering",
+      "sha256": "7fa98a7fb97fe3df533e038d84c8142245f4fc1f505d4f849e8c502ee30cb25c",
+      "bytes": 154,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836378.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836378.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW3&KEYWORD=bcl%20law%20with%20politics",
+      "sha256": "31263406d143e3afc49a9f5d2629fadb1d05cb25220de041aa1a4cfae39ba7ab",
+      "bytes": 260165,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836346-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836346-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-music",
+      "sha256": "682cee88294f54644eab7beba25bc72de38f1a616fd9a66e30561ef7b18e9bd9",
+      "bytes": 136,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836385.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836385.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-creative-and-cultural-industries",
+      "sha256": "6e8ee1276da07b6382de7f71be4d0a2d4e2d934ccd2de8d12175fc4e6fbb35d3",
+      "bytes": 163,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836244.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836244.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcomm-commerce",
+      "sha256": "6c39e92c937e0b7e284d122bdf48027e6762ac2eafd627138bd22bc3ba2d8553",
+      "bytes": 142,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836192.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836192.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=STS3&KEYWORD=sustainability%20social%20sciences",
+      "sha256": "d01f90c68c45b0a9b61107988e60b028dee0e99f4991ed5abb57812f19dda8af",
+      "bytes": 212933,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836435-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836435-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=FAW1&KEYWORD=bsc%20food%20business",
+      "sha256": "448d667109666d920c64a697e1d30d71834b47acd8925756c4c88b1395af1a9c",
+      "bytes": 192652,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836307-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836307-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-classics-english-history",
+      "sha256": "b8f46681b236d4564ecaf46f14a6f1cc036b950f86b4b9218226ad089d52b5f6",
+      "bytes": 155,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836234.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836234.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW2&KEYWORD=bcl%20law%20with%20history",
+      "sha256": "5e5f9efd32d1c8b002578ddbb24b414569e07153b5e4e45bb43e2b32ea2e104a",
+      "bytes": 286563,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836343-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836343-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=POC2&KEYWORD=physiology",
+      "sha256": "ad2fefa2e7b9f14c5199683cf0b3c369258b8d13e7ce6eaf7d31e144190634af",
+      "bytes": 179047,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836408-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836408-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-dairy-business",
+      "sha256": "db013709d59ac729d98a9e08858747e5b5dfc9e1589bfff111925af49cb6365f",
+      "bytes": 149,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836258.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836258.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-nursing-mental-health",
+      "sha256": "3d9bce1c0cb778dd2b2e339f1794fc5af9f31411f485a5650e8c4c6cccaa9d6e",
+      "bytes": 153,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836399.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836399.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-animal-science",
+      "sha256": "5997017e7f3c33c0a01a578e87bceb0e13b3a56edd6f96bae9b98e32a0f1707e",
+      "bytes": 149,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836206.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836206.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=CSSC&p_tag=COURSE",
+      "sha256": "cdb9eaec6d563165acad674f10723e317332659bfc9c374ea309968aa774553f",
+      "bytes": 105851,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836242-canonical.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836242-canonical.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CVC2&KEYWORD=chemistry%20environmental%20sustainable%20chemistry",
+      "sha256": "2e58b805c35f0b6dc8f11c3d8808c2fbe557724fca0b9cd53641e16e1f536515",
+      "bytes": 181043,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836223-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836223-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MDSK&KEYWORD=bsc%20sport%20health%20exercise%20science",
+      "sha256": "97687e71b0b75f4ad661c47e89ed220d74613455419491675376e6f92da6304b",
+      "bytes": 157860,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836430-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836430-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-french",
+      "sha256": "e0240aadbff9ecbcfc5c09e106b1e66d8ad70b75090ad4f65f7d3e333ece2a0e",
+      "bytes": 137,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836314.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836314.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=VTS2&KEYWORD=bsc%20veterinary%20nursing",
+      "sha256": "92d0e552fb3c48b10e94e1bb835e2e6045497523976e2bb04bcb5d652fe64ef7",
+      "bytes": 147260,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836446-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836446-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-film-studies",
+      "sha256": "9f228340daef4f9f99ef7dc6b17ee4fb0b36f4fd23942e88bba585a49fea7d03",
+      "bytes": 143,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836301.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836301.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-veterinary-nursing",
+      "sha256": "f3d59c23b921fac3368fce45333c902e0a2f1a936f40c163a022c4d8bfc85e87",
+      "bytes": 150,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836446.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836446.source.json"
+    },
+    {
+      "url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "sha256": "8e11aab3286282e78c6f607264adae04d7302d77e0dfb33a199443932fca9f12",
+      "bytes": 118576,
+      "raw_file": "scratch/full-catalog/europe/ucd/az.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/az.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MMC6&KEYWORD=physics%20mathematics%20education",
+      "sha256": "6996d089b052b2956e0b305052ec974b016877b41544df9180394b898aa03b5b",
+      "bytes": 202556,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836407-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836407-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=sustainability-business-economics",
+      "sha256": "72222f614962d9fcf6ca2e50c84c0a27d84e1515fe1322708b75eff5c22a3639",
+      "bytes": 161,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836436.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836436.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=be-chemical-bioprocess-engineering",
+      "sha256": "a7ba24308effa89d113e25fe964d26397ac3b24c8fc8bd92bfacf655c3e48dc2",
+      "bytes": 162,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836221.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836221.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MBC2&KEYWORD=microbiology",
+      "sha256": "421f5049f331e2ea92e5140f68447288103141baed48dc81e09d315a245281b5",
+      "bytes": 172806,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836382-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836382-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcl-law-with-history",
+      "sha256": "d9117e761d3266d70a831ddf241514b43f1bfad08252baa8faaa0f82c4e9e7d0",
+      "bytes": 148,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836343.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836343.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-economics",
+      "sha256": "4c5cc921b021bf1ddc9c5cb328618449f284d17a315114f97c9feb2c896e8c22",
+      "bytes": 141,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836282.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836282.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-philosophy-politics-economic",
+      "sha256": "7102917c6b2145b55969c1157952e1dfbc36885b7b3bc83e2d6578c80fc20f0d",
+      "bytes": 151,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836404.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836404.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ATS4&KEYWORD=barchsc%20architecture",
+      "sha256": "2d7c93f8742ac583ad7c837feb1b2d7350ec2b61119f76d86dc6a7b1a95fd2a6",
+      "bytes": 165546,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836211-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836211-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PHC2&KEYWORD=pharmachology",
+      "sha256": "554d0ea21a71916ebd847d1e99ba84a2d718794001faa07efd9aca7cdae1a3c1",
+      "bytes": 173363,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836402-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836402-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MII4&KEYWORD=ba%20irish",
+      "sha256": "6e1df58ecd5bfd2b8dd74ad4b16a2603a5c57b1c15aa91e0f467251f08860cd0",
+      "bytes": 169220,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836330-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836330-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NBS1&KEYWORD=bsc%20biomedical%20engineering",
+      "sha256": "35183f7c1f7c93c59bfe9719666c381c7d1a82fcb273853bb3aa93e9c032e4bb",
+      "bytes": 185554,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836195-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836195-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=physics-mathematics-education",
+      "sha256": "9629952a0044c0f463266050c4e58aea3358a5d567d63a6638fc24893e7d018a",
+      "bytes": 157,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836407.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836407.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=RCS1&KEYWORD=bsc%20city%20planning%20and%20envir%20policy",
+      "sha256": "7682df7956ab9aa46890cc4c407c210d47f55e5aeaa6781e7c3f3cb93b48e045",
+      "bytes": 106083,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836230-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836230-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-irish",
+      "sha256": "4a5ee99e645cf626d153976525251f8eb7560e828c7e606efc81a17c35c7738f",
+      "bytes": 136,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836330.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836330.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-sport-and-exercise-management",
+      "sha256": "5793b4adbd5810c8799303884ad3a211884c1779790f4e09f1612f07288f0806",
+      "bytes": 161,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836429.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836429.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ISS1&KEYWORD=ba%20irish%20studies",
+      "sha256": "b31ca1c88de8ac9328de69117c3c8c81c19a2555e6243f70d58a26bf7ee493a7",
+      "bytes": 195025,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836329-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836329-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-agri-environmental-sciences",
+      "sha256": "df44076d776717f4aa81bd4b6bc9d249f17b607437987c1aa917c7870134aa2f",
+      "bytes": 162,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836184.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836184.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=law-dual-degree-bclmaitrise",
+      "sha256": "0dffc1086da9d7b7e62541c252a60b5dfe981f117020528f52b3076dfd16bd47",
+      "bytes": 155,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836340.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836340.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=APS1&KEYWORD=applied%20computational%20mathematics",
+      "sha256": "2a399a40c27904e0498712be417219c3f38f0954a990edaf0bbe9219464a6ee0",
+      "bytes": 191876,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836208-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836208-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=chemistry",
+      "sha256": "448bab828ad4f871237655d39286c75dcf3b8390dcb93a6c0c7bf79b94c2948c",
+      "bytes": 137,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836222.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836222.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ECS4&KEYWORD=bsc%20economics",
+      "sha256": "f1833a7949c00b824ecb20e56a393cb6055ced79d26690c4d21672b7b212312e",
+      "bytes": 228007,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836282-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836282-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BSW1&KEYWORD=bcomm%20commerce%20intl",
+      "sha256": "b1d1d21ab3880774ad9e0a4ed3a0db9517b40558de367aa52411994db94a0eab",
+      "bytes": 222949,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836235-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836235-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SBU2&KEYWORD=bsocsc%20social%20policy%20sociology",
+      "sha256": "3694c36e73333fd8d5328a5786c4fa95941c82d1a48afeaf8fda6f5ebc148b8a",
+      "bytes": 150280,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836426-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836426-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=mvb-veterinary-medicine-graduate-entry",
+      "sha256": "e49f36a192edff3f5a26ac30fb2345371a850a238c87de98e36b3dae3a045f54",
+      "bytes": 166,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836445.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836445.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=sustainability-social-sciences",
+      "sha256": "18f5b425deba00ee5e031f375b7c070268bf506942c8433c4c5bc28b49d6c756",
+      "bytes": 158,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836435.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836435.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=FRJ1&KEYWORD=ba%20french",
+      "sha256": "75ed310e6197d545b51e5bf10dddf44cb0dfdac8f994c57e231881555dbc2744",
+      "bytes": 171958,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836314-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836314-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NES1&KEYWORD=bsc%20electrical%20engineering",
+      "sha256": "de5db06eb123ae0083881d4a58feb82b0772e381392ad7dfc6ab487a47662a30",
+      "bytes": 181486,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836287-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836287-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-archaeology",
+      "sha256": "14db071c56df8d2dee0c838184ce0fa23063477bb0d10f7ce9b80c42762f9a1f",
+      "bytes": 143,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836210.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836210.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=diploma-bachelor-of-business-studies",
+      "sha256": "92a3ef1aa9edcda0d45b681afc57203e2b4a3d85417843d2b5e30e6ce25245cc",
+      "bytes": 164,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836260.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836260.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ENJ1&KEYWORD=ba%20english",
+      "sha256": "e6d4ad263158096e4a7d30b5fa6942585c561b2ea40d1fb201c338dab679b53f",
+      "bytes": 218017,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836288-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836288-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PBC2&KEYWORD=plant%20biology",
+      "sha256": "ebf0385e68ad4987c8fbe85ac2063fe4656ca0b3bac8bb3f6d7a96c58a32c684",
+      "bytes": 180338,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836411-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836411-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-english",
+      "sha256": "8745f1019ad7a22c783617328d8ad689506e722598ab7a69f2a99d07d7068893",
+      "bytes": 138,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836288.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836288.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-geography",
+      "sha256": "db1c06de806c92754f5d6cd1b58568d59e7733c642efe62a1b8a5c792090be12",
+      "bytes": 141,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836317.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836317.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=HLS6&KEYWORD=bagrsc%20horticulture",
+      "sha256": "2e96489bfaf406c60c731bfc484cfb3053f2bbae1cd4641b8aead5c3253cfba8",
+      "bytes": 178738,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836323-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836323-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MMCC&KEYWORD=computer%20science%20mathematics%20education",
+      "sha256": "20a72ed896431f17e42398ddf1960dfca384fd2f00abc91dd5c8abf227e8899a",
+      "bytes": 246052,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836243-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836243-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SMS2&KEYWORD=bsc%20sport%20and%20exercise%20management",
+      "sha256": "f084210ac75552bbe52d964945bc04f429d956f1f1dd8162c4b3c5829c723f3e",
+      "bytes": 156435,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836429-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836429-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcl-law",
+      "sha256": "39abbaee20257301935ea48e874d19c3cab9ca27209a7ea1fd51b0efe53dc2fd",
+      "bytes": 135,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836339.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836339.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=EQS1&KEYWORD=bagrsc%20animal%20science%20equine",
+      "sha256": "2d667a786c720095ee12185a254cbcd316848daad059ac0f73d519e2bfb6d405",
+      "bytes": 184917,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836207-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836207-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PCS2&KEYWORD=bsc%20psychology",
+      "sha256": "22a8eb780030f885aa4dfa6f5b8622d933f2b6220581e32bfdfc079c63fb0c1a",
+      "bytes": 194131,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836414-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836414-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BSS3&KEYWORD=bsc%20actuarial%20and%20financial%20studies",
+      "sha256": "2c51ddc4e52f0f55af20016702a02114a562a96af4ba3949a77f227fe378d3a8",
+      "bytes": 159850,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836169-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836169-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-politics-international-relations",
+      "sha256": "a927fa72f11248d329f3bf35d73085e87c751c78cab5f5a5e5ddf20a310c1082",
+      "bytes": 164,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836412.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836412.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-english-literature",
+      "sha256": "67519e2a70bd9ec908fdf805115173342952b8f785f12b5a749dee3550b90b02",
+      "bytes": 149,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836294.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836294.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-music-film-drama",
+      "sha256": "0ec5e491e2f46665b6702586c7ff6c65cf6cee84889efb62b871f7f152b639fe",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836386.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836386.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=cell-molecular-biology",
+      "sha256": "1c991d400e7095c9e96bcbefc70159313a731a75da7053b539901d7b29e26805",
+      "bytes": 150,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836219.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836219.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CPS3&KEYWORD=bagrsc%20crop%20science",
+      "sha256": "9e5d7de12ce3087ff4c8506454037267f863e487943e09b47f9aa529fd47f0ee",
+      "bytes": 175180,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836246-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836246-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=CSSE&p_tag=COURSE",
+      "sha256": "a1bebb0147f79295e5b7974cc2dc5188da17d797033f899150fcacdf0cf42b3a",
+      "bytes": 207391,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836242-current.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836242-current.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-social-justice",
+      "sha256": "c61bf0e16a34a1436afed512f6410ef2322498d74143ec8d5a30b1350a702b67",
+      "bytes": 146,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836425.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836425.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&KEYWORD=astronomy%20space%20science",
+      "sha256": "292dcbfdd563b6fe6aef41958bc47c87b3f7f3f75a364f0f4aceb4eb2878f4bc",
+      "bytes": 105913,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836406-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836406-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-agricultural-systems-technology",
+      "sha256": "7135ff12b9be8d3a07fdcc164ec235d56aa696caed75780ca9b0bbe74c0b5009",
+      "bytes": 166,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836188.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836188.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-food-science",
+      "sha256": "750ad41d67d22ec53dd71d69d25ff6cc1cf21d0ff2ffb673afe39b59284ed0f6",
+      "bytes": 144,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836312.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836312.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ZOC2&KEYWORD=zoology",
+      "sha256": "42b1787dba02fa9479e948e3db5bf05cc0c26bdd98a01ce38b37359e5d6397ee",
+      "bytes": 179173,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836447-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836447-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=SAS1&p_tag=COURSE",
+      "sha256": "e8d471fd4ec6287c21715564a9c2f37098ac3f785da8e277e0ebf19c48238c4b",
+      "bytes": 105851,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836431-canonical.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836431-canonical.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MCS4&KEYWORD=ba%20music%20film%20drama",
+      "sha256": "7231de74587466c693f99ef706d9571ca0cf3b5c8ddac0dd0b00121aac787a86",
+      "bytes": 282030,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836386-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836386-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ETS2&KEYWORD=bagrsc%20agricultural%20systems%20technology",
+      "sha256": "d87c60848d5024a6cd431e011e07a2018a0bacff1cf11580c5fe8028c6a4ddc1",
+      "bytes": 182442,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836188-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836188-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LIJ1&KEYWORD=ba%20linguistics",
+      "sha256": "2d8812d4c7038b2edd1c0fb47ebdbcab06e267d51a10b005761f41fad1fb9da7",
+      "bytes": 182831,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836348-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836348-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-midwifery",
+      "sha256": "c64931a2128112d8ffad7ec4b5c60eed23ed88224b95e96a025fd133fcddbb34",
+      "bytes": 141,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836383.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836383.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ITJ1&KEYWORD=ba%20italian",
+      "sha256": "a7bd01ca649bc2f8eda9ad2a8f07219581f609e00d8bf4e591bf5fd99a6641d8",
+      "bytes": 169509,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836331-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836331-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=AEJ1&KEYWORD=bsc%20archaeology",
+      "sha256": "2cf6b5d42ddea046152ada08ecee87cdc0ba35fa452e807aa2e04ea1a168f828",
+      "bytes": 183923,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836210-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836210-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PLJ1&KEYWORD=bsc%20philosophy",
+      "sha256": "ee3e7163e9c57da6c95df58d3defadf6b48d8927b1a28d79d065c39d24403d9d",
+      "bytes": 219822,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836403-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836403-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-classics-greek-roman-civilization-latin-greek",
+      "sha256": "705e65a005457e101092ef54095df48b76b2c613bc2ae58ed9d3f866afd5a70d",
+      "bytes": 176,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836232.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836232.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NSS4&KEYWORD=bsc%20midwifery",
+      "sha256": "6d693b697facfd124627f6b5734307a287227f0a2ad1c2cb53038b1cd487668d",
+      "bytes": 144305,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836383-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836383-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=biology-mathematics-education",
+      "sha256": "378b70664464937124a501b528ec89979b1cdc82cc568ab1068c7d59cbf4d291",
+      "bytes": 157,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836194.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836194.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PPS1&KEYWORD=theoretical%20physics",
+      "sha256": "e8a7cdadeefadc1da84bd149af25e276135503285c1b33edbbd66b13917dd485",
+      "bytes": 207484,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836442-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836442-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=computer-science-data-science",
+      "sha256": "8c1f4f6ec63b942cb9a3b497844f4d842501940243ba58902c8aed3744fe552c",
+      "bytes": 157,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836242.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836242.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-actuarial-and-financial-studies",
+      "sha256": "122b3cb549b06c2ac9c012b3775b885b8af079e8b0cfd652c6fdbd8b3f93e964",
+      "bytes": 163,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836169.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836169.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcl-law-with-philosophy",
+      "sha256": "0bb3695c6bba6c89f3d2514b5d578bc32df1989c6c84431f9b7dc3468f8d59a7",
+      "bytes": 151,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836345.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836345.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=FAS1&KEYWORD=bagrsc%20food%20and%20agribusiness%20management",
+      "sha256": "50746f0c6c96fe753d632b7c4aefbd78e2eb8624327b92193d96838674566687",
+      "bytes": 182497,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836306-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836306-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=STS2&KEYWORD=sustainability%20environmental%20science",
+      "sha256": "ed563076c52a564d0b42b6063f980abc5c11cd52667e568df4034c961e7afde7",
+      "bytes": 222696,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836434-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836434-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=applied-mathematics-education",
+      "sha256": "90bc5a747a75c0e2d8b8cebf063107bf22401c1a09e1ab370c53c35c32fe9d0f",
+      "bytes": 157,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836209.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836209.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW9&KEYWORD=bcl%20law%20with%20social%20justice",
+      "sha256": "8f8846fb687ecc7f3caf37c802136c08077deee6a236b4ed5b7d3da98a2e8b44",
+      "bytes": 243274,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836347-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836347-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=neuroscience",
+      "sha256": "f730379127dfa1205e224ce6595a6cf524837af52138bd871107b910f7dc1f4d",
+      "bytes": 140,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836396.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836396.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=pharmachology",
+      "sha256": "e3d38b92b0265b778dae801c4ac6701bf854cfd8293ef056697f8ed195d6633d",
+      "bytes": 141,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836402.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836402.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ENS6&KEYWORD=ba%20english%20creative%20writing",
+      "sha256": "fb438d9d37fa993953b22bec62279d54152224fa98073168789ea30fadc46953",
+      "bytes": 279063,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836295-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836295-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-economics-and-finance",
+      "sha256": "94aa041cb770f4340c807c72f0c3dc6faf0951893c905a8a6f5942a52e436154",
+      "bytes": 153,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836284.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836284.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-food-business",
+      "sha256": "3c8f9ac876c4e1e71fad3eabd9d73257d3cef04d70f9d980f905fb7ddb6c667b",
+      "bytes": 145,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836307.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836307.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CHC1&KEYWORD=chemistry",
+      "sha256": "e951db89fbedcefcb40cefeec797235ca1d89f1776af0055a70396e69172723f",
+      "bytes": 176921,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836222-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836222-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=environmental-biology",
+      "sha256": "af4784f25710c713785c32ad8c7eab0e43f7b13d996dc6bd1a5ea303528c99b5",
+      "bytes": 149,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836298.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836298.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SAS1&KEYWORD=statistics",
+      "sha256": "0289cea9d2092b617da66ccc27845cd576a70873e8dcb18b798493b7ddd9a732",
+      "bytes": 105923,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836431-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836431-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-mathematics",
+      "sha256": "0478aab5c03870cac960df75bdd00143d6fe4a2f22a39fe3c52891731ca3ca50",
+      "bytes": 142,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836377.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836377.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-sport-health-exercise-science",
+      "sha256": "66421b48b4a13bf15f1c0715111269ec905078886a705ddbec2915ac60178765",
+      "bytes": 161,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836430.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836430.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-irish-studies",
+      "sha256": "402abb0408cf402b2dce9ecb6186f21e5caa711c5d07539f1c9f7d28ee8e65e5",
+      "bytes": 144,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836329.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836329.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MDS5&KEYWORD=bsc%20physiotherapy",
+      "sha256": "7824e6ecc007302ab21989a795bd858858d760e5ce03e4135b1e9e50780bb82d",
+      "bytes": 159156,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836409-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836409-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWS2&KEYWORD=bcl%20law%20with%20french%20law",
+      "sha256": "c6524de97d603b6868911b15b782ede1e9c72d13abc1e5798a8ac0294f57f335",
+      "bytes": 193432,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836342-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836342-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NQS2&KEYWORD=be%20chemical%20bioprocess%20engineering",
+      "sha256": "0e7909d9d45eb3b1170ea04727451136f84ba283f5c7a0a4d360ffbb99c44781",
+      "bytes": 184196,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836221-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836221-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcl-law-with-french-law",
+      "sha256": "beecceb00926c5b38bd0ccc9643da4869a7b463481e0759fc8121a83895f79ab",
+      "bytes": 151,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836342.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836342.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SAJ2&KEYWORD=ba%20statistics",
+      "sha256": "ae87be65701ccb03b958c52dfcebd37de298c0c34e23efba20005a88e271d8f0",
+      "bytes": 177135,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836432-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836432-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=DBS1&KEYWORD=bagrsc%20dairy%20business",
+      "sha256": "4451969e814988b5b033c62d2d5f81bcd5a758eefb016aa22c5d2b8098f3e820",
+      "bytes": 181790,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836258-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836258-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-celtic-civilisation",
+      "sha256": "4911e5a94ecfdfe123f6087ecdd6301e3592826fb922136e1b67ec042281e5cb",
+      "bytes": 150,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836220.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836220.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BMS1&KEYWORD=medicinal%20chemistry%20chemical%20biology",
+      "sha256": "37338ff35133ba5c71996e12c0a69202a34c2cfc237054bda980265efbcb3d35",
+      "bytes": 174373,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836379-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836379-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ESS1&KEYWORD=bagrsc%20agri%20environmental%20sciences",
+      "sha256": "575256e43bd87abafe20b2b68002b79e4d782c15f7c4e2afa855e11da3497738",
+      "bytes": 181374,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836184-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836184-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BSSM&KEYWORD=diploma%20bachelor%20of%20business%20studies",
+      "sha256": "b68c64d7bd072f08992aafa76066edf3a0fa15797b039de8a919b7d780f71369",
+      "bytes": 123707,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836260-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836260-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CMC2&KEYWORD=cell%20molecular%20biology",
+      "sha256": "d65791357e5716ce50eb10fce9057fab6777f4423316aed0d1ee3d9ea8273087",
+      "bytes": 179317,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836219-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836219-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=AYS1&KEYWORD=ba%20languages%20linguistics%20cultures",
+      "sha256": "2794154a6fed210176c733af7dcfd1e4fabc7ee97001ea4e08c1462a751369d6",
+      "bytes": 434004,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836338-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836338-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=physics",
+      "sha256": "fc78511e748f1fd06f1db26ddbfd0ff06af297360be8eb769d0c001cf3e6a14b",
+      "bytes": 135,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836405.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836405.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-economics-maths-statistics",
+      "sha256": "4645dd79e035314291b3606feaf8e6597b418363a0fc466931685a0f75ab3dbb",
+      "bytes": 158,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836283.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836283.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW4&KEYWORD=bcl%20law%20with%20economics",
+      "sha256": "49b41da162f1e79c887f808f33c708516814bbb8feecbc3a1aac66b01b8414b0",
+      "bytes": 275072,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836341-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836341-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=FSS6&KEYWORD=bsc%20sustainable%20food%20systems",
+      "sha256": "c3e0fbd2bc8e38ee183ce2cc202da8a99ad8dd5868b4d8f7e8b6d97ca19bdf00",
+      "bytes": 172932,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836437-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836437-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MMC5&KEYWORD=chemistry%20mathematics%20education",
+      "sha256": "67d186c3955d8cb91b5a290d7d95a0177c5a4bb616322cb115b587939211bfd7",
+      "bytes": 197550,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836224-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836224-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWWB&KEYWORD=bcl%20law%20with%20irish",
+      "sha256": "101101edaebdf1a9be92345e0a0969e1edbb08e05cb606d5499bee5d9a13fb9d",
+      "bytes": 212300,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836344-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836344-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-sustainable-food-systems",
+      "sha256": "ed90a17a4041f4fec0e4dea5495817609947612a9073e1203830a0c97684e0d3",
+      "bytes": 156,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836437.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836437.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=zoology",
+      "sha256": "e0e5aa45f321147b1702120bd692e57687ba824330976b5d65fd0b6e7861b0ed",
+      "bytes": 135,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836447.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836447.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ENS7&KEYWORD=ba%20english%20drama%20film",
+      "sha256": "ae50a33f4e83697448d1761f04fef0cdef6c412caa2d125e9d42505e92e492a9",
+      "bytes": 353083,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836296-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836296-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=diagnostic-radiography-graduate-entry",
+      "sha256": "7a4b345c99fcdbca7d14fc5a483f1f547b944d2ec3b19ef577c87a65258791de",
+      "bytes": 165,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836259.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836259.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?AUDIENCE=&MAJR=COS1&p_tag=COURSE",
+      "sha256": "f9ac10bcde18358f96e906eda4f4532bfaafd2809baa523ce58e58ea8a7aa4f8",
+      "bytes": 338314,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836404-canonical.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836404-canonical.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MDSA&KEYWORD=medicine",
+      "sha256": "51c0df4dcdd73f5c444edcda481c165bf99ec45f83403ac833c0c10cec5cb502",
+      "bytes": 156057,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836380-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836380-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-animal-science-equine",
+      "sha256": "778ef05701617d6e94c1b611690dd790cb4d4ef476bac4e6f6f5fcdaffaabfeb",
+      "bytes": 156,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836207.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836207.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-nursing-general",
+      "sha256": "96c49c4fbbcc14e457b61485c6e76fb6e23bdd8f7621c6e7b694f943c522281d",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836398.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836398.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-modern-languages",
+      "sha256": "bc3ccbc15f3d42cac2bb1fdad1f7c23843fdb84691ec7d160ec824dde25960f1",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836384.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836384.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PYS1&KEYWORD=physics",
+      "sha256": "e806a295f835f453a936baf163b9920dd00c4623b8668419d2ded0e5400d07f5",
+      "bytes": 208442,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836405-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836405-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=HAJ1&KEYWORD=ba%20art%20history",
+      "sha256": "47b46100284861f9a2d195bd62d89d4b29f477a044bf22366d9329622bb5b3d3",
+      "bytes": 170740,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836216-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836216-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=medicinal-chemistry-chemical-biology",
+      "sha256": "a05334f89995a094c4cb990c226e5a104c9423d5202adb4d52a285676b5bc004",
+      "bytes": 164,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836379.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836379.source.json"
+    },
+    {
+      "url": "https://www.ucd.ie/registry/prospectivestudents/admissions/undergraduateapplicants/alternativeentryroutes/graduateentrypathways/physiotherapy/",
+      "sha256": "20c9afcbb8692305b18f5c8df346d77fc6bdf0c451c9738e31b21cbd80cb8658",
+      "bytes": 82688,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836410.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836410.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LDS2&KEYWORD=bsc%20landscape%20architecture",
+      "sha256": "4d05d1745bdb2f9491acad4a17a44f13cc3adec4fb2723dc8bfcb873b55da97d",
+      "bytes": 166439,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836337-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836337-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-english-drama-film",
+      "sha256": "b654ad90a9863d2c58187b3d024fed95fcbee16529dc2143fee4d86c20a8b190",
+      "bytes": 149,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836296.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836296.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=VTS1&KEYWORD=mvb%20veterinary%20medicine",
+      "sha256": "ef65e1a70c6efdaccd0eeea1ec7b0b61aa35f4ae6412c4bf54c81a941a20c885",
+      "bytes": 161491,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836444-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836444-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?AUDIENCE=EU&MAJR=SAS3&p_tag=COURSE",
+      "sha256": "5a7c0beca7de06babc26f4526f509c2e348fd73d9fca86604ded5449170f10a3",
+      "bytes": 187457,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836431-current.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836431-current.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcomm-commerce-intl",
+      "sha256": "7015eae68bda6315091c37d4b1a07a8db5af65657a454bda5336a93ec9fec14b",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836235.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836235.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-information-communication-studies",
+      "sha256": "f3c01159a8d377b7a69a726770a62c62f85e2776de85ca90b261d45b023a32ed",
+      "bytes": 165,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836327.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836327.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MMS1&KEYWORD=mathematics",
+      "sha256": "4d88db513851abcf9d3ee78f96e83ae4f02a2753cb5d92852052d4e82ee6a735",
+      "bytes": 186396,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836376-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836376-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MCJ1&KEYWORD=ba%20music",
+      "sha256": "300c928d65fb558667e0f8d39800b4cc4bc283d891271a86c5c8b6a8207fbc54",
+      "bytes": 105915,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836385-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836385-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=biochemistry-molecular-biology",
+      "sha256": "871ab45e7b16d7fe5ef34d0e27341a1e66d8206e444e040453e3af2dfb8fd2b0",
+      "bytes": 158,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836193.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836193.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-criminology-with-psychology",
+      "sha256": "aa04ede21915775b5568e8e6615f0a2ec0b0060ac3a4518a27606cbbe9f9e24f",
+      "bytes": 159,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836245.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836245.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CPS1&KEYWORD=bagrsc%20animal%20and%20crop%20production",
+      "sha256": "1f4731ed9f9c9f1dd547d30b07a22daaabec2b8a658ed539624769528ea702a5",
+      "bytes": 183443,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836204-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836204-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-physiotherapy",
+      "sha256": "cb04f6eef4dcc832d6a01108b8fce3fe19769c3ff69b2034b4d349cfb6bee28f",
+      "bytes": 145,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836409.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836409.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BSJ4&KEYWORD=bbl%20business%20and%20law",
+      "sha256": "488f71a93bb14e536e0336bcac04ddb7416450e469142485f35d78f1b697406d",
+      "bytes": 286724,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836199-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836199-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NSS3&KEYWORD=bsc%20nursing%20childrens%20general",
+      "sha256": "2fd0c93c5bd2cbf27c70abd66a8042c5eb92d6fab63aa3874d89a31520aec478",
+      "bytes": 158462,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836397-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836397-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWWD&KEYWORD=bsc%20criminology%20with%20psychology",
+      "sha256": "4f904db1ffa8b7eaa48e880adaf80d81c68b996b17c9f9574492598d6d9a946f",
+      "bytes": 223125,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836245-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836245-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-sociology",
+      "sha256": "e747b956226ea97094832329e251cd3f28c334715a0e28aff95ab41b203bc7c6",
+      "bytes": 141,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836427.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836427.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-computational-social-science",
+      "sha256": "322605e21895c65f3e2e6637d10321d84f7e3ce13e22ba93a33ca82fb0226931",
+      "bytes": 160,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836240.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836240.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PTJ3&KEYWORD=bsc%20politics%20international%20relations",
+      "sha256": "d186547db97621abe748e0181ca1a5dba1b5648ab6bda09ddbf3ad0a018f14f7",
+      "bytes": 215586,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836412-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836412-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-history-politics",
+      "sha256": "6961c91c28954f7dc58151309275e1706e74b2772c131eba9570e2525d05e486",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836322.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836322.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-city-planning-and-envir-policy",
+      "sha256": "9c812b76576a19c99ea2c93d4e013d51dd6ddd9e9d86e4fc2e8ee95bbc8d0171",
+      "bytes": 162,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836230.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836230.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SCS1&KEYWORD=bsc%20computational%20social%20science",
+      "sha256": "6ddb593a4a616f0d7661ebb2a2c095ed753806608ebd38afd4615094e803e6c2",
+      "bytes": 204708,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836240-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836240-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=GRJ1&KEYWORD=ba%20german",
+      "sha256": "755466c50c47eedc52b10998b1bcbcb15a068df52a587a2c0bce373fa091da0a",
+      "bytes": 170860,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836318-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836318-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=medicine-graduate-entry",
+      "sha256": "33b89e02411337e0f8cd49eec42f748f2866b96eaccd237f9c69a82e097b95b6",
+      "bytes": 151,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836381.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836381.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bed-education-with-gaeilge-modern-languages",
+      "sha256": "1f2656330dfbf0fe56122b3677a893c82f9129a3c035615f699bad9662c4c119",
+      "bytes": 171,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836286.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836286.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-global-studies",
+      "sha256": "4a26d4a3043032440750722ec3713002713296eec3ac92af58f32f2060af3c48",
+      "bytes": 145,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836319.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836319.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SJJ1&KEYWORD=bsc%20social%20justice",
+      "sha256": "17718a32a29f7ea4cf867dbb5dfd047464f4b3e5038658bbc66341edd9012355",
+      "bytes": 160970,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836425-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836425-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BBC2&KEYWORD=biochemistry%20molecular%20biology",
+      "sha256": "fc800da4fec729cf32292f9c4fdf70e3812ed59ce5da5212b28e534560f7b14f",
+      "bytes": 222640,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836193-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836193-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=GGJ1&KEYWORD=bsc%20geography",
+      "sha256": "7f2c794aaf3ec061e841b960c1939a1a2da1753da9b841be74ae7eea99cd3749",
+      "bytes": 186787,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836317-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836317-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BSS2&KEYWORD=bsc%20economics%20and%20finance",
+      "sha256": "cae6c05c0916db7c7d681246820f73cbc06703cd29e4303c5052ed06de532d25",
+      "bytes": 236427,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836284-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836284-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-landscape-architecture",
+      "sha256": "b8b89d8e0192c70bca43b853abdbe2219266d95edf8d392ff04c754726fa376c",
+      "bytes": 154,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836337.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836337.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcl-law-with-social-justice",
+      "sha256": "2d89809d8d52f2eb30fec13990ffb008f60eec854ff5f161b08e269f23794748",
+      "bytes": 155,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836347.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836347.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=theoretical-physics",
+      "sha256": "48dd431d4adf0e14d50726a8518b34144a87ac1e224a60487bd40d6f543ad176",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836442.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836442.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=FSS2&KEYWORD=bsc%20food%20science",
+      "sha256": "d92cb798cc7c40329050015276871896ae3457f25ee4002b95b40742443d8058",
+      "bytes": 172210,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836312-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836312-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NSS1&KEYWORD=bsc%20nursing%20general",
+      "sha256": "3830d2c4405e3e9b390e07f96bb3888c9937f422b968f78788e78b5c4f8afced",
+      "bytes": 147676,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836398-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836398-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-statistics",
+      "sha256": "cdd5c10ab83266140f508fe565a610481df25ad56d3f441492c561e9c201b28e",
+      "bytes": 141,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836432.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836432.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CAS1&KEYWORD=ba%20classics%20art%20history%20archaeology",
+      "sha256": "d356cd469731cd48c9c6acd6d6ba4e1305b379a8cc3cb0077a94d74c229287ef",
+      "bytes": 248097,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836233-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836233-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=PAS1&p_tag=COURSE",
+      "sha256": "2472b8cad8ed7c11da257a7c7a9a577189e0b933c5d1fe08a7cebb5702b82d4f",
+      "bytes": 181802,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836406-canonical.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836406-canonical.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-drama-studies",
+      "sha256": "484b1eca8b5ee2442b292c738fd8f6f83bbf6697a4742c4aee80a9a83e1a67c8",
+      "bytes": 144,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836267.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836267.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=mathematics",
+      "sha256": "5ae95e55e87abb287321a3d78031dc3f3262f294a8a7528bb11fa1ca8f54fa6e",
+      "bytes": 139,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836376.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836376.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-food-and-agribusiness-management",
+      "sha256": "d434e6b1b19822883bb24f2ac571d615fff632a639513598321b129127f02175",
+      "bytes": 167,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836306.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836306.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MDS9&KEYWORD=medicine%20graduate%20entry",
+      "sha256": "fcdb162f995c47eb05a67380f7c8dc7b45648a22b4fdd925f863a6bdf59b8de2",
+      "bytes": 154115,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836381-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836381-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=EBC2&KEYWORD=environmental%20biology",
+      "sha256": "2f719a7de3ed10cdc694b73d15cbb574afa1f621b5af3cc0d30c3b8f85ff65c5",
+      "bytes": 190246,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836298-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836298-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-irish-folklore",
+      "sha256": "6af7aa55e2e404f8155d5a3756d16b13d5d043a2c3d599b53cc6558b103243e9",
+      "bytes": 145,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836328.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836328.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=statistics",
+      "sha256": "2b54e17469e77aaf3b16351380b519d04bbe62a276404d0c7d09d04bbc07e26f",
+      "bytes": 138,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836431.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836431.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BAU4&KEYWORD=ba%20modern%20languages",
+      "sha256": "597efa6e1a9349579aceaf18678231c78251cedfb3140030826409d75f88c35b",
+      "bytes": 201452,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836384-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836384-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MSJ2&KEYWORD=ba%20mathematics",
+      "sha256": "84b32056f2ec584dbabb9ff50bd1e2acfa4014e0794790c58f98c79960522a00",
+      "bytes": 179164,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836377-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836377-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcl-law-with-irish",
+      "sha256": "522f32954636f6e62a77c62d67b3b01312bece4519b06d822d480c83066fa0f6",
+      "bytes": 146,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836344.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836344.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=VTS3&KEYWORD=mvb%20veterinary%20medicine%20graduate%20entry",
+      "sha256": "e3dba7dc3950c5f964ce393b59367086d815e58f692f680a8b2ed2b39ab0140f",
+      "bytes": 149577,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836445-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836445-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-philosophy",
+      "sha256": "fc4d5afe3f415e838dd34e0448362670353c83ddcd4055faa1b0e0613c2f7109",
+      "bytes": 142,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836403.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836403.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-nursing-childrens-general",
+      "sha256": "bae111a35258cfec02b60e1af868260718ca6caf2ed536bdb4ce4676f18de125",
+      "bytes": 157,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836397.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836397.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=applied-computational-mathematics",
+      "sha256": "dc1734e8009190e8592077c9da04a181e80f4134f508e50f7eb827885e4ccda3",
+      "bytes": 161,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836208.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836208.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&KEYWORD=bsc%20philosophy%20politics%20economic",
+      "sha256": "f01eb42574dd100faabaec91fdfc42827f57631d50b2ebf4173abb3a43b050b0",
+      "bytes": 105949,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836404-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836404-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWS6&KEYWORD=bcl%20law",
+      "sha256": "0a35d59801b525d669dddcaebc1868d743523d4446b7518b5af14ca7cd268047",
+      "bytes": 212902,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836339-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836339-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWS3&KEYWORD=law%20dual%20degree%20bclmaitrise",
+      "sha256": "f3a8ffc5123afa6a6d6954196ef79f49896ebab1ed5d7f10af86883bb2186b70",
+      "bytes": 168688,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836340-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836340-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=microbiology",
+      "sha256": "8b078f778f61f840798dbc8b66865ef749fa54eca8d6aeab6d09843631b18576",
+      "bytes": 140,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836382.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836382.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NMS1&KEYWORD=bsc%20mechanical%20engineering",
+      "sha256": "f9616df96f9642ed6c12824e8bddaca84b65cb684b97005fcf7bf92d1f16da1d",
+      "bytes": 183303,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836378-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836378-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=FMJ1&KEYWORD=ba%20film%20studies",
+      "sha256": "ba75f9db57f9eaff7c828610f3dedf9ef839f6b4a6d881791ae83b1e20ea7a61",
+      "bytes": 168198,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836301-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836301-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-history",
+      "sha256": "47e86943802ee647e5592e58a1902f29bcfd8259eede57f7b78a013ee02791db",
+      "bytes": 138,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836321.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836321.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=computer-science-mathematics-education",
+      "sha256": "0de83d1415d9008dc35a0c77940540f6f0faac961e254d06c69181767f7f0ccb",
+      "bytes": 166,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836243.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836243.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-biomedical-engineering",
+      "sha256": "e4f7e5b6dbe745bc353a6bebd2e4e5df562a01451c2aca5cfb223db8bdc6198a",
+      "bytes": 154,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836195.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836195.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-classics-art-history-archaeology",
+      "sha256": "53399dba3e1caade660e42cd4ca715a37c9a5f7a3b937e50a9266638cd65fbf5",
+      "bytes": 163,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836233.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836233.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CCJ1&KEYWORD=ba%20celtic%20civilisation",
+      "sha256": "5b32acbc9726c8ffe096c5d8a7c3d304ea19754095b450ea622e549f56d58b56",
+      "bytes": 190764,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836220-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836220-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NAS1&KEYWORD=bsc%20structural%20engineering%20with%20architecture",
+      "sha256": "586ee98c605b48c492e2ed4670cfe7861c319226bbf203b28c56c40af79f1694",
+      "bytes": 158750,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836433-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836433-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MDSS&KEYWORD=diagnostic%20radiography%20graduate%20entry",
+      "sha256": "3f0d49fd48914ff0fed05005e4bde6cfdbd895d62fa3f213247db3c578f96bc9",
+      "bytes": 143652,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836259-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836259-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=HSS6&KEYWORD=ba%20european%20studies",
+      "sha256": "b41f8253de7aa212a9ebafa05fcc692f7871faa1cdc705e1f1274aaf9f56d934",
+      "bytes": 407622,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836297-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836297-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=LWW1&KEYWORD=bcl%20law%20with%20philosophy",
+      "sha256": "4aa650a47d5f1e672de46a6fe3eb92c9c94a65777c30dfbc65e778c06242d5ab",
+      "bytes": 260333,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836345-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836345-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-radiography",
+      "sha256": "35f2f61a8e8630bd7b73ec867402f36820b89784fa7a170c2b68aa0d0cfe3893",
+      "bytes": 143,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836424.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836424.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=STS4&KEYWORD=sustainability%20business%20economics",
+      "sha256": "112aef8ddecf1e328bd49e6a32fac9643acecb3ba5769674a7dafde40316fcda",
+      "bytes": 202565,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836436-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836436-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-forestry",
+      "sha256": "a2ed53395d7094973b25ef2cc5fd3664a41963e6711cb0db9764a139767a71e1",
+      "bytes": 143,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836313.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836313.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MMCA&KEYWORD=financial%20mathematics",
+      "sha256": "2a1dcbb7bf3bf27a61bb8845d9cb7f665b7c1aa1ddccf8d404e02a1a832de60b",
+      "bytes": 181324,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836304-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836304-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-crop-science",
+      "sha256": "839ca49f6083afaa35c925a509cc4fe6f83905d7f300a303212da729b9b6cf27",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836246.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836246.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-human-nutrition",
+      "sha256": "c396d054a2f2e321f9713bcfd4f818e8c6c74aade8d8089aceded0effd8ab85b",
+      "bytes": 147,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836324.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836324.source.json"
+    },
+    {
+      "url": "https://www.ucd.ie/myucd/courses/",
+      "sha256": "bb1ceac39e892d1d71ce66c39cae0e5222c878e6b704f8d39323bad3af6a801b",
+      "bytes": 82723,
+      "raw_file": "scratch/full-catalog/europe/ucd/index.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/index.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=GNC2&KEYWORD=genetics",
+      "sha256": "d965c52f0b4f3dc3ca43a41c630e7770dcc588b8009f5ba813e00f2c40254034",
+      "bytes": 179644,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836316-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836316-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BSS1&KEYWORD=bcomm%20commerce",
+      "sha256": "3158cf8d24a3e4925a1a6442c2e00ec857af2bc7e922d7502dd75630c400bbc2",
+      "bytes": 229593,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836192-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836192-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-english-creative-writing",
+      "sha256": "4901674603ad67c372cccd3e34541da61f5094d161948f51c6f35161b5710af4",
+      "bytes": 155,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836295.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836295.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-portuguese",
+      "sha256": "30d8b2d3def36b119ee7aed9e52dd11ec13f7eed55f1b0855d431fe0bdc591cc",
+      "bytes": 141,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836413.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836413.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=MDS4&KEYWORD=bsc%20radiography",
+      "sha256": "864b602cc16483173dd7c741d1a89c7168dfb1a1c6ce3be72f51be3bb0cc0282",
+      "bytes": 160157,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836424-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836424-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=genetics",
+      "sha256": "0f47b16bd34ccc1de92a340fe1f96e411f9facf2d99ba7df7c1e9ae6aca89089",
+      "bytes": 136,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836316.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836316.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=ERC2&KEYWORD=earth%20sciences",
+      "sha256": "be7d11d24870f92bfe2e0ada9c2cdaa13d3def596b32ef7d870d3cf9a0474efa",
+      "bytes": 179540,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836280-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836280-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-engineering",
+      "sha256": "6ed5eece997459f224d9a4f31861ff575ccc242f4cfb4ff4f707673b7496b9de",
+      "bytes": 143,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836289.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836289.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bagrsc-animal-and-crop-production",
+      "sha256": "df80fdd5fb55fafe2ca3f1680bb05297730c853ba4087b25154763105bab98eb",
+      "bytes": 161,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836204.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836204.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-languages-linguistics-cultures",
+      "sha256": "0fd6192c8b7584a2ce60d45cb54905af6656d192c8606b4415cffcccc12db9f3",
+      "bytes": 161,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836338.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836338.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?AUDIENCE=Int&MAJR=RCS3&p_tag=COURSE",
+      "sha256": "bd552a76f0577b1756c67ca6f3a5df72e90c177aa4419a18223a37e5b6ea03da",
+      "bytes": 167970,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836230-current.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836230-current.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=GCJ1&KEYWORD=ba%20classics%20greek%20roman%20civilization%20latin%20greek",
+      "sha256": "5ef10b95c9b413dc7dda5eda38a298b693b50d167a83ab7691ca3c1c87062e68",
+      "bytes": 176450,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836232-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836232-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-linguistics",
+      "sha256": "7b8c2b8612749281d1291e9a6bfb9ac26091d35ea9cdf78c5be8251fcc82babc",
+      "bytes": 142,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836348.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836348.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=BHS1&KEYWORD=bsc%20biomedical%20health%20and%20life%20sciences",
+      "sha256": "57df344b8adae8884aeb526e75c4d001112e3cf09bd1b61b0c2882560f57742b",
+      "bytes": 184543,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836197-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836197-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=FOS1&KEYWORD=bagrsc%20forestry",
+      "sha256": "3e8d40189399909cbb20d63af76f0d86f3edc410f22490d13954ac63161bd4a4",
+      "bytes": 180619,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836313-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836313-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=NSS8&KEYWORD=bsc%20nursing%20mental%20health",
+      "sha256": "6121b78606ff738fa0d0e2d476d4eae1ba1fd30934da7c0f2a9306341a453b88",
+      "bytes": 147164,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836399-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836399-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=sustainability-environmental-science",
+      "sha256": "bd69c083226dd378ce5c791cac9aedf4b3c165c0d55deb0dfd809760036540cb",
+      "bytes": 164,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836434.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836434.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bbl-business-and-law",
+      "sha256": "545e0e5ed5b43f6d503df424b70fe7caa5a6e7f8717ae8ffe44e4b3ce260e65c",
+      "bytes": 148,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836199.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836199.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CCS2&KEYWORD=ba%20creative%20and%20cultural%20industries",
+      "sha256": "3db43e7cd390a54a5839ff08edabde4d4ca6e70a6850332f153071d19d9b1ef6",
+      "bytes": 478771,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836244-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836244-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=SNC2&KEYWORD=neuroscience",
+      "sha256": "adfa0fb4ee4e6bdb4064f810793a763c7705356085ba2ddaad1904fac4bdbeb3",
+      "bytes": 177642,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836396-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836396-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=mvb-veterinary-medicine",
+      "sha256": "910357aa4efb3b5833ed2458bec394593173c05fc85696acb4aa623cb994965c",
+      "bytes": 151,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836444.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836444.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=barchsc-architecture",
+      "sha256": "d65dd8665470e49d5c25072ab8cbecc1a1ebc165560c946a3a9d59cae3b4e838",
+      "bytes": 148,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836211.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836211.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=HMS1&KEYWORD=bsc%20human%20nutrition",
+      "sha256": "753cc332551d042ea68f97c2175dc982c1aed6142c6533d64b6e7be0b6b09cc1",
+      "bytes": 159156,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836324-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836324-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=HSS5&KEYWORD=ba%20global%20studies",
+      "sha256": "ad7b9d3178033e2b6467d8a0f94d37fe54f5435b0dc2569059c6d593f2832b34",
+      "bytes": 472090,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836319-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836319-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=earth-sciences",
+      "sha256": "cb66af33ff8fa9420a662bbb333ffd5fae6a3962e8829d38c8a22ac62a988d07",
+      "bytes": 142,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836280.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836280.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=CSSA&KEYWORD=bsc%20computer%20science",
+      "sha256": "1eda81e1355688d590e0629daf178d77a703bb4711a33a52fd5d8d0a6bc8b395",
+      "bytes": 182768,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836241-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836241-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=astronomy-space-science",
+      "sha256": "1e007af1b5e7d2a2f35ff86ad3bd2439fc69f311b5c4679dd4982a965f1b2de3",
+      "bytes": 142,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836406.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836406.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=chemistry-environmental-sustainable-chemistry",
+      "sha256": "99081c90e3a49fd99ca9f19d3b2500829762fd3ca43c77ac694ac28b8a5fdc74",
+      "bytes": 173,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836223.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836223.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=HSS3&KEYWORD=ba%20history",
+      "sha256": "02709948b76f357500d7e67b658072a267f651d459ca429be2c2f667a0590c8c",
+      "bytes": 225606,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836321-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836321-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bcl-law-with-economics",
+      "sha256": "f92bcb5205ea81eea05a15d7eb96c54fd3055eeecfcc2a560b6dbacc8361e240",
+      "bytes": 150,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836341.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836341.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=PRC1&KEYWORD=ba%20portuguese",
+      "sha256": "85b80c8e4e1e3f2772824fa4a051f2e5012ca84242a585ab7922b82178a0134b",
+      "bytes": 143215,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836413-resolved.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836413-resolved.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-spanish",
+      "sha256": "af3ff9e375dcecae987b117eee96c725adec65d6d7a687fe126a113a29789274",
+      "bytes": 138,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836428.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836428.source.json"
+    },
+    {
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=ba-italian",
+      "sha256": "d8e267affd717f67236db3e04be905da70ea93dc45ffe10791697d5ca3310002",
+      "bytes": 138,
+      "raw_file": "scratch/full-catalog/europe/ucd/detail-836331.html",
+      "meta_file": "scratch/full-catalog/europe/ucd/detail-836331.source.json"
+    }
+  ]
+}

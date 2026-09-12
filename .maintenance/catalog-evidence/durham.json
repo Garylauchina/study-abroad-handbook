@@ -1,0 +1,69 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://dur.ac.uk/study/courses/",
+    "official_total": 313,
+    "official_total_unit": "all course results across levels; 174 labelled Undergraduate",
+    "page_evidence": [
+      {
+        "source": "public SearchStax API configured by official search page",
+        "rows_requested": 1000,
+        "numFound": 313,
+        "numFoundExact": true,
+        "received": 313,
+        "undergraduate_records": 174
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "filter_rules": [
+      "Course sectiontype only; exact official DegreeCourseLevel_ss Undergraduate",
+      "All subjects, modes, sites; exclude postgraduate and unclassified non-course pages",
+      "Single record per course URL; if one page advertises 2026 and 2027 retain current 2027 intake and preserve all dates"
+    ],
+    "unresolved": [
+      "Presence in current search index is not proof of open admissions.",
+      "Some records lack 2027 dates and are separately marked prior_or_unspecified_intake, not counted as confirmed current-year offerings."
+    ],
+    "excluded_count": 139,
+    "excluded_file": "durham/excluded.json",
+    "raw_artifacts": [
+      "durham/raw/directory-1.meta.json",
+      "durham/raw/directory-api.meta.json",
+      "durham/raw/directory-search.meta.json",
+      "durham/raw/search-sdk.meta.json"
+    ],
+    "university_id": "durham",
+    "count": 174,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://dur.ac.uk/search/?searchstax[query]=*&searchstax[page]=1&searchstax[facets][0]=tabs:sectiontype_ss:course&searchstax[model]=main%20site",
+      "sha256": "49cda4931f9e65a15ff94cec6a0348720234a2fac51eb07bb90236a22107b0b6",
+      "bytes": 126119,
+      "raw_file": "scratch/full-catalog/uk/durham/raw/directory-search.html",
+      "meta_file": "scratch/full-catalog/uk/durham/raw/directory-search.meta.json"
+    },
+    {
+      "url": "https://searchcloud-1-eu-west-2.searchstax.com/29847/durhamuniv-1610/emselect",
+      "sha256": "eafbabffecbe8771e09873173bb7203a4cce6fd14f9d57abec716fdb12881d98",
+      "bytes": 499459,
+      "raw_file": "scratch/full-catalog/uk/durham/raw/directory-api.json",
+      "meta_file": "scratch/full-catalog/uk/durham/raw/directory-api.meta.json"
+    },
+    {
+      "url": "https://dur.ac.uk/study/courses/",
+      "sha256": "d9004ebfd7b681b23badf4928d932086180f75e9e6612d583298fe2f4987345b",
+      "bytes": 100248,
+      "raw_file": "scratch/full-catalog/uk/durham/raw/directory-1.html",
+      "meta_file": "scratch/full-catalog/uk/durham/raw/directory-1.meta.json"
+    },
+    {
+      "url": "https://static.searchstax.com/studio-js/v4.1.59/js/search-ux.js",
+      "sha256": "42be6ded8a1761c204833a7af41a6304b4616eb733a5b9c5ecac4214e00d2957",
+      "bytes": 225672,
+      "raw_file": "scratch/full-catalog/uk/durham/raw/search-sdk.html",
+      "meta_file": "scratch/full-catalog/uk/durham/raw/search-sdk.meta.json"
+    }
+  ]
+}

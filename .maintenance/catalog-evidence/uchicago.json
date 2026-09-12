@@ -1,0 +1,83 @@
+{
+  "original_manifest": {
+    "university_id": "uchicago",
+    "status": "partial",
+    "count": 60,
+    "official_total": {
+      "college_site_advertised_majors": 69,
+      "admissions_api_major_cards": 60
+    },
+    "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+    "source_period": "current admissions list; no academic year stated",
+    "scope": "All 60 Major-tagged cards in official admissions source; degree/track granularity still needs reconciliation with 69-major headline",
+    "pagination_evidence": {
+      "gatsby_page_data": "https://collegeadmissions.uchicago.edu/page-data/academics/areas-of-study/page-data.json",
+      "static_queries_read": 4,
+      "all_area_records": 129,
+      "major_records": 60,
+      "pagination": false
+    },
+    "filter_rules": [
+      "Filter studiesType containing Majors",
+      "Exclude Minor-only, Joint Degree-only, specializations-only, Careers In and academic opportunities",
+      "Do not create MD/JD or premed majors"
+    ],
+    "gaps": [
+      "College site advertises 69 majors while full admissions feed contains 60 major cards; likely degree/track granularity but not yet reconciled, so not marked complete",
+      "Catalogue direct HTTPS failed SSL; detailed academic award variants need formal table reconciliation",
+      "Some official detail links use HTTP exactly as published; not silently changed to an unverified URL"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/1856484572.json",
+      "sha256": "64599df7ea69b817c749b8b41d4c161f58e5cf7e3f004021aa475a69f9a0a90a",
+      "bytes": 18442,
+      "raw_file": "scratch/full-catalog/us-a/uchicago/static-1856484572.html",
+      "meta_file": "scratch/full-catalog/us-a/uchicago/static-1856484572.meta.json"
+    },
+    {
+      "url": "https://college.uchicago.edu/academics/programs-study",
+      "sha256": "2b3a3023426d0fd8b810f2f00e9dd8d192e9f34c269971a93a3c152f236ca996",
+      "bytes": 16891,
+      "raw_file": "scratch/full-catalog/us-a/uchicago/college-programs.html",
+      "meta_file": "scratch/full-catalog/us-a/uchicago/college-programs.meta.json"
+    },
+    {
+      "url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "sha256": "667e4eff864afb8398b7786f7cb330a5269ee315d80ea2e47b7681673aaa3c5b",
+      "bytes": 617138,
+      "raw_file": "scratch/full-catalog/us-a/uchicago/static-999155231.html",
+      "meta_file": "scratch/full-catalog/us-a/uchicago/static-999155231.meta.json"
+    },
+    {
+      "url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/3000541721.json",
+      "sha256": "b9845584c3ce00199eda1daeca61c5754f6f783e673e418e32de964e55d5089c",
+      "bytes": 109,
+      "raw_file": "scratch/full-catalog/us-a/uchicago/static-3000541721.html",
+      "meta_file": "scratch/full-catalog/us-a/uchicago/static-3000541721.meta.json"
+    },
+    {
+      "url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "sha256": "a9e53e33508ab903813cd3471e11e0b3072889e1f44dab227f507ea801416c2b",
+      "bytes": 546670,
+      "raw_file": "scratch/full-catalog/us-a/uchicago/admissions-areas.html",
+      "meta_file": "scratch/full-catalog/us-a/uchicago/admissions-areas.meta.json"
+    },
+    {
+      "url": "https://collegeadmissions.uchicago.edu/page-data/academics/areas-of-study/page-data.json",
+      "sha256": "a2b6f0896edcda46e6479902477cb0645cc4786105b73c264e0a6717c6a58fb3",
+      "bytes": 682856,
+      "raw_file": "scratch/full-catalog/us-a/uchicago/page-data.html",
+      "meta_file": "scratch/full-catalog/us-a/uchicago/page-data.meta.json"
+    },
+    {
+      "url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/3640053327.json",
+      "sha256": "5e69e83f98823267d808401e4b9dde19e3e372ffe803997a64f4cad69dae7f1f",
+      "bytes": 18435,
+      "raw_file": "scratch/full-catalog/us-a/uchicago/static-3640053327.html",
+      "meta_file": "scratch/full-catalog/us-a/uchicago/static-3640053327.meta.json"
+    }
+  ]
+}

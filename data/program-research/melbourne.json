@@ -1,0 +1,841 @@
+{
+  "university_id": "melbourne",
+  "programs": [
+    {
+      "university_id": "melbourne",
+      "raw_key": "agriculture",
+      "name_en": "Bachelor of Agriculture",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf#page=12",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，同一表格按该学位列3个主修/专业方向；方向之间不是不同独立学位。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-agriculture"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-agriculture"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-agriculture"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-agriculture"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-agriculture"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-agriculture"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-agriculture",
+          "title": "melbourne 官方课程说明：Bachelor of Agriculture",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-agriculture-deccdddb87"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "arts",
+      "name_en": "Bachelor of Arts",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf#page=12",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，同一表格按该学位列33个主修/专业方向；方向之间不是不同独立学位。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-arts"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-arts"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-arts"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-arts"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-arts"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-arts"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-arts",
+          "title": "melbourne 官方课程说明：Bachelor of Arts",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-arts-205f275e86"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "biomedicine",
+      "name_en": "Bachelor of Biomedicine",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf#page=12",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，同一表格按该学位列16个主修/专业方向；方向之间不是不同独立学位。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-biomedicine"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-biomedicine"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-biomedicine"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-biomedicine"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-biomedicine"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-biomedicine"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-biomedicine",
+          "title": "melbourne 官方课程说明：Bachelor of Biomedicine",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-biomedicine-09baa08612"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "commerce",
+      "name_en": "Bachelor of Commerce",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf#page=12",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，同一表格按该学位列7个主修/专业方向；方向之间不是不同独立学位。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-commerce"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-commerce"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-commerce"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-commerce"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-commerce"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-commerce"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-commerce",
+          "title": "melbourne 官方课程说明：Bachelor of Commerce",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-commerce-0271fe4211"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "design",
+      "name_en": "Bachelor of Design",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf#page=12",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，同一表格按该学位列14个主修/专业方向；方向之间不是不同独立学位。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-design"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-design"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-design"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-design"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-design"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-design"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-design",
+          "title": "melbourne 官方课程说明：Bachelor of Design",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-design-a0a4bbe173"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "fine-arts",
+      "name_en": "Bachelor of Fine Arts",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf#page=13",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，同一表格按该学位列9个主修/专业方向；方向之间不是不同独立学位。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-fine-arts"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-fine-arts"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-fine-arts"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-fine-arts"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-fine-arts"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-fine-arts"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-fine-arts",
+          "title": "melbourne 官方课程说明：Bachelor of Fine Arts",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-fine-arts-253934e5fd"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "music",
+      "name_en": "Bachelor of Music",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf#page=13",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，同一表格按该学位列6个主修/专业方向；方向之间不是不同独立学位。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-music"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-music"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-music"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-music"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-music"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-music"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-music",
+          "title": "melbourne 官方课程说明：Bachelor of Music",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-music-c75c758b1b"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "oral-health",
+      "name_en": "Bachelor of Oral Health",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf#page=13",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，该行属于本科入口项目；本轮未单列该学位的独立主修清单。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-oral-health"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-oral-health"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-oral-health"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-oral-health"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-oral-health"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-oral-health"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-oral-health",
+          "title": "melbourne 官方课程说明：Bachelor of Oral Health",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-oral-health-be26303a2d"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "science",
+      "name_en": "Bachelor of Science",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf#page=13",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，同一表格按该学位列42个主修/专业方向；方向之间不是不同独立学位。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-science"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-science"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-science"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-science"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-science"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-science"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-science",
+          "title": "melbourne 官方课程说明：Bachelor of Science",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-science-dcf2900f46"
+    },
+    {
+      "university_id": "melbourne",
+      "raw_key": "science-extended",
+      "name_en": "Bachelor of Science (Extended)",
+      "official_url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+      "checked_at": "2026-09-12",
+      "source_period": "2027",
+      "enrichment_status": "partial",
+      "sections": {
+        "overview": [
+          {
+            "label": "2027培养结构",
+            "text": "官方2027本科指南收录此学位，该行属于本科入口项目；本轮未单列该学位的独立主修清单。本轮仅用此澳洲/新西兰学生版指南的培养结构，不继承其国内招生和费用。",
+            "source_ids": [
+              "melbourne-overview-science-extended"
+            ]
+          },
+          {
+            "label": "学制与课程内容缺口",
+            "text": "本轮尚未独立完成此学位学制、校区、授课语言和完整内容的中文复核，不能用大学普遍三年制描述覆盖全部特殊入口。",
+            "source_ids": [
+              "melbourne-overview-science-extended"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "资格需用国际生规则",
+            "text": "本来源面向澳大利亚及新西兰学生；大陆高考不直接获本科承认的校级规则另列，不能把本指南ATAR、国内补贴或保证入学安排套于中国学生。",
+            "source_ids": [
+              "melbourne-overview-science-extended"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "国际申请时间",
+            "text": "国际2027直申通用窗口见校级资料，本轮未核定此课程的特殊选拔或单独截止。",
+            "source_ids": [
+              "melbourne-overview-science-extended"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际费率待核",
+            "text": "本轮未从此培养结构来源提取国际学费；学位与主修费用应按国际生课程页核对。",
+            "source_ids": [
+              "melbourne-overview-science-extended"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果待核",
+            "text": "本轮未取得本学位按毕业届次、国际生身份和响应样本定义的就业/薪酬数据；指南的声誉宣传不作为就业率。",
+            "source_ids": [
+              "melbourne-overview-science-extended"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "melbourne-overview-science-extended",
+          "title": "melbourne 官方课程说明：Bachelor of Science (Extended)",
+          "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+          "checked_at": "2026-09-12",
+          "supports": "学习内容和所列培养范围；未核实招生/费用/毕业统计的边界",
+          "raw_sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+          "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2"
+        }
+      ],
+      "inventory_id": "melbourne-bachelor-of-science-extended-0b28e06b5d"
+    }
+  ],
+  "profile": {
+    "university_id": "melbourne",
+    "checked_at": "2026-09-12",
+    "scope": "澳大利亚校区国际本科通用规则；不替代专业、主修、荣誉研究或特定身份入口的附加条件。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "大陆普高与高考",
+          "text": "官网中国学生页面明确目前不接受高考直接入读本科。中国普通高中学生通常考虑Trinity College Foundation Studies；持认可IB、A-level等资格者可按该资格申请。预科录取不等于本科升读获保证。",
+          "source_ids": [
+            "melbourne-profile-browser-china"
+          ]
+        },
+        {
+          "label": "英语分级",
+          "text": "官网英语表Level1为IELTS总分6.5、四项6.0；另有更高等级和课程例外，必须按所选学位核实等级。本轮不把Level1视为全部本科的统一要求。",
+          "source_ids": [
+            "melbourne-profile-browser-english"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "国际生申请渠道",
+          "text": "在中国完成IB、A-level等国际资格通常可直申或经授权代理；澳洲Year12及在澳洲/新西兰读IB等类别，须按申请页和入学学期选择VTAC或直申。",
+          "source_ids": [
+            "melbourne-profile-browser-apply"
+          ]
+        },
+        {
+          "label": "2027直接申请窗口",
+          "text": "2027第一学期直申截止2026-11-30，第二学期截止2027-05-31；具体学位可能有附加选拔或不同日程，迟交是否接受由学校决定。截至核验日两截止尚未到。",
+          "source_ids": [
+            "melbourne-profile-browser-apply"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "费用与资助待核范围",
+          "text": "本轮校级原文尚未取得覆盖所有2027本科的准确国际年费区间，应按所属学位和选课核对。中国学生页介绍Melbourne Excellence Scholarship可有20%学费减免，但具体本科资格、成绩和课程排除项尚未逐条核定，不能预设获奖。",
+          "source_ids": [
+            "melbourne-profile-browser-china"
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "label": "实践机会与毕业统计",
+          "text": "中国学生页介绍学生在校实习及职业支持；这些是可参与的培养机会，不是中国本科生就业率。本轮未取得按主修、毕业届次、中国国籍和响应样本定义的毕业调查。",
+          "source_ids": [
+            "melbourne-profile-browser-china"
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "melbourne-profile-browser-china",
+        "title": "melbourne 官方资料：browser-china",
+        "url": "https://study.unimelb.edu.au/connect-with-us/international/china",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "25363f5e4184d134f390d0e612d5bdcd41fbd0c568ae234f7276ae49c03d50e6",
+        "sha256": "25363f5e4184d134f390d0e612d5bdcd41fbd0c568ae234f7276ae49c03d50e6"
+      },
+      {
+        "id": "melbourne-profile-browser-english",
+        "title": "melbourne 官方资料：browser-english",
+        "url": "https://study.unimelb.edu.au/how-to-apply/english-language-requirements",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "5302ccd556019a409290d554f00ebd70fcc92522f1081bd780bd6ad6953244eb",
+        "sha256": "5302ccd556019a409290d554f00ebd70fcc92522f1081bd780bd6ad6953244eb"
+      },
+      {
+        "id": "melbourne-profile-browser-apply",
+        "title": "melbourne 官方资料：browser-apply",
+        "url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "de501a45d999910eb3c12bdc6a12deb73b31f5f2722a0d56c0d5b252209421c3",
+        "sha256": "de501a45d999910eb3c12bdc6a12deb73b31f5f2722a0d56c0d5b252209421c3"
+      }
+    ]
+  }
+}

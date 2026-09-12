@@ -185,6 +185,22 @@
 .university-ranking .qs-rank { font-size: .9rem; }
 .university-ranking .qs-rank strong { font-size: 1.3rem; }
 [hidden] { display: none !important; }
+.program-depth { display: block; margin: .4rem 0; font-size: .66rem; color: #546a72; }
+.catalog-pagination { display: flex; justify-content: center; align-items: center; gap: 1rem; margin: 1.5rem 0; font-size: .75rem; }
+.catalog-pagination button { padding: .45rem .8rem; border: 1px solid #b6c9c6; border-radius: .25rem; cursor: pointer; }
+.catalog-pagination button:disabled { opacity: .4; cursor: default; }
+.catalog-status { scroll-margin-top: 6rem; }
+.university-program-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 1.5rem; margin: 1.25rem 0; }
+.university-program-list article { padding: .8rem 0; border-bottom: 1px solid #dbe5e8; overflow-wrap: anywhere; }
+.university-program-list article > a { display: block; font-weight: 600; }
+.university-program-list small { display: block; margin-top: .25rem; color: #5c7278; }
+.catalog-filters:not(.university-filters) { grid-template-columns: 2fr 1fr 1.3fr 1fr 1fr auto; }
+@media (max-width: 1100px) { .catalog-filters:not(.university-filters) { grid-template-columns: repeat(3,minmax(0,1fr)); } }
+@media (max-width: 650px) {
+ .catalog-filters:not(.university-filters) { grid-template-columns: repeat(2,minmax(0,1fr)); }
+ .university-program-list { grid-template-columns: 1fr; }
+ .catalog-pagination { gap: .5rem; }
+}
 @media (max-width: 1100px) {
  .catalog-home .country-grid { grid-template-columns: repeat(3,minmax(0,1fr)); }
  .catalog-home .university-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }

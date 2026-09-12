@@ -1,0 +1,307 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses",
+    "official_total": 301,
+    "page_evidence": [
+      {
+        "page": 1,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 2,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 3,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 4,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 5,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 6,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 7,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 8,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 9,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 10,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 11,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 12,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 13,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 14,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 15,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 16,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 17,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 18,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 19,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 20,
+        "count": 15,
+        "stated_total": "301"
+      },
+      {
+        "page": 21,
+        "count": 1,
+        "stated_total": "301"
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "filter_rules": [
+      "Official undergraduate default term=202728; no subject/keyword filters",
+      "21 pages with 15 per page, final page 1 item",
+      "Extract canonical course URL from official Funnelback redirect url parameter"
+    ],
+    "unresolved": [
+      "Directory listing is not confirmation that applications remain open.",
+      "Individual transfer/graduate-entry route checks pending."
+    ],
+    "raw_artifacts": [
+      "leeds/raw/directory-0.meta.json",
+      "leeds/raw/directory-1.meta.json",
+      "leeds/raw/directory-10.meta.json",
+      "leeds/raw/directory-11.meta.json",
+      "leeds/raw/directory-12.meta.json",
+      "leeds/raw/directory-13.meta.json",
+      "leeds/raw/directory-14.meta.json",
+      "leeds/raw/directory-15.meta.json",
+      "leeds/raw/directory-16.meta.json",
+      "leeds/raw/directory-17.meta.json",
+      "leeds/raw/directory-18.meta.json",
+      "leeds/raw/directory-19.meta.json",
+      "leeds/raw/directory-2.meta.json",
+      "leeds/raw/directory-20.meta.json",
+      "leeds/raw/directory-21.meta.json",
+      "leeds/raw/directory-3.meta.json",
+      "leeds/raw/directory-4.meta.json",
+      "leeds/raw/directory-5.meta.json",
+      "leeds/raw/directory-6.meta.json",
+      "leeds/raw/directory-7.meta.json",
+      "leeds/raw/directory-8.meta.json",
+      "leeds/raw/directory-9.meta.json"
+    ],
+    "university_id": "leeds",
+    "count": 301,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=13&start_rank=181&type=UG&term=202728",
+      "sha256": "b1e3622264e590370dfc15304bcaa7ee9880723c4706cef21e83f232b84a8704",
+      "bytes": 92419,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-13.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-13.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=2&start_rank=16&type=UG&term=202728",
+      "sha256": "e1722371d7ef1fa16f0e06dfaddd85ac7ab7ac2cc2246870f3682e0992d2fc77",
+      "bytes": 90906,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-2.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-2.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=15&start_rank=211&type=UG&term=202728",
+      "sha256": "f75b2abdbd9252edd5180f266828a0d7ecb3598281c338e74088f839c1a6658b",
+      "bytes": 92351,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-15.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-15.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=20&start_rank=286&type=UG&term=202728",
+      "sha256": "860ce7f9c7e3bbdfea9d8adbc4cfea9aec614c6719d2cf2c0312e906dcf39cfc",
+      "bytes": 91371,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-20.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-20.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=9&start_rank=121&type=UG&term=202728",
+      "sha256": "fce62795e64fd8c1d37aaaf0dd4c71cb5080a4cd61b815139585271897993048",
+      "bytes": 92261,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-9.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-9.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=18&start_rank=256&type=UG&term=202728",
+      "sha256": "4858ff7cc742dc46d91852060f6a58c4464a8f60f824f5f034a52db8ca6f80e1",
+      "bytes": 92687,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-18.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-18.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=4&start_rank=46&type=UG&term=202728",
+      "sha256": "1b8cbd1eb09c327272e5fdb6296ca3efc3b0ec22b641adc858e98d3bd8e140e5",
+      "bytes": 92305,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-4.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-4.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=12&start_rank=166&type=UG&term=202728",
+      "sha256": "90d3379abdc3ab0859972fd8e3d0fd783378b55f2c5122dacdac06c8441505ec",
+      "bytes": 92309,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-12.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-12.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=3&start_rank=31&type=UG&term=202728",
+      "sha256": "d73ea95301c62f9092495665f1756e1cc273e53060d67d47689ad295012598f6",
+      "bytes": 91560,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-3.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-3.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=14&start_rank=196&type=UG&term=202728",
+      "sha256": "ba89d8199984858c5bc7ad16af6f57d332380b6544b05737f044edf8ad99c530",
+      "bytes": 92662,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-14.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-14.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=21&start_rank=301&type=UG&term=202728",
+      "sha256": "19566d5829bc22e201605fd0633df06e04c99c359e724492e6bf4e21b77990a0",
+      "bytes": 67259,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-21.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-21.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=8&start_rank=106&type=UG&term=202728",
+      "sha256": "f622b83ad63b123e3699c3bdcd836324fc5a83e42c38aef5c98174895bd97ef7",
+      "bytes": 92589,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-8.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-8.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=19&start_rank=271&type=UG&term=202728",
+      "sha256": "1f9511c3fa308577863b6913d4604bf934f370bd06ace93a299596717f785778",
+      "bytes": 92059,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-19.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-19.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=5&start_rank=61&type=UG&term=202728",
+      "sha256": "cfa02c619f5a4ca813b4d47a996a159887561488537a952a07798353895f0ae6",
+      "bytes": 92787,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-5.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-5.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=11&start_rank=151&type=UG&term=202728",
+      "sha256": "e7242d4cd5cff60d47e93fd0d7c038fd8465602c1a7c2c3edc9ced140dd24407",
+      "bytes": 92237,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-11.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-11.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses",
+      "sha256": "871d4c8057137a9295a68408642b22ff247f7f9b7f2aad83fa3344b8e80fa439",
+      "bytes": 91915,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-0.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=17&start_rank=241&type=UG&term=202728",
+      "sha256": "ec0e17745b2eccefc3f0e147d58f7aab107c6c2d01fbb7448aab34f623011093",
+      "bytes": 92349,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-17.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-17.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=6&start_rank=76&type=UG&term=202728",
+      "sha256": "328a3092d7f29b3a3c24872635b9dc4db68846e2d946da2eff751a6245b709a9",
+      "bytes": 92676,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-6.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-6.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=10&start_rank=136&type=UG&term=202728",
+      "sha256": "20c1630c69078e125e81c51595ecab7fe4dd3fdc9ff4f1108bfb29375962129b",
+      "bytes": 92230,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-10.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-10.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=1&start_rank=1&type=UG&term=202728",
+      "sha256": "3bdc628829d0dbe2617323c63989fe8acd899a3c19a60725a5d268dd24ca22f9",
+      "bytes": 91958,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-1.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-1.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=16&start_rank=226&type=UG&term=202728",
+      "sha256": "26b334ea7f508eb7479a0a7780f3a1a49f1c37e4b1e5ec5869eeb74e8907d95d",
+      "bytes": 92575,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-16.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-16.meta.json"
+    },
+    {
+      "url": "https://courses.leeds.ac.uk/course-search/undergraduate-courses?page=7&start_rank=91&type=UG&term=202728",
+      "sha256": "9a7ebec8e620fa279092d4a42733cb9d3f9d987540304e842cf06d20f87e8a0f",
+      "bytes": 92567,
+      "raw_file": "scratch/full-catalog/uk/leeds/raw/directory-7.html",
+      "meta_file": "scratch/full-catalog/uk/leeds/raw/directory-7.meta.json"
+    }
+  ]
+}

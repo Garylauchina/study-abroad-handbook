@@ -1,0 +1,403 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses",
+    "official_total": 441,
+    "official_total_unit": "main course cards; nested study options are additional",
+    "page_evidence": [
+      {
+        "page_index": 0,
+        "count": 20,
+        "first": "Ancient History BA",
+        "last": "Arts and Sciences (Health and Environment) with Study Abroad BASc",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 1,
+        "count": 20,
+        "first": "Arts and Sciences (Sciences and Engineering) BASc",
+        "last": "Bulgarian and Danish BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 2,
+        "count": 20,
+        "first": "Bulgarian and Dutch BA",
+        "last": "Business and Health MSci",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 3,
+        "count": 20,
+        "first": "Cancer Biomedicine BSc",
+        "last": "Computer Science BSc",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 4,
+        "count": 20,
+        "first": "Computer Science MEng",
+        "last": "Czech and Russian BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 5,
+        "count": 20,
+        "first": "Czech and Serbian/Croatian BA",
+        "last": "Danish and Yiddish BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 6,
+        "count": 20,
+        "first": "Data Science BSc",
+        "last": "Dutch and Spanish BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 7,
+        "count": 20,
+        "first": "Dutch and Swedish BA",
+        "last": "Environmental Geoscience BSc",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 8,
+        "count": 20,
+        "first": "Environmental Geoscience MSci",
+        "last": "Finnish and Spanish BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 9,
+        "count": 20,
+        "first": "Finnish and Swedish BA",
+        "last": "French and Spanish BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 10,
+        "count": 20,
+        "first": "French and Swedish BA",
+        "last": "German and Latin BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 11,
+        "count": 20,
+        "first": "German and Management Studies BA",
+        "last": "Hebrew and Portuguese BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 12,
+        "count": 20,
+        "first": "Hebrew and Romanian BA",
+        "last": "Hungarian and East European Studies BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 13,
+        "count": 20,
+        "first": "Hungarian and Italian BA",
+        "last": "Italian and Latin BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 14,
+        "count": 20,
+        "first": "Italian and Management Studies BA",
+        "last": "Linguistics with Study Abroad BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 15,
+        "count": 20,
+        "first": "Management for Social Change BSc",
+        "last": "Mechanical Engineering MEng",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 16,
+        "count": 20,
+        "first": "Media BA",
+        "last": "Pharmacology BSc",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 17,
+        "count": 20,
+        "first": "Pharmacology MSci",
+        "last": "Polish and Yiddish BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 18,
+        "count": 20,
+        "first": "Politics and International Relations BSc",
+        "last": "Romanian and Serbian/Croatian BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 19,
+        "count": 20,
+        "first": "Romanian and Spanish BA",
+        "last": "Science and Engineering for Social Change BSc",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 20,
+        "count": 20,
+        "first": "Serbian/Croatian and East European Studies BA",
+        "last": "Spanish and Yiddish BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 21,
+        "count": 20,
+        "first": "Specialist Qualification in Habilitation and Disabilities of Sight (Children and Young People) Grad Dip",
+        "last": "Viking and Old Norse Studies BA",
+        "active_page": "Courses",
+        "next_present": true
+      },
+      {
+        "page_index": 22,
+        "count": 1,
+        "first": "Youth, Society and Sustainable Futures BA",
+        "last": "Youth, Society and Sustainable Futures BA",
+        "active_page": "Courses",
+        "next_present": false
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": false,
+    "completeness_scope": "All 441 main cards plus explicitly linked study options in the current unfiltered 2027 official directory, with Graduate Diplomas excluded and logged. Does not claim discovery of course variants absent from the directory.",
+    "excluded_count": 2,
+    "excluded_file": "ucl/excluded.json",
+    "main_degree_count": 439,
+    "study_option_count": 128,
+    "filter_rules": [
+      "No subject/faculty/abroad/year filters; official default year is 2027",
+      "Exclude Graduate Diploma; retain undergraduate degrees and undergraduate integrated masters",
+      "Keep all individually named directory study options, with entry-route uncertainty explicit",
+      "Do not infer degree duration, campus or teaching language"
+    ],
+    "unresolved": [
+      "Current listing is not proof that applications are still open; status listed_current means present in the current directory.",
+      "Nested study options can require transfer after initial enrolment; individual-course route classification is pending.",
+      "Engineering Foundation Year is a grouped foundation entry with no degree badge; its individual progression awards/UCAS routes are not fully expanded."
+    ],
+    "raw_artifacts": [
+      "ucl/raw/directory-0.meta.json",
+      "ucl/raw/directory-1.meta.json",
+      "ucl/raw/directory-10.meta.json",
+      "ucl/raw/directory-11.meta.json",
+      "ucl/raw/directory-12.meta.json",
+      "ucl/raw/directory-13.meta.json",
+      "ucl/raw/directory-14.meta.json",
+      "ucl/raw/directory-15.meta.json",
+      "ucl/raw/directory-16.meta.json",
+      "ucl/raw/directory-17.meta.json",
+      "ucl/raw/directory-18.meta.json",
+      "ucl/raw/directory-19.meta.json",
+      "ucl/raw/directory-2.meta.json",
+      "ucl/raw/directory-20.meta.json",
+      "ucl/raw/directory-21.meta.json",
+      "ucl/raw/directory-22.meta.json",
+      "ucl/raw/directory-3.meta.json",
+      "ucl/raw/directory-4.meta.json",
+      "ucl/raw/directory-5.meta.json",
+      "ucl/raw/directory-6.meta.json",
+      "ucl/raw/directory-7.meta.json",
+      "ucl/raw/directory-8.meta.json",
+      "ucl/raw/directory-9.meta.json"
+    ],
+    "university_id": "ucl",
+    "count": 567,
+    "checked_at": "2026-09-12",
+    "directory_enumeration_complete": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=13",
+      "sha256": "9b7170712bf3db63610d25fb9a06920c0d044451abc007397139ba00e8cbea4b",
+      "bytes": 223042,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-13.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-13.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=2",
+      "sha256": "aa9dc7124733c58f00c890d088c8ab59ef799817f862ab54f3f61b2e7abe474a",
+      "bytes": 222714,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-2.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-2.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=15",
+      "sha256": "35bc3de5c98847918beef200319841689594593765423a472e878ca798dcce17",
+      "bytes": 223997,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-15.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-15.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=20",
+      "sha256": "ef18ae5ce16146d9bdacc37c1ffd1e0e351def4a531932962edb5dd948541746",
+      "bytes": 223719,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-20.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-20.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=9",
+      "sha256": "8caba6f617e5c38ff2076f99fc5c0c49913d79a5c6b5b0681e5eae5534fa97fa",
+      "bytes": 220798,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-9.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-9.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=18",
+      "sha256": "5b9bd2b4f289e7436dbe547480491cd9fee8323026b7e2643b66edb234eb251b",
+      "bytes": 222712,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-18.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-18.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=4",
+      "sha256": "7c7a639967e5830a7f493d182bfcee53a319c33ff7a1b90f6a5a84377cc1e1b8",
+      "bytes": 222592,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-4.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-4.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=12",
+      "sha256": "97d55b61c4c300a61b829f6452ab9accde4f11da5530a01b30465ced1d80cd16",
+      "bytes": 223902,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-12.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-12.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=3",
+      "sha256": "6932500c9e3c0d045bfcbf73a0b4d951dfe3f085f4739c1e08297f7a9e4c837e",
+      "bytes": 234217,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-3.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-3.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=14",
+      "sha256": "e4698c0ac764bb3099340192463f8f0ff0f6c994b08610acc8c0c59783f2f4c2",
+      "bytes": 220714,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-14.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-14.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=21",
+      "sha256": "e83a45d1a56c7a6bae20117844a08f6696f0585319f8b7dfbe79c5e39649da09",
+      "bytes": 222806,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-21.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-21.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=8",
+      "sha256": "9bdd8ead863a141a139f493932ac7e95e3eb7e567f6a4e9cdd7f10bd20431b6b",
+      "bytes": 220876,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-8.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-8.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=19",
+      "sha256": "53417a257099d97e75d5cd005224c4c1575e086cce7865efefc871d11bff1844",
+      "bytes": 220990,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-19.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-19.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=5",
+      "sha256": "db0042d29827d9f4d013839bb87582c3106217a6ea17ae0082611d244b4a2c15",
+      "bytes": 220667,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-5.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-5.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=11",
+      "sha256": "7634db4954a90b64b66aa1a792fe9e8dd29c12ac499c0a6f9443e1d729f00660",
+      "bytes": 221444,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-11.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-11.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=0",
+      "sha256": "242e796ed27f8042e9c033e3efa80a4e126d0ea7fb4cbc4744742639690ca6e6",
+      "bytes": 220571,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-0.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=22",
+      "sha256": "3aa18e91912575c723ba6a4f0fa8f05b013b9d0c778255a992a91e8b56b9cc5c",
+      "bytes": 185478,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-22.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-22.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=17",
+      "sha256": "46dd2e5117432a6ad9de58977e6b50ffd88fbe02772407ecb1154151e4df98a5",
+      "bytes": 221500,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-17.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-17.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=6",
+      "sha256": "e474152cd2eed001aa5725d0885fd9e3047d377aa8cdabb117ec850bbe0b5f99",
+      "bytes": 220675,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-6.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-6.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=10",
+      "sha256": "9f2dec6a45468f3e7ed70c5ed80ddc3f1bf7a64d0ca2a4db2592d1c9feffcd18",
+      "bytes": 220723,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-10.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-10.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=1",
+      "sha256": "4eb2c5671d7f0a182d122c7b507ac6d3eab29c0eb5049cbb667e1d14f688852e",
+      "bytes": 235580,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-1.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-1.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=16",
+      "sha256": "1a7e4c0f508542fc07fa876d1c027a2787f93ba4c8e593a602d9ca9d5ace9b52",
+      "bytes": 233403,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-16.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-16.meta.json"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=7",
+      "sha256": "69eddabc5b65e167c36c2a0b1ca9f8c8d8d79f5bd750046e716e9d8bd7963b30",
+      "bytes": 226956,
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-7.html",
+      "meta_file": "scratch/full-catalog/uk/ucl/raw/directory-7.meta.json"
+    }
+  ]
+}

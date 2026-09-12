@@ -1,0 +1,43 @@
+{
+  "original_manifest": {
+    "university_id": "amsterdam",
+    "checked_at": "2026-09-12",
+    "final_count": 66,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "official_count": 65,
+    "directory_scope": "All 65 programmes in UvA official bachelor directory API, including joint AUC BA/BSc and university Pabo dual diploma",
+    "pagination_evidence": "Public API returned all 65 items; UI configured itemsperpage=500; one BA/BSc item expanded into two award records.",
+    "filtering_rules": "All API records studyType=bachelor; no minors/certificates; 65 cards become 66 award records.",
+    "can_prove_complete": true,
+    "gaps": [
+      "Names retained exactly as official Dutch or English title; language and campus follow published API fields, some campus values are original location codes."
+    ],
+    "source_urls": [
+      "https://www.uva.nl/onderwijs/bachelor/bacheloropleidingen/bacheloropleidingen.html",
+      "https://www.uva.nl/_restapi/list-json?uuid=2705d57f-b5ee-497a-8608-1ab2cd8094d3&mount=5d341896-07a6-4e97-861a-0b5a326a7b93"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.uva.nl/programmas/bachelors/universitaire-pabo-van-amsterdam/universitaire-pabo-van-amsterdam.html",
+      "sha256": "d09666e2109b0a6da2ef000aa6682c0f72824e00a69cb9f321e7058064cdf8a0",
+      "bytes": 166822,
+      "raw_file": "scratch/full-catalog/europe/amsterdam/pabo.html",
+      "meta_file": "scratch/full-catalog/europe/amsterdam/pabo.source.json"
+    },
+    {
+      "url": "https://www.uva.nl/_restapi/list-json?uuid=2705d57f-b5ee-497a-8608-1ab2cd8094d3&mount=5d341896-07a6-4e97-861a-0b5a326a7b93",
+      "sha256": "d0de79559b7d3450708f37f1045a4d1536e8f016deefa53c3c82b271ffcff034",
+      "bytes": 1232807,
+      "raw_file": "scratch/full-catalog/europe/amsterdam/catalog-api.json",
+      "meta_file": "scratch/full-catalog/europe/amsterdam/catalog-api.source.json"
+    },
+    {
+      "url": "https://www.uva.nl/onderwijs/bachelor/bacheloropleidingen/bacheloropleidingen.html",
+      "sha256": "1bf6378293e270d5d764da93156337e1b0cb377b8a16940c8c21a7730b32835d",
+      "bytes": 125613,
+      "raw_file": "scratch/full-catalog/europe/amsterdam/index.html",
+      "meta_file": "scratch/full-catalog/europe/amsterdam/index.source.json"
+    }
+  ]
+}

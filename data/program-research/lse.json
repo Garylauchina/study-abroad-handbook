@@ -1,0 +1,5101 @@
+{
+  "university_id": "lse",
+  "programs": [
+    {
+      "university_id": "lse",
+      "raw_key": "7b9f2f27-04e9-5f2b-b8b7-1917e657c5e7",
+      "name_en": "BA Anthropology and Law",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-anthropology-and-law",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BA。",
+            "source_ids": [
+              "UKENR-ce3aa8164ddab2"
+            ],
+            "extraction_locator": "Official directory entry: 7b9f2f27-04e9-5f2b-b8b7-1917e657c5e7"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Introduction to Legal Systems、Being Human: Contemporary Themes in Social Anthropology、A History of Anthropological Theory、Contract Law。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-ce3aa8164ddab2"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAB We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-ce3aa8164ddab2"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、生物、英语、历史等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-ce3aa8164ddab2"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "37 分 总分, with 666：HL subjects",
+            "source_ids": [
+              "UKENR-ce3aa8164ddab2"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-ce3aa8164ddab2"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-ce3aa8164ddab2"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、咨询、教学、教育、研究、法律、公共部门、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-ce3aa8164ddab2"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-ce3aa8164ddab2",
+          "title": "BA Anthropology and Law 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-anthropology-and-law",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "41f7aa516cede081fcdf629913a0d4aea2228131474b2f8dd122e9a87a429aba",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAB；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-ba-anthropology-and-law-897197a245"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "17259117-1867-5416-9646-4355c7e2e583",
+      "name_en": "BA Geography",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-geography",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BA。",
+            "source_ids": [
+              "UKENR-ca16c73057461a"
+            ],
+            "extraction_locator": "Official directory entry: 17259117-1867-5416-9646-4355c7e2e583"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Introduction to Geography、Introduction to Geographical Research、Human Geography and the City、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-ca16c73057461a"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-ca16c73057461a"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、历史、经济、地理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-ca16c73057461a"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL",
+            "source_ids": [
+              "UKENR-ca16c73057461a"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-ca16c73057461a"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-ca16c73057461a"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、审计、咨询、教学、教育、市场营销、零售。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-ca16c73057461a"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-ca16c73057461a",
+          "title": "BA Geography 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-geography",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "bcea1c73db1076a7bfd7c0c84cf1bf147683a844d7298dd503187de0513c57a7",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-ba-geography-4876c7b26d"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "b1beacb6-71e5-5b70-bb9e-3bde9d81a006",
+      "name_en": "BA History",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-history",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BA。",
+            "source_ids": [
+              "UKENR-6080a76ebfd783"
+            ],
+            "extraction_locator": "Official directory entry: b1beacb6-71e5-5b70-bb9e-3bde9d81a006"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Historical Approaches to the Modern World、The LSE Course、Courses to the value of two units from the following:、The Internationalisation of Economic Growth, 1870 to the Present Day。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-6080a76ebfd783"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-6080a76ebfd783"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-6080a76ebfd783"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL",
+            "source_ids": [
+              "UKENR-6080a76ebfd783"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-6080a76ebfd783"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-6080a76ebfd783"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、咨询、教学、教育、研究、法律、新闻、传媒。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-6080a76ebfd783"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-6080a76ebfd783",
+          "title": "BA History 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-history",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "230f0c0a66373befdcf1bdb10a3356cb6dfe315c67d30554adafd2bd10f8069d",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-ba-history-0d8515c311"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "bc4f7a6c-7076-5ee2-89f7-376d9d426123",
+      "name_en": "BA Social Anthropology",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-social-anthropology",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BA。",
+            "source_ids": [
+              "UKENR-cd5a28fc25669d"
+            ],
+            "extraction_locator": "Official directory entry: bc4f7a6c-7076-5ee2-89f7-376d9d426123"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Being Human: Contemporary Themes in Social Anthropology、A History of Anthropological Theory、Anthropology through Mixed Media、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-cd5a28fc25669d"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAB We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-cd5a28fc25669d"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、生物、英语、历史等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-cd5a28fc25669d"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "37 分 总分, with 666：HL subjects",
+            "source_ids": [
+              "UKENR-cd5a28fc25669d"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-cd5a28fc25669d"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-cd5a28fc25669d"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、教学、教育、法律、公共部门、政府机构、新闻、剧场。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-cd5a28fc25669d"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-cd5a28fc25669d",
+          "title": "BA Social Anthropology 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-social-anthropology",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "6c02459f6b21e91cce78791f4139dba120753d3e9b00df164a614b1f34f70db7",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAB；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-ba-social-anthropology-6b3b639930"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "d9fe3d0c-5c4f-5fd1-9f90-bdfb09d1cf36",
+      "name_en": "BSc Accounting and Finance",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-accounting-and-finance",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-fb2b5d73932171"
+            ],
+            "extraction_locator": "Official directory entry: d9fe3d0c-5c4f-5fd1-9f90-bdfb09d1cf36"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：The LSE Course、Introduction to Financial Accounting、Introduction to Management Accounting、Microeconomics I。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-fb2b5d73932171"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA with A：数学",
+            "source_ids": [
+              "UKENR-fb2b5d73932171"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-fb2b5d73932171"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分. 766：HL subjects, 包括 6：HL 数学",
+            "source_ids": [
+              "UKENR-fb2b5d73932171"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-fb2b5d73932171"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 39,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-fb2b5d73932171"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、咨询、教育、公共部门、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-fb2b5d73932171"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-fb2b5d73932171",
+          "title": "BSc Accounting and Finance 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-accounting-and-finance",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "360035755d69021b0c7d4b5ce114b1daf831db9bf70b7f3a7e1c7ff62bd97c18",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 39,300／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-accounting-and-finance-04910b844b"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "a2205574-224c-56e6-9a0d-3cd5be62ffff",
+      "name_en": "BSc Actuarial Science",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-actuarial-science",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-71b78b45d80f17"
+            ],
+            "extraction_locator": "Official directory entry: a2205574-224c-56e6-9a0d-3cd5be62ffff"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Elementary Statistical Theory、Mathematical Methods、Microeconomics I、Macroeconomics I。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-71b78b45d80f17"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 Where it's offered by your school 或 college, AS- 或 A-level 进阶数学 is expected to be taken及a grade A achieved. We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-71b78b45d80f17"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "数学：A-level 或 equivalent is required. 进阶数学：AS level 或 above is highly desirable. The programme is quantitively focused. For this reason, 物理 或 化学 provide good preparation for this degree, although these are not mandatory subjects. Good marks for any quantitative courses：GCSE level are also desirable.",
+            "source_ids": [
+              "UKENR-71b78b45d80f17"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766：HL subjects, with 7：\"数学: analysis及approaches\"",
+            "source_ids": [
+              "UKENR-71b78b45d80f17"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-71b78b45d80f17"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-71b78b45d80f17"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、教育、公务部门。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-71b78b45d80f17"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-71b78b45d80f17",
+          "title": "BSc Actuarial Science 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-actuarial-science",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "61d28699b7a6fc0cdfbf63f33f9d2a044f92772fb22c2ea7933707c25a79b975",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-actuarial-science-86e2bf05a5"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "7262a501-1dc3-51c2-854c-097bf6c4cc29",
+      "name_en": "BSc Actuarial Science (with a Placement Year)",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-actuarial-science-with-a-placement-year",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-ede6c8b78ed6cd"
+            ],
+            "extraction_locator": "Official directory entry: 7262a501-1dc3-51c2-854c-097bf6c4cc29"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Elementary Statistical Theory、Mathematical Methods、Microeconomics I、Macroeconomics I。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-ede6c8b78ed6cd"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 Where it's offered by your school 或 college, AS- 或 A-level 进阶数学 is expected to be taken及a grade A achieved. We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-ede6c8b78ed6cd"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "数学：A-level 或 equivalent is required. 进阶数学：AS level 或 above is highly desirable. The programme is quantitively focused. For this reason, 物理 或 化学 provide good preparation for this degree, although these are not mandatory subjects. Good marks for any quantitative courses：GCSE level are also desirable.",
+            "source_ids": [
+              "UKENR-ede6c8b78ed6cd"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766：HL subjects, with 7：\"数学: analysis及approaches\"",
+            "source_ids": [
+              "UKENR-ede6c8b78ed6cd"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-ede6c8b78ed6cd"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-ede6c8b78ed6cd"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、教育、公务部门。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-ede6c8b78ed6cd"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-ede6c8b78ed6cd",
+          "title": "BSc Actuarial Science (with a Placement Year) 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-actuarial-science-with-a-placement-year",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "2be45d17b193a28b082c81960fc99e4852943b237bc23f788d4c22c430af630f",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-actuarial-science-with-a-placement-year-574c47cd1f"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "da9d93e9-08dd-505a-823c-46086f16a998",
+      "name_en": "BSc Data Science",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-data-science",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-62bbddc17ffefa"
+            ],
+            "extraction_locator": "Official directory entry: da9d93e9-08dd-505a-823c-46086f16a998"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Elementary Statistical Theory、Mathematical Methods、Programming for Data Science、Managing Visualising Data。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-62bbddc17ffefa"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 Where it's offered by your school 或 college, AS- 或 A-level 进阶数学 is expected to be taken及a grade A achieved. We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-62bbddc17ffefa"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "数学：A-level 或 equivalent is required. 进阶数学 is highly desirable. The programme requires excellent quantitative skills. So, quantitatively oriented A-level courses such as 物理 或 化学 provide excellent preparation, although these subjects are not mandatory. Good marks：any quantitative courses：GCSE level are also desirable.",
+            "source_ids": [
+              "UKENR-62bbddc17ffefa"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766：HL subjects, with 7：\"数学: analysis及approaches\"",
+            "source_ids": [
+              "UKENR-62bbddc17ffefa"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-62bbddc17ffefa"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 37,500／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-62bbddc17ffefa"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、审计、教育。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-62bbddc17ffefa"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-62bbddc17ffefa",
+          "title": "BSc Data Science 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-data-science",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "284da91e392fe956492db29fd1b57959b7f1bd76e33051b2d160c64dab4c7f2f",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 37,500／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-data-science-85a6773416"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "6a847c2d-bdd4-5117-904b-1c7e09848c39",
+      "name_en": "BSc Econometrics and Mathematical Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-econometrics-and-mathematical-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-79a3e9c215f0c4"
+            ],
+            "extraction_locator": "Official directory entry: 6a847c2d-bdd4-5117-904b-1c7e09848c39"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Economic Reasoning、Methods in calculus and linear algebra、Elementary Statistical Theory、Microeconomics I。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-79a3e9c215f0c4"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA with an A*：数学 We also consider your AS grades, if available. Please also see subject combinations regarding 进阶数学 requirements.",
+            "source_ids": [
+              "UKENR-79a3e9c215f0c4"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-79a3e9c215f0c4"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分. 766：HL subjects, with 7：数学.",
+            "source_ids": [
+              "UKENR-79a3e9c215f0c4"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-79a3e9c215f0c4"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 41,900／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-79a3e9c215f0c4"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、咨询、教学、教育、研究。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-79a3e9c215f0c4"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-79a3e9c215f0c4",
+          "title": "BSc Econometrics and Mathematical Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-econometrics-and-mathematical-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "893804b9535ea59c561dafd41c52a74d5189a199712a630ade7bdd5c2d92c98c",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 41,900／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-econometrics-and-mathematical-economics-ab820132d4"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "3973e624-63fd-5976-8b43-993ed98a2f55",
+      "name_en": "BSc Economic History",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economic-history",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-e5a949a0607ed2"
+            ],
+            "extraction_locator": "Official directory entry: 3973e624-63fd-5976-8b43-993ed98a2f55"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：The Internationalisation of Economic Growth, 1870 to the Present Day、Microeconomics I、Macroeconomics I、Pre-industrial Economic History。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-e5a949a0607ed2"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA, 包括 经济 或 History We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-e5a949a0607ed2"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、历史、经济、地理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-e5a949a0607ed2"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分. 766：HL subjects, 包括 经济 或 History",
+            "source_ids": [
+              "UKENR-e5a949a0607ed2"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-e5a949a0607ed2"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-e5a949a0607ed2"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、审计、咨询、教学、教育、公务部门、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-e5a949a0607ed2"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-e5a949a0607ed2",
+          "title": "BSc Economic History 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economic-history",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "3749f957254e1932f2662f48683f7c388c6b24504c2ef2f756b8c08d0ac2c9c1",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-economic-history-8aa0b031d6"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "1a47be64-80b3-5606-ae8c-272a876c65ae",
+      "name_en": "BSc Economic History and Geography",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economic-history-and-geography",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-804627bf29965a"
+            ],
+            "extraction_locator": "Official directory entry: 1a47be64-80b3-5606-ae8c-272a876c65ae"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：The Internationalisation of Economic Growth, 1870 to the Present Day、Introduction to Geography、Introduction to Geographical Research、Economic History Skills。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-804627bf29965a"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAB, 包括 经济 或 History We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-804627bf29965a"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、历史、经济、地理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-804627bf29965a"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "37 分 总分. 666：HL subjects, 包括 经济 或 History.",
+            "source_ids": [
+              "UKENR-804627bf29965a"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-804627bf29965a"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-804627bf29965a"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、审计、咨询、教学、教育、公务部门、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-804627bf29965a"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-804627bf29965a",
+          "title": "BSc Economic History and Geography 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economic-history-and-geography",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "28ed9a273344ef2cf148a6c4cd378a6f44a59f4f66c3beae8f0cc759baa24783",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAB；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-economic-history-and-geography-6562b2c22b"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "524601f5-11df-53c9-bb5d-ee42355d2d8d",
+      "name_en": "BSc Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-1d03bc9c28466d"
+            ],
+            "extraction_locator": "Official directory entry: 524601f5-11df-53c9-bb5d-ee42355d2d8d"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Economic Reasoning、Microeconomics I、Elementary Statistical Theory、Econometrics I。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-1d03bc9c28466d"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA with an A*：数学 We also consider your AS grades, if available. See subject combinations regarding 进阶数学 requirements.",
+            "source_ids": [
+              "UKENR-1d03bc9c28466d"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-1d03bc9c28466d"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分. 766：HL subjects, with 7：数学.",
+            "source_ids": [
+              "UKENR-1d03bc9c28466d"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-1d03bc9c28466d"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 41,900／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-1d03bc9c28466d"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、咨询、教育、研究、法律。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-1d03bc9c28466d"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-1d03bc9c28466d",
+          "title": "BSc Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "4060994189c954c458a4652661457f107fb8d8006e476ff85aa2cba8e2706e61",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 41,900／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-economics-55569b0d68"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "9d73bb71-8413-53d6-a6ec-f9da16baa64d",
+      "name_en": "BSc Economics and Data Science",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-data-science",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-f836a5f466afcf"
+            ],
+            "extraction_locator": "Official directory entry: 9d73bb71-8413-53d6-a6ec-f9da16baa64d"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Microeconomics I、Macroeconomics I、Mathematical Methods、Elementary Statistical Theory。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-f836a5f466afcf"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 Where it's offered by your school 或 college, AS- 或 A-level 进阶数学 is expected to be taken及a grade A achieved. We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-f836a5f466afcf"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "数学：A-level 或 equivalent is required. 进阶数学 is highly desirable. The programme requires excellent quantitative skills. So, quantitatively oriented A-level courses such as 物理 或 化学 provide excellent preparation, although these subjects are not mandatory. Good marks：any quantitative courses：GCSE level are also desirable.",
+            "source_ids": [
+              "UKENR-f836a5f466afcf"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766：HL subjects, with 7：\"数学: analysis及approaches\"",
+            "source_ids": [
+              "UKENR-f836a5f466afcf"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-f836a5f466afcf"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 37,500／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-f836a5f466afcf"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、审计、咨询、教育、政府机构、数据科学。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-f836a5f466afcf"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-f836a5f466afcf",
+          "title": "BSc Economics and Data Science 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-data-science",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "9afe01d0fddbd12f3263645310257a32090038cc249c519a1cec4b5544ccd785",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 37,500／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-economics-and-data-science-0d9cb017cc"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "262000fc-cee8-51b2-8f76-6e6cb21924f6",
+      "name_en": "BSc Economics and Economic History",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-economic-history",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-3a75fc54fd26b3"
+            ],
+            "extraction_locator": "Official directory entry: 262000fc-cee8-51b2-8f76-6e6cb21924f6"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Microeconomics I、Macroeconomics I、The Internationalisation of Economic Growth, 1870 to the Present Day、Quantitative Methods (Mathematics)。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-3a75fc54fd26b3"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA, 包括 经济 或 History,及an A：数学 We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-3a75fc54fd26b3"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、历史、经济、地理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-3a75fc54fd26b3"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, with 766：HL subjects, 包括 经济 或 History,及数学",
+            "source_ids": [
+              "UKENR-3a75fc54fd26b3"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-3a75fc54fd26b3"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 33,800／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-3a75fc54fd26b3"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、审计、咨询、教学、教育、公务部门、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-3a75fc54fd26b3"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-3a75fc54fd26b3",
+          "title": "BSc Economics and Economic History 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-economic-history",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "9f74be737f6b29b477eb6f4936e1b749403d54e2e3d6872fbd8e212064624e65",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 33,800／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-economics-and-economic-history-7a39891514"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "23ea287e-40b1-5d47-8a56-db357f62605a",
+      "name_en": "BSc Environment and Sustainable Development",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-environment-and-sustainable-development",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-2f76fc3bb9d1f7"
+            ],
+            "extraction_locator": "Official directory entry: 23ea287e-40b1-5d47-8a56-db357f62605a"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Environmental Change: Past, Present and Future、Sustainable Development、Introduction to Geography、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-2f76fc3bb9d1f7"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-2f76fc3bb9d1f7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、历史、经济、地理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-2f76fc3bb9d1f7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL",
+            "source_ids": [
+              "UKENR-2f76fc3bb9d1f7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-2f76fc3bb9d1f7"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-2f76fc3bb9d1f7"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、审计、咨询、教育、公共部门、政府机构、环境。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-2f76fc3bb9d1f7"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-2f76fc3bb9d1f7",
+          "title": "BSc Environment and Sustainable Development 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-environment-and-sustainable-development",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "504ae3046f4c109f44ffbf2cc7cf830975cf201625eb466d92b712bb0af247b3",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-environment-and-sustainable-development-16316dd900"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "4bc5b6ac-a905-517c-86e7-0f0409040cd5",
+      "name_en": "BSc Environment and Sustainable Development with Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-environment-and-sustainable-development-with-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-3552f921ef9f96"
+            ],
+            "extraction_locator": "Official directory entry: 4bc5b6ac-a905-517c-86e7-0f0409040cd5"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Environmental Change: Past, Present and Future、Sustainable Development、Quantitative Methods (Mathematics)、Quantitative Methods (Statistics)。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-3552f921ef9f96"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA, with an A：数学 We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-3552f921ef9f96"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、历史、经济、地理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-3552f921ef9f96"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL, 包括 数学",
+            "source_ids": [
+              "UKENR-3552f921ef9f96"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-3552f921ef9f96"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-3552f921ef9f96"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、审计、咨询、教育、公共部门、政府机构、环境。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-3552f921ef9f96"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-3552f921ef9f96",
+          "title": "BSc Environment and Sustainable Development with Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-environment-and-sustainable-development-with-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "bd56f85a8a51d977442c2a480d88d9e5822684b1532cd79176ab1ec6ba856a9d",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-environment-and-sustainable-development-with-economics-c8a616191a"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "d0cdeaa7-4240-5f8e-b516-7812cd406e7e",
+      "name_en": "BSc Finance",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-finance",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-f5567defecfa7b"
+            ],
+            "extraction_locator": "Official directory entry: d0cdeaa7-4240-5f8e-b516-7812cd406e7e"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：The LSE Course、Microeconomics I、Macroeconomics I、Elementary Statistical Theory。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-f5567defecfa7b"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 We also consider your AS grades, if available. See subject combinations regarding 进阶数学 requirements.",
+            "source_ids": [
+              "UKENR-f5567defecfa7b"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "A-level成绩栏列A*AA；条件涉及数学、进阶数学、物理、化学、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-f5567defecfa7b"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分. 766：HL subjects, 包括 7：数学",
+            "source_ids": [
+              "UKENR-f5567defecfa7b"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-f5567defecfa7b"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 39,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-f5567defecfa7b"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、银行、咨询、教育、研究、能源、管理。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-f5567defecfa7b"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-f5567defecfa7b",
+          "title": "BSc Finance 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-finance",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "a58900fa893930b15fe3b4190c940ef0bf384594134ed75727bd7482900fde83",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 39,300／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-finance-3ea5a4e149"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "a3c8fb54-d894-569f-9388-5a20ceb4620a",
+      "name_en": "BSc Financial Mathematics and Statistics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-financial-mathematics-and-statistics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-39e2690aacbe1a"
+            ],
+            "extraction_locator": "Official directory entry: a3c8fb54-d894-569f-9388-5a20ceb4620a"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Microeconomics I、Macroeconomics I、Mathematical Methods、Elementary Statistical Theory。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-39e2690aacbe1a"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 Where it is offered by your school 或 college, AS- 或 A-level 进阶数学 is expected to be taken及a grade A achieved. We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-39e2690aacbe1a"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-39e2690aacbe1a"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766 HL, with 7：数学: analysis及approaches.",
+            "source_ids": [
+              "UKENR-39e2690aacbe1a"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-39e2690aacbe1a"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 39,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-39e2690aacbe1a"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、教育、管理。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-39e2690aacbe1a"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-39e2690aacbe1a",
+          "title": "BSc Financial Mathematics and Statistics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-financial-mathematics-and-statistics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "cde343a63b1f4939186506f93342c23099746fd72e38b3e158501c7a22648998",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 39,300／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-financial-mathematics-and-statistics-47a2e4cb48"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "5b69d89b-9a80-5cbf-8534-7376bc36f222",
+      "name_en": "BSc Geography with Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-geography-with-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-7e79249b471b88"
+            ],
+            "extraction_locator": "Official directory entry: 5b69d89b-9a80-5cbf-8534-7376bc36f222"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Microeconomics I、Macroeconomics I、Quantitative Methods (Mathematics)、Quantitative Methods (Statistics)。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-7e79249b471b88"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA, 包括 an A：数学 We also consider your AS grades, if available",
+            "source_ids": [
+              "UKENR-7e79249b471b88"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、历史、经济、地理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-7e79249b471b88"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, with 766 HL, 包括 数学",
+            "source_ids": [
+              "UKENR-7e79249b471b88"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-7e79249b471b88"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-7e79249b471b88"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、审计、咨询、教学、教育、市场营销、零售。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-7e79249b471b88"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-7e79249b471b88",
+          "title": "BSc Geography with Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-geography-with-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "c673487e5f2ac50881e028debbb135f5c8505d41a00f9b8916887270fd8d52f3",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-geography-with-economics-d552ec3e89"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "7d314e14-12d6-5df9-b477-93aeba6b011d",
+      "name_en": "BSc History and Politics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-history-and-politics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-0cf8ee9f2893f4"
+            ],
+            "extraction_locator": "Official directory entry: 7d314e14-12d6-5df9-b477-93aeba6b011d"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Introduction to Political Theory、Introduction to Political Science、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-0cf8ee9f2893f4"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-0cf8ee9f2893f4"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-0cf8ee9f2893f4"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分 , 包括 766 HL",
+            "source_ids": [
+              "UKENR-0cf8ee9f2893f4"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-0cf8ee9f2893f4"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-0cf8ee9f2893f4"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、银行、咨询、教学、教育、研究、法律、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-0cf8ee9f2893f4"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-0cf8ee9f2893f4",
+          "title": "BSc History and Politics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-history-and-politics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "cd450e68f897b510e734fc48fada61f59b9613ec27a27789095e080356509efb",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-history-and-politics-54ead8eef7"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "3be7fd02-b91e-5286-ae4b-90b18e330122",
+      "name_en": "BSc International Relations",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-relations",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-473c9eb14edb51"
+            ],
+            "extraction_locator": "Official directory entry: 3be7fd02-b91e-5286-ae4b-90b18e330122"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：International Relations: Theories, Concepts and Debates、Contemporary Issues in International Relations、The LSE Course、Thinking Globally: Studying International Relations。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-473c9eb14edb51"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-473c9eb14edb51"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济、地理、心理学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-473c9eb14edb51"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL",
+            "source_ids": [
+              "UKENR-473c9eb14edb51"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-473c9eb14edb51"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 33,800／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-473c9eb14edb51"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、教育、法律、公共部门、政府机构、传媒。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-473c9eb14edb51"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-473c9eb14edb51",
+          "title": "BSc International Relations 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-relations",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "9ef65b67236c8a4ffa552039dee8607ca2d9cd977fd6887ce9768289075423da",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 33,800／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-international-relations-bec416b1cc"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "cc272c85-f3f8-5c2d-bdb5-2908c26cd896",
+      "name_en": "BSc International Relations and Chinese",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-relations-and-chinese",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-da416af1a00ee7"
+            ],
+            "extraction_locator": "Official directory entry: cc272c85-f3f8-5c2d-bdb5-2908c26cd896"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：International Relations: Theories, Concepts and Debates、Intercultural Communication and Management、Thinking Globally: Studying International Relations、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-da416af1a00ee7"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-da416af1a00ee7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济、地理、心理学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-da416af1a00ee7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL",
+            "source_ids": [
+              "UKENR-da416af1a00ee7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-da416af1a00ee7"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-da416af1a00ee7"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、教学、教育、研究、政府机构、慈善机构、零售。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-da416af1a00ee7"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-da416af1a00ee7",
+          "title": "BSc International Relations and Chinese 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-relations-and-chinese",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "6b745d9fb2155fa9b064037eb7deea9603877f41f67052fbf5bcf583ddd30c6a",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-international-relations-and-chinese-2b6de4f206"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "ebd6a07b-9d0f-5d32-96fe-008afb0681eb",
+      "name_en": "BSc International Relations and History",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-relations-and-history",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-f11ca2d4e19de7"
+            ],
+            "extraction_locator": "Official directory entry: ebd6a07b-9d0f-5d32-96fe-008afb0681eb"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：International Relations: Theories, Concepts and Debates、The LSE Course、Courses to the value of one unit from the following options、Historical Approaches to the Modern World。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-f11ca2d4e19de7"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-f11ca2d4e19de7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-f11ca2d4e19de7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL",
+            "source_ids": [
+              "UKENR-f11ca2d4e19de7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-f11ca2d4e19de7"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-f11ca2d4e19de7"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、咨询、教学、教育、研究、法律、新闻、传媒。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-f11ca2d4e19de7"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-f11ca2d4e19de7",
+          "title": "BSc International Relations and History 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-relations-and-history",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "686fbe076317c95dab48ac42070d99614805bea6be7b0f5e84df8a073566a665",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-international-relations-and-history-7aa4d15176"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "e07c4c55-10ff-5278-8ede-51aac642cd98",
+      "name_en": "BSc International Social and Public Policy",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-social-and-public-policy",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-cefc7ed195c547"
+            ],
+            "extraction_locator": "Official directory entry: e07c4c55-10ff-5278-8ede-51aac642cd98"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Understanding International Social and Public Policy、Foundations of Social Policy Research、Social Economics and Policy、Politics of Social Policy Making。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-cefc7ed195c547"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAB We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-cefc7ed195c547"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济、心理学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-cefc7ed195c547"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "37 分 总分, with 666 HL",
+            "source_ids": [
+              "UKENR-cefc7ed195c547"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-cefc7ed195c547"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-cefc7ed195c547"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、教学、教育、公共部门、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-cefc7ed195c547"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-cefc7ed195c547",
+          "title": "BSc International Social and Public Policy 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-social-and-public-policy",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "ed5d6a09c6ae8c8b04511fdedacf7d9ec211ef357a5ea48c568fa3e7f2f15692",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAB；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-international-social-and-public-policy-9c28a94d4e"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "ec07bec0-be17-5fce-9cbf-36aa317eb3c5",
+      "name_en": "BSc International Social and Public Policy with Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-social-and-public-policy-with-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-960df60317f416"
+            ],
+            "extraction_locator": "Official directory entry: ec07bec0-be17-5fce-9cbf-36aa317eb3c5"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Understanding International Social and Public Policy、Foundations of Social Policy Research、Quantitative Methods (Mathematics)、Quantitative Methods (Statistics)。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-960df60317f416"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA, with an A：数学 We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-960df60317f416"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、英语、历史、经济、心理学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-960df60317f416"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, with 766 HL, 包括 数学",
+            "source_ids": [
+              "UKENR-960df60317f416"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-960df60317f416"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-960df60317f416"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、教学、教育、公共部门、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-960df60317f416"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-960df60317f416",
+          "title": "BSc International Social and Public Policy with Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-social-and-public-policy-with-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "30827619f664800d1b3d663b73531e17986e7f164758f46f110955e1bba6d6b4",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-international-social-and-public-policy-with-economics-fa17977597"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "4638d385-25d1-5339-b0eb-3bd34952d8fb",
+      "name_en": "BSc International Social and Public Policy with Politics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-social-and-public-policy-with-politics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-b822b78e7d75c2"
+            ],
+            "extraction_locator": "Official directory entry: 4638d385-25d1-5339-b0eb-3bd34952d8fb"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Understanding International Social and Public Policy、Foundations of Social Policy Research、Introduction to Political Science、Introduction to Political Theory。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-b822b78e7d75c2"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAB We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-b822b78e7d75c2"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济、心理学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-b822b78e7d75c2"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "37 分 总分, with 666 HL",
+            "source_ids": [
+              "UKENR-b822b78e7d75c2"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-b822b78e7d75c2"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-b822b78e7d75c2"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、教学、教育、公共部门、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-b822b78e7d75c2"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-b822b78e7d75c2",
+          "title": "BSc International Social and Public Policy with Politics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-social-and-public-policy-with-politics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "e5baca405103946a01e3460e9498b38310da0721c3001619bc54e32e984b469d",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAB；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-international-social-and-public-policy-with-politics-483dbe1d80"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "8c90ca49-f327-56eb-9d67-acc78b530e25",
+      "name_en": "BSc Language, Culture and Society",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-language-culture-and-society",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-b025ca325e7c84"
+            ],
+            "extraction_locator": "Official directory entry: 8c90ca49-f327-56eb-9d67-acc78b530e25"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Key Concepts: Introduction to Social Theory、Power, Inequality, and Difference: Contemporary Themes in Sociology、The LSE Course、Language and Society 1-3 (choose between French, German, Mandarin, Russian and Spanish)。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-b025ca325e7c84"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAB We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-b025ca325e7c84"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、语言、经济、地理等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-b025ca325e7c84"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "37 分 总分, 包括 666 HL",
+            "source_ids": [
+              "UKENR-b025ca325e7c84"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-b025ca325e7c84"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-b025ca325e7c84"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、教学、教育、研究、政府机构、零售。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-b025ca325e7c84"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-b025ca325e7c84",
+          "title": "BSc Language, Culture and Society 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-language-culture-and-society",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "c3cf24739109698645e2dbd401627963d451834685e1866f20b70bccba99fc65",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAB；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-language-culture-and-society-3eaf0043ef"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "3a035ab2-710f-5302-8a26-deb5a3f2e6ca",
+      "name_en": "BSc Management",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-management",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-6b15cf2330eaad"
+            ],
+            "extraction_locator": "Official directory entry: 3a035ab2-710f-5302-8a26-deb5a3f2e6ca"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Finance、Microeconomics I、Macroeconomics I、Quantitative Methods (Statistics)。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-6b15cf2330eaad"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA, 包括 an A：数学 We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-6b15cf2330eaad"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、生物、英语、历史等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-6b15cf2330eaad"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, with 766：HL subjects 包括 数学",
+            "source_ids": [
+              "UKENR-6b15cf2330eaad"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-6b15cf2330eaad"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 37,500／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-6b15cf2330eaad"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、咨询、教育、能源、零售。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-6b15cf2330eaad"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-6b15cf2330eaad",
+          "title": "BSc Management 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-management",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "f6a593cc6fe8dfe67e4973cc5112fcd537bae15236358bbea0e3222e1ce0f1ee",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 37,500／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-management-11b07b959e"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "bdeb0ca2-ef21-51ef-a73c-5cf962fe098d",
+      "name_en": "BSc Mathematics and Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-and-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-985bcc2efdfd33"
+            ],
+            "extraction_locator": "Official directory entry: bdeb0ca2-ef21-51ef-a73c-5cf962fe098d"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Microeconomics I、Macroeconomics I、Mathematical Methods、Elementary Statistical Theory。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-985bcc2efdfd33"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 Where it's offered by your school 或 college, AS- 或 A-level 进阶数学 is expected to be taken及a grade A achieved. We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-985bcc2efdfd33"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-985bcc2efdfd33"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766：HL subjects, with 7：数学: analysis及approaches.",
+            "source_ids": [
+              "UKENR-985bcc2efdfd33"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-985bcc2efdfd33"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 39,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-985bcc2efdfd33"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、教育、管理。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-985bcc2efdfd33"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-985bcc2efdfd33",
+          "title": "BSc Mathematics and Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-and-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "98ae8c18010a29ca57219dc6bb861db50d3b83386f495df6aa421ec28b50299a",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 39,300／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-mathematics-and-economics-0143e946c0"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "0b140d5e-f085-55d5-99b4-531f47823a6d",
+      "name_en": "BSc Mathematics with Data Science",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-with-data-science",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-ec32d9bea93b39"
+            ],
+            "extraction_locator": "Official directory entry: 0b140d5e-f085-55d5-99b4-531f47823a6d"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Microeconomics I、Programming for Data Science、Mathematical Methods、Elementary Statistical Theory。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-ec32d9bea93b39"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 Where it's offered by your school 或 college, AS- 或 A-level 进阶数学 is expected to be taken及a grade A achieved. We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-ec32d9bea93b39"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-ec32d9bea93b39"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766：HL subjects, with 7：数学: analysis及approaches.",
+            "source_ids": [
+              "UKENR-ec32d9bea93b39"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-ec32d9bea93b39"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 39,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-ec32d9bea93b39"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、教育、管理。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-ec32d9bea93b39"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-ec32d9bea93b39",
+          "title": "BSc Mathematics with Data Science 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-with-data-science",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "cce9eb2bf1c5f6683f7270ea8bc710c6122ffbd88bf2fd72685700f882dfa00f",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 39,300／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-mathematics-with-data-science-066d946f47"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "b10ccb18-eff1-5d1b-90f8-94808930a371",
+      "name_en": "BSc Mathematics with Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-with-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-a3543c76d08c08"
+            ],
+            "extraction_locator": "Official directory entry: b10ccb18-eff1-5d1b-90f8-94808930a371"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Microeconomics I、Macroeconomics I、Mathematical Methods、Elementary Statistical Theory。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-a3543c76d08c08"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 Where it's offered by your school 或 college, AS- 或 A-level 进阶数学 is expected to be taken及a grade A achieved. We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-a3543c76d08c08"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-a3543c76d08c08"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766：HL subjects, with 7：数学: analysis及approaches.",
+            "source_ids": [
+              "UKENR-a3543c76d08c08"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-a3543c76d08c08"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 39,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-a3543c76d08c08"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、教育、管理。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-a3543c76d08c08"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-a3543c76d08c08",
+          "title": "BSc Mathematics with Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-with-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "5f6639e4aeb5c48abf38409e58ab4bfe65b5062b67eaa2089e9f6b8fa6a9e1a6",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 39,300／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-mathematics-with-economics-7a612112fd"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "28fcea80-e971-5334-9ee9-0f4ecbdf9cb4",
+      "name_en": "BSc Mathematics, Statistics and Business",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-statistics-and-business",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-a0853a68740157"
+            ],
+            "extraction_locator": "Official directory entry: 28fcea80-e971-5334-9ee9-0f4ecbdf9cb4"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Elementary Statistical Theory、Mathematical Methods、Microeconomics I、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-a0853a68740157"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 Where it's offered by your school 或 college, AS- 或 A-level 进阶数学 is expected to be taken及a grade A achieved. We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-a0853a68740157"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-a0853a68740157"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766：HL subjects, with 7：\"数学: analysis及approaches\"",
+            "source_ids": [
+              "UKENR-a0853a68740157"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-a0853a68740157"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 33,800／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-a0853a68740157"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、咨询、教育、公务部门。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-a0853a68740157"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-a0853a68740157",
+          "title": "BSc Mathematics, Statistics and Business 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-statistics-and-business",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "c1a2ca0abe196d61342ad969c8de984eb5b4a75a0d91d2d92f6167b8f7260a62",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 33,800／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-mathematics-statistics-and-business-e1415ecdc3"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "da344a5a-da62-533e-9f54-8e85631f7c5d",
+      "name_en": "BSc Philosophy and Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-and-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-42743f58319cd6"
+            ],
+            "extraction_locator": "Official directory entry: da344a5a-da62-533e-9f54-8e85631f7c5d"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Microeconomics I、Macroeconomics I、The Big Questions: An Introduction to Philosophy、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-42743f58319cd6"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA, with an A：数学",
+            "source_ids": [
+              "UKENR-42743f58319cd6"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-42743f58319cd6"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, with 766：HL subjects, 包括 数学",
+            "source_ids": [
+              "UKENR-42743f58319cd6"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-42743f58319cd6"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 33,800／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-42743f58319cd6"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、银行、咨询、教育、公共部门、政府机构、传媒、管理。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-42743f58319cd6"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-42743f58319cd6",
+          "title": "BSc Philosophy and Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-and-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "8d4b92fd951ad2e13295fbf7f69c6fb3e4e503a2c8abf121336154b888529f65",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 33,800／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-philosophy-and-economics-699a1a8289"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "5a37d2a5-3bfd-5d3b-bca9-4ed14dc6c9a1",
+      "name_en": "BSc Philosophy, Logic and Scientific Method",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-logic-and-scientific-method",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-f8e826fbc548c5"
+            ],
+            "extraction_locator": "Official directory entry: 5a37d2a5-3bfd-5d3b-bca9-4ed14dc6c9a1"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：The Big Questions: An Introduction to Philosophy、Introduction to Logic、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-f8e826fbc548c5"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-f8e826fbc548c5"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-f8e826fbc548c5"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, with 766 HL",
+            "source_ids": [
+              "UKENR-f8e826fbc548c5"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-f8e826fbc548c5"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-f8e826fbc548c5"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、银行、咨询、教育、公共部门、政府机构、传媒、管理。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-f8e826fbc548c5"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-f8e826fbc548c5",
+          "title": "BSc Philosophy, Logic and Scientific Method 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-logic-and-scientific-method",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "1ad6943ea71342f54995daadde3877d2efda299c477c1bec349aa509494cfe2d",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-philosophy-logic-and-scientific-method-df4f9e8165"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "a95f4d72-cb7a-574e-b728-186584bab473",
+      "name_en": "BSc Philosophy, Politics and Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-politics-and-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-c2e9c55909dd26"
+            ],
+            "extraction_locator": "Official directory entry: a95f4d72-cb7a-574e-b728-186584bab473"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：The Big Questions: An Introduction to Philosophy、Introduction to Political Science、Microeconomics I、Macroeconomics I。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-c2e9c55909dd26"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, with an A*：数学 We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-c2e9c55909dd26"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-c2e9c55909dd26"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, with 766：HL subjects, 包括 7：HL 数学",
+            "source_ids": [
+              "UKENR-c2e9c55909dd26"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-c2e9c55909dd26"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 33,800／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-c2e9c55909dd26"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、咨询、教学、教育、公共部门。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-c2e9c55909dd26"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-c2e9c55909dd26",
+          "title": "BSc Philosophy, Politics and Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-politics-and-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "d8728bfa11ebcb5f13467c76864d01ec841decfa671dfcbb8bfcec9d099bca79",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 33,800／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-philosophy-politics-and-economics-75927af431"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "32ece15e-e32a-559a-a734-c31bcd8a635f",
+      "name_en": "BSc Politics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-a4be1e58a21f14"
+            ],
+            "extraction_locator": "Official directory entry: 32ece15e-e32a-559a-a734-c31bcd8a635f"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Introduction to Political Theory、Introduction to Political Science、The LSE Course、1 course from a list of options inside and outside the department。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-a4be1e58a21f14"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-a4be1e58a21f14"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-a4be1e58a21f14"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL",
+            "source_ids": [
+              "UKENR-a4be1e58a21f14"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-a4be1e58a21f14"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-a4be1e58a21f14"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、银行、咨询、教学、教育、研究、法律、公共部门。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-a4be1e58a21f14"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-a4be1e58a21f14",
+          "title": "BSc Politics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "c1cd781214de33a36fdbf4296aec0388daaaeeddc6384b539cbf24017d14758e",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-politics-1079df2183"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "9026fa4b-9e02-53d7-b7d0-42196217ffa5",
+      "name_en": "BSc Politics and Economics",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-economics",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-32feaed9c91d53"
+            ],
+            "extraction_locator": "Official directory entry: 9026fa4b-9e02-53d7-b7d0-42196217ffa5"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Introduction to Political Theory、Introduction to Political Science、Microeconomics I、Macroeconomics I。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-32feaed9c91d53"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA, 包括 数学 We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-32feaed9c91d53"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-32feaed9c91d53"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL, 包括 数学",
+            "source_ids": [
+              "UKENR-32feaed9c91d53"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-32feaed9c91d53"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-32feaed9c91d53"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、银行、咨询、教学、教育、研究、法律、公共部门。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-32feaed9c91d53"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-32feaed9c91d53",
+          "title": "BSc Politics and Economics 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-economics",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "02390c4eaf29170ed4f236ebaeca45b26fdb7b0d4a0aeb16fa45cc2bbb5a9f26",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-politics-and-economics-1ccd1fd648"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "c474522f-7f3b-5f67-bfe7-30b989dccc0e",
+      "name_en": "BSc Politics and International Relations",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-international-relations",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-2e4149ccd2a939"
+            ],
+            "extraction_locator": "Official directory entry: c474522f-7f3b-5f67-bfe7-30b989dccc0e"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Introduction to Political Science、Introduction to Political Theory、International Relations: Theories, Concepts and Debates、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-2e4149ccd2a939"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-2e4149ccd2a939"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-2e4149ccd2a939"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL",
+            "source_ids": [
+              "UKENR-2e4149ccd2a939"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-2e4149ccd2a939"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 33,800／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-2e4149ccd2a939"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、银行、咨询、教学、教育、研究、法律、公共部门。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-2e4149ccd2a939"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-2e4149ccd2a939",
+          "title": "BSc Politics and International Relations 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-international-relations",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "d1cf4fe209c4bbe75cbbcfad9c95c5d39a47a3d3a035a293e6dc69baa25f3119",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 33,800／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-politics-and-international-relations-f522d2fef1"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "5ab12ca5-22d1-5646-a237-b72d822e21ff",
+      "name_en": "BSc Politics and Philosophy",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-philosophy",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-a8d563ba91cfd7"
+            ],
+            "extraction_locator": "Official directory entry: 5ab12ca5-22d1-5646-a237-b72d822e21ff"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Introduction to Political Theory、Introduction to Political Science、The Big Questions: An Introduction to Philosophy、Introduction to Logic。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-a8d563ba91cfd7"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-a8d563ba91cfd7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、经济等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-a8d563ba91cfd7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "38 分 总分, 包括 766 HL",
+            "source_ids": [
+              "UKENR-a8d563ba91cfd7"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-a8d563ba91cfd7"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-a8d563ba91cfd7"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、银行、咨询、教学、教育、研究、法律、公共部门。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-a8d563ba91cfd7"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-a8d563ba91cfd7",
+          "title": "BSc Politics and Philosophy 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-philosophy",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "ac71e0573abf2761ebe71cddf27ea9ae89e8b52f7b99c86866717f4ceead4b2a",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-politics-and-philosophy-7f56b9dbdb"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "68435443-c099-5647-a77a-cd9b255e5e23",
+      "name_en": "BSc Psychological and Behavioural Science",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-psychological-and-behavioural-science",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-7ac676bcb08022"
+            ],
+            "extraction_locator": "Official directory entry: 68435443-c099-5647-a77a-cd9b255e5e23"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Foundations of Psychological Science、Foundations of Behavioural Science、Statistics and Research Methods for Psychological and Behavioural Science、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-7ac676bcb08022"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA, 包括：least one of 生物, 化学, 物理, 数学, Psychology We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-7ac676bcb08022"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、生物、心理学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-7ac676bcb08022"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分, 包括 766 HL, 包括：least one of 生物, 化学, 物理, 数学, Psychology HL",
+            "source_ids": [
+              "UKENR-7ac676bcb08022"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-7ac676bcb08022"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 33,800／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-7ac676bcb08022"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、咨询、教学、教育、研究、传媒、市场营销、管理。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-7ac676bcb08022"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-7ac676bcb08022",
+          "title": "BSc Psychological and Behavioural Science 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-psychological-and-behavioural-science",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "446a8671ae5ce55dd310a5715c9867769ad3210e763d56f445bfdd081263677f",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 33,800／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-psychological-and-behavioural-science-7917dd881f"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "f970d52c-ce10-5916-833a-4a4bbbea532f",
+      "name_en": "BSc Social Anthropology",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-social-anthropology",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-56c13fa3bb9424"
+            ],
+            "extraction_locator": "Official directory entry: f970d52c-ce10-5916-833a-4a4bbbea532f"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Being Human: Contemporary Themes in Social Anthropology、A History of Anthropological Theory、Anthropology through Mixed Media、The LSE Course。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-56c13fa3bb9424"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAB We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-56c13fa3bb9424"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、物理、化学、生物、英语、历史等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-56c13fa3bb9424"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "37 分 总分, with 666：HL subjects",
+            "source_ids": [
+              "UKENR-56c13fa3bb9424"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-56c13fa3bb9424"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 30,400／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-56c13fa3bb9424"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：金融、教学、教育、法律、公共部门、政府机构、新闻、剧场。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-56c13fa3bb9424"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-56c13fa3bb9424",
+          "title": "BSc Social Anthropology 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-social-anthropology",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "f2708e148d420ba9458a29b864b3c643021dc8c70f22a5a893902cea2f9f0638",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 30,400／年",
+        "entry_summary": "A-level AAB；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-social-anthropology-ef1b777604"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "ac50cf65-d507-5c79-9d38-c69c5539f724",
+      "name_en": "BSc Sociology",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-sociology",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 BSc。",
+            "source_ids": [
+              "UKENR-68087bc0ab57a5"
+            ],
+            "extraction_locator": "Official directory entry: ac50cf65-d507-5c79-9d38-c69c5539f724"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Key Concepts: Introduction to Social Theory、Power, Inequality, and Difference: Contemporary Themes in Sociology、Data in Society: Researching Social Life、Sociology in Practice: Academic Skills and Professional Pathways。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-68087bc0ab57a5"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "AAB We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-68087bc0ab57a5"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学、英语、历史、心理学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-68087bc0ab57a5"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "37 分 总分, with 666 HL",
+            "source_ids": [
+              "UKENR-68087bc0ab57a5"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-68087bc0ab57a5"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 32,300／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-68087bc0ab57a5"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、审计、教学、教育、研究、法律、能源、新闻。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-68087bc0ab57a5"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-68087bc0ab57a5",
+          "title": "BSc Sociology 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-sociology",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "d4c06d2006153a673ddd33eaae42f976cfd0057342c661122a87406e8c21fff1",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 32,300／年",
+        "entry_summary": "A-level AAB；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-bsc-sociology-e76b45a683"
+    },
+    {
+      "university_id": "lse",
+      "raw_key": "eee15f2b-84f3-579c-9655-6c5c3c9d3fce",
+      "name_en": "LLB Bachelor of Laws",
+      "official_url": "https://www.lse.ac.uk/study-at-lse/undergraduate/llb-bachelor-of-laws",
+      "checked_at": "2026-09-12",
+      "sections": {
+        "overview": [
+          {
+            "label": "目录学习安排",
+            "text": "学位 LLB。",
+            "source_ids": [
+              "UKENR-c7e8f8703278af"
+            ],
+            "extraction_locator": "Official directory entry: eee15f2b-84f3-579c-9655-6c5c3c9d3fce"
+          },
+          {
+            "label": "课程内容示例",
+            "text": "课程页所列学习主题或模块示例：Introduction to Legal Systems、Contract Law、Tort Law、Public Law。这里只列示例，完整课程表、必修／选修及年级须看来源。",
+            "source_ids": [
+              "UKENR-c7e8f8703278af"
+            ],
+            "extraction_locator": "Programme structure / modules area"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "A-level标准成绩",
+            "text": "A*AA We also consider your AS grades, if available.",
+            "source_ids": [
+              "UKENR-c7e8f8703278af"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-levels"
+          },
+          {
+            "label": "A-level科目组合",
+            "text": "条件涉及数学、进阶数学等科目。本轮已取得完整原文，但科目组合、替代条件及例外尚待逐条中文整理；所列科目不表示全部必修，仅凭总成绩不能判断合格。",
+            "source_ids": [
+              "UKENR-c7e8f8703278af"
+            ],
+            "extraction_locator": "#entry-requirement__home heading A-level subject combinations"
+          },
+          {
+            "label": "IB标准要求",
+            "text": "39 分 总分. 766：HL subjects",
+            "source_ids": [
+              "UKENR-c7e8f8703278af"
+            ],
+            "extraction_locator": "#entry-requirement__home heading IB Diploma"
+          }
+        ],
+        "applications": [
+          {
+            "label": "申请渠道",
+            "text": "本课程页指向UCAS申请；代码、截止日期及特殊入口须合并查看本条和学校共同政策。",
+            "source_ids": [
+              "UKENR-c7e8f8703278af"
+            ],
+            "extraction_locator": "How to apply / Applying section"
+          }
+        ],
+        "fees": [
+          {
+            "label": "国际学费",
+            "text": "2027/28入学：GBP 37,500／学年。页面说明新入学全日制Overseas学生后续普通学年保持同额；其他学制安排须另核。",
+            "source_ids": [
+              "UKENR-c7e8f8703278af"
+            ],
+            "extraction_locator": "#fees-and-funding__overseas"
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "职业及继续学习方向",
+            "text": "课程职业栏目提及：会计、金融、银行、审计、咨询、教育、法律、政府机构。这是方向举例，未据此计算该专业就业率。",
+            "source_ids": [
+              "UKENR-c7e8f8703278af"
+            ],
+            "extraction_locator": "Careers section; exact noun matching reviewed, not generic substring"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "UKENR-c7e8f8703278af",
+          "title": "LLB Bachelor of Laws 官方课程页",
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/llb-bachelor-of-laws",
+          "checked_at": "2026-09-12",
+          "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+          "sha256": "e35b137f766c5f1b0e46fd261762f805871784291f42dcb84707a968ff8a3826",
+          "locator": "See each fact extraction_locator"
+        }
+      ],
+      "display_fields": {
+        "tuition_summary": "2027/28 GBP 37,500／年",
+        "entry_summary": "A-level A*AA；其他科目/考试见详情"
+      },
+      "coverage": {
+        "overview": true,
+        "admissions": true,
+        "applications": true,
+        "fees": true,
+        "outcomes": true
+      },
+      "detail_payload_acquired": true,
+      "research_status": "partially_enriched",
+      "translation_status": "brief Chinese structured facts; explicitly marked combinations remain for manual review",
+      "substantive_coverage": {
+        "course_content": true,
+        "entry_conditions": true,
+        "fee_amount": true,
+        "career_directions": true,
+        "outcome_statistics": false
+      },
+      "inventory_id": "lse-llb-bachelor-of-laws-81b399d983"
+    }
+  ],
+  "profile": {
+    "university_id": "lse",
+    "checked_at": "2026-09-12",
+    "sections": {
+      "admissions": [
+        {
+          "label": "普高／高考加AST",
+          "text": "普通高中毕业证单独不获接受。高考配AST可考虑：AST对应A为210、A*为250；专业要求A-level数学A或A*时，AST数学须250。官网未给本轮可用的高考统一百分比；课程科目和成绩仍须单独满足。",
+          "source_ids": [
+            "UKENR-d04435c0153d43"
+          ]
+        },
+        {
+          "label": "英语共同要求",
+          "text": "IELTS Academic含Online：总分7.0且各项7.0，同一次考试；须在入学年度9月1日前两年内。不能拼接不同场次单项。",
+          "source_ids": [
+            "UKENR-b93631745ddc9a"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "2027 UCAS常规周期",
+          "text": "适用UCAS常规截止的2027本科须在2027年1月13日英国18:00前提交以获得平等审理；医学、牙科、兽医等部分课程在2026年10月15日早截止。课程可另有特殊渠道，考试报名和材料日期另核。2026年9月12日核验时常规截止尚未到。",
+          "source_ids": [
+            "UKENR-6ff2a5ce1a9f38",
+            "UKENR-f5da9307fd5b4a"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "国际费用与奖项",
+          "text": "本批43项课程各自提供2027/28国际年费，并说明新入学全日制Overseas学生普通后续学年保持同额。奖项数量、金额和条件按年变化；Home bursary不能当作国际生普遍资助。",
+          "source_ids": [
+            "UKENR-ce3aa8164ddab2",
+            "UKENR-e056d20605f1b3"
+          ]
+        }
+      ],
+      "outcomes": []
+    },
+    "sources": [
+      {
+        "id": "UKENR-d04435c0153d43",
+        "title": "LSE 中国申请资格",
+        "url": "https://www.lse.ac.uk/study-at-lse/international-students/china",
+        "checked_at": "2026-09-12",
+        "supports": "高考与AST、普高资格限制",
+        "sha256": "7bf4e781f347400f022f141065fa698c47a1e705e3503a0ca659a6779f3a7650",
+        "locator": "Undergraduate entry requirements"
+      },
+      {
+        "id": "UKENR-b93631745ddc9a",
+        "title": "LSE 本科英语要求",
+        "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/English-language-requirements",
+        "checked_at": "2026-09-12",
+        "supports": "IELTS总分单项及有效期",
+        "sha256": "470615ac7ae7f8eb2362eecbf7101bacc5dcee70986cb7df4b25bd295c7a5121",
+        "locator": "IELTS Academic"
+      },
+      {
+        "id": "UKENR-ce3aa8164ddab2",
+        "title": "BA Anthropology and Law 官方课程页",
+        "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-anthropology-and-law",
+        "checked_at": "2026-09-12",
+        "supports": "专业学位与学习结构、实际抽取的标准资格、费用和职业方向",
+        "sha256": "41f7aa516cede081fcdf629913a0d4aea2228131474b2f8dd122e9a87a429aba",
+        "locator": "See each fact extraction_locator"
+      },
+      {
+        "id": "UKENR-e056d20605f1b3",
+        "title": "LSE 本科费用与资助",
+        "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/fees-and-funding",
+        "checked_at": "2026-09-12",
+        "supports": "Overseas奖项按年和个人条件评审",
+        "sha256": "f652100e411844ee8441db21bb72bbc0f2948fed957bbecc67e4f025881a6a15",
+        "locator": "Overseas fee status students"
+      },
+      {
+        "id": "UKENR-6ff2a5ce1a9f38",
+        "title": "UCAS 2027平等审理截止",
+        "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+        "checked_at": "2026-09-12",
+        "supports": "2027年1月13日18:00英国时间；迟交不保证同等审理",
+        "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+        "locator": null
+      },
+      {
+        "id": "UKENR-f5da9307fd5b4a",
+        "title": "UCAS 2026／2027申请日历",
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked_at": "2026-09-12",
+        "supports": "2027申请提交、牛剑和医学早截止、常规平等审理截止",
+        "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+        "locator": "2027 entry application deadlines"
+      }
+    ],
+    "coverage_notes": [
+      "本轮未核得可统一覆盖全校本科且适用于中国大陆学生的毕业统计；具体课程职业方向和统计适用群体须看项目记录，学校共用就业率留空。"
+    ],
+    "coverage": {
+      "admissions": true,
+      "applications": true,
+      "fees": true,
+      "outcomes": false
+    }
+  }
+}

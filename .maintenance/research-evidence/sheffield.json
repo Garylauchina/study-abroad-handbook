@@ -1,0 +1,1103 @@
+{
+  "university_id": "sheffield",
+  "sources": [
+    {
+      "url": "https://sheffield.ac.uk/international/entry-requirements/china",
+      "sha256": "22d094414b790dcf3d647b6467e98cf74d95457e49025053cf0cbdaa8d109ebf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-she-china.html",
+      "locator": "Undergraduate programmes"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/entry-requirements/english-language-requirements",
+      "sha256": "e6eb75fddb0bde969776af6261ef332bd178e5007ac3ac112550a1ff3db7c162",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/english-policy.html",
+      "locator": "Undergraduate applicants"
+    },
+    {
+      "url": "https://sheffield.ac.uk/new-students/tuition-fees/undergraduate-overseas",
+      "sha256": "9183d137f146c7cc12fe38c1f11799b7ddfe2877e6d5da92fd3cf1fc82eb0249",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-she-fees.html",
+      "locator": "Undergraduate overseas"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/undergraduate/international-undergraduate-scholarship-2027",
+      "sha256": "5fef2fcfd34a27dee4c57b9a52f5b769b1915f6b0b9eb7de0e1f0079dd8b840d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-she-scholarship-2027.html",
+      "locator": "Eligibility / Further information"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-ba",
+      "sha256": "a91f6b4285fc52028890489d1b03d5e5736cec3f2979c3ddcb092a0ece3811ed",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-0477c8e19dbc42.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-and-economics-ba",
+      "sha256": "c9952008a2cd065c076e5df1a2bd00cb29a372adbdbe3c4cbb1882b4b9978821",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-8ffca94e648fc2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/aerospace-engineering-meng",
+      "sha256": "e521c2b3edc8f28dda3ee67d2b0512b9c228972712020796038c48bd0439b328",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b2a6dc106a62bd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/aerospace-engineering-beng",
+      "sha256": "9e1a13330541d9034bcbce4d349eb4beb12c3d6d1408bdfddbf92a00c4aa3eea",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-9ebce8d38f31b5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/aerospace-engineering-foundation-year-beng",
+      "sha256": "f1d57be722bd5054eb5f9d98995861cb328924e3246c76ede9aeb2b200ad577d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-33e92f24a806db.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/aerospace-engineering-foundation-year-meng",
+      "sha256": "a5610b73cb930e0903a63440c0e65a3b843889d88360b8d698ac002ce1694aaa",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b972b222d7a78f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/architectural-engineering-meng",
+      "sha256": "b46c2b1e1329c6c75dae12e4d246a6f3635c99ec34c5e04dedc7c79f30bf09b0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-393d9000dacaa6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/architecture-ba",
+      "sha256": "71a72ac78a0ea5aa8d6a324e17cdf81332b6b1a2ffd6a259a3a23bb2b6efeda2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-589fde0361068e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/architecture-and-landscape-ba",
+      "sha256": "4d044d7ba49b75fd0492cf59d50c836f8767f7a513e98d99d7991fb84e76fc6d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-132ea4861cc5db.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biochemistry-bsc",
+      "sha256": "978e397679167326b7530f67c19e2fd19e67ef36134b16616bfe398f07dc0b74",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b0c4f410dc443e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biochemistry-mbiolsci",
+      "sha256": "bb0b67655850f53418ac842146d259051fae4463e7d19e2d22f0361bdd986d99",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-37ad45f439981a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biological-sciences-bsc",
+      "sha256": "57c0e388999b7ce919fbb3c6e08cb43ff03a1daaf5f90f381e09f021ece5da24",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ec166d5c634d39.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biological-sciences-mbiolsci",
+      "sha256": "4e5af62e29bda4214522343f76aec71a6ae45e1bd752913e9865a74bffba8bb8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-28d67f12f9ea69.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-engineering-beng",
+      "sha256": "6749844750b7482c9c255b4785a74759db378090bedd8b677c9b19faffbc6b70",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-12ab05b085a86b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-engineering-meng",
+      "sha256": "451c0ffb3c3d6c455e337c0ebbd0f1f3ef76b5954a857aecbcb06e710384226b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-33876fa2627e5b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-engineering-foundation-year-beng",
+      "sha256": "ef07fa5b5f249a84fcc4827360bcf8f481ffb130f5f709b1dfaf527cdedc275a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-6bf044f31a7c61.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-engineering-foundation-year-meng",
+      "sha256": "bc6bf98248a662162feeecc5d8f384dec50db80cb3d2592c558641998d8f7915",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ff0a5c91b734fd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-science-bsc",
+      "sha256": "74cfc545eca7eb88eb1b5d0103c28dd1a6ff6115e31df848ea45d470204936a4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-768be57fc7b00e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/biomedical-science-mbiomedsci",
+      "sha256": "fe725e02215d2e94e67f61f9d07878c4c9ca13295fc3e89652a052f526c0cd96",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-9a0b6c4e3a1f3e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-ba",
+      "sha256": "bfd9b6abec602600b7f73b6446821d5a3f7fc806f9c21684956bed3477d7dcd8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b5c3d405e951bb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-economics-ba",
+      "sha256": "3910edb7f23eaab557e94c1b45aa8cf33183eb7a9a992a88b4022be7d171f274",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-cda6acbab035ed.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-modern-languages-cultures-ba",
+      "sha256": "a94306d18463ed00d53f0f5fbd81cea8de04df44e60b73039a663f2208c55791",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ea8123db38f6e3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/chemical-engineering-beng",
+      "sha256": "a8a1e623825a96c49269d5502be0561def0a3a7245ef739119ff493272b123e9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-9ab4035a54e028.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/chemical-engineering-meng",
+      "sha256": "a3046da72e73f2f0ef7ebc6505aa12db87765a836c400f03123935c6d3b1d2da",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-692a28d5243de3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/chemical-engineering-foundation-year-beng",
+      "sha256": "f09b17dd578197f552a1ce2dd01646ed046e41e02eb6cd96dd588303bad87089",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-fe4f9931765b41.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/chemical-engineering-foundation-year-meng",
+      "sha256": "90251f44d44de7761cbcb36e0255dd43d581b3bbe5bf80ffa17a12135cde44fb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-c75b27056d7f28.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/chemistry-bsc",
+      "sha256": "7e0c1f7ec30321fe4023a2d720ed3c1927af103b6085dbe7fd23278f010a2ddd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-5adb9a6d664b2c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/chemistry-mchem",
+      "sha256": "ed1e74e660cef0e6ee79c90c647176d21969ed6d375822db672d9e12a638bfe2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-1b2ac15b2fc03f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/chemistry-biological-and-medicinal-chemistry-bsc",
+      "sha256": "2c2175fd215fbc4fab910dc0ce2e32073b72c3e57089b7b776c9da79c049d28f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-f801b1a37e3c07.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/chemistry-biological-and-medicinal-chemistry-mchem",
+      "sha256": "773a70a15ab788e05b1e37c31ae3de5251993531743be03a7379b48c3d507cac",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-41176a5fd8e7dd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/civil-and-structural-engineering-meng",
+      "sha256": "072eaba9fdebe1fce6bff94923f57193265c16ba5b68b420940005989549b21a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-be8ec324f7facf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/civil-and-structural-engineering-foundation-year-meng",
+      "sha256": "b825f2acd1cfcbb6f6c6aeb73349be2b27884994f348e421db71154319adce7b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-928ed3000ffaf0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/civil-engineering-beng",
+      "sha256": "dd3bf0f4a85c5245ef0ffa282f630dcd17ad1df32dad8bd56be9220ba4a173cf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-68cdb4ec7ba746.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/civil-engineering-foundation-year-beng",
+      "sha256": "c509142580bfff6c7e3610f0546bd06fd973cc24853eb987ce126c6442b60da7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-635691b0856975.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-bsc",
+      "sha256": "9161280dffde5d2a6c116b136ee2d7ef8bc2f5f06780f094c8b4fc802fad0630",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-8b79ab4c7d6018.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-mcomp",
+      "sha256": "10cf0a33b2bed8a0d85e08ab9a6314a8d6477684b26596a308b88bfdba7ac06d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-937d1695206310.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-artificial-intelligence-bsc",
+      "sha256": "46d7c58b6c553146ae9e881c1de46711e2a233e2cfe62c53bd093910280baeea",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-7d94798711a785.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-artificial-intelligence-mcomp",
+      "sha256": "6bf33b00835f0c50bbb4f9feaafaa6d72e358c802313e7ac5795d31ee7f30460",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-23fdc2ee496548.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-artificial-intelligence-foundation-year-mcomp",
+      "sha256": "599a7a25e42b55262ace7722f25008f1340d92a79dccfc87b92ae1e1815397fc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-34ae56cac5f14f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-artificial-intelligence-foundation-year-bsc",
+      "sha256": "ccb2a4b4db45d0b7b74220c5279a5f389bff9e32c2cf836968fd0c177873a2a2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d26ccc6feba569.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-software-engineering-beng",
+      "sha256": "8fcb8c294619cf3e9b5155650b9868cef8400aec255b3b1f8fea29ff92abeb17",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d96d47e212f71a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-software-engineering-meng",
+      "sha256": "9a4f19a4bb1b172a98692f4a1a4532ca0ca96ac86970d173317ccd2289d35c76",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-97dc71c01a9737.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-software-engineering-foundation-year-beng",
+      "sha256": "c5e813560d726a2155af316ec438df72df8b649de88ac526247e0bb557cae6e7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-1cae1322fdaf37.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-software-engineering-foundation-year-meng",
+      "sha256": "55e0ee60acc58b9176d55b244c62ab6147c620975673b626211fd281a2def607",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-bd188826b17e16.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-foundation-year-bsc",
+      "sha256": "1a2d51ce74445c5f23c5ad57839c39dde76653954624d927cd899ac2fed1f4ae",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-09f145e16bf376.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-science-foundation-year-mcomp",
+      "sha256": "72fbf78f5d9df132f22650169892f09cc7dd72ccd080f3679064c94f67666836",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-3d2293d5c55be7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-systems-engineering-beng",
+      "sha256": "06bc554e99f7f5f4effd958b72a7c8df1ecf87623ccef24097a8f095b06baac1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d5717c7ab63f43.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-systems-engineering-meng",
+      "sha256": "c7e885859857761631c227ea085cf5d3336a302b5d2a41d7f8e4dfc071d321ef",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-8a9d4aa83fce35.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-systems-engineering-foundation-year-meng",
+      "sha256": "80ffb8107a291c7c9ec7cb4919a7b959a080a6386003e64614c52a888662951e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b46293781f701b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/computer-systems-engineering-foundation-year-beng",
+      "sha256": "643f57405aef9fe876d653dc0ae6831a98d69f49310994f59d2ba3b087a3b8ca",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-1639160d4557d8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/criminology-ba",
+      "sha256": "b6093a0574c9dfe3073af034cd7649d97fc2c49520256f198b8a6a5d99a4a8d2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-9424d4f143c942.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/data-science-bsc",
+      "sha256": "8893a8236e2d02dd0892bd4b183ded1f2fb0c4f08cfe921bbee4b959437624c1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b7dd143488e400.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/dental-hygiene-and-dental-therapy-bsc",
+      "sha256": "0505cb411deb64effefdad6435752a5f6a8fc3b3ffcd9b4ab05615de35e6edd3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ebd3b161a67df7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/dental-surgery-bds",
+      "sha256": "fad507b2365a85cddbeec56c7036e9ddbc5cd3bd0d234199906f2c7404fb49f8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-1b10a83c173e39.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/digital-media-and-society-ba",
+      "sha256": "a9bd7a237ec92e8972dafcc2d7709016a291425e7498e148cc697a30883e9d33",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-12cca2cbe3619e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/east-asian-studies-ba",
+      "sha256": "6a3584d23929a4885cc23baa2989a0e3998d0803f3e684d17f25909997181cb8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-85124ea6dd1a21.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-ba",
+      "sha256": "9119059ffdf05b4799c56ed77d48ca2a480bb9a88f59f7190e4cf0708ba64800",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-96b07808948b56.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-bsc",
+      "sha256": "7f392a75e95317d0c9dce1f134de574c63efc99b4b1ba48e67029ca67ce9eaec",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-28cb062213cab4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-mathematics-bsc",
+      "sha256": "8759de04f54c0d0faa918753d119e5d4ff139adfd9c2f02656eba946cfe1e5ab",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-4f279c29b66091.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-politics-ba",
+      "sha256": "c1d6f9bf1f48bf966d70a4c24416367d03766616f2b07c8c0e7be134fe788898",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-c55785afc5325d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-finance-bsc",
+      "sha256": "6073eb63400ef7373f64d953a4e74f32e71d683b0cdf1adcaeb774cf796a2459",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-e2ea513685f5ec.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/education-and-psychology-bsc",
+      "sha256": "07284f75da49ccb83bae6f46fbc751f58ce7d56c8ea1fe76b04927bae176a0c2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d5e4083d02788a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-beng",
+      "sha256": "df5d934bf259a62232ba40ee5361fb7d2ea6216cd4c36d08181a50c640a6dbd9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b5d1099ac13f30.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-meng",
+      "sha256": "74c36737354f17580a7a25d11d5f8b7cf03a03e7788d0e8e6bcf0efd4fbbcdaa",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-95d5ae2e627cf3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-foundation-year-beng",
+      "sha256": "92b1f6276e347c762965c2a294a4b192ecc2705114274e62a88c94ed9d35aec3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-3ed81a4610ac65.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/electrical-and-electronic-engineering-foundation-year-meng",
+      "sha256": "07ec6b47298aaa1b76fc1c822afd2f644fc2b1b9a0e2da640cf91739b221b6f8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-8aab2ec2b6500e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/english-and-history-ba",
+      "sha256": "a37356cbff86f4a1b254677efea76dd37e43ac751924fc00b822d5751829bf3b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-1bf7ed172569eb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/english-and-modern-languages-cultures-ba",
+      "sha256": "1ced5ce9627c62bfd517e1aeb54fd370784e419916fd07afb3f238d3d3d2a9a9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-605e2d7cf35ade.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/english-and-music-ba",
+      "sha256": "fb5b956489fd76a6c30c8ed1a59226cb342d71f5591f25daf4a9d3352975407f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-e6902687de8c15.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/english-and-philosophy-ba",
+      "sha256": "af254681a98dadc203f3a9c955d1d4d001afe4f9e515dc5ecb4c32bc3aa3bd8a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ba06b2d2c3ee9a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/english-language-and-linguistics-ba",
+      "sha256": "26edede4777b5c65e7e7fc9eb17ec02e3bb4f152d1392c86a17ea499de066efe",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ec71db70a5cbc1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/english-language-and-literature-ba",
+      "sha256": "fa49a4072ebeed5668ec2b4b9d7452ce818ded305966e81f07ea0cc611e3750d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-3ddb774e596703.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/english-literature-ba",
+      "sha256": "bc3736a3245f6f340eff1adc48465cce229552074f87725065ec9a5b5040a8d7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-594593a286c642.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/environmental-science-bsc",
+      "sha256": "3bc7efe5b709dbd6228c7c9864c96dd4e6b48a2f5c31ee8ad5777dc797344408",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b5efa5bf65ab47.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/financial-mathematics-bsc",
+      "sha256": "844a5b196c16417a31d36f03630900640d6fd29f3b1a77a00f5b70b5d0f2e6b4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ca9e6203dd3a75.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/general-engineering-beng-hons",
+      "sha256": "e2f170dbee106d0ccc50c7e4d8bdb5ed0dee0ab780e28bcdc8a3b30eddf8c0dd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-074fbd00880f61.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/general-engineering-meng-hons",
+      "sha256": "36d91f7d99718c2e4ac6ee02256fcbc0b7f5b13034b6af3a7127492147a50f60",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-9990f842e8bde3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/general-engineering-foundation-year-beng",
+      "sha256": "ca7fa9874408889ff4904a4a502bb840b5a83ec73028d86a6f7d1ecad7fcaa1b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-4f86222fb305c0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/general-engineering-foundation-year-meng",
+      "sha256": "9068afbbf8daebcd1e327e7d1a32263fab60f14d00846de60f9d931b230ca31e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-80e29ca486c280.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/geography-bsc",
+      "sha256": "82c1ed1c399f883ea2665fecc90f70361ee1b08159efdcd0a8107a2346d3faa6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-1b3f77f7ecfeb3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/geography-ba",
+      "sha256": "06c359dd5e0dfe8a3180e8d7332053f7425d28cecd869cd2223998c4c06be5bb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-9f3a24b165ee46.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/geography-and-planning-ba",
+      "sha256": "cd22442711e3c89e09fd8a14abd86646c36dc3e09d954f16b97ed58510e43d39",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d8243c6dc9afa8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/global-sustainable-development-ba",
+      "sha256": "e6c2b77dc6c820e1c06720f324f7ef2dbf8b9679e69582ec32957d2f08ecd3e1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-4725c1afa0deea.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/graduate-entry-medicine-mbchb",
+      "sha256": "592902e2cfba096b534de4934a3bc92f4ef98ff8658dc5a936ea0c3ca7840f7b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-46359060cfa43f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/history-ba",
+      "sha256": "1b2ef60d357198a01345ced73808c8f5e467601ecb1b73f4bfdc4031c40ad23e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-73578e31f2a336.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/history-and-modern-languages-cultures-ba",
+      "sha256": "027ad2fa7ceff4adebd33b349a6abd124d9ef4fd757e2d395eae1c9f7bb84b9c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-6b42403e0b54f9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/history-and-philosophy-ba",
+      "sha256": "858e1e2f4af14072140069ac3f9147c94af547b01c49664f17ec27e2bd97e377",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-544abf61ffa6b8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/history-and-politics-ba",
+      "sha256": "a883cadc024e8a2d9dd3a5c9e970eb9b30b78429cf08f3316fd068dc090d86af",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-140667e47c88ed.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/journalism-studies-ba",
+      "sha256": "9dea0f2217d70cbc2a8b51a123ce057a962902aa62103523991f10ca73281254",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-93b5e7f10cbe6b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/landscape-architecture-ba",
+      "sha256": "24395410c29af1876138c48744c8664039aa9b8e300033648982246e65818183",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-de36b086dbc311.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/landscape-architecture-mla",
+      "sha256": "c3dbb3fdd6bb9b01b82c6864dc7e34dbaa1f4040d8f354fa552d56e2514dcf6b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-7aa78855153c56.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/law-llb",
+      "sha256": "669bf8107e7793a4810216319bfb445c7ce675953cd7dfc76a5b2bf770a73da7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-a24f44831cbf8b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/law-european-and-international-llb",
+      "sha256": "33b43744b45887b05c4b5601befd0944e0bae395238bd087807158857253c3db",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-33518da4096fec.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/law-and-criminology-llb",
+      "sha256": "acbbb04453cf7273b28e87321bf8b91ec24fcad65d80aa11d79b7b60431da901",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-518b348446f64b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/linguistics-and-modern-languages-cultures-ba",
+      "sha256": "03074c6a99a2c9f0ab70e4ec9c984829b48aae01ec9436a567edc5d95ffa1e43",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-24d822d7d1e48a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/materials-science-and-engineering-meng",
+      "sha256": "a554da44707127f762f921f5294708f23719b7ca8bf80eb8478300c630902b18",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-9a3c284a4d5643.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/materials-science-and-engineering-beng",
+      "sha256": "37af6dee9a1a1c4cdb6767d6962d733b364f1adb5ce5a1d4a4f5d03cb22d96d8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d1147b2b046105.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/materials-science-and-engineering-foundation-year-beng",
+      "sha256": "c95c99162adcceca9a7ef8effc778e819f7d1ea6b8a7e669f7b64e5fcd57d790",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-eb6428cf8e95a8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/materials-science-and-engineering-foundation-year-meng",
+      "sha256": "ed3530d35008d349c77cb1ca5069144e40b080f129dda0229775911fe94c7313",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-c66f46448f69f4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mathematics-bsc",
+      "sha256": "afe727f37e9ab26b5820653b9d180ea53fb3861f9a50c0adbfa465bb4e6201e8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-5cdd74f44f818b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mathematics-mmath",
+      "sha256": "3db80e41045030877b7e189e5da778eda3666a8efc88341136e4cb0a83162201",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-68a955284228d7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mathematics-and-philosophy-bsc",
+      "sha256": "be912366103e2bafb35fce349b5822beea3807bcdecd88625fca4404fdea387b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-387b5735c6d229.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-meng",
+      "sha256": "cc7fcc8012d32abfc92459a0c99b9d74a15350aba84e91b2dd8a9e282425a6a8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ab8e306068a3df.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-beng",
+      "sha256": "5d33f7290db4964b9330658d8f86281db62c10c739422f5732026e74f8e9449d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-6d3bfdc47faec1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-foundation-year-beng",
+      "sha256": "8cd2ffa8206880e915f1b942458fd015f65a2f84ca3210865eca98fd2ff7a1f5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b7e4b964e7cae2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechanical-engineering-foundation-year-meng",
+      "sha256": "29bd8f6dbb05474716d19497d92d410c9443317bac233678db88ace391bbd541",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ec1ac0bd43ae5b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechatronic-and-robotic-engineering-meng",
+      "sha256": "9ef4ec8cf257886511707881170eb0c7652e865725cfdcebf7d268ff3207946a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-9d1127f5b20b66.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechatronic-and-robotic-engineering-beng",
+      "sha256": "3fca686cdbb9597bbb526890b4c9b93ef05ffb97f05de088f63b208b0e253c76",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-bee05d0220e42b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechatronic-and-robotic-engineering-foundation-year-beng",
+      "sha256": "1576bd6d34269f2200c582ec2164503ebd5cdb6731a11d486dc4b1424d41532a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-be8395239f1100.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/mechatronic-and-robotic-engineering-foundation-year-meng",
+      "sha256": "b99e61b72fcf771d1c857aceb707afb405086b6bd2ea78c2296fe225399b84fa",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d9275adaeb86a4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/medicine-mbchb",
+      "sha256": "b27d26e03c01722b79dcd9cbea888a235609ebef70957d39e043d10c0970dd73",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-bae4b895cc01ae.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/modern-languages-and-cultures-ba",
+      "sha256": "e34b97dfe23d0215d784b43fd1bbded1bbb197f2e0f10e135c5729c92458ab78",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-43b57f1e000405.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/music-bmus",
+      "sha256": "de12af0ed6df7d745467168d09d3b38df20e7cc133da0af77069eeea8479a2ac",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-013c9abdb8ec22.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/music-and-east-asian-studies-ba",
+      "sha256": "45705c6d33998dc03d6522607db29b36062354e1428db3f31000698a776c04c4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-62f11b9400da80.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/music-and-modern-languages-cultures-ba",
+      "sha256": "16db3ee1099057a9e55e3b7ffcbb1e0b88d01d0190c0de10e4d3d40ef3746228",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-eadb8df126364a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/nursing-adult-bmedsci",
+      "sha256": "82965dbd30ec04519fe2b715e393f3e2677f1e50456baef68160179b582ecee9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d5e1ed3c69e525.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/orthoptics-bmedsci",
+      "sha256": "2b56a8795fe506f235df9c750b29e4ac9e9cff38ee1a3889046c3d1560ae509f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-6774d686167edf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/pharmacy-mpharm",
+      "sha256": "e5bfa4cab844a85ae1d3a80fb6fce043cbe0fca32669114010c2ac09001fde36",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-0cd841a6f49753.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-ba",
+      "sha256": "7da115905fee4d5a4929219c0d6fee1bd428483fa123da3c10eb5ffcf31568ba",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-69a909353f12d2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-politics-and-economics-ba",
+      "sha256": "0075b8ebc53c2783ad3c05f7b52a0ca65d8e39632dc035a5be27d0af89ef1666",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-2b518250737dfe.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-religion-and-ethics-ba",
+      "sha256": "07c099353ff6b1e775cc0a9dde63a0f447286a29dcad4b99355b35b0713e0d1a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-19595c20880c15.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/physics-mphys",
+      "sha256": "12b9477f7f2b2b9337a551d2717d834a2da9461eef58a82cfed1605430a36c2c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b3ec8a55aa7bb5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/physics-bsc",
+      "sha256": "45c89f675ac7006e87d235736ffac6fe7c9464bc9f37a0ce6cde0ad798cc4134",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d0f378f033f702.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/physics-and-astrophysics-bsc",
+      "sha256": "5efc312ba1c4cce886d931e168251a96505e58c4ca2e1316262a762137c51620",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-2bacbb7660634d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/physics-and-astrophysics-mphys",
+      "sha256": "37c2e6a654c24158f9ebf7e4f8de26d52fb5b906c651764d3e69cbae0c43bdcc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ba920d47dc1929.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/physics-foundation-year-bsc",
+      "sha256": "e204a6b3edea5ad9183a11eed4c854d92ba81b0e7a673356dd6e0438b2289677",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-02330db3c18c3c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/physics-foundation-year-mphys",
+      "sha256": "ffa16c5fe5561e8dd5fce063b1b6219a315ef310c728e725e17026546be2669b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-2b8a233aa5b8cb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/politics-and-international-relations-ba",
+      "sha256": "0742a1113990d9e6ea0caf26a3414b9edff2ff1d2520b0161b2be1fa935f056c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-2456f671da4880.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/politics-and-modern-languages-cultures-ba",
+      "sha256": "334c44321d8dc625f16b690e3bec39b5f42bacf3a616d7a126a128f2d1afdbf8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-bb2d264e08c793.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/politics-and-philosophy-ba",
+      "sha256": "fe405651719a418263f4ab1016599e900b583aee0c3054e119b137da6f62c13e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-6f9c95bc2c2cba.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/politics-and-sociology-ba",
+      "sha256": "854f5ce69721bd2a919d946a6ae6ff2b3b35433e1aafcbb96c6e83233c4a12d4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-8316bc4ec01bfa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/psychology-bsc",
+      "sha256": "c939d0a0bce1e9f9922775f0e2cf40be5440e73f1649d6da9277e20906ff3345",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-1e31dda8e3f17d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/social-sciences-ba",
+      "sha256": "51f9d6e7a2b19ed128faf80e6f91cd158850dd7e80fa427314a28efbf625f20c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-c9ede607a59a6e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/sociology-ba",
+      "sha256": "4c9baffdeb9dff009000d5c61ea5bb9c884facbfd8b64475b6231e0e2cd6d5f8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-415202194a19e0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/speech-and-language-therapy-bmedsci",
+      "sha256": "44c7ea29f7b56f237f3b9d512a2d80b0703f094f4551915cd6156db0cc54bce9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-c96e836c267c90.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/theoretical-physics-bsc",
+      "sha256": "4566e946b0798d625fd1c5cc67f5173ebef59c53ed3eb41bc31bf5cd63311afd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-4235d5deb7f38f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/theoretical-physics-mphys",
+      "sha256": "dcdd29f5f4093f9e79fa2a64d5101887121849d078e1734a52fa723076f9ad43",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-df1c020d76e3aa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/urban-planning-mplanug",
+      "sha256": "7f3669b24bd7d29490542495343ff857de1df876e62e2c88e801ee18380373c6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-eb6f1847050d03.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/zoology-bsc",
+      "sha256": "a9cf9d7a9416377ef0b5edf642058c11c58d408d1fa90d91a9b0950168d83710",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-68f9d9c86d51b8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027/zoology-mbiolsci",
+      "sha256": "d9ad02c30a4b74a930aec60a7ecd027a5e108f7e25d48398ce3f5c33059db0de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-677e3f525d2d97.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/criminology-ba",
+      "sha256": "c86cd8ac0df5457604c3bb9bd6344176550d1d5f3a2375c1db6ab830206f6a2d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-772ccaf363c882.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/east-asian-studies-ba",
+      "sha256": "442fec7f796e77894cc6c000e1d965e5740ea96d8066ee1298643858a514c812",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-59b26b3a9596ca.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-literature-ba",
+      "sha256": "466ed5c602b4b7c0890241a588aca68bed0f6a5d6847466664edc30f44b323ef",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-31484a22fe57c0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-language-literature-ba",
+      "sha256": "9defd0cf52e34378e5dbc950e175997b1cbcc3c623e8f5b54d6633bce2aa1557",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-a0cc5d3cf1c761.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-language-linguistics-ba",
+      "sha256": "44a36ec285960889cce05aa01a92e43b2ffd8d195163d1859058ded0057c9c99",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-724ba76f9a292e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/history-ba",
+      "sha256": "aae2440d3f430d0d52f4ab0cb5bc35abc3229b9e320ace654acefc323f81a304",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-7e4ba6af204388.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/law-llb",
+      "sha256": "5dd64fa5b52bd7b754c5b77fd5ce10aff2babc002dc4277fbecafdd30667125e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-45c4454b4fe63e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/modern-languages-cultures-ba",
+      "sha256": "5b6862443d882a7f05b1a6fb9f2f4290e72a4460d0b6fa68758ef92655005f37",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-95e9f03c198ccc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/music-bmus",
+      "sha256": "27826b12efd7e9593f70931a5112a537051d8796157de080419183cc062b4ba2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-29a0e065db89df.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/philosophy-ba",
+      "sha256": "9752abb1a8563c01336383246bdeca5595cde19d19501b56d701619885e1c4be",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b494cf4b938ed2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/philosophy-religion-ethics-ba",
+      "sha256": "a85d3a3bda11d593d5ed9d78f1bdd70d1548f70dfa050e4a5843cdb77787031d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-e45be861a87c50.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-history-ba",
+      "sha256": "119de94bd225847c61430151e3496a6c2d7d86ee2dc678b1e32983de26918a55",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-356e866a99507a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/english-philosophy-ba",
+      "sha256": "6bf1b04297425cd11df3dfb6c9db5d496898f717b4e830f78a518e903a4bbc81",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-0ad8c924eedaea.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/history-modern-languages-cultures-ba",
+      "sha256": "1300c3daa9cdbfde1cb97c98e07a16f79f01f599f1841efd6f956864a51aea46",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-25841a7ce754bb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/history-politics-ba",
+      "sha256": "e119d71758984cd27f76d0582931eff9a6a006141d27715ee0fe6122b593051e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-cd360d9739d80a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/history-philosophy-ba",
+      "sha256": "cf52af00c6afda85221c8f7e660683b40c93b1a7fd8b0a79bd85a07044036728",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ac11d1dbd59c10.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/politics-philosophy-ba",
+      "sha256": "cfc4639d2149f81989396625835aaace68de4c496d7fd271a94598da38e12154",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-248b8e67c511f9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/nursing-adult-bmedsci",
+      "sha256": "6ed2b477329e0fc637d01157dc4e3cb57069b6050045f037e300aebddb8d728a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-7d72862cdc25f2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/orthoptics-bmedsci",
+      "sha256": "353fd1c5f05dd0170439dd145e5de1c6188b6bc21dee29c13cff37a9aa241b49",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ad2f87b6271802.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/pharmacy-mpharm",
+      "sha256": "7c7cf8c599c76bb917822c31e44739ad4689bef5a484dd0efaa9f9269a349cdb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ecdcef305adf46.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/speech-language-therapy-bmedsci",
+      "sha256": "34098f896af48df84b661af0b94a339eaa6715053d18133d3e31f8c5c8e928d0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-18d6bbcac747e8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/biological-sciences-bsc",
+      "sha256": "1634dce58ece7eef8242b4915334e27be94a25963eb4ffc8d8e0d40b1c3d0ac8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-1a0762e9982b4f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/biomedical-science-bsc",
+      "sha256": "f8f76aa7a586d51bea1c64e473eaec0c7a9d32de39fa44da1399cacd010c0559",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-d9f4ef81d23851.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/psychology-bsc",
+      "sha256": "441622f9a824b4dad06547b7fc756ad17158ed42a25b91bfc4c9f6dfa28a4c08",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-419eb6020bfd6f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/business-management-ba",
+      "sha256": "03c6f77ac342f50e54384d6bd64f003d8580bf96ca98c62520a51f431d7f8c1d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-6892ff5d438d18.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/environmental-science-bsc",
+      "sha256": "0831a341c893982f67dec490ec2cde9584b4806fc7ab0cc80240474759b8ee3c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-a292701ad07053.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/geography-ba",
+      "sha256": "fb87130ad4d41cc1681aba2db90e55e9569fe4511a29e109eb8365463f733a92",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-1ed0d7d1fefed6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/geography-bsc",
+      "sha256": "0e07bd1e74d20d24e60f2e4c32aca2b07965ffe53197e5ecdd013a021b7ddde9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b81d55b74688ee.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/geography-planning-ba",
+      "sha256": "3c88a943547cbbbe5f0b6f1ce945ddad90e2b78cb1881dc85890908207ad1edb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b43b181bf20918.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/global-sustainable-development-ba",
+      "sha256": "b366344508789d148384546e6858a8e29b66dc34162a42bb33b310e9f5ab1bc5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-ead24918deebd7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/international-relations-politics-ba",
+      "sha256": "2bb60aa5a496d6e19dcaaa3d395755a8750528ae9ae3b56c01599f10d5b5a4f7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-a5d41015ba0911.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/journalism-studies-ba",
+      "sha256": "af047519ed3fac538fd86de21c9564d0e3401e141337dac406234b31e591bd0b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-8c1d96923cde20.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/landscape-architecture-ba",
+      "sha256": "a41b79d7ece2b27ca4c6946af43614cc3e443c7d46454bf955afc48d0838b766",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-10590593a56b46.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/landscape-architecture-mla",
+      "sha256": "fdd5451eac471d1809d9f24d2fff97656ee9c7fbb1c3249e50a747dab57a3b51",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b1760f57564733.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/social-sciences-ba",
+      "sha256": "89a9c68f8042a079bee1615a1f48823dfab47f0d68ed97271a051e0fef3ac4a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-f73fdd0e7c133b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/sociology-ba",
+      "sha256": "6ce66264f8976afde344c0aa83afc868ef9dfffca37bc9652ccd7e3cccd31628",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-0a5b27ad8dc623.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation/urban-studies-planning-mplan",
+      "sha256": "f7e6fff3d739c943e92a35e97fe09ac557c8761b8c16ede6abc27bfca197ba5d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/course-b0785b310b27cb.html",
+      "locator": "See each fact extraction_locator"
+    }
+  ]
+}

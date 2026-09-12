@@ -1,0 +1,502 @@
+{
+  "original_manifest": {
+    "university_id": "psl",
+    "status": "complete",
+    "count": 84,
+    "official_total": {
+      "central_licence_level_cards": 16,
+      "dauphine_search_all_year_cards": 34,
+      "college_L3_unique_specialisations": 12,
+      "ensad_specialisations": 10
+    },
+    "discovery_source_url": "https://psl.eu/formations",
+    "source_period": "Central current directory and 2026/27 programme PDF / College diagram; Dauphine individual 2026/27 pages where stated",
+    "scope": "Central bachelor-level programmes, Dauphine L1 gateways and L3 specialisations, College L2 double majors and L3 specialisations, ENSAD ten artistic sectors.",
+    "pagination_evidence": "All 7 central catalogue pages (0–6) read; 16 Licence cards followed to individual pages. Dauphine public finder API pages1–4 yielded exactly34 cards and all34 programme pages read. College one-page official diagram visually checked:5 L1 paths /12 unique L3 specialisations. Central 2026/27 PDF read; current site additionally lists Professorat des Ecoles.",
+    "filter_rules": "Only central Licence/grade de licence scope and undergraduate internal fields. Dauphine repetitive L2 curriculum stages and repeated IA double-licence year pages excluded; first Magistère year retained as L3 grade de licence, not entire graduate Magistère. MSc/engineering diplomas explicitly classed master excluded. Original French titles retained in name_en rather than invented English translations.",
+    "gaps": [
+      "Full award-to-specialisation compatibility is source-dependent; College diagram prerequisites are not represented as automatic eligibility. Members’ master-level ENS/engineering diplomas do not imply additional bachelor awards.",
+      "Two Tunis search cards label L1 while their linked pages identify L2 and L3. The L2 card is excluded as a repeated stage, and L3 identity follows the actual programme page.",
+      "Current central and 2026/27 PDF differ because the current site has Professorat des Ecoles and separately lists two CPES entry groupings. Both sources retained; no blanket assumption of 2027 recruitment."
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/gestion/l3-gestion-de-patrimoine",
+      "sha256": "36d93036dbda125333f6b1a0cdfdff2ccd4fba7c857558227f2f919ec5ababf2",
+      "bytes": 51376,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-3987e26b4883.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-3987e26b4883.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/international-bachelor-science-ai",
+      "sha256": "0d30404f3398f34efb3a8e0271158bb59528f392df384fa6bc80f35286036efc",
+      "bytes": 200416,
+      "raw_file": "scratch/full-catalog/france/psl/degree-international-bachelor-science-ai.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-international-bachelor-science-ai.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/api/rof/search?page=1&mode=licence&job=&langId=fr&additionalPrograms=&domain=246%2C248%2C252%2C260%2C262%2C264&campus=267%2C271%2C273%2C279%2C275&studylevel=282%2C284%2C286&studyregime=295%2C293&language=fr%2Cen%2Cfr%2Ben%2Cde",
+      "sha256": "965fb64e1c24e2ae73622435767349cd2e6fdb19b79cc5628273c369d4ec38fc",
+      "bytes": 17368,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-api-page-1.json",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-api-page-1.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/dauphine-talents/l1",
+      "sha256": "89c4707b082d2ffdd8695c7dd98ddab26669490ffb5206bb5326709d5fb7f5e4",
+      "bytes": 57144,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-d028d42d8c5c.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-d028d42d8c5c.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/2e-annee-double-licence-intelligence-artificielle-et-sciences-des-organisations",
+      "sha256": "95eb4e1e5fa32f43f918751d8342c4167abc37cf2d0e20c1111d228f0d9f696e",
+      "bytes": 58727,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-3be574f93c2f.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-3be574f93c2f.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formations?page=1",
+      "sha256": "abff88cd8351d868aa4e0fa0b71c0946f7dd89e5129a86308b42e039970b0ccb",
+      "bytes": 175524,
+      "raw_file": "scratch/full-catalog/france/psl/index-page-1.html",
+      "meta_file": "scratch/full-catalog/france/psl/index-page-1.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/dauphine-talents/l2",
+      "sha256": "be8eeb036613d33f9f435771d198da3f0d914d4164aa0b5df8803b5fee7c8e9e",
+      "bytes": 56905,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-6107856f4296.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-6107856f4296.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/double-licence-intelligence-artificielle-et-sciences-des-organisations",
+      "sha256": "a941bce567849bc5acbbd89f5f77518df9049446568afa9a3699e40cca648ca2",
+      "bytes": 168028,
+      "raw_file": "scratch/full-catalog/france/psl/degree-double-licence-intelligence-artificielle-et-sciences-des-organisations.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-double-licence-intelligence-artificielle-et-sciences-des-organisations.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formations",
+      "sha256": "01931b649528fd1ace47f31406e5844de10b48200d94e8ec38a6d4f84e555c8d",
+      "bytes": 174006,
+      "raw_file": "scratch/full-catalog/france/psl/index.html",
+      "meta_file": "scratch/full-catalog/france/psl/index.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/gestion/l3-comptabilite-controle-audit",
+      "sha256": "a3e8693377bf28aab673bff9c7a24ef8c5a531dc39798268b5f87a2247c9281d",
+      "bytes": 53165,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-bb8112a7804f.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-bb8112a7804f.meta.json"
+    },
+    {
+      "url": "https://static.psl.eu/sites/default/files/2026-01/Sch%C3%A9ma%20parcours%20College_2026-2027.pdf",
+      "sha256": "8ecff68adccc6754d9b3bf87378684b6ee92164ad02ebcd5f1517ed7e0b40edf",
+      "bytes": 108296,
+      "raw_file": "scratch/full-catalog/france/psl/college-2026-2027.pdf",
+      "meta_file": "scratch/full-catalog/france/psl/college-2026-2027.meta.json"
+    },
+    {
+      "url": "https://psl.eu/en/education/find-your-curriculum/bachelors-degree",
+      "sha256": "7f3166196a85ec3e30a3f07d9ae3f23b4fa4017c11224bedb1f83c004da68436",
+      "bytes": 170489,
+      "raw_file": "scratch/full-catalog/france/psl/bachelors-en.html",
+      "meta_file": "scratch/full-catalog/france/psl/bachelors-en.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/cpes-psl-henri-IV",
+      "sha256": "df58a01fe9e682d3df71edb71a529c67f34c6ebbb707aaf88dfc4c6264db343a",
+      "bytes": 234557,
+      "raw_file": "scratch/full-catalog/france/psl/degree-cpes-psl-henri-IV.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-cpes-psl-henri-IV.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/rechercher-une-licence",
+      "sha256": "15b94a9a66f21472bd4bead6a4238dbf29ea7a2964b1b533899a1b9de9a9dfa6",
+      "bytes": 58937,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-search.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-search.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/3e-annee-double-licence-intelligence-artificielle-et-sciences-des-organisations",
+      "sha256": "9fb015481254480662b690af65ef66126ba9531e01726f61a0d34f6e4e152054",
+      "bytes": 58280,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-bcb7d4c0527d.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-bcb7d4c0527d.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/sciences-sociales/l3-action-publique",
+      "sha256": "0b714391f873d5762498a062bf928d0a22f242d5e369b818e01aae2296e7a03e",
+      "bytes": 48696,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-3952c28abab1.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-3952c28abab1.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/licence-droit",
+      "sha256": "3840efda6f80da1f708e8a9015fc69cc94d61a58d8bb8b2bafc5a92001370f36",
+      "bytes": 176537,
+      "raw_file": "scratch/full-catalog/france/psl/degree-licence-droit.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-licence-droit.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/licence-mathematiques-appliquees",
+      "sha256": "add528438c2b551b2243683bc336fcfe782c43e7f3ea7df20036f8c20cd6a5c3",
+      "bytes": 171595,
+      "raw_file": "scratch/full-catalog/france/psl/degree-licence-mathematiques-appliquees.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-licence-mathematiques-appliquees.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/formation-du-comedien-1er-cycle",
+      "sha256": "b842560680009c16c4be6b788a542264b1c744a051655fe1dbf4dfd1a573d8d1",
+      "bytes": 172223,
+      "raw_file": "scratch/full-catalog/france/psl/degree-formation-du-comedien-1er-cycle.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-formation-du-comedien-1er-cycle.meta.json"
+    },
+    {
+      "url": "https://static.psl.eu/sites/default/files/2025-11/Liste%20formations%20PSL_2026-2027_FR.pdf",
+      "sha256": "bcdad773b8cd90398d9dfafc16b76b8d44806938adbb570fb86e65eebf1b5fbf",
+      "bytes": 633017,
+      "raw_file": "scratch/full-catalog/france/psl/2026-2027-programmes.pdf",
+      "meta_file": "scratch/full-catalog/france/psl/2026-2027-programmes.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/licence-economie-appliquee",
+      "sha256": "66703d4f4803859443eea617efd51820160b8293038e8655e1604b6da027f13f",
+      "bytes": 177008,
+      "raw_file": "scratch/full-catalog/france/psl/degree-licence-economie-appliquee.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-licence-economie-appliquee.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/droit/l3-droit-management-et-gestion-des-organisations",
+      "sha256": "c354151c1a024aaabe73a8fa2a6109ce3d57269c3f6fbc1fd2b6716559a0e3b3",
+      "bytes": 49458,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-1929ec46c928.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-1929ec46c928.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/professorat-des-ecoles",
+      "sha256": "cbc9c7f936a7483419bc52547098cb616700620e844fdc7de9620753f3df7a4b",
+      "bytes": 185559,
+      "raw_file": "scratch/full-catalog/france/psl/degree-professorat-des-ecoles.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-professorat-des-ecoles.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/informatique-des-organisations/l3-informatique-et-mathematiques-pour-la-decision-et-les-donnees",
+      "sha256": "65cd70ace8c8cb962b75c808f48c3f7e3b70ce4d3834246103894eeebfb224b3",
+      "bytes": 56311,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-a56af67e5dfa.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-a56af67e5dfa.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/licence-gestion",
+      "sha256": "a9c35db9d9c8f4ffc0a6b720f13c21d5d6d63b3c5e9fa6359ce2716ef5bf4116",
+      "bytes": 178644,
+      "raw_file": "scratch/full-catalog/france/psl/degree-licence-gestion.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-licence-gestion.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formations?page=6",
+      "sha256": "b72c54abf2ac5308447269a2b9cbd9411c73258fd5af547775b8c2bd548c4fb7",
+      "bytes": 170247,
+      "raw_file": "scratch/full-catalog/france/psl/index-page-6.html",
+      "meta_file": "scratch/full-catalog/france/psl/index-page-6.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/international-bachelor-environmentally-engaged-engineering-i-be3",
+      "sha256": "57102846bffac16c2df20d30873baaf737bbac07eab909ec1c2bf64760f3f3dc",
+      "bytes": 174416,
+      "raw_file": "scratch/full-catalog/france/psl/degree-international-bachelor-environmentally-engaged-engineering-i-be3.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-international-bachelor-environmentally-engaged-engineering-i-be3.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/api/rof/search?page=3&mode=licence&job=&langId=fr&additionalPrograms=&domain=246%2C248%2C252%2C260%2C262%2C264&campus=267%2C271%2C273%2C279%2C275&studylevel=282%2C284%2C286&studyregime=295%2C293&language=fr%2Cen%2Cfr%2Ben%2Cde",
+      "sha256": "4091f4f9dc9c4fd237e71acfd0e81f07ae3857ab9a2ec8a6b368cfcf014934da",
+      "bytes": 19146,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-api-page-3.json",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-api-page-3.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/gestion/l3-management-et-gestion-des-organisations",
+      "sha256": "80642564a6b99ef8fb73691fec580b738f63fbb4b3cd09bb5bbd2431dccebe01",
+      "bytes": 57311,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-1e5ab9e46453.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-1e5ab9e46453.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences",
+      "sha256": "e0aa28a34fcc3427a35271e01bf5f6e6786292b8840370e88ddff72710ddb1ec",
+      "bytes": 142962,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-licences.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-licences.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/mathematiques/l2-mathematiques-appliquees",
+      "sha256": "7e363463452a886be337ee94b82c8c2a78b5bdd05452f86678638f4c7e713558",
+      "bytes": 52310,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-01537c23db36.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-01537c23db36.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/mathematiques/l3-mathematiques-appliquees",
+      "sha256": "4fcf5d761a1c95861be05eac0551c050f64a5dcee13b1a2f223ff055e88fc601",
+      "bytes": 48712,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-1aeade078767.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-1aeade078767.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/sciences-sociales/l3-economie",
+      "sha256": "42255587e8d84f9a9f0b1198a933d4c92849a68cb5ae718d183d0e1596c6ff6d",
+      "bytes": 48964,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-36637b8aa003.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-36637b8aa003.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/economie-appliquee/l3-economie-et-ingenierie-financieres",
+      "sha256": "5679f047fdec035162e1c4411773f81dca3b8a9562fa486efa554077360ec35f",
+      "bytes": 49153,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-02ab0485d0ac.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-02ab0485d0ac.meta.json"
+    },
+    {
+      "url": "https://tunis.dauphine.psl.eu/licences/sciences-des-organisations/l2-sciences-des-organisations",
+      "sha256": "32aaf64b67e6f0ac25c83a5dc0575e9ab056830b1dec65bab04fb2031127c61d",
+      "bytes": 44349,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-595d56530f3f.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-595d56530f3f.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/1re-annee-de-licence-sciences-des-organisations-madrid",
+      "sha256": "86784dcd6bc91f3538f96ca78bfc627ce41f41cbb6c3755c1d4ce3a98e65b751",
+      "bytes": 54840,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-1a1ac6492226.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-1a1ac6492226.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/licence-informatique-des-organisations",
+      "sha256": "0e32b88b0c1a1ab8113e47877630f1a4e87706250a56bce0e69e934f58a17b3f",
+      "bytes": 174601,
+      "raw_file": "scratch/full-catalog/france/psl/degree-licence-informatique-des-organisations.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-licence-informatique-des-organisations.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formations?page=3",
+      "sha256": "6efd4885a19b7197da9d411bec1ba9e5b386f1f9897a1a4dd8599ab8a522ca63",
+      "bytes": 175655,
+      "raw_file": "scratch/full-catalog/france/psl/index-page-3.html",
+      "meta_file": "scratch/full-catalog/france/psl/index-page-3.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/informatique-des-organisations/l2-mathematiques-informatique",
+      "sha256": "5d63ffdf4e737c66ec57711a63250a64a1e1fb100a364c55a5a30525a872b9ea",
+      "bytes": 53269,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-f136697919b1.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-f136697919b1.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/sciences-monde-durable",
+      "sha256": "b43f3277453f716ca348f8f40a135c0f1b47cd37fe688226cee427c74e2f279a",
+      "bytes": 234226,
+      "raw_file": "scratch/full-catalog/france/psl/degree-sciences-monde-durable.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-sciences-monde-durable.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/gestion/l3-international-management",
+      "sha256": "4517a5d478f8aebb48c0a26de461f6afdeebad24dd2f9f166de301b571d99091",
+      "bytes": 52152,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-cf10cb9544e0.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-cf10cb9544e0.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/1re-annee-de-licence-sciences-des-organisations-double-diplome-franco-allemand",
+      "sha256": "5de6908b797aed197725f4d6dae01807a699f8f9e598c6c4cc6cf970a13c0fde",
+      "bytes": 54143,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-d0426fcc324e.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-d0426fcc324e.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/2e-annee-de-licence-sciences-des-organisations-double-diplome-franco-allemand",
+      "sha256": "b424bf5346f7d79c32e2a91426e2e6e03cf6269083e78d78a8984522bd359bfa",
+      "bytes": 51023,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-1e0b5dca774a.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-1e0b5dca774a.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/sciences-sociales/l3-sociologie-et-sciences-politiques",
+      "sha256": "5510f281ae691a31bd1c8ffee2044615c6c32ccf90da773c2731402860b64ff7",
+      "bytes": 49250,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-eaf5389b2f4b.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-eaf5389b2f4b.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/diplome-de-premier-cycle-de-lensad-psl",
+      "sha256": "8c41f472a0b32b2304ad2c1192f3c61c32d9e80c9ea22748d67a48e52b89ee04",
+      "bytes": 164458,
+      "raw_file": "scratch/full-catalog/france/psl/degree-diplome-de-premier-cycle-de-lensad-psl.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-diplome-de-premier-cycle-de-lensad-psl.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formations?page=5",
+      "sha256": "f17e40199aaa89e3df193872b7fa8bb99fcf16f8a81df7f70bb97938b476739d",
+      "bytes": 175840,
+      "raw_file": "scratch/full-catalog/france/psl/index-page-5.html",
+      "meta_file": "scratch/full-catalog/france/psl/index-page-5.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/cpes-psl-louis-le-grand",
+      "sha256": "8f1aa0dd2878a135adbf74ccb03a5e8cebd5996bc11916242cd0c7bd45407290",
+      "bytes": 207459,
+      "raw_file": "scratch/full-catalog/france/psl/degree-cpes-psl-louis-le-grand.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-cpes-psl-louis-le-grand.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/economie-appliquee/l3-economie-internationale-et-developpement",
+      "sha256": "85835bc3a67ccb8c01c43cd052bc951e63469f207e2b8978917fb365bff34275",
+      "bytes": 49452,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-a0135c23f0b9.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-a0135c23f0b9.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/double-licence-intelligence-artificielle-et-sciences-des-organisations",
+      "sha256": "b092511294a5208287c248fcfe651fbde19670b34f4b63aa41a9add40431ad69",
+      "bytes": 60353,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-8160eddcf00e.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-8160eddcf00e.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/choisir-sa-formation/licence",
+      "sha256": "117de5c8044c4232becd4c376646cba713b7e85c49bde05d6f03bf9be7527252",
+      "bytes": 176594,
+      "raw_file": "scratch/full-catalog/france/psl/licence.html",
+      "meta_file": "scratch/full-catalog/france/psl/licence.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/api/rof/search?page=2&mode=licence&job=&langId=fr&additionalPrograms=&domain=246%2C248%2C252%2C260%2C262%2C264&campus=267%2C271%2C273%2C279%2C275&studylevel=282%2C284%2C286&studyregime=295%2C293&language=fr%2Cen%2Cfr%2Ben%2Cde",
+      "sha256": "5e6ca6e10b4e65ceaec083a56193d66073bba423fc83f0aa578be42f97545f44",
+      "bytes": 18705,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-api-page-2.json",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-api-page-2.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/l1-mathematiques-informatique",
+      "sha256": "0c2f18fe68c8712ee8c6a96c93e02a5d499af3ecda9627f0356ee061046ee60e",
+      "bytes": 64349,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-e7962934ba2a.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-e7962934ba2a.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/diplome-detudes-en-architecture-premier-cycle",
+      "sha256": "369a719a884587b5762570dc6c68e55181a4b038d8d362e96b38ceea59578d0b",
+      "bytes": 165222,
+      "raw_file": "scratch/full-catalog/france/psl/degree-diplome-detudes-en-architecture-premier-cycle.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-diplome-detudes-en-architecture-premier-cycle.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formation/licence-sciences-sociales",
+      "sha256": "988077dfd5f8306911d908c5de67ff1e89fef7f05c2a987b47ed4dc9e52006bb",
+      "bytes": 175662,
+      "raw_file": "scratch/full-catalog/france/psl/degree-licence-sciences-sociales.html",
+      "meta_file": "scratch/full-catalog/france/psl/degree-licence-sciences-sociales.meta.json"
+    },
+    {
+      "url": "https://static3.dauphine.psl.eu/_assets/26287c26561f620750e024faa8a892b8/assets/js/roflincencefinder.js?1789112209",
+      "sha256": "1c01044bbe6e5faf3f2681c8194e307f8a5a8ef2a46e5aca5f3b7656697ec58f",
+      "bytes": 68141,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-finder-js.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-finder-js.meta.json"
+    },
+    {
+      "url": "https://tunis.dauphine.psl.eu/licences/sciences-des-organisations/l3-sciences-des-organisations",
+      "sha256": "02aa50b1398c6c8cbcaa6c132d2e554f07f5eee94b2f73c30bdb943e728e5528",
+      "bytes": 44857,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-701c1e28a7b8.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-701c1e28a7b8.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/economie-appliquee/l3-grandes-ecoles",
+      "sha256": "4a40bf67af59b3395aac9982242c2b63a5b32c0fc98769664336f3c8601617f4",
+      "bytes": 48618,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-6aed7815eaf0.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-6aed7815eaf0.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/2e-annee-de-licence-sciences-des-organisations-madrid",
+      "sha256": "19004d3f8a3ad02641202197e1624b413e1034f396667eb149f0739bab29825c",
+      "bytes": 49628,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-e1925286d99a.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-e1925286d99a.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formations?page=2",
+      "sha256": "d7875ee80ff38eabae599a918a65cb9282f6dd8a851e088b165f460a6fe06c97",
+      "bytes": 175929,
+      "raw_file": "scratch/full-catalog/france/psl/index-page-2.html",
+      "meta_file": "scratch/full-catalog/france/psl/index-page-2.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/l1-sciences-des-organisations",
+      "sha256": "46dbb501f8d0a3169ef3e6dde456f1c2a1219943e8b34eb6203c1193aebe4473",
+      "bytes": 70971,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-c79fd2bd0a7a.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-c79fd2bd0a7a.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/informatique-des-organisations/l3-methodes-informatiques-appliquees-pour-la-gestion-des-entreprises",
+      "sha256": "3bc4292e6787199d89f422fa9c8d320eb209a255565ea0ef1eb2e478bb12614b",
+      "bytes": 59745,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-5f50495be4ff.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-5f50495be4ff.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/l2-sciences-des-organisations",
+      "sha256": "2c6438eaa887aa122afdb5aa2972b6f2bb3cb815fdbe3bf7b076bd5a0222e05d",
+      "bytes": 59186,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-03e18d268170.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-03e18d268170.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/api/rof/search?page=4&mode=licence&job=&langId=fr&additionalPrograms=&domain=246%2C248%2C252%2C260%2C262%2C264&campus=267%2C271%2C273%2C279%2C275&studylevel=282%2C284%2C286&studyregime=295%2C293&language=fr%2Cen%2Cfr%2Ben%2Cde",
+      "sha256": "0cd2a64fc1a606eed551387568a60e5301ce12c5e06265c6b58de0afe2800ce6",
+      "bytes": 9116,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-api-page-4.json",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-api-page-4.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/gestion/l3-sciences-de-gestion",
+      "sha256": "b6a275e7c4d89f0805acb09ae512998c1897f7787926220d0778f057f4fc5dc7",
+      "bytes": 56928,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-a18b0dd3c0e5.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-a18b0dd3c0e5.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/economie-appliquee/l3-banque-finance-assurance",
+      "sha256": "b258cabfb65cdefccc7753b796e2cf290702be428edceeeeb6cf05c4a2d88a5f",
+      "bytes": 55920,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-96c61c4e0aef.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-96c61c4e0aef.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/droit/l3-droit-et-gouvernance-publique",
+      "sha256": "c0533915409a7af1049cd21c23bb6b6d9df96142d92ba28706a573b524fa3909",
+      "bytes": 48827,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-8d0bc19c650d.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-8d0bc19c650d.meta.json"
+    },
+    {
+      "url": "https://psl.eu/formations?page=4",
+      "sha256": "a2c3a38c32457988c8d4b7860686644750ea553374dd28a6b0cc4bfbc4d0dff0",
+      "bytes": 175881,
+      "raw_file": "scratch/full-catalog/france/psl/index-page-4.html",
+      "meta_file": "scratch/full-catalog/france/psl/index-page-4.meta.json"
+    },
+    {
+      "url": "https://dauphine.psl.eu/formations/licences/l3-double-diplome-franco-allemand",
+      "sha256": "b9d3767f9a014b4fbe966e26879c14acf888b1fdf0bbe5494654c1070bf694a5",
+      "bytes": 50083,
+      "raw_file": "scratch/full-catalog/france/psl/dauphine-detail-c09c28925b7b.html",
+      "meta_file": "scratch/full-catalog/france/psl/dauphine-detail-c09c28925b7b.meta.json"
+    }
+  ]
+}

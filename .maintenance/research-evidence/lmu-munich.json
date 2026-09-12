@@ -1,0 +1,1001 @@
+{
+  "university_id": "lmu-munich",
+  "sources": [
+    {
+      "url": "https://www.lmu.de/en/study/degree-students/applications-for-admission/",
+      "sha256": "1bc8c65fb21223bc9a03a670ee8e6e77b4498cd4428bb481cf413950bbd86d00",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lmu-munich/admission.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/en/study/degree-students/prerequisites/german-proficiency/",
+      "sha256": "a809f711d47a98b12611f751bb54e2e4888a628714179b9fe424ab5174d9c1b9",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lmu-munich/language.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/en/study/degree-students/prerequisites/",
+      "sha256": "7cdf4761a60e102fbb772df54bf0c7590d116f22b3f3afd4431cbf109aaf5813",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lmu-munich/prerequisites.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/en/workspace-for-students/abc-study-guide/fees-and-tuition-fees/index.html",
+      "sha256": "725ef08c6715095bcce12675a37b0f635487cdf880fabed8256ba7c712657790",
+      "raw_file": "scratch/full-catalog/europe-enrichment/lmu-munich/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.aps.org.cn/wp-content/uploads/272_voraussetzungen_70_verfahren_gaokao_chn.pdf",
+      "sha256": "a437906df8c7001d62653e71493a196afd15100ffd8d3770d62a8bf0ea3d4e1e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tum/aps-gaokao-70.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://www.aps.org.cn/wp-content/uploads/271_voraussetzungen_60_verfahren_gaokao_chn.pdf",
+      "sha256": "47856d8da7a6d3de338e7f5d069cdcca40fe0014464a8d8f068870653f1a6cbc",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tum/aps-gaokao-60.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://cms-search.lmu.de/search/courses_by_name_asc/execute?query=*&language=de&numRows=1000&page=1",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/allgemeine-und-vergleichende-literaturwissenschaft-bachelor-hauptfach-2836.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/alter-orient-bachelor-hauptfach-2838.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/anglistik-bachelor-hauptfach-2839.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/archaeologie-europa-und-vorderer-orient-120-ects-bachelor-hauptfach-4608.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/archaeologie-europa-und-vorderer-orient-180-ects-bachelor-hauptfach-2842.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/betriebswirtschaftslehre-bachelor-hauptfach-2848.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/bioinformatik-bachelor-hauptfach-2855.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/biologie-bachelor-hauptfach-2857.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/biologie-lehramt-grundschule-unterrichtsfach-9755.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/biologie-lehramt-gymnasium-unterrichtsfach-9757.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/biologie-lehramt-mittelschule-unterrichtsfach-9759.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/biologie-lehramt-realschule-unterrichtsfach-9761.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/buchwissenschaft-bachelor-hauptfach-2862.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/buddhistische-und-suedasiatische-studien-bachelor-hauptfach-2865.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/chemie-und-biochemie-bachelor-hauptfach-2870.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/chemie-lehramt-grundschule-unterrichtsfach-9766.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/chemie-lehramt-gymnasium-unterrichtsfach-9768.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/chemie-lehramt-mittelschule-unterrichtsfach-9770.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/chemie-lehramt-realschule-unterrichtsfach-9772.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/classical-studies-bachelor-hauptfach-2871.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/computerlinguistik-bachelor-hauptfach-2872.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/deutsch-als-fremdsprache-bachelor-hauptfach-2875.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/deutsch-als-zweitsprache-lehramt-grundschule-unterrichtsfach-9787.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/deutsch-als-zweitsprache-lehramt-mittelschule-unterrichtsfach-9791.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/deutsch-lehramt-grundschule-unterrichtsfach-9777.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/deutsch-lehramt-gymnasium-unterrichtsfach-9779.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/deutsch-lehramt-mittelschule-unterrichtsfach-9781.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/deutsch-lehramt-realschule-unterrichtsfach-9783.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/empirische-kulturwissenschaft-und-europaeische-ethnologie-bachelor-hauptfach-2884.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/englisch-lehramt-grundschule-unterrichtsfach-9797.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/englisch-lehramt-gymnasium-unterrichtsfach-9799.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/englisch-lehramt-mittelschule-unterrichtsfach-9801.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/englisch-lehramt-realschule-unterrichtsfach-9803.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/ethnologie-bachelor-hauptfach-2882.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/evangelische-religionslehre-lehramt-grundschule-unterrichtsfach-9815.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/evangelische-religionslehre-lehramt-gymnasium-unterrichtsfach-9817.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/evangelische-religionslehre-lehramt-mittelschule-unterrichtsfach-9819.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/evangelische-religionslehre-lehramt-realschule-unterrichtsfach-9821.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/evangelische-theologie-kirchl.-pruefung-ev.-hauptfach-5260.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/evangelische-theologie-magister-der-theologie-hauptfach-5272.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/finnougristik-bachelor-hauptfach-2889.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/franzoesisch-lehramt-gymnasium-unterrichtsfach-9826.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/franzoesisch-lehramt-realschule-unterrichtsfach-9828.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geistigbehindertenpaedagogik-lehramt-sonderpaedagogik-mit-grundschuldidaktik-unterrichtsfach-9849.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geistigbehindertenpaedagogik-lehramt-sonderpaedagogik-mit-mittelschuldidaktik-unterrichtsfach-9851.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geographie-bachelor-hauptfach-2891.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geographie-lehramt-grundschule-unterrichtsfach-9854.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geographie-lehramt-gymnasium-unterrichtsfach-9856.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geographie-lehramt-mittelschule-unterrichtsfach-9858.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geographie-lehramt-realschule-unterrichtsfach-9860.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geowissenschaften-bachelor-hauptfach-2895.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/germanistik-bachelor-hauptfach-2903.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geschichte-bachelor-hauptfach-2905.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geschichte-lehramt-grundschule-unterrichtsfach-9865.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geschichte-lehramt-gymnasium-unterrichtsfach-9867.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geschichte-lehramt-mittelschule-unterrichtsfach-9869.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/geschichte-lehramt-realschule-unterrichtsfach-9871.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/griechisch-lehramt-gymnasium-unterrichtsfach-9875.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/griechische-philologie-bachelor-hauptfach-2908.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/griechische-studien-bachelor-hauptfach-2910.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/grundschuldidaktik-lehramt-grundschule-unterrichtsfach-9876.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/grundschuldidaktik-lehramt-sonderpaedagogik-mit-grundschuldidaktik-unterrichtsfach-9878.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/historische-und-allgemeine-sprachwissenschaft-bachelor-hauptfach-2833.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/informatik-bachelor-mit-nebenfach-30-ects-bachelor-hauptfach-2911.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/informatik-bachelor-mit-nebenfach-60-ects-bachelor-hauptfach-2916.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/informatik-mit-integriertem-anwendungsfach-bachelor-hauptfach-26048.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/informatik-lehramt-gymnasium-unterrichtsfach-9893.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/informatik-lehramt-realschule-unterrichtsfach-9895.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/italianistik-bachelor-hauptfach-2921.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/italienisch-lehramt-gymnasium-unterrichtsfach-9897.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/japanologie-bachelor-hauptfach-2923.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/katholische-religionslehre-lehramt-grundschule-unterrichtsfach-9900.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/katholische-religionslehre-lehramt-gymnasium-unterrichtsfach-9902.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/katholische-religionslehre-lehramt-mittelschule-unterrichtsfach-9904.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/katholische-religionslehre-lehramt-realschule-unterrichtsfach-9906.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/katholische-theologie-magister-modularisiert-hauptfach-5353.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/kommunikationswissenschaft-bachelor-hauptfach-2928.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/kunst-und-multimedia-bachelor-hauptfach-2933.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/kunst-lehramt-grundschule-unterrichtsfach-9911.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/kunst-lehramt-gymnasium-unterrichtsfach-9918.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/kunst-lehramt-mittelschule-unterrichtsfach-9913.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/kunst-lehramt-realschule-unterrichtsfach-9915.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/kunstgeschichte-bachelor-hauptfach-2931.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/kunstpaedagogik-bachelor-hauptfach-2935.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/latein-lehramt-gymnasium-unterrichtsfach-9920.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/latinistik-bachelor-hauptfach-2936.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/lernbehindertenpaedagogik-lehramt-sonderpaedagogik-mit-grundschuldidaktik-unterrichtsfach-9927.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/lernbehindertenpaedagogik-lehramt-sonderpaedagogik-mit-mittelschuldidaktik-unterrichtsfach-9929.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/mathematik-bachelor-hauptfach-2940.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/mathematik-lehramt-grundschule-unterrichtsfach-9931.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/mathematik-lehramt-gymnasium-unterrichtsfach-9933.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/mathematik-lehramt-mittelschule-unterrichtsfach-9935.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/mathematik-lehramt-realschule-unterrichtsfach-9937.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/medieninformatik-bachelor-hauptfach-2942.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/medienkulturwissenschaft-bachelor-hauptfach-27648.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/medizin-1.-studienabschnitt-staatsexamen-hauptfach-5392.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/medizin-2.-studienabschnitt-staatsexamen-hauptfach-5393.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/mittelschuldidaktik-lehramt-mittelschule-unterrichtsfach-9889.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/mittelschuldidaktik-lehramt-sonderpaedagogik-mit-mittelschuldidaktik-unterrichtsfach-9891.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/musik-lehramt-grundschule-unterrichtsfach-9947.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/musik-lehramt-gymnasium-unterrichtsfach-9948.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/musik-lehramt-mittelschule-unterrichtsfach-9949.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/musik-lehramt-realschule-unterrichtsfach-9950.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/musikwissenschaft-bachelor-hauptfach-2953.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/naher-und-mittlerer-osten-bachelor-hauptfach-2955.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/nordamerikastudien-bachelor-hauptfach-2960.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/orthodoxe-theologie-diplom-universitaet-5399.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/pharmaceutical-sciences-bachelor-hauptfach-2967.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/pharmazie-staatsexamen-hauptfach-5401.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/philosophie-bachelor-hauptfach-2969.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/phonetik-und-sprachverarbeitung-bachelor-hauptfach-2975.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/physik-bachelor-hauptfach-3840.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/physik-plus-meteorologie-bachelor-hauptfach-3841.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/physik-lehramt-grundschule-unterrichtsfach-9954.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/physik-lehramt-gymnasium-unterrichtsfach-9956.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/physik-lehramt-mittelschule-unterrichtsfach-9958.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/physik-lehramt-realschule-unterrichtsfach-9960.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/politik-und-gesellschaft-lehramt-grundschule-unterrichtsfach-9986.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/politik-und-gesellschaft-lehramt-gymnasium-unterrichtsfach-9988.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/politik-und-gesellschaft-lehramt-mittelschule-unterrichtsfach-9990.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/politik-und-gesellschaft-lehramt-realschule-unterrichtsfach-9992.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/politikwissenschaft-bachelor-hauptfach-2986.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/praevention-inklusion-und-rehabilitation-pir-bei-hoerschaedigung-bachelor-hauptfach-2981.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/praevention-inklusion-und-rehabilitation-pir-bei-hoerschaedigung-modellstudiengang-bachelor-hauptfach-29504.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/psychologie-bachelor-hauptfach-2991.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/paedagogik-bildungswissenschaft-bachelor-hauptfach-2964.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/paedagogik-bei-verhaltensstoerungen-lehramt-sonderpaedagogik-mit-grundschuldidaktik-unterrichtsfach-10014.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/paedagogik-bei-verhaltensstoerungen-lehramt-sonderpaedagogik-mit-mittelschuldidaktik-unterrichtsfach-10016.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/rechtswissenschaft-erste-juristische-pruefung-hauptfach-5427.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/religionswissenschaft-bachelor-hauptfach-3000.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/romanistik-bachelor-hauptfach-3002.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/russisch-lehramt-gymnasium-unterrichtsfach-9976.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/schulpsychologie-lehramt-grundschule-unterrichtsfach-9966.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/schulpsychologie-lehramt-gymnasium-unterrichtsfach-9968.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/schulpsychologie-lehramt-mittelschule-unterrichtsfach-9970.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/schulpsychologie-lehramt-realschule-unterrichtsfach-9972.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/sinologie-bachelor-hauptfach-3004.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/skandinavistik-bachelor-hauptfach-3007.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/slavistik-bachelor-hauptfach-3010.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/soziologie-bachelor-hauptfach-3013.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/spanisch-lehramt-gymnasium-unterrichtsfach-9996.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/sport-lehramt-grundschule-unterrichtsfach-12353.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/sport-lehramt-gymnasium-unterrichtsfach-11840.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/sport-lehramt-mittelschule-unterrichtsfach-12352.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/sport-lehramt-realschule-unterrichtsfach-11968.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/sprachheilpaedagogik-lehramt-sonderpaedagogik-mit-grundschuldidaktik-unterrichtsfach-10003.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/sprachheilpaedagogik-lehramt-sonderpaedagogik-mit-mittelschuldidaktik-unterrichtsfach-10005.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/sprachtherapie-bachelor-hauptfach-3017.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/statistik-und-data-science-bachelor-hauptfach-3019.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/theaterwissenschaft-bachelor-hauptfach-3024.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/tiermedizin-staatsexamen-hauptfach-5459.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/volkswirtschaftslehre-bachelor-hauptfach-3027.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/wirtschaftsmathematik-bachelor-hauptfach-3036.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/wirtschaftspaedagogik-wirtschaftspaedagogik-i-bachelor-hauptfach-3031.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/wirtschaftspaedagogik-mit-integriertem-wahlfach-wirtschaftspaedagogik-ii-bachelor-hauptfach-3032.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/wirtschaftswissenschaften-lehramt-gymnasium-unterrichtsfach-10018.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/wirtschaftswissenschaften-lehramt-realschule-unterrichtsfach-10020.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/zahnmedizin-staatsexamen-hauptfach-5475.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/aegyptologie-und-koptologie-bachelor-hauptfach-2830.html",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "locator": null
+    }
+  ]
+}

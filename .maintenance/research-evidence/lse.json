@@ -1,0 +1,293 @@
+{
+  "university_id": "lse",
+  "sources": [
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/international-students/china",
+      "sha256": "7bf4e781f347400f022f141065fa698c47a1e705e3503a0ca659a6779f3a7650",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/china.html",
+      "locator": "Undergraduate entry requirements"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/English-language-requirements",
+      "sha256": "470615ac7ae7f8eb2362eecbf7101bacc5dcee70986cb7df4b25bd295c7a5121",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/english-policy.html",
+      "locator": "IELTS Academic"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-anthropology-and-law",
+      "sha256": "41f7aa516cede081fcdf629913a0d4aea2228131474b2f8dd122e9a87a429aba",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-ae9aec9683094f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/fees-and-funding",
+      "sha256": "f652100e411844ee8441db21bb72bbc0f2948fed957bbecc67e4f025881a6a15",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/fee-policy.html",
+      "locator": "Overseas fee status students"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-geography",
+      "sha256": "bcea1c73db1076a7bfd7c0c84cf1bf147683a844d7298dd503187de0513c57a7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-be76a5d7c7f0d4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-history",
+      "sha256": "230f0c0a66373befdcf1bdb10a3356cb6dfe315c67d30554adafd2bd10f8069d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-cd4f24565c863a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/ba-social-anthropology",
+      "sha256": "6c02459f6b21e91cce78791f4139dba120753d3e9b00df164a614b1f34f70db7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-34a67b9fdc9714.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-accounting-and-finance",
+      "sha256": "360035755d69021b0c7d4b5ce114b1daf831db9bf70b7f3a7e1c7ff62bd97c18",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-ed52ec30e0c6f4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-actuarial-science",
+      "sha256": "61d28699b7a6fc0cdfbf63f33f9d2a044f92772fb22c2ea7933707c25a79b975",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-ff7c2b85bc0874.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-actuarial-science-with-a-placement-year",
+      "sha256": "2be45d17b193a28b082c81960fc99e4852943b237bc23f788d4c22c430af630f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-bd0caddd2185f7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-data-science",
+      "sha256": "284da91e392fe956492db29fd1b57959b7f1bd76e33051b2d160c64dab4c7f2f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-b66d5957b38e36.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-econometrics-and-mathematical-economics",
+      "sha256": "893804b9535ea59c561dafd41c52a74d5189a199712a630ade7bdd5c2d92c98c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-fc1d413716f9ac.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economic-history",
+      "sha256": "3749f957254e1932f2662f48683f7c388c6b24504c2ef2f756b8c08d0ac2c9c1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-97182fd90cc532.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economic-history-and-geography",
+      "sha256": "28ed9a273344ef2cf148a6c4cd378a6f44a59f4f66c3beae8f0cc759baa24783",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-fcc79704ff8e2f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+      "sha256": "4060994189c954c458a4652661457f107fb8d8006e476ff85aa2cba8e2706e61",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-7d1abc5af1fbc0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-data-science",
+      "sha256": "9afe01d0fddbd12f3263645310257a32090038cc249c519a1cec4b5544ccd785",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-b898921145fd7e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-economic-history",
+      "sha256": "9f74be737f6b29b477eb6f4936e1b749403d54e2e3d6872fbd8e212064624e65",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-17c16970dc7a46.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-environment-and-sustainable-development",
+      "sha256": "504ae3046f4c109f44ffbf2cc7cf830975cf201625eb466d92b712bb0af247b3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-69d9d36eaf0099.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-environment-and-sustainable-development-with-economics",
+      "sha256": "bd56f85a8a51d977442c2a480d88d9e5822684b1532cd79176ab1ec6ba856a9d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-1cb07ee6b8e877.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-finance",
+      "sha256": "a58900fa893930b15fe3b4190c940ef0bf384594134ed75727bd7482900fde83",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-204ed86e57fd98.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-financial-mathematics-and-statistics",
+      "sha256": "cde343a63b1f4939186506f93342c23099746fd72e38b3e158501c7a22648998",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-b0cf34a496342f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-geography-with-economics",
+      "sha256": "c673487e5f2ac50881e028debbb135f5c8505d41a00f9b8916887270fd8d52f3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-a4c57be49c22a0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-history-and-politics",
+      "sha256": "cd450e68f897b510e734fc48fada61f59b9613ec27a27789095e080356509efb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-c97204dcdd102a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-relations",
+      "sha256": "9ef65b67236c8a4ffa552039dee8607ca2d9cd977fd6887ce9768289075423da",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-d8e27504926053.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-relations-and-chinese",
+      "sha256": "6b745d9fb2155fa9b064037eb7deea9603877f41f67052fbf5bcf583ddd30c6a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-16d0885366699a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-relations-and-history",
+      "sha256": "686fbe076317c95dab48ac42070d99614805bea6be7b0f5e84df8a073566a665",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-bbde23069c4b1c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-social-and-public-policy",
+      "sha256": "ed5d6a09c6ae8c8b04511fdedacf7d9ec211ef357a5ea48c568fa3e7f2f15692",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-0407125564ea5c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-social-and-public-policy-with-economics",
+      "sha256": "30827619f664800d1b3d663b73531e17986e7f164758f46f110955e1bba6d6b4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-60989f7719ab1c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-international-social-and-public-policy-with-politics",
+      "sha256": "e5baca405103946a01e3460e9498b38310da0721c3001619bc54e32e984b469d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-0327b1544ee96e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-language-culture-and-society",
+      "sha256": "c3cf24739109698645e2dbd401627963d451834685e1866f20b70bccba99fc65",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-2041eeeed69f04.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-management",
+      "sha256": "f6a593cc6fe8dfe67e4973cc5112fcd537bae15236358bbea0e3222e1ce0f1ee",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-442376ec4b94b9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-and-economics",
+      "sha256": "98ae8c18010a29ca57219dc6bb861db50d3b83386f495df6aa421ec28b50299a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-abbe236b6d24eb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-with-data-science",
+      "sha256": "cce9eb2bf1c5f6683f7270ea8bc710c6122ffbd88bf2fd72685700f882dfa00f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-2bbd6d989c0c8e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-with-economics",
+      "sha256": "5f6639e4aeb5c48abf38409e58ab4bfe65b5062b67eaa2089e9f6b8fa6a9e1a6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-3e90eed373ad9f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-statistics-and-business",
+      "sha256": "c1a2ca0abe196d61342ad969c8de984eb5b4a75a0d91d2d92f6167b8f7260a62",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-fd0cf5ffccc66e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-and-economics",
+      "sha256": "8d4b92fd951ad2e13295fbf7f69c6fb3e4e503a2c8abf121336154b888529f65",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-a0391dbf498cd1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-logic-and-scientific-method",
+      "sha256": "1ad6943ea71342f54995daadde3877d2efda299c477c1bec349aa509494cfe2d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-57e8faa90f73c0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-politics-and-economics",
+      "sha256": "d8728bfa11ebcb5f13467c76864d01ec841decfa671dfcbb8bfcec9d099bca79",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-4c61c4c10ea5da.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics",
+      "sha256": "c1cd781214de33a36fdbf4296aec0388daaaeeddc6384b539cbf24017d14758e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-3479232709880f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-economics",
+      "sha256": "02390c4eaf29170ed4f236ebaeca45b26fdb7b0d4a0aeb16fa45cc2bbb5a9f26",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-cca521ff8e2af4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-international-relations",
+      "sha256": "d1cf4fe209c4bbe75cbbcfad9c95c5d39a47a3d3a035a293e6dc69baa25f3119",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-0ae6e77e9d419b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-philosophy",
+      "sha256": "ac71e0573abf2761ebe71cddf27ea9ae89e8b52f7b99c86866717f4ceead4b2a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-3a871c29b64044.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-psychological-and-behavioural-science",
+      "sha256": "446a8671ae5ce55dd310a5715c9867769ad3210e763d56f445bfdd081263677f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-e861ac4701be08.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-social-anthropology",
+      "sha256": "f2708e148d420ba9458a29b864b3c643021dc8c70f22a5a893902cea2f9f0638",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-73747a79cab57f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-sociology",
+      "sha256": "d4c06d2006153a673ddd33eaae42f976cfd0057342c661122a87406e8c21fff1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-28bdb9e0f16eb0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/llb-bachelor-of-laws",
+      "sha256": "e35b137f766c5f1b0e46fd261762f805871784291f42dcb84707a968ff8a3826",
+      "raw_file": "scratch/full-catalog/uk-enrichment/lse/raw/course-1e1197a7a8988a.html",
+      "locator": "See each fact extraction_locator"
+    }
+  ]
+}

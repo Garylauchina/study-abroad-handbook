@@ -1,0 +1,149 @@
+{
+  "university_id": "tu-delft",
+  "sources": [
+    {
+      "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+      "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tu-delft/countries.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+      "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tu-delft/entry.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/application-procedure",
+      "sha256": "ff4445f83932b856e6f15ec9069d1010b2e2f13d71227e7c1c18793d3f6c4e64",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tu-delft/international-application.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/dates-deadlines",
+      "sha256": "2154761a0807f741f4a5a167434955951de37746f7f0256d8b86d7e949b0a328",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tu-delft/dates.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+      "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tu-delft/school-fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering/from-application-to-enrolment",
+      "sha256": "2907e2d7c9e4860ca6f3640fd329f28089ff7f23fd593b61cfe36092ffd66fbc",
+      "raw_file": "scratch/full-catalog/europe-enrichment/tu-delft/ae-application.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+      "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/index.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering",
+      "sha256": "aff5c0147f1b8a4fff234ee8aef488d2958b26880ae7679cad54aa42a52ba58d",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde",
+      "sha256": "b84c8c2a03caaccd72495bd9ad99cfa8c592ca168380b89bc287e128b71fd445",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-2.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/civiele-techniek/bsc-civiele-techniek",
+      "sha256": "50c93a034fb38685cbe4b35013b6a12a3fa863f19151be88cbdd61913953aaca",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering",
+      "sha256": "d9eb1674f22cff410336ee0cdf03a296a579c82241c9b98c28aaa801efd05df6",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-4.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ect/bsc-earth-climate-and-technology",
+      "sha256": "387f074781cbf4c2dbf9eb4f72e358a83af7fdf87e75daf8ba338c40499d9cfe",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-5.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ee/bsc-electrical-engineering",
+      "sha256": "e4d42f2d6a68daa3712b2595e76a4a2f1ab90ba702a45e2c21377e040fc13c6f",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-6.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/health-and-technology/bsc-health-and-technology",
+      "sha256": "100f0a05247ea079e576d5756a9d9737d5c49388e250986e62ecd196549d09de",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-7.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/industrieel-ontwerpen/bsc-industrieel-ontwerpen",
+      "sha256": "344ec5febc6541ba49d230f2c7cd4acad317e92691a62a725f7637fda479e387",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-8.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/klinische-technologie/bsc-klinische-technologie",
+      "sha256": "06bc6a863656c07acf5baab21822679837895e72c5efffc84b33114e98e7132a",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-9.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/lst/bsc-life-science-and-technology",
+      "sha256": "cd6da8a9e4cfa767eeabc2ad6928c740122dd1fe1f2a381cd05788c1906a4655",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-10.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/maritieme-techniek/bsc-maritieme-techniek",
+      "sha256": "f9be913883aaac8110bbc335e70d9328bf7f8a659622a29ee0315c4d20b8367d",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-11.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/mst/bsc-molecular-science-and-technology",
+      "sha256": "b0aa56e2b446fab72044562613436548b553f26706228a6cc5907b845b09ec20",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-12.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/nb/bsc-nanobiology",
+      "sha256": "aca2ff4008f8fe09e7c1a89761a82f301fe547d339bda9ce43928d91487b6bf1",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-13.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tbm/bsc-technische-bestuurskunde",
+      "sha256": "9184b798aa77bc57e2f9f51cc95d9d7b4685645a81f1735b3ad5a75a7b3378a8",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-14.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde",
+      "sha256": "8d0fe5f743b75052ec2bbbaf71d81a4aa4b14ab1513a47a22f73c06d2c1c76c4",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-15.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tw/bsc-technische-wiskunde",
+      "sha256": "5a22065d27786091396ac5c3c6a8ea33129d3297484422d70da7e9f396ef0858",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-16.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde",
+      "sha256": "ddfef362078fa0c10aba06a3207e333697f173d4d768498c3b34c0b950126c92",
+      "raw_file": "scratch/full-catalog/europe/tu-delft/detail-17.html",
+      "locator": null
+    }
+  ]
+}

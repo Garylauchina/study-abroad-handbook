@@ -1,0 +1,46 @@
+{
+  "original_manifest": {
+    "university_id": "uwa",
+    "status": "complete",
+    "count": 270,
+    "official_total": null,
+    "discovery_source_url": "https://www.handbooks.uwa.edu.au/undergraduate",
+    "additional_discovery_sources": [
+      "https://www.handbooks.uwa.edu.au/majors"
+    ],
+    "source_period": "2026",
+    "scope": "All bachelor/honours/combined course links on undergraduate handbook index and all majors-by-field links",
+    "pagination_evidence": {
+      "course_links_unique": 123,
+      "major_links": 147,
+      "major_codes_unique": 147,
+      "pagination": false
+    },
+    "filter_rules": [
+      "Undergraduate index: every unique coursedetails code including honours and combined course entries",
+      "Majors index: every unique majordetails code, including double majors; no minors or unit rows",
+      "Combined bachelor/master courses retained as published undergraduate entry pathway, not a stand-alone postgraduate award"
+    ],
+    "gaps": [
+      "Course-major relationships pending inheritance; global major index does not guarantee any arbitrary combination",
+      "2027 handbook not obtained; source explicitly 2026"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.handbooks.uwa.edu.au/majors",
+      "sha256": "7e33175c7b28c24e8e4ab068135cd7eea72f13b4a33981cfe5f945e87da6aa84",
+      "bytes": 34944,
+      "raw_file": "scratch/full-catalog/australia/uwa/majors.html",
+      "meta_file": "scratch/full-catalog/australia/uwa/majors.meta.json"
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/undergraduate",
+      "sha256": "01d7b7f4106572bddec646e30ac8f83665b20c62cd11af7551a43063d78c2736",
+      "bytes": 30645,
+      "raw_file": "scratch/full-catalog/australia/uwa/undergraduate.html",
+      "meta_file": "scratch/full-catalog/australia/uwa/undergraduate.meta.json"
+    }
+  ]
+}

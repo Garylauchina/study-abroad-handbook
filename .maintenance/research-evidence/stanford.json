@@ -1,0 +1,479 @@
+{
+  "university_id": "stanford",
+  "sources": [
+    {
+      "url": "https://admission.stanford.edu/apply/first-year/apply.html",
+      "sha256": "f990a5aea1d794469911a352c3501531f09e2505db0160572eb9c1b0b3045f6e",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/stanford/major-entry.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.stanford.edu/apply/international/",
+      "sha256": "0d74d5c5fcd91788db51e7d866d655c49d7139c48d22e2060bb20ba09e9c08f6",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/stanford/international.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.stanford.edu/apply/first-year/testing.html",
+      "sha256": "26a79e048ba022fbbaf71e08217b65d1d0048f88ae25be73cc4469c103a34500",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/stanford/testing.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.stanford.edu/apply/first-year/",
+      "sha256": "f93f37d225cbe1113e34acbe8e716d7409545e17d65b893fbf398bda50d3d47a",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/stanford/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://financialaid.stanford.edu/undergrad/budget/index.html",
+      "sha256": "718db23185336121f6d073524db9a2c928329a5d21bf94f6973877ca72ca5d51",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/stanford/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://financialaid.stanford.edu/undergrad/how/international.html",
+      "sha256": "9ec73d9327841a021a55fd0077a39c28df1b739fd36e79de84f33c4e563b37d2",
+      "raw_file": "scratch/full-catalog/us-a-enrichment/stanford/aid.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/CS-BS",
+      "sha256": "6b32b67fa29d0be8bd0a0ef0db44eb4ff4dd3cb05e4f28187ce7cd7781b0f00f",
+      "raw_file": "scratch/full-catalog/us-details/stanford/23dcb33168d40d7da8ee.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/AA-BS",
+      "sha256": "8cd847f97a07f5c3eaae879e6cd2347094104adeacd1bad4d3671ad2060e0c50",
+      "raw_file": "scratch/full-catalog/us-details/stanford/f62805ddb9bf766d56db.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ASAM-BA",
+      "sha256": "651876598c9a8d984abf3623eccc7166909b9c54ceb5f9494e61c7d7e707ef7b",
+      "raw_file": "scratch/full-catalog/us-details/stanford/828d3d0d9b467344c60b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/AFRAM-BA",
+      "sha256": "7631473e36f5161d6d8a3db765b39a0c00a78cdd310d082e01662c74735354a2",
+      "raw_file": "scratch/full-catalog/us-details/stanford/9845f1a41746b1450fe2.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/AMSTU-BA",
+      "sha256": "c771e55ca42d5884f77a43b9a302ab3a516c14ccc2f5510afbe61b75e58cf3d1",
+      "raw_file": "scratch/full-catalog/us-details/stanford/efe4417dab80930943af.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ANTHR-BA",
+      "sha256": "d3ad5735553df36be040aa7b3da0a55d07450995dd09b300ae713ecb6aa8300b",
+      "raw_file": "scratch/full-catalog/us-details/stanford/af5aa774e050cc294dfa.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ARCHA-BA",
+      "sha256": "55eac47debd90ddc4a27b9e74b83d37114c96cdc4790d03e2fe0c15b3b5196f1",
+      "raw_file": "scratch/full-catalog/us-details/stanford/9b9ad96fac1c4d89c048.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ARTHS-BA",
+      "sha256": "45ee1ca6bc5e819e57f17d7c8ac955e7fd4ddf76d8c46f409f65ad341c84f3cb",
+      "raw_file": "scratch/full-catalog/us-details/stanford/b14749553a1c66121736.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ARTP-BA",
+      "sha256": "5c76ac71e35ad9d227f4c4aa156e9d9476c5ba7aced3d9e06b6886fa703e648c",
+      "raw_file": "scratch/full-catalog/us-details/stanford/664a81a14fe548ad830f.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/BIOE-BS",
+      "sha256": "c98e5764ffda00d33f2dc335f49f9357424c3f457baba986781bd142633a354a",
+      "raw_file": "scratch/full-catalog/us-details/stanford/4da6d150b1adda05c68b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/BIO-BS",
+      "sha256": "88c40f41786237bcdd24454d078153e1c55c884ac56432df1fc08ebb07268c1f",
+      "raw_file": "scratch/full-catalog/us-details/stanford/3eeeb59c98858ecf5688.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/CPLIT-BA",
+      "sha256": "060517b0eb772b94819bced7d0b508f9460cae0657437d3be029a721f2bb783b",
+      "raw_file": "scratch/full-catalog/us-details/stanford/95b76669c2701270ab26.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/CHEME-BS",
+      "sha256": "8abe293dedfb0f54085ded163ab1aadf906362d8185f33fd6c73e3e6d687b60e",
+      "raw_file": "scratch/full-catalog/us-details/stanford/3e9a68c3651b28154972.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/CHEM-BS",
+      "sha256": "f0bb5b9c67823d21468dbda964fb49fd1b789b12f54da6ea5f03a3cdeffa2760",
+      "raw_file": "scratch/full-catalog/us-details/stanford/c5869d96c82a75bc3ca9.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/CHILT-BA",
+      "sha256": "0552beaea17972549d0df7b0162376d7c6b0e43b36dad794a34e40ecaa9fe4d5",
+      "raw_file": "scratch/full-catalog/us-details/stanford/f836c830708a69a68f8d.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/CE-BS",
+      "sha256": "2e50d69b1605f3684a5bbd7fdfe5968f5381eab1300feaeb4ab42f34a9cfe2ad",
+      "raw_file": "scratch/full-catalog/us-details/stanford/39a4d854c25b92c48296.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/CLASS-BA",
+      "sha256": "c38782c0be4bfa18a915aa97097753a812dfda2bb04d7fcde2c9a4f14d850d45",
+      "raw_file": "scratch/full-catalog/us-details/stanford/75cd96cbd1f272a30a35.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/COMMU-BA",
+      "sha256": "23daee006751ad4bdbfcd443d8530ebc55d63a76e454a568d96c7f612590e322",
+      "raw_file": "scratch/full-catalog/us-details/stanford/28bec65dbd816543960e.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/CSRE-BA",
+      "sha256": "ba17d0e8826d5f55bcb17ce2728b66a5adb9a611bbdd33c92545972c224517b5",
+      "raw_file": "scratch/full-catalog/us-details/stanford/67541bd094e9c6460644.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/DESIGN-BS",
+      "sha256": "20fc0165e1096297d5b63e8593d9dfcb2b9dcf5dc02431e65e9e2fa6a09eadbc",
+      "raw_file": "scratch/full-catalog/us-details/stanford/7e98a207821a5e309300.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/DATSC-BA",
+      "sha256": "ddf43ee3c5fa6cf50e89b25d92e0ef87f1daa14797ad2973d7e43c5c4b608a54",
+      "raw_file": "scratch/full-catalog/us-details/stanford/d8abddc9d24d1e5aa2a3.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/DATSC-BS",
+      "sha256": "18448b2474219440c7f5b943326b6a745cfa8d27b5153568c45810adb15c1925",
+      "raw_file": "scratch/full-catalog/us-details/stanford/7d6f11989a2dd1a2924b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ECON-BS",
+      "sha256": "aeeaaa4b4ac72a82e1b2dd61b1121115a68fa8b8b8787db1bf1122c62d8bdf01",
+      "raw_file": "scratch/full-catalog/us-details/stanford/5e17c1344b121b5c5b86.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/JzNNOUhLu7KQWAKTAHcK",
+      "sha256": "828880bc5fd21fe33c774a190cb0f0f65b88e3fb4de5d60b2e64488470d88587",
+      "raw_file": "scratch/full-catalog/us-details/stanford/9f8269714b334bec7da2.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/EPS-BS",
+      "sha256": "bb6768c0dc13446c1f3a6fad0ef10d30cbb5df50b1c45eb610ffc76d23cb1b87",
+      "raw_file": "scratch/full-catalog/us-details/stanford/6eed204a083ac42792e4.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/EASYS-BS",
+      "sha256": "09fed7c35139cc8d0c8d44a51b75ab3212659553f4799178d312b0633a49fe49",
+      "raw_file": "scratch/full-catalog/us-details/stanford/318e41e31686f3b444b0.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/EASST-BA",
+      "sha256": "561ec62393298f9b986d7fda0c92db3a1f7652b6d346798ad75922e6303377ee",
+      "raw_file": "scratch/full-catalog/us-details/stanford/2a41d23fef45a52f7bad.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ECON-BA",
+      "sha256": "3774c0af51c1b9c9071efac81f938ac47d0a98cdfb3b18fd3665fe52dccd3987",
+      "raw_file": "scratch/full-catalog/us-details/stanford/42aa75510a1706002693.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/EE-BS",
+      "sha256": "2c2eef7f7f1943167dbd97b8a59b90f8e0bc98050124817c82aca63b4b4c92f7",
+      "raw_file": "scratch/full-catalog/us-details/stanford/41c34db22cc9b0175cbc.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ENERGY-BS",
+      "sha256": "78f4154da8b0d1d8abe030a45a0c7e45cac2e087d3486f152f0327f8988b9f4c",
+      "raw_file": "scratch/full-catalog/us-details/stanford/a0e887dd88c5f9f25a0e.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ENGR-BS",
+      "sha256": "484bc9418110171c5dfd4a4c2b71539dbf9586725138039c8233e8c7a486a370",
+      "raw_file": "scratch/full-catalog/us-details/stanford/2af8eb63de831da5d9f3.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/66QEfbYoXsDQomIHquBE",
+      "sha256": "2a40bc585cc21bd46a47bfdc19c2cc89b4eea1c1af54cd61e27bc3f829aca59e",
+      "raw_file": "scratch/full-catalog/us-details/stanford/309ea48d1eeae80106cb.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/BhS0crb5iSOey59K4pEu",
+      "sha256": "0611b7f4f6b7deba47d60d6e3c9897b9c554b36ded809db8e3185c7e4bbaaf34",
+      "raw_file": "scratch/full-catalog/us-details/stanford/ad31b69b6ccfdf1b4649.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/amgyvgz1HuZ5s5gEbkq0",
+      "sha256": "5b0d5ed73828fbc0cab43d3ffdb922895ab591d00901bbe4272fd09384917596",
+      "raw_file": "scratch/full-catalog/us-details/stanford/5c7bae5b1bf5f62d4b1b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/16kZ1nSLynUYAQA95BOf",
+      "sha256": "3e4dafe15dee858e9ddc5f5084709d1eba9bad2d7c996ae4d2038927e0406bae",
+      "raw_file": "scratch/full-catalog/us-details/stanford/357e12422760cd938aee.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/jaikpuy4s2o1AEGK4tcF",
+      "sha256": "e4a06e07d9ca43f6eb273fe23be9c9afc081a49bdb9a2ea5635c3c74694a77d8",
+      "raw_file": "scratch/full-catalog/us-details/stanford/6bccbc542146b2866571.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ENGL-BA",
+      "sha256": "07014416e20defcf5c55e81f7eb91cf910ff74b3ce2bc464309a164c1ac8288c",
+      "raw_file": "scratch/full-catalog/us-details/stanford/9f3ef8d78209a402ad59.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ENVSE-BS",
+      "sha256": "b07ec8dd86bfd5ec18ce4a51fa2c49e32da8c6b52de319f6b128d41e100f5939",
+      "raw_file": "scratch/full-catalog/us-details/stanford/dde61704e8c7b6863f44.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/FGSS-BA",
+      "sha256": "505a404564e1597fa5bbbfd48e13ed2a2b5144c0526d9769e8e6a8ea2dccdb30",
+      "raw_file": "scratch/full-catalog/us-details/stanford/73423c9c742b297896f6.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/FILM-BA",
+      "sha256": "5959322f11d826260d6d8bcc8677dfadb1250e6d9365b35c1e2ce472b037930e",
+      "raw_file": "scratch/full-catalog/us-details/stanford/3c72b0b22610d8ab252b.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/FRENC-BA",
+      "sha256": "1a24520c8f4df528927ed0ea6f94e6c01c839ed6adf808ddbfa0a0c213d3ce0a",
+      "raw_file": "scratch/full-catalog/us-details/stanford/469538104763cf72d053.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/GEOPH-BS",
+      "sha256": "f5b3a4cb54b7b03ff0a55015154b0e360e0918e15b63b5cecf73cd7c8e1822cf",
+      "raw_file": "scratch/full-catalog/us-details/stanford/5bae49e808cccfdf039e.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/GERST-BA",
+      "sha256": "50ec35d9d563b217f8e48e1840cd71daa0a5339d173c45639821f086b914c6ef",
+      "raw_file": "scratch/full-catalog/us-details/stanford/344e6e504d09c917e1b9.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/HSTRY-BA",
+      "sha256": "8dacd200d0d9e89cc9c0ba1c12610a28a0daaba9cd6141d47c7289d44478fb7f",
+      "raw_file": "scratch/full-catalog/us-details/stanford/d59f147083897cab644e.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/HUMBI-BS",
+      "sha256": "c3159f265f02f4fbd0473440219ec619e908192bc08dbb743c3823efc931e3e7",
+      "raw_file": "scratch/full-catalog/us-details/stanford/83ba570a38148fa386e6.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/HUMBI-BA",
+      "sha256": "3d2fe3ccb0f4895b4edf6a8873980698da0ab6dbecf32b0e955abd0c50bba272",
+      "raw_file": "scratch/full-catalog/us-details/stanford/9879e41787385dea144f.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/IDMEN-BS",
+      "sha256": "48c073c9e68837c1ffbbf74d4d6b10e095b86df14eb923fe2aba9bdf2036a865",
+      "raw_file": "scratch/full-catalog/us-details/stanford/2eaecda2a655af14a459.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ILAC-BA",
+      "sha256": "46bbec7b4e9d233b353640ba8966ce990d87be894f0d00af66029772d56742b4",
+      "raw_file": "scratch/full-catalog/us-details/stanford/e832d07239ff8212b0c7.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/INTLR-BA",
+      "sha256": "fea0fc1a734a9af084df844978db4222398596682adf5a80fcf0e85e7dfdad9f",
+      "raw_file": "scratch/full-catalog/us-details/stanford/4cacaf3eab436debb5d5.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ITAL-BA",
+      "sha256": "57c2d93b07483dc93f9edbf158eb3e29a6d253c5581887d368dc186be082c6cc",
+      "raw_file": "scratch/full-catalog/us-details/stanford/fef40a6f19398623a929.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/JEWSH-BA",
+      "sha256": "d71a78b33033ff746aac3c7ce82890cf67fb0c383d02a0308a40411b307e0024",
+      "raw_file": "scratch/full-catalog/us-details/stanford/a1d569a7c674270aae84.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/LING-BA",
+      "sha256": "29bbb7a6161dde6c96018c0596e34cedc3edfbd45b00274c61c47de8f74729ee",
+      "raw_file": "scratch/full-catalog/us-details/stanford/f498beee92f03873e856.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/MATSC-BS",
+      "sha256": "f4b883b6140e85e23b815099508b5e280f13ea0b54548f2202c15e4e8e9abd28",
+      "raw_file": "scratch/full-catalog/us-details/stanford/78c157c2b1265461dde0.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/MGTSC-BS",
+      "sha256": "b8fd541aa7f613cc8a4500aa5c50571e335c4c59d4eaf19c1c3c39eaf1999537",
+      "raw_file": "scratch/full-catalog/us-details/stanford/c72dc6c03994ce79c5fd.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/MATH-BS",
+      "sha256": "7e54e247fe06917939bab085676a4089bb65f9712cef4a74f201ddbfc79e3d17",
+      "raw_file": "scratch/full-catalog/us-details/stanford/53a42f02531ba8a783d4.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/ME-BS",
+      "sha256": "5effea9374289f8a10f0b733bebb3e43c01da621b0ba715c89611bdd4359c4e2",
+      "raw_file": "scratch/full-catalog/us-details/stanford/e987acbea7d463af0053.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/MUSIC-BA",
+      "sha256": "f61c714d0185e4179606150b11056eb377980bccaf97b0fbd83e93eb25ed8ea0",
+      "raw_file": "scratch/full-catalog/us-details/stanford/7d6321808548fedb04f4.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/NATAM-BA",
+      "sha256": "c86c83a3dfe151be0df2273e1b6bc193a7aeac95ac902b8bd1d1838ead9231ef",
+      "raw_file": "scratch/full-catalog/us-details/stanford/9bbb0848474c7cb7c0e5.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/PHREL-BA",
+      "sha256": "78da13aaaed1ae302242626df5d9ba2d51ce52877405b8497e90b48a5e80fa7b",
+      "raw_file": "scratch/full-catalog/us-details/stanford/64689f2fca5e736603c2.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/PHYS-BS",
+      "sha256": "3fd71be2e3d6d2f61a999910b9a1892bc26223d111ed451efcdd64197cd8aec5",
+      "raw_file": "scratch/full-catalog/us-details/stanford/2e6e83f00e6a3033e331.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/PHILO-BA",
+      "sha256": "5f70fccad6b9bae56833160e61aead1ca876bbe45956f2ebedf5a21a45eb23fb",
+      "raw_file": "scratch/full-catalog/us-details/stanford/657b48f0ff38ca15744f.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/POLSC-BA",
+      "sha256": "1d86f96d2b25da73b04de1dbe8f6c59540b5371b13920e0fde840798f977da02",
+      "raw_file": "scratch/full-catalog/us-details/stanford/f538a813029573789ca4.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/PSYCH-BA",
+      "sha256": "fee340606ea13df024b54b2090a939200bec7ee245b77dfccb5c10e59d4b5ab2",
+      "raw_file": "scratch/full-catalog/us-details/stanford/d736103b98b6dca50dba.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/PUBPO-BA",
+      "sha256": "64f6471f2665c32fff51115336aa7598df506f41c1d2cf425d0c7cc9e50ac7bc",
+      "raw_file": "scratch/full-catalog/us-details/stanford/c0a7841cc9ef0892c4d6.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/RELST-BA",
+      "sha256": "c3430d04625149bcdc0e6100be1b09521d35e9dfd42af5d91b3148a7cfa49fcd",
+      "raw_file": "scratch/full-catalog/us-details/stanford/e0de68b0b656d86b5b39.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/SPAN-BA",
+      "sha256": "0436a0f7ea04ea209a4f2247ecc5e83f7add83f4846277b76b3641a774c530ea",
+      "raw_file": "scratch/full-catalog/us-details/stanford/f06ebd58c1156cf8989c.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/STS-BA",
+      "sha256": "7c50ea1f8ec56255e42b967d5c8b375c4d6be3191f3801dcaf8b0e91ab450678",
+      "raw_file": "scratch/full-catalog/us-details/stanford/24c19a84b3628f8b14fd.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/STS-BS",
+      "sha256": "77b3ab760bd322e387907102153685d915f723129a38fa25ad66139700cae6ab",
+      "raw_file": "scratch/full-catalog/us-details/stanford/595df8a4c0ca7bf4d2f5.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/SLAV-BA",
+      "sha256": "2bb8e28f25103c5a72ec3992cb7ff6f7bbbe0990e5bdbccb44cac7e9374f382e",
+      "raw_file": "scratch/full-catalog/us-details/stanford/329a5f9137a00c95c828.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/SOCIO-BA",
+      "sha256": "3788db8365138f1183e4a6b5ededd1a714f1c64e981e70937662d5da025a7d23",
+      "raw_file": "scratch/full-catalog/us-details/stanford/ba483630299ae2c2a963.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/SYMBO-BS",
+      "sha256": "fc7e7a46b9f3daec8374f5d5d87cb8fd637c0667a4bda48bba24cd89847cfbe7",
+      "raw_file": "scratch/full-catalog/us-details/stanford/efbd700aab9abe7544b8.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/THPST-BA",
+      "sha256": "b41bb76bb96c02912c7b906e4171861a194b294e5312d948e12e0521f427d3e8",
+      "raw_file": "scratch/full-catalog/us-details/stanford/59e6e936e69901ad79b9.html",
+      "locator": null
+    },
+    {
+      "url": "https://bulletin.stanford.edu/programs/URBST-BA",
+      "sha256": "be3e99e071e373e3c0b7073290308dcec32741ed26e457bb77ae04282d54b7c6",
+      "raw_file": "scratch/full-catalog/us-details/stanford/bcb6462f8762253b0b19.html",
+      "locator": null
+    }
+  ]
+}

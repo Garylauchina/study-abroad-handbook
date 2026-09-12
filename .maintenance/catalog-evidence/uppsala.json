@@ -1,0 +1,803 @@
+{
+  "original_manifest": {
+    "university_id": "uppsala",
+    "checked_at": "2026-09-12",
+    "final_count": 105,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "official_count": 108,
+    "directory_scope": "All108official first-cycle programme results;105degree/qualification routes after3foreign-professional licensure-only complementary course packages excluded. Includes integrated first-entry and degree-bearing advanced-entry programmes; listed locations retained.",
+    "pagination_evidence": "Sitevision server-rendered initial state with typeProgram/levelGrundnivå/start110 returns count108 and108hits; all108programme detail pages read.",
+    "filtering_rules": "Use official programme/first-cycle classification; do not exclude Swedish-taught medicine/law/teacher programmes or qualifying second-entry routes. No free-standing courses, masters-only or preparatory programmes. Exclude three foreign-pharmacist/biomedical-analyst/psychologist licensure-only complementary packages after detail review; these are not new bachelor awards.",
+    "can_prove_complete": true,
+    "gaps": [],
+    "source_urls": [
+      "https://www.uu.se/utbildning/sok?type=Program&level=Grundniv%C3%A5&start=110"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.uu.se/utbildning/program/socionomprogrammet",
+      "sha256": "88ffa1c87becab175f53272050f2a805c4ccdc571fd6c3eb1bddd5e84df0d5c9",
+      "bytes": 147695,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-90.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-90.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-forintelse-och-folkmordsstudier",
+      "sha256": "08b7c9ef1fc8456642469994fb9a55335325775346c322ad14942d0541311907",
+      "bytes": 129728,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-33.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-33.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-fysik-astronomi",
+      "sha256": "9d1894996e15464a8dc931d2779db1c7b0c9632b1affca4570538eff12859e8b",
+      "bytes": 147270,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-43.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-43.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kompletteringsutbildning-for-biomedicinska-analytiker-med-utlandsk-examen",
+      "sha256": "22091ebbb15378ae178e6c8ffb1d544ecf0e3672b96d91cc5e07763829a45abf",
+      "bytes": 142843,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-71.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-71.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-systemvetenskap-speldesign",
+      "sha256": "affd49898057e9f6897973e27795c2e5d1205acdb9d634e53d1cad838abd435e",
+      "bytes": 133720,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-64.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-64.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-kemi-biologi",
+      "sha256": "4804f7563b4f9d15303907bab53539af69025f27f2010b35b931a1b44dc3201d",
+      "bytes": 148452,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-99.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-99.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-system-teknik-och-samhalle",
+      "sha256": "a9e988b5085133530bc0116510da31d3bcf2ff769f73c3711c03d695bc77af08",
+      "bytes": 140845,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-14.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-14.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/sok?type=Program&level=Grundniv%C3%A5&start=110",
+      "sha256": "055df30f91c957db3a4f1211e3e0e5782b352b92a7f7bd17d80be0df09c011a4",
+      "bytes": 416685,
+      "raw_file": "scratch/full-catalog/europe/uppsala/all-basic.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/all-basic.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/humanioraprogrammet",
+      "sha256": "8654531741415981aa7cf07e60508c440e860031496351f204ba1a6d60c70154",
+      "bytes": 130585,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-26.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-26.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-musikvetenskap",
+      "sha256": "d85d6dc094e2f55c34fb3833bf40691a9ef196c43fcc4d18260e6d7972a29e31",
+      "bytes": 135187,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-56.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-56.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-kemi",
+      "sha256": "fdbc72906b123d15c3e3558aa968c4e37414cf8d7c2ca4a6f8ec422fac82f8b0",
+      "bytes": 148569,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-100.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-100.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/byggnadsantikvarieprogrammet",
+      "sha256": "318cda794f8fd1385b919c39231e9e480a90f9644e2e573bd3d0c921d5f937cd",
+      "bytes": 137098,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-6.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-6.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/rontgensjukskoterskeprogrammet",
+      "sha256": "3dd8b24778f354054c5fc6a500f117a88ccfcace735b90c3cf6e1ef03fc02ffc",
+      "bytes": 143794,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-85.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-85.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/nordenprogrammet",
+      "sha256": "8d699520f113693e9d1ab3d5df504ab016b654fa3a6b0b9c9ee13e10356c35d5",
+      "bytes": 129745,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-78.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-78.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-kemiteknik",
+      "sha256": "1ffd169e21ba85b50db80d6f15696ca3aaa0d07438ee40d8db95d09bae908b31",
+      "bytes": 156903,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-11.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-11.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-speldesign-och-programmering",
+      "sha256": "18ec9a4ee627316c477dd5d0255a01595de4e5fe98222e9a9d54281456452ba4",
+      "bytes": 142376,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-61.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-61.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/program-med-inriktning-mot-personal-och-arbetslivsfragor",
+      "sha256": "5d02ca1087cc049ac7d96d3eaa2edd6921cf381abf1b0e074f3ff783a20e3265",
+      "bytes": 144620,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-80.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-80.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/beteendevetenskapligt-kandidatprogram",
+      "sha256": "2e48fb00fa3e81d276918e6e217846614854194fe30adbba83831679e614051b",
+      "bytes": 136574,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-3.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-3.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-ledarskap-kvalitet-forbattring",
+      "sha256": "8ebd1da952d4d95df1b828bd101dd53eb0f4bcd7cd0a04b1287335427bace505",
+      "bytes": 142769,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-53.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-53.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-svenska-som-andrasprak",
+      "sha256": "f651a7796d7fcb0cc347ebc114504ace3881838b8ccc90fab702dc8fce86a2c4",
+      "bytes": 154928,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-105.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-105.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/grundlararprogrammet-f-3",
+      "sha256": "604c22f1dcee6a92bc794652ffe6121d18bf842787a44ffbb5d72de536b83b9c",
+      "bytes": 158672,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-23.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-23.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-fysik-meteorologi-klimatfysik",
+      "sha256": "a86fa1b9bf6eda1db2cce21da17203b0341ae5b7f53a2998c35c304acec1447a",
+      "bytes": 143042,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-46.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-46.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-biologi",
+      "sha256": "eb608d413dca54e826783b3048bd6e1174861ae5f887d34026c091c5c28120a5",
+      "bytes": 143711,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-36.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-36.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/komprimerad-kpu-gymnasieskolan",
+      "sha256": "fa43e54a61c8221997542ad4a35e16c9f50ddd383a0f36896c7989e8e7341da1",
+      "bytes": 137120,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-68.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-68.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-engelska",
+      "sha256": "1944dc0c29c789f8581dd32ce6ae8052e075761f7615aec82437114c8f91a91c",
+      "bytes": 154583,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-95.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-95.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/dietistprogrammet",
+      "sha256": "4c9e25bb6e47e7574326d54e0a70994516e47c988c9670d687266b6f5441697e",
+      "bytes": 139345,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-18.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-18.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/sociologiprogrammet",
+      "sha256": "b1c3e90ea35ae3bf88a29917567afdc5c4e48a2f215e37d2232dd6d8ef6e3b82",
+      "bytes": 134610,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-89.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-89.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/lantmateriprogrammet",
+      "sha256": "971b7526f81939162cc775cddcbb30a473ba3caab04b9fc4276e66e1672018fb",
+      "bytes": 138997,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-74.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-74.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-karnkraftteknik",
+      "sha256": "453b4766074d44c3d47a73a8f26b13a810a392c8f4a3d591d1b31ce768852ed7",
+      "bytes": 144367,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-29.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-29.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-speldesign-och-grafik",
+      "sha256": "05164d3dcb5712139bd7adb7556468b9aef0603fc8a9e8c8d4bb95b34c464b2f",
+      "bytes": 141083,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-59.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-59.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-industriell-ekonomi",
+      "sha256": "7be3f4def0c5831befd891a67d26eede7d22cc5254aaefe03c4142112a2ab042",
+      "bytes": 149787,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-9.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-9.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/lakarprogrammet",
+      "sha256": "bbd41bc3e86dc181cfdc7a06f3343cda06514eeef6bb9c433854875044c0217b",
+      "bytes": 148326,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-77.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-77.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-franska",
+      "sha256": "ab55809434f76cc51151c8289dd15dd032d52cc260d137da3b125c463ee9effd",
+      "bytes": 148563,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-96.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-96.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-fysik-geofysik",
+      "sha256": "c4b701368d425cb28a24c0ed073ed67a325d975a3c1ae9cad3b75053e680b415",
+      "bytes": 149661,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-45.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-45.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-arkeologi-och-osteologi",
+      "sha256": "06495112c72805a83c30f6135316651535502c395216bdc1ba1063e74c92042d",
+      "bytes": 139058,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-35.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-35.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-svenska",
+      "sha256": "89d4e4fc1241663cd0ab7ce8284ddf31f996a1eb87278dcbd6f3a59034f46b50",
+      "bytes": 154780,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-106.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-106.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-kultur-samhalle-och-etnografi",
+      "sha256": "76cc5da750fc9f89d623a75d6b48cddb20123310bc029e0ca4ab61374dce4fb4",
+      "bytes": 137589,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-50.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-50.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/fysioterapeutprogrammet",
+      "sha256": "19e26df0cf8f0f15dc361a242860b038335aa9a55bc4ec314ab9395a8d001b2b",
+      "bytes": 146812,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-20.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-20.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/religionsvetarprogrammet",
+      "sha256": "a7e3dbc967e77ed8789c74094033b9eeb334109cf455721a561889d1cfde2f6e",
+      "bytes": 135698,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-83.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-83.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-miljo-och-vattenteknik",
+      "sha256": "38d21777b8acc02442b24f9af41c1cc3d0fdefe793aed93912b9ed98ba021a19",
+      "bytes": 150788,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-12.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-12.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-speldesign-och-projektledning",
+      "sha256": "79dd2409c291c48c2192f3cf60a777a78885081758e24fb2a74c02eb974cb6d7",
+      "bytes": 143637,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-62.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-62.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/biomedicinska-analytikerprogrammet",
+      "sha256": "2c463889e7518abfa2250da1bfb6731ba88295d1dd596989b6dac67921047317",
+      "bytes": 150413,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-5.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-5.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/samhallsplaneringsprogram",
+      "sha256": "6eaedb103b2d2799b7a29b93766a5640e22a51b8aa38e8321d04091a83ac57d7",
+      "bytes": 132828,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-86.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-86.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/historikerprogrammet",
+      "sha256": "d88ce74400c28ab1d87356c9b46af279ff6fa040b2c61c1fecb6deadd85e58d6",
+      "bytes": 131755,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-25.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-25.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-samhallskunskap",
+      "sha256": "aa2095399e89415c5aa052f6c46a49e2d30c697bee5e691428c4be764e16244a",
+      "bytes": 155034,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-103.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-103.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-medie-och-kommunikationsvetenskap-och-journalistik",
+      "sha256": "01233e833d3b1a2d1ea0b154530f5eec1a63855cf770f506713f21291865c2e0",
+      "bytes": 137523,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-55.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-55.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-kemi",
+      "sha256": "bf72602f217aa314a528bc406401ef7992df438309546c9615f8f73bc9b5aab9",
+      "bytes": 147556,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-49.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-49.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-egyptologi",
+      "sha256": "ec9725ac108bcdeb57de3b86dd3d61a1776c8f27a737bcc5abc77d88420cda19",
+      "bytes": 128858,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-39.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-39.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kpu-7-9",
+      "sha256": "8ed55aef35e57d13c9face3836baa5b72ccbbdfdf30343006191798398fbffe4",
+      "bytes": 160880,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-67.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-67.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-teknisk-matematik",
+      "sha256": "9c8bde85fad4ecb9e469cef68463cda2fffc3129fffe217dc5a5af324a6cb0bd",
+      "bytes": 139690,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-17.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-17.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kompletteringsutbildning-for-psykologer-med-utlandsk-examen",
+      "sha256": "ca9e97a4543e04557a7a22d4d17bf9be61629eefa9ed37d239ff04baba764fc5",
+      "bytes": 127506,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-72.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-72.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-maskinteknik",
+      "sha256": "3d77e7261a3f2e68180ddf577df088526ad50cd73e99acea37906ea5acc64c74",
+      "bytes": 147447,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-30.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-30.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-energiomstallning-hallbarhet-och-ledarskap",
+      "sha256": "d51052144d374187db8b44c9e47d08cfc2ef8d126277996298d0714d64c423e0",
+      "bytes": 140819,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-40.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-40.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/teologprogrammet-kristendom-i-historia-och-nutid",
+      "sha256": "539804469c5b5868c4cf2982105107746707d3872ef14f80f750240c264e60a4",
+      "bytes": 135418,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-93.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-93.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/litteraturvetarprogrammet",
+      "sha256": "d3a99c3fc689d736aa284fbd553455d624e79fdabfe420944f8a026fa8bbb696",
+      "bytes": 134238,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-75.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-75.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/sjukskoterskeprogrammet",
+      "sha256": "2706f6c2441e9810e72ce2b6258dfbc55254eb237da9e61aaeb9623d1f6d4f5d",
+      "bytes": 158181,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-88.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-88.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-datavetenskap",
+      "sha256": "7c9a688f72b96574802936df385b67be0fe1f5e179b6bb27c8269d70de14bba4",
+      "bytes": 145930,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-37.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-37.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-geovetenskap-samhallsvetare",
+      "sha256": "15f2e7d565c509de3c21b4fdec4564a7728edc366f46f408c4f952dff22203f0",
+      "bytes": 147095,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-47.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-47.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/ekonomie-kandidatprogram",
+      "sha256": "55ec1fc69a412bf4c4ba27ae915e4340cb78d20bbbc7d52eb0dc23a59247f860",
+      "bytes": 145497,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-19.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-19.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-biologi",
+      "sha256": "c7c661709d7035170e8752d244f4a1a50a5aee09b64a79bae62b370feba42d9a",
+      "bytes": 155496,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-94.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-94.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kpu-gymnasieskolan",
+      "sha256": "ff6b3cf1b58b538ea27e853d5cabc456f361bacefc81428a8580866965838b80",
+      "bytes": 160787,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-69.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-69.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/arbetsterapeutprogrammet",
+      "sha256": "c6178a769a436fcf64c57c96c465f2fcbf41d3a2ccb107394bf7cbac9530e4e4",
+      "bytes": 139187,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-2.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-2.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/psykologprogrammet",
+      "sha256": "0c197bf1d9e89b22f3216ffbc4ac4106ee9aa5445f30ff8de1257611421bb37b",
+      "bytes": 143976,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-81.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-81.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/forskollararprogrammet",
+      "sha256": "831c40443ca20474065f5423683dd86626fbd015ad5e3c06c7b76e48662d9406",
+      "bytes": 155344,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-22.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-22.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-spanska",
+      "sha256": "d85cfc5ed4ac4eec8d4614247bc15fcce55ebba69a2216be33010638e60b0283",
+      "bytes": 149179,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-104.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-104.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-ledarskap-kvalitet-forbattring-distans",
+      "sha256": "d52778fac973bf3400cfd3e6a36310b868858b9dd752d7ff3e22ac807fdc15d6",
+      "bytes": 143357,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-52.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-52.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-speldesign-och-leveldesign",
+      "sha256": "b4798572176771e999121bbde4b1d2d3ab9a6f08f478b67bb7172088975b7e69",
+      "bytes": 135770,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-60.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-60.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-informationsteknologi",
+      "sha256": "46be349d12efc57335b604c0a7c8719c505575adfdcc2ca34bf1622d882d6788",
+      "bytes": 148477,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-10.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-10.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-matematik",
+      "sha256": "ae3ec2c96efe7ec56f132338d9b19ef013a8a4ab23d54b2c97601f0e97e83c0b",
+      "bytes": 154665,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-101.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-101.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-pedagogik-barn-unga",
+      "sha256": "6dc4a06ab4ebc76798216f5aa0f17ab6c14b80ae5f2f3d1fc2f68e0eff55a406",
+      "bytes": 132949,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-57.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-57.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-byggteknik",
+      "sha256": "2536bbe490d78eab130f7b882894632fb92a910ae6be5e259379d820020cc9ca",
+      "bytes": 142836,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-27.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-27.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/politices-kandidatprogram",
+      "sha256": "c83a3124caeed57914ea790bb0a413454601c34f2e1d0e1d02af98f893490f53",
+      "bytes": 144270,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-79.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-79.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/retorikprogrammet",
+      "sha256": "7d62efbe3bdd4d999f7a9e74d7d4bb1e2249e237f9bf9530d5190ba24b56a9f0",
+      "bytes": 133843,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-84.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-84.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-elektroteknik",
+      "sha256": "c1e7ed863858c06ac5a95c752bdd8f417bfaaf44f13dc7b53dbb12ce25e7160a",
+      "bytes": 145122,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-7.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-7.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-teknisk-fysik-med-materialvetenskap",
+      "sha256": "92824e92d0e82f04ab4844a068a24e005904b36ec7bb7b3898f0fc7b46614553",
+      "bytes": 152809,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-15.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-15.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-historia",
+      "sha256": "00ce37e0c21910ae321f7e125abdde768505bae90922f943ac65441fe5fd2374",
+      "bytes": 154384,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-98.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-98.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-systemvetenskap-systemutveckling",
+      "sha256": "2e0352addb6490c2b22b8eb696888df8cc29e519af63de6fbdc88cee29c7b93d",
+      "bytes": 136593,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-65.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-65.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-tyska",
+      "sha256": "1bf4497f6f4a8567cda1a5a42110ca7c650ef3065eb9ce460df3a5a5b4fdca89",
+      "bytes": 148233,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-108.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-108.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kompletteringsutbildning-for-apotekare-med-utlandsk-examen",
+      "sha256": "92482e8c0b982fcc7b33b291e82a4962d239651c2d8053c793758311f611a836",
+      "bytes": 138892,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-70.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-70.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/sprakvetarprogrammet",
+      "sha256": "b15f9e0c221d654b43fbe1392b65838414e2c5df5c07b4532d8510d093c27c57",
+      "bytes": 141294,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-91.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-91.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-freds-och-utvecklingsstudier",
+      "sha256": "d207dd10e511aea2b3d6ffdf1e68fa80776ff4e29f5809ee6127c4cb959ceffd",
+      "bytes": 136675,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-42.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-42.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/juristprogrammet",
+      "sha256": "6b7f8c5a96be99ed137ab4e0bf31e4e6197dc55966587386e30c338f48f903d8",
+      "bytes": 143681,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-32.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-32.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-engelska-med-globala-perspektiv",
+      "sha256": "b5255cbd30922c2d1765ab41e2cbcc4d48b3a7204b52075092f9fe0dc0719624",
+      "bytes": 138237,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-41.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-41.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-medicinsk-teknik",
+      "sha256": "7439e60d78cba1d2b02ec17ba6023c54b6df227f81dbb04440bd78523fc3be48",
+      "bytes": 142772,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-31.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-31.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/sok?type=Program",
+      "sha256": "751bc7e4334dbc1b22a90f8d709d3d24004053974489ed3acd854d7895c37186",
+      "bytes": 137958,
+      "raw_file": "scratch/full-catalog/europe/uppsala/finder.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/finder.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/teologprogrammet-islam-i-historia-och-nutid",
+      "sha256": "ad73ec2bf8765486cfbc8d343fa91f0ae514cb7c64ed49314f954f85b43d28f9",
+      "bytes": 131824,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-92.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-92.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/sok?type=Program&level=Grundniv%C3%A5&start=10",
+      "sha256": "4b766037911740eee2624a1eda05f1fd3cf70c1306e10af61b7fa77649015df4",
+      "bytes": 167117,
+      "raw_file": "scratch/full-catalog/europe/uppsala/filtered-10.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/filtered-10.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kostvetarprogram",
+      "sha256": "0dbcbd93d3b885f99dd52f0ae6dae4cf3fd4865adb2729cbd70f29f61125ed1e",
+      "bytes": 138966,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-73.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-73.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-digital-affarsutveckling",
+      "sha256": "634ddfb4f5f38cd53b9dbe8e8da763b524091ae81c9debdb417e2655ff6ff4df",
+      "bytes": 137189,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-38.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-38.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-geovetenskap",
+      "sha256": "2ccc32b21a920306d8c0de70a635da9f80b3991b431dd9ccf397f0d9faff671c",
+      "bytes": 146550,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-48.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-48.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-teknisk-fysik",
+      "sha256": "354230f121fd8a394cd05fdb8f2678cbe0ecb6110ef6b2f7395ae74230ec96b2",
+      "bytes": 153025,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-16.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-16.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/komprimerad-kpu-7-9",
+      "sha256": "ca6d3ef4c6b5089024c9383bd7d4da81b8e41da7dd60ba3487307d5062b51170",
+      "bytes": 137249,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-66.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-66.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/samhallsvetarprogram",
+      "sha256": "89f6193ad45c8f9ca5b00927d573ff5e98a70d2b9a092906dc44cd4ec2f5f845",
+      "bytes": 142075,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-87.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-87.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/biomedicinprogrammet",
+      "sha256": "4949c5d473a208a1aaa0db93ca6b4ffb36cdc3af98c30d6d701d1c5580f3c15c",
+      "bytes": 141890,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-4.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-4.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-matematik",
+      "sha256": "8fc17d266cfccaa5b1e87860880a9e7059a1b472d1275d5cd1e6e0c8d9789512",
+      "bytes": 154548,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-54.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-54.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-religionskunskap",
+      "sha256": "2ea19299a0c21de2885d280a93efb61de3d47fed864f980a57daeaec684afba1",
+      "bytes": 155035,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-102.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-102.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/grundlararprogrammet-4-6",
+      "sha256": "9c0e311bb062d975d6d451926321af2eafd5b729ff9661fcf9dfe8d0da60fd3b",
+      "bytes": 153975,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-24.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-24.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-systemvetenskap-programvaruteknik",
+      "sha256": "dd61bb9246fbc2aa170118b8d8cb8fd7f8d40eebc5dcd477725d59f316218152",
+      "bytes": 139696,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-63.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-63.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-molekylar-bioteknik",
+      "sha256": "5dce616257ce2ecddd91d20294319dbed70b4756e1500031ddea80da9f910112",
+      "bytes": 151483,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-13.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-13.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program",
+      "sha256": "62a0a175753e9b9da72638d1e835696c8bdc07f102816d1e93606b70328c87cb",
+      "bytes": 105534,
+      "raw_file": "scratch/full-catalog/europe/uppsala/index.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/index.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/foremalsantikvarieprogrammet",
+      "sha256": "a3e82253fb44079b22a8d7cba532ed234d55417be4acfe5955048b805dde6762",
+      "bytes": 142634,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-21.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-21.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-kultur-och-samhallsanalys",
+      "sha256": "e4633ca23dbb16c33ceaa35c39bd3131cb665140e9dd81d999a3769047f0fb94",
+      "bytes": 136870,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-51.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-51.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-teknik-matematik",
+      "sha256": "42286d9dde995ee1ad540a98618d8f6701823791ab06e4c4a0ca5e56052024ed",
+      "bytes": 147488,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-107.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-107.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/apotekarprogrammet",
+      "sha256": "9e6b441c2c59830e80d2f6613cffaf30b003e5a49ef1c41768df79d8a52a1c12",
+      "bytes": 146310,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-1.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-1.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/receptarieprogrammet",
+      "sha256": "fb5507ba70a7de023e4cd7edfdab69471eea6bc5fb022722b2f4dde0f608cff4",
+      "bytes": 145030,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-82.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-82.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/amneslararprogrammet-fysik-matematik",
+      "sha256": "672163fb62ed7aa04a14aca4b87a75d3691945a6e8023b5a8dfbf275b3dcdcd6",
+      "bytes": 147584,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-97.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-97.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-arkeologi-och-antik-historia",
+      "sha256": "2d1b9fb193536b69d3ef467071bf16da8182e6844c254e4891b3e6b34f950a69",
+      "bytes": 138538,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-34.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-34.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-fysik-fysik",
+      "sha256": "f6bb61a2ce2402b5355672472cfb2c834c311c9d0c916ef3c78d2bd4605edfe0",
+      "bytes": 149086,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-44.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-44.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/kandidatprogram-social-hallbarhet",
+      "sha256": "6ffea686028687ca47067cb562aed9cbe89b68d044340724da2c8bf7bf12f7c1",
+      "bytes": 130327,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-58.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-58.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/hogskoleingenjorsprogrammet-elektroteknik",
+      "sha256": "6e09ff36fbcaa935b53252d562eac103c423fd970f281bba7fee3939cf80ff07",
+      "bytes": 145194,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-28.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-28.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/logopedprogrammet",
+      "sha256": "9079872dde9fbadd73410d8adce65492d0c55997366b3b22687ee030fc84db12",
+      "bytes": 143990,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-76.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-76.source.json"
+    },
+    {
+      "url": "https://www.uu.se/utbildning/program/civilingenjorsprogrammet-energisystem",
+      "sha256": "343517bab09ff5a3265328703690aed00cb29fa514ed466d8449d0c15d728a42",
+      "bytes": 149830,
+      "raw_file": "scratch/full-catalog/europe/uppsala/detail-8.html",
+      "meta_file": "scratch/full-catalog/europe/uppsala/detail-8.source.json"
+    }
+  ]
+}

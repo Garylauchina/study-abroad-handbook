@@ -1,0 +1,72 @@
+{
+  "original_manifest": {
+    "university_id": "melbourne",
+    "status": "partial",
+    "count": 140,
+    "official_total": null,
+    "discovery_source_url": "https://study.unimelb.edu.au/connect-with-us/view-our-brochures",
+    "source_period": "2027",
+    "scope": "Every named bachelor and non-minor major/specialisation in 2027 official university guide pp12–13, plus Science Extended in entry table",
+    "pagination_evidence": {
+      "pdf_pages": 24,
+      "complete_major_spread_pages": [
+        12,
+        13
+      ],
+      "visual_review": true,
+      "group_counts": {
+        "Agriculture": 3,
+        "Arts": 33,
+        "Biomedicine": 16,
+        "Commerce": 7,
+        "Design": 14,
+        "Fine Arts": 9,
+        "Music": 6,
+        "Oral Health": 0,
+        "Science": 42
+      }
+    },
+    "filter_rules": [
+      "Official PDF obtained using normal Chrome downloadMedia on observed download link; archived original + SHA256",
+      "Explicit minor-only footnote exclusions: Chinese Societies, Development Studies, Digital Studies, English Language Studies, Environmental Studies, European Studies, Japanese Societies, Law and Justice, Medieval and Early Modern Studies, South Asian Studies",
+      "Oral Health four curricular components explicitly not majors and are not separately counted",
+      "Exclude concurrent diplomas and standalone postgraduate MD/JD/DVM; Veterinary Bioscience remains bachelor major with later-selection note"
+    ],
+    "gaps": [
+      "Official Handbook and study finder returned access challenges; 2027 university brochure is complete for its listed mainstream entry degrees but cannot prove university-wide current honours/second-bachelor/restricted historic-program completeness",
+      "Separate honours programs and any additional Indigenous/extended pathways outside this guide await catalog reconciliation",
+      "Individual major URLs not obtained; PDF page locator is the verified official reference"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://study.unimelb.edu.au/study-with-us/undergraduate-courses",
+      "sha256": "918f8bfd9abd8251cb6269c238f05ea60683580cb0f72aae5195d30a7121f1b5",
+      "bytes": 53198,
+      "raw_file": "scratch/full-catalog/australia/melbourne/undergraduate-browser.html",
+      "meta_file": "scratch/full-catalog/australia/melbourne/undergraduate-browser.meta.json"
+    },
+    {
+      "url": "https://study.unimelb.edu.au/connect-with-us/view-our-brochures",
+      "sha256": "c0bcea44aa101986c33b101e54cd38b53a67161dcc6b4f513806235d9175f487",
+      "bytes": 28046,
+      "raw_file": "scratch/full-catalog/australia/melbourne/brochures-browser.html",
+      "meta_file": "scratch/full-catalog/australia/melbourne/brochures-browser.meta.json"
+    },
+    {
+      "url": "https://study.unimelb.edu.au/__data/assets/pdf_file/0023/50684/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+      "sha256": "a5a894cc88910926f38e0562fff90de25a46acc47543bb83e6ed891b40e6d0f2",
+      "bytes": 3886506,
+      "raw_file": "scratch/full-catalog/australia/melbourne/2027-Domestic-Profile-A4-Bro-WEB-28Jul.pdf",
+      "meta_file": "scratch/full-catalog/australia/melbourne/2027-Domestic-Profile-A4-Bro-WEB-28Jul.meta.json"
+    },
+    {
+      "url": "https://handbook.unimelb.edu.au/",
+      "sha256": "d35b2345f622616d9f6172f1af3453341ff40502116383b72c1294185f4ccbc2",
+      "bytes": 1163,
+      "raw_file": "scratch/full-catalog/australia/melbourne/handbook.html",
+      "meta_file": "scratch/full-catalog/australia/melbourne/handbook.meta.json"
+    }
+  ]
+}

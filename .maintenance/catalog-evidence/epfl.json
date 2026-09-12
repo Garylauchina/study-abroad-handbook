@@ -1,0 +1,28 @@
+{
+  "original_manifest": {
+    "university_id": "epfl",
+    "checked_at": "2026-09-12",
+    "count": 13,
+    "status": "complete",
+    "scope": "EPFL官方Bachelor目录列出的全部13个本科专业。",
+    "method": "单页按5个学院列出13个本科课程链接，无分页；13个课程页全部归档。",
+    "sources": [
+      {
+        "url": "https://www.epfl.ch/education/bachelor/programs/",
+        "sha256": "a84840f549c4ccf5d81bc8a483ce8766226868f4be3ac829afca58a4f88e9644",
+        "raw_file": "epfl.html"
+      }
+    ],
+    "exclusions": "排除 0 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [],
+    "gaps": []
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.epfl.ch/education/bachelor/programs/",
+      "sha256": "a84840f549c4ccf5d81bc8a483ce8766226868f4be3ac829afca58a4f88e9644",
+      "raw_file": "scratch/full-catalog/root/epfl.html",
+      "bytes": 105387
+    }
+  ]
+}

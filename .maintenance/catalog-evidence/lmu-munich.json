@@ -1,0 +1,43 @@
+{
+  "original_manifest": {
+    "university_id": "lmu-munich",
+    "checked_at": "2026-09-12",
+    "final_count": 159,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "official_count": 699,
+    "directory_scope": "LMU complete German degree-and-subject catalogue; primary bachelor subjects, teacher-training Unterrichtsfach and all other first-professional degrees explicitly classified Grundständig",
+    "pagination_evidence": "Official public front-end search proxy returns numRows=699, results length=699, rows=1000, page=1; all records captured.",
+    "filtering_rules": "Keep Bachelor Hauptfach (64), Lehramt Unterrichtsfach (85), other explicitly Grundständig first-degree records; exclude 47 Bachelor Nebenfach, teacher extension/didactic/qualification subjects, graduate degrees, doctorates, certificates. Preserve state examinations, law first examination, Magister Theologiae/church examinations and university theology Diplom classified first-entry by LMU.",
+    "can_prove_complete": true,
+    "gaps": [
+      "German official names preserved in name_en/name_original because no English catalogue version was provided. Teacher-training subjects are components and are explicitly identified; combinations are not multiplied into invented degrees."
+    ],
+    "source_urls": [
+      "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/index.html",
+      "https://cms-search.lmu.de/search/courses_by_name_asc/execute?query=*&language=de&numRows=1000&page=1"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://cms-search.lmu.de/search/courses_by_name_asc/execute?query=*&language=de&numRows=1000&page=1",
+      "sha256": "41902ab9e25d5283e76aea02c09f26e41917ccc500c0791c04f247fbc6373ee7",
+      "bytes": 6012548,
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.json",
+      "meta_file": "scratch/full-catalog/europe/lmu-munich/catalog-api.source.json"
+    },
+    {
+      "url": "https://cms-cdn.lmu.de/assets/scripts/app.bundle.js?v=20260710",
+      "sha256": "d771153e7146e3df98a1347640d6b40892c83d5f859f26934be5ca736456894f",
+      "bytes": 422282,
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/app-script.html",
+      "meta_file": "scratch/full-catalog/europe/lmu-munich/app-script.source.json"
+    },
+    {
+      "url": "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/index.html?numRows=500&page=1&sorting=by_name_asc",
+      "sha256": "f348873a8e0413aab5f9742aaad2d7097886bf426aeeb12b1498c23e9539a1a6",
+      "bytes": 32495,
+      "raw_file": "scratch/full-catalog/europe/lmu-munich/index.html",
+      "meta_file": "scratch/full-catalog/europe/lmu-munich/index.source.json"
+    }
+  ]
+}

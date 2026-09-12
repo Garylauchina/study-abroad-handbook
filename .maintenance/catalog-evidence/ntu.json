@@ -1,0 +1,62 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.ntu.edu.sg/education/degree-programmes",
+    "official_total": null,
+    "official_total_unit": "degree tables (single, double major, double degree, integrated)",
+    "pagination_complete": true,
+    "provably_complete": true,
+    "page_evidence": [
+      {
+        "table": 0,
+        "included": 48
+      },
+      {
+        "table": 1,
+        "included": 49
+      },
+      {
+        "table": 2,
+        "included": 6
+      },
+      {
+        "table": 3,
+        "included": 1
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "Catalogue is AY2026, and explicitly directs applicants to admissions pages for the upcoming academic year.",
+      "Education/NIE routes can have sponsor and applicant restrictions; listing alone is not international eligibility.",
+      "Second-major add-ons, stand-alone minors and graduate tables excluded."
+    ],
+    "raw_artifacts": [
+      "ntu/raw/directory.meta.json"
+    ],
+    "university_id": "ntu",
+    "count": 104,
+    "checked_at": "2026-09-12",
+    "directory_enumeration_complete": true,
+    "status_counts": {
+      "listed_current": 104
+    },
+    "record_type_counts": {
+      "single_degree": 48,
+      "double_major_degree": 49,
+      "double_degree": 6,
+      "undergraduate_integrated_programme": 1
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.ntu.edu.sg/education/degree-programmes",
+      "sha256": "ecb00757ab504083702dc05fdf84764082960e65531b4ca27d4934351ce2b2d0",
+      "bytes": 216746,
+      "raw_file": "scratch/full-catalog/asia/ntu/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/ntu/raw/directory.meta.json"
+    }
+  ]
+}

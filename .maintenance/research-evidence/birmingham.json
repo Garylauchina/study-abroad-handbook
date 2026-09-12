@@ -1,0 +1,35 @@
+{
+  "university_id": "birmingham",
+  "sources": [
+    {
+      "url": "https://www.birmingham.ac.uk/international/students/country/china/gaokao",
+      "sha256": "9237990fd9db6d8b0c8bf268fc61021b43714e7021d45545b0c2c36bcb472d27",
+      "raw_file": "scratch/full-catalog/uk-enrichment/birmingham/raw/gaokao-dom.html",
+      "locator": "Entry requirements"
+    },
+    {
+      "url": "https://www.birmingham.ac.uk/study/international/country/china",
+      "sha256": "6b98fdca4b61b51be58a7000fddb00a618fc2f42d089c73323d2296e13a88ba1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/birmingham/raw/china-dom.html",
+      "locator": "Undergraduate"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true",
+      "sha256": "4c5950051ee207e378a28445eab160dd5552882b86dc236bb4f7c333d3ab2797",
+      "raw_file": "scratch/full-catalog/uk/birmingham/raw/directory-all-dom.html",
+      "locator": "Theoretical Physics MSci"
+    }
+  ]
+}

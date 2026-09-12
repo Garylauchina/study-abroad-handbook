@@ -1,0 +1,581 @@
+{
+  "original_manifest": {
+    "university_id": "tum",
+    "checked_at": "2026-09-12",
+    "final_count": 58,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "official_count": 183,
+    "directory_scope": "All 19 pages of TUM degree directory; bachelor programmes plus undergraduate first-qualification state examinations and Diplombraumeister; published international campus offerings retained with location fields.",
+    "pagination_evidence": "Pages1–18 contain10cards each; page19 contains3; all183stablecourseIDsunique. All selected detail pages read.",
+    "filtering_rules": "Exclude graduate masters/doctorate, certificates, honours supplementary credential, Other partial/supplementary degrees and teaching extension/didactic components; retain 53 bachelor entries, 4 primary State Exam entries and Diplombraumeister.",
+    "can_prove_complete": true,
+    "gaps": [
+      "Teacher-training main subjects are curriculum components, not fabricated stand-alone awards. Admission availability not investigated. Language null when an explicit teaching-language sentence was not retrieved."
+    ],
+    "source_urls": [
+      "https://www.tum.de/en/studies/degree-programs"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/informatics-games-engineering-bachelor-of-science-bsc",
+      "sha256": "e4153c632331202e4992c64f9d59c5634fb72167af4852cdb96e593690139421",
+      "bytes": 412741,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-36.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-36.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/environmental-engineering-bachelor-of-science-bsc",
+      "sha256": "34cf1baeb61607a5d1fa2d6f66d8205cd019381414e76337d478c6e7b613da31",
+      "bytes": 411417,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-46.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-46.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/geodesy-and-earth-observation-bachelor-of-science-bsc",
+      "sha256": "075a0114741207dfbcae23e4d713e9b2f1263213f020e26b61731bc792867c13",
+      "bytes": 411245,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-563.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-563.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/civil-engineering-bachelor-of-science-bsc",
+      "sha256": "6a497fe84e020e57d640221167d7a18c0fcad4909b1653d47583e2afafa59f75",
+      "bytes": 413870,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-18.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-18.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/brewing-diplombraumeister-degree-diplom-braumeister",
+      "sha256": "96a0b2d9d0cc1a37259e403d5e27e5fa1b4cf796ed0aaa0147c1ac38c7d2d7c2",
+      "bytes": 405061,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-287.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-287.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/teaching-at-academic-secondary-schools-scientific-education-bachelor-of-education-bed",
+      "sha256": "941da28d84eded924bb5c546a6c29fbe741cc60c8da8f0e8295cc53e5d39eda2",
+      "bytes": 406167,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-68.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-68.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/lehramt-an-realschulen-unterrichtsfach-sport-staatsexamen",
+      "sha256": "30f4197673ad1ca98ac53f8c09333803e5828a17784ba4678d3bf702e93e8a0a",
+      "bytes": 388709,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-368.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-368.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=7",
+      "sha256": "e9cfd25660f78d4f46b242c4307055de45c05e20dce977e14c1a1bcaf83911de",
+      "bytes": 430022,
+      "raw_file": "scratch/full-catalog/europe/tum/page-7.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-7.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=17",
+      "sha256": "aa2f53ebac4610b98e2086d4e0cd8cc6a41115b5ea1f6920d0b3c912710bff88",
+      "bytes": 429904,
+      "raw_file": "scratch/full-catalog/europe/tum/page-17.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-17.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/electronics-and-data-engineering-bachelor-of-engineering-beng",
+      "sha256": "575fe72877b7aede990cddfacd46765628973d7e800ba0050c6d75335ac26c17",
+      "bytes": 400060,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-499.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-499.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/bioinformatics-bachelor-of-science-bsc",
+      "sha256": "c165cb96e7db1e82f9253d5f5ed896256176003dd315e1ac8a033f02e1d557fc",
+      "bytes": 397164,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-23.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-23.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/vocational-education-electrical-engineering-and-information-technology-teaching-at-vocational-schools-bachelor-of-education-bed",
+      "sha256": "84194c6b68c44b58f490835e865e87923dd74ceaac79a6fd8e9c5dddbc2a4583",
+      "bytes": 403534,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-64.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-64.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/brewing-and-beverage-technology-bachelor-of-science-bsc",
+      "sha256": "ea078e4de22fe85be6964757017b306a4e1f2801747cfa7de1fdb73731d2e6f8",
+      "bytes": 415494,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-26.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-26.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/physics-bachelor-of-science-bsc",
+      "sha256": "9af8779927cd5f25c13efba45662d0fa8c2e46d6fff092df72f9836f8a239a9a",
+      "bytes": 411518,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-43.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-43.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/geodesy-and-geoinformation-bachelor-of-science-bsc",
+      "sha256": "4e3382de47090a07e24277edcabd0de3ad588b6e64aeebdaa18e460cecdee63f",
+      "bytes": 414883,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-33.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-33.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=12",
+      "sha256": "becb68c9571fc4d4c0810c9b3304533a128b974a537bfc69b4682b7a406db63b",
+      "bytes": 429554,
+      "raw_file": "scratch/full-catalog/europe/tum/page-12.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-12.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=2",
+      "sha256": "0f876a2462ac200b70fe36ffe252b2f61f58c71422478a705c46418b76184579",
+      "bytes": 429685,
+      "raw_file": "scratch/full-catalog/europe/tum/page-2.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-2.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/technology-of-biogenic-resources-bachelor-of-science-bsc",
+      "sha256": "a3b107b8a1e9c0d76684865b1ca145055fc030fa60ea32ed2e6d9ccf0fa22dad",
+      "bytes": 410550,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-495.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-495.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=11",
+      "sha256": "9e62e6f3fbfd6b86203d709c8ea6ec12d89b638f11fd0d2b670f5e73c84c0468",
+      "bytes": 430094,
+      "raw_file": "scratch/full-catalog/europe/tum/page-11.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-11.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/aerospace-bachelor-of-science-bsc",
+      "sha256": "0af3bd13c438ff3a78306bb86fdff8e85da4ab0cb30589d41b57b9cb45247a88",
+      "bytes": 414992,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-509.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-509.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/bioeconomics-bachelor-of-science-bsc",
+      "sha256": "1da5624e0d79abed9287b45957586ce564b15546bd74cefa232d15f594cdfa8f",
+      "bytes": 415100,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-435.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-435.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/mathematics-bachelor-of-science-bsc",
+      "sha256": "0f3c9bc9febd777f7803ddd3650bfa023acacc092447eec27987bfebf9950ae5",
+      "bytes": 414351,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-40.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-40.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/health-sciences-bachelor-of-science-bsc",
+      "sha256": "39007701db328b4ec03c6cf8123f008f537a3ceb760d1d693111352c8b192ed2",
+      "bytes": 416043,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-179.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-179.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/electrical-engineering-and-information-technology-bachelor-of-science-bsc",
+      "sha256": "68e47d15f94c6bc243d3957397d355c87ec5327369432da2c4b017fab692af35",
+      "bytes": 415144,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-30.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-30.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=18",
+      "sha256": "c6dc99ed5e569377b4935d7ddd1e6d645a3e18852a0ccb1e5596fc51937b6783",
+      "bytes": 429833,
+      "raw_file": "scratch/full-catalog/europe/tum/page-18.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-18.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=8",
+      "sha256": "f1e6931c57f9f3ec1fe9543e7d459469044c843003f1b05437d52394b691e17f",
+      "bytes": 429884,
+      "raw_file": "scratch/full-catalog/europe/tum/page-8.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-8.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/pharmaceutical-bioprocess-engineering-bachelor-of-science-bsc",
+      "sha256": "b7143ebd7d940094add5ac5cba5d6258e9793f6f54f4a94713ccc6821205f519",
+      "bytes": 414421,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-25.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-25.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/mechanical-engineering-bachelor-of-science-bsc",
+      "sha256": "cde38f5cefb29c0ed4198a07fc63e8555f1784b2c38c6145c038867f82f14aa7",
+      "bytes": 416999,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-39.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-39.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/engineering-science-bachelor-of-science-bsc",
+      "sha256": "3aafc05626294ff7f1d13b73466212badec9eed681588875b1dfa994e1fe9da0",
+      "bytes": 413981,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-49.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-49.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/vocational-education-metal-engineering-teaching-at-vocational-schools-bachelor-of-education-bed",
+      "sha256": "e04380e7bcf215c747f152047bb438b47aa394fce56b7702efbb3f2120da2e33",
+      "bytes": 404003,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-67.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-67.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/life-sciences-biology-bachelor-of-science-bsc",
+      "sha256": "8d4922187556c115a96b48cd68431643ae0d39802979abdcfbec1398bc1c6b48",
+      "bytes": 420441,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-449.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-449.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/management-and-technology-tum-bwl-bachelor-of-science-bsc",
+      "sha256": "a14c25bafa5a1af394821108c59d95b82269c4bba64b9d76381343e8830e3680",
+      "bytes": 412599,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-467.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-467.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/vocational-education-agriculture-teaching-at-vocational-schools-bachelor-of-education-bed",
+      "sha256": "3b8d548e0059b3425f015638cce02a17c245b2523cec62acd75475bbd2f10285",
+      "bytes": 401479,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-62.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-62.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/lehramt-an-grundschulen-und-mittelschulen-unterrichtsfach-sport-staatsexamen",
+      "sha256": "578770bd4bef4d8eb0b87f25bca63c16955557dce479cf8c051e4098343f23a8",
+      "bytes": 390086,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-377.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-377.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=14",
+      "sha256": "6ca9db0073d54fa19016d295e550633fe4db17bb88d87247c683248adea343c7",
+      "bytes": 429766,
+      "raw_file": "scratch/full-catalog/europe/tum/page-14.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-14.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=4",
+      "sha256": "bf4203bc0712a4dccf5a2547e8fdafa3a8501e06b5958343ba323a2b19e650c0",
+      "bytes": 429581,
+      "raw_file": "scratch/full-catalog/europe/tum/page-4.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-4.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/informatics-bachelor-of-science-bsc",
+      "sha256": "227db033b1eea9ae9c415b99800703d40c75cd1e1aa7ad4d3a3e42928f3ba604",
+      "bytes": 413742,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-35.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-35.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/food-technology-bachelor-of-science-bsc",
+      "sha256": "7a927ac9cdaebe1f68dfbcfd6893ac39b2031e809afbfb87752ed4ac026c7a0e",
+      "bytes": 414546,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-45.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-45.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/engineering-and-materials-science-bachelor-of-science-bsc",
+      "sha256": "2456f1333f3bd93722f2329fe55c53d0d63606404c59a8823d5f488d94773d98",
+      "bytes": 402916,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-555.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-555.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=3",
+      "sha256": "e70a86d1a4b4f2d20786fb502d615abb438d4a4ef3e1a6639c963ae64f0aa5f2",
+      "bytes": 429877,
+      "raw_file": "scratch/full-catalog/europe/tum/page-3.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-3.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=13",
+      "sha256": "4e816f1a4ac81f648eea3c43280376510f5881a9ca140bcbe9ad96d715d63a5f",
+      "bytes": 429819,
+      "raw_file": "scratch/full-catalog/europe/tum/page-13.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-13.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/forest-science-and-resource-management-bachelor-of-science-bsc",
+      "sha256": "6a8c5da1942a53fda056ff4bfb8ca855632e1c6e0d271af63132a32d4f6d0beb",
+      "bytes": 420337,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-32.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-32.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/chemistry-bachelor-of-science-bsc",
+      "sha256": "7fe6a30fde8ea96c73acb4eac5100b2eb2f58c6c0992d6b1ef3504508259cd71",
+      "bytes": 416961,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-27.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-27.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/lehramt-an-grundschulen-didaktikfach-sport-staatsexamen",
+      "sha256": "2c26dc6d4b414abf860fef494dbc36f7ebd7514bd86a9d54bc0d1cbb260fe3f2",
+      "bytes": 388346,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-379.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-379.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/vocational-education-nutrition-and-home-economics-teaching-at-vocational-schools-bachelor-of-education-bed",
+      "sha256": "313dd17780a568b4b8806630a5e5744546351e45de57a58260386ad0f0ee2719",
+      "bytes": 404231,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-65.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-65.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/biogenic-materials-bachelor-of-science-bsc",
+      "sha256": "42cdfdbbcc85383dca19d4175238290ec00a7f9e49a8eaa58f0940e9b6d72323",
+      "bytes": 415985,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-481.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-481.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/management-and-data-science",
+      "sha256": "31c689e9df69c3745ec08e30a7deaeb490bcd91730278b13d3319b7a1018d7d8",
+      "bytes": 411012,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-540.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-540.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/sustainable-management-and-technology-bachelor-of-science-bsc",
+      "sha256": "0fede57495d037f338805f5e0e93e35cd3057673eb5ab23c15cee5fa2383878a",
+      "bytes": 414951,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-507.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-507.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/chemical-biotechnology-bachelor-of-science-bsc",
+      "sha256": "cfb206dc95d2da6c154b85543f3b66b97ce8e43428c631797e9bac4bb6135a98",
+      "bytes": 413147,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-381.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-381.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/biochemistry-bachelor-of-science-bsc",
+      "sha256": "7ebcbea71be157750e8ff84b3a9d549043e3e9d9a5261b0eb51ba514f2058d8f",
+      "bytes": 416303,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-22.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-22.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/bioeconomy-bachelor-of-science-bsc",
+      "sha256": "e4ca88b7ba2f61a4a082662244580b578f03daf914958d2e6833ca1f6722cb44",
+      "bytes": 414393,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-545.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-545.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/medicine-clinical-work-staatsexamen",
+      "sha256": "26468980d40b6ed103b738f5e754dd100b1d1e63ff13605ab67e07e6a4d8cfc0",
+      "bytes": 392211,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-310.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-310.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=16",
+      "sha256": "4b69f998d463472c850ba4ce6cf140f6bf23e0747355e13b2802c82fcdd00600",
+      "bytes": 430000,
+      "raw_file": "scratch/full-catalog/europe/tum/page-16.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-16.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=6",
+      "sha256": "1c507a9fa4d8d7028ad149b4f998cc0ad14ea9d6bce0024d5f06d6fbc264e641",
+      "bytes": 430196,
+      "raw_file": "scratch/full-catalog/europe/tum/page-6.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-6.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/lehramt-an-mittelschulen-didaktikfach-sport-staatsexamen-1",
+      "sha256": "3b7ee7895ccf0b734af7bc0a7541966efcec1e2a7cdeec1b9009f825bbca1242",
+      "bytes": 385984,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-305.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-305.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/landscape-architecture-and-landscape-planning-bachelor-of-science-bsc",
+      "sha256": "7ec46c6c581ae48cf26eb5a3e452c6d5130a902d0fec2e290c38fa662d7af70f",
+      "bytes": 416960,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-37.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-37.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/sustainable-engineering-for-materials-and-processes-bachelor-of-science-bsc",
+      "sha256": "00e023b2931a13a3a883d42460a87b98327a74a4751a89f60ad032a2bd1015da",
+      "bytes": 410635,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-561.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-561.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/sport-science-bachelor-of-science-bsc",
+      "sha256": "2e634ce1298d9cd7cb599d400c3b08d6525f7877c04bde72d44760da5c84d5df",
+      "bytes": 416409,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-44.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-44.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/political-science-bachelor-of-science-bsc",
+      "sha256": "5d6beca8b721026e22d413bb0f5d7fdf908e7b9e7fa897711c23fbcc23131eea",
+      "bytes": 413125,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-334.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-334.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/geosciences-bachelor-of-science-bsc",
+      "sha256": "e1dc1750500e01319f9af9bbb2eab2a95b684ea7f16f6d61c962ce7acd3e4375",
+      "bytes": 409697,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-34.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-34.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/chemical-engineering-bachelor-of-science-bsc",
+      "sha256": "c6289526167f5e14415afef8f3612a680f4cb195a828adc8110f2352c5b7a678",
+      "bytes": 413680,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-28.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-28.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/lehramt-sport-erweiterungsfachdrittfach-staatsexamen",
+      "sha256": "cfbc9e7a04d0780888c202ac1aa9fad7414643bc857e0eb5a85ffd4ba67bc79d",
+      "bytes": 387929,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-306.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-306.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=5",
+      "sha256": "6ff9f26da806691a13c89478e85684131224a3589ce89b33feba0304773876a9",
+      "bytes": 430393,
+      "raw_file": "scratch/full-catalog/europe/tum/page-5.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-5.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=15",
+      "sha256": "843dfa96204f625ea1c8ff18bd58089fc2d00ef571dfd3f3cbdee4ec313bac45",
+      "bytes": 430500,
+      "raw_file": "scratch/full-catalog/europe/tum/page-15.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-15.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/vocational-education-structural-engineering-teaching-at-vocational-schools-bachelor-of-education-bed",
+      "sha256": "3a42c47cf9532fc6e4914a0dbd417c95598c57568c2fc4fb1a265b22a3354b45",
+      "bytes": 403092,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-63.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-63.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/management-and-technology-bachelor-of-science-bsc",
+      "sha256": "2454cc3c056b71d290c77467837984793d2e6dd2930e4532cd006059c188dbf5",
+      "bytes": 416328,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-21.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-21.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/information-systems-bachelor-of-science-bsc",
+      "sha256": "a17a4b24c6e0de65f0443c76f45b81e3d31493c5d02d614138987b263455f2e6",
+      "bytes": 413811,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-48.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-48.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/food-chemistry-bachelor-of-science-bsc",
+      "sha256": "2c1b97a536892d3742a30a8fac04560242134fa87c53d679729db3177c303f47",
+      "bytes": 412739,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-38.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-38.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs",
+      "sha256": "5ea157ec3c0b3edbe1867a544516b907df97dfdc08516b8c36436568e1de3124",
+      "bytes": 429655,
+      "raw_file": "scratch/full-catalog/europe/tum/index.html",
+      "meta_file": "scratch/full-catalog/europe/tum/index.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/vocational-education-health-and-health-care-science-teaching-at-vocational-schools-bachelor-of-education-bed",
+      "sha256": "0d2694ccb620d8b052556cbb3dd94bd366a8adf59c616bf5a129f6948d2074f2",
+      "bytes": 404626,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-66.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-66.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/agricultural-and-horticultural-sciences-bachelor-of-science-bsc",
+      "sha256": "e9dee4a78c3b3e4ec5f24599017752c9227960962291b19c2c0093197d5c9b14",
+      "bytes": 418080,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-204.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-204.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/architecture-bachelor-of-arts-ba",
+      "sha256": "4dd8b066afb638e5b5d4000be84b343f20a96f275ac797c8ec2a3ebbf0084931",
+      "bytes": 414471,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-16.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-16.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=9",
+      "sha256": "164f6ec0f39720fb8664410817897d7049a937a82b3fe61525ec1985c165190b",
+      "bytes": 429503,
+      "raw_file": "scratch/full-catalog/europe/tum/page-9.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-9.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=19",
+      "sha256": "6697549ca728d62f2793cfde9cc07c9eb3741cc2fa8afd8048ce89fe174801d2",
+      "bytes": 424322,
+      "raw_file": "scratch/full-catalog/europe/tum/page-19.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-19.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/information-engineering-at-tum-campus-heilbronn-bachelor-of-science-bsc",
+      "sha256": "f56aec3539567d34527d5b4fad3b324b4172aa47ca6d5ab792b35be30af17f91",
+      "bytes": 411721,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-501.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-501.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/life-sciences-nutrition-bachelor-of-science-bsc",
+      "sha256": "b93d7b0ca8c65d0f5fd934d2e791f3735e9e92c21fee8d95d961083cd0397b6e",
+      "bytes": 418650,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-31.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-31.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/molecular-biotechnology-bachelor-of-science-bsc",
+      "sha256": "d911fa1da6dd042dc5ee70f82b930e0cb89a30b340e04609263542d50f21f8e2",
+      "bytes": 416653,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-41.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-41.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/chemical-engineering-bachelor-of-engineering-beng",
+      "sha256": "cdcaec6b192ebeb021fadd2b824f0bb59273bc47a9932bdefe697e2f3e43fd66",
+      "bytes": 398702,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-497.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-497.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/lehramt-an-gymnasien-unterrichtsfach-sport-staatsexamen",
+      "sha256": "24b042f94ce0ee48d06197b12ee75a3ee94fa81123948928cf943cb5556f09e4",
+      "bytes": 387429,
+      "raw_file": "scratch/full-catalog/europe/tum/detail-course-373.html",
+      "meta_file": "scratch/full-catalog/europe/tum/detail-course-373.source.json"
+    },
+    {
+      "url": "https://www.tum.de/en/studies/degree-programs?tx_solr%5Bpage%5D=10",
+      "sha256": "618e31d884065594a9738b8c22371e08d64b7380293673dc93f74c88c5620446",
+      "bytes": 429815,
+      "raw_file": "scratch/full-catalog/europe/tum/page-10.html",
+      "meta_file": "scratch/full-catalog/europe/tum/page-10.source.json"
+    }
+  ]
+}

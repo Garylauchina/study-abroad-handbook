@@ -1,0 +1,2883 @@
+{
+  "university_id": "polyu",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "partial",
+    "count": 109,
+    "scope": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
+    "method": "[{\"filter\": \"prog_detail_jps\", \"pages\": [{\"page\": 0, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0\"}, {\"page\": 1, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1\"}, {\"page\": 2, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2\"}, {\"page\": 3, \"count\": 1, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=3\"}], \"completion\": \"pagination exhausted\"}, {\"filter\": \"prog_detail_nj\", \"pages\": [{\"page\": 0, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=0\"}, {\"page\": 1, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=1\"}, {\"page\": 2, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=2\"}, {\"page\": 3, \"count\": 1, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=3\"}], \"completion\": \"pagination exhausted\"}, {\"filter\": \"prog_detail_njh\", \"pages\": [{\"page\": 0, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0\"}, {\"page\": 1, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1\"}, {\"page\": 2, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2\"}, {\"page\": 3, \"count\": 12, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3\"}], \"completion\": \"pagination exhausted\"}, {\"filter\": \"prog_detail_international\", \"pages\": [{\"page\": 0, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=0\"}, {\"page\": 1, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=1\"}, {\"page\": 2, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=2\"}, {\"page\": 3, \"count\": 1, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=3\"}], \"completion\": \"pagination exhausted\"}, {\"filter\": \"prog_detail_jee\", \"pages\": [{\"page\": 0, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=0\"}, {\"page\": 1, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=1\"}, {\"page\": 2, \"count\": 15, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=2\"}, {\"page\": 3, \"count\": 1, \"url\": \"https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=3\"}], \"completion\": \"pagination exhausted\"}]",
+    "exclusions": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
+    "sources": [
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+        "sha256": "68ad159d675891ca4425d915d4e166eea647faf0ec8e66b9391d187ea534ba97",
+        "bytes": 80884,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-1.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-1.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=1",
+        "sha256": "3475ee8ab8710869c14f57bd09e61973b108e9459809319d08f4c100bdca2300",
+        "bytes": 83974,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-1.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-1.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+        "sha256": "5f59ba34e816915fd8b2e23ee438b2999915a5646bba6b3d6f54f11da2347aa6",
+        "bytes": 83288,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-0.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-0.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+        "sha256": "cee4fbd0fdf172a9c41e029b7a66154db2f8756c80ada35bfd87c4d922e14b2e",
+        "bytes": 80092,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-0.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-0.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+        "sha256": "077af5e2e7fd952365559a1599bfeaa35f9ee7cf05c5bd905ddab016dc12d08d",
+        "bytes": 82229,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-1.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-1.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=0",
+        "sha256": "e6dc19e8ae0bc251710acd7c8fe730c1d3a1aa4246a5c811eeff5d614d674850",
+        "bytes": 83089,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-0.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-0.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=3",
+        "sha256": "6616bdfda05527f1987e770a8f95efb6a5f39477d0bb25aa0ca56f8e1e52d0f0",
+        "bytes": 68519,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-3.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-3.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+        "sha256": "36ca41c4ed15bc56eb42c4b90362d63110d10ef0cf662ffee9683928e3de876e",
+        "bytes": 83244,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-2.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-2.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=2",
+        "sha256": "1460e8a6686a3890d60731cee5db9e524f90f4ee52ca0b248f493aa2cf323ffe",
+        "bytes": 82197,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-2.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jee-2.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=2",
+        "sha256": "c6e02c0719ad2fb945cd6df7bae1eb47a0869df01b16e08fd1f769387c4f8794",
+        "bytes": 83123,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-2.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_international-2.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+        "sha256": "2e2cfb44a8cd583726c5ef9c1d6f0f71df592c958f4faf04553908f392d7316f",
+        "bytes": 80038,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-2.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_jps-2.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+        "sha256": "82e4d0b2101a0b23d363a5aa0c9ca10bfcd432727d5333766b27bd2a1255a68d",
+        "bytes": 79707,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-3.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_njh-3.meta.json"
+      },
+      {
+        "url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=2",
+        "sha256": "ee4e337edb4a484b7c43cd479a6731595cb59d51741f9b6f9e972d6ff949708b",
+        "bytes": 83066,
+        "raw_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-2.html",
+        "meta_file": "scratch/full-catalog/asia/polyu/raw/prog_detail_nj-2.meta.json"
+      }
+    ],
+    "gaps": [
+      "All five route-filter pagers exhausted (46/46/57/46/46 positions). Identical title/year coalesced across applicant routes.",
+      "Schemes contain named majors in parentheses; these are not arbitrarily split before checking official award-level detail.",
+      "Senior-year-only records retained separately from Year 1; applicant-route URLs preserved.",
+      "Current directory cards state Sept 2026, not 2027."
+    ]
+  },
+  "programs": [
+    {
+      "name_en": "Accounting and Finance (Accountancy / Accounting and Finance / Digital Finance and Investment) - BBA (Hons) Scheme - Bachelor of Business Administration (Honours) Scheme",
+      "degree_label": "Bachelor of Business Administration (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3060",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3060 | Sept 2026 Entry",
+      "raw_key": "Accounting and Finance (Accountancy / Accounting and Finance / Digital Finance and Investment) - BBA (Hons) Scheme - Bachelor of Business Administration (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3060",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3060",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3060",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3060"
+      ],
+      "id": "polyu-accounting-and-finance-accountancy-accounting-and-finance-digital-f96aea9add"
+    },
+    {
+      "name_en": "Applied Mathematics and Finance Analytics (Applied Mathematics / Investment Science and Finance Analytics / Quantitative Finance and FinTech) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3220",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3220 | Sept 2026 Entry",
+      "raw_key": "Applied Mathematics and Finance Analytics (Applied Mathematics / Investment Science and Finance Analytics / Quantitative Finance and FinTech) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3220",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3220",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3220",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3220"
+      ],
+      "id": "polyu-applied-mathematics-and-finance-analytics-applied-mathematics-inv-818052ff15"
+    },
+    {
+      "name_en": "Applied Social Sciences (Social Work / Social Policy and Social Entrepreneurship) - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme",
+      "degree_label": "Bachelor of Arts (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3250",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3250 | Sept 2026 Entry",
+      "raw_key": "Applied Social Sciences (Social Work / Social Policy and Social Entrepreneurship) - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3250",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3250",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3250"
+      ],
+      "id": "polyu-applied-social-sciences-social-work-social-policy-and-social-entr-40487f8b52"
+    },
+    {
+      "name_en": "Architectural Studies - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3214",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3214 | Sept 2026 Entry",
+      "raw_key": "Architectural Studies - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3214",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3214",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3214",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3214"
+      ],
+      "id": "polyu-architectural-studies-bsc-hons-bachelor-of-science-honours-cbaaace7f0"
+    },
+    {
+      "name_en": "Aviation Engineering (Aeronautical Engineering / Air Transport Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme",
+      "degree_label": "Bachelor of Engineering (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3140",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3140 | Sept 2026 Entry",
+      "raw_key": "Aviation Engineering (Aeronautical Engineering / Air Transport Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3140",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3140",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3140",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3140"
+      ],
+      "id": "polyu-aviation-engineering-aeronautical-engineering-air-transport-engin-b35ae5b3f7"
+    },
+    {
+      "name_en": "Biomedical Engineering - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3150",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3150 | Sept 2026 Entry",
+      "raw_key": "Biomedical Engineering - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj",
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3150",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3150",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3150",
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/47401-sy",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3150"
+      ],
+      "id": "polyu-biomedical-engineering-bsc-hons-bachelor-of-science-honours-756e9014de"
+    },
+    {
+      "name_en": "Biotechnology and Chemical Technology - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3011",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3011 | Sept 2026 Entry",
+      "raw_key": "Biotechnology and Chemical Technology - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3011",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3011",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3011",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3011"
+      ],
+      "id": "polyu-biotechnology-and-chemical-technology-bsc-hons-scheme-bachelor-of-b63e7a42bd"
+    },
+    {
+      "name_en": "Building Engineering and Management - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3791",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3791 | Sept 2026 Entry",
+      "raw_key": "Building Engineering and Management - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3791",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3791",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3791",
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/32405-syb"
+      ],
+      "id": "polyu-building-engineering-and-management-bsc-hons-bachelor-of-science-d324b78cea"
+    },
+    {
+      "name_en": "Building Sciences and Engineering - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3211",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3211 | Sept 2026 Entry",
+      "raw_key": "Building Sciences and Engineering - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj",
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3211",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3211",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3211",
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/33483-sye",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3211"
+      ],
+      "id": "polyu-building-sciences-and-engineering-beng-hons-bachelor-of-engineeri-00e0ca9eb4"
+    },
+    {
+      "name_en": "Business Administration - Bachelor’s Degree Scheme",
+      "degree_label": "Bachelor’s Degree Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3003",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3003 | Sept 2026 Entry",
+      "raw_key": "Business Administration - Bachelor’s Degree Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3003",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3003",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3003",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3003"
+      ],
+      "id": "polyu-business-administration-bachelor-s-degree-scheme-5a1e719c57"
+    },
+    {
+      "name_en": "Chinese History and Culture - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3320",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3320 | Sept 2026 Entry",
+      "raw_key": "Chinese History and Culture - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj",
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3320",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3320",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3320",
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/77404-sy",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3320"
+      ],
+      "id": "polyu-chinese-history-and-culture-ba-hons-bachelor-of-arts-honours-f375100818"
+    },
+    {
+      "name_en": "Civil Engineering - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3739",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3739 | Sept 2026 Entry",
+      "raw_key": "Civil Engineering - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj",
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3739",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3739",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3739",
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/31476-syc",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3739"
+      ],
+      "id": "polyu-civil-engineering-beng-hons-bachelor-of-engineering-honours-269d655623"
+    },
+    {
+      "name_en": "Computer and Mathematical Sciences - Bachelor’s Degree Scheme",
+      "degree_label": "Bachelor’s Degree Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3006",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3006 | Sept 2026 Entry",
+      "raw_key": "Computer and Mathematical Sciences - Bachelor’s Degree Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jee",
+        "prog_detail_jps"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3006",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3006"
+      ],
+      "id": "polyu-computer-and-mathematical-sciences-bachelor-s-degree-scheme-446b6da6d5"
+    },
+    {
+      "name_en": "Computing and AI (Computer Science / Enterprise Information Systems) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3868",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3868  | Sept 2026 Entry",
+      "raw_key": "Computing and AI (Computer Science / Enterprise Information Systems) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3868",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3868",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3868",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3868"
+      ],
+      "id": "polyu-computing-and-ai-computer-science-enterprise-information-systems-aa6f242b30"
+    },
+    {
+      "name_en": "Construction and Environment - Bachelor’s Degree Scheme",
+      "degree_label": "Bachelor’s Degree Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3004",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=0",
+      "source_period": "JS3004 | Sept 2026 Entry",
+      "raw_key": "Construction and Environment - Bachelor’s Degree Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3004",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3004",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3004",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3004"
+      ],
+      "id": "polyu-construction-and-environment-bachelor-s-degree-scheme-99b05e46d4"
+    },
+    {
+      "name_en": "Data Science and Artificial Intelligence (Artificial Intelligence / Artificial Intelligence with Financial Technology / Data Science and Analytics) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3223",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3223 | Sept 2026 Entry",
+      "raw_key": "Data Science and Artificial Intelligence (Artificial Intelligence / Artificial Intelligence with Financial Technology / Data Science and Analytics) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3223",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3223",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3223",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3223"
+      ],
+      "id": "polyu-data-science-and-artificial-intelligence-artificial-intelligence-b047d928e7"
+    },
+    {
+      "name_en": "Design (Advertising Design / Environmental Design / Immersive Media and Game Design / Information Design / Interaction Design / Interior Design / Product Design / Service Design / Social Design) - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme",
+      "degree_label": "Bachelor of Arts (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3569",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3569  | Sept 2026 Entry",
+      "raw_key": "Design (Advertising Design / Environmental Design / Immersive Media and Game Design / Information Design / Interaction Design / Interior Design / Product Design / Service Design / Social Design) - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3569",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3569",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3569"
+      ],
+      "id": "polyu-design-advertising-design-environmental-design-immersive-media-an-5ffc7fbfbb"
+    },
+    {
+      "name_en": "Electrical Engineering (Electrical Engineering / Transportation Systems Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme",
+      "degree_label": "Bachelor of Engineering (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3170",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3170 | Sept 2026 Entry",
+      "raw_key": "Electrical Engineering (Electrical Engineering / Transportation Systems Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3170",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3170",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3170"
+      ],
+      "id": "polyu-electrical-engineering-electrical-engineering-transportation-syst-3737a66486"
+    },
+    {
+      "name_en": "Engineering - Bachelor’s Degree Scheme",
+      "degree_label": "Bachelor’s Degree Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3005",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3005 | Sept 2026 Entry",
+      "raw_key": "Engineering - Bachelor’s Degree Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3005",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3005",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3005",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3005"
+      ],
+      "id": "polyu-engineering-bachelor-s-degree-scheme-bdd7910e18"
+    },
+    {
+      "name_en": "English and Applied Linguistics - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3240",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3240 | Sept 2026 Entry",
+      "raw_key": "English and Applied Linguistics - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj",
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3240",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3240",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3240",
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/71429-sy",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3240"
+      ],
+      "id": "polyu-english-and-applied-linguistics-ba-hons-bachelor-of-arts-honours-4853b2f770"
+    },
+    {
+      "name_en": "Environmental Engineering and Sustainable Development - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3375",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3375 | Sept 2026 Entry",
+      "raw_key": "Environmental Engineering and Sustainable Development - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3375",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3375",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3375",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3375"
+      ],
+      "id": "polyu-environmental-engineering-and-sustainable-development-beng-hons-b-5044184482"
+    },
+    {
+      "name_en": "Fashion (Fashion Design / Knitwear Design / Contour Fashion and Activewear / Fashion Business / Fashion Innovation and Technology)  - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme",
+      "degree_label": "Bachelor of Arts (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3050",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3050 | Sept 2026 Entry",
+      "raw_key": "Fashion (Fashion Design / Knitwear Design / Contour Fashion and Activewear / Fashion Business / Fashion Innovation and Technology)  - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3050",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3050"
+      ],
+      "id": "polyu-fashion-fashion-design-knitwear-design-contour-fashion-and-active-cefc8971ad"
+    },
+    {
+      "name_en": "Food Science and Nutrition (Food Safety and Technology / Human Nutrition and Health)  - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3255",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3255 | Sept 2026 Entry",
+      "raw_key": "Food Science and Nutrition (Food Safety and Technology / Human Nutrition and Health)  - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3255",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3255",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3255"
+      ],
+      "id": "polyu-food-science-and-nutrition-food-safety-and-technology-human-nutri-e3025abaae"
+    },
+    {
+      "name_en": "Global Business and Logistics, Aviation, Maritime, and Supply Chain Management - BBA (Hons) Scheme - Bachelor of Business Administration (Honours) Scheme",
+      "degree_label": "Bachelor of Business Administration (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3070",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3070 | Sept 2026 Entry",
+      "raw_key": "Global Business and Logistics, Aviation, Maritime, and Supply Chain Management - BBA (Hons) Scheme - Bachelor of Business Administration (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3070",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3070",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3070",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3070"
+      ],
+      "id": "polyu-global-business-and-logistics-aviation-maritime-and-supply-chain-5f58c374f6"
+    },
+    {
+      "name_en": "Hotel and Tourism Management (Hotel Management / Smart Tourism and Hospitality / Event and Experience Management) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3310",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3310 | Sept 2026 Entry",
+      "raw_key": "Hotel and Tourism Management (Hotel Management / Smart Tourism and Hospitality / Event and Experience Management) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3310",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3310",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3310",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3310"
+      ],
+      "id": "polyu-hotel-and-tourism-management-hotel-management-smart-tourism-and-h-2d09771e30"
+    },
+    {
+      "name_en": "Humanities - Bachelor’s Degree Scheme",
+      "degree_label": "Bachelor’s Degree Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3007",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3007 | Sept 2026 Entry",
+      "raw_key": "Humanities - Bachelor’s Degree Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3007",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3007",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3007",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3007"
+      ],
+      "id": "polyu-humanities-bachelor-s-degree-scheme-4cca2a6659"
+    },
+    {
+      "name_en": "Information and Artificial Intelligence Engineering (Internet-of-Things / Artificial Intelligence / Information Security) - BEng (Hons) / BSc (Hons) Scheme - Bachelor of Engineering (Honours) / Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Engineering (Honours) / Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3180",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3180 | Sept 2026 Entry",
+      "raw_key": "Information and Artificial Intelligence Engineering (Internet-of-Things / Artificial Intelligence / Information Security) - BEng (Hons) / BSc (Hons) Scheme - Bachelor of Engineering (Honours) / Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3180",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3180",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3180",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3180"
+      ],
+      "id": "polyu-information-and-artificial-intelligence-engineering-internet-of-t-881d042d36"
+    },
+    {
+      "name_en": "Intelligent Supply Chain and Engineering Management (Intelligent Supply Chain / Engineering Management with Data Analytics / Aviation Operations and Systems) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3237",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3237 | Sept 2026 Entry",
+      "raw_key": "Intelligent Supply Chain and Engineering Management (Intelligent Supply Chain / Engineering Management with Data Analytics / Aviation Operations and Systems) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3237",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3237",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3237"
+      ],
+      "id": "polyu-intelligent-supply-chain-and-engineering-management-intelligent-s-f0dfdb2463"
+    },
+    {
+      "name_en": "Interdisciplinary Studies - Bachelor’s Degree Scheme",
+      "degree_label": "Bachelor’s Degree Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3000",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3000 | Sept 2026 Entry",
+      "raw_key": "Interdisciplinary Studies - Bachelor’s Degree Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3000",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3000",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3000",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3000"
+      ],
+      "id": "polyu-interdisciplinary-studies-bachelor-s-degree-scheme-7e494a1547"
+    },
+    {
+      "name_en": "Language Science and Technology - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3243",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=1",
+      "source_period": "JS3243 | Sept 2026 Entry",
+      "raw_key": "Language Science and Technology - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3243",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3243",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3243",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3243"
+      ],
+      "id": "polyu-language-science-and-technology-bsc-hons-bachelor-of-science-hono-78142499c5"
+    },
+    {
+      "name_en": "Management and Marketing (Management / Marketing) - BBA (Hons) Scheme - Bachelor of Business Administration (Honours) Scheme",
+      "degree_label": "Bachelor of Business Administration (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3080",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3080 | Sept 2026 Entry",
+      "raw_key": "Management and Marketing (Management / Marketing) - BBA (Hons) Scheme - Bachelor of Business Administration (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3080",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3080",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3080",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3080"
+      ],
+      "id": "polyu-management-and-marketing-management-marketing-bba-hons-scheme-bac-1cbce9b5f0"
+    },
+    {
+      "name_en": "Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme",
+      "degree_label": "Bachelor of Engineering (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3741",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3741 | Sept 2026 Entry",
+      "raw_key": "Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3741",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3741",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3741"
+      ],
+      "id": "polyu-mechanical-engineering-intelligent-robotics-engineering-mechanica-2ef9de03f5"
+    },
+    {
+      "name_en": "Medical Laboratory Science - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3478",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3478  | Sept 2026 Entry",
+      "raw_key": "Medical Laboratory Science - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3478",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3478",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3478",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3478"
+      ],
+      "id": "polyu-medical-laboratory-science-bsc-hons-bachelor-of-science-honours-a4ed6c3f45"
+    },
+    {
+      "name_en": "Mental Health Nursing  - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3337",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3337  | Sept 2026 Entry",
+      "raw_key": "Mental Health Nursing  - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jee",
+        "prog_detail_jps"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3337",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3337"
+      ],
+      "id": "polyu-mental-health-nursing-bsc-hons-bachelor-of-science-honours-b443de698c"
+    },
+    {
+      "name_en": "Nursing  - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3648",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3648  | Sept 2026 Entry",
+      "raw_key": "Nursing  - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jee",
+        "prog_detail_jps"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3648",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3648"
+      ],
+      "id": "polyu-nursing-bsc-hons-bachelor-of-science-honours-f8fedcfcb1"
+    },
+    {
+      "name_en": "Occupational Therapy  - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3624",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3624  | Sept 2026 Entry",
+      "raw_key": "Occupational Therapy  - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3624",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3624"
+      ],
+      "id": "polyu-occupational-therapy-bsc-hons-bachelor-of-science-honours-41bea719e4"
+    },
+    {
+      "name_en": "Optometry - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3290",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3290 | Sept 2026 Entry",
+      "raw_key": "Optometry - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3290",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3290",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3290"
+      ],
+      "id": "polyu-optometry-bsc-hons-bachelor-of-science-honours-a61a3bbec0"
+    },
+    {
+      "name_en": "Physics with a Secondary Major in Artificial Intelligence & Data Analytics (AIDA) / Innovation and Entrepreneurship (IE)  - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3030",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3030 | Sept 2026 Entry",
+      "raw_key": "Physics with a Secondary Major in Artificial Intelligence & Data Analytics (AIDA) / Innovation and Entrepreneurship (IE)  - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3030",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3030"
+      ],
+      "id": "polyu-physics-with-a-secondary-major-in-artificial-intelligence-data-an-d020f9a298"
+    },
+    {
+      "name_en": "Physiotherapy - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3636",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3636  | Sept 2026 Entry",
+      "raw_key": "Physiotherapy - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3636",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3636",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3636",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3636"
+      ],
+      "id": "polyu-physiotherapy-bsc-hons-bachelor-of-science-honours-31c1053460"
+    },
+    {
+      "name_en": "Product Innovation and Smart Manufacturing (Product Innovation with Marketing / Smart Manufacturing) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme",
+      "degree_label": "Bachelor of Engineering (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3236",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3236 | Sept 2026 Entry",
+      "raw_key": "Product Innovation and Smart Manufacturing (Product Innovation with Marketing / Smart Manufacturing) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3236",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3236",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3236",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3236"
+      ],
+      "id": "polyu-product-innovation-and-smart-manufacturing-product-innovation-wit-f990b6c28c"
+    },
+    {
+      "name_en": "Radiography - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3612",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3612  | Sept 2026 Entry",
+      "raw_key": "Radiography - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3612",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3612",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3612"
+      ],
+      "id": "polyu-radiography-bsc-hons-bachelor-of-science-honours-c6b16de68d"
+    },
+    {
+      "name_en": "Science - Bachelor’s Degree Scheme",
+      "degree_label": "Bachelor’s Degree Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3008",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3008  | Sept 2026 Entry",
+      "raw_key": "Science - Bachelor’s Degree Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3008",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3008",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3008",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3008"
+      ],
+      "id": "polyu-science-bachelor-s-degree-scheme-b915e83030"
+    },
+    {
+      "name_en": "Spatial Data Science and Smart Cities (Land Surveying and Geo-Informatics / Urban Informatics and Smart Cities) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3130",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3130 | Sept 2026 Entry",
+      "raw_key": "Spatial Data Science and Smart Cities (Land Surveying and Geo-Informatics / Urban Informatics and Smart Cities) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3130",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3130",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3130",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3130"
+      ],
+      "id": "polyu-spatial-data-science-and-smart-cities-land-surveying-and-geo-info-1f27fc220c"
+    },
+    {
+      "name_en": "Speech Therapy - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3242",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3242 | Sept 2026 Entry",
+      "raw_key": "Speech Therapy - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3242",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3242",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3242",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3242"
+      ],
+      "id": "polyu-speech-therapy-bsc-hons-bachelor-of-science-honours-67f9a55090"
+    },
+    {
+      "name_en": "Sports Science and Technology - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3160",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=2",
+      "source_period": "JS3160 | Sept 2026 Entry",
+      "raw_key": "Sports Science and Technology - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3160",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3160",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3160",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3160"
+      ],
+      "id": "polyu-sports-science-and-technology-bsc-hons-bachelor-of-science-honour-6d9de1907e"
+    },
+    {
+      "name_en": "Surveying - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jupas/2026/js3789",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jps&page=3",
+      "source_period": "JS3789 | Sept 2026 Entry",
+      "raw_key": "Surveying - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_jps",
+        "prog_detail_nj",
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3789",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3789",
+        "https://www.polyu.edu.hk/study/ug/jupas/2026/js3789",
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/32405-sys",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3789"
+      ],
+      "id": "polyu-surveying-bsc-hons-bachelor-of-science-honours-a45c703a95"
+    },
+    {
+      "name_en": "Electrical Engineering (Electrical Engineering  / Transportation Systems Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme",
+      "degree_label": "Bachelor of Engineering (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3170",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=0",
+      "source_period": "JS3170 | Sept 2026 Entry",
+      "raw_key": "Electrical Engineering (Electrical Engineering  / Transportation Systems Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3170"
+      ],
+      "id": "polyu-electrical-engineering-electrical-engineering-transportation-syst-dcc4c7d9a9"
+    },
+    {
+      "name_en": "Applied Social Sciences (Social Work/ Social Policy and Social Entrepreneurship) - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme",
+      "degree_label": "Bachelor of Arts (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3250",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=0",
+      "source_period": "JS3250 | Sept 2026 Entry",
+      "raw_key": "Applied Social Sciences (Social Work/ Social Policy and Social Entrepreneurship) - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3250"
+      ],
+      "id": "polyu-applied-social-sciences-social-work-social-policy-and-social-entr-344eefc4ee"
+    },
+    {
+      "name_en": "Building Engineering and Management  - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3791",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=0",
+      "source_period": "JS3791 | Sept 2026 Entry",
+      "raw_key": "Building Engineering and Management  - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3791"
+      ],
+      "id": "polyu-building-engineering-and-management-bsc-hons-bachelor-of-science-0bc9cd4d53"
+    },
+    {
+      "name_en": "Computer and Mathematical Sciences  - Bachelor’s Degree Scheme",
+      "degree_label": "Bachelor’s Degree Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3006",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=0",
+      "source_period": "JS3006 | Sept 2026 Entry",
+      "raw_key": "Computer and Mathematical Sciences  - Bachelor’s Degree Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3006",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3006"
+      ],
+      "id": "polyu-computer-and-mathematical-sciences-bachelor-s-degree-scheme-b065ac3f8a"
+    },
+    {
+      "name_en": "Mental Health Nursing - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3337",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=2",
+      "source_period": "JS3337 | Sept 2026 Entry",
+      "raw_key": "Mental Health Nursing - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_nj"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3337",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3337"
+      ],
+      "id": "polyu-mental-health-nursing-bsc-hons-bachelor-of-science-honours-882edb3346"
+    },
+    {
+      "name_en": "Nursing - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3648",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_nj&page=2",
+      "source_period": "JS3648 | Sept 2026 Entry",
+      "raw_key": "Nursing - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_nj",
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3648",
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/53455-sy",
+        "https://www.polyu.edu.hk/study/ug/non-jupas/2026/js3648"
+      ],
+      "id": "polyu-nursing-bsc-hons-bachelor-of-science-honours-510f7f7728"
+    },
+    {
+      "name_en": "Accountancy - BBA (Hons) - Bachelor of Business Administration (Honours)",
+      "degree_label": "Bachelor of Business Administration (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/21453-sya",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "21453-SYA | Sept 2026 Entry",
+      "raw_key": "Accountancy - BBA (Hons) - Bachelor of Business Administration (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/21453-sya"
+      ],
+      "id": "polyu-accountancy-bba-hons-bachelor-of-business-administration-honours-92d048d968"
+    },
+    {
+      "name_en": "Accounting and Finance - BBA (Hons) - Bachelor of Business Administration (Honours)",
+      "degree_label": "Bachelor of Business Administration (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/21453-syb",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "21453-SYB | Sept 2026 Entry",
+      "raw_key": "Accounting and Finance - BBA (Hons) - Bachelor of Business Administration (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/21453-syb"
+      ],
+      "id": "polyu-accounting-and-finance-bba-hons-bachelor-of-business-administrati-414d420af6"
+    },
+    {
+      "name_en": "Analytical Sciences for Testing and Certification - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/12456",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "12456 | Sept 2026 Entry",
+      "raw_key": "Analytical Sciences for Testing and Certification - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/12456"
+      ],
+      "id": "polyu-analytical-sciences-for-testing-and-certification-bsc-hons-bachel-e9e31c47d8"
+    },
+    {
+      "name_en": "Applied Ageing Studies and Service Management  - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/54458",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "54458 | Sept 2026 Entry",
+      "raw_key": "Applied Ageing Studies and Service Management  - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/54458"
+      ],
+      "id": "polyu-applied-ageing-studies-and-service-management-ba-hons-bachelor-of-f933468741"
+    },
+    {
+      "name_en": "Applied Biology with Biotechnology - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/12461-sya",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "12461-SYA | Sept 2026 Entry",
+      "raw_key": "Applied Biology with Biotechnology - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/12461-sya"
+      ],
+      "id": "polyu-applied-biology-with-biotechnology-bsc-hons-bachelor-of-science-h-ee4a4d6c1c"
+    },
+    {
+      "name_en": "Artificial Intelligence and Information Engineering - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46409-sya",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "46409-SYA | Sept 2026 Entry",
+      "raw_key": "Artificial Intelligence and Information Engineering - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46409-sya"
+      ],
+      "id": "polyu-artificial-intelligence-and-information-engineering-bsc-hons-bach-a689bba9d6"
+    },
+    {
+      "name_en": "Aviation Engineering (Aviation Engineering / Air Transport Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme",
+      "degree_label": "Bachelor of Engineering (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/48403-sy",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "48403-SY | Sept 2026 Entry",
+      "raw_key": "Aviation Engineering (Aviation Engineering / Air Transport Engineering) - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/48403-sy"
+      ],
+      "id": "polyu-aviation-engineering-aviation-engineering-air-transport-engineeri-c669e5e4ca"
+    },
+    {
+      "name_en": "Aviation Management and Finance - BBA (Hons) - Bachelor of Business Administration (Honours)",
+      "degree_label": "Bachelor of Business Administration (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/44493-sya",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "44493-SYA | Sept 2026 Entry",
+      "raw_key": "Aviation Management and Finance - BBA (Hons) - Bachelor of Business Administration (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/44493-sya"
+      ],
+      "id": "polyu-aviation-management-and-finance-bba-hons-bachelor-of-business-adm-cd2859a9e6"
+    },
+    {
+      "name_en": "Aviation Operations and Systems - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45497",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "45497 | Sept 2026 Entry",
+      "raw_key": "Aviation Operations and Systems - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45497"
+      ],
+      "id": "polyu-aviation-operations-and-systems-bsc-hons-bachelor-of-science-hono-beb203f5be"
+    },
+    {
+      "name_en": "Chemical Technology - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/12461-syc",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=0",
+      "source_period": "12461-SYC | Sept 2026 Entry",
+      "raw_key": "Chemical Technology - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/12461-syc"
+      ],
+      "id": "polyu-chemical-technology-bsc-hons-bachelor-of-science-honours-56990509ad"
+    },
+    {
+      "name_en": "Computing and AI - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/61435-sy",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "61435-SY | Sept 2026 Entry",
+      "raw_key": "Computing and AI - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/61435-sy"
+      ],
+      "id": "polyu-computing-and-ai-bsc-hons-scheme-bachelor-of-science-honours-sche-cfc7b8960b"
+    },
+    {
+      "name_en": "Data Science and Analytics - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/62401-syd",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "62401-SYD | Sept 2026 Entry",
+      "raw_key": "Data Science and Analytics - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/62401-syd"
+      ],
+      "id": "polyu-data-science-and-analytics-bsc-hons-bachelor-of-science-honours-035c5e7e26"
+    },
+    {
+      "name_en": "Design (Advertising Design) - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syv",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "73416-SYV | Sept 2026 Entry",
+      "raw_key": "Design (Advertising Design) - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syv"
+      ],
+      "id": "polyu-design-advertising-design-ba-hons-bachelor-of-arts-honours-5defab6f91"
+    },
+    {
+      "name_en": "Design (Environmental Design) - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syr",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "73416-SYR | Sept 2026 Entry",
+      "raw_key": "Design (Environmental Design) - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syr"
+      ],
+      "id": "polyu-design-environmental-design-ba-hons-bachelor-of-arts-honours-ffb68b944f"
+    },
+    {
+      "name_en": "Design (Information Design) - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syf",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "73416-SYF | Sept 2026 Entry",
+      "raw_key": "Design (Information Design) - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syf"
+      ],
+      "id": "polyu-design-information-design-ba-hons-bachelor-of-arts-honours-014343cae2"
+    },
+    {
+      "name_en": "Design (Interaction Design) - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syt",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "73416-SYT | Sept 2026 Entry",
+      "raw_key": "Design (Interaction Design) - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syt"
+      ],
+      "id": "polyu-design-interaction-design-ba-hons-bachelor-of-arts-honours-3bcb21ed85"
+    },
+    {
+      "name_en": "Design (Interior Design) - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syi",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "73416-SYI | Sept 2026 Entry",
+      "raw_key": "Design (Interior Design) - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syi"
+      ],
+      "id": "polyu-design-interior-design-ba-hons-bachelor-of-arts-honours-6d910f37e4"
+    },
+    {
+      "name_en": "Design (Media Design) - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-sym",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "73416-SYM | Sept 2026 Entry",
+      "raw_key": "Design (Media Design) - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-sym"
+      ],
+      "id": "polyu-design-media-design-ba-hons-bachelor-of-arts-honours-a4e13f5550"
+    },
+    {
+      "name_en": "Design (Product Design) - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syd",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "73416-SYD | Sept 2026 Entry",
+      "raw_key": "Design (Product Design) - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syd"
+      ],
+      "id": "polyu-design-product-design-ba-hons-bachelor-of-arts-honours-8e96558c73"
+    },
+    {
+      "name_en": "Design (Service Design) - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-sys",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "73416-SYS | Sept 2026 Entry",
+      "raw_key": "Design (Service Design) - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-sys"
+      ],
+      "id": "polyu-design-service-design-ba-hons-bachelor-of-arts-honours-0f9881f7e8"
+    },
+    {
+      "name_en": "Design (Social Design) - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syo",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "73416-SYO | Sept 2026 Entry",
+      "raw_key": "Design (Social Design) - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/73416-syo"
+      ],
+      "id": "polyu-design-social-design-ba-hons-bachelor-of-arts-honours-5c16f50171"
+    },
+    {
+      "name_en": "Digital Finance & Investment - BBA (Hons) - Bachelor of Business Administration (Honours)",
+      "degree_label": "Bachelor of Business Administration (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/21453-syd",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "21453-SYD | Sept 2026 Entry",
+      "raw_key": "Digital Finance & Investment - BBA (Hons) - Bachelor of Business Administration (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/21453-syd"
+      ],
+      "id": "polyu-digital-finance-investment-bba-hons-bachelor-of-business-administ-eded7e5eaf"
+    },
+    {
+      "name_en": "Electrical Engineering - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46408-sye",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "46408-SYE | Sept 2026 Entry",
+      "raw_key": "Electrical Engineering - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46408-sye"
+      ],
+      "id": "polyu-electrical-engineering-beng-hons-bachelor-of-engineering-honours-b2992b3551"
+    },
+    {
+      "name_en": "Electronic Systems and Internet-of-Things - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46409-sye",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=1",
+      "source_period": "46409-SYE | Sept 2026 Entry",
+      "raw_key": "Electronic Systems and Internet-of-Things - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46409-sye"
+      ],
+      "id": "polyu-electronic-systems-and-internet-of-things-beng-hons-bachelor-of-e-53924e4fb2"
+    },
+    {
+      "name_en": "Enterprise Engineering with Management - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45499-sye",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "45499-SYE | Sept 2026 Entry",
+      "raw_key": "Enterprise Engineering with Management - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45499-sye"
+      ],
+      "id": "polyu-enterprise-engineering-with-management-bsc-hons-bachelor-of-scien-9cf1667b5a"
+    },
+    {
+      "name_en": "Environmental and Occupational Safety and Health - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/31470",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "31470 | Sept 2026 Entry",
+      "raw_key": "Environmental and Occupational Safety and Health - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/31470"
+      ],
+      "id": "polyu-environmental-and-occupational-safety-and-health-bsc-hons-bachelo-e7dde46141"
+    },
+    {
+      "name_en": "Fashion (Fashion Design / Knitwear Design / Contour Fashion and Activewear / Fashion Business / Fashion Innovation and Technology) - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme",
+      "degree_label": "Bachelor of Arts (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/14406-sy",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "14406-SY | Sept 2026 Entry",
+      "raw_key": "Fashion (Fashion Design / Knitwear Design / Contour Fashion and Activewear / Fashion Business / Fashion Innovation and Technology) - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee",
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3050",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3050",
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/14406-sy"
+      ],
+      "id": "polyu-fashion-fashion-design-knitwear-design-contour-fashion-and-active-db5ab8591f"
+    },
+    {
+      "name_en": "Financial Technology & Artificial Intelligence - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/62401-syf",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "62401-SYF | Sept 2026 Entry",
+      "raw_key": "Financial Technology & Artificial Intelligence - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/62401-syf"
+      ],
+      "id": "polyu-financial-technology-artificial-intelligence-bsc-hons-bachelor-of-485ecfe9e1"
+    },
+    {
+      "name_en": "Food Safety and Technology - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/15455-syf",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "15455-SYF | Sept 2026 Entry",
+      "raw_key": "Food Safety and Technology - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/15455-syf"
+      ],
+      "id": "polyu-food-safety-and-technology-bsc-hons-bachelor-of-science-honours-1445c7cb51"
+    },
+    {
+      "name_en": "Hotel and Tourism Management - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/24446-sy",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "24446-SY | Sept 2026 Entry",
+      "raw_key": "Hotel and Tourism Management - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/24446-sy"
+      ],
+      "id": "polyu-hotel-and-tourism-management-bsc-hons-scheme-bachelor-of-science-4a647d105f"
+    },
+    {
+      "name_en": "Industrial and Systems Engineering - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45498-syi",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "45498-SYI | Sept 2026 Entry",
+      "raw_key": "Industrial and Systems Engineering - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45498-syi"
+      ],
+      "id": "polyu-industrial-and-systems-engineering-beng-hons-bachelor-of-engineer-320383301f"
+    },
+    {
+      "name_en": "Information Security - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46409-syi",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "46409-SYI | Sept 2026 Entry",
+      "raw_key": "Information Security - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46409-syi"
+      ],
+      "id": "polyu-information-security-bsc-hons-bachelor-of-science-honours-74e8f49f57"
+    },
+    {
+      "name_en": "International Shipping and Transport Logistics - BBA (Hons) - Bachelor of Business Administration (Honours)",
+      "degree_label": "Bachelor of Business Administration (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/44493-syi",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "44493-SYI | Sept 2026 Entry",
+      "raw_key": "International Shipping and Transport Logistics - BBA (Hons) - Bachelor of Business Administration (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/44493-syi"
+      ],
+      "id": "polyu-international-shipping-and-transport-logistics-bba-hons-bachelor-eee70e5312"
+    },
+    {
+      "name_en": "Investment Science and Finance Analytics - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/63428-syf",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "63428-SYF | Sept 2026 Entry",
+      "raw_key": "Investment Science and Finance Analytics - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/63428-syf"
+      ],
+      "id": "polyu-investment-science-and-finance-analytics-bsc-hons-bachelor-of-sci-f096e278a0"
+    },
+    {
+      "name_en": "Land Surveying and Geo-Informatics - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/34480-syl",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "34480-SYL | Sept 2026 Entry",
+      "raw_key": "Land Surveying and Geo-Informatics - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/34480-syl"
+      ],
+      "id": "polyu-land-surveying-and-geo-informatics-bsc-hons-bachelor-of-science-h-5e941d3c8b"
+    },
+    {
+      "name_en": "Language Sciences & Analytics - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/72425-sya",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "72425-SYA | Sept 2026 Entry",
+      "raw_key": "Language Sciences & Analytics - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/72425-sya"
+      ],
+      "id": "polyu-language-sciences-analytics-bsc-hons-bachelor-of-science-honours-9dd679e8da"
+    },
+    {
+      "name_en": "Linguistics and Translation - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/72425-syl",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "72425-SYL | Sept 2026 Entry",
+      "raw_key": "Linguistics and Translation - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/72425-syl"
+      ],
+      "id": "polyu-linguistics-and-translation-ba-hons-bachelor-of-arts-honours-a91ec364ae"
+    },
+    {
+      "name_en": "Logistics Engineering with Management - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45499-syl",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "45499-SYL | Sept 2026 Entry",
+      "raw_key": "Logistics Engineering with Management - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45499-syl"
+      ],
+      "id": "polyu-logistics-engineering-with-management-bsc-hons-bachelor-of-scienc-d01c5d05ef"
+    },
+    {
+      "name_en": "Management - BBA (Hons) - Bachelor of Business Administration (Honours)",
+      "degree_label": "Bachelor of Business Administration (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/23492-sym",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=2",
+      "source_period": "23492-SYM | Sept 2026 Entry",
+      "raw_key": "Management - BBA (Hons) - Bachelor of Business Administration (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/23492-sym"
+      ],
+      "id": "polyu-management-bba-hons-bachelor-of-business-administration-honours-2418d26221"
+    },
+    {
+      "name_en": "Marketing - BBA (Hons) - Bachelor of Business Administration (Honours)",
+      "degree_label": "Bachelor of Business Administration (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/23492-syk",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "23492-SYK | Sept 2026 Entry",
+      "raw_key": "Marketing - BBA (Hons) - Bachelor of Business Administration (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/23492-syk"
+      ],
+      "id": "polyu-marketing-bba-hons-bachelor-of-business-administration-honours-d0062ab3e4"
+    },
+    {
+      "name_en": "Mechanical Engineering - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/43499-sym",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "43499-SYM | Sept 2026 Entry",
+      "raw_key": "Mechanical Engineering - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/43499-sym"
+      ],
+      "id": "polyu-mechanical-engineering-beng-hons-bachelor-of-engineering-honours-46f86c3429"
+    },
+    {
+      "name_en": "Product Analysis and Engineering Design - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/43499-syp",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "43499-SYP | Sept 2026 Entry",
+      "raw_key": "Product Analysis and Engineering Design - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/43499-syp"
+      ],
+      "id": "polyu-product-analysis-and-engineering-design-beng-hons-bachelor-of-eng-c04ed93b66"
+    },
+    {
+      "name_en": "Product Engineering with Marketing - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45498-syp",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "45498-SYP | Sept 2026 Entry",
+      "raw_key": "Product Engineering with Marketing - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/45498-syp"
+      ],
+      "id": "polyu-product-engineering-with-marketing-beng-hons-bachelor-of-engineer-340688836d"
+    },
+    {
+      "name_en": "Property Management - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/32405-syp",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "32405-SYP | Sept 2026 Entry",
+      "raw_key": "Property Management - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/32405-syp"
+      ],
+      "id": "polyu-property-management-bsc-hons-bachelor-of-science-honours-97bbce9d93"
+    },
+    {
+      "name_en": "Social Policy and Social Entrepreneurship - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/54439-sye",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "54439-SYE | Sept 2026 Entry",
+      "raw_key": "Social Policy and Social Entrepreneurship - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/54439-sye"
+      ],
+      "id": "polyu-social-policy-and-social-entrepreneurship-ba-hons-bachelor-of-art-90e9793d77"
+    },
+    {
+      "name_en": "Social Work - BA (Hons) - Bachelor of Arts (Honours)",
+      "degree_label": "Bachelor of Arts (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/54439-syw",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "54439-SYW | Sept 2026 Entry",
+      "raw_key": "Social Work - BA (Hons) - Bachelor of Arts (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/54439-syw"
+      ],
+      "id": "polyu-social-work-ba-hons-bachelor-of-arts-honours-2bc921f0a9"
+    },
+    {
+      "name_en": "Supply Chain Management and Analytics - BBA (Hons) - Bachelor of Business Administration (Honours)",
+      "degree_label": "Bachelor of Business Administration (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/44493-sys",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "44493-SYS | Sept 2026 Entry",
+      "raw_key": "Supply Chain Management and Analytics - BBA (Hons) - Bachelor of Business Administration (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/44493-sys"
+      ],
+      "id": "polyu-supply-chain-management-and-analytics-bba-hons-bachelor-of-busine-0b5923f748"
+    },
+    {
+      "name_en": "Transportation Systems Engineering - BEng (Hons) - Bachelor of Engineering (Honours)",
+      "degree_label": "Bachelor of Engineering (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46408-syt",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "46408-SYT | Sept 2026 Entry",
+      "raw_key": "Transportation Systems Engineering - BEng (Hons) - Bachelor of Engineering (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/46408-syt"
+      ],
+      "id": "polyu-transportation-systems-engineering-beng-hons-bachelor-of-engineer-3a3974ba0d"
+    },
+    {
+      "name_en": "Urban Informatics & Smart Cities - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/34480-syu",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_njh&page=3",
+      "source_period": "34480-SYU | Sept 2026 Entry",
+      "raw_key": "Urban Informatics & Smart Cities - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Senior Year Entry",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_njh"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/non-jupas-adhd-grad/2026/34480-syu"
+      ],
+      "id": "polyu-urban-informatics-smart-cities-bsc-hons-bachelor-of-science-honou-9d6a4226f9"
+    },
+    {
+      "name_en": "Design (Advertising Design / Environmental Design / Immersive Media and Game Design / Information Design / Interaction Design / Interior Design / Product Design / Service Design / Social Design)  - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme",
+      "degree_label": "Bachelor of Arts (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/international/2026/js3569",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=1",
+      "source_period": "JS3569 | Sept 2026 Entry",
+      "raw_key": "Design (Advertising Design / Environmental Design / Immersive Media and Game Design / Information Design / Interaction Design / Interior Design / Product Design / Service Design / Social Design)  - BA (Hons) Scheme - Bachelor of Arts (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3569"
+      ],
+      "id": "polyu-design-advertising-design-environmental-design-immersive-media-an-8452e578ba"
+    },
+    {
+      "name_en": "Food Science and Nutrition (Food Safety and Technology / Human Nutrition and Health) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/international/2026/js3255",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=1",
+      "source_period": "JS3255 | Sept 2026 Entry",
+      "raw_key": "Food Science and Nutrition (Food Safety and Technology / Human Nutrition and Health) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3255"
+      ],
+      "id": "polyu-food-science-and-nutrition-food-safety-and-technology-human-nutri-41d60ed992"
+    },
+    {
+      "name_en": "Intelligent Supply Chain and Engineering Management (Intelligent Supply Chain / Engineering Management with Data Analytics/ Aviation Operations and Systems) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme",
+      "degree_label": "Bachelor of Science (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/international/2026/js3237",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=1",
+      "source_period": "JS3237 | Sept 2026 Entry",
+      "raw_key": "Intelligent Supply Chain and Engineering Management (Intelligent Supply Chain / Engineering Management with Data Analytics/ Aviation Operations and Systems) - BSc (Hons) Scheme - Bachelor of Science (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3237"
+      ],
+      "id": "polyu-intelligent-supply-chain-and-engineering-management-intelligent-s-6bb3b8521c"
+    },
+    {
+      "name_en": "Occupational Therapy - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/international/2026/js3624",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=2",
+      "source_period": "JS3624 | Sept 2026 Entry",
+      "raw_key": "Occupational Therapy - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3624",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3624"
+      ],
+      "id": "polyu-occupational-therapy-bsc-hons-bachelor-of-science-honours-43715e7378"
+    },
+    {
+      "name_en": "Physics with a Secondary Major in Artificial Intelligence & Data Analytics (AIDA) / Innovation and Entrepreneurship (IE) - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/international/2026/js3030",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_international&page=2",
+      "source_period": "JS3030 | Sept 2026 Entry",
+      "raw_key": "Physics with a Secondary Major in Artificial Intelligence & Data Analytics (AIDA) / Innovation and Entrepreneurship (IE) - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_international",
+        "prog_detail_jee"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/international/2026/js3030",
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3030"
+      ],
+      "id": "polyu-physics-with-a-secondary-major-in-artificial-intelligence-data-an-eecf1d3fd2"
+    },
+    {
+      "name_en": "Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering)  - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme",
+      "degree_label": "Bachelor of Engineering (Honours) Scheme",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3741",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=2",
+      "source_period": "JS3741 | Sept 2026 Entry",
+      "raw_key": "Mechanical Engineering (Intelligent Robotics Engineering / Mechanical Engineering)  - BEng (Hons) Scheme - Bachelor of Engineering (Honours) Scheme|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jee"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3741"
+      ],
+      "id": "polyu-mechanical-engineering-intelligent-robotics-engineering-mechanica-a0de4024d5"
+    },
+    {
+      "name_en": "Optometry  - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3290",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=2",
+      "source_period": "JS3290 | Sept 2026 Entry",
+      "raw_key": "Optometry  - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jee"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3290"
+      ],
+      "id": "polyu-optometry-bsc-hons-bachelor-of-science-honours-7044e07c2e"
+    },
+    {
+      "name_en": "Radiography  - BSc (Hons) - Bachelor of Science (Honours)",
+      "degree_label": "Bachelor of Science (Honours)",
+      "official_url": "https://www.polyu.edu.hk/study/ug/jee/2026/js3612",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.polyu.edu.hk/study/ug/programmes/find-your-programmes?ug_programmes_label_target_id_verf=prog_detail_jee&page=2",
+      "source_period": "JS3612  | Sept 2026 Entry",
+      "raw_key": "Radiography  - BSc (Hons) - Bachelor of Science (Honours)|2026",
+      "entry_route": "Undergraduate listing; detailed admission route not yet verified",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "record_type": "scheme_or_programme",
+      "applicant_routes": [
+        "prog_detail_jee"
+      ],
+      "alternative_official_urls": [
+        "https://www.polyu.edu.hk/study/ug/jee/2026/js3612"
+      ],
+      "id": "polyu-radiography-bsc-hons-bachelor-of-science-honours-77767cf417"
+    }
+  ]
+}

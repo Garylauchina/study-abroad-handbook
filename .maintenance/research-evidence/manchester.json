@@ -1,0 +1,1835 @@
+{
+  "university_id": "manchester",
+  "sources": [
+    {
+      "url": "https://www.manchester.ac.uk/study/international/country-specific-information/china-mainland/",
+      "sha256": "9a3078c6cf95a8895b93d99779222efe23465773813606cd2560d9b69f6bc00b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/uk-man-china.html",
+      "locator": "General requirements for undergraduate courses"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
+      "sha256": "b5b9d76203ad0f7ff17d2e49a97b3e589ba4b20e2255f9802df9ef1f7bf6901f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/uk-man-global-futures-2027.html",
+      "locator": "eligible countries"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/07808/bsc-accounting/",
+      "sha256": "8347b9d5eed17df02a9e427312ac01a36316eb197f231488c8986a008435dda9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-26c69c9a17db85.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05151/baecon-accounting-and-finance/",
+      "sha256": "a5d078e2d41d1bb617f6b29126fb5d5edd0f4a9fff04eb61a2878f676c297661",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7b904d64c6f44e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09937/bsc-accounting-with-industrial-professional-experience/",
+      "sha256": "9c3199d3740502156366f6ea30551435be0eac91287f771501b41dc3ac86d818",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7c007d40b38adf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/07383/bsc-actuarial-science-and-mathematics/",
+      "sha256": "211ea4cf5e8f920c8e1c39b8b9a17f6fb0f9a42862da7140e71710cbb3a66b8b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2963e5b3b1d6c8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10971/bnurs-adult-nursing/",
+      "sha256": "02da3e545cb6308d63e2c615002aa305cb3fb07b6269f3ad9e2d71b669d09eca",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-773be965e826cd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03333/beng-aerospace-engineering/",
+      "sha256": "dfe4bff6e58d6e72e2382335da526c727d27c8e4e52bda38ac9f0e7c79992201",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a3109e1faff6f5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03826/meng-aerospace-engineering/",
+      "sha256": "f3cfc9e9b6a4bb643ff9fee1f94afa06f3cd3e0d20ea6051e3aab7269775772a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ed6aef1bc31fb8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12948/beng-meng-aerospace-engineering-with-an-integrated-foundation-year/",
+      "sha256": "630ea7394988e77da146643448abd80bad7b56ce2f88592eb6b78c8a60a60e12",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-0e600ff8db6c8e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03827/meng-aerospace-engineering-with-industrial-experience/",
+      "sha256": "4b20cb516f59a73c34efcba72498a865c505b4a53dee2dabb232a9944fdaf4d0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-9a61931afc65c9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12037/ba-american-studies/",
+      "sha256": "fba3b6a75a433d1cc6c2c5d9610fa8478f7d35ad233209db5ebb89cc114768ae",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-75cffbac2fb762.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11806/ba-american-studies/",
+      "sha256": "81889b723c5d7e8d378987a3346e0b377f1e9bdf21a76f3212e66dd26b1aac89",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d5862a4bf8a1a1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00169/ba-ancient-history/",
+      "sha256": "00ad84f47b3e2661fec3b3b26c5eaf2dfe772117ee7e5cccb1d0fd8798f0fe42",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-34750d72ac06b9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00167/ba-ancient-history-and-archaeology/",
+      "sha256": "4ac1b52b93eac8406e19e19099beb9691603f9959420e3e66f8ad7d5a794be1a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-28c89927c2a8bb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10353/ba-ancient-history-and-history/",
+      "sha256": "8b837d71e9f87892476a3db4fde841e86f95e11cb6b5465fdd20092c5f31b27f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-264108a7dffe55.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00175/ba-archaeology/",
+      "sha256": "1d8e1adb7f84861a03e8ea46e41f39be87e45d6bcafcb7c1d24180bd25c7e0b4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-bb10dd05e72710.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00043/ba-archaeology-and-anthropology/",
+      "sha256": "95ee632b2d0c2e8cccdf4e7e652dcd8dfefe0ff6f96c4d34358c493568854288",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a319778d429fa7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00178/ba-architecture/",
+      "sha256": "33dabc66893fbfe5775dce14e567dc111f988ebe4532770a03040e7ff1325341",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-71248733a71927.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21083/ba-architecture-with-foundation-year/",
+      "sha256": "db80742e02d635f9625e2ec23e9493edac577f9735a7a72a7c1175fb624bb20e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-237ee988bd9064.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12152/ba-art-history-and-english-literature/",
+      "sha256": "00ac4bc168b607befe5a68e2946a3e1921b3a086fa7c5f9e3682fb5be4fb44fb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-150b9ecc73e69d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10356/ba-art-history-and-history/",
+      "sha256": "d8f24a894091bbcf24907b7f8f6d80643a83956baf293b9feb27a711e01eec6f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-dafd845cfea067.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21903/ba-art-history-and-modern-languages/",
+      "sha256": "1e7806888ee4d85183574037b5765538bcbd0601f95dff93092f6a06b923e426",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-151f97959c6b96.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00521/bsc-biochemistry/",
+      "sha256": "44ac8249cc6379f9c795a100eb395dd15c660f8d2d68b91e13e6447b48299ff0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-97e89db3c7bed1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10110/msci-biochemistry/",
+      "sha256": "40334103dd00af578560091b17662e64db7080fa26f530ddb5a327f589a1a830",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a77c6ec7b67bad.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00520/bsc-biochemistry-with-a-modern-language/",
+      "sha256": "380001de6997469a01819d5b77e7cdd3581c5a029f8d4e86a2cc9a012bd7c226",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f8f7927107cabc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18037/bsc-biochemistry-with-entrepreneurship/",
+      "sha256": "ac5eb41175ff40afc60b4b1c23302e9e91b734431edce830833429749517ac7f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-25dc61ad190cc1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00519/bsc-biochemistry-with-industrial-professional-experience/",
+      "sha256": "6bf38756c3546d5174930e8e6f0d12fe733b315a230a0868f160cceb80b88c9b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-cf7382dfe87616.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22137/bsc-biochemistry-with-international-study/",
+      "sha256": "6bfd7cd576b64fb424fc738463156f20cbd4351cbb11b038a0dd8a1f08025527",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ab4c0c5b641281.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00524/bsc-biology/",
+      "sha256": "d331c396e392afbc3bc7f4df3116298d3af27586eff528e136c446db65df3582",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-40eff85895717f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10111/msci-biology/",
+      "sha256": "17f887c44c8bec1907cbc47c5a92077ab8f45aea3a19721d0290ab4efb0052dc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-15c23b0258bc87.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00527/bsc-biology-with-a-modern-language/",
+      "sha256": "80c1073cc117d254552284443c8629ef58eeb073536792e903157473855b82ee",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-97bb4725e8160b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18038/bsc-biology-with-entrepreneurship/",
+      "sha256": "461273c562e17e2c322be03ab63ed6d1dad23c528520cd883a5604e17024f9c1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4302f219d86829.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00526/bsc-biology-with-industrial-professional-experience/",
+      "sha256": "68932d99cfa827569e4ccf34f4b3445d00285734429cbf059fd484ecb6afcc2e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-735aa7905a2288.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22138/bsc-biology-with-international-study/",
+      "sha256": "ee96be2d4c01bc1e045ecab299950db0500de26ea003cf9669b32bacd68882a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-782f664b884bf9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00532/bsc-biomedical-sciences/",
+      "sha256": "48d602a74efbd339f03b2f3eb65c8939c5fce7820b25fa41b9f850c50258bbfe",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d6099557a85e86.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10112/msci-biomedical-sciences/",
+      "sha256": "8e9c0574e776eaef1b4abf5b44327fb5b3b019de7ca56e98739796558b754dee",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ee51e9fa0d7bf8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06245/bsc-biomedical-sciences-with-a-modern-language/",
+      "sha256": "9a3cc523970445ec33e65b68a0db5243f35fd098ede11c4f3a7423b93e863950",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-b54e5f18fb8632.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18039/bsc-biomedical-sciences-with-entrepreneurship/",
+      "sha256": "9acd11a5945913421ec3646896c6f42c7806c61b4f32731e3afc511a90097255",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-3921da339c8b3c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00531/bsc-biomedical-sciences-with-industrial-professional-experience/",
+      "sha256": "63e5d0c629455fdef164e5d9ee460f26ab5ad8512c6019eb4caf0ae436e9195e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d8a643dc0fedb6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22141/bsc-biomedical-sciences-with-international-study/",
+      "sha256": "79510fde61605aad9267e3f2b8f2edcd429f6512de6dadf493a1bad809994bff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a94e8052ded3c2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00456/biosciences-with-a-foundation-year/",
+      "sha256": "133d29c05bbe80bdfef9f82788ca71b0ff006c1a07f9386159828a63fe37cae5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-78dc09bcc4b05b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08662/bsc-biotechnology/",
+      "sha256": "89ded19df7f86e4b2f58e84535bb1112d7993c57cca5446d88cc25028bd4c237",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-bda6cb7bf7d2e8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10114/msci-biotechnology/",
+      "sha256": "5b2941b1635fc51a2a6b740b55672ec3377cb96c0bf58d23103ab21ce2fc1cfd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-5cb2ad854392cd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18051/bsc-biotechnology-with-entrepreneurship/",
+      "sha256": "1372570b7dc67dc39ba35e105358ac7456397f539bc05056d7d78327fc3189a2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-744bfcf6cd6130.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08669/bsc-biotechnology-with-industrial-professional-experience/",
+      "sha256": "92a7421df0b7129a39f4a180bac1ea7d2341a448bdf0aa14c4b8d2de96cfb8c1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-c180746f07d9ae.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22142/bsc-biotechnology-with-international-study/",
+      "sha256": "cdf6336c1bfeaca76e8453ac45c5a71ab189c34ad8ab5b74e604c9d23018e763",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6dadc85e8d75c6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12812/bsc-business-accounting-with-industrial-professional-experience/",
+      "sha256": "6614a1b9aaa1b5ba7365a73fcba575b246861dd596c13de4789764a2705ea434",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-e1dd6ab97a7282.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03340/beng-chemical-engineering/",
+      "sha256": "eb04f59e9aed4c6829cc863e6e480f0e61031953f33597fd68b494dc5952cc71",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-77f56e5c55a39e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03848/meng-chemical-engineering/",
+      "sha256": "9e09223bb56e17bd3fb3149a1a47cbf5101f8323cc638a28d71d5835a05e596a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-604494208b778d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12951/beng-meng-chemical-engineering-with-an-integrated-foundation-year/",
+      "sha256": "5428ee352d1b1ac1ca6daa0009093aa9e1ba62cdd992497d3c34c2a8ff2de873",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7d7c93ce053369.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09050/meng-chemical-engineering-with-energy-and-environment/",
+      "sha256": "16f9980627f24f3c9e246a99bbe07b0e6c988473a128fab5fd751f0967c7696a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-eaf16c3cdb8815.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03849/meng-chemical-engineering-with-industrial-experience/",
+      "sha256": "b645fba9d1c8f203df99bcfdcc366bfdcf0f5144a71c9031a38c08c35f3d2ad6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-34be0bd14f601f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00544/bsc-chemistry/",
+      "sha256": "5bb6b88f29d5dcd060b5eb4c8a255d448487d074f63a0f35bae4c79c08aa3365",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-0ee4682fb83f5c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/01449/mchem-chemistry/",
+      "sha256": "1e99059ce42f0466851127d2555a818ee5a24ba5192fd4411c08739cdc186dcf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-e442aa42330251.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12956/bsc-mchem-chemistry-with-an-integrated-foundation-year/",
+      "sha256": "5ecffffb3c9f997edccd9322cbde36af074a9ab295b5a1abded7a496ec400711",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f422fa8cb03552.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/01450/mchem-chemistry-with-industrial-experience/",
+      "sha256": "574c54f6f4d5f34f76f1419d67a9fb2f6ca457b9566d6756b1a82c65b497beb2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-3645f095102eb2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09453/mchem-chemistry-with-international-study/",
+      "sha256": "8ca93a73bd332447d30154105d08c1af4a55c192d495df4d9cb2ac02ba9d219f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-29eba8d479665f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00539/bsc-chemistry-with-medicinal-chemistry/",
+      "sha256": "0391720fb230a48d9225194f265c59015af85b79c4394cc4074faaaa044d6e9e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f52587ccfad54f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/01443/mchem-chemistry-with-medicinal-chemistry/",
+      "sha256": "49f3b6af161e138e155d892d03d83fbfff7a1dfd6d2870971783320d4e118a2d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-c9ce0ee2871310.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10972/bnurs-childrens-nursing/",
+      "sha256": "5e32d6a8d7ca3ae0825d35e7bdcd276a8f84df12ec17802c08c8512202ac20ce",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-029ca2dc8d68d3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03858/meng-civil-and-structural-engineering/",
+      "sha256": "9b7d29f95c2700ed295f9e507792b76e334455b52af32b73cd3b4ac25e865fb7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-40ac906f488414.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21195/meng-civil-and-structural-engineering-with-industrial-experience/",
+      "sha256": "d9bafc7ccf2c5e53e9043642354f264f456d651d1053a37eae323930baf5e860",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6822c102e21b53.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03343/beng-civil-engineering/",
+      "sha256": "f5f0c6f76988712977961f8bcab568dbac1592f9e42d72025e64e7ec0290d368",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-91661c989d7ff7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03869/meng-civil-engineering/",
+      "sha256": "b6414e147cc011a4604bee25035bb6b1e3f0e406fde885bd98f47b0f834c6f53",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-43cd193aef75c0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03873/meng-civil-engineering-enterprise/",
+      "sha256": "91f135aaa57345f0b59a3be06475dd6d009be354705aba6c54fb16d4d2232e08",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6743c8d0d08e21.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12949/beng-meng-civil-engineering-with-an-integrated-foundation-year/",
+      "sha256": "e25be4f3df533d02283cff5b2d7628102daa2c415ee5074e561d4e08e490cd2c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-661a2b8d543293.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03875/meng-civil-engineering-with-industrial-experience/",
+      "sha256": "0c01515ef0887b71cd5bfb887831d96a40bc7876c6f562857c986c80ab32a590",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-c829e1523d5400.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00183/ba-classical-studies/",
+      "sha256": "9edb9fde9002113bcd8bcdc9c8182905bde530cead020670c3f6ec3b22c68eea",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-3bb2aa43c105a0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00184/ba-classics/",
+      "sha256": "ec20cc01af4292f4141ffee32677f78dabb3a2c67fe4bdaba02275e1f95c809b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-09b832e1c2e828.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/20942/bsc-cognitive-neuroscience-and-psychology/",
+      "sha256": "5b5f09a481dcdc10021098f8789958905d01b73069fae6b7a06ad4bb2030e935",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-147c8603ec0ed0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12806/ba-comparative-religion-and-social-anthropology/",
+      "sha256": "1841ae78d6fe55f2760876c4637e2dfbd11135658b69d0abd9c72822f09c3226",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-944bb4e25dbe54.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00560/bsc-computer-science/",
+      "sha256": "013af69840ea9290aadc2eaf4cf5db1eacc7ad564993e72da6d972242d473ec1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1b711f8b7dda7e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00558/bsc-computer-science-and-mathematics/",
+      "sha256": "4350cac596cc21c7e9d9df73e0aa5d9fee49bf9f4f3913d250e57919304c16d1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ce41f9781625ae.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00490/bsc-computer-science-and-mathematics-with-industrial-experience/",
+      "sha256": "1de749c3d0e3f61ae42b8b36e59d2c0ba617520e27f759600b7a736fa278e1f8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-908cf9bb145027.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12952/bsc-computer-science-with-an-integrated-foundation-year/",
+      "sha256": "9a81d62b2c47697f63c44ffe42af75d16bd3f8585d0be3ffbe1070cbfbaad31a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-06a84c3f099985.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00559/bsc-computer-science-with-industrial-experience/",
+      "sha256": "754c518b25c81af74079887a389701748f051b4d4d53215697f698f02a81ea97",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d87b1361523574.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21803/ba-criminology/",
+      "sha256": "95ca84aa7f07a61170d4307a9bb24de8cec0b54c81362b03084a3bd620ba608f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d551e118fe7359.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18108/bass-criminology-and-data-analytics/",
+      "sha256": "7bb04b5a3de7b6c9953fe697740dfa2c5b04332996ed2643e28ffca8400292a9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4ec7f8daf8b229.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21808/ba-criminology-with-international-study/",
+      "sha256": "e725bcc3f34db25ac1db85793a334802acd5d510e3a1f242e73300e82c266e18",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-05840a672134eb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21695/ba-cultural-creative-and-media-industries/",
+      "sha256": "a1523561643eb3678ba0f31bc1f2f64b323a9f9dbde909b9e89cd9bf30581b34",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-de0764045e3f31.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21873/baecon-data-science-and-economics/",
+      "sha256": "069eb314dc2e1acc285e5784efd5a3e44682f78466238cebf6514b221006da26",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-acd7e5245ce471.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/20060/bsc-dental-hygiene-and-therapy/",
+      "sha256": "73e0fc4f4d05883d0042f2b421ee6623c7c081a1708ae50f0c29df7b3dccc1a3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-42724b47c4fe4e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00398/bds-dentistry-first-year-entry/",
+      "sha256": "cf6f2af68e8acd5e457a2e0a66664f3538dc491980c4df05d62025f30beed07f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4a1bd39b83c8e8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21197/ba-digital-media-culture-and-society/",
+      "sha256": "271731c9f5770b4359bf25b8a8ee777c3f557921a5929c4c229382a1fdc4b036",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7b3d09bf302b28.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00198/ba-drama/",
+      "sha256": "51d0639483b7dcc158c25393cc0d6e64018f878f39fbe0c450a462d657cebbda",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-75f746f74af9e4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06613/ba-drama-and-english-literature/",
+      "sha256": "59fc083aa95e4157f00f7448c461bcc9b4d1555d88ae1f747f42b8b9a9d0973d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-844adef27326e2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12655/ba-drama-and-film-studies/",
+      "sha256": "ff145483901e80cfa7c1d94c13af60df5e005d83e43bb02ac739bd5fb648bcb1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-87d4f0f32ee20c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12106/bsc-earth-and-planetary-sciences/",
+      "sha256": "ce0b54c8f8747f4dca6eef0d52c81a9ff57c77e395c22905b68c44114fd40b3c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-428546ce559afc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12107/mearthsci-earth-and-planetary-sciences/",
+      "sha256": "a219156d1637d157bf5bf1e3dad51cdc56ebd7134aa067d6aff1f3587606994d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f8e4ce4a6eeba0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12788/mearthsci-earth-and-planetary-sciences-with-a-research-placement/",
+      "sha256": "770b6542c18ca5a781d2f0fb109279000a554587a23f268e48819da7e2768564",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f4f8ebe5fa9e0e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12957/bsc-mearthsci-earth-and-planetary-sciences-with-an-integrated-foundation-year/",
+      "sha256": "08e689df5f0ece5a704efbdb9f8c6e5b77abf8e1d79ce9df5ec459438fa37b1a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f0ef16a5df1e2c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12109/mearthsci-earth-and-planetary-sciences-with-industrial-experience/",
+      "sha256": "316e769419c5ead9fafb89f10947f0d60f046d8d8a2a337ee92da640395b56da",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1bc0455f7352d2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12111/mearthsci-earth-and-planetary-sciences-with-international-study/",
+      "sha256": "844e6c61937d81b61e24521ca84bf95f8f73dcbaefbc0526a2d6105a236cb51e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-b6768c25018e16.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09735/ba-east-asian-studies/",
+      "sha256": "51e6f799d7387acae68cfe68663417902b22006e8991fce54100d7d5a56dc191",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2c6ec2228b4cc2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12801/ba-east-asian-studies-with-international-study/",
+      "sha256": "ce0ac943337af5e59a6e41aa039e7e7ed846f9245538ebdba60e4d948ed046c2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-8f04fc0a7597ed.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05134/baecon-economics/",
+      "sha256": "382d8af09e98e55912fa5f058820d68667678a7a174e1060fbe3c40531dbedc8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-e22253a14f1f4b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10224/bsc-economics/",
+      "sha256": "10c230e41349fb1e89bf1a22632cfefb3b43332499b3389c24b607ae30cb3311",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-3e37e216f9fcda.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05136/baecon-economics-and-finance/",
+      "sha256": "51b401b8cb0da2c69f72977444c86dcfc1a28963d9a4d46bba025e8ae938cb52",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-3301e3a50b0417.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08811/baecon-economics-and-philosophy/",
+      "sha256": "7065693c6d765f9d1500be2a26e61edaa32751bb987ba31dc4a54b7e4270aea3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7e89f03b38215e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05137/baecon-economics-and-politics/",
+      "sha256": "da56b33f54f58f29a5a8aaf17b3bb3441cae52974a770240768880072e1b336d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-76a637693096c1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05139/baecon-economics-and-sociology/",
+      "sha256": "d9aecae9a251e1b625bb27a1af4bdac8262c6f821f935e834b8b8c54bc2c3e44",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-80329d3c9cd66f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12384/bsc-education/",
+      "sha256": "6bfa458ec6490ac1754c2c15cbe9f1226d7cda45146c501b81244806060a47a3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-e718eb7e7d4adc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/07735/ugcert-egyptology/",
+      "sha256": "3e986c6f56f95dd0afe50109518ac47b29305c17f6583b9ca7cc7553a02a0702",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4fedf3087bb09f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09116/ugdip-egyptology/",
+      "sha256": "ea75fbb208862e8ba06177818d8b37eb279a65ec37a762e2f5e452c3426f2028",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-49ede21077cee7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12950/beng-meng-electrical-electronic-and-mechatronic-engineering-with-an-integrated-foundation-year/",
+      "sha256": "58af0cdf0c940dc1386a55f9fafdf481283f5096808ea9a2b2db9b3e7bd1e99b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-658b865b2061fc.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03363/beng-electrical-and-electronic-engineering/",
+      "sha256": "6a590abad3fd0433483c12d575d6858d04627c625c7dc6b4f1026e338b1d7227",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6d75ed128e2224.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03894/meng-electrical-and-electronic-engineering/",
+      "sha256": "6bc9b4afa3e867ad7aa68c9df6ef0b5779a59706e234a5cbc761d18f39640ea1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-b48330ba77f893.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03364/beng-electrical-and-electronic-engineering-with-industrial-experience/",
+      "sha256": "2272a611aeed3bbe3d77019945626755a4f5cf8f075f314204da5c7f89238eed",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-46d7b40db3d1e3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03893/meng-electrical-and-electronic-engineering-with-industrial-experience/",
+      "sha256": "929ae32415afc2cabf5a2d9e6647691e6092c2245fa0749b770ac1fd9fc77157",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-b8d1b66d0087d5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00212/ba-english-language/",
+      "sha256": "1b63a08173b0ef7ea432f04e6e599acaf4a95c4ee3f7977904770d2a373ca624",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-71df99a3a6f24e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10352/ba-english-language-and-english-literature/",
+      "sha256": "704e8df187b8a424bfeba6b572c02dd201cf4d5dbcdbb8fcfc16cc6c7054821e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-c853cfaf7957eb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00060/ba-english-literature/",
+      "sha256": "b4cb8faa45f81c4f55f36a77c2381dbd0790f732ce84305347372263cc7c0954",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ed94b47fb320db.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/07914/ba-english-literature-and-american-studies/",
+      "sha256": "db9b8be456f15db1c1b8fac1610239a813247920d6869923ad8cd1b23de2a8ed",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a3817a5bc42a5c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10357/ba-english-literature-and-history/",
+      "sha256": "3f48fba3de1ffa8b53b087f75e32286beed33c6888c36ba0c888d045e3c9eaa1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2f589ab34af71f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21901/ba-english-literature-and-modern-languages/",
+      "sha256": "483b2e8027a534d53729004fb345a9b2b214f769bc759992b92cb2dbba5765f7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-21e313320b9f18.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09248/ba-english-literature-with-creative-writing/",
+      "sha256": "ff6a725bafbb0d6b3669e3055977b3259fe0695ed2be2cf62937ae0c4a646185",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-5972d0db77a3b7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12385/bsc-environmental-management/",
+      "sha256": "55f2710ca93edb196719b3e5e3619b9e84a3a7582a9be6049376b1d8813fa3bd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-17a4e6a96aadcf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12662/bsc-environmental-management-with-professional-placement/",
+      "sha256": "4f4c3115e7eee55dbb8d5bbb66ad68ef4eedb2e7e13e4f80fd43093772bb9f29",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-19e366b91e3224.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12124/bsc-environmental-science/",
+      "sha256": "fa14134389d45108cc42dfe1221050b248fbf1061c083bb90ad8e9277b52924f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-62aadd06864786.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12316/menvsci-environmental-science/",
+      "sha256": "692244cec5f10d77b9e0986a2aac674b8be87505720b2bff4934eb4a61226738",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-0c907534f663d2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12794/menvsci-environmental-science-with-a-research-placement/",
+      "sha256": "bbd0bbb96f9824096a22e18fa1a0ad33e43d2f6f0b59761d99be0e02947b4454",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a584302978e395.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12958/bsc-menvsci-environmental-science-with-an-integrated-foundation-year/",
+      "sha256": "451814e6044de1ee603ab6f802ebd905e8bd01adbad015133d239dff8205af3e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f61b771d2090e8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12319/menvsci-environmental-science-with-industrial-experience/",
+      "sha256": "8cd771df5d7fcd9cfb9222071720f2543f9ad4db810d0aaf80869f5c7fae1974",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-78b0b986a79a99.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12322/menvsci-environmental-science-with-international-study/",
+      "sha256": "27f0654bb8d7e3f80ff5d0752246e7712a119b2be9231c1b0d5a405600eb36cd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7d09ee11fd638d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09665/bsc-fashion-buying-and-merchandising/",
+      "sha256": "be8c289e56b3495c766b10785f493f5553ef48c3c30bd2228cf7ac139df618ee",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-e4d9563e65de64.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09662/bsc-fashion-management/",
+      "sha256": "024f4a7f69a380a0e234fe1a27f05e3953270d4283bdc4fe840d688b357a31a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d46965ce106021.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09663/bsc-fashion-marketing/",
+      "sha256": "42afc1acfe9eb10edf85a346d6ca7635e5d621130f3beedbf42d5a4de06b243f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-65a020da5c0f30.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21522/bsc-fashion-product-innovation/",
+      "sha256": "02d278c4108769543226aec4b20b8b7a5c53044b63f3421e082f911994365e40",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6464654de9702b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11788/ba-film-studies-and-east-asian-studies/",
+      "sha256": "198e5f333a36849d1d41848588a1163a54299c9ce4be49fab4a8786300cc7b02",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1aaf3cd0060a10.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11789/ba-film-studies-and-english-language/",
+      "sha256": "df75c25c7f8688bf257bdb0316c7a15e3e5f7556a29ad78849b4bf4b17d317cf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-02e01cd311fdc8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11790/ba-film-studies-and-english-literature/",
+      "sha256": "916ded8f95fab6f926a34483847d3b7010999a0522be9d59c09af7a2e39678dd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-62654e0206c055.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11793/ba-film-studies-and-history/",
+      "sha256": "c6f1b65528344575ac7292dccfc7af24bc4627abdefadd53fa55ddc610e4668e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-8fbac1efb07989.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11794/ba-film-studies-and-history-of-art/",
+      "sha256": "c131386cf1f139b7bdf62a6b2cb2fe6112a611f056cf6cae02d3150bb6731eca",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4200a601dc68c5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21906/ba-film-studies-and-modern-languages/",
+      "sha256": "c10a26864bf1683646c20c8468441eefb6b99a9dfb4e66d119a805f5763a6055",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-b77190c27f2e29.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05153/baecon-finance/",
+      "sha256": "bc49af6372bdb0de14cdc5eb10f95270907dea8fc2d9f9dfbc662b3788809d24",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-66b98fad425a5b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00571/bsc-genetics/",
+      "sha256": "d9e20d02db710eb92bbea56b2c0829273ef6c2df9ff287cb2ed693947808ef68",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-185675390b9761.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10120/msci-genetics/",
+      "sha256": "7f88e42e9003057d7713f2061de59a6243ca5e3b0d4f83e849e3fb5e19839c4a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-52eb927aae2a5f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00573/bsc-genetics-with-a-modern-language/",
+      "sha256": "6cdf975fd2520223dea5fd8b31b783570c9a50e7bd9b45e2f58110d1fad57623",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-8f0b132caf3469.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18042/bsc-genetics-with-entrepreneurship/",
+      "sha256": "2652ca2aab44f1178ee7e9ef6c83d1ce2a86546528108e28cfd77be4b474fabf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f6158158963ad8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00572/bsc-genetics-with-industrial-professional-experience/",
+      "sha256": "5604bccf031b6169301bbfbfd4812773b823a104f6148b72668b64698209c614",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-c06ff1740b7fad.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22144/bsc-genetics-with-international-study/",
+      "sha256": "782e8951eb6ff4ec12250c5abfd77663888e0a0afa7bd2b6ff22dfaea804afd8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-b18c997460afc8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22121/ba-geography/",
+      "sha256": "9ef048ff2aeb93ce500112e9c95ef7ed363f2e025c8cf519d9aea0b25e1208f5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-3c1a1c7c6e7e8b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00232/ba-geography/",
+      "sha256": "de3a3ce67d5be9ac46ebc1297b04e6f9f6cf7b4027e6725535aeedcecc74ab41",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4f9c648d379eb8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00575/bsc-geography/",
+      "sha256": "668d9db92d5403c10ae933053bcc22534fb0e4f58753004aef2a5c856d3dfd3d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-12c1ae1e7275f2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22123/ba-geography-with-international-study/",
+      "sha256": "a168ea36253a17895b980d40d180ed3ce46bfd4c80d0b3d44302f88e74473e02",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4a554eb3e7ea61.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08208/ba-geography-with-international-study/",
+      "sha256": "29989bcfb02695eb4c1f1a5bb3505215d55e372a1486140c6ac423f0641ea907",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-5a61794fb8203a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08209/bsc-geography-with-international-study/",
+      "sha256": "58976ae896c4c5a74235c9c195de32d85977f61175fa3f298450ae5bb9ee0e71",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7d27d0450ef007.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22124/bsc-geography-with-international-study/",
+      "sha256": "bfd3220c130fec8ec4b0baccd39c0a840eee8bc106b291beb10b84844c370a10",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7d32a46709a449.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12675/ba-geography-with-professional-placement/",
+      "sha256": "6324daadf480f668cc3d23da62b174e0192025822ff1fbdd154800adc558f356",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-3ad38a6e361011.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12676/bsc-geography-with-professional-placement/",
+      "sha256": "5961813f5032cec923d3f91839816cec4f1e23692c3a85f057b8006077cdc31e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-8556c05db30a1c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22034/bsc-geology/",
+      "sha256": "89accce5bf4e0449a5acb9f01ba832fe60abcd2816a35feb67bf408f556b8a1a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-e2a3b0586ac998.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22036/mgeol-hons-geology/",
+      "sha256": "954674f3566e37ecd1598dba3c554dc9274d43e771ddd19f42f2ea723e91e48d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ece1080dfe4f96.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/20251/bsc-global-development/",
+      "sha256": "6cf7b700051f68ea95b8997d1c671a88f7cc14a86bad7fd6149381985bf95003",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f0993758323963.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21403/bsc-global-development-with-international-study/",
+      "sha256": "dfb93e524813f56babdd7aae0a48d8114e11881585e81d901752ad7cd0bcef45",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1e235f8aba7b97.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09104/bsc-healthcare-science-audiology/",
+      "sha256": "aa14e1688f6eadc97c2cee963ab685778bda329e0712abd556fb98f4ca4a7449",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-3385019b2885df.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00255/ba-history/",
+      "sha256": "1e03c523df6427835155395062714b43e614eaacb386aa7b6f3ce54391b8ce49",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4f1a06aebbea7a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/07913/ba-history-and-american-studies/",
+      "sha256": "1549d79ccee8ab1919979fda1c37c91c9a95a47b9c42101acc257ab8b8520aab",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-bcc50085646f70.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21905/ba-history-and-modern-languages/",
+      "sha256": "6a60782972af4b6de73bbf12e6e017a1ad025348d88a93c43be939d9ffe6a2bf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ac59216a8af82b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00260/ba-history-and-sociology/",
+      "sha256": "64a3d84f313443c25dd06324f7c1d9593b40867644343d0fde5f5617e13eb41b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1c0ed1120f4789.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00251/ba-history-of-art/",
+      "sha256": "dab9e45ef97708277e478c743261af40644c0c4abfc25aaec964cb9aec2a4e9e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-c6aa4ddbbc98fa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06246/bsc-information-technology-management-for-business/",
+      "sha256": "ef9d7fa75a1804932d4b54f7a826dbe2afc471b34496615ff6d6699d476a6409",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-e4ce7866cdc470.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06247/bsc-information-technology-management-for-business-with-industrial-experience/",
+      "sha256": "2dd6754cfdff0863d66057c813958beca9d8232e4c8edd537687d7971a8b5611",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-85d3f5d77743cf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09224/bsc-international-business-finance-and-economics/",
+      "sha256": "66ff14c1b965ffccaa095aeda8e8a55ef974cdd7e5b6a0e31576745024bf190f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-84441fe2d67467.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09963/bsc-international-business-finance-and-economics-with-industrial-professional-experience/",
+      "sha256": "f0d3ffa40e16c6c6439e096b239d7d288dc593abab6a17ed603b043cc2535d73",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-29bdc77e4b88b6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10113/bsc-international-disaster-management-and-humanitarian-response/",
+      "sha256": "3f438ea7c73be94490b3491f44a4971098bd36e01061dda1b0b14741380c1f7d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2c75170a3f0a0a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21902/bsc-international-disaster-management-and-humanitarian-response-and-modern-languages/",
+      "sha256": "178291841bd83873e095212d9f631e97f9a83f322ee3f3a60dd12831319b2a42",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-839edb436b918d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18515/bsc-international-management/",
+      "sha256": "d46ef5d78e625e242549cb91100750b8ed5d76a47159fa57a48a7f99f7049e26",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-73ff5d2f11d562.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12446/llb-law/",
+      "sha256": "95115467066be4fd81d56774d502a625d2ae8a9e7936317fe42432b6aa71975e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ad3bd4f27cf355.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18870/llb-law-with-criminology/",
+      "sha256": "c6e3754c59dcd37df2dce2b3420b89e96349b287e5ef977037cc5649d17f783d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-06272d3cd1a4b0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12451/llb-law-with-international-study/",
+      "sha256": "525e605a7d6a833b9a9052d0de334f0b8c70965e390c9429d9b48f519ac263a8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-c9209315a597ce.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18869/llb-law-with-politics/",
+      "sha256": "df3ff4afee5d3ca9da93fd9c98762de2632ac2d5b65724ca8a62ae3f82a9ee0a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-710bce06c923fa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/17859/ba-liberal-arts/",
+      "sha256": "159b8d66efee9269b261c428ac980cf30461081c4c4335986aaf550525bcc0d7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-79ece6b25e89af.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/19115/ba-liberal-arts-with-international-study/",
+      "sha256": "c333968c0fc3c28617bb0c49ba98091f48e41463db0fb4b5d139ab00dd195fd9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-0c3f3246d36b10.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00585/bsc-life-sciences/",
+      "sha256": "e65921b21787c3731a790dbb6e60db8f739bf2b033bab6c5caefe46a1659ad5b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d91b7cd25a036b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00584/bsc-life-sciences-with-a-modern-language/",
+      "sha256": "e51b66230834f717aeab7e5d8a2e99509c7ae07f9aeafcffc3bbe6e1cb93095b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-015f9c23d32ee2.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18043/bsc-life-sciences-with-entrepreneurship/",
+      "sha256": "0450d0c5b8af5a17b4c8a137414dcc19faacd6ea9fc7e356f83eaa239b7dffcd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-efd32e20659c04.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00583/bsc-life-sciences-with-industrial-professional-experience/",
+      "sha256": "a718d3210aabbc609558be7b1e4dd601793df8f0e71de233298dbc65ecf7ee02",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-60587daa21fdbf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22145/bsc-life-sciences-with-international-study/",
+      "sha256": "03fb6d1ffcc41bc0bc18feeccd35e2963fa15a861167ff75b33187f5a8567a10",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f1a90cf98fb396.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00291/ba-linguistics/",
+      "sha256": "e1d49acebacbc2a6df5e1a0c52094a1a3acfac68d42ca2fa0095443c7929af0c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-0494aa4c8bbb1c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21900/ba-linguistics-and-modern-languages/",
+      "sha256": "93232e16ef5a24f2135c1bf9d16d4e1379659b1c10756e4688a3fdd5fa79eecb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d52b92f503cef6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00289/ba-linguistics-and-sociology/",
+      "sha256": "2606cb496573c7d6a0c96d09a5535ad239b6f92421931fc09a7046cfa5e6aeb8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-97f49ffca5c1fd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03519/bsc-management/",
+      "sha256": "c2340eaf7581c06b78021466231dfbde6cfff3360c3cebd377e13a93c90c8098",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-61a8429615f8fd.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09965/bsc-management-accounting-and-finance-with-industrial-professional-experience/",
+      "sha256": "ff21149bba39f182361689e02d40e4c8ca8852d0a96f85fa197c916d4e1ebd6b",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-52448990ff17bf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03520/bsc-management-accounting-and-finance/",
+      "sha256": "b21700fec00d1846351949eff397742a190877250d8165dcf3f5c4d355f4f01f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-aa7aee64a52699.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03525/bsc-management-human-resources/",
+      "sha256": "ca437cf516c529ab2302967a7f96be284d7639252f0fe7c6b55ee051d02b2c1e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-66b410fecb164a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09966/bsc-management-human-resources-with-industrial-professional-experience/",
+      "sha256": "fcf316eae71588c3b689e9d51ac8c63ea43fc21b4f729f179a85c652fb2bb191",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f27359bf0fbdb8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11245/bsc-management-innovation-strategy-and-entrepreneurship/",
+      "sha256": "05bf0951ecfbea53114cde9be42de6fbab0d5ace4298be0080cff1c102bf6706",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-66d2c4206ea72f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11242/bsc-management-innovation-strategy-and-entrepreneurship-with-industrial---professional-experience/",
+      "sha256": "6fb29112ba23977f542b6436271995773456b79573e9b8f273d788b035472964",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f2fe2139f3db86.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03527/bsc-management-international-business-economics/",
+      "sha256": "efb4d5f4dca6722dc42891c4379a2d97979a96a407c03c59db27d4df344addf5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-21434d87e06596.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09967/bsc-management-international-business-economics-with-industrial-professional-experience/",
+      "sha256": "57788139d88944b274afcbb259443d6d309f53db8de7db510c0ff21bbd7fa8d7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-b20d4706900fa7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03528/bsc-management-marketing/",
+      "sha256": "32eb6827385fb2d4f7693bd4cc3aa6521f0d80bd860068063f62c79e5a07d99c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-c4040cc09c9e26.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09970/bsc-management-marketing-with-industrial-professional-experience/",
+      "sha256": "3814fc2ff363fbb02278aa2f909fddc1b97e0968965ad5abaa8a17e728d0c560",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-cb8cf7dd1e3a8d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09964/bsc-management-with-industrial-professional-experience/",
+      "sha256": "2462cae80c675c735c0ebbd5c35e3f017c9328cad56523dc6ebc9c1065fdc7d3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-990c2216d76e82.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09631/mpre-master-of-planning-with-real-estate/",
+      "sha256": "abfe8d15c07709e728528c66c702618af2ca67ec396b5f9b6b80749e715e4322",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4b28dd7ccfbbe5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09894/bsc-materials-science-and-engineering/",
+      "sha256": "f087b6d9e90f7ce04a53f7c4f511a32b00548e2b9db0ef7b405d02afb1a0cdd5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-0c21b85d687b1f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09895/meng-materials-science-and-engineering/",
+      "sha256": "8354abbd90775882f86f0f12d2d75f718d0943485a6a5e46c201dbc8926b0268",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-e975a780b88e12.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12959/bsc-meng-materials-science-with-an-integrated-foundation-year/",
+      "sha256": "0f81a2a347f68711a033b65cd8eb6f62bf8d7ac3edd20b324d49f7e6e5f05ecd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1bfa793b00511c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00590/bsc-mathematics/",
+      "sha256": "def1e03deba8e37adb87031363bd7d39e4c6168f872ea2339f9e1570fd1d48f4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-192ae599b4eff9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/01688/mmath-mathematics/",
+      "sha256": "15bf218c1b0c3dd9c96e7543c822fb84fc34765211ddfaf212dfb6f08fff243f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-84d9a8f7c176ab.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00595/bsc-mathematics-and-philosophy/",
+      "sha256": "b86765bfa4161dcb71413d75d8fad5085204e9fb75e369129f8d3d44c303bbee",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-26afa56a67eda3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00592/bsc-mathematics-and-physics/",
+      "sha256": "6b2e6c2343982573a6b39966a6a5f0886e6c1553761174b196b2fa4edcf82aac",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2861f9276f27da.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/01684/mmathphys-mathematics-and-physics/",
+      "sha256": "4621362f70d74584399d1580dd8961de29723fd1f81d52c6202a6ba11f6b6536",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-180e6ba6690643.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/07101/bsc-mathematics-and-statistics/",
+      "sha256": "329901d13a4c97ab43ed01c2bc88c709718ef278c68becc07634f5958fea55c7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-8a038a5651e142.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/07102/mmath-mathematics-and-statistics/",
+      "sha256": "7c6ffda0f70cff3b66f6c82ce7f64d0f45190eec83b613cc3b8ef8f20dd9f687",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a4b651be9f9fe4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12960/bsc-mathematics-with-an-integrated-foundation-year/",
+      "sha256": "18d8444f9c1312f96b567d36780ed0e8c3d0434976a75946886080806991aea8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-9e6d1449b3dbce.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00495/bsc-mathematics-with-finance/",
+      "sha256": "b94661daf436ee0e777b10db1e08a5c9e6427d5d80271a4f8cf4f2cb08ce69a9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-9def437f8a15ef.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12645/bsc-mathematics-with-placement-year/",
+      "sha256": "788f781c1e5193aa7f5e9a247512ee1be2c0d3629f54aa71d74dd8fa55ef633c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-00395227790f49.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03389/beng-mechanical-engineering/",
+      "sha256": "5324a7328bb21ac1bfc20e525d400da05c33b6358598be5b92e6969b173fae18",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-085c3169bfa47b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03921/meng-mechanical-engineering/",
+      "sha256": "15a085cb13f612a7c87b88f0048608445f25fe5ebd4e2cece36a6ff751c0758a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2b3a95c62aa290.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12947/beng-meng-mechanical-engineering-with-an-integrated-foundation-year/",
+      "sha256": "daf9facb3e91f9c84d6a855951665de953e9ff070742d0ecebf501c8017991ea",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-58ad6efe0d0852.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03919/meng-mechanical-engineering-with-industrial-experience/",
+      "sha256": "d45663a418076781cb8fffcb766a4af5663089f117498e6c387f044066617e43",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-fa1b5113963b5a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03394/beng-mechatronic-engineering/",
+      "sha256": "fa9dc73982878be62cf5c6a8068e69c05a39dc685e28bf665f9761238e1e32df",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-98008b50f3661e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03927/meng-mechatronic-engineering/",
+      "sha256": "eabab3c5fcb1a31b8607652051e315cb6e87880bb502ada2397ddf6b29f93b9c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-903a1b23cd19b1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03395/beng-mechatronic-engineering-with-industrial-experience/",
+      "sha256": "cf3df789629ecb0f760f1d65a9b496e4431cf9a444280c1ffdc7511cdf015e63",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-75e4cf4c4e7dc5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/03928/meng-mechatronic-engineering-with-industrial-experience/",
+      "sha256": "0848a5cd1ff5e9d0b7a0601726a09a464fc90b90ea659c46450fbe15c395234f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-9d9c4566ac41e8.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00602/bsc-medical-biochemistry/",
+      "sha256": "df04fc5a20860bdde525633eb70b98666371993701ba86f9ea0a24439f92928f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f581031d2b02d3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10121/msci-medical-biochemistry/",
+      "sha256": "21b9a3a5d1ba25ed9b3af8f29424bc301c5dc93b7893302d2798e38cc492f921",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-8e731db03e6c2e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00600/bsc-medical-biochemistry-with-industrial-professional-experience/",
+      "sha256": "f9acacb2c1415cfe71cf5f9887d62f393e517082f9e716a7563ddc52edb66159",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a6f04b4ada672c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22146/bsc-medical-biochemistry-with-international-study/",
+      "sha256": "1ba4b58f9b25f879a21309e050d025f5cf5d65b9091c25f06790ac0b2a6fbcb7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7336c521e957b1.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00643/bsc-medical-physiology/",
+      "sha256": "bc7a754217b4117988b2568af26589b676530f949bbd16a78582b1b604e3e5e6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-5ee4d30d5f05bb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10127/msci-medical-physiology/",
+      "sha256": "086fd08c076f5dbaf9ecb5f13dcc316ada39051a10b291e983dd711d58478df9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-cca4cad5c9ab2d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00646/bsc-medical-physiology-with-a-modern-language/",
+      "sha256": "503ddc7e3a3a40e1e8e95e55e2a68d5800fa51c950bd3b8d8a6db2331cf479a1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f7e9e086237cdf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18047/bsc-medical-physiology-with-entrepreneurship/",
+      "sha256": "c453ff6dc7c3fb2e40b22356cbe1e6a482cc5a6ec60d0584308440afee45e434",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6319d7c4f7ec92.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00645/bsc-medical-physiology-with-industrial-professional-experience/",
+      "sha256": "f9c3b10cd901e6dbcc057c2f64c68049085b19f18c64811c3b73bfe2d1b6fdc7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-83071c62c10a7f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22154/bsc-medical-physiology-with-international-study/",
+      "sha256": "545b4a2efd4936439454b45bd95805d2adc8e1585d99cb69a4a35e448e4e2833",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d15b0373f22021.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/01428/mbchb-medicine/",
+      "sha256": "cd8a2c92ab0af38fc7872a56b0dd2a6f3263116daafc8308dfe4599dfafc4c4f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-acce34e3123f24.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21177/mbchb-medicine-graduate-entry/",
+      "sha256": "a09747497ddbbd534eddbce76c90c6ffe05309482b23b4d581c9dfba67911e0d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4d732fa1876b1f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10973/bnurs-mental-health-nursing/",
+      "sha256": "a22969064380748d23c63c2bb7434a56ed66926992a9a9ea8ca5d6df56dc633e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d1bafc7adafe72.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00609/bsc-microbiology/",
+      "sha256": "361fc2a11392e3efe5c41234264522dee3e17022279128027f4626c083ccb5e2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6aaaaf2e3b6335.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10122/msci-microbiology/",
+      "sha256": "c38e6e93f7f93341fb50b01fefdfea354bafb1062859273a7636de724d2865d9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-4a96cf4c705c1b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00608/bsc-microbiology-with-a-modern-language/",
+      "sha256": "8e8d936e89f46863026721255256803a220ce8cc72b8b8c38a75647e14bf12e8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-8a6d861f14492a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18044/bsc-microbiology-with-entrepreneurship/",
+      "sha256": "a008024135eace6dcd98cd39d99dc57dc6295cd4709b251b11989b0dda8c4bc8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f76fbf68823974.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00607/bsc-microbiology-with-industrial-professional-experience/",
+      "sha256": "b936cfd5d313f67b2585894c3f4712686d80b3e5a7a491934e8dbf38f58be25c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-998091d1dfe81c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22147/bsc-microbiology-with-international-study/",
+      "sha256": "309cbb956fc7cf32ab64d688343ae6ffb0075147b590b50c1f3f38d770fb738d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a4c5c28ba7635d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/07729/ba-middle-eastern-studies/",
+      "sha256": "8f8a2d065585d4cd2bed5aa38940ab27d36c06aacc521e0f097c6afc5718ad7c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-840a96bd69ac4f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11660/bmidwif-midwifery/",
+      "sha256": "c8e7b18024d8de5bb4e5c63249e2ba93dc56df1c7b5c3caebd60d68e7bc793c8",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-65b534155e6a9b.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00340/ba-modern-history-with-economics/",
+      "sha256": "a5b131719bdefa2eb8fe9d1b8b1075ba69c37330e2cf4839a6f6585da1aad080",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6398f0737e77de.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21897/ba-modern-languages/",
+      "sha256": "7e42b39a3b4cdf6754fece0935dceca016d512407471be33fafc47f5a2a2ac5a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6ea77cd81aaaf6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21899/ba-modern-languages-and-business-and-management/",
+      "sha256": "fc951170766303046156791eda12c34867d9d7a4c1921e5a2770a090fd07cc47",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2930d9fd3c0793.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/02397/musb-music/",
+      "sha256": "7149192d9ab778d6aa05f453e3365e7815c12c636b7279fd8ad1ba0e1195cf28",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a8efdd944cf933.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00617/bsc-neuroscience/",
+      "sha256": "5ae3830ecafc58643d5286b3d3c256a8d6712940dd5c1cccaaab5368a79eaa59",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-8f98f0f667d599.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10124/msci-neuroscience/",
+      "sha256": "02103911b768c37f40cdd9bf391b171b8919dff4ad59ddcad4074842d0875fc5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-639ffe9458eab4.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00616/bsc-neuroscience-with-a-modern-language/",
+      "sha256": "41a4676d06f02d3594e966b6d7aa09bb6f7a7adbd374e0081a1eacb4f8b8a3cc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-30c23346643c01.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18045/bsc-neuroscience-with-entrepreneurship/",
+      "sha256": "7897a3cf34c4995365092a7c6d27d2faea57c046dfa88a3c3465398db9a05195",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a6e4f70b5daddf.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00615/bsc-neuroscience-with-industrial-professional-experience/",
+      "sha256": "efd2b0872d089a67021ae20f4249bc74a2418cc61914b18d330ef66211f3d0ff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2993d0858705fb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22148/bsc-neuroscience-with-international-study/",
+      "sha256": "e8d00ca64d8bad4e3311c9e63701b432dcb22fdfc13cd672b039be0bdd9bd648",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1b8116605e764c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21273/msci-optometry/",
+      "sha256": "4d831ec9f97433101f147bc66d3824238aea61254826db38ecc41db59a2a18fb",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-77ed02101e76f0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00634/bsc-pharmacology/",
+      "sha256": "a529a145dfa6e851d177c4609729f969aefecf9bca351f30fcf669aea90d2569",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-fb6ae887ab1370.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10125/msci-pharmacology/",
+      "sha256": "1866f41931ce9418dda1cd7b7ee47a9c1de36bf6f80533482ec603a7ec96b4aa",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-478ba2c0399865.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00633/bsc-pharmacology-with-a-modern-language/",
+      "sha256": "c39f11ff4905877b0c9d876ea0e513ccd011103743fea88e070c134a52244bfc",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d0bd2b9ae6048a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18046/bsc-pharmacology-with-entrepreneurship/",
+      "sha256": "dd2cd20ba2522cc204aae9e9ced131df48471bb5d908b52427bd8443c90e844e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-dde6914ba59ce3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00632/bsc-pharmacology-with-industrial-professional-experience/",
+      "sha256": "0b9a02ec7b71a16ff50de2ce8e6a3376d7d2b519ea16dfb3d89d38c9ccb141f7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f80715cefcb724.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22149/bsc-pharmacology-with-international-study/",
+      "sha256": "208a14eb24a6ec1f7ade1aa6799c4d65b6de47314730cd2a8b1b0e16fd499ecd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-07bda554627bff.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/01695/mpharm-pharmacy/",
+      "sha256": "50bcad0cc7d797861ec0164969577b80b3911b5c841a2625db7485aa4de287b7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-97f6225d8b2cc6.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/07958/mpharm-pharmacy-with-a-preparatory-foundation-year/",
+      "sha256": "19572e357d66b66f123cc7b64495080ceea3f34be2f2ef4ea31962d65fc6a9e1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-32d4ee213b8319.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00350/ba-philosophy/",
+      "sha256": "2ae98c26df93809308cad94340b225dea6340a6d8c10a4288a65df08a7156b86",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-b3be573e8a5456.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08851/bass-philosophy-and-criminology/",
+      "sha256": "f1c4fe6fe166a6f449dc51880265b1748b4e7915390dca632cd19f0dda465541",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-db09048d973f49.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08831/bass-philosophy-and-politics/",
+      "sha256": "e31e2725f617a1701f2a74e0f5fa326d3bedde5cad09b9ff7e26af95d99ebeee",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-aa08f01af4ece9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/13042/ba-philosophy-and-religion/",
+      "sha256": "9828c1d4b508c2486ebef425d1f7fbe8a4a6f7d0bd9993a6f5ff14f415ce1610",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-fc03995f8bc7b5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00638/bsc-physics/",
+      "sha256": "48ae7cf85c784ffbacb77fc48357dcaf827b88e23e74d7c6272f816dbaf96c80",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-aafdd69a35bf25.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/02021/mphys-physics/",
+      "sha256": "a30bd5e2bc23257316a67ea6e4cea22975ee3e730ac66ca95f329cace4e335b7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ce122b17d3e7ba.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12955/bsc-mphys-physics-with-an-integrated-foundation-year/",
+      "sha256": "4429bde2cd869e7a17e04927b1739c5d71706eb6a2cf7a87ed072a5ca44a0ab1",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f290bf07d99f46.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00639/bsc-physics-with-astrophysics/",
+      "sha256": "20850053890e6442d091882ef7e361da683a1433e5f7f626bc0eba7b42a27513",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f997c67640c5a9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/02024/mphys-physics-with-astrophysics/",
+      "sha256": "fdcbf46228f9bff59450892fe0e8159fb4c5c9496ab286949f837e6c8815a5e4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-452c00a67cbf63.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/02026/mphys-physics-with-study-in-europe/",
+      "sha256": "aa067f9135a83a33c0e3cf2b50867f3a77a1807db1b5bcb0a88b08766225b948",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ac21e94ab1ec1e.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00642/bsc-physics-with-theoretical-physics/",
+      "sha256": "6981aa1ce5351e3aeb164d18e78ec29d2f55b22d90c9c4d89a58b033cca9c073",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-9650c045221683.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/02029/mphys-physics-with-theoretical-physics/",
+      "sha256": "538d3cec4396373a7eb0ca5403f5857cdeceaa19b9364f8e44c7ff0fedf96690",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6d42941019c356.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09931/mplan-planning/",
+      "sha256": "2895914ad70ea724b3d6378096b374f61cac6a63aa827e28eb2b7ee289f6d646",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a618bf21ab62df.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12105/bsc-planning-and-real-estate/",
+      "sha256": "830f808dc2fe399a3bb79f5d8e715e25ab255dc3b18b641187200822502a8461",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1a4301eabf0b0f.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12663/bsc-planning-and-real-estate-with-professional-placement/",
+      "sha256": "e3f73022c6eb0d90c2ae94994900fdd196b8ebaf87528b7c71c69710229eade9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-70db387b73f2ef.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12664/mpre-planning-and-real-estate-with-professional-placement/",
+      "sha256": "2d89c2cae28c3b04f16b8e433b2e4353007644ac69c53fac4fceee05649c7bd0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-9957933207c452.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/12665/mplan-planning-with-professional-placement/",
+      "sha256": "243416ac06fa3db9b31bc36d95f2a29a2bd45f5000858027d51d5bcb39a1a424",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-231640a13b4827.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00154/ba-politics-philosophy-and-economics/",
+      "sha256": "00eac529bfa2756582295e82a31227156f40091096dc673db90b945315ae17ff",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-dcb6c6a98bfe80.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08832/bass-politics-and-criminology/",
+      "sha256": "90e21d508ce5c3412cbe1c6e271f1073ab2d39d330124f7294252e565a222f90",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-7cbd0c545de5a3.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18110/bass-politics-and-data-analytics/",
+      "sha256": "379314c7f2a8ac82c5f57e7002f2bb836d9962abf59ae735a736160c284106c9",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-5e074373c280b7.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00675/bsocsc-politics-and-international-relations/",
+      "sha256": "5c33ab01ed08c5c7747d50efca26bf40e81bbeb388d5c37aa45f9329dd78ff50",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-953e0028c9aceb.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00353/ba-politics-and-modern-history/",
+      "sha256": "98938c381fc938ad4d31df25c9f46920cfa232802f14285d904948ed8855e03d",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2e8e8fcfdf7c1a.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21898/ba-politics-and-modern-languages/",
+      "sha256": "c254773b5fb366b17f29ceba895396d6a36f286e735a35a2e2e25593d796b8e5",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-907bd83d0ab057.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08830/bass-politics-and-social-anthropology/",
+      "sha256": "3160afbdfd23c38e3370b6e0ded3ed477d8cff39545417d2fe2e30c36ac5cc80",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1582496570bf3c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08829/bass-politics-and-sociology/",
+      "sha256": "2cac730a62b2c3aeeca33876795347d220302fdf590b9c0f8842c158ac9b7edd",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-35fed377e9cbaa.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00653/bsc-psychology/",
+      "sha256": "a25c49fa100f3db662fb4ae8f4c71e3af1ea190b4ffc0cf122ff84fe8de876ea",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6969a720a16002.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22002/bsc-psychology-of-education/",
+      "sha256": "e36d08c7c140e7412280a6d19713e238534af1fdd8baa71446032ea479828ddf",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-d05a965a740877.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/19642/bsc-public-health-on-campus/",
+      "sha256": "bd3b7be390c00d23118f5e0aa37f839b0c9b1b1d16a3e1fa42a3533e2c9eaf6e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-dc944e6a95429c.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/17846/ba-religions-theology-and-ethics/",
+      "sha256": "f82d97ae3ca82287a785677fc9eb72eab4f431376af4031798613146ac813c7f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-55eb12b9ec0c81.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00676/bsocsc-social-anthropology/",
+      "sha256": "7c88b2b51832b270ef57e668817a310de459e5f438cd75742a629da4e330bef7",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2aef65b04f9aff.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08850/bass-social-anthropology-and-criminology/",
+      "sha256": "0a3dfcd5ed543230e53167a1446c477a3e7e0cdd13581840a390ef7b452ab9ad",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f69ed6dae396c9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18111/bass-social-anthropology-and-data-analytics/",
+      "sha256": "132b722dd49cae1fdf01dafe854d74932fd5885d723425f32c2acbc471d68239",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-f65dc6669434ae.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08849/bass-social-anthropology-and-philosophy/",
+      "sha256": "08aa4537b8ac5408a3b2b7988a9eae324bbe2efe773e5337f389d4c878e4521c",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-6caa8ab0209487.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08846/bass-social-anthropology-and-sociology/",
+      "sha256": "b63facb0ea28458715d2e65b2a27582fd94e7b9911d0b438f5a677ee3a02eed4",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-cfd23557ff5686.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00678/bsocsc-sociology/",
+      "sha256": "96826e262ac0dde88d614da778fedce8a2d0ac2c508b5559968d2ea410ae7c4e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-2ace0323de2830.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08848/bass-sociology-and-criminology/",
+      "sha256": "4b779460d7a0613b9e29ecddaceb7490a7f66417829356491caf484517edd109",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-5e65d6550c42ce.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18107/bass-sociology-and-data-analytics/",
+      "sha256": "8e96c6d3ff5716daafb8a32c2833512edaf58d01b62eb465361c46306f992b4e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-878b329f4a9eb0.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21904/ba-sociology-and-modern-languages/",
+      "sha256": "6bfec635d2e6f2e99ef86994c084d69b915ab8775b49ea375399564443b31f4e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ddd621d3997a76.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/08847/bass-sociology-and-philosophy/",
+      "sha256": "c19bcf4393c00fed4ae5397849dae00f5121fa4f5aa41b6f6549b8d9b44ab647",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-682c0d5fce5b19.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/11331/bsc-speech-and-language-therapy/",
+      "sha256": "3d2d3b4d362fc4632dbe1ae8c08a5f3d4959e09100494fb447d94241ee7adab0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-ef57f7052ca06d.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00663/bsc-zoology/",
+      "sha256": "001f903330734f758d54c58ee41ad06abe62022320555ca4c2b150eafec69401",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-427c3fc949c1b5.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10129/msci-zoology/",
+      "sha256": "09b979a4fc987aa2880be0841187e5bd66aec75cf47c04425174e08a7d8dc9b0",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-1e17d453a93a05.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00665/bsc-zoology-with-a-modern-language/",
+      "sha256": "2f6ddb7740e132d2965f4160d9de1e5d3edb3db45f47ce4ab6dd2caafaec122e",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-a8f17e58d81003.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/18049/bsc-zoology-with-entrepreneurship/",
+      "sha256": "9d4b06f986afd5a64176ff4e6fa050348a1425ac52a131b53ffd36580a08d94a",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-c7b85b11808c05.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00664/bsc-zoology-with-industrial-professional-experience/",
+      "sha256": "b40d99af307d5229bc515343ca59b8fd94c06c819535de781d8fd9d75e13d7e2",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-34c228624b3706.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/22150/bsc-zoology-with-international-study/",
+      "sha256": "4c5f310622ccde82dc8f289e30e02417fa20d104f9d9bd0f1e439b59ef27b7d6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/manchester/raw/course-af7dd035ded0c9.html",
+      "locator": "See each fact extraction_locator"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00623/bsc-nursing-practice-cpd/",
+      "sha256": "b8aeb3507c9dc35185ac697c7c5499439cad32fa2aae1579a0350aa692f419de",
+      "raw_file": "scratch/full-catalog/uk/manchester/raw/json-only-00623.html",
+      "locator": "See each fact extraction_locator"
+    }
+  ]
+}

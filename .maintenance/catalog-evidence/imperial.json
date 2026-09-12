@@ -1,0 +1,634 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.imperial.ac.uk/study/courses/?courseType=undergraduate",
+    "official_total": 73,
+    "official_total_unit": "course groups; study options are additional named records",
+    "page_evidence": [
+      {
+        "page": 1,
+        "groups": 12,
+        "stated_total": "73"
+      },
+      {
+        "page": 2,
+        "groups": 12,
+        "stated_total": "73"
+      },
+      {
+        "page": 3,
+        "groups": 12,
+        "stated_total": "73"
+      },
+      {
+        "page": 4,
+        "groups": 12,
+        "stated_total": "73"
+      },
+      {
+        "page": 5,
+        "groups": 12,
+        "stated_total": "73"
+      },
+      {
+        "page": 6,
+        "groups": 12,
+        "stated_total": "73"
+      },
+      {
+        "page": 7,
+        "groups": 1,
+        "stated_total": "73"
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "filter_rules": [
+      "courseType=undergraduate; all subjects, durations and locations",
+      "Preserve course-card base and explicitly linked study options as separate records",
+      "Includes undergraduate-entry integrated masters and medicine; graduate-entry undergraduate programmes retained when listed",
+      "No language/campus/duration inferred from university defaults"
+    ],
+    "unresolved": [
+      "Current listing is not proof that applications are still open; listed_current means present in the 2027 directory.",
+      "Some courses use Apply to another UCAS code or transfer after enrolment. These have not been silently relabelled as direct entry."
+    ],
+    "raw_artifacts": [
+      "imperial/raw/directory-1.meta.json",
+      "imperial/raw/directory-2.meta.json",
+      "imperial/raw/directory-3.meta.json",
+      "imperial/raw/directory-4.meta.json",
+      "imperial/raw/directory-5.meta.json",
+      "imperial/raw/directory-6.meta.json",
+      "imperial/raw/directory-7.meta.json"
+    ],
+    "university_id": "imperial",
+    "count": 113,
+    "checked_at": "2026-09-12",
+    "completeness_scope": "All 73 unfiltered official course groups across 7 pages read; all explicitly linked named study options expanded; three Language for Science umbrella rows excluded in favour of nine individual language degrees. Completeness is of the published directory and its options, not a claim all applications are open.",
+    "excluded_count": 3,
+    "excluded_file": "imperial/excluded.json",
+    "detail_pages_read": 73
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-computer-science-ai-meng/",
+      "sha256": "6814fcb2f07c0bc3f5b15b5f9a54fdb8d56581255a72929ebf2dffef8d734850",
+      "bytes": 192474,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-054.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-054.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/electronic-information-meng/",
+      "sha256": "542284d3b205caebbf41755fa297dbe11033ff72a282987899ecb1d594b001f4",
+      "bytes": 265226,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-040.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-040.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mechanical-engineering-nuclear/",
+      "sha256": "de46c955a17e50007add289ccd647b1ec136d829d7256fa21aca4c36a1637a25",
+      "bytes": 317785,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-061.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-061.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-statistics-finance/",
+      "sha256": "28b0891983ab1e10a39099bcb9a5074337ae7b3410134f4bcb6c739beca2df0e",
+      "bytes": 189465,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-059.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-059.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/civil-engineering/",
+      "sha256": "f283cf47be2c361b717b3d4a02d99807d1809a88f6bb1126d29291f939b58c8e",
+      "bytes": 286003,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-023.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-023.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/?courseType=undergraduate&page=2",
+      "sha256": "acaf893bc939ad0d94ab41256251ab9e94e5ff52546fb142e77dab6d489cff15",
+      "bytes": 213226,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/directory-2.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/directory-2.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/electrical-electronic-engineering-meng/",
+      "sha256": "d3e848162d3cda87d62b6f6a5278c35d5bd3627498574607627a87fefcb10e13",
+      "bytes": 278838,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-037.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-037.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biotechnology-management/",
+      "sha256": "3de717c72645e6066c0b82826fd7d6f66002069d6f442395cd94e058862f0edd",
+      "bytes": 174310,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-016.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-016.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biochemistry-bsc/",
+      "sha256": "cc6383ba53315517497d4f55d17e9e24f225b9b8ab0e7f4547aeca1caf51bb32",
+      "bytes": 246337,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-002.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-002.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/microbiology/",
+      "sha256": "01588e5352a033e107ef5d89e6ec1f3920949a491f0930d18d783890041cb628",
+      "bytes": 183099,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-067.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-067.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biological-sciences-management/",
+      "sha256": "65acb88b82e4aeae6f739386c9341e5eea59e2bcfe51f7f06df5acc407e4a47c",
+      "bytes": 207569,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-009.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-009.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/computing-security-reliability-meng/",
+      "sha256": "5d73d83d9a2de81a8a227757bd2b79605334af649541d8267dfee509d3f5abcf",
+      "bytes": 172948,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-028.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-028.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-computer-science-meng/",
+      "sha256": "e422ef201837317695435439f2f63b5c4e419ddfa10afcf7e0a4331ad0111180",
+      "bytes": 188074,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-052.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-052.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/materials-science-engineering-meng/",
+      "sha256": "6ff7bb511f0aa75972bed6bb1c7647ce56512f44c73dd9efe44657fa15753e4c",
+      "bytes": 171411,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-046.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-046.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biomaterials-tissue-engineering-meng/",
+      "sha256": "2fa41bc5f9a5226cdc26272ca32937aba1a6a157de3208c4328864617d9ed26b",
+      "bytes": 171963,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-010.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-010.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biochemistry-language/",
+      "sha256": "99689be0d7471f4d32d701abec92d7e793509dd5c0542cc58d6a29bdea7fc269",
+      "bytes": 275810,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-004.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-004.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/computing-beng/",
+      "sha256": "1923808fff02d531f99621b5540aa23be5dfb48fd0756d1d8e8f694cbd833193",
+      "bytes": 174175,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-025.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-025.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/?courseType=undergraduate&page=4",
+      "sha256": "1f6a29f2817b8b3593cadedf4c0366034abd17e0fcb235d396a5fb80d98c1b98",
+      "bytes": 197826,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/directory-4.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/directory-4.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/design-engineering/",
+      "sha256": "e694633b95ae145953e5891b81fe7be336b1c52d08e1db9c87a29bbd8b1adbe2",
+      "bytes": 221136,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-031.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-031.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/geology-bsc/",
+      "sha256": "5f2afe64b68339069c7be22d36f33a6d724ada1bbd6bf1a211a7b5ddce958aaa",
+      "bytes": 175843,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-041.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-041.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-computer-science-ai-beng/",
+      "sha256": "33a023a775c879debcce871f34c3505cfc232450fc645bf5e5e02b98fada03bb",
+      "bytes": 184953,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-055.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-055.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mechanical-engineering/",
+      "sha256": "8868fcc9e982800aef61c0cd0109e470b43cb579365d0d0b97010317782da533",
+      "bytes": 433387,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-060.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-060.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/?courseType=undergraduate&page=3",
+      "sha256": "b5cceb185e0fd627bbb7bd1d2205b459f0f2ea506f715351d761a18e78184b02",
+      "bytes": 187843,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/directory-3.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/directory-3.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/electrical-electronic-engineering-beng/",
+      "sha256": "a8009023e8091495859ebe16fbdba4295fecd01643abe18079686e3b47859229",
+      "bytes": 209028,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-036.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-036.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-statistics/",
+      "sha256": "b0de20952dfa7bcc36382c14bf7888de6408cfbce96aeffb94cc37e5a6d50cab",
+      "bytes": 186234,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-058.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-058.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/chemistry-molecular-physics/",
+      "sha256": "0f7016b8cee52a7825872b000d7348e2544e3fccd04d1e3bcb7cb05a343b8e3e",
+      "bytes": 253182,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-022.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-022.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biochemistry-msci/",
+      "sha256": "d94f064dd9fa9c06c3a16754574a4062e0a23c17f4858f2f3e209c913732fe0d",
+      "bytes": 188362,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-003.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-003.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/chemical-engineering/",
+      "sha256": "60fdab65a10336724ac4ccfdfc3902bb1b633c76e72fce1973012dd8582bf82d",
+      "bytes": 262514,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-017.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-017.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biological-sciences-language/",
+      "sha256": "8f8b647ec9ba0dcd98df6f67a1496c934c2513f8805258cdd282586cd31b58fd",
+      "bytes": 275982,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-008.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-008.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/physics-theoretical-bsc/",
+      "sha256": "60e912b26dfa0de77e2030709b2d209bdc0ea09f7e263e3a975b4e0a36b72c5f",
+      "bytes": 196147,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-072.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-072.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/medicine-graduate-entry/",
+      "sha256": "df7ce2e4866891ab22b427aba254821299b1681a5c14973ea5306555d4a2ed0d",
+      "bytes": 162234,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-066.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-066.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/materials-science-engineering-beng/",
+      "sha256": "5d491c828dbcc3bd1eff573d335a31bead0c6996dd8897b09581a36c6f701f1c",
+      "bytes": 168113,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-047.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-047.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/computing-software-engineering-meng/",
+      "sha256": "b4067cfc78cb0eda5f639a652066a1a7374fc16811689d92a4d2f9055c48e57d",
+      "bytes": 172647,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-029.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-029.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-computer-science-beng/",
+      "sha256": "3a65e8a165025c3940090e07ea92398a39e313aa73fb799ed146c1e32d6e5086",
+      "bytes": 178447,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-053.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-053.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biochemistry-management/",
+      "sha256": "b9ba17ccf6b472862a2866319877b67a4a672b6fe08ef2d99349300b9396be3a",
+      "bytes": 209760,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-005.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-005.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biomedical-engineering/",
+      "sha256": "3e2e81b69a87a58aae20062f38afb01b25b485e05ea959c14e469dbf106e0168",
+      "bytes": 388861,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-011.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-011.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/?courseType=undergraduate&page=5",
+      "sha256": "64b12090150f624a4ae9dcaf1a07f28372e11dcc950ae6d5b9527c0fef7af703",
+      "bytes": 187382,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/directory-5.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/directory-5.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/computing-visual-computing-robotics-meng/",
+      "sha256": "71e9c195c55362d86f7fb90ccb0cc490a87d23d2ddeabda1c294839b2a856908",
+      "bytes": 172623,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-030.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-030.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/computing-meng/",
+      "sha256": "e12cc18080e6bebd8910c4e0d88ddb849d2b72cb04e46802411bd54e7b4871c0",
+      "bytes": 174813,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-024.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-024.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/chemistry-msci/",
+      "sha256": "079e31ab52868b12eb285e581e6719264580b7ffd0d6304004924be8c66c6cea",
+      "bytes": 370339,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-019.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-019.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/medical-biosciences-management/",
+      "sha256": "e469e0cd28a56fec6738a16ccec27b3ccc65ef8c1dc76bcd0656904e44391bde",
+      "bytes": 191599,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-063.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-063.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-applied-physics/",
+      "sha256": "5bb3d8021d08fc8cb6307ae2a465e6f45f9e899c9cda13b31eb69a9323cd1064",
+      "bytes": 188218,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-056.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-056.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/electrical-electronic-engineering-management/",
+      "sha256": "967510743e05dfa9b01af88b64bd71343dfaaf66d8cef1cc1526e2fabeb77965",
+      "bytes": 222966,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-038.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-038.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/geology-msci/",
+      "sha256": "53d49e24c1423bc41a789380dfef12538f85308a9844894c51fc940618d907de",
+      "bytes": 222625,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-042.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-042.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biotechnology-msci/",
+      "sha256": "a22733441f861b2e99db5ecc357e10656069d537e0024aa785280a8d6d4ac4fa",
+      "bytes": 182795,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-014.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-014.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/aeronautical-engineering/",
+      "sha256": "3d0f3baaaaf3e488f14baaf2e99a7af28b1e6847a05d63eba4380905299fc185",
+      "bytes": 451470,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-000.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-000.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/chemistry-medicinal/",
+      "sha256": "24795e6fa2b83cd5f58807ba1ea0893bedcea0dd4548ac40ac916d2db87a35dc",
+      "bytes": 254092,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-021.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-021.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/economics-finance-data-science/",
+      "sha256": "4df3efca9665d65fc5f21e460f9cc29a180cd85a77a903c4b03831b60536daba",
+      "bytes": 167151,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-035.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-035.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-bsc/",
+      "sha256": "b2fb39edbe25f2906054fd76e3090eb422fe2538999ef227feaa44d5bde6a0e2",
+      "bytes": 209531,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-050.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-050.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/geophysics-msci/",
+      "sha256": "36f0b798f3aa3430f2159aebd47e76957956ed9060c67e0dfe44e7f4b46138e3",
+      "bytes": 213055,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-044.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-044.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/medicine/",
+      "sha256": "687159dbfc7fc78230195353f11acf1a7dcb7f0a02c317f74f224e05c2a244bf",
+      "bytes": 200724,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-065.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-065.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/physics-theoretical-msci/",
+      "sha256": "96be463d2b3a93300d47b963d7f8f5f2f5a894eb34c847ddac62d000b8dc1350",
+      "bytes": 213975,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-071.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-071.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/computing-international-programme-of-study/",
+      "sha256": "a37fef0c8403efe1a36234cfba8678c4afd31ea022b0006e176a9b3f97f36319",
+      "bytes": 177016,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-027.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-027.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-msci/",
+      "sha256": "794b789e54957800590f8a19f31a2db1b0fa208c7ef35a807f60e4c6b17f28b1",
+      "bytes": 272425,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-049.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-049.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/earth-planetary-science-msci/",
+      "sha256": "4a02db327924917813f7d0d48c509c4d3ac4ea47f801e1d985ff79aec6f9150b",
+      "bytes": 208518,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-033.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-033.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/?courseType=undergraduate&page=6",
+      "sha256": "8ef2b361d0bdcd731413fa2da49e0bd7609c55ec0ab5d6ae499c2e038359c419",
+      "bytes": 199463,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/directory-6.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/directory-6.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/molecular-bioengineering/",
+      "sha256": "72ebe9a2a25873e0569b07bedbd7436253857e2c12dae7a2a484f0e2cd6c19bc",
+      "bytes": 340203,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-068.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-068.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biomedical-technology-ventures/",
+      "sha256": "b072512f8b5f5a552b257c0330dc41c505a8d2ca2381d891a425b56c68124068",
+      "bytes": 248945,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-012.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-012.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biological-sciences/",
+      "sha256": "d670a7ba7c4c8a9cefef14eed42b79aaaa96e402fa4e826f45828695656100aa",
+      "bytes": 250413,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-006.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-006.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/chemistry-bsc/",
+      "sha256": "06ce0c4384c52688e6708d0dc29f6a5ca952378e8ac463512fa33b50897fa8ef",
+      "bytes": 191342,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-018.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-018.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/medical-biosciences/",
+      "sha256": "3ba0a3d83a679dbbcd06d0259002062fb7acf54c10e31a413861ef9fde148b04",
+      "bytes": 185828,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-062.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-062.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/electronic-information-beng/",
+      "sha256": "2cf7560cc9346edbe2b66f5b8746209e1fd7e022a9ddfaf0b28b8dc2ce75fe17",
+      "bytes": 205406,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-039.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-039.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/geophysics-bsc/",
+      "sha256": "bcbb65ecbd330c3f3570072824096c9504833cdce44150c2a0b878b2eeb7d851",
+      "bytes": 171951,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-043.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-043.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-computation/",
+      "sha256": "73403e6fed552c6ba4e2cbf2e7ca6388231ba47648462c6de3b076f25777d174",
+      "bytes": 186765,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-057.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-057.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/aeronautics-spacecraft-engineering/",
+      "sha256": "a3acfaf81e286e806aa7491dd0adfd0ffd6c65876b99d6cf8ea9dcce27473e2b",
+      "bytes": 221253,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-001.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-001.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biotechnology-language/",
+      "sha256": "25f5237c07d8fe0a15510840e418007e312d07982078a9811357f2c147854c93",
+      "bytes": 268579,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-015.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-015.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/ecology-environmental-biology/",
+      "sha256": "1644e2a20441f58845720954ed699f0c01306b6da6343f671851597f604e86bb",
+      "bytes": 170089,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-034.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-034.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/?courseType=undergraduate",
+      "sha256": "38a9805b27b2f94a98ba1c825560f70c15828117cf994dc03c79b434dae8ff30",
+      "bytes": 217979,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/directory-1.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/directory-1.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/chemistry-management/",
+      "sha256": "235d289ddeef9e2dbe08ac1c8e42225386c77435aad28f6d59debe8deeb1f71b",
+      "bytes": 198483,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-020.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-020.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/medicine-phd/",
+      "sha256": "4b61489aa56f500154515fe0f86ce5575081d9bb4c632849143fa3bb5aa7f2c5",
+      "bytes": 136411,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-045.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-045.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/pure-mathematics-bsc/",
+      "sha256": "f66c959cb5383f3a8a7dcd0f8a673a711872e4284724701ed7736f4bce100c1d",
+      "bytes": 186121,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-051.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-051.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/physics-msci/",
+      "sha256": "726255bd5983b98429a5f5c82e1a0d66a142ee0cb260a9fc3776d72150d937ba",
+      "bytes": 272519,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-070.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-070.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/medical-science-innovation/",
+      "sha256": "83aafe17c8da9d59e60dc4dc6f8b33c8d69ba6263d23c1ad6be9153e2e9f3a7e",
+      "bytes": 188080,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-064.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-064.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/materials-nuclear-engineering/",
+      "sha256": "ceb7adddd3f61b3bd79dafca3f2712767053224be835718e5600319a968aedea",
+      "bytes": 169711,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-048.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-048.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/earth-planetary-science-bsc/",
+      "sha256": "e1de435097062e6b62e27b6fdba13cc90f7fd1f15ac7886ba3740b4e7b22904b",
+      "bytes": 177849,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-032.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-032.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/?courseType=undergraduate&page=7",
+      "sha256": "a9c3eff5eadd9a74fd38e6b1c66832902b1d5e9bdf592d59d57baab9e910d18d",
+      "bytes": 138593,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/directory-7.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/directory-7.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/computing-artificial-intelligence-meng/",
+      "sha256": "71c2e650f26a483937ad6efd945b31f71b81f24e98182204acba6b552d9afdd7",
+      "bytes": 172896,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-026.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-026.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biological-sciences-msci/",
+      "sha256": "6e1f9caf9b2bb45a32f2d42882a7c1b833a0b4d291ba414f099b73d91f4e33ea",
+      "bytes": 177979,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-007.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-007.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/physics-bsc/",
+      "sha256": "d19161c5e015197dbabe0631ff14331ac214a41e9c1a94c1f970a03ee1503699",
+      "bytes": 198068,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-069.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-069.meta.json"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/biotechnology/",
+      "sha256": "e8f790dff210ff0947c214f7d883f0ce8b403d8a7bf0fea07a8fffafa8603bb5",
+      "bytes": 241194,
+      "raw_file": "scratch/full-catalog/uk/imperial/raw/course-013.html",
+      "meta_file": "scratch/full-catalog/uk/imperial/raw/course-013.meta.json"
+    }
+  ]
+}

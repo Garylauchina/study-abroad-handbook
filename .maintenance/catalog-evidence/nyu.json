@@ -1,0 +1,36 @@
+{
+  "original_manifest": {
+    "university_id": "nyu",
+    "checked_at": "2026-09-12",
+    "final_count": 173,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "scope": "NYU New York schools, including Brooklyn Tandon and SPS; excludes Abu Dhabi and Shanghai program identities",
+    "directory_urls": [
+      "https://bulletins.nyu.edu/programs/"
+    ],
+    "official_published_count": null,
+    "page_coverage": {
+      "pages": 1,
+      "unique_directory_records": 822,
+      "html_list_items": 1644,
+      "pagination": "Complete static CourseLeaf list; duplicate grid/list presentations deduplicated by name and URL"
+    },
+    "filter_rules": "Require Bachelors tag; exclude overseas school tags and all non-bachelor items; retain named combined bachelor pathways and accelerated/degree-completion bachelor routes.",
+    "excluded_count": 649,
+    "can_prove_complete": true,
+    "completeness_basis": "Every unique Bachelors-tagged NYU New York record from complete Program Finder included.",
+    "gaps": [
+      "Does not assert eligibility or intake availability for mainland applicants.",
+      "Integrated bachelor/graduate pathways are distinguished from bachelor-only records; not counted as separate standalone graduate programs."
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://bulletins.nyu.edu/programs/",
+      "sha256": "e3e9db39e833f20aba919d9be3cd12bd4dffc85201b02304720be1b94310aaa3",
+      "bytes": 1151940,
+      "raw_file": "scratch/full-catalog/us-b/nyu/index.html",
+      "meta_file": "scratch/full-catalog/us-b/nyu/index.source.json"
+    }
+  ]
+}

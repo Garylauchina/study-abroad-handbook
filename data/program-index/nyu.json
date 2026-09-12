@@ -1,0 +1,3168 @@
+{
+  "university_id": "nyu",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "complete",
+    "count": 173,
+    "scope": "NYU New York schools, including Brooklyn Tandon and SPS; excludes Abu Dhabi and Shanghai program identities",
+    "method": "{\"pages\": 1, \"unique_directory_records\": 822, \"html_list_items\": 1644, \"pagination\": \"Complete static CourseLeaf list; duplicate grid/list presentations deduplicated by name and URL\"}",
+    "exclusions": "Require Bachelors tag; exclude overseas school tags and all non-bachelor items; retain named combined bachelor pathways and accelerated/degree-completion bachelor routes.",
+    "sources": [
+      {
+        "url": "https://bulletins.nyu.edu/programs/",
+        "sha256": "e3e9db39e833f20aba919d9be3cd12bd4dffc85201b02304720be1b94310aaa3",
+        "bytes": 1151940,
+        "raw_file": "scratch/full-catalog/us-b/nyu/index.html",
+        "meta_file": "scratch/full-catalog/us-b/nyu/index.source.json"
+      }
+    ],
+    "gaps": [
+      "Does not assert eligibility or intake availability for mainland applicants.",
+      "Integrated bachelor/graduate pathways are distinguished from bachelor-only records; not counted as separate standalone graduate programs."
+    ]
+  },
+  "programs": [
+    {
+      "name_en": "Africana Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/africana-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Africana Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-africana-studies-2f47ab695b"
+    },
+    {
+      "name_en": "American Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/american-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "American Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-american-studies-e909472c35"
+    },
+    {
+      "name_en": "Anthropology",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/anthropology-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Anthropology (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-anthropology-dafda70f2d"
+    },
+    {
+      "name_en": "Anthropology and Classical Civilization",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/anthropology-classical-civilization-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Anthropology and Classical Civilization (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-anthropology-and-classical-civilization-ed9ea5a700"
+    },
+    {
+      "name_en": "Anthropology and Linguistics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/anthropology-linguistics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Anthropology and Linguistics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-anthropology-and-linguistics-c535f5949e"
+    },
+    {
+      "name_en": "Applied Data Analytics and Visualization",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/applied-data-analytics-visualization-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Applied Data Analytics and Visualization (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-applied-data-analytics-and-visualization-69a6615af9"
+    },
+    {
+      "name_en": "Applied General Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/applied-general-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Applied General Studies (BA)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-applied-general-studies-9a5b23ffe7"
+    },
+    {
+      "name_en": "Applied Physics",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/applied-physics-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Applied Physics (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-applied-physics-50cf38b7d7"
+    },
+    {
+      "name_en": "Applied Psychology",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/applied-psychology-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Applied Psychology (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-applied-psychology-80d9f90e4a"
+    },
+    {
+      "name_en": "Art History",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/art-history-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Art History (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-art-history-1cb609fc29"
+    },
+    {
+      "name_en": "Asian/Pacific/American Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/asian-pacific-american-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Asian/Pacific/American Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-asian-pacific-american-studies-16663ef14c"
+    },
+    {
+      "name_en": "Biochemistry",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biochemistry-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Biochemistry (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-biochemistry-d1ede828c2"
+    },
+    {
+      "name_en": "Biology",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Biology (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-biology-bf69e863e2"
+    },
+    {
+      "name_en": "Biology/Chemical and Biomolecular Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-chemical-biomolecular-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Biology/Chemical and Biomolecular Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-biology-chemical-and-biomolecular-engineering-e5fba1ee91"
+    },
+    {
+      "name_en": "Biology/Dentistry",
+      "degree_label": "BA/DDS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/biology-dentistry-ba-dds/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Biology/Dentistry (BA/DDS)",
+      "academic_unit": [
+        "BA",
+        "DDS",
+        "Arts & Science",
+        "Dentistry"
+      ],
+      "entry_route": "Combined bachelor/graduate pathway; the graduate component is not an independent undergraduate award",
+      "entity_type": "combined bachelor pathway",
+      "id": "nyu-biology-dentistry-ad39c6917c"
+    },
+    {
+      "name_en": "Biomolecular Science",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/biomolecular-science-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Biomolecular Science (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-biomolecular-science-44f4733464"
+    },
+    {
+      "name_en": "Business",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/business/programs/business-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Business (BS)",
+      "academic_unit": [
+        "Stern"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-business-c639d15028"
+    },
+    {
+      "name_en": "Business and Political Economy",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/business/programs/business-political-economy-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Business and Political Economy (BS)",
+      "academic_unit": [
+        "Stern"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-business-and-political-economy-9e46a93c94"
+    },
+    {
+      "name_en": "Business and Technology Management",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/business-technology-management-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Business and Technology Management (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-business-and-technology-management-882fc8ba94"
+    },
+    {
+      "name_en": "Business, Technology and Entrepreneurship",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/business/programs/business-technology-entrepreneurship-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Business, Technology and Entrepreneurship (BS)",
+      "academic_unit": [
+        "Stern"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-business-technology-and-entrepreneurship-c72a31168a"
+    },
+    {
+      "name_en": "Business/Accounting",
+      "degree_label": "BS/MS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/business/programs/accounting-bs-ms/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Business/Accounting (BS/MS)",
+      "academic_unit": [
+        "Stern"
+      ],
+      "entry_route": "Combined bachelor/graduate pathway; the graduate component is not an independent undergraduate award",
+      "entity_type": "combined bachelor pathway",
+      "id": "nyu-business-accounting-53677c506c"
+    },
+    {
+      "name_en": "Chemical and Biomolecular Engineering",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/chemical-biomolecular-engineering-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Chemical and Biomolecular Engineering (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-chemical-and-biomolecular-engineering-85c845e967"
+    },
+    {
+      "name_en": "Chemistry",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Chemistry (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-chemistry-93580f20f4"
+    },
+    {
+      "name_en": "Chemistry",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Chemistry (BS)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-chemistry-5eec5ab043"
+    },
+    {
+      "name_en": "Chemistry/Chemical and Biomolecular Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/chemistry-chemical-biomolecular-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Chemistry/Chemical and Biomolecular Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-chemistry-chemical-and-biomolecular-engineering-4934c74046"
+    },
+    {
+      "name_en": "Childhood Education/Childhood Special Education",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/childhood-education-childhood-special-education-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Childhood Education/Childhood Special Education (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-childhood-education-childhood-special-education-ac9c94acd7"
+    },
+    {
+      "name_en": "Cinema Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/cinema-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Cinema Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-cinema-studies-46e9972659-7b1101"
+    },
+    {
+      "name_en": "Cinema Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/cinema-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Cinema Studies (BA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-cinema-studies-46e9972659-44cddb"
+    },
+    {
+      "name_en": "Civil Engineering",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/civil-engineering-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Civil Engineering (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-civil-engineering-90a0bf8755"
+    },
+    {
+      "name_en": "Classical Civilization",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classical-civilization-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Classical Civilization (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-classical-civilization-3742f238b7"
+    },
+    {
+      "name_en": "Classical Civilization and Hellenic Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classical-civilization-hellenic-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Classical Civilization and Hellenic Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-classical-civilization-and-hellenic-studies-d9c31cd5c7"
+    },
+    {
+      "name_en": "Classics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Classics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-classics-d7913dc597"
+    },
+    {
+      "name_en": "Classics and Art History",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/classics-art-history-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Classics and Art History (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-classics-and-art-history-a34f4be76c"
+    },
+    {
+      "name_en": "Collaborative Arts",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/collaborative-arts-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Collaborative Arts (BFA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-collaborative-arts-daf1e27822"
+    },
+    {
+      "name_en": "Communicative Sciences and Disorders",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/communicative-sciences-disorders-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Communicative Sciences and Disorders (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-communicative-sciences-and-disorders-9013115c48"
+    },
+    {
+      "name_en": "Comparative Literature",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/comparative-literature-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Comparative Literature (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-comparative-literature-6c9df0c64b"
+    },
+    {
+      "name_en": "Computer and Data Science",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-data-science-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Computer and Data Science (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-computer-and-data-science-399fe8ba7d"
+    },
+    {
+      "name_en": "Computer Engineering",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-engineering-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Computer Engineering (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-computer-engineering-a8722faf9b"
+    },
+    {
+      "name_en": "Computer Science",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Computer Science (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-computer-science-cfd0878067"
+    },
+    {
+      "name_en": "Computer Science",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-science-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Computer Science (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-computer-science-8b73691123"
+    },
+    {
+      "name_en": "Computer Science/Computer Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Computer Science/Computer Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-computer-science-computer-engineering-21c3530ea9"
+    },
+    {
+      "name_en": "Computer Science/Electrical Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/computer-science-electrical-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Computer Science/Electrical Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-computer-science-electrical-engineering-413d23fce5"
+    },
+    {
+      "name_en": "Computer Science/Management of Technology",
+      "degree_label": "BS/MS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/computer-science-management-technology-bs-ms/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Computer Science/Management of Technology (BS/MS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": "Combined bachelor/graduate pathway; the graduate component is not an independent undergraduate award",
+      "entity_type": "combined bachelor pathway",
+      "id": "nyu-computer-science-management-of-technology-08c8113d57"
+    },
+    {
+      "name_en": "Dance",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/dance-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Dance (BFA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-dance-5586dc0c07"
+    },
+    {
+      "name_en": "Data Science",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/data-science-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Data Science (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-data-science-84ec3e5fd8"
+    },
+    {
+      "name_en": "Data Science and Mathematics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/data-science-mathematics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Data Science and Mathematics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-data-science-and-mathematics-e7084bec4f"
+    },
+    {
+      "name_en": "Dental Hygiene",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/dentistry/programs/dental-hygiene-bachelor-science/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Dental Hygiene (BS)",
+      "academic_unit": [
+        "Dentistry"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-dental-hygiene-ab06cd26ed"
+    },
+    {
+      "name_en": "Digital Communications and Media",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/digital-communications-media-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Digital Communications and Media (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-digital-communications-and-media-8e530d751f"
+    },
+    {
+      "name_en": "Dramatic Literature, Theatre History, and Cinema",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/dramatic-literature-theatre-history-cinema-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Dramatic Literature, Theatre History, and Cinema (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-dramatic-literature-theatre-history-and-cinema-46d1133206"
+    },
+    {
+      "name_en": "Dramatic Writing",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/dramatic-writing-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Dramatic Writing (BFA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-dramatic-writing-698f23f70f"
+    },
+    {
+      "name_en": "Early Childhood Education/Early Childhood Special Education",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/early-childhood-education-special-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Early Childhood Education/Early Childhood Special Education (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-early-childhood-education-early-childhood-special-education-9e4f16c77a"
+    },
+    {
+      "name_en": "East Asian Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/east-asian-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "East Asian Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-east-asian-studies-8024c3c955"
+    },
+    {
+      "name_en": "Economics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/economics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Economics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-economics-8e6326a6b9"
+    },
+    {
+      "name_en": "Economics and Computer Science",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/economics-computer-science-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Economics and Computer Science (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-economics-and-computer-science-1d78b378ce"
+    },
+    {
+      "name_en": "Economics and Mathematics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/economics-mathematics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Economics and Mathematics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-economics-and-mathematics-85c0aefdf5"
+    },
+    {
+      "name_en": "Education Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/education-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Education Studies (BA)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-education-studies-1d2eba47f8"
+    },
+    {
+      "name_en": "Educational Theatre",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/educational-theatre-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Educational Theatre (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-educational-theatre-5700cdb00c"
+    },
+    {
+      "name_en": "Electrical and Computer Engineering",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/electrical-computer-engineering-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Electrical and Computer Engineering (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-electrical-and-computer-engineering-be19f72de7"
+    },
+    {
+      "name_en": "Electrical Engineering",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/electrical-engineering-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Electrical Engineering (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-electrical-engineering-92e4bbd4e3"
+    },
+    {
+      "name_en": "English and American Literature",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/english-american-literature-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "English and American Literature (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-english-and-american-literature-2a99b3035f"
+    },
+    {
+      "name_en": "Environmental Engineering",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/environmental-engineering-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Environmental Engineering (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-environmental-engineering-7500e5ea5a"
+    },
+    {
+      "name_en": "Environmental Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/environmental-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Environmental Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-environmental-studies-d92b3b3c2e"
+    },
+    {
+      "name_en": "European and Mediterranean Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/european-mediterranean-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "European and Mediterranean Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-european-and-mediterranean-studies-c74b1bad1e"
+    },
+    {
+      "name_en": "Film and Television",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/film-television-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Film and Television (BFA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-film-and-television-c1647a9534"
+    },
+    {
+      "name_en": "French",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/french-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "French (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-french-8b5f01c237"
+    },
+    {
+      "name_en": "French and Linguistics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/french-linguistics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "French and Linguistics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-french-and-linguistics-767f9a0a0b"
+    },
+    {
+      "name_en": "Game Design",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/game-design-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Game Design (BFA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-game-design-892d8e8836"
+    },
+    {
+      "name_en": "Gender and Sexuality Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/gender-sexuality-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Gender and Sexuality Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-gender-and-sexuality-studies-bd1662e603"
+    },
+    {
+      "name_en": "German",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/german-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "German (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-german-1c2973a2be"
+    },
+    {
+      "name_en": "German and Linguistics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/german-linguistics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "German and Linguistics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-german-and-linguistics-9e9199006e"
+    },
+    {
+      "name_en": "Global Liberal Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/liberal-studies/programs/global-liberal-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Liberal Studies (BA)",
+      "academic_unit": [
+        "Liberal Studies"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-liberal-studies-f6537e55f2"
+    },
+    {
+      "name_en": "Global Public Health and Anthropology",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-anthropology-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health and Anthropology (BA)",
+      "academic_unit": [
+        "Arts & Science",
+        "Global Public Health"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-and-anthropology-e2c2234cfd"
+    },
+    {
+      "name_en": "Global Public Health and History",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-history-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health and History (BA)",
+      "academic_unit": [
+        "Arts & Science",
+        "Global Public Health"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-and-history-cee0b7a1c3"
+    },
+    {
+      "name_en": "Global Public Health and Science",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-science-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health and Science (BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Global Public Health"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-and-science-982ffb3b26"
+    },
+    {
+      "name_en": "Global Public Health and Social Work",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/social-work/programs/global-public-health-social-work-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health and Social Work (BS)",
+      "academic_unit": [
+        "Global Public Health",
+        "Social Work"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-and-social-work-0ed80a4028"
+    },
+    {
+      "name_en": "Global Public Health and Sociology",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/global-public-health-sociology-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health and Sociology (BA)",
+      "academic_unit": [
+        "Arts & Science",
+        "Global Public Health"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-and-sociology-05614930c3"
+    },
+    {
+      "name_en": "Global Public Health/Applied Psychology",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-applied-psychology-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health/Applied Psychology (BS)",
+      "academic_unit": [
+        "Global Public Health",
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-applied-psychology-8dd5ea398b"
+    },
+    {
+      "name_en": "Global Public Health/Communicative Sciences and Disorders",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-communicative-sciences-disorders-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health/Communicative Sciences and Disorders (BS)",
+      "academic_unit": [
+        "Global Public Health",
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-communicative-sciences-and-disorders-0bbea9e8ba"
+    },
+    {
+      "name_en": "Global Public Health/Food Studies",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-food-studies-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health/Food Studies (BS)",
+      "academic_unit": [
+        "Global Public Health",
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-food-studies-8f44f1511c"
+    },
+    {
+      "name_en": "Global Public Health/Global Liberal Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/liberal-studies/programs/global-liberal-studies-public-health-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health/Global Liberal Studies (BA)",
+      "academic_unit": [
+        "Global Public Health",
+        "Liberal Studies"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-global-liberal-studies-df30c6d551"
+    },
+    {
+      "name_en": "Global Public Health/Media, Culture, and Communication",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-media-culture-communication-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health/Media, Culture, and Communication (BS)",
+      "academic_unit": [
+        "Global Public Health",
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-media-culture-and-communication-54e4ea2237"
+    },
+    {
+      "name_en": "Global Public Health/Nutrition and Dietetics",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/global-public-health-nutrition-dietetics-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Global Public Health/Nutrition and Dietetics (BS)",
+      "academic_unit": [
+        "Global Public Health",
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-global-public-health-nutrition-and-dietetics-b18208124b"
+    },
+    {
+      "name_en": "Health and Wellbeing Studies",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/health-wellbeing-studies-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Health and Wellbeing Studies (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-health-and-wellbeing-studies-7d474653c9"
+    },
+    {
+      "name_en": "Healthcare Management",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/healthcare-management-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Healthcare Management (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-healthcare-management-31155f8fcc"
+    },
+    {
+      "name_en": "Hebrew and Judaic Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/hebrew-judaic-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Hebrew and Judaic Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-hebrew-and-judaic-studies-870a4fddb0"
+    },
+    {
+      "name_en": "Hellenic Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/hellenic-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Hellenic Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-hellenic-studies-9d27aba197"
+    },
+    {
+      "name_en": "History",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/history-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "History (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-history-3cb0f4db35"
+    },
+    {
+      "name_en": "Hospitality, Travel and Tourism Management",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/hospitality-travel-tourism-management-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Hospitality, Travel and Tourism Management (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-hospitality-travel-and-tourism-management-fd58682960"
+    },
+    {
+      "name_en": "Humanities",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/humanities-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Humanities (BA)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-humanities-a9cee5fea0"
+    },
+    {
+      "name_en": "Individualized Major",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/individualized-study/programs/individualized-major-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Individualized Major (BA)",
+      "academic_unit": [
+        "Gallatin"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-individualized-major-cab98922a1"
+    },
+    {
+      "name_en": "Information Systems and Technology",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/information-systems-technology-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Information Systems and Technology (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-information-systems-and-technology-fac6bec336"
+    },
+    {
+      "name_en": "Instrumental Performance",
+      "degree_label": "BM",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/instrumental-performance-bm/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Instrumental Performance (BM)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-instrumental-performance-c844ebfec2"
+    },
+    {
+      "name_en": "Integrated Design and Media",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/integrated-design-media-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Integrated Design and Media (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-integrated-design-and-media-2f0b680cee"
+    },
+    {
+      "name_en": "Interactive Media Arts",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/interactive-media-arts-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Interactive Media Arts (BFA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-interactive-media-arts-ff80d841f8"
+    },
+    {
+      "name_en": "International Relations",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/international-relations-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "International Relations (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-international-relations-06b07cbba0"
+    },
+    {
+      "name_en": "Italian",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/italian-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Italian (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-italian-5159c54024"
+    },
+    {
+      "name_en": "Italian and Linguistics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/italian-linguistics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Italian and Linguistics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-italian-and-linguistics-6d31d6c39d"
+    },
+    {
+      "name_en": "Journalism",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/journalism-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Journalism (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-journalism-226cedac86"
+    },
+    {
+      "name_en": "Language and Mind",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/language-mind-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Language and Mind (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-language-and-mind-dd194c348a"
+    },
+    {
+      "name_en": "Latin American and Caribbean Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/latin-american-caribbean-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Latin American and Caribbean Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-latin-american-and-caribbean-studies-a1704dde86"
+    },
+    {
+      "name_en": "Latino Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/latino-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Latino Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-latino-studies-1c49b6b927"
+    },
+    {
+      "name_en": "Leadership and Management",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/leadership-management-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Leadership and Management (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-leadership-and-management-00398a9e22"
+    },
+    {
+      "name_en": "Linguistics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/linguistics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Linguistics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-linguistics-b150315f81"
+    },
+    {
+      "name_en": "Marketing Analytics",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/marketing-analytics-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Marketing Analytics (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-marketing-analytics-2ea1dd96fd"
+    },
+    {
+      "name_en": "Mathematics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Mathematics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-mathematics-79e8421068"
+    },
+    {
+      "name_en": "Mathematics",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mathematics-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Mathematics (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-mathematics-474bd17c18"
+    },
+    {
+      "name_en": "Mathematics and Computer Science",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-computer-science-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Mathematics and Computer Science (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-mathematics-and-computer-science-a4ee45f3b8"
+    },
+    {
+      "name_en": "Mathematics and Physics",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mathematics-physics-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Mathematics and Physics (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-mathematics-and-physics-c69af66c2f"
+    },
+    {
+      "name_en": "Mathematics/Civil Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-civil-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Mathematics/Civil Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-mathematics-civil-engineering-a089765c33"
+    },
+    {
+      "name_en": "Mathematics/Computer Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-computer-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Mathematics/Computer Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-mathematics-computer-engineering-8b103c29fb"
+    },
+    {
+      "name_en": "Mathematics/Electrical Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-electrical-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Mathematics/Electrical Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-mathematics-electrical-engineering-7bb5fc6728"
+    },
+    {
+      "name_en": "Mathematics/Mechanical Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/mathematics-mechanical-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Mathematics/Mechanical Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-mathematics-mechanical-engineering-a64ab6e143"
+    },
+    {
+      "name_en": "Mechanical Engineering",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/engineering/programs/mechanical-engineering-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Mechanical Engineering (BS)",
+      "academic_unit": [
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-mechanical-engineering-f3727e4633"
+    },
+    {
+      "name_en": "Media, Culture, and Communication",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/media-culture-communication-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Media, Culture, and Communication (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-media-culture-and-communication-9f04ada71f"
+    },
+    {
+      "name_en": "Medieval and Renaissance Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/medieval-renaissance-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Medieval and Renaissance Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-medieval-and-renaissance-studies-e23d408cdc"
+    },
+    {
+      "name_en": "Middle Eastern Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/middle-eastern-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Middle Eastern Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-middle-eastern-studies-1f7b1110c6"
+    },
+    {
+      "name_en": "Music",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/music-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Music (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-music-79436cc8c4"
+    },
+    {
+      "name_en": "Music Business",
+      "degree_label": "BM",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-business-bm/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Music Business (BM)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-music-business-109ae6e8b3"
+    },
+    {
+      "name_en": "Music Business",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-business-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Music Business (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-music-business-cf0c20b220"
+    },
+    {
+      "name_en": "Music Technology",
+      "degree_label": "BM",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-technology-bm/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Music Technology (BM)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-music-technology-2271e4ada3"
+    },
+    {
+      "name_en": "Music Theory and Composition",
+      "degree_label": "BM",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/music-theory-composition-bm/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Music Theory and Composition (BM)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-music-theory-and-composition-ef87962d24"
+    },
+    {
+      "name_en": "Neural Science",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/neural-science-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Neural Science (BS)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-neural-science-b89a3c0d42"
+    },
+    {
+      "name_en": "Nursing  (Accelerated 15-Month)",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-accelerated-15-month-bs/",
+      "intake": null,
+      "duration": "15 months",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Nursing (BS) (Accelerated 15-Month)",
+      "academic_unit": [
+        "Nursing"
+      ],
+      "entry_route": "Accelerated nursing bachelor route; prior-study eligibility must be checked on program page",
+      "entity_type": "bachelor program",
+      "id": "nyu-nursing-accelerated-15-month-87d6ea41a9"
+    },
+    {
+      "name_en": "Nursing  (Traditional 4-Year)",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/nursing/programs/nursing-traditional-4-year-bs/",
+      "intake": null,
+      "duration": "4 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Nursing (BS) (Traditional 4-Year)",
+      "academic_unit": [
+        "Nursing"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-nursing-traditional-4-year-937d3dcc17"
+    },
+    {
+      "name_en": "Nursing/Global Public Health",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/nursing/programs/global-public-health-nursing-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Nursing/Global Public Health (BS)",
+      "academic_unit": [
+        "Global Public Health",
+        "Nursing"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-nursing-global-public-health-3b6776b7f2"
+    },
+    {
+      "name_en": "Nutrition and Food Studies",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/nutrition-food-studies-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Nutrition and Food Studies (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-nutrition-and-food-studies-d335898efa"
+    },
+    {
+      "name_en": "Performance Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/performance-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Performance Studies (BA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-performance-studies-aa9855ae51"
+    },
+    {
+      "name_en": "Philosophy",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/philosophy-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Philosophy (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-philosophy-fffc210157"
+    },
+    {
+      "name_en": "Photography and Imaging",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/photography-imaging-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Photography and Imaging (BFA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-photography-and-imaging-7d0e016be9"
+    },
+    {
+      "name_en": "Physics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Physics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-physics-b781798efa"
+    },
+    {
+      "name_en": "Physics",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Physics (BS)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-physics-9d70cff052"
+    },
+    {
+      "name_en": "Physics/Civil Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-civil-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Physics/Civil Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-physics-civil-engineering-37adc586dc"
+    },
+    {
+      "name_en": "Physics/Computer Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-computer-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Physics/Computer Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-physics-computer-engineering-55fd603b7b"
+    },
+    {
+      "name_en": "Physics/Electrical Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-electrical-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Physics/Electrical Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-physics-electrical-engineering-f94d6d98fe"
+    },
+    {
+      "name_en": "Physics/Mechanical Engineering",
+      "degree_label": "BS/BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/physics-mechanical-engineering-bs-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Physics/Mechanical Engineering (BS/BS)",
+      "academic_unit": [
+        "Arts & Science",
+        "Tandon"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-physics-mechanical-engineering-0e06096224"
+    },
+    {
+      "name_en": "Piano Performance",
+      "degree_label": "BM",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/piano-performance-bm/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Piano Performance (BM)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-piano-performance-ab0f93d509"
+    },
+    {
+      "name_en": "Politics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/politics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Politics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-politics-4b9443ff0a"
+    },
+    {
+      "name_en": "Professional Studies",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/professional-studies-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Professional Studies (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-professional-studies-25669a42b7"
+    },
+    {
+      "name_en": "Psychology",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/psychology-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Psychology (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-psychology-658adf4895"
+    },
+    {
+      "name_en": "Public Policy",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/public-policy-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Public Policy (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-public-policy-f01e3c7195"
+    },
+    {
+      "name_en": "Real Estate",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/real-estate-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Real Estate (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-real-estate-48e4aa15c6"
+    },
+    {
+      "name_en": "Real Estate and Urban Sustainability",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/real-estate-urban-sustainability-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Real Estate and Urban Sustainability (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-real-estate-and-urban-sustainability-55048241cc"
+    },
+    {
+      "name_en": "Recorded Music",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/recorded-music-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Recorded Music (BFA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-recorded-music-7fa5b40340"
+    },
+    {
+      "name_en": "Religious Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/religious-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Religious Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-religious-studies-d152b3a296"
+    },
+    {
+      "name_en": "Romance Languages",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/romance-languages-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Romance Languages (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-romance-languages-63acdf3c2b"
+    },
+    {
+      "name_en": "Russian and Slavic Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/russian-slavic-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Russian and Slavic Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-russian-and-slavic-studies-8168c79d8b"
+    },
+    {
+      "name_en": "Social and Cultural Analysis",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/social-cultural-analysis-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Social and Cultural Analysis (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-social-and-cultural-analysis-cbe59130fc"
+    },
+    {
+      "name_en": "Social Sciences",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/social-sciences-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Social Sciences (BA)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-social-sciences-1d8dcabd4e"
+    },
+    {
+      "name_en": "Sociology",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/sociology-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Sociology (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-sociology-1821d7e271"
+    },
+    {
+      "name_en": "Spanish and Linguistics",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/spanish-linguistics-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Spanish and Linguistics (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-spanish-and-linguistics-4d971d2207"
+    },
+    {
+      "name_en": "Spanish and Portuguese",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/spanish-portuguese-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Spanish and Portuguese (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-spanish-and-portuguese-4bb7e930f3"
+    },
+    {
+      "name_en": "Sport Management",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/professional-studies/programs/sport-management-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Sport Management (BS)",
+      "academic_unit": [
+        "SPS"
+      ],
+      "entry_route": "School of Professional Studies undergraduate route; program-specific prior-study eligibility requires checking",
+      "entity_type": "bachelor program",
+      "id": "nyu-sport-management-fb2a74aace"
+    },
+    {
+      "name_en": "Studio Art",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/studio-art-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Studio Art (BFA)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-studio-art-d5da46563f"
+    },
+    {
+      "name_en": "Studio Art/Integrated Design and Media",
+      "degree_label": "BFA/MS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/studio-art-integrated-design-media-bfa-ms/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Studio Art/Integrated Design and Media (BFA/MS)",
+      "academic_unit": [
+        "Steinhardt",
+        "Tandon"
+      ],
+      "entry_route": "Combined bachelor/graduate pathway; the graduate component is not an independent undergraduate award",
+      "entity_type": "combined bachelor pathway",
+      "id": "nyu-studio-art-integrated-design-and-media-6aa531a3c4"
+    },
+    {
+      "name_en": "Teaching a World Language 7-12: Chinese",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-chinese-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching a World Language 7-12: Chinese (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-a-world-language-7-12-chinese-d28c155ecc"
+    },
+    {
+      "name_en": "Teaching a World Language 7-12: French",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-french-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching a World Language 7-12: French (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-a-world-language-7-12-french-03fa4c46b5"
+    },
+    {
+      "name_en": "Teaching a World Language 7-12: Italian",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-italian-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching a World Language 7-12: Italian (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-a-world-language-7-12-italian-2737a906e2"
+    },
+    {
+      "name_en": "Teaching a World Language 7-12: Japanese",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-japanese-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching a World Language 7-12: Japanese (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-a-world-language-7-12-japanese-9b329fdc73"
+    },
+    {
+      "name_en": "Teaching a World Language 7-12: Spanish",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-world-language-7-12-spanish-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching a World Language 7-12: Spanish (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-a-world-language-7-12-spanish-19429f5d2c"
+    },
+    {
+      "name_en": "Teaching Biology 7-12",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-biology-7-12-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching Biology 7-12 (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-biology-7-12-960bc6994a"
+    },
+    {
+      "name_en": "Teaching Chemistry 7-12",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-chemistry-7-12-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching Chemistry 7-12 (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-chemistry-7-12-f3071fb57d"
+    },
+    {
+      "name_en": "Teaching Earth Science 7-12",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-earth-science-7-12-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching Earth Science 7-12 (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-earth-science-7-12-d8b5d834e0"
+    },
+    {
+      "name_en": "Teaching English 7–12",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-english-712-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching English 7–12 (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-english-7-12-9d60749781"
+    },
+    {
+      "name_en": "Teaching Mathematics 7–12",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-mathematics-712-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching Mathematics 7–12 (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-mathematics-7-12-37d59d75fe"
+    },
+    {
+      "name_en": "Teaching Physics 7-12",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-physics-7-12-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching Physics 7-12 (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-physics-7-12-110101d6d0"
+    },
+    {
+      "name_en": "Teaching Social Studies 7–12",
+      "degree_label": "BS",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/teaching-social-studies-712-bs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Teaching Social Studies 7–12 (BS)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-teaching-social-studies-7-12-68f50c88e6"
+    },
+    {
+      "name_en": "Theatre",
+      "degree_label": "BFA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts/programs/theatre-bfa/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Theatre (BFA)",
+      "academic_unit": [
+        "Tisch"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-theatre-4729c2959b"
+    },
+    {
+      "name_en": "Urban Design and Architecture Studies",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-design-architecture-studies-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Urban Design and Architecture Studies (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-urban-design-and-architecture-studies-08e1bb3fd9"
+    },
+    {
+      "name_en": "Urban Studies and Anthropology",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-anthropology-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Urban Studies and Anthropology (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-urban-studies-and-anthropology-15b80510ac"
+    },
+    {
+      "name_en": "Urban Studies and History",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-history-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Urban Studies and History (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-urban-studies-and-history-10d1db4c4f"
+    },
+    {
+      "name_en": "Urban Studies and Social and Cultural Analysis",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-social-cultural-analysis-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Urban Studies and Social and Cultural Analysis (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-urban-studies-and-social-and-cultural-analysis-ddfcdda23e"
+    },
+    {
+      "name_en": "Urban Studies and Sociology",
+      "degree_label": "BA",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/arts-science/programs/urban-studies-sociology-ba/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Urban Studies and Sociology (BA)",
+      "academic_unit": [
+        "Arts & Science"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-urban-studies-and-sociology-9f8ba62491"
+    },
+    {
+      "name_en": "Vocal Performance",
+      "degree_label": "BM",
+      "official_url": "https://bulletins.nyu.edu/undergraduate/culture-education-human-development/programs/vocal-performance-bm/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://bulletins.nyu.edu/programs/",
+      "source_period": "2026-2027",
+      "raw_key": "Vocal Performance (BM)",
+      "academic_unit": [
+        "Steinhardt"
+      ],
+      "entry_route": null,
+      "entity_type": "bachelor program",
+      "id": "nyu-vocal-performance-7e97e40c1f"
+    }
+  ]
+}

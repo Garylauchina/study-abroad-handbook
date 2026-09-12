@@ -1,0 +1,773 @@
+{
+  "university_id": "uwa",
+  "sources": [
+    {
+      "url": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/international-and-overseas-qualifications",
+      "sha256": "733404cc9bb07aacd9e8e8f9b775fce659efbc11eb808496ad75740c37faa715",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/qualifications.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uwa.edu.au/study/how-to-apply/pathways-and-eligibility/english-language-requirements",
+      "sha256": "697740f967fe1b99e57e1287cf31628f63fc22580324b33727930986f2f1c82a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/english.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uwa.edu.au/study/how-to-apply/international-applicants",
+      "sha256": "aef4050831b35117ccc0d1868a60ba04bed3dca3c0607c66bdd8c83d5c0b6116",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uwa.edu.au/study/scholarships-and-fees/international-student-fees",
+      "sha256": "76b0f900d09d23be170149aafb424e192fe9f0bb45a055e21b2d20119a6c2ac9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uwa.edu.au/study/scholarships-and-fees/scholarships/international-scholarships",
+      "sha256": "81d46adbf07b0341100816ceed52d6e80ac64e3eb73478211311cf7def242f15",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/scholarships.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP020",
+      "sha256": "dfa197e07915f4985802177d11f7e0872cb33490ebb7b34c22b24894eb8a593b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP020.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP019",
+      "sha256": "4fd3c9d7adb5c9510659f2253f37eb5948d70ddc8639857f77b98db1e5ace717",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP019.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP070",
+      "sha256": "c789e9f8942bd176a9d8c6b04d7343f5df486aa7577f925791f40053110b2347",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP070.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP001",
+      "sha256": "422974629da55f884adc629a739ef59441378537ec799129981eb2bcebc2a4d3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP001.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BW001",
+      "sha256": "253ac7e5d11ace1b2d4aa0704752f4bc204045dcfb7173279e4f6c21b216e1d9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BW001.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP025",
+      "sha256": "da82f45d91e3381e66d3e2cb014723062dfeaa5001d4ed71bb6b257462e440dc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP025.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP006",
+      "sha256": "018a72d3665109ff2a1a142b9486eb985883254fedde2a53041094dae8fd2986",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP006.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP056",
+      "sha256": "19fef60ea8d3d962178549e92a8819be2010345da129c90faccc78e56e4178ea",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP056.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP009",
+      "sha256": "cf58dc38411acc968532b52ae4c2ee1f202dfe23676e4d8e037a9143e1eb8db8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP009.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP002",
+      "sha256": "66a4be1b39ab939698148ff867075e2f722f625efc00d1091f0a682a0493b13a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BW002",
+      "sha256": "cf0d7635fe87358ad38e557a0a4aa0f54f2af9bcf18b65352d96b8f099c8457a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BW002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP050",
+      "sha256": "b41dc9401b30689016c7bcc6cd4ac9c2e2d6a9732090e722577d46bb40da845d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP050.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP029",
+      "sha256": "448040166dd42e2b069cde38218058f471d61ed97c0d246273410f97947259ad",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP029.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP013",
+      "sha256": "cc5882142538a5f5a64bf838f0924f84e8c77d7820e34fa1172c1e5fd5d291c6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP013.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP011",
+      "sha256": "ac478765034b15c0cc90301f36abf5279ab7c507e24ef31d5dc6a0fd9f22fe9f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP011.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP022",
+      "sha256": "bdd801a933b992b5f037783237f4f6c0010447138dc80461b62165e768492ad8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP022.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP055",
+      "sha256": "9c0d5a7ed8e4cd92115dd6d87eb406c7b987ee1de1ecaadbd8d133e3e1138582",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP055.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP034",
+      "sha256": "7b421dab8f1322b6cdd4de1c316fc4f437e0b51cf78ca98f3eca816ec212d2c9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP034.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP031",
+      "sha256": "e05a16c3d1a59c7ea4d1a27d90d80c369c80de44bb576a329b3125342bdf30c1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP031.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP058",
+      "sha256": "5befac30a16de42951dc04909e99a9a595e27bb90be5f0691f50e2e97544dff3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP058.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP501",
+      "sha256": "f63b6b1a1b97fb7453a6cdf761123a407a738bc5a42d2b05b4ff252a3dd12a8e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP501.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP023",
+      "sha256": "908e0ab1094fe049d8c82797f513dd4b4f5c699d23069cd53a956bab31e7e68c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP023.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP059",
+      "sha256": "138f97da1777e964ec7a41a9714dddfb46098345f0643f550603616e73a71883",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP059.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP069",
+      "sha256": "92b5085a0393309cd9ef5a104cfbe8143901bf1014beb42cac17fd9bdeaa5577",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP069.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP054",
+      "sha256": "7383e86953314e956154236abf2923d5015ad5dc84aa33d545fc1377b302f529",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP054.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP028",
+      "sha256": "9fc41040a65017a88a94876db263456ed435d627346abb3a07ecedfa6dcc74a4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP028.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP008",
+      "sha256": "ea93139a30cb81ba5ffb0c6dbf9e6e04cc6238f4ce9630597b3937acea7a3426",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP012",
+      "sha256": "5f0392e2b703561f0e74bdcf20036a7f3f13742723a33d3b37341e0aca060c43",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP012.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP503",
+      "sha256": "1a68d87387fd116134327288996890978e4a42d8b5a220cc7a621848bb7ff3af",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP503.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP030",
+      "sha256": "e26a18974ff98f71fbd2f7710bc2f0ff2d65a833f8814abfaa8dfe189afa2708",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP030.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP004",
+      "sha256": "888ec63ca9900ef3700b01424340761ec31fe3997ddf237a87efd3883eaea9f6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BW004",
+      "sha256": "bcef0bfbc8a1e2491cb879acd7556d4a8b21ea27248ef0c8a5d1d3c9701d155b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BW004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP502",
+      "sha256": "648e8ddf9733e8e7298b659d1892abf37479b4ffb33d97527cef86086aee86a3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP502.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP062",
+      "sha256": "ad61cdaa14af5558ae606d32f4478de4df7c634397f88e2b1f2ad5c435531c32",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP062.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BP026",
+      "sha256": "19d2dc86e779998d9740d8166ac36ee975d39d36088a2d208ee4b0da8a9fad95",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BP026.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH008",
+      "sha256": "3556b3bead4bee077e8c5071291c5d71e38599f5a415d7ac4bc65ad713652f97",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH001",
+      "sha256": "65b490162f778bd98cc2332af5d737fab4dfea9d176b1f9da8cac103d822ed77",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH001.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH024",
+      "sha256": "d5432d14534e70f3e990033ea9cf6eac877cd62c11acefa9674a920fc71a1b7b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH024.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH006",
+      "sha256": "21f6c7b247fa7179a6384e6aa83dbe213ea24b082751656319d56f03bb769f92",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH006.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH021",
+      "sha256": "88b04621236bca35e2350e2941bc05badcf6261e3a3992893e10deb683fd81d2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH021.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH002",
+      "sha256": "2dbe4b29ef0a3cac8eab880100aa3b6f59e861ef151a77d36fe4091bd89d712a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH018",
+      "sha256": "2a727655120a010e22a6b4e5ed573ba3e6abc5e175fdbf2b66679cf5fe45f161",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH018.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH026",
+      "sha256": "6e79a82c91991aae7d862f8ef273fa0622254bfe7f33e2d4bf60d1fca744170e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH026.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH013",
+      "sha256": "502c7b91db2b50ab96a5d5841a06e0337696b6c1266c99872edfcc6a9e14886e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH013.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH020",
+      "sha256": "a63aedcba3f6e1b5b159c90c40f4ea113269d2cd15db51bd14e7f502139ac158",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH020.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH011",
+      "sha256": "c7c638981f50ae8cf54df234e0846665232b608270becf90f6f685f1fe844887",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH011.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH040",
+      "sha256": "3d954d3588c44a757e7462fd0d7b1b67bb30add4d58983cac2096ab7bf0acbc8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH040.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH019",
+      "sha256": "411a01b8a888bab090b8ace574e13563a94e61cdb5f5b1443ffb74c0d8ddb328",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH019.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH039",
+      "sha256": "edcc8d194d2a756520b4310f641baeec3d8e2c12502bfbf67c3341d4741946a4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH039.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH025",
+      "sha256": "7b72d36f9d195556c6f509f8e4b0e078c42526c2453ebd5ae3158bdb0c58be56",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH025.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH035",
+      "sha256": "b6fd4ab47f6ad378161dc4bd6128d11cc9ba359310e2f1742497ff9c1ab4743f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH035.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH016",
+      "sha256": "3ff6ed1fc4257ec7eea9f231b1353e4cd63f21360e0ec99a08132b1f8e2df380",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH016.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH009",
+      "sha256": "b069526c4098b030060beda3782896bd1652982f602c18cc2b92f48e02c8d8ad",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH009.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH028",
+      "sha256": "087aa978adee660373f0c088b745268230c9b5cac2dc2c6437d6ebd278492593",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH028.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH005",
+      "sha256": "f93bcee4c02a1f0e2bc9a8e953f8a383d5ddb9341e60938ffa818c8c7b90a1c4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH005.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH015",
+      "sha256": "b8500953c173c3d5f3b379587aba6ab2635bb0f9d5e647042e2cd56c3b8f6e45",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH015.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH014",
+      "sha256": "39475ee775a1aa1203a673c29522b04538725894c31b061c15e0d3bbf96c00f3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH014.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH004",
+      "sha256": "3ae64edc6ee0170bcb2fdde23409a7cbe8a791539b5568e8d08bf5b73538deaa",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH017",
+      "sha256": "acf0a179f7ee5926b6a1da91f95a5fdf275699875ecfb768242b62a43f0593d7",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH017.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=BH032",
+      "sha256": "35214fcb5564df807617dc8b26e3b5e58a338f7e2ca019a1e15a791b25f8ab52",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-BH032.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB001",
+      "sha256": "419f36f44a3dfd2ce1dbe6cf1e376b616ebdc5d42f7ac35faec7df410263ac33",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB001.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB009",
+      "sha256": "ff06995998680a8d5f19e169880a67ce318b4977912578f84e8ab87473028453",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB009.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB010",
+      "sha256": "2daacb7fecff4678669f72a3e1c2239437e8ef7452fc2f9901686981478658e4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB010.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB003",
+      "sha256": "122cbd723e631a2e8ee49a20b04a229b7a21a6a24ec33ef2df0f511621418272",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB003.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB049",
+      "sha256": "6cd67af79518066095e561481224d71c36ac329bae2fdfc020245db41051b365",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB049.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB052",
+      "sha256": "a0f792d452ec03afbf10966ab9208aadb1992edafd26680e31241cc4e69343b1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB052.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB047",
+      "sha256": "62c227243eac1cdc3dd402c455f6e58cc7ef77f316f052b83a9c47f4e3a04e0a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB047.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB053",
+      "sha256": "5b307aaa890b426fd4760f3a259eb5ad6356dcd2ce8fa94f4f2fb7937bfb06e2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB053.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB020",
+      "sha256": "3a4c434e2656fc47d6f6eb73650d45c1f3e77ad5e2e9a5103423da79cf73c969",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB020.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB030",
+      "sha256": "9ba9ea2ca3703f933d681820483707cb612ccb5f4075cf4e30388f5b8d513716",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB030.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB034",
+      "sha256": "7ad7355915be86222c253b9a640e4e197717023d13d1ca2f3ae880bb042c17c6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB034.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB006",
+      "sha256": "f0ee101626fb74958b5cc72318bbffb6655e79d036293b0b9ceab034c0f1e65b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB006.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB014",
+      "sha256": "2b4b1ad32d0778960161e53519cf7d041b49fe8a3a2862ae45910fdc9841413b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB014.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB004",
+      "sha256": "3d1447af11f9dd1e35fc2f149b4ee30d9fa432e30766c79cac6e4687a73fdb85",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB008",
+      "sha256": "61ec31f509844e0e0a4ae08e95d134d871a9abc65a1d239d1003034a29269eb5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB007",
+      "sha256": "b4927922253c49777495989593d29a9f5a8b7229ee3fa09d4d80822d2dfa67ad",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB007.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB002",
+      "sha256": "431aa3a466b1d96e22e276b2d654adef5bc70312bfe95ddaea684da602f3ab7d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB022",
+      "sha256": "b5bcc5a2a8349fbda288d1ea767ab2d21b63221bdd3614c381811842caf8e39c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB022.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB023",
+      "sha256": "36a8f555755fb2b90f06e7f0444ddf4c8d867c1b33ad47b4bcf892f65ff02471",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB023.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB046",
+      "sha256": "95c2cbfd8ff5d709dfdd4349fba1eb3c1993a07a2f7640660eecc5a77efcacbc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB046.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB054",
+      "sha256": "422203dec2e628d1b9b9de269bf1bdbcd1b08aac3e87cd1140a6581d00c6dcfc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB054.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB044",
+      "sha256": "81075e2f3a43b2d109238ef38f563c58d2fa3831eded3893a583da5c70bee897",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB044.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB021",
+      "sha256": "c112c928176b9be35d8654058886a87847d3ca1f04b876df79f8ae47900df4d9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB021.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB048",
+      "sha256": "18dbd8b8493071da4db6e724b4e08928a04b3f2b3788851414f2c77b02889126",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB048.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB026",
+      "sha256": "62dafe1612a583fd7162ef4b5854b62a9f038273e3e9475f50d1fae9445c94eb",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB026.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB032",
+      "sha256": "e3aee9f9558fa7007bda070d1c21177b9490070999017d8a02417e3e1e93cc28",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB032.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB028",
+      "sha256": "1fc5c8a6071b96ea27137b7c479e633ce8592f58003568913a69bef98a0a946c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB028.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB027",
+      "sha256": "dd9bfcaf36ce9b16a6b036f6b21d2dc6fe8c6e9121b5398a128f80292b1a8838",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB029",
+      "sha256": "5474c27fe7b5f6e4efb600b68ea89bacf17f63aea19c9ae59d3ea2b0578c1be0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB029.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB038",
+      "sha256": "ba1c7fc97df1bb5d295f0bbca4516eb933467e27c0a9e45689fc9265d4d3ea7e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB038.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB042",
+      "sha256": "c716c039a6359a519dc9bd207c4b3edafed5ed4a43243acab1da44a82bd18db2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB042.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB041",
+      "sha256": "6db0dd81ca3e4c12bc8dce1ad7638489b940b80d0b7862432cd58f90fa58f84a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB041.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB039",
+      "sha256": "e4758f306f3cb855b2aeccc9656355499f11cd911fde460e06b50f17f627aac0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB039.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB031",
+      "sha256": "fcd4747fea23eed81ae5c9b2b2e00aeab0152d5d724c963a64cd0d2bb1d48a7b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB031.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB012",
+      "sha256": "185f71fc1ec6ead1c951d6063afa3d74d1894e3715213667b963eaf720d6ddab",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB012.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB017",
+      "sha256": "b2737fbae1cd83046d36eb350d1eb73464cefbe5694951c82b99949d8e5ab3da",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB017.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB011",
+      "sha256": "69d620ac6afc5dcf14a2fa012aa82c7e1fd557e905de09bfa7472c7f34b68833",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB011.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB013",
+      "sha256": "1d50bcc86e5b8207ab07dff52144a2a3b32c46cf104f7e1c7141089e3782c3f6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB013.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB043",
+      "sha256": "aad4f737284e8f1b7aa8576610fa94e1d0985beae9b773098a6b187279d70868",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB043.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CB045",
+      "sha256": "74c0ed7a9af5e715bcc943ec488cd63966ac5ffcc905b5bf11981cba9def5450",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CB045.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM029",
+      "sha256": "0cb919c1c3521d6d574c6dc5c12933dec89a43c4f9236ceb8bff1e25bbff8822",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM029.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM011",
+      "sha256": "1988232877b6b2b86efe159848a3003dcf3617b0f8e8b9eb97181dbe9d4b947f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM011.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM017",
+      "sha256": "b56cd3e451d47f3216a698881898dcef12146afe2ff95eeb40c2acea749b5a2f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM017.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM014",
+      "sha256": "38a5037ca29aefe156a1ff1758ebb45636ae189085185550f440d4d89caac599",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM014.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM013",
+      "sha256": "a17f8d2789946ffc40c757c10bc71d3915efe6555e89c71967aca1722fef4719",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM013.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM005",
+      "sha256": "909c502a4333fe6d647ae2e7db889d4ed38d162e563e108ba564dad9d9c823fc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM005.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM009",
+      "sha256": "4cf56c151871a5a8dc01d156ee198d9a68267ddf33b3bf4fd543b6e3e9721def",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM009.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM012",
+      "sha256": "6a44bbaa219fb4334d7ada8721c2b8d19fa6e0f7d247ce825a48a9e0514a2dad",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM012.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM002",
+      "sha256": "76b717dff70fe4698a6834fa645b449d148bc42222bc516c6133b3c7220188ae",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM002.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM008",
+      "sha256": "f7b5303e27f760c852a3aa6f05a249c7a628708818995085ef5f4a6199aadbb9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM008.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM032",
+      "sha256": "fc113d787d4891a8aca7d25649de1bbe989214d3d50e0715a6f3a05975c8d78c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM032.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM039",
+      "sha256": "7cb4e1b60dc05cc7d395c0b5b43c09e3edf50d713f55aa3fcc696dece93266d1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM039.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM021",
+      "sha256": "5b4705d7be28e3e65c3022b0bead9f1c3ca47b689a2000194234535a034a6882",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM021.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM030",
+      "sha256": "122609f96c311f240fb9135a67e74fbe8c64709e11e140bb809db200391e7431",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM030.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM010",
+      "sha256": "e6296c6f21c973a93c80730008d2bf586f2fe33b9bd02eed1a324a3ae0e06bd4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM010.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM038",
+      "sha256": "e197b4d56755d11fb70867d22b86a37810746a7aaf4fb41bb0153252912ac152",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM038.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM004",
+      "sha256": "1941dc21851c1a4441b6c74db6eb3c15ce630e03b43fb2e23b487a353d0f5991",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM004.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM007",
+      "sha256": "07c78be555e71052f73d20b34378cc7aaece356261ebfbb2a8eca32bc9943ca5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM007.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM024",
+      "sha256": "96f25b65d1ae0acb7a063f6def0ba2788ae16d38ecd6a15e5063103c9cdfd7c1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM024.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM015",
+      "sha256": "fa8f7280bd159e57d1037007e84bb608150302f071d87b89ca308b39b57d65f0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM015.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM040",
+      "sha256": "380a63f1246ed011aec6517946af62a1174d7d3ff1332dd0f3bae481d5558659",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM040.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM018",
+      "sha256": "9d20f791e65e8ee874423034b1daf1ac40cb8a224efde655560d8d4d1948932e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM018.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.handbooks.uwa.edu.au/coursedetails?code=CM019",
+      "sha256": "f516a8514faf7f4281ec8e3125a58b157bea0d462109d33349b0a358670cfdd1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uwa/detail-CM019.html",
+      "locator": null
+    }
+  ]
+}

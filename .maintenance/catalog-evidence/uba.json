@@ -1,0 +1,283 @@
+{
+  "original_manifest": {
+    "university_id": "uba",
+    "checked_at": "2026-09-12",
+    "count": 101,
+    "status": "complete",
+    "scope": "UBA全部13个学院的Carreras de grado目录；含医学、法律、教师教育与艺术；不计独立Tecnicatura。",
+    "method": "13个学院页面共125个课程链接，按正式名称去除跨院重复，排除19项Tecnicatura。",
+    "sources": [
+      {
+        "url": "https://www.uba.ar/carreras/1",
+        "sha256": "1020d75bc985424e164711e7f78fa6083775c0835b5868d62e51a64ad7a0835f",
+        "raw_file": "uba-faculty-00.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/2",
+        "sha256": "1aef122da20484e2371ba491d159e3af2a0a5fb7753aa8e724687213bcf32160",
+        "raw_file": "uba-faculty-01.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/3",
+        "sha256": "eef04caafa9b8813789fd3f9022491e8befa92754e507bc3e322e6a97ac72d71",
+        "raw_file": "uba-faculty-02.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/4",
+        "sha256": "50d8e0710c9400ffcf54dff2296184bd9ef38fc1f4362d3399d9cd21621d9b4e",
+        "raw_file": "uba-faculty-03.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/5",
+        "sha256": "5f18477e6059622462bf7c3cfec080169c8c30a0a40240df5ce17b3bc446ed29",
+        "raw_file": "uba-faculty-04.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/6",
+        "sha256": "094937db99ea017d764cdb744728f145c8010d96a11b9141ef7a2d87dc15a23d",
+        "raw_file": "uba-faculty-05.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/7",
+        "sha256": "7d7c1819e209806bf2972c7bd49a35b39d3a2c442c52fb4b59c7ded1f77519e8",
+        "raw_file": "uba-faculty-06.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/8",
+        "sha256": "be44afe56c53af0d445d827a61f806bd0daddacd2c935069be0d452f4b421692",
+        "raw_file": "uba-faculty-07.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/9",
+        "sha256": "b369d6b73bb86fc5c0cccc39559ce71168b7cc1ba85b0852b29021a6367c6628",
+        "raw_file": "uba-faculty-08.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/10",
+        "sha256": "816c93b8e090f45eae6700b893714435c882474342367d0bcb26ae362d4b858c",
+        "raw_file": "uba-faculty-09.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/11",
+        "sha256": "e9f085829de6487b82f994ba88e72f51cf4a07ba52efaff7ce371f318ed423b0",
+        "raw_file": "uba-faculty-10.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/12",
+        "sha256": "005526c1836b8d4b9efec8dc7da81f3df59481a67b05b0e9710ec31ea8bcb2b0",
+        "raw_file": "uba-faculty-11.html"
+      },
+      {
+        "url": "https://www.uba.ar/carreras/13",
+        "sha256": "d5b3703725c16ca906f37446e5c6bb338cca842fa1d0fc429fe2cea5ec378931",
+        "raw_file": "uba-faculty-12.html"
+      }
+    ],
+    "exclusions": "排除 24 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [
+      {
+        "name": "Tecnicatura Universitaria en Producción Florihortícola",
+        "url": "https://www.agro.uba.ar/carreras/florihorticola",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Jardinería",
+        "url": "https://www.agro.uba.ar/carreras/jardineria",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Producción Vegetal Orgánica",
+        "url": "https://www.agro.uba.ar/carreras/organica",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Turismo Rural",
+        "url": "https://www.agro.uba.ar/carreras/turismo",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Gestión y Análisis de Datos en Organizaciones",
+        "url": "https://share.google/X6S8mceJ7DkCRT0Tr",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Licenciatura en Biotecnología (compartida con FFyB, Agronomía y FVET)",
+        "url": "https://exactas.uba.ar/ensenanza/carreras-de-grado/biotecnologia/",
+        "reason": "Same named shared degree is cross-listed by another faculty"
+      },
+      {
+        "name": "Licenciatura en Gestión de Agroalimentos (Compartida con FAUBA)",
+        "url": "http://www.fvet.uba.ar/?q=carrerasGrado#agroalimentos",
+        "reason": "Same named shared degree is cross-listed by another faculty"
+      },
+      {
+        "name": "Licenciatura en Biotecnología (compartida con FCEN, Agronomía y FFyB)",
+        "url": "http://www.fvet.uba.ar/?q=carrerasGrado#biotecnologia",
+        "reason": "Same named shared degree is cross-listed by another faculty"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Gestión Integral de Bioterios (Compartida con FFYB)",
+        "url": "http://www.fvet.uba.ar/?q=carrerasGrado#bioterio",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Licenciatura en Ciencia y Tecnología de Alimentos (Compartida con FCEN)",
+        "url": "https://www.ffyb.uba.ar/?page_id=5702",
+        "reason": "Same named shared degree is cross-listed by another faculty"
+      },
+      {
+        "name": "Licenciatura en Biotecnología (compartida con FCEN, Agronomía y FVET)",
+        "url": "https://www.ffyb.uba.ar/licenciatura-en-biotecnologia/",
+        "reason": "Same named shared degree is cross-listed by another faculty"
+      },
+      {
+        "name": "Tecnicatura  Universitaria en Óptica y Contactología",
+        "url": "https://www.ffyb.uba.ar/?page_id=5725",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Medicina Nuclear",
+        "url": "https://www.ffyb.uba.ar/?page_id=5715",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura  Universitaria en Gestión Integral de Bioterios (Compartida con FVET)",
+        "url": "https://www.ffyb.uba.ar/?page_id=5735",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Acompañamiento de Trayectorias Educativas",
+        "url": "https://educacion.filo.uba.ar/",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Producción y Gestión de las Artes",
+        "url": "https://artes.filo.uba.ar/node/717",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Archivística",
+        "url": "https://bibliotecologia.filo.uba.ar/",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Bibliotecología",
+        "url": "https://bibliotecologia.filo.uba.ar/",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Podología",
+        "url": "https://www.fmed.uba.ar/index.php/carreras/tecnicatura-universitaria-en-podologia/informacion-general",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Hemoterapia e Inmunohematología",
+        "url": "https://www.fmed.uba.ar/index.php/carreras/tecnicatura-universitaria-en-hemoterapia-e-inmunohematologia/informacion-general",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Instrumentación Quirúrgica",
+        "url": "https://www.fmed.uba.ar/index.php/carreras/tecnicatura-universitaria-en-instrumentacion-quirurgica/informacion-general",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Cosmetología Facial y Corporal",
+        "url": "https://www.fmed.uba.ar/index.php/carreras/tecnicatura-universitaria-en-cosmetologia-facial-y-corporal/informacion-general",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Anestesia",
+        "url": "https://www.fmed.uba.ar/index.php/carreras/tecnicatura-universitaria-en-anestesia/informacion-general",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      },
+      {
+        "name": "Tecnicatura Universitaria en Prácticas Cardiológicas",
+        "url": "https://www.fmed.uba.ar/index.php/carreras/tecnicatura-universitaria-en-practicas-cardiologicas/informacion-general",
+        "reason": "Tecnicatura/pregrado, not a grado degree"
+      }
+    ],
+    "gaps": [
+      "中央目录以Grado入口为范围，学制、具体授予资格和招生年度尚待逐课程核实。"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.uba.ar/carreras/1",
+      "sha256": "1020d75bc985424e164711e7f78fa6083775c0835b5868d62e51a64ad7a0835f",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-00.html",
+      "bytes": 65212
+    },
+    {
+      "url": "https://www.uba.ar/carreras/2",
+      "sha256": "1aef122da20484e2371ba491d159e3af2a0a5fb7753aa8e724687213bcf32160",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-01.html",
+      "bytes": 64001
+    },
+    {
+      "url": "https://www.uba.ar/carreras/3",
+      "sha256": "eef04caafa9b8813789fd3f9022491e8befa92754e507bc3e322e6a97ac72d71",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-02.html",
+      "bytes": 63856
+    },
+    {
+      "url": "https://www.uba.ar/carreras/4",
+      "sha256": "50d8e0710c9400ffcf54dff2296184bd9ef38fc1f4362d3399d9cd21621d9b4e",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-03.html",
+      "bytes": 69185
+    },
+    {
+      "url": "https://www.uba.ar/carreras/5",
+      "sha256": "5f18477e6059622462bf7c3cfec080169c8c30a0a40240df5ce17b3bc446ed29",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-04.html",
+      "bytes": 65328
+    },
+    {
+      "url": "https://www.uba.ar/carreras/6",
+      "sha256": "094937db99ea017d764cdb744728f145c8010d96a11b9141ef7a2d87dc15a23d",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-05.html",
+      "bytes": 63613
+    },
+    {
+      "url": "https://www.uba.ar/carreras/7",
+      "sha256": "7d7c1819e209806bf2972c7bd49a35b39d3a2c442c52fb4b59c7ded1f77519e8",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-06.html",
+      "bytes": 63444
+    },
+    {
+      "url": "https://www.uba.ar/carreras/8",
+      "sha256": "be44afe56c53af0d445d827a61f806bd0daddacd2c935069be0d452f4b421692",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-07.html",
+      "bytes": 64182
+    },
+    {
+      "url": "https://www.uba.ar/carreras/9",
+      "sha256": "b369d6b73bb86fc5c0cccc39559ce71168b7cc1ba85b0852b29021a6367c6628",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-08.html",
+      "bytes": 66741
+    },
+    {
+      "url": "https://www.uba.ar/carreras/10",
+      "sha256": "816c93b8e090f45eae6700b893714435c882474342367d0bcb26ae362d4b858c",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-09.html",
+      "bytes": 65154
+    },
+    {
+      "url": "https://www.uba.ar/carreras/11",
+      "sha256": "e9f085829de6487b82f994ba88e72f51cf4a07ba52efaff7ce371f318ed423b0",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-10.html",
+      "bytes": 66678
+    },
+    {
+      "url": "https://www.uba.ar/carreras/12",
+      "sha256": "005526c1836b8d4b9efec8dc7da81f3df59481a67b05b0e9710ec31ea8bcb2b0",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-11.html",
+      "bytes": 62757
+    },
+    {
+      "url": "https://www.uba.ar/carreras/13",
+      "sha256": "d5b3703725c16ca906f37446e5c6bb338cca842fa1d0fc429fe2cea5ec378931",
+      "raw_file": "scratch/full-catalog/root/uba-faculty-12.html",
+      "bytes": 63769
+    }
+  ]
+}

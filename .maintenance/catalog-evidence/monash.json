@@ -1,0 +1,142 @@
+{
+  "original_manifest": {
+    "university_id": "monash",
+    "status": "complete",
+    "count": 378,
+    "official_total": {
+      "all_career_programs": 503,
+      "all_career_fields": 411
+    },
+    "discovery_source_url": "https://handbook.monash.edu/search",
+    "source_period": "2026",
+    "scope": "All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields; UTS stream mapping remains pending",
+    "pagination_evidence": {
+      "course": {
+        "total": 503,
+        "pages": [
+          0,
+          100,
+          200,
+          300,
+          400,
+          500
+        ],
+        "unique_uris": 502
+      },
+      "aos": {
+        "total": 411,
+        "pages": [
+          0,
+          100,
+          200,
+          300,
+          400
+        ],
+        "unique_uris": 411
+      },
+      "all_pages_fetched": true,
+      "unsw_selected_major_honours_count": null
+    },
+    "filter_rules": [
+      "Public Courseloop API endpoint and POST schema read from official frontend JavaScript",
+      "Filter implementationYear to official current_year; request all pages of 100 and assert row count equals API total",
+      "Program: official Undergraduate line; UNSW additionally confirm bachelor award in every full program page; Monash/UTS bachelor title prefix",
+      "UNSW fields: explicit level=major or honours plus studyLevelValue=ugrd; Monash explicit undergraduate field categories; UTS Major with Undergraduate or Unrestricted career",
+      "No minor, individual subject, diploma, certificate or standalone postgraduate degree promoted to bachelor",
+      "Keep restricted/offshore/ADFA fields where published; no applicant-nationality exclusion"
+    ],
+    "gaps": [
+      "Parent-degree/major compatibility inheritance pending; field records are not independent awards",
+      "Duration/campus/language omitted unless explicit in read source",
+      "2027 handbook not obtained; current publisher config explicitly 2026",
+      "Honours research areas and undergraduate specialisations retained even when the career line is blank, according to explicit undergraduate category"
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "777226e91f060dc44d1f55b7a13b47ef4973604807061f1c55029df5d1f42fa7",
+      "bytes": 15242,
+      "raw_file": "scratch/full-catalog/australia/monash/aos-probe.json",
+      "meta_file": "scratch/full-catalog/australia/monash/aos-probe.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "b809fc28de5592dbc74d7a7c5be4c10372a576b7a50731f9cbd142395349a53c",
+      "bytes": 580,
+      "raw_file": "scratch/full-catalog/australia/monash/course-page-500.json",
+      "meta_file": "scratch/full-catalog/australia/monash/course-page-500.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "2462b88bb74307dba3eb6ee342344d7939f0d49a5978bc360c921a1e0b59dfac",
+      "bytes": 15409,
+      "raw_file": "scratch/full-catalog/australia/monash/aos-page-300.json",
+      "meta_file": "scratch/full-catalog/australia/monash/aos-page-300.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "accc990d3fdb3c4dab9e9c03b1b510d13a2b4ece809e0b99a25c3e831038fd52",
+      "bytes": 16080,
+      "raw_file": "scratch/full-catalog/australia/monash/course-page-300.json",
+      "meta_file": "scratch/full-catalog/australia/monash/course-page-300.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "8e40cb958f15c0459d08719b01d89afb5b62606094f27f20518a54dd335ca09f",
+      "bytes": 15209,
+      "raw_file": "scratch/full-catalog/australia/monash/aos-page-200.json",
+      "meta_file": "scratch/full-catalog/australia/monash/aos-page-200.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "23091a1a3e415bde921cfea59f8fbe351300c1968b43ad331ecbde12ed39529a",
+      "bytes": 16137,
+      "raw_file": "scratch/full-catalog/australia/monash/course-page-100.json",
+      "meta_file": "scratch/full-catalog/australia/monash/course-page-100.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "af13ccd22e77f1527641f0de52ce678bc332a20f7165604b2201a1fcc0b7d72b",
+      "bytes": 16309,
+      "raw_file": "scratch/full-catalog/australia/monash/course-page-400.json",
+      "meta_file": "scratch/full-catalog/australia/monash/course-page-400.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/",
+      "sha256": "9a957f27841ba8ee4d9bec7381cc499e68a5f940a6d6bbd8b13f76d6c5f97650",
+      "bytes": 219993,
+      "raw_file": "scratch/full-catalog/australia/monash/handbook.html",
+      "meta_file": "scratch/full-catalog/australia/monash/handbook.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "83cefa158ab33c914f5f10c46e6462ec974ff5c30eded93c28103ea9fd8ab26d",
+      "bytes": 1702,
+      "raw_file": "scratch/full-catalog/australia/monash/aos-page-400.json",
+      "meta_file": "scratch/full-catalog/australia/monash/aos-page-400.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "a6eb893297824a80ff1012463a255a8a09f8cca651f6fddda8e24aa9df5d7f78",
+      "bytes": 16957,
+      "raw_file": "scratch/full-catalog/australia/monash/course-probe.json",
+      "meta_file": "scratch/full-catalog/australia/monash/course-probe.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "8963a7aed7508ac9c6752a2ea217602444be93f328ac7507461fd26f10490c48",
+      "bytes": 16360,
+      "raw_file": "scratch/full-catalog/australia/monash/course-page-200.json",
+      "meta_file": "scratch/full-catalog/australia/monash/course-page-200.meta.json"
+    },
+    {
+      "url": "https://handbook.monash.edu/api/search/search-academic-items",
+      "sha256": "411f3e5c9b3f5388e157d6d635e0345f1c974ec7ca8123cbe2b00de91e1ca01a",
+      "bytes": 15388,
+      "raw_file": "scratch/full-catalog/australia/monash/aos-page-100.json",
+      "meta_file": "scratch/full-catalog/australia/monash/aos-page-100.meta.json"
+    }
+  ]
+}

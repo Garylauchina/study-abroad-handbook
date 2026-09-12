@@ -1,0 +1,1101 @@
+{
+  "university_id": "uchicago",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "partial",
+    "count": 60,
+    "scope": "All 60 Major-tagged cards in official admissions source; degree/track granularity still needs reconciliation with 69-major headline",
+    "method": "{\"gatsby_page_data\": \"https://collegeadmissions.uchicago.edu/page-data/academics/areas-of-study/page-data.json\", \"static_queries_read\": 4, \"all_area_records\": 129, \"major_records\": 60, \"pagination\": false}",
+    "exclusions": "Filter studiesType containing Majors；Exclude Minor-only, Joint Degree-only, specializations-only, Careers In and academic opportunities；Do not create MD/JD or premed majors",
+    "sources": [
+      {
+        "url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+        "sha256": "a9e53e33508ab903813cd3471e11e0b3072889e1f44dab227f507ea801416c2b",
+        "bytes": 546670,
+        "raw_file": "scratch/full-catalog/us-a/uchicago/admissions-areas.html",
+        "meta_file": "scratch/full-catalog/us-a/uchicago/admissions-areas.meta.json"
+      }
+    ],
+    "gaps": [
+      "College site advertises 69 majors while full admissions feed contains 60 major cards; likely degree/track granularity but not yet reconciled, so not marked complete",
+      "Catalogue direct HTTPS failed SSL; detailed academic award variants need formal table reconciliation",
+      "Some official detail links use HTTP exactly as published; not silently changed to an unverified URL"
+    ]
+  },
+  "programs": [
+    {
+      "name_en": "Climate and Sustainable Growth",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/climate/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "2E9PuKBbt7B1sHm1Er8WMm",
+      "source_tags": [
+        "Minors",
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-climate-and-sustainable-growth-dfbf94a912"
+    },
+    {
+      "name_en": "Media Arts and Design",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/MediaArtsandDesign/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "4YRpAlqsoMFctfOeLgoEwn",
+      "source_tags": [
+        "Majors",
+        "Minors",
+        "UChicago Careers In"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-media-arts-and-design-05d19f815a"
+    },
+    {
+      "name_en": "Computer Science",
+      "degree_label": "BA / BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/computerscience/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "3SXMJAlFeRUlEXedRc7HeG",
+      "source_tags": [
+        "Majors",
+        "Minors",
+        "Joint Degrees",
+        "UChicago Careers In"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-computer-science-5333b23a69"
+    },
+    {
+      "name_en": "Biological Sciences",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/biologicalsciences/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6aeRyjzXxF7WMmwMI7U2MB",
+      "source_tags": [
+        "Majors",
+        "Minors",
+        "UChicago Careers In"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-biological-sciences-3b792822e6"
+    },
+    {
+      "name_en": "Inquiry and Research in the Humanities",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/Inquiryresearchhumanities/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "2p5jpcSzDCQ9z7rpKsZZ2v",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-inquiry-and-research-in-the-humanities-1c4b3577e5"
+    },
+    {
+      "name_en": "Public Policy Studies",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/publicpolicystudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "1kcAUfmo0F8hQbg6NtoNcs",
+      "source_tags": [
+        "Joint Degrees",
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-public-policy-studies-86dd20560f"
+    },
+    {
+      "name_en": "Engineering, Molecular",
+      "degree_label": "BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/molecularengineering/#majorprograminmolecularengineering",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "3candrbPInQKp7o2vRYugy",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-engineering-molecular-978b29b495"
+    },
+    {
+      "name_en": "Latin American and Iberian Languages, Romance Languages and Literatures",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "5eZ2gpEXfMPxxtDfp2nuQM",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-latin-american-and-iberian-languages-romance-languages-and-litera-91376a4b57"
+    },
+    {
+      "name_en": "Anthropology",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/anthropology/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "1mpl8i834GlGHZ1uowSQLV",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-anthropology-b91c578278"
+    },
+    {
+      "name_en": "Environmental Science",
+      "degree_label": "BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/environmentalscience/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "3F35ZsdfFp5C5GHqWbl4ec",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-environmental-science-7293d6d471"
+    },
+    {
+      "name_en": "Italian, Romance Languages and Literatures",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "y1jIn5iXS3nC8JTJq4jra",
+      "source_tags": [
+        "Specializations",
+        "Minors",
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-italian-romance-languages-and-literatures-bc079332d6"
+    },
+    {
+      "name_en": "French, Romance Languages and Literatures",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "23kSnEcIihstrVRfJXU2Tl",
+      "source_tags": [
+        "Specializations",
+        "Minors",
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-french-romance-languages-and-literatures-d07971280e"
+    },
+    {
+      "name_en": "Spanish, Romance Languages and Literatures",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6YMuCvos6exezcyNjZLN25",
+      "source_tags": [
+        "Specializations",
+        "Minors",
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-spanish-romance-languages-and-literatures-27286bfacf"
+    },
+    {
+      "name_en": "Environment, Geography, and Urbanization",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#cegu-committee-on-environment-geography-and-urbanization",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "greY8jBw6uCtU8IQkN7Rz",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-environment-geography-and-urbanization-fa0c88f2dd"
+    },
+    {
+      "name_en": "Data Science",
+      "degree_label": "BA / BS",
+      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#data-science",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6GySUKV97D3O6FJrixLGVx",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-data-science-2efd7408b2"
+    },
+    {
+      "name_en": "Archaeology",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#archaeology",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "5dbyUsKD2cXKYoCYlcJavm",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-archaeology-be0f7eb725"
+    },
+    {
+      "name_en": "Race, Diaspora and Indigeneity (RDI)",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#race-diaspora-and-indigeneity-rdi",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "4yRtK8jLpCP4A7iIMeIRXK",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-race-diaspora-and-indigeneity-rdi-42fe741a57"
+    },
+    {
+      "name_en": "Religious Studies",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/religiousstudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6wxLJnpVeZEGEGzBwcYNni",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-religious-studies-e0aea27238"
+    },
+    {
+      "name_en": "Romance Languages and Literatures",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/romancelanguagesliteratures/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "1gVyebJZfX9LspMXucSGiM",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-romance-languages-and-literatures-3b2f48296f"
+    },
+    {
+      "name_en": "Russian and East European Studies",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/slaviclanguagesliteratures/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "5Qp4TVsIsEfz1AhSDSwbwT",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-russian-and-east-european-studies-5ce511c0cf"
+    },
+    {
+      "name_en": "Sociology",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/sociology/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "2sfcXWPyFrlAwfpgGHpIN1",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-sociology-d8c71b6427"
+    },
+    {
+      "name_en": "South Asian Languages and Civilizations",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/southasianlanguagescivilizations/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "4NBAkvQ5XznPYPjNqXUsYb",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-south-asian-languages-and-civilizations-42a7caf4c2"
+    },
+    {
+      "name_en": "Theater and Performance Studies",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/theaterperformancestudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "5Ky9g4oaZSo9XEI5QGxeHx",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-theater-and-performance-studies-1817985387"
+    },
+    {
+      "name_en": "Statistics",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/statistics/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "2UY7sXAE8RLNxLrzaPgnub",
+      "source_tags": [
+        "Joint Degrees",
+        "Minors",
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-statistics-fecb92a3dd"
+    },
+    {
+      "name_en": "Visual Arts",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/visualarts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "4LZSZgufCwGT9CFtJ7XzBa",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-visual-arts-de0eca35e6"
+    },
+    {
+      "name_en": "Psychology",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/psychology/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "65MbUzOyM9bSh4CFMljjax",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-psychology-69d053456c"
+    },
+    {
+      "name_en": "Political Science",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/politicalscience/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "7IrUmyq4HsfmbNG3FSxbaZ",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-political-science-426253f72a"
+    },
+    {
+      "name_en": "Physics",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/physics/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "3l9wiLkyhuDvgZaOZwl58j",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-physics-7535106653"
+    },
+    {
+      "name_en": "Philosophy",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/philosophy/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "4umw5Aexy5ESAQKkr2di4C",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-philosophy-4b63fe40b6"
+    },
+    {
+      "name_en": "Neuroscience",
+      "degree_label": "BA / BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/neuroscience/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "5XkVtf7MjzFUXSiJis89xp",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-neuroscience-abb0e753ed"
+    },
+    {
+      "name_en": "Music",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/music/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6N6sr4LllueU5ZvOfcV3YC",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-music-45b7b649ff"
+    },
+    {
+      "name_en": "Middle Eastern Studies",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/neareasternlanguagescivilizations/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6NqeD4fEtiCvb50PRlGxJf",
+      "source_tags": [
+        "Majors",
+        "Minors",
+        "Joint Degrees"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-middle-eastern-studies-8e3d991b7d"
+    },
+    {
+      "name_en": "Medieval Studies",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/medievalstudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "3DNKQl44Qv4wbA1ZoiO6ae",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-medieval-studies-71f5671cae"
+    },
+    {
+      "name_en": "Mathematics",
+      "degree_label": "BA / BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/mathematics/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "7FhsGFzSXKG5bAlp6aCqst",
+      "source_tags": [
+        "Majors",
+        "Minors",
+        "Joint Degrees"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-mathematics-7c0aab6dc6"
+    },
+    {
+      "name_en": "Linguistics",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/linguistics/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "22d91wbrAcK8l4IvIuWmhZ",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-linguistics-6d6231bf2e"
+    },
+    {
+      "name_en": "Law, Letters, and Society",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/lawlettersandsociety/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "4hcCZSDxH2LBLNQU6DVuiE",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-law-letters-and-society-be85baa338"
+    },
+    {
+      "name_en": "Latin American and Caribbean Studies",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/jointdegreelacs/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6xuywDm2j5mxYsajIlQlTX",
+      "source_tags": [
+        "Majors",
+        "Minors",
+        "Joint Degrees"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-latin-american-and-caribbean-studies-c6ad3becc2"
+    },
+    {
+      "name_en": "Jewish Studies",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/jewishstudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "5xkOcIAxp5d6e2brgK1whK",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-jewish-studies-9427a73d40"
+    },
+    {
+      "name_en": "Human Rights",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/humanrights/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "71UmeTcvTIOvMST3BXtFkU",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-human-rights-0106bfff55"
+    },
+    {
+      "name_en": "History, Philosophy, and Social Studies of Science and Medicine",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/scienceandmedicinehips/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6BdAL9YHagdBY3eVWCqGd4",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-history-philosophy-and-social-studies-of-science-and-medicine-5f11b33167"
+    },
+    {
+      "name_en": "History",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/history/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "M5XsszNqkHeWgFlratdRx",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-history-893baa8dca"
+    },
+    {
+      "name_en": "Global Studies",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/globalstudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6B6F0zsmlUFRRY56CyUodM",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-global-studies-323d39c19c"
+    },
+    {
+      "name_en": "Germanic Studies",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/germanicstudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "t4A1ILPs0UR6P4GYzsqS5",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-germanic-studies-785fa2dc9d"
+    },
+    {
+      "name_en": "Geophysical Sciences",
+      "degree_label": "BA / BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/geophysicalsciences/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "mbABEjx474bcaVI5JD37H",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-geophysical-sciences-666cda2728"
+    },
+    {
+      "name_en": "Gender and Sexuality Studies",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/genderstudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "1AJ9ZgrAWY33P8Q7E6ZdbL",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-gender-and-sexuality-studies-fd71da787b"
+    },
+    {
+      "name_en": "Fundamentals: Issues and Texts",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/fundamentalsissuesandtexts/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "3Re3Ja8e2kT4tlu58pJHoY",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-fundamentals-issues-and-texts-5dbe7530bb"
+    },
+    {
+      "name_en": "English Language and Literature",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/englishlanguageliterature/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "57nNGxzbAgPFjR8RCx3FQh",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-english-language-and-literature-2ff7a4d170"
+    },
+    {
+      "name_en": "Economics",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/economics/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6phGr5r88Z9682TEfJitmd",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-economics-ba5ba808bf"
+    },
+    {
+      "name_en": "East Asian Languages and Civilizations",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/eastasianlanguagescivilizations/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "2MUT1SmkOVnDwjdi444WOU",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-east-asian-languages-and-civilizations-bbd3dcedd1"
+    },
+    {
+      "name_en": "Creative Writing",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/creativewriting/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "3ZLs7pi00qyIIIt6vvl8bG",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-creative-writing-85fa590e84"
+    },
+    {
+      "name_en": "Computational and Applied Mathematics",
+      "degree_label": "BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/caam/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "6GhtsRbQQQ1scUFSvTR3E9",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-computational-and-applied-mathematics-0ad0ebe151"
+    },
+    {
+      "name_en": "Comparative Literature",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/comparativeliterature/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "7De7a6LQWU82OVLoLUp82w",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-comparative-literature-b9ba8cfb7c"
+    },
+    {
+      "name_en": "Comparative Human Development",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/comparativehumandevelopment/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "3zvfxwdvuKGSaDKcBv1AT7",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-comparative-human-development-c7ede91462"
+    },
+    {
+      "name_en": "Cognitive Science",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#cognitive-science",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "556WHSY6svOllamZMaajRG",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-cognitive-science-7f53e85f13"
+    },
+    {
+      "name_en": "Classical Studies",
+      "degree_label": "BA",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/classicalstudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "632GG5RTeZ7J7xReZsfNSj",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-classical-studies-f80f13b384"
+    },
+    {
+      "name_en": "Cinema and Media Studies",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/cinemamediastudies/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "5tbZKmUmQbWnKW9CH6oJIx",
+      "source_tags": [
+        "Majors",
+        "Minors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-cinema-and-media-studies-63db82700a"
+    },
+    {
+      "name_en": "Biological Chemistry",
+      "degree_label": "BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/biologicalchemistry/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "556WP7KDOjfWuJ3pwUJ6m5",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-biological-chemistry-7c0ce35ff1"
+    },
+    {
+      "name_en": "Astrophysics",
+      "degree_label": "BA / BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/astronomyastrophysics/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "185iwChQRVgNgpBybxIuev",
+      "source_tags": [
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-astrophysics-4a7647909e"
+    },
+    {
+      "name_en": "Art History",
+      "degree_label": "Undergraduate major; exact award label not stated in index",
+      "official_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/#art-history",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "kMTqBrFnQtadeqJ3CIRlS",
+      "source_tags": [
+        "Minors",
+        "Majors"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-art-history-92f55363e2"
+    },
+    {
+      "name_en": "Chemistry",
+      "degree_label": "BA / BS",
+      "official_url": "http://collegecatalog.uchicago.edu/thecollege/chemistry/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://collegeadmissions.uchicago.edu/academics/areas-of-study/",
+      "source_period": "current admissions list; no academic year stated",
+      "raw_key": "35cfzeEvTf5guyeKWFGxJL",
+      "source_tags": [
+        "Majors",
+        "Minors",
+        "Joint Degrees"
+      ],
+      "discovery_data_url": "https://collegeadmissions.uchicago.edu/page-data/sq/d/999155231.json",
+      "id": "uchicago-chemistry-bb928678d6"
+    }
+  ]
+}

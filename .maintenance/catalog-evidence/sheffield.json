@@ -1,0 +1,61 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://sheffield.ac.uk/undergraduate/courses/2027",
+    "official_total": null,
+    "observed_directory_count": 140,
+    "page_evidence": [
+      {
+        "page": "single complete A–Z",
+        "count": 140,
+        "first": "Accounting and Financial Management",
+        "last": "Zoology",
+        "pagination_links_found": 0
+      },
+      {
+        "source": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation",
+        "complete_single_foundation_list": 37
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "completeness_scope": "Main 2027 A–Z 140 entries plus all 37 separately linked Lifelong Learning foundation-degree entry routes; broader subject choices within degrees are not invented.",
+    "filter_rules": [
+      "All subjects, no search keyword or subject filters",
+      "Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed",
+      "Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards"
+    ],
+    "unresolved": [
+      "Lifelong Learning foundation list does not state an intake year; individual eligibility and year require subsequent checks.",
+      "Presence in directory does not mean applications remain open."
+    ],
+    "raw_artifacts": [
+      "sheffield/raw/directory-0.meta.json"
+    ],
+    "university_id": "sheffield",
+    "count": 177,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses/foundation",
+      "sha256": "6c5eae35b904c4c23284b608d051b3df91edcb6eb72c9b30c73fb555f6cf000c",
+      "bytes": 90788,
+      "raw_file": "scratch/full-catalog/uk/sheffield/raw/foundation-directory.html",
+      "meta_file": "scratch/full-catalog/uk/sheffield/raw/foundation-directory.meta.json"
+    },
+    {
+      "url": "https://sheffield.ac.uk/undergraduate/courses/2027",
+      "sha256": "4c42d762b4d71c51e0c151fc11f7d55dd982a549d8cef05a8ee7527a29116712",
+      "bytes": 91371,
+      "raw_file": "scratch/full-catalog/uk/sheffield/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/sheffield/raw/directory-0.meta.json"
+    },
+    {
+      "url": "https://sheffield.ac.uk/education/lifelong-learning/courses",
+      "sha256": "200354970916e81d3ef6fec6f08243adcd1e115ac1b2349cc8101cdb136791fc",
+      "bytes": 99873,
+      "raw_file": "scratch/full-catalog/uk/sheffield/raw/lifelong-directory.html",
+      "meta_file": "scratch/full-catalog/uk/sheffield/raw/lifelong-directory.meta.json"
+    }
+  ]
+}

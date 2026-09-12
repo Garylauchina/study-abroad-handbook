@@ -1,0 +1,81 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.nottingham.ac.uk/studywithus/ugstudy/See_all_courses.html",
+    "official_total": 416,
+    "official_total_unit": "416 raw course/intake records; 215 for 2026 and 201 for 2027",
+    "page_evidence": [
+      {
+        "endpoint": "/bin/uon/coursepages.json",
+        "array": "Facilities",
+        "received": 416,
+        "paging": "Official UI loads entire array and paginates locally at 32 records/page",
+        "official_visibility_rule": "title && startDate && hideinsitemap !== true",
+        "unique_base_course_ids": 222,
+        "earlier_intake_versions_removed": 194,
+        "current2027": 201
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": false,
+    "completeness_scope": "Complete official public course-feed enumeration; latest explicitly listed intake per courseId, earlier-only offerings retained with separate status.",
+    "filter_rules": [
+      "Apply same visibility rule as official course-grid JS",
+      "Remove terminal entry-year suffix only when identifying duplicate intake versions of one courseId",
+      "Keep separate courseId/UCAS variants; do not collapse by title",
+      "Never convert Clearing flags into general future admissions status"
+    ],
+    "unresolved": [
+      "Some courses only appear for 2026 in the feed and are marked prior_or_unspecified_intake; no assertion they will run in 2027.",
+      "Index listing does not by itself confirm applications remain open.",
+      "Scope is the published UK undergraduate directory feed; Malaysia and Ningbo campus catalogues are not established as covered by this feed."
+    ],
+    "raw_artifacts": [
+      "nottingham/raw/client-js.meta.json",
+      "nottingham/raw/directory-1.meta.json",
+      "nottingham/raw/directory-api.meta.json",
+      "nottingham/raw/source-0.meta.json",
+      "nottingham/raw/source-1.meta.json"
+    ],
+    "university_id": "nottingham",
+    "count": 222,
+    "checked_at": "2026-09-12",
+    "directory_enumeration_complete": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/",
+      "sha256": "cddbe2ed7df48bff71ce08401cc998fe435824de0d6ce50547f8054b51586507",
+      "bytes": 94290,
+      "raw_file": "scratch/full-catalog/uk/nottingham/raw/source-0.html",
+      "meta_file": "scratch/full-catalog/uk/nottingham/raw/source-0.meta.json"
+    },
+    {
+      "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2027/Natural-Sciences-BSc-Hons.html",
+      "sha256": "ce93fe12f7b24b15b4ba1c55b4302bfd7c8f7015b24e55210a9145a408e49796",
+      "bytes": 174430,
+      "raw_file": "scratch/full-catalog/uk/nottingham/raw/source-1.html",
+      "meta_file": "scratch/full-catalog/uk/nottingham/raw/source-1.meta.json"
+    },
+    {
+      "url": "https://www.nottingham.ac.uk/bin/uon/coursepages.json",
+      "sha256": "e75fab41562a20670d6d5a8e82b0dbdc0fe23f0967bf680eb02bbc2ca3bcf135",
+      "bytes": 819863,
+      "raw_file": "scratch/full-catalog/uk/nottingham/raw/directory-api.html",
+      "meta_file": "scratch/full-catalog/uk/nottingham/raw/directory-api.meta.json"
+    },
+    {
+      "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/See_all_courses.html",
+      "sha256": "369081b225f0f6394e649d958c014e3e7ce46a868426fcb7e465690c193707c1",
+      "bytes": 54759,
+      "raw_file": "scratch/full-catalog/uk/nottingham/raw/directory-1.html",
+      "meta_file": "scratch/full-catalog/uk/nottingham/raw/directory-1.meta.json"
+    },
+    {
+      "url": "https://www.nottingham.ac.uk/etc.clientlibs/uon/clientlibs/clientlib-v2.min.js",
+      "sha256": "342874d3a3f4981d0faa285bd7a97aa0d52a2ec28ec5f260aab73869df63d426",
+      "bytes": 861563,
+      "raw_file": "scratch/full-catalog/uk/nottingham/raw/client-js.html",
+      "meta_file": "scratch/full-catalog/uk/nottingham/raw/client-js.meta.json"
+    }
+  ]
+}

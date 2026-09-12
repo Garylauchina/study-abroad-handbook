@@ -1,0 +1,185 @@
+{
+  "university_id": "eth-zurich",
+  "sources": [
+    {
+      "url": "https://www.swissuniversities.ch/en/topics/studying/admission-to-universities/countries-1",
+      "sha256": "2c5a65b1703b008f0442d2912de8152b564d5251755de10926266b57e46ba8f1",
+      "raw_file": "scratch/full-catalog/root/swiss-countries.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studium/bachelor/bewerbung/auslaendische-reifezeugnisse/sprachanforderungen.html",
+      "sha256": "3cccef6115904aefe8a920e2112d1fea6ebc57fe579200b3e0ab1ccae14d8625",
+      "raw_file": "scratch/full-catalog/root/eth-language.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/dates/_jcr_content/par/table_1322192949_cop_1566530997.tableComp.json",
+      "sha256": "a8678ff5a3568ddfc8ad0f2f15cd742792d6a799ef2ff4ba6f4ea6d292032f92",
+      "raw_file": "scratch/full-catalog/root/eth-dates-table-3.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/dates/_jcr_content/par/table_1322192949_cop.tableComp.json",
+      "sha256": "379b51e2f8431cd47fe04f53697c19de1ac7852cb4a44d77342a1ec27280b718",
+      "raw_file": "scratch/full-catalog/root/eth-dates-table-1.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/application/non-swiss-matriculation-certificate/how-to-apply.html",
+      "sha256": "706b86730b134f068e6849eb69d503a60f47131081758457351e127e697caf8a",
+      "raw_file": "scratch/full-catalog/root/eth-application.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/students/en/studies/financial/tuition-fees.html",
+      "sha256": "ae51325c9608255f9f061ce3abad4352baae652b23c48c2185ab62a9bfde6682",
+      "raw_file": "scratch/full-catalog/root/eth-tuition.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/prospective-students/features-of-eth-studies/programme-structure.html",
+      "sha256": "42f488e9fd7c67840a57a71dcf1c1385cb36d8ebee287ff14f3c29bbd21ceb74",
+      "raw_file": "scratch/full-catalog/root/eth-structure.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/architecture.html",
+      "sha256": "2bceb222956d67b175771ebbc177842cea8a50653cf8e33172a743071de7acdd",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-00.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/civil-engineering.html",
+      "sha256": "9f1ff422ef6757ebe819f6fc97cc5950bce37ac7189f8885c66a1ee79ce7c1c1",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-01.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/environmental-engineering.html",
+      "sha256": "7c276a035e1d04748870ce4438a2f3239d6da4e0954a24473febd2c668cc0dfc",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-02.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/architecture-and-civil-engineering/geospatial-engineering.html",
+      "sha256": "bb66c4c96957e0d4f1048e68e7212f2c4e4978f58208ea240c5403b8e5b02f38",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-03.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/electrical-engineering-and-information-technology.html",
+      "sha256": "501f5b95655a7a80bc366d7e0be178a24d6cfbcb04604d3c250d49810e16bd05",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-04.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/computer-science.html",
+      "sha256": "7dc10766bf4153b62d103900ee6ab41b0498fc480f0149d5dda1f985692f89b7",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-05.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/mechanical-engineering.html",
+      "sha256": "3ff17da14b20502343dfa0e3dc6df018c2ef0de77b37c7e862a98242b462c0cc",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-06.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/materials-science.html",
+      "sha256": "1deeb278bb1448864dd0ad8cfbc6ae6fea93d44d3da1ac04d4118469b4d3329f",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-07.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/biology.html",
+      "sha256": "48807acb3a4d48745dc65354bcd4560d9d0119139c807d230cf88d53394e0a8c",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-08.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/biochemistry-chemicalbiology.html",
+      "sha256": "f25b79f88fdab482d4e5e1d87571dccb4e73b852c1c7c1a8586e3f0d96947f01",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-09.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/bachelor-chemistry-chemical-and-bioengineering.html",
+      "sha256": "cd8630651c35b8413efb80ec3059a2bda1cb0d281ab60b6deb92f15f19077fcb",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-10.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/computational-science-and-engineering.html",
+      "sha256": "9f45e8792d8552dd34d649c04b55d60ee7012c7ca97c2956dfb0eeafd3468786",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-11.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/interdisciplinary-sciences.html",
+      "sha256": "91166595107fe08acb973947fbd6d5db799208904832a496ff60236ac4ffbc51",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-12.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/mathematics.html",
+      "sha256": "fa7e8994802fb1bf6d5d12f0dde74cbde6447c6c4b57be7e9e3ca145a83ba9c5",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-13.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/pharmaceutical-sciences.html",
+      "sha256": "6a6fb6ad1b3c49a1c40109a0264f6fe8209c8d77924b242749011182ec2f4210",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-14.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/natural-sciences-and-mathematics/physics.html",
+      "sha256": "214ff2e4302a760977723806a6ecdb7b8213cc6322715aa477a6796c483381cd",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-15.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/agricultural-sciences.html",
+      "sha256": "02c57086aebb44fd4bdbd1f615a20679d0c411875541b427eb2204e93837cb33",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-16.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/food-science.html",
+      "sha256": "960c820b2fcffcba76911aa1c2344d1942aae40c88447d0ed845a7a677290858",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-17.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/earth-and-climate-sciences.html",
+      "sha256": "001856765608efe8e8b2d00635606fe13923ebc0e97b3a37e0a8e7a4c3c20871",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-18.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/environmental-sciences.html",
+      "sha256": "243bb6ddcf4f3bd9b8263279c37cce1f636cf6534655d55193bb2e18a54769af",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-19.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/health-sciences-and-technology.html",
+      "sha256": "e3a97c58e33a88fc39f4183e87ab791d0bb795b6b3a58c538356e738ba364567",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-20.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/system-oriented-natural-sciences/human-medicine.html",
+      "sha256": "be2d204c8096588acf183f27ac0d01aa5727e1a236f7a4a8d80f5090d7a5f5ad",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-21.html",
+      "locator": null
+    },
+    {
+      "url": "https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/management-and-social-sciences/public-policy.html",
+      "sha256": "fd1776239a0021ff353fec47b8e284442918577c7ac63f049cdb641e94a9e035",
+      "raw_file": "scratch/full-catalog/root/eth-zurich-detail-22.html",
+      "locator": null
+    }
+  ]
+}

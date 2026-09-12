@@ -1,0 +1,231 @@
+{
+  "original_manifest": {
+    "university_id": "polimi",
+    "checked_at": "2026-09-12",
+    "final_count": 29,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "official_count": 29,
+    "directory_scope": "All29items in official Laurea list, including single-cycle Building Engineering/Architecture and joint MEDTEC; all listed campuses preserved.",
+    "pagination_evidence": "Full single-page directory captured; every selected programme detail read.",
+    "filtering_rules": "Preserve official independently listed award/major/combined variants; exclude postgraduate programmes, minor-only subjects and non-bachelor diplomas; integrated first-entry qualifications explicitly identified.",
+    "can_prove_complete": true,
+    "gaps": [
+      "MEDTEC entry is a6yearHumanitasMedicine/PolimiBiomedicalEngineering pathway; its3yearBSc component metadata must not be read as total programme duration."
+    ],
+    "source_urls": [
+      "https://www.polimi.it/en/education/laurea-programmes"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-science",
+      "sha256": "51c2da72e9e46ea710f92c92e497cd3795349e2a1cd148c827186af11ae494a8",
+      "bytes": 558349,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-14.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-14.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/physics-engineering",
+      "sha256": "cb65ac6456374f72c4951e79bbd5ff6f3a37843f2aec38b8c9007c5c7c1be763",
+      "bytes": 529194,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-26.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-26.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/building-engineeringarchitecture",
+      "sha256": "4c2bd32f3d0fa5f477ada559263c7393b18a8b2175c6f45f15f4cb1255076ef1",
+      "bytes": 529513,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-6.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-6.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/electronic-engineering",
+      "sha256": "a25d9b32403b9508b7586b96a65730787aec14942cf96fc254d3efd0c2f588a8",
+      "bytes": 528459,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-11.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-11.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/automation-engineering",
+      "sha256": "e247beb2930653327436c2e60982f685a88638bf01c6dfca6cc04705f556946d",
+      "bytes": 529893,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-3.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-3.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/mathematical-engineering",
+      "sha256": "b0f532d36728fc6689dd3b26665425ec1cd8a07bfa384c3b4b8daf4f574310bb",
+      "bytes": 526444,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-23.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-23.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/industrial-production-engineering",
+      "sha256": "71d02f49b194962416d5f6dc23257e7c94872d24f0bfea010741d3c54d786184",
+      "bytes": 522190,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-18.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-18.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/urban-planning-cities-environment-landscapes",
+      "sha256": "8625832dbd68f6f6f33ea9121a8aba215aee590ffe806f286c5b4e9c2266aaba",
+      "bytes": 522103,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-29.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-29.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/communication-design",
+      "sha256": "6d34d5cc04413cac222175b03739cd26ac6c9001b67bbc8927d791ab7694bc3b",
+      "bytes": 526004,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-9.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-9.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/interior-design",
+      "sha256": "1e79431af7f6b5e48c016d1ae4b0f232242250dde3066d404236315c6e3831d2",
+      "bytes": 524898,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-20.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-20.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/energy-engineering",
+      "sha256": "6b309e1c9005259eae77b89528973cd386d3d08af191df9d2060a39a3671c365",
+      "bytes": 538245,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-12.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-12.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/building-and-construction-engineering",
+      "sha256": "850a3689d7bc392a98ee65f9e95e51422869927015c0f7ab59f904d9d5d21cda",
+      "bytes": 526996,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-5.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-5.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/medtec-school",
+      "sha256": "da5a41d490fdce0c62fab34f9ab05fab976249dd7bca64a36f069b9a18edf1c6",
+      "bytes": 523840,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-25.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-25.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/industrial-engineering",
+      "sha256": "6e9539cd9f6b63b33ac8e8e2e447a5cad4b78f6e427a2d8f58f22156e4869ea7",
+      "bytes": 551641,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-17.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-17.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/interaction-design",
+      "sha256": "3665cde317731402c63e9f1d7a1ba21d2fbac9cb1cc28f340a72d424ca694ba2",
+      "bytes": 528048,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-19.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-19.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/architectural-design",
+      "sha256": "dcee60ccdf61a6f1f0821d5fe7e64f75cc4d4caf64b280f02970ac74f35eaa94",
+      "bytes": 529652,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-2.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-2.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/materials-and-nanotechnology-engineering",
+      "sha256": "80c0757313c5f307cf2b4a49b405da85502dd5f362ecdf53db516f905ce44b70",
+      "bytes": 529154,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-22.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-22.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/electrical-engineering-1",
+      "sha256": "f9982e1b461e9d36b20f928e74a14328e5fc54245ca522ad41ca38ed09d0418d",
+      "bytes": 530445,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-10.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-10.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/process-engineering",
+      "sha256": "7b5a905f9c4ab2763e758fe5e008eab2a616368ddbe3fc22cae1991f3c283038",
+      "bytes": 551827,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-27.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-27.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/chemical-engineering",
+      "sha256": "08e7e985a61e1194fa3239fc9487e87b5ae42c4e33949c445b58218dde44e5da",
+      "bytes": 527996,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-7.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-7.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/environmental-and-land-planning-engineering",
+      "sha256": "15ae5c118606a4a62d4e817a428d2cab114697b1488856a15f752e4e8e5017d6",
+      "bytes": 527916,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-15.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-15.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/fashion-design",
+      "sha256": "6f404a615327d2d1be53d31b9c62ba754080b53ff728f3b2f3a4b9c5175c60e5",
+      "bytes": 525173,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-16.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-16.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/biomedical-engineering",
+      "sha256": "f02f8280a9aebe51f5f51077c2e6f2313ebb689aca013265dfa11f71e4fbf311",
+      "bytes": 526567,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-4.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-4.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/mechanical-engineering",
+      "sha256": "9d94acdc104e08ec02a2c895aad962eeef1baa8471526c2e995845e9479066fd",
+      "bytes": 531134,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-24.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-24.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-of-computing-systems",
+      "sha256": "90c2e52b5d1e55e45496a997caad78bdc552aabebed3e45a1557f011cec4b6f8",
+      "bytes": 528247,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-13.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-13.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes",
+      "sha256": "3725e9c60cb9543eb4a42a224d1208b28d5793abdcdebb9789dbd7d2cc9a422c",
+      "bytes": 554413,
+      "raw_file": "scratch/full-catalog/europe/polimi/index.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/index.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/management-and-production-engineering",
+      "sha256": "30c2d341c521259972b009a7cbd0fcafebf238535cdbe227f3da572095782136",
+      "bytes": 528132,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-21.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-21.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/aerospace-engineering1",
+      "sha256": "747f2c14059f3930def3fa2bee50a67a4ce45d05272fcd6b6d426b4d65e19ec3",
+      "bytes": 529113,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-1.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-1.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/product-design",
+      "sha256": "44e98bfe4bc423c52804e541d32faeb4efccf8e39327ff5671a3e2a0bbc6cffb",
+      "bytes": 529734,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-28.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-28.source.json"
+    },
+    {
+      "url": "https://www.polimi.it/en/education/laurea-programmes/programme-detail/civil-engineering",
+      "sha256": "9fd59b4dba99ca6e91377b1b754d2acc0284a8510d1c4a168b7d6232a6eaa884",
+      "bytes": 529351,
+      "raw_file": "scratch/full-catalog/europe/polimi/detail-8.html",
+      "meta_file": "scratch/full-catalog/europe/polimi/detail-8.source.json"
+    }
+  ]
+}

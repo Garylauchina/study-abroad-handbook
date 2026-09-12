@@ -1,0 +1,1928 @@
+{
+  "original_manifest": {
+    "university_id": "auckland",
+    "checked_at": "2026-09-12",
+    "count": 189,
+    "status": "partial",
+    "scope": "本科、荣誉本科、Conjoint联合学位，以及逐页核实的本科主修／方向；不包含独立辅修、语言模块与单门课程。",
+    "method": "原学位目录97项，加103次本科subject页面读取（99唯一页面）；逐项检查所属Bachelor和major/specialisation关系。商业法/税务仅作为BCom主修，不把LLB课程组合另作主修；停招主修及课程-only条目单独排除。",
+    "sources": [
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option.html",
+        "sha256": "abc3caf49eebcd40c1336db1910f9794340e4dd960883105f942268e3ffc5148",
+        "raw_file": "auckland.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/conjoints-by-faculty.html",
+        "sha256": "4ee36940160128d81fe6363e7fbb75e9177bbc82f92f4a973b3f7f920c4e890c",
+        "raw_file": "auckland-conjoint-faculty.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/mechanical-engineering/undergraduate.html",
+        "sha256": "c41d580fc7d63d7c2ea5f2f566d9d6a098ec77ddecf3ef3516eea978ab2eee03",
+        "raw_file": "auckland-ug-383-65.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/applied-physics/undergraduate.html",
+        "sha256": "ae65cdb28fcd910b084c25c891eb02cf37e48ecd4ea92b9186d0f00b6e6233b9",
+        "raw_file": "auckland-ug-043-17.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music-studies/undergraduate.html",
+        "sha256": "da3e32934f9b80b393e482ecc719ccf2efbb3b783b72ec496c0dec72dc5657a9",
+        "raw_file": "auckland-ug-396-70.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chemistry/undergraduate.html",
+        "sha256": "839b7c90fa8a802e04e9a52f86ae16647c48c1eeccd29b36af8ccac8ba8b431c",
+        "raw_file": "auckland-ug-258-43.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/sociology/undergraduate.html",
+        "sha256": "5f725680d86403dbf4b9389ccb71ed18a39cb16cf30d459968f6d9bc1179fb07",
+        "raw_file": "auckland-ug-438-53.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/operations-supply-chain-management/undergraduate.html",
+        "sha256": "f4212fe3a8b62216c26742a6ea2add330b0f5106553baf3f88a925a41f0ea4a5",
+        "raw_file": "auckland-ug-402-50.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/management/undergraduate.html",
+        "sha256": "284ef73012b2234ffbd10a2d9fc1e5e9850f3418824602a39eff46fc9c1d90de",
+        "raw_file": "auckland-ug-374-79.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/classical-performance/undergraduate.html",
+        "sha256": "cd08e8515fb1f91b28d490f925a67129a2503bd0a96df0b7e8c1e9b560ff2efc",
+        "raw_file": "auckland-ug-025-23.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/european-studies/undergraduate.html",
+        "sha256": "69247e35a789641f42feabff8ccac4677ace2e0b5d1e354d6aaae9f6469b6048",
+        "raw_file": "auckland-ug-058-11.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/maori-studies/undergraduate.html",
+        "sha256": "4c2a7e1b7b37c204a7fcd6f1c77671483948f456c8a6db856902c3d2fc8d59da",
+        "raw_file": "auckland-ug-002-15.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/social-science-for-public-health/undergraduate.html",
+        "sha256": "863d97af8f7be18cba1b069b7e2ac675a6e83115b2cdb73ff2c0ee7ce14599a5",
+        "raw_file": "auckland-ug-073-25.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/linguistics/undergraduate.html",
+        "sha256": "277559842091848116446abc6cafcd1cbd41ab9f789d77c428ac9c4b46bda830",
+        "raw_file": "auckland-ug-369-95.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/environmental-science/undergraduate.html",
+        "sha256": "e7da720d4ab8cbef901c167cd477be3d3e34ea21ab8634d1a5fb27044db555b2",
+        "raw_file": "auckland-ug-308-85.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/earth-sciences/undergraduate.html",
+        "sha256": "b68d6cfcaf9d93e3b178ff70e0de2a1fe43996e9b710278ba77b7428c37875cb",
+        "raw_file": "auckland-ug-293-81.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-systems-engineering/undergraduate.html",
+        "sha256": "bdb6b0d8a32542e487ac0098691e0079f4e079c1a453733a2427b1e6a3761086",
+        "raw_file": "auckland-ug-275-28.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/biomedical-engineering/undergraduate.html",
+        "sha256": "3da1bdad521d61e65e14a78dd3fc3971704c232b125d26c58d267965c633f078",
+        "raw_file": "auckland-ug-046-1.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/art-history/undergraduate.html",
+        "sha256": "acf281737d91de1f885742a6dab381ee080b0be5f75f0651e7f61fe49e638185",
+        "raw_file": "auckland-ug-237-100.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/latin/undergraduate.html",
+        "sha256": "101366236d138e553ac5e7a4388d9d8d395108201be46226d8c9beb21ff6ddf8",
+        "raw_file": "auckland-ug-365-87.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/pharmacology/undergraduate.html",
+        "sha256": "6800fcf45e79d672bf810ce14a642a8dcb3fc01e05934c2c0461328f20820ab8",
+        "raw_file": "auckland-ug-413-41.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/anthropology/undergraduate.html",
+        "sha256": "b6f6b07aa66c8ff5b575290a962ac083958b5f63cf01fdc7ecbcf8ac90a5bdcc",
+        "raw_file": "auckland-ug-231-78.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/marine-science/undergraduate.html",
+        "sha256": "e0d6950620048130b44b494779377c794b733c997a2b86f59ee0f8b2f76e3d72",
+        "raw_file": "auckland-ug-379-71.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/education/undergraduate.html",
+        "sha256": "da9925ac0fe727e2ff083c21cc086a03a7c25854348b67f77a83ddf532d4e1ee",
+        "raw_file": "auckland-ug-296-31.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/geology/undergraduate.html",
+        "sha256": "501ba5dc8d6f6400578071ac8ff153f2a92b33f2931e4f076710caf07ee947ef",
+        "raw_file": "auckland-ug-323-80.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/history/undergraduate.html",
+        "sha256": "0702b7139f4ea9cae09c2f173ac9596ee1ffe97bb5571b1280b8c0c24cba3433",
+        "raw_file": "auckland-ug-343-68.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/academic-english-studies-and-linguistics/undergraduate.html",
+        "sha256": "f12100da5316f395c4e517ee9a548de4a245fc4b7b7c799df9a2571f60bfeea4",
+        "raw_file": "auckland-ug-001-6.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/philosophy/undergraduate.html",
+        "sha256": "b62545b81978fed71d6093e501c85ba72a5a9487b124f7b3e5c26a3b08f61f1c",
+        "raw_file": "auckland-ug-415-64.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/taxation/undergraduate.html",
+        "sha256": "4ceca6a78819ef0bf648cb33d663afc79ee947f3b30ef2db8e38e75e5b04b8d8",
+        "raw_file": "auckland-ug-448-48.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/human-resources-management/undergraduate.html",
+        "sha256": "4659c66088abd6ed4478e606acda90038eeabe2763166665f829adb2c71a15ca",
+        "raw_file": "auckland-ug-005-20.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/medicinal-chemistry/undergraduate.html",
+        "sha256": "03afbaaac67034f443f1a73ae8de3129e799d61fe3c70d69c7ae99defd497348",
+        "raw_file": "auckland-ug-389-45.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/english-writing/undergraduate.html",
+        "sha256": "3adae278fecb25d035e945d3cc8591e99af7223e392b0c7064bd18f3b1c1c8e3",
+        "raw_file": "auckland-ug-056-7.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/international-relations-and-business/undergraduate.html",
+        "sha256": "fc27cb73b9dba71216dacef23c4f174bc4a9a1e3eb9e2417fa3eb8df2dcb3113",
+        "raw_file": "auckland-ug-067-4.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/communication/undergraduate.html",
+        "sha256": "8d3b328ba4d8adf8506f077137e36056d1a303b2319e1ed19d250a667331314d",
+        "raw_file": "auckland-ug-050-0.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/data-science/undergraduate.html",
+        "sha256": "aea991127907084c59d4a9839a65c87491f83b6a67c4393c2b32748af6ab6849",
+        "raw_file": "auckland-ug-286-51.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/marketing/undergraduate.html",
+        "sha256": "ca09fa27138e2456fa267f1277a3dd55c6c5c0a1e78a0b33089200974c1e950f",
+        "raw_file": "auckland-ug-380-72.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/samoan/undergraduate.html",
+        "sha256": "43961fe70a5e3dfc5b7b2762e944f162c8bdbb21d362cdf2ddd2c2985602d790",
+        "raw_file": "auckland-ug-072-22.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/anthropological-science/undergraduate.html",
+        "sha256": "acf4edb3b01a5554fa7622a91dfcbe04471e2321ef8ce64ccf7d82973281b434",
+        "raw_file": "auckland-ug-041-9.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/asian-studies/undergraduate.html",
+        "sha256": "d6f177dcf96d9d95578d9873b5e6d134c86fb870cf56b39117e2ef1ed996deba",
+        "raw_file": "auckland-ug-238-34.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/early-childhood-education/undergraduate.html",
+        "sha256": "4e76a66613dd75d494015f688a11b8a2547fd5e959e2144adc3d21e53794ba8d",
+        "raw_file": "auckland-ug-292-73.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/accounting/undergraduate.html",
+        "sha256": "3bd24a70e24c7afcc0a6f9ddcf03fa887726d596198e88f39c37f4f2d7e4d676",
+        "raw_file": "auckland-ug-224-56.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/pacific-studies/undergraduate.html",
+        "sha256": "c1901cf2baa1d6e963b9c1a1df0c812986b6e006b48e867d95e2291e187ba71b",
+        "raw_file": "auckland-ug-407-97.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/politics-and-international-relations/undergraduate.html",
+        "sha256": "355ac20abf8faa01a08fe8945a7584f4cb6a9bb4ad652b73215440736be0da1c",
+        "raw_file": "auckland-ug-420-75.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/latin-american-studies/undergraduate.html",
+        "sha256": "83fd1438746eebbf481266c0ce694dbeccb79ddf59589d6ea62b61f7cddadbb0",
+        "raw_file": "auckland-ug-069-26.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/structural-engineering/undergraduate.html",
+        "sha256": "21994c24f4ed7d17543725ab68b124269ec92bf04ffb90ecb0f97a9755a4ed41",
+        "raw_file": "auckland-ug-074-12.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/logic-computation/undergraduate.html",
+        "sha256": "3a798e9140f0509325ecf18189d24a7f2b9c1dcc8259f492e0b8b4b7c195d5c1",
+        "raw_file": "auckland-ug-371-29.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate.html",
+        "sha256": "214d0c8a1c8d0ad6c16f85b6cff0881a8c120b64f805492cdae96f256df87e79",
+        "raw_file": "auckland-ug-351-36.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music/undergraduate.html",
+        "sha256": "318eeec09813660211124d83768013eefd7b80db10c190e2ce4968033bfe7ce5",
+        "raw_file": "auckland-ug-394-49.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/comparative-literature/undergraduate.html",
+        "sha256": "1af74440c1626b4917c54b2866834989013991a9b42ee56d8936e32ab4fb1fea",
+        "raw_file": "auckland-ug-055-16.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/geographic-information-science/undergraduate.html",
+        "sha256": "36dd45091efec2f518d71c76cbc89302d064875ea3a7a1c75c5a3dd75fdb6c35",
+        "raw_file": "auckland-ug-059-19.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/software-engineering/undergraduate.html",
+        "sha256": "17a4759d462cbdd83cf8a5ca067f6588e0e960e2fba3f30b156f9c229d24439d",
+        "raw_file": "auckland-ug-439-60.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/theological-and-religious-studies/undergraduate.html",
+        "sha256": "db26201edcbec85056b60b4db474892821b8e590e0a7ceae956983a3fddc2371",
+        "raw_file": "auckland-ug-451-93.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/greek/undergraduate.html",
+        "sha256": "59e0657379c7e482f873a4b802b3dc6b267282bdc0bb3b511b90d536a8442550",
+        "raw_file": "auckland-ug-331-46.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/jazz-performance/undergraduate.html",
+        "sha256": "d92325dbb4079ebb95e2475202be250c74835f8f00514de557ee085e9e52900e",
+        "raw_file": "auckland-ug-281-40.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/global-environment-and-sustainable-development/undergraduate.html",
+        "sha256": "6fdf49bcfd326c23b8a39de048155a7a4ccc9e186ef47277b194f9a657e1b009",
+        "raw_file": "auckland-ug-060-5.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/humanities/undergraduate.html",
+        "sha256": "6edb8b0a7c6ce8b80d39d5d17f0770df3e0958a6202b3e7131c6c4a7b7b44e44",
+        "raw_file": "auckland-ug-065-24.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/mechatronics-engineering/undergraduate.html",
+        "sha256": "a550ea9f65946c2a3fe85f3fa450b78b49accb2b11e6a647130a9aabda0903d6",
+        "raw_file": "auckland-ug-384-33.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/employment-relations-and-organisation-studies/undergraduate.html",
+        "sha256": "996be4c6e9ed26baa55955b71fcd6e223e66930a98d412c3a35e50cc37fb54c5",
+        "raw_file": "auckland-ug-299-99.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/psychology/undergraduate.html",
+        "sha256": "db50638b5f4be96322aa01faab987a0eb36841f66505b222e29da7f5f6e9e72b",
+        "raw_file": "auckland-ug-428-37.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/innovation-entrepreneurship/undergraduate.html",
+        "sha256": "edc91729d41abb60ef77520cd8bd92d62dd92585d7a887f3c031162dbdf9dc17",
+        "raw_file": "auckland-ug-066-2.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/english/undergraduate.html",
+        "sha256": "9c2266c47b6b7580c7d21e7f77e81a9e8299f470a22b673f18989821603e11fc",
+        "raw_file": "auckland-ug-301-62.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/teaching/undergraduate.html",
+        "sha256": "66934055281b75544213ec2aee6247af0629888646f4644ffa7c8ed3ef9908d3",
+        "raw_file": "auckland-ug-449-27.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-systems/undergraduate.html",
+        "sha256": "46f26b62edfec2e8d44592dd7d2ccd4cde9580ed209067ccec772ba1c13f3e87",
+        "raw_file": "auckland-ug-353-92.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/economics/undergraduate.html",
+        "sha256": "540cafeaa942568ac403be597e8efa1e4536998f5169af065db3ac3183651da2",
+        "raw_file": "auckland-ug-295-96.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/exercise-sciences/undergraduate.html",
+        "sha256": "4c000bddbce0930339213adc3a2c81ba8a0fffaf7cdca492d13f0dfad269ab9d",
+        "raw_file": "auckland-ug-310-38.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/gender-studies/undergraduate.html",
+        "sha256": "22440c2e381b7f22d799611d56e2a9a40225085d8aa639a16427435df4e18493",
+        "raw_file": "auckland-ug-318-74.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chinese/undergraduate.html",
+        "sha256": "c209a2b6f8f5beb9babaec5431399bf2b55bbfaab578f67b94fc9182dba8c65d",
+        "raw_file": "auckland-ug-259-30.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/finance/undergraduate.html",
+        "sha256": "c7f4a84c8bd5f519a3594ba6bd99a7e5d602c691e1b7e1ba0a2ff0d31036e4b0",
+        "raw_file": "auckland-ug-311-39.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/global-politics-and-human-rights/undergraduate.html",
+        "sha256": "ffb0a4533472434b3c0503bfbc13ce92173fdf4721fb372d03d6416a8ea7ed0e",
+        "raw_file": "auckland-ug-061-10.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/geography/undergraduate.html",
+        "sha256": "dbcc954634279575b74011f3b3012164044adb94620bec7746b61ee2f629f898",
+        "raw_file": "auckland-ug-322-77.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/spanish/undergraduate.html",
+        "sha256": "fc6ae2fab6ce556a4172f4febbbd82567d2e3d64c72544d3d1d79adc7afb14ca",
+        "raw_file": "auckland-ug-440-82.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/composition/undergraduate.html",
+        "sha256": "649c08d60c7deb923719c759fe2d94cb8fa4385e5358be704e7df3e06d7d932e",
+        "raw_file": "auckland-ug-279-32.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/electrical-electronic-engineering/undergraduate.html",
+        "sha256": "d7cd2e9bb853ee78665df9acf516664eb954c160f8530896d7cb76a8c61c139f",
+        "raw_file": "auckland-ug-298-89.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/criminology/undergraduate.html",
+        "sha256": "dc0f5fb0baaedb6615c93eb28d36cc3ebd5d70dd23d9b62bb56eafb808d6ffe7",
+        "raw_file": "auckland-ug-284-69.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science/undergraduate.html",
+        "sha256": "cf7db2a623e795895c683532d3e87cabc8c3964f66e6c744d872073f0deec4dd",
+        "raw_file": "auckland-ug-274-47.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/physics/undergraduate.html",
+        "sha256": "29668dd9ef6169214fa7da7b6e0fdcee9245bc1772c239c839cd3e5b47d96465",
+        "raw_file": "auckland-ug-418-54.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chemical-materials-engineering/undergraduate.html",
+        "sha256": "961b3fb93ff0283b76b1a9e492dae6102da42ab4b7b8deeee0513f39049421f3",
+        "raw_file": "auckland-ug-257-91.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/physiology/undergraduate.html",
+        "sha256": "8ae1be4575d9246b750cbaa82a4ca76bef2f39731f63d73f1da4f2df68472bc7",
+        "raw_file": "auckland-ug-419-59.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/academic-english-studies/undergraduate.html",
+        "sha256": "a27bf94f184bba553930174b45b41688d55bf4223796b2ab35c639bdaacc5b7d",
+        "raw_file": "auckland-ug-039-14.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/food-science/undergraduate.html",
+        "sha256": "af7a46f1563e428fdc8f5f3fd9ad454d35b3aecf8345e88f1001b61e8345ad51",
+        "raw_file": "auckland-ug-315-84.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/mathematics/undergraduate.html",
+        "sha256": "2a05018e6fe21e97777f185a5eac3a44a1f6f280177dc6defd2178224dcda3d6",
+        "raw_file": "auckland-ug-381-83.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/tesol/undergraduate.html",
+        "sha256": "77de795b83f962f63f26a55c03737f8a9032bce5efbf4577060732ec5e75b650",
+        "raw_file": "auckland-ug-450-98.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/engineering-science/undergraduate.html",
+        "sha256": "920081d3c8a4654ed5dcd81aa0e55507d711b7636c62d2878602496fb2144c1d",
+        "raw_file": "auckland-ug-300-52.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/statistics/undergraduate.html",
+        "sha256": "692fa894c737cff434a6112a055a2bdd83c04aa9f349868d61e2ce4740053b76",
+        "raw_file": "auckland-ug-442-66.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/international-business/undergraduate.html",
+        "sha256": "e3d8bb7cc025c95d2ebfc8ef64867ffc2ccbf7450d06bf5cac85534e295c8bbe",
+        "raw_file": "auckland-ug-356-63.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/media-film-and-television/undergraduate.html",
+        "sha256": "00e4e878046799b7e12c742641118f28675dd8ce351f97b2d307791c4d4642a9",
+        "raw_file": "auckland-ug-385-42.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/german/undergraduate.html",
+        "sha256": "2f0f51f201a29ee6e1852eebf64999e96baaf01af6fc9999e805be896311031b",
+        "raw_file": "auckland-ug-325-102.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/korean/undergraduate.html",
+        "sha256": "8ec44dcd2e96fe7a429276ce44827b3ffbca987db88ec5152b5417877662b1d1",
+        "raw_file": "auckland-ug-068-21.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/engineering/current-students/undergraduate.html",
+        "sha256": "3bc2d5987d3b85555f108aa9401e5508a1ab334bb4a94b70f96b01e326930a28",
+        "raw_file": "auckland-ug-015-13.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/japanese/undergraduate.html",
+        "sha256": "b66cae1b14da28459caed2518d188153c62e6cb9c6cf16534dd8fb3c24a6de91",
+        "raw_file": "auckland-ug-361-55.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/green-chemical-science/undergraduate.html",
+        "sha256": "6dd8ed980f8895b520b6e96fdd0416b2d23bede5b1c8bde82a7fb94660b08fa8",
+        "raw_file": "auckland-ug-332-88.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/drama/undergraduate.html",
+        "sha256": "875f4f4b64ba46d56457f2497b9bfcab21814b220a2621975d76522db58b9f43",
+        "raw_file": "auckland-ug-291-67.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/commercial-law/undergraduate.html",
+        "sha256": "e71c5a50187e3e8f6796161ab9c28a921cc005aa303220d8e1ea6b529aa6dfc1",
+        "raw_file": "auckland-ug-267-76.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/french/undergraduate.html",
+        "sha256": "1d663357854c70654eb7493efe12253ee2c031e04d15b3cc0f14f4a6ac2986fe",
+        "raw_file": "auckland-ug-317-61.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/italian/undergraduate.html",
+        "sha256": "e89ee7a9f6327e8a385b263829da91707e21010e928b7d189e89940890063e2b",
+        "raw_file": "auckland-ug-360-58.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/classical-studies-and-ancient-history/undergraduate.html",
+        "sha256": "2cfb660794b0ba54169151c03b0cf8eef3f714d1183ac7968007eca1ffbc5f22",
+        "raw_file": "auckland-ug-261-86.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/primary-teaching/undergraduate.html",
+        "sha256": "9de387dc219d8d7bfa262eab00d8ad1eabb7fac0d72aa706cd0b3333aab13cb3",
+        "raw_file": "auckland-ug-425-44.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/civil-engineering/undergraduate.html",
+        "sha256": "45f0d3b09355fb45725c89004d4dd837b77a79b299152715f3bb9dada50059d1",
+        "raw_file": "auckland-ug-260-101.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/tongan/undergraduate.html",
+        "sha256": "a2e8c237833c4425b2b3fa7c8d36fbad84ffd2e25b9db068cb598592b430712a",
+        "raw_file": "auckland-ug-075-18.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/nutrition/undergraduate.html",
+        "sha256": "ef22fd7b96aa141c6de1aff2b06fd5b3c551dc21ca5dee153064e744f4818e3b",
+        "raw_file": "auckland-ug-070-3.html"
+      },
+      {
+        "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/songcraft-and-music-production/undergraduate.html",
+        "sha256": "34a7532c512fa6a17867ab36e077c0de714d69068f07b95cdc77162889be670b",
+        "raw_file": "auckland-ug-282-94.html"
+      }
+    ],
+    "exclusions": "排除 183 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [
+      {
+        "name": "Certificate in Health Sciences",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Certificate in Languages",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Certificate of Proficiency",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Diploma in Languages",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Doctor of Clinical Psychology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Doctor of Education",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Doctor of Fine Arts",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Doctor of Health Sciences",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Doctor of Philosophy",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Certificate in Law",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Applied Psychology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Architectural Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Arts",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Commerce",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Engineering Project Management",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Law",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Music",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Teaching (Early Childhood Education)",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Teaching (Māori-Medium)",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Teaching (Primary)",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Graduate Diploma in Teaching (Secondary)",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Aerospace Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Applied Finance",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Architecture",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Architecture (Professional)",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Architecture (Professional) and Urban Design",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Architecture (Professional) and Urban Planning (Professional)",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Artificial Intelligence",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Arts",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Audiology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Behaviour Analysis",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Biomedical Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Bioscience Enterprise",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Biotechnology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Business Administration",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Business Analytics",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Business Management",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Chemistry",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Civil Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Clinical Education",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Clinical Exercise Physiology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Clinical Pharmacy",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Commerce",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Communication",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Community Dance",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Conflict and Terrorism Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Counselling",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Creative Arts Therapy",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Creative Writing",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Dance Movement Therapy",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Dance Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Data Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Design",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Disaster Management",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Earthquake Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Ecology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Education",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Education Practice",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Educational Leadership",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Energy",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Engineering Geology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Engineering Management",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Engineering Project Management",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Engineering Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Environmental Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Fine Arts",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Food Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Global Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Health Leadership",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Health Practice",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Health Psychology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Health Sciences",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Indigenous Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Information Governance",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Information Technology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Intellectual Property",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of International Business",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Laws",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Legal Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Literature",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Marine Conservation",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Marine Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Marketing",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Mathematical Modelling",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Medical Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Music",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Nursing",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Nursing Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Nutrition and Dietetics",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Operations Research and Analytics",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Organisational Psychology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Paediatrics",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Physiotherapy Practice",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Professional Accounting",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Professional Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Professional Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Professional Supervision",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Professional Supervision Practice",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Property Practice",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Public Health",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Public Policy",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Robotics and Automation Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Social and Community Leadership",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Social Work",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Social Work (Professional)",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Speech Language Therapy Practice",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Taxation Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Teaching and Learning (Early Childhood)",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Teaching English to Speakers of Other Languages",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Urban Design",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Urban Planning",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Urban Planning (Professional)",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Urban Planning (Professional) and Urban Design",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Master of Wine Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "New Start General",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Aerospace Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Applied Finance",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Business Analytics",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Business Management",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Civil Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Clinical Education",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Clinical Pharmacy",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Data Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Design",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Earthquake Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Education",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Fine Arts",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Geothermal Energy Technology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Health Sciences",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Information Governance",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Information Technology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Intellectual Property",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Law",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Mathematical Modelling",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Medical Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Music",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Operations Research and Analytics",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Paediatrics",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Professional Supervision",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Property Practice",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Robotics and Automation Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Social and Community Leadership",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Certificate in Teaching Linguistically Diverse Learners",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Aerospace Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Applied Psychology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Architecture",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Artificial Intelligence",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Arts",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Biomedical Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Bioscience Enterprise",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Business",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Civil Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Clinical Education",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Clinical Pharmacy",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Clinical Psychology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Counselling Theory",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Dance Studies",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Education",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Educational Leadership",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Fine Arts",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Forensic Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Health Psychology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Health Sciences",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Information Governance",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Language Teaching",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Mathematical Modelling",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Medical Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Music",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Obstetrics and Medical Gynaecology",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Operations Research and Analytics",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Paediatrics",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Professional Supervision",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Public Health",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Robotics and Automation Engineering",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Science",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Social Work",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Postgraduate Diploma in Teaching Linguistically Diverse Learners",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Tertiary Foundation Certificate",
+        "reason": "Not a bachelor degree (postgraduate, diploma, certificate or foundation)"
+      },
+      {
+        "name": "Applied Physics",
+        "reason": "BAdvSci(Hons) new admissions suspended from 2024"
+      },
+      {
+        "name": "Geology",
+        "reason": "BAdvSci(Hons) legacy specialisation; current entry not verified"
+      },
+      {
+        "name": "Latin",
+        "reason": "BA major suspended from 2026"
+      },
+      {
+        "name": "Greek",
+        "reason": "Major no longer available for new enrolments"
+      },
+      {
+        "name": "Italian",
+        "reason": "BA major suspended from 2023; other language courses are not this major"
+      },
+      {
+        "name": "Social Science for Public Health",
+        "reason": "Major no longer available for new enrolments"
+      },
+      {
+        "name": "English Writing",
+        "reason": "Elective courses only"
+      },
+      {
+        "name": "Samoan",
+        "reason": "Elective courses or module, not a major"
+      },
+      {
+        "name": "Latin American Studies",
+        "reason": "Elective courses / component of Spanish major"
+      },
+      {
+        "name": "Comparative Literature",
+        "reason": "Elective courses / component of language or English majors"
+      },
+      {
+        "name": "Humanities",
+        "reason": "Elective courses only"
+      },
+      {
+        "name": "Tongan",
+        "reason": "Elective courses / module, not a major"
+      },
+      {
+        "name": "Academic English Studies",
+        "reason": "Courses; separate Academic English Studies and Linguistics major retained"
+      },
+      {
+        "name": "Early Childhood Education",
+        "reason": "Whole Bachelor of Early Childhood Studies already in degree directory"
+      },
+      {
+        "name": "Teaching",
+        "reason": "General teaching routes; Primary Teaching specialisation separately retained"
+      },
+      {
+        "name": "Undergraduate students",
+        "reason": "Generic faculty entry page, not a named major"
+      }
+    ],
+    "gaps": [
+      "中央137个本科相关subject节点中，有103个链接到独立本科说明（99唯一页面）；其余节点与院系内新方向、2027更名和组合学位内可选主修仍未逐一完全对账。",
+      "BAdvSci(Hons)历史方向已排除新增清单；原独立学位记录的当前招生状态仍须逐项核实。"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option.html",
+      "sha256": "abc3caf49eebcd40c1336db1910f9794340e4dd960883105f942268e3ffc5148",
+      "raw_file": "scratch/full-catalog/root/auckland.html",
+      "bytes": 1178625
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/conjoint-programmes/conjoints-by-faculty.html",
+      "sha256": "4ee36940160128d81fe6363e7fbb75e9177bbc82f92f4a973b3f7f920c4e890c",
+      "raw_file": "scratch/full-catalog/root/auckland-conjoint-faculty.html",
+      "bytes": 252429
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/mechanical-engineering/undergraduate.html",
+      "sha256": "c41d580fc7d63d7c2ea5f2f566d9d6a098ec77ddecf3ef3516eea978ab2eee03",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-383-65.html",
+      "bytes": 239148
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/applied-physics/undergraduate.html",
+      "sha256": "ae65cdb28fcd910b084c25c891eb02cf37e48ecd4ea92b9186d0f00b6e6233b9",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-043-17.html",
+      "bytes": 245603
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music-studies/undergraduate.html",
+      "sha256": "da3e32934f9b80b393e482ecc719ccf2efbb3b783b72ec496c0dec72dc5657a9",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-396-70.html",
+      "bytes": 244795
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chemistry/undergraduate.html",
+      "sha256": "839b7c90fa8a802e04e9a52f86ae16647c48c1eeccd29b36af8ccac8ba8b431c",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-258-43.html",
+      "bytes": 246328
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/sociology/undergraduate.html",
+      "sha256": "5f725680d86403dbf4b9389ccb71ed18a39cb16cf30d459968f6d9bc1179fb07",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-438-53.html",
+      "bytes": 243698
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/operations-supply-chain-management/undergraduate.html",
+      "sha256": "f4212fe3a8b62216c26742a6ea2add330b0f5106553baf3f88a925a41f0ea4a5",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-402-50.html",
+      "bytes": 240177
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/management/undergraduate.html",
+      "sha256": "284ef73012b2234ffbd10a2d9fc1e5e9850f3418824602a39eff46fc9c1d90de",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-374-79.html",
+      "bytes": 239752
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/classical-performance/undergraduate.html",
+      "sha256": "cd08e8515fb1f91b28d490f925a67129a2503bd0a96df0b7e8c1e9b560ff2efc",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-025-23.html",
+      "bytes": 245803
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/european-studies/undergraduate.html",
+      "sha256": "69247e35a789641f42feabff8ccac4677ace2e0b5d1e354d6aaae9f6469b6048",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-058-11.html",
+      "bytes": 243856
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/maori-studies/undergraduate.html",
+      "sha256": "4c2a7e1b7b37c204a7fcd6f1c77671483948f456c8a6db856902c3d2fc8d59da",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-002-15.html",
+      "bytes": 243093
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/social-science-for-public-health/undergraduate.html",
+      "sha256": "863d97af8f7be18cba1b069b7e2ac675a6e83115b2cdb73ff2c0ee7ce14599a5",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-073-25.html",
+      "bytes": 238552
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/linguistics/undergraduate.html",
+      "sha256": "277559842091848116446abc6cafcd1cbd41ab9f789d77c428ac9c4b46bda830",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-369-95.html",
+      "bytes": 241579
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/environmental-science/undergraduate.html",
+      "sha256": "e7da720d4ab8cbef901c167cd477be3d3e34ea21ab8634d1a5fb27044db555b2",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-308-85.html",
+      "bytes": 245934
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/earth-sciences/undergraduate.html",
+      "sha256": "b68d6cfcaf9d93e3b178ff70e0de2a1fe43996e9b710278ba77b7428c37875cb",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-293-81.html",
+      "bytes": 246730
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-systems-engineering/undergraduate.html",
+      "sha256": "bdb6b0d8a32542e487ac0098691e0079f4e079c1a453733a2427b1e6a3761086",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-275-28.html",
+      "bytes": 241071
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/biomedical-engineering/undergraduate.html",
+      "sha256": "3da1bdad521d61e65e14a78dd3fc3971704c232b125d26c58d267965c633f078",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-046-1.html",
+      "bytes": 238783
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/art-history/undergraduate.html",
+      "sha256": "acf281737d91de1f885742a6dab381ee080b0be5f75f0651e7f61fe49e638185",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-237-100.html",
+      "bytes": 242939
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/latin/undergraduate.html",
+      "sha256": "101366236d138e553ac5e7a4388d9d8d395108201be46226d8c9beb21ff6ddf8",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-365-87.html",
+      "bytes": 238366
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/pharmacology/undergraduate.html",
+      "sha256": "6800fcf45e79d672bf810ce14a642a8dcb3fc01e05934c2c0461328f20820ab8",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-413-41.html",
+      "bytes": 246402
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/anthropology/undergraduate.html",
+      "sha256": "b6f6b07aa66c8ff5b575290a962ac083958b5f63cf01fdc7ecbcf8ac90a5bdcc",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-231-78.html",
+      "bytes": 244514
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/marine-science/undergraduate.html",
+      "sha256": "e0d6950620048130b44b494779377c794b733c997a2b86f59ee0f8b2f76e3d72",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-379-71.html",
+      "bytes": 248780
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/education/undergraduate.html",
+      "sha256": "da9925ac0fe727e2ff083c21cc086a03a7c25854348b67f77a83ddf532d4e1ee",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-296-31.html",
+      "bytes": 243449
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/geology/undergraduate.html",
+      "sha256": "501ba5dc8d6f6400578071ac8ff153f2a92b33f2931e4f076710caf07ee947ef",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-323-80.html",
+      "bytes": 240445
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/history/undergraduate.html",
+      "sha256": "0702b7139f4ea9cae09c2f173ac9596ee1ffe97bb5571b1280b8c0c24cba3433",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-343-68.html",
+      "bytes": 242898
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/academic-english-studies-and-linguistics/undergraduate.html",
+      "sha256": "f12100da5316f395c4e517ee9a548de4a245fc4b7b7c799df9a2571f60bfeea4",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-001-6.html",
+      "bytes": 239554
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/philosophy/undergraduate.html",
+      "sha256": "b62545b81978fed71d6093e501c85ba72a5a9487b124f7b3e5c26a3b08f61f1c",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-415-64.html",
+      "bytes": 243227
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/taxation/undergraduate.html",
+      "sha256": "4ceca6a78819ef0bf648cb33d663afc79ee947f3b30ef2db8e38e75e5b04b8d8",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-448-48.html",
+      "bytes": 240684
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/human-resources-management/undergraduate.html",
+      "sha256": "4659c66088abd6ed4478e606acda90038eeabe2763166665f829adb2c71a15ca",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-005-20.html",
+      "bytes": 244006
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/medicinal-chemistry/undergraduate.html",
+      "sha256": "03afbaaac67034f443f1a73ae8de3129e799d61fe3c70d69c7ae99defd497348",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-389-45.html",
+      "bytes": 244405
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/english-writing/undergraduate.html",
+      "sha256": "3adae278fecb25d035e945d3cc8591e99af7223e392b0c7064bd18f3b1c1c8e3",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-056-7.html",
+      "bytes": 237229
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/international-relations-and-business/undergraduate.html",
+      "sha256": "fc27cb73b9dba71216dacef23c4f174bc4a9a1e3eb9e2417fa3eb8df2dcb3113",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-067-4.html",
+      "bytes": 244912
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/communication/undergraduate.html",
+      "sha256": "8d3b328ba4d8adf8506f077137e36056d1a303b2319e1ed19d250a667331314d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-050-0.html",
+      "bytes": 244500
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/data-science/undergraduate.html",
+      "sha256": "aea991127907084c59d4a9839a65c87491f83b6a67c4393c2b32748af6ab6849",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-286-51.html",
+      "bytes": 244205
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/marketing/undergraduate.html",
+      "sha256": "ca09fa27138e2456fa267f1277a3dd55c6c5c0a1e78a0b33089200974c1e950f",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-380-72.html",
+      "bytes": 242676
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/samoan/undergraduate.html",
+      "sha256": "43961fe70a5e3dfc5b7b2762e944f162c8bdbb21d362cdf2ddd2c2985602d790",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-072-22.html",
+      "bytes": 238202
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/anthropological-science/undergraduate.html",
+      "sha256": "acf4edb3b01a5554fa7622a91dfcbe04471e2321ef8ce64ccf7d82973281b434",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-041-9.html",
+      "bytes": 245177
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/asian-studies/undergraduate.html",
+      "sha256": "d6f177dcf96d9d95578d9873b5e6d134c86fb870cf56b39117e2ef1ed996deba",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-238-34.html",
+      "bytes": 244140
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/early-childhood-education/undergraduate.html",
+      "sha256": "4e76a66613dd75d494015f688a11b8a2547fd5e959e2144adc3d21e53794ba8d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-292-73.html",
+      "bytes": 241434
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/accounting/undergraduate.html",
+      "sha256": "3bd24a70e24c7afcc0a6f9ddcf03fa887726d596198e88f39c37f4f2d7e4d676",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-224-56.html",
+      "bytes": 240714
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/pacific-studies/undergraduate.html",
+      "sha256": "c1901cf2baa1d6e963b9c1a1df0c812986b6e006b48e867d95e2291e187ba71b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-407-97.html",
+      "bytes": 243711
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/politics-and-international-relations/undergraduate.html",
+      "sha256": "355ac20abf8faa01a08fe8945a7584f4cb6a9bb4ad652b73215440736be0da1c",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-420-75.html",
+      "bytes": 242768
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/latin-american-studies/undergraduate.html",
+      "sha256": "83fd1438746eebbf481266c0ce694dbeccb79ddf59589d6ea62b61f7cddadbb0",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-069-26.html",
+      "bytes": 236960
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/structural-engineering/undergraduate.html",
+      "sha256": "21994c24f4ed7d17543725ab68b124269ec92bf04ffb90ecb0f97a9755a4ed41",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-074-12.html",
+      "bytes": 239265
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/logic-computation/undergraduate.html",
+      "sha256": "3a798e9140f0509325ecf18189d24a7f2b9c1dcc8259f492e0b8b4b7c195d5c1",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-371-29.html",
+      "bytes": 248885
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-technology-management/undergraduate.html",
+      "sha256": "214d0c8a1c8d0ad6c16f85b6cff0881a8c120b64f805492cdae96f256df87e79",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-351-36.html",
+      "bytes": 245463
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/music/undergraduate.html",
+      "sha256": "318eeec09813660211124d83768013eefd7b80db10c190e2ce4968033bfe7ce5",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-394-49.html",
+      "bytes": 239631
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/comparative-literature/undergraduate.html",
+      "sha256": "1af74440c1626b4917c54b2866834989013991a9b42ee56d8936e32ab4fb1fea",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-055-16.html",
+      "bytes": 238236
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/geographic-information-science/undergraduate.html",
+      "sha256": "36dd45091efec2f518d71c76cbc89302d064875ea3a7a1c75c5a3dd75fdb6c35",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-059-19.html",
+      "bytes": 244117
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/software-engineering/undergraduate.html",
+      "sha256": "17a4759d462cbdd83cf8a5ca067f6588e0e960e2fba3f30b156f9c229d24439d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-439-60.html",
+      "bytes": 239186
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/theological-and-religious-studies/undergraduate.html",
+      "sha256": "db26201edcbec85056b60b4db474892821b8e590e0a7ceae956983a3fddc2371",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-451-93.html",
+      "bytes": 243468
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/greek/undergraduate.html",
+      "sha256": "59e0657379c7e482f873a4b802b3dc6b267282bdc0bb3b511b90d536a8442550",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-331-46.html",
+      "bytes": 241157
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/jazz-performance/undergraduate.html",
+      "sha256": "d92325dbb4079ebb95e2475202be250c74835f8f00514de557ee085e9e52900e",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-281-40.html",
+      "bytes": 245837
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/global-environment-and-sustainable-development/undergraduate.html",
+      "sha256": "6fdf49bcfd326c23b8a39de048155a7a4ccc9e186ef47277b194f9a657e1b009",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-060-5.html",
+      "bytes": 247998
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/humanities/undergraduate.html",
+      "sha256": "6edb8b0a7c6ce8b80d39d5d17f0770df3e0958a6202b3e7131c6c4a7b7b44e44",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-065-24.html",
+      "bytes": 238075
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/mechatronics-engineering/undergraduate.html",
+      "sha256": "a550ea9f65946c2a3fe85f3fa450b78b49accb2b11e6a647130a9aabda0903d6",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-384-33.html",
+      "bytes": 239213
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/employment-relations-and-organisation-studies/undergraduate.html",
+      "sha256": "996be4c6e9ed26baa55955b71fcd6e223e66930a98d412c3a35e50cc37fb54c5",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-299-99.html",
+      "bytes": 241211
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/psychology/undergraduate.html",
+      "sha256": "db50638b5f4be96322aa01faab987a0eb36841f66505b222e29da7f5f6e9e72b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-428-37.html",
+      "bytes": 252400
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/innovation-entrepreneurship/undergraduate.html",
+      "sha256": "edc91729d41abb60ef77520cd8bd92d62dd92585d7a887f3c031162dbdf9dc17",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-066-2.html",
+      "bytes": 239744
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/english/undergraduate.html",
+      "sha256": "9c2266c47b6b7580c7d21e7f77e81a9e8299f470a22b673f18989821603e11fc",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-301-62.html",
+      "bytes": 244575
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/teaching/undergraduate.html",
+      "sha256": "66934055281b75544213ec2aee6247af0629888646f4644ffa7c8ed3ef9908d3",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-449-27.html",
+      "bytes": 236033
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/information-systems/undergraduate.html",
+      "sha256": "46f26b62edfec2e8d44592dd7d2ccd4cde9580ed209067ccec772ba1c13f3e87",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-353-92.html",
+      "bytes": 241086
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/economics/undergraduate.html",
+      "sha256": "540cafeaa942568ac403be597e8efa1e4536998f5169af065db3ac3183651da2",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-295-96.html",
+      "bytes": 242056
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/exercise-sciences/undergraduate.html",
+      "sha256": "4c000bddbce0930339213adc3a2c81ba8a0fffaf7cdca492d13f0dfad269ab9d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-310-38.html",
+      "bytes": 247156
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/gender-studies/undergraduate.html",
+      "sha256": "22440c2e381b7f22d799611d56e2a9a40225085d8aa639a16427435df4e18493",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-318-74.html",
+      "bytes": 243496
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chinese/undergraduate.html",
+      "sha256": "c209a2b6f8f5beb9babaec5431399bf2b55bbfaab578f67b94fc9182dba8c65d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-259-30.html",
+      "bytes": 246643
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/finance/undergraduate.html",
+      "sha256": "c7f4a84c8bd5f519a3594ba6bd99a7e5d602c691e1b7e1ba0a2ff0d31036e4b0",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-311-39.html",
+      "bytes": 239408
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/global-politics-and-human-rights/undergraduate.html",
+      "sha256": "ffb0a4533472434b3c0503bfbc13ce92173fdf4721fb372d03d6416a8ea7ed0e",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-061-10.html",
+      "bytes": 247561
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/geography/undergraduate.html",
+      "sha256": "dbcc954634279575b74011f3b3012164044adb94620bec7746b61ee2f629f898",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-322-77.html",
+      "bytes": 245517
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/spanish/undergraduate.html",
+      "sha256": "fc6ae2fab6ce556a4172f4febbbd82567d2e3d64c72544d3d1d79adc7afb14ca",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-440-82.html",
+      "bytes": 246436
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/composition/undergraduate.html",
+      "sha256": "649c08d60c7deb923719c759fe2d94cb8fa4385e5358be704e7df3e06d7d932e",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-279-32.html",
+      "bytes": 241659
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/electrical-electronic-engineering/undergraduate.html",
+      "sha256": "d7cd2e9bb853ee78665df9acf516664eb954c160f8530896d7cb76a8c61c139f",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-298-89.html",
+      "bytes": 239248
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/criminology/undergraduate.html",
+      "sha256": "dc0f5fb0baaedb6615c93eb28d36cc3ebd5d70dd23d9b62bb56eafb808d6ffe7",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-284-69.html",
+      "bytes": 243279
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science/undergraduate.html",
+      "sha256": "cf7db2a623e795895c683532d3e87cabc8c3964f66e6c744d872073f0deec4dd",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-274-47.html",
+      "bytes": 247589
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/physics/undergraduate.html",
+      "sha256": "29668dd9ef6169214fa7da7b6e0fdcee9245bc1772c239c839cd3e5b47d96465",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-418-54.html",
+      "bytes": 252442
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/chemical-materials-engineering/undergraduate.html",
+      "sha256": "961b3fb93ff0283b76b1a9e492dae6102da42ab4b7b8deeee0513f39049421f3",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-257-91.html",
+      "bytes": 239861
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/physiology/undergraduate.html",
+      "sha256": "8ae1be4575d9246b750cbaa82a4ca76bef2f39731f63d73f1da4f2df68472bc7",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-419-59.html",
+      "bytes": 246012
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/academic-english-studies/undergraduate.html",
+      "sha256": "a27bf94f184bba553930174b45b41688d55bf4223796b2ab35c639bdaacc5b7d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-039-14.html",
+      "bytes": 238243
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/food-science/undergraduate.html",
+      "sha256": "af7a46f1563e428fdc8f5f3fd9ad454d35b3aecf8345e88f1001b61e8345ad51",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-315-84.html",
+      "bytes": 239604
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/mathematics/undergraduate.html",
+      "sha256": "2a05018e6fe21e97777f185a5eac3a44a1f6f280177dc6defd2178224dcda3d6",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-381-83.html",
+      "bytes": 250440
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/tesol/undergraduate.html",
+      "sha256": "77de795b83f962f63f26a55c03737f8a9032bce5efbf4577060732ec5e75b650",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-450-98.html",
+      "bytes": 241285
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/engineering-science/undergraduate.html",
+      "sha256": "920081d3c8a4654ed5dcd81aa0e55507d711b7636c62d2878602496fb2144c1d",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-300-52.html",
+      "bytes": 239195
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/statistics/undergraduate.html",
+      "sha256": "692fa894c737cff434a6112a055a2bdd83c04aa9f349868d61e2ce4740053b76",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-442-66.html",
+      "bytes": 250780
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/international-business/undergraduate.html",
+      "sha256": "e3d8bb7cc025c95d2ebfc8ef64867ffc2ccbf7450d06bf5cac85534e295c8bbe",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-356-63.html",
+      "bytes": 239720
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/media-film-and-television/undergraduate.html",
+      "sha256": "00e4e878046799b7e12c742641118f28675dd8ce351f97b2d307791c4d4642a9",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-385-42.html",
+      "bytes": 243562
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/german/undergraduate.html",
+      "sha256": "2f0f51f201a29ee6e1852eebf64999e96baaf01af6fc9999e805be896311031b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-325-102.html",
+      "bytes": 244799
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/korean/undergraduate.html",
+      "sha256": "8ec44dcd2e96fe7a429276ce44827b3ffbca987db88ec5152b5417877662b1d1",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-068-21.html",
+      "bytes": 244879
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/engineering/current-students/undergraduate.html",
+      "sha256": "3bc2d5987d3b85555f108aa9401e5508a1ab334bb4a94b70f96b01e326930a28",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-015-13.html",
+      "bytes": 307512
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/japanese/undergraduate.html",
+      "sha256": "b66cae1b14da28459caed2518d188153c62e6cb9c6cf16534dd8fb3c24a6de91",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-361-55.html",
+      "bytes": 245570
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/green-chemical-science/undergraduate.html",
+      "sha256": "6dd8ed980f8895b520b6e96fdd0416b2d23bede5b1c8bde82a7fb94660b08fa8",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-332-88.html",
+      "bytes": 244779
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/drama/undergraduate.html",
+      "sha256": "875f4f4b64ba46d56457f2497b9bfcab21814b220a2621975d76522db58b9f43",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-291-67.html",
+      "bytes": 244047
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/commercial-law/undergraduate.html",
+      "sha256": "e71c5a50187e3e8f6796161ab9c28a921cc005aa303220d8e1ea6b529aa6dfc1",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-267-76.html",
+      "bytes": 244281
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/french/undergraduate.html",
+      "sha256": "1d663357854c70654eb7493efe12253ee2c031e04d15b3cc0f14f4a6ac2986fe",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-317-61.html",
+      "bytes": 246452
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/italian/undergraduate.html",
+      "sha256": "e89ee7a9f6327e8a385b263829da91707e21010e928b7d189e89940890063e2b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-360-58.html",
+      "bytes": 241358
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/classical-studies-and-ancient-history/undergraduate.html",
+      "sha256": "2cfb660794b0ba54169151c03b0cf8eef3f714d1183ac7968007eca1ffbc5f22",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-261-86.html",
+      "bytes": 244709
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/primary-teaching/undergraduate.html",
+      "sha256": "9de387dc219d8d7bfa262eab00d8ad1eabb7fac0d72aa706cd0b3333aab13cb3",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-425-44.html",
+      "bytes": 245981
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/civil-engineering/undergraduate.html",
+      "sha256": "45f0d3b09355fb45725c89004d4dd837b77a79b299152715f3bb9dada50059d1",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-260-101.html",
+      "bytes": 240024
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/tongan/undergraduate.html",
+      "sha256": "a2e8c237833c4425b2b3fa7c8d36fbad84ffd2e25b9db068cb598592b430712a",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-075-18.html",
+      "bytes": 238164
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/nutrition/undergraduate.html",
+      "sha256": "ef22fd7b96aa141c6de1aff2b06fd5b3c551dc21ca5dee153064e744f4818e3b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-070-3.html",
+      "bytes": 242878
+    },
+    {
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/songcraft-and-music-production/undergraduate.html",
+      "sha256": "34a7532c512fa6a17867ab36e077c0de714d69068f07b95cdc77162889be670b",
+      "raw_file": "scratch/full-catalog/root/auckland-ug-282-94.html",
+      "bytes": 241381
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.bristol.ac.uk/study/undergraduate/search/",
+    "official_total": 270,
+    "page_evidence": [
+      {
+        "endpoint": "https://api.cludo.com/api/v3/2541/12211/search",
+        "page": 1,
+        "perPage": 500,
+        "filters": {
+          "Category": [
+            "Undergraduate"
+          ],
+          "StudyLevel": [
+            "Undergraduate"
+          ],
+          "StudyYear": [
+            "2027"
+          ]
+        },
+        "returned": 270,
+        "total": 270
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "completeness_scope": "Full 2027 undergraduate result set from the official directory public search API (same customer, engine, category and level as its client).",
+    "filter_rules": [
+      "Year 2027 only; undergraduate category and study level; all subjects/modes",
+      "Canonical Url and official ProgrammeTitle, not mixed SEO Title field",
+      "Keep official independent placement/abroad/integrated-degree entries"
+    ],
+    "unresolved": [
+      "Directory presence is not proof applications remain open; source_study_options preserved for later eligibility/route classification."
+    ],
+    "raw_artifacts": [
+      "bristol/raw/directory-0.meta.json",
+      "bristol/raw/directory-api.meta.json",
+      "bristol/raw/search-js.meta.json",
+      "bristol/raw/vendor-js.meta.json"
+    ],
+    "university_id": "bristol",
+    "count": 270,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.bristol.ac.uk/assets/ug-programme-search/v1.0.9/chunk-vendors.js",
+      "sha256": "a8be7a5aa9f5b72c747db4b35a60294be292ec16c7104a7b6eb0cefeff5e9be1",
+      "bytes": 258546,
+      "raw_file": "scratch/full-catalog/uk/bristol/raw/vendor-js.html",
+      "meta_file": "scratch/full-catalog/uk/bristol/raw/vendor-js.meta.json"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/search/",
+      "sha256": "0b3fb52ef774a6f8094c2f2da4a5afcc889370ffae3a7a400fb968ad6b60d16e",
+      "bytes": 71847,
+      "raw_file": "scratch/full-catalog/uk/bristol/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/bristol/raw/directory-0.meta.json"
+    },
+    {
+      "url": "https://api.cludo.com/api/v3/2541/12211/search",
+      "sha256": "5e2bf1d3bcbfa3bade44003b7f0759249cdbac6bd9ba4180381b53d11868267c",
+      "bytes": 2389433,
+      "raw_file": "scratch/full-catalog/uk/bristol/raw/directory-api.json",
+      "meta_file": "scratch/full-catalog/uk/bristol/raw/directory-api.meta.json"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/assets/ug-programme-search/v1.0.9/app.js",
+      "sha256": "d58434b66994d9d7bdd4bd0671f2aadec32d88d7bae5c191c0abe0f5b7d9f83e",
+      "bytes": 17778,
+      "raw_file": "scratch/full-catalog/uk/bristol/raw/search-js.html",
+      "meta_file": "scratch/full-catalog/uk/bristol/raw/search-js.meta.json"
+    }
+  ]
+}

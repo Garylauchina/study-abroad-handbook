@@ -1,0 +1,35 @@
+{
+  "university_id": "uts",
+  "sources": [
+    {
+      "url": "https://www.uts.edu.au/for-students/international/guides-for-international-students/contentassets/utsi-listing-grid-international-undergraduate-course-summary-table-china.pdf",
+      "sha256": "f825732592d4b22eff330d5c64259e558cb1f75d35ebd9670ea6da6cee12ddef",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uts/ug-china-table.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/eligibility/english-language-requirements",
+      "sha256": "a564f26b1fbd1593a626474fe47e661db7b279404a3ff39cde7fe9e83290cf63",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uts/english.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/how-to-apply/international-applicants",
+      "sha256": "8856dd3830356c697a939265f77b236029cfda6a2a08e9719231d23b79b93dd3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uts/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.uts.edu.au/for-students/admissions-entry/fees-costs/international-fees",
+      "sha256": "d4092771a7dbf654ddff13c5bba05e4b0799fc1f946d8e8c22907a7ee1e3289b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uts/fees.html",
+      "locator": null
+    },
+    {
+      "url": "https://coursehandbook.uts.edu.au/course/2027/C10235",
+      "sha256": "4b0bdf333f94b3e66c95b3d5f64ea1ba329220e5c77e1b90934eb2658bd5d062",
+      "raw_file": "scratch/full-catalog/australia-enrichment/uts/detail-C10235.html",
+      "locator": null
+    }
+  ]
+}

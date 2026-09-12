@@ -1,0 +1,167 @@
+{
+  "university_id": "ucl",
+  "sources": [
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/guidance-international-applicants",
+      "sha256": "e73c1dbce4127ad628d4f5f58ecfb36f588fae91abe4ff795f1bfa550ccb0d0f",
+      "raw_file": "scratch/full-catalog/uk-enrichment/ucl/raw/international-dom.html",
+      "locator": "Entry requirements"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/english-language-requirements",
+      "sha256": "19d5b3351d29dc4d9b8848b09a660f836dad57d93158a67d5d07496cff4c91f3",
+      "raw_file": "scratch/full-catalog/uk-enrichment/ucl/raw/english-dom.html",
+      "locator": "IELTS Academic"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=0",
+      "sha256": "242e796ed27f8042e9c033e3efa80a4e126d0ea7fb4cbc4744742639690ca6e6",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-0.html",
+      "locator": "Y0Y3"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=1",
+      "sha256": "4eb2c5671d7f0a182d122c7b507ac6d3eab29c0eb5049cbb667e1d14f688852e",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-1.html",
+      "locator": "R7BD"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=2",
+      "sha256": "aa9dc7124733c58f00c890d088c8ab59ef799817f862ab54f3f61b2e7abe474a",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-2.html",
+      "locator": "UMSPHS00013A"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=3",
+      "sha256": "6932500c9e3c0d045bfcbf73a0b4d951dfe3f085f4739c1e08297f7a9e4c837e",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-3.html",
+      "locator": "G400"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=4",
+      "sha256": "7c7a639967e5830a7f493d182bfcee53a319c33ff7a1b90f6a5a84377cc1e1b8",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-4.html",
+      "locator": "R7CR"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=5",
+      "sha256": "db0042d29827d9f4d013839bb87582c3106217a6ea17ae0082611d244b4a2c15",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-5.html",
+      "locator": "R6DY"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=6",
+      "sha256": "e474152cd2eed001aa5725d0885fd9e3047d377aa8cdabb117ec850bbe0b5f99",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-6.html",
+      "locator": "R9R4"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=7",
+      "sha256": "69eddabc5b65e167c36c2a0b1ca9f8c8d8d79f5bd750046e716e9d8bd7963b30",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-7.html",
+      "locator": "F644"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=8",
+      "sha256": "9bdd8ead863a141a139f493932ac7e95e3eb7e567f6a4e9cdd7f10bd20431b6b",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-8.html",
+      "locator": "R6SI"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=9",
+      "sha256": "8caba6f617e5c38ff2076f99fc5c0c49913d79a5c6b5b0681e5eae5534fa97fa",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-9.html",
+      "locator": "R1R4"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=10",
+      "sha256": "9f2dec6a45468f3e7ed70c5ed80ddc3f1bf7a64d0ca2a4db2592d1c9feffcd18",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-10.html",
+      "locator": "R2Q6"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=11",
+      "sha256": "7634db4954a90b64b66aa1a792fe9e8dd29c12ac499c0a6f9443e1d729f00660",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-11.html",
+      "locator": "Q4R8"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=12",
+      "sha256": "97d55b61c4c300a61b829f6452ab9accde4f11da5530a01b30465ced1d80cd16",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-12.html",
+      "locator": "R783"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=13",
+      "sha256": "9b7170712bf3db63610d25fb9a06920c0d044451abc007397139ba00e8cbea4b",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-13.html",
+      "locator": "R3Q6"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=14",
+      "sha256": "e4698c0ac764bb3099340192463f8f0ff0f6c994b08610acc8c0c59783f2f4c2",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-14.html",
+      "locator": "Q101"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=15",
+      "sha256": "35bc3de5c98847918beef200319841689594593765423a472e878ca798dcce17",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-15.html",
+      "locator": "UMNENG00091A"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=16",
+      "sha256": "1a7e4c0f508542fc07fa876d1c027a2787f93ba4c8e593a602d9ca9d5ace9b52",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-16.html",
+      "locator": "UBSLIF00061A"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=17",
+      "sha256": "46dd2e5117432a6ad9de58977e6b50ffd88fbe02772407ecb1154151e4df98a5",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-17.html",
+      "locator": "R6PY"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=18",
+      "sha256": "5b9bd2b4f289e7436dbe547480491cd9fee8323026b7e2643b66edb234eb251b",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-18.html",
+      "locator": "R7RC"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=19",
+      "sha256": "53417a257099d97e75d5cd005224c4c1575e086cce7865efefc871d11bff1844",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-19.html",
+      "locator": "B191"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=20",
+      "sha256": "ef18ae5ce16146d9bdacc37c1ffd1e0e351def4a531932962edb5dd948541746",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-20.html",
+      "locator": "R4R9"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=21",
+      "sha256": "e83a45d1a56c7a6bae20117844a08f6696f0585319f8b7dfbe79c5e39649da09",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-21.html",
+      "locator": "R691"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses?page=22",
+      "sha256": "3aa18e91912575c723ba6a4f0fa8f05b013b9d0c778255a992a91e8b56b9cc5c",
+      "raw_file": "scratch/full-catalog/uk/ucl/raw/directory-22.html",
+      "locator": "X313"
+    }
+  ]
+}

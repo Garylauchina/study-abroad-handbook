@@ -1,0 +1,497 @@
+{
+  "original_manifest": {
+    "university_id": "sorbonne",
+    "status": "partial",
+    "count": 159,
+    "official_total": {
+      "Lettres_all_levels": 214,
+      "Lettres_undergraduate_programme_cards": 89,
+      "Science_licence_mentions": 8,
+      "Science_double_licences": 16,
+      "Science_professional_licences": 7
+    },
+    "discovery_source_url": "https://formations-lettres.sorbonne-universite.fr/fr/catalogue-2025-2029.html",
+    "source_period": "Lettres 2025-2029; current Science pages; source-specific Health years",
+    "scope": "Lettres full bachelor-level catalogue cards, Science eight mentions and named double/intensive/apprenticeship/professional routes, health first-cycle/grade-licence programmes.",
+    "pagination_evidence": "Lettres all22 pages of public search service fetched;214 unique cards exactly reconcile all diploma facets. Included37 Licence+30 Double licence+8 LAS+8 Majeure/mineure+3 LP+3 undergraduate double diploma=89. Science full licence tree and8 disciplinary pages read;16 science-science doubles,7 professional licences and all named intensive/apprenticeship indexes read. Health overview and all listed paramedical/university-affiliated branch pages read.",
+    "filter_rules": "Exclude Masters, graduate concours preparations, generic DU, standalone minors, individual units. L1–L3 ordinary year pages stored as curriculum_stages under their programme. Merge5 science/humanities joint programme duplicates with Lettres identities. Explicitly identify first-cycle stages; not all entries are independent bachelor awards. Original French titles kept.",
+    "gaps": [
+      "Lettres programme-card inventory is complete; all embedded subtracks under L3 year pages have not yet been separately normalized as programme identities.",
+      "Science eight mentions and explicit indexed routes are covered, but full reconciliation of every intra-major option, all joint-curriculum branches and CMI bachelor-bearing pathways is incomplete. Do not claim whole-university completeness.",
+      "Psychomotricité and Kinésithérapie were read but not assigned a bachelor/grade-licence award without clearer collected evidence. Complete medical/paramedical institutional and cohort-specific award perimeter remains to be reconciled.",
+      "Maïeutique source distinguishes new six-year reform and legacy first-cycle structure. Orthophonie is explicitly a first-cycle stage, with final master-level qualification."
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-17.html",
+      "sha256": "82632ff2a9c24b7f04c45f12b6c2e50ac906e53af678eeb05314e81a74897058",
+      "bytes": 95844,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-17.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-17.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-9.html",
+      "sha256": "e6385fa7f0cc6a5d8b917b6c30b0a5c00404d6b7248e943883afcf252b61dd48",
+      "bytes": 94779,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-9.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-9.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/etudes-paramedicales/psychomotricite",
+      "sha256": "9ab79a80482f4dcac20c66125e4dfa3bd8b6dfefefd5b188c1ba9c7986e239a9",
+      "bytes": 212280,
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-psychomotricite.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/health-psychomotricite.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/resources-minimized/MTM1NzAyMjE5.js",
+      "sha256": "acb3b1ba8eab46ea2b5621ac2291e3d3740d23d9d348fab7db5ac3eac00c0051",
+      "bytes": 221943,
+      "raw_file": "scratch/full-catalog/france/sorbonne/js-fdc1d72bc95d.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/js-fdc1d72bc95d.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-22.html",
+      "sha256": "299d5b03468f7aab162d9edb74f95b4885008871042e8922298cd0330c661590",
+      "bytes": 58908,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-22.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-22.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/formations-universitarisees/kinesitherapie",
+      "sha256": "4d92c31847c1c6391ea1ca2c55d4aa34aa11309175891adfef9b41e4bf96b1bf",
+      "bytes": 185404,
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-kinesitherapie.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/health-kinesitherapie.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-4.html",
+      "sha256": "9fb5781e00b7554805c8c9d9230f0533f3bef0e10029c7ee1a76bc9fd75c27dd",
+      "bytes": 102422,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-4.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-4.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-1",
+      "sha256": "e5991fe414c264f8e1c2f379538ceff4fee54d5f9e7eab048e5f5362f72b32b0",
+      "bytes": 350376,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-1.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-1.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-de",
+      "sha256": "34aec04d041f20ef15676e769bdb483529669a857308c3acb069b304261b56ee",
+      "bytes": 313609,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-de.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-de.meta.json"
+    },
+    {
+      "url": "https://www.sorbonne-universite.fr/formation",
+      "sha256": "49fd0c0537ad47c6f36f1b098eeb3cb13845e378543ffa51446a83e602841273",
+      "bytes": 171894,
+      "raw_file": "scratch/full-catalog/france/sorbonne/index.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/index.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/etudes-paramedicales",
+      "sha256": "85404db97702375b104a48a35c900246d5d649075792a273a0092a91af55e92f",
+      "bytes": 181770,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-etudes-paramedicales.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-etudes-paramedicales.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/sites/default/files/media/2025-06/Sch%C3%A9ma%20Offre%20de%20Formation%2017062025.pdf",
+      "sha256": "4f22ee8b2e53b63223cc1f8ab591caee5a8646f57bb93a00f07ed443f536a4e8",
+      "bytes": 168856,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-Sch%C3%A9ma%20Offre%20de%20Formation%2017062025.pdf.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-Sch%C3%A9ma%20Offre%20de%20Formation%2017062025.pdf.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/ma-licence-enrichie-la-carte-bidisciplinaire-3",
+      "sha256": "2ebe6beebd3db2d74cce4845f82ddbb7cbf51c8cb01671307183b9bfa320a9e0",
+      "bytes": 161928,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-ma-licence-enrichie-la-carte-bidisciplinaire-3.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-ma-licence-enrichie-la-carte-bidisciplinaire-3.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-11.html",
+      "sha256": "cf800aec6b14a71d8b1deef8081bf9306d63caac6f196aef8e0afe317a921225",
+      "bytes": 97611,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-11.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-11.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte",
+      "sha256": "5056557c1d1d65e143fb2b99cf1787b3be64fb694104da8ca1289926df73248e",
+      "bytes": 169306,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-carte.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-carte.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-2.html",
+      "sha256": "a6087a55b705dcfcb4b8768cbff43e1af9954a764e55566953ce828e6130b1f9",
+      "bytes": 96913,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-2.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-2.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/fr/catalogue-2025-2029.html",
+      "sha256": "6145d8415de7151ecdfb070bb3d28871f28d8ced6035329df40d2deb228a9c76",
+      "bytes": 133123,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-catalog.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-catalog.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-16.html",
+      "sha256": "cc24e6e511e1623462a42518a43a6b99c763cdac7a6bed02c694fc538462678f",
+      "bytes": 98951,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-16.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-16.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-8.html",
+      "sha256": "172316ac07b06b6b5dc9742f35ec663b7669320f6b80b3af8909d00c32f8bd52",
+      "bytes": 95774,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-8.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-8.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-0",
+      "sha256": "3430fe42741b6313cb61ec72cfc66bf93f341f8033a078a66d562601af5aa17f",
+      "bytes": 194110,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-0.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-0.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-5.html",
+      "sha256": "d1f6543ad9948f2d0e75ea203b1c81c6264e7f224f11f9c4d746c6a8866cf057",
+      "bytes": 102854,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-5.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-5.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/formations-universitarisees/infirmieres-et-infirmiers-ifsi",
+      "sha256": "d599798a2106b8a3204a244b00d945dd0e637f0ce14af0355e411cbd4f105452",
+      "bytes": 196499,
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-infirmieres-et-infirmiers-ifsi.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/health-infirmieres-et-infirmiers-ifsi.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/formations-universitarisees",
+      "sha256": "e7b798e5a208d2562cbbfeb127ca42cf2553273cc2e20fda26a31a0ea6addc48",
+      "bytes": 187425,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-formations-universitarisees.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-formations-universitarisees.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/resources-minimized/LTEzOTgxNDIyNjI.js",
+      "sha256": "01ffd2702766abf29ded2ee3e823f41de428417be59e143ddfdde78179a70347",
+      "bytes": 10241,
+      "raw_file": "scratch/full-catalog/france/sorbonne/js-5a086b5c892e.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/js-5a086b5c892e.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/les-etudes-de-maieutique",
+      "sha256": "1745bc69039c47604925b6eb797573a86574eea64772e760b3fba5845035bcc4",
+      "bytes": 208805,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-les-etudes-de-maieutique.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-les-etudes-de-maieutique.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations",
+      "sha256": "931ff0bbae58169ba44fd99bcb8fd107168437d128f8fcf1cd036c8e77fdfdb5",
+      "bytes": 194411,
+      "raw_file": "scratch/full-catalog/france/sorbonne/health.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/health.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-10.html",
+      "sha256": "326275563b569b29f7e6bff30906640a7f7635ca519fa9ea623fd95de1cc2f45",
+      "bytes": 92563,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-10.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-10.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/etudes-paramedicales/orthophonie",
+      "sha256": "b207ad0bf3cea4ab8434b742b2cc1236a132a28d65d45ac12f7e321b57762819",
+      "bytes": 237725,
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-orthophonie.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/health-orthophonie.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-3.html",
+      "sha256": "3ca0b99e4a42704152e5cdd0f2231e18688f7f384aa5ff19f25a003a1352a8a6",
+      "bytes": 98884,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-3.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-3.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/licences-intensives-mono",
+      "sha256": "ec9f41c10ead83a5fda5ae3ed518a8e276db3bc822dacc1959ae762d3ca2e1b2",
+      "bytes": 159852,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-licences-intensives-mono.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-licences-intensives-mono.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-20.html",
+      "sha256": "fb16bc12696a7fd79f8e047977adc02fc621320b88917c24bf38e28e23dcd271",
+      "bytes": 100862,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-20.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-20.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/etudes-paramedicales/orthoptie",
+      "sha256": "e10addf6cf00ba2346cf812478f54d288e6f21eccb9bd871b2e6ec0ac9a0e08d",
+      "bytes": 213286,
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-orthoptie.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/health-orthoptie.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-15.html",
+      "sha256": "d1456a9008355ed3ba62f23610ac79c8486e62eb0ecca326366db57da84e8007",
+      "bytes": 96940,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-15.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-15.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/licences-gen-appr-l2-l3",
+      "sha256": "dc2eac5f322f95ee0f03d3b3595e8b2cd81f2652202b00e34944d5859da4b087",
+      "bytes": 173941,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-licences-gen-appr-l2-l3.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-licences-gen-appr-l2-l3.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/resources-minimized/LTIwNzQzMDIwMjU.js",
+      "sha256": "f429c705e653c6ae579ed56931b6a348cf39515592b9f5294b5175b750d90e21",
+      "bytes": 493838,
+      "raw_file": "scratch/full-catalog/france/sorbonne/js-70319cedeb7f.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/js-70319cedeb7f.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licences-generales-l2-l3/licence-sciences-de-la",
+      "sha256": "60ed36bf01aa87441630c0a277d2f58a068d0dbeac7d0db8cbac9406d9469c39",
+      "bytes": 479699,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-sciences-de-la.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-sciences-de-la.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-6.html",
+      "sha256": "eba7bbedabdf7a49a50b0f7f71190729796d734e313dd3d6500f103ebf636579",
+      "bytes": 98624,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-6.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-6.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-18.html",
+      "sha256": "a1578f332731c52635a7f60d4a2cc331783f22cb77af7c58e0e5274b67982f06",
+      "bytes": 94739,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-18.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-18.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/etudes-medicales/pass-et-las",
+      "sha256": "390cca22810bcaf9b46e2a716401b96be4ce1063a3132ea806ccb11fee2b81e9",
+      "bytes": 196782,
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-pass-et-las.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/health-pass-et-las.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-3",
+      "sha256": "b41cbcd022239ad2d7f9455f5beac16a28695c5fde7566c10f78cf39abb688d0",
+      "bytes": 226607,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-3.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-3.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-13.html",
+      "sha256": "33bd5ab4c25be5f67e43def8be4ad9f41dfc5542404bad49a22e91779d4ce765",
+      "bytes": 96089,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-13.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-13.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence",
+      "sha256": "1a3a0f983537a1d5aeed9c5f8c3686faeeec2fde86003d004d97d602a1bc273c",
+      "bytes": 178466,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-les-l2-l3-nos-huit-disciplines-de-licence.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-les-l2-l3-nos-huit-disciplines-de-licence.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/sites/default/files/media/2025-07/mcc_medecine_second_cycle_2025-2026.pdf",
+      "sha256": "6174962949897bdd8b4082deef842f1df131daa277d43f76a31a2805ef98cc67",
+      "bytes": 1253425,
+      "raw_file": "scratch/full-catalog/france/sorbonne/medical-mcc-2025-2026.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/medical-mcc-2025-2026.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte",
+      "sha256": "5056557c1d1d65e143fb2b99cf1787b3be64fb694104da8ca1289926df73248e",
+      "bytes": 169306,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-licence-carte.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-licence-carte.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/resources-minimized/MTQwMDA2ODg1NQ.js",
+      "sha256": "d20dd30dc38a6e35f83ca22af6973e73f7de156586d06a74e125faf83c2a380a",
+      "bytes": 81851,
+      "raw_file": "scratch/full-catalog/france/sorbonne/js-b4d6c4847706.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/js-b4d6c4847706.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/licences-intensives-et-cmi",
+      "sha256": "8e3ee92458681c1acf01e9febce96398f85ac2bb2b45a1c7f6483a2e3eb4e75f",
+      "bytes": 160182,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-licences-intensives-et-cmi.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-licences-intensives-et-cmi.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/doubles-licences-l2-l3",
+      "sha256": "19342411ed428b48742068760c96f650560c9ef2e8d43870d534db80620ca45d",
+      "bytes": 165215,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-doubles-licences-l2-l3.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-doubles-licences-l2-l3.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/formations-universitarisees/ergotherapie",
+      "sha256": "54aaa3cc8585e93e9921f39f9cc9fc9188684fe92525f5d538d8a971fdde698d",
+      "bytes": 187675,
+      "raw_file": "scratch/full-catalog/france/sorbonne/health-ergotherapie.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/health-ergotherapie.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/la-l1-une-annee-dintegration-pluridisciplinaire",
+      "sha256": "6c05b25204d42c525e9c35bf18f7d90dca52331e2cc4cc0712e160dbc50fe160",
+      "bytes": 173100,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-la-l1-une-annee-dintegration-pluridisciplinaire.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-la-l1-une-annee-dintegration-pluridisciplinaire.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-21.html",
+      "sha256": "01986652af4e4cfe3e7768ae69889c96f78d729a5350c08f26fa44e2c3020392",
+      "bytes": 91960,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-21.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-21.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/ma-licence-enrichie-la-carte-bidisciplinaire/entree-en-L1/licence-acces-sante-las",
+      "sha256": "870495f14861c5c9292de77d3f2b3b6365f7b6a6af5d4cc1c5da914aada14a21",
+      "bytes": 168584,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-licence-acces-sante-las.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-licence-acces-sante-las.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-14.html",
+      "sha256": "b763ad952f80c00e6a54c7829f6738d9509f7d5ca927ff0a751f93e7b9ad0b5d",
+      "bytes": 95770,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-14.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-14.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/ma-licence-enrichie-la-carte-bidisciplinaire-6",
+      "sha256": "e369b28cb5d37547db183432bb2ac9a06b76099c6b616553e3a39d782790f9c3",
+      "bytes": 160753,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-ma-licence-enrichie-la-carte-bidisciplinaire-6.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-ma-licence-enrichie-la-carte-bidisciplinaire-6.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences",
+      "sha256": "9588152f22b42b770e0a0ec001d8df6ba93ac419d1f41a571f054d523400806a",
+      "bytes": 162382,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-licences.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-licences.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/resources-minimized/NjQ3NTM2MTQx.js",
+      "sha256": "d0f772663d770a3b4e884dfa2804e493ab35470941d036c60b7577f722a48258",
+      "bytes": 393265,
+      "raw_file": "scratch/full-catalog/france/sorbonne/js-a0c889a4a16c.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/js-a0c889a4a16c.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/sites/default/files/media/2025-11/Sorbonne%20Universit%C3%A9_%20Formation%20Ma%C3%AFeutique%20Fiche%20descriptive.pdf",
+      "sha256": "f01f20d5b7f424a7d4dfe169ef63973ab35c0cebbae3c4ed7fc2a664d8224e8d",
+      "bytes": 323510,
+      "raw_file": "scratch/full-catalog/france/sorbonne/midwifery-first-cycle.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/midwifery-first-cycle.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/double-cursus-licences-schumaines",
+      "sha256": "e81676e0e0af05a93c72633e2e1cf59bd5e3442da6f84dcd432773091170eb69",
+      "bytes": 168767,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-double-cursus-licences-schumaines.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-double-cursus-licences-schumaines.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-2",
+      "sha256": "8b5d7f362d1fd39c692074fb969833cffa1a8b22d1c62d6a726ace8dd70d2af3",
+      "bytes": 207880,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-2.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-2.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/licence-carte/licence-classique-monodisciplinaire-bidisplinaire",
+      "sha256": "77a669b838fe90fd1b900d3b23ce613abb462d319b32f76f56a57b88696c52c4",
+      "bytes": 178250,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-licence-classique-monodisciplinaire-bidisplinaire.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-licence-classique-monodisciplinaire-bidisplinaire.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-7.html",
+      "sha256": "c0f69fa4ac8f934bdbc4aa7205d77cfc0a47cdfb6d92c7479b24868094977552",
+      "bytes": 94278,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-7.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-7.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-19.html",
+      "sha256": "302c9336760557165f2a807f585ab8e9f21de1fa8287fc5ad985e1ba571724ab",
+      "bytes": 96983,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-19.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-19.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence",
+      "sha256": "99110613e2c5307e4272a7a07fd554741c8a149887f3ecf3d813e375cab14bbc",
+      "bytes": 273341,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-degree-licence.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-12.html",
+      "sha256": "eb1671eecba4dfab274d7506062df5ee2d65bde5871795e0602add9d267162d1",
+      "bytes": 93800,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-12.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-12.meta.json"
+    },
+    {
+      "url": "https://sante.sorbonne-universite.fr/formations/etudes-medicales",
+      "sha256": "c364331dde8c4b1d038db0416b04d508acb176c6853380b23454259356c211bf",
+      "bytes": 186010,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-etudes-medicales.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-etudes-medicales.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/les-l2-l3-nos-huit-disciplines-de-licence/licence-4",
+      "sha256": "1ac3fecde3b69e0d4670e097378711fbf1605cb49ff4976163f84b42ec9c9df4",
+      "bytes": 266227,
+      "raw_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-4.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/science-degree-licence-4.meta.json"
+    },
+    {
+      "url": "https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences/licence-carte/sciences-chinois",
+      "sha256": "6ae2a800d015ba8e8dcf5e0addc5204e6f8bac0a3bc7c84256db96342fd52886",
+      "bytes": 178672,
+      "raw_file": "scratch/full-catalog/france/sorbonne/branch-sciences-chinois.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/branch-sciences-chinois.meta.json"
+    },
+    {
+      "url": "https://formations-lettres.sorbonne-universite.fr/_plugins/web/service/search/zoneItem/b5f0a9e5-9283-4d86-9f38-875454e11763/full/_results-page-1.html",
+      "sha256": "01a5e7579b47cac57f3239053ca95ab735d4f64b88ef940d6038ff29c666f5a6",
+      "bytes": 95685,
+      "raw_file": "scratch/full-catalog/france/sorbonne/letters-page-1.html",
+      "meta_file": "scratch/full-catalog/france/sorbonne/letters-page-1.meta.json"
+    }
+  ]
+}

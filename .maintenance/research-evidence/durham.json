@@ -1,0 +1,29 @@
+{
+  "university_id": "durham",
+  "sources": [
+    {
+      "url": "https://duracuk-lb01-production.terminalfour.net/study/international/regional-pages/mainland-china-/",
+      "sha256": "63ef72369ed170ee1af78e1cf34969d280d196ccc09757e7bc89a694533236f6",
+      "raw_file": "scratch/full-catalog/uk-enrichment/durham/raw/china-official-cms.html",
+      "locator": "Undergraduate entry requirements"
+    },
+    {
+      "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
+      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
+      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
+      "locator": "2027 entry application deadlines"
+    },
+    {
+      "url": "https://dur.ac.uk/search/?searchstax[query]=*&searchstax[page]=1&searchstax[facets][0]=tabs:sectiontype_ss:course&searchstax[model]=main%20site",
+      "sha256": "49cda4931f9e65a15ff94cec6a0348720234a2fac51eb07bb90236a22107b0b6",
+      "raw_file": "scratch/full-catalog/uk/durham/raw/directory-search.html",
+      "locator": "https://www.durham.ac.uk/study/courses/chemistry-with-overseas-project-f102/"
+    }
+  ]
+}

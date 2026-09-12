@@ -1,0 +1,110 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://en.snu.ac.kr/academics/programs/undergraduate",
+    "official_total": 15,
+    "official_total_unit": "colleges/schools",
+    "pagination_complete": false,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "faculty": "College of Humanities humanities.snu.ac.kr",
+        "records": 14
+      },
+      {
+        "faculty": "College of Social Sciences social.snu.ac.kr",
+        "records": 9
+      },
+      {
+        "faculty": "College of Natural Sciences science.snu.ac.kr",
+        "records": 7
+      },
+      {
+        "faculty": "College of Agriculture & Life Sciences cals.snu.ac.kr",
+        "records": 16
+      },
+      {
+        "faculty": "College of Business Administration cba.snu.ac.kr",
+        "records": 1
+      },
+      {
+        "faculty": "College of Education edu.snu.ac.kr",
+        "records": 16
+      },
+      {
+        "faculty": "College of Engineering eng.snu.ac.kr",
+        "records": 12
+      },
+      {
+        "faculty": "College of Fine Arts art.snu.ac.kr",
+        "records": 5
+      },
+      {
+        "faculty": "College of Human Ecology che.snu.ac.kr",
+        "records": 4
+      },
+      {
+        "faculty": "College of Medicine medicine.snu.ac.kr",
+        "records": 2
+      },
+      {
+        "faculty": "College of Music music.snu.ac.kr",
+        "records": 7
+      },
+      {
+        "faculty": "College of Nursing nursing.snu.ac.kr",
+        "records": 1
+      },
+      {
+        "faculty": "College of Pharmacy snupharm.snu.ac.kr",
+        "records": 2
+      },
+      {
+        "faculty": "College of Veterinary Medicine vet.snu.ac.kr",
+        "records": 2
+      },
+      {
+        "faculty": "School of Transdisciplinary Innovations snuti.snu.ac.kr",
+        "records": 1
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "English directory has 15 colleges plus interdisciplinary add-on programmes. Medicine/veterinary preliminary and later phases are explicitly retained and not represented as independent full-duration degrees.",
+      "Nested department/major structure and Korean directory need final reconciliation before claiming full enumeration.",
+      "English-taught course links do not establish English-taught whole degrees."
+    ],
+    "raw_artifacts": [
+      "snu/raw/directory-ko.meta.json",
+      "snu/raw/directory.meta.json"
+    ],
+    "university_id": "snu",
+    "count": 99,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 99
+    },
+    "record_type_counts": {
+      "department_or_named_major": 99
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://en.snu.ac.kr/academics/programs/undergraduate",
+      "sha256": "67688fbd3dc4b814c4a2d060fafb4cdaec985bff3f65b6537f06cccc5d743a40",
+      "bytes": 186416,
+      "raw_file": "scratch/full-catalog/asia/snu/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/snu/raw/directory.meta.json"
+    },
+    {
+      "url": "https://snu.ac.kr/academics/undergraduate/colleges",
+      "sha256": "22ef86f502be6d375f146eb123e1782ded38cd21a05ed0c4a2f014229386a44d",
+      "bytes": 134589,
+      "raw_file": "scratch/full-catalog/asia/snu/raw/directory-ko.html",
+      "meta_file": "scratch/full-catalog/asia/snu/raw/directory-ko.meta.json"
+    }
+  ]
+}

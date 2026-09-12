@@ -1,0 +1,74 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/",
+    "official_total": 310,
+    "observed_directory_count": 300,
+    "page_evidence": [
+      {
+        "source": "xml/ loaded in directory DOM by official script with no paging",
+        "rows": 300,
+        "unique_course_ids": 300,
+        "json_api_ids": 310,
+        "json_api_unique_ids": 301,
+        "id_sets_equal": false,
+        "json_only_id": "00623",
+        "resolution": "Official 2027 detail page confirms BSc Nursing Practice CPD; retained as post-qualification undergraduate degree route. 301 unique API IDs now reconciled.",
+        "final_unique_ids": 301,
+        "id_sets_equal_after_detail_recovery": true
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "completeness_scope": "Published official A–Z directory; not proof that every application remains open.",
+    "filter_rules": [
+      "All subjects, no search keyword or subject filters",
+      "Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed",
+      "Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards"
+    ],
+    "unresolved": [
+      "Directory/JSON presence is not confirmation applications remain open.",
+      "Nursing Practice CPD is a post-qualification route and is not available as ordinary high-school direct entry."
+    ],
+    "raw_artifacts": [
+      "manchester/raw/directory-0.meta.json",
+      "manchester/raw/directory-json.meta.json",
+      "manchester/raw/directory-xml.meta.json"
+    ],
+    "official_total_unit": "raw IDs from unfiltered JSON endpoint, contains alias duplicates",
+    "duplicate_alias_rows": 0,
+    "university_id": "manchester",
+    "count": 301,
+    "checked_at": "2026-09-12",
+    "reconciliation": "XML gives 300 unique courses; JSON gives 310 positions / 301 unique IDs (9 repeated references). JSON-only ID 00623 was recovered from the official 2027 Nursing Practice CPD course page."
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/json/",
+      "sha256": "dcc6274b9275f241317d0bcce9813cc9381fb328d6133b34554b304d4679d69c",
+      "bytes": 2487,
+      "raw_file": "scratch/full-catalog/uk/manchester/raw/directory-json.html",
+      "meta_file": "scratch/full-catalog/uk/manchester/raw/directory-json.meta.json"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00623/",
+      "sha256": "b8aeb3507c9dc35185ac697c7c5499439cad32fa2aae1579a0350aa692f419de",
+      "bytes": 65107,
+      "raw_file": "scratch/full-catalog/uk/manchester/raw/json-only-00623.html",
+      "meta_file": "scratch/full-catalog/uk/manchester/raw/json-only-00623.meta.json"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/",
+      "sha256": "3d7767b62d996031486e057635004ac2a0e9cd902fb9dc9acb8fb2e6b9305dcf",
+      "bytes": 69479,
+      "raw_file": "scratch/full-catalog/uk/manchester/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/manchester/raw/directory-0.meta.json"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/xml/",
+      "sha256": "86a1b66c98a9b15e3bbcc8cd5606307902d98a5f8e6bf3507c899e5db03107b0",
+      "bytes": 85635,
+      "raw_file": "scratch/full-catalog/uk/manchester/raw/directory-xml.html",
+      "meta_file": "scratch/full-catalog/uk/manchester/raw/directory-xml.meta.json"
+    }
+  ]
+}

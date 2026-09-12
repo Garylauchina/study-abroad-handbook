@@ -1,0 +1,43 @@
+{
+  "original_manifest": {
+    "university_id": "ip-paris",
+    "status": "complete",
+    "count": 4,
+    "official_total": {
+      "central_undergraduate_degree_entries": 1,
+      "double_specialisations": 3
+    },
+    "discovery_source_url": "https://www.ip-paris.fr/en/education/undergraduate-programs",
+    "source_period": "Current official directory, checked 2026-09-12",
+    "scope": "IP Paris central Undergraduate Programs directory: École Polytechnique Bachelor of Science and three explicitly named double specialisations.",
+    "pagination_evidence": "Education > Undergraduate Programs has exactly one degree link, Bachelor of Science; full degree page read and all three double specialisations listed. Static pages, no pagination.",
+    "filter_rules": "Undergraduate bachelor degrees and named specialisations only; member-school graduate engineering, MSc and doctoral awards are not misclassified as bachelors.",
+    "gaps": [
+      "Intake year is not stated on the central page. This is complete for the central published undergraduate directory; separate member-school catalogue changes need future monitoring."
+    ],
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.ip-paris.fr/en/education",
+      "sha256": "d12cda1fee5bad1f7b9880b89327c5327f4053ba21df91676adf0628b5b99aea",
+      "bytes": 74283,
+      "raw_file": "scratch/full-catalog/france/ip-paris/index.html",
+      "meta_file": "scratch/full-catalog/france/ip-paris/index.meta.json"
+    },
+    {
+      "url": "https://www.ip-paris.fr/en/education/undergraduate-programs",
+      "sha256": "0723f41fc1c244d8fa6a9c187fee3e3d5d747ee632acf6b856e230a04ba576ec",
+      "bytes": 73131,
+      "raw_file": "scratch/full-catalog/france/ip-paris/undergraduate.html",
+      "meta_file": "scratch/full-catalog/france/ip-paris/undergraduate.meta.json"
+    },
+    {
+      "url": "https://www.ip-paris.fr/en/education/bachelor-science",
+      "sha256": "7ac1992691cee9bfc2f2c04a8e0d4df96caef2c0dc1aa37b43019250964ea994",
+      "bytes": 71456,
+      "raw_file": "scratch/full-catalog/france/ip-paris/bachelor-science.html",
+      "meta_file": "scratch/full-catalog/france/ip-paris/bachelor-science.meta.json"
+    }
+  ]
+}

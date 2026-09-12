@@ -1,0 +1,40 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://study.ed.ac.uk/programmes/undergraduate-a-z",
+    "official_total": null,
+    "observed_directory_count": 349,
+    "page_evidence": [
+      {
+        "page": "single complete A–Z",
+        "count": 349,
+        "first": "Accounting and Business MA (Hons)",
+        "last": "Veterinary Medicine (Graduate Entry Programme - 4-year programme) BVM&S",
+        "pagination_links_found": 0
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "completeness_scope": "Published official A–Z directory; not proof that every application remains open.",
+    "filter_rules": [
+      "All subjects, no search keyword or subject filters",
+      "Preserve independent titles, joint degrees, foundation/placement/study-abroad variants if separately listed",
+      "Retain graduate-entry undergraduate courses and flag entry route; exclude pure postgraduate awards"
+    ],
+    "unresolved": [],
+    "raw_artifacts": [
+      "edinburgh/raw/directory-0.meta.json"
+    ],
+    "university_id": "edinburgh",
+    "count": 349,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://study.ed.ac.uk/programmes/undergraduate-a-z",
+      "sha256": "b979de02e5217b58722cd68b6ae17abaf4d9959a8c3b451c6b35d245eb8b24b3",
+      "bytes": 469405,
+      "raw_file": "scratch/full-catalog/uk/edinburgh/raw/directory-0.html",
+      "meta_file": "scratch/full-catalog/uk/edinburgh/raw/directory-0.meta.json"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.lse.ac.uk/programmes/search-courses",
+    "official_total": 257,
+    "official_total_unit": "All study types; exactly 43 result records labelled Undergraduate",
+    "page_evidence": [
+      {
+        "source": "https://www.lse.ac.uk/programmes/search-courses?pageSize=500",
+        "pageSize": 500,
+        "pageCount": 1,
+        "totalCount": 257,
+        "received": 257,
+        "undergraduate_count": 43
+      }
+    ],
+    "pagination_complete": true,
+    "provably_complete": true,
+    "filter_rules": [
+      "Retrieve full unfiltered 257 programme search records with server-supported pageSize=500",
+      "Select exact official studyType Undergraduate, exclude 214 other study-type records",
+      "Do not use stale undergraduate studyType filter linked from old pages, which returns zero on current site"
+    ],
+    "unresolved": [
+      "The current listing does not give entry year or admission-open status; no automatic 2027 or open assumption."
+    ],
+    "excluded_count": 214,
+    "excluded_file": "lse/excluded.json",
+    "raw_artifacts": [
+      "lse/raw/directory-1.meta.json",
+      "lse/raw/directory-ug-0.meta.json",
+      "lse/raw/page-test.meta.json",
+      "lse/raw/template-js.meta.json",
+      "lse/raw/test-0.meta.json",
+      "lse/raw/test-1.meta.json",
+      "lse/raw/test-2.meta.json",
+      "lse/raw/test-3.meta.json",
+      "lse/raw/ug-home.meta.json"
+    ],
+    "university_id": "lse",
+    "count": 43,
+    "checked_at": "2026-09-12"
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.lse.ac.uk/_mClaLQ_835c64d6-1bea-452b-b1f2-b3dc907a4dfb/static/modern/js/programmeListing.template.f3915ce99c23f7998a05.mjs",
+      "sha256": "f3405bfab78b7df0f248f155120ca9b9c5ed4c34ba54f2560f5694470f095d39",
+      "bytes": 942,
+      "raw_file": "scratch/full-catalog/uk/lse/raw/template-js.html",
+      "meta_file": "scratch/full-catalog/uk/lse/raw/template-js.meta.json"
+    },
+    {
+      "url": "https://www.lse.ac.uk/programmes/search-courses?studyType=undergraduate",
+      "sha256": "e4f47c8477139e21a957f366517ac6beadfaf20533cffeb31a5f51d421e997d1",
+      "bytes": 172474,
+      "raw_file": "scratch/full-catalog/uk/lse/raw/test-3.html",
+      "meta_file": "scratch/full-catalog/uk/lse/raw/test-3.meta.json"
+    },
+    {
+      "url": "https://www.lse.ac.uk/programmes/search-courses?studyType=0%2F1%2F26%2F85%2F86",
+      "sha256": "8ca9c78faf06df9482596e3f41474ecb03df167021e193400968c5288edb9ac3",
+      "bytes": 172499,
+      "raw_file": "scratch/full-catalog/uk/lse/raw/directory-ug-0.html",
+      "meta_file": "scratch/full-catalog/uk/lse/raw/directory-ug-0.meta.json"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate",
+      "sha256": "008071265f896e2e97f75ad641fbdadc773017acd06f1390d4026f58f0bf55ca",
+      "bytes": 79666,
+      "raw_file": "scratch/full-catalog/uk/lse/raw/ug-home.html",
+      "meta_file": "scratch/full-catalog/uk/lse/raw/ug-home.meta.json"
+    },
+    {
+      "url": "https://www.lse.ac.uk/programmes/search-courses?pageSize=500",
+      "sha256": "fdc459eee820aaf0d0300db7b16b377aaef1508c7a46e4b26a054683fa14905d",
+      "bytes": 435873,
+      "raw_file": "scratch/full-catalog/uk/lse/raw/test-2.html",
+      "meta_file": "scratch/full-catalog/uk/lse/raw/test-2.meta.json"
+    },
+    {
+      "url": "https://www.lse.ac.uk/programmes/search-courses?page=1",
+      "sha256": "a7847843aa002c83899c91a366b1fd7ad5c691da4ee7a6ba56c3ca034d8f2ecd",
+      "bytes": 192283,
+      "raw_file": "scratch/full-catalog/uk/lse/raw/test-1.html",
+      "meta_file": "scratch/full-catalog/uk/lse/raw/test-1.meta.json"
+    },
+    {
+      "url": "https://www.lse.ac.uk/programmes/search-courses?pageIndex=1",
+      "sha256": "fbefc8c588f58c62118e6213b9c4f57643f16bd1b552901dfa2f94bd398a9398",
+      "bytes": 192289,
+      "raw_file": "scratch/full-catalog/uk/lse/raw/page-test.html",
+      "meta_file": "scratch/full-catalog/uk/lse/raw/page-test.meta.json"
+    },
+    {
+      "url": "https://www.lse.ac.uk/programmes/search-courses?page=2",
+      "sha256": "4b2d27b08307670deeb09cfd036e39a183b01948cfee62d4f2eb574190c01dcb",
+      "bytes": 192283,
+      "raw_file": "scratch/full-catalog/uk/lse/raw/test-0.html",
+      "meta_file": "scratch/full-catalog/uk/lse/raw/test-0.meta.json"
+    },
+    {
+      "url": "https://www.lse.ac.uk/programmes/search-courses?f.study+type%7Ctype=undergraduate",
+      "sha256": "aa2d7f820e749f2ad969517c0c09caec2787b4d8a407d615bb695312a11faff7",
+      "bytes": 192309,
+      "raw_file": "scratch/full-catalog/uk/lse/raw/directory-1.html",
+      "meta_file": "scratch/full-catalog/uk/lse/raw/directory-1.meta.json"
+    }
+  ]
+}

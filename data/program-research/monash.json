@@ -1,0 +1,231 @@
+{
+  "university_id": "monash",
+  "programs": [
+    {
+      "university_id": "monash",
+      "raw_key": "B2029",
+      "name_en": "Bachelor of Accounting",
+      "official_url": "https://handbook.monash.edu/2026/courses/B2029",
+      "checked_at": "2026-09-12",
+      "source_period": "2026",
+      "sections": {
+        "overview": [
+          {
+            "label": "培养学分",
+            "text": "2026手册规定本目录条目完成144 学分。这是学位总学分。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          },
+          {
+            "label": "标准全日制学制",
+            "text": "3 年；学位内方向通常随所属学位完成，若本页没有单独学制不得外推。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          },
+          {
+            "label": "手册所列校区",
+            "text": "Caulfield。跨校区和海外合作版本应按本条对应的课程页核对申请身份。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          },
+          {
+            "label": "课程组成",
+            "text": "官方结构表列出：Rules：0 学分；Part D. 选修学习：48 学分；Part C. 综合毕业学习：6 学分；Part A. 核心学习：18 学分；Part B. 专业学习：72 学分。各部分可能含替代/选修关系，不能把嵌套部分重复相加。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          },
+          {
+            "label": "结构表中的学习单元示例",
+            "text": "包括Global issues in accounting（ACX3900）、Microeconomics（ECF1100）、Business statistics（ETF1100）；这些示例可能属于必修、选修或替代选择，须按完整结构表选课。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          },
+          {
+            "label": "授课语言核验",
+            "text": "本轮该手册页未核实明确的授课语言陈述；英语入学测试要求见校级规则及具体申请课程，不能用测试门槛代替授课语言证据。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          }
+        ],
+        "admissions": [
+          {
+            "label": "专业入学条件缺口",
+            "text": "本轮手册原文未取得可直接对应中国大陆申请者的完整特殊要求；须按所属学位核对中国资格、英语、先修、选拔和名额条件。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          }
+        ],
+        "applications": [
+          {
+            "label": "专业申请窗口缺口",
+            "text": "本轮未完成本条国际新生、内部选专业或荣誉研究申请窗口的逐项复核；校级日程仅在对应申请类别适用。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          }
+        ],
+        "fees": [
+          {
+            "label": "本条费用缺口",
+            "text": "本轮未取得本条在该手册年度、相应校区及国际生身份下可直接引用的课程报价；学位内方向不应另加一份完整学位学费。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          }
+        ],
+        "outcomes": [
+          {
+            "label": "毕业结果口径",
+            "text": "本轮未取得本条按毕业届次、国际生/中国学生范围及响应人数定义的就业率或薪酬统计；课程介绍中的就业潜力或职业名称不能替代毕业调查。",
+            "source_ids": [
+              "monash-handbook-B2029-2026"
+            ]
+          }
+        ]
+      },
+      "sources": [
+        {
+          "id": "monash-handbook-B2029-2026",
+          "title": "monash 2026 官方手册：Bachelor of Accounting",
+          "url": "https://handbook.monash.edu/2026/courses/B2029",
+          "checked_at": "2026-09-12",
+          "supports": "课程学分、学习结构、明确列出的学习单元/学制/校区及本轮核验缺口；不采用内部备注或未呈现语言占位字段",
+          "raw_sha256": "b4fa451489a24d5b3d543983c71c746fbff32526c77bb4c2b89d94be56b08de3",
+          "sha256": "b4fa451489a24d5b3d543983c71c746fbff32526c77bb4c2b89d94be56b08de3"
+        }
+      ],
+      "display_fields": {
+        "duration": "3 年",
+        "campus": "Caulfield"
+      },
+      "enrichment_status": "partial",
+      "verified_structured_fields": [
+        "credit_points",
+        "duration",
+        "campus",
+        "curriculum_structure",
+        "unit_examples"
+      ],
+      "inventory_id": "monash-bachelor-of-accounting-4d1f4dc499"
+    }
+  ],
+  "profile": {
+    "university_id": "monash",
+    "checked_at": "2026-09-12",
+    "scope": "主要为澳大利亚校区国际本科；Malaysia、Indonesia、合作/海外课程及荣誉研究须另核身份、费用和申请规则。",
+    "sections": {
+      "admissions": [
+        {
+          "label": "大陆高考入口",
+          "text": "国际本科申请页明确接受中国高考直入学士，但各学位门槛、数学/其他先修和英语不同。本轮校级页面不提供所有学位同一分数；须按相应年度学位表核对。",
+          "source_ids": [
+            "monash-profile-browser-apply"
+          ]
+        },
+        {
+          "label": "语言与标准",
+          "text": "官网明确Monash以英语授课；普通最低IELTS总分6.5、单项6.0，特定课程可要求更高。其他考试和以既往学习满足英语的条件见政策，不能自动把最低值套于教育、健康等课程。",
+          "source_ids": [
+            "monash-profile-browser-english"
+          ]
+        }
+      ],
+      "applications": [
+        {
+          "label": "直申与VTAC区分",
+          "text": "中国高考等海外资格通常可经大学国际本科入口直接申请或授权代理。当前澳洲Year12、澳洲/新西兰IB及新西兰NCEA等类别按页面走VTAC；校区和课程可有额外要求。",
+          "source_ids": [
+            "monash-profile-browser-apply"
+          ]
+        },
+        {
+          "label": "时间和开学批次",
+          "text": "国际直申全年受理但课程名额与offer到期日另核。2027第一学期教学3月1日开始，第二学期7月26日开始；这不是所有课程的唯一开学月份或统一最终申请截止。应按完成高中和取得高考最终成绩时间选批次。",
+          "source_ids": [
+            "monash-profile-browser-apply",
+            "monash-profile-browser-calendar"
+          ]
+        }
+      ],
+      "fees": [
+        {
+          "label": "2027国际学费示例及范围",
+          "text": "已在国际生视图核实Computer Science C2001的2027费用A$58,940/48学分，48学分为一标准全日制学年；此数仅为该课程示例，不是全校或马来西亚等校区统一费用。学费逐年调整，生活及适用SSAF另计。",
+          "source_ids": [
+            "monash-profile-browser-cs-international"
+          ]
+        },
+        {
+          "label": "国际本科Merit奖学金",
+          "text": "Monash International Merit Scholarship面向满足条件的国际新生，持无条件本科offer在澳大利亚校区全日制入学，按成绩自动评估；2026起A$15,000/年（48学分），每年20名，续领需每学期平均70%等条件。部分Year12、路径及转学生不适用；不预设获奖或套到海外校区。",
+          "source_ids": [
+            "monash-profile-browser-scholarship"
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "label": "就业统计与培养说明边界",
+          "text": "本轮未取得定义完整、覆盖全校本科各专业及中国学生的就业率/薪酬调查。已读课程的算法、数据和软件培养说明属于学习内容，不能当作实际毕业生去向比例。",
+          "source_ids": [
+            "monash-profile-browser-cs-international"
+          ]
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "monash-profile-browser-apply",
+        "title": "monash 官方资料：browser-apply",
+        "url": "https://www.monash.edu/admissions/apply/international-ug",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "73e5a2acf4a985380ee7c41c4146401d04e3e7fd9e3b46b7070ebaf22d3a6e5b",
+        "sha256": "73e5a2acf4a985380ee7c41c4146401d04e3e7fd9e3b46b7070ebaf22d3a6e5b"
+      },
+      {
+        "id": "monash-profile-browser-english",
+        "title": "monash 官方资料：browser-english",
+        "url": "https://www.monash.edu/admissions/entry-requirements/english-language",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "23e2f95fb869aef48a8b3af3af420d1f8d14f2674435f047ed6cccd20ab911b6",
+        "sha256": "23e2f95fb869aef48a8b3af3af420d1f8d14f2674435f047ed6cccd20ab911b6"
+      },
+      {
+        "id": "monash-profile-browser-calendar",
+        "title": "monash 官方资料：browser-calendar",
+        "url": "https://www.monash.edu/students/admin/dates/summary-dates",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "25e515a12199c55a6f758c2ca01941101a9dfa67126cbf99a4563d8b7a67d88a",
+        "sha256": "25e515a12199c55a6f758c2ca01941101a9dfa67126cbf99a4563d8b7a67d88a"
+      },
+      {
+        "id": "monash-profile-browser-cs-international",
+        "title": "monash 官方资料：browser-cs-international",
+        "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001?international=true",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "34de51974195e3b4a0adfe3d1763d8328f3a29e29ef510476ff496260807e539",
+        "sha256": "34de51974195e3b4a0adfe3d1763d8328f3a29e29ef510476ff496260807e539"
+      },
+      {
+        "id": "monash-profile-browser-scholarship",
+        "title": "monash 官方资料：browser-scholarship",
+        "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/international-merit-5770",
+        "checked_at": "2026-09-12",
+        "supports": "本条校级事实及已核实适用范围",
+        "raw_sha256": "de2cbb9576626d1d6057e985fc213adcfcbaa434b5d3583a0876c5412897d8d9",
+        "sha256": "de2cbb9576626d1d6057e985fc213adcfcbaa434b5d3583a0876c5412897d8d9"
+      }
+    ]
+  }
+}

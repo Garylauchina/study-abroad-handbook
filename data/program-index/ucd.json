@@ -1,0 +1,4501 @@
+{
+  "university_id": "ucd",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "partial",
+    "count": 151,
+    "scope": "本科官方目录；条目类型及排除规则见证据记录。",
+    "method": "All133li[data-az-id] from complete static A–Z page captured. Alldetailredirects followed; six obsolete keyword/major redirects checked against current official hub replacements. Separate current-student programme list raw captured for scope comparison.",
+    "exclusions": "排除独立辅修、证书及非本科项目；具体边界见统计范围。",
+    "sources": [
+      {
+        "url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+        "sha256": "8e11aab3286282e78c6f607264adae04d7302d77e0dfb33a199443932fca9f12",
+        "bytes": 118576,
+        "raw_file": "scratch/full-catalog/europe/ucd/az.html",
+        "meta_file": "scratch/full-catalog/europe/ucd/az.source.json"
+      }
+    ],
+    "gaps": [
+      "Complete within prospective A–Z and published current detail award routes; cannot prove exhaustive overseas/China-joint/teach-out catalogue identities or all old current-student degree-code versions from this main prospective directory."
+    ]
+  },
+  "programs": [
+    {
+      "name_en": "Actuarial & Financial Studies",
+      "degree_label": "Bachelor of Actuarial and Financial Studies",
+      "official_url": "https://www.ucd.ie/courses/bsc-actuarial-and-financial-studies",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836169|Bachelor of Actuarial and Financial Studies",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Actuarial and Financial Studies",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN230 BSS3 Actuarial & Financial Studies Course (BAFS) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Actuarial & Financial Studies",
+      "id": "ucd-actuarial-financial-studies-cacae62af2"
+    },
+    {
+      "name_en": "Agri-Environmental Sciences",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-agri-environmental-sciences",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836184|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 ESS1 Agri-Environmental Sciences (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Agri-Environmental Sciences",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-agri-environmental-sciences-1b7a03ba08"
+    },
+    {
+      "name_en": "Agricultural Systems Technology",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-agricultural-systems-technology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836188|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 ETS2 Agricultural Systems Technology (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Agricultural Systems Technology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-agricultural-systems-technology-ca6894328a"
+    },
+    {
+      "name_en": "An Ghaeilge & An Cultúr",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-irish-language-culture",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836203|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 ISS3 An Ghaeilge & An Cultúr (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "An Ghaeilge & An Cultúr",
+      "id": "ucd-an-ghaeilge-an-cult-r-628aec8544"
+    },
+    {
+      "name_en": "Animal & Crop Production",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-animal-and-crop-production",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836204|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 CPS1 Animal & Crop Production (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Animal & Crop Production",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-animal-crop-production-4e74aa3dd0"
+    },
+    {
+      "name_en": "Animal Science",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-animal-science",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836206|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 ANS1 Animal Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Animal Science",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-animal-science-c9086e1a31"
+    },
+    {
+      "name_en": "Animal Science – Equine",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-animal-science-equine",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836207|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 EQS1 Animal Science - Equine (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Animal Science – Equine",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-animal-science-equine-9545f8b32c"
+    },
+    {
+      "name_en": "Applied & Computational Mathematics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/applied-computational-mathematics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836208|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 MHS2 Science: Mathematics (includes Applied/Financial/Statistics & Data Science) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Applied & Computational Mathematics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-applied-computational-mathematics-071c32b54e"
+    },
+    {
+      "name_en": "Applied Mathematics, Mathematics & Education",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/applied-mathematics-education",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836209|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 MHS3 Science, Mathematics & Education Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Applied Mathematics, Mathematics & Education",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-applied-mathematics-mathematics-education-d078447e75"
+    },
+    {
+      "name_en": "Archaeology",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/bsc-archaeology",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836210|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Archaeology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-archaeology-4511e2e6c2"
+    },
+    {
+      "name_en": "Archaeology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-archaeology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836210|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Archaeology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-archaeology-c30663b71c"
+    },
+    {
+      "name_en": "Architecture",
+      "degree_label": "Bachelor Architectural Science",
+      "official_url": "https://www.ucd.ie/courses/barchsc-architecture",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836211|Bachelor Architectural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor Architectural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN100 ATS4 Architecture (BArchSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Architecture",
+      "id": "ucd-architecture-3af1a11fad"
+    },
+    {
+      "name_en": "Art History",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-art-history",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836216|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Art History",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-art-history-5ac217c23d"
+    },
+    {
+      "name_en": "Art History",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-art-history",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836216|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Art History",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-art-history-8163ee6583"
+    },
+    {
+      "name_en": "Bachelor of Commerce",
+      "degree_label": "Bachelor of Commerce",
+      "official_url": "https://www.ucd.ie/courses/bcomm-commerce",
+      "intake": null,
+      "duration": "3 Years (4 Years with Optional Internship)",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836192|Bachelor of Commerce",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Commerce",
+          "duration": "3 Years (4 Years with Optional Internship)",
+          "entry_route": "Direct entry to DN650 BSS1 Commerce (BComm) 3 Years (4 Years with Optional Internship)",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Bachelor of Commerce",
+      "id": "ucd-bachelor-of-commerce-26da6063ce"
+    },
+    {
+      "name_en": "Biochemistry & Molecular Biology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/biochemistry-molecular-biology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836193|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Biochemistry & Molecular Biology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-biochemistry-molecular-biology-811409920a"
+    },
+    {
+      "name_en": "Biology, Mathematics & Education",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/biology-mathematics-education",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836194|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 MHS3 Science, Mathematics & Education Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Biology, Mathematics & Education",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-biology-mathematics-education-fcbfb272c4"
+    },
+    {
+      "name_en": "Biomedical Engineering",
+      "degree_label": "Bachelor of Engineering",
+      "official_url": "https://www.ucd.ie/courses/bsc-biomedical-engineering",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836195|Bachelor of Engineering",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Engineering",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN150 NUS1 Bachelor of Engineering (BE) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Biomedical Engineering",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-biomedical-engineering-eb189b3004"
+    },
+    {
+      "name_en": "Biomedical, Health & Life Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-biomedical-health-and-life-sciences",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836197|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN440 BHS1 Biomedical, Health & Life Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Biomedical, Health & Life Sciences",
+      "id": "ucd-biomedical-health-life-sciences-4d3373091d"
+    },
+    {
+      "name_en": "Business & Law",
+      "degree_label": "Bachelor of Business & Law",
+      "official_url": "https://www.ucd.ie/courses/bbl-business-and-law",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836199|Bachelor of Business & Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Business & Law",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN610 BSJ4 Business and Law (BBL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Business & Law",
+      "id": "ucd-business-law-c7e31310b3"
+    },
+    {
+      "name_en": "Business Studies (Bachelor continuation)",
+      "degree_label": "Bachelor of Business Studies",
+      "official_url": "https://www.ucd.ie/courses/diploma-bachelor-of-business-studies",
+      "intake": null,
+      "duration": "Third and fourth years follow the two-year diploma stage",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836260|Bachelor of Business Studies",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Business Studies",
+          "duration": "Third and fourth years follow the two-year diploma stage",
+          "entry_route": "Part-time mature-student route: minimum age23 in admission year; prior diploma/degree stage. Official course page explicitly excludes international non-EEA applicants.",
+          "attendance": "Part-Time"
+        }
+      ],
+      "catalogue_name": "Diploma/Bachelor of Business Studies",
+      "entry_route": "Part-time mature-student route: minimum age23 in admission year; prior diploma/degree stage. Official course page explicitly excludes international non-EEA applicants.",
+      "id": "ucd-business-studies-bachelor-continuation-6d8001d1a1"
+    },
+    {
+      "name_en": "Cell & Molecular Biology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/cell-molecular-biology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836219|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Cell & Molecular Biology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-cell-molecular-biology-ff0fa2f7f8"
+    },
+    {
+      "name_en": "Celtic Civilisation",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-celtic-civilisation",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836220|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Celtic Civilisation",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-celtic-civilisation-d390f412c8"
+    },
+    {
+      "name_en": "Celtic Civilisation",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-celtic-civilisation",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836220|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Celtic Civilisation",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-celtic-civilisation-2a8ba0de2e"
+    },
+    {
+      "name_en": "Chemical & Bioprocess Engineering",
+      "degree_label": "Bachelor of Engineering",
+      "official_url": "https://www.ucd.ie/courses/be-chemical-bioprocess-engineering",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836221|Bachelor of Engineering",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Engineering",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN150 NUS1 Bachelor of Engineering (BE) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Chemical & Bioprocess Engineering",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-chemical-bioprocess-engineering-5f21d0b721"
+    },
+    {
+      "name_en": "Chemistry",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/chemistry",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836222|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 CHS2 Science: Chemistry (includes Medicinal/Sustainable) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Chemistry",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-chemistry-4b6737e475"
+    },
+    {
+      "name_en": "Chemistry with Environmental & Sustainable Chemistry",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/chemistry-environmental-sustainable-chemistry",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836223|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 CHS2 Science: Chemistry (includes Medicinal/Sustainable) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Chemistry with Environmental & Sustainable Chemistry",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-chemistry-with-environmental-sustainable-chemistry-7fa8ed6f99"
+    },
+    {
+      "name_en": "Chemistry, Mathematics & Education",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/chemistry-mathematics-education",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836224|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 MHS3 Science, Mathematics & Education Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Chemistry, Mathematics & Education",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-chemistry-mathematics-education-fe9fd7e277"
+    },
+    {
+      "name_en": "City Planning & Environmental Policy",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?AUDIENCE=Int&MAJR=RCS3&p_tag=COURSE",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836230|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN130 RCS3 City Planning & Environmental Policy (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "City Planning & Environmental Policy",
+      "id": "ucd-city-planning-environmental-policy-c51b80d594"
+    },
+    {
+      "name_en": "Civil Engineering",
+      "degree_label": "Bachelor of Engineering",
+      "official_url": "https://www.ucd.ie/courses/bsc-civil-engineering",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836231|Bachelor of Engineering",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Engineering",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN150 NUS1 Bachelor of Engineering (BE) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Civil Engineering",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-civil-engineering-66b6e46705"
+    },
+    {
+      "name_en": "Classics (Greek & Roman Civilization, Latin & Greek)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-classics-greek-roman-civilization-latin-greek",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836232|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Classics (Greek & Roman Civilization, Latin & Greek)",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-classics-greek-roman-civilization-latin-greek-382b67af69"
+    },
+    {
+      "name_en": "Classics (Greek & Roman Civilization, Latin & Greek)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-classics-greek-roman-civilization-latin-greek",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836232|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Classics (Greek & Roman Civilization, Latin & Greek)",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-classics-greek-roman-civilization-latin-greek-d36d146802"
+    },
+    {
+      "name_en": "Classics, Art History & Archaeology",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-classics-art-history-archaeology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836233|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 CAS1 Classics, Art History & Archaeology (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Classics, Art History & Archaeology",
+      "id": "ucd-classics-art-history-archaeology-310939b150"
+    },
+    {
+      "name_en": "Classics, English & History",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-classics-english-history",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836234|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 CAS2 Classics, English & History (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Classics, English & History",
+      "id": "ucd-classics-english-history-248fa13a29"
+    },
+    {
+      "name_en": "Commerce International",
+      "degree_label": "Bachelor of Commerce",
+      "official_url": "https://www.ucd.ie/courses/bcomm-commerce-intl",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836235|Bachelor of Commerce",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Commerce",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN660 BSW1 Commerce International (BComm) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Commerce International",
+      "id": "ucd-commerce-international-37f2dbf108"
+    },
+    {
+      "name_en": "Computational Social Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-computational-social-science",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836240|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN700 SCS1 Computational Social Science (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Computational Social Science",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-computational-social-science-69d1760e92"
+    },
+    {
+      "name_en": "Computer Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-computer-science",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836241|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN201 CSSA Computer Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Computer Science",
+      "id": "ucd-computer-science-605697afd7"
+    },
+    {
+      "name_en": "Computer Science with Data Science & Artificial Intelligence",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=CSSE&p_tag=COURSE",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836242|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN201 CSSA Computer Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Computer Science with Data Science",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-computer-science-with-data-science-artificial-intelligence-0a21d89554"
+    },
+    {
+      "name_en": "Computer Science, Mathematics & Education",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/computer-science-mathematics-education",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836243|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 MHS3 Science, Mathematics & Education Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Computer Science, Mathematics & Education",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-computer-science-mathematics-education-a1602caa49"
+    },
+    {
+      "name_en": "Creative & Cultural Industries",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-creative-and-cultural-industries",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836244|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 CCS2 Creative & Cultural Industries (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Creative & Cultural Industries",
+      "id": "ucd-creative-cultural-industries-dc7e4ad522"
+    },
+    {
+      "name_en": "Criminology with Psychology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-criminology-with-psychology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836245|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN620 LWWD Criminology with Psychology (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Criminology with Psychology",
+      "id": "ucd-criminology-with-psychology-692314afa9"
+    },
+    {
+      "name_en": "Crop Science",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-crop-science",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836246|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 CPS3 Crop Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Crop Science",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-crop-science-6ba493f267"
+    },
+    {
+      "name_en": "Dairy Business",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-dairy-business",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836258|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 DBS1 Dairy Business (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Dairy Business",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-dairy-business-a6d475e35a"
+    },
+    {
+      "name_en": "Diagnostic Radiography (Graduate Entry)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/diagnostic-radiography-graduate-entry",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836259|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "3 Years",
+          "entry_route": "Direct entry to DN411 MDSS Diagnostic Radiography (Graduate Entry) (BSc) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Diagnostic Radiography (Graduate Entry)",
+      "entry_route": "Graduate-entry undergraduate degree route; prior relevant degree/eligibility applies.",
+      "id": "ucd-diagnostic-radiography-graduate-entry-c905860779"
+    },
+    {
+      "name_en": "Drama Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-drama-studies",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836267|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Drama Studies",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-drama-studies-45ef26f1be"
+    },
+    {
+      "name_en": "Earth Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/earth-sciences",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836280|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 EES1 Science: Earth & Environmental Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Earth Sciences",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-earth-sciences-b55cf97bc3"
+    },
+    {
+      "name_en": "Economics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-economics",
+      "intake": null,
+      "duration": "3 Years; 4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836282|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "3 Years",
+          "entry_route": "Direct entry to DN710 ECS4 Economics (BSc) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Economics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-economics-05ef534b69"
+    },
+    {
+      "name_en": "Economics & Finance",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-economics-and-finance",
+      "intake": null,
+      "duration": "3 Years (4 Years with Optional Internship)",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836284|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "3 Years (4 Years with Optional Internship)",
+          "entry_route": "Direct entry to DN670 BSS2 Economics & Finance (BSc) 3 Years (4 Years with Optional Internship)",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Economics & Finance",
+      "id": "ucd-economics-finance-d00db46ca3"
+    },
+    {
+      "name_en": "Economics, Mathematics & Statistics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-economics-maths-statistics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836283|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN700 EMS1 Economics, Mathematics and Statistics (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Economics, Mathematics & Statistics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-economics-mathematics-statistics-c65a1482ca"
+    },
+    {
+      "name_en": "Education with Gaeilge & Modern Languages",
+      "degree_label": "Bachelor of Education",
+      "official_url": "https://www.ucd.ie/courses/bed-education-with-gaeilge-modern-languages",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836286|Bachelor of Education",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Education",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN760 EDS3 Education, Gaeilge &/or Modern Languages (BEd) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Education with Gaeilge & Modern Languages",
+      "id": "ucd-education-with-gaeilge-modern-languages-3b89885d94"
+    },
+    {
+      "name_en": "Electrical/Electronic Engineering",
+      "degree_label": "Bachelor of Engineering",
+      "official_url": "https://www.ucd.ie/courses/bsc-electrical-engineering",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836287|Bachelor of Engineering",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Engineering",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN150 NUS1 Bachelor of Engineering (BE) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Electrical/Electronic Engineering",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-electrical-electronic-engineering-1c01c917e7"
+    },
+    {
+      "name_en": "Engineering",
+      "degree_label": "Bachelor of Engineering",
+      "official_url": "https://www.ucd.ie/courses/bsc-engineering",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836289|Bachelor of Engineering",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Engineering",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN150 NUS1 Bachelor of Engineering (BE) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Engineering",
+      "id": "ucd-engineering-518e6b51c8"
+    },
+    {
+      "name_en": "English",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-english",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836288|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "English",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-english-b289bf10cf"
+    },
+    {
+      "name_en": "English",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-english",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836288|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "English",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-english-e1b0219eb2"
+    },
+    {
+      "name_en": "English Literature",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-english-literature",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836294|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 ENS5 English Literature (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "English Literature",
+      "id": "ucd-english-literature-a9d01b6c33"
+    },
+    {
+      "name_en": "English with Creative Writing",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-english-creative-writing",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836295|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 ENS6 English with Creative Writing (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "English with Creative Writing",
+      "id": "ucd-english-with-creative-writing-e85859369f"
+    },
+    {
+      "name_en": "English, Drama & Film",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-english-drama-film",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836296|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 ENS7 English, Drama & Film (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "English, Drama & Film",
+      "id": "ucd-english-drama-film-4d55aae444"
+    },
+    {
+      "name_en": "Environmental Biology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/environmental-biology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836298|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 EES1 Science: Earth & Environmental Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Environmental Biology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-environmental-biology-a3e44fe6d5"
+    },
+    {
+      "name_en": "European Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-european-studies",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836297|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 HSS6 European Studies (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "European Studies",
+      "id": "ucd-european-studies-eaf74214f3"
+    },
+    {
+      "name_en": "Film Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-film-studies",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836301|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Film Studies",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-film-studies-b728cd6049"
+    },
+    {
+      "name_en": "Financial Mathematics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/financial-mathematics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836304|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 MHS2 Science: Mathematics (includes Applied/Financial/Statistics & Data Science) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Financial Mathematics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-financial-mathematics-6a1a7535c0"
+    },
+    {
+      "name_en": "Food & Agribusiness Management",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-food-and-agribusiness-management",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836306|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 FAS1 Food & Agribusiness Management (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Food & Agribusiness Management",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-food-agribusiness-management-a77baaad67"
+    },
+    {
+      "name_en": "Food Business with Chinese Studies",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-food-business",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836307|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 FAW1 Food Business with Chinese Studies (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Food Business with Chinese Studies",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-food-business-with-chinese-studies-f0bfd70ad0"
+    },
+    {
+      "name_en": "Food Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-food-science",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836312|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN261 FSS2 Food Science (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Food Science",
+      "id": "ucd-food-science-4eff61b98c"
+    },
+    {
+      "name_en": "Forestry",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-forestry",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836313|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 FOS1 Forestry (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Forestry",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-forestry-225aaaaed3"
+    },
+    {
+      "name_en": "French",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-french",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836314|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "French",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-french-e0613fbef3"
+    },
+    {
+      "name_en": "French",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-french",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836314|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "French",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-french-b97e21dc9c"
+    },
+    {
+      "name_en": "Genetics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/genetics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836316|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Genetics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-genetics-72a3441d78"
+    },
+    {
+      "name_en": "Geography",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/bsc-geography",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836317|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Geography",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-geography-14a1f6851b"
+    },
+    {
+      "name_en": "Geography",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-geography",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836317|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Geography",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-geography-3cfcad5c57"
+    },
+    {
+      "name_en": "German",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-german",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836318|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "German",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-german-8bc992288c"
+    },
+    {
+      "name_en": "German",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-german",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836318|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "German",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-german-2122b79143"
+    },
+    {
+      "name_en": "Global Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-global-studies",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836319|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 HSS5 Global Studies (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Global Studies",
+      "id": "ucd-global-studies-6f4927dc61"
+    },
+    {
+      "name_en": "History",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-history",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836321|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 HSS3 History (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "History",
+      "id": "ucd-history-a3a086d9f7"
+    },
+    {
+      "name_en": "History & Politics",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-history-politics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836322|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 HPS1 History & Politics (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "History & Politics",
+      "id": "ucd-history-politics-6ae4aea4b4"
+    },
+    {
+      "name_en": "Horticulture",
+      "degree_label": "Bachelor of Agricultural Science",
+      "official_url": "https://www.ucd.ie/courses/bagrsc-horticulture",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836323|Bachelor of Agricultural Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN250 HLS6 Horticulture (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Agricultural Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN250 UAS1 Agricultural Science (BAgrSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Horticulture",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-horticulture-f6866bed2e"
+    },
+    {
+      "name_en": "Human Nutrition",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-human-nutrition",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836324|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN262 HMS1 Human Nutrition (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Human Nutrition",
+      "id": "ucd-human-nutrition-2b205f9e43"
+    },
+    {
+      "name_en": "Information & Communication Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/bsc-information-communication-studies",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836327|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Information & Communication Studies",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-information-communication-studies-93c49128ea"
+    },
+    {
+      "name_en": "Information & Communication Studies",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-information-communication-studies",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836327|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Information & Communication Studies",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-information-communication-studies-1799a0ea71"
+    },
+    {
+      "name_en": "Irish Folklore",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-irish-folklore",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836328|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Irish Folklore",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-irish-folklore-d200a2ff66"
+    },
+    {
+      "name_en": "Irish Folklore",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-irish-folklore",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836328|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Irish Folklore",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-irish-folklore-9a192e5277"
+    },
+    {
+      "name_en": "Irish Studies",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-irish-studies",
+      "intake": null,
+      "duration": "4 Years; 3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836329|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 ISS1 Irish Studies (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Irish Studies",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-irish-studies-d9feebf00b"
+    },
+    {
+      "name_en": "Irish/Gaeilge",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-irish",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836330|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Irish/Gaeilge",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-irish-gaeilge-a9817c2b16"
+    },
+    {
+      "name_en": "Irish/Gaeilge",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-irish",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836330|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Irish/Gaeilge",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-irish-gaeilge-acc88997b0"
+    },
+    {
+      "name_en": "Italian",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-italian",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836331|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Italian",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-italian-d78bc85c12"
+    },
+    {
+      "name_en": "Italian",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-italian",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836331|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Italian",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-italian-e486f8bed6"
+    },
+    {
+      "name_en": "Landscape Architecture",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-landscape-architecture",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836337|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN120 LDS2 Landscape Architecture (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Landscape Architecture",
+      "id": "ucd-landscape-architecture-dbc341b1f3"
+    },
+    {
+      "name_en": "Languages, Linguistics & Cultures",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-languages-linguistics-cultures",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836338|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 AYS1 Languages, Linguistics & Cultures (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Languages, Linguistics & Cultures",
+      "id": "ucd-languages-linguistics-cultures-8fb63fcad6"
+    },
+    {
+      "name_en": "Law (BCL)",
+      "degree_label": "Bachelor of Civil Law",
+      "official_url": "https://www.ucd.ie/courses/bcl-law",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836339|Bachelor of Civil Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN600 LWS6 Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Law (BCL)",
+      "id": "ucd-law-bcl-6c70b6ead3"
+    },
+    {
+      "name_en": "Law Dual Degree – BCL/Maîtrise",
+      "degree_label": "Bachelor of Civil Law",
+      "official_url": "https://www.ucd.ie/courses/law-dual-degree-bclmaitrise",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836340|Bachelor of Civil Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN600 LWS6 Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Law Dual Degree – BCL/Maîtrise",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-law-dual-degree-bcl-ma-trise-42c8456fb4"
+    },
+    {
+      "name_en": "Law with Economics",
+      "degree_label": "Bachelor of Civil Law",
+      "official_url": "https://www.ucd.ie/courses/bcl-law-with-economics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836341|Bachelor of Civil Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN600 LWS6 Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN600 LWW4 Law with Economics (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Law with Economics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-law-with-economics-205125c7e4"
+    },
+    {
+      "name_en": "Law with French Law",
+      "degree_label": "Bachelor of Civil Law",
+      "official_url": "https://www.ucd.ie/courses/bcl-law-with-french-law",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836342|Bachelor of Civil Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN600 LWS2 Law with French Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN600 LWS6 Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Law with French Law",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-law-with-french-law-293bc9f7a0"
+    },
+    {
+      "name_en": "Law with History",
+      "degree_label": "Bachelor of Civil Law",
+      "official_url": "https://www.ucd.ie/courses/bcl-law-with-history",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836343|Bachelor of Civil Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN600 LWW2 Law with History (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN600 LWS6 Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Law with History",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-law-with-history-f3dcf961f2"
+    },
+    {
+      "name_en": "Law with Irish",
+      "degree_label": "Bachelor of Civil Law",
+      "official_url": "https://www.ucd.ie/courses/bcl-law-with-irish",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836344|Bachelor of Civil Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN600 LWS6 Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Law with Irish",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-law-with-irish-5fadafe71d"
+    },
+    {
+      "name_en": "Law with Philosophy",
+      "degree_label": "Bachelor of Civil Law",
+      "official_url": "https://www.ucd.ie/courses/bcl-law-with-philosophy",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836345|Bachelor of Civil Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN600 LWW1 Law with Philosophy (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN600 LWS6 Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Law with Philosophy",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-law-with-philosophy-1c632773f0"
+    },
+    {
+      "name_en": "Law with Politics",
+      "degree_label": "Bachelor of Civil Law",
+      "official_url": "https://www.ucd.ie/courses/bcl-law-with-politics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836346|Bachelor of Civil Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN600 LWW3 Law with Politics (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN600 LWS6 Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Law with Politics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-law-with-politics-6143fef4ee"
+    },
+    {
+      "name_en": "Law with Social Justice",
+      "degree_label": "Bachelor of Civil Law",
+      "official_url": "https://www.ucd.ie/courses/bcl-law-with-social-justice",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836347|Bachelor of Civil Law",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN600 LWW9 Law with Social Justice (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Civil Law",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN600 LWS6 Law (BCL) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Law with Social Justice",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-law-with-social-justice-bd0343d73d"
+    },
+    {
+      "name_en": "Linguistics",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-linguistics",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836348|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Linguistics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-linguistics-96d8667c08"
+    },
+    {
+      "name_en": "Linguistics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-linguistics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836348|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Linguistics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-linguistics-5556965d3c"
+    },
+    {
+      "name_en": "Mathematics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/mathematics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836376|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 MHS2 Science: Mathematics (includes Applied/Financial/Statistics & Data Science) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Mathematics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-mathematics-c2796d07d9"
+    },
+    {
+      "name_en": "Mathematics (through Arts & Humanities/Social Sciences)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-mathematics",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836377|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Mathematics (through Arts & Humanities/Social Sciences)",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-mathematics-through-arts-humanities-social-sciences-e7db0e2fe6"
+    },
+    {
+      "name_en": "Mathematics (through Arts & Humanities/Social Sciences)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-mathematics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836377|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Mathematics (through Arts & Humanities/Social Sciences)",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-mathematics-through-arts-humanities-social-sciences-66271b9906"
+    },
+    {
+      "name_en": "Mechanical Engineering",
+      "degree_label": "Bachelor of Engineering",
+      "official_url": "https://www.ucd.ie/courses/bsc-mechanical-engineering",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836378|Bachelor of Engineering",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Engineering",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN150 NUS1 Bachelor of Engineering (BE) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Mechanical Engineering",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-mechanical-engineering-c7054387ed"
+    },
+    {
+      "name_en": "Medicinal Chemistry & Chemical Biology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/medicinal-chemistry-chemical-biology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836379|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 CHS2 Science: Chemistry (includes Medicinal/Sustainable) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Medicinal Chemistry & Chemical Biology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-medicinal-chemistry-chemical-biology-aeb03c7a06"
+    },
+    {
+      "name_en": "Medicine",
+      "degree_label": "Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics",
+      "official_url": "https://www.ucd.ie/courses/medicine",
+      "intake": null,
+      "duration": "6 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836380|Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics",
+          "duration": "6 Years",
+          "entry_route": "Direct entry to DN400 MDSA Medicine (MB BCh BAO) 6 Years",
+          "nfq": "8 (360 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Medicine",
+      "id": "ucd-medicine-2f132069d0"
+    },
+    {
+      "name_en": "Medicine (Graduate Entry)",
+      "degree_label": "Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics",
+      "official_url": "https://www.ucd.ie/courses/medicine-graduate-entry",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836381|Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Medicine,Bachelor of Surgery,Bachelor of Obstetrics",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN401 MDS9 Medicine (Graduate Entry) (MB BCh BAO) 4 Years",
+          "nfq": "8 (270 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Medicine (Graduate Entry)",
+      "entry_route": "Graduate-entry undergraduate degree route; prior relevant degree/eligibility applies.",
+      "id": "ucd-medicine-graduate-entry-faf74a6342"
+    },
+    {
+      "name_en": "Microbiology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/microbiology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836382|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Microbiology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-microbiology-2950bc3368"
+    },
+    {
+      "name_en": "Midwifery",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-midwifery",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836383|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN452 NSS4 Midwifery (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Midwifery",
+      "id": "ucd-midwifery-6f0b26e9a9"
+    },
+    {
+      "name_en": "Modern Languages",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-modern-languages",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836384|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN541 BAU4 Modern Languages (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Modern Languages",
+      "id": "ucd-modern-languages-7cc403cff1"
+    },
+    {
+      "name_en": "Music (BA Humanities)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?AUDIENCE=&MAJR=MCC2&p_tag=COURSE",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836385|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN530 MCS5 Music (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Music",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-music-ba-humanities-c91b773494"
+    },
+    {
+      "name_en": "Music, Film & Drama",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-music-film-drama",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836386|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN530 MCS4 Music, Film & Drama (BA) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Music, Film & Drama",
+      "id": "ucd-music-film-drama-7f0725002f"
+    },
+    {
+      "name_en": "Neuroscience",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/neuroscience",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836396|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Neuroscience",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-neuroscience-119de04faf"
+    },
+    {
+      "name_en": "Nursing (Children’s & General)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-nursing-childrens-general",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836397|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN451 NSS3 Nursing (Children’s & General) (BSc) 4 Years",
+          "nfq": "8 (270 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Nursing (Children’s & General)",
+      "id": "ucd-nursing-children-s-general-e5d4d6bd92"
+    },
+    {
+      "name_en": "Nursing (General)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-nursing-general",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836398|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN450 NSS1 Nursing (General) (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Nursing (General)",
+      "id": "ucd-nursing-general-3c325858e3"
+    },
+    {
+      "name_en": "Nursing (Mental Health)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-nursing-mental-health",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836399|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN453 NSS8 Nursing (Mental Health) (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Nursing (Mental Health)",
+      "id": "ucd-nursing-mental-health-3f97dcb41a"
+    },
+    {
+      "name_en": "Pharmacology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/pharmachology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836402|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Pharmacology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-pharmacology-6e68d40723"
+    },
+    {
+      "name_en": "Philosophy",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/bsc-philosophy",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836403|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Philosophy",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-philosophy-c2dc2d06df"
+    },
+    {
+      "name_en": "Philosophy",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-philosophy",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836403|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Philosophy",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-philosophy-5fa56af547"
+    },
+    {
+      "name_en": "Philosophy, Politics and Economics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?AUDIENCE=&MAJR=COS1&p_tag=COURSE",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836404|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN700 COS1 Philosophy, Politics and Economics (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Philosophy, Politics and Economics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-philosophy-politics-and-economics-5cfeb1cc8f"
+    },
+    {
+      "name_en": "Physics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/physics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836405|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 PYS2 Science: Physics (includes Theoretical/Astronomy & Space Science) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Physics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-physics-930d524cec"
+    },
+    {
+      "name_en": "Physics with Astronomy & Space Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?MAJR=PAS1&p_tag=COURSE",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836406|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 PYS2 Science: Physics (includes Theoretical/Astronomy & Space Science) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Physics with Astronomy & Space Science",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-physics-with-astronomy-space-science-b0e564fa66"
+    },
+    {
+      "name_en": "Physics, Mathematics & Education",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/physics-mathematics-education",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836407|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 MHS3 Science, Mathematics & Education Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Physics, Mathematics & Education",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-physics-mathematics-education-6880c2178d"
+    },
+    {
+      "name_en": "Physiology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/physiology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836408|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Physiology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-physiology-acb7463ddf"
+    },
+    {
+      "name_en": "Physiotherapy",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-physiotherapy",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836409|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN420 MDS5 Physiotherapy (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Physiotherapy",
+      "id": "ucd-physiotherapy-ca30736cc7"
+    },
+    {
+      "name_en": "Physiotherapy (Graduate Entry)",
+      "degree_label": "Bachelor of Science (Physiotherapy)",
+      "official_url": "https://www.ucd.ie/registry/prospectivestudents/admissions/undergraduateapplicants/alternativeentryroutes/graduateentrypathways/physiotherapy/",
+      "intake": null,
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836410|Bachelor of Science (Physiotherapy)",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science (Physiotherapy)",
+          "duration": null,
+          "entry_route": "Graduate entry into year1 or, with an eligible Exercise/Health Science degree and approved prior learning, year2 of BSc Physiotherapy. Prior NFQ8 honours degree required."
+        }
+      ],
+      "catalogue_name": "Physiotherapy (Graduate Entry)",
+      "entry_route": "Graduate-entry undergraduate degree route; prior relevant degree/eligibility applies.",
+      "id": "ucd-physiotherapy-graduate-entry-0c55021641"
+    },
+    {
+      "name_en": "Plant Biology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/plant-biology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836411|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Plant Biology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-plant-biology-b64f076f3b"
+    },
+    {
+      "name_en": "Politics & International Relations",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-politics-international-relations",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836412|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Politics & International Relations",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-politics-international-relations-80a021aa61"
+    },
+    {
+      "name_en": "Portuguese",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-portuguese",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836413|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Portuguese",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-portuguese-fd807c07ee"
+    },
+    {
+      "name_en": "Psychology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-psychology",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836414|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "3 Years",
+          "entry_route": "Direct entry to DN720 PCS2 Psychology (BSc) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Psychology",
+      "id": "ucd-psychology-24da9eaa60"
+    },
+    {
+      "name_en": "Radiography",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-radiography",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836424|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN410 MDS4 Radiography (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Radiography",
+      "id": "ucd-radiography-03d24e178a"
+    },
+    {
+      "name_en": "Social Justice",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-social-justice",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836425|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Social Justice",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-social-justice-ae1c5f917a"
+    },
+    {
+      "name_en": "Social Policy & Sociology",
+      "degree_label": "Bachelor of Social Science",
+      "official_url": "https://www.ucd.ie/courses/bsocsc-social-policy-sociology",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836426|Bachelor of Social Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Social Science",
+          "duration": "3 Years",
+          "entry_route": "Direct entry to DN750 SBU2 Social Policy and Sociology (BSocSc) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Social Policy & Sociology",
+      "id": "ucd-social-policy-sociology-f6a9fae48b"
+    },
+    {
+      "name_en": "Sociology",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/bsc-sociology",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836427|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Sociology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-sociology-83a902bc58"
+    },
+    {
+      "name_en": "Sociology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-sociology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836427|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Sociology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-sociology-38a918e923"
+    },
+    {
+      "name_en": "Spanish",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-spanish",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836428|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Spanish",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-spanish-ff63559365"
+    },
+    {
+      "name_en": "Spanish",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-spanish",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836428|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Spanish",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-spanish-4d9d1d0d85"
+    },
+    {
+      "name_en": "Sport & Exercise Management",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-sport-and-exercise-management",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836429|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "3 Years",
+          "entry_route": "Direct entry to DN430 SMS2 Sport & Exercise Management (BSc) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Sport & Exercise Management",
+      "id": "ucd-sport-exercise-management-ab35056fc1"
+    },
+    {
+      "name_en": "Sport, Health & Exercise Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-sport-health-exercise-science",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836430|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "3 Years",
+          "entry_route": "Direct entry to DN425 MDSK Sport, Health & Exercise Science (BSc) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Sport, Health & Exercise Science",
+      "id": "ucd-sport-health-exercise-science-1335401291"
+    },
+    {
+      "name_en": "Statistics & Data Science",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?AUDIENCE=EU&MAJR=SAS3&p_tag=COURSE",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836431|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 MHS2 Science: Mathematics (includes Applied/Financial/Statistics & Data Science) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Statistics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-statistics-data-science-6c0d434dec"
+    },
+    {
+      "name_en": "Statistics (through Arts & Humanities/Social Sciences)",
+      "degree_label": "Bachelor of Arts",
+      "official_url": "https://www.ucd.ie/courses/ba-statistics",
+      "intake": null,
+      "duration": "3 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836432|Bachelor of Arts",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Arts",
+          "duration": "3 Years",
+          "entry_route": "Entry via DN520 BAU5 Joint Honours (BA) 3 Years",
+          "nfq": "8 (180 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Statistics (through Arts & Humanities/Social Sciences)",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-statistics-through-arts-humanities-social-sciences-e6a385168e"
+    },
+    {
+      "name_en": "Statistics (through Arts & Humanities/Social Sciences)",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/ba-statistics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836432|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN700 SBU3 Social Sciences (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Statistics (through Arts & Humanities/Social Sciences)",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-statistics-through-arts-humanities-social-sciences-5718b489b5"
+    },
+    {
+      "name_en": "Structural Engineering with Architecture",
+      "degree_label": "BSc / ME",
+      "official_url": "https://www.ucd.ie/courses/bsc-structural-engineering-with-architecture",
+      "intake": null,
+      "duration": "3 year (BSc) + 2 year (ME)",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836433|BSc / ME",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "BSc / ME",
+          "duration": "3 year (BSc) + 2 year (ME)",
+          "entry_route": "Entry via DN150 NUS1 Bachelor of Engineering 3 year (BSc) + 2 year (ME)",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Structural Engineering with Architecture",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-structural-engineering-with-architecture-c1d62101f2"
+    },
+    {
+      "name_en": "Sustainability with Business & Economics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/sustainability-business-economics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836436|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN240 STS1 Sustainability Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Sustainability with Business & Economics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-sustainability-with-business-economics-13768ced08"
+    },
+    {
+      "name_en": "Sustainability with Environmental Sciences",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/sustainability-environmental-science",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836434|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN240 STS1 Sustainability Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Sustainability with Environmental Sciences",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-sustainability-with-environmental-sciences-70471b1698"
+    },
+    {
+      "name_en": "Sustainability with Social Sciences, Policy & Law",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/sustainability-social-sciences",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836435|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN240 STS1 Sustainability Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Sustainability with Social Sciences, Policy & Law",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-sustainability-with-social-sciences-policy-law-bd452be5c2"
+    },
+    {
+      "name_en": "Sustainable Food Systems",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-sustainable-food-systems",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836437|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN261 FSS6 Sustainable Food Systems (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Sustainable Food Systems",
+      "id": "ucd-sustainable-food-systems-9def967a6f"
+    },
+    {
+      "name_en": "Theoretical Physics",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/theoretical-physics",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836442|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 PYS2 Science: Physics (includes Theoretical/Astronomy & Space Science) Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Theoretical Physics",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-theoretical-physics-a9884bb1fc"
+    },
+    {
+      "name_en": "Veterinary Medicine",
+      "degree_label": "Bachelor of Veterinary Medicine",
+      "official_url": "https://www.ucd.ie/courses/mvb-veterinary-medicine",
+      "intake": null,
+      "duration": "5 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836444|Bachelor of Veterinary Medicine",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Veterinary Medicine",
+          "duration": "5 Years",
+          "entry_route": "Direct entry to DN300 VTS1 Veterinary Medicine (MVB) 5 Years",
+          "nfq": "8 (360 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Veterinary Medicine",
+      "id": "ucd-veterinary-medicine-c7f9bcbb85"
+    },
+    {
+      "name_en": "Veterinary Medicine (Graduate Entry)",
+      "degree_label": "Bachelor of Veterinary Medicine",
+      "official_url": "https://www.ucd.ie/courses/mvb-veterinary-medicine-graduate-entry",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836445|Bachelor of Veterinary Medicine",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Veterinary Medicine",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN301 VTS3 Graduate Entry Veterinary Medicine (MVB) 4 Years",
+          "nfq": "8 (300 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Veterinary Medicine (Graduate Entry)",
+      "entry_route": "Graduate-entry undergraduate degree route; prior relevant degree/eligibility applies.",
+      "id": "ucd-veterinary-medicine-graduate-entry-ebf552bbb7"
+    },
+    {
+      "name_en": "Veterinary Nursing",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/bsc-veterinary-nursing",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836446|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Direct entry to DN310 VTS2 Veterinary Nursing (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Veterinary Nursing",
+      "id": "ucd-veterinary-nursing-88ccbc1e12"
+    },
+    {
+      "name_en": "Zoology",
+      "degree_label": "Bachelor of Science",
+      "official_url": "https://www.ucd.ie/courses/zoology",
+      "intake": null,
+      "duration": "4 Years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://www.ucd.ie/myucd/courses/a-z-course-list/",
+      "source_period": "Current official directory, checked 2026-09-12",
+      "raw_key": "detail-836447|Bachelor of Science",
+      "entity_type": "undergraduate programme/major",
+      "entry_routes": [
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 BLS1 Science: Biological, Biomedical & Biomolecular Sciences Stream (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        },
+        {
+          "degree": "Bachelor of Science",
+          "duration": "4 Years",
+          "entry_route": "Entry via DN200 SCU1 Science Course (BSc) 4 Years",
+          "nfq": "8 (240 credits)",
+          "delivery": "On Campus",
+          "attendance": "Full Time",
+          "next_intake": "September"
+        }
+      ],
+      "catalogue_name": "Zoology",
+      "entry_route": "Published major/subject accessed through named common-entry programme(s); see entry_routes.",
+      "id": "ucd-zoology-bcef5c68f9"
+    }
+  ]
+}

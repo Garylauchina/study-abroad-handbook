@@ -1,0 +1,589 @@
+{
+  "original_manifest": {
+    "university_id": "copenhagen",
+    "checked_at": "2026-09-12",
+    "final_count": 78,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "official_count": 78,
+    "directory_scope": "All78official Copenhagen bachelor programmes in all subjects/languages, including medicine/dentistry/veterinary bachelor stages; not restricted to English programmes.",
+    "pagination_evidence": "Official headline78; exact website study-filter API POST studyProgrammeType10 limit1000 returns totalCount78 and78unique article data-study-programme IDs; all78detailpages read.",
+    "filtering_rules": "Official bachelor-only filter; no courses, minors, masters or inferred programme combinations.",
+    "can_prove_complete": true,
+    "gaps": [
+      "Official Danish names retained; generic Danish Bachelor qualification labels used where precise BA/BSc English award abbreviation not shown. Teaching language left null rather than inferred from Danish admission requirement or page language."
+    ],
+    "source_urls": [
+      "https://www.ku.dk/studier/bachelor",
+      "https://www.ku.dk/studier/study-filter-api/study-filter"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.ku.dk/studier/bachelor/geografi-og-geoinformatik",
+      "sha256": "2dd01ff394db2e6c30ac9b4bb55df4833ee959630d18249d230d0b73f7b412bf",
+      "bytes": 264645,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-584.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-584.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/teater-og-performancestudier",
+      "sha256": "8b255cdb4e91963d2086a2e50394e756d5af1bed56a018b223fc60ad91c56c9d",
+      "bytes": 194958,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1073.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1073.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/filosofi",
+      "sha256": "da0989d088df0481e22ad2c0793245d903ca1bb8c3684441ca29f2dfd80c53a9",
+      "bytes": 217841,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-793.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-793.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/italiensk-sprog-og-kultur",
+      "sha256": "7685b8d8eada5790aee601eb6a0737864aec05ec1b9457aa397500fbcb9e5c73",
+      "bytes": 209850,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-933.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-933.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/matematik-oekonomi",
+      "sha256": "99a9e9ce19f49e6406ad92140f3c49daa8c203e08c97070fd7c7b827b8235448",
+      "bytes": 240396,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1208.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1208.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/oesteuropastudier",
+      "sha256": "185356c71a3704e46b5b30dfd66646a6a12d08a41b09a10febca40a04c60a120",
+      "bytes": 191687,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1146.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1146.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/paedagogik",
+      "sha256": "abf6b269bc9c07b8680bb978929ca40db67546e0bfae866e4e7d2c4d648c12e2",
+      "bytes": 189274,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1024.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1024.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/folkesundhedsvidenskab",
+      "sha256": "51c601ebe14470873484c54b7e4679f822db8d7d714bb7ea1fb3b8e7b4df231d",
+      "bytes": 202507,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-956.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-956.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/koreastudier",
+      "sha256": "8186437b86ed907a5e5809989f37bc56961e0e7930f364324e636022d72caa35",
+      "bytes": 185182,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-605.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-605.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/litteraturvidenskab",
+      "sha256": "c1eb64d8e43cc3987dcadc9f4d45f6c5b873215fbcd7a5d2a3d48cd6319f1aae",
+      "bytes": 184854,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1016.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1016.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/informationsstudier",
+      "sha256": "530e38585064306f1b756ffc52e50ab2f9b60702855556305ff04290b8f9e022",
+      "bytes": 191802,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-914.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-914.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/naturressourcer",
+      "sha256": "7880972074a05cbf4e9f4004dec191bce90225d55dbefb001f427fe285d07d87",
+      "bytes": 280234,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1201.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1201.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/sociologi",
+      "sha256": "2f3fd94cf4d07c3d9a0dc62a5bb7adc164f7f0eb52872783798d1f57a400eb96",
+      "bytes": 207306,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-591.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-591.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/antropologi",
+      "sha256": "bfc9a5165ae0662b7d26187e06122521fa66e4ed73f76d11722b982e54054d0c",
+      "bytes": 253492,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-119.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-119.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/bioinformatik",
+      "sha256": "8f1d7b464e484a6e13ee8e4a6d808d97fde937be631852778faacb1f67c02062",
+      "bytes": 213928,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-600.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-600.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/skov-og-landskabsingenioer",
+      "sha256": "6594a5ff20e7744566d76e52d5a68092a0d2fb65f30a8405645ea55b95a14572",
+      "bytes": 241871,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-762.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-762.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/samfundsfag",
+      "sha256": "871fe76164963eb2b4c942a9fb37867c0da4a9cbc47b76a9d31ed9028b5be5b9",
+      "bytes": 199606,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-588.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-588.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/oekonomi",
+      "sha256": "b1ae14c16e64d532f7ed7ef4788b45ccd5089a0dc3f347b831f0526f57a40d6a",
+      "bytes": 196900,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-594.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-594.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/miljoe-og-foedevareoekonomi",
+      "sha256": "b8ca31d2ea5a46700e7ef80c14b7f3fde82a5b4f0cc83af18980f10a431af913",
+      "bytes": 250598,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1204.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1204.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/mesoamerikastudier",
+      "sha256": "596247c848dda39188555255aa1d7fd77356f93687cc3fdafc682ef43994fa53",
+      "bytes": 188002,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-911.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-911.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/foedevarer-og-ernaering",
+      "sha256": "4f8cc7bac14714678022dbe1430ba612617c737d64ab753e6be5441d3e42f767",
+      "bytes": 293320,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-961.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-961.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/urban-landskabsingenioer",
+      "sha256": "ca1417907ecb3b3072868ebac4fd30cc5ca5c90a0783bf19f62063040e090e09",
+      "bytes": 265060,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1199.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1199.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/landskabsarkitektur",
+      "sha256": "7fb41c0d449283310cddb3f3546a3291cb97c06b246afca3cc5119b6f921e0b1",
+      "bytes": 226952,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1164.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1164.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/tysk-sprog-og-kultur",
+      "sha256": "90b9715e9e122ee891111751e4856c0e9290f88875a68d1e9b2a1b6e0e912502",
+      "bytes": 201589,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1076.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1076.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/datalogi-oekonomi",
+      "sha256": "359a95025c98a35cc5410ead47001f17b4b96d1a6c4f4d49499ec2cee68af4f9",
+      "bytes": 217622,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-581.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-581.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/study-filter-api/study-filter",
+      "sha256": "4923d2ca3ba1c903c105762d897d4dbed402397be47031bc4fc16608d891aba0",
+      "bytes": 48004,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/catalog-api.json",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/catalog-api.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/odontologi",
+      "sha256": "850f987d4a0964d7b87103559d97f163da0a64c7c680c644e120b3331b92b44b",
+      "bytes": 198467,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-995.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-995.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/klassisk-graesk",
+      "sha256": "752d8486c38ddad4d9037a27e7ae209603d35e49461075a5ab1451ade8dacbba",
+      "bytes": 206421,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-887.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-887.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/sundhed-og-informatik",
+      "sha256": "6d97d7a619b4346521eea6c0fcaa50beaf1d194336515d8f7334971e6f0641bc",
+      "bytes": 208462,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-287.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-287.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/forsikringsmatematik",
+      "sha256": "ee0a1ac3c10c02e461324950d6a4ca9e3852212289d5edea6e94cad10ce27cf3",
+      "bytes": 229902,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-582.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-582.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/lingvistik",
+      "sha256": "ce93e4b2fb651344e964bfd5e4a6027083cb3757a4e8d0c41f62ffc30636a5a1",
+      "bytes": 196612,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1010.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1010.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/_assets/9dc93517c8d9e81a03c8e49bfe8aaa5a/JavaScript/Dist/ucph_content_study_filter.min.js?1789042067",
+      "sha256": "98d7a3670e4a2a3b59868c719465f8b90fad2e1604e5edde8ac66df805a9d476",
+      "bytes": 13028,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/filter-script.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/filter-script.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/jura",
+      "sha256": "e0fb856aad2b165e9eff094b3d2c8fca441724d2a2b8e1ff88190e6ba1f32ba2",
+      "bytes": 240392,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-408.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-408.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/japanstudier",
+      "sha256": "7f13615f07e83337205e7889f0e3abfbd1e6aa325b2580eebff74f8242b367f9",
+      "bytes": 187526,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-597.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-597.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/indien-og-sydasienstudier",
+      "sha256": "09e1946d88514d7cec8431c1314f4272716e717148ab961b749e8b42ac4c6079",
+      "bytes": 191449,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1022.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1022.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/fysik",
+      "sha256": "9703bbf39cbb901db2460efb7d5ec7d91d6d31be288ba0d08f115181834c4cbd",
+      "bytes": 302621,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-603.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-603.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/nanoscience",
+      "sha256": "14bb5e2e67187d441abad0f90b8d7bb141f6977513902a58d639643c17e4f16b",
+      "bytes": 229993,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1202.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1202.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/audiologopaedi",
+      "sha256": "69f3142ac1d6260ead1a46cfcbc88a7863ce21af0529b99712ab3600dcf5f69f",
+      "bytes": 188270,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-606.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-606.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/datalogi",
+      "sha256": "ec74c7d8384b7a00fb99bd662c8e25376b6fe69187fb5fb541b4298225d22b75",
+      "bytes": 300999,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-516.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-516.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/aegyptologi",
+      "sha256": "a28c7f38430a3ae3c56d4535c1ba6359aabe3cd4fd2a2b1e64b7c7be246c6b9b",
+      "bytes": 200799,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-771.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-771.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/klassisk-arkaeologi",
+      "sha256": "59d28ee219fa217f15321764ff2f023d4ddbc0c3a315a1539d39dd745d412ab1",
+      "bytes": 217581,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-972.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-972.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/tandpleje",
+      "sha256": "ab47fead8a92ced879bea9eaaf4780e8cb67fb21bff6f0f2bae3944cbd3154b0",
+      "bytes": 193243,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1000.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1000.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/psykologi",
+      "sha256": "bd0b9b785b69f36d0ef214ba7c331534c38b73f378c4bc6f934d3c3d14ded84a",
+      "bytes": 195448,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-587.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-587.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/fransk-sprog-og-kultur",
+      "sha256": "0de4eed792a423e571891887222af3358719e94e1702175f1520c038a61769fc",
+      "bytes": 201925,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-886.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-886.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/medicin-koege",
+      "sha256": "c20688cc285e7faae403c6409ddb6c10baf8f1b94cbfd19797f34436fb23408c",
+      "bytes": 212948,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-994.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-994.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/machine-learning-og-datavidenskab",
+      "sha256": "37897501e6b0535cb6ccb971a6c19f49adecdb49dd83e71879e8e07038e9f3e4",
+      "bytes": 246941,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1210.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1210.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/bioteknologi",
+      "sha256": "18f6ed50622241b84cad5a9362f04940c848bf63966d3e4009504f7b4f15e637",
+      "bytes": 241936,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-580.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-580.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/medicinalkemi",
+      "sha256": "58549781a378448ab3bd852982beb706f990f733ca21f58fb1f81f87aec19e15",
+      "bytes": 229151,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1205.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1205.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/farmaci",
+      "sha256": "fd5238065544de6c99071ccb7ba3374e9beda6bd55bb5a6ef0592103958d0860",
+      "bytes": 219100,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-595.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-595.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/idraet-og-fysisk-aktivitet",
+      "sha256": "f787317bc62731caff5ea8e9cb28edf40edb51b22c457fd6c92966034d4d1c73",
+      "bytes": 223025,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-910.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-910.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/mellemoestens-sprog-og-samfund",
+      "sha256": "c1e229938e5941c6d31d09e6eab245286e68a0eb893e553226525a553d421cf6",
+      "bytes": 201485,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1017.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1017.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/europaeisk-etnologi",
+      "sha256": "973d557722814bb939001c5d9f30742c162a9e94c77826b14f3313c3176615d9",
+      "bytes": 203548,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-668.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-668.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/kunsthistorie",
+      "sha256": "6797e2c33aca8a843c75421fd382b9a2fba3736bdb04afff303dab167c77860c",
+      "bytes": 191686,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-289.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-289.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/kinastudier",
+      "sha256": "a114b976230b3ecbf03d10b9407c969553fc09f316aa9341c3ee0c9e5b42a30a",
+      "bytes": 198035,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-604.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-604.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/medicin-koebenhavn",
+      "sha256": "120aad63ff74c6e18c2eebbf87d94d252ffeac13e95f396d4cea60dee2da5345",
+      "bytes": 204760,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-991.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-991.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/matematik",
+      "sha256": "4464f1bbe35f3b3d074e6d4906cd6458cbf7a587d3428fa10025b3fb22507a0d",
+      "bytes": 259308,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1209.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1209.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/geologi-geoscience",
+      "sha256": "ce21e22bebb3b9147ca0d785a55cc30d40571b40c9b736196523eb71a2853645",
+      "bytes": 230431,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-585.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-585.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/veterinaermedicin",
+      "sha256": "3c0cbb7a25e388243bb8ad71cb6e6bb23ef2efff5c92439887a821e38fdeb5f6",
+      "bytes": 198288,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1002.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1002.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/historie",
+      "sha256": "d30c11ca11bfd9e157fb79064da43fea35405dd91c8002fc756963ad3255bc7c",
+      "bytes": 196925,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-900.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-900.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/spansk-og-latinamerikansk-sprog-og-kultur",
+      "sha256": "010c10b9fd3cb11c51dd06638bab7d26976806dde6e2f33930f212ccfb51ce94",
+      "bytes": 203833,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1072.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1072.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/retorik",
+      "sha256": "c6b1fa099fb005e797913724225dbd45d03c2349a87109fe09ea961d875c0ebb",
+      "bytes": 188194,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1071.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1071.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/kommunikation-og-it",
+      "sha256": "eb9ddf4f25215961fbfe79168c44266fe88028976805745b58cbdee4f16648c6",
+      "bytes": 215203,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-973.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-973.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/kognitions-og-datavidenskab",
+      "sha256": "138f324d853b503e3640a6688ef2e14f75210d85aca14e48b3ea908ee92b9b80",
+      "bytes": 221146,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-586.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-586.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/biokemi",
+      "sha256": "0a40ab4a3f18bd8e940fe40ba6ca1fe1107060282604fce56020ca6325bf8e12",
+      "bytes": 231739,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-488.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-488.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/kemi",
+      "sha256": "0b5b53763f7920bc1d849672488732f028efb94f28a3239beec7e661ea9c8e2c",
+      "bytes": 242338,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-662.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-662.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/mellemoestens-arkaeologi",
+      "sha256": "bfe938554c5216c128e8682a0d9926457af24d740d315aa2104496fca6a13772",
+      "bytes": 200920,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-770.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-770.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/latin",
+      "sha256": "a44b718db6489af8ba447931e880ebc18b8612cc6e914399839b4a6b6652ceb6",
+      "bytes": 206177,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1008.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1008.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/dansk",
+      "sha256": "858bc1abff6e86bdd83bec8cbf4d4d78037bc73600b77daf595d5e99cbccc95b",
+      "bytes": 209267,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-607.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-607.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/molekylaer-biomedicin",
+      "sha256": "32aa6803d893edb40c298488a72a87c8241b195a0f3dc3440f0f118af6e4e96d",
+      "bytes": 228196,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1203.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1203.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/statskundskab",
+      "sha256": "52246ec158977a41ea6792cfeb432d3e32579362570e7b8fd54b73e2a5e63afb",
+      "bytes": 195182,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-593.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-593.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/groenlandske-og-arktiske-studier",
+      "sha256": "15f42801abe3f22100fc1da3ff8fe06222784ff3320a72adba50118bec7e29da",
+      "bytes": 202826,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-889.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-889.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/musikvidenskab",
+      "sha256": "49c9b70bf464823f07f58b97cda852141e8a23d79ee4d3bcd08e88cec11e3a0b",
+      "bytes": 194258,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1023.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1023.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor",
+      "sha256": "9f82298049a4c474f98e7d0f6d7aad69671a676cda0c4a35200c5bb97d6d2925",
+      "bytes": 160017,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/index.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/index.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/teologi",
+      "sha256": "e0f4c4db48dea1306306a1279c107025cb4c769ec15a424326f0b728b0179b9a",
+      "bytes": 200035,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-409.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-409.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/film-og-medievidenskab",
+      "sha256": "d2083c3a2503708d90199fa9a5b76659be8ecab795a07320ffa34385f6f3f03d",
+      "bytes": 186911,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-737.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-737.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/medicin-og-teknologi",
+      "sha256": "4a91692e59ac8e1a4a02802b7f81b5980b2765eda865e61fca1a03bbe831a5a0",
+      "bytes": 131468,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-747.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-747.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/assyriologi",
+      "sha256": "9c21bad5640bc03c34dff76ecf046a339a39b1cad39b87f6c046bd8c4ef33c5d",
+      "bytes": 204452,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-769.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-769.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/forhistorisk-arkaeologi",
+      "sha256": "a331289812e174fb6635421a726d5cdc9967f576dc12c6c0fd6c23d209b79aad",
+      "bytes": 191976,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-885.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-885.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/engelsk",
+      "sha256": "4a9e88a27dbad0f18b81d24b52d78579a3a80dda90b29dcf21cbf7cef712834b",
+      "bytes": 204012,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-667.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-667.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/religionsvidenskab",
+      "sha256": "4c446495aba7d72d42b45256c63fc48b366abc8ed801d62fce33a4ad0c87ae47",
+      "bytes": 194717,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-1036.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-1036.source.json"
+    },
+    {
+      "url": "https://www.ku.dk/studier/bachelor/biologi",
+      "sha256": "247a3fcea7a5d658221fad2336a59c817070f824e0a9bbb870d8846c93bcf14a",
+      "bytes": 252755,
+      "raw_file": "scratch/full-catalog/europe/copenhagen/detail-286.html",
+      "meta_file": "scratch/full-catalog/europe/copenhagen/detail-286.source.json"
+    }
+  ]
+}

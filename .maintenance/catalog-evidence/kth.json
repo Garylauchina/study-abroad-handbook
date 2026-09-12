@@ -1,0 +1,28 @@
+{
+  "original_manifest": {
+    "university_id": "kth",
+    "checked_at": "2026-09-12",
+    "final_count": 30,
+    "field_policy": "null = not explicitly stated in collected official list; no inferred 4-year duration or English teaching",
+    "official_count": 33,
+    "directory_scope": "All33first-entry study finder cards;30degree/major programmes after2technical foundation routes and1open-entry route excluded. Includes5year architecture/engineering/teacher integrated programmes and3year bachelors.",
+    "pagination_evidence": "All33server-rendered cards match public embedded programme JSON; no pagination.",
+    "filtering_rules": "Preserve integrated first-entry architecture/engineering degrees, not split into invented separate BSc/MSc programmes. Exclude preparatory foundation and open-choice common entry routes.",
+    "can_prove_complete": true,
+    "gaps": [
+      "Swedish award labels preserved; official English programme names obtained from published Kopps metadata. Instruction language not explicit in directory and left null."
+    ],
+    "source_urls": [
+      "https://www.kth.se/utbildning/hitta"
+    ]
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.kth.se/utbildning/hitta",
+      "sha256": "ab0a37739408c88ad42de02b51a1358df555e29e93383a4f0f7accd01f7e0475",
+      "bytes": 505886,
+      "raw_file": "scratch/full-catalog/europe/kth/index.html",
+      "meta_file": "scratch/full-catalog/europe/kth/index.source.json"
+    }
+  ]
+}

@@ -1,0 +1,1979 @@
+{
+  "university_id": "adelaide-university",
+  "sources": [
+    {
+      "url": "https://adelaide.edu.au/content/dam/adelaideuniversity/documents/study/pdfs/AU_Undergraduate_Admission_By_Country.pdf",
+      "sha256": "f32f12d227ba2792b67654c163f21d2cf2f2f53be19fa8e085a8470b42b991c1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/gaokao.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/international-students/how-to-apply/entry-requirements/",
+      "sha256": "43a529a1923d124833e9edfe7edaaca45825367bad2d0bb69d494a64dda9b5e4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/requirements.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/international-students/how-to-apply/entry-requirements/english-language-proficiency/",
+      "sha256": "29ff6f3e811e9c17f43c6a8ed2dbf82267fe4a83444fc8f885520bd1457e74c8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/english.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/international-students/how-to-apply/",
+      "sha256": "4a3af6afdcdc8856e187f321067f4a47f376d9517a03f57790a759f5d6648d55",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/scholarships/international-students-scholarships/",
+      "sha256": "f9fe722f7a307c8d67b1c3511079c6b9ea1c9425fdeb051b4c5a2cd5be8b1230",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/scholarships.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-finance-and-property/",
+      "sha256": "44c02c8a8a809862e52d5cde1050b39016d2514441130df2849b96d15103004d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-FIPRBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-accounting-and-finance/",
+      "sha256": "48282ce36aefc80bb0cbd3830a5b1dd0a56cf7849e14796186c4e26600b592df",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ACFIBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-accounting-and-property/",
+      "sha256": "ee1b534d70def6d8dee0730decc79058d4a2ed58d5c8c6cdf0b16817af9ca5a1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ACPRBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-accounting-and-business-analytics/",
+      "sha256": "e279b9a7b03486f122863f33c9fd4605b8d4b40e2765c5418c9618dc23d1fcec",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ACBABCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-accounting-and-financial-planning/",
+      "sha256": "3ae5ff533278aef1cbd5b31e65dc7f3892f67d34948e9b56c7d1a15e0355e35d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ACFPBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-business-analytics-and-finance/",
+      "sha256": "b702bba3169d6babd15017acd6508deba746c424f5477d87f17c3263aab6908f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BAFIBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-business-analytics-and-property/",
+      "sha256": "71acefa2c132625038b963dbdd2d5477acb9832fef37820d1705b0a9741c28fc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BAPRBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-financial-planning-and-property/",
+      "sha256": "366221c3a219cdf4e3b53bb82b5c9c61a0cf20f97737a2ffc1fb628170eab803",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-FPPRBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-journalism/",
+      "sha256": "34462421915ec20828188bdb436fd814ab60cc9d5575746688a64268f108647b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBJOU-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-communication/",
+      "sha256": "02be726151ffe2ec42e0bab01a6081d26f6a60fa5b52d04936825ff7cd460622",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBCOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-geology/",
+      "sha256": "c9c08ca31033e91f67e6739f7ac14261b18afcc9448039ab5d4102efb9dace08",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOLBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts/",
+      "sha256": "5b5314375b899899fae64b156da3d292601821042a4d7fa3edfcfac71825915a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-genetics/",
+      "sha256": "c50f1f910334fe4875cca6d1dfba5c54f3cf57fd9518cea3424a68698ef31a32",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GENEHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-soil-science/",
+      "sha256": "c8ac604bd5cd1e85f75adb0ff7d376d150143b7a8e0b754d28aa61b3ad8b4158",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SOILBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-kaurna-languages/",
+      "sha256": "9bcb20f21e5b5038df2a120de2547127c6eeea6be5a77bda7a05560934f374df",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-KAURBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-economics/",
+      "sha256": "7df7d02ab50a2acc45f588029be79b59d46c36fa37e0df80ac78b342d5e9fe3f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BECON-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-ecology/",
+      "sha256": "3d274005963753978958b7a730e06895043f5035d47ae8a5c483a5bd163d026d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ECOLHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-geology/",
+      "sha256": "11fdb9a66053dd0e9a0c55e802b635e7d9252980ce982471ac75e9f74e963b96",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOLHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-philosophy/",
+      "sha256": "1d204fc529223d7984daa98e59306f7eb0ef52a829d0d9b133c2be9ed8f18d2e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PHILBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-cyber-security/",
+      "sha256": "a8d678fe8285ebd94f4dcdaaef33e02ec8afd18963b398e3737c398fbb6d0c9c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BCYSE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-evolutionary-biology/",
+      "sha256": "ead6fc9ef47754d870207cc705a6b36d9e2a01a298569fb42fecf1abfbfba7ef",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-EVOLBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-visual-effects/",
+      "sha256": "62ee955a39f3587542c5721fc1283b6d193e25192fb85110be300176bc4d9c8e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BVIEF-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-business-analytics/",
+      "sha256": "4bc2b2154120e8643b0987a154b91430757d2c9e5c587f64e90ae4e8a2e0e5a5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BUSABCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-nuclear-chemistry/",
+      "sha256": "74abf4207756351c7cb0e1cbd2a3a001a9820f484450d2ca70ef21202ad70da5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-NUCCBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-environmental-science/",
+      "sha256": "31a98769bcaf1199ef0d1a3a67a37c02c5881cf2e9976adb053471143f7a48c4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ENVSBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-psychology/",
+      "sha256": "247c5cd7c5c968865f4de6b8f945e3af783ade76d3308ec9950c278830ee39b8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBPSY-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours/",
+      "sha256": "63fb958fc463260ac564d629401e383d2d09bc24a8fa7d2553e75bbefca2819a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-human-nutrition/",
+      "sha256": "5410bd916463a24515b4de48ab4b88af731411c8c5e96eb6202113c0b288a174",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BHUMN-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-veterinary-technology/",
+      "sha256": "640f0043aa641412b5ba0fe4dea5584d8efcbd1c7de74e1fc7ffb4f134dbd1f0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BVETT-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-computer-science/",
+      "sha256": "4ae0e23574fc98990951eabe8662ad528cc2bf1102ce1e03c07e733436ca2898",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BCOMP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/2027/bachelor-of-international-business/dom/",
+      "sha256": "3baafa127f418f891fb24e6560b30c4199cc7674391eec26914ad218164f0b3e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBIBO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-financial-planning/",
+      "sha256": "af69176f74ba0dac60ee9a760e52a7343aef76bb5be1a5422f38a52ea0be180d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-FINPBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-biochemistry/",
+      "sha256": "ba3ab71c6420eada5104dd2c1bb3f79dbfd4464335e384735414de652d9ae228",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BIOCHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-international-security/",
+      "sha256": "a12be26de249304ed511b0ede25095d9f9e2b2ab8f8043ba81acb09aff43883b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-INTSBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-pharmaceutical-science/",
+      "sha256": "6aa00200f20f2eea91cf04176c6542a5cd8a67ad5aee552b699f30eabe6aebf6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BPHSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-computer-science-human-centred-computing/",
+      "sha256": "d3af36cd91e425e610f03ae50352339cffd4f8637e72092e234ee846eaa50477",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HUMCBCOMP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-agricultural-sciences/",
+      "sha256": "b5087e17c28e575874f054da8ac3cbc3733c1491dee2241400cc0007334d4811",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BAGSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-construction-management/",
+      "sha256": "3f50cc647e39fd4235e6470bc469826abd5eb2b6ff9560afffeb83dd9946c944",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BCONM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-chemistry/",
+      "sha256": "7e2c6623e87b843cb4b3a5673813b3fe6ec49b7546011ea4d4cb003ec03d8203",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CHEYHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-geophysics/",
+      "sha256": "070efd705aa8d47190ea00465eddf6cac50e45e1d772c396be56a2fb9682425d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOYHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-gender-and-sexuality-studies/",
+      "sha256": "68cf9c1cab17e1378f0641b5bb8920d2c9b0ec592cc56669fe2484b99e1c2528",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GENDBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-marketing/",
+      "sha256": "78f0c16439bb1e20b7100eea6a552dc04d249b8253cd45dbe58fec62b681b23d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MKTGBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-theoretical-physics/",
+      "sha256": "bd194ed461d9d3f0da56c9f16d0fe0fd0120fa28c875f3194e072178444ce25f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-THEOBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-experimental-physics/",
+      "sha256": "758ad4824832ac37e30b12d09bdd66529811627fb25b5fe578cd03a86fb44436",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-EXPEBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-animal-behaviour/",
+      "sha256": "e3ca6dc9c1e24960beb5edfbea3ae84c8bc171d0fd3fd42c2197b6703f5950c4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ANIBHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-animal-science/",
+      "sha256": "8bc3db7ee611791dca0334840fef19884e6affe5b6e295ec4d512c3a96e28494",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ANISHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-journalism-politics/",
+      "sha256": "15157f31f2223dd15d80cb669d05c4bd75ac0bd4e37f41ae2e384f1ec44e719b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-POLIBJOUR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-banking-and-finance/",
+      "sha256": "a26b913f4306e0286be7b84263dd581015dacc49276748796390992bb34a7f1c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BANKBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-microbiology-and-immunology/",
+      "sha256": "f37121270c67c9528a53856b61db28cf7814facff5d8f1e46fe2af23167e25ed",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MICRBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-art-history-and-visual-culture/",
+      "sha256": "cbc68c39606da610232389dd6e60c001fcb5977532fc366ddde3187040f23d60",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ARTHBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-media-and-communication-media-cultures/",
+      "sha256": "ce79ce955323d614b04af59f85f89e21d1e605534ff88b33f41005ab5dba83b5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MEDCBMECO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-computational-physics/",
+      "sha256": "246089f3442d9093ef5bc8c2807fc15732af931e3af2873fa791d5f95f6c550b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-COMPBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-psychology/",
+      "sha256": "fdc8864b58c8dc20effde694edce77c120f12ac5ee508659726623b08a19a1a1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BPSYC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-population-and-migration-studies/",
+      "sha256": "c64cae84ec7f8021133050a923f3302200a23ce44efef62126a02009855b6032",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-POPUBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-soil-science/",
+      "sha256": "354f4d93166736a56fdf205fa45878079a8e7a3733feeb6bedaefded1973229d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SOILHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-media-and-communication-screen-studies/",
+      "sha256": "4a6ab259e044fbebb5420b59d9fd00c7eac72e4159d637e9a14ba4171c192ef4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SCRNBMECO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-plant-biology/",
+      "sha256": "4710c36a44d1c5748ee02186e481a06659b8c8eff3836cbf1e061300d5c3b0db",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PLABHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/2027/bachelor-of-health-service-management/dom/",
+      "sha256": "16fcaedbf0b8fb76b6c2cc465105eccc77a3cb5d5fd267c1033d2b568d47f2ba",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBHSO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-digital-business/",
+      "sha256": "8e301ec2e2c1674d761b633652d300bd5bd4b76b4770b9008ebca6136764ee94",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBDBU-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-aviation-management/",
+      "sha256": "8555e61dc78f19c770bd2a7329c52cbcb0e20c8dc56607e3393a2db2f37d55c9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MGMTBAVIA-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-analytical-chemistry/",
+      "sha256": "e8a2ff6aa7643c3bc653a643ea9c033085b26c7b5fc24eee9a9ecb587759ed69",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ANACBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-management/",
+      "sha256": "01908a0319306955c3693f2f350e26a7ac93444b8b45ce8da234289d252b10da",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MGMTBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-community-health/",
+      "sha256": "4a43ab02b944b1ab4faffb567a20c593aa89c1148d44e888a6e45bbdf4463bed",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBCOH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-social-research-and-policy-analysis/",
+      "sha256": "8cc28b7c1485f152edb1c7851477bffb3a560d5d0deff8affacb8645035d3abf",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SOCRBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-archaeology-and-classical-studies/",
+      "sha256": "f04c260d7225f1c5eeb6a68537c5b8bbcf7e1fac43aa99aa18d1d97be1b5d18e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ARCYBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts-games-design-and-production/",
+      "sha256": "f52121dfa05689a3d8a581c4ed73f553d49200f70fa207b6567be29603c6834a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GAMEBCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-biotechnology/",
+      "sha256": "bd07b4d0e0ac627fed87bb6447984f547b99838dd3969f3e421ed21ea065839a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BIOTHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-data-analytics/",
+      "sha256": "0f74ce357700756fec811e6f3f6ff50d0ed3671ed5db25c1cfd589ce84625043",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBDAN-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-linguistics-and-applied-linguistics/",
+      "sha256": "ecfa66463f99fe6ae37543a9a9e717d58f50aaa74f4fba636cc4e3e399ea0be9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-LINGBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-cyber-security-governance-risk-and-compliance/",
+      "sha256": "98a92aca449a467fdd4b9fa76d339b686a18c26674fba946ba7e49fd7ca57ae2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GOVEBCYSE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-real-estate/",
+      "sha256": "c4800a2ad8403a16f6b278a7d338747aadbd5441e7945c10828349e3b0404e3e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-REALBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-digital-media/",
+      "sha256": "f87b8343b2dbbde3eeafb568ed2a42dc44ffc3db5dd305c8f8b17514d335eaf5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBDME-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-film-and-television/",
+      "sha256": "9873b2d90a84ca0f3826f999b5876244f5db72cf345ed278695c87db4697e000",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BFITV-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-software-engineering-honours/",
+      "sha256": "895a83071311bc09774bfd4b5d870d7b4d683814e7c2860a283a36be2226562d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HSOEN-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-physics-and-geophysics/",
+      "sha256": "756364765bfad6dfd4a3b61ff4576ddc0107a3968b067276841e73bb831628c2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PHYGBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts-digital-media-and-web-design/",
+      "sha256": "f52956586c609eb2a1dbc763d99924b033f61eb70f69738720d934c6fa35645b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-DIGMBCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts/",
+      "sha256": "6c26ebf0b91fec94e98627d27c81d48487ebfba2f01993421aa4b5f2960099b3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-media-and-communication-screen-production/",
+      "sha256": "b346403b2327825204ed82137e995e909e444b8a3027d826ba85c3010bd65f27",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SCRPBMECO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-architectural-design/",
+      "sha256": "2d2ea1c802da393d1cc935bad071b289e1ea396255e23d7ccedc6ca7a4dfeb16",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BARCH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations/",
+      "sha256": "df779531c734c0f5dac29065da10240935f1b59ca2b3e725b7dccdd5d981a095",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-biotechnology/",
+      "sha256": "45abaec9d3151d30692251bb310dbb331c876aac04b42a954354dd2ceb8d55dc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BIOTBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-social-work/",
+      "sha256": "d11b07f69d9e63e9b07ff7f0922fda6291d68ffae3ecc2f9808263c6362c7d12",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BSOCW-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-geology-and-palaeontology/",
+      "sha256": "3d2d649a6d5cb82ea76d361e2034124609b26a4ffbcff13e206652bbeb6676ca",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOPBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-pharmacy-honours/",
+      "sha256": "f01ac0037349fc33711bb5e3977f32cfd64becb6a0f78597268d08ef5936754b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HPHAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-industrial-design/",
+      "sha256": "2a4b3b57f702f6e021ba792979f68832dbed97e92a91a64e95f4138ba2c1de13",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BINDE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-nuclear-chemistry/",
+      "sha256": "687d59789b19aba45eb5b4e4ef8cc1525f77483bc9f41a4f558b9a35b7a3a99f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-NUCCHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-journalism-immersive-media/",
+      "sha256": "f1fa8407eea9ade34f241b2a0ef60aba817044f927bd51399cb28cde75bc94cc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-IMEDBJOUR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-fine-arts/",
+      "sha256": "51fdaa17b28e9fb115775c84e74e97e348886ab9f143666e1db5f563874771ae",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BFIAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-media-and-communication-strategic-communication/",
+      "sha256": "99195b9cf3335cd4463f0224fc355785b9c11ffa3f3c0b5a0273f3481e789c03",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-STRABMECO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-aviation-pilot/",
+      "sha256": "452e99d87bbac7b309f03f258c21b44fb97747351766c21cd75494fe1f2cc23f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PILTBAVIA-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-environmental-science/",
+      "sha256": "b130e804d662e76e4bd424b869eb961a7591a165552d094deca1bdd5322a3b72",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ENVSHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-journalism-creative-writing/",
+      "sha256": "f8ee8328c9fb63f8ebce6a39c740f9f55f32d566144b480ea000b2120be39099",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CREWBJOUR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-graphic-communication-design/",
+      "sha256": "657c7f8a03d8ad84a54ee148aab91a6b424e23d8da8e7669a84708bf6eb12457",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BGRCD-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-project-management/",
+      "sha256": "05202fbadd8c3b22b281141e9ef29c76414b82b712355375c159df4da1cdb389",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PROJBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-food-science-and-technology/",
+      "sha256": "690846f81de4b222d53bffbf2698634779f2b88356a30810f947fb171f98c389",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-FOODBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-evolutionary-biology/",
+      "sha256": "04890922f54f5455fa4a4c5c38afdc346cf549799cd85a47868e2a916995d085",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-EVOLHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-theoretical-physics/",
+      "sha256": "e2c079d73cfb20de0bc74e41da16154e684f404ee7c0f927bc0f7888e70327dc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-THEOHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-construction-management/",
+      "sha256": "b29c08e51dd951249d3e6f414f8940c2cf5b66152aa75f79ba5b007d2b0658ab",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBCMG-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science/",
+      "sha256": "4808ac39a667c7e16c12f02af6d55c6615802895e22f605ddbe7dee0495ec634",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-experimental-physics/",
+      "sha256": "39554da71b3eb490ba9270f3ffb9d483a309e9dbb875bac7bbb376975c09b3cf",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-EXPEHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-public-health/",
+      "sha256": "8ddeff03e91d5a110a1caafe66ee255f7d600e810401beecb7c67a61fc708e53",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBPHE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-sport-management/",
+      "sha256": "e79819a5fb23a0e43ef8000ecb5616cff4a8ac5418c2821e7009c691c42be56e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SPORBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-geology-and-earth-resources/",
+      "sha256": "1e9b650b68c80731227994f67abc353c69c901f232901258ab312d325e145296",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOEBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-digital-business/",
+      "sha256": "45f0505c9115b6b7530d29855d40be40b7e3105b6414041f0cdaad8ae673c23f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-DIGBBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-economics-honours/",
+      "sha256": "24d8d4078e4c4d673d742ae2c94698f1f70007896207f6f33c2b4bd3da1bad3c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HECON-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-health-science/",
+      "sha256": "70ce7cba844dfb9955702587bf1406709ef6f553a719e451638725d8a9b995b1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBHSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-viticulture-and-oenology/",
+      "sha256": "4272aa6f07d02ac92573dd35cd8b21a88ea4c8754e816260e678c26a31596968",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BVIOE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-pure-and-applied-chemistry/",
+      "sha256": "dfc4f4fffe54fb225267c8ccd80de1eb0866ca8e1a16301af92c6bdf5d39100d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PACHBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-music-jazz-performance/",
+      "sha256": "1c75ed455ed88cf44468488df682d6532615df7b08d144f63b7c79dad7ecd379",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-JAZZBMUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-computational-physics/",
+      "sha256": "c7544e135cb2606e3bb09ee74aec36a8295c11a28d9c1fa753932642ebad2907",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-COMPHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-information-technology/",
+      "sha256": "f97c2682f6fe56013601b0263798dc37897fff7e032e8f74a0ade35735341c6f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BINFT-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-music-music-education/",
+      "sha256": "49924ee2f9d68c3310ad4975c16c1b04970645e81343c18e808fdf719e286a15",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MUSEBMUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-illustration-and-animation/",
+      "sha256": "c9e86014501582a9c24534186634323ef6fa48fe45aabf79b816d952d39f7b5d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BILLA-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-marketing-and-design/",
+      "sha256": "52fbe7bd718c2c84ba41e84c4b3bc9332bef912248deda21b59271161a7a85ee",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MKTDBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours/",
+      "sha256": "f14b4771ca44766e90021a5f1d106d8b5ed1ee3c439979dde7676ee824df8fa5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLAWS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-marine-and-wildlife-conservation/",
+      "sha256": "909c08a8bea95fd28c7492abe1591399ce4be0254471c064be96ea2736b7487a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MARWBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-music-classical-performance/",
+      "sha256": "a56c42574ff628fef739fe63e4528518f740b720c06977432e807edb42f4ce03",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CLAPBMUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-nuclear-and-radiation-physics/",
+      "sha256": "4600fa09ab7d035c03ae6bef73e1cb83c5ec20296b655653e582c934f53749b1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-NUCRBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-analytical-chemistry/",
+      "sha256": "b60018cec91b9998010bc22cb85f1516796728c2d12d170f41c021a6dcf787a8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ANACHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-social-science-human-services/",
+      "sha256": "b03a4a1a982d6589e2eb85eb024e6ab5f474f87827d53b2282a7709c15c6875b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HUMSBSOCS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-microbiology-and-immunology/",
+      "sha256": "895bc5d6672fa52feb2f665f3ff145e2c142f021c41caff1f1d9acf3da5f6e10",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MICRHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-psychology-cognitive-neuroscience/",
+      "sha256": "30dffdd6fc481ea917baa055a5114e422fa865a39637c663067a596488bd75c6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BPSCN-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice/",
+      "sha256": "10607aa56c2888359331fe933b42566df42191439b2c126b5945d3bc424ed289",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-computer-science-honours-programming-languages/",
+      "sha256": "dc9f32e957533a7ba9ccda57bfb33c8a460f6adc842fe6f6ad9081eb9ecb23ee",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PROGHCOMP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-physics-and-geophysics/",
+      "sha256": "e3d0841274e27a504e85bcc5c7beacf37a25e21c77dc1a34ecb4fb646446750e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PHYGHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-human-resource-management/",
+      "sha256": "8c24d704f044668b5db7bf01e711454c7e6782e691c7c72eebcf2ad39576c59f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HUMRBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-human-movement-sport-coaching/",
+      "sha256": "ef7dfdec8e50d7fb0d7a92de89279185cad6361a5881514e04cbaedc2a10620b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SPOCBHUMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-podiatry-honours/",
+      "sha256": "4a0d4dec5e5076cb44dbbc96e78b5949fcf7ea5f9c8536441ff1971fa2551c3a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HPODI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/2027/bachelor-of-engineering-honours-flexible-entry/dom/",
+      "sha256": "8a5e1a620c42ba8534e9e41902ced002d90e9ed31e427c4d989c905756a04939",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HEGFE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-international-business/",
+      "sha256": "3eb4d1a79140d5e87cbbc35942f39eb2426dd06c325b3de1a43c8bf338627ff2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-INTBBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-space-science-and-astrophysics/",
+      "sha256": "b4ff5de2d7ea800b8a657d07618c2fd91b023aa991d8b2c6668722418df249fc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SPACBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-social-work-honours/",
+      "sha256": "88fe7a1874f11399c938f42b871609cdabe50e0f6cc8b555537f201cb372ec83",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HSOCW-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-economics-advanced-analysis/",
+      "sha256": "a75058b33b7a32db5469d6a45837cf4eb5ecf41e6cea80678ac52798a8ad1ebe",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ADVABECON-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-geology-and-palaeontology/",
+      "sha256": "f81b8d6377a70d0bc36bab17e155d24b62c94a740ccf65a68a42c77fb127b5c1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOPHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-physiotherapy-honours/",
+      "sha256": "e8a0bc53337f540fa67ca160a3c59eb2e3200a9d304e4da046294117b5baa02f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HPHYS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-history/",
+      "sha256": "31e79b7fd3f6f56d56d3667bf7d8a833ad8febf813632cba2c9f1244947cfad0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HISTBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-media-and-communication-games-design-and-production/",
+      "sha256": "c9be451d1b8ffadbd07d0c2079c1c100abc3722671fc71ef1485cc4e31f0249a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GAMEBMECO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-politics/",
+      "sha256": "af44daff3ab8b3354fbd4510a4314b493b723d74bd47661b237ff1773aee854f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-POLIBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-journalism-strategic-communication/",
+      "sha256": "037895810e68da14d69f38b83c2eb9c0054b76998c0cfc71b94203c264078d67",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-STRABJOUR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change/",
+      "sha256": "20836e0438db0d7f808f850e314b4d5e268125600eda408193471e505efdc3b6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-evolutionary-biology-and-palaeontology/",
+      "sha256": "3a5df83589deb7503d86857189d2629989c4f32b2a23d06282842c4210e52fd1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-EVOPBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-media-and-communication/",
+      "sha256": "26a0fcc5e36cf639a2a8960c360f6c0e08066f98b7cefe21bb2d8e916b9a821f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BMECO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-computer-science-honours-human-centred-computing/",
+      "sha256": "8c5d9de9ea4e6a3594786286d309cf25587fd4c550b7acce4061b2a4341ba22a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HUMCHCOMP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-environmental-and-geospatial-science/",
+      "sha256": "0eb29060a2626061278b89757cf372a133d3b0ca11f80ad32e6720775e0fd18c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ENVGBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-public-health/",
+      "sha256": "fe3cb5f4036cdaff9ca53d3037ef589c8d73dec7ff75c6e7caeea93032663163",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BPUHL-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laboratory-medicine-honours/",
+      "sha256": "d2782fe2e7e0ef05da4af4507ba4a114e9ce2c83152b8aabe54d436ba53028bd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-computer-science-honours/",
+      "sha256": "ebc31599c9dd1f5a24f2e70459f0b148630aaba22aeaba589c37c1692bee2deb",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HCOMP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-medicinal-and-biological-chemistry/",
+      "sha256": "314fcdec2a9b7d70853111a64c1e1834e295362e45d6f35e323f2422dfa8c8b1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MEDBBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics-statistics/",
+      "sha256": "384addcbcac9de2f0483e4de5df50425cea034c9db9e6667866b6c544f9cb4fe",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-STATBMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-pure-and-applied-chemistry/",
+      "sha256": "dcf306e4178881f56e59205d3d7582df5a6c021e62743dc749b392a091cc0031",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PACHHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-marketing-and-communication/",
+      "sha256": "a0988f34fb9b014e1dd9834a078bc3600be7be8490cab17ef40d1c56b25b3e5a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MKTCBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice-politics/",
+      "sha256": "a0f8dd24c25886fba2d2e19de695bf757cf8667d2ef9232adb0045142aea5068",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-POLIBCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-music-honours-music-education/",
+      "sha256": "52fb700ca9319911ffd9c081e1d7b1d8dd53696916d323383d83280ce0a2677c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MUSEHMUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-business-economics-finance-and-trade/",
+      "sha256": "c3da8c59cef34118fbcb6fca05c20ea64ccd5a7eb295c82ba5a26e9d567cb871",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBBEF-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-food-science-and-technology/",
+      "sha256": "5e093c560d648a474ac55a15da54815e3ca0ccc7eef156af31230d368acc1b87",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-FOODHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-computer-science-artificial-intelligence-and-machine-learning/",
+      "sha256": "0d521f8e07815c91973a4df1cfaef7052c333d9e2f6d2a1820709c851e18dc79",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-AIMLBCOMP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-human-movement-human-nutrition/",
+      "sha256": "f2f5ae2f0f715f81aafaf2a9515dbd406fdb1de13becf8aaa5af32c69eea5b1d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HUMNBHUMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-nuclear-and-radiation-physics/",
+      "sha256": "a983d38cddb91d8299e72b8958c433c7dd080dd5ad3d0998ba65ae407c4071d0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-NUCRHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-politics/",
+      "sha256": "93c03adfb68c55043bf54c2ad8e8595b10faf09e2da35f5c58c59f7dae07de73",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-POLIBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-history/",
+      "sha256": "b15d842e401f2ec3428b0cb0f41c161dfdeb464354ea5457a0b127ea514d1b7c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HISTBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-business-analytics-and-financial-planning/",
+      "sha256": "a0752f2d0975474f05a7bdc29629cbb91f008475404746e52aa29aafaf4b4a94",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BAFPBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-sociology/",
+      "sha256": "d96e7fb2d1111f15f51f09277f45704fc57a7a6c89917cbe14effba37ce4e46a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SOCIBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-psychology-honours-1-year/",
+      "sha256": "f9a9be51d24603ce998cc8cdd7229578a7d296e6bf393e421dd5eef90be42347",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HBPSY-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-geography/",
+      "sha256": "14d4ad11fd4f366326c1a90d80bb020ca35a04c0b695cb09a24523fe94206388",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOGBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts-festivals/",
+      "sha256": "10fdd3006b6e4f9fd4e5ca18ee6e52e28448a08f42f9e4796df6422d132b9070",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-FESTBCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-anthropology/",
+      "sha256": "61b506c218cbe64160f91c27e367c4a9d9593693894ec7b073f87ecceb3e3b03",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ANTHBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-cyber-security-technology/",
+      "sha256": "dd2620f421671e7efcaf70965944dd0f2466628ee4c59d55924ddf3ec59d0f57",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-TECHBCYSE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-aboriginal-studies/",
+      "sha256": "cd0d92bee6ab7824eb5a103db0341bf1b2bc0349f8789642d6cbdbc4058e7394",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ABORBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-international-development/",
+      "sha256": "d5c17178f51d74703458191bb4ebf09efbf34136bf00f9947d871f22fb0e3ca9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-INTDBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-english-literature/",
+      "sha256": "9bf7bf8b6073328fad10988e6038d15c54ea8f70f2f2240d11311eaac03421d6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ENGLBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-environmental-management/",
+      "sha256": "2f3a1e1d511a612255d989e0d9f2a0b0e0bfbc2b49ef69707242fedaf87a3378",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ENVMBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-italian-studies/",
+      "sha256": "63ede6cd95952a0fb68d4daeddc071287ac58cafa2c9b4c2d7e7b723a3b9b9e3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ITALBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts-performing-arts/",
+      "sha256": "ccdd2aaf9ed00d38dd77d49ea362313732b41d9a5437db80399e57416efd4152",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PERFBCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-ecology/",
+      "sha256": "738ed0b4fa735d72e574755628d773647d78398d4fdfec2f84808f90438f6fff",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ECOLBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts-immersive-media/",
+      "sha256": "b43eca1c18b6c2caa4c8b74dfd4eef35929008f41f2862f6a2e4146fc647cea9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-IMEDBCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts-creative-writing/",
+      "sha256": "4b5b59d1092dde6d444719b7291e095fabd916366c91cef780fbc7d38976b6d2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CREWBCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-screen-studies/",
+      "sha256": "55deba31a34f8b60ce9b6958c85f5bb18f649c266eaa28839dfce7c1cf1e4d6a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SCRNBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-genetics/",
+      "sha256": "b2b54ca3fcaca0e78adfb9ce6dbd6af8958b1c92612cd15ef57b8813ac8d0b93",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GENEBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-spanish-studies/",
+      "sha256": "214c40c73d4b3b5e6dbe7665cc49a4e1fce194bc32be892ad4d237c013aa948c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SPANBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts-creative-industries/",
+      "sha256": "fd7aa3842d8b9a9b35ee24552386502437900f82a1eb0fdddf08e1cbfea9d7ef",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CREIBCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-music-theatre/",
+      "sha256": "a1517fff7742803c868674b865931db32395d8100fae709c3d37281b8cf9bb1c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BMUST-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-property/",
+      "sha256": "76dff05ed081fc13492d89c5812257eac39b3f2929ef825feca81ba96ef6cc12",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PROPBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts-screen-production/",
+      "sha256": "ee62aa15a5ab91541c79f2385268f9a5f3ce431515bc1e34bc6b74507f62740f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SCRPBCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-cultural-studies/",
+      "sha256": "498b30bb48ae6a8abedf9bd29ed190960034f043364d8c42f6c6ae923000859f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CULTBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-french-studies/",
+      "sha256": "f4f507b4628f8654148a882da716fba9b27a6b4b991d0b857364fc0b4ce0c732",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-FRENBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-japanese-studies/",
+      "sha256": "be06b432bf63b863c00740f4943e8565c66fa048403ec654e1576625c32dc7c4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-JAPNBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-journalism/",
+      "sha256": "5b8ee25668b555e85396e64dcd6cb35a260f80eda0599c1ca0ce4056668e1141",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BJOUR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-creative-writing/",
+      "sha256": "05a268d64d934c28201d0cf7c2df669934cf18c22cb039067074ea2dd8bd7525",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CREWBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-geophysics/",
+      "sha256": "7a517909e7fc61f431df7468a434345798e10aae6161099e31d66553a0afc9a6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOYBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business/",
+      "sha256": "992aa7dddbb63b92a7a699155efef5f4edc5ebaa3b4e8dd23e8b8211dcf43e3e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-biochemistry/",
+      "sha256": "168f88dad517d3b500469e5ffe02c4a085d80b10ae004217ad9a0380b18b0943",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BIOCBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-creative-arts-comicbook-creation/",
+      "sha256": "8d095716febc7b123ad158724aaf5d609ba8e65b8b9008a3035bf50c0982be05",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-COMIBCRAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-animal-science/",
+      "sha256": "0954d07c14e404f8c1e9c46212a0500844e5c2d27ff54e709e191b658a42e919",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ANISBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-computer-science-programming-languages/",
+      "sha256": "e083f014bb82cfe50b8c4b192c3bcd6da767b76ea9148280ac2801b1b0bc3e39",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PROGBCOMP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-chinese-studies/",
+      "sha256": "4763e428ab3ddbabf91a069af805a9bba12c341420d68e46a5709d089598d866",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CHINBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-plant-biology/",
+      "sha256": "f37d1d13ecfa5abba8367ec4ba0ae9ba6746a134b4556722541c1de310b921a0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PLABBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-arts-german-studies/",
+      "sha256": "26d8450ca4f172127394e6475b5e3d0f39c47b5db9d8f50b3ebe792255263a64",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GERMBARTS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-animal-behaviour/",
+      "sha256": "51b9049f028a55e65becc7532558f6a6960be882e737ab175aa431332fdc62f9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ANIBBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-commerce-accounting/",
+      "sha256": "9fe4997432cd1fcdce70f547c37763f33dd0cd5b4ef979185fec0bc806b92a39",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ACCTBCOMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-chemistry/",
+      "sha256": "2402f14d192f23fc8c1cabd1b39d440d88ecb8d5f3bebc58e94c3a82a2ba535e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CHEYBSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-marketing-and-communication/",
+      "sha256": "31c26b8b4340c62501d9f0b34b141aa20a17f1290f799fb55a53bc8413828434",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBMCO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-media-and-communication-digital-media-and-web-design/",
+      "sha256": "a73abd6aa3d5257795e89222f5904b67c8257d8bafcc31b78a211d127ffa48b0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-DIGMBMECO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-marine-and-wildlife-conservation/",
+      "sha256": "45273837d009f1def61500247dd2ceb425231411b6c7ce3ae46776e20ae10630",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MARWHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-accounting/",
+      "sha256": "ae9b476e349977a3506469f007f9c3eb7616b95c1ac6cf2f4fa592ea4c09d61d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBACC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-interior-architecture-honours/",
+      "sha256": "947b3b10ee2318ccdb4c21c5f6b531673a9ccacf204b4f7b428ee2eedb9cb5aa",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HINAR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-architectural-design-urban-planning/",
+      "sha256": "adf3b8e9e2d39418fd30698de56c2ea9dd21242d376f1454f9cffb3659f4d4bf",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-URBPBARCH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-music-honours-jazz-performance/",
+      "sha256": "f804e1a435592557f4100074ca0f9758ae99e74e1c1ce2046533c99bc7bbe1c6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-JAZZBHMUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-biomedical-and-health-sciences-genetics/",
+      "sha256": "f255f47e5cee4300bde4f049783b00bea561b2676dba5729cef0eb8d4a95ff4e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GENEBBIOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-biomedical-and-health-sciences-biochemistry/",
+      "sha256": "3b01ce5260282db4bac5430e0be646125b47e9fcaedb478078b027001b042ad6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BIOCBBIOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-spanish-studies/",
+      "sha256": "c5cec16321c43bc0c8ab7e206bcb3ff8311b42f41c7a9d8ea5a67bf1e8a9bb83",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SPANBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-space-science-and-astrophysics/",
+      "sha256": "16a94b5f34689391fbbd1504db419fdc57944e4b92e1eeed561f0262c0c6185a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SPACHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice-history/",
+      "sha256": "93dd45ca29fe900fe7301bf3ff83aa79ca0c7dbb660b883bc09b756f5b4f2b7e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HISTBCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-information-technology/",
+      "sha256": "1bbeddb5618a6989ddaa86641eca84830883363a3091ed6117a03e8139d148d2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBITE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics-data-science/",
+      "sha256": "598d5ef2f8e18a0cd4346b8f8e7d012ff03bfe272d5521b14b56c1a5f0d29e68",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-DATSBMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-information-technology-data-analytics/",
+      "sha256": "6de4bff535cd78fd452b98f19ae4ae5df6946bbcccc4b683bf4d9394e3e8e197",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-DATABINFT-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-environmental-honours/",
+      "sha256": "633b990192480bc262688f83b098840f27bb2b4bfab6ef240c2e012241a791e5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HENEN-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-music-honours-classical-performance/",
+      "sha256": "b4829d2f7d7327a8020298560ffcd4c8f75a22be19b309dbbc7e232e8fee742a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CLAPHMUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice-sociology/",
+      "sha256": "e50c6ddd3ece46a0ab05ad09517a54ec660c1bdddf11085fcb1dc43c7b73f48a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SOCYBCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-commerce/",
+      "sha256": "d5c3b2afb7fb31b75cf33a1c3db1f56f524bd9924e7f2cbbf118da061f8c66d6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-social-science-ageing-and-disability/",
+      "sha256": "42c0019112c7cb1ce5ffeb65e36f6900308a59b5b813142e86f2c8bb9a2c4884",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-AGEDBSOCS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-information-technology-games-development/",
+      "sha256": "cbf34243321e00ab82ad201bf45abfcb565a2828ee29e0a67b6976824246caba",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GAMEBINFT-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice-anthropology/",
+      "sha256": "ab695057fb3b2552de7765a2cbe6a73b88c2e8c96bbd8573276818ecbe23ec2e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ANTHBCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-geology-and-earth-resources/",
+      "sha256": "756c7e417a939e0af4de13bb6997f0e45130ff656c7061f34b127fb9b11d9b27",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOEHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-criminology-and-criminal-justice/",
+      "sha256": "6190451ae5374a626ae3401387d6383f6724e85129fcf4c20a6915e63b6ed4f9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBCCJ-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-french-studies/",
+      "sha256": "faf87f200e94dbecb46994fc4bbc784c9edc1cc6111c7d110b485fc00133bde8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-FRENBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-evolutionary-biology-and-palaeontology/",
+      "sha256": "eb0e7efc26fd7fd3a47b5ea7a9394870b9d7ecbf067dd2264b57343b48d6c8d8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-EVOPHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change-anthropology/",
+      "sha256": "d75fd8429af0ebd141e0fc2e15bbebea4e7e526f434ab823f47d2e68b68d58b3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ANTHBSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change-geography/",
+      "sha256": "739795b3cb9061771266ab1074ba47a069d9771ef8744601fb199f47d54ea055",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GEOGBSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-music-creative-practice/",
+      "sha256": "956f9d4abbccb9b1cf2501661d07c3070f847266ea45a2362d736f309aae17e6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CREPBMUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics-pure-mathematics/",
+      "sha256": "1fb4a4b8206a2ca891d3376814b78333b9b93a9af7184acb2cfa10fb856aaf29",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PMTHBMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-psychology-honours-cognitive-neuroscience/",
+      "sha256": "76526fe345feaf7d74c564f72efda340978f13b3c2b0f660147ef4c205347326",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HPSCN-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-electrical-honours/",
+      "sha256": "76e632402a2ec0d80f38d832b80e3f8cd7aac67b4d24c4fd242afc87e7555b95",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HENEE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-business-management/",
+      "sha256": "dcb87b9add4f7a54ac884bee74c21ca1e32bdfa404d544002c5c92ee7c2650ce",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBBMG-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change-politics/",
+      "sha256": "0ccb2a208a2f09a76aba1a4ee7d68128ded6f1a2950c51f96f7d2af9a942ae71",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-POLIBSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-information-technology-software-development/",
+      "sha256": "3d1ebfcdb11c80de6a44d3ca19a70dfe47cd4308522d76340319cd29c50334fc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SOFWBINFT-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-media-and-communication-digital-and-social-media-storytelling/",
+      "sha256": "98fee6a6f777407ef93b56181a998b51b7934b48064c84130d6a0d1cc2fa2060",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-DIGSBMECO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-psychology-counselling-and-interpersonal-skills/",
+      "sha256": "10a65945719e09bd4e11478d3c2719729d63b763073c84054dc6d01e7ca50363",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BPSCI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics-applied-mathematics/",
+      "sha256": "e3983f8edafda7a747255a1dedea53a438c11975a1262b5ae2798f245c46b25a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-APPMBMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-italian-studies/",
+      "sha256": "7d62c04f356641d19b1b67f596c25ec73d94c39c1a701465983fa6ce99b3e882",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ITALBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-media-and-communication-immersive-media/",
+      "sha256": "226322061ef7f885096968896de1d10abc34432a51c267704d3b8b39c7a87697",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-IMEDBMECO-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-medicinal-and-biological-chemistry/",
+      "sha256": "d93539c6a500ecfdc7cf312d663565768c9e6d95bc3073ac706c2108820fa25a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MEDBHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-honours-environmental-and-geospatial-science/",
+      "sha256": "142e9f2f9637239d2b4128e78b8a113a31396eaa3014d9f267a9e3b58cf5c16f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ENVGHSCIE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/2027/bachelor-of-software-engineering-honours-apprenticeship/dom/",
+      "sha256": "4bffbf6fd9707019044a36a38733c5e26ec09e6e0e0e2f18df40b22f52894cd1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HSOEA-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-psychology-honours/",
+      "sha256": "bb4f4c2b4ab2ebe283e3235a8f77e76d971f758940013788d2f196ca845c0d9a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HPSYC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change-sociology/",
+      "sha256": "3ec01f3259b635da7c97503b9b42a86422531da7855f3ce2bdcabd13f6075e3c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SOCIBSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-biomedical-and-health-sciences-clinical-trials/",
+      "sha256": "425d2b09dd9fe096af3253d27be789fad58cc794618c8e32e48dc32147f235ba",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CLINBBIOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-biomedical-and-health-sciences-public-health/",
+      "sha256": "9ac65890b4a961fb0e4208c312dcc357c7e8c48d13f66aa70122b9e81231ac70",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PUBHBBIOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-biomedical-and-health-sciences/",
+      "sha256": "c182de2108de3b236eeac78ffcde2a7030bb67cb34bc017e9c20926c3cbf2f8d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BBIOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-international-security/",
+      "sha256": "8bdc270bcaa2a22fd5320eaa20d9f7dc77c219c1cea0708222b9ef496507b1fa",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-INTSBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-german-studies/",
+      "sha256": "46b06ee06dfcfa38afd8dc349707cfde6fe98067161975750f2ab97ec21db4a5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GERMBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-international-development/",
+      "sha256": "0b16284369e39125180bb1b10ff05470c0cf6f9413193e0e4a9cfb4fc3dd851a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-INTDBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-psychological-science-and-sociology/",
+      "sha256": "b8d093ce60fbbfc2207b20108dde954a245bf8a7f950b2ea3a7e759b55c9f80e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBPSS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-chinese-studies/",
+      "sha256": "84b4b8cee21ebf5bee4826121e9c71e6f640a750267d79985e60438690be14c2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CHINBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-japanese-studies/",
+      "sha256": "f218efa4f125af950588ef6d7527a50c18ba5e103b266d02e64290c33cfb8556",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-JAPNBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-construction-management-honours/",
+      "sha256": "c6d6301af27cb7aff1b50cf5212cbaaeab63ccfa5fd5f9892ab2503472d4dd9c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HCONM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-medical-radiation-science-honours-nuclear-medicine/",
+      "sha256": "3133f982622ff6ce1417329c05a0304568940687ad02a1fac399e861360c6a14",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-NUCMHMRSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-environmental-management/",
+      "sha256": "f4d0486cfd7a3334aa9173cd73225e532bc9943bf832e70628ed194bded12bc6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ENVMBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-medical-radiation-science-honours-medical-imaging/",
+      "sha256": "dd0c0ede4f6684545c7a93e3ed1ac91e9be5f9dd955006fbee18046ae9a66e76",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MDIMHMRSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-innovation-entrepreneurship-and-strategy/",
+      "sha256": "2bb6cce23db6554e557507e4fdb932d751a7ef3a90b11dde2a5e0b09d6d1969d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-INNOBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics/",
+      "sha256": "f500f193f5436840c1307a759f851a7ca98e10cddf9473edb0320de1fbc1666d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-health-science-healthy-ageing/",
+      "sha256": "7cb5eb46bf7f200103ba50c926961a9888cc3c7f0de857e83d9da051bb9543b5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HAGEXBHSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-chemical-honours/",
+      "sha256": "4fd4b5f45b819a9ae1ffef56ec6bf778982c505afb823fa6a0c7e462987af3d3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HENCH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-civil-honours/",
+      "sha256": "f3faea0575a4411b1c938b854f5ff11d8def4860bf1a6e52afe673f502d4c50a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HENCI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-health-science-nutrition-and-exercise/",
+      "sha256": "a1f4062a6a9f7ede88ae4cd7ce37d098634eea6407d0709d5f497a34fb0a0c2d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBHSN-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-music-honours-creative-practice/",
+      "sha256": "33e99345356b5c2c1d096b0130463129eda88dd965c512c08186687abe266e27",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-CREPHMUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-tourism-events-and-hospitality-management/",
+      "sha256": "80afd560ccbd5e9bec3f6f3b19c972cef2f7cbebf23db5d75855eca801966ea0",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-TOURBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-medical-radiation-science-honours-radiation-therapy/",
+      "sha256": "7661f2ab43e52fe64b11fae572c1dc6fdda955095e79cd48293f1993c5782d23",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-RATHHMRSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice-aboriginal-studies/",
+      "sha256": "151a61d6fdc19660d2baec28a414093916ae5faff53ed0c901e24b9909970d59",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ABORBCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-journalism-digital-and-social-media-storytelling/",
+      "sha256": "ed243d125a28de0826233daaab3509a853576a262c29f987e6514c24c0c30ca3",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-DIGSBJOUR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice-international-security/",
+      "sha256": "35d9c2731094c10538153866db910634210a878c8de40b665752f68ba625dade",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-INTSBCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-business-procurement-and-supply-chain-management/",
+      "sha256": "2e9dbfd7138e6a782ffef75ec79b901b3e6aaff027f9d5dd47644bfebd72b951",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PROCBBUSI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change-aboriginal-studies/",
+      "sha256": "1f16a30d8eea65cbd597a4be18033d3cea946e9234548625e2a892118f2ca769",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ABORBSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-economics/",
+      "sha256": "47dfc81b36069ad97e5d1a69262885821e0a635cc292f8995c265d648abc0f6a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-engineering-mechanical-honours/",
+      "sha256": "017f0be2a13c8e4c280de4ada4460a3bab6bd7c6478503b55f5c1ac413178c80",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HENME-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-psychology/",
+      "sha256": "21228a0cd7f43078bac0fe004f5f122a6a4a3de13983c00c519805d267ddc0fd",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-clinical-exercise-physiology-honours/",
+      "sha256": "0093aebe11ac5bd2531d60f62bc3e9ea9e9882766c1553ebc35dccdf361d1bad",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HCEXP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-journalism/",
+      "sha256": "87a283551e6d3905a43c583d8d06caf6ca4ad6f04c8cc7fb1fdf9b346926c5d5",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABJ-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-business-marketing/",
+      "sha256": "fa46dbbbeee0678c561ae67d9d9cedb5e38166f59a830161bf51dceb37fd6011",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBBMK-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-information-technology-networking-and-cyber-security/",
+      "sha256": "cc751ab80a375f011b2b5ffd85d8d5cc837f49a0f241f5d8fdd6e7e5fa6ba96f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-NETWBINFT-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-teaching-early-childhood-education/",
+      "sha256": "b88687650a2ddcdd72fa9231c00ebe9e7e0680b6a77bd26d763b182c50a6221b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BTECE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-biomedical-and-health-sciences-microbiology-and-immunology/",
+      "sha256": "e989c297ccb4f7434f4d37cb6bb0bc1fa95cf3f7f9df56fa32a1c920086b5431",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MICRBBIOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-philosophy-politics-and-economics/",
+      "sha256": "8de0a349446767b3923be5ee10d788374c3b6daf85c60314de17178ca30f5ee1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BPPEC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-psychology-honours-counselling-and-interpersonal-skills/",
+      "sha256": "576f5b8dea36da161e4f8db8fb9882b62ea27936f3707a27e523fe75a7497dee",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HPSCI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-business-human-resource-management/",
+      "sha256": "f826631c263cb1f2dc76244cce43be0ddcfcf26d86536e5700854e10ea1b49a2",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBBHR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-computer-science-honours-artificial-intelligence-and-machine-learning/",
+      "sha256": "33b2a9cc5526a086c271c662d1f94bf181f8175993161dfb8ffc6cd38ada183d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-AIMLHCOMP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/2027/bachelor-of-construction-management-honours/dom/",
+      "sha256": "0d2883cfd9a2a864b9e1cd6f983c315781dc8396b2d27d986ff7e534d471db70",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBCMH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change-environmental-management/",
+      "sha256": "0d0cbec6aec99cd672930b4c16f321dab908b4a8d8480cd8cba45bb86890960f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-ENVMBSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-exercise-and-sport-science/",
+      "sha256": "feeaf1cf82093dfa0dda0659c085efde126c53688c8c05b90c04514539a3db09",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BEXSP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-business-financial-planning/",
+      "sha256": "61f45785b23d78f8f6fbbf289ac3526d4be82ac1a5adbd79de5317a6a7502f0a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBBFP-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change-international-security/",
+      "sha256": "24e93866a7684a18239013758cc647fec04f7b420eccf13ffd454ba8c3fa2c97",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-INTSBSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change-international-development/",
+      "sha256": "fd0a50fda9deaea522fd8caeca5bfde0a3e13589999ed65dd548fda61477112e",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-INTDBSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-speech-pathology-honours/",
+      "sha256": "3942c550e61aa83e0bbacd5b6dcbf11c45366b0c29edd7e7b81b2a20558647fb",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HSPPA-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics-honours-statistics/",
+      "sha256": "e3532ab8e86716ab65f587203febbb37728e633f990252e4df67687fd3ca8e1a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-STATHMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-international-relations-population-and-migration-studies/",
+      "sha256": "3006cee5df138e5a2c82af7f24a15ac03ec24a37a7309e8dbcc10be5e4dd0b7a",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-POPUBINTR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-business/",
+      "sha256": "0a26dd3ee39ec7a683619e1e0c454dd6e83d40be61a5f8e3fbd47de11f3ac2c9",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABB-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-human-movement-secondary-health-and-physical-education/",
+      "sha256": "52bad70e56f143e181d7ff9677973d3cefa6ce3c0d86cd1c3a3ea29bf1f25658",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SECHLBHUMM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-international-relations/",
+      "sha256": "7c0bd2b2bbbbc402fb2fbdffabc148f8d52b8c972b2951fa0c49c2d3cdf8230c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-occupational-therapy-honours/",
+      "sha256": "1d1c5dc924b217010fb0e0dab2e96c8ab400a7a6b0da817002a657eb4e65802c",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HOCCT-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-outdoor-and-environmental-leadership/",
+      "sha256": "de3e0d45dcd069f03f783803f73bad4a614408be568b5ab1cd094186706e5f09",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BOENL-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics-honours-data-science/",
+      "sha256": "7abf650b0ba0c7c773700f723acb0229a728cd5f199f748710ebe6ad6cb35c26",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-DATSHMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-psychology-bachelor-of-criminology-and-criminal-justice/",
+      "sha256": "a497ea673e79bda6b643c985bb792c5653312cf1405c41faef5703a01d4733a4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BPBCJ-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice-population-and-migration-studies/",
+      "sha256": "294623920d5d9e97fb9f0211deb89d352eafc294e0922a2fe3b5bca4d39d0d50",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-POPUBCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-biomedical-and-health-sciences-neuroscience/",
+      "sha256": "b3b3262e9a353eb81f412f9857f551fafedf2b69121466ebf5a221dd872f0a48",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-NEURBBIOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-dental-surgery/",
+      "sha256": "89a59efe31329482c20a9f69c46a04114b0b7dda331602ca08cc830abd647333",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BDENT-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics-honours-pure-mathematics/",
+      "sha256": "7bc95c335fc4031302ced905ad2a79e27ea9a57b1043ac95a6739d738d9ebbfa",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-PMTHHMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice-gender-and-sexuality-studies/",
+      "sha256": "4ee7c8192a5c2f4b09a92549ba1a6226eaa28ba3dbfb45e04174ea1b2f751c11",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-GENDBCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-oral-health/",
+      "sha256": "cb0aaa60ebf07826db4ac188b9a6f38772b1cf9da3a3966396bea102d2e0a48b",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BORHL-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-sustainability-and-climate-change-population-and-migration-studies/",
+      "sha256": "64707acd7f2ea678521a2cdd97eab91b0f1a64f48eed34061599e30a0620beb1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-POPUBSUSC-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-economics-honours/",
+      "sha256": "89752818adeeed1004b3f371953bdb69990e8b8f2043cbf4cbe3ce971eed3c3f",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLAHE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-biomedical-and-health-sciences-reproductive-and-childhood-health/",
+      "sha256": "2891cb79b9214da6d84fdf825a2ca9baa3bd62c8323784d4ac0ea3b7ddb4c0a1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-REPRBBIOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-nursing/",
+      "sha256": "7985b0351b661366857e1230cee2852c9326d43cea3003521beed1cac23363e4",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BNURS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-midwifery/",
+      "sha256": "f86357bbd0d1d69d88f426550b44193f6497863b9e4410cafa434fb81af33bd8",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BMIDW-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-biomedical-and-health-sciences-medical-science/",
+      "sha256": "20802a1edb2a72204f6c01bf72e254527c9b8ba810c327b05d96f0edd26e9852",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-MEDSBBIOM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics-honours-applied-mathematics/",
+      "sha256": "d65d61aca26e368728fc576f31ef33b5b36eb2a882076012d719fa9f58844c76",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-APPMHMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-criminology-and-criminal-justice-social-research-and-policy-analysis/",
+      "sha256": "aeb7ba842b67fe335aeea8c21e7d9a6da603d5fb5a5bbf07f042fb616d716a86",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-SOCIBCRIM-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-medical-studies/",
+      "sha256": "647ddd9bc0121dd296802e4f20ac1c2158960cbab4b31ae26c92cc9436f88978",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BMSTU-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-mathematics-honours/",
+      "sha256": "87882bf9cb3d06fcf10a96747b4a718063e831c2f5251ff9990bd7a467ef894d",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HMATH-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-arts/",
+      "sha256": "aec893f0a11b5d6e5ad005f5a005134877921b04b82793fa4381c9935dc3a533",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABA-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-teaching-primary-honours/",
+      "sha256": "31c2fe4759948a5c7b8ca70036bee15d52882609559699879afed1b939b44157",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HTPRI-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-science-veterinary-bioscience/",
+      "sha256": "cd4d31f2a467cc32c89f3766d373fe27a8c4a35f5999df8a05f897644b5d6593",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-BSCVB-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-sustainability-and-climate-change/",
+      "sha256": "8419d55b650370324a4413d0daa7c4a5eca2d3003ccb25f8635c82ecaba334dc",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABS-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-laws-honours-bachelor-of-criminology-and-criminal-justice/",
+      "sha256": "489e5a72bcc2b5cd848ed539ba877026a1643ae6a97c7b9fceb26a9068c276b1",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HLABR-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/online/bachelor-of-business-tourism-events-and-hospitality-management/",
+      "sha256": "fb9cce4bb138707bc0d8e98bb50abf677aaf0cb30d8ec7e137dd35f1458592f6",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-XBBTE-2027.html",
+      "locator": null
+    },
+    {
+      "url": "https://adelaide.edu.au/study/degrees/bachelor-of-teaching-secondary-honours/",
+      "sha256": "77f209188469e03c12e55feb7e869651c0d978a2271173cd300134bf009bb568",
+      "raw_file": "scratch/full-catalog/australia-enrichment/adelaide-university/detail-HTSEC-2027.html",
+      "locator": null
+    }
+  ]
+}

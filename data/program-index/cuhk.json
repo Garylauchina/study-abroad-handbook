@@ -1,0 +1,2349 @@
+{
+  "university_id": "cuhk",
+  "checked_at": "2026-09-12",
+  "coverage": {
+    "status": "partial",
+    "count": 84,
+    "scope": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
+    "method": "[{\"faculty_tables\": 8, \"rows\": 99, \"pagination\": \"All faculty accordions contain full rows in original DOM; no pager\"}]",
+    "exclusions": "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.；Do not infer intake, language, campus or award absent explicit source text.",
+    "sources": [
+      {
+        "url": "https://admission.cuhk.edu.hk/programmes/list/",
+        "sha256": "27c2d33578d6c242baeadd2562aef9afb96bb2c717bb72e5813b6e2657241945",
+        "bytes": 810325,
+        "raw_file": "scratch/full-catalog/asia/cuhk/raw/directory-dom.html",
+        "meta_file": "scratch/full-catalog/asia/cuhk/raw/directory-dom.meta.json"
+      }
+    ],
+    "gaps": [
+      "Broad-based Science, Social Science and Computer Science & Engineering entries contain multiple majors; detailed pathways still need reconciliation.",
+      "Passport and senior-year restrictions are retained from row footnotes. Qualifications not inferred from English website."
+    ]
+  },
+  "programs": [
+    {
+      "name_en": "Anthropology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/anthn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "ANTHN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-anthropology-0bdc97590b"
+    },
+    {
+      "name_en": "Bimodal Bilingual Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bmbln/",
+      "intake": "2026",
+      "duration": "2 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BMBLN",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [
+        "remark_9"
+      ],
+      "applicant_limitations": [
+        "2-year curriculum for Senior Year Entry only"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-bimodal-bilingual-studies-adaa60a760"
+    },
+    {
+      "name_en": "Chinese Language and Literature",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/chlln/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "CHLLN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_1",
+        "remark_2",
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-chinese-language-and-literature-9e1c7c42db"
+    },
+    {
+      "name_en": "Chinese Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/chesb/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "CHESB",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-chinese-studies-5299b8ffe4"
+    },
+    {
+      "name_en": "English",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/engen/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "ENGEN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-english-9f38b57317"
+    },
+    {
+      "name_en": "Fine Arts",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/faasn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "FAASN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-fine-arts-7ce79eae6a"
+    },
+    {
+      "name_en": "History",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/histn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "HISTN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-history-902ce1981c"
+    },
+    {
+      "name_en": "Japanese Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/jaspn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "JASPN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_7"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-japanese-studies-66d8d55203"
+    },
+    {
+      "name_en": "Linguistics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/lingn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "LINGN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-linguistics-fdfc8afc60"
+    },
+    {
+      "name_en": "Music",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/muscn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "MUSCN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_3",
+        "remark_6",
+        "remark_15"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-music-2101f32f77"
+    },
+    {
+      "name_en": "Philosophy",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/philn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "PHILN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_1",
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-philosophy-7468c88fe1"
+    },
+    {
+      "name_en": "Public History",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/histn-puh/",
+      "intake": "2026",
+      "duration": "2 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "HISTN-PUH",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [
+        "remark_9"
+      ],
+      "applicant_limitations": [
+        "2-year curriculum for Senior Year Entry only"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-public-history-7d153b8dbf"
+    },
+    {
+      "name_en": "Public Humanities",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/puhsn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "PUHSN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_1",
+        "remark_2",
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-public-humanities-91ee82878a"
+    },
+    {
+      "name_en": "Religious Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/relsn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "RELSN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_1",
+        "remark_2",
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-religious-studies-2e95a04e36"
+    },
+    {
+      "name_en": "Theology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/theon/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "THEON",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-theology-74724309c9"
+    },
+    {
+      "name_en": "Translation",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/trann/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "TRANN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-translation-d511d7108b"
+    },
+    {
+      "name_en": "BBA(IBBA)-JD Double Degree Programme",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bajdn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BAJDN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_hash"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-bba-ibba-jd-double-degree-programme-300d3c5272"
+    },
+    {
+      "name_en": "Biotechnology, Entrepreneurship and Healthcare Management",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/behmn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BEHMN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-biotechnology-entrepreneurship-and-healthcare-management-ff1bc9e1b4"
+    },
+    {
+      "name_en": "Global Business Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/ibbac-gbs/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "IBBAC-GBS",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_16"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-global-business-studies-ca6a460873"
+    },
+    {
+      "name_en": "Global Economics and Finance",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/glefn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "GLEFN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-global-economics-and-finance-44aa271435"
+    },
+    {
+      "name_en": "Hospitality and Real Estate",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/htmgb/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "HTMGB",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-hospitality-and-real-estate-f3c96f2ad2"
+    },
+    {
+      "name_en": "Insurance, Financial and Actuarial Analysis",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/ifaab/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "IFAAB",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-insurance-financial-and-actuarial-analysis-2291d11273"
+    },
+    {
+      "name_en": "Integrated Bachelor of Business Administration Programme",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/ibbac/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "IBBAC",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-integrated-bachelor-of-business-administration-programme-2cd272ef0a"
+    },
+    {
+      "name_en": "Interdisciplinary Data Analytics & X Double Major Programme",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/indan/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "INDAN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-interdisciplinary-data-analytics-x-double-major-programme-c96137c331"
+    },
+    {
+      "name_en": "Professional Accountancy",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/paccn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "PACCN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_11"
+      ],
+      "applicant_limitations": [
+        "Senior Year Entry only for Associate Degree holders"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-professional-accountancy-c454119516"
+    },
+    {
+      "name_en": "Quantitative Finance",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/qfinn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "QFINN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-quantitative-finance-000174286b"
+    },
+    {
+      "name_en": "Quantitative Finance and Risk Management Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/qfrmn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "QFRMN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-quantitative-finance-and-risk-management-science-dacd3cbab7"
+    },
+    {
+      "name_en": "Chinese Language Studies (BA) and Chinese Language Education (BEd)",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/cledn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "CLEDN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_1",
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-chinese-language-studies-ba-and-chinese-language-education-bed-26a6df2e37"
+    },
+    {
+      "name_en": "Early Childhood Education",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/becen/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BECEN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_1",
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-early-childhood-education-4a5806b176"
+    },
+    {
+      "name_en": "Early Childhood Education (BA)",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/chedn/",
+      "intake": "2026",
+      "duration": "2 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "CHEDN",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [
+        "remark_9"
+      ],
+      "applicant_limitations": [
+        "2-year curriculum for Senior Year Entry only"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-early-childhood-education-ba-fcf81391d5"
+    },
+    {
+      "name_en": "English Studies (BA) and English Language Education (BEd)",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/eledn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "ELEDN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-english-studies-ba-and-english-language-education-bed-1cff3690ba"
+    },
+    {
+      "name_en": "Exercise Science and Health Education",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/eshen/",
+      "intake": "2026",
+      "duration": "2 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "ESHEN",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [
+        "remark_9"
+      ],
+      "applicant_limitations": [
+        "2-year curriculum for Senior Year Entry only"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-exercise-science-and-health-education-a406dd342d"
+    },
+    {
+      "name_en": "Human Movement Science and Health Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/hmshn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "HMSHN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-human-movement-science-and-health-studies-06a3aababa"
+    },
+    {
+      "name_en": "Learning Design and Technology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/ldten/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "LDTEN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-learning-design-and-technology-909ad7f88a"
+    },
+    {
+      "name_en": "Mathematics and Mathematics Education",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bmedn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BMEDN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-mathematics-and-mathematics-education-26b3fa41da"
+    },
+    {
+      "name_en": "Physical Education, Exercise Science and Health",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/peshn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "PESHN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-physical-education-exercise-science-and-health-a800d4797b"
+    },
+    {
+      "name_en": "Aerospace Science and Earth Informatics & X Double Major Programme",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/asein/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "ASEIN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-aerospace-science-and-earth-informatics-x-double-major-programme-d8cc2c330c"
+    },
+    {
+      "name_en": "Artificial Intelligence: Systems and Technologies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/aistn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "AISTN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-artificial-intelligence-systems-and-technologies-f636dcc5a0"
+    },
+    {
+      "name_en": "Biomedical Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bmegn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BMEGN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-biomedical-engineering-4e80ec17c5"
+    },
+    {
+      "name_en": "Computational Data Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/cdasn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "CDASN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-computational-data-science-dc21b33cbf"
+    },
+    {
+      "name_en": "Computer Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/cengn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "CENGN",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-computer-engineering-490951d8e6"
+    },
+    {
+      "name_en": "Computer Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/cscin/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "CSCIN",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-computer-science-2ac838f332",
+      "detailed_program_id": "cuhk-computer-science-bsc"
+    },
+    {
+      "name_en": "Computer Science and Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bcsen/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BCSEN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_hash",
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-computer-science-and-engineering-d0fbcbc97b"
+    },
+    {
+      "name_en": "Electronic Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/elegn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "ELEGN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-electronic-engineering-545b702af6"
+    },
+    {
+      "name_en": "Energy and Environmental Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/eeenn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "EEENN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-energy-and-environmental-engineering-964b250702"
+    },
+    {
+      "name_en": "Financial Technology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/ftecn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "FTECN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-financial-technology-d92ab61a50"
+    },
+    {
+      "name_en": "Information Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/iergn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "IERGN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-information-engineering-b194f38f10"
+    },
+    {
+      "name_en": "Materials Science and Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/masen/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "MASEN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-materials-science-and-engineering-5e2a74630d"
+    },
+    {
+      "name_en": "Mathematics and Information Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/miegn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "MIEGN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-mathematics-and-information-engineering-eac5f5b8a9"
+    },
+    {
+      "name_en": "Mechanical and Automation Engineering",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/maegn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "MAEGN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-mechanical-and-automation-engineering-bf51ee3e04"
+    },
+    {
+      "name_en": "Systems Engineering and Engineering Management",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/seemn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "SEEMN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_17"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-systems-engineering-and-engineering-management-6610d54419"
+    },
+    {
+      "name_en": "Bachelor of Laws",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/lawsn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "LAWSN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-bachelor-of-laws-4206a5c4b7"
+    },
+    {
+      "name_en": "Diplomacy and International Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/dipln/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "DIPLN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_1",
+        "remark_19"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese and fluency in Mandarin required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-diplomacy-and-international-studies-85d990719b"
+    },
+    {
+      "name_en": "Bachelor of Medicine and Bachelor of Surgery – Global Physician-Leadership Stream (MBChB-GPS)",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/medun-gps/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "MEDUN-GPS",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-bachelor-of-medicine-and-bachelor-of-surgery-global-physician-lea-5de432d1ee"
+    },
+    {
+      "name_en": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/medun/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "MEDUN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_18"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-bachelor-of-medicine-and-bachelor-of-surgery-mbchb-94a5f2ce78"
+    },
+    {
+      "name_en": "Biomedical Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bmscn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BMSCN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-biomedical-sciences-efdffdb750"
+    },
+    {
+      "name_en": "Chinese Medicine",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bcmen/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BCMEN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_1",
+        "remark_2",
+        "remark_6"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-chinese-medicine-0a92040479"
+    },
+    {
+      "name_en": "Community Health Practice",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/chprn/",
+      "intake": "2026",
+      "duration": "2 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "CHPRN",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [
+        "remark_9"
+      ],
+      "applicant_limitations": [
+        "2-year curriculum for Senior Year Entry only"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-community-health-practice-755e528f79"
+    },
+    {
+      "name_en": "Gerontology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bscgb/",
+      "intake": "2026",
+      "duration": "2 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BSCGB",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [
+        "remark_9"
+      ],
+      "applicant_limitations": [
+        "2-year curriculum for Senior Year Entry only"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-gerontology-b8142338c0"
+    },
+    {
+      "name_en": "Nursing",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/nursn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "NURSN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_4",
+        "remark_8"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese and fluency in Cantonese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-nursing-c3607b5ea1"
+    },
+    {
+      "name_en": "Pharmacy",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/pharn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "PHARN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_8"
+      ],
+      "applicant_limitations": [
+        "Knowledge of Chinese and fluency in Cantonese required"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-pharmacy-ba991f4e72"
+    },
+    {
+      "name_en": "Public Health",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/phpcn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "PHPCN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-public-health-1e5ca63271"
+    },
+    {
+      "name_en": "Earth and Environmental Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/eescn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "EESCN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-earth-and-environmental-sciences-0905f263c2"
+    },
+    {
+      "name_en": "Enrichment Mathematics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/mathn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "MATHN-ERM",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-enrichment-mathematics-f9378802bf"
+    },
+    {
+      "name_en": "Enrichment Stream in Theoretical Physics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/physn%e2%80%90erp/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "PHYSN-ERP",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-enrichment-stream-in-theoretical-physics-5dd9b73f02"
+    },
+    {
+      "name_en": "Natural Sciences",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/nscin/",
+      "intake": "2026",
+      "duration": "2 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "NSCIN",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [
+        "remark_10"
+      ],
+      "applicant_limitations": [
+        "2-year curriculum for Senior Year Entry only; concentration chosen by preference"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-natural-sciences-f6fd553248"
+    },
+    {
+      "name_en": "Risk Management Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/rmscn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "RMSCN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-risk-management-science-192d59cca5"
+    },
+    {
+      "name_en": "Science",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bscin/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BSCIN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_hash",
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-science-523be6a5d9"
+    },
+    {
+      "name_en": "Architectural Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/archn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "ARCHN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2",
+        "remark_5"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-architectural-studies-0957e56193"
+    },
+    {
+      "name_en": "Data Science and Policy Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/dspsn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "DSPSN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-data-science-and-policy-studies-4d2a3c12a7"
+    },
+    {
+      "name_en": "Economics",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/econn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "ECONN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-economics-e26e32568e",
+      "detailed_program_id": "cuhk-economics-bssc"
+    },
+    {
+      "name_en": "Economics (CUHK-Tsinghua University Dual Undergraduate Degree Programme)",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/ecotu/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "ECOTU",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_12",
+        "remark_13",
+        "remark_14"
+      ],
+      "applicant_limitations": [
+        "Not applicable to Chinese passport holders",
+        "Applicable for holders of Hong Kong Identity Card and Mainland Travel Permit for Hong Kong and Macau Residents"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-economics-cuhk-tsinghua-university-dual-undergraduate-degree-prog-3e4e1a571a"
+    },
+    {
+      "name_en": "Gender Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/gdrsn/",
+      "intake": "2026",
+      "duration": "2 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "GDRSN",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [
+        "remark_9"
+      ],
+      "applicant_limitations": [
+        "2-year curriculum for Senior Year Entry only"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-gender-studies-ac99b24770"
+    },
+    {
+      "name_en": "Geography and Resource Management",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/grmdn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "GRMDN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-geography-and-resource-management-5c2d4bf0ce"
+    },
+    {
+      "name_en": "Global Communication",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/gcomn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "GCOMN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-global-communication-e723980900"
+    },
+    {
+      "name_en": "Global Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/glsdn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "GLSDN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-global-studies-42921c4208"
+    },
+    {
+      "name_en": "Government and Public Administration",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/gpadn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "GPADN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-government-and-public-administration-7e9e3d62e8"
+    },
+    {
+      "name_en": "Journalism and Communication",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/commn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "COMMN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-journalism-and-communication-fbb96f3c14"
+    },
+    {
+      "name_en": "Psychology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/psycn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "PSYCN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-psychology-b0978c9aa2"
+    },
+    {
+      "name_en": "Social Science (Broad-based)",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/bsscn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "BSSCN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_hash",
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-social-science-broad-based-9b713b3943"
+    },
+    {
+      "name_en": "Social Work",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/sowkn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "SOWKN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-social-work-44a5a4fb73"
+    },
+    {
+      "name_en": "Society and Sustainable Development",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/socin-ssd/",
+      "intake": "2026",
+      "duration": "2 years",
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "SOCIN-SSD",
+      "entry_route": "Senior Year Entry only",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "non-jupas-senior-year"
+      ],
+      "source_note_ids": [
+        "remark_9"
+      ],
+      "applicant_limitations": [
+        "2-year curriculum for Senior Year Entry only"
+      ],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-society-and-sustainable-development-75119025ee"
+    },
+    {
+      "name_en": "Sociology",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/socin/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "SOCIN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, non-jupas-senior-year, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "non-jupas-senior-year",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-sociology-8ed5119998"
+    },
+    {
+      "name_en": "Urban Studies",
+      "degree_label": "本科项目（学位名称尚未核实）",
+      "official_url": "https://admission.cuhk.edu.hk/programme/urspn/",
+      "intake": "2026",
+      "duration": null,
+      "campus": null,
+      "language": null,
+      "discovery_source_url": "https://admission.cuhk.edu.hk/programmes/list/",
+      "source_period": "Programme / Stream List (2026 Entry)",
+      "raw_key": "URSPN",
+      "entry_route": "Directory applicant schemes: jupas, non-jupas-year-1, mainland-gaokao, international",
+      "requires_prior_degree": null,
+      "status": "listed_current",
+      "applicant_schemes": [
+        "jupas",
+        "non-jupas-year-1",
+        "mainland-gaokao",
+        "international"
+      ],
+      "source_note_ids": [
+        "remark_2"
+      ],
+      "applicant_limitations": [],
+      "record_type": "programme_or_stream",
+      "id": "cuhk-urban-studies-867eb13db8"
+    }
+  ]
+}

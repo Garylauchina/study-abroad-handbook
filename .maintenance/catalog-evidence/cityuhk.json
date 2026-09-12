@@ -1,0 +1,193 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.cityu.edu.hk/admo/programmes",
+    "official_total": 104,
+    "official_total_unit": "programme/admission-scheme results",
+    "pagination_complete": true,
+    "provably_complete": true,
+    "page_evidence": [
+      {
+        "page": 0,
+        "cards": 10,
+        "summary": "Displaying 1 - 10 of 104"
+      },
+      {
+        "page": 1,
+        "cards": 10,
+        "summary": "Displaying 11 - 20 of 104"
+      },
+      {
+        "page": 2,
+        "cards": 10,
+        "summary": "Displaying 21 - 30 of 104"
+      },
+      {
+        "page": 3,
+        "cards": 10,
+        "summary": "Displaying 31 - 40 of 104"
+      },
+      {
+        "page": 4,
+        "cards": 10,
+        "summary": "Displaying 41 - 50 of 104"
+      },
+      {
+        "page": 5,
+        "cards": 10,
+        "summary": "Displaying 51 - 60 of 104"
+      },
+      {
+        "page": 6,
+        "cards": 10,
+        "summary": "Displaying 61 - 70 of 104"
+      },
+      {
+        "page": 7,
+        "cards": 10,
+        "summary": "Displaying 71 - 80 of 104"
+      },
+      {
+        "page": 8,
+        "cards": 10,
+        "summary": "Displaying 81 - 90 of 104"
+      },
+      {
+        "page": 9,
+        "cards": 10,
+        "summary": "Displaying 91 - 100 of 104"
+      },
+      {
+        "page": 10,
+        "cards": 4,
+        "summary": "Displaying 101 - 104 of 104"
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "Programmes include Year 1, advanced standing/senior-year and common-entry schemes; route-level classification pending.",
+      "Title feature descriptions retained as source text; streams within scheme not falsely presented as separate degrees.",
+      "Entry year is not stated on directory cards; no assumed 2027."
+    ],
+    "raw_artifacts": [
+      "cityuhk/raw/admissions.meta.json",
+      "cityuhk/raw/directory.meta.json",
+      "cityuhk/raw/page-0-dom.meta.json",
+      "cityuhk/raw/page-1-dom.meta.json",
+      "cityuhk/raw/page-10-dom.meta.json",
+      "cityuhk/raw/page-2-dom.meta.json",
+      "cityuhk/raw/page-3-dom.meta.json",
+      "cityuhk/raw/page-4-dom.meta.json",
+      "cityuhk/raw/page-5-dom.meta.json",
+      "cityuhk/raw/page-6-dom.meta.json",
+      "cityuhk/raw/page-7-dom.meta.json",
+      "cityuhk/raw/page-8-dom.meta.json",
+      "cityuhk/raw/page-9-dom.meta.json"
+    ],
+    "university_id": "cityuhk",
+    "count": 104,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 104
+    },
+    "record_type_counts": {
+      "programme_or_admission_scheme": 104
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "644e07a90f8055a385a7e20a30fd1e06d99201c93ffce6fde48d0422634ef61a",
+      "bytes": 106789,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-1-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-1-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "1f8f4bd77a6e6734d27c3b65193ded84d59580e8421b4218ac600c8e2c6896e8",
+      "bytes": 82491,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-5-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-5-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "1d6aaf86f9a220bb31f294d79c39ef1816668be6528df547fb6d8d34b9b55efd",
+      "bytes": 82591,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-2-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-2-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "1eebab0f51993aab1fbe9b230fd42ba40636d55b5b321d3b43a7d17425716b60",
+      "bytes": 83187,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-6-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-6-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "3879cb31bd2556307aaf4d9cd6ec2e0d49e45910f43cc62ecddbdee646e047f0",
+      "bytes": 83692,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-8-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-8-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "f5224aa32e0a70c5568a283ab4ac6bae33b7d99683ce8185f8b533f9a504460d",
+      "bytes": 75644,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-10-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-10-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/catalogue/ug/current/catalogue/search_by_prog_UC.htm",
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+      "bytes": 212,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/directory.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "3b8cf0feb7fd3e2978f594cbdefb352420c5d17f899e8efe901c05a4045d9cd3",
+      "bytes": 83267,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-9-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-9-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "503a215dd24514d7ba2dfaa8bfe69d8d840ad90e0df366a686facd7258f17a39",
+      "bytes": 102819,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-7-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-7-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "0d8d965c902aadf438bd86b3874cf04f93ba44da4521e0d7e9be918630142988",
+      "bytes": 104405,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-3-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-3-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "274ac5593e17f350577e8c8497d7e1ed908ce58a23bc6cb6bf668c096ef297c4",
+      "bytes": 104306,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-4-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-4-dom.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "3c0499d1c936d4c787869761f29a2c2bdac0ec62be40090a0d12d59b28c72e9b",
+      "bytes": 953,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/admissions.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/admissions.meta.json"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/admo/programmes",
+      "sha256": "59a4dd16fc5aad771e786720b94d2dc23d034ba7996a12278d71d711a38277bf",
+      "bytes": 106585,
+      "raw_file": "scratch/full-catalog/asia/cityuhk/raw/page-0-dom.html",
+      "meta_file": "scratch/full-catalog/asia/cityuhk/raw/page-0-dom.meta.json"
+    }
+  ]
+}

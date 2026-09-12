@@ -1,0 +1,2099 @@
+{
+  "university_id": "tu-delft",
+  "programs": [
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-1",
+      "name_en": "Aerospace Engineering",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "研究航空和航天系统设计，将多个工程学科结合，用于卫星、直升机、飞机和风力机等系统的优化，并重视可持续性。",
+            "source_ids": [
+              "tu-delft-detail-1"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-1",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "英语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-1",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-1",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [
+          {
+            "label": "2027截止",
+            "text": "2027年1月15日23:59 CET前在Studielink注册，并按国际学历步骤完成学校申请与选拔。",
+            "source_ids": [
+              "tu-delft-ae-application"
+            ],
+            "evidence_location": "Important Deadlines"
+          }
+        ],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-1",
+          "title": "Aerospace Engineering",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "aff5c0147f1b8a4fff234ee8aef488d2958b26880ae7679cad54aa42a52ba58d",
+          "sha256": "aff5c0147f1b8a4fff234ee8aef488d2958b26880ae7679cad54aa42a52ba58d"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-ae-application",
+          "title": "TU Delft Aerospace application 2027",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering/from-application-to-enrolment",
+          "checked_at": "2026-09-12",
+          "supports": "2027航空截止",
+          "raw_sha256": "2907e2d7c9e4860ca6f3640fd329f28089ff7f23fd593b61cfe36092ffd66fbc",
+          "sha256": "2907e2d7c9e4860ca6f3640fd329f28089ff7f23fd593b61cfe36092ffd66fbc"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "英语",
+        "intake": "2027（Aerospace截止已确认）",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-aerospace-engineering-873183cecd"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-2",
+      "name_en": "Bouwkunde",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "通过个人和团队设计项目学习建筑、建筑技术、城市设计、景观和建设管理，研究技术、文化和生活环境的互动。",
+            "source_ids": [
+              "tu-delft-detail-2"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-2",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-2",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-2",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-2",
+          "title": "Bouwkunde",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/bk/bsc-bouwkunde",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "b84c8c2a03caaccd72495bd9ad99cfa8c592ca168380b89bc287e128b71fd445",
+          "sha256": "b84c8c2a03caaccd72495bd9ad99cfa8c592ca168380b89bc287e128b71fd445"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-bouwkunde-9d6e9daed0"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-3",
+      "name_en": "Civiele Techniek",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/civiele-techniek/bsc-civiele-techniek",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "运用土木工程改善建筑材料、海岸防护和水管理等基础设施，关注安全、环境和可持续建设。",
+            "source_ids": [
+              "tu-delft-detail-3"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-3",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-3",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-3",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-3",
+          "title": "Civiele Techniek",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/civiele-techniek/bsc-civiele-techniek",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "50c93a034fb38685cbe4b35013b6a12a3fa863f19151be88cbdd61913953aaca",
+          "sha256": "50c93a034fb38685cbe4b35013b6a12a3fa863f19151be88cbdd61913953aaca"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-civiele-techniek-d6b732466d"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-4",
+      "name_en": "Computer Science and Engineering",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "学习软件开发、数据处理、数学分析、建模和算法编程，每年至少参与一次团队项目。",
+            "source_ids": [
+              "tu-delft-detail-4"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-4",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语与英语两个track。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-4",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-4",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-4",
+          "title": "Computer Science and Engineering",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "d9eb1674f22cff410336ee0cdf03a296a579c82241c9b98c28aaa801efd05df6",
+          "sha256": "d9eb1674f22cff410336ee0cdf03a296a579c82241c9b98c28aaa801efd05df6"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语与英语两个track",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-computer-science-and-engineering-41716b259f"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-5",
+      "name_en": "Earth, Climate and Technology",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ect/bsc-earth-climate-and-technology",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "把地球科学与工程结合，使用模型和卫星数据研究气候变化、能源转型及稀缺资源；2025年起更新课程与名称。",
+            "source_ids": [
+              "tu-delft-detail-5"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-5",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "英语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-5",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理、化学；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-5",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-5",
+          "title": "Earth, Climate and Technology",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ect/bsc-earth-climate-and-technology",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "387f074781cbf4c2dbf9eb4f72e358a83af7fdf87e75daf8ba338c40499d9cfe",
+          "sha256": "387f074781cbf4c2dbf9eb4f72e358a83af7fdf87e75daf8ba338c40499d9cfe"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "英语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-earth-climate-and-technology-a24bedeaa3"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-6",
+      "name_en": "Electrical Engineering",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ee/bsc-electrical-engineering",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "学习物理、数学、电子电路、通信与能源，每半年通过项目应用理论，例如电子听诊器或自主机器人。",
+            "source_ids": [
+              "tu-delft-detail-6"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-6",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "多数书本和讲座英语，但须具备荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-6",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-6",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-6",
+          "title": "Electrical Engineering",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ee/bsc-electrical-engineering",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "e4d42f2d6a68daa3712b2595e76a4a2f1ab90ba702a45e2c21377e040fc13c6f",
+          "sha256": "e4d42f2d6a68daa3712b2595e76a4a2f1ab90ba702a45e2c21377e040fc13c6f"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "多数书本和讲座英语，但须具备荷语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-electrical-engineering-56e3b2890e"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-7",
+      "name_en": "Health and Technology",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/health-and-technology/bsc-health-and-technology",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "在Erasmus MC鹿特丹以团队项目分析复杂医疗问题，同时设计技术与组织层面的解决方案；须留意新项目认证及开放状态。",
+            "source_ids": [
+              "tu-delft-detail-7"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-7",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "新项目页列数学、物理和生物先修及荷语要求；本轮尚未核实认证完成后的中国高考适用细则和首个入学年度。",
+            "source_ids": [
+              "tu-delft-detail-7"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-7",
+          "title": "Health and Technology",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/health-and-technology/bsc-health-and-technology",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "100f0a05247ea079e576d5756a9d9737d5c49388e250986e62ecd196549d09de",
+          "sha256": "100f0a05247ea079e576d5756a9d9737d5c49388e250986e62ecd196549d09de"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "项目页明确荷语入学要求，完整授课语言本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。",
+        "联合/合作项目实际受理、注册和收款校方须核对，本轮不把TU Delft通用费用自动作为该项目报价。"
+      ],
+      "excluded_school_sections": [
+        "admissions",
+        "applications",
+        "fees"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "campus": "Erasmus MC",
+        "tuition_summary": "合作项目收费范围本轮未核实"
+      },
+      "inventory_id": "tu-delft-health-and-technology-4973fafecc"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-8",
+      "name_en": "Industrieel Ontwerpen",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/industrieel-ontwerpen/bsc-industrieel-ontwerpen",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "以人、组织和技术为三大支柱，学习设计方法并开展个人或团队产品设计，结合社会问题和技术创新。",
+            "source_ids": [
+              "tu-delft-detail-8"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-8",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语；部分课程英语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-8",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-8",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-8",
+          "title": "Industrieel Ontwerpen",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/industrieel-ontwerpen/bsc-industrieel-ontwerpen",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "344ec5febc6541ba49d230f2c7cd4acad317e92691a62a725f7637fda479e387",
+          "sha256": "344ec5febc6541ba49d230f2c7cd4acad317e92691a62a725f7637fda479e387"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语；部分课程英语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-industrieel-ontwerpen-7725d3b1f7"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-9",
+      "name_en": "Klinische Technologie",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/klinische-technologie/bsc-klinische-technologie",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "联合Delft、Leiden/LUMC和Erasmus/Erasmus MC培养医学与技术能力，研究复杂医疗设备支持的诊断与治疗。",
+            "source_ids": [
+              "tu-delft-detail-9"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-9",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-9",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理、生物；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-9",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-9",
+          "title": "Klinische Technologie",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/klinische-technologie/bsc-klinische-technologie",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "06bc6a863656c07acf5baab21822679837895e72c5efffc84b33114e98e7132a",
+          "sha256": "06bc6a863656c07acf5baab21822679837895e72c5efffc84b33114e98e7132a"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。",
+        "联合/合作项目实际受理、注册和收款校方须核对，本轮不把TU Delft通用费用自动作为该项目报价。"
+      ],
+      "excluded_school_sections": [
+        "fees"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "合作项目收费范围本轮未核实"
+      },
+      "inventory_id": "tu-delft-klinische-technologie-fc3211a385"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-10",
+      "name_en": "Life Science and Technology",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/lst/bsc-life-science-and-technology",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "研究活细胞的工作机制及控制细胞的技术，结合理论和实践，面向药物、能源及生物生产等问题；属联合学位。",
+            "source_ids": [
+              "tu-delft-detail-10"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-10",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-10",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理、化学；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-10",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-10",
+          "title": "Life Science and Technology",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/lst/bsc-life-science-and-technology",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "cd6da8a9e4cfa767eeabc2ad6928c740122dd1fe1f2a381cd05788c1906a4655",
+          "sha256": "cd6da8a9e4cfa767eeabc2ad6928c740122dd1fe1f2a381cd05788c1906a4655"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。",
+        "联合/合作项目实际受理、注册和收款校方须核对，本轮不把TU Delft通用费用自动作为该项目报价。"
+      ],
+      "excluded_school_sections": [
+        "fees"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "合作项目收费范围本轮未核实"
+      },
+      "inventory_id": "tu-delft-life-science-and-technology-659384a16e"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-11",
+      "name_en": "Maritieme Techniek",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/maritieme-techniek/bsc-maritieme-techniek",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "研究海上漂浮结构的设计与建造，如海上风场、太阳能平台、港口和安装船，并关注能源转型。",
+            "source_ids": [
+              "tu-delft-detail-11"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-11",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-11",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-11",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-11",
+          "title": "Maritieme Techniek",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/maritieme-techniek/bsc-maritieme-techniek",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "f9be913883aaac8110bbc335e70d9328bf7f8a659622a29ee0315c4d20b8367d",
+          "sha256": "f9be913883aaac8110bbc335e70d9328bf7f8a659622a29ee0315c4d20b8367d"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-maritieme-techniek-7235c8fd30"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-12",
+      "name_en": "Molecular Science and Technology",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/mst/bsc-molecular-science-and-technology",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "以化学与工程研究可持续能源、洁净饮水、个性化药物及利用阳光、生物质和二氧化碳生产新产品；属联合学位。",
+            "source_ids": [
+              "tu-delft-detail-12"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-12",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-12",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理、化学；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-12",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-12",
+          "title": "Molecular Science and Technology",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/mst/bsc-molecular-science-and-technology",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "b0aa56e2b446fab72044562613436548b553f26706228a6cc5907b845b09ec20",
+          "sha256": "b0aa56e2b446fab72044562613436548b553f26706228a6cc5907b845b09ec20"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。",
+        "联合/合作项目实际受理、注册和收款校方须核对，本轮不把TU Delft通用费用自动作为该项目报价。"
+      ],
+      "excluded_school_sections": [
+        "fees"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "合作项目收费范围本轮未核实"
+      },
+      "inventory_id": "tu-delft-molecular-science-and-technology-f030214891"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-13",
+      "name_en": "Nanobiology",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/nb/bsc-nanobiology",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "Delft与Erasmus联合开设，结合数学、物理和生物学研究细胞等最小尺度的复杂生命系统及医学基础问题。",
+            "source_ids": [
+              "tu-delft-detail-13"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-13",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "英语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-13",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理、化学、生物；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-13",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [
+          {
+            "label": "官网截止冲突，须确认",
+            "text": "本专业页写不限额、国际学历4月1日；中央国际日期页仍列为1月15日限额项目。两处口径冲突，本轮未核实2027最终安排，不把较晚日期当作确定截止。",
+            "source_ids": [
+              "tu-delft-detail-13",
+              "tu-delft-dates"
+            ],
+            "evidence_location": "In het kort / Aanmelddeadlines versus Numerus Clausus list"
+          }
+        ],
+        "fees": [],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-13",
+          "title": "Nanobiology",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/nb/bsc-nanobiology",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "aca2ff4008f8fe09e7c1a89761a82f301fe547d339bda9ce43928d91487b6bf1",
+          "sha256": "aca2ff4008f8fe09e7c1a89761a82f301fe547d339bda9ce43928d91487b6bf1"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-dates",
+          "title": "TU Delft International BSc dates and deadlines",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/dates-deadlines",
+          "checked_at": "2026-09-12",
+          "supports": "普通/限额项目常规截止",
+          "raw_sha256": "2154761a0807f741f4a5a167434955951de37746f7f0256d8b86d7e949b0a328",
+          "sha256": "2154761a0807f741f4a5a167434955951de37746f7f0256d8b86d7e949b0a328"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "联合/合作项目实际受理、注册和收款校方须核对，本轮不把TU Delft通用费用自动作为该项目报价。"
+      ],
+      "excluded_school_sections": [
+        "fees",
+        "applications"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "英语",
+        "tuition_summary": "合作项目收费范围本轮未核实"
+      },
+      "inventory_id": "tu-delft-nanobiology-9f91d1e21b"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-14",
+      "name_en": "Technische Bestuurskunde",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tbm/bsc-technische-bestuurskunde",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "结合技术、经济、法律、组织和管理，通过模型分析社会问题和政策影响，研究技术与社会的互动。",
+            "source_ids": [
+              "tu-delft-detail-14"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-14",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-14",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-14",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-14",
+          "title": "Technische Bestuurskunde",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tbm/bsc-technische-bestuurskunde",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "9184b798aa77bc57e2f9f51cc95d9d7b4685645a81f1735b3ad5a75a7b3378a8",
+          "sha256": "9184b798aa77bc57e2f9f51cc95d9d7b4685645a81f1735b3ad5a75a7b3378a8"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-technische-bestuurskunde-b736f4a178"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-15",
+      "name_en": "Technische Natuurkunde",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "从力学、电磁学和量子力学等基础出发，学习流体、电子和信号等应用物理领域。",
+            "source_ids": [
+              "tu-delft-detail-15"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-15",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-15",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-15",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-15",
+          "title": "Technische Natuurkunde",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tn/bsc-technische-natuurkunde",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "8d0fe5f743b75052ec2bbbaf71d81a4aa4b14ab1513a47a22f73c06d2c1c76c4",
+          "sha256": "8d0fe5f743b75052ec2bbbaf71d81a4aa4b14ab1513a47a22f73c06d2c1c76c4"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-technische-natuurkunde-bfd32c613d"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-16",
+      "name_en": "Technische Wiskunde",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tw/bsc-technische-wiskunde",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "通过系统研究、逻辑和数学建模分析现实问题，寻找适用于不同情境的规律与解决方案。",
+            "source_ids": [
+              "tu-delft-detail-16"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-16",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-16",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-16",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-16",
+          "title": "Technische Wiskunde",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/tw/bsc-technische-wiskunde",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "5a22065d27786091396ac5c3c6a8ea33129d3297484422d70da7e9f396ef0858",
+          "sha256": "5a22065d27786091396ac5c3c6a8ea33129d3297484422d70da7e9f396ef0858"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-technische-wiskunde-227874140e"
+    },
+    {
+      "university_id": "tu-delft",
+      "raw_key": "detail-17",
+      "name_en": "Werktuigbouwkunde",
+      "official_url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde",
+      "checked_at": "2026-09-12",
+      "shared_profile_id": "tu-delft",
+      "sections": {
+        "overview": [
+          {
+            "label": "专业内容与身份",
+            "text": "运用数学和物理设计、制造及改进装置与系统，例如假肢、海洋塑料清理和减少食物浪费的机器人。",
+            "source_ids": [
+              "tu-delft-detail-17"
+            ],
+            "evidence_location": "main > programme introduction"
+          },
+          {
+            "label": "学位与学制",
+            "text": "本科为Bachelor of Science (BSc)，目录标准学制3 years。",
+            "source_ids": [
+              "tu-delft-detail-17",
+              "tu-delft-policy-catalogue"
+            ],
+            "evidence_location": "BSc programme heading; official Bachelor directory"
+          },
+          {
+            "label": "授课语言与证明区别",
+            "text": "荷语。具体语言证明见校级国际招生规则。",
+            "source_ids": [
+              "tu-delft-detail-17",
+              "tu-delft-entry"
+            ],
+            "evidence_location": "In het kort; Language Requirements"
+          }
+        ],
+        "admissions": [
+          {
+            "label": "本专业先修",
+            "text": "专业页要求数学、物理；中国高考申请者须按中国条目满足总分和这些必需科目的75%门槛，具体资格由校方审核。",
+            "source_ids": [
+              "tu-delft-detail-17",
+              "tu-delft-countries"
+            ],
+            "evidence_location": "In het kort > Vereiste vakken; Country specific requirements > China"
+          }
+        ],
+        "applications": [],
+        "fees": [
+          {
+            "label": "非EU新生学费",
+            "text": "按TU Delft非EU本科新生规则，2026/27机构学费€19,906/学年；2027新生金额本轮未核实。",
+            "source_ids": [
+              "tu-delft-school-fees"
+            ],
+            "evidence_location": "Instellingstarief 2026/2027 > BSc"
+          }
+        ],
+        "outcomes": []
+      },
+      "sources": [
+        {
+          "id": "tu-delft-detail-17",
+          "title": "Werktuigbouwkunde",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/wb/bsc-werktuigbouwkunde",
+          "checked_at": "2026-09-12",
+          "supports": "专业正文、In het kort与Belangrijke data",
+          "raw_sha256": "ddfef362078fa0c10aba06a3207e333697f173d4d768498c3b34c0b950126c92",
+          "sha256": "ddfef362078fa0c10aba06a3207e333697f173d4d768498c3b34c0b950126c92"
+        },
+        {
+          "id": "tu-delft-countries",
+          "title": "TU Delft Country specific requirements: China",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "中国高中和高考75%及必需科目",
+          "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+          "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+        },
+        {
+          "id": "tu-delft-entry",
+          "title": "TU Delft BSc international diploma admission requirements",
+          "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+          "checked_at": "2026-09-12",
+          "supports": "语言、学科先修、缺科补考",
+          "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+          "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+        },
+        {
+          "id": "tu-delft-school-fees",
+          "title": "TU Delft Collegegeld en Financiën",
+          "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+          "checked_at": "2026-09-12",
+          "supports": "2026/27非EU本科新生与过渡费率",
+          "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+          "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+        },
+        {
+          "id": "tu-delft-policy-catalogue",
+          "title": "Official undergraduate catalogue",
+          "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+          "checked_at": "2026-09-12",
+          "supports": "课程范围、学位及培养描述；没有就业调查口径",
+          "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+          "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+        }
+      ],
+      "gaps": [
+        "本专业本科就业率、薪资及样本口径本轮未核实。",
+        "本轮未核实本专业独立2027申请日历；不能将无年份的常规窗口直接标为2027。"
+      ],
+      "display_fields": {
+        "duration": "3 years",
+        "language": "荷语",
+        "tuition_summary": "2026/27非EU：€19,906/学年"
+      },
+      "inventory_id": "tu-delft-werktuigbouwkunde-3ddfc390e4"
+    }
+  ],
+  "profile": {
+    "university_id": "tu-delft",
+    "checked_at": "2026-09-12",
+    "scope": "同校共用：以中国高中/高考资格申请、按TU Delft注册和非EU新生费率评估；联合项目的受理与收费校方另核。",
+    "sections": {
+      "overview": [],
+      "admissions": [
+        {
+          "label": "大陆普高/高考入口",
+          "text": "官方中国条目接受高中毕业证与高考；总分至少满分75%，数学及本专业要求的物理、化学、生物等高考科目均至少75%。这是资格要求，限额项目仍需选拔。",
+          "source_ids": [
+            "tu-delft-countries"
+          ],
+          "evidence_location": "Country specific requirements > China"
+        },
+        {
+          "label": "英语与荷语项目分开",
+          "text": "纯英语项目英语例为IELTS Academic总分6.5，免荷语；荷语项目要求达到VWO荷语水平，英语例为IELTS 5.5。缺乏荷语者通常须先获条件录取并参加语言预备年；不能把“部分课英语”当作免荷语。",
+          "source_ids": [
+            "tu-delft-entry"
+          ],
+          "evidence_location": "Language Requirements > English/Dutch programmes"
+        },
+        {
+          "label": "缺科补足有前提",
+          "text": "持等同VWO学历但缺必需毕业考试科目者，可按规定通过Boswell-Bèta、CCVX或荷兰国家考试补科。官网难民基金年说明只适用于其指定身份，不能改成大陆学生通用预科保证。",
+          "source_ids": [
+            "tu-delft-entry"
+          ],
+          "evidence_location": "Deficiencies; Refugees"
+        }
+      ],
+      "applications": [
+        {
+          "label": "正式申请渠道",
+          "text": "先Studielink，再激活NetID并在Osiaan上传材料、缴不可退€100申请费及提交。一般每学年只能申请一个本科，申请限额项目时可另选一个备选；不处理邮件或邮寄申请。",
+          "source_ids": [
+            "tu-delft-international-application"
+          ],
+          "evidence_location": "Registration procedure; application fee"
+        },
+        {
+          "label": "年度和项目区别",
+          "text": "国际学历普通项目现行窗口10月15日至4月1日，限额项目至1月15日；通用页未明确每行2027。Aerospace另已确认2027年1月15日23:59 CET。Nanobiology两处是否限额不一致，见项目冲突提示。",
+          "source_ids": [
+            "tu-delft-dates",
+            "tu-delft-ae-application"
+          ],
+          "evidence_location": "Regular/Numerus Clausus tables; Important Deadlines"
+        }
+      ],
+      "fees": [
+        {
+          "label": "2026/27中国新生学费",
+          "text": "一般非EU新入学本科适用机构费€19,906/学年，不能使用€2,694法定费。€18,175为符合连续注册等条件的过渡档，€17,310为2025/26旧价；个人居留身份可能影响收费类别。",
+          "source_ids": [
+            "tu-delft-school-fees"
+          ],
+          "evidence_location": "Instellingstarief table 2026/2027; overgangsregeling"
+        },
+        {
+          "label": "预算和后续年度",
+          "text": "学校2026/27资金安排还列非EU本科生活费预存€14,200，其中签证/居留及住房服务费按适用情况扣除。原文2027/28金额只涉及特定旧生过渡安排，不能当新生费表；本轮未核实2027新生价和本科奖学金覆盖。",
+          "source_ids": [
+            "tu-delft-school-fees"
+          ],
+          "evidence_location": "Extra kosten 2026/2027; transitional conditions"
+        }
+      ],
+      "outcomes": [
+        {
+          "label": "职业方向与统计缺口",
+          "text": "课程页说明工程应用与后续学习方向；本轮未核实可按本科毕业届次、样本及统一口径比较的专业就业率和薪资。",
+          "source_ids": [
+            "tu-delft-policy-catalogue"
+          ],
+          "evidence_location": "Official degree catalogue; no graduate outcome figures asserted"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "id": "tu-delft-countries",
+        "title": "TU Delft Country specific requirements: China",
+        "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements/country-specific-requirements",
+        "checked_at": "2026-09-12",
+        "supports": "中国高中和高考75%及必需科目",
+        "raw_sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350",
+        "sha256": "8506dbb4e21ba517bf169a120ab177602486217d971028bbbd144e1fb7246350"
+      },
+      {
+        "id": "tu-delft-entry",
+        "title": "TU Delft BSc international diploma admission requirements",
+        "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/admission-requirements",
+        "checked_at": "2026-09-12",
+        "supports": "语言、学科先修、缺科补考",
+        "raw_sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f",
+        "sha256": "05c1e6aa0c77a113eba6ad4a2d5895e4398a54b0a810ea2d09168f6d5028727f"
+      },
+      {
+        "id": "tu-delft-international-application",
+        "title": "TU Delft BSc international application procedure",
+        "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/application-procedure",
+        "checked_at": "2026-09-12",
+        "supports": "Studielink与Osiaan申请及名额限制",
+        "raw_sha256": "ff4445f83932b856e6f15ec9069d1010b2e2f13d71227e7c1c18793d3f6c4e64",
+        "sha256": "ff4445f83932b856e6f15ec9069d1010b2e2f13d71227e7c1c18793d3f6c4e64"
+      },
+      {
+        "id": "tu-delft-dates",
+        "title": "TU Delft International BSc dates and deadlines",
+        "url": "https://www.tudelft.nl/en/education/admission-and-application/bsc-international-diploma/dates-deadlines",
+        "checked_at": "2026-09-12",
+        "supports": "普通/限额项目常规截止",
+        "raw_sha256": "2154761a0807f741f4a5a167434955951de37746f7f0256d8b86d7e949b0a328",
+        "sha256": "2154761a0807f741f4a5a167434955951de37746f7f0256d8b86d7e949b0a328"
+      },
+      {
+        "id": "tu-delft-school-fees",
+        "title": "TU Delft Collegegeld en Financiën",
+        "url": "https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/collegegeld-en-financien",
+        "checked_at": "2026-09-12",
+        "supports": "2026/27非EU本科新生与过渡费率",
+        "raw_sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e",
+        "sha256": "41cb0a9ee3c72ace8909878489fe2319b1d8ccc34b80c7f85a24dad026d9f04e"
+      },
+      {
+        "id": "tu-delft-ae-application",
+        "title": "TU Delft Aerospace application 2027",
+        "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors/ae/bsc-aerospace-engineering/from-application-to-enrolment",
+        "checked_at": "2026-09-12",
+        "supports": "2027航空截止",
+        "raw_sha256": "2907e2d7c9e4860ca6f3640fd329f28089ff7f23fd593b61cfe36092ffd66fbc",
+        "sha256": "2907e2d7c9e4860ca6f3640fd329f28089ff7f23fd593b61cfe36092ffd66fbc"
+      },
+      {
+        "id": "tu-delft-policy-catalogue",
+        "title": "Official undergraduate catalogue",
+        "url": "https://www.tudelft.nl/onderwijs/opleidingen/bachelors",
+        "checked_at": "2026-09-12",
+        "supports": "课程范围、学位及培养描述；没有就业调查口径",
+        "raw_sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9",
+        "sha256": "39645f607c675292663c2e694a3427bd199431ba09044b61145881b6c2899ca9"
+      }
+    ]
+  }
+}

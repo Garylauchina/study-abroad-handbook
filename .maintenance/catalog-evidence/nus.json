@@ -1,0 +1,335 @@
+{
+  "original_manifest": {
+    "official_directory_url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/",
+    "official_total": 60,
+    "official_total_unit": "marketing primary-major count on OAM (not all music/part-time/combined routes)",
+    "pagination_complete": false,
+    "provably_complete": false,
+    "page_evidence": [
+      {
+        "school": "faculty-of-arts-and-social-sciences",
+        "entries": 21
+      },
+      {
+        "school": "school-of-business",
+        "entries": 9
+      },
+      {
+        "school": "college-of-design-and-engineering",
+        "entries": 15
+      },
+      {
+        "school": "faculty-of-science",
+        "entries": 12
+      },
+      {
+        "school": "school-of-computing",
+        "entries": 5,
+        "Computer_Engineering": "coalesced with CDE"
+      },
+      {
+        "school": "school-of-continuing-lifelong-education",
+        "entries": 7
+      },
+      {
+        "school": "yong-loo-lin-school-of-medicine-including-nursing",
+        "entries": 4
+      },
+      {
+        "school": "yong-siew-toh-conservatory-of-music",
+        "entries": 20
+      },
+      {
+        "programme_type": "double-degree-programmes",
+        "bachelor_containing_links": 16
+      },
+      {
+        "programme_type": "joint-degree-programmes",
+        "bachelor_containing_links": 1
+      },
+      {
+        "programme_type": "concurrent-degree-programmes",
+        "bachelor_containing_links": 16
+      }
+    ],
+    "filter_rules": [
+      "All subjects; retain undergraduate majors and explicitly named combined programmes; exclude stand-alone minors and pure postgraduate programmes.",
+      "Do not infer intake, language, campus or award absent explicit source text."
+    ],
+    "unresolved": [
+      "AY2026/27 Bulletin faculty degree and primary-major lists and all three combined-degree indexes read. Admissions-school primary-major count does not include every music/part-time/combined route in this collection.",
+      "Combined-degree index contains old award names and generic combinations; retained as listed_route_requires_verification, not claimed currently open or split into invented combinations.",
+      "Science bulletin has Data Science and Analytics vs Data Science and Applied AI naming conflict; detailed Major Requirements wording retained with alias/conflict flag.",
+      "FASS names in this bulletin differ from newer CHS programme-site naming (Chinese Language/Studies); further official per-major reconciliation needed.",
+      "No blanket inference that AY2026/27 means 2027 undergraduate intake."
+    ],
+    "raw_artifacts": [
+      "nus/raw/bba.meta.json",
+      "nus/raw/bulletin-dom.meta.json",
+      "nus/raw/bulletin.meta.json",
+      "nus/raw/cde-bulletin-dom.meta.json",
+      "nus/raw/cde-bulletin.meta.json",
+      "nus/raw/chs-dom.meta.json",
+      "nus/raw/chs.meta.json",
+      "nus/raw/college-of-humanities-and-sciences-index-dom.meta.json",
+      "nus/raw/computing.meta.json",
+      "nus/raw/concurrent-degree-programmes-dom.meta.json",
+      "nus/raw/directory-dom.meta.json",
+      "nus/raw/directory-www.meta.json",
+      "nus/raw/directory.meta.json",
+      "nus/raw/double-degree-programmes-dom.meta.json",
+      "nus/raw/faculty-of-arts-and-social-sciences-ug-dom.meta.json",
+      "nus/raw/faculty-of-dentistry-index-dom.meta.json",
+      "nus/raw/faculty-of-dentistry-ug-dom.meta.json",
+      "nus/raw/faculty-of-law-index-dom.meta.json",
+      "nus/raw/faculty-of-law-ug-dom.meta.json",
+      "nus/raw/faculty-of-science-ug-dom.meta.json",
+      "nus/raw/joint-degree-programmes-dom.meta.json",
+      "nus/raw/scale-engineering.meta.json",
+      "nus/raw/school-of-business-ug-dom.meta.json",
+      "nus/raw/school-of-computing-index-dom.meta.json",
+      "nus/raw/school-of-computing-ug-dom.meta.json",
+      "nus/raw/school-of-continuing-lifelong-education-index-dom.meta.json",
+      "nus/raw/school-of-continuing-lifelong-education-ug-dom.meta.json",
+      "nus/raw/yong-loo-lin-school-of-medicine-including-nursing-index-dom.meta.json",
+      "nus/raw/yong-loo-lin-school-of-medicine-including-nursing-ug-dom.meta.json",
+      "nus/raw/yong-siew-toh-conservatory-of-music-index-dom.meta.json",
+      "nus/raw/yong-siew-toh-conservatory-of-music-ug-dom.meta.json"
+    ],
+    "university_id": "nus",
+    "count": 128,
+    "checked_at": "2026-09-12",
+    "status_counts": {
+      "listed_current": 95,
+      "listed_route_requires_verification": 33
+    },
+    "record_type_counts": {
+      "primary_major": 50,
+      "bachelor_degree": 23,
+      "primary_major_or_cross_disciplinary_degree": 11,
+      "part_time_bachelor_degree": 7,
+      "bachelor_degree_or_special_entry_route": 4,
+      "combined_degree_group": 33
+    },
+    "directory_count_is_not_independent_degree_count": true
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/undergraduate-education/",
+      "sha256": "19c77495d1fc245284a9daa55a34eec08774470b473dc7f7410b5a6342a502fc",
+      "bytes": 250370,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/yong-loo-lin-school-of-medicine-including-nursing-ug-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/yong-loo-lin-school-of-medicine-including-nursing-ug-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/undergraduate-education/",
+      "sha256": "9c804f00d91de74ebafc4612be7a07bf0aed0ca9d39c796b27f0195d42d7b10e",
+      "bytes": 279532,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/yong-siew-toh-conservatory-of-music-ug-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/yong-siew-toh-conservatory-of-music-ug-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-business/undergraduate-education/",
+      "sha256": "328ba484e1207aa3bfb10a8b7ecf9b399265c1eef2eec31d01c16043a781b611",
+      "bytes": 229125,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-business-ug-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/school-of-business-ug-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-dentistry/",
+      "sha256": "3eb3a9b4c12ac3711447d87318892fdd69b9cd623a1eb8ac048d188b3efabdfa",
+      "bytes": 167331,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-dentistry-index-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/faculty-of-dentistry-index-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/college-of-humanities-and-sciences/",
+      "sha256": "d7ccb297afc124f4427852b367a70a56e9f996ede2910ae035ec0bb4076d3716",
+      "bytes": 167493,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/college-of-humanities-and-sciences-index-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/college-of-humanities-and-sciences-index-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/college-of-design-and-engineering/undergraduate-education/",
+      "sha256": "41f41dbba78fedbbcc87259e62d4aab34df8f5921858f353b94ebdadb2be2bc8",
+      "bytes": 196082,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/cde-bulletin-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/cde-bulletin-dom.meta.json"
+    },
+    {
+      "url": "https://chs.nus.edu.sg/programmes/",
+      "sha256": "c6f2871b2ea75f5f6681dc1ed6dd2c63559260931b2b196124aef8d3e891bd8f",
+      "bytes": 4932,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/chs-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/chs-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/",
+      "sha256": "eaffd6393c8b85c0a5d82d59ab3aaeaca7e88eb6fc63ef6caf512fcfaf2d8141",
+      "bytes": 167309,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-computing-index-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/school-of-computing-index-dom.meta.json"
+    },
+    {
+      "url": "https://chs.nus.edu.sg/programmes/",
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+      "bytes": 212,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/chs.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/chs.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-arts-and-social-sciences/undergraduate-education/",
+      "sha256": "a0de25b1f030762539bb2c68e164c9af3c87a8605466146f8f78d2b161400cbd",
+      "bytes": 179436,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-arts-and-social-sciences-ug-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/faculty-of-arts-and-social-sciences-ug-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/college-of-design-and-engineering/undergraduate-education/",
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+      "bytes": 212,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/cde-bulletin.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/cde-bulletin.meta.json"
+    },
+    {
+      "url": "https://nus.edu.sg/oam/undergraduate-programmes",
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+      "bytes": 212,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/directory.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/directory.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/joint-degree-programmes/",
+      "sha256": "d5b53898476638aa7291194ccd1942ca16a59f038ffb80eaa225a070dc5970d2",
+      "bytes": 171545,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/joint-degree-programmes-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/joint-degree-programmes-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/double-degree-programmes/",
+      "sha256": "5e5e7066c6828318af49f50f3b4ec5c795d4ba2e80f791e1bcf0e5e8dc9ab9a6",
+      "bytes": 182317,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/double-degree-programmes-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/double-degree-programmes-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/",
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+      "bytes": 212,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/bulletin.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/bulletin.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/oam/undergraduate-programmes",
+      "sha256": "0bab70163687d4603b7147aa3497c8931bb3ce9eec227e49d8a3dc2b4cbc17bd",
+      "bytes": 153131,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/directory-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/directory-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-continuing-lifelong-education/",
+      "sha256": "d2dc610660e9de8ebf9103cbafceaeeefecfb91573f3f84efcb80d081b22f935",
+      "bytes": 167851,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-continuing-lifelong-education-index-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/school-of-continuing-lifelong-education-index-dom.meta.json"
+    },
+    {
+      "url": "https://www.comp.nus.edu.sg/programmes/ug/",
+      "sha256": "0a50661f30c248f0a08606814e97a9758f324692202f070f72552f251ad4def5",
+      "bytes": 284207,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/computing.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/computing.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/",
+      "sha256": "b355303313e70bd97fe7f3ea07bd1ab5cb8044b4502f5f75315cb7296c14daca",
+      "bytes": 167241,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-law-index-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/faculty-of-law-index-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-continuing-lifelong-education/undergraduate-education/",
+      "sha256": "dc03e0868ce486cfcd22dbba1f278c181fb4b3de3e01dff9a48d3b7812ac9e2e",
+      "bytes": 319580,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-continuing-lifelong-education-ug-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/school-of-continuing-lifelong-education-ug-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/concurrent-degree-programmes/",
+      "sha256": "8e5cfcb3cf2ab4196705a2940db5c53f908525da4f224d4efa2dfa3b61f31366",
+      "bytes": 174198,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/concurrent-degree-programmes-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/concurrent-degree-programmes-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-law/undergraduate-education/",
+      "sha256": "15abf2d15df6bb4f89f7f054082df7b3dcd881a8df9ec4e145d6e65892d42c12",
+      "bytes": 231376,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-law-ug-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/faculty-of-law-ug-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-loo-lin-school-of-medicine-including-nursing/",
+      "sha256": "d09a522d480819804ec28d3cdf682ef72089f335a4d839ca34801c8df5c8b553",
+      "bytes": 91015,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/yong-loo-lin-school-of-medicine-including-nursing-index-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/yong-loo-lin-school-of-medicine-including-nursing-index-dom.meta.json"
+    },
+    {
+      "url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering",
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+      "bytes": 212,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/scale-engineering.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/scale-engineering.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/oam/undergraduate-programmes",
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+      "bytes": 212,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/directory-www.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/directory-www.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/",
+      "sha256": "3e2ffb7b4b8ae906db3c0937de7ff9e4bfe9aaa89c81b034f829ecc6252dae80",
+      "bytes": 111825,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/bulletin-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/bulletin-dom.meta.json"
+    },
+    {
+      "url": "https://bba.nus.edu.sg/academic-programmes/bba-programme/introduction/",
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+      "bytes": 212,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/bba.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/bba.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/yong-siew-toh-conservatory-of-music/",
+      "sha256": "6e1e80c49a091496058762611a3183a74cf43ff903d84fca431049e9d9b497ee",
+      "bytes": 167704,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/yong-siew-toh-conservatory-of-music-index-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/yong-siew-toh-conservatory-of-music-index-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-computing/undergraduate-education/",
+      "sha256": "ef03a0da87cdbb109f4f3733e3717a33c73a71db6455491dac59625db0bfe2a5",
+      "bytes": 341290,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/school-of-computing-ug-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/school-of-computing-ug-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-dentistry/undergraduate-education/",
+      "sha256": "18d00d086475c480d3c8f044deaeadfd8a87d5676b073e47e3a43a7bba02c5a2",
+      "bytes": 99187,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-dentistry-ug-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/faculty-of-dentistry-ug-dom.meta.json"
+    },
+    {
+      "url": "https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-science/undergraduate-education/",
+      "sha256": "8814764676c1737f40b5d778934423b7001be11f50882cacbdf09fff320da8ba",
+      "bytes": 166102,
+      "raw_file": "scratch/full-catalog/asia/nus/raw/faculty-of-science-ug-dom.html",
+      "meta_file": "scratch/full-catalog/asia/nus/raw/faculty-of-science-ug-dom.meta.json"
+    }
+  ]
+}

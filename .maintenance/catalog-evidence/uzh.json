@@ -1,0 +1,145 @@
+{
+  "original_manifest": {
+    "university_id": "uzh",
+    "checked_at": "2026-09-12",
+    "count": 60,
+    "status": "complete",
+    "scope": "UZH所有授课语言的本科Mono/Major专业；不把Minor单独计为本科专业。",
+    "method": "单页89个SubpageList条目全部读入；按官方Typ字段保留60个Mono或Major项目，排除29个仅Minor项目。",
+    "sources": [
+      {
+        "url": "https://www.uzh.ch/de/studies/programs/bachelor.html",
+        "sha256": "bad0ef0aad82358d6bed29ac99a92724006cda600c1b9f641ffa46aec7cabe12",
+        "raw_file": "uzh.html"
+      }
+    ],
+    "exclusions": "排除 29 个目录节点；具体排除原因保存在收录记录。",
+    "excluded_records": [
+      {
+        "name": "Allgemeine und Vergleichende Literaturwissenschaft",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Allgemeine Wirtschaftswissenschaften",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Altertumswissenschaften",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Angewandte Wahrscheinlichkeit und Statistik",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Antike Religionsgeschichte",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Astronomie und Astrobiologie",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Astrophysik",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Bibelwissenschaft",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Bioinformatics",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Christentumsgeschichte",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Computational Science",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Digital Humanities und Text Mining",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Ethik",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Ethik und Gesellschaft",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Geschichte der Neuzeit",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Geschichte, Gesellschaft, Politik",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Hebräische Sprache und Literatur",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Hermeneutik",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Human Centered Computing",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Informatik",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Interdisziplinäre Archäologische Wissenschaften",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Kristallographie",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Kulturelle Kontexte",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Kunstgeschichte Ostasiens",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Neuroinformatik",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Rätoromanische Sprach- und Literaturwissenschaft",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Systematisch-Praktische Theologie",
+        "reason": "minor-only"
+      },
+      {
+        "name": "Vergleichende germanische Sprachwissenschaft",
+        "reason": "minor-only"
+      }
+    ],
+    "gaps": []
+  },
+  "raw_sources": [
+    {
+      "url": "https://www.uzh.ch/de/studies/programs/bachelor.html",
+      "sha256": "bad0ef0aad82358d6bed29ac99a92724006cda600c1b9f641ffa46aec7cabe12",
+      "raw_file": "scratch/full-catalog/root/uzh.html",
+      "bytes": 332018
+    }
+  ]
+}
