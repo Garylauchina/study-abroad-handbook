@@ -23,561 +23,550 @@ hide:
 
 ## 专业与申请资料
 
-550 个专业条目 · 4 个含详细资料 · 405 个补有专业资料 · 141 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+539 个专业条目 · 4 个含详细资料 · 535 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=unsw#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ai-in-business-and-society-bb5e4b3410/">AI in Business and Society</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-accounting-a2eba24da6/">Accounting</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-accounting-7b0c9ae40c/">Accounting</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-accounting-co-op-59614f473c/">Accounting Co-op</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-risk-management-and-analytics-5557214ac9/">Actuarial Risk Management and Analytics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-ccd0b51aba/">Actuarial Studies</a><small>Bachelor of Actuarial Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-0e801fd37b/">Actuarial Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-co-op-144e9de002/">Actuarial Studies (Co-op)</a><small>Bachelor of Actuarial Studies (Co-op) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-honours-38d29d49c8/">Actuarial Studies (Honours)</a><small>Bachelor of Actuarial Studies (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-advanced-mathematics-honours-beb9ba6d39/">Actuarial Studies / Advanced Mathematics (Honours)</a><small>Bachelor of Science (Advanced Mathematics) (Honours) + Bachelor of Actuarial Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-commerce-efd56f9389/">Actuarial Studies / Commerce</a><small>Bachelor of Commerce + Bachelor of Actuarial Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-computer-science-4cfd2fe5c9/">Actuarial Studies / Computer Science</a><small>Bachelor of Actuarial Studies + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-economics-f3812263c9/">Actuarial Studies / Economics</a><small>Bachelor of Actuarial Studies + Bachelor of Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-information-systems-e5c136b163/">Actuarial Studies / Information Systems</a><small>Bachelor of Information Systems + Bachelor of Actuarial Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-law-2b1aae9d38/">Actuarial Studies / Law</a><small>Bachelor of Actuarial Studies + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-science-1f07af8286/">Actuarial Studies / Science</a><small>Bachelor of Actuarial Studies + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-co-op-58c3b350a6/">Actuarial Studies Co-op</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-addiction-medicine-extended-research-a64442e7ac/">Addiction Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-chinese-studies-1002267b64/">Advanced Chinese Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-computer-science-honours-3abd113acd/">Advanced Computer Science (Honours)</a><small>Bachelor of Advanced Computer Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-french-studies-9f56ff77e6/">Advanced French Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-japanese-studies-48fd5d291f/">Advanced Japanese Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-korean-studies-3705907215/">Advanced Korean Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-49ea8f740d/">Advanced Mathematics (Honours)</a><small>Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-arts-b071104078/">Advanced Mathematics (Honours) / Arts</a><small>Bachelor of Arts + Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-commerce-c56061064c/">Advanced Mathematics (Honours) / Commerce</a><small>Bachelor of Science (Advanced Mathematics) (Honours) + Bachelor of Commerce · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-computer-science-4d80e8b912/">Advanced Mathematics (Honours) / Computer Science</a><small>Bachelor of Science (Advanced Mathematics) (Honours) + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-engineering-honours-cc2ed2c0b5/">Advanced Mathematics (Honours) / Engineering (Honours)</a><small>Bachelor of Science (Advanced Mathematics) (Honours) + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-engineering-science-d540a0ec89/">Advanced Mathematics (Honours) / Engineering Science</a><small>Bachelor of Engineering Science + Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-law-d0315d21f9/">Advanced Mathematics (Honours) / Law</a><small>Bachelor of Laws + Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-physical-oceanography-3ab59875d1/">Advanced Physical Oceanography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-cb5b9bfc97/">Advanced Science (Honours)</a><small>Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-arts-3a0ef010d1/">Advanced Science (Honours) / Arts</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-computer-science-f96ef18958/">Advanced Science (Honours) / Computer Science</a><small>Bachelor of Science + Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-engineering-honours-e51926d528/">Advanced Science (Honours) / Engineering (Honours)</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-engineering-science-1328824c95/">Advanced Science (Honours) / Engineering Science</a><small>Bachelor of Engineering Science + Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-fine-arts-874507b403/">Advanced Science (Honours) / Fine Arts</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-law-aa0de2038c/">Advanced Science (Honours) / Law</a><small>Bachelor of Laws + Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-social-sciences-e22fc2f950/">Advanced Science (Honours) / Social Sciences</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Social Sciences · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-statistics-ae17ab85e3/">Advanced Statistics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aeronautical-engineering-honours-e3fb668981/">Aeronautical Engineering (Honours)</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aerospace-engineering-643cc9a9d6/">Aerospace Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aerospace-engineering-e23ffef59d/">Aerospace Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anaesthetics-extended-research-8a97750498/">Anaesthetics (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anatomy-2fe1704b30/">Anatomy</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anatomy-48e4fba569/">Anatomy</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anatomy-advanced-science-f0503197f3/">Anatomy (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anatomy-extended-research-1c461dc9d8/">Anatomy (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-animation-and-moving-image-e0d056d427/">Animation and Moving Image</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-applied-exercise-science-4baf248041/">Applied Exercise Science</a><small>Bachelor of Applied Exercise Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-applied-exercise-science-clinical-exercise-physiology-76c42a34ff/">Applied Exercise Science / Clinical Exercise Physiology</a><small>Bachelor of Applied Exercise Science + Master of Clinical Exercise Physiology · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-applied-mathematics-e3380de11c/">Applied Mathematics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-applied-mathematics-25d65bbaac/">Applied Mathematics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-architectural-studies-dea810cc45/">Architectural Studies</a><small>Bachelor of Architectural Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-architectural-studies-honours-2d2647fa8a/">Architectural Studies (Honours)</a><small>Bachelor of Architectural Studies (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-art-theory-24a2257231/">Art Theory</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-art-theory-honours-46e935c88d/">Art Theory (Honours)</a><small>Bachelor of Art Theory (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-artificial-intelligence-e7853fb78f/">Artificial Intelligence</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-88baee5ac0/">Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-83b7a4d00a/">Arts</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-soc-sc-indigenous-a85816cf0f/">Arts &amp; Soc Sc (Indigenous)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-social-sciences-hons-e2ed02861f/">Arts &amp; Social Sciences (Hons)</a><small>Bachelor of Arts and Social Sciences (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-honours-277e897d40/">Arts (Honours)</a><small>Bachelor of Arts (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-honours-c4e8a21889/">Arts (Honours)</a><small>Bachelor of Arts (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-education-secondary-c2779fc0ac/">Arts / Education (Secondary)</a><small>Bachelor of Arts + Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-law-d492f66af5/">Arts / Law</a><small>Bachelor of Laws + Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-design-architecture-and-criminology-upp-2b8644f8f4/">Arts, Design, Architecture and Criminology (UPP)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-asian-studies-608053b43a/">Asian Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-asian-studies-718c29c107/">Asian Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-australian-indigenous-studies-3228f0e626/">Australian Indigenous Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-5c6c3be708/">Aviation</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-5352607d15/">Aviation</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-a169a57368/">Aviation</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-flying-563ba646e5/">Aviation (Flying)</a><small>Bachelor of Aviation · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-management-85710d8b59/">Aviation (Management)</a><small>Bachelor of Aviation · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-remotely-piloted-aircraft-systems-63ed10ac51/">Aviation (Remotely Piloted Aircraft Systems)</a><small>Bachelor of Aviation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ai-in-business-and-society-bb5e4b3410/">商业与社会中的人工智能（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-accounting-a2eba24da6/">会计学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-accounting-7b0c9ae40c/">会计学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-accounting-co-op-59614f473c/">会计学 Co-op 产学合作（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-risk-management-and-analytics-5557214ac9/">精算风险管理与分析（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-ccd0b51aba/">精算研究学士</a><small>Bachelor of Actuarial Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-0e801fd37b/">精算研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-co-op-144e9de002/">精算研究学士（Co-op 产学合作）</a><small>Bachelor of Actuarial Studies (Co-op) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-honours-38d29d49c8/">精算研究荣誉学士</a><small>Bachelor of Actuarial Studies (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-advanced-mathematics-honours-beb9ba6d39/">精算研究学士＋高级数学荣誉理学学士</a><small>Bachelor of Science (Advanced Mathematics) (Honours) + Bachelor of Actuarial Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-commerce-efd56f9389/">精算研究学士＋商学学士</a><small>Bachelor of Commerce + Bachelor of Actuarial Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-computer-science-4cfd2fe5c9/">精算研究学士＋计算机科学理学学士</a><small>Bachelor of Actuarial Studies + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-economics-f3812263c9/">精算研究学士＋经济学学士</a><small>Bachelor of Actuarial Studies + Bachelor of Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-information-systems-e5c136b163/">精算研究学士＋信息系统学士</a><small>Bachelor of Information Systems + Bachelor of Actuarial Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-law-2b1aae9d38/">精算研究学士＋法学学士</a><small>Bachelor of Actuarial Studies + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-science-1f07af8286/">精算研究学士＋理学学士</a><small>Bachelor of Actuarial Studies + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-actuarial-studies-co-op-58c3b350a6/">精算研究 Co-op 产学合作（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-addiction-medicine-extended-research-a64442e7ac/">成瘾医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-chinese-studies-1002267b64/">高级中国研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-computer-science-honours-3abd113acd/">高级计算机科学荣誉学士</a><small>Bachelor of Advanced Computer Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-french-studies-9f56ff77e6/">高级法国与法语研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-japanese-studies-48fd5d291f/">高级日本与日语研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-korean-studies-3705907215/">高级韩国与韩语研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-49ea8f740d/">高级数学荣誉理学学士</a><small>Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-arts-b071104078/">高级数学荣誉理学学士＋文科学士</a><small>Bachelor of Arts + Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-commerce-c56061064c/">高级数学荣誉理学学士＋商学学士</a><small>Bachelor of Science (Advanced Mathematics) (Honours) + Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-computer-science-4d80e8b912/">高级数学荣誉理学学士＋计算机科学理学学士</a><small>Bachelor of Science (Advanced Mathematics) (Honours) + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-engineering-honours-cc2ed2c0b5/">高级数学荣誉理学学士＋工程荣誉学士</a><small>Bachelor of Science (Advanced Mathematics) (Honours) + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-engineering-science-d540a0ec89/">高级数学荣誉理学学士＋工程科学学士（退出学位）</a><small>Bachelor of Engineering Science + Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-mathematics-honours-law-d0315d21f9/">高级数学荣誉理学学士＋法学学士</a><small>Bachelor of Laws + Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-physical-oceanography-3ab59875d1/">高级物理海洋学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-cb5b9bfc97/">高级理科荣誉学士</a><small>Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-arts-3a0ef010d1/">高级理科荣誉学士＋文科学士</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-computer-science-f96ef18958/">高级理科荣誉学士＋计算机科学理学学士</a><small>Bachelor of Science + Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-engineering-honours-e51926d528/">高级理科荣誉学士＋工程荣誉学士</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-engineering-science-1328824c95/">高级理科荣誉学士＋工程科学学士（退出学位）</a><small>Bachelor of Engineering Science + Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-fine-arts-874507b403/">高级理科荣誉学士＋美术学士</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-law-aa0de2038c/">高级理科荣誉学士＋法学学士</a><small>Bachelor of Laws + Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-science-honours-social-sciences-e22fc2f950/">高级理科荣誉学士＋社会科学学士</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Social Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-advanced-statistics-ae17ab85e3/">高级统计学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aeronautical-engineering-honours-e3fb668981/">航空工程荣誉学士（堪培拉）</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aerospace-engineering-643cc9a9d6/">航空航天工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aerospace-engineering-e23ffef59d/">航空航天工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anaesthetics-extended-research-8a97750498/">麻醉学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anatomy-2fe1704b30/">解剖学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anatomy-48e4fba569/">解剖学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anatomy-advanced-science-f0503197f3/">解剖学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-anatomy-extended-research-1c461dc9d8/">解剖学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-animation-and-moving-image-e0d056d427/">动画与动态影像（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-applied-exercise-science-4baf248041/">应用运动科学学士</a><small>Bachelor of Applied Exercise Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-applied-exercise-science-clinical-exercise-physiology-76c42a34ff/">应用运动科学学士＋临床运动生理学硕士</a><small>Bachelor of Applied Exercise Science + Master of Clinical Exercise Physiology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-applied-mathematics-e3380de11c/">应用数学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-applied-mathematics-25d65bbaac/">应用数学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-architectural-studies-dea810cc45/">建筑研究学士</a><small>Bachelor of Architectural Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-architectural-studies-honours-2d2647fa8a/">建筑研究荣誉学士</a><small>Bachelor of Architectural Studies (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-art-theory-24a2257231/">艺术理论（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-art-theory-honours-46e935c88d/">艺术理论荣誉学士</a><small>Bachelor of Art Theory (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-artificial-intelligence-e7853fb78f/">人工智能（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-88baee5ac0/">文科学士</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-83b7a4d00a/">文科学士（堪培拉）</a><small>Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-social-sciences-hons-e2ed02861f/">人文与社会科学荣誉学士</a><small>Bachelor of Arts and Social Sciences (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-honours-277e897d40/">文科荣誉学士（堪培拉）</a><small>Bachelor of Arts (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-honours-c4e8a21889/">文科荣誉学士（澳大利亚原住民研究）</a><small>Bachelor of Arts (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-education-secondary-c2779fc0ac/">文科学士＋中学教育学士</a><small>Bachelor of Arts + Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-arts-law-d492f66af5/">文科学士＋法学学士</a><small>Bachelor of Laws + Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-asian-studies-608053b43a/">亚洲研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-asian-studies-718c29c107/">亚洲研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-australian-indigenous-studies-3228f0e626/">澳大利亚原住民研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-5c6c3be708/">航空学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-5352607d15/">航空学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-a169a57368/">航空学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-flying-563ba646e5/">航空学士（飞行）</a><small>Bachelor of Aviation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-management-85710d8b59/">航空学士（管理）</a><small>Bachelor of Aviation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-aviation-remotely-piloted-aircraft-systems-63ed10ac51/">航空学士（遥控航空器系统）</a><small>Bachelor of Aviation · 部分专业资料已核实</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce/">商学学士</a><small>Bachelor of Commerce · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics/">经济学学士</a><small>Bachelor of Economics · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-engineering/">机械工程荣誉学士</a><small>Bachelor of Engineering (Honours) (Mechanical Engineering) · 含详细资料</small></article>
 <article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science/">计算机科学理学学士</a><small>Bachelor of Science (Computer Science) · 含详细资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-behavioural-economics-2b26dd1402/">Behavioural Economics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-6bda6f6111/">Bioinformatics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-b42553c721/">Bioinformatics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-advanced-science-4b8732afa3/">Bioinformatics (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-engineering-eb6ef5c546/">Bioinformatics Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-engineering-046b512ba2/">Bioinformatics Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biological-chemistry-46b7b5dc43/">Biological Chemistry</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biology-790e4d5540/">Biology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biology-8b4f194f38/">Biology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biology-and-biodiversity-c4e92e43d3/">Biology and Biodiversity</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biology-and-biodiversity-advanced-science-65fe643a3d/">Biology and Biodiversity (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biomedical-engineering-f58001f676/">Biomedical Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biomedical-engineering-10b77fa592/">Biomedical Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biophysics-b6970f3687/">Biophysics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biophysics-937ba9728f/">Biophysics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biophysics-advanced-science-471448e80b/">Biophysics (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biotechnology-fc57686ddf/">Biotechnology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biotechnology-d986d19aa2/">Biotechnology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biotechnology-advanced-science-4f6f53bd9a/">Biotechnology (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biotechnology-honours-385d9913e1/">Biotechnology (Honours)</a><small>Bachelor of Biotechnology (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-building-554d6a9f5c/">Building</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-86d45215b4/">Business</a><small>Bachelor of Business · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-158f66bb97/">Business</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-bengaluru-f5cdd64493/">Business (Bengaluru)</a><small>Bachelor of Business · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-honours-5359bc8ca8/">Business (Honours)</a><small>Bachelor of Business (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-upp-6029602fa6/">Business (UPP)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-analytics-5fb3a441d3/">Business Analytics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-data-science-7265a40f17/">Business Data Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-economics-2a46ad45d2/">Business Economics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-economics-c396dd2e0f/">Business Economics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-sustainability-and-social-impact-6d08808530/">Business Sustainability and Social Impact</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemical-engineering-77539b1961/">Chemical Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemical-engineering-8f5a67c0e5/">Chemical Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemical-product-engineering-e86aa08db9/">Chemical Product Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemical-product-engineering-99c0ff642d/">Chemical Product Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-a91647fd07/">Chemistry</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-b2f257b96b/">Chemistry</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-bd077e6d06/">Chemistry</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-7a177ada6d/">Chemistry</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-advanced-science-23c5121179/">Chemistry (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chinese-studies-4cb26c35aa/">Chinese Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chinese-studies-d441922db8/">Chinese Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-cinema-studies-0bf5bec2eb/">Cinema Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-city-planning-honours-5bd2ebb16b/">City Planning (Honours)</a><small>Bachelor of City Planning (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-city-planning-honours-law-57198a76c1/">City Planning (Honours) / Law</a><small>Bachelor of Laws + Bachelor of City Planning (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-civil-engineering-f24d7222e1/">Civil Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-civil-engineering-e3cad05348/">Civil Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-civil-engineering-honours-2a76e56f67/">Civil Engineering (Honours)</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-climate-science-f9a5a4fb67/">Climate Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-climate-systems-science-9801679368/">Climate Systems Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-climate-systems-science-advanced-science-90f1f1b34e/">Climate Systems Science (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-clinical-artificial-intelligence-84e9296595/">Clinical Artificial Intelligence</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-clinical-artificial-intelligence-extended-research-819fcfdde0/">Clinical Artificial Intelligence (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-co-op-2676130b3a/">Commerce (Co-op)</a><small>Bachelor of Commerce (Co-op) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-co-op-honours-6b526c4925/">Commerce (Co-op) (Honours)</a><small>Bachelor of Commerce (Co-op) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-honours-c063d78c49/">Commerce (Honours)</a><small>Bachelor of Commerce (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-international-735ea5f361/">Commerce (International)</a><small>Bachelor of Commerce (International) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-advanced-science-honours-038ab54002/">Commerce / Advanced Science (Honours)</a><small>Bachelor of Commerce + Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-arts-84b5ce41f6/">Commerce / Arts</a><small>Bachelor of Arts + Bachelor of Commerce · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-aviation-management-16c1fb7c54/">Commerce / Aviation (Management)</a><small>Bachelor of Commerce + Bachelor of Aviation · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-computer-science-2fac3e39f5/">Commerce / Computer Science</a><small>Bachelor of Commerce + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-design-6c32438687/">Commerce / Design</a><small>Bachelor of Design + Bachelor of Commerce · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-economics-952191251e/">Commerce / Economics</a><small>Bachelor of Economics + Bachelor of Commerce · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-education-secondary-37ae7eaad8/">Commerce / Education (Secondary)</a><small>Bachelor of Education (Secondary) + Bachelor of Commerce · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-fine-arts-4cb7629578/">Commerce / Fine Arts</a><small>Bachelor of Fine Arts + Bachelor of Commerce · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-information-systems-57c67fb2f6/">Commerce / Information Systems</a><small>Bachelor of Information Systems + Bachelor of Commerce · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-law-ed7b4f6697/">Commerce / Law</a><small>Bachelor of Laws + Bachelor of Commerce · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-media-2f31cf4fe9/">Commerce / Media</a><small>Bachelor of Commerce + Bachelor of Media · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-science-1ae90c3e2f/">Commerce / Science</a><small>Bachelor of Commerce + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-communication-journalism-4662bacbf8/">Communication &amp; Journalism</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-communication-and-journalism-c13a8f27ee/">Communication and Journalism</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-biology-d2a12e9992/">Computational Biology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-data-science-6df5aa41ab/">Computational Data Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-data-science-bengaluru-e5468756d3/">Computational Data Science (Bengaluru)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-design-792ca0c133/">Computational Design</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-design-honours-4af4698b05/">Computational Design (Honours)</a><small>Bachelor of Computational Design (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-engineering-1276ea8bc0/">Computer Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-engineering-5c0d399cf8/">Computer Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-bb9045f550/">Computer Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-af85072537/">Computer Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-51e117fc4c/">Computer Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-f18aaf85eb/">Computer Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-engineering-honours-6aa0b57076/">Computer Science &amp; Engineering (Honours)</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-artificial-intelligence-c351dc0a46/">Computer Science (Artificial Intelligence)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-bengaluru-105a95fd3a/">Computer Science (Bengaluru)</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-bengaluru-29886f588e/">Computer Science (Bengaluru)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-computer-networks-37085482db/">Computer Science (Computer Networks)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-database-systems-440774c195/">Computer Science (Database Systems)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-embedded-systems-6963b294c7/">Computer Science (Embedded Systems)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-programming-languages-e30693c149/">Computer Science (Programming Languages)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-security-engineering-b04c41fa5b/">Computer Science (Security Engineering)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-arts-23049eae53/">Computer Science / Arts</a><small>Bachelor of Arts + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-fine-arts-502d08999e/">Computer Science / Fine Arts</a><small>Bachelor of Fine Arts + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-law-827b0e9d9c/">Computer Science / Law</a><small>Bachelor of Science + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-law-honours-20e5b9d92b/">Computer Science / Law (Honours)</a><small>Bachelor of Science + Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computing-and-cyber-security-06405f86c3/">Computing and Cyber Security</a><small>Bachelor of Computing and Cyber Security · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computing-and-cyber-security-honours-7a5d782698/">Computing and Cyber Security (Honours)</a><small>Bachelor of Computing and Cyber Security (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-construction-management-property-4b561e020c/">Construction Management &amp; Property</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-construction-management-and-property-fd309f7b91/">Construction Management and Property</a><small>Bachelor of Construction Management and Property · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-construction-management-and-property-honours-d0e8ca938e/">Construction Management and Property (Honours)</a><small>Bachelor of Construction Management and Property (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-creative-writing-022e847d9b/">Creative Writing</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-creative-writing-c813c23784/">Creative Writing</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-e452c2f6bb/">Criminology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-f16a4bd4f9/">Criminology &amp; Criminal Justice</a><small>Bachelor of Criminology and Criminal Justice · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-law-51962d58eb/">Criminology &amp; Criminal Justice / Law</a><small>Bachelor of Criminology and Criminal Justice + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-psychological-science-a41669e12f/">Criminology &amp; Criminal Justice / Psychological Science</a><small>Bachelor of Psychological Science + Bachelor of Criminology and Criminal Justice · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-psychology-honours-8e0af11b5b/">Criminology &amp; Criminal Justice / Psychology (Honours)</a><small>Bachelor of Psychology (Honours) + Bachelor of Criminology and Criminal Justice · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-honours-282bac55b7/">Criminology (Honours)</a><small>Bachelor of Criminology &amp; Criminal Justice (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-64ce2f44ed/">Criminology&amp; Criminal Justice</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-cyber-security-canberra-city-1a4e94eb4e/">Cyber Security (Canberra City)</a><small>Bachelor of Cyber Security · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-cyber-security-sydney-ef1c9b5e58/">Cyber Security (Sydney)</a><small>Bachelor of Cyber Security · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-cybersecurity-management-9486cf1a04/">Cybersecurity Management</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-data-analytics-and-econometrics-0120363afc/">Data Analytics and Econometrics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-data-science-and-decisions-32fee0273b/">Data Science and Decisions</a><small>Bachelor of Data Science and Decisions · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-data-science-and-decisions-bengaluru-68699b66e4/">Data Science and Decisions (Bengaluru)</a><small>Bachelor of Data Science and Decisions · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-data-science-and-decisions-law-09d0d2d87b/">Data Science and Decisions / Law</a><small>Bachelor of Data Science and Decisions + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-dermatology-extended-research-a1f34492cf/">Dermatology (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-design-87e7141196/">Design</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-design-honours-00e4f96d92/">Design (Honours)</a><small>Bachelor of Design (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-design-education-secondary-79b18609f4/">Design / Education (Secondary)</a><small>Bachelor of Design + Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-design-media-6442b90bb7/">Design / Media</a><small>Bachelor of Media + Bachelor of Design · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-earth-science-74655b5d9a/">Earth Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-earth-science-advanced-science-0f2f8a19da/">Earth Science (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ecology-2e4fddbdf6/">Ecology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ecology-6fea566e15/">Ecology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ecology-and-conservation-526ae1f0fc/">Ecology and Conservation</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ecology-and-conservation-advanced-science-4ab384ed74/">Ecology and Conservation (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-econometrics-24187db48f/">Econometrics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economic-policy-and-society-649f880d9f/">Economic Policy and Society</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-5fdbba9cf4/">Economics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-32c87fa0ec/">Economics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-honours-ab7e8f10d5/">Economics (Honours)</a><small>Bachelor of Economics (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-advanced-mathematics-honours-9e74830445/">Economics / Advanced Mathematics (Honours)</a><small>Bachelor of Economics + Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-advanced-science-honours-bd3b8a589e/">Economics / Advanced Science (Honours)</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-arts-1e49073295/">Economics / Arts</a><small>Bachelor of Arts + Bachelor of Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-computer-science-dabb39e593/">Economics / Computer Science</a><small>Bachelor of Science + Bachelor of Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-education-secondary-0a266ce2dd/">Economics / Education (Secondary)</a><small>Bachelor of Education (Secondary) + Bachelor of Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-law-3bd8ae5e89/">Economics / Law</a><small>Bachelor of Economics + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-science-21a3dc4099/">Economics / Science</a><small>Bachelor of Science + Bachelor of Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-education-primary-c1b6b90bbf/">Education (Primary)</a><small>Bachelor of Education (Primary) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-education-primary-honours-6906b0aca0/">Education (Primary) (Honours)</a><small>Bachelor of Education (Primary) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-education-secondary-93fa0cff39/">Education (Secondary)</a><small>Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-education-secondary-hons-ed4209fc1a/">Education (Secondary) (Hons)</a><small>Bachelor of Education (Secondary) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-electrical-engineering-ed61a5e876/">Electrical Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-electrical-engineering-f92edc0a3c/">Electrical Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-electrical-engineering-honours-95ec2878d2/">Electrical Engineering (Honours)</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-emergency-medicine-extended-research-c350ac500c/">Emergency Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-energy-engineering-b12e5fa861/">Energy Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-civil-eng-w-arch-honours-e066f415e5/">Engineering (Civil Eng w Arch) (Honours)</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-d21fdac96e/">Engineering (Honours)</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-arts-710fbc41cc/">Engineering (Honours) / Arts</a><small>Bachelor of Arts + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-biomedical-engineering-247d555aab/">Engineering (Honours) / Biomedical Engineering</a><small>Bachelor of Engineering (Honours) + Master of Biomedical Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-commerce-b0568fc21d/">Engineering (Honours) / Commerce</a><small>Bachelor of Commerce + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-computer-science-7103cce798/">Engineering (Honours) / Computer Science</a><small>Bachelor of Engineering (Honours) + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-engineering-e9789e7060/">Engineering (Honours) / Engineering</a><small>Bachelor of Engineering (Honours) Master of Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-engineering-science-870554574f/">Engineering (Honours) / Engineering Science</a><small>Bachelor of Engineering Science + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-law-60edfe5cf4/">Engineering (Honours) / Law</a><small>Bachelor of Engineering (Honours) + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-law-honours-df0d7940dc/">Engineering (Honours) / Law (Honours)</a><small>Bachelor of Laws (Honours) + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-science-4aa404038e/">Engineering (Honours) / Science</a><small>Bachelor of Science + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-surveying-d60b69158e/">Engineering (Honours) / Surveying</a><small>Bachelor of Engineering (Honours) + Bachelor of Surveying · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-upp-63a5d8fcb4/">Engineering (UPP)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-a11ae6a862/">Engineering Science</a><small>Bachelor of Engineering Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-arts-b3c780e3e6/">Engineering Science / Arts</a><small>Bachelor of Arts + Bachelor of Engineering Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-commerce-aeb2beff61/">Engineering Science / Commerce</a><small>Bachelor of Engineering Science + Bachelor of Commerce · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-computer-science-c059593b95/">Engineering Science / Computer Science</a><small>Bachelor of Engineering Science + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-science-8c885ba298/">Engineering Science / Science</a><small>Bachelor of Science + Bachelor of Engineering Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-english-09f629d326/">English</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-english-f4f6487227/">English</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-english-and-media-studies-e1e442096f/">English and Media Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-chemistry-cbd82c5c49/">Environmental Chemistry</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-engineering-2507008722/">Environmental Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-engineering-55a339cced/">Environmental Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-health-data-science-a803eebb3d/">Environmental Health Data Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-humanities-74061e8068/">Environmental Humanities</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-humanities-9fbd16deca/">Environmental Humanities</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-management-ff08767e4e/">Environmental Management</a><small>Bachelor of Environmental Management · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-management-16804eb7d1/">Environmental Management</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-management-arts-320de4a77f/">Environmental Management / Arts</a><small>Bachelor of Arts + Bachelor of Environmental Management · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-european-studies-c5b382a169/">European Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-european-studies-6e26e92e17/">European Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-exercise-science-ba22eca320/">Exercise Science</a><small>Bachelor of Exercise Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-exercise-science-physiotherapy-and-exercise-physiology-992e8f974f/">Exercise Science / Physiotherapy and Exercise Physiology</a><small>Master of Physiotherapy and Exercise Physiology + Bachelor of Exercise Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-film-studies-b42793ed4b/">Film Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-film-studies-2efae3b81c/">Film Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-finance-fa3f242cee/">Finance</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-finance-e52b0fa58e/">Finance</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-finance-co-op-80ea19215d/">Finance Co-op</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-finance-co-op-honours-85980e18ce/">Finance Co-op Honours</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-financial-technology-08e6b162b9/">Financial Technology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-ea61a1233b/">Fine Arts</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-honours-4f2a4d20e5/">Fine Arts (Honours)</a><small>Bachelor of Fine Arts (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-arts-8af7c32fae/">Fine Arts / Arts</a><small>Bachelor of Arts + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-education-secondary-c0e300cfe1/">Fine Arts / Education (Secondary)</a><small>Bachelor of Education (Secondary) + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-engineering-honours-c7ffcee567/">Fine Arts / Engineering (Honours)</a><small>Bachelor of Engineering (Honours) + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-law-b42dafe3ab/">Fine Arts / Law</a><small>Bachelor of Laws + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-media-28bac59269/">Fine Arts / Media</a><small>Bachelor of Media + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-engineering-f84e5483e8/">Food Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-science-6795ee4d12/">Food Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-science-honours-d52cef66d1/">Food Science (Honours)</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-science-and-nutrition-741db30afc/">Food Science and Nutrition</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-science-and-technology-7042fe0fe1/">Food Science and Technology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-french-studies-f88e6b6d6a/">French Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-french-studies-ec60ecab12/">French Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-general-practice-extended-research-6e2b5076ea/">General Practice (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-genetics-44eef532e1/">Genetics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-genetics-143cae93bb/">Genetics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-genetics-advanced-science-e0b5ef5a0a/">Genetics (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-genetics-extended-research-ce62c83e76/">Genetics (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geoenergy-and-geostorage-engineering-a7a3990dc9/">Geoenergy and Geostorage Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geoenergy-and-geostorage-engineering-e78f0598a5/">Geoenergy and Geostorage Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geographical-studies-91ecb86fe4/">Geographical Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geography-d799cf9b78/">Geography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geography-82859bc2cf/">Geography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geography-4dfded1847/">Geography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geography-advanced-science-6cb40ef865/">Geography (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geology-ec030fba11/">Geology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-german-studies-1b3a5e0a97/">German Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-german-studies-9cf80631c4/">German Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-global-development-d701305c63/">Global Development</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-global-development-b1a951a1b1/">Global Development</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-health-sciences-9ede24626f/">Health Sciences</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-history-b2b79fb26f/">History</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-history-9ffb86b5c3/">History</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-history-8831bd6883/">History</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-history-60ce36aa26/">History</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-human-anatomy-f1d28c04f3/">Human Anatomy</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-human-geography-8b804329b7/">Human Geography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-human-pathology-fb00fae13e/">Human Pathology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-human-resource-management-05da73f6c5/">Human Resource Management</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-immunology-f08f17a419/">Immunology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-immunology-advanced-science-eba7944a72/">Immunology (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-indigenous-studies-11b2b56b12/">Indigenous Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-indo-pacific-studies-9d98838d16/">Indo-Pacific Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-indonesian-studies-e1fbac8dc3/">Indonesian Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-indonesian-studies-b56e7cc5a4/">Indonesian Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-industrial-design-67ae401c20/">Industrial Design</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-industrial-design-honours-7a4c05923a/">Industrial Design (Honours)</a><small>Bachelor of Industrial Design (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-infectious-disease-extended-research-99380829fa/">Infectious Disease (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-226d6969d9/">Information Systems</a><small>Bachelor of Information Systems · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-0c273a4e88/">Information Systems</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-014b1feac3/">Information Systems</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-co-op-honours-bcb52f39c4/">Information Systems (Co-op) (Honours)</a><small>Bachelor of Information Systems (Co-op) (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-computer-science-e199406a17/">Information Systems / Computer Science</a><small>Bachelor of Information Systems + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-co-op-b9df872e59/">Information Systems Co-op</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-innovation-strategy-and-entrepreneurship-b80d6820be/">Innovation, Strategy and Entrepreneurship</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-integrated-design-4f20ab5e84/">Integrated Design</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-intensive-care-medicine-extended-research-8006331948/">Intensive Care Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-interior-architecture-honours-21c3f2838c/">Interior Architecture (Honours)</a><small>Bachelor of Interior Architecture (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-international-pol-studies-c312ea1d1e/">International &amp; Pol. Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-international-business-44029261a6/">International Business</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-international-studies-306e311737/">International Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-international-and-political-studies-b5c25f3d72/">International and Political Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-japanese-studies-6967ff440e/">Japanese Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-japanese-studies-20030a560d/">Japanese Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-korean-studies-a8428fed1e/">Korean Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-korean-studies-f32239f169/">Korean Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-landscape-architecture-hons-584a3fbb9a/">Landscape Architecture (Hons)</a><small>Bachelor of Landscape Architecture (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-language-studies-e245b8fcf7/">Language Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-law-8c9d18ef52/">Law</a><small>Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-law-8718d63f1f/">Law</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-law-honours-335c4c9bc4/">Law (Honours)</a><small>Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-linguistics-2b40272438/">Linguistics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-linguistics-c8a4833cc6/">Linguistics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-macroeconomics-and-financial-markets-78c85b8724/">Macroeconomics and Financial Markets</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marine-science-5d47ca2ac9/">Marine Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marine-and-coastal-science-d386fe3557/">Marine and Coastal Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marine-and-coastal-science-advanced-science-01dcd7177a/">Marine and Coastal Science (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-maritime-4e791a3173/">Maritime</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marketing-fe18f1740e/">Marketing</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marketing-88ed9c3dee/">Marketing</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marketing-analytics-660c1dccdd/">Marketing Analytics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marketing-co-op-0ad34ea5b6/">Marketing Co-op</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-21ca0eb571/">Materials Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-4287adf46e/">Materials Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-advanced-science-a2fef1cf50/">Materials Science (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-honours-09b1cb269f/">Materials Science and Engineering (Honours)</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-honours-biomedical-engineering-c4e57fd97e/">Materials Science and Engineering (Honours) / Biomedical Engineering</a><small>Bachelor of Engineering (Honours) + Master of Biomedical Engineering · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-honours-commerce-8a33a91836/">Materials Science and Engineering (Honours) / Commerce</a><small>Bachelor of Commerce + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-honours-engineering-science-7d21ca3d7c/">Materials Science and Engineering (Honours) / Engineering Science</a><small>Bachelor of Engineering Science + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-materials-engineering-a9098a1211/">Materials Science and Engineering (Materials Engineering)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-9c226ed8cd/">Mathematics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-advanced-science-1a9db85d0f/">Mathematics (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-and-statistics-5c44a4ece6/">Mathematics and Statistics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-and-statistics-35e44cecff/">Mathematics and Statistics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-for-education-2d17edef61/">Mathematics for Education</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-engineering-d44a9bec20/">Mechanical Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-engineering-honours-21a8553bec/">Mechanical Engineering (Honours)</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-and-manufacturing-engineering-10c23297d3/">Mechanical and Manufacturing Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-and-manufacturing-engineering-3126792978/">Mechanical and Manufacturing Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-1278ecbac2/">Media</a><small>Bachelor of Media · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-bengaluru-094f80495d/">Media (Bengaluru)</a><small>Bachelor of Media · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-honours-9e2bf25ca2/">Media (Honours)</a><small>Bachelor of Media (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-arts-02dd4a6ba0/">Media / Arts</a><small>Bachelor of Arts + Bachelor of Media · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-law-34cf8d491d/">Media / Law</a><small>Bachelor of Laws + Bachelor of Media · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-social-sciences-56814d39ec/">Media / Social Sciences</a><small>Bachelor of Media + Bachelor of Social Sciences · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-arts-honours-88e302cc98/">Media Arts (Honours)</a><small>Bachelor of Media Arts (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-studies-00a7fe41eb/">Media Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-culture-and-technology-cc79b2264c/">Media, Culture and Technology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-culture-technology-163f599277/">Media,Culture &amp; Technology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-administration-extended-research-abaf7fa7b7/">Medical Administration (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-education-extended-research-2fe7f453f2/">Medical Education (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-immunology-4de9e96e39/">Medical Immunology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-microbiology-4deb4bf26c/">Medical Microbiology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-pharmacology-a8a2ee1621/">Medical Pharmacology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-physiology-181989b6fe/">Medical Physiology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-science-6a13eb7aca/">Medical Science</a><small>Bachelor of Medical Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-science-e1a0cacf8f/">Medical Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicinal-chemistry-honours-08bdde3d10/">Medicinal Chemistry (Honours)</a><small>Bachelor of Medicinal Chemistry (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicinal-chemistry-honours-law-4475e0fe82/">Medicinal Chemistry (Honours) / Law</a><small>Bachelor of Laws + Bachelor of Medicinal Chemistry (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicine-3fdda962d9/">Medicine</a><small>Doctor of Medicine + Bachelor of Medical Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicine-extended-research-f233d12a13/">Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicine-arts-f28d5ed0e3/">Medicine / Arts</a><small>Bachelor of Arts + Doctor of Medicine + Bachelor of Medical Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-microbiology-c30c43aedd/">Microbiology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-microbiology-2a3d1a7b9e/">Microbiology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-microbiology-advanced-science-54f9dd4b01/">Microbiology (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-microbiology-extended-research-67d69909be/">Microbiology (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-military-philosophy-2003af20a2/">Military Philosophy</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-military-studies-6a8a62708f/">Military Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mining-engineering-42ef134ab8/">Mining Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mining-engineering-0a17b51c89/">Mining Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-biology-06f6324628/">Molecular Biology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-genetics-09ce12e641/">Molecular Genetics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-and-cell-biology-39d1d3d96a/">Molecular and Cell Biology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-and-cell-biology-87cd7d1a13/">Molecular and Cell Biology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-and-cell-biology-advanced-science-cb7843bdcb/">Molecular and Cell Biology (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-bf1bae298f/">Music</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-honours-0be6406d95/">Music (Honours)</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-creative-practice-65e16f32bc/">Music Creative Practice</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-pedagogy-bc139b7fe8/">Music Pedagogy</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-sonic-arts-be7ba18404/">Music Sonic Arts</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-studies-1055b2433d/">Music Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-studies-2cf78847cf/">Music Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-studies-intensive-4df1674242/">Music Studies (Intensive)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nanodevices-9ea35ebfe6/">Nanodevices</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nanomaterials-62a60f0f5f/">Nanomaterials</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-naval-architecture-honours-bfbe7b6c80/">Naval Architecture (Honours)</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-neurobiology-7137948636/">Neurobiology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-neuroscience-ce4429762b/">Neuroscience</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-neuroscience-01a6671444/">Neuroscience</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-neuroscience-advanced-science-d5e9d4a292/">Neuroscience (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nuclear-engineering-25a653f291/">Nuclear Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nuclear-engineering-00edd2bbe2/">Nuclear Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nutrition-e1886d4bbe/">Nutrition</a><small>Bachelor of Nutrition · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nutrition-dietetics-and-food-innovation-1bd9574af1/">Nutrition / Dietetics and Food Innovation</a><small>Master of Dietetics and Food Innovation + Bachelor of Nutrition · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-obstetrics-and-gynaecology-extended-research-5be05db6e2/">Obstetrics and Gynaecology (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-occupational-and-environmental-medicine-extended-research-bf2d2ce36c/">Occupational and Environmental Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-oceanography-f361623af3/">Oceanography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-oceanography-9aa9759f11/">Oceanography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ophthalmology-extended-research-06f7e2836e/">Ophthalmology (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-paediatrics-and-child-health-extended-research-fb4ca64138/">Paediatrics and Child Health (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pain-medicine-extended-research-a0c4292058/">Pain Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-palaeoscience-ab96649a4c/">Palaeoscience</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-palliative-medicine-extended-research-cbcff65f81/">Palliative Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pathology-ce93927255/">Pathology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pathology-9bf1afba44/">Pathology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pathology-advanced-science-6555232526/">Pathology (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pathology-extended-research-da70f966a7/">Pathology (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmaceutical-medicine-aea7fd1d9f/">Pharmaceutical Medicine</a><small>Bachelor of Pharmaceutical Medicine · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmaceutical-medicine-pharmacy-85165fbb79/">Pharmaceutical Medicine / Pharmacy</a><small>Master of Pharmacy + Bachelor of Pharmaceutical Medicine · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmaceutical-medicine-pharmacy-0d480ea91c/">Pharmaceutical Medicine / Pharmacy</a><small>Bachelor of Pharmaceutical Medicine + Doctor of Pharmacy · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmacology-a9a49e4b88/">Pharmacology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmacology-727ee21f48/">Pharmacology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmacology-advanced-science-4c055f03c6/">Pharmacology (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmacology-extended-research-c1a0fae5b2/">Pharmacology (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-philosophy-a6e51a448c/">Philosophy</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-philosophy-136f0d8b55/">Philosophy</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-photovoltaics-and-solar-energy-29a6bbe323/">Photovoltaics and Solar Energy</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-photovoltaics-and-solar-energy-25083391fe/">Photovoltaics and Solar Energy</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physical-geography-5b4348c212/">Physical Geography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physical-oceanography-74f8a9ebbf/">Physical Oceanography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physical-oceanography-f2117913d3/">Physical Oceanography</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physical-oceanography-advanced-science-549274b235/">Physical Oceanography (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-da9fb54b31/">Physics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-2de1203613/">Physics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-aa5ad54243/">Physics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-b4a8278e36/">Physics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-advanced-science-4feb8485e2/">Physics (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physiology-915c6010d6/">Physiology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physiology-dfee8f7601/">Physiology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physiology-advanced-science-60adfe12f7/">Physiology (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physiology-extended-research-54560ac523/">Physiology (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-politics-and-international-relations-818d76b9cc/">Politics and International Relations</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-politics-and-international-relations-620e131fe2/">Politics and International Relations</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-politics-philosophy-and-economics-4ee4e09b46/">Politics, Philosophy and Economics</a><small>Bachelor of Politics, Philosophy and Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-politics-philosophy-and-economics-law-d638b2cd96/">Politics, Philosophy and Economics / Law</a><small>Bachelor of Laws + Bachelor of Politics, Philosophy and Economics · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-property-development-609cbd3c93/">Property Development</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychiatry-extended-research-6628004233/">Psychiatry (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychological-science-c396131c3c/">Psychological Science</a><small>Bachelor of Psychological Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychological-science-honours-71cc92dd7b/">Psychological Science (Honours)</a><small>Bachelor of Psychological Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychological-science-law-87cfd711b7/">Psychological Science / Law</a><small>Bachelor of Psychological Science + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychology-907610fa47/">Psychology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychology-7be8487ca6/">Psychology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychology-honours-e375ce75c9/">Psychology (Honours)</a><small>Bachelor of Psychology (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychology-honours-law-8b57f0239b/">Psychology (Honours) / Law</a><small>Bachelor of Psychology (Honours) + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-public-health-medicine-extended-research-3dd3eb565e/">Public Health Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-public-relations-and-advertising-cfe687236f/">Public Relations and Advertising</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-public-relations-and-advertising-bengaluru-99d4512bd4/">Public Relations and Advertising (Bengaluru)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-public-relations-advertising-29526dc611/">Public Relations&amp;Advertising</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pure-mathematics-ec7db11bdf/">Pure Mathematics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pure-mathematics-ba2d03f3c1/">Pure Mathematics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantitative-data-science-3da6485d86/">Quantitative Data Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantitative-data-science-7d24527abd/">Quantitative Data Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantity-surveying-1da8e551d0/">Quantity Surveying</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantum-engineering-15386bd6a3/">Quantum Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantum-engineering-41693f40f9/">Quantum Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-radiology-extended-research-0abcf3ccef/">Radiology (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-rehabilitation-medicine-extended-research-79558a2776/">Rehabilitation Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-renewable-energy-engineering-e010a525b5/">Renewable Energy Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-renewable-energy-engineering-ad51ad4481/">Renewable Energy Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-robotics-and-mechatronics-engineering-5eed61c0ec/">Robotics and Mechatronics Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-robotics-and-mechatronics-engineering-bd696a138e/">Robotics and Mechatronics Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-rural-and-remote-medicine-extended-research-2bddde9583/">Rural and Remote Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-318f04b124/">Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-895d2446f2/">Science</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-honours-5507d6a6b3/">Science (Honours)</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-honours-53289785ec/">Science (Honours)</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-medicine-honours-cde74ad031/">Science (Medicine) Honours</a><small>Bachelor of Science (Medicine) Honours · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-upp-95ea27cdc0/">Science (UPP)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-arts-e803a7fd6a/">Science / Arts</a><small>Bachelor of Science + Bachelor of Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-computer-science-318dea41bc/">Science / Computer Science</a><small>Bachelor of Science + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-education-secondary-2842bb81b9/">Science / Education (Secondary)</a><small>Bachelor of Science + Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-fine-arts-e0a4522694/">Science / Fine Arts</a><small>Bachelor of Science + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-law-52b13a937a/">Science / Law</a><small>Bachelor of Science + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-social-sciences-f90ab06bed/">Science / Social Sciences</a><small>Bachelor of Social Sciences + Bachelor of Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-screen-production-a06685c4dc/">Screen Production</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-screen-and-sound-production-6429b4e7db/">Screen and Sound Production</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-security-engineering-ac332ead47/">Security Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-sexual-health-medicine-extended-research-726ee45e7e/">Sexual Health Medicine (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-science-honours-ed283448f9/">Social Science (Honours)</a><small>Bachelor of Social Science (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-sciences-8be71c1f7f/">Social Sciences</a><small>Bachelor of Social Sciences · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-sciences-law-304dc14493/">Social Sciences / Law</a><small>Bachelor of Social Sciences + Bachelor of Laws · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-13787adb79/">Social Work (Honours)</a><small>Bachelor of Social Work (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-arts-a3839e60c0/">Social Work (Honours) / Arts</a><small>Bachelor of Arts + Bachelor of Social Work (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-criminology-criminal-justice-e6eee43921/">Social Work (Honours) / Criminology &amp; Criminal Justice</a><small>Bachelor of Social Work (Honours) + Bachelor of Criminology and Criminal Justice · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-law-882a48d756/">Social Work (Honours) / Law</a><small>Bachelor of Laws + Bachelor of Social Work (Honours) · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-social-sciences-ac26e68df3/">Social Work (Honours) / Social Sciences</a><small>Bachelor of Social Work (Honours) + Bachelor of Social Sciences · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-sociology-066353c2aa/">Sociology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-sociology-54118c8bbb/">Sociology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-software-engineering-3ea9a50884/">Software Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-software-engineering-2f2a3c1291/">Software Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-spanish-studies-7534e87a2b/">Spanish Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-spanish-studies-623a825192/">Spanish Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-sports-and-exercise-extended-research-5d78bacf4d/">Sports and Exercise (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-statistics-b027e40b8a/">Statistics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-statistics-d4e938735e/">Statistics</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-statistics-advanced-science-eeceb95591/">Statistics (Advanced Science)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-studies-in-psychology-2e2bac97f1/">Studies in Psychology</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-surgery-extended-research-62fbdd28e5/">Surgery (Extended Research)</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-surveying-7de0765f1b/">Surveying</a><small>Bachelor of Surveying · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-surveying-87952925ef/">Surveying</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-surveying-engineering-185de95864/">Surveying Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-taxation-b57357a52e/">Taxation</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-taxation-057c093ab9/">Taxation</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-technology-aeronautical-eng-d10a70ef4f/">Technology (Aeronautical Eng)</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-telecommunications-0a6750215d/">Telecommunications</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-telecommunications-c60e6d60f9/">Telecommunications</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-theatre-perf-studies-9b3755ebdf/">Theatre &amp; Perf Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-theatre-and-performance-studies-d930e24273/">Theatre and Performance Studies</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-theoretical-computer-science-6a2c1803f8/">Theoretical Computer Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-unsw-prep-prog-17-19-business-74ec59c580/">UNSW Prep Prog 17-19 Business</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-unsw-prep-program-17-19-arts-design-architecture-bb1f7383ed/">UNSW Prep Program 17-19 Arts, Design &amp; Architecture</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-unsw-prep-program-17-19-engineering-f4782e4144/">UNSW Prep Program 17-19 Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-unsw-prep-program17-19-science-e35d5b06df/">UNSW Prep Program17-19 Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-vision-science-1eee5cfbd4/">Vision Science</a><small>Bachelor of Vision Science · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-vision-science-313a88f9e6/">Vision Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-vision-science-07c05c6fc4/">Vision Science</a><small>Undergraduate major / honours specialisation within a bachelor degree · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-vision-science-clinical-optometry-eb623d8421/">Vision Science / Clinical Optometry</a><small>Bachelor of Vision Science + Master of Clinical Optometry · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-visual-arts-3fde93f859/">Visual Arts</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-war-studies-75c5e351cf/">War Studies</a><small>Bachelor of War Studies · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-water-process-engineering-3291f41e58/">Water Process Engineering</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-behavioural-economics-2b26dd1402/">行为经济学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-6bda6f6111/">生物信息学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-b42553c721/">生物信息学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-advanced-science-4b8732afa3/">生物信息学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-engineering-eb6ef5c546/">生物信息工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-bioinformatics-engineering-046b512ba2/">生物信息工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biological-chemistry-46b7b5dc43/">生物化学交叉方向（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biology-790e4d5540/">生物学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biology-8b4f194f38/">生物学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biology-and-biodiversity-c4e92e43d3/">生物学与生物多样性（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biology-and-biodiversity-advanced-science-65fe643a3d/">生物学与生物多样性（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biomedical-engineering-f58001f676/">生物医学工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biomedical-engineering-10b77fa592/">生物医学工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biophysics-b6970f3687/">生物物理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biophysics-937ba9728f/">生物物理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biophysics-advanced-science-471448e80b/">生物物理学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biotechnology-fc57686ddf/">生物技术（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biotechnology-d986d19aa2/">生物技术（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biotechnology-advanced-science-4f6f53bd9a/">生物技术（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-biotechnology-honours-385d9913e1/">生物技术荣誉学士</a><small>Bachelor of Biotechnology (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-building-554d6a9f5c/">建筑营造（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-86d45215b4/">商业学士（堪培拉）</a><small>Bachelor of Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-158f66bb97/">商业（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-bengaluru-f5cdd64493/">商业学士（班加罗尔）</a><small>Bachelor of Business · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-honours-5359bc8ca8/">商业荣誉学士（堪培拉）</a><small>Bachelor of Business (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-analytics-5fb3a441d3/">商业分析（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-data-science-7265a40f17/">商业数据科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-economics-2a46ad45d2/">商业经济学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-economics-c396dd2e0f/">商业经济学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-business-sustainability-and-social-impact-6d08808530/">商业可持续性与社会影响（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemical-engineering-77539b1961/">化学工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemical-engineering-8f5a67c0e5/">化学工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemical-product-engineering-e86aa08db9/">化工产品工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemical-product-engineering-99c0ff642d/">化工产品工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-a91647fd07/">化学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-b2f257b96b/">化学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-bd077e6d06/">化学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-7a177ada6d/">化学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chemistry-advanced-science-23c5121179/">化学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chinese-studies-4cb26c35aa/">中国研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-chinese-studies-d441922db8/">中国研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-cinema-studies-0bf5bec2eb/">电影研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-city-planning-honours-5bd2ebb16b/">城市规划荣誉学士</a><small>Bachelor of City Planning (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-city-planning-honours-law-57198a76c1/">城市规划荣誉学士＋法学学士</a><small>Bachelor of Laws + Bachelor of City Planning (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-civil-engineering-f24d7222e1/">土木工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-civil-engineering-e3cad05348/">土木工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-civil-engineering-honours-2a76e56f67/">土木工程荣誉学士（堪培拉）</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-climate-science-f9a5a4fb67/">气候科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-climate-systems-science-9801679368/">气候系统科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-climate-systems-science-advanced-science-90f1f1b34e/">气候系统科学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-clinical-artificial-intelligence-84e9296595/">临床人工智能（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-clinical-artificial-intelligence-extended-research-819fcfdde0/">临床人工智能（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-co-op-2676130b3a/">商学学士（Co-op 产学合作）</a><small>Bachelor of Commerce (Co-op) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-co-op-honours-6b526c4925/">商学荣誉学士（Co-op 产学合作）</a><small>Bachelor of Commerce (Co-op) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-honours-c063d78c49/">商学荣誉学士</a><small>Bachelor of Commerce (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-international-735ea5f361/">商学学士（国际方向）</a><small>Bachelor of Commerce (International) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-advanced-science-honours-038ab54002/">商学学士＋高级理科荣誉学士</a><small>Bachelor of Commerce + Bachelor of Advanced Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-arts-84b5ce41f6/">商学学士＋文科学士</a><small>Bachelor of Arts + Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-aviation-management-16c1fb7c54/">商学学士＋航空管理学士</a><small>Bachelor of Commerce + Bachelor of Aviation · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-computer-science-2fac3e39f5/">商学学士＋计算机科学理学学士</a><small>Bachelor of Commerce + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-design-6c32438687/">商学学士＋设计学士</a><small>Bachelor of Design + Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-economics-952191251e/">商学学士＋经济学学士</a><small>Bachelor of Economics + Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-education-secondary-37ae7eaad8/">商学学士＋中学教育学士</a><small>Bachelor of Education (Secondary) + Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-fine-arts-4cb7629578/">商学学士＋美术学士</a><small>Bachelor of Fine Arts + Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-information-systems-57c67fb2f6/">商学学士＋信息系统学士</a><small>Bachelor of Information Systems + Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-law-ed7b4f6697/">商学学士＋法学学士</a><small>Bachelor of Laws + Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-media-2f31cf4fe9/">商学学士＋媒体学士</a><small>Bachelor of Commerce + Bachelor of Media · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-commerce-science-1ae90c3e2f/">商学学士＋理学学士</a><small>Bachelor of Commerce + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-communication-journalism-4662bacbf8/">传播与新闻（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-communication-and-journalism-c13a8f27ee/">传播与新闻（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-biology-d2a12e9992/">计算生物学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-data-science-6df5aa41ab/">计算数据科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-data-science-bengaluru-e5468756d3/">计算数据科学（班加罗尔）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-design-792ca0c133/">计算设计（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computational-design-honours-4af4698b05/">计算设计荣誉学士</a><small>Bachelor of Computational Design (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-engineering-1276ea8bc0/">计算机工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-engineering-5c0d399cf8/">计算机工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-bb9045f550/">计算机科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-af85072537/">计算机科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-51e117fc4c/">计算机科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-f18aaf85eb/">计算机科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-engineering-honours-6aa0b57076/">计算机科学与工程荣誉理学学士</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-artificial-intelligence-c351dc0a46/">计算机科学（人工智能）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-bengaluru-105a95fd3a/">计算机科学理学学士（班加罗尔）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-bengaluru-29886f588e/">计算机科学（班加罗尔）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-computer-networks-37085482db/">计算机科学（计算机网络）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-database-systems-440774c195/">计算机科学（数据库系统）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-embedded-systems-6963b294c7/">计算机科学（嵌入式系统）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-programming-languages-e30693c149/">计算机科学（程序设计语言）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-security-engineering-b04c41fa5b/">计算机科学（安全工程）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-arts-23049eae53/">计算机科学理学学士＋文科学士</a><small>Bachelor of Arts + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-fine-arts-502d08999e/">计算机科学理学学士＋美术学士</a><small>Bachelor of Fine Arts + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-law-827b0e9d9c/">计算机科学理学学士＋法学学士</a><small>Bachelor of Science + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computer-science-law-honours-20e5b9d92b/">计算机科学理学学士＋法学荣誉学士（内部转入）</a><small>Bachelor of Science + Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computing-and-cyber-security-06405f86c3/">计算与网络安全学士（堪培拉）</a><small>Bachelor of Computing and Cyber Security · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-computing-and-cyber-security-honours-7a5d782698/">计算与网络安全荣誉学士（堪培拉）</a><small>Bachelor of Computing and Cyber Security (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-construction-management-property-4b561e020c/">建造管理与房地产（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-construction-management-and-property-fd309f7b91/">建造管理与房地产学士</a><small>Bachelor of Construction Management and Property · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-construction-management-and-property-honours-d0e8ca938e/">建造管理与房地产荣誉学士</a><small>Bachelor of Construction Management and Property (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-creative-writing-022e847d9b/">创意写作（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-creative-writing-c813c23784/">创意写作（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-e452c2f6bb/">犯罪学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-f16a4bd4f9/">犯罪学与刑事司法学士</a><small>Bachelor of Criminology and Criminal Justice · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-law-51962d58eb/">犯罪学与刑事司法学士＋法学学士</a><small>Bachelor of Criminology and Criminal Justice + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-psychological-science-a41669e12f/">犯罪学与刑事司法学士＋心理科学学士</a><small>Bachelor of Psychological Science + Bachelor of Criminology and Criminal Justice · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-psychology-honours-8e0af11b5b/">犯罪学与刑事司法学士＋心理学荣誉学士</a><small>Bachelor of Psychology (Honours) + Bachelor of Criminology and Criminal Justice · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-honours-282bac55b7/">犯罪学与刑事司法荣誉学士</a><small>Bachelor of Criminology &amp; Criminal Justice (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-criminology-criminal-justice-64ce2f44ed/">犯罪学与刑事司法（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-cyber-security-canberra-city-1a4e94eb4e/">网络安全学士（堪培拉城市校区）</a><small>Bachelor of Cyber Security · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-cyber-security-sydney-ef1c9b5e58/">网络安全学士（悉尼）</a><small>Bachelor of Cyber Security · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-cybersecurity-management-9486cf1a04/">网络安全管理（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-data-analytics-and-econometrics-0120363afc/">数据分析与计量经济学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-data-science-and-decisions-32fee0273b/">数据科学与决策学士</a><small>Bachelor of Data Science and Decisions · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-data-science-and-decisions-bengaluru-68699b66e4/">数据科学与决策学士（班加罗尔）</a><small>Bachelor of Data Science and Decisions · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-data-science-and-decisions-law-09d0d2d87b/">数据科学与决策学士＋法学学士</a><small>Bachelor of Data Science and Decisions + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-dermatology-extended-research-a1f34492cf/">皮肤病学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-design-87e7141196/">设计学士</a><small>Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-design-honours-00e4f96d92/">设计荣誉学士</a><small>Bachelor of Design (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-design-education-secondary-79b18609f4/">设计学士＋中学教育学士</a><small>Bachelor of Design + Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-design-media-6442b90bb7/">设计学士＋媒体学士</a><small>Bachelor of Media + Bachelor of Design · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-earth-science-74655b5d9a/">地球科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-earth-science-advanced-science-0f2f8a19da/">地球科学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ecology-2e4fddbdf6/">生态学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ecology-6fea566e15/">生态学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ecology-and-conservation-526ae1f0fc/">生态与保护（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ecology-and-conservation-advanced-science-4ab384ed74/">生态与保护（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-econometrics-24187db48f/">计量经济学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economic-policy-and-society-649f880d9f/">经济政策与社会（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-5fdbba9cf4/">经济学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-32c87fa0ec/">经济学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-honours-ab7e8f10d5/">经济学荣誉学士</a><small>Bachelor of Economics (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-advanced-mathematics-honours-9e74830445/">经济学学士＋高级数学荣誉理学学士</a><small>Bachelor of Economics + Bachelor of Science (Advanced Mathematics) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-advanced-science-honours-bd3b8a589e/">经济学学士＋高级理科荣誉学士</a><small>Bachelor of Advanced Science (Honours) + Bachelor of Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-arts-1e49073295/">经济学学士＋文科学士</a><small>Bachelor of Arts + Bachelor of Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-computer-science-dabb39e593/">经济学学士＋计算机科学理学学士</a><small>Bachelor of Science + Bachelor of Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-education-secondary-0a266ce2dd/">经济学学士＋中学教育学士</a><small>Bachelor of Education (Secondary) + Bachelor of Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-law-3bd8ae5e89/">经济学学士＋法学学士</a><small>Bachelor of Economics + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-economics-science-21a3dc4099/">经济学学士＋理学学士</a><small>Bachelor of Science + Bachelor of Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-education-primary-c1b6b90bbf/">小学教育学士（转入路径）</a><small>Bachelor of Education (Primary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-education-primary-honours-6906b0aca0/">小学教育荣誉学士</a><small>Bachelor of Education (Primary) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-education-secondary-93fa0cff39/">中学教育学士（双学位组成部分）</a><small>Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-education-secondary-hons-ed4209fc1a/">中学教育荣誉学士</a><small>Bachelor of Education (Secondary) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-electrical-engineering-ed61a5e876/">电气工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-electrical-engineering-f92edc0a3c/">电气工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-electrical-engineering-honours-95ec2878d2/">电气工程荣誉学士（堪培拉）</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-emergency-medicine-extended-research-c350ac500c/">急诊医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-energy-engineering-b12e5fa861/">能源工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-civil-eng-w-arch-honours-e066f415e5/">土木工程与建筑方向荣誉工学学士</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-d21fdac96e/">工程荣誉学士</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-arts-710fbc41cc/">工程荣誉学士＋文科学士</a><small>Bachelor of Arts + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-biomedical-engineering-247d555aab/">工程荣誉学士＋生物医学工程硕士</a><small>Bachelor of Engineering (Honours) + Master of Biomedical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-commerce-b0568fc21d/">工程荣誉学士＋商学学士</a><small>Bachelor of Commerce + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-computer-science-7103cce798/">工程荣誉学士＋计算机科学理学学士</a><small>Bachelor of Engineering (Honours) + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-engineering-e9789e7060/">电气工程荣誉学士＋工程硕士</a><small>Bachelor of Engineering (Honours) Master of Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-engineering-science-870554574f/">工程荣誉学士＋工程科学学士</a><small>Bachelor of Engineering Science + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-law-60edfe5cf4/">工程荣誉学士＋法学学士</a><small>Bachelor of Engineering (Honours) + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-law-honours-df0d7940dc/">工程荣誉学士＋法学荣誉学士（内部转入）</a><small>Bachelor of Laws (Honours) + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-science-4aa404038e/">工程荣誉学士＋理学学士</a><small>Bachelor of Science + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-honours-surveying-d60b69158e/">工程荣誉学士＋测量学士</a><small>Bachelor of Engineering (Honours) + Bachelor of Surveying · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-a11ae6a862/">工程科学学士（退出学位）</a><small>Bachelor of Engineering Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-arts-b3c780e3e6/">工程科学学士＋文科学士（退出学位）</a><small>Bachelor of Arts + Bachelor of Engineering Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-commerce-aeb2beff61/">工程科学学士＋商学学士（退出学位）</a><small>Bachelor of Engineering Science + Bachelor of Commerce · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-computer-science-c059593b95/">工程科学学士＋计算机科学理学学士（退出学位）</a><small>Bachelor of Engineering Science + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-engineering-science-science-8c885ba298/">工程科学学士＋理学学士（退出学位）</a><small>Bachelor of Science + Bachelor of Engineering Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-english-09f629d326/">英语文学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-english-f4f6487227/">英语文学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-english-and-media-studies-e1e442096f/">英语文学与媒体研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-chemistry-cbd82c5c49/">环境化学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-engineering-2507008722/">环境工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-engineering-55a339cced/">环境工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-health-data-science-a803eebb3d/">环境健康数据科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-humanities-74061e8068/">环境人文学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-humanities-9fbd16deca/">环境人文学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-management-ff08767e4e/">环境管理学士</a><small>Bachelor of Environmental Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-management-16804eb7d1/">环境管理（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-environmental-management-arts-320de4a77f/">环境管理学士＋文科学士</a><small>Bachelor of Arts + Bachelor of Environmental Management · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-european-studies-c5b382a169/">欧洲研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-european-studies-6e26e92e17/">欧洲研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-exercise-science-ba22eca320/">运动科学学士</a><small>Bachelor of Exercise Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-exercise-science-physiotherapy-and-exercise-physiology-992e8f974f/">运动科学学士＋物理治疗与运动生理学硕士</a><small>Master of Physiotherapy and Exercise Physiology + Bachelor of Exercise Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-film-studies-b42793ed4b/">电影研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-film-studies-2efae3b81c/">电影研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-finance-fa3f242cee/">金融学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-finance-e52b0fa58e/">金融学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-finance-co-op-80ea19215d/">金融学 Co-op 产学合作（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-finance-co-op-honours-85980e18ce/">金融学 Co-op 荣誉方向</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-financial-technology-08e6b162b9/">金融科技（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-ea61a1233b/">美术学士</a><small>Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-honours-4f2a4d20e5/">美术荣誉学士</a><small>Bachelor of Fine Arts (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-arts-8af7c32fae/">美术学士＋文科学士</a><small>Bachelor of Arts + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-education-secondary-c0e300cfe1/">美术学士＋中学教育学士</a><small>Bachelor of Education (Secondary) + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-engineering-honours-c7ffcee567/">美术学士＋工程荣誉学士</a><small>Bachelor of Engineering (Honours) + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-law-b42dafe3ab/">美术学士＋法学学士</a><small>Bachelor of Laws + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-fine-arts-media-28bac59269/">美术学士＋媒体学士</a><small>Bachelor of Media + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-engineering-f84e5483e8/">食品工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-science-6795ee4d12/">食品科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-science-honours-d52cef66d1/">食品科学荣誉理学学士</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-science-and-nutrition-741db30afc/">食品科学与营养（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-food-science-and-technology-7042fe0fe1/">食品科学与技术（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-french-studies-f88e6b6d6a/">法国与法语研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-french-studies-ec60ecab12/">法国与法语研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-general-practice-extended-research-6e2b5076ea/">全科医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-genetics-44eef532e1/">遗传学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-genetics-143cae93bb/">遗传学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-genetics-advanced-science-e0b5ef5a0a/">遗传学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-genetics-extended-research-ce62c83e76/">遗传学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geoenergy-and-geostorage-engineering-a7a3990dc9/">地质能源与地下储存工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geoenergy-and-geostorage-engineering-e78f0598a5/">地质能源与地下储存工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geographical-studies-91ecb86fe4/">地理研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geography-d799cf9b78/">地理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geography-82859bc2cf/">地理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geography-4dfded1847/">地理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geography-advanced-science-6cb40ef865/">地理学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-geology-ec030fba11/">地质学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-german-studies-1b3a5e0a97/">德国与德语研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-german-studies-9cf80631c4/">德国与德语研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-global-development-d701305c63/">全球发展（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-global-development-b1a951a1b1/">全球发展（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-health-sciences-9ede24626f/">健康科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-history-b2b79fb26f/">历史学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-history-9ffb86b5c3/">历史学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-history-8831bd6883/">历史学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-history-60ce36aa26/">历史学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-human-anatomy-f1d28c04f3/">人体解剖学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-human-geography-8b804329b7/">人文地理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-human-pathology-fb00fae13e/">人体病理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-human-resource-management-05da73f6c5/">人力资源管理（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-immunology-f08f17a419/">免疫学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-immunology-advanced-science-eba7944a72/">免疫学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-indigenous-studies-11b2b56b12/">原住民研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-indo-pacific-studies-9d98838d16/">印度洋—太平洋研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-indonesian-studies-e1fbac8dc3/">印度尼西亚研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-indonesian-studies-b56e7cc5a4/">印度尼西亚研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-industrial-design-67ae401c20/">工业设计（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-industrial-design-honours-7a4c05923a/">工业设计荣誉学士</a><small>Bachelor of Industrial Design (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-infectious-disease-extended-research-99380829fa/">感染性疾病（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-226d6969d9/">信息系统学士</a><small>Bachelor of Information Systems · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-0c273a4e88/">信息系统（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-014b1feac3/">信息系统（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-co-op-honours-bcb52f39c4/">信息系统荣誉学士（Co-op 产学合作）</a><small>Bachelor of Information Systems (Co-op) (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-computer-science-e199406a17/">信息系统学士＋计算机科学理学学士</a><small>Bachelor of Information Systems + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-information-systems-co-op-b9df872e59/">信息系统 Co-op 产学合作（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-innovation-strategy-and-entrepreneurship-b80d6820be/">创新、战略与创业（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-integrated-design-4f20ab5e84/">综合设计（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-intensive-care-medicine-extended-research-8006331948/">重症医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-interior-architecture-honours-21c3f2838c/">室内建筑荣誉学士</a><small>Bachelor of Interior Architecture (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-international-pol-studies-c312ea1d1e/">国际与政治研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-international-business-44029261a6/">国际商业（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-international-studies-306e311737/">国际研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-international-and-political-studies-b5c25f3d72/">国际与政治研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-japanese-studies-6967ff440e/">日本与日语研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-japanese-studies-20030a560d/">日本与日语研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-korean-studies-a8428fed1e/">韩国与韩语研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-korean-studies-f32239f169/">韩国与韩语研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-landscape-architecture-hons-584a3fbb9a/">景观建筑荣誉学士</a><small>Bachelor of Landscape Architecture (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-law-8c9d18ef52/">法学学士（双学位组成部分）</a><small>Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-law-honours-335c4c9bc4/">法学荣誉学士（内部荣誉路径）</a><small>Bachelor of Laws (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-linguistics-2b40272438/">语言学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-linguistics-c8a4833cc6/">语言学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-macroeconomics-and-financial-markets-78c85b8724/">宏观经济与金融市场（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marine-science-5d47ca2ac9/">海洋科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marine-and-coastal-science-d386fe3557/">海洋与海岸科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marine-and-coastal-science-advanced-science-01dcd7177a/">海洋与海岸科学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-maritime-4e791a3173/">海事科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marketing-fe18f1740e/">市场营销（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marketing-88ed9c3dee/">市场营销（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marketing-analytics-660c1dccdd/">营销分析（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-marketing-co-op-0ad34ea5b6/">市场营销 Co-op 产学合作（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-21ca0eb571/">材料科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-4287adf46e/">材料科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-advanced-science-a2fef1cf50/">材料科学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-honours-09b1cb269f/">材料科学与工程荣誉学士</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-honours-biomedical-engineering-c4e57fd97e/">材料科学与工程荣誉学士＋生物医学工程硕士</a><small>Bachelor of Engineering (Honours) + Master of Biomedical Engineering · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-honours-commerce-8a33a91836/">材料科学与工程荣誉学士＋商学学士</a><small>Bachelor of Commerce + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-honours-engineering-science-7d21ca3d7c/">材料科学与工程荣誉学士＋工程科学学士</a><small>Bachelor of Engineering Science + Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-materials-science-and-engineering-materials-engineering-a9098a1211/">材料科学与工程（材料工程）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-9c226ed8cd/">数学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-advanced-science-1a9db85d0f/">数学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-and-statistics-5c44a4ece6/">数学与统计学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-and-statistics-35e44cecff/">数学与统计学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mathematics-for-education-2d17edef61/">面向教育的数学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-engineering-d44a9bec20/">机械工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-engineering-honours-21a8553bec/">机械工程荣誉学士（堪培拉）</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-and-manufacturing-engineering-10c23297d3/">机械与制造工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mechanical-and-manufacturing-engineering-3126792978/">机械与制造工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-1278ecbac2/">媒体学士</a><small>Bachelor of Media · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-bengaluru-094f80495d/">媒体学士（班加罗尔）</a><small>Bachelor of Media · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-honours-9e2bf25ca2/">媒体荣誉学士</a><small>Bachelor of Media (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-arts-02dd4a6ba0/">媒体学士＋文科学士</a><small>Bachelor of Arts + Bachelor of Media · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-law-34cf8d491d/">媒体学士＋法学学士</a><small>Bachelor of Laws + Bachelor of Media · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-social-sciences-56814d39ec/">媒体学士＋社会科学学士</a><small>Bachelor of Media + Bachelor of Social Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-arts-honours-88e302cc98/">媒体艺术荣誉学士</a><small>Bachelor of Media Arts (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-studies-00a7fe41eb/">媒体研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-culture-and-technology-cc79b2264c/">媒体、文化与技术（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-media-culture-technology-163f599277/">媒体、文化与技术（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-administration-extended-research-abaf7fa7b7/">医疗管理（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-education-extended-research-2fe7f453f2/">医学教育（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-immunology-4de9e96e39/">医学免疫学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-microbiology-4deb4bf26c/">医学微生物学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-pharmacology-a8a2ee1621/">医学药理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-physiology-181989b6fe/">医学生理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-science-6a13eb7aca/">医学科学学士</a><small>Bachelor of Medical Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medical-science-e1a0cacf8f/">医学科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicinal-chemistry-honours-08bdde3d10/">药物化学荣誉学士</a><small>Bachelor of Medicinal Chemistry (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicinal-chemistry-honours-law-4475e0fe82/">药物化学荣誉学士＋法学学士</a><small>Bachelor of Laws + Bachelor of Medicinal Chemistry (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicine-3fdda962d9/">医学研究学士＋医学博士</a><small>Doctor of Medicine + Bachelor of Medical Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicine-extended-research-f233d12a13/">医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-medicine-arts-f28d5ed0e3/">医学研究学士＋医学博士＋文科学士</a><small>Bachelor of Arts + Doctor of Medicine + Bachelor of Medical Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-microbiology-c30c43aedd/">微生物学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-microbiology-2a3d1a7b9e/">微生物学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-microbiology-advanced-science-54f9dd4b01/">微生物学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-microbiology-extended-research-67d69909be/">微生物学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-military-philosophy-2003af20a2/">军事哲学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-military-studies-6a8a62708f/">军事研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mining-engineering-42ef134ab8/">采矿工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-mining-engineering-0a17b51c89/">采矿工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-biology-06f6324628/">分子生物学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-genetics-09ce12e641/">分子遗传学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-and-cell-biology-39d1d3d96a/">分子与细胞生物学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-and-cell-biology-87cd7d1a13/">分子与细胞生物学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-molecular-and-cell-biology-advanced-science-cb7843bdcb/">分子与细胞生物学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-bf1bae298f/">音乐（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-honours-0be6406d95/">音乐荣誉学士</a><small>Bachelor of Music (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-creative-practice-65e16f32bc/">音乐创作实践（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-pedagogy-bc139b7fe8/">音乐教学法（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-sonic-arts-be7ba18404/">音乐声音艺术（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-studies-1055b2433d/">音乐研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-studies-2cf78847cf/">音乐研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-music-studies-intensive-4df1674242/">音乐研究（强化方向）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nanodevices-9ea35ebfe6/">纳米器件（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nanomaterials-62a60f0f5f/">纳米材料（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-naval-architecture-honours-bfbe7b6c80/">船舶工程荣誉学士（堪培拉）</a><small>Bachelor of Engineering (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-neurobiology-7137948636/">神经生物学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-neuroscience-ce4429762b/">神经科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-neuroscience-01a6671444/">神经科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-neuroscience-advanced-science-d5e9d4a292/">神经科学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nuclear-engineering-25a653f291/">核工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nuclear-engineering-00edd2bbe2/">核工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nutrition-e1886d4bbe/">营养学士</a><small>Bachelor of Nutrition · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-nutrition-dietetics-and-food-innovation-1bd9574af1/">营养学士＋营养治疗与食品创新硕士</a><small>Master of Dietetics and Food Innovation + Bachelor of Nutrition · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-obstetrics-and-gynaecology-extended-research-5be05db6e2/">妇产科学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-occupational-and-environmental-medicine-extended-research-bf2d2ce36c/">职业与环境医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-oceanography-f361623af3/">海洋学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-oceanography-9aa9759f11/">海洋学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-ophthalmology-extended-research-06f7e2836e/">眼科学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-paediatrics-and-child-health-extended-research-fb4ca64138/">儿科与儿童健康（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pain-medicine-extended-research-a0c4292058/">疼痛医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-palaeoscience-ab96649a4c/">古科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-palliative-medicine-extended-research-cbcff65f81/">姑息医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pathology-ce93927255/">病理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pathology-9bf1afba44/">病理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pathology-advanced-science-6555232526/">病理学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pathology-extended-research-da70f966a7/">病理学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmaceutical-medicine-aea7fd1d9f/">药物医学学士</a><small>Bachelor of Pharmaceutical Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmaceutical-medicine-pharmacy-85165fbb79/">药物医学学士＋药学硕士</a><small>Master of Pharmacy + Bachelor of Pharmaceutical Medicine · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmaceutical-medicine-pharmacy-0d480ea91c/">药物医学学士＋药学博士</a><small>Bachelor of Pharmaceutical Medicine + Doctor of Pharmacy · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmacology-a9a49e4b88/">药理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmacology-727ee21f48/">药理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmacology-advanced-science-4c055f03c6/">药理学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pharmacology-extended-research-c1a0fae5b2/">药理学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-philosophy-a6e51a448c/">哲学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-philosophy-136f0d8b55/">哲学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-photovoltaics-and-solar-energy-29a6bbe323/">光伏与太阳能（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-photovoltaics-and-solar-energy-25083391fe/">光伏与太阳能（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physical-geography-5b4348c212/">自然地理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physical-oceanography-74f8a9ebbf/">物理海洋学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physical-oceanography-f2117913d3/">物理海洋学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physical-oceanography-advanced-science-549274b235/">物理海洋学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-da9fb54b31/">物理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-2de1203613/">物理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-aa5ad54243/">物理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-b4a8278e36/">物理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physics-advanced-science-4feb8485e2/">物理学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physiology-915c6010d6/">生理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physiology-dfee8f7601/">生理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physiology-advanced-science-60adfe12f7/">生理学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-physiology-extended-research-54560ac523/">生理学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-politics-and-international-relations-818d76b9cc/">政治学与国际关系（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-politics-and-international-relations-620e131fe2/">政治学与国际关系（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-politics-philosophy-and-economics-4ee4e09b46/">政治学、哲学与经济学学士</a><small>Bachelor of Politics, Philosophy and Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-politics-philosophy-and-economics-law-d638b2cd96/">政治学、哲学与经济学学士＋法学学士</a><small>Bachelor of Laws + Bachelor of Politics, Philosophy and Economics · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-property-development-609cbd3c93/">房地产开发（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychiatry-extended-research-6628004233/">精神医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychological-science-c396131c3c/">心理科学学士</a><small>Bachelor of Psychological Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychological-science-honours-71cc92dd7b/">心理科学荣誉学士</a><small>Bachelor of Psychological Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychological-science-law-87cfd711b7/">心理科学学士＋法学学士</a><small>Bachelor of Psychological Science + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychology-907610fa47/">心理学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychology-7be8487ca6/">心理学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychology-honours-e375ce75c9/">心理学荣誉学士</a><small>Bachelor of Psychology (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-psychology-honours-law-8b57f0239b/">心理学荣誉学士＋法学学士</a><small>Bachelor of Psychology (Honours) + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-public-health-medicine-extended-research-3dd3eb565e/">公共卫生医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-public-relations-and-advertising-cfe687236f/">公共关系与广告（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-public-relations-and-advertising-bengaluru-99d4512bd4/">公共关系与广告（班加罗尔）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-public-relations-advertising-29526dc611/">公共关系与广告（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pure-mathematics-ec7db11bdf/">纯数学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-pure-mathematics-ba2d03f3c1/">纯数学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantitative-data-science-3da6485d86/">定量数据科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantitative-data-science-7d24527abd/">定量数据科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantity-surveying-1da8e551d0/">工料测量与造价（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantum-engineering-15386bd6a3/">量子工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-quantum-engineering-41693f40f9/">量子工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-radiology-extended-research-0abcf3ccef/">放射医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-rehabilitation-medicine-extended-research-79558a2776/">康复医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-renewable-energy-engineering-e010a525b5/">可再生能源工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-renewable-energy-engineering-ad51ad4481/">可再生能源工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-robotics-and-mechatronics-engineering-5eed61c0ec/">机器人与机电一体化工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-robotics-and-mechatronics-engineering-bd696a138e/">机器人与机电一体化工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-rural-and-remote-medicine-extended-research-2bddde9583/">乡村与偏远地区医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-318f04b124/">理学学士</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-895d2446f2/">理学学士（堪培拉）</a><small>Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-honours-5507d6a6b3/">理学荣誉学士</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-honours-53289785ec/">理学荣誉学士（堪培拉）</a><small>Bachelor of Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-medicine-honours-cde74ad031/">医学科学荣誉理学学士（医学在读入口）</a><small>Bachelor of Science (Medicine) Honours · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-arts-e803a7fd6a/">理学学士＋文科学士</a><small>Bachelor of Science + Bachelor of Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-computer-science-318dea41bc/">理学学士＋计算机科学理学学士</a><small>Bachelor of Science + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-education-secondary-2842bb81b9/">理学学士＋中学教育学士</a><small>Bachelor of Science + Bachelor of Education (Secondary) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-fine-arts-e0a4522694/">理学学士＋美术学士</a><small>Bachelor of Science + Bachelor of Fine Arts · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-law-52b13a937a/">理学学士＋法学学士</a><small>Bachelor of Science + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-science-social-sciences-f90ab06bed/">理学学士＋社会科学学士</a><small>Bachelor of Social Sciences + Bachelor of Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-screen-production-a06685c4dc/">影像制作（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-screen-and-sound-production-6429b4e7db/">影像与声音制作（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-security-engineering-ac332ead47/">安全工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-sexual-health-medicine-extended-research-726ee45e7e/">性健康医学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-science-honours-ed283448f9/">社会科学荣誉学士</a><small>Bachelor of Social Science (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-sciences-8be71c1f7f/">社会科学学士</a><small>Bachelor of Social Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-sciences-law-304dc14493/">社会科学学士＋法学学士</a><small>Bachelor of Social Sciences + Bachelor of Laws · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-13787adb79/">社会工作荣誉学士</a><small>Bachelor of Social Work (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-arts-a3839e60c0/">社会工作荣誉学士＋文科学士</a><small>Bachelor of Arts + Bachelor of Social Work (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-criminology-criminal-justice-e6eee43921/">社会工作荣誉学士＋犯罪学与刑事司法学士</a><small>Bachelor of Social Work (Honours) + Bachelor of Criminology and Criminal Justice · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-law-882a48d756/">社会工作荣誉学士＋法学学士</a><small>Bachelor of Laws + Bachelor of Social Work (Honours) · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-social-work-honours-social-sciences-ac26e68df3/">社会工作荣誉学士＋社会科学学士</a><small>Bachelor of Social Work (Honours) + Bachelor of Social Sciences · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-sociology-066353c2aa/">社会学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-sociology-54118c8bbb/">社会学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-software-engineering-3ea9a50884/">软件工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-software-engineering-2f2a3c1291/">软件工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-spanish-studies-7534e87a2b/">西班牙与西班牙语研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-spanish-studies-623a825192/">西班牙与西班牙语研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-sports-and-exercise-extended-research-5d78bacf4d/">运动与锻炼（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-statistics-b027e40b8a/">统计学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-statistics-d4e938735e/">统计学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-statistics-advanced-science-eeceb95591/">统计学（高级理科）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-studies-in-psychology-2e2bac97f1/">心理学研究方向（非 APAC 认证）（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-surgery-extended-research-62fbdd28e5/">外科学（扩展研究）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-surveying-7de0765f1b/">测量学士（双学位组成部分）</a><small>Bachelor of Surveying · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-surveying-87952925ef/">测量学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-surveying-engineering-185de95864/">测量工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-taxation-b57357a52e/">税务（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-taxation-057c093ab9/">税务（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-technology-aeronautical-eng-d10a70ef4f/">技术学士（航空工程，堪培拉）</a><small>Bachelor of Technology · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-telecommunications-0a6750215d/">通信工程（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-telecommunications-c60e6d60f9/">通信工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-theatre-perf-studies-9b3755ebdf/">戏剧与表演研究（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-theatre-and-performance-studies-d930e24273/">戏剧与表演研究（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-theoretical-computer-science-6a2c1803f8/">理论计算机科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-vision-science-1eee5cfbd4/">视觉科学学士</a><small>Bachelor of Vision Science · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-vision-science-313a88f9e6/">视觉科学（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-vision-science-07c05c6fc4/">视觉科学（荣誉方向）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-vision-science-clinical-optometry-eb623d8421/">视觉科学学士＋临床验光硕士</a><small>Bachelor of Vision Science + Master of Clinical Optometry · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-visual-arts-3fde93f859/">视觉艺术（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-war-studies-75c5e351cf/">战争研究学士（堪培拉）</a><small>Bachelor of War Studies · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/australia/unsw/unsw-water-process-engineering-3291f41e58/">水处理过程工程（学位内主修）</a><small>Undergraduate major / honours specialisation within a bachelor degree · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -590,6 +579,9 @@ hide:
 
 <p class="catalog-fact"><strong>英语：本科按学院及例外课程分别核对：</strong>普通工程本科IELTS Academic为6.5、单项6.0；商科和法律通常为7.0、单项6.0。教师教育、社会工作和部分医学健康课程有更高要求，跨学院双学位取较高标准。考试有效期与入学Term有关，不能把工程标准套用于全部课程。</p>
 <p class="fact-sources"><a href="#source-u-unsw-computer-science-english">官方依据</a></p>
+
+<p class="catalog-fact"><strong>授课语言的共享说明：</strong>UNSW 医学国际申请 FAQ 明确表示 UNSW 各课程以英语授课。本批将此作为澳大利亚本校课程的共享语言说明；班加罗尔合作交付版本仍单独核验，且不能把英语教学陈述当作豁免英语入学要求的依据。</p>
+<p class="fact-sources"><a href="#source-u-unsw-medicine-international">官方依据</a></p>
 
 ### 申请安排
 
@@ -604,6 +596,9 @@ hide:
 
 <p class="catalog-fact"><strong>高考毕业时间与澳洲入学批次：</strong>2027年高考最终成绩取得时间晚于澳洲Term 1开始；尚未完成高考的学生应按毕业和最终成绩取得时间选择批次。当前列出的2026-09-24截止仅属于非ISA本科Term 1 2027的一轮。</p>
 <p class="fact-sources"><a href="#source-u-unsw-computer-science-rounds2027">官方依据</a></p>
+
+<p class="catalog-fact"><strong>共同日程的适用边界：</strong>上述普通国际本科申请轮次不能代替医学专用截止、荣誉研究申请、在读内部转入、Co-op 评选或 Canberra 军方路径；这些项目以相应课程和类别的规则为准。</p>
+<p class="fact-sources"><a href="#source-u-unsw-medicine-international">官方依据</a> · <a href="#source-u-unsw-canberra-apply">官方依据</a> · <a href="#source-u-unsw-coop-apply">官方依据</a></p>
 
 ### 学费与资助
 
@@ -632,22 +627,943 @@ hide:
 <div class="catalog-source" id="source-u-unsw-computer-science-scholarship2027"><div><a href="https://www.scholarships.unsw.edu.au/scholarships/id/1988/7272">UNSW Scholarships for International Students Commencing Term 1, 2027 ↗</a><p>PUCA1029申请及通常合资格offer截止2026-10-30；Scientia金额与全日制2027T1要求；待Year12/同等成绩和UAC国际申请者例外；学业/领导力/活动/动机评选</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-unsw-profile-fees"><div><a href="https://www.unsw.edu.au/student/managing-your-studies/fees">UNSW student fees: calculation and international fee entry ↗</a><p>按课程UOC及学生收费身份计费；课程费与指示计算器的范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-unsw-international-entry-2027"><div><a href="https://www.unsw.edu.au/content/dam/pdfs/future-students/2027-int-ug-entry-table.pdf">UNSW Undergraduate entry requirements for 2027, pages 1–2 ↗</a><p>2027高考参考及院系附加要求；普通Engineering75/Commerce80/Economics75/CS75；非保证录取</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-unsw-medicine-international"><div><a href="https://www.unsw.edu.au/medicine-health/study-with-us/undergraduate/international-applicants">UNSW 医学国际申请指南 ↗</a><p>2027 医学国际申请、考试、入学科目、截止日期及 FAQ 中的全校授课语言说明</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-unsw-canberra-apply"><div><a href="https://www.unsw.edu.au/canberra/study-with-us/undergraduate/how-to-apply">UNSW Canberra 本科申请 ↗</a><p>军方与现役军人身份、学术参考、预备知识及堪培拉申请安排</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-unsw-coop-apply"><div><a href="https://www.coop.unsw.edu.au/apply">UNSW Co-op 申请 ↗</a><p>2027申请、问卷、学校评估、视频及面试和截止日期</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 550 项；这不是全字段详情的完成状态。
+**已完成所列官方目录范围的对账**，共 539 项；这不是全字段详情的完成状态。
 
-<p><strong>统计范围：</strong>All bachelor-bearing undergraduate degrees and catalog majors/undergraduate specialisations/honours fields; UTS stream mapping remains pending</p>
+<p><strong>统计范围：</strong>2027 UNSW 学士及组合学位、主修和荣誉方向；包含明确标注的特殊、内部、退出及境外路径</p>
 
-<p><strong>对账方法：</strong>{&quot;course&quot;: {&quot;total&quot;: 651, &quot;pages&quot;: [0, 100, 200, 300, 400, 500, 600], &quot;unique_uris&quot;: 651}, &quot;aos&quot;: {&quot;total&quot;: 786, &quot;pages&quot;: [0, 100, 200, 300, 400, 500, 600, 700], &quot;unique_uris&quot;: 786}, &quot;all_pages_fetched&quot;: true, &quot;unsw_selected_major_honours_count&quot;: 352}</p>
+<p><strong>对账方法：</strong>{&quot;course&quot;: {&quot;total&quot;: 651, &quot;pages&quot;: [0, 100, 200, 300, 400, 500, 600], &quot;unique_uris&quot;: 651}, &quot;aos&quot;: {&quot;total&quot;: 786, &quot;pages&quot;: [0, 100, 200, 300, 400, 500, 600, 700], &quot;unique_uris&quot;: 786}, &quot;all_pages_fetched&quot;: true, &quot;unsw_selected_major_honours_count&quot;: 352} 逐项取得550份手册内容，排除11项语言文凭或非学位预备方向；保留539条。公开招生页与国家资格组件另作逐条匹配。</p>
 
 <p><strong>排除项：</strong>Public Courseloop API endpoint and POST schema read from official frontend JavaScript；Filter implementationYear to official current_year; request all pages of 100 and assert row count equals API total；Program: official Undergraduate line; UNSW additionally confirm bachelor award in every full program page; Monash/UTS bachelor title prefix；UNSW fields: explicit level=major or honours plus studyLevelValue=ugrd; Monash explicit undergraduate field categories; UTS Major with Undergraduate or Unrestricted career；No minor, individual subject, diploma, certificate or standalone postgraduate degree promoted to bachelor；Keep restricted/offshore/ADFA fields where published; no applicant-nationality exclusion</p>
 
 **尚未解决的目录缺口：**
 
-- Parent-degree/major compatibility inheritance pending; field records are not independent awards
-- Duration/campus/language omitted unless explicit in read source
+- 学位内方向并非独立高中招生入口；部分方向尚无当前母学位匹配证据，已隔离普通新生规则。
+- 费用已核者为2026国际首年参考，2027报价仍缺；实时中国资格组件未标年度，不能冒称2027年度分数表。
+- 职业示例不等于毕业调查；本轮未取得多数专业按届次及中国学生分组的实际就业统计。
 
 - [官方目录来源](https://www.handbook.unsw.edu.au/_next/static/chunks/pages/index-347d72f051a4c781.js)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3053)
+- [官方目录来源](https://www.unsw.edu.au/medicine-health/study-with-us/undergraduate/international-applicants)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-biotechnology-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-biotechnology-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_150109153/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3061)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-food-science-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-food-science-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1716457469/par_1/column_layout_160902/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3131)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-material-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-material-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_230627586/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3132)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-materials-science-and-engineering-honours-engineering-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-materials-science-and-engineering-honours-engineering-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1395838443/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3133)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-and-materials-science-honours-master-of-biomedical-engineering)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-and-materials-science-honours-master-of-biomedical-engineering/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_570363336/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3134)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-and-materials-science-honours-commerce)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-and-materials-science-honours-commerce/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_798864223/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3154)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-actuarial-studies-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855194125/par_1/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3155)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies-commerce)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-actuarial-studies-commerce/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855194125/par_1/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3181)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-vision-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-vision-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_440829187/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3182)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-vision-science-clinical-optometry)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-vision-science-clinical-optometry/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_154002413/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3256)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-interior-architecture-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-interior-architecture-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1878624054/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3261)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-architectural-studies)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-architectural-studies/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3325)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-social-sciences)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-social-sciences/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_91117853/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3332)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-construction-management-and-property)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-construction-management-and-property/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3341)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-media)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-media/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_2004064814/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3342)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-design-media)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-design-media/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1974335956/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3343)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-fine-arts-media)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-fine-arts-media/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1869644302/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3344)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-media-arts1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-media-arts1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1121394784/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3345)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-media-social-sciences)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-media-social-sciences/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1520862732/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3346)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-media-in-public-relations-and-advertising-bengaluru)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3362)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-city-planning-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-city-planning-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3381)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-landscape-architecture-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-landscape-architecture-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1222673857/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements_c.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3409)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3422)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-criminology-and-criminal-justice)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-criminology-and-criminal-justice/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3435)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-psychological-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-psychological-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1049322333/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3462)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-education-secondary)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-education-secondary/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1569159869/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3478)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-politics-philosophy-and-economics)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-politics-philosophy-and-economics/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_545067687/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3502)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_341810672/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/column_layout_912194/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3521)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-economics)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-economics/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1133176642/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3523)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-advanced-mathematics-honours-commerce)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-advanced-mathematics-honours-commerce/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855194125/par_1/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3529)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_872709357/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3543)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-economics/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1163267694/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3554)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-co-op)
+- [官方目录来源](https://www.unsw.edu.au/content/dam/pdfs/co-op-program/UNSW_Co-op_Program_Eligibility_Criteria.pdf)
+- [官方目录来源](https://www.coop.unsw.edu.au/apply)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3558)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-international)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-international/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855194125/par_1/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3563)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-economics-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_374856874/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements_c.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3564)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics-science-advanced-mathematics-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-economics-science-advanced-mathematics-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_2116866850/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3565)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-co-op-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3566)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics-advanced-science-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-economics-advanced-science-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855194125/par_1/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3573)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_748626404/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3574)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-economics-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855194125/par_1/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3584)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-information-systems)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-information-systems/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_263437790/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3586)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-actuarial-studies/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_129301738/par_1/tabs/item_whatwillistudy/par_1/item_entryrequiremen/par_1/column_layout_912194627/par_1/entry_requirements_c.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3587)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies-co-op)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3588)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies-economics)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-actuarial-studies-economics/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_2117221348/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3589)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies-advanced-mathematics-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-actuarial-studies-advanced-mathematics-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_857520079/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3593)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-advanced-science-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-advanced-science-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_2074116578/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3597)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-design1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-design1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1067598638/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3598)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-media)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-media/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_133815538/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3599)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-fine-arts1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-fine-arts1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1585369362/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3632)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-psychology-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-psychology-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1274695334/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3635)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-civil-architecture)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-civil-architecture/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3671)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies-information-systems)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-actuarial-studies-information-systems/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1239367978/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3673)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-economics-computer-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1459356322/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3674)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-actuarial-studies-computer-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855194125/par_1/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3706)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3707)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_115934417/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3732)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3733)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3734)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3736)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-master-of-electrical-engineering)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-master-of-electrical-engineering/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_160902/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3737)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3738)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3739)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3761)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-advanced-mathematics-honours-engineering-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-advanced-mathematics-honours-engineering-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements_c.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3762)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-advanced-science-honours-engineering-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-advanced-science-honours-engineering-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_213740368/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3764)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-commerce)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-commerce/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_812011110/par_1/column_layout_160902/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3765)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3767)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1672560611/par_1/tabs/item_entryrequiremen/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3768)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-master-of-biomedical-engineering)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-master-of-biomedical-engineering/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_693278978/par_1/column_layout_160902/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3773)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-engineering-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-engineering-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_129423577/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3774)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-in-computer-science-bengaluru)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3775)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3776)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-civil-surveying)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-civil-surveying/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1283142583/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3777)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-cyber-security-sydney)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-cyber-security-sydney/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1458951127/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/study/how-to-apply/english-language-requirements)
+- [官方目录来源](https://www.unsw.edu.au/about-us/excellence/rankings-reputation)
+- [官方目录来源](https://qilt.edu.au/surveys/graduate-outcomes-survey---longitudinal-(gos-l))
+- [官方目录来源](https://www.international.unsw.edu.au/sites/default/files/unsw-exchange-fact-sheet_2021.pdf)
+- [官方目录来源](https://www.unsw.edu.au/study/how-to-apply/international)
+- [官方目录来源](https://www.unsw.edu.au/study/international-students/admissions-info)
+- [官方目录来源](https://www.unsw.edu.au/student/managing-your-studies/key-dates/academic-calendar)
+- [官方目录来源](https://www.scholarships.unsw.edu.au/sites/default/files/2026-07/unsw-international-student-award-international-admissions-diversity-pathway-terms-conditions.pdf)
+- [官方目录来源](https://www.scholarships.unsw.edu.au/scholarships/id/1988/7272)
+- [官方目录来源](https://www.scholarships.unsw.edu.au/scholarships/id/1957)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3778)
+- [官方目录来源](https://www.unsw.edu.au/content/dam/pdfs/future-students/2027-int-ug-entry-table.pdf)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-computer-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1715259902/par_1/column_layout_160902/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3779)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-advanced-computer-science-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-advanced-computer-science-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_2004937784/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3781)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-advanced-mathematics-honours-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-advanced-mathematics-honours-computer-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_793568909/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3782)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-advanced-science-honours-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-advanced-science-honours-computer-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_632140595/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3783)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-computer-science-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_175466/par_1/column_layout_160902/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3784)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-computer-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_381453762/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3785)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-computer-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1226653219/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3786)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-computer-science-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3787)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3789)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-computer-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_449069887/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3792)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science-fine-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-computer-science-fine-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_592760/par_1/column_layout_160902/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3793)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-fine-arts-engineering-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-fine-arts-engineering-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1912908566/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3795)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-information-systems-computer-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-information-systems-computer-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_464073380/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3798)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-criminology-criminal-justice-bachelor-of-psychology-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-criminology-criminal-justice-bachelor-of-psychology-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements_c.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3799)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-criminology-and-criminal-justice-bachelor-of-psychological-sciences)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-criminology-and-criminal-justice-bachelor-of-psychological-sciences/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3805)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-medical-studies-doctor-of-medicine)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-medical-studies-doctor-of-medicine/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_349585188/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3831)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3835)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-aviation-management)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-aviation-management/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1641639425/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3856)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-medical-studies-doctor-of-medicine-arts)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3890)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3891)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3892)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3893)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3894)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-nutrition-master-of-dietetics-and-food-innovation)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-nutrition-master-of-dietetics-and-food-innovation/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_736295213/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3895)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-pharmaceutical-medicine-master-of-pharmacy)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-pharmaceutical-medicine-master-of-pharmacy/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_73918808/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3896)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-exercise-science-master-of-physiotherapy-and-exercise-physiology)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-exercise-science-master-of-physiotherapy-and-exercise-physiology/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_819710594/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3897)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-applied-exercise-science-master-of-clinical-exercise-physiology)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-applied-exercise-science-master-of-clinical-exercise-physiology/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1727107603/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3899)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3911)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-data-science-and-decisions-bengaluru)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3921)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-fine-arts1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-fine-arts1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_260785448/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3922)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-advanced-science-honours-fine-arts1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-advanced-science-honours-fine-arts1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_2087619868/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3923)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-social-science1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-social-science1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1741733319/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3924)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-advanced-science-honours-social-science1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-advanced-science-honours-social-science1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1553158332/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3928)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-aviation-remotely-piloted-aircraft-systems)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-aviation-remotely-piloted-aircraft-systems/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1470259580/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3947)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1075553401/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3948)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-advanced-science-honours-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-advanced-science-honours-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1317278366/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3949)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-advanced-mathematics-honours-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-advanced-mathematics-honours-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_361312043/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3955)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-environmental-management-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-environmental-management-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_841110423/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3956)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-advanced-mathematics-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-advanced-mathematics-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1990163176/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3959)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-data-science-and-decisions)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-data-science-and-decisions/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1999975925/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3961)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_881405966/par_1/column_layout_160902/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3962)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-advanced-science-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-advanced-science-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_917471550/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3964)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-information-systems-co-op-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3965)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-environmental-management)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-environmental-management/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_312686750/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3970)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_702260570/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3979)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-information-systems)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-information-systems/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1957418137/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3980)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-aviation-flying)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-aviation-flying/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1768192338/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3981)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-aviation-management)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-aviation-management/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1266864279/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3991)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-medical-science)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-medical-science/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1109509018/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3997)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-advanced-science-honours-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-advanced-science-honours-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3998)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-advanced-mathematics-honours-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-advanced-mathematics-honours-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/3999)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-medicinal-chemistry-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-medicinal-chemistry-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1319469714/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4033)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-social-work-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-social-work-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1997795513/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4034)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-social-work-honours-criminology-and-criminal-justice)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-social-work-honours-criminology-and-criminal-justice/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4045)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-social-work-arts)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-social-work-arts/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1965707033/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4046)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-social-work-honours-social-sciences)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-social-work-honours-social-sciences/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_678375497/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4053)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-education-secondary)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-arts-education-secondary/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4056)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4058)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics-education-secondary)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-economics-education-secondary/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855194125/par_1/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4067)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-design-education-secondary1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-design-education-secondary1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_2127153257/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4068)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-fine-arts-education-secondary1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-fine-arts-education-secondary1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1926223799/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4071)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-education-primary-honours)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-education-primary-honours/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1567613034/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements_c.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4072)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4076)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-education-secondary)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-education-secondary/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_981047189/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4400)
+- [官方目录来源](https://www.unsw.edu.au/canberra/study-with-us/undergraduate/how-to-apply)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4405)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-business-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4406)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-business-bengaluru)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4410)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4418)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-war-studies-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4427)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-computing-and-cyber-security-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4430)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-technology-aeronautical-engineering-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4471)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-electrical-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4472)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-aeronautical-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4473)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-civil-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4474)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-mechanical-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4484)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-engineering-honours-naval-architecture)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4490)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-cyber-security)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4500)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4501)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4502)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4504)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-and-social-sciences-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4505)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4508)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-music-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4509)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-education-secondary-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4510)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-media-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4511)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-honours-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4512)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-business-honours-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4513)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-honours-canberra)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4515)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4516)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-art-theory-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4517)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-computing-and-cyber-security-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4518)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-psychological-science-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4519)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4520)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4521)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-architectural-studies-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4522)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-construction-management-and-property-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4523)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-computational-design-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4525)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-industrial-design-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4526)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-fine-arts-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4527)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-design-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4528)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-media-arts-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4529)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-social-science-honours)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4701)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4702)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4706)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-city-planning-honours-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-city-planning-honours-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4717)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4721)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-psychology-honours-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-psychology-honours-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_2083752140/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4722)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-psychological-science-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-psychological-science-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1279605118/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4733)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-commerce-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4737)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-actuarial-studies-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-actuarial-studies-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_2022898385/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4744)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-economics-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-economics-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements_c.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4755)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-medicinal-chemistry-honours-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-medicinal-chemistry-honours-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1495110455/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4763)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-criminology-criminal-justice-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-criminology-criminal-justice-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4770)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-science-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1287858748/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4782)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-arts-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4787)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-social-work-honours-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-social-work-honours-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1623039588/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4795)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-data-science-and-decisions-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-data-science-and-decisions-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4797)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-politics-philosophy-and-economics-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-politics-philosophy-and-economics-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_556707634/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4825)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-design1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-design1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4830)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-fine-arts1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-fine-arts1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855194125/par_1/column_layout/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4831)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-fine-arts-arts1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-fine-arts-arts1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_670032893/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4873)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-social-science-law1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-social-science-law1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1855024401/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4875)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-media-law)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-media-law/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1558700256/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/programs/2027/4877)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-fine-arts-law1)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-fine-arts-law1/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements_c.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ACCTA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ACCTAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ACCTB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ACHMA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ACTLAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ACTLE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ACTLF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/AEROAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-aerospace)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-aerospace/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1684518900/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/AEROD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/AGOCA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/AGOCB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/AHISA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/AINDB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/AMATA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ANATA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ANATE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ANATF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/APHYA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/APOLA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ARCYBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ARTSD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ASIAB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ASIABH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ATSIAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ATSIC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/AVIAAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BABSBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BINFAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-bioinformatics)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-bioinformatics/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1035069123/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements_c_44057830.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BINFBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BINFC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BINFD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BINFE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOCC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOCFH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOCG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOCGH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOCH1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOCI1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOCL1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOCM1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOMM1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOMMH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-biomedical-engineering)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-biomedical-engineering/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1162915810/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOPA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOPAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOPB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOSG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOSJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOSKH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOSLH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOSM1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOSN1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOSO1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOSP1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOTA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOTB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BIOTBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BLDGAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BLDGBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BLDGCH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/BLDGDH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CEICAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-chemical)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-chemical/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_245958017/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CEICD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CEICDH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-chemical-product)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-chemical-product/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_705542169/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CEICM1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CHEMA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CHEMB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CHEMFH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CHEMJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CHINBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CHINE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CHINF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CLIMB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CLIMDH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CLIME1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CODEB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMDF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMDFH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMMG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMMI1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMMJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPBH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-computer)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-computer/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1061054370/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPCH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPI1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPIH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPN1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPS1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPTH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPY1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPYH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/COMPZ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CRIMBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CRIMC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CRWTA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CRWTWH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CVENAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-civil)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-civil/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1505945486/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CVENBH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-environmental)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-environmental/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1609026996/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CVENJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/CVENK1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/DARTC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/DARTD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/DARTE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/DDESB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONEH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONFH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONL1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONO1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONT1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONU1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ECONV1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ELECAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-electrical)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-electrical/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_403203041/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ELECC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ELECCH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-quantum)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-quantum/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1984598948/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ELECF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENGGC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENGGD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENGGF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENGGFH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-nuclear-engineering)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-nuclear-engineering/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_230627586/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENGLC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENGLDH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENVPE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENVPEH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENVST1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ENVSUH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/EUROBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/EUROC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FILMB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FILMBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FINSA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FINSAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FINSBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FINSD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FINSR1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FOODB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FOODH1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FOODJH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FOODKH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FRENBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FRENF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/FRENG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GEOGG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GEOGK1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GEOGTH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GEOGV1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GEOLMH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GEOLN1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GEOLS1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GERSBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GERSF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GMATDH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-surveying)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-surveying/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_302595508/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/GMATF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/HISTCH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/HISTD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/HLTHAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/HUMSA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/HUMSC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/IBUSA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/IDESF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/INDOA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/INFSA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/INFSAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/INFSB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/INFSG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/INSTC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/JAPNDH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/JAPNF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/JAPNG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/KORECH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/KOREF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/KOREG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/LINGC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/LINGCH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MANFBH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-mechanical-manufacturing)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-mechanical-manufacturing/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1320104604/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MARKA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MARKAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MARKB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MARKD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHEH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHK1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHM1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHN1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHNH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHO1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHP1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHPH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHT1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHTH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHU1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATHV1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATSB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATSCH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATSM1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MATSP1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNCH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNDH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNEH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNFH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNGH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNHH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNIH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNJH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNKH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNLH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNMH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNNH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNOH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNPH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNQH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNRH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNSH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNTH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNUH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNVH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNWH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNXH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDCNYH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDIADH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDIAGH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDIAHH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDIAN1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDIAO1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDIAQ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDIAR1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MDIAT1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MECHAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-mechanical)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-mechanical/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_182089034/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MECHD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MECHE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MECTBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MECTC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MEREA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MEREAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-geoenergy-geostorage)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-geoenergy-geostorage/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1684518900/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MGMTH1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MGMTJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MICRB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MICRE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MICRFH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MICRH1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MICRJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MICRK1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MICRL1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MINEAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-mining)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-mining/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_861037088/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MINEC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MSCIJH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MSCIK1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MSCIM1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MTRNBH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-robotics-mechatronics)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-robotics-mechatronics/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1162915810/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MTRNJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MUSCBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MUSCJ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MUSCK1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MUSCP1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MUSCQ1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MUSCR1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/MUSCS1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/NANOB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/NANOC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/NEURA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/NEURB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/NEURBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/NEURS1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PATHA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PATHB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PATHC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHARA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHARB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHARC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHCMAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHCMBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHCMCH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHILBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHILE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHSLA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHSLB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHSLC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHYSC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHYSGH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PHYSL1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/POLSG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/POLSGH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PSYCA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PSYCAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/PSYCD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZF1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZG1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZH1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SENGAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-software)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-software/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1015590885/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SENGD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOCAE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOCAEH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOLAAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-photovoltaics-solar-energy)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-photovoltaics-solar-energy/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1625789263/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOLABH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-renewable-energy)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-renewable-energy/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_1314715363/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOLAC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOLAD1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSCH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSDH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSEH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSGH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSHH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSIH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSJH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SOMSKH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SPANEH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/SPANI1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/TABLAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/TABLC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/TELEAH)
+- [官方目录来源](https://www.unsw.edu.au/study/undergraduate/bachelor-of-engineering-honours-telecommunications)
+- [官方目录来源](https://www.unsw.edu.au/content/unsw-sites/au/en/study/undergraduate/bachelor-of-engineering-honours-telecommunications/jcr:content/root/responsivegrid-layout-fixed-width/responsivegrid-full-top/column_layout_752777305/par_1/tabs/item_entryrequirements/par_1/column_layout_912194627/par_1/entry_requirements.model.json)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/TELEE1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/THSTBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/THSTC1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/VISNA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/VISNBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/WADAA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/WENGA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/WENGB1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZBUSA1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZEITS1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZEITSH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZHSSBH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZHSSEH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZHSSGH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZHSSHH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZHSSPH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZHSSW1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZHSSX1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZITEK1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZPEMAH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZPEMGH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZPEMMH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZPEMN1)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZPEMOH)
+- [官方目录来源](https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ZPEMPH)
+- [官方目录来源](https://www.unsw.edu.au/student/managing-your-studies/fees)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

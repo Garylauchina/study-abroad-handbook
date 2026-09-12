@@ -2,28 +2,1036 @@
   "university_id": "durham",
   "sources": [
     {
-      "url": "https://duracuk-lb01-production.terminalfour.net/study/international/regional-pages/mainland-china-/",
-      "sha256": "63ef72369ed170ee1af78e1cf34969d280d196ccc09757e7bc89a694533236f6",
-      "raw_file": "scratch/full-catalog/uk-enrichment/durham/raw/china-official-cms.html",
-      "locator": "Undergraduate entry requirements"
+      "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+      "sha256": "d77e56e5c749217b20f8e64eba0435e941379db1b39cbd45f7c1b6ecd87e30d5",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-philosophy-politics-and-economics-e7d1bac57f.html",
+      "locator": "Entry requirements > country-select China > er-2602657"
+    },
+    {
+      "url": "https://www.durham.ac.uk/departments/centres/academic-development/study/foundation/eligibility/",
+      "sha256": "eeb351c8204678667a92c9c0a2075cea7240163e3035097f637faaecb69bdbd4",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/foundation-eligibility.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/undergraduate/",
+      "sha256": "516cbba464994549b62f62c503ece2803422b587f04d4c1bc60b4512a79f1f73",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/undergraduate-location.html",
+      "locator": "main-content"
     },
     {
       "url": "https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546",
-      "sha256": "943c1e3954fb1faf8682ab086cbc0fb4c5f63735eed2754ef92f93134f38f9de",
-      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-deadline-2027.html",
-      "locator": null
+      "sha256": "86b870f18dfd3fbcae24deb0a99a369782481285a1309f4786b25543eedaa6b7",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/ucas-2027.html",
+      "locator": "main-content"
     },
     {
       "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
-      "sha256": "f9e25903549d6a601505ea26ce51477a9e9720357d3179ede7dd5bb0d292c980",
-      "raw_file": "scratch/full-catalog/uk-enrichment/sheffield/raw/uk-ucas-2027.html",
-      "locator": "2027 entry application deadlines"
+      "sha256": "0125236388c4276c1e318f59274eca00c8171489422431b1f915a7cd403f34bf",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/ucas-calendar.html",
+      "locator": "main-content"
     },
     {
-      "url": "https://dur.ac.uk/search/?searchstax[query]=*&searchstax[page]=1&searchstax[facets][0]=tabs:sectiontype_ss:course&searchstax[model]=main%20site",
-      "sha256": "49cda4931f9e65a15ff94cec6a0348720234a2fac51eb07bb90236a22107b0b6",
-      "raw_file": "scratch/full-catalog/uk/durham/raw/directory-search.html",
-      "locator": "https://www.durham.ac.uk/study/courses/chemistry-with-overseas-project-f102/"
+      "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+      "sha256": "e25299309479896f1d9a3cd70582e2dd8ee4bb0eca91b506d0c52c137e379327",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/tuition-policy.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/scholarships/international/",
+      "sha256": "746c7256ce509505a54833c094328f926aacc911ab01cdb1ef2d7b04a10818a2",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/international-scholarships-valid.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://duracuk-lb01-production.terminalfour.net/global-durham/global-opportunities/incoming-opportunities/non-european-incoming-exchange/programme-info/",
+      "sha256": "3066782248b7793125a3353b54433ca45a1134bce64acb70372a4b7410b65ed8",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/teaching-language.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/english-language-levels-required/",
+      "sha256": "9f298f981d432f713bab9986ca6126c0f8b84e7feb1d5bb2048aa25dea886ee5",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/english-levels-expanded.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-b/",
+      "sha256": "abdd1bc811f0380d4789b3388d87e6538b749ac0680094a2bb9dd5659b22eff7",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/english-band-b.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/economics-and-politics-ll12/",
+      "sha256": "4ca3c177966f611b6f75a60a4754585b41dabba800ac78d2bd4fc8237bfc6d0b",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-economics-and-politics-0018587b27.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/economics-with-management-with-placement-year-l134/",
+      "sha256": "faca4e6347a1588859af77dd9fe764cab605bbe7e2f325a69441c46e58375aab",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-economics-with-management-with-placement-year-f894d07a15.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/economics-with-management-with-study-abroad-l135/",
+      "sha256": "706f23bf5820761b0ed3fc262f1c7c9ac82aec73b212735b1a3a1ba5d0485689",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-economics-with-management-with-study-abroad-3d13d245c1.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/economics-with-management-l133/",
+      "sha256": "a843edf557dbc899ab69b0ad18b14981838f909fc6b8c7c8b5ebd5dbbfe28c53",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-economics-with-management-4ca1a9fc05.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/economics-with-placement-year-l131/",
+      "sha256": "a6d342f2f695e22902c09b061f9a43055b3bed68e4cd2168ebdaa3b990ff56ef",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-economics-with-placement-year-2a1d30a288.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/economics-with-study-abroad-l132/",
+      "sha256": "f2807b3ea3d3f70feee1ea05f65372ef1474dc12c0dc059e63334dbec538144c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-economics-with-study-abroad-1a641bb12f.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/marketing-and-management-with-placement-year-n514/",
+      "sha256": "eb48e7e6c1e31b13194b26a5c9df19a8757815882b2df6340bbb81aa3f67996e",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-marketing-and-management-with-placement-year-3c244c6cde.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/economics-l130/",
+      "sha256": "a1dbb794a84a30a738022e2fd7c04bfef91bd5e10ce820a6f56c10ca08918254",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-economics-c610caba2a.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/marketing-and-management-with-study-abroad-n515/",
+      "sha256": "aa775009f5b04dd8f8183fcfd9b21cfe11f35e0a1330679d9850d48ef75f9436",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-marketing-and-management-with-study-abroad-ebfdaed488.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/marketing-and-management-n513/",
+      "sha256": "273583beb6406d4ce9f7ded8bbb20396ed8f54e68336d5d06c0722b5c9ba238e",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-marketing-and-management-be041a1a7e.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/business-and-management-with-placement-year-n203/",
+      "sha256": "1b6476b23217e8611d6dc9fee9c452ee31a56b1d7cb28ed4726efb6709e74f83",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-business-and-management-with-placement-year-cad8684cf2.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/business-and-management-with-study-abroad-n207/",
+      "sha256": "ea829c692bee1ae8b127ea6ef2dd557ae2295b26ffb57db6e90f0aaa36f760b1",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-business-and-management-with-study-abroad-20b0cbf52e.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/business-and-management-n201/",
+      "sha256": "b1c177530d08807b6533093500db8f8dc1f260818b5becf2ef88bcdf17c2a154",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-business-and-management-f098c6393a.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/finance-with-placement-year-n306/",
+      "sha256": "00f5d313ebf5a2cd368b63a8cdb8257a731d415ae170f09e1f169f067b8711e6",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-finance-with-placement-year-24abb0fd37.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/accounting-with-study-abroad-n410/",
+      "sha256": "24aeb089575fb4b22f7fb621f44f7a531ecbc6087653e9d0537d1996b0cf111f",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-accounting-with-study-abroad-0b1b337666.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/finance-with-study-abroad-n307/",
+      "sha256": "e3da80cc93b2cea26d05894255808ad191d06c9cafe9ca0c7faf7f5c9d5d8ac1",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-finance-with-study-abroad-37cbd5f822.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/finance-n305/",
+      "sha256": "ba5710e34eb3f4ffcb61f6fbc6455d224df1d64223a31587e4ef113ddd2df842",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-finance-6563f20683.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-with-study-abroad-n313/",
+      "sha256": "156b584c7dd56ce2ca34075ab87691a684d58ffb9382e0d36d0c22cbad143f44",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-accounting-and-finance-with-study-abroad-be6e6ca08b.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-n311/",
+      "sha256": "d2657862eed937233876ea0f0d1a3f67efc91e638482f1c3700f1db0e5243437",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-accounting-and-finance-5cdbfc877f.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/accounting-with-placement-year-n409/",
+      "sha256": "a64405e516e57504a4a86fb0d1cab459f540754b22a73e5af779d6fb0988b412",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-accounting-with-placement-year-e7a8bf1dbe.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-with-placement-year-n312/",
+      "sha256": "9da1ba4d1278bcac894f3dddbb613e878e214919c53d96626dc9c7e4f1555d8e",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-accounting-and-finance-with-placement-year-33f82d7780.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/business/courses/accounting-n408/",
+      "sha256": "153625f4d53f0667c4dce0dca70b0f5d235e662e2755a2871ba9ebbc2ea8bccd",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-accounting-5955f1d4f4.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/chemistry-with-industrial-project-f111/",
+      "sha256": "fc36c522e0a8f47681872537919a841139371aa01ccc61f5998de71a1bb46d26",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-chemistry-with-industrial-project-8a1ce08cd9.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/chemistry-f100/",
+      "sha256": "fb667ec0816129be71eda75730c48d71539c5e95fce3a9f4d76d95ea77b5c56d",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-chemistry-59ab1d581e.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/chemistry-f105/",
+      "sha256": "0d462e41f97e0118dad1abe2a4bb15a33ac112327f72f6d3bbaa1ded4cf8336b",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-chemistry-981e796a24.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/biochemistry-c702/",
+      "sha256": "c4db00aba75cbf5227ab7f56f07668b0599cca77374b849b97f21887b5ae968e",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-biochemistry-cb8aa14bda.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/biosciences-c107/",
+      "sha256": "81a335a2a51b6d693c79785f453f22bdd9b3390d7bf1a74651b7410a3a0efd4d",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-biosciences-f1bd2b5202.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/biological-sciences-c103/",
+      "sha256": "66e0688a3111127a2ea97aeebca33903e136b75b9dfc5f360bf819168938762e",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-biological-sciences-8338b0f555.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/historical-archaeology-f411/",
+      "sha256": "f4026c377ce5f7bf5b9ffd14c3cf7126a1dced4975bc7f8f655cbb0ce99ac70f",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-historical-archaeology-5e771a758e.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/archaeology-and-ancient-civilisations-vq48/",
+      "sha256": "7eea3aac4e0e97c5ac8626947dfdc9a7067cc93a9bda59ec5abf4c531a7d47ce",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-archaeology-and-ancient-civilisations-8b20285bce.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/archaeology-f402/",
+      "sha256": "7962e60cc95f86dbbb2a8436d38542156dd816d3e629aac72678d1bad3485876",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-archaeology-a229e020f7.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/archaeology-f400/",
+      "sha256": "a992e1b1e9b94df58707aa993822968c334316fe40e6df910ad2fb48a21d24d5",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-archaeology-0bead5289d.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/ancient-history-and-archaeology-vf14/",
+      "sha256": "c992915a04b43ee4caf6a6bc1b9f296fe3d64f8862de2a4fc5e17a64b0dd5c75",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-ancient-history-and-archaeology-cf34f7d1c0.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/psychology-and-anthropology-cl86/",
+      "sha256": "8d34f823dbf8c2400d376dd01c1ae7c392cf7c550914d4c0ffa0fe604c823568",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-psychology-and-anthropology-028d47c46f.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/anthropology-and-sociology-ll36/",
+      "sha256": "66d5b94585b59e0b6289b575c700a055caa9ebb88ffaaa0a143abce8a145c50d",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-anthropology-and-sociology-7bf493149f.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/anthropology-and-archaeology-lf64/",
+      "sha256": "696db2e84b42d2551ed74fe3a55ec52b16b44aa4ae81d58fef9e9bce7ba1c37a",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-anthropology-and-archaeology-3760c63fc3.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/health-and-human-sciences-b991/",
+      "sha256": "8f17e0b1ccd1fe5afd3c3ec20ee5e7e2e7465ea9f1453657b23ba529c50b3eeb",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-health-and-human-sciences-6cd30bed33.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/anthropology-l601/",
+      "sha256": "76aa93df8495f244fd35513f15c48496d85858cfb78c2f6466a7449f666a4716",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-anthropology-35f25c790a.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/anthropology-l602/",
+      "sha256": "272ecde18bc7851a21d1823787ddd2e1e2d68b4052e6758f6ac96cdcbd24833d",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-anthropology-9a913649ef.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/economics-with-foundation-l123/",
+      "sha256": "36fb0946a0e57ba3443d73ce09e6b279ecb8db881f76ce69fc6c0f2007c7df1f",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-economics-with-foundation-0d5a827cac.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-c/",
+      "sha256": "1c14e0c17f9d6b84ef90a209800630be2ffe78aa2b707969ea38aea4df583a6d",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/english-band-c.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://www.durham.ac.uk/departments/centres/academic-development/study/foundation/apply/",
+      "sha256": "18221c31c177d58827deeede0ba867485facaa7545f0f35806ce6d31428de154",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/foundation-apply.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/accounting-and-finance-with-foundation-n445/",
+      "sha256": "8c2e78de743d8a1d1d9885337ee74058e39dac17ca09d04c131d2a47bd20fa10",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-accounting-and-finance-with-foundation-acc2365028.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/law-senior-status-m105/",
+      "sha256": "dc1943408ab4560746b62fa1b41642c3090f193dd5d9d2912cb1ac2b85ab68c3",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-law-senior-status-79e2aa9142.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/international/entry-requirements/english-language-requirements/direct-entry-band-a/",
+      "sha256": "584d78bf8f56474f08156bd539c37212e8a84d244bf4bbb33729d0327a474f37",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/english-band-a.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://lnat.ac.uk/registration/dates-and-deadlines/",
+      "sha256": "41a5365e7c3a7865f4df3cd58c4499c2a6e19a7111b3a7ce32b8182f6fb00c47",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/lnat-2027.html",
+      "locator": "main-content"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/marketing-and-management-with-foundation-n516/",
+      "sha256": "bba6cc56ace5eb6c9e9b60e3b916dbfa159a0c274fbb7f65de38cc4a7b522436",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-marketing-and-management-with-foundation-6d78267027.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/artificial-intelligence-meng-g417/",
+      "sha256": "bc42846110ac093d3ba66804eb0f726ad24dcbc3d85adfacc407af7172d534a0",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-artificial-intelligence-meng-f4e8b63518.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/artificial-intelligence-g414/",
+      "sha256": "4b48795a1b56e09544d343c03cc55e5d6ff40cc04b85f52a9171bd3fe6119296",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-artificial-intelligence-5ed15286a5.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/biology-and-psychology-cf17/",
+      "sha256": "a74a15c4a2e3ac324220f3d88419bba8fd677b692369da73420f67e4e1589d1c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-biology-and-psychology-c0c787bc59.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/mathematics-and-philosophy-gv15/",
+      "sha256": "caa45bdcad5797021f8801038891c781d7c1d63a29a00fc7282ef88b467119fe",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-mathematics-and-philosophy-f387e9d8be.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/philosophy-and-physics-vf53/",
+      "sha256": "24743751b0f5f7d66ddaedbbad042cff62ae26e13a8a75a1943b02353952a77c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-philosophy-and-physics-fdbf88a91f.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/chemistry-and-mathematics-fg11/",
+      "sha256": "5f6e1b050fa39fc071928f59f732082f2a29fffe6a3b641ddc6099ac19abaf70",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-chemistry-and-mathematics-9db7995057.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/chemistry-and-mathematics-msci-fg12/",
+      "sha256": "b33180d66ea49602544657ff41b46631462c644d8568feef2f92cf3a50a42198",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-chemistry-and-mathematics-msci-b50b7e64a1.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/chemistry-and-physics-msci-ff14/",
+      "sha256": "e2b902e911d27914c9a9ff16c83f02eebf0f21b2722a5f63e905bd51927351e9",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-chemistry-and-physics-msci-f290f1e054.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/chemistry-and-physics-ff13/",
+      "sha256": "64481299019449957dcb234b4711630f0d3e4517c8a2307e14265cf4c79a49f1",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-chemistry-and-physics-f32b9af225.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/biology-and-chemistry-msci-cf12/",
+      "sha256": "5b9100220e89e1a295883ea2dc80c5c1949b49b631188668183cb842b4211018",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-biology-and-chemistry-msci-3dfb9de4f7.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/biology-and-chemistry-cf11/",
+      "sha256": "fa57939af6713e88e90a7efae352a716e09993c07bfa3901a4f7dac3c7bfafc6",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-biology-and-chemistry-f1b5ed6036.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/finance-with-foundation-n308/",
+      "sha256": "f1f139e195ac6d3474ae41a304e8b43a14171988a90778d1853c14c7be41d7c6",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-finance-with-foundation-9951670c1f.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/business-and-management-with-foundation-nn21/",
+      "sha256": "b23a17b6b1d33b84410f624f44533cb181391d776553772438f0271cbf67657c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-business-and-management-with-foundation-ca84e63d97.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/accounting-and-finance-with-foundation-nn4h/",
+      "sha256": "f85b5bf24c5debb51445baf49b55a0226a948b118535e56704efdcbbeffa83aa",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-accounting-and-finance-with-foundation-af6c1e5193.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/theology-and-religion-with-foundation-v616/",
+      "sha256": "6db1363b9f8f3786b22ced241e276a55f3a21172641b49bffff372f9dab52db9",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-theology-and-religion-with-foundation-a96c5066e4.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/philosophy-with-foundation-v501/",
+      "sha256": "b55778c6a87f9f58e22c86f41d1487052d0cc8aadbdd0d52836a1b0fa8a25105",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-philosophy-with-foundation-a245ad3a53.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/liberal-arts-with-foundation-la00/",
+      "sha256": "7ad62f098b00f9912d1e012a4c499a93cd1b6df3518799631325dc341d6ebca0",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-liberal-arts-with-foundation-28da432d32.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/sport-exercise-and-physical-activity-with-foundation-c604/",
+      "sha256": "b15f6f27dd28069e23097b94714b4bae2478ecd72b338baa7edae9b0c806b6ec",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-sport-exercise-and-physical-activity-with-foundation-bd0ef2d4fc.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/sociology-with-foundation-l301/",
+      "sha256": "9dd0f70bf853e2ab2648bb5267d51454e3d27d20068ee6d52a61c0f09ce6a252",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-sociology-with-foundation-5b03446424.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/psychology-with-foundation-c819/",
+      "sha256": "cd2f0416cad067273868d8a2da5a0c0a2ea23254de2f5236d5f7512572785f72",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-psychology-with-foundation-d97f744b03.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/psychological-and-behavioural-science-with-foundation-c811/",
+      "sha256": "fd8574946c167188342aee010659ff034335c73b470c715f4faba0d07d09151b",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-psychological-and-behavioural-science-with-foundation-19802e34c6.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/primary-education-with-foundation-x120/",
+      "sha256": "a22652a294ab2836dd88075057566cc78d4205e4755f327d347869c85ef43fbc",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-primary-education-with-foundation-b7b49f1a0b.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/politics-with-foundation-l201/",
+      "sha256": "635620d85a818ba74ba60560a6b68eb834ad7477a74ff1efdbab28b938e8f240",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-politics-with-foundation-8f1e54610b.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/law-with-foundation-m102/",
+      "sha256": "08ea3f5fb14c3b7d87b1fca06c862d08236aa1ad2b0324d9b98383281663fa36",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-law-with-foundation-bf26fa35fc.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/health-and-human-sciences-with-foundation-l691/",
+      "sha256": "9ebfdcd4ffbaa86b13f1a95e7959f147945830d9083c0e98c2f2760cd6b199fd",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-health-and-human-sciences-with-foundation-ab0d34ef59.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/geography-with-foundation-l700/",
+      "sha256": "404119aeefef84b0107765b643eca57878b26d1e616563438740bdf60f7afd13",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-geography-with-foundation-7a3fe8d9d2.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/education-studies-with-foundation-x301/",
+      "sha256": "6cdf28a4875766fdfe324ffd879bc374a2a5e8fe4e2d59e428151277751311de",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-education-studies-with-foundation-f02375b30f.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/criminology-with-foundation-l372/",
+      "sha256": "f1dba5c464dc9e92fa3a308c3aea76ae6e20b68814c3641d1bfdfdc13d9bb056",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-criminology-with-foundation-51632741b5.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/anthropology-with-foundation-l608/",
+      "sha256": "fff8158bd93b4dd2fdf128459a5bb404f3164bdb1f0f2153c343baa06e9321b5",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-anthropology-with-foundation-3d944159fe.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/combined-honours-in-social-sciences-with-foundation-lv00/",
+      "sha256": "d93d9c65888cf6b9586ee2b397902bce2b41b0525f18bb63654234e41298ff1c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-combined-honours-in-social-sciences-with-foundation-d8fb33c008.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/history-with-foundation-v102/",
+      "sha256": "bac0c822941eab7fc531ed0aa4e67a5c16f996fda3d115d22ab254837c20f8f2",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-history-with-foundation-be456750c2.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/anthropology-with-foundation-l603/",
+      "sha256": "1f5a31c6d1d487e3108ac239da3be01b0a4d8840d9896c9023ae72e4a37f23ee",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-anthropology-with-foundation-afe46d871e.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/english-with-foundation-q301/",
+      "sha256": "36026d23a0809db703493c605fdf0ed91927f03de6dd3a3324bc430b36972b0a",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-english-with-foundation-08d6dbca4c.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/classics-with-foundation-q805/",
+      "sha256": "cd691cee105f4610f875258a7e278eb79322db1fbd4b8d2bde99602ecefdb68e",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-classics-with-foundation-1ad9b0ee9a.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/archaeology-with-foundation-v400/",
+      "sha256": "9f1b3dd6279d8ebe3e99007bcf031ef362059689fff112f4e3b9c6efa0331c68",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-archaeology-with-foundation-0a5b6fee07.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/computer-science-with-foundation-g402/",
+      "sha256": "06ce8a002445720922d4e0306a6760a57fabb71408020690ae42c47882566bac",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-computer-science-with-foundation-b3d8704a1f.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/biological-sciences-with-foundation-c104/",
+      "sha256": "b03ba8615b0f11cbb2ba745d50a197e521cb5826548c895857275b837594dd3b",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-biological-sciences-with-foundation-49d3537843.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/archaeology-with-foundation-f403/",
+      "sha256": "fc740492de276bb353d5b9375d149ccd64e38208dfbbd235bd9d034c5e1c5473",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-archaeology-with-foundation-6a190b8091.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/theology-ministry--mission-v622/",
+      "sha256": "6ff893dae2979844f3d4214f9deb347e3852394daa1d13aa1f3608648dc02f40",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-theology-ministry-and-mission-efdc53621b.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/theology-and-religion-v614/",
+      "sha256": "c8e08c1d25581a2230a3408cab2bcb511a5e86a8dee8d2a9d739b664d6250f74",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-theology-and-religion-aef77f6178.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/religion-society-and-culture-v617/",
+      "sha256": "ffa9ed97838ceada9cbd6e80f3d158fe1c528f4fd696f6247c868f6832e79672",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-religion-society-and-culture-04b0ad1b49.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/philosophy-and-theology-vv56/",
+      "sha256": "a751bc1fcf297652e3889f602850e0bd0594ae62fbd7ebe43d26da2b7a4a6c83",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-philosophy-and-theology-e7c25f2970.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/liberal-arts-la01/",
+      "sha256": "3ed0b455d9807a204ae7dd730ab959f5cae1a3841923950d19b88a19a9e12587",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-liberal-arts-cb71c79ed3.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/combined-honours-in-social-sciences-lmv0/",
+      "sha256": "007d7de6afc379f74039cd445ef943303223fa5e97a3a3332a6ccb19eb8d4a3f",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-combined-honours-in-social-sciences-94b0b3a9b2.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/mathematics-and-physics-g430/",
+      "sha256": "bf993738708e48e6c892439b8da056dc5d928203df0c3a7f9be92bbdd384ae81",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-mathematics-and-physics-0b8f734a16.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/computer-science-and-mathematics-g425/",
+      "sha256": "eb6cc00dcafdb2a83cc493fafb20c6cc64833b6af380e21fb05503c04935f152",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-computer-science-and-mathematics-msci-cefbf0f05b.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/mathematics-and-physics-g427/",
+      "sha256": "b04c48b97049836b28aea99d066a2b064143c66743b84e526f24b84e96f70e21",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-mathematics-and-physics-5cba6340ed.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/economics-and-mathematics-l125/",
+      "sha256": "f0af9d347a0141feb3f39f7ac471767d5dd67ded9f5da96fcfeca81badb8ae12",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-economics-and-mathematics-1d292b5fc9.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/computer-science-and-mathematics-g411/",
+      "sha256": "b1b3b642b8e346874c59fca08e4441deea452496aa6e8e1af42126ddde968fe4",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-computer-science-and-mathematics-a4fe6e2769.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/natural-sciences-fgc0/",
+      "sha256": "d705d216db41e0216e8610c6b35b3eddcfb338bd77963eb7443d700353a31bcd",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-natural-sciences-23f6a85259.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/natural-sciences-cfg0/",
+      "sha256": "49d86b5b475e1c8e4bf47935fb2d805ba3af4fb881060551e05f950e45472a75",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-natural-sciences-4b9e6da3b4.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/sport-and-exercise-sciences-c606/",
+      "sha256": "6c99d6ea8f6b8d617b9f3ab3117336bc4997cbed422861193c41c37fbc0c5640",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-sport-and-exercise-sciences-6bc158ee6d.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/sport-exercise-and-physical-activity-c603/",
+      "sha256": "adffb48838f00041c8bc4b181703e60c10fc610164115c3e750f5c054a328295",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-sport-exercise-and-physical-activity-e734de90d1.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/sociology-l300/",
+      "sha256": "a555f336b0e2264dc58f86f9e82c60f8a0158bee8187e85e0b3eff9a681ae1dc",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-sociology-1ae8f90de0.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/psychological-and-behavioural-science-c807/",
+      "sha256": "34210d4a43251d31fc6da7b55161985a53432acdcdc7d676e4200c3af6a5fea5",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-psychological-and-behavioural-science-e25eb1383c.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/psychology-c800/",
+      "sha256": "03d46127ec08d95f58b1390366249a6ee5525d2b7a4784b23a1bf960b6506078",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-psychology-8c768f2a8a.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/politics-and-international-relations-l253/",
+      "sha256": "4030c77f9b84248cbd83393b5f75a843e9a2f2243b643e62c979499c7d0f7494",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-politics-and-international-relations-e78a9a6514.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/politics-l200/",
+      "sha256": "173f1da673dd1601f282c6e963025949f64dd8c913225af82a644123e811c4b5",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-politics-ca87228af5.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/international-relations-l250/",
+      "sha256": "940376633d91f81059c0f6b8ff4e90184fdab377541563bc3a87f19a14c24d73",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-international-relations-5b7fb56a4f.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/theoretical-physics-f344/",
+      "sha256": "9eced0bc0925a4123360a806f90a32f55fe729290aab70ee55643847148cc84a",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-theoretical-physics-05392aa0ba.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/physics-and-astronomy-ff3n/",
+      "sha256": "b36060bf2e0ce3b04ab37ca9a2389969b554f167c5dc1ceeb30d66f04218b2dc",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-physics-and-astronomy-362701d1a6.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/physics-f301/",
+      "sha256": "ed806fbbe26f0b50b5cc033c640f2b0763eb78b5b15c9b409c72d982438c965c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-physics-351831f101.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/physics-f300/",
+      "sha256": "c2037a77506e9da048185863b74056730d90a031298f1403788262f3322ebf8d",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-physics-29a5d432c8.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/philosophy-and-psychology-cv85/",
+      "sha256": "efaeaeb60a75c88941c826974516899a53e4e80268c4a814cfcb039f1406903a",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-philosophy-and-psychology-b48956199d.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/philosophy-and-politics-lv25/",
+      "sha256": "eb83ef5505bf6f39a3ce248b023efc6e0709a4cdae9cb16085ae6df5f888b487",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-philosophy-and-politics-304ef55011.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/philosophy-v500/",
+      "sha256": "cd633a6480c253910bd7b2a984d3b86a86a8fdbf7225af38d25da740f9ff1ecb",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-philosophy-2fd13e9a28.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/music-w300/",
+      "sha256": "c0ad195c84fb3dd22242a4ce455b0a23f1090102d99830ca515b6bc5e256e37c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-music-28db0b1de3.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/mathematics-and-statistics-g114/",
+      "sha256": "6c386c431e41b2aee833c3ae9ee09ac408f25b1afb999c3d176d07d77bce85eb",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-mathematics-and-statistics-a0322b14cf.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/mathematics-and-statistics-g111/",
+      "sha256": "19e9e3431d41be8286958301a5f84a7ffc10de200853ee75a5d757e7a5cf3671",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-mathematics-and-statistics-cce4a54e80.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/mathematics-g103/",
+      "sha256": "b1106eb0840db2013af68cd27cf8c671499f34ecb3239e1195841da61616fde8",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-mathematics-d4ae1ed1fb.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/mathematics-g100/",
+      "sha256": "127769a9aafa7be04bcd2d6da59b1f65b050a1dddd12889e72d290e8c31f04a0",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-mathematics-b806e875ce.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/law-m101/",
+      "sha256": "ed742f02fade3ba0a8ae28f80bef7d8b7c03bcfe3a329ffac4a506bfe2109b7e",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-law-9b6dc521d1.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/visual-arts-and-film-va01/",
+      "sha256": "b985b1f3d5abef90248ad398c12657f239f21ef23bc221b07e91f6f788594435",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-visual-arts-and-film-62389ac5f8.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/modern-languages-and-cultures-with-year-abroad-r002/",
+      "sha256": "3fd50702bd04edae22083bc4f0c1b721e43f5bb9b7a283ddb1cfee035731b459",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-modern-languages-and-cultures-with-year-abroad-42eccb5c06.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/modern-european-languages-and-history-with-year-abroad-rv92/",
+      "sha256": "7739d9fec15f7ad7f75ee9080cf1175fe62b9ebf035ca3d80626e7d088512815",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-modern-european-languages-and-history-with-year-abroad-03dd8b0a90.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/japanese-studies-with-year-abroad-t202/",
+      "sha256": "ec61bc12289e6ece5fad382d811f827f2240937d30ff0a524d9fc11491e16c80",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-japanese-studies-with-year-abroad-e261cd4a2e.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/chinese-studies-with-year-abroad-t102/",
+      "sha256": "e7935f6f18f037e074ef31429d5cfe6e64aa7cc9c523737e889f09fb41e63371",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-chinese-studies-with-year-abroad-23f5873411.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/history-v100/",
+      "sha256": "228d21f8355eef514eee1c4ca1235cee169f37390ef93f8df3329218d9dbc8e3",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-history-92fc52efca.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/geoscience-f643/",
+      "sha256": "b82e0dee77ba9803a9e066cf542dd612050067b7753c96af186b4da981a2e89c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-geoscience-4a4d71ba12.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/geophysics-f665/",
+      "sha256": "6b672c1de5bc5dbcd7128d6d7623a315edf02dde6e779d0676ff78bfbb9c4bd0",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-geophysics-c3732d1aa4.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/geology-f600/",
+      "sha256": "7c388bc01f46c76f5816d9d2942fa6f19ee611de8271aa5acee2444e133564ef",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-geology-d45a52d524.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/environmental-geoscience-f630/",
+      "sha256": "a6fd19b1796f930e24820a4a89631ad244876bbdc6aea7e1f159216179219f44",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-environmental-geoscience-b5f58c5d4a.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/earth-sciences-f644/",
+      "sha256": "0ff4b460c1126bad0ba0c0dbe053f0a6e3b2e965b83a026291f2febadba94a1a",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-earth-sciences-26db9e02f4.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/climate-science-f645/",
+      "sha256": "bc2521faf4b417ae8b2aa6c8b49e3e2b1a7abf15e8469bbed82f872df21de5f6",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-climate-science-64e73bb6f0.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/geography-f800/",
+      "sha256": "c5819445182df385812c3f67bbf782d04e9a59e38145a98557472949b3203b6a",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-geography-66be8b9607.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/geography-l702/",
+      "sha256": "9080a6bad893716bb742e73fb0ccff81b9e5034e1f0fb7b760f531fc87426aaf",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-geography-9bcab7d18d.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/english-literature-and-philosophy-qv35/",
+      "sha256": "9bac0918002a9d8d06270c1413b961880feae32423b67ac82376e6dc20ce8e5f",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-english-literature-and-philosophy-43f4431b3a.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/english-literature-and-history-qv21/",
+      "sha256": "254b344eadd329c2a16f3a58f539ec80d53bcae6988fa2f1ba1157ad22f75f1d",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-english-literature-and-history-bcf4873041.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/english-literature-q300/",
+      "sha256": "4e6c5121215e7f0ad103706a8cb57fd65b5051625d97fb4473e5487c8a2d1f17",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-english-literature-31c3121d48.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-bioengineering-h911/",
+      "sha256": "11e3ee9bd6b7ab603e01c016f1b829f50c47c3c21c91651f1f3eb5d192c85e34",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-bioengineering-7908e5736c.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-electronic-h711/",
+      "sha256": "c05d3a48e3f1a73b671f201568ff663ae9a76996e1627c86d6e47202fbae682b",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-electronic-e850284ce7.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-renewable-energy-h811/",
+      "sha256": "2af1fde14c92794a7ab8bde1a2f004f8f1b8d10656986e5c38618454ea3bc33f",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-renewable-energy-4f640b5dde.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-electrical-h511/",
+      "sha256": "2ece5d9314dedb8adc037e878fc310a7162249aee460f3683d09216b4bd0b0d9",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-electrical-bf173fbed9.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-aeronautical-h411/",
+      "sha256": "356ca25107a94246009e352cd89b0e443eb9d0c93f5b62f5eacba6190f536249",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-aeronautical-3bda6b560c.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-mechanical-h311/",
+      "sha256": "ff0fb5afbf6c57d61839309cd052d7cc17bbe53d42eeef7e99a041aa2b041e2b",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-mechanical-5146999b26.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-civil-h211/",
+      "sha256": "a21d2ec87585825158f1ed4bd43874245fb277e4c83f25a1218ba3f9d920a868",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-civil-8d0b97b60e.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/general-engineering-h100/",
+      "sha256": "3592bf6197b190e62d52b3ea89533eb271335a3cbe14040a4118e1042dd449c1",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-general-engineering-a73ab3a389.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-electronic-h714/",
+      "sha256": "60b389007bee811638e6ff968ced4350c0d231b0313e98bd606aca8d261307da",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-electronic-ec4e06c1dc.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-electrical-h514/",
+      "sha256": "06cb3c1eaa28e933222e1cd825171792975100400a4242cc74f9a6047c4c1fa6",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-electrical-301d2d67e0.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-mechanical-h314/",
+      "sha256": "6b466464b75bfb10ff9155f07191ba7006156cf430e5cd270653ca6eab105460",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-mechanical-989ba77a1b.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/engineering-civil-h214/",
+      "sha256": "6c53456ab9355c6077fdd53fc0760fe0c2c97a469e47c2205f9b53a10793258f",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-engineering-civil-75278b7498.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/general-engineering-h103/",
+      "sha256": "385a652871b87d6a7772ef6852f9e850c277263e5ffa395f17a96a4e33e2e5c4",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-general-engineering-5d45e1011b.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/primary-education-x101/",
+      "sha256": "08c720fd4a158a860398d7ad3c0aa52976d54c62ea468a6166ac95e2254ad6a3",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-primary-education-d0522f67e0.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/education-studies---sociology-xl33/",
+      "sha256": "3ae0612463ee6bb5ce2ea455b37e023a955b82a819993c92724e5a60000cec3c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-education-studies-sociology-5f2dca636d.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/education-studies---psychology-x1c8/",
+      "sha256": "7baee696d5bd1c9ccfb502c377b8d9b6789ce3ce2da61ddc7c2a9b05edea0843",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-education-studies-psychology-54852eee09.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/education-studies---geography-x1f8/",
+      "sha256": "91d8279a746487afd54a03d0235c78c3e3d4426f3365215a57c25eabca40b89f",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-education-studies-geography-55440c26b5.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/education-studies-x305/",
+      "sha256": "d172e3062a6de14dd7f3328c6c9e721087f40a5c1e16180537e6c6acf0ba3bde",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-education-studies-ff16f554f1.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/criminology-l370/",
+      "sha256": "3edbd72d0646f32dec66af077f00cedca85efe016aeb8a3bcf49e00ff31ae4a8",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-criminology-a72d83810b.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/computer-science-g406/",
+      "sha256": "c6757a6e0a5b4b346476c651537741e2032e3845e377825ae382fdfe5968ffde",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-computer-science-699d2129d6.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/computer-science-g400/",
+      "sha256": "267367c1470cfb1ac90f53d02e1e6574f51d7fb29cd15e7a3aec6d54942aa181",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-computer-science-e63573daf9.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/classics-q801/",
+      "sha256": "8e865f0016b8be952b9352169d7eb76b1ab307c8bf4a793a49da1cad86cc5159",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-classics-d0ffccdfcb.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/classical-civilisation-q820/",
+      "sha256": "35cc5373ea9e3c2ad0532448d1497ad499f35f177df966e8f46324c385c7b949",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-classical-civilisation-fe70751dab.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/ancient-medieval-and-modern-history-v101/",
+      "sha256": "c3ffd8edd0972a720850df8f2a6a554c04bbc524d7966d2d4b07d2210aa6c16e",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-ancient-medieval-and-modern-history-235843d18b.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/ancient-history-v110/",
+      "sha256": "4c474ee3e9e4be3c178c7c00c6ba10924e5bc24ba29b0940279992dd54ffc8c5",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-ancient-history-a6eed6ccf5.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+    },
+    {
+      "url": "https://www.durham.ac.uk/study/courses/chemistry-with-overseas-project-f102/",
+      "sha256": "a93e187c4bf88f5b214379ebcf819bd14d3512963487147aadbb36954cab9d5c",
+      "raw_file": "scratch/full-catalog/durham-enrichment/raw/durham-chemistry-with-overseas-project-6f681d0d62.html",
+      "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
     }
   ]
 }

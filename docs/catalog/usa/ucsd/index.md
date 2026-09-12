@@ -23,189 +23,190 @@ hide:
 
 ## 专业与申请资料
 
-178 个专业条目 · 0 个含详细资料 · 4 个补有专业资料 · 174 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+179 个专业条目 · 0 个含详细资料 · 179 个补有专业资料 · 0 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=ucsd#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-aerospace-engineering-55a90334e8/">Aerospace Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-aerospace-engineering-with-a-specialization-in-aerothermodynamics-35c2193d89/">Aerospace Engineering with a Specialization in Aerothermodynamics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-aerospace-engineering-with-a-specialization-in-astrodynamics-and-fbb2fbb89d/">Aerospace Engineering with a Specialization in Astrodynamics and Space Applications</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-aerospace-engineering-with-a-specialization-in-flight-dynamics-an-f96a3f7fd9/">Aerospace Engineering with a Specialization in Flight Dynamics and Controls</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-anthropology-archaeology-7d3b0ffb93/">Anthropology (Archaeology)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-anthropology-biological-anthropology-f6394e6b04/">Anthropology (Biological Anthropology)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-anthropology-sociocultural-anthropology-a8a0970359/">Anthropology (Sociocultural Anthropology)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-anthropology-with-a-concentration-in-climate-change-and-human-sol-48e9835124/">Anthropology with a Concentration in Climate Change and Human Solutions</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-art-history-criticism-be0bea0a16/">Art History/ Criticism</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-artificial-intelligence-e205a1917b/">Artificial Intelligence</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-astronomy-astrophysics-5236e2a050/">Astronomy &amp; Astrophysics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-astrophysical-sciences-afb3188dbe/">Astrophysical Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-biochemistry-1742dfce5c/">Biochemistry</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-bioengineering-35e02d2c5c/">Bioengineering</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-bioengineering-bioinformatics-9b44d786ff/">Bioengineering (Bioinformatics)</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-bioengineering-biotechnology-9e8f609038/">Bioengineering (Biotechnology)</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-bioengineering-biosystems-1e9cbea487/">Bioengineering: BioSystems</a><small>BS · 部分专业资料已核实</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-biological-anthropology-f58bd0e28d/">Biological Anthropology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-biology-with-specialization-in-bioinformatics-35428363d6/">Biology with Specialization in Bioinformatics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-black-diaspora-and-african-american-studies-af1f8ee9c6/">Black Diaspora and African American Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-business-economics-a457f0012c/">Business Economics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-business-psychology-fb01d4a0e0/">Business Psychology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-chemical-engineering-2604377fa0/">Chemical Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-chemistry-492289610b/">Chemistry</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-chicanx-and-latinx-studies-2494319f88/">Chicanx and Latinx Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-chinese-studies-4d3f6e331a/">Chinese Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cinematic-arts-07231280e4/">Cinematic Arts</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-classical-studies-0a1bacb3a6/">Classical Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-42fb1024d0/">Cognitive Science</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-6694cd0fd3/">Cognitive Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-clinical-aspects-of-cogn-589fbc6fd7/">Cognitive Science with Specialization in Clinical Aspects of Cognition</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-design-and-interaction-0d48a317e1/">Cognitive Science with Specialization in Design and Interaction</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-language-and-culture-d7a8e19443/">Cognitive Science with Specialization in Language and Culture</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-machine-learning-and-neu-f93c77d775/">Cognitive Science with Specialization in Machine Learning and Neural Computation</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-neuroscience-4b2506f38c/">Cognitive Science with Specialization in Neuroscience</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-and-behavioral-neuroscience-3f91d36d6e/">Cognitive and Behavioral Neuroscience</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-communication-d69ddbc1c7/">Communication</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-computer-engineering-5b833e4eb8/">Computer Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-computer-science-23b87e9eae/">Computer Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-computer-science-with-specialization-in-bioinformatics-8b4ffaa4dd/">Computer Science with Specialization in Bioinformatics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-critical-gender-studies-9b8f29eaa5/">Critical Gender Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-dance-a40a6f8579/">Dance</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-data-science-1bbf8bde82/">Data Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-ecology-behavior-and-evolution-5e2a585b62/">Ecology, Behavior and Evolution</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-economics-afdf1a2fc9/">Economics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-economics-1062bcfe6a/">Economics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-economics-public-policy-549499cb55/">Economics-Public Policy</a><small>BA/MPP · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-economics-public-policy-3986f9caff/">Economics-Public Policy</a><small>BS/MPP · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-education-sciences-86aa09d2c0/">Education Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-electrical-engineering-840d3e1a86/">Electrical Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-electrical-engineering-and-society-347fcbea2b/">Electrical Engineering and Society</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-engineering-physics-534df6498b/">Engineering Physics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-anthropology-ec3d3d76f5/">Environmental Anthropology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-chemistry-31dd93dd04/">Environmental Chemistry</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-systems-earth-sciences-def58631f8/">Environmental Systems (Earth Sciences)</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-systems-ecology-behavior-evolution-b8a047fae6/">Environmental Systems (Ecology, Behavior, &amp; Evolution)</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-systems-environmental-chemistry-cebdf242ae/">Environmental Systems (Environmental Chemistry)</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-systems-environmental-policy-902c3018a9/">Environmental Systems (Environmental Policy)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-ethnic-studies-0ae4ea7822/">Ethnic Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-experimental-psychology-9c45a81995/">Experimental Psychology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-general-biology-5ba6a96a67/">General Biology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-geosciences-2459ed5462/">Geosciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-german-studies-5b5174e9d7/">German Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-global-health-dbba25eca0/">Global Health</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-global-health-4947948754/">Global Health</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-global-south-studies-ee18a9f356/">Global South Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-history-c47cd78967/">History</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-biology-7a25ca848c/">Human Biology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-developmental-sciences-bd48d4e276/">Human Developmental Sciences</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-developmental-sciences-6470358576/">Human Developmental Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-developmental-sciences-with-a-specialization-in-equity-and-f281880cd3/">Human Developmental Sciences with a Specialization in Equity and Diversity</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-developmental-sciences-with-a-specialization-in-healthy-agi-c6c413689e/">Human Developmental Sciences with a Specialization in Healthy Aging</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-individual-major-62ba1a0436/">Individual Major</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-individual-major-d0d4aa3b9d/">Individual Major</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-interdisciplinary-computing-and-the-arts-4ae0d7275c/">Interdisciplinary Computing and the Arts</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-anthropology-8f18c17ebc/">International Studies - Anthropology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-economics-347d239d1f/">International Studies - Economics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-economics-c2c64d232d/">International Studies - Economics</a><small>BA/MIA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-history-fc13df653a/">International Studies - History</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-international-business-dd06d01b6c/">International Studies - International Business</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-international-business-20579fb4d8/">International Studies - International Business</a><small>BA/MIA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-linguistics-3279f531f0/">International Studies - Linguistics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-literature-131d609f3a/">International Studies - Literature</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-philosophy-d2b27d48bb/">International Studies - Philosophy</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-political-science-fdade9e896/">International Studies - Political Science</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-political-science-5b1b8cd79f/">International Studies - Political Science</a><small>BA/MIA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-sociology-e44771378f/">International Studies - Sociology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-italian-studies-c8d3ca20f9/">Italian Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-japanese-studies-6acf9482a1/">Japanese Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-jewish-studies-d430a12667/">Jewish Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-latin-american-studies-6ce0ed808e/">Latin American Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-latin-american-studies-with-a-concentration-in-mexico-aa58251744/">Latin American Studies with a Concentration in Mexico</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-latin-american-studies-with-a-concentration-in-migration-and-bord-9a7cd0f525/">Latin American Studies with a Concentration in Migration and Border Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-cb75a2cc4d/">Linguistics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-specialization-in-cognition-and-language-24ad9d4d6d/">Linguistics (Specialization in Cognition and Language)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-specialization-in-language-and-society-c358eba45f/">Linguistics (Specialization in Language and Society)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-specialization-in-speech-and-language-sciences-1e166a678d/">Linguistics (Specialization in Speech and Language Sciences)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-language-studies-specialization-in-individual-languag-4ecb1bfa78/">Linguistics: Language Studies (Specialization in Individual Language)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-literary-arts-658266fb78/">Literary Arts</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-literatures-in-english-980f1ed6ce/">Literatures in English</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-marine-biology-e0d5b98b6f/">Marine Biology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematical-biology-aa8c4634c4/">Mathematical Biology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-bffd1dbcce/">Mathematics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-applied-8a7fd42aec/">Mathematics (Applied)</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-applied-science-4207ba78b9/">Mathematics - Applied Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-computer-science-9b8760e8c0/">Mathematics - Computer Science</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-secondary-education-5efa57a365/">Mathematics - Secondary Education</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-and-economics-joint-major-f56a8f35fe/">Mathematics and Economics - Joint Major</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-9224237115/">Mechanical Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-controls-and-robo-b49eb09881/">Mechanical Engineering with a Specialization in Controls and Robotics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-fluid-mechanics-a-44c0a8f9a7/">Mechanical Engineering with a Specialization in Fluid Mechanics and Thermal Systems</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-materials-science-3e1d377ec6/">Mechanical Engineering with a Specialization in Materials Science and Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-mechanics-of-mate-9d6c20f1d7/">Mechanical Engineering with a Specialization in Mechanics of Materials</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-renewable-energy-4a6a4bb45e/">Mechanical Engineering with a Specialization in Renewable Energy and Environmental Flows</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-media-f3dfa5f994/">Media</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-media-industries-and-communication-616b97f2c6/">Media Industries and Communication</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-microbiology-175251127b/">Microbiology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-molecular-synthesis-74561d341b/">Molecular Synthesis</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-molecular-and-cell-biology-fcf074494f/">Molecular and Cell Biology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-music-28dc402d51/">Music</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-music-humanities-adf97e3f0c/">Music Humanities</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-nanoengineering-5fa3b031ed/">NanoEngineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-neurobiology-1bfe3ccdcd/">Neurobiology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-oceanic-and-atmospheric-sciences-6657dfae03/">Oceanic and Atmospheric Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-oceanic-and-atmospheric-sciences-18396058fe/">Oceanic and Atmospheric Sciences</a><small>BS/MPP · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-pharmacological-chemistry-bb8179de29/">Pharmacological Chemistry</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-philosophy-870e9229e5/">Philosophy</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-physics-1babae8979/">Physics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-physics-30d31ef81f/">Physics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-4e2ada77c9/">Political Science</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-american-politics-9658d14b20/">Political Science/American Politics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-comparative-politics-812a8fb06d/">Political Science/Comparative Politics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-data-analytics-bc5c4c11bb/">Political Science/Data Analytics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-international-affairs-d822e4eb59/">Political Science/International Affairs</a><small>BA/MIA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-international-relations-4d2430d3bf/">Political Science/International Relations</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-political-theory-14929c6ebd/">Political Science/Political Theory</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-public-law-d4234df5a1/">Political Science/Public Law</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-public-policy-ebcc9e991b/">Political Science/Public Policy</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-race-ethnicity-and-politics-61b8e252c7/">Political Science/Race, Ethnicity, and Politics</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-probability-and-statistics-2182453267/">Probability and Statistics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-4b2a7012f6/">Psychology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-eebb25b2c1/">Psychology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-clinical-psychology-430166df10/">Psychology with a Specialization in Clinical Psychology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-clinical-psychology-2b89eb928c/">Psychology with a Specialization in Clinical Psychology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-cognitive-psychology-4ffcaef8d8/">Psychology with a Specialization in Cognitive Psychology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-developmental-psychology-798f51f045/">Psychology with a Specialization in Developmental Psychology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-human-health-b9ca044665/">Psychology with a Specialization in Human Health</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-sensation-and-perception-6f6c77f1d7/">Psychology with a Specialization in Sensation and Perception</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-social-psychology-1af6309fb1/">Psychology with a Specialization in Social Psychology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-8fba4f90c4/">Public Health</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-biostatistics-ef39137652/">Public Health with Concentration in Biostatistics</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-climate-and-environmental-sci-369589ffbb/">Public Health with Concentration in Climate and Environmental Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-community-health-sciences-f0139da987/">Public Health with Concentration in Community Health Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-epidemiology-31bbe8166e/">Public Health with Concentration in Epidemiology</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-health-policy-and-management-d9b1c25b23/">Public Health with Concentration in Health Policy and Management Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-medicine-sciences-54e599fb88/">Public Health with Concentration in Medicine Sciences</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-real-estate-and-development-8fdc495da1/">Real Estate and Development</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-russian-east-european-eurasian-studies-ff65598795/">Russian, East European &amp; Eurasian Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-5cda92b8c4/">Sociology</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-american-studies-39d4dbeab8/">Sociology - American Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-culture-and-communication-0945ff0c35/">Sociology - Culture and Communication</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-economy-and-society-5d5b12c2fc/">Sociology - Economy and Society</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-international-studies-2879218cb0/">Sociology - International Studies</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-law-and-society-50c5caf24e/">Sociology - Law and Society</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-science-and-medicine-a0cdeb3f47/">Sociology - Science and Medicine</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-social-inequality-56ed941b09/">Sociology - Social Inequality</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-spanish-literature-122cf198fe/">Spanish Literature</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-speculative-design-6657c8278d/">Speculative Design</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-57c1eccf18/">Structural Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-with-a-specialization-in-aerospace-structu-b9ea84ad17/">Structural Engineering with a Specialization in Aerospace Structures</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-with-a-specialization-in-civil-structures-f11c481027/">Structural Engineering with a Specialization in Civil Structures</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-with-a-specialization-in-geotechnical-engi-a26d410f2d/">Structural Engineering with a Specialization in Geotechnical Engineering</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-with-a-specialization-in-structural-health-bbf1c27401/">Structural Engineering with a Specialization in Structural Health Monitoring/Non-Destructive Evaluation</a><small>BS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-studio-7a80079a46/">Studio</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-study-of-religion-ca43c84f43/">Study of Religion</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-theatre-d44a434e6e/">Theatre</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-urban-studies-and-planning-c934d72c0d/">Urban Studies and Planning</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-world-literature-and-culture-e50c116b44/">World Literature and Culture</a><small>BA · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-aerospace-engineering-55a90334e8/">航空航天工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-aerospace-engineering-with-a-specialization-in-aerothermodynamics-35c2193d89/">航空航天工程（气动热力学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-aerospace-engineering-with-a-specialization-in-astrodynamics-and-fbb2fbb89d/">航空航天工程（航天动力学与空间应用方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-aerospace-engineering-with-a-specialization-in-flight-dynamics-an-f96a3f7fd9/">航空航天工程（飞行动力学与控制方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-anthropology-archaeology-7d3b0ffb93/">人类学（考古学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-anthropology-biological-anthropology-f6394e6b04/">人类学（生物人类学方向，文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-anthropology-sociocultural-anthropology-a8a0970359/">人类学（社会文化人类学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-anthropology-with-a-concentration-in-climate-change-and-human-sol-48e9835124/">人类学（气候变化与人类解决方案方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-art-history-criticism-be0bea0a16/">艺术史、理论与批评</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-artificial-intelligence-e205a1917b/">人工智能</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-astronomy-astrophysics-5236e2a050/">天文学与天体物理学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-astrophysical-sciences-afb3188dbe/">天体物理科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-biochemistry-1742dfce5c/">生物化学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-bioengineering-35e02d2c5c/">生物工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-bioengineering-bioinformatics-9b44d786ff/">生物工程（生物信息学）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-bioengineering-biotechnology-9e8f609038/">生物工程（生物技术）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-bioengineering-biosystems-1e9cbea487/">生物工程（生物系统）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-biological-anthropology-f58bd0e28d/">生物人类学（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-biology-with-specialization-in-bioinformatics-35428363d6/">生物学（生物信息学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-black-diaspora-and-african-american-studies-af1f8ee9c6/">黑人离散与非裔美国人研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-business-data-science-6745910120/">商业数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-business-economics-a457f0012c/">商业经济学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-business-psychology-fb01d4a0e0/">商业心理学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-chemical-engineering-2604377fa0/">化学工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-chemistry-492289610b/">化学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-chicanx-and-latinx-studies-2494319f88/">奇卡诺与拉丁裔研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-chinese-studies-4d3f6e331a/">中国研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cinematic-arts-07231280e4/">电影艺术</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-classical-studies-0a1bacb3a6/">古典研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-42fb1024d0/">认知科学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-6694cd0fd3/">认知科学（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-clinical-aspects-of-cogn-589fbc6fd7/">认知科学（认知临床问题方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-design-and-interaction-0d48a317e1/">认知科学（设计与交互方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-language-and-culture-d7a8e19443/">认知科学（语言与文化方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-machine-learning-and-neu-f93c77d775/">认知科学（机器学习与神经计算方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-science-with-specialization-in-neuroscience-4b2506f38c/">认知科学（神经科学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-cognitive-and-behavioral-neuroscience-3f91d36d6e/">认知与行为神经科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-communication-d69ddbc1c7/">传播学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-computer-engineering-5b833e4eb8/">计算机工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-computer-science-23b87e9eae/">计算机科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-computer-science-with-specialization-in-bioinformatics-8b4ffaa4dd/">计算机科学（生物信息学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-critical-gender-studies-9b8f29eaa5/">批判性性别研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-dance-a40a6f8579/">舞蹈</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-data-science-1bbf8bde82/">数据科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-ecology-behavior-and-evolution-5e2a585b62/">生态学、行为与演化</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-economics-afdf1a2fc9/">经济学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-economics-1062bcfe6a/">经济学（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-economics-public-policy-549499cb55/">经济学—公共政策（文学学士与公共政策硕士）</a><small>BA/MPP · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-economics-public-policy-3986f9caff/">经济学—公共政策（理学学士与公共政策硕士）</a><small>BS/MPP · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-education-sciences-86aa09d2c0/">教育科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-electrical-engineering-840d3e1a86/">电气工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-electrical-engineering-and-society-347fcbea2b/">电气工程与社会</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-engineering-physics-534df6498b/">工程物理</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-anthropology-ec3d3d76f5/">环境人类学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-chemistry-31dd93dd04/">环境化学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-systems-earth-sciences-def58631f8/">环境系统（地球科学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-systems-ecology-behavior-evolution-b8a047fae6/">环境系统（生态、行为与演化方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-systems-environmental-chemistry-cebdf242ae/">环境系统（环境化学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-environmental-systems-environmental-policy-902c3018a9/">环境系统（环境政策方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-ethnic-studies-0ae4ea7822/">族裔研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-experimental-psychology-9c45a81995/">实验心理学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-general-biology-5ba6a96a67/">普通生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-geosciences-2459ed5462/">地球科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-german-studies-5b5174e9d7/">德国研究（暂停申报）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-global-health-dbba25eca0/">全球健康（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-global-health-4947948754/">全球健康（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-global-south-studies-ee18a9f356/">全球南方研究（暂停申报）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-history-c47cd78967/">历史学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-biology-7a25ca848c/">人体生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-developmental-sciences-bd48d4e276/">人类发展科学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-developmental-sciences-6470358576/">人类发展科学（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-developmental-sciences-with-a-specialization-in-equity-and-f281880cd3/">人类发展科学（公平与多样性方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-human-developmental-sciences-with-a-specialization-in-healthy-agi-c6c413689e/">人类发展科学（健康老龄化方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-individual-major-62ba1a0436/">自拟主修（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-individual-major-d0d4aa3b9d/">自拟主修（理学学士，Revelle 书院）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-interdisciplinary-computing-and-the-arts-4ae0d7275c/">跨学科计算与艺术</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-anthropology-8f18c17ebc/">国际研究（人类学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-economics-347d239d1f/">国际研究（经济学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-economics-c2c64d232d/">国际研究（经济学）—国际事务（文学学士与国际事务硕士）</a><small>BA/MIA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-history-fc13df653a/">国际研究（历史方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-international-business-dd06d01b6c/">国际研究（国际商务方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-international-business-20579fb4d8/">国际研究（国际商务）—国际事务（文学学士与国际事务硕士）</a><small>BA/MIA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-linguistics-3279f531f0/">国际研究（语言学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-literature-131d609f3a/">国际研究（文学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-philosophy-d2b27d48bb/">国际研究（哲学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-political-science-fdade9e896/">国际研究（政治学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-political-science-5b1b8cd79f/">国际研究（政治学）—国际事务（文学学士与国际事务硕士）</a><small>BA/MIA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-international-studies-sociology-e44771378f/">国际研究（社会学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-italian-studies-c8d3ca20f9/">意大利研究（暂停申报）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-japanese-studies-6acf9482a1/">日本研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-jewish-studies-d430a12667/">犹太研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-latin-american-studies-6ce0ed808e/">拉丁美洲研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-latin-american-studies-with-a-concentration-in-mexico-aa58251744/">拉丁美洲研究（墨西哥集中方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-latin-american-studies-with-a-concentration-in-migration-and-bord-9a7cd0f525/">拉丁美洲研究（移民与边境研究集中方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-cb75a2cc4d/">语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-specialization-in-cognition-and-language-24ad9d4d6d/">语言学（认知与语言方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-specialization-in-language-and-society-c358eba45f/">语言学（语言与社会方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-specialization-in-speech-and-language-sciences-1e166a678d/">语言学（言语与语言科学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-linguistics-language-studies-specialization-in-individual-languag-4ecb1bfa78/">语言学：语言研究（单一语种方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-literary-arts-658266fb78/">文学创作</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-literatures-in-english-980f1ed6ce/">英语文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-marine-biology-e0d5b98b6f/">海洋生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematical-biology-aa8c4634c4/">数学生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-bffd1dbcce/">数学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-applied-8a7fd42aec/">应用数学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-applied-science-4207ba78b9/">数学与应用科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-computer-science-9b8760e8c0/">数学与计算机科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-secondary-education-5efa57a365/">数学（中等教育）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mathematics-and-economics-joint-major-f56a8f35fe/">数学与经济学联合主修</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-9224237115/">机械工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-controls-and-robo-b49eb09881/">机械工程（控制与机器人方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-fluid-mechanics-a-44c0a8f9a7/">机械工程（流体力学与热系统方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-materials-science-3e1d377ec6/">机械工程（材料科学与工程方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-mechanics-of-mate-9d6c20f1d7/">机械工程（材料力学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-mechanical-engineering-with-a-specialization-in-renewable-energy-4a6a4bb45e/">机械工程（可再生能源与环境流动方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-media-f3dfa5f994/">媒介艺术</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-media-industries-and-communication-616b97f2c6/">媒体产业与传播</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-microbiology-175251127b/">微生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-molecular-synthesis-74561d341b/">分子合成</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-molecular-and-cell-biology-fcf074494f/">分子与细胞生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-music-28dc402d51/">音乐</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-music-humanities-adf97e3f0c/">音乐与人文</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-nanoengineering-5fa3b031ed/">纳米工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-neurobiology-1bfe3ccdcd/">神经生物学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-oceanic-and-atmospheric-sciences-6657dfae03/">海洋与大气科学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-oceanic-and-atmospheric-sciences-18396058fe/">海洋与大气科学—公共政策（理学学士与公共政策硕士）</a><small>BS/MPP · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-pharmacological-chemistry-bb8179de29/">药理化学</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-philosophy-870e9229e5/">哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-physics-1babae8979/">物理学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-physics-30d31ef81f/">物理学（理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-4e2ada77c9/">政治学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-american-politics-9658d14b20/">政治学（美国政治方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-comparative-politics-812a8fb06d/">政治学（比较政治方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-data-analytics-bc5c4c11bb/">政治学（数据分析方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-international-affairs-d822e4eb59/">政治学—国际事务（文学学士与国际事务硕士）</a><small>BA/MIA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-international-relations-4d2430d3bf/">政治学（国际关系方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-political-theory-14929c6ebd/">政治学（政治理论方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-public-law-d4234df5a1/">政治学（公法方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-public-policy-ebcc9e991b/">政治学（公共政策方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-political-science-race-ethnicity-and-politics-61b8e252c7/">政治学（种族、族裔与政治方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-probability-and-statistics-2182453267/">概率与统计</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-4b2a7012f6/">心理学（文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-eebb25b2c1/">心理学（理学学士，2026 秋前旧方案）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-clinical-psychology-430166df10/">心理学（临床心理学方向，文学学士）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-clinical-psychology-2b89eb928c/">心理学（临床心理学方向，理学学士）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-cognitive-psychology-4ffcaef8d8/">心理学（认知心理学方向，旧方案）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-developmental-psychology-798f51f045/">心理学（发展心理学方向，旧方案）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-human-health-b9ca044665/">心理学（人类健康方向，旧方案）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-sensation-and-perception-6f6c77f1d7/">心理学（感觉与知觉方向，旧方案）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-psychology-with-a-specialization-in-social-psychology-1af6309fb1/">心理学（社会心理学方向，旧方案）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-8fba4f90c4/">公共卫生</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-biostatistics-ef39137652/">公共卫生（生物统计方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-climate-and-environmental-sci-369589ffbb/">公共卫生（气候与环境科学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-community-health-sciences-f0139da987/">公共卫生（社区健康科学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-epidemiology-31bbe8166e/">公共卫生（流行病学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-health-policy-and-management-d9b1c25b23/">公共卫生（卫生政策与管理科学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-public-health-with-concentration-in-medicine-sciences-54e599fb88/">公共卫生（医学科学方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-real-estate-and-development-8fdc495da1/">房地产与开发</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-russian-east-european-eurasian-studies-ff65598795/">俄罗斯、东欧与欧亚研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-5cda92b8c4/">社会学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-american-studies-39d4dbeab8/">社会学（美国研究方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-culture-and-communication-0945ff0c35/">社会学（文化与传播方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-economy-and-society-5d5b12c2fc/">社会学（经济与社会方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-international-studies-2879218cb0/">社会学（国际研究方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-law-and-society-50c5caf24e/">社会学（法律与社会方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-science-and-medicine-a0cdeb3f47/">社会学（科学与医学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-sociology-social-inequality-56ed941b09/">社会学（社会不平等方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-spanish-literature-122cf198fe/">西班牙语文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-speculative-design-6657c8278d/">思辨设计</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-57c1eccf18/">结构工程</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-with-a-specialization-in-aerospace-structu-b9ea84ad17/">结构工程（航空航天结构方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-with-a-specialization-in-civil-structures-f11c481027/">结构工程（土木结构方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-with-a-specialization-in-geotechnical-engi-a26d410f2d/">结构工程（岩土工程方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-structural-engineering-with-a-specialization-in-structural-health-bbf1c27401/">结构工程（结构健康监测与无损评价方向）</a><small>BS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-studio-7a80079a46/">工作室艺术</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-study-of-religion-ca43c84f43/">宗教研究</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-theatre-d44a434e6e/">戏剧</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-urban-studies-and-planning-c934d72c0d/">城市研究与规划</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/usa/ucsd/ucsd-world-literature-and-culture-e50c116b44/">世界文学与文化</a><small>BA · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -213,11 +214,17 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>国际高中资格：</strong>须完成中学，取得在本国可升读大学且相当于美国高中毕业的资格；曾全日制在大学注册者应按转学申请。所有成绩按本国原评分填报，不自行换算。本轮未独立取得中国会考／高考所需材料细项。</p>
+<p class="catalog-fact"><strong>国际高中资格：</strong>须完成中学，取得在本国可升读大学且相当于美国高中毕业的资格；曾全日制在大学注册者应按转学申请。所有成绩按本国原评分填报，不自行换算。中国课程的成绩申报与毕业证明详见下列专门说明；本轮未取得高考最低录取线。</p>
 <p class="fact-sources"><a href="#source-u-USBENR-ef665961e11e5e">官方依据</a></p>
 
 <p class="catalog-fact"><strong>英语最低标准：</strong>国际新生可用TOEFL新制4.5（官网标2026年1月起）、旧制83、IELTS Academic7或DET115；也有认可的AP／IB英语成绩方式。本轮不把转学英语作文课程豁免套用于高中申请人。</p>
 <p class="fact-sources"><a href="#source-u-USBENR-ef665961e11e5e">官方依据</a></p>
+
+<p class="catalog-fact"><strong>中国普高成绩及证明：</strong>中国课程体系须按正式成绩单逐项填写初三至高三全部科目和成绩；如获录取，应准备高中毕业证及初三、高中各年正式成绩单。IB和IGCSE/GCSE/GCE课程体系按各自规则申报；本页未另列高考最低百分比，不能自行构造高考分数线。</p>
+<p class="fact-sources"><a href="#source-u-ucsd-current-china">官方依据</a></p>
+
+<p class="catalog-fact"><strong>UC国际新生最低学科资格：</strong>UC国际申请基本资格要求15门全年学术课程、最低GPA3.4：历史2年、授课语言写作与文学4年、大学预备数学3年、科学2年、第二语言2年、视觉/表演艺术1年及另1门学术课。它是UC体系资格底线，不能当作UC San Diego或某个专业的录取保证；按原学校评分如实申报，不自行换算成绩。</p>
+<p class="fact-sources"><a href="#source-u-ucsd-current-uc-international">官方依据</a></p>
 
 ### 申请安排
 
@@ -232,29 +239,156 @@ hide:
 <p class="catalog-fact"><strong>额外费用与资助缺口：</strong>2026/27表另列国际生首次签证管理费USD200及新生入学服务费225；保险每季度1,065，可按规定申请豁免。住宿学院活动费不同。本轮未核面向大陆本科新生的奖学金具体资格，未自动扣除资助。</p>
 <p class="fact-sources"><a href="#source-u-USBENR-e794dd83580be3">官方依据</a></p>
 
+<p class="catalog-fact"><strong>国际本科申请费：</strong>通常每申请一个UC校区付USD95；国际生若在美国院校就读可能适用USD80规则。此为申请费，独立于录取后的学费和生活预算。</p>
+<p class="fact-sources"><a href="#source-u-ucsd-current-uc-international">官方依据</a></p>
+
+### 毕业生情况
+
+<p class="catalog-fact"><strong>校级毕业时去向调查：</strong>UCSD职业中心FDS报告：2022–23届回答者在毕业当时全职就业14%、已进入继续教育项目13%；2023–24届相应为28%和27%。调查时点是毕业当时，不能改称毕业六个月后就业率；不是本条专业或中国学生的结果。</p>
+<p class="fact-sources"><a href="#source-u-ucsd-current-fds-current-2022-24">官方依据</a></p>
+
+<p class="catalog-fact"><strong>调查样本与代表性：</strong>报告第2页标2022–23响应率70%并列HC6268；2023–24仅列HC839，学校明确因调查发放方式改变、样本较小，结果不能推广到全体学生。报告没有本专业/中国学生的独立样本和分母，不用它推算个人就业概率或缺失比例。</p>
+<p class="fact-sources"><a href="#source-u-ucsd-current-fds-current-2022-24">官方依据</a></p>
+
 ### 学校资料来源
 
 <div class="catalog-source" id="source-u-USBENR-ef665961e11e5e"><div><a href="https://admissions.ucsd.edu/international/">ucsd 官方 international ↗</a><p>本条国际高中资格及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-USBENR-08681bf8521a30"><div><a href="https://admissions.ucsd.edu/faq/">ucsd 官方 faq ↗</a><p>本条2027 秋入学申请及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
 <div class="catalog-source" id="source-u-USBENR-e794dd83580be3"><div><a href="https://students.ucsd.edu/finances/fees/registration/2026-27/index.html">ucsd 官方 tuition ↗</a><p>本条2026/27 首次入学费率及年度/身份范围</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-ucsd-current-china"><div><a href="https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/freshman-requirements-country.html">UC 国际新生：中国课程体系申请说明 ↗</a><p>中国初三至高三如实申报与录取后正式学籍文件；英国/IB体系分别办理</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-ucsd-current-uc-international"><div><a href="https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/">UC 国际申请者新生基本要求 ↗</a><p>UC资格最低标准、A-G学科和国际申请费用；不等于UCSD竞争录取线</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-ucsd-current-fds-current-2022-24"><div><a href="https://career.ucsd.edu/_files/impact/UCSD-FDS-Info-Graphic-2022-2023-2023-2024-FINAL.pdf">UC San Diego 2022–24 First Destination Survey ↗</a><p>第1页毕业当时状态；第2页响应率/HC与2023–24不可推广的限制，非专业/中国学生统计</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
-**已完成所列官方目录范围的对账**，共 178 项；这不是全字段详情的完成状态。
+**官方目录仍在补齐**，共 179 项；这不是全字段详情的完成状态。
 
 <p><strong>统计范围：</strong>UC San Diego undergraduate majors; all undergraduate colleges, not extension; college-specific individual-major eligibility retained</p>
 
-<p><strong>对账方法：</strong>{&quot;pages&quot;: 2, &quot;student_list_program_lines&quot;: 180, &quot;pagination&quot;: &quot;Complete single-page A-Z student directory plus full 2026-27 degrees table; student page updated 2026-06-12 controls current major identity&quot;}</p>
+<p><strong>对账方法：</strong>{&quot;pages&quot;: 2, &quot;student_list_program_lines&quot;: 180, &quot;pagination&quot;: &quot;Complete single-page A-Z student directory plus full 2026-27 degrees table; student page updated 2026-06-12 controls current major identity&quot;} 逐项覆盖原178及新增Business Data Science，校正13条院系/官网误归属；90份2026/27课程目录另与当前系方规则交叉核对。</p>
 
 <p><strong>排除项：</strong>Extract all bachelor-bearing named lines, split BA/BS, retain named consecutive bachelor/master programs, named specializations and paused majors with explicit route flags. For International Studies missing awards in student list use explicit BA/BA-MIA catalog rows. Merge cross-listed same program/award.</p>
 
 **尚未解决的目录缺口：**
 
-- The 2026-27 Degrees Offered table and newer student list differ: student list adds Astronomy, Environmental Anthropology, Artificial Intelligence and other identities and changes Physics/Psychology details. The current student list controls; superseded-only catalog names are not automatically added as separate current degrees.
-- Standalone major count differs from credential/specialization rows; named specializations are explicitly flagged.
-- Paused German, Italian and Global South majors retained with dates; no future reopening inferred.
+- 179条包含内部衔接、自拟主修、六条旧心理方案及三项暂停申报，不能理解为全部高中可直入；状态和申请阶段单列。
+- 部分父专业内集中方向尚未独立规范成目录条目；ICAM音乐与视觉艺术路线分别说明但暂共用条目。
+- 经济学BS/MPP有当前独立身份和培养介绍，但尚无独立逐门课表；不能套BA/MPP专用门槛。
+- 2026/27本科费用是旧年参考；校级FDS和学科校友案例不等于具体项目或中国学生就业率。
 
 - [官方目录来源](https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html)
 - [官方目录来源](https://catalog.ucsd.edu/undergraduate/degrees-offered/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/MAE-ug.html)
+- [官方目录来源](https://undergrad.ucsd.edu/academics/selective-major-process/index.html)
+- [官方目录来源](https://undergrad.ucsd.edu/academics/selective-major-process/selective-major-faq.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/engineering/mae/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/ANTH-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/anthropology/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/VIS-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/arts-and-humanities/visual-arts/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/CSE-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/engineering/cse/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/ASTR-ug.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/CHEM-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/physical-sciences/chemistry-and-biochemistry/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/BENG-ug.html)
+- [官方目录来源](https://be.ucsd.edu/undergrad)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/engineering/bioengineering/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/BIOL-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/biological-sciences/biological-sciences/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/BDAAS.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/ECON-ug.html)
+- [官方目录来源](https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/index.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/rady-school-of-management/business-economics/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/PSYC-ug.html)
+- [官方目录来源](https://psychology.ucsd.edu/undergraduate-program/majors/majors-post_fall_2026/index.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/rady-school-of-management/business-psychology/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/NANO-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/engineering/chemical-and-nanoengineering/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/CLS.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/CHIN.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/CIN.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/CLAS-ug.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/COGS-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/cognitive-science/index.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/psychology/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/COMM-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/communication/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/ECE-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/engineering/ece/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/CGS-ug.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/THEA-ug.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/DSC-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/data-sciences/data-science/index.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/economics/index.html)
+- [官方目录来源](https://gps.ucsd.edu/academics/concurrent-degrees/ba-mpp.html)
+- [官方目录来源](https://students.ucsd.edu/finances/fees/registration/2026-27/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/EDS-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/education-sciences/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/ESYS.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/scripps-institution-of-oceanography/environmental-systems/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/ETHN-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/ethnic-studies/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/SIO-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/scripps-institution-of-oceanography/geosciences/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/GERM.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/GLBH-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/global-health/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/GSS.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/HIST-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/arts-and-humanities/history/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/HDS.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/human-developmental-sciences/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/HUM.html)
+- [官方目录来源](https://revelle.ucsd.edu/academics/honors-opportunities/individual-major.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/MUS-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/arts-and-humanities/music/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/INTL.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/global-policy-and-strategy/international-studies/index.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/rady-school-of-management/international-business/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/ITAL.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/JAPN.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/JWSP-ug.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/LATI-ug.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/LING-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/linguistics/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/LIT-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/arts-and-humanities/literature/index.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/scripps-institution-of-oceanography/marine-biology/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/MATH-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/physical-sciences/mathematics/index.html)
+- [官方目录来源](https://undergrad.ucsd.edu/academics/selective-major-process/screened-major-guidance.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/scripps-institution-of-oceanography/oceanic-atmospheric-sciences/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/PHIL-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/arts-and-humanities/philosophy/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/PHYS-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/physical-sciences/physics/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/POLI-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/political-science/index.html)
+- [官方目录来源](https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/bs_degree_2018.html)
+- [官方目录来源](https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/index.html)
+- [官方目录来源](https://psychology.ucsd.edu/undergraduate-program/majors/majors-post_fall_2026/clinical_bs_2026.html)
+- [官方目录来源](https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/cognitive_2018.html)
+- [官方目录来源](https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/developmental_2018.html)
+- [官方目录来源](https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/human_health_2018.html)
+- [官方目录来源](https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/sensation_perception_2018.html)
+- [官方目录来源](https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/social_2018.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/PH-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/public-health/public-health/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/USP.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/urban-studies-and-planning/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/RUSS.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/SOC-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/social-sciences/sociology/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/SE-ug.html)
+- [官方目录来源](https://majors.ucsd.edu/academic-schools/engineering/structural/index.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/RELI.html)
+- [官方目录来源](https://rady.ucsd.edu/programs/undergraduate/majors/business-data-science.html)
+- [官方目录来源](https://catalog.ucsd.edu/curric/MGT-ug.html)
+- [官方目录来源](https://admissions.ucsd.edu/international/)
+- [官方目录来源](https://admissions.ucsd.edu/faq/)
+- [官方目录来源](https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/freshman-requirements-country.html)
+- [官方目录来源](https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/)
+- [官方目录来源](https://career.ucsd.edu/_files/impact/UCSD-FDS-Info-Graphic-2022-2023-2023-2024-FINAL.pdf)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

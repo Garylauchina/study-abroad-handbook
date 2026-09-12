@@ -41,7 +41,7 @@ def load_inventories(root, universities, detailed):
             # The source record keeps nulls. Display labels make missing research visible.
             added.append({
                 **item, 'university_id': uid, 'name': item.get('name') or item['name_en'],
-                'degree': '本科', 'subject': item.get('subject') or classify(item['name_en'])[0],
+                'degree': item.get('study_level') or '本科', 'subject': item.get('subject') or classify(item['name_en'])[0],
                 'subjects': item.get('subjects') or classify(item['name_en']),
                 'intake': item.get('intake') or MISSING,
                 'duration': item.get('duration') or MISSING,

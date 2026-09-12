@@ -2,28 +2,1792 @@
   "university_id": "ut-austin",
   "sources": [
     {
+      "url": "https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/",
+      "sha256": "c34208863896705c3f9b6aac4e05ec72f50a9ff1a16b5a53fb0b2bafe097ed95",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-fees-table.html",
+      "locator": "Professional Tuition: Fall 2026–Spring 2027 / Nonresident Professional Students / PharmD row"
+    },
+    {
       "url": "https://admissions.utexas.edu/apply/international-students/",
-      "sha256": "2cb51dd8075fd915a1c1d3870b208c34a9c4c7402945549b5368c80bedc1b8c1",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/ut-austin/raw/international.html",
-      "locator": "Freshman / High School Transcripts"
+      "sha256": "e7c59e614eaeaa7938fdb12c00b75e9731cd8cef8bf829464587d9e29dcc7335",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-international.html",
+      "locator": "International Freshman / secondary-school qualifications; program-specific Gaokao threshold not obtained"
     },
     {
       "url": "https://admissions.utexas.edu/info-for/international-students/",
-      "sha256": "39039ea8eca25c9181fc4cd36c3b51b9ea99ddd9eee9ad541f09bfbf4c71fc24",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/ut-austin/raw/info.html",
+      "sha256": "6feb825b5ed237cf341329b9a9681e5850f8c74974bcb10f87db38ee231d46db",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-international-info.html",
       "locator": "TOEFL/IELTS/DET Information"
     },
     {
-      "url": "https://admissions.utexas.edu/cost-aid/cost-tuition-rates/",
-      "sha256": "e27efab18a3db61d8c658d9fbb84d918d55aba71f6a166c5215dfeaf3dda2d77",
-      "raw_file": "scratch/full-catalog/us-b-enrichment/ut-austin/raw/tuition.html",
-      "locator": "Cost & Tuition Rates"
+      "url": "https://admissions.utexas.edu/apply/application-materials/high-school-prerequisites/",
+      "sha256": "1c8803e20bdc145788a50f8f927deffacbf225ca1d345dd417d8c117b327e8e3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-highschool.html",
+      "locator": "High School Prerequisites / Calculus Readiness"
+    },
+    {
+      "url": "https://ischool.utexas.edu/node/9165",
+      "sha256": "9067fd325eab889cde3ec97ac9291352914bd800bfc6ee2a5e9a575f61bd8c94",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-ischool-outcomes.html",
+      "locator": "信息学院2025本科统计（合并口径）"
+    },
+    {
+      "url": "https://admissions.utexas.edu/apply/honors/",
+      "sha256": "fb4915ddb8f9a4d1813186a7c21ab3b62befcc2a72d7751f1b3235ea6fb92fe2",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-honors.html",
+      "locator": "荣誉方向另行批准"
+    },
+    {
+      "url": "https://global.utexas.edu/isss/advising-services/scholarships",
+      "sha256": "c614f2163e0d9ea93ec5db4830f919da27a6da2251d358f2f5c48fd48886cf46",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-international-scholarships.html",
+      "locator": "Scholarships for International Students / application windows / How to Apply"
+    },
+    {
+      "url": "https://onestop.utexas.edu/managing-costs/cost-tuition-rates/cost-of-attendance/",
+      "sha256": "62a8a5bebb1a8e9d96b6605526bee23aff567c283519d8469edf5cd0a2dd5385",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-fees-coa.html",
+      "locator": "2026–2027 / Non-Resident"
+    },
+    {
+      "url": "https://cockrell.utexas.edu/student-life/career-services/salaries-and-statistics/",
+      "sha256": "f369037fb62f682e37c0e7d380a65d8d689752cee431254dd6b85692686b16f7",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-engineering-outcomes.html",
+      "locator": "官方工程起薪参考"
+    },
+    {
+      "url": "https://onestop.utexas.edu/managing-costs/cost-tuition-rates/tuition-rates/",
+      "sha256": "45008e1cbf218a4ed0e02e68b87e48368836ab29a1e58001e101616ac5fd1847",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-fees-rates.html",
+      "locator": "Fee reference does not establish program scholarship entitlement"
+    },
+    {
+      "url": "https://www.mccombs.utexas.edu/recruiters-and-corporations/recruiters/recruiting-statistics/salary-statistics/",
+      "sha256": "09281513bc1dd1903c04dc2b022f3227ae5a742f0e76689ffe9293077325b6af",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-mccombs-outcomes.html",
+      "locator": "官方商科薪资表（页面标2024—2025）"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/accounting-bba/",
+      "sha256": "faddbd8e2dee7b01fa79ca1ed64ddfdd2e8cccd0d831b3e4c936dea8d0c71373",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--accounting-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
     },
     {
       "url": "https://catalog.utexas.edu/undergraduate/degree-programs/",
       "sha256": "5b79d59f93ff7c74d13919fcd557b2597a65418d02a393beca5a3ac33930d3bd",
-      "raw_file": "scratch/full-catalog/us-b/ut-austin/index.html",
-      "locator": "official undergraduate program listing"
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/degree-programs.html",
+      "locator": "Degree Programs / corresponding major and degree row"
+    },
+    {
+      "url": "https://admissions.utexas.edu/explore/colleges-degrees/",
+      "sha256": "c0b9be3464eec9913d1eac945a4acf3a619c862fc02d411a11b71a8c8d81f565",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-major-admissions.html",
+      "locator": "艺术学院秋季申请流程"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/accounting-bba-mpa/",
+      "sha256": "4c5dd91fcc638b05a5777de541989e3a7210bff08acfae706f16c4325ac2f266",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--accounting-bba-mpa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://finearts.utexas.edu/admissions/undergraduate/apply",
+      "sha256": "a04e6f183c4184fc1aeca6b663c36ce529786392717c5537c92c8f3e7b396528",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-finearts-admissions.html",
+      "locator": "课程页标题、课程结构及相应说明"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/acting-bfa/",
+      "sha256": "276d2cdd52120e02b4709880d0e7145fea25504d50114e3ee2ec32dce0e51d80",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--acting-bfa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/advertising-bsadv/",
+      "sha256": "8f04821268e357567784e8362910ce79243a2d0a2eb1078324daa523df20fe73",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--advertising-bsadv.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/aerospace-engineering-bsase/",
+      "sha256": "d11294f71629352f9ceb434c8c219cef64191ce73bac5da5dd67ab1a017ebd0a",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--aerospace-engineering-bsase.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/african-african-diaspora-studies-ba/",
+      "sha256": "09a311c71ff14fc8d2696d7652ff34542ad069a6f72419cf33137cdee19f5900",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--african-african-diaspora-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/american-studies-ba/",
+      "sha256": "6010261f82cd0d2d163d9c75e2c879a7a61cf8920f497a77e5c786d6b3ac4929",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--american-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/anthropology-ba/",
+      "sha256": "63eed2614ea4410c3d1ece65357a562a3f42097e2eb06de1f9085b25991eee7c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--anthropology-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/anthropology-ba-ma/",
+      "sha256": "2c960335e781d6cd4f4d5c0149eb2de5cc6c08c22bf0ef724edaac97e9d8c263",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--anthropology-ba-ma.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/applied-movement-science-bskinhealth/",
+      "sha256": "da7d87059faa43fcbddab755b2f8664a5ee5e0a77dab5033c4766dbaa52e9bef",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--applied-movement-science-bskinhealth.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/architectural-engineering-bsarche/",
+      "sha256": "3fb78df085f9e6437f329e43db7efc86b19c196bb836489b8ed5413dd43b6be3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--architectural-engineering-bsarche.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/architectural-studies-bsas/",
+      "sha256": "f82dd2577550f34e7cab7fe372e430cd355e849c8f1868d0a21df7f5ada94a2d",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--architectural-studies-bsas.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/architecture-barch/",
+      "sha256": "c5b00b66786205f2735e78652390de4015fdfcd986b544a7cfcee9067bd88a46",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--architecture-barch.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/architecture-barch-architectural-engineering-bsarche/",
+      "sha256": "eba7d3deacaf5ee6d5040ae5bb929ef6c5e7de536d3ecad513430929e9a065bb",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--architecture-barch-architectural-engineering-bsarche.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/architecture-barch-plan-ii-honors-ba/",
+      "sha256": "803aa7fe9286de75df2e4fcb01e73846a56449dd2b246dc5b95b6c3113e254ca",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--architecture-barch-plan-ii-honors-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/art-education-bfa/",
+      "sha256": "86a84a362757eca8f4c2580f6e9b952aaf473ed369e0189494b81017ef348399",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--art-education-bfa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/art-history-baah/",
+      "sha256": "8bbc8c835a4a333528a1f4f867b013645fa6fbfc97ba97df7f1fce9cb86cb62c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--art-history-baah.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/arts-entertainment-technologies-bsaet/",
+      "sha256": "86ca41ef8171cc9c356d2eac22815e541934ad7a23523a1e199a7ecf050010e2",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--arts-entertainment-technologies-bsaet.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-cultures-languages-hindi-urdu-specialization-ba/",
+      "sha256": "efba368876fb0195d244d9fe5e177e82872b84563d3b7e07f4402a70fac829fa",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-cultures-languages-hindi-urdu-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-cultures-languages-japanese-specialization-ba/",
+      "sha256": "a416dcf14079f71ef976f685d783d9bd7b27108e7452a9c8298b91c38b2b71f3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-cultures-languages-japanese-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-cultures-languages-bengali-specialization-ba/",
+      "sha256": "ab7e8f976a9dafa02434e1e007fa4bd21efced2bd4ba7db3494bf2a92f8e4f62",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-cultures-languages-bengali-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-cultures-languages-korean-specialization-ba/",
+      "sha256": "bdbe9a0179f518c319de9b22d9092ca225a96c7c24bdf07d33f6f26a1d783119",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-cultures-languages-korean-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-cultures-languages-malayalam-specialization-ba/",
+      "sha256": "56a945bff12c0e9894b882f05c8e3a67b2e7a7959ade24f0bc20284edf1b2233",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-cultures-languages-malayalam-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-cultures-languages-chinese-specialization-ba/",
+      "sha256": "56c1c1f25ab8ac8acc32670023026e0bad768b0d72f2e381edadd43e67c52926",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-cultures-languages-chinese-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-cultures-languages-sanskrit-specialization-ba/",
+      "sha256": "75a1834f84fde3ba72e388c4af954d248882dd42133458ba0fe282459339b31d",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-cultures-languages-sanskrit-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-cultures-languages-tamil-specialization-ba/",
+      "sha256": "b0e3ebcdcd74fa9d3d30943d0fb5498a6947f16b7e8435745b0be68e610bcae4",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-cultures-languages-tamil-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-studies-east-asia-specialization-general-track-ba/",
+      "sha256": "0be78b18100de91d73d82254196e975e8cd4044c58592dadf84457b79c1d3c0e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-studies-east-asia-specialization-general-track-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-studies-east-asia-specialization-taiwan-track-ba/",
+      "sha256": "b301fe77e060e769858fead37381457732a0a004b264135be76cabd33a186b46",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-studies-east-asia-specialization-taiwan-track-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/asian-studies-south-asia-specialization-ba/",
+      "sha256": "d3d4c9efee77b7b510b52b06ab11c5f115ab82042f762f3f07f3b19a04da18a5",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--asian-studies-south-asia-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/astronomy-ba/",
+      "sha256": "ecaacf61b720ae4bc3aec1e0ed2bdf04416e9c94a589b27abee4510420897b6f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--astronomy-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/astronomy-bsa/",
+      "sha256": "9578973ebc1d00a63c759cb77d551184df25928a9e8033efd0f7c209154a9cfc",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--astronomy-bsa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/astronomy-astronomy-bsast/",
+      "sha256": "8e1428855e241ae550ffc6ad2aedca759fd5c5618d24abcacdd75d740e5a3fc0",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--astronomy-astronomy-bsast.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/astronomy-astronomy-honors-bsast/",
+      "sha256": "af25f0b016a3bb37684ea1f722bf619b1b4ff4ff7ec6aa64124ac59df0226a3d",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--astronomy-astronomy-honors-bsast.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://education.utexas.edu/news/2026/01/09/athletic-training-students/",
+      "sha256": "fb55735fd44f9b1003a8d78b4c6322775a910010d0b5a5b7e8ff503399c04568",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-athletic-news.html",
+      "locator": "本科与职业认证区别"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/athletic-training-bsathtrng/",
+      "sha256": "6edff38373ed93ead534c6bcf248894572a823d9788c3e5dbd4da7e9a4068aa3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--athletic-training-bsathtrng.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/behavioral-social-data-science-humanities-bsbsds/",
+      "sha256": "6455a31312b66641ae9775f1c9079c09623209a9b2bacdaabb263e84520d9f22",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--behavioral-social-data-science-humanities-bsbsds.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/behavioral-social-data-science-bsbsds/",
+      "sha256": "73f64743414a25fa53e9e735bd55f5c43183f517ef3d42dd8fbb4ccabe8bce3e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--behavioral-social-data-science-bsbsds.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biochemistry-biochemistry-honors-option-bsbioch/",
+      "sha256": "8c2f31a483661f0cbe518d9fc7eb1d91f9e667349e8d97774a2db71aee81aebc",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biochemistry-biochemistry-honors-option-bsbioch.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biochemistry-biochemistry-option-bsbioch/",
+      "sha256": "acff00c318dd4a5a3805f013bb58a5171e9dc1304761a657896caf188cf90e87",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biochemistry-biochemistry-option-bsbioch.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biochemistry-integrated-program-bsbioch-ma/",
+      "sha256": "de8320b269d856e2c06964cec5e61297bbfbb00e5e616e0dc1d8a768e5a1390b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biochemistry-integrated-program-bsbioch-ma.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/environmental-science-biological-sciences-option-bsenvirsci/",
+      "sha256": "2180e271e39ca3e53dbaef14b51eb06635b5d46755ad9c7844f6a6802d7e9859",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--environmental-science-biological-sciences-option-bsenvirsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/environmental-science-biological-sciences-honors-option-bsenvirsci/",
+      "sha256": "f2fbf9a8dc69224774ce65bc12a1cc00393037b9a18c1b718cda0f935a646cbb",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--environmental-science-biological-sciences-honors-option-bsenvirsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-microbiology-and-infectious-disease-bsa-/",
+      "sha256": "a1b73f0464718fdfdf77e844d5c67f03e4e02dfb598ccf64328a89172b103bed",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-microbiology-and-infectious-disease-bsa-.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-genetics-genomics-and-computational-biology-bsa-/",
+      "sha256": "8b8abffb61b05159f541593e3e27006af5ee42043b4054c42be9dae0d37f78ac",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-genetics-genomics-and-computational-biology-bsa-.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-molecular-cell-and-developmental-biology-bsa-/",
+      "sha256": "59af5e290f2aab70e50b56e162cb39d321b0b9605c5e84eb104ec0da0c6bea50",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-molecular-cell-and-developmental-biology-bsa-.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-biochemistry-bsa-/",
+      "sha256": "9aaf44229723b71e561dd0e4d571bc87be99d8513307182419cd8ebd28bf3ff0",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-biochemistry-bsa-.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-organismal-biology-and-physiology-bsa-/",
+      "sha256": "c7750410bdef4defcf2e759b9c08c3e645721ef6d378281b4e0258705f8a0f54",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-organismal-biology-and-physiology-bsa-.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-bsa-/",
+      "sha256": "04cd95296d3aa3dc0ce6745720ebe2eb29507a3d286b82277d1d0c450082aeb4",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-bsa-.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-ecology-evolution-behavior-bsbio/",
+      "sha256": "425078ea5e411b0cc4a5fe2f64c68b3084085ba7d3023a9834f7eef45e5be3b3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-ecology-evolution-behavior-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-plant-biology-bsbio/",
+      "sha256": "e126cba0bb355f165a94e083cde98cdc260e5000f8279b6b96e0c58c2b81b674",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-plant-biology-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-biology-honors-bsbio/",
+      "sha256": "ff0d370b3b5d7691ec635600c9bffd163f9ea6a4bd194ec76c46a7bf9e66051d",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-biology-honors-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-human-biology-bsbio/",
+      "sha256": "cf52963230a9ba8b0ec1f7920e0fc0cc8bd94e1e1460ffa5062d7e08708fdf56",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-human-biology-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-computational-biology-bsbio/",
+      "sha256": "116a36af9af96d3c86dd6a819d5d3bbbcb46f20d5c33b7f6ed2c4a9e7430c6b3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-computational-biology-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-genetics-genomics-bsbio/",
+      "sha256": "f0d5a0313d5effd3bfa2d6749402cb1f7b3c60dcb822be8da08ed0415db7131e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-genetics-genomics-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-microbiology-infectious-diseases-bsbio/",
+      "sha256": "72b1041ab62414ef3d37a5d406fd10849f17597846613dce6500ec88cecee5ba",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-microbiology-infectious-diseases-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-marine-science-bsbio/",
+      "sha256": "b586694e130e959cbed0996071c6bec91997d8458ec4907ede9bf964ac05f971",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-marine-science-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-cell-molecular-biology-bsbio/",
+      "sha256": "6b08d47b5da31f6f32c6b6070440143cdcfb262e71eff2d805970d698c4751f8",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-cell-molecular-biology-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biology-teaching-bsbio/",
+      "sha256": "ee2ec6aea275f56916814797df9cebe1206c9e235012f52c4f49825124c86163",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biology-teaching-bsbio.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biomedical-engineering-molecular-cellular-tissue-biomechanics-bsbiomede/",
+      "sha256": "acbfb7e6d006d85337f339466d2375affcc23bff6b3df71091f23b697c83d7a6",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biomedical-engineering-molecular-cellular-tissue-biomechanics-bsbiomede.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biomedical-engineering-cellular-biomolecular-engineering-bsbiomede/",
+      "sha256": "1fb751d90f9575951183f6fd1f828cd464ca5e16f4fcff816bda969053d5d2ec",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biomedical-engineering-cellular-biomolecular-engineering-bsbiomede.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biomedical-engineering-biomedical-imaging-instrumentation-bsbiomede/",
+      "sha256": "62abb137f7f6db50bd060a775e0973b63736ecec81def67fd893b3bdc02739ee",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biomedical-engineering-biomedical-imaging-instrumentation-bsbiomede.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biomedical-engineering-computational-biomedical-engineering-bsbiomede/",
+      "sha256": "f25ed049cb52a96932b72768dc8fea7d7bb28962995f81e7ea62de099337f112",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biomedical-engineering-computational-biomedical-engineering-bsbiomede.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/biomedical-engineering-bsbiomede-mse/",
+      "sha256": "3427a0d7825ce290f0f4cc20fc3e8c97203ec2c60806c1439c36767cc137c25f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--biomedical-engineering-bsbiomede-mse.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/business-administration-honors-bba/",
+      "sha256": "2b40ebdefdeb7144823217aa7e813895b47bff87609469553ed913739cdf342b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--business-administration-honors-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/business-analytics-bba/",
+      "sha256": "81406d73507256c0cf9ba212b0ed84f3a36089d8d2908c2e36fbc9de659dd17b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--business-analytics-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/business-administration-honors-bba-computer-science-bscompsci/",
+      "sha256": "b7bf35b3278aab991a8c6deb13732225c9eacca5c61535cd48683ff3506454bb",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--business-administration-honors-bba-computer-science-bscompsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/chemical-engineering-bsche/",
+      "sha256": "7993dd73c39110468846f7e16a6574029e4cab4d8899ecb0ccfc31d3befee9a1",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--chemical-engineering-bsche.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/chemical-engineering-honors-bsche/",
+      "sha256": "a895fa49965058fb0d312a6bbeca7b1ed6eac24cc4d628562af0372039739877",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--chemical-engineering-honors-bsche.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/chemistry-bsa/",
+      "sha256": "b3aac35bb23ce6857dd8e4cae8a4c02460a870b950b6c44d6061a0d3d7fbffce",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--chemistry-bsa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/chemistry-chemical-physics-instrumentation-bsch/",
+      "sha256": "c6e38bbb2312ceda0d08301090a27590257bc2f62d674a80df51b73a502ccf02",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--chemistry-chemical-physics-instrumentation-bsch.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/chemistry-materials-chemistry-bsch/",
+      "sha256": "d7d340d3419b936df92109e94e8cbad5e9b174be33cb821cbd9c3ae1197a3cd3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--chemistry-materials-chemistry-bsch.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/chemistry-molecular-theory-simulation-bsch/",
+      "sha256": "b44ce6900b818d5e571425d71b835b8dd359b054870abd623e0b68a618eecf8a",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--chemistry-molecular-theory-simulation-bsch.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/chemistry-teaching-bsch/",
+      "sha256": "3bd047912cbb0c0dbec8b117bdcacca64ef2e5e535b20528cbf29e8103a7a926",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--chemistry-teaching-bsch.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/chemistry-synthesis-chemical-biology-bsch/",
+      "sha256": "d53ae71204bda47f189a902b7d9595f44a8f307136c9f2012deaf99790db8ca1",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--chemistry-synthesis-chemical-biology-bsch.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/chemistry-chemistry-honors-bsch/",
+      "sha256": "545fc46b0553b3ed9239c923ddd000242bad3d524349bebc556d2c99a6dd8e71",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--chemistry-chemistry-honors-bsch.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/civic-honors-ba/",
+      "sha256": "e12e034bccbed7e1f4ab9116d7f21569e0c55d4fb3ed97cbe168c3f854ee0a4e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--civic-honors-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/civil-engineering-bsce/",
+      "sha256": "897d0a3deec9f28114579ae723f1c202d6b7cbb5c8c4361f6006bf4b85ad0af2",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--civil-engineering-bsce.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/classical-languages-greek-specialization-ba/",
+      "sha256": "19249002ade0780c4809149b554bc0f2702df91833819bbb5028eecf2332d52a",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--classical-languages-greek-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/classical-languages-classics-specialization-ba/",
+      "sha256": "3a49e3ad90f3becf002b21681cecbbbb2f6ab7fd2c5c2f939d4d58a4f64ccd00",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--classical-languages-classics-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/classical-languages-latin-specialization-ba/",
+      "sha256": "3daa4d39ea01538b633bd206b1abc974f970a0417a00d2d01fd64241078805c8",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--classical-languages-latin-specialization-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/classical-studies-classical-archaeology-ba/",
+      "sha256": "6960fc35093976371de52d45ca20340d3a418a286ecb184e9a451775f13b2986",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--classical-studies-classical-archaeology-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/classical-studies-ancient-history-ba/",
+      "sha256": "aeadfaf8642305d7cb95bf550ed5cf25fcf9e01bf4f8bc0464b86fa2a59186a9",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--classical-studies-ancient-history-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/geosciences-climate-system-science-bsgs/",
+      "sha256": "0d588896e4c8a986d0ad8f5a5a0714fa3207bd6136a6860abe113ad90d861ff3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--geosciences-climate-system-science-bsgs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/communication-leadership-bscommlead/",
+      "sha256": "97e5b5b9df0d59e6493382474718ac21bbdadd8183ce91b8dec3f85ec26afc3f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--communication-leadership-bscommlead.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/communication-studies-strategic-risk-communication-bscommstds/",
+      "sha256": "eb4651a8fe6bd3c4fd6562db39a8c309b1e1debba79debfa8794226d79d973d6",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--communication-studies-strategic-risk-communication-bscommstds.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/communication-studies-global-intercultural-communication-bscommstds/",
+      "sha256": "8645a9225e7d21671db3190ace2dda945f19a44587c11b5439a0530524d53530",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--communication-studies-global-intercultural-communication-bscommstds.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/communication-studies-political-communication-bscommstds/",
+      "sha256": "d5c202e5a2c50d8c3741fc60fb0cb95fad408e61a0cfdb17745fa3eaebc26a0a",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--communication-studies-political-communication-bscommstds.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/communication-studies-human-relations-communication-bscommstds/",
+      "sha256": "984a9afb8c07bf11f2ac921bd4e3bbaaafeecdf3bbb886f66a8c7c30e2ee4ba3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--communication-studies-human-relations-communication-bscommstds.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/communication-studies-corporate-communication-bscommstds/",
+      "sha256": "252b136066d5ab31efee0eb5cf2c6f0cf496726130a47f2af34d0198ed10436d",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--communication-studies-corporate-communication-bscommstds.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/composition-bmusic/",
+      "sha256": "7b11ba5c1838017d40391765b87c4fdda7fc404a23a22371a9e63941b5a3e1b5",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--composition-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/computational-engineering-bscompe/",
+      "sha256": "71196810bcd8490758b31099018653a70559907442c1b779105ddb13e2d545a1",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--computational-engineering-bscompe.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/computational-engineering-bscomp-mscsem/",
+      "sha256": "c7fe97c1f2ba8dbc2fb720b9f23d083ad79434137c58025a6b5799621c6f5ebf",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--computational-engineering-bscomp-mscsem.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/computer-science-bsa/",
+      "sha256": "6eb71a7c0bc52c98268ecbb77550eb638fe02b2b0c54b7ea7ce95dc8e92cb587",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--computer-science-bsa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/computer-science-turing-scholars-honors-option-bscompsci/",
+      "sha256": "cbe66c772677a1cad8e8d2a608eb6463bbf1934660140c86749a61a3d99e7ab6",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--computer-science-turing-scholars-honors-option-bscompsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/computer-science-computer-science-option-bscompsci/",
+      "sha256": "9f053c60c96d98d177181909135dfd5104e1b17c83552858b41a01a513ca87d1",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--computer-science-computer-science-option-bscompsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/computer-science-computer-science-honors-option-bscompsci/",
+      "sha256": "6d709ac0b937ba3aecabc008da4d12b3d33593cf574f58059aea08609342252e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--computer-science-computer-science-honors-option-bscompsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/computer-science-integrated-program-bscompsci-mscompsci/",
+      "sha256": "a66fc7d17482a495bc751c8f5db263d4402b980e9b0f0e51cc28e144be633bc1",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--computer-science-integrated-program-bscompsci-mscompsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/graduate/programs/computer-sciencecomputational-science-engineering-math-bscompsci-mscsem/",
+      "sha256": "0165e379b84a2d08b9519de260e42ddb1cc8cc7d06cab8e03112228bdb482600",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-grad-computer-sciencecomputational-science-engineering-math-bscompsci-mscsem.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://ischool.utexas.edu/programs/dual-degree/integrated-computer-science-msis",
+      "sha256": "3672ab2b5b00ac0557602355acac32286bd9a9bb98a17cb200b80adfcb64cc02",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-cs-info-integrated.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/dance-dance-education-bfa/",
+      "sha256": "93f637f0925b2fd566584da2e94b886f0a6abf513ecd8c3a4a7fe98663e59cd9",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--dance-dance-education-bfa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/dance-dance-bfa/",
+      "sha256": "2740fa1fb8eed05b6f579c8cf03ca6dcf3eb1209218ffd53b606d11b23cd4f37",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--dance-dance-bfa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/design-ba/",
+      "sha256": "18a5a6150eabad0914ee1a2f531c4a004390ae72dc38e425bb1b31c589537b6a",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--design-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://finearts.utexas.edu/students/degree-guidelines-4-year-plans",
+      "sha256": "eb75026798b3f8990028cce65e3f25da087f31e4f507d57d77b7601f536b7300",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-finearts-degrees.html",
+      "locator": "2026—2028名称更新"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/design-bfa/",
+      "sha256": "7f861edae2c1b02df921eb206d0052e7210a3471cf52c7e15af4a6e40d81795e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--design-bfa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/economics-ba/",
+      "sha256": "a3af5250385bf20087a7998946c396382c408aba4e95373a84c5c0d7c79e44b3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--economics-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/economics-bseco/",
+      "sha256": "cb9ef8ec4fbc057fdbfa667fe9b4572927f6dbb7470becf2390575268714f351",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--economics-bseco.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/education-early-childhood-through-grade-six-esl-bilingual-generalist-bsed/",
+      "sha256": "f28a157930d48611cfbd01c045fdbaa9082f06adffd0d84f405f5313e17d75c5",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--education-early-childhood-through-grade-six-esl-bilingual-generalist-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/education-all-level-generic-special-education-bsed/",
+      "sha256": "b243a962f266711625d5ad5b08b97ed840bf14b9123cdb4a631a191ebafedb2b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--education-all-level-generic-special-education-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/education-early-childhood-through-grade-six-esl-generalist-bsed/",
+      "sha256": "d352948fa43a7b4322fd0cf9dd023997c464a72aebee63ec1ea2c8bc0e304ff7",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--education-early-childhood-through-grade-six-esl-generalist-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-computer-architecture-embedded-systems-bsece/",
+      "sha256": "4d1016cf92a98b349cb7b3ad8aa884317eb465e88cda5ee08e0e97642c94d94d",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-computer-architecture-embedded-systems-bsece.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-nanoelectronics-nanotechnology-bsece/",
+      "sha256": "8e264aaa321f1b1c7c02ffd7d6480e07804ea59f9f06568131f61fe3777bc293",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-nanoelectronics-nanotechnology-bsece.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-electronics-integrated-circuits-bsece/",
+      "sha256": "283e686032b81873d7dfdccc99c2c15c0e05a73bfb5b45a01e65ddfcbc3c8a01",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-electronics-integrated-circuits-bsece.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-energy-systems-renewable-energy-bsece/",
+      "sha256": "86c22adcb9ddae15ae5a69f83bb02d9cd0165e13d3d70dd58d664b52e020d1c3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-energy-systems-renewable-energy-bsece.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-data-science-information-processing-bsece/",
+      "sha256": "3d6022db90379fef052a8014ab369aa4c639026cf6a0b1d49ec3a83901f20c65",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-data-science-information-processing-bsece.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-fields-waves-electromagnetic-systems-bsece/",
+      "sha256": "760c5e9269ef4f3ad502f75ad57ad9a5b76333d96bf657e954992803a84c0d0f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-fields-waves-electromagnetic-systems-bsece.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-software-engineering-design-bsece/",
+      "sha256": "2ce6a780c65b1faaba93f6d41a9562ecdf65e5203b932a06d68a52f0a380b2e1",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-software-engineering-design-bsece.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-communications-signal-processing-networks-systems-bsece/",
+      "sha256": "bdec853e15e34e3282fb20d1d5539450f4e98d6c5deef2361b120f8adb0520ce",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-communications-signal-processing-networks-systems-bsece.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-honors-bsece/",
+      "sha256": "f13a0fcff11a9147e4c8d2761023db6b6f767477d1688e3d42417104c654c9c4",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-honors-bsece.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-bsece-mse/",
+      "sha256": "32e6d7da5a3920a97b7917f8f3d38256a4587750980407839e4716295927b60a",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-bsece-mse.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/electrical-computer-engineering-business-honors-bsece-bba/",
+      "sha256": "8e041f608bf29c62f4093e9250816d9abdab6206030e54e3362df5279d9d326e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--electrical-computer-engineering-business-honors-bsece-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/english-ba/",
+      "sha256": "d17079dfdc2c61f05d2644af0b5fab5e5b4483409138945ffb1cc4b054fd10aa",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--english-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/environmental-engineering-bsenve/",
+      "sha256": "28d988af1f06de3584656e2c5eae2c1a15912c8517d60a8004ed1d1ff6aeb69b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--environmental-engineering-bsenve.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/ethnic-studies-asian-american-studies-ba/",
+      "sha256": "f5d2724cc1d2d16e3106fe77165ddf1bfc8e4e839d0b75125c2b9daf75ed11de",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--ethnic-studies-asian-american-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/european-studies-post-1700-europe-track-ba/",
+      "sha256": "1152a8d518bf83d70481f1dde996e943be771d14faa472cc4a3f483d83042aad",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--european-studies-post-1700-europe-track-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/european-studies-pre-1700-europe-track-ba/",
+      "sha256": "d60664e746acfe53879cce916c81b567603688933d63df54a30db382a3d2fe05",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--european-studies-pre-1700-europe-track-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/european-studies-european-thought-track-ba/",
+      "sha256": "122868cd72bc5c804b72eeeb37e3a7ee3b7c2f8289960ee848ba5e36e7e337f9",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--european-studies-european-thought-track-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/exercise-science-bskinhealth/",
+      "sha256": "18cfbfe19c76ec767c36330686cce942188135549af311ca03636edcdd04d94b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--exercise-science-bskinhealth.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/finance-energy-finance-law-science-bba/",
+      "sha256": "ec46effaae7fd51cfc39d30c0d9d9aae7f68d68859068e6f1fd813f093b4543e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--finance-energy-finance-law-science-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/french-studies-ba/",
+      "sha256": "684160c0d18a8391fc182c035f8c3ef40ada72087771045e49212f41b3b97d74",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--french-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/geosciences-general-geology-bsgs/",
+      "sha256": "681c1335656b145df508d3c7e3740117e1a06adb8ad63ab895b0417b09137649",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--geosciences-general-geology-bsgs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/environmental-science-geographical-sciences-bsenvirsci/",
+      "sha256": "35a1a6df53df55ee6ebd253a37431675a8cb12c6f99cdfb278d20df968403d06",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--environmental-science-geographical-sciences-bsenvirsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/geography-ba/",
+      "sha256": "196ecaa72d5f0d26d3225b322e5603a8b9881143e4cd33ae82aff255d7d78886",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--geography-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/geosciences-geophysics-bsgs/",
+      "sha256": "4f9221cf922270acaaf926f737994659b8bf8d33b4bcc4249ae8624b8f4c41a6",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--geosciences-geophysics-bsgs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/geosciences-bags/",
+      "sha256": "ebd92ea1e1eb0905f53eda9818cffabcdcf57bbac362f73c0005da74ab11274c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--geosciences-bags.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/environmental-sciences-geosciences-bsenvirsci/",
+      "sha256": "79a66873a7eb4df5cba3de3dcc60d27dba04ce731271842628a6679683e0c488",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--environmental-sciences-geosciences-bsenvirsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/geosciences-teaching-bsgs/",
+      "sha256": "4af84c1febc176fb2f8e7ff0306b7ab13da64744e921e274ab13956f16b5bdcd",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--geosciences-teaching-bsgs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/geosystems-engineering-bsge/",
+      "sha256": "c5cd6be90ee2d8dce52a1fef51625716b4c699c6b664710bcd4fee114ef3037c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--geosystems-engineering-bsge.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/german-ba/",
+      "sha256": "42f1d136ba09501df9af7434d69b8841635c1bc519a20e8cf6b38dea2f1909b7",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--german-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/government-ba/",
+      "sha256": "c88a240c4744f62216a842fe0ce93b6abd4c49c69ed8c26b520a72f003231074",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--government-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/great-books-great-books-honor-ba/",
+      "sha256": "ac51b26d0f7ed81260968c8a2b057881d5abc990289156cd803bbbb3774c78c3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--great-books-great-books-honor-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/great-books-ba/",
+      "sha256": "dfb0ec7ef53cc3631b2148d633e01e1776050996a6d04c62c1e99e3db0aeb530",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--great-books-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/health-society-ba/",
+      "sha256": "71b4eda8fb13289c811ba942d9cd90767ae271e2d6328bb5728b02c2d2968596",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--health-society-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/health-promotion-behavioral-science-bskinhealth/",
+      "sha256": "407edd58b60f5bb7e44a9799cdac7c38041c9432c34665c8c003bab27fa66667",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--health-promotion-behavioral-science-bskinhealth.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/history-ba/",
+      "sha256": "5b6aa3cfb85da210d0ad3b2e549cb8db6c4b7c5bcb98a46c8d97db4f7760f869",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--history-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/history-and-computer-science-bshiscs/",
+      "sha256": "71417b7e84147c30b2c0b6b26e8c578f5a2ab05a3c15d5a69b177a30800ee89f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--history-and-computer-science-bshiscs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/human-development-family-sciences-bsa/",
+      "sha256": "48873852f53cb5625c923b5509cd68054b9b92c398e8492f5831c99a49ed7770",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--human-development-family-sciences-bsa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/human-development-family-sciences-human-development-family-sciences-honors-option-bshdfs/",
+      "sha256": "dc44e9cdc1e975c3b2a3bd2c9192b1a970392af0b4f6d8d8bb28d6c37a7cf3ea",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--human-development-family-sciences-human-development-family-sciences-honors-option-bshdfs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/human-development-family-sciences-human-development-family-sciences-option-bshdfs/",
+      "sha256": "3ab9758f6dfa5d7eec1f5818aa65ffc92fd87d5df9310c15955300f97fb3ecbd",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--human-development-family-sciences-human-development-family-sciences-option-bshdfs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/human-development-family-sciences-honors-advanced-human-development-family-sciences-option-bshdfs/",
+      "sha256": "44bbbf6f3cd7145b4713320c580325c394981fd2f44ab6f1cf1648d8d8c65bd7",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--human-development-family-sciences-honors-advanced-human-development-family-sciences-option-bshdfs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/human-dimensions-organizations-ba/",
+      "sha256": "9585b6c07904d3c359cc0aa1aacf38f2cb49fd9ef42063853fea002efb987fa0",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--human-dimensions-organizations-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/human-ecology-bsa/",
+      "sha256": "bbc0ab631ac0cf81f94854f192f47ed4d1b3bb1a61e1a86bc1535b584ccd5fd3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--human-ecology-bsa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/humanities-ba/",
+      "sha256": "da82dfb256582bba59b55d0a62c2c9e347ed35ff42ba3cdc1e29843a3adbb74c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--humanities-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/geosciences-hydrology-water-resources-bsgs/",
+      "sha256": "9a644481387a96835876a3217e476c1a4bd2346fb5d371a38191bda952d22276",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--geosciences-hydrology-water-resources-bsgs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-cultural-heritage-ba/",
+      "sha256": "ef912eadfa44c45c86c9cf07ebaa3247ca7ea3b756f697976fbed72c44216423",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-cultural-heritage-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-health-informatics-ba/",
+      "sha256": "05545be3e3558704a2a563a2dea13bcea257930407d07767c85f893b6f13a63b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-health-informatics-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-user-experience-design-ba/",
+      "sha256": "e5b0b767811a7c5be30d2a4ffc1ed8e3aa80c8f10b245316903cf625b311dbb9",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-user-experience-design-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-social-informatics-ba/",
+      "sha256": "0de4e968e1f35379741abd9a8f9e90694d1a34f342b455d088a807662346f51f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-social-informatics-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-social-justice-informatics-ba/",
+      "sha256": "ba4477f858aa4c7929166097fb5816d3a7323cc87496af2d10d5f95e9d6edf67",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-social-justice-informatics-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-human-centered-data-science-ba/",
+      "sha256": "af97b0ea19a93e2ade4aa13b54f6c6376ce71f8b266d6c444588b341917cd091",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-human-centered-data-science-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://news.utexas.edu/2026/02/19/ut-launches-new-school-of-computing-uniting-computer-and-data-science-statistics-information-disciplines/",
+      "sha256": "54e6bc87e7d863cd393bf04ed288fe7bc604c54663fe5ec77f0414b95e91e52a",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/root-raw/computing-2026.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-health-informatics-bsi/",
+      "sha256": "3ab0c338552ceb2983159837ebcccf525aae19ee8223bc055993f643c554880e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-health-informatics-bsi.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-social-justice-informatics-bsi/",
+      "sha256": "085267072516291475b1268ef94fcf3757811b784b680b325a7cb519043b533c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-social-justice-informatics-bsi.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-social-informatics-bsi/",
+      "sha256": "7fcf84ecf5dad9c4fb299c3b05ef366dd81d4ba0b5c3c396dfebbfac86a4246e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-social-informatics-bsi.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-user-experience-design-bsi/",
+      "sha256": "8478bc87cbc735e17dd07b0a46e15c5a90ce3f38b5394bfd6add70f44982efde",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-user-experience-design-bsi.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-human-centered-data-science-bsi/",
+      "sha256": "39e13603a46c156d3f5b4d9d785d14139680de0131d03617cbdd258a27ba7fb2",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-human-centered-data-science-bsi.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/informatics-cultural-heritage-informatics-bsi/",
+      "sha256": "795a9ab58f314b5efc591041d0573cf97dcdc0e570cd7d702f222edd22d9f917",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--informatics-cultural-heritage-informatics-bsi.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://ischool.utexas.edu/programs/dual-degree/integrated-informatics-msis",
+      "sha256": "eadb1148c1c40138280f0cf8820c5415cf5075c6effaf4365c4ce1e0d28e98e4",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-info-integrated.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/interior-design-bsid/",
+      "sha256": "f41881441b6bbf100460b164d5d2c90df5d02c4f2ae3a7d11ee08c1c0e539cf3",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--interior-design-bsid.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/international-business-global-business-skills-bba/",
+      "sha256": "531fe5e147dc460ec2d07f3afc8f3bcf23676f6f6f58b3e6ad2992df6c813914",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--international-business-global-business-skills-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/international-relations-global-studies-international-political-economy-ba/",
+      "sha256": "6f229df0c7df01ab6bd2a96e5139a314e9dde4b32b4bc42e19ea8c5ace4f99d5",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--international-relations-global-studies-international-political-economy-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/international-relations-global-studies-international-security-ba/",
+      "sha256": "fdf34b20f7c448d9abfcb4ccf6c5c92e696c85b4f064d17e8b4e4ca5a305c7eb",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--international-relations-global-studies-international-security-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/international-relations-global-studies-science-technology-environment-ba/",
+      "sha256": "7aed1a960893c807113ae3890049ef881812f8ba25b78e0001c3a5ef99de2213",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--international-relations-global-studies-science-technology-environment-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/international-relations-global-studies-culture-media-arts-ba/",
+      "sha256": "efac5b297542657e9aa0019735abcfc4fb51109499c898710d84277eb79b4bba",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--international-relations-global-studies-culture-media-arts-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/italian-studies-ba/",
+      "sha256": "9e2d7b0259e019bdf1caa9fea4abb1652f5fddf4e43dad348b7b584612dd6319",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--italian-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/jazz-performance-bmusic/",
+      "sha256": "cb4f715bea5982823763f851ac3d4e8e8de238d15c0c28acf22852452ebae136",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--jazz-performance-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/jazz-composition-bmusic/",
+      "sha256": "ec783839b21714dd6c4e0adb7813dd4d4997825e6f6000b63db0a030d7250790",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--jazz-composition-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/jewish-studies-ba/",
+      "sha256": "8cd171221949dbf969456e9f2fc67a984586f1e6684e8f0255a528a1d54190fd",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--jewish-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/journalism-bj/",
+      "sha256": "da755e706ceaca5c8b3f0c4f580234d951c5f7eaa4ded410ffb3d82014927bb2",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--journalism-bj.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/latin-american-studies-ba/",
+      "sha256": "70330209a24a9d8f4ad8b21e12133c95380f2b16cb2af67463916a294acc60be",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--latin-american-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/linguistics-ba/",
+      "sha256": "bbebbc0145b437d149a52583e1b6ae755e3ada439a9fd0439973a84ebe823c9b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--linguistics-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/linguistics-and-computer-science-bslincs/",
+      "sha256": "b690d89d455cadc71b3c06be2ace9180684176806c66f2ad22fd47d7c3c85cf0",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--linguistics-and-computer-science-bslincs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/management-general-management-bba/",
+      "sha256": "16f145fe8269ca4e331b8f75e6b0142685dd14eb050d8ed9c382cd75cb6814ad",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--management-general-management-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/management-information-systems-bba/",
+      "sha256": "2249fe7327bca8b3bcf54513fcf61f7592b0130bce02431999f2f1d5598b565e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--management-information-systems-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/marketing-bba/",
+      "sha256": "7db9cb47e306cecfe3e2eb5f7827ffce47525bde2a1693b420b85611248d5830",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--marketing-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mathematicsmathematics-middle-grades-secondary-school-teaching-option-ba/",
+      "sha256": "c1b1806961a0d371bd48983fe111ea4270e2a78078e6f8d9a1e9a0735bcf81c7",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mathematicsmathematics-middle-grades-secondary-school-teaching-option-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mathematics-ba/",
+      "sha256": "90363dad4d8268c03373841f2a0e7402d8d2c3cb1e88f8c95fbd799f11c8681c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mathematics-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mathematics-bsa/",
+      "sha256": "7634ea0b938e88df8575af394ee24db0e5ce1c08137aa04adfe8e9d0fcc81b37",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mathematics-bsa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mathematics-math-option-bsmath/",
+      "sha256": "4c9f2c6d133c159dde1f6ba3e7dbc0713168e7fc3627532290cc899ab6cc6310",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mathematics-math-option-bsmath.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mathematics-actuarial-science-option-bsmath/",
+      "sha256": "2d072358ff91e2a1c95e59de3b10a6dfbf67e680d8e28b62f3ca233e7264d1bc",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mathematics-actuarial-science-option-bsmath.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mathematics-math-honors-option-bsmath/",
+      "sha256": "6bb58309768011f712daf2899414ae1be09c61b51de08a7a6d5b099038e7fbe9",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mathematics-math-honors-option-bsmath.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mathematics-teaching-option-bsmath/",
+      "sha256": "29169b5a148e00c161598840251978918b64450a2232c0f0ece27e78b50395e2",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mathematics-teaching-option-bsmath.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mechanical-engineering-bsme/",
+      "sha256": "5a1ab463fe0fa9ea62b1b159249873bd158ea70724bc517b75dbad6a3bd25ac1",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mechanical-engineering-bsme.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mechanical-engineering-bsme-mse/",
+      "sha256": "08ed0ff75ebc45ca12c959f6422bdaae9840bbf252150319badb06081ebe24cd",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mechanical-engineering-bsme-mse.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/medical-laboratory-science-bsmedlabsci/",
+      "sha256": "91a7f6af9093be2c2493e57086f48248fd396ed445b0d67b52b5e2a3cdc0a89e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--medical-laboratory-science-bsmedlabsci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/mexican-american-latina-o-studies-ba/",
+      "sha256": "a262c97d1acefbe6e13793eb041d5116e91bc3a6cf07f924f8014f66f6b20926",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--mexican-american-latina-o-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/middle-eastern-studies-ba/",
+      "sha256": "801cee2920a94f1fff97071f471dfef0edad8c321d340ddd8b83f2715b508205",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--middle-eastern-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/music-music-bamusic/",
+      "sha256": "710a1d8af84cb6d55f3f1cc652b52baf14779b921352f39c2e4240b4004927f4",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--music-music-bamusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/music-composition-bamusic/",
+      "sha256": "8ac396049470819bc267b5365a9c816fa0601d96f0d555173bfd91da27288b26",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--music-composition-bamusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/music-education-choral-bmusic/",
+      "sha256": "ca466f9a0cf73bb367b5410e253dc9829e52a7bbf86e5e6f2242fce68710e847",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--music-education-choral-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/music-education-instrumental-bmusic/",
+      "sha256": "3702afffa391f0a9c2fd78184edf72b4c0c2d374728be614916af697c1eeeffa",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--music-education-instrumental-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/orchestral-instrument-performance-bmusic/",
+      "sha256": "a6ae6763e1f92c51b85276991410353155acf3a932107ec91559e8016e19b667",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--orchestral-instrument-performance-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/harp-performance-bmusic/",
+      "sha256": "8112da053471589886942c144588dcbb0ca8bb6d872363a7fdc13e3c241888fb",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--harp-performance-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/organ-harpsichord-performance-bmusic/",
+      "sha256": "36379162e86f16f413160daf0e3fa08d23d9ea9c0115ea8bb43d42152942e139",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--organ-harpsichord-performance-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/piano-performance-bmusic/",
+      "sha256": "8e51770d5752b61cfd918e0592d1531f96f7f6c517761f4adfd797c8085e5061",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--piano-performance-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/voice-performance-bmusic/",
+      "sha256": "b1c4b37c1958851a9d75b96ed82dd1bc5d06a18597ca8f8778a58ffd65427002",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--voice-performance-bmusic.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/neuroscience-bsa/",
+      "sha256": "3c49e521d7dd740ef0eca1e2ac65f7267e2199d3ee089baeb03c44fa077a8e3b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--neuroscience-bsa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/neuroscience-neuroscience-option-bsneurosci/",
+      "sha256": "d70ed63ff7c6fcc1b5d15968f45ebdb72d255c27cd0bd34309229cfbda84db7c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--neuroscience-neuroscience-option-bsneurosci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/neuroscience-neuroscience-scholars-option-bsneurosci/",
+      "sha256": "9adaac4f0a5757e7df322a89fd10be57ea899d02768175f0350603cd85447bc1",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--neuroscience-neuroscience-scholars-option-bsneurosci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/neuroscience-neuroscience-honors-option-bsneurosci/",
+      "sha256": "81f183f939a25fd2d4b3f27c97b86e066bfe87e3c0e1859e8870a863e7178eb9",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--neuroscience-neuroscience-honors-option-bsneurosci.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/neuroscience-and-computer-science-bsneucs/",
+      "sha256": "e6d636c099eb67d86ebbb750ec67c5aba2a5ecbc8f8f9f909c3d5b869af05787",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--neuroscience-and-computer-science-bsneucs.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/nursing-bsn/",
+      "sha256": "fa1e90e40bd37ff9489f8f29b57b957c0ee218b887d3da1f20d1f0d467cda4f9",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--nursing-bsn.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/nutrition-bsa/",
+      "sha256": "cfb386338a78f2c927aa1e066e78a677b6c1e3fea45359fba0cc2fe24c8812c4",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--nutrition-bsa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/nutrition-deans-scholars-honors-program-bsntr/",
+      "sha256": "5aeec15e144e7e39711beee63f14b1176d0b89926df2c13e191e886a97ccc3de",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--nutrition-deans-scholars-honors-program-bsntr.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/nutrition-public-health-nutrition-bsntr/",
+      "sha256": "b65813568bfa0125c8656fdcc7392e55b495222cbfd5546dee999d7606767308",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--nutrition-public-health-nutrition-bsntr.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/nutrition-nutritional-sciences-bsntr/",
+      "sha256": "47a9c150e2c571c9beba33eff0fb0ea0770dce2885bcae259840f8c8ff30995d",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--nutrition-nutritional-sciences-bsntr.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/nutrition-didactic-program-dietetics-bsntr/",
+      "sha256": "d369be48b6704c584db16a9d7b7a4e539f31698057c52fe22384fdef8b1f435b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--nutrition-didactic-program-dietetics-bsntr.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/nutrition-integrated-coordinated-program-dietetics-bsntr/",
+      "sha256": "33badae2ac4af3826361b73362c5ee3ddec62789cfdbd211a5e208efa06a6357",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--nutrition-integrated-coordinated-program-dietetics-bsntr.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/petroleum-engineering-bspe/",
+      "sha256": "f0da14e5b0caf401f6c222ca32b26bfdd99fcb82cb031c4bd0228c1eb68e400c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--petroleum-engineering-bspe.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/philosophy-ba/",
+      "sha256": "e11003cc3f6818b952482f1b9c7cf02d481a40c116d235055e7162e664d29201",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--philosophy-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physical-culture-sports-studies-bskinhealth/",
+      "sha256": "755c1ea18f0c16da833e42c70817e3f9bf17a3ef4056b63be3299ae0b5d6ec7f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physical-culture-sports-studies-bskinhealth.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physics-ba/",
+      "sha256": "fe8c7f7d7a8bcfdc513c9e11d761630740490c8c0b84ad48821dc2623cf0216c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physics-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physics-bsa/",
+      "sha256": "ef1b6cc1e9cfc39f6d357e03f4827ef40ccdbeb919b1c6a38a1f64cf4fa9961f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physics-bsa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physics-biophysics-option-bsphy/",
+      "sha256": "cf5210d6396844e046b0012343b6ac108dc9ebd48167ec0505beada53f981d24",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physics-biophysics-option-bsphy.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physics-teaching-option-bsphy/",
+      "sha256": "ff28ee77326df34a9d326391d9a018be7ddc8a4f3dbad658b84ce3fd71225c62",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physics-teaching-option-bsphy.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physics-radiation-physics-option-bsphy/",
+      "sha256": "68a2d76a61e40c69a54b9693d6a9143e005c62c273c25dfc0305906348e5a909",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physics-radiation-physics-option-bsphy.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physics-physics-option-bsphy/",
+      "sha256": "986d8203ba9bb14fbe5f0f0f148292b40cab93fb180ca3c5e988ce21fa5bf163",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physics-physics-option-bsphy.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physics-physics-honors-option-bsphy/",
+      "sha256": "c2768e631bcf140a6649b29c7f9c3f92dff461f0a92c74538ed9d6d947144117",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physics-physics-honors-option-bsphy.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physics-computation-option-bsphy/",
+      "sha256": "4acb06414e0d8d91ef253dc5c7dd74f9915af5f91f2c93cabc2dbe59c3b1682b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physics-computation-option-bsphy.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/physics-space-sciences-option-bsphy/",
+      "sha256": "5a28a83cadcaa64f9a7b1f5f20d3b72b41d86f817fa2e36970bb01c3e1809d78",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--physics-space-sciences-option-bsphy.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/honors-ba/",
+      "sha256": "13a8da5a4b6704112ab881833dc2e1149ed85c36582036c622d76081c1533347",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--honors-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/psychology-ba/",
+      "sha256": "1815ff628d611f337518496f4e76c36ed3c5254ddad2260f264aca1f05062085",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--psychology-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/psychology-bspsy/",
+      "sha256": "03a5a872637f7836b8c29dc1d0e377a0688b87d6801bf9916cbbe0c180f8d024",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--psychology-bspsy.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/public-affairs-bapubaff/",
+      "sha256": "9a0a8346620246de2f351c34909267acb600726e59a5ddb06bf7095f72a3a577",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--public-affairs-bapubaff.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/public-health-bspublichealth/",
+      "sha256": "fc15e57ca0f8c6b4d66c5798a63f130541679c09f9875d41abd04668e0b9ecd7",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--public-health-bspublichealth.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/public-honors-bspublichealth/",
+      "sha256": "6c990be12c40bbca5b5046a9cb1b32e0b1f94927e80a3eead6f079a0f47d84fd",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--public-honors-bspublichealth.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/public-health-advanced-program-bspublichealth-masterspublichealth/",
+      "sha256": "9bc4f35d2aa9f9b32928ad050f5dc4712a676ed45706f1213283416c26374fe0",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--public-health-advanced-program-bspublichealth-masterspublichealth.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/public-relations-bspr/",
+      "sha256": "ee6f901243128657b5fc314268354423a1302beee7c04d7eb66787b4d837c50e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--public-relations-bspr.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/race-indigeneity-migration-ba/",
+      "sha256": "e6ec5edda194d1535215c5a2d935a8d5277a284661f8ee3828d7deb0a845ca31",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--race-indigeneity-migration-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/radio-television-film-bsrtf/",
+      "sha256": "0d6b0da280ab6946477fe38ca8f9ab24b4ef035aebbf6a882fb0eafed50e72cd",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--radio-television-film-bsrtf.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/religious-studies-global-intereligious-dynamics-ba/",
+      "sha256": "2292941ff9544b14c249b084bb648c0c8aadfa65aa429ab11be314abf66df258",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--religious-studies-global-intereligious-dynamics-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/religious-studies-religion-ethics-social-justice-ba/",
+      "sha256": "8b462243585a796a93d2fd27e6d2de3f48666eb679e4d0cb3d2641679a51181c",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--religious-studies-religion-ethics-social-justice-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/religious-studies-comparative-religious-studies-ba/",
+      "sha256": "0e1ae09418eb4ef71edada07ec651325baf5ee2903668c0c924034baab930b2a",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--religious-studies-comparative-religious-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/rhetoric-writing-ba/",
+      "sha256": "200de2fb8b314d5f0ddc7ea244f4ee92f0263c073bdc302f3c271f020fdea0ce",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--rhetoric-writing-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/russian-east-european-eurasian-area-studies-language-concentration-ba/",
+      "sha256": "45928f1d7a16af207aec78146665174768c733d67770b42e99a94eeb61921f9e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--russian-east-european-eurasian-area-studies-language-concentration-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/russian-east-european-eurasian-studies-ba/",
+      "sha256": "92726b3d1de1a1787d74fa6b02bb4116d58cd2a8c20fd132b26a4f7387cd5218",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--russian-east-european-eurasian-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/social-work-bsw/",
+      "sha256": "8c01544df6d9baba50ede9418eedaa2a7ed14cf185965516d407fe25e7a143e7",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--social-work-bsw.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/sociology-ba/",
+      "sha256": "a4f7e0d1f0721afeacbbae079b0976c7bec0bdfce722fdf3283c08daa462a9e0",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--sociology-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/spanish-ba/",
+      "sha256": "b1b8dbda00ffd19195d0452625a92faa2876e1dbe86d7b126bfac8e3ce7ee29a",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--spanish-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/speech-language-hearing-sciences-audiology-bsslh/",
+      "sha256": "e8c4848742f5b1a7e30ad65a260e115d57000cb86d4a67cc23f0785441d53af2",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--speech-language-hearing-sciences-audiology-bsslh.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/speech-language-hearing-sciences-speech-language-pathology-bsslh/",
+      "sha256": "975714c59a6f61ad64dc492a627f810f559866f8936583312c94a14cda4ddb1e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--speech-language-hearing-sciences-speech-language-pathology-bsslh.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/sport-management-bskinhealth/",
+      "sha256": "3a736d10d24d04b2a80c1ad7c1e8a1d5080beb997b60b2b9a9d9fd6757c13d85",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--sport-management-bskinhealth.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/statistics-data-science-bssds/",
+      "sha256": "64b1be186581c4d166efdc1b16c38c9c6abcb3daa6ade89444827325c8a523fb",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--statistics-data-science-bssds.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/statistics-and-data-science-honors-bssds/",
+      "sha256": "b07f80c51b10efef4ebfa83190ac984cecab3811d2deb122c7d7b8fa6b6d6f70",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--statistics-and-data-science-honors-bssds.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/strategy-and-statecraft-ba/",
+      "sha256": "1b9764480fe0b86b4de177561a0f19a7d1b55d83833cadfffbacc87b8af2157f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--strategy-and-statecraft-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/studio-art-ba/",
+      "sha256": "3508d2a721dfb31fad2417b1d19e28a2198b5cd1d9a49c7e93ff8bca53f337f0",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--studio-art-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/studio-art-bfa/",
+      "sha256": "c4e16188c4979d514acc12ee4157d4e5f6aafa1933a987ec0d560ef2152dea73",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--studio-art-bfa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/supply-chain-management-bba/",
+      "sha256": "ae6879d07521e2c4fbca844511ab941869e5b74978a86e6306ea95a75d08b2bc",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--supply-chain-management-bba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/sustainability-studies-ba/",
+      "sha256": "f306be1d7a2c2fe9b02753c90ca0278bc6b45172d3ad276d1c507e1f333c11b9",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--sustainability-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/textiles-apparel-product-development-and-design-bsta/",
+      "sha256": "58ce088f16130c1493c53d5c9404afcee7c4df4ed4e52a8dc7aeba52f1e2c2d6",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--textiles-apparel-product-development-and-design-bsta.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/textiles-apparel-bsta/",
+      "sha256": "8389cef8d5778555e946be716381b6b1ad04a2c24063a37f5f177c00945fbfad",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--textiles-apparel-bsta.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/textiles-apparel-textiles-and-apparel-honors-bsta/",
+      "sha256": "32d2a6d40375f2e27145152f842c5c771f590983ca8263499b14dc73005c7fee",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--textiles-apparel-textiles-and-apparel-honors-bsta.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/theatre-dance-history-literature-dramaturgy-batd/",
+      "sha256": "abea2a136b0eff098fcdf70dd3def085400f7e03a8edf40b7f0d032aa820bfc7",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--theatre-dance-history-literature-dramaturgy-batd.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/theatre-dance-playwriting-directing-batd/",
+      "sha256": "d798553ff25fb8a8ef6d21aeafb26d2578c717486fcc24bee3728eb0b67ec084",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--theatre-dance-playwriting-directing-batd.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/theatre-dance-dance-batd/",
+      "sha256": "1e71ac0122e610f6d11d331938456899d7411dc83ee130c028c5acb4fcf39bb7",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--theatre-dance-dance-batd.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/theatre-dance-performers-process-batd/",
+      "sha256": "c59512f5463e373701f257891718ad52f66987e81a6d6311f3100f3e204f97d5",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--theatre-dance-performers-process-batd.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/theatre-dance-design-technology-batd/",
+      "sha256": "09d720cce6a2c66f1866f9afe9291fa00bf01bc750a8c8499a9bfb470b31bbab",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--theatre-dance-design-technology-batd.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/theatre-education-bfa/",
+      "sha256": "2924128d6f3e5ce6ccec4c37bf06dc7869240a12243364caad2283422b82882f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--theatre-education-bfa.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/urban-studies-ba/",
+      "sha256": "ccedba5d0ad5756cf77acc3f40c773c466d5f5fda97ee4264cfbce1e55791f17",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--urban-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/womens-gender-studies-ba/",
+      "sha256": "5dda7a5a850a48ea0e97dfd43b41654c637f0dfa6885b8b63e8b5a84d2eb6074",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--womens-gender-studies-ba.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/womens-gender-studies-integrated-program-ba-ma/",
+      "sha256": "201af375279f384b0bcd58d96bf139b3a19a00d0c2b5bb4f0f795d6a8d24b0ec",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--womens-gender-studies-integrated-program-ba-ma.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/youth-community-studies-coaching--bsed/",
+      "sha256": "c62ca61e87e3a2213e1173979f7cffb6a9f479499a1184d806d0c78fda71d01b",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--youth-community-studies-coaching--bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/youth-community-studies-early-childhood-bsed/",
+      "sha256": "8c661f9aaceea3aded07749fcc1c673325fc3965fa710c0bf985b1ee5f672d05",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--youth-community-studies-early-childhood-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/youth-community-studies-special-populations-bsed/",
+      "sha256": "0c36a1d7a50d1b1e02913f69e7022cd67a9f43de56bb1e7b0d3db71d66537756",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--youth-community-studies-special-populations-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/youth-community-studies-uteach-urban-teachers-english-language-arts-reading-bsed/",
+      "sha256": "e9c4f32e116d0c0d3caee092efc4b76d02b8350341819d24188df98da9eb7dbe",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--youth-community-studies-uteach-urban-teachers-english-language-arts-reading-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/youth-community-studies-uteach-urban-teachers-social-studies-bsed/",
+      "sha256": "2f3b6a68975ec3efa788acfe13202ac3371272fc0f716e7b169866fbaafee949",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--youth-community-studies-uteach-urban-teachers-social-studies-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/youth-community-studies-educational-leadership-policy-bsed/",
+      "sha256": "afe4e87e3924639d820897f4c28c0961b768270f03bbf9e7af054d98e6388d95",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--youth-community-studies-educational-leadership-policy-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/youth-community-studies-youth-social-services-bsed/",
+      "sha256": "1bda079113d6880da6c955b0ee0aa5f42499bff6f38001d5c06da4016e808f93",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--youth-community-studies-youth-social-services-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/youth-community-studies-physical-education-bsed/",
+      "sha256": "f4558a4f7f2f90ff7979473a91fe217b8402fdc2241e0b3c10a95dfe9cdca254",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--youth-community-studies-physical-education-bsed.html",
+      "locator": "Specific program Overview / Requirements / concentrations"
+    },
+    {
+      "url": "https://news.utexas.edu/2026/08/03/ut-launches-new-materials-science-bachelors-program/",
+      "sha256": "f4ceb24d3352c3b9edc2892cd74a15a0f097f6c6075ed8c5d929716049dbd38e",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-new-materials-news.html",
+      "locator": null
+    },
+    {
+      "url": "https://cockrell.utexas.edu/academics/undergraduate-education/majors/bachelor-of-science-in-materials-science-and-engineering/",
+      "sha256": "b7015414ce496d8186bfd98f89c048e35dfb414fa3a65a16d4329b2083f914a8",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/policy-new-materials.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.utexas.edu/undergraduate/programs/pharmacy-pharmd/",
+      "sha256": "649dc83aaa7821a23df185ab28809af454e9937ef91d26a3a43e766bbac9cc29",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/raw/undergraduate--programs--pharmacy-pharmd.html",
+      "locator": null
+    },
+    {
+      "url": "https://pharmacy.utexas.edu/apply/pharmd/apply",
+      "sha256": "a675f66a33ec45a133c36777c2fbf53f229afcef2318fea797c81bdb57959144",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/root-raw/pharmd-apply.html",
+      "locator": null
+    },
+    {
+      "url": "https://pharmacy.utexas.edu/apply/pharmd/plan",
+      "sha256": "4218916ec8003fbb0991892156007bef959c228a552a519cf8dee23e3cb15f6f",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/root-raw/pharmd-plan.html",
+      "locator": null
+    },
+    {
+      "url": "https://pharmacy.utexas.edu/apply/pharmd/tuition",
+      "sha256": "708740082f8341b5c26b97b6b7cddef205132932c1209087e7a79c9269928492",
+      "raw_file": "scratch/full-catalog/ut-austin-enrichment/root-raw/pharmd-tuition.html",
+      "locator": null
     }
   ]
 }

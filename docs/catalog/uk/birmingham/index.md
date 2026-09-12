@@ -23,353 +23,353 @@ hide:
 
 ## 专业与申请资料
 
-342 个专业条目 · 0 个含详细资料 · 0 个补有专业资料 · 342 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
+342 个专业条目 · 0 个含详细资料 · 340 个补有专业资料 · 2 个仅补学校共用资料。入学条件、学费和毕业调查范围按具体项目查看。
 
 <a class="md-button" href="/study-abroad-handbook/?view=programs&university=birmingham#program-finder">搜索、筛选这所大学的专业 →</a>
 
 <div class="university-program-list">
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-accounting-and-finance-bsc-5c0965be8a/">Accounting and Finance BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-accounting-and-finance-bsc-dubai-866443e321/">Accounting and Finance BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-accounting-and-finance-with-business-analytics-bsc-44b67bf879/">Accounting and Finance with Business Analytics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-accounting-and-finance-with-integrated-foundation-year-bsc-dubai-47723a961f/">Accounting and Finance with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-aerospace-engineering-beng-fd0d09e8e1/">Aerospace Engineering BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-aerospace-engineering-meng-518d181f14/">Aerospace Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-ancient-history-and-archaeology-ba-182134c590/">Ancient History and Archaeology BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-ancient-and-medieval-history-ba-8a8ec56d8a/">Ancient and Medieval History BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-applied-golf-management-studies-bsc-504025760f/">Applied Golf Management Studies BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-ai-and-computer-science-bsc-2943477ab1/">Artificial Intelligence (AI) and Computer Science BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-ai-and-computer-science-bsc-dubai-d59f9b5e0c/">Artificial Intelligence (AI) and Computer Science BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-ai-and-computer-science-with-integrated-f-19e790df6b/">Artificial Intelligence (AI) and Computer Science with Integrated Foundation Year  BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-ai-and-computer-science-with-a-year-in-in-dbc9a49fe8/">Artificial Intelligence (AI) and Computer Science with a Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-and-public-policy-bsc-5414b0b623/">Artificial Intelligence and Public Policy BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-bsc-business-management-with-communications-and-year-in-industry-343bb1bde5/">BSc Business Management with Communications and Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-bachelor-of-commercial-law-bcl-dubai-4b80d2201f/">Bachelor of Commercial Law BCL (Dubai)</a><small>BCL · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-bachelor-of-commercial-law-with-integrated-foundation-year-bcl-du-ad8dc2e48f/">Bachelor of Commercial Law with Integrated Foundation Year BCL (Dubai)</a><small>BCL · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-bsc-cf2a230944/">Biochemistry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-msci-ef52e4e134/">Biochemistry MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-with-professional-placement-msci-8bac21621e/">Biochemistry with Professional Placement MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-with-study-in-continental-europe-bsc-270df6a3e8/">Biochemistry with Study in Continental Europe BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-with-an-international-year-bsc-fca79ee609/">Biochemistry with an International Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-bsc-e624ac14e0/">Biological Sciences BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-msci-58c49e44a9/">Biological Sciences MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-with-professional-placement-msci-70f08bff28/">Biological Sciences with Professional Placement MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-with-study-in-continental-europe-bsc-b1620f6bef/">Biological Sciences with Study in Continental Europe BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-with-an-international-year-bsc-b71837ed6e/">Biological Sciences with an International Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-bsc-5bafaf1c83/">Biomedical Sciences BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-bsc-dubai-63c23a56f8/">Biomedical Sciences BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-msci-3fbeac7387/">Biomedical Sciences MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-msci-dubai-e1c4b2fddd/">Biomedical Sciences MSci (Dubai)</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-with-integrated-foundation-year-bsc-dubai-6b7f77e2dd/">Biomedical Sciences with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biotechnology-bsc-146b0cb42e/">Biotechnology BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biotechnology-msci-a3429ca1ea/">Biotechnology MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biotechnology-with-international-year-bsc-2a0a9f2761/">Biotechnology with International Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biotechnology-with-placement-year-msci-85642a0ee9/">Biotechnology with Placement Year MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-bsc-a3a995df1a/">Business Management BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-bsc-dubai-6a10ee9d80/">Business Management BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-business-analytics-bsc-ef2e06056d/">Business Management with Business Analytics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-business-analytics-and-year-in-industry-e906dbe471/">Business Management with Business Analytics and Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-communications-bsc-c67d86698d/">Business Management with Communications BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-economics-bsc-dubai-7def9849b4/">Business Management with Economics BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-economics-with-integrated-foundation-yea-e1d1567a01/">Business Management with Economics with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-finance-bsc-dubai-5887887de5/">Business Management with Finance BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-finance-with-integrated-foundation-year-e0c61561d9/">Business Management with Finance with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-human-resource-management-bsc-0f7f93fd23/">Business Management with Human Resource Management BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-human-resource-management-with-year-in-i-c7e5eca283/">Business Management with Human Resource Management with Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-industrial-placement-bsc-dubai-1876b6ab8d/">Business Management with Industrial Placement BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-integrated-foundation-year-bsc-dubai-05bf814d7a/">Business Management with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-integrated-foundation-year-and-industria-bf2893e3cb/">Business Management with Integrated Foundation Year and Industrial Placement BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-bsc-dubai-a4c1f3ef58/">Business Management with Marketing  BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-bsc-23eb3ff02d/">Business Management with Marketing BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-and-industrial-placement-bsc-d-1077ba34df/">Business Management with Marketing and Industrial Placement BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-and-integrated-foundation-year-7ebcbe490b/">Business Management with Marketing and Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-and-year-in-industry-bsc-e5bb51974f/">Business Management with Marketing and Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-with-industrial-placement-and-4a3f99fec0/">Business Management with Marketing with Industrial Placement and Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-operations-and-supply-chain-management-b-7fabc0092d/">Business Management with Operations and Supply Chain Management BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-operations-and-supply-chain-management-a-6bdd8fcf81/">Business Management with Operations and Supply Chain Management and Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-psychology-bsc-dubai-a12f93c72a/">Business Management with Psychology BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-psychology-with-integrated-foundation-ye-ba66045305/">Business Management with Psychology with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-year-in-industry-bsc-4e08ad4030/">Business Management with Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-international-study-meng-7a0fa64879/">Chemical Engineering (International Study)  MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-beng-262aa45703/">Chemical Engineering BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-meng-43596dfd14/">Chemical Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-with-industrial-study-beng-2307b60e10/">Chemical Engineering with Industrial Study BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-with-industrial-study-meng-e130aa388c/">Chemical Engineering with Industrial Study MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-with-international-and-industrial-study-meng-fb7ad1207a/">Chemical Engineering with International and Industrial Study MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-bsc-0447a54fdb/">Chemistry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-msci-4c4e0523b3/">Chemistry MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-business-management-msci-426f8288d7/">Chemistry with Business Management  MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-business-management-bsc-6b7224d591/">Chemistry with Business Management BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-foundation-year-bsc-3c99648273/">Chemistry with Foundation Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-medicinal-chemistry-and-drug-discovery-bsc-06cbc4d279/">Chemistry with Medicinal Chemistry and Drug Discovery BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-medicinal-chemistry-and-drug-discovery-msci-b6104d016c/">Chemistry with Medicinal Chemistry and Drug Discovery MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-study-abroad-msci-6c08fe63dc/">Chemistry with Study Abroad MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-sustainability-bsc-4ba0c972b4/">Chemistry with Sustainability BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-sustainability-msci-cb15ba9679/">Chemistry with Sustainability MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-a-modern-language-bsc-0a0bbf7eab/">Chemistry with a Modern Language BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-a-modern-language-msci-cdc41630cd/">Chemistry with a Modern Language MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-a-year-in-industry-bsc-c69d0a695e/">Chemistry with a Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-a-year-in-industry-msci-60e926ff23/">Chemistry with a Year in Industry MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-beng-72c950463b/">Civil Engineering BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-beng-dubai-f766dd4d4c/">Civil Engineering BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-meng-895f2ca45b/">Civil Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-with-industrial-experience-meng-7494dd9f7b/">Civil Engineering with Industrial Experience MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-with-industrial-year-meng-46b806f304/">Civil Engineering with Industrial Year MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-with-integrated-foundation-year-beng-dubai-b161238b0d/">Civil Engineering with Integrated Foundation Year BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-with-international-study-meng-9655d87ef2/">Civil Engineering with International Study MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-classics-and-ancient-history-ba-410d9e2247/">Classics and Ancient History BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-clinical-anatomy-intercalated-degree-msci-118f4c542d/">Clinical Anatomy (Intercalated degree) MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-clinical-science-intercalated-degree-msci-5c6bee37c8/">Clinical Science (Intercalated degree) MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-engineering-beng-dubai-7279446b30/">Computer Engineering BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-engineering-bsc-5a0dd271ab/">Computer Engineering BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-engineering-with-integrated-foundation-year-beng-dubai-84d9143280/">Computer Engineering with Integrated Foundation Year BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-bsc-84b17618b4/">Computer Science BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-bsc-dubai-7beca24ff5/">Computer Science BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-msci-ec965f08df/">Computer Science MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-and-software-engineering-meng-dubai-4df52c41c3/">Computer Science and Software Engineering MEng (Dubai)</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-and-software-engineering-with-integrated-foundat-494d3797dc/">Computer Science and Software Engineering with Integrated Foundation Year MEng (Dubai)</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-integrated-foundation-year-bsc-dubai-1a88eeadfd/">Computer Science with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-study-abroad-bsc-e6b7e65e1f/">Computer Science with Study Abroad BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-study-abroad-msci-071b0d4ab9/">Computer Science with Study Abroad MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-a-year-in-industry-bsc-b0aa9401f9/">Computer Science with a Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-a-year-in-industry-msci-ac4d818a2e/">Computer Science with a Year in Industry MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-software-engineering-meng-5b738fa0d8/">Computer Science/Software Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-software-engineering-with-a-year-in-industry-men-507e45e0d1/">Computer Science/Software Engineering with a Year in Industry MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-criminology-ba-e00a575bc4/">Criminology BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-criminology-with-year-abroad-ba-493d0adbb3/">Criminology with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-dental-hygiene-and-therapy-bsc-8d6ef9e788/">Dental Hygiene and Therapy BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-dental-surgery-bds-729ee667f6/">Dental Surgery BDS</a><small>BDS · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-digital-media-and-communications-ba-045f7409b3/">Digital Media and Communications BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-digital-media-and-communications-ba-dubai-f546df6395/">Digital Media and Communications BA (Dubai)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-digital-media-and-communications-with-integrated-foundation-year-1ca5302651/">Digital Media and Communications with Integrated Foundation Year BA (Dubai)</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-digital-media-and-creative-industries-ba-f3c17d9c4c/">Digital Media and Creative Industries BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-drama-and-film-ba-caa2437efc/">Drama and Film BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-ba-453353e112/">Economics BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-bsc-ece2ab2ace/">Economics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-bsc-dubai-3ac939668c/">Economics BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-and-politics-bsc-d468668709/">Economics and Politics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-with-integrated-foundation-year-bsc-dubai-20eb96e8e3/">Economics with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-education-ba-823800d0ac/">Education BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-education-and-sociology-ba-13198eaa3b/">Education and Sociology BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-beng-d9fe4e5c48/">Electronic and Electrical Engineering BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-beng-dubai-85ac2481c1/">Electronic and Electrical Engineering BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-meng-3820a77edb/">Electronic and Electrical Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-with-industrial-year-meng-7cbe129387/">Electronic and Electrical Engineering with Industrial Year  MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-with-industrial-year-beng-65176e82f7/">Electronic and Electrical Engineering with Industrial Year BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-with-integrated-foundation-f2b8196975/">Electronic and Electrical Engineering with Integrated Foundation Year BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-energy-engineering-beng-60ec789331/">Energy Engineering BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-energy-engineering-meng-ddea939589/">Energy Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-energy-engineering-with-industrial-study-beng-9e498c807c/">Energy Engineering with Industrial Study BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-energy-engineering-with-industrial-study-meng-2c704e12f9/">Energy Engineering with Industrial Study MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-engineering-beng-738efb0342/">Engineering BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-engineering-meng-9c05ef0108/">Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-engineering-and-physical-sciences-foundation-year-beng-17abd36fe1/">Engineering and Physical Sciences Foundation Year BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-language-and-linguistics-ba-bba4913225/">English Language and Linguistics BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-literature-ba-d693fc420b/">English Literature BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-literature-and-creative-writing-ba-6cd1cbaf41/">English Literature and Creative Writing BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-literature-and-film-ba-249478809e/">English Literature and Film BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-literature-and-history-ba-522a462ff5/">English Literature and History BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-change-and-sustainability-bsc-eca15d23bc/">Environmental Change and Sustainability BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-change-and-sustainability-msci-635e9b0f08/">Environmental Change and Sustainability MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-change-and-sustainability-with-year-abroad-bsc-d93af54436/">Environmental Change and Sustainability with Year Abroad BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-science-bsc-6b98d22efc/">Environmental Science BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-science-msci-b3fb24aa0b/">Environmental Science MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-science-with-international-research-placement-bsc-b7c6ca058f/">Environmental Science with International Research Placement BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-science-with-year-abroad-bsc-4cb6bfe90d/">Environmental Science with Year Abroad BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-and-engineering-geoscience-bsc-378b959e3e/">Environmental and Engineering Geoscience BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-film-and-creative-writing-ba-dde7f9d6a0/">Film and Creative Writing BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-film-and-television-ba-586388470b/">Film and Television BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-ba-310f10ce6f/">French BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-german-ba-cf157d0fc0/">French and German BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-italian-ba-f0ab2286e4/">French and Italian BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-portuguese-ba-4afeb73776/">French and Portuguese BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-russian-ba-e54ba0b2b9/">French and Russian BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-spanish-ba-760a74c65b/">French and Spanish BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-ba-b60241fee5/">Geography BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-bsc-8bd1689a94/">Geography BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-msci-2c031efa99/">Geography MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-and-urban-and-regional-planning-bsc-5e9e622ce8/">Geography and Urban and Regional Planning BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-and-urban-and-regional-planning-with-year-abroad-bsc-b08d83988f/">Geography and Urban and Regional Planning with Year Abroad BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-with-business-ba-cce40fe38f/">Geography with Business BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-with-international-year-msci-8ae7a5bc00/">Geography with International Year MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-with-year-abroad-ba-64c1237530/">Geography with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-with-year-abroad-bsc-7ac895ad9d/">Geography with Year Abroad BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-bsc-462d839f18/">Geology BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-msci-797aba1c8d/">Geology MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-and-physical-geography-bsc-c904542251/">Geology and Physical Geography BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-and-physical-geography-msci-c82022a227/">Geology and Physical Geography MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-and-physical-geography-with-an-international-year-msci-d9ca8e7b77/">Geology and Physical Geography with an International Year MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-with-international-year-msci-a624ca56e1/">Geology with International Year MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-german-and-italian-ba-2fe59df8a7/">German and Italian BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-german-and-russian-ba-55b2f5ee9f/">German and Russian BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-german-and-spanish-ba-02ac3d3d42/">German and Spanish BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-health-management-and-leadership-intercalated-degree-msci-feadc28f98/">Health Management and Leadership (Intercalated Degree) MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-history-ba-c6beb3c822/">History BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-history-and-politics-ba-fcba1ce254/">History and Politics BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-history-of-art-ba-a58f64f431/">History of Art BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-human-neuroscience-bsc-1543ab5665/">Human Neuroscience BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-human-sciences-bsc-8eda3f0c29/">Human Sciences BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-human-sciences-msci-0cc57a3ab6/">Human Sciences MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-business-bsc-4a52af3d21/">International Business BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-development-and-politics-ba-84c32dfdc5/">International Development and Politics BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-development-and-politics-with-year-abroad-ba-25e06c327e/">International Development and Politics with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-law-and-globalisation-llb-19bef375fe/">International Law and Globalisation LLB</a><small>LLB · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-ba-caed5998e1/">International Relations BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-and-development-ba-69c58e99cd/">International Relations and Development BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-and-development-with-year-abroad-ba-3643a58bec/">International Relations and Development with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-economics-ba-e597a7fe30/">International Relations with Economics BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-economics-with-year-abroad-ba-d1156ba788/">International Relations with Economics with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-french-ba-b4d5409edd/">International Relations with French BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-german-ba-e429df5608/">International Relations with German BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-spanish-ba-b3e4847242/">International Relations with Spanish BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-year-abroad-ba-06eec3c08a/">International Relations with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-llb-for-graduates-llb-52a0dd1966/">LLB for Graduates LLB</a><small>LLB · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-law-llb-fd8beb129a/">Law LLB</a><small>LLB · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-law-with-business-studies-llb-6e26f0026a/">Law with Business Studies LLB</a><small>LLB · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-law-with-criminology-llb-57779f5dda/">Law with Criminology LLB</a><small>LLB · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-liberal-arts-ba-82eda1847b/">Liberal Arts BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mmedsc-posh-health-management-and-leadership-intercalated-degree-8715d05bb5/">MMedSc PoSH Health Management and Leadership - Intercalated Degree</a><small>MMedSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-bsc-5556c26acc/">Marketing BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-bsc-dubai-a2d1532790/">Marketing BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-with-business-analytics-bsc-64af9c0202/">Marketing with Business Analytics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-with-business-analytics-and-year-in-industry-bsc-dddd440ea6/">Marketing with Business Analytics and Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-with-industrial-placement-bsc-dubai-731e7a2d49/">Marketing with Industrial Placement BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-with-year-in-industry-bsc-af570bcc1c/">Marketing with Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-materials-science-and-engineering-beng-cf7fa56411/">Materials Science and Engineering BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-materials-science-and-engineering-meng-90eaaafc58/">Materials Science and Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-materials-science-and-engineering-with-industrial-experience-meng-39178c6011/">Materials Science and Engineering with Industrial Experience MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematical-economics-and-statistics-bsc-7a4663091f/">Mathematical Economics and Statistics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematical-sciences-bsc-1636fcafd6/">Mathematical Sciences BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-bsc-6704b57b5b/">Mathematics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-msci-1c3b49c076/">Mathematics MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-computer-science-msci-d1a84dca6f/">Mathematics and Computer Science  MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-computer-science-bsc-255e59548c/">Mathematics and Computer Science BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-computer-science-with-industrial-year-bsc-e3c296ac6c/">Mathematics and Computer Science with Industrial Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-computer-science-with-industrial-year-msci-8691e1e75f/">Mathematics and Computer Science with Industrial Year MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-music-ba-582be04ec2/">Mathematics and Music BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-philosophy-ba-af7ac99f04/">Mathematics and Philosophy BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-business-management-bsc-bc94058a48/">Mathematics with Business Management BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-business-management-msci-4524bd6715/">Mathematics with Business Management MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-study-in-continental-europe-bsc-4a3ef6a45f/">Mathematics with Study in Continental Europe BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-a-year-in-industry-bsc-4f3562eb23/">Mathematics with a Year in Industry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-an-international-year-bsc-bfa42857ee/">Mathematics with an International Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-statistics-and-data-science-bsc-406bb686b5/">Mathematics, Statistics and Data Science BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-automotive-meng-9b9819fc59/">Mechanical Engineering (Automotive)  MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-automotive-beng-64051f5a04/">Mechanical Engineering (Automotive) BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-biomedical-beng-dubai-0622c903f5/">Mechanical Engineering (Biomedical) BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-biomedical-with-integrated-foundation-year-a8cd0d18f7/">Mechanical Engineering (Biomedical) with Integrated Foundation Year  BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-beng-c73a38024f/">Mechanical Engineering BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-beng-dubai-0d761d8233/">Mechanical Engineering BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-meng-76d6913635/">Mechanical Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-meng-dubai-219c72dcc6/">Mechanical Engineering MEng (Dubai)</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-industrial-year-beng-14a1868d08/">Mechanical Engineering with Industrial Year BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-industrial-year-meng-7629236881/">Mechanical Engineering with Industrial Year MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-integrated-foundation-year-meng-dubai-d25b74bda9/">Mechanical Engineering with Integrated Foundation Year  MEng (Dubai)</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-integrated-foundation-year-beng-dubai-eb77417640/">Mechanical Engineering with Integrated Foundation Year BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-a-year-abroad-meng-77bbc23757/">Mechanical Engineering with a Year Abroad MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechatronic-and-robotic-engineering-beng-5448e123f4/">Mechatronic and Robotic Engineering BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechatronic-and-robotic-engineering-meng-87f08bbe43/">Mechatronic and Robotic Engineering MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechatronic-and-robotic-engineering-with-industrial-year-beng-d29713ab20/">Mechatronic and Robotic Engineering with Industrial Year BEng</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechatronic-and-robotic-engineering-with-industrial-year-meng-dcd1868d9d/">Mechatronic and Robotic Engineering with Industrial Year MEng</a><small>MEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medical-biochemistry-bsc-ffcecd3377/">Medical Biochemistry BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medical-humanities-intercalated-degree-ba-1b76161411/">Medical Humanities (Intercalated degree) BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medical-science-intercalated-degree-bmedsci-a4650eedb2/">Medical Science (Intercalated Degree)  BMedSci</a><small>BMedSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medical-sciences-intercalated-degree-msci-d359e4d6a9/">Medical Sciences (Intercalated degree) MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medicine-and-surgery-mbchb-cb09210f1f/">Medicine and Surgery MBChB</a><small>MBChB · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-bsc-b016d36f19/">Microbiology BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-msci-eb9102fe02/">Microbiology MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-with-international-year-bsc-3b8c7e38c8/">Microbiology with International Year BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-with-professional-placement-msci-a167beb9bd/">Microbiology with Professional Placement MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-with-study-in-continental-europe-bsc-81c667fcba/">Microbiology with Study in Continental Europe BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-midwifery-bsc-52341fa0d9/">Midwifery BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-midwifery-degree-apprenticeship-bsc-ff03905dc3/">Midwifery Degree Apprenticeship BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-ba-d957ff86cd/">Modern Languages BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-and-english-literature-ba-655c9913e6/">Modern Languages and English Literature BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-and-history-ba-53d9879324/">Modern Languages and History BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-with-business-management-ba-69ac0b7ba1/">Modern Languages with Business Management BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-with-digital-communications-ba-5b7158f244/">Modern Languages with Digital Communications BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-money-banking-and-finance-bsc-dubai-da90544be8/">Money, Banking and Finance  BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-money-banking-and-finance-bsc-d10c3e6d62/">Money, Banking and Finance BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-money-banking-and-finance-with-integrated-foundation-year-bsc-dub-6a29bca5cd/">Money, Banking and Finance with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-music-bmus-8f8b5c5fc0/">Music BMus</a><small>BMus · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-natural-sciences-bsc-a3c8e62569/">Natural Sciences BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-natural-sciences-msci-830cf5dbb5/">Natural Sciences MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-nursing-adult-bnurs-1ebcac23d6/">Nursing (Adult) BNurs</a><small>BNurs · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-nursing-child-bnurs-a1df7acfae/">Nursing (Child) BNurs</a><small>BNurs · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-nursing-mental-health-bnurs-bee1b7080a/">Nursing (Mental Health) BNurs</a><small>BNurs · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-palaeontology-and-geology-bsc-b215301160/">Palaeontology and Geology  BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-palaeontology-and-geology-msci-34efe24670/">Palaeontology and Geology MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-palaeontology-and-geology-with-an-international-year-msci-a6f70e8721/">Palaeontology and Geology with an International Year MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-pharmacy-mpharm-7f0e5ac186/">Pharmacy MPharm</a><small>MPharm · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-philosophy-ba-e4259de70b/">Philosophy BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-philosophy-and-sociology-ba-3aca08198c/">Philosophy and Sociology BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-philosophy-politics-and-law-ba-a2f1ffcb5f/">Philosophy, Politics and Law BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-philosophy-religion-and-ethics-ba-7897e4a9cd/">Philosophy, Religion and Ethics BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-international-study-bsc-5dec16bda6/">Physics (International Study) BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-international-study-msci-e02889e893/">Physics (International Study) MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-bsc-f6cd331803/">Physics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-msci-b8ddb8b94e/">Physics MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-and-astrophysics-international-study-bsc-7a1b8232ce/">Physics and Astrophysics (International Study) BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-and-astrophysics-bsc-0e2aae8767/">Physics and Astrophysics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-and-astrophysics-msci-7589fb21bb/">Physics and Astrophysics MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-data-science-msci-6e0ee70c85/">Physics with Data Science  MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-data-science-bsc-91cc974173/">Physics with Data Science BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-medical-physics-bsc-0916b822e9/">Physics with Medical Physics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-medical-physics-msci-3ae77777d0/">Physics with Medical Physics MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-particle-physics-and-cosmology-bsc-e44c4cb282/">Physics with Particle Physics and Cosmology BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-particle-physics-and-cosmology-msci-d1057084ae/">Physics with Particle Physics and Cosmology MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physiotherapy-msci-4bee31aba8/">Physiotherapy MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-policy-politics-and-economics-ba-254f15fb64/">Policy, Politics and Economics BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-policy-politics-and-economics-with-year-abroad-ba-aa7dc78837/">Policy, Politics and Economics with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-ba-4a09178c94/">Politics BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-international-relations-ba-b696289726/">Politics and International Relations BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-international-relations-with-year-abroad-ba-76db5ac54b/">Politics and International Relations with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-philosophy-ba-37d14510b3/">Politics and Philosophy BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-philosophy-with-year-abroad-ba-f758eb59f6/">Politics and Philosophy with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-social-policy-ba-cc2109b8f0/">Politics and Social Policy BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-social-policy-with-year-abroad-ba-9e9ae26d56/">Politics and Social Policy with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-sociology-ba-eeeb44068b/">Politics and Sociology BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-sociology-with-year-abroad-ba-ca6568a357/">Politics and Sociology with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-with-year-abroad-ba-4d82a3c4f6/">Politics with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-philosophy-and-economics-ba-b4e41bbb5b/">Politics, Philosophy and Economics BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-bsc-fe03c2122a/">Psychology BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-bsc-dubai-2519b4f628/">Psychology BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-and-psychological-practice-msci-2a1defdd85/">Psychology and Psychological Practice MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-in-education-bsc-b717475de7/">Psychology in Education BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-with-business-management-bsc-dubai-2606cb6f61/">Psychology with Business Management BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-with-business-management-integrated-foundation-year-bs-aea49b916c/">Psychology with Business Management Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-with-integrated-foundation-year-bsc-dubai-21ba50b9ab/">Psychology with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-with-year-abroad-bsc-cd267a706d/">Psychology with Year Abroad BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-public-and-global-health-sciences-msci-intercalated-degree-efc5d8cb94/">Public and Global Health Sciences  MSci - Intercalated Degree</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-robotics-and-artificial-intelligence-ai-beng-dubai-fbb9b50960/">Robotics and Artificial Intelligence (AI) BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-robotics-and-artificial-intelligence-ai-with-integrated-foundatio-09fdd8c56f/">Robotics and Artificial Intelligence (AI) with Integrated Foundation Year BEng (Dubai)</a><small>BEng · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-anthropology-ba-a0315bb2f8/">Social Anthropology BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-policy-ba-181eeafea2/">Social Policy BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-policy-and-criminology-ba-0231af9775/">Social Policy and Criminology BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-policy-and-criminology-with-year-abroad-ba-104f847dcf/">Social Policy and Criminology with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-policy-with-year-abroad-ba-62143b2785/">Social Policy with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-sciences-basc-10ea09a70c/">Social Sciences BASc</a><small>BASc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-work-ba-1dea99ddf9/">Social Work  BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-ba-fd54ca7276/">Sociology BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-and-criminology-ba-c20bae9af7/">Sociology and Criminology BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-and-criminology-with-year-abroad-ba-25a00067a1/">Sociology and Criminology with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-and-social-policy-ba-cc25f69c35/">Sociology and Social Policy  BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-and-social-policy-with-year-abroad-ba-1f12513ff0/">Sociology and Social Policy with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-with-year-abroad-ba-00e6622e1a/">Sociology with Year Abroad BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-spanish-ba-1bd264a9ae/">Spanish BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-spanish-and-italian-ba-2d5fc3bf91/">Spanish and Italian  BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-spanish-and-portuguese-ba-a0ddd5a143/">Spanish and Portuguese BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-spanish-and-russian-ba-f444712304/">Spanish and Russian BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sport-sciences-with-business-bsc-8f09dd539b/">Sport Sciences with Business BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sport-coaching-sciences-and-business-bsc-5ca7a888ed/">Sport, Coaching Sciences and Business BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sport-exercise-and-health-sciences-bsc-1e98800c86/">Sport, Exercise and Health Sciences BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sport-pe-and-coaching-science-bsc-891c4606a8/">Sport, PE and Coaching Science BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sustainability-bsc-dubai-0c1679a8b4/">Sustainability BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sustainability-with-integrated-foundation-year-bsc-dubai-e9c9638549/">Sustainability with Integrated Foundation Year BSc (Dubai)</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theology-and-religion-ba-9adfec2987/">Theology and Religion BA</a><small>BA · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theoretical-physics-bsc-e61559a4e8/">Theoretical Physics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theoretical-physics-msci-77322c0c2d/">Theoretical Physics MSci</a><small>MSci · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theoretical-physics-and-applied-mathematics-bsc-8a19a69a03/">Theoretical Physics and Applied Mathematics BSc</a><small>BSc · 仅补学校共用资料</small></article>
-<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theoretical-physics-and-applied-mathematics-msci-0f5e30703d/">Theoretical Physics and Applied Mathematics MSci</a><small>MSci · 仅补学校共用资料</small></article></div>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-accounting-and-finance-bsc-5c0965be8a/">会计与金融</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-accounting-and-finance-bsc-dubai-866443e321/">会计与金融（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-accounting-and-finance-with-business-analytics-bsc-44b67bf879/">会计与金融（商业分析方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-accounting-and-finance-with-integrated-foundation-year-bsc-dubai-47723a961f/">会计与金融（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-aerospace-engineering-beng-fd0d09e8e1/">航空航天工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-aerospace-engineering-meng-518d181f14/">航空航天工程</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-ancient-history-and-archaeology-ba-182134c590/">古代史与考古学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-ancient-and-medieval-history-ba-8a8ec56d8a/">古代史与中世纪史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-applied-golf-management-studies-bsc-504025760f/">应用高尔夫管理</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-ai-and-computer-science-bsc-2943477ab1/">人工智能与计算机科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-ai-and-computer-science-bsc-dubai-d59f9b5e0c/">人工智能与计算机科学（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-ai-and-computer-science-with-integrated-f-19e790df6b/">人工智能与计算机科学（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-ai-and-computer-science-with-a-year-in-in-dbc9a49fe8/">人工智能与计算机科学（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-artificial-intelligence-and-public-policy-bsc-5414b0b623/">人工智能与公共政策</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-bsc-business-management-with-communications-and-year-in-industry-343bb1bde5/">工商管理（传播方向）（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-bachelor-of-commercial-law-bcl-dubai-4b80d2201f/">商法（迪拜）</a><small>BCL · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-bachelor-of-commercial-law-with-integrated-foundation-year-bcl-du-ad8dc2e48f/">商法（含一体化预科年）（迪拜）</a><small>BCL · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-bsc-cf2a230944/">生物化学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-msci-ef52e4e134/">生物化学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-with-professional-placement-msci-8bac21621e/">生物化学（含专业实习）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-with-study-in-continental-europe-bsc-270df6a3e8/">生物化学（含欧洲大陆学习）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biochemistry-with-an-international-year-bsc-fca79ee609/">生物化学（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-bsc-e624ac14e0/">生物科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-msci-58c49e44a9/">生物科学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-with-professional-placement-msci-70f08bff28/">生物科学（含专业实习）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-with-study-in-continental-europe-bsc-b1620f6bef/">生物科学（含欧洲大陆学习）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biological-sciences-with-an-international-year-bsc-b71837ed6e/">生物科学（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-bsc-5bafaf1c83/">生物医学科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-bsc-dubai-63c23a56f8/">生物医学科学（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-msci-3fbeac7387/">生物医学科学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-msci-dubai-e1c4b2fddd/">生物医学科学（迪拜）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biomedical-sciences-with-integrated-foundation-year-bsc-dubai-6b7f77e2dd/">生物医学科学（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biotechnology-bsc-146b0cb42e/">生物技术</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biotechnology-msci-a3429ca1ea/">生物技术</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biotechnology-with-international-year-bsc-2a0a9f2761/">生物技术（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-biotechnology-with-placement-year-msci-85642a0ee9/">生物技术（含实习年）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-bsc-a3a995df1a/">工商管理</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-bsc-dubai-6a10ee9d80/">工商管理（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-business-analytics-bsc-ef2e06056d/">工商管理（商业分析方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-business-analytics-and-year-in-industry-e906dbe471/">工商管理（商业分析方向）（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-communications-bsc-c67d86698d/">工商管理（传播方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-economics-bsc-dubai-7def9849b4/">工商管理（经济学方向）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-economics-with-integrated-foundation-yea-e1d1567a01/">工商管理（经济学方向）（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-finance-bsc-dubai-5887887de5/">工商管理（金融方向）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-finance-with-integrated-foundation-year-e0c61561d9/">工商管理（金融方向）（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-human-resource-management-bsc-0f7f93fd23/">工商管理（人力资源管理方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-human-resource-management-with-year-in-i-c7e5eca283/">工商管理（人力资源管理方向）（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-industrial-placement-bsc-dubai-1876b6ab8d/">工商管理（含行业实习）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-integrated-foundation-year-bsc-dubai-05bf814d7a/">工商管理（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-integrated-foundation-year-and-industria-bf2893e3cb/">工商管理（含一体化预科年及行业实习）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-bsc-dubai-a4c1f3ef58/">工商管理（市场营销方向）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-bsc-23eb3ff02d/">工商管理（市场营销方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-and-industrial-placement-bsc-d-1077ba34df/">工商管理（市场营销方向）（含行业实习）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-and-integrated-foundation-year-7ebcbe490b/">工商管理（市场营销方向）（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-and-year-in-industry-bsc-e5bb51974f/">工商管理（市场营销方向）（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-marketing-with-industrial-placement-and-4a3f99fec0/">工商管理（市场营销方向，含行业实习及一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-operations-and-supply-chain-management-b-7fabc0092d/">工商管理（运营与供应链管理方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-operations-and-supply-chain-management-a-6bdd8fcf81/">工商管理（运营与供应链管理方向）（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-psychology-bsc-dubai-a12f93c72a/">工商管理（心理学方向）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-psychology-with-integrated-foundation-ye-ba66045305/">工商管理（心理学方向）（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-business-management-with-year-in-industry-bsc-4e08ad4030/">工商管理（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-international-study-meng-7a0fa64879/">化学工程（含海外学习）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-beng-262aa45703/">化学工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-meng-43596dfd14/">化学工程</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-with-industrial-study-beng-2307b60e10/">化学工程（含行业实习）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-with-industrial-study-meng-e130aa388c/">化学工程（含行业实习）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemical-engineering-with-international-and-industrial-study-meng-fb7ad1207a/">化学工程（含海外学习及行业实习）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-bsc-0447a54fdb/">化学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-msci-4c4e0523b3/">化学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-business-management-msci-426f8288d7/">化学（工商管理方向）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-business-management-bsc-6b7224d591/">化学（工商管理方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-foundation-year-bsc-3c99648273/">化学（含预科年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-medicinal-chemistry-and-drug-discovery-bsc-06cbc4d279/">化学（药物化学与药物发现方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-medicinal-chemistry-and-drug-discovery-msci-b6104d016c/">化学（药物化学与药物发现方向）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-study-abroad-msci-6c08fe63dc/">化学（含海外学习）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-sustainability-bsc-4ba0c972b4/">化学（可持续发展方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-sustainability-msci-cb15ba9679/">化学（可持续发展方向）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-a-modern-language-bsc-0a0bbf7eab/">化学与现代语言</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-a-modern-language-msci-cdc41630cd/">化学与现代语言</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-a-year-in-industry-bsc-c69d0a695e/">化学（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-chemistry-with-a-year-in-industry-msci-60e926ff23/">化学（含行业实习年）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-beng-72c950463b/">土木工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-beng-dubai-f766dd4d4c/">土木工程（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-meng-895f2ca45b/">土木工程</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-with-industrial-experience-meng-7494dd9f7b/">土木工程（含行业实践）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-with-industrial-year-meng-46b806f304/">土木工程（含行业实习年）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-with-integrated-foundation-year-beng-dubai-b161238b0d/">土木工程（含一体化预科年）（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-civil-engineering-with-international-study-meng-9655d87ef2/">土木工程（含海外学习）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-classics-and-ancient-history-ba-410d9e2247/">古典学与古代史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-clinical-anatomy-intercalated-degree-msci-118f4c542d/">临床解剖学（在读插读课程）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-clinical-science-intercalated-degree-msci-5c6bee37c8/">临床科学（在读插读课程）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-engineering-beng-dubai-7279446b30/">计算机工程（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-engineering-bsc-5a0dd271ab/">计算机工程</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-engineering-with-integrated-foundation-year-beng-dubai-84d9143280/">计算机工程（含一体化预科年）（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-bsc-84b17618b4/">计算机科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-bsc-dubai-7beca24ff5/">计算机科学（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-msci-ec965f08df/">计算机科学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-and-software-engineering-meng-dubai-4df52c41c3/">计算机科学与软件工程（迪拜）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-and-software-engineering-with-integrated-foundat-494d3797dc/">计算机科学与软件工程（含一体化预科年）（迪拜）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-integrated-foundation-year-bsc-dubai-1a88eeadfd/">计算机科学（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-study-abroad-bsc-e6b7e65e1f/">计算机科学（含海外学习）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-study-abroad-msci-071b0d4ab9/">计算机科学（含海外学习）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-a-year-in-industry-bsc-b0aa9401f9/">计算机科学（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-with-a-year-in-industry-msci-ac4d818a2e/">计算机科学（含行业实习年）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-software-engineering-meng-5b738fa0d8/">计算机科学／软件工程</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-computer-science-software-engineering-with-a-year-in-industry-men-507e45e0d1/">计算机科学／软件工程（含行业实习年）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-criminology-ba-e00a575bc4/">犯罪学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-criminology-with-year-abroad-ba-493d0adbb3/">犯罪学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-dental-hygiene-and-therapy-bsc-8d6ef9e788/">口腔卫生与治疗</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-dental-surgery-bds-729ee667f6/">牙医学</a><small>BDS · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-digital-media-and-communications-ba-045f7409b3/">数字媒体与传播</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-digital-media-and-communications-ba-dubai-f546df6395/">数字媒体与传播（迪拜）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-digital-media-and-communications-with-integrated-foundation-year-1ca5302651/">数字媒体与传播（含一体化预科年）（迪拜）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-digital-media-and-creative-industries-ba-f3c17d9c4c/">数字媒体与创意产业</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-drama-and-film-ba-caa2437efc/">戏剧与电影</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-ba-453353e112/">经济学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-bsc-ece2ab2ace/">经济学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-bsc-dubai-3ac939668c/">经济学（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-and-politics-bsc-d468668709/">经济学与政治学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-economics-with-integrated-foundation-year-bsc-dubai-20eb96e8e3/">经济学（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-education-ba-823800d0ac/">教育学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-education-and-sociology-ba-13198eaa3b/">教育学与社会学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-beng-d9fe4e5c48/">电子与电气工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-beng-dubai-85ac2481c1/">电子与电气工程（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-meng-3820a77edb/">电子与电气工程</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-with-industrial-year-meng-7cbe129387/">电子与电气工程（含行业实习年）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-with-industrial-year-beng-65176e82f7/">电子与电气工程（含行业实习年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-electronic-and-electrical-engineering-with-integrated-foundation-f2b8196975/">电子与电气工程（含一体化预科年）（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-energy-engineering-beng-60ec789331/">能源工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-energy-engineering-meng-ddea939589/">能源工程</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-energy-engineering-with-industrial-study-beng-9e498c807c/">能源工程（含行业实习）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-energy-engineering-with-industrial-study-meng-2c704e12f9/">能源工程（含行业实习）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-engineering-beng-738efb0342/">工程学</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-engineering-meng-9c05ef0108/">工程学</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-engineering-and-physical-sciences-foundation-year-beng-17abd36fe1/">工程与物理科学预科年</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-language-and-linguistics-ba-bba4913225/">英语语言与语言学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-literature-ba-d693fc420b/">英语文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-literature-and-creative-writing-ba-6cd1cbaf41/">英语文学与创意写作</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-literature-and-film-ba-249478809e/">英语文学与电影</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-english-literature-and-history-ba-522a462ff5/">英语文学与历史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-change-and-sustainability-bsc-eca15d23bc/">环境变化与可持续发展</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-change-and-sustainability-msci-635e9b0f08/">环境变化与可持续发展</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-change-and-sustainability-with-year-abroad-bsc-d93af54436/">环境变化与可持续发展（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-science-bsc-6b98d22efc/">环境科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-science-msci-b3fb24aa0b/">环境科学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-science-with-international-research-placement-bsc-b7c6ca058f/">环境科学（含海外研究实习）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-science-with-year-abroad-bsc-4cb6bfe90d/">环境科学（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-environmental-and-engineering-geoscience-bsc-378b959e3e/">环境与工程地球科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-film-and-creative-writing-ba-dde7f9d6a0/">电影与创意写作</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-film-and-television-ba-586388470b/">电影与电视</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-ba-310f10ce6f/">法语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-german-ba-cf157d0fc0/">法语与德语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-italian-ba-f0ab2286e4/">法语与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-portuguese-ba-4afeb73776/">法语与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-russian-ba-e54ba0b2b9/">法语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-french-and-spanish-ba-760a74c65b/">法语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-ba-b60241fee5/">地理学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-bsc-8bd1689a94/">地理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-msci-2c031efa99/">地理学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-and-urban-and-regional-planning-bsc-5e9e622ce8/">地理学与城市及区域规划</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-and-urban-and-regional-planning-with-year-abroad-bsc-b08d83988f/">地理学与城市及区域规划（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-with-business-ba-cce40fe38f/">地理学（商科方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-with-international-year-msci-8ae7a5bc00/">地理学（含海外学年）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-with-year-abroad-ba-64c1237530/">地理学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geography-with-year-abroad-bsc-7ac895ad9d/">地理学（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-bsc-462d839f18/">地质学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-msci-797aba1c8d/">地质学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-and-physical-geography-bsc-c904542251/">地质学与自然地理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-and-physical-geography-msci-c82022a227/">地质学与自然地理学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-and-physical-geography-with-an-international-year-msci-d9ca8e7b77/">地质学与自然地理学（含海外学年）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-geology-with-international-year-msci-a624ca56e1/">地质学（含海外学年）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-german-and-italian-ba-2fe59df8a7/">德语与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-german-and-russian-ba-55b2f5ee9f/">德语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-german-and-spanish-ba-02ac3d3d42/">德语与西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-health-management-and-leadership-intercalated-degree-msci-feadc28f98/">卫生管理与领导力（在读插读课程）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-history-ba-c6beb3c822/">历史学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-history-and-politics-ba-fcba1ce254/">历史学与政治学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-history-of-art-ba-a58f64f431/">艺术史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-human-neuroscience-bsc-1543ab5665/">人类神经科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-human-sciences-bsc-8eda3f0c29/">人类科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-human-sciences-msci-0cc57a3ab6/">人类科学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-business-bsc-4a52af3d21/">国际商务</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-development-and-politics-ba-84c32dfdc5/">国际发展与政治学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-development-and-politics-with-year-abroad-ba-25e06c327e/">国际发展与政治学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-law-and-globalisation-llb-19bef375fe/">国际法与全球化</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-ba-caed5998e1/">国际关系</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-and-development-ba-69c58e99cd/">国际关系与发展</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-and-development-with-year-abroad-ba-3643a58bec/">国际关系与发展（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-economics-ba-e597a7fe30/">国际关系（经济学方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-economics-with-year-abroad-ba-d1156ba788/">国际关系（经济学方向）（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-french-ba-b4d5409edd/">国际关系（法语方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-german-ba-e429df5608/">国际关系（德语方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-spanish-ba-b3e4847242/">国际关系（西班牙语方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-international-relations-with-year-abroad-ba-06eec3c08a/">国际关系（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-llb-for-graduates-llb-52a0dd1966/">法律（已有大学学位者入口）</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-law-llb-fd8beb129a/">法律</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-law-with-business-studies-llb-6e26f0026a/">法律与商科</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-law-with-criminology-llb-57779f5dda/">法律与犯罪学</a><small>LLB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-liberal-arts-ba-82eda1847b/">博雅教育</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mmedsc-posh-health-management-and-leadership-intercalated-degree-8715d05bb5/">PoSH 卫生管理与领导力（在读插读课程）</a><small>MMedSc · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-bsc-5556c26acc/">市场营销</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-bsc-dubai-a2d1532790/">市场营销（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-with-business-analytics-bsc-64af9c0202/">市场营销（商业分析方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-with-business-analytics-and-year-in-industry-bsc-dddd440ea6/">市场营销（商业分析方向）（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-with-industrial-placement-bsc-dubai-731e7a2d49/">市场营销（含行业实习）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-marketing-with-year-in-industry-bsc-af570bcc1c/">市场营销（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-materials-science-and-engineering-beng-cf7fa56411/">材料科学与工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-materials-science-and-engineering-meng-90eaaafc58/">材料科学与工程</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-materials-science-and-engineering-with-industrial-experience-meng-39178c6011/">材料科学与工程（含行业实践）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematical-economics-and-statistics-bsc-7a4663091f/">数理经济学与统计学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematical-sciences-bsc-1636fcafd6/">数学科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-bsc-6704b57b5b/">数学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-msci-1c3b49c076/">数学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-computer-science-msci-d1a84dca6f/">数学与计算机科学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-computer-science-bsc-255e59548c/">数学与计算机科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-computer-science-with-industrial-year-bsc-e3c296ac6c/">数学与计算机科学（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-computer-science-with-industrial-year-msci-8691e1e75f/">数学与计算机科学（含行业实习年）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-music-ba-582be04ec2/">数学与音乐</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-and-philosophy-ba-af7ac99f04/">数学与哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-business-management-bsc-bc94058a48/">数学（工商管理方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-business-management-msci-4524bd6715/">数学（工商管理方向）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-study-in-continental-europe-bsc-4a3ef6a45f/">数学（含欧洲大陆学习）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-a-year-in-industry-bsc-4f3562eb23/">数学（含行业实习年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-with-an-international-year-bsc-bfa42857ee/">数学（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mathematics-statistics-and-data-science-bsc-406bb686b5/">数学、统计与数据科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-automotive-meng-9b9819fc59/">机械工程（汽车方向）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-automotive-beng-64051f5a04/">机械工程（汽车方向）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-biomedical-beng-dubai-0622c903f5/">机械工程（生物医学方向）（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-biomedical-with-integrated-foundation-year-a8cd0d18f7/">机械工程（生物医学方向）（含一体化预科年）（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-beng-c73a38024f/">机械工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-beng-dubai-0d761d8233/">机械工程（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-meng-76d6913635/">机械工程</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-meng-dubai-219c72dcc6/">机械工程（迪拜）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-industrial-year-beng-14a1868d08/">机械工程（含行业实习年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-industrial-year-meng-7629236881/">机械工程（含行业实习年）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-integrated-foundation-year-meng-dubai-d25b74bda9/">机械工程（含一体化预科年）（迪拜）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-integrated-foundation-year-beng-dubai-eb77417640/">机械工程（含一体化预科年）（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechanical-engineering-with-a-year-abroad-meng-77bbc23757/">机械工程（含海外学年）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechatronic-and-robotic-engineering-beng-5448e123f4/">机电一体化与机器人工程</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechatronic-and-robotic-engineering-meng-87f08bbe43/">机电一体化与机器人工程</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechatronic-and-robotic-engineering-with-industrial-year-beng-d29713ab20/">机电一体化与机器人工程（含行业实习年）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-mechatronic-and-robotic-engineering-with-industrial-year-meng-dcd1868d9d/">机电一体化与机器人工程（含行业实习年）</a><small>MEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medical-biochemistry-bsc-ffcecd3377/">医学生物化学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medical-humanities-intercalated-degree-ba-1b76161411/">医学人文学（在读插读课程）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medical-science-intercalated-degree-bmedsci-a4650eedb2/">医学科学（在读插读课程）</a><small>BMedSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medical-sciences-intercalated-degree-msci-d359e4d6a9/">医学科学（在读插读课程）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-medicine-and-surgery-mbchb-cb09210f1f/">医学与外科</a><small>MBChB · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-bsc-b016d36f19/">微生物学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-msci-eb9102fe02/">微生物学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-with-international-year-bsc-3b8c7e38c8/">微生物学（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-with-professional-placement-msci-a167beb9bd/">微生物学（含专业实习）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-microbiology-with-study-in-continental-europe-bsc-81c667fcba/">微生物学（含欧洲大陆学习）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-midwifery-bsc-52341fa0d9/">助产学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-midwifery-degree-apprenticeship-bsc-ff03905dc3/">助产学（学位学徒制）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-ba-d957ff86cd/">现代语言</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-and-english-literature-ba-655c9913e6/">现代语言与英语文学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-and-history-ba-53d9879324/">现代语言与历史</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-with-business-management-ba-69ac0b7ba1/">现代语言（工商管理方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-modern-languages-with-digital-communications-ba-5b7158f244/">现代语言（数字传播方向）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-money-banking-and-finance-bsc-dubai-da90544be8/">货币、银行与金融（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-money-banking-and-finance-bsc-d10c3e6d62/">货币、银行与金融</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-money-banking-and-finance-with-integrated-foundation-year-bsc-dub-6a29bca5cd/">货币、银行与金融（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-music-bmus-8f8b5c5fc0/">音乐</a><small>BMus · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-natural-sciences-bsc-a3c8e62569/">自然科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-natural-sciences-msci-830cf5dbb5/">自然科学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-nursing-adult-bnurs-1ebcac23d6/">护理（成人方向）</a><small>BNurs · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-nursing-child-bnurs-a1df7acfae/">护理（儿童方向）</a><small>BNurs · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-nursing-mental-health-bnurs-bee1b7080a/">护理（精神健康方向）</a><small>BNurs · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-palaeontology-and-geology-bsc-b215301160/">古生物学与地质学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-palaeontology-and-geology-msci-34efe24670/">古生物学与地质学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-palaeontology-and-geology-with-an-international-year-msci-a6f70e8721/">古生物学与地质学（含海外学年）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-pharmacy-mpharm-7f0e5ac186/">药学</a><small>MPharm · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-philosophy-ba-e4259de70b/">哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-philosophy-and-sociology-ba-3aca08198c/">哲学与社会学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-philosophy-politics-and-law-ba-a2f1ffcb5f/">哲学、政治学与法律</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-philosophy-religion-and-ethics-ba-7897e4a9cd/">哲学、宗教与伦理学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-international-study-bsc-5dec16bda6/">物理学（含海外学习）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-international-study-msci-e02889e893/">物理学（含海外学习）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-bsc-f6cd331803/">物理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-msci-b8ddb8b94e/">物理学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-and-astrophysics-international-study-bsc-7a1b8232ce/">物理学与天体物理学（含海外学习）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-and-astrophysics-bsc-0e2aae8767/">物理学与天体物理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-and-astrophysics-msci-7589fb21bb/">物理学与天体物理学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-data-science-msci-6e0ee70c85/">物理学（数据科学方向）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-data-science-bsc-91cc974173/">物理学（数据科学方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-medical-physics-bsc-0916b822e9/">物理学（医学物理方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-medical-physics-msci-3ae77777d0/">物理学（医学物理方向）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-particle-physics-and-cosmology-bsc-e44c4cb282/">物理学（粒子物理与宇宙学方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physics-with-particle-physics-and-cosmology-msci-d1057084ae/">物理学（粒子物理与宇宙学方向）</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-physiotherapy-msci-4bee31aba8/">物理治疗</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-policy-politics-and-economics-ba-254f15fb64/">政策、政治学与经济学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-policy-politics-and-economics-with-year-abroad-ba-aa7dc78837/">政策、政治学与经济学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-ba-4a09178c94/">政治学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-international-relations-ba-b696289726/">政治学与国际关系</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-international-relations-with-year-abroad-ba-76db5ac54b/">政治学与国际关系（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-philosophy-ba-37d14510b3/">政治学与哲学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-philosophy-with-year-abroad-ba-f758eb59f6/">政治学与哲学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-social-policy-ba-cc2109b8f0/">政治学与社会政策</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-social-policy-with-year-abroad-ba-9e9ae26d56/">政治学与社会政策（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-sociology-ba-eeeb44068b/">政治学与社会学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-and-sociology-with-year-abroad-ba-ca6568a357/">政治学与社会学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-with-year-abroad-ba-4d82a3c4f6/">政治学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-politics-philosophy-and-economics-ba-b4e41bbb5b/">政治学、哲学与经济学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-bsc-fe03c2122a/">心理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-bsc-dubai-2519b4f628/">心理学（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-and-psychological-practice-msci-2a1defdd85/">心理学与心理实践</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-in-education-bsc-b717475de7/">教育心理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-with-business-management-bsc-dubai-2606cb6f61/">心理学（工商管理方向）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-with-business-management-integrated-foundation-year-bs-aea49b916c/">心理学（工商管理方向）（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-with-integrated-foundation-year-bsc-dubai-21ba50b9ab/">心理学（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-psychology-with-year-abroad-bsc-cd267a706d/">心理学（含海外学年）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-public-and-global-health-sciences-msci-intercalated-degree-efc5d8cb94/">公共与全球卫生科学（在读插读课程）</a><small>MSci · 仅补学校共用资料</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-robotics-and-artificial-intelligence-ai-beng-dubai-fbb9b50960/">机器人与人工智能（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-robotics-and-artificial-intelligence-ai-with-integrated-foundatio-09fdd8c56f/">机器人与人工智能（含一体化预科年）（迪拜）</a><small>BEng · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-anthropology-ba-a0315bb2f8/">社会人类学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-policy-ba-181eeafea2/">社会政策</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-policy-and-criminology-ba-0231af9775/">社会政策与犯罪学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-policy-and-criminology-with-year-abroad-ba-104f847dcf/">社会政策与犯罪学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-policy-with-year-abroad-ba-62143b2785/">社会政策（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-sciences-basc-10ea09a70c/">社会科学</a><small>BASc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-social-work-ba-1dea99ddf9/">社会工作</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-ba-fd54ca7276/">社会学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-and-criminology-ba-c20bae9af7/">社会学与犯罪学</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-and-criminology-with-year-abroad-ba-25a00067a1/">社会学与犯罪学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-and-social-policy-ba-cc25f69c35/">社会学与社会政策</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-and-social-policy-with-year-abroad-ba-1f12513ff0/">社会学与社会政策（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sociology-with-year-abroad-ba-00e6622e1a/">社会学（含海外学年）</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-spanish-ba-1bd264a9ae/">西班牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-spanish-and-italian-ba-2d5fc3bf91/">西班牙语与意大利语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-spanish-and-portuguese-ba-a0ddd5a143/">西班牙语与葡萄牙语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-spanish-and-russian-ba-f444712304/">西班牙语与俄语</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sport-sciences-with-business-bsc-8f09dd539b/">运动科学（商科方向）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sport-coaching-sciences-and-business-bsc-5ca7a888ed/">运动、教练科学与商科</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sport-exercise-and-health-sciences-bsc-1e98800c86/">运动、锻炼与健康科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sport-pe-and-coaching-science-bsc-891c4606a8/">运动、体育教育与教练科学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sustainability-bsc-dubai-0c1679a8b4/">可持续发展（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-sustainability-with-integrated-foundation-year-bsc-dubai-e9c9638549/">可持续发展（含一体化预科年）（迪拜）</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theology-and-religion-ba-9adfec2987/">神学与宗教</a><small>BA · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theoretical-physics-bsc-e61559a4e8/">理论物理学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theoretical-physics-msci-77322c0c2d/">理论物理学</a><small>MSci · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theoretical-physics-and-applied-mathematics-bsc-8a19a69a03/">理论物理学与应用数学</a><small>BSc · 部分专业资料已核实</small></article>
+<article><a class="" href="/study-abroad-handbook/catalog/uk/birmingham/birmingham-theoretical-physics-and-applied-mathematics-msci-0f5e30703d/">理论物理学与应用数学</a><small>MSci · 部分专业资料已核实</small></article></div>
 
 ## 学校共用申请资料
 
@@ -377,28 +377,42 @@ hide:
 
 ### 入学条件
 
-<p class="catalog-fact"><strong>大陆高考及高中要求：</strong>高考通常至少满分80%；要求A-level数学的课程另需高考数学80%。高中二、三年平均成绩及所需相关科目通常至少85%。省份换算表本页明确为2025版，本轮未取得2027省份更新表，不能直接沿用旧表绝对分数。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-b5e21d9e3606a9">官方依据</a></p>
+<p class="catalog-fact"><strong>中国普高与高考（英国校区普通本科）：</strong>全校中国路径通常要求高考达到满分 80%，高中二、三年平均至少 85%；有 A-level 数学要求的课程另需高考数学 80%，相关指定高中科目至少 85%。网页省份绝对分数表为 2025 版，本轮未取得可用于 2027 的省份更新表。医学、牙科、在读插读、学徒制、UK 限定路线及迪拜不能直接套用。</p>
+<p class="fact-sources"><a href="#source-u-BHM-4f34a731b591924e">官方依据</a></p>
 
-<p class="catalog-fact"><strong>其他资格与限制：</strong>可按课程使用A-level／IB；普通高中毕业者可先修认可预科。AST须与高中平均70%配合，A*=250、A=210、B=170；须另满足英语及专业条件，临床课程和校区另有例外，不能把该路径泛化到所有学位。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-569b5241747e29">官方依据</a></p>
+<p class="catalog-fact"><strong>其他中国申请路径（英国校区）：</strong>A-level、IB 按具体课程的科目及等级评估；普通高中毕业可先完成认可预科，认可的二至三年制大专通常需平均 80%。AST 与高中平均至少 70% 配合，换算 A*=250、A=210、B=170；还须满足专业和英语条件，临床学位可能不适用。</p>
+<p class="fact-sources"><a href="#source-u-BHM-13cd72977bec9790">官方依据</a></p>
+
+<p class="catalog-fact"><strong>英语及国际课程边界：</strong>英语门槛按课程分级列在下方，不使用全校统一 IELTS 分数替代。中国境内就读 OSSD 的英语认可有就读年数、年级英语成绩与两学年有效期条件；学校同时明确，加拿大境外 OSSD 及 AST 的英国校区认可政策不能自动用于迪拜，这两种资格当前不满足其所述 UAE Grade 12 认可。</p>
+<p class="fact-sources"><a href="#source-u-BHM-13cd72977bec9790">官方依据</a></p>
 
 ### 申请安排
 
-<p class="catalog-fact"><strong>2027 UCAS常规周期：</strong>适用UCAS常规截止的2027本科须在2027年1月13日英国18:00前提交以获得平等审理；医学、牙科、兽医等部分课程在2026年10月15日早截止。课程可另有特殊渠道，考试报名和材料日期另核。2026年9月12日核验时常规截止尚未到。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-6ff2a5ce1a9f38">官方依据</a> · <a href="#source-u-UKENR-f5da9307fd5b4a">官方依据</a></p>
+<p class="catalog-fact"><strong>2027 年 UCAS 普通本科：</strong>2027 年入学普通 UCAS 本科平等审理截止为 2027 年 1 月 13 日英国时间 18:00；医学和牙科等早截止课程为 2026 年 10 月 15 日。2026 年 9 月 13 日核验时上述截止尚未到。插读、雇主学徒制和迪拜使用专门渠道，不能套用普通截止。</p>
+<p class="fact-sources"><a href="#source-u-BHM-d3d4d8b5799952e8">官方依据</a></p>
+
+<p class="catalog-fact"><strong>UCAS 日期口径：</strong>2027 入学申请已可提交；医学、牙科的 2026 年 10 月 15 日截止与大多数本科的 2027 年 1 月 13 日截止分别适用。学校课程页的待定栏不改变 UCAS 平等审理日期；考试与专业补充材料可另有期限。</p>
+<p class="fact-sources"><a href="#source-u-BHM-e2b72287db5df0da">官方依据</a></p>
 
 ### 学费与资助
 
-<p class="catalog-fact"><strong>奖学金年份边界：</strong>中国页所列High Fliers奖学金为2026年9月入学GBP 5,000，并标注已关闭；本轮未取得可据此认定的2027同等奖项。</p>
-<p class="fact-sources"><a href="#source-u-UKENR-569b5241747e29">官方依据</a></p>
+<p class="catalog-fact"><strong>中国本科奖学金年份：</strong>中国页的 High Fliers 奖学金为 2026 年 9 月入学、学费减免 GBP 5,000，已标关闭；国际奖学金目录列该奖截止为 2026 年 6 月 12 日。本轮未取得可把同额奖项当作 2027 保证资助的依据。奖项须另看申请资格、学科排除和期限。</p>
+<p class="fact-sources"><a href="#source-u-BHM-13cd72977bec9790">官方依据</a> · <a href="#source-u-BHM-d5abade91ebc91d5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>奖学金查找入口：</strong>官方国际奖学金目录按地区和学习层次区分；中国本科活动奖、High Fliers 与研究生 Chancellor/CSC 奖不能相互替代。各专业未核到独立 2027 奖项时，不预扣奖学金计算净学费。</p>
+<p class="fact-sources"><a href="#source-u-BHM-d5abade91ebc91d5">官方依据</a></p>
+
+<p class="catalog-fact"><strong>学费年计与实习年口径：</strong>英国本科通常按年收学费；国际生整个学年在海外学习或企业实习时，学校一般条款列该年为约定学费的 50%，不能误用 Home 栏的 15%。临床及国际预科不适用普通国际生的多年不涨价例外规则，确切金额须看个人 offer。</p>
+<p class="fact-sources"><a href="#source-u-BHM-28dbbf7e39f629d5">官方依据</a></p>
 
 ### 学校资料来源
 
-<div class="catalog-source" id="source-u-UKENR-b5e21d9e3606a9"><div><a href="https://www.birmingham.ac.uk/international/students/country/china/gaokao">Birmingham 高考要求 ↗</a><p>高考与高中成绩、数学科目、2025省份表</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-569b5241747e29"><div><a href="https://www.birmingham.ac.uk/study/international/country/china">Birmingham 中国申请资格 ↗</a><p>高考、其他本科资格、奖学金适用年份</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-6ff2a5ce1a9f38"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS 2027平等审理截止 ↗</a><p>2027年1月13日18:00英国时间；迟交不保证同等审理</p><small>核验 2026-09-12</small></div></div>
-<div class="catalog-source" id="source-u-UKENR-f5da9307fd5b4a"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS 2026／2027申请日历 ↗</a><p>2027申请提交、牛剑和医学早截止、常规平等审理截止</p><small>核验 2026-09-12</small></div></div>
+<div class="catalog-source" id="source-u-BHM-4f34a731b591924e"><div><a href="https://www.birmingham.ac.uk/international/students/country/china/gaokao">伯明翰：中国高考要求 ↗</a><p>中国普高与高考（英国校区普通本科）</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-BHM-13cd72977bec9790"><div><a href="https://www.birmingham.ac.uk/study/international/country/china">伯明翰：中国申请者资格 ↗</a><p>其他中国申请路径（英国校区）；英语及国际课程边界；中国本科奖学金年份</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-BHM-d3d4d8b5799952e8"><div><a href="https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546">UCAS：2027 普通本科平等审理截止 ↗</a><p>2027 年 UCAS 普通本科</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-BHM-e2b72287db5df0da"><div><a href="https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications">UCAS：申请日期与截止 ↗</a><p>UCAS 日期口径</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-BHM-d5abade91ebc91d5"><div><a href="https://www.birmingham.ac.uk/study/international/fees/scholarships">伯明翰：国际奖学金目录 ↗</a><p>奖学金查找入口；中国本科奖学金年份与截止</p><small>核验 2026-09-13</small></div></div>
+<div class="catalog-source" id="source-u-BHM-28dbbf7e39f629d5"><div><a href="https://www.birmingham.ac.uk/study/undergraduate/fees-funding/tuition">伯明翰：本科费用及国际生规则 ↗</a><p>学费年计与实习年口径</p><small>核验 2026-09-13</small></div></div>
 
 ## 专业目录覆盖记录
 
@@ -406,14 +420,368 @@ hide:
 
 <p><strong>统计范围：</strong>Use exact undergraduate academicLevel ID emitted by official UI；pageSize=500 returns 345 cards with no remaining pagination；All subjects and study locations, including Dubai, intercalated and graduate-entry undergraduate programmes；Three non-bachelor standalone records separately excluded: pre-sessional English, Food Safety and Food Legislation CertHE, Professional Golf Studies FdSc. Foundation pathways attached to bachelor degrees are retained.</p>
 
-<p><strong>对账方法：</strong>[{&quot;default_pagination&quot;: &quot;35 pages at 10/page&quot;, &quot;expanded_source&quot;: &quot;https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true&quot;, &quot;pageSize&quot;: 500, &quot;received_cards&quot;: 345, &quot;next_button_present&quot;: false}]</p>
+<p><strong>对账方法：</strong>[{&quot;default_pagination&quot;: &quot;35 pages at 10/page&quot;, &quot;expanded_source&quot;: &quot;https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&amp;pageSize=500&amp;preventScrollTop=true&quot;, &quot;pageSize&quot;: 500, &quot;received_cards&quot;: 345, &quot;next_button_present&quot;: false}] 逐项复核342条：338个实质课程页、1个2027简章课程、1个明确停招通知；2个旧插读详情仍缺。当前事实区分英国／迪拜、2025／2026／2027版本与特殊入口。</p>
 
 <p><strong>排除项：</strong>Use exact undergraduate academicLevel ID emitted by official UI；pageSize=500 returns 345 cards with no remaining pagination；All subjects and study locations, including Dubai, intercalated and graduate-entry undergraduate programmes；Three non-bachelor standalone records separately excluded: pre-sessional English, Food Safety and Food Legislation CertHE, Professional Golf Studies FdSc. Foundation pathways attached to bachelor degrees are retained.</p>
 
 **尚未解决的目录缺口：**
 
 - {&#x27;note&#x27;: &#x27;Current directory presence is distinct from open admissions; entry year is not stated on search cards.&#x27;}
+- 目录345张卡片减3项非学士已闭合为342条；其中1项明确停招、2项旧插读详情缺失。70条实质页面仅2026或2025版本，费用保留各自年份，未据目录存在断言当年开放。
+- 专业毕业统计和独立完整授课语种仍待补；职业方向不是课程就业率。旧价不是2027已定价。
 
 - [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/course-search?academicLevel=73e0fd63-0e06-4007-9898-316387e121ec&pageSize=500&preventScrollTop=true)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc)
+- [官方目录来源](https://www.ucas.com/events/2027-entry-deadline-for-all-undergraduate-courses-except-those-with-a-15-october-deadline-475546)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/aerospace-engineering-courses/aerospace-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/aerospace-engineering-courses/aerospace-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/history-courses/ancient-and-medieval-history-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/classics-ancient-history-and-archaeology-courses/ancient-history-and-archaeology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/artificial-intelligence-ai-computer-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/artificial-intelligence-ai-computer-science-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/computer-science-courses/artificial-intelligence-and-computer-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/apply/entry-requirements)
+- [官方目录来源](https://www.birmingham.ac.uk/study/international/country/china)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/apply)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/apply/faqs)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/fees/scholarships)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/computer-science-courses/artificial-intelligence-and-computer-science-with-foundation-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/medical-humanities-intercalated-degree)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/criminology-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/media-and-marketing-courses/digital-media-and-communications-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/media-and-marketing-courses/digital-media-and-communications-with-foundation-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/drama-courses/drama-and-film-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/film-creative-writing-courses/english-literature-and-film-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/french-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/french-and-german-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/french-and-italian-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/french-and-portuguese-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/french-and-russian-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/french-and-spanish-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/geography-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/german-and-italian-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/german-and-russian-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/german-and-spanish-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/international-development-and-politics-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/international-relations-and-development-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/international-relations-with-economics-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/international-relations-with-french-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/Documents/students/undergraduate/undergraduate-prospectus-2027.pdf)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/international-relations-with-spanish-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/international-relations-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/philosophy-courses/mathematics-and-philosophy-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/modern-languages-and-english-literature-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/modern-languages-with-business-management-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/philosophy-courses/philosophy-and-sociology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/theology-and-religion-courses/philosophy-religion-and-ethics-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/policy-politics-economics-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-and-international-relations-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-and-philosophy-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/philosophy-courses/politics-and-philosophy-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-and-social-policy-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-and-social-policy-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-and-sociology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-and-sociology-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/social-policy-and-criminology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/social-policy-and-criminology-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/sociology-and-criminology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/sociology-and-criminology-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/social-policy-and-sociology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/sociology-and-social-policy-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/sociology-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/spanish-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/spanish-and-italian-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/spanish-and-portuguese-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/spanish-and-russian-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/law-courses/bachelor-commercial-law)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/law-courses/bachelor-of-commercial-law-with-integrated-foundation-year-bcl)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biochemistry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biochemistry-with-professional-placement-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biological-sciences-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biological-sciences-with-professional-placement-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/biomedical-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/biomedical-science-courses/biomedical-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/biomedical-science-courses/biomedical-science-bsc-with-integrated-foundation-year)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/biomedical-science-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/biomedical-science-courses/biomedical-science-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biotechnology-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biotechnology-with-placement-year-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/education-courses/psychology-in-education-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/accounting-and-finance-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-with-business-analytics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/accounting-and-finance-with-foundation-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/golf-management-courses/applied-golf-management-studies-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/campaigns/social-sciences/artificial-intelligence-and-public-policy-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biochemistry-with-an-international-year-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biochemistry-with-study-in-continental-europe-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biological-sciences-with-an-international-year-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biological-sciences-with-study-in-continental-europe-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biotechnology-with-international-year-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-year-in-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-business-analytics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-business-analytics-and-year-in-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-communications-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-comms-and-year-in-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-economics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-economics-with-foundation-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-finance-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-finance-with-foundation-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-human-resource-management-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-human-resource-management-with-year-in-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-industrial-placement-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-foundation-and-industrial-placement-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-foundation-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-marketing-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-marketing-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-marketing-with-placement-and-foundation-year-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-marketing-industrial-placement-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-marketing-and-foundation-year-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-marketing-and-year-in-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-with-operations-and-supply-chain-management-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/bsc-business-management-with-operations-and-supply-chain-management-and-year-in-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-psychology-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/business-management-with-psychology-with-foundation-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/economics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-and-politics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/economics-with-foundation-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/environmental-change-and-sustainability-with-year-abroad-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/environmental-science-with-international-research-placement-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/environmental-science-with-year-abroad-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/geography-and-urban-and-regional-planning-with-year-abroad-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/geography-with-year-abroad-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/geology-and-physical-geography-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/international-business-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/marketing-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/bsc-marketing-dubai)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/marketing-with-business-analytics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/marketing-with-business-analytics-and-year-in-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/bsc-marketing-and-industrial-placement-dubai)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/marketing-with-year-in-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/mathematical-economics-and-statistics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/microbiology-bsc-with-international-year)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/microbiology-bsc-with-study-in-continental-europe)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/bsc-midwifery)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/money-banking-and-finance-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/business-and-finance-courses/money-banking-and-finance-with-foundation-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/psychology-courses/psychology-with-business-management-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/psychology-courses/psychology-with-business-management-bsc-integrated)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/psychology-with-year-abroad-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/sport-sciences-courses/sport-sciences-with-business)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/sport-sciences-courses/sport-pe-and-coaching-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/geography-earth-and-environmental-sciences-courses/sustainability-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-international-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-industrial-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-industrial-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/chemical-engineering-international-industrial-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-modern-language-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-modern-language-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-industry-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-business-management-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-business-management-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-foundation-year)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-medicinal-drug-discovery-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-medicinal-chemistry-drug-discovery-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-study-abroad-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-sustainability-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemistry-courses/chemistry-sustainability-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/civil-engineering-courses/civil-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/civil-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/civil-engineering-courses/civil-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/civil-engineering-courses/civil-engineering-industrial-experience-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/civil-engineering-courses/civil-engineering-industrial-year-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/civil-engineering-with-foundation-year-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/civil-engineering-courses/civil-engineering-international-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/classics-ancient-history-and-archaeology-courses/classical-literature-and-civilisation-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/clinical-anatomy-msci-intercalated-degree)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/medical-sciences-msci-intercalated-degree)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/computer-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/computer-engineering-with-foundation-year-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/electronic-electrical-and-systems-engineering-courses/computer-engineering-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/computer-science-courses/computer-science-and-software-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/computer-science-courses/computer-science-and-software-engineering-with-foundation-year-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/computer-science-courses/computer-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/computer-science-courses/computer-science-with-foundation-year-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-industry-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-study-abroad-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-study-abroad-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-software-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/computer-science-courses/computer-science-software-engineering-industry-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/criminology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/dentistry-courses/dental-hygiene-and-therapy-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/dentistry-courses/dental-surgery-bds)
+- [官方目录来源](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/dentistry/undergraduate/applying-to-dentistry/entry-requirements)
+- [官方目录来源](https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications)
+- [官方目录来源](https://www.ucat.ac.uk/about-ucat/ucat-test-dates/)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/fees-funding/tuition)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/english-language-and-linguistics-courses/digital-media-and-communications-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/drama-courses/digital-media-and-creative-industries-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/education-courses/education-and-sociology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/education-courses/education-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/electronic-electrical-and-systems-engineering-courses/electronic-electrical-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/electronic-electrical-engineering)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/electronic-electrical-and-systems-engineering-courses/electronic-electrical-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/electronic-electrical-and-systems-engineering-courses/electronic-electrical-engineering-industrial-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/electronic-electrical-and-systems-engineering-courses/electronic-electrical-engineering-industrial-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/electronic-electrical-engineering-integrated-foundation-year-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/energy-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/energy-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/energy-engineering-industrial-study-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/chemical-engineering-courses/energy-engineering-industrial-study-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/engineering-courses/engineering-physical-sciences-foundation-year)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/engineering-courses/engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/engineering-courses/engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/english-language-and-linguistics-courses/english-language-and-linguistics-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/film-creative-writing-courses/english-literature-and-creative-writing-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/english-literature-courses/english-literature-and-history-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/english-literature-courses/english-literature-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/environmental-and-engineering-geoscience-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/environmental-change-and-sustainability-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/environmental-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/film-creative-writing-courses/film-and-creative-writing-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/film-creative-writing-courses/film-and-television-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/geography-and-urban-and-regional-planning-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/geography-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/geography-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/geography-with-business-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/geology-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/health-management-and-leadership-msci-intercalated-degree)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/history-courses/history-and-politics-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/history-courses/history-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/history-of-art-courses/history-of-art-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/human-neuroscience-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/human-sciences-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/international-development-and-politics-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/law-courses/international-law-and-globalisation-llb)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/international-relations-and-development-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/international-relations-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/international-relations-with-economics-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/law-courses/law-llb)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/law-courses/llb-for-graduates)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/law-courses/law-with-business-studies-llb)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/law-courses/law-with-criminology-llb)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/liberal-arts-courses/liberal-arts-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/materials-science-and-engineering-courses/materials-science-and-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/materials-science-and-engineering-courses/materials-science-and-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/materials-science-and-engineering-courses/materials-science-engineering-industrial-experience-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematical-sciences-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-computer-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-computer-science-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-computer-science-industrial-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-computer-science-industrial-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/music-courses/mathematics-and-music-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-industry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-international-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-business-management-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-business-management-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-continental-europe-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mathematics-courses/mathematics-statistics-data-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mechanical-engineering-courses/mechanical-engineering-automotive-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mechanical-engineering-courses/mechanical-engineering-automotive-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/mechanical-engineering-biomedical-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/mechanical-engineering-biomedical-foundation-year-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mechanical-engineering-courses/mechanical-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/mechanical-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/mechanical-engineering-with-foundation-year-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mechanical-engineering-courses/mechanical-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/mechanical-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/mechanical-engineering-with-foundation-year-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mechanical-engineering-courses/mechanical-engineering-year-abroad-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mechanical-engineering-courses/mechanical-engineering-industrial-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/mechanical-engineering-courses/mechanical-engineering-industrial-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/electronic-electrical-and-systems-engineering-courses/mechatronic-robotic-engineering-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/electronic-electrical-and-systems-engineering-courses/mechatronic-robotic-engineering-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/electronic-electrical-and-systems-engineering-courses/mechatronic-robotic-engineering-industrial-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/electronic-electrical-and-systems-engineering-courses/mechatronic-robotic-engineering-industrial-meng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/medical-biochemistry-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/medical-science-bmedsc-intercalated-degree)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/medicine-and-surgery-mbchb)
+- [官方目录来源](https://www.birmingham.ac.uk/about/college-of-medicine-and-health/birmingham-medical-school/applying-to-medicine/entry-requirements-medicine-and-surgery-five-year)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/microbiology-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/midwifery-bsc-degree-apprenticeship)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/modern-languages-and-history-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/modern-languages-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/modern-languages-courses/modern-languages-with-digital-communications-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/money-banking-and-finance-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biochemistry-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biological-sciences-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/biotechnology-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/environmental-change-and-sustainability-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/environmental-science-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/geography-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geography-urban-planning-and-environmental-sciences-courses/geography-with-international-year-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/geology-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/geology-and-physical-geography-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/geology-and-physical-geography-with-an-international-year-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/geology-with-an-international-year-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/human-sciences-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/microbiology-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/biosciences-courses/microbiology-msci-with-professional-placement)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/natural-sciences-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/palaeontology-and-geology-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/palaeontology-and-geology-with-an-international-year-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physiotherapy-courses/physiotherapy-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/psychology-and-psychological-practice-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/music-courses/music-bmus)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/natural-sciences-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/nursing-bnurs-adult)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/nursing-bnurs-child)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/nursing-bnurs-mental-health)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/geology-and-earth-sciences-courses/palaeontology-and-geology-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/medicine-courses/mpharm-pharmacy-4-year)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/philosophy-courses/philosophy-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/philosophy-courses/philosophy-politics-and-law-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-international-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-international-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-astrophysics-international-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-astrophysics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-astrophysics-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-data-science-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-data-science-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-medical-physics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-medical-physics-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-particle-physics-cosmology-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/physics-particle-physics-cosmology-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/policy-politics-and-economics-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-and-international-relations-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/psychology-and-neuroscience-courses/psychology-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/psychology-courses/psychology-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/psychology-courses/psychology-bsc-integrated-foundation-year)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/robotics-artificial-intelligence-ai-beng-dubai)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/engineering-courses/robotics-and-artificial-intelligence-ai-foundation-year-beng)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/anthropology-courses/social-anthropology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/social-policy-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/social-policy-with-year-abroad-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/ba-social-sciences)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-work-courses/social-work-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/social-policy-sociology-and-criminology-courses/sociology-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/sport-sciences-courses/sport-coaching-sciences-and-business-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/sport-sciences-courses/sport-exercise-and-health-sciences-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/dubai/study/undergraduate/subjects/geography-earth-and-environmental-sciences-courses/bsc-sustainability-with-integrated-foundation-year-dubai)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/theology-and-religion-courses/theology-and-religion-ba)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/theoretical-physics-applied-mathematics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/theoretical-physics-applied-mathematics-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/theoretical-physics-bsc)
+- [官方目录来源](https://www.birmingham.ac.uk/study/undergraduate/subjects/physics-and-astronomy-courses/theoretical-physics-msci)
+- [官方目录来源](https://www.birmingham.ac.uk/international/students/country/china/gaokao)
+- [官方目录来源](https://www.birmingham.ac.uk/study/international/fees/scholarships)
 
 大学综合排名不能代替专业选择，也不能据此推定本科招生资格、费用或个人毕业结果。

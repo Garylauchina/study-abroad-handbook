@@ -631,5 +631,571 @@
         "checked_at": "2026-09-13"
       }
     ]
+  },
+  {
+    "id": "durham-theology-ministry-and-mission-0a0e308a4c",
+    "university_id": "durham",
+    "name_en": "Theology, Ministry and Mission CHE",
+    "reason": "官网列CHE，Overview明确Certificate/Diploma，不是学士学位。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-3498978d6c4d8ebb",
+        "title": "Theology, Ministry & Mission V623 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/theology-ministry--mission-v623/",
+        "checked_at": "2026-09-13",
+        "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+        "sha256": "746b0924bc6d44fae44619c132ad1f2fde93b7440050b3942b0b9b174a890444",
+        "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+      }
+    ]
+  },
+  {
+    "id": "durham-theology-ministry-and-mission-9f68538728",
+    "university_id": "durham",
+    "name_en": "Theology, Ministry and Mission",
+    "reason": "官网列DHE，Overview明确Certificate/Diploma，不是学士学位。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-c995b02ac5e59aff",
+        "title": "Theology, Ministry & Mission V624 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/theology-ministry--mission-v624/",
+        "checked_at": "2026-09-13",
+        "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+        "sha256": "e5ed026a4148a461ae2f32f2c5795b2c9da06f6872251ccdf0eb733d7063b9d3",
+        "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+      }
+    ]
+  },
+  {
+    "id": "durham-theology-mission-and-ministry-with-a-focus-on-children-s-ministry-8a477ce81f",
+    "university_id": "durham",
+    "name_en": "Theology, Mission, and Ministry with a focus on Children's Ministry or Youth Ministry",
+    "reason": "官网列CHE，Overview明确Certificate/Diploma，不是学士学位。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-402a9fff11267e6f",
+        "title": "Theology, Mission, and Ministry with a focus on Children's Ministry or Youth Ministry V625 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/theology-mission-and-ministry-with-a-focus-on-childrens-ministry-or-youth-ministry-v625/",
+        "checked_at": "2026-09-13",
+        "supports": "课程身份、学习内容、UK先修及China资格、所选年度学费状态、毕业去向",
+        "sha256": "4c0f64452bfb296f0a4d94ae8f7036895767c59a5999c63a6642225ec8f5193b",
+        "locator": "Course details; Overview; What you'll study; Entry requirements; Fees and funding; Career opportunities; Employability"
+      }
+    ]
+  },
+  {
+    "id": "durham-economics-8f0939d151",
+    "university_id": "durham",
+    "name_en": "Economics",
+    "reason": "两个当前官网页均为September 2027、L130、BSc (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-15c11bfbb401c6ff",
+        "title": "Economics L100 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/economics-l100/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "a1dbb794a84a30a738022e2fd7c04bfef91bd5e10ce820a6f56c10ca08918254",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-95451d2fd38c58a7",
+        "title": "Economics L130 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/economics-l130/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "a1dbb794a84a30a738022e2fd7c04bfef91bd5e10ce820a6f56c10ca08918254",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-economics-c610caba2a"
+  },
+  {
+    "id": "durham-marketing-and-management-with-study-abroad-d19c956c64",
+    "university_id": "durham",
+    "name_en": "Marketing and Management (with study abroad)",
+    "reason": "两个当前官网页均为September 2027、N515、BSc (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-628d0882c4550215",
+        "title": "Marketing and Management with Study Abroad ( N515 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/marketing-and-management-with-study-abroad--n515/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "aa775009f5b04dd8f8183fcfd9b21cfe11f35e0a1330679d9850d48ef75f9436",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-5902a93035cbd321",
+        "title": "Marketing and Management with Study Abroad N515 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/marketing-and-management-with-study-abroad-n515/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "aa775009f5b04dd8f8183fcfd9b21cfe11f35e0a1330679d9850d48ef75f9436",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-marketing-and-management-with-study-abroad-ebfdaed488"
+  },
+  {
+    "id": "durham-finance-with-placement-year-0d1b5a151f",
+    "university_id": "durham",
+    "name_en": "Finance (with placement year)",
+    "reason": "两个当前官网页均为September 2027、N306、BSc (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-04955f604d71c494",
+        "title": "Finance with Placement Year 2M83 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/finance-with-placement-year-2m83/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "00f5d313ebf5a2cd368b63a8cdb8257a731d415ae170f09e1f169f067b8711e6",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-309f828ef17e5dc3",
+        "title": "Finance with Placement Year N306 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/finance-with-placement-year-n306/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "00f5d313ebf5a2cd368b63a8cdb8257a731d415ae170f09e1f169f067b8711e6",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-finance-with-placement-year-24abb0fd37"
+  },
+  {
+    "id": "durham-finance-with-study-abroad-8a07c1e89d",
+    "university_id": "durham",
+    "name_en": "Finance (with study abroad)",
+    "reason": "两个当前官网页均为September 2027、N307、BSc (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-de6b0ebf703b4bce",
+        "title": "Finance with Study Abroad 8G15 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/finance-with-study-abroad-8g15/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "e3da80cc93b2cea26d05894255808ad191d06c9cafe9ca0c7faf7f5c9d5d8ac1",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-8cd6aea6c28c0d05",
+        "title": "Finance with Study Abroad N307 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/finance-with-study-abroad-n307/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "e3da80cc93b2cea26d05894255808ad191d06c9cafe9ca0c7faf7f5c9d5d8ac1",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-finance-with-study-abroad-37cbd5f822"
+  },
+  {
+    "id": "durham-finance-d08f86f0b6",
+    "university_id": "durham",
+    "name_en": "Finance",
+    "reason": "两个当前官网页均为September 2027、N305、BSc (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-a304aeb9ecbcfff5",
+        "title": "Finance 2C77 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/finance-2c77/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "ba5710e34eb3f4ffcb61f6fbc6455d224df1d64223a31587e4ef113ddd2df842",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-d49a5b38fc2f0b2b",
+        "title": "Finance N305 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/finance-n305/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "ba5710e34eb3f4ffcb61f6fbc6455d224df1d64223a31587e4ef113ddd2df842",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-finance-6563f20683"
+  },
+  {
+    "id": "durham-accounting-and-finance-with-study-abroad-41800fa276",
+    "university_id": "durham",
+    "name_en": "Accounting and Finance (with study abroad)",
+    "reason": "两个当前官网页均为September 2027、N313、BSc (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-9fd48ce28c45c12a",
+        "title": "Accounting and Finance with Study Abroad N304 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-with-study-abroad-n304/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "156b584c7dd56ce2ca34075ab87691a684d58ffb9382e0d36d0c22cbad143f44",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-ce8242e916308e06",
+        "title": "Accounting and Finance with Study Abroad N313 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-with-study-abroad-n313/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "156b584c7dd56ce2ca34075ab87691a684d58ffb9382e0d36d0c22cbad143f44",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-accounting-and-finance-with-study-abroad-be6e6ca08b"
+  },
+  {
+    "id": "durham-accounting-and-finance-cbd9637c1c",
+    "university_id": "durham",
+    "name_en": "Accounting and Finance",
+    "reason": "两个当前官网页均为September 2027、N311、BSc (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-c7699cd22f1920ec",
+        "title": "Accounting and Finance NN43 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-nn43/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "d2657862eed937233876ea0f0d1a3f67efc91e638482f1c3700f1db0e5243437",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-10c8646df567f55a",
+        "title": "Accounting and Finance N311 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-n311/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "d2657862eed937233876ea0f0d1a3f67efc91e638482f1c3700f1db0e5243437",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-accounting-and-finance-5cdbfc877f"
+  },
+  {
+    "id": "durham-accounting-and-finance-with-placement-year-39bb355a15",
+    "university_id": "durham",
+    "name_en": "Accounting and Finance (with placement year)",
+    "reason": "两个当前官网页均为September 2027、N312、BSc (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-d793175c81b7d637",
+        "title": "Accounting and Finance with Placement Year N302 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-with-placement-year-n302/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "9da1ba4d1278bcac894f3dddbb613e878e214919c53d96626dc9c7e4f1555d8e",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-5d645afdd2933b5a",
+        "title": "Accounting and Finance with Placement Year N312 - Durham University",
+        "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-with-placement-year-n312/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "9da1ba4d1278bcac894f3dddbb613e878e214919c53d96626dc9c7e4f1555d8e",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-accounting-and-finance-with-placement-year-33f82d7780"
+  },
+  {
+    "id": "durham-mathematics-and-physics-5ff5f49d70",
+    "university_id": "durham",
+    "name_en": "Mathematics and Physics",
+    "reason": "两个当前官网页均为September 2027、G430、MSci (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-9066c0e8a3cd3515",
+        "title": "Mathematics and Physics MSci G430 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/mathematics-and-physics-msci-g430/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "bf993738708e48e6c892439b8da056dc5d928203df0c3a7f9be92bbdd384ae81",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-424c81cd0d1bac22",
+        "title": "Mathematics and Physics G430 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/mathematics-and-physics-g430/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "bf993738708e48e6c892439b8da056dc5d928203df0c3a7f9be92bbdd384ae81",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-mathematics-and-physics-0b8f734a16"
+  },
+  {
+    "id": "durham-computer-science-and-mathematics-msci-abfa722acd",
+    "university_id": "durham",
+    "name_en": "Computer Science and Mathematics",
+    "reason": "两个当前官网页均为September 2027、G425、MSci (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-1aca310efca5817b",
+        "title": "Computer Science and Mathematics MSci G425 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/computer-science-and-mathematics-msci-g425/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "eb6cc00dcafdb2a83cc493fafb20c6cc64833b6af380e21fb05503c04935f152",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-779ac80361ad5130",
+        "title": "Computer Science and Mathematics G425 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/computer-science-and-mathematics-g425/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "eb6cc00dcafdb2a83cc493fafb20c6cc64833b6af380e21fb05503c04935f152",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-computer-science-and-mathematics-msci-cefbf0f05b"
+  },
+  {
+    "id": "durham-natural-sciences-f37fbeddf7",
+    "university_id": "durham",
+    "name_en": "Natural Sciences",
+    "reason": "两个当前官网页均为September 2027、FGC0、MSci (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-1f0ca65eb5a290c0",
+        "title": "Natural Sciences MSci FGC0 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/natural-sciences-msci-fgc0/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "d705d216db41e0216e8610c6b35b3eddcfb338bd77963eb7443d700353a31bcd",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-9ef24c7420836d12",
+        "title": "Natural Sciences FGC0 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/natural-sciences-fgc0/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "d705d216db41e0216e8610c6b35b3eddcfb338bd77963eb7443d700353a31bcd",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-natural-sciences-23f6a85259"
+  },
+  {
+    "id": "durham-ancient-medieval-and-modern-history-cce57444e9",
+    "university_id": "durham",
+    "name_en": "Ancient, Medieval and Modern History",
+    "reason": "两个当前官网页均为September 2027、V101、BA (Hons)，同一学位课程身份。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "DUR-446e83fc56861f10",
+        "title": "Ancient, Medieval and Modern History ( V101 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/ancient-medieval-and-modern-history--v101/",
+        "checked_at": "2026-09-13",
+        "supports": "重复入口的当前代码、学位、年度",
+        "sha256": "c3ffd8edd0972a720850df8f2a6a554c04bbc524d7966d2d4b07d2210aa6c16e",
+        "locator": "main-content"
+      },
+      {
+        "id": "DUR-0522bd0422418611",
+        "title": "Ancient, Medieval and Modern History V101 - Durham University",
+        "url": "https://www.durham.ac.uk/study/courses/ancient-medieval-and-modern-history-v101/",
+        "checked_at": "2026-09-13",
+        "supports": "保留入口的当前代码、学位、年度",
+        "sha256": "c3ffd8edd0972a720850df8f2a6a554c04bbc524d7966d2d4b07d2210aa6c16e",
+        "locator": "main-content"
+      }
+    ],
+    "replacement_id": "durham-ancient-medieval-and-modern-history-235843d18b"
+  },
+  {
+    "id": "unsw-language-studies-e245b8fcf7",
+    "university_id": "unsw",
+    "name_en": "Language Studies",
+    "reason": "仅对应语言 Diploma，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：Language Studies",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/ARTSD1",
+        "checked_at": "2026-09-13",
+        "sha256": "8b9421af681e2f19d50a2c9149d22aaf883cf7153ab12bf4bf38eda29fd9b75d"
+      }
+    ]
+  },
+  {
+    "id": "unsw-arts-soc-sc-indigenous-a85816cf0f",
+    "university_id": "unsw",
+    "name_en": "Arts & Soc Sc (Indigenous)",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：Arts & Soc Sc (Indigenous)",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/HUMSA1",
+        "checked_at": "2026-09-13",
+        "sha256": "14882efbbb30677160866e604b6ffbf2372b162c74d91eafb50c49f15d1e3978"
+      }
+    ]
+  },
+  {
+    "id": "unsw-law-8718d63f1f",
+    "university_id": "unsw",
+    "name_en": "Law",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：Law",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/HUMSC1",
+        "checked_at": "2026-09-13",
+        "sha256": "2a0d2c28a4655341b45f191cfb216e8b052d18746641ca756a61f1e25ed34a1e"
+      }
+    ]
+  },
+  {
+    "id": "unsw-arts-design-architecture-and-criminology-upp-2b8644f8f4",
+    "university_id": "unsw",
+    "name_en": "Arts, Design, Architecture and Criminology (UPP)",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：Arts, Design, Architecture and Criminology (UPP)",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZA1",
+        "checked_at": "2026-09-13",
+        "sha256": "63d65272167f252c5bf7efa76768d67644cfd2078b9776caeddc621fddff3e05"
+      }
+    ]
+  },
+  {
+    "id": "unsw-science-upp-95ea27cdc0",
+    "university_id": "unsw",
+    "name_en": "Science (UPP)",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：Science (UPP)",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZB1",
+        "checked_at": "2026-09-13",
+        "sha256": "d0d9d75b250ecd6b8bc4caa4825ed32e972dc30cdc6390e7b51bf5a0aa296d2d"
+      }
+    ]
+  },
+  {
+    "id": "unsw-engineering-upp-63a5d8fcb4",
+    "university_id": "unsw",
+    "name_en": "Engineering (UPP)",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：Engineering (UPP)",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZC1",
+        "checked_at": "2026-09-13",
+        "sha256": "9e9852a8eb51b2d1ea0caa934b3ee8530606f5fd8c136c04415aea76a662db58"
+      }
+    ]
+  },
+  {
+    "id": "unsw-unsw-prep-program-17-19-arts-design-architecture-bb1f7383ed",
+    "university_id": "unsw",
+    "name_en": "UNSW Prep Program 17-19 Arts, Design & Architecture",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：UNSW Prep Program 17-19 Arts, Design & Architecture",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZD1",
+        "checked_at": "2026-09-13",
+        "sha256": "16d3c4739cba1345fe109662534bb2d56801edee6cb4c9470e11612aa7c1fd94"
+      }
+    ]
+  },
+  {
+    "id": "unsw-unsw-prep-program17-19-science-e35d5b06df",
+    "university_id": "unsw",
+    "name_en": "UNSW Prep Program17-19 Science",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：UNSW Prep Program17-19 Science",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZE1",
+        "checked_at": "2026-09-13",
+        "sha256": "25f0013326246b33c7157a341ab2e3ed529daabd74a209842e7bbe5437d18a39"
+      }
+    ]
+  },
+  {
+    "id": "unsw-unsw-prep-program-17-19-engineering-f4782e4144",
+    "university_id": "unsw",
+    "name_en": "UNSW Prep Program 17-19 Engineering",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：UNSW Prep Program 17-19 Engineering",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZF1",
+        "checked_at": "2026-09-13",
+        "sha256": "38ccd11e4ae8a6c7e6f3b985349ddbdd84d6ee3a08a95bbd6d93be6e9aa9a88c"
+      }
+    ]
+  },
+  {
+    "id": "unsw-unsw-prep-prog-17-19-business-74ec59c580",
+    "university_id": "unsw",
+    "name_en": "UNSW Prep Prog 17-19 Business",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：UNSW Prep Prog 17-19 Business",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZG1",
+        "checked_at": "2026-09-13",
+        "sha256": "a87e6b6f2d04975a8594e1a36712fd937a5b51a42a8f96f997000dad0ffd2302"
+      }
+    ]
+  },
+  {
+    "id": "unsw-business-upp-6029602fa6",
+    "university_id": "unsw",
+    "name_en": "Business (UPP)",
+    "reason": "非学位大学预备路径，不是学士主修；旧链接保留此更正说明。",
+    "checked_at": "2026-09-13",
+    "sources": [
+      {
+        "id": "official",
+        "title": "UNSW 2027 手册：Business (UPP)",
+        "url": "https://www.handbook.unsw.edu.au/undergraduate/specialisations/2027/REGZH1",
+        "checked_at": "2026-09-13",
+        "sha256": "318ff38da36773501c440c0d485c6665f80c7ccd400ecd57f5fb218407a12de4"
+      }
+    ]
   }
 ]

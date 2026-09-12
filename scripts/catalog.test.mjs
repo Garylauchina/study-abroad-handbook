@@ -42,6 +42,11 @@ test('QS directory preserves all published top-100 places, mainland exclusion an
  assert.ok(filterPrograms(detailed,{country:'hong-kong',subject:'计算机'}).length>=2);
  assert.ok(filterPrograms(programs,{subject:'工程'}).length>=6);
  assert.ok(filterPrograms(programs,{subject:'经济'}).length>=3);
+ const pharmacy=programs.find(p=>p.id==='ut-austin-pharmacy-pharmd');
+ assert.equal(pharmacy.degree,'先修后专业学位','PharmD must not be labelled as an ordinary undergraduate degree');
+ assert.equal(pharmacy.degree_label,'PharmD');
+ assert.match(pharmacy.entry_summary,/先修/);
+ assert.equal(programs.find(p=>p.id==='ut-austin-materials-science-and-engineering-bs-2027').degree,'本科');
  assert.ok(universities.every(u=>u.qs_rank<=100));
  assert.equal(universities.filter(u=>u.qs_rank===100).length,2);
  assert.equal(filterUniversities(universities,{country:'hong-kong'}).length,5);

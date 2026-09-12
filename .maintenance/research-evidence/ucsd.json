@@ -20,10 +20,106 @@
       "locator": "Undergraduates First Enrolled2026-2027"
     },
     {
-      "url": "https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html",
-      "sha256": "6e1e9deb60ad1ef486dcf294f1566aba2a7b5b20d7a5ef33175fd037eeffe239",
-      "raw_file": "scratch/full-catalog/us-b/ucsd/advising.html",
-      "locator": "official undergraduate program listing"
+      "url": "https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/freshman-requirements-country.html",
+      "sha256": "a72cbb402c38d0702d5f6e44952ab6778f2f13f60733cf24ddc5c310e26fcea7",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/shared/china.html",
+      "locator": null
+    },
+    {
+      "url": "https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/",
+      "sha256": "5065ebf16d7357959ecf17f45da8af30f15e7174972e4bdacebaaf87c76d73af",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/shared/uc-international.html",
+      "locator": null
+    },
+    {
+      "url": "https://career.ucsd.edu/_files/impact/UCSD-FDS-Info-Graphic-2022-2023-2023-2024-FINAL.pdf",
+      "sha256": "05714ea70fa05d12503cc63152b8967051e0da2716a42d5895eb09f5624d8601",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/shared/fds-current-2022-24.pdf",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/MAE-ug.html",
+      "sha256": "16070dc0b790b91a3a04cdf629beb574761858ac60807fbdda7d07bc1326c4b0",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/MAE-ug.html",
+      "locator": "main#main-content heading[17] Mechanical Engineering with a Specialization in Renewable Energy and Environmental Flows; main#main-content heading[4] Degree and Program Options; main#main-content heading[8] Major Requirements"
+    },
+    {
+      "url": "https://undergrad.ucsd.edu/academics/selective-major-process/index.html",
+      "sha256": "c898920798944af20e4079833da019397896a2274342cef10d99928d11107a8e",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/shared/selective.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergrad.ucsd.edu/academics/selective-major-process/selective-major-faq.html",
+      "sha256": "a11673dbbd29404584bfd7dc1e4cc2d57cd9c5cc45c715de09e3d4d2309fe4b6",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/shared/selective-faq.html",
+      "locator": null
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/engineering/mae/index.html",
+      "sha256": "9b8c97680ee1f5b19ef6280bcc3fa90b06be3b3ab891f3c9dcd1301ed7459626",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/mechanical-and-aerospace-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/ANTH-ug.html",
+      "sha256": "74176a50d4256b2136bb6254d5e989055db73a62a40091e148fb87b402b42106",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/ANTH-ug.html",
+      "locator": "main#main-content heading[12] The Bachelor of Science in Environmental Anthropology (twenty-three courses, ninety-two units)"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/anthropology/index.html",
+      "sha256": "83c768f702b9f6f424756faa2ae039c657926afdf01236e9b22bcba6e9b29572",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/anthropology.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/VIS-ug.html",
+      "sha256": "90dbb9fecabfee8d2d38d7236351a9e43817ace115656dd2d0e068a1b458ac19",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/VIS-ug.html",
+      "locator": "main#main-content heading[47] Studio Major (VA28); main#main-content heading[49] Foundation Level (six courses required); main#main-content heading[51] Intermediate Level (six courses required); main#main-content heading[52] History and Theory (three courses required); main#main-content heading[53] Advanced Level (three courses required)"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/arts-and-humanities/visual-arts/index.html",
+      "sha256": "cc8602fd1f7cb9aa8010b5e4092ea2468c820f5248567e2a4a6fb1d0cfc1aae7",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/visual-arts.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/CSE-ug.html",
+      "sha256": "be3a14325ecc6fabdd6faec81040366333677e3144ed2d6804bad9956e22470e",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/CSE-ug.html",
+      "locator": "main#main-content heading[16] BS Computer Science with a Specialization in Bioinformatics; main#main-content heading[17] 1. Lower-Division Requirements; main#main-content heading[18] 2. Upper-Division Requirements"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/engineering/cse/index.html",
+      "sha256": "8794ddb84e1306201b492dc6b7790bd88ec88553cfa304e5c2f33add1327d6af",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/computer-science-and-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/ASTR-ug.html",
+      "sha256": "31fa1ab7d7ef331666f3bee617b8ea9b189332f0ebd68e2df897b93ad7f7b5d3",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/ASTR-ug.html",
+      "locator": "main#main-content heading[5] BS, Astrophysical Sciences; main#main-content heading[6] Unit Requirements for the Major; main#main-content heading[8] Lower-Division Requirements; main#main-content heading[9] Upper-Division Requirements; main#main-content heading[4] General Major/Program Requirements"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/CHEM-ug.html",
+      "sha256": "34a9503d5f2a2bfcee13b7a0bdabb65dd9cf499c5fb48cb21728044fff7066c7",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/CHEM-ug.html",
+      "locator": "main#main-content heading[34] Unit Requirements for the Major; main#main-content heading[35] Major Summary; main#main-content heading[36] Lower-Division Requirements; main#main-content heading[37] Upper-Division Requirements; main#main-content heading[6] General Information on Undergraduate Major Requirements"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/physical-sciences/chemistry-and-biochemistry/index.html",
+      "sha256": "2c0f8e5188db20a5387830240aacdc141530ab7c87c1df20f78ddb5492bfb1de",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/chemistry-and-biochemistry.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/BENG-ug.html",
+      "sha256": "a8772c6fed00860fd7bbc75fc1ecafef05262950000e9abc013ba167c3f7cbc0",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/BENG-ug.html",
+      "locator": "main#main-content heading[5] Bioengineering: Biosystems (BS); main#main-content heading[13] Bioengineering: Biosystems (BS); main#main-content heading[9] Major Requirements; main#main-content heading[22] Capstone Design Course Sequence for All Majors"
     },
     {
       "url": "https://be.ucsd.edu/undergrad",
@@ -32,10 +128,556 @@
       "locator": "Enrollment and Degrees Conferred > Bioengineering: BioSystems"
     },
     {
-      "url": "https://catalog.ucsd.edu/undergraduate/degrees-offered/index.html",
+      "url": "https://majors.ucsd.edu/academic-schools/engineering/bioengineering/index.html",
+      "sha256": "ad18b197783434289ad393f267640c605c65552c87d6e83aeb51511d54f5796f",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/bioengineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/BIOL-ug.html",
+      "sha256": "e4cae961f8833e739a28f292e28bf9d87fefdcfd7498d32188c28719350933f3",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/BIOL-ug.html",
+      "locator": "main#main-content heading[39] Neurobiology Major; main#main-content heading[40] Lower-Division Requirements (seventy-one or seventy-two units total); main#main-content heading[41] Upper-Division Requirements (forty-eight units total); main#main-content heading[3] School of Biological Sciences Residency Requirement; main#main-content heading[7] Grade Requirements for the Majors"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/biological-sciences/biological-sciences/index.html",
+      "sha256": "edc05231bfdf8bf595210bbfa3c6cebb02e815381ab642a53db67336991d3d59",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/biological-sciences.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/BDAAS.html",
+      "sha256": "5647c1d1eaf779751a6571cbd19f3b6564e7589718f2e0a62dc4b5bc70db2e5b",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/BDAAS.html",
+      "locator": "main#main-content heading[4] Major Summary; main#main-content heading[5] Concentrations; main#main-content heading[7] Core Course Requirement (four units); main#main-content heading[8] Concentration A: Africa and the Black Diaspora; main#main-content heading[9] Concentration B: African American Studies; main#main-content heading[10] Concentration C: Interdisciplinary Study; main#main-content heading[12] Core Course Requirements (sixteen units); main#main-content heading[13] UC San Diego Department Human Research Methodology Courses (four units); main#main-content heading[14] Additional Upper-Division Course (four units)"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/ECON-ug.html",
+      "sha256": "5f3365747c043cadac39ea30ba17aafe9edf4273596ef1cd573be4bbfb664333",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/ECON-ug.html",
+      "locator": "main#main-content heading[27] Requirements for Admission; main#main-content heading[28] The BA/MPP Curriculum"
+    },
+    {
+      "url": "https://economics.ucsd.edu/undergraduate-program/major-minor-requirements/index.html",
+      "sha256": "11a1799e2558be9fa4a5650e52fe11ee9869cfa4f0c14486f7fc0f093b9dfe9f",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/economics-majors.html",
+      "locator": "main > Bachelor of Science in Economics and Master of Public Policy (BS/MPP)"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/rady-school-of-management/business-economics/index.html",
+      "sha256": "b9d0f92d4d5ec6edeff85932eaab8f87691c9a51d4b4b8b86af8e559e31d3bc8",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/business-economics.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/PSYC-ug.html",
+      "sha256": "c36690eef5dd94f35f222f4aeac5da019250aa2855cd80e205186cd297f47dfa",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/PSYC-ug.html",
+      "locator": "main#main-content heading[5] Lower-Division Requirements (twenty-four units); main#main-content heading[6] BA Psychology with a Specialization in Clinical Psychology Upper-Division Course Requirements; main#main-content heading[7] Upper-Division Requirements (forty-eight units)"
+    },
+    {
+      "url": "https://psychology.ucsd.edu/undergraduate-program/majors/majors-post_fall_2026/index.html",
+      "sha256": "3e96846c6b7b71fb066993e9fd884c2abb49806ab11135320dbc038fcc115466",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/psych-post2026.html",
+      "locator": "Psychology Majors (Effective Fall 2026); eligibility by admission year"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/rady-school-of-management/business-psychology/index.html",
+      "sha256": "9de9bb3025b844b9370eac31090380fab016290a3b453b2112fa54d46f5287c4",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/business-psychology.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/NANO-ug.html",
+      "sha256": "0a38d95b43f1f73ff92cb667157686301a0c2531109a9b3ddfb07bdf61a2c737",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/NANO-ug.html",
+      "locator": "main#main-content heading[6] The Undergraduate Program; main#main-content heading[8] Major Requirements; main#main-content heading[9] Nanoengineering Curriculum Plan"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/engineering/chemical-and-nanoengineering/index.html",
+      "sha256": "39d71f852e439b4b01256eb0ac42db23428c34d1e732cb6c19fea0314039809e",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/chemical-and-nanoengineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/CLS.html",
+      "sha256": "09a4d92aceabedf7a7e95b709be14913adffa360854320494f2054eb0051f7b4",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/CLS.html",
+      "locator": "main#main-content heading[3] The Major"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/CHIN.html",
+      "sha256": "f2d148177650cadaf106310ea43cacb38ac90755ef35834a5825987a893c937d",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/CHIN.html",
+      "locator": "main#main-content heading[2] The Major Program"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/CIN.html",
+      "sha256": "01f3dbac29d17e13548859f55c77a1bc80f539333d1d71a7ecf5f8ac44fe4251",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/CIN.html",
+      "locator": "main#main-content heading[2] The Major; main#main-content heading[3] The Cinematic Arts Major; main#main-content heading[5] Lower-Division Foundational Courses; main#main-content heading[6] Lower-Division Electives; main#main-content heading[8] Studies and History Courses; main#main-content heading[9] Production Courses; main#main-content heading[10] Elective; main#main-content heading[12] Required:; main#main-content heading[14] Required:"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/CLAS-ug.html",
+      "sha256": "f68fe79ee6dc5b39774a69d9df3d1e968f2eb763b2dba4dddb2a6bdf8bb2c393",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/CLAS-ug.html",
+      "locator": "main#main-content heading[2] The Major Programs; main#main-content heading[3] Language Emphasis; main#main-content heading[4] Cultures Emphasis"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/COGS-ug.html",
+      "sha256": "81553425d52ab63820968077a8b996803c527485de4b6d15e033ca8319e132a2",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/COGS-ug.html",
+      "locator": "main#main-content heading[9] Specialization in Neuroscience; main#main-content heading[4] Areas of Specialization; main#main-content heading[18] Course Requirements for the Bachelor of Science; main#main-content heading[19] Lower Division (eleven courses, forty-four units or ten courses, forty units); main#main-content heading[22] Upper Division (twelve courses, forty-eight units); main#main-content heading[23] Core (six courses):; main#main-content heading[24] Electives (six courses):"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/cognitive-science/index.html",
+      "sha256": "80b521a1946aaec59ad1d45a735d44bbe35a26a9990febea3192e017bfc23e99",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/cognitive-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/psychology/index.html",
+      "sha256": "31d43daf5005431d016fda57585bc9acf6fd740e23fe693f12facb1088812b2c",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/psychology.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/COMM-ug.html",
+      "sha256": "69f6653cfa1d2fc6c989cc140bff94408c4d34491cf5aa211a422150cfc95347",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/COMM-ug.html",
+      "locator": "main#main-content heading[7] The Media Industries and Communication Major (MIC); main#main-content heading[8] Lower-Division Courses (two courses); main#main-content heading[9] Required Upper-Division Courses (three courses); main#main-content heading[10] Upper-Division Electives (nine courses); main#main-content heading[11] Practice Courses (two courses)"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/communication/index.html",
+      "sha256": "a375160deb43c8981d921a3dd4b62b411cb407927611e73cbb148505bae5f902",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/communication.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/ECE-ug.html",
+      "sha256": "9a41dfdbdb27821d6752bcc6f501e3aeff3dc31a1a8a4f7197d20db8f58e3a4f",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/ECE-ug.html",
+      "locator": "main#main-content heading[24] BS Engineering Physics; main#main-content heading[25] Lower-Division Requirements (total of sixty-six units); main#main-content heading[32] Upper-Division Requirements (seventy-six units); main#main-content heading[33] a. Engineering Physics BREADTH Courses (twenty-four units); main#main-content heading[34] b. Engineering Physics DESIGN Course (four units); main#main-content heading[35] c. Engineering Physics ELECTIVES (twenty units); main#main-content heading[36] d. Engineering Physics DEPTH Courses (twenty-eight units)"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/engineering/ece/index.html",
+      "sha256": "ea5818bac625bdbbf51594d5ee2994079ae13c69cecf4dd34a2decd9312eefb6",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/electrical-and-computer-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/CGS-ug.html",
+      "sha256": "740f463cbd133a9ff504480490cc7aff61c65ad1d8606cb60e99d868c532d440",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/CGS-ug.html",
+      "locator": "main#main-content heading[2] Critical Gender Studies; main#main-content heading[4] Preparation for the Major and Minor; main#main-content heading[5] Major Program; main#main-content heading[11] Special Studies, Internships, and Grade Options"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/THEA-ug.html",
+      "sha256": "648d03e30fd0d34cb2aee762af70c24a353bf1cff69ebb731ebeff5732c1b206",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/THEA-ug.html",
+      "locator": "main#main-content heading[5] The Theatre Major; main#main-content heading[11] Major Requirements; main#main-content heading[13] Lower-Division Requirements; main#main-content heading[14] Upper-Division Requirements; main#main-content heading[36] Undergraduate Audition Policy"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/DSC-ug.html",
+      "sha256": "2450f7d0f46dc63abffb4b8b14d61f366990f536ff64562f4b75ca93e2bd14cb",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/DSC-ug.html",
+      "locator": "main#main-content heading[2] Program Focus; main#main-content heading[3] Majors in Data Science; main#main-content heading[4] Lower Division; main#main-content heading[5] Upper Division"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/data-sciences/data-science/index.html",
+      "sha256": "f52b2ff7d7ff71725fb0cff3fdd4c62e5a4e24674379809443bd536b29f1963f",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/data-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/economics/index.html",
+      "sha256": "7d5ed8dc7e6adaa87cbfd9677a26ce099a3efea7631069b285519e9049e17061",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/economics.html",
+      "locator": null
+    },
+    {
+      "url": "https://gps.ucsd.edu/academics/concurrent-degrees/ba-mpp.html",
+      "sha256": "55aa23462d9f535e17ac543c93c957a278a218e82701de31c2c5a8c5dac2eb24",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/economics-bs-mpp.html",
+      "locator": "main > Program Overview / Requirements / Core Curriculum / Area of Specialization Requirement / Language Allowance"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/EDS-ug.html",
+      "sha256": "868146783c8fdcba31584732c3ec292829fdce65c7dd3487feb05447fd71563b",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/EDS-ug.html",
+      "locator": "main#main-content heading[7] Bachelor of Science in Education Sciences: Transforming Education through Research and Practice; main#main-content heading[8] The Major; main#main-content heading[9] Lower-Division Introduction to Education Requirements; main#main-content heading[10] Upper-Division Course Requirements"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/education-sciences/index.html",
+      "sha256": "a8c1f76f612a01f4b0dc5bffc30a75bed3ec7e88f6052b2f4997bb484d77cb59",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/education-sciences.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/ESYS.html",
+      "sha256": "8a9934f8f08c7988e4890263b72409def0d16eb57289ed82670a38485ff8d82b",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/ESYS.html",
+      "locator": "main#main-content heading[17] Lower-Division Requirements; main#main-content heading[18] Upper-Division Core Requirements; main#main-content heading[19] Upper-Division Electives; main#main-content heading[2] The Environmental Systems Major; main#main-content heading[5] Upper-Division Core Requirements; main#main-content heading[10] Upper-Division Core Requirements; main#main-content heading[14] Upper-Division Core Requirements; main#main-content heading[18] Upper-Division Core Requirements"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/scripps-institution-of-oceanography/environmental-systems/index.html",
+      "sha256": "abdf7b39fb7c610fe59bd7cfcb0e331ce4945c4baa154d2a92c65ba2ac610099",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/environmental-systems.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/ETHN-ug.html",
+      "sha256": "2512dc3200bf560f7f9295878b9de3ceed78f313ed27f6fa9e3b89f1a0354b2f",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/ETHN-ug.html",
+      "locator": "main#main-content heading[1] Ethnic Studies; main#main-content heading[2] The Major"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/ethnic-studies/index.html",
+      "sha256": "215b48c5b032b126e282d77235ea634c44aae7859fb8f2f3462d163b40397d5b",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/ethnic-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/SIO-ug.html",
+      "sha256": "e344aad4c1d619facdc434f3cca16a98f329542ae37ab559993f9b05cca54f0d",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/SIO-ug.html",
+      "locator": "main#main-content heading[33] Requirements for Admission; main#main-content heading[34] The BS/MPP Curriculum; main#main-content heading[35] Lower-Division Requirements:; main#main-content heading[36] Upper-Division Requirements:; main#main-content heading[37] BS/MPP Graduate Year: twelve courses (forty-eight units); main#main-content heading[38] Requirements:"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/scripps-institution-of-oceanography/geosciences/index.html",
+      "sha256": "071a2bd5305c02d156021db988ccfb18c8d42ac8d81d72842b4e4f95957c8a64",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/geosciences.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/GERM.html",
+      "sha256": "87945febaf06da126332d704b867fbfc86b9ac267ab84f0afcce677739e9961d",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/GERM.html",
+      "locator": "main#main-content heading[5] The Major"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/GLBH-ug.html",
+      "sha256": "f69bf8ab7238460261470260616d9f0dfe5c7a3d7b30f0a57d3a07f84f5f7607",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/GLBH-ug.html",
+      "locator": "main#main-content heading[9] The Bachelor of Science in Global Health (twenty-four courses/ninety-six units); main#main-content heading[10] I. Lower-Division Core Requirements (twelve courses/forty-eight units); main#main-content heading[11] II. Upper-Division Core Requirements (four courses/sixteen units); main#main-content heading[13] IV. Electives (eight courses/thirty-two units); main#main-content heading[14] Global Health Field Experience Requirement:; main#main-content heading[15] Field Experience Requirements; main#main-content heading[16] The Field Experience must meet the following criteria:"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/global-health/index.html",
+      "sha256": "19220f44e3d23dece389cfc48c765b3a32c7b436937f9210f2795ac1ddb25c17",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/global-health.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/GSS.html",
+      "sha256": "bf65d06659caa09e3235e3f6b48a78515894baa29cc19d13f3d5219f1f6f6860",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/GSS.html",
+      "locator": "main#main-content heading[2] The Major Program; main#main-content heading[4] The major is unavailable to declare from spring 2026 through the end of spring 2029. A minor is recommended at this time."
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/HIST-ug.html",
+      "sha256": "e6168bc85b66c4bde5396f7dba066f75e5e9457f005216fb925c1975f0837df6",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/HIST-ug.html",
+      "locator": "main#main-content heading[2] The Undergraduate Program"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/arts-and-humanities/history/index.html",
+      "sha256": "ba05cbc078aa73b182fe6375c2daab9602d53d8704ce231ed4cd467bac6e8330",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/history.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/HDS.html",
+      "sha256": "326cc98f8d4e3efa2e1f41415e65208307dc5a113e03521c4c328e74ea3d4291",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/HDS.html",
+      "locator": "main#main-content heading[4] Areas of Specialization; main#main-content heading[24] Lower-Division Requirements for all Bachelor of Science Majors; main#main-content heading[39] Upper-Division Requirements for the HDS Bachelor of Science Specialization in Healthy Aging; main#main-content heading[2] The Human Developmental Sciences Major; main#main-content heading[41] Field Research Requirement HDS 191"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/human-developmental-sciences/index.html",
+      "sha256": "98bda50d3199efcb7b3a96e8cd5ef85e658f969019757856d0cf6e26121adc85",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/human-developmental-sciences.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/HUM.html",
+      "sha256": "2137c90afafe664258d8da0065cb511326d3142f1b56933b22c5497863625062",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/HUM.html",
+      "locator": "main#main-content heading[3] The Humanities Major"
+    },
+    {
+      "url": "https://students.ucsd.edu/academics/advising/majors-minors/undergraduate-majors.html",
       "sha256": "6e1e9deb60ad1ef486dcf294f1566aba2a7b5b20d7a5ef33175fd037eeffe239",
-      "raw_file": "scratch/full-catalog/us-b/ucsd/advising.html",
-      "locator": "official undergraduate program listing"
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/majors-list.html",
+      "locator": "main > Individual Majors"
+    },
+    {
+      "url": "https://revelle.ucsd.edu/academics/honors-opportunities/individual-major.html",
+      "sha256": "d913828f81d460aa2af3ce0b9878c35b1f5bc99dc3f4ab15d8994aa4c6c7ff2b",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/individual-revelle.html",
+      "locator": "main > Qualifications for Applying / Revelle Individual Major Petition / Additional Information"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/MUS-ug.html",
+      "sha256": "71e6cb43882bf2c93cdfb291570017f36c102ad6c4a44ee76fb76efb4bbfee2a",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/MUS-ug.html",
+      "locator": "main#main-content heading[2] Music, Music Humanities, and ICAM Major Programs; main#main-content heading[4] Music/Humanities Major Requirements"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/arts-and-humanities/music/index.html",
+      "sha256": "a07cade645dfa45d0e7be6534d52f225ac18e7f09d7b52a775fb2db83f683422",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/music.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/INTL.html",
+      "sha256": "b6da7cbd29428c1dcc349fd9ebbc39bb2f05ec3dff72be6e30349eca2d0f8117",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/INTL.html",
+      "locator": "main#main-content heading[29] Sociology; main#main-content heading[8] The International Studies Major; main#main-content heading[9] Lower-Division Requirements; main#main-content heading[10] Upper-Division Requirements; main#main-content heading[11] Core Courses"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/global-policy-and-strategy/international-studies/index.html",
+      "sha256": "5029fdb99be7409d57bfceb6786d9411f664d2bb5e9d3d680852ba1ab8ced9c7",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/international-studies.html",
+      "locator": null
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/rady-school-of-management/international-business/index.html",
+      "sha256": "2d9c4704b23b746c9f6355649bc3d2a83b9cb30decb33bdf8474395bd4f29917",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/international-business.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/ITAL.html",
+      "sha256": "590289485299436d343a8adfe4c0ff14bd9bbb2079c134a2a89ee35e184a1e85",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/ITAL.html",
+      "locator": "main#main-content heading[2] The Major Program; main#main-content heading[3] Language Proficiency"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/JAPN.html",
+      "sha256": "77edea6d65ad755e4f28ec30a50b53156e5f1238ef4f2b33c4032cf553ca142c",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/JAPN.html",
+      "locator": "main#main-content heading[3] A. Lower-Division Requirement (nine courses); main#main-content heading[4] B. Upper-Division Requirement (twelve courses)"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/JWSP-ug.html",
+      "sha256": "7672f008f05d9ff566916ba6df75cd17bbf866f821aac3100e0bdab06e6210e0",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/JWSP-ug.html",
+      "locator": "main#main-content heading[3] Jewish Studies Major Requirements—Twelve Courses Plus Language Proficiency; main#main-content heading[4] Survey Courses; main#main-content heading[5] Elective Courses; main#main-content heading[6] Language Proficiency; main#main-content heading[7] Track 1: Hebrew Six-Course Series:; main#main-content heading[8] Track 2: One year of Hebrew AND one year of a second foreign language relevant to Jewish culture and history."
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/LATI-ug.html",
+      "sha256": "3e9bbac26ad2028e7f61523040326b7dc11f99d06356f45f95535a82a1f86eae",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/LATI-ug.html",
+      "locator": "main#main-content heading[12] Lower-Division Requirements; main#main-content heading[13] Upper-Division Requirements"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/LING-ug.html",
+      "sha256": "d5d8fcd62787c9119164f42260394c7ed4775acd233e01f0d91cf597617e8777",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/LING-ug.html",
+      "locator": "main#main-content heading[33] Language Studies Major; main#main-content heading[35] Lower-division preparation:; main#main-content heading[36] Upper-division requirements:"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/linguistics/index.html",
+      "sha256": "df7dbdc6322507e182965c785d6f7882fb1c56483a1f7968fb87405cc792ca21",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/linguistics.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/LIT-ug.html",
+      "sha256": "e5bacc13c27256e30144553fd51a64f6536998bc03af1620ac709894a692f526",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/LIT-ug.html",
+      "locator": "main#main-content heading[19] World Literature and Culture Major; main#main-content heading[7] The Major in Literature; main#main-content heading[8] Lower-Division Preparation; main#main-content heading[9] Secondary Language and Literature; main#main-content heading[10] Intensive Track Option"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/arts-and-humanities/literature/index.html",
+      "sha256": "6914e5613e239db3af1f9c0a2ebe4e47b8d0fc3822b0cfca6194b50bffd31fb6",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/literature.html",
+      "locator": null
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/scripps-institution-of-oceanography/marine-biology/index.html",
+      "sha256": "c2d6666b8ebdc36b9da564334123eb28eecb748c961776ecd166e5ea72eb979f",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/marine-biology.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/MATH-ug.html",
+      "sha256": "1b45aae0d6a2ca2cdf5f9b4ecec643a690d45b171cc934ab460b7c5790a4dd2e",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/MATH-ug.html",
+      "locator": "main#main-content heading[14] Major in Probability and Statistics (MA35); main#main-content heading[16] Lower Division; main#main-content heading[17] Upper Division"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/physical-sciences/mathematics/index.html",
+      "sha256": "76f9260d79b2ca90b2a97f7dc3320481ab38130bf373ba0d94be6a430e7fa95a",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/mathematics.html",
+      "locator": null
+    },
+    {
+      "url": "https://undergrad.ucsd.edu/academics/selective-major-process/screened-major-guidance.html",
+      "sha256": "541ddd6b9333e20e5e9681e8a9f8b26317b323a9d5706272b10627c92afe110d",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/shared/screened.html",
+      "locator": null
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/scripps-institution-of-oceanography/oceanic-atmospheric-sciences/index.html",
+      "sha256": "a3cbe591fd151ff86b5e59f3746710c6bb424d21cda2833acc28394f1a85ca51",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/oceanic-and-atmospheric-sciences.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/PHIL-ug.html",
+      "sha256": "7fa4ae7048fa05da9c1b402065274a4b4a6a6d4ed3ee64707988c987d407cd80",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/PHIL-ug.html",
+      "locator": "main#main-content heading[4] Undergraduate Program—Major; main#main-content heading[5] Core Requirements for the Major; main#main-content heading[6] Optional Areas of Emphasis in the Major"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/arts-and-humanities/philosophy/index.html",
+      "sha256": "0f6842922051666320303ff9dc493c4ea61fe5961b632a2418f8212ac3b3f7ea",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/philosophy.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/PHYS-ug.html",
+      "sha256": "0ea02ec52c52fe67aa23239fe972e2d051dc2fea1996fc28ddb3642c1efde03a",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/PHYS-ug.html",
+      "locator": "main#main-content heading[5] BS, Physics (PY29); main#main-content heading[6] Unit Requirements for the Major; main#main-content heading[7] Major Summary; main#main-content heading[11] Core; main#main-content heading[12] Lab; main#main-content heading[13] Restricted Electives; main#main-content heading[4] General Major/Program Requirements"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/physical-sciences/physics/index.html",
+      "sha256": "a23adc6e567fd2103293d3f87cb21b76d5797a69b5efac46cee99a24fc900279",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/physics.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/POLI-ug.html",
+      "sha256": "0071dab14481714e1e1479c83ebfd4d75c23bdd105d523c3fb2c118dce205a1d",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/POLI-ug.html",
+      "locator": "main#main-content heading[13] Major in Political Science/Race, Ethnicity, and Politics, BA; main#main-content heading[2] The Major Program; main#main-content heading[13] Major in Political Science/Race, Ethnicity, and Politics, BA"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/political-science/index.html",
+      "sha256": "d25fe82bc04efbf3c0f762db286821226e56b111bacc0ad10ce29eff9f6da2c1",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/political-science.html",
+      "locator": null
+    },
+    {
+      "url": "https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/bs_degree_2018.html",
+      "sha256": "1d5178927455046c18e93e2c1519263a7d1aff7abdfa313a926d1df1bf8c820b",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/psych-bs_degree_2018.html",
+      "locator": "h1; pre-Fall2026 warning; Lower-Division; Research; Upper-Division"
+    },
+    {
+      "url": "https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/index.html",
+      "sha256": "228ab6cadb03975b4010647df818d1c172d602f29c2a9b1658cac6510e83af6f",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/psych-pre2026.html",
+      "locator": "Psychology Majors (Pre-Fall 2026); Fall 2018–Summer 2026; MUST use Fall 2026 requirements"
+    },
+    {
+      "url": "https://psychology.ucsd.edu/undergraduate-program/majors/majors-post_fall_2026/clinical_bs_2026.html",
+      "sha256": "6dff78440922027f7ac0d1e0bb394a2e974ed27c02b9f0c9b52974dd325c153e",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/psych-clinical-bs-2026.html",
+      "locator": "main > Lower-Division Requirements / Research Requirements / Upper-Division Requirements"
+    },
+    {
+      "url": "https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/cognitive_2018.html",
+      "sha256": "862e35fb928fd6e7e8960d15952b9e4b316a22e63e883a050ccef434638f5f73",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/psych-cognitive_2018.html",
+      "locator": "h1; overview; Upper-Division Requirements"
+    },
+    {
+      "url": "https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/developmental_2018.html",
+      "sha256": "4503eac3b4b7e1d5ac4b43bb97f7d1f23c97b5aa4affa3aa307cd2b481d0f932",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/psych-developmental_2018.html",
+      "locator": "h1; overview; Upper-Division Requirements"
+    },
+    {
+      "url": "https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/human_health_2018.html",
+      "sha256": "45209c6b16782d5827591d305a13bd30a11e1b62da3a804e3384d171673163da",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/psych-human_health_2018.html",
+      "locator": "h1; overview; Upper-Division Requirements"
+    },
+    {
+      "url": "https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/sensation_perception_2018.html",
+      "sha256": "46b3866c0056b9b5fe4b1cd61b63fcf2711ab6bd72df3318c6fa00622bbef643",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/psych-sensation_perception_2018.html",
+      "locator": "h1; overview; Upper-Division Requirements"
+    },
+    {
+      "url": "https://psychology.ucsd.edu/undergraduate-program/majors/majors-pre_fall_2026/social_2018.html",
+      "sha256": "77e20d69fbd126bd7dc163d08757abd58c95b51145f06b0911a6f1ac6c6f13ba",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/agent-raw/psych-social_2018.html",
+      "locator": "h1; overview; Upper-Division Requirements"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/PH-ug.html",
+      "sha256": "c3ce0fed32916bf886f572a196ff95d1e28d59416cc7f8e4299b304937c963aa",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/PH-ug.html",
+      "locator": "main#main-content heading[28] Lower-Division Requirements (sixty-eight or sixty-nine units); main#main-content heading[29] Upper-Division Requirements (forty-eight units); main#main-content heading[4] Entry into the Public Health Major; main#main-content heading[5] Additional Requirements for all BSPH Majors; main#main-content heading[10] Upper-Division Requirements (forty-eight units)"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/public-health/public-health/index.html",
+      "sha256": "e6c8cf6ac4989cee862cc7f39d9464a6a00dd74a18f0e334d203bda5589fcd15",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/public-health.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/USP.html",
+      "sha256": "87312f85c3aa78a3ceeda957a877a63c49943a7ba2e2f22ab7d3cf6cb86784fa",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/USP.html",
+      "locator": "main#main-content heading[3] The Urban Studies and Planning Major; main#main-content heading[4] Lower-Division Requirements; main#main-content heading[5] Upper-Division Requirements; main#main-content heading[6] Foundation Courses; main#main-content heading[7] Research Methods Courses; main#main-content heading[8] Technical Elective Courses; main#main-content heading[9] Senior Sequence Requirement"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/urban-studies-and-planning/index.html",
+      "sha256": "4316a7da494995f16a7a9a64155f86100340590ab76f71f3c82568e43677b995",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/urban-studies-and-planning.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/RUSS.html",
+      "sha256": "334648e32f4e45cea269cd0d5422740c92c30a2fe61d5001de5ca4516af5a18d",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/RUSS.html",
+      "locator": "main#main-content heading[2] The Major"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/SOC-ug.html",
+      "sha256": "a11912277cd63125ca47f2b5ff745e94b75ad5b2671b3fc3a7300393ace79b6c",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/SOC-ug.html",
+      "locator": "main#main-content heading[4] The Major; main#main-content heading[5] Lower Division; main#main-content heading[6] Upper Division; main#main-content heading[8] Requirements for Major Concentrations; main#main-content heading[13] Concentration in Social Inequality"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/social-sciences/sociology/index.html",
+      "sha256": "6d40868f0ee537b568f7b93a9a7801a244fd5d5b9f7ab03a7b821fc0e05a9d36",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/sociology.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/SE-ug.html",
+      "sha256": "30206698a013cb87bacd91a80d0032938ac44e4cb83b87309baea109199849da",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/SE-ug.html",
+      "locator": "main#main-content heading[5] Major Requirements; main#main-content heading[12] BS Structural Engineering Outcomes; main#main-content heading[16] SHM/NDE Focus Sequence Courses; main#main-content heading[19] Structural Health Monitoring/Non-Destructive Evaluation (SHM/NDE) Capstone Courses"
+    },
+    {
+      "url": "https://majors.ucsd.edu/academic-schools/engineering/structural/index.html",
+      "sha256": "8adcf2c61f6ab5986c72c312dfe92b488ac9040603df52144fe58735289c3f81",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/major-guides/structural-engineering.html",
+      "locator": null
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/RELI.html",
+      "sha256": "7ed805d00600b8e1d4e0f71dff2f8b6bd21323cd94c641c4a04949017d5af378",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/RELI.html",
+      "locator": "main#main-content heading[3] Major"
+    },
+    {
+      "url": "https://rady.ucsd.edu/programs/undergraduate/majors/business-data-science.html",
+      "sha256": "4c9f98fb24161043d5a7175e842fd086dcc923d7aebc6f7b8b2eef57d11e8b02",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/shared/business-data-science.html",
+      "locator": "h1; DSC-BS-002; Major Requirements; Declaring the Major"
+    },
+    {
+      "url": "https://catalog.ucsd.edu/curric/MGT-ug.html",
+      "sha256": "019f9f6bd922c0df82f84612eb2c15d49cf4afefe6f040bd8553eb0e3e312465",
+      "raw_file": "scratch/full-catalog/ucsd-enrichment/raw/MGT-ug.html",
+      "locator": "main#main-content heading[20] The Business Data Science Major (BS); main#main-content heading[21] Lower Division; main#main-content heading[22] Upper Division"
     }
   ]
 }
